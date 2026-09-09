@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09n",
+  "version": "2026-09-09o",
   "marcas": [
     {
       "key": "larocheposay",
@@ -292,6 +292,33 @@
             "3337875952866"
           ],
           "inci": "Aqua/Water, Propanediol, Glycerin, Niacinamide, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Dimethicone, Petrolatum, Polyacrylate Crosspolymer-6, Hydrogenated Lecithin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Behentrimonium Methosulfate, Triethyl Citrate, Caffeine, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Lactate, Cholesterol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Butylene Glycol, Polysorbate 20, Benzoic Acid"
+        },
+        {
+          "nombre": "Loción Hidratante de Rostro SPF 50 (Facial Moisturising Lotion SPF 50)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875814652"
+          ],
+          "inci": "Aqua/Water, Glycerin, Isopropyl Palmitate, Ethylhexyl Salicylate, Niacinamide, Pentylene Glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Zea Mays Starch/Corn Starch, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Diisopropyl Sebacate, Oryza Sativa Cera/Rice Bran Wax, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Cetearyl Alcohol, Triethanolamine, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Myristic Acid, Cholesterol, Palmitic Acid, Tocopherol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate"
+        },
+        {
+          "nombre": "Espuma Limpiadora Equilibrante (Balancing Foam Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875925334"
+          ],
+          "inci": "Aqua/Water, Glycerin, Sodium Chloride, Glycolipids, Disodium Cocoyl Glutamate, Sodium Methyl Cocoyl Taurate, Niacinamide, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Cocoyl Glutamate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Coco-Betaine, Coconut Acid, Caprylyl Glycol, Citric Acid, Phytosphingosine, Xanthan Gum, Polyepsilon-Lysine, Benzoic Acid"
+        },
+        {
+          "nombre": "Gel Control Imperfecciones (Blemish Control Gel)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875782357"
+          ],
+          "inci": "Aqua/Water, Glycerin, Sodium Hydroxide, Glycolic Acid, Lactic Acid, Salicylic Acid, Niacinamide, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Chlorphenesin, Disodium EDTA, Hydroxypropyl Guar, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Benzoic Acid"
         }
       ]
     },
