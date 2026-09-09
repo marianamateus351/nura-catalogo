@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ad",
+  "version": "2026-09-09ae",
   "marcas": [
     {
       "key": "larocheposay",
@@ -711,6 +711,15 @@
             "8470001757104"
           ],
           "inci": "Aqua/Water, Sodium Laureth Sulfate, Decyl Glucoside, Cocamide DEA, Sodium Cocoamphoacetate, Phenoxyethanol, Hexylene Glycol, Parfum/Fragrance, PEG-120 Methyl Glucose Dioleate, Polyquaternium-10, Citric Acid, Sodium Benzoate, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Silicone Quaternium-22, Glycerin, Pyridoxine HCl, PPG-3 Myristyl Ether, Coco-Glucoside, Glyceryl Oleate, Serenoa Serrulata Fruit Extract, Potassium Sorbate, Zinc PCA, Arginine, Acetyl Tyrosine, PEG-12 Dimethicone, Calcium Pantothenate, Zinc Gluconate, Sodium Acetate, Sodium Chloride, Niacinamide, Ornithine HCl, Isopropyl Alcohol, Polyquaternium-11, Citrulline, Hydrolyzed Soy Protein, Glucosamine HCl, Disodium Succinate, Arctium Majus Root Extract, Panax Ginseng Root Extract, Tocopherol, Biotin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hydrogenated Palm Glycerides Citrate"
+        },
+        {
+          "nombre": "ISDIN Reparador Labial Stick",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8470001901200"
+          ],
+          "inci": "Paraffin, Paraffinum Liquidum/Mineral Oil, Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, C12-15 Alkyl Benzoate, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, C30-45 Alkyl Methicone, C30-45 Olefin, Polyisobutene, Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, Parfum/Fragrance, Tocopheryl Acetate, Punica Granatum Fruit Extract, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Pentylene Glycol, Sodium Hyaluronate"
         }
       ]
     }
