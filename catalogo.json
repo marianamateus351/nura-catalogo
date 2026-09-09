@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09aa",
+  "version": "2026-09-09ab",
   "marcas": [
     {
       "key": "larocheposay",
@@ -594,7 +594,35 @@
     {
       "key": "isdin",
       "nombre": "ISDIN",
-      "productos": []
+      "productos": [
+        {
+          "nombre": "Foto Ultra 100 ISDIN Active Unify Fusion Fluid SPF 50+",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8470001710529"
+          ],
+          "inci": "Aqua/Water, Dibutyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isododecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Sebacate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Caprylic/Capric Triglyceride, Glycerin, Niacinamide, C12-15 Alkyl Benzoate, Titanium Dioxide (Nano), Titanium Dioxide, Polyglyceryl-6 Polyhydroxystearate, Maltodextrin, Polyglyceryl-6 Polyricinoleate, 1,2-Hexanediol, Sodium Chloride, Dimethicone, Sucrose Dilaurate, Stearalkonium Hectorite, Hydroxyacetophenone, Polyglyceryl-2 Dipolyhydroxystearate, Tocopheryl Acetate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Sclareolide, Diethylhexyl Syringylidenemalonate, Sodium Cocoyl Glutamate, Sorbitan Laurate, Ethylhexylglycerin, C18-36 Acid Glycol Ester, C18-36 Acid Triglyceride, Pisum Sativum Extract"
+        },
+        {
+          "nombre": "FotoUltra ISDIN Redness Fusion Fluid SPF 50",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8429420245297"
+          ],
+          "inci": "Aqua/Water, Propylene Glycol Dicaprylate/Dicaprate, Coco-Caprylate/Caprate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), C15-19 Alkane, Potassium Azeloyl Diglycinate, Alpha-Glucan Oligosaccharide, Pentylene Glycol, Polyglyceryl-6 Stearate, 1,2-Hexanediol, Caprylyl Glycol, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Polysorbate 60, Decyl Glucoside, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hesperidin Methyl Chalcone, Sphingomonas Ferment Extract, CI 77891/Titanium Dioxide, Tetrasodium Glutamate Diacetate, Citric Acid, Polyglyceryl-6 Behenate, Mica, Propylene Glycol, Acrylates/Beheneth-25 Methacrylate Copolymer, Xanthan Gum, Tin Oxide, Tocopherol"
+        },
+        {
+          "nombre": "Fotoprotector ISDIN Transparent Spray Wet Skin SPF 50",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8429420187948"
+          ],
+          "inci": "Alcohol Denat., Isobutane, Dicaprylyl Ether, Propylene Glycol Dicaprylate/Dicaprate, Octocrylene, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Acrylates/Octylacrylamide Copolymer, Butane, Propane, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Zingiber Officinale (Ginger) Root Extract, Tocopheryl Acetate, Benzotriazolyl Dodecyl P-Cresol, Tocopherol, Citral"
+        }
+      ]
     }
   ]
 }
