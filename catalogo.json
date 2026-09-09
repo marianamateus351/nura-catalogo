@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09s",
+  "version": "2026-09-09t",
   "marcas": [
     {
       "key": "larocheposay",
@@ -87,6 +87,24 @@
             "3337875537308"
           ],
           "inci": "Aqua/Water, Glycerin, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Polysorbate 20, Citric Acid, PEG-7 Glyceryl Cocoate, Niacinamide, Acrylates Copolymer, Butyrospermum Parkii Butter/Shea Butter, Cocamide MEA, Disodium EDTA, Glycol Distearate, Mannose, Polyquaternium-11, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Vitreoscilla Ferment"
+        },
+        {
+          "nombre": "Cicaplast Manos",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875766326"
+          ],
+          "inci": "Aqua/Water, Glycerin, Butylene Glycol, Cetearyl Alcohol, Niacinamide, Glyceryl Stearate, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, PEG/PPG-18/18 Dimethicone, Glyceryl Stearate SE, Sodium Polyacrylate, Caprylyl Glycol, Phenoxyethanol"
+        },
+        {
+          "nombre": "Toleriane Dermallergo Fluido",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875757669"
+          ],
+          "inci": "Aqua/Water, Glycerin, Butylene Glycol, Propanediol, Butyrospermum Parkii Butter/Shea Butter, Pentylene Glycol, Squalane, Polysorbate 20, Zea Mays Starch/Corn Starch, Salvia Miltiorrhiza Root Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Sphingomonas Ferment Extract, Ammonium Polyacryloyldimethyl Taurate, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester"
         }
       ]
     },
