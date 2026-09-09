@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09r",
+  "version": "2026-09-09s",
   "marcas": [
     {
       "key": "larocheposay",
@@ -67,6 +67,26 @@
             "3337875757614"
           ],
           "inci": "Aqua/Water, Isocetyl Stearate, Squalane, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, Glycerin, Zea Mays Starch/Corn Starch, Pentylene Glycol, Butylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Cetyl Alcohol, Salvia Miltiorrhiza Root Extract, Dimethiconol, Sodium Hydroxide, Sphingomonas Ferment Extract, Caprylyl Glycol, Citric Acid, Acetyl Dipeptide-1 Cetyl Ester, Acrylates/C10-30 Alkyl Acrylate Crosspolymer"
+        },
+        {
+          "nombre": "Lipikar Baume AP+M",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875696548",
+            "3337875763790",
+            "3337875930338"
+          ],
+          "inci": "Aqua/Water, Butyrospermum Parkii Butter/Shea Butter, Glycerin, Dimethicone, Niacinamide, Paraffinum Liquidum/Mineral Oil, Cetearyl Alcohol, Brassica Campestris Oleifera Oil/Rapeseed Seed Oil, Ammonium Polyacryloyldimethyl Taurate, PEG-100 Stearate, Glyceryl Stearate, PEG-20 Methyl Glucose Sesquistearate, Cera Microcristallina/Microcrystalline Wax, Paraffin, Sorbitan Tristearate, Dimethiconol, Mannose, Disodium EDTA, Capryloyl Glycine, Vitreoscilla Ferment, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Benzoate"
+        },
+        {
+          "nombre": "Lipikar Syndet AP+ Crema de Ducha",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875537308"
+          ],
+          "inci": "Aqua/Water, Glycerin, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Polysorbate 20, Citric Acid, PEG-7 Glyceryl Cocoate, Niacinamide, Acrylates Copolymer, Butyrospermum Parkii Butter/Shea Butter, Cocamide MEA, Disodium EDTA, Glycol Distearate, Mannose, Polyquaternium-11, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Vitreoscilla Ferment"
         }
       ]
     },
