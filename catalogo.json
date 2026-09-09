@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09y",
+  "version": "2026-09-09z",
   "marcas": [
     {
       "key": "larocheposay",
@@ -154,14 +154,18 @@
           "nombre": "Anthelios UVMune 400 Crema Hidratante SPF50+ Sin Perfume",
           "include": [],
           "exclude": [],
-          "barcodes": [],
+          "barcodes": [
+            "3337875797719"
+          ],
           "inci": "Aqua/Water, Diisopropyl Sebacate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, PEG-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate"
         },
         {
           "nombre": "Anthelios Spray Invisible SPF50+ 200 ml",
           "include": [],
           "exclude": [],
-          "barcodes": [],
+          "barcodes": [
+            "3337872420085"
+          ],
           "inci": "Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Alcohol Denat., Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Isopropyl Palmitate, Diisopropyl Adipate, Glycerin, Propanediol, Isopropyl Myristate, Diisopropyl Sebacate, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Dicaprylyl Ether, Tocopherol, Pentylene Glycol, Butyrospermum Parkii Butter/Shea Butter, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyacetophenone, Phenylbenzimidazole Sulfonic Acid, Sodium Polyacrylate, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance"
         }
       ]
