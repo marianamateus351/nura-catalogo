@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09av",
+  "version": "2026-09-09aw",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1206,6 +1206,33 @@
             "4005800310102"
           ],
           "inci": "Aqua/Water, Alcohol Denat., Butylene Glycol, Glycerin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Sodium Ascorbyl Phosphate, Citric Acid, BHT, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Sun After Sun Sensitive Relief Gel-Crema",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800281891"
+          ],
+          "inci": "Aqua/Water, Glycerin, Alcohol Denat., Butylene Glycol, Tapioca Starch, C12-15 Alkyl Benzoate, Glycine, Sodium Citrate, Cyclomethicone, Caprylic/Capric Triglyceride, Octyldodecanol, Dicaprylyl Ether, Citric Acid, Xanthan Gum, Glucosylrutin, Isoquercitrin, Glycyrrhiza Inflata Root Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Ethylhexylglycerin, Benzoic Acid"
+        },
+        {
+          "nombre": "DermatoCLEAN [Hyaluron] Agua Micelar 3 en 1",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005808583775"
+          ],
+          "inci": "Aqua/Water, Poloxamer 124, Glyceryl Glucoside, Glycerin, Sodium Hyaluronate, Decyl Glucoside, Arginine HCl, Sodium Cocoamphoacetate, Trisodium EDTA, Sodium Chloride, 1,2-Hexanediol, Phenoxyethanol"
+        },
+        {
+          "nombre": "pH5 Gel de Ducha Soft Shower",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005900662736"
+          ],
+          "inci": "Aqua/Water, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Citric Acid, Sodium Chloride, Methylpropanediol, Panthenol, Sodium Citrate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Polyquaternium-10, Sodium Benzoate, Parfum/Fragrance"
         }
       ]
     },
