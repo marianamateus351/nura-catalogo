@@ -28,6 +28,8 @@ Mismo contenido, formato JS de una línea por producto.
 7. Commits con el trailer de atribución de Claude Code. Subir siempre a los dos repos.
 
 ## Flujo para obtener códigos
+- **Primero, la web de la marca** (ver la tabla de más abajo): da EAN e INCI a la vez y cubre
+  el catálogo entero, esté o no en Open*Facts.
 - La app (build 88+) tiene "Copiar lista" tras importar: da `código | nombre OF | estado | foto`.
 - Con internet abierto se puede consultar Open*Facts directamente:
   `https://world.openbeautyfacts.org/cgi/search.pl?search_terms=<marca>&page_size=100&json=1&fields=code,product_name,brands,image_front_small_url`
@@ -62,12 +64,17 @@ oficial ya recogido, pero vichy.es solo publica el SKU interno `30065949`; falta
   Invisible Hidratante → 3337875945738 · AM Lightweight SPF50 → 3606000612655 ·
   Solar mineral → 3606000514959 · Limpiador Vitamina C → 3337875952804 ·
   Champú Hidratante Suave → 3606000607019 · SA Loción → 3606000537712 · Eye Repair ok ya.
-### La Roche-Posay (laroche-posay.es)
-- Lipikar Lait Relipidante 48h → 3337875552097, 3337875552127, 3337875549615
-- Cicaplast B5 Gel Lavante → 3337875548519 · Agua Micelar Ultra → 3337872411595, 3337872420696
-- Anthelios UVMune 400 Oil Control Fluido SPF50+ → ya tiene INCI, FALTA CÓDIGO
-- Anthelios UVAIR sérum → 3337875932349, 3337875932417 · Bruma anti-brillos → 3337875549530
-- Effaclar H Iso-Biome (fórmula actual; 3337875398961 es el antiguo)
+### La Roche-Posay (laroche-posay.es) — CERRADA (2026-09-09)
+Curada al completo desde el sitemap: 125 productos y 160 códigos. Resueltos todos los
+pendientes que había, incluido el que no tenía código:
+- Anthelios UVMune 400 Oil Control Fluido SPF50+ → **3337875847292**
+- Cicaplast Lavant B5 → 3337872418532 + 3337875548519 · Lipikar Leche Hidratante →
+  3337875552127 + 3337875549608 · Anthelios UVAir Sérum → 3337875932349 (y el de color,
+  3337875932301/3337875932264) · Bruma anti-brillos → 3337875549530
+- Effaclar H Iso-Biome: la ficha actual es 3337875777797 (el antiguo queda fuera).
+Quedan 5 entradas antiguas aparte porque su fórmula ya no coincide con ninguna ficha viva
+(Toleriane Sensitive Crème, Hyalu B5 Serum, Toleriane Dermallergo Fluido y Contorno de Ojos,
+Cicaplast Labios). "Cicaplast Labios" sigue con el SKU interno 30106659, sin EAN-13.
 ### SkinCeuticals
 - 10 productos sin código en el catálogo (C E Ferulic, Silymarin, Triple Lipid, AGE Advanced,
   Blemish+Age, Discoloration, Serum 10, Retinol 0.5, Metacell, Glycolic 10): buscar sus EAN
@@ -93,17 +100,36 @@ oficial ya recogido, pero vichy.es solo publica el SKU interno `30065949`; falta
 ### Marcas creadas y vacías (siguiente)
 - Sesderma, Nivea, Garnier: sacar la lista de códigos (app "Copiar lista" o Open*Facts) y curar.
 
-## Truco: sacar una marca entera de su web oficial
-Las webs de L'Oréal (vichy.es, laroche-posay.es, cerave.es, skinceuticals.es) publican en el
-sitemap todas las fichas, y cada ficha lleva el INCI completo dentro del bloque
-`<details class="product-composition">` y el EAN en el atributo de tagging
-(`"product_info": "<nombre>::<EAN>"`); los tonos van en `v-vch-variant-selector="{ean: ...}"`.
-Con eso se saca la marca completa sin depender de que Open*Facts tenga el producto.
-Ojo: alguna ficha usa `/` como separador de ingredientes en vez de `•` o `-`, y alguna trae
-delante el código de lote o detrás un `FIL code`.
+## Fuente principal: la web oficial de cada marca (comprobado 2026-09-09)
+Casi todas publican la ficha con EAN + INCI completo, así que **la web de marca manda** y ya
+no dependemos de que el producto esté en Open*Facts: se recorre el catálogo entero de la marca
+y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y como respaldo.
+
+| Marca | Sitemap | EAN en la web | INCI en la web | Cómo se saca |
+|---|---|---|---|---|
+| Vichy | sí | sí | sí | `product-composition` + `"product_info":"<nombre>::<EAN>"`; tonos en `v-vch-variant-selector` |
+| La Roche-Posay | sí | sí | sí | `product-ean` y `:upc-list` (varios tamaños); INCI en el atributo `other-ingredient`; nombre en la miga de pan |
+| CeraVe | sí | sí | sí | mismo grupo, marcado propio (`product-details`) |
+| Garnier | sí (`/sitemap.xml`) | sí | sí | fichas en `/marcas/<gama>/<subgama>/<slug>`; INCI tras `INGREDIENTS:` |
+| Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
+| Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
+| Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| ISDIN | sí (310 fichas) | **no** | sí | INCI sí, pero no publica EAN: los códigos hay que sacarlos de Open*Facts |
+| Bioderma | sí (108 fichas) | no | no | ficha renderizada por JavaScript; el HTML servido no trae ni INCI ni EAN |
+| Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
+| SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
+
+Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta Open*Facts + farmacias
+(o renderizar la página con un navegador headless).
+
+Ojo con los detalles del HTML: alguna ficha usa `/` como separador de ingredientes en vez de
+`•` o `-`, alguna trae delante el código de lote y detrás un `FIL code`, y las webs tienen sus
+erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acrónimos se
+normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-283 códigos en 8 marcas: **Vichy 111** · CeraVe 54 · Avène 30 · Bioderma 29 · LRP 21 ·
+422 códigos en 8 marcas: **LRP 160** · **Vichy 111** · CeraVe 54 · Avène 30 · Bioderma 29 ·
 Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Reglas de Firestore ya permiten al admin crear
-aprobados. Vichy cerrada; siguiente: repaso de las listas cortadas del resto de marcas y
-después Sesderma / Nivea / Garnier.
+aprobados. Cerradas Vichy y La Roche-Posay; siguiente: CeraVe, Garnier, Eucerin, Nivea y
+Avène desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
+Sesderma y SkinCeuticals, que necesitan otra vía.
