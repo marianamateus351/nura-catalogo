@@ -63,12 +63,28 @@ comprobados uno a uno con la foto de Open Beauty Facts:
 Pendiente en Vichy: **Capital Soleil Stick Invisible SPF50+ rostro y zonas sensibles** — INCI
 oficial ya recogido, pero vichy.es solo publica el SKU interno `30065949`; falta el EAN-13.
 
-### CeraVe (cerave.es)
-- Skin Renewing Crema con Péptidos → 3606000537606, 3337875903509 (sobrescribe la "Night Cream")
-- Loción Rostro SPF30 → 3337875840620 · Fluido Invisible SPF50+ Toque Seco → 3337875945622 ·
-  Invisible Hidratante → 3337875945738 · AM Lightweight SPF50 → 3606000612655 ·
-  Solar mineral → 3606000514959 · Limpiador Vitamina C → 3337875952804 ·
-  Champú Hidratante Suave → 3606000607019 · SA Loción → 3606000537712 · Eye Repair ok ya.
+### CeraVe (cerave.es) — CERRADA (2026-09-09)
+Curada desde el sitemap: 35 productos y 73 códigos (antes 22 y 54).
+**Aviso: el `gtin13` de cerave.es no es de fiar.** Copia el mismo código en fichas distintas
+(las 5 recargas comparten uno). El INCI de cada ficha sí es el suyo, así que: se usa el EAN de
+la web solo cuando lo reclama UNA sola ficha, y si no, se recupera el código ya curado
+emparejando **por nombre**. Por INCI no vale: la Crema Hidratante y la Crema de Manos
+Reparadora llevan los mismos ingredientes en otro orden y se confunden.
+Corregido: 3337875597449 es la Facial Moisturising Lotion (confirmado en Open Beauty Facts),
+no el sérum de retinol, donde estaba mal puesto.
+Fuera por la regla 2-bis:
+- **Fluido Protector Invisible Oil Control SPF50+ (3337875945622)**: cerave.es le pone el INCI
+  del Invisible Hidratante; incidecoder confirma que esa lista es la del Hidratante. Hasta que
+  no haya el INCI bueno del Oil Control, no entra.
+- Parches Anti-Granos: en el campo de ingredientes hay texto de marketing, no un INCI.
+- Limpiador Control Imperfecciones y las 4 recargas: sin código fiable (una recarga es otro
+  SKU y no puede heredar el del producto principal).
+Siguen pendientes, no están en cerave.es (parecen no venderse en España): SA Loción
+3606000537712 · Limpiador Vitamina C 3337875952804 · Champú Hidratante Suave 3606000607019 ·
+Solar mineral 3606000514959 · AM Lightweight SPF50 3606000612655 · Night Cream 3606000537606
+(Open*Facts lo da como "Skin Renewing Night Cream", no como la crema de péptidos) ·
+3337875945738 (177 ml: no está claro si es el fluido o la loción invisible hidratante).
+
 ### La Roche-Posay (laroche-posay.es) — CERRADA (2026-09-09)
 Curada al completo desde el sitemap: 125 productos y 160 códigos. Resueltos todos los
 pendientes que había, incluido el que no tenía código:
@@ -135,8 +151,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-422 códigos en 8 marcas: **LRP 160** · **Vichy 111** · CeraVe 54 · Avène 30 · Bioderma 29 ·
-Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Reglas de Firestore ya permiten al admin crear
-aprobados. Cerradas Vichy y La Roche-Posay; siguiente: CeraVe, Garnier, Eucerin, Nivea y
-Avène desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
-Sesderma y SkinCeuticals, que necesitan otra vía.
+443 códigos en 8 marcas: **LRP 160** · **Vichy 111** · **CeraVe 73** · Avène 30 · Bioderma 29 ·
+Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 344 productos está sin INCI.
+Cerradas Vichy, La Roche-Posay y CeraVe; siguiente: Garnier, Eucerin, Nivea y Avène desde su
+web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma, Sesderma y
+SkinCeuticals, que necesitan otra vía.

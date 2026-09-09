@@ -1,5 +1,5 @@
 {
- "version": "2026-09-09d",
+ "version": "2026-09-09e",
  "marcas": [
   {
    "key": "larocheposay",
@@ -860,7 +860,7 @@
      "barcodes": [
       "3337875890069"
      ],
-     "inci": "Aqua/Water/Eau, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, PEG-120 Methyl Glucose Dioleate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Gluconolactone, Ceramide Np, Niacinamide, 2-Mercaptonicotinoyl Glycine, Sodium Thiosulfate, Disodium EDTA, Capryloyl Glycine, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Acrylates Copolymer, Tocopherol, Tocopheryl Acetate, Parfum/Fragrance, F.I.L"
+     "inci": "Aqua/Water/Eau, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, PEG-120 Methyl Glucose Dioleate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Gluconolactone, Ceramide NP, Niacinamide, 2-Mercaptonicotinoyl Glycine, Sodium Thiosulfate, Disodium EDTA, Capryloyl Glycine, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Acrylates Copolymer, Tocopherol, Tocopheryl Acetate, Parfum/Fragrance, F.I.L"
     },
     {
      "nombre": "Mela B3 Ojos",
@@ -991,7 +991,7 @@
       "3337875570404",
       "3337875545778"
      ],
-     "inci": "Aqua/Water, Glycerin, Pentaerythrityl Tetraethylhexanoate, Propylene Glycol, Ammonium Polyacryloyldimethyl Taurate, Polysorbate 60, Ceramide Np, Niacinamide, Sodium Chloride, Coco-Betaine, Disodium EDTA, Caprylyl Glycol, Panthenol, T-Butyl Alcohol, Tocopherol"
+     "inci": "Aqua/Water, Glycerin, Pentaerythrityl Tetraethylhexanoate, Propylene Glycol, Ammonium Polyacryloyldimethyl Taurate, Polysorbate 60, Ceramide NP, Niacinamide, Sodium Chloride, Coco-Betaine, Disodium EDTA, Caprylyl Glycol, Panthenol, T-Butyl Alcohol, Tocopherol"
     },
     {
      "nombre": "Toleriane Dermallergo Contorno de Ojos",
@@ -1045,7 +1045,7 @@
      "barcodes": [
       "3337875545822"
      ],
-     "inci": "Aqua/Water, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Sodium Hydroxide, Citric Acid, Ceramide Np, Niacinamide, Disodium EDTA, Capryloyl Glycine, Caprylyl Glycol, Acrylates Copolymer"
+     "inci": "Aqua/Water, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Sodium Hydroxide, Citric Acid, Ceramide NP, Niacinamide, Disodium EDTA, Capryloyl Glycine, Caprylyl Glycol, Acrylates Copolymer"
     },
     {
      "nombre": "Toleriane Kerium DS Concentrado",
@@ -1171,11 +1171,29 @@
    "nombre": "CeraVe",
    "productos": [
     {
-     "nombre": "Crema Hidratante (Moisturizing Cream)",
+     "nombre": "Agua Micelar Hidratante",
      "include": [],
      "exclude": [],
-     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
      "barcodes": [
+      "3337875597203"
+     ],
+     "inci": "Aqua/Water, Glycerin, Hexylene Glycol, Poloxamer 184, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Niacinamide, Triethyl Citrate, Sodium Lauroyl Lactylate, Cholesterol, Disodium Cocoamphodiacetate, Disodium EDTA, Caprylyl Glycol, Myrtrimonium Bromide, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+    },
+    {
+     "nombre": "Bálsamo Reparador Avanzado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875849326"
+     ],
+     "inci": "Petrolatum, Paraffinum Liquidum/Mineral Oil, Cera Microcristallina/Microcrystalline Wax, Paraffin, Caprylic/Capric Triglyceride, Dimethicone, Aqua/Water, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Tocopheryl Acetate, Tocopherol, Caprylyl Glycol, Synthetic Wax, Panthenol, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+    },
+    {
+     "nombre": "Crema Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000537729",
       "3337875597227",
       "3337875597388",
       "3606000537439",
@@ -1185,98 +1203,82 @@
       "3606000537422",
       "3606000537972",
       "3606000537323"
-     ]
-    },
-    {
-     "nombre": "Loción Hidratante (Moisturizing Lotion)",
-     "include": [],
-     "exclude": [],
-     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin",
-     "barcodes": [
-      "3337875597395",
-      "3337875597210",
-      "3337875598750",
-      "3606000537514",
-      "3606000534797",
-      "3606000560239",
-      "3337875905633"
-     ]
-    },
-    {
-     "nombre": "Gel Limpiador Hidratante (Hydrating Cleanser)",
-     "include": [],
-     "exclude": [],
-     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin",
-     "barcodes": [
-      "3337875597180",
-      "3337875597333",
-      "3606000537675",
-      "3606000537576",
-      "3337875905602"
-     ]
-    },
-    {
-     "nombre": "PM Facial Moisturizing Lotion",
-     "include": [],
-     "exclude": [],
-     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Cetearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Ceteareth-20, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin",
-     "barcodes": [
-      "3606000537453",
-      "3337875597449"
-     ]
-    },
-    {
-     "nombre": "Loción Hidratante Intensiva (Intensive Moisturising Lotion)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3606000620865",
-      "3337875904285"
      ],
-     "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Isopropyl Palmitate, Propanediol, Cetearyl Alcohol, Octyldodecanol, C15-19 Alkane, Glycine, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Tristearate, Sorbitan Oleate, Carbomer, Glyceryl Stearate, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Isohexadecane, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hydroxide, Myristic Acid, Sodium Hyaluronate, Cholesterol, Palmitic Acid, Alanine, Tocopherol, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 80, Benzoic Acid, PEG-100 Stearate, PEG-20 Methyl Glucose Sesquistearate"
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
     },
     {
-     "nombre": "Crema Hidratante Intensiva (Intensive Moisturising Cream)",
+     "nombre": "Crema Hidratante Intensiva",
      "include": [],
      "exclude": [],
      "barcodes": [
+      "3337875923903",
       "3337875923897"
      ],
-     "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Propanediol, Isopropyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Myristyl Myristate, Glyceryl Stearate, Glycine, PEG-100 Stearate, Steareth-20, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Polyacrylate, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Alanine, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Benzoic Acid"
+     "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Propanediol, Isopropyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Myristyl Myristate, Glyceryl Stearate, Glycine, PEG-100 Stearate, Steareth-20, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Polyacrylate, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Alanine, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Benzoic Acid (F.I.L. Z70062128/1)"
     },
     {
-     "nombre": "Limpiador Espumoso en Crema Hidratante (Hydrating Cream-to-Foam Cleanser)",
+     "nombre": "Crema Reafirmante Contorno de Ojos Skin Renewing",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3606000577213",
-      "3337875743563",
-      "3606000559950"
+      "3606000619838"
      ],
-     "inci": "Aqua/Water, Glycerin, Sodium Methyl Cocoyl Taurate, Coco-Betaine, Sodium Cocoyl Isethionate, Sodium Chloride, PCA, PPG-5-Ceteth-20, PEG-100 Stearate, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, PEG-30 Dipolyhydroxystearate, CI 77891/Titanium Dioxide, Aspartic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Isostearate, Carbomer, Glycol Distearate, Glyceryl Stearate, Glyceryl Oleate, Glycine, Trideceth-6, Cetearyl Alcohol, Behentrimonium Methosulfate, Threonine, Sodium Hydroxide, Salicylic Acid, Sodium PCA, Sodium Lactate, Arginine, Sodium Lauroyl Lactylate, Serine, Sodium Benzoate, Valine, Sodium Hyaluronate, Proline, Isoleucine, Cholesterol, Phenoxyethanol, Alanine, Phenylalanine, Coconut Acid, Coco-Glucoside, Chlorphenesin, Disodium EDTA, Hydroxyethyl Urea, Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Histidine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer"
+     "inci": "Aqua/Water/Eau, Propanediol, Glycerin, Niacinamide, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Dimethicone, Petrolatum, Polyacrylate Crosspolymer-6, Hydrogenated Lecithin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Behentrimonium Methosulfate, Triethyl Citrate, Caffeine, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Lactate, Cholesterol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Butylene Glycol, Polysorbate 20, Benzoic Acid (F.I.L. N293512/1)"
     },
     {
-     "nombre": "Aceite Limpiador Espumoso Hidratante (Hydrating Foaming Oil Cleanser)",
+     "nombre": "Crema Reafirmante Contorno de Ojos Skin Renewing (Skin Renewing Eye Cream)",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875773430",
-      "3337875773447"
+      "3337875952866"
      ],
-     "inci": "Aqua/Water, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Disodium Cocoyl Glutamate, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, PEG-7 Glyceryl Cocoate, PEG-150 Pentaerythrityl Tetrastearate, PPG-5-Ceteth-20, PEG-6 Caprylic/Capric Glycerides, Squalane, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Chloride, Sodium Hydroxide, Sodium Cocoyl Glutamate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Citric Acid, Capryloyl Glycine, Hydroxyacetophenone, Caprylyl Glycol, Caprylic/Capric Triglyceride, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+     "inci": "Aqua/Water, Propanediol, Glycerin, Niacinamide, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Dimethicone, Petrolatum, Polyacrylate Crosspolymer-6, Hydrogenated Lecithin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Behentrimonium Methosulfate, Triethyl Citrate, Caffeine, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Lactate, Cholesterol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Butylene Glycol, Polysorbate 20, Benzoic Acid"
     },
     {
-     "nombre": "Gel Limpiador Espumoso (Foaming Cleanser)",
+     "nombre": "Crema Reparadora Contorno de Ojos",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875597357",
-      "3337875597197",
-      "3337875905596",
-      "3606000537194",
-      "3606000534957"
+      "3606000537613"
      ],
-     "inci": "Aqua/Water, Cocamidopropyl Hydroxysultaine, Glycerin, Sodium Lauroyl Sarcosinate, Propanediol, PEG-150 Pentaerythrityl Tetrastearate, Niacinamide, PEG-6 Caprylic/Capric Glycerides, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Methyl Cocoyl Taurate, Sodium Benzoate, Sodium Chloride, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Citric Acid, Tetrasodium EDTA, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Niacinamide, Cetyl Alcohol, Caprylic/Capric Triglyceride, Glycerin, Propanediol, Sononyl Isononanoate, Jojoba Esters, PEG-20 Methyl Glucose Sesquistearate, Cetearyl Alcohol, Dimethicone, Methyl Glucose Sesquistearate, Phenoxyethanol, Sorbitol, Behentrimonium Methosulfate, Carbomer, Laureth-4, Triethanolamine, Tocopherol, Butylene Glycol, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Hydrogenated Vegetable Oil, Ethylhexylglycerin, Tetrasodium EDTA, Sodium Lauroyl Lactylate, Sodium Hydroxide, Zinc Citrate, Asparagopsis Armata Extract, Equisetum Arvense Extract, Maltodextrin, Aloe Barbadensis Leaf Extract, Ascophyllum Nodosum Extract, Chrysanthellum Indicum Extract, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Potassium Sorbate, Sodium Hyaluronate, Ceramide EOP"
+    },
+    {
+     "nombre": "Crema Reparadora de Manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875597319",
+      "3337875763967"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Behentrimonium Methosulfate, Carbomer, Ceramide AP, Ceramide EOP, Ceramide NP, Cholesterol, Dimethicone, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Phytosphingosine, Potassium Phosphate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Tocopherol, Xanthan Gum"
+    },
+    {
+     "nombre": "Espuma Limpiadora Equilibrante (Balancing Foam Cleanser)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875925334"
+     ],
+     "inci": "Aqua/Water, Glycerin, Sodium Chloride, Glycolipids, Disodium Cocoyl Glutamate, Sodium Methyl Cocoyl Taurate, Niacinamide, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Cocoyl Glutamate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Coco-Betaine, Coconut Acid, Caprylyl Glycol, Citric Acid, Phytosphingosine, Xanthan Gum, Polyepsilon-Lysine, Benzoic Acid"
+    },
+    {
+     "nombre": "Fluido Protector Invisible Hidratante SPF50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875945660"
+     ],
+     "inci": "Aqua/Water, Dicaprylyl Carbonate, Ethylhexyl Triazone, Dimethicone, Glycerin, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano]/Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopherol, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Isostearate, Carbomer, Cetearyl Glucoside, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Sodium Lauroyl Lactylate, Cellulose, Inulin Lauryl Carbamate, Cholesterol, Phenoxyethanol, Lauroyl Lysine, Hydroxyacetophenone, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Butylene Glycol, Polyglyceryl-10 Laurate, Polysorbate 60, Benzoic Acid"
+    },
+    {
+     "nombre": "Gel Control Imperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875782357"
+     ],
+     "inci": "Water, Glycerin, Sodium Hydroxide, Glycolic Acid, Lactic Acid, Salicylic Acid, Niacinamide, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Chlorphenesin, Disodium EDTA, Hydroxypropyl Guar, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Benzoic Acid"
     },
     {
      "nombre": "Gel Limpiador Anti-Imperfecciones (Blemish Control Cleanser)",
@@ -1290,115 +1292,236 @@
      "inci": "Aqua/Water, Cocamidopropyl Hydroxysultaine, Glycerin, Sodium Lauroyl Sarcosinate, Niacinamide, Salicylic Acid, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Gluconolactone, Sodium Cocoyl Isethionate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Triethyl Citrate, Sodium Hydroxide, Sodium Benzoate, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Coconut Acid, Tetrasodium EDTA, Caprylyl Glycol, Hydrolyzed Hyaluronic Acid, Trisodium Ethylenediamine Disuccinate, Hectorite, Phytosphingosine, Xanthan Gum, Acrylates Copolymer, Benzoic Acid"
     },
     {
-     "nombre": "Bálsamo Reparador Avanzado (Advanced Repair Balm)",
+     "nombre": "Gel Limpiador Espumoso",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875849326"
+      "3606000537750",
+      "3337875597357",
+      "3337875597197",
+      "3337875905596",
+      "3606000537194",
+      "3606000534957"
      ],
-     "inci": "Petrolatum, Paraffinum Liquidum/Mineral Oil, Cera Microcristallina/Microcrystalline Wax, Paraffin, Caprylic/Capric Triglyceride, Dimethicone, Aqua/Water, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Tocopheryl Acetate, Tocopherol, Caprylyl Glycol, Synthetic Wax, Panthenol, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+     "inci": "Aqua/Water, Cocamidopropyl Hydroxysultaine, Glycerin, Sodium Lauroyl Sarcosinate, Propanediol, PEG-150 Pentaerythrityl Tetrastearate, Niacinamide, PEG-6 Caprylic/Capric Glycerides, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Methyl Cocoyl Taurate, Sodium Benzoate, Sodium Chloride, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Citric Acid, Tetrasodium EDTA, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
     },
     {
-     "nombre": "Crema de Manos Reparadora (Reparative Hand Cream)",
+     "nombre": "Limpiador Air Foam Reequilibrante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875597319",
-      "3337875763967"
+      "3606000634732"
      ],
-     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Behentrimonium Methosulfate, Carbomer, Ceramide AP, Ceramide EOP, Ceramide NP, Cholesterol, Dimethicone, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Phytosphingosine, Potassium Phosphate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Tocopherol, Xanthan Gum"
+     "inci": "Agua/Water/Eau, Glycerin, Sodium Chloride, Glycolipids, Disodium Cocoyl, Glutamate, Sodium Methyl Cocoyl Taurate, Niacinamide, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Cocoyl Glutamate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Coco-Betaine, Coconut Acid, Caprylyl Glycol, Citric Acid, Phytoesphingosine, Xanthan Gum, Polyepsilon-Lysine, Benzoic Acid"
     },
     {
-     "nombre": "Gel Limpiador Suavizante SA (SA Smoothing Cleanser)",
+     "nombre": "Limpiador Crema-Espuma Hidratante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875795456"
+      "3337875743563",
+      "3606000577213",
+      "3606000559950"
      ],
-     "inci": "Aqua/Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Hydroxysultaine, Glycerin, Niacinamide, Gluconolactone, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Tetrasodium EDTA, Hydrolyzed Hyaluronic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Glycerin, Sodium Methyl Cocoyl Taurate, Coco-Betaine, Sodium Cocoyl Isethionate, Sodium Chloride, PCA, PPG-5-Ceteth-20, PEG-100 Stearate, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, PEG-30 Dipolyhydroxystearate, CI 77891/Titanium Dioxide, Aspartic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Isostearate, Carbomer, Glycol Distearate, Glyceryl Stearate, Glyceryl Oleate, Glycine, Trideceth-6, Cetearyl Alcohol, Behentrimonium Methosulfate, Threonine, Sodium Hydroxide, Salicylic Acid, Sodium PCA, Sodium Lactate, Arginine, Sodium Lauroyl Lactylate, Serine, Sodium Benzoate, Valine, Sodium Hyaluronate, Proline, Isoleucine, Cholesterol, Phenoxyethanol, Alanine, Phenylalanine, Coconut Acid, Coco-Glucoside, Chlorphenesin, Disodium EDTA, Hydroxyethyl Urea, Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Tauratecopolymer, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Histidine, Acrylates/C10-30 Alkyl"
     },
     {
-     "nombre": "Sérum Hidratante Ácido Hialurónico (Hydrating Hyaluronic Acid Serum)",
+     "nombre": "Limpiador en Aceite Espumoso Hidratante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3606000560833"
+      "3337875773447",
+      "3337875773430"
      ],
-     "inci": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Sodium Hyaluronate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Disodium Cocoyl Glutamate, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, PEG-7 Glyceryl Cocoate, PEG-150 Pentaerythrityl Tetrastearate, PPG-5-Ceteth-20, PEG-6 Caprylic/Capric Glycerides, Squalane, Ceramidenp, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Chloride, Sodium Hydroxide, Sodium Cocoyl Glutamate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Citric Acid, Capryloyl Glycine, Hydroxyacetophenone, Caprylyl Glycol, Caprylic/Capric Triglyceride, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, BENZOIC ACID. (Code F.I.L. C273796/1)"
     },
     {
-     "nombre": "Sérum Retinol Anti-Marcas (Resurfacing Retinol Serum)",
+     "nombre": "Limpiadora Hidratante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875829007"
+      "3337875597180",
+      "3337875597333",
+      "3606000537675",
+      "3606000537576",
+      "3337875905602"
      ],
-     "inci": "Aqua/Water, Propanediol, Dimethicone, Cetearyl Ethylhexanoate, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Hydrogenated Lecithin, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Dimethiconol, Lecithin, Sodium Citrate, Retinol, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Alcohol, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Phytosphingosine, Xanthan Gum, Polysorbate 20, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin"
     },
     {
-     "nombre": "Crema Alisadora Anti-Rugosidades SA (SA Smoothing Cream)",
+     "nombre": "Loción Hidratante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875684095",
-      "3606000535114",
-      "3606000537583"
+      "3606000537743"
      ],
-     "inci": "Aqua/Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cetyl Alcohol, Dimethicone, Phenoxyethanol, Polysorbate 20, Ceteareth-20, Behentrimonium Methosulfate, Polyglyceryl-3 Diisostearate, Sodium Lauroyl Lactylate, Ethylhexylglycerin, Potassium Phosphate, Disodium EDTA, Dipotassium Phosphate, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Sodium Hyaluronate, Tocopherol, Ceramide EOP"
     },
     {
-     "nombre": "Sérum Renovador Vitamina C (Skin Renewing Vitamin C Serum)",
+     "nombre": "Loción Hidratante (Moisturizing Lotion)",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875903738"
+      "3337875597395",
+      "3337875597210",
+      "3337875598750",
+      "3606000537514",
+      "3606000534797",
+      "3606000560239",
+      "3337875905633"
      ],
-     "inci": "Aqua/Water, Ascorbic Acid, Glycerin, Dimethicone, Cetearyl Ethylhexanoate, Alcohol Denat., Sodium Hydroxide, Ammonium Polyacryloyldimethyl Taurate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Tocopheryl Acetate, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
+     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin"
     },
     {
-     "nombre": "Crema Reparadora Contorno de Ojos (Eye Repair Cream)",
+     "nombre": "Loción Hidratante Intensiva",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3606000537613"
+      "3606000620865",
+      "3337875904285"
      ],
-     "inci": "Aqua/Water, Niacinamide, Cetyl Alcohol, Caprylic/Capric Triglyceride, Glycerin, Propanediol, Isononyl Isononanoate, Jojoba Esters, PEG-20 Methyl Glucose Sesquistearate, Cetearyl Alcohol, Dimethicone, Methyl Glucose Sesquistearate, Phenoxyethanol, Sorbitol, Behentrimonium Methosulfate, Carbomer, Laureth-4, Triethanolamine, Tocopherol, Butylene Glycol, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Hydrogenated Vegetable Oil, Ethylhexylglycerin, Tetrasodium EDTA, Sodium Lauroyl Lactylate, Sodium Hydroxide, Zinc Citrate, Asparagopsis Armata Extract, Equisetum Arvense Extract, Maltodextrin, Aloe Barbadensis Leaf Extract, Ascophyllum Nodosum Extract, Chrysanthellum Indicum Extract, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Potassium Sorbate, Sodium Hyaluronate, Ceramide EOP"
+     "inci": "Aqua/Water/Eau, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Isopropyl Palmitate, Propanediol, Cetearyl Alcohol, Octyldodecanol, C15-19 Alkane, Glycine, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Tristearate, Sorbitan Oleate, Carbomer, Glyceryl Stearate, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Isohexadecane, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hydroxide, Myristic Acid, Sodium Hyaluronate, Cholesterol, Palmitic Acid, Alanine, Tocopherol, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 80, Benzoic Acid, PEG-100 Stearate, PEG-20 METHYL GLUCOSE SESQUISTEARATE? Fórmula Nº.2021657 31;N70043466/1"
     },
     {
-     "nombre": "Crema Reafirmante Contorno de Ojos Skin Renewing (Skin Renewing Eye Cream)",
+     "nombre": "Loción Hidratante de Rostro PM",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875952866"
+      "3337875597449"
      ],
-     "inci": "Aqua/Water, Propanediol, Glycerin, Niacinamide, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Dimethicone, Petrolatum, Polyacrylate Crosspolymer-6, Hydrogenated Lecithin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Behentrimonium Methosulfate, Triethyl Citrate, Caffeine, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Lactate, Cholesterol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Butylene Glycol, Polysorbate 20, Benzoic Acid"
+     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Ceteareth-20, Behentrimonium Methosulfate, Caprylyl Glycol, Polyglyceryl-3 Diisostearate, Sodium Lauroyl Lactylate, Potassium Phosphate, Disodium EDTA, Dipotassium Phosphate, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Ethylhexylglycerin, Sodium Hyaluronate, Ceramide EOP"
     },
     {
-     "nombre": "Loción Hidratante de Rostro SPF 50 (Facial Moisturising Lotion SPF 50)",
+     "nombre": "Loción Hidratante de Rostro SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875840620"
+     ],
+     "inci": "Aqua/Water, Glycerin, Isopropyl Palmitate, Ethylhexyl Salicylate, Niacinamide, Pentylene Glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Zea Mays Starch/Corn Starch, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Diisopropyl Sebacate, Oryza Sativa Cera/Rice Bran Wax, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Cetearyl Alcohol, Triethanolamine, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Myristic Acid, Cholesterol, Palmitic Acid, Tocopherol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, PEG-100 Stearate"
+    },
+    {
+     "nombre": "Loción Hidratante de Rostro SPF 50",
      "include": [],
      "exclude": [],
      "barcodes": [
       "3337875814652"
      ],
-     "inci": "Aqua/Water, Glycerin, Isopropyl Palmitate, Ethylhexyl Salicylate, Niacinamide, Pentylene Glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Zea Mays Starch/Corn Starch, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Diisopropyl Sebacate, Oryza Sativa Cera/Rice Bran Wax, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Cetearyl Alcohol, Triethanolamine, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Myristic Acid, Cholesterol, Palmitic Acid, Tocopherol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate"
+     "inci": "Aqua/Water, Glycerin, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Niacinamide, Pentylene Glycol, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, Zea Mays Starch/Corn Starch, Potassium Cetyl Phosphate, Diisopropyl Sebacate, Oryza Sativa Cera/Rice Bran Wax, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Cetearyl Alcohol, Triethanolamine, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Polyacrylate, Sodium Lauroyl Lactylate, Myristic Acid, Cholesterol, Palmitic Acid, Tocopherol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter/Shea Butter, Benzoic Acid, PEG-100 Stearate"
     },
     {
-     "nombre": "Espuma Limpiadora Equilibrante (Balancing Foam Cleanser)",
+     "nombre": "Loción Protectora Invisible Hidratante SPF30",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875925334"
+      "3337875945820"
      ],
-     "inci": "Aqua/Water, Glycerin, Sodium Chloride, Glycolipids, Disodium Cocoyl Glutamate, Sodium Methyl Cocoyl Taurate, Niacinamide, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Cocoyl Glutamate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Coco-Betaine, Coconut Acid, Caprylyl Glycol, Citric Acid, Phytosphingosine, Xanthan Gum, Polyepsilon-Lysine, Benzoic Acid"
+     "inci": "Aqua/Water, Isopropyl Palmitate, Alcohol Denat., Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Glycerin, Propanediol, Isopropyl Myristate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oxidized Starch Acetate, Copernicia Cerifera Cera/Carnauba Wax, Tocopherol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethanolamine, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Lauroyl Lactylate, Cholesterol, Drometrizole Trisiloxane, Caprylyl Glycol, Hydroxyacetophenone, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid"
     },
     {
-     "nombre": "Gel Control Imperfecciones (Blemish Control Gel)",
+     "nombre": "Loción Protectora Invisible Hidratante SPF50+",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3337875782357"
+      "3337875945769"
      ],
-     "inci": "Aqua/Water, Glycerin, Sodium Hydroxide, Glycolic Acid, Lactic Acid, Salicylic Acid, Niacinamide, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Chlorphenesin, Disodium EDTA, Hydroxypropyl Guar, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Benzoic Acid"
+     "inci": "Aqua/Water, Isopropyl Palmitate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Propanediol, Dicaprylyl Ether, Oxidized Starch Acetate, Copernicia Cerifera Cera/Carnauba Wax, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethanolamine, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Lauroyl Lactylate, Cholesterol, Drometrizole Trisiloxane, Tocopherol, Caprylyl Glycol, Hydroxyacetophenone, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid"
+    },
+    {
+     "nombre": "Oil Control Gel Crema Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875904520"
+     ],
+     "inci": "Aqua/Water/Eau, Niacinamide, Glycerin, Cetearyl Isononanoate, C14-22 Alcohols, Isopropyl Myristate, Zea Mays Starch/Corn Starch, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Silica, Sodium Hydroxide, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Citric Acid, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Polyacrylate Crosspolymer-6, Benzoic Acid, C12-20 Alkyl Glucoside"
+    },
+    {
+     "nombre": "SA Crema Alisadora Anti-rugosidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875684101",
+      "3337875684095",
+      "3606000535114",
+      "3606000537583"
+     ],
+     "inci": "Aqua/Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, Glycerin, PEG-100 Stearate, C12-13 Alkyl Lactate, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "SA Crema Renovadora de Pies",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000538160"
+     ],
+     "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Ammonium Lactate, Triethanolamine, Salicylic Acid, Behentrimonium Methosulfate, PEG-100 Stearate, Phenoxyethanol, Dimethicone, Sodium Lauroyl Lactylate, Disodium EDTA, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Ethylhexylglycerin, Sodium Hyaluronate, Ceramide EOP"
+    },
+    {
+     "nombre": "SA Limpiador Anti-rugosidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875684118",
+      "3337875795456"
+     ],
+     "inci": "Aqua/Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Hydroxysultaine, Glycerin, Niacinamide, Gluconolactone, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Tetrasodium EDTA, Hydrolyzed Hyaluronic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Serum Retinol Anti-marcas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000537453",
+      "3337875829007"
+     ],
+     "inci": "Aqua/Water, Propanediol, Dimethicone, Cetearyl Ethylhexanoate, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Hydrogenated Lecithin, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Dimethiconol, Lecithin, Sodium Citrate, Retinol, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Alcohol, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Phytosphingosine, Xanthan Gum, Polysorbate 20, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Skin Renewing Crema con Péptidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875903509"
+     ],
+     "inci": "Aqua/Water, Glycerin, Dimethicone, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter/Shea Butter, Niacinamide, Glyceryl Stearate SE, Dimethicone/Vinyl Dimethicone Crosspolymer, Cetyl Alcohol, Zea Mays Starch/Corn Starch, Saccharide Isomerate, Stearic Acid, Palmitic Acid, Glycine Soja Sterols/Soybean Sterols, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Dimethicone Crosspolymer, Triethyl Citrate, Sodium Hydroxide, Myristic Acid, Sodium Lauroyl Lactylate, Sodium Citrate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Tocopherol, Tripeptide-1, Hydroxyacetophenone, Citric Acid, Caprylyl Glycol, Caprooyl Tetrapeptide-3, Biosaccharide Gum-1, Phytosphingosine, Xanthan Gum, Dextran, Ethylhexylglycerin, Butylene Glycol, Benzoic Acid (F.I.L. Z70036017/1)"
+    },
+    {
+     "nombre": "Skin Renewing Sérum Retinol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875899550"
+     ],
+     "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Polysorbate 20, Dimethicone, PEG-40 Stearate, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Niacinamide, Triethanolamine, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Cichorium Intybus Root Extract/Chicory Root Extract, Lecithin, Retinol, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Alcohol, Tocopherol, Hydroxyethylcellulose, Caprylyl Methicone, Hydroxyacetophenone, Citric Acid, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Xanthan Gum, Phytosphingosine, Butyrospermum Parkii Butter/Shea Butter, Ethylhexylglycerin, Benzoic Acid (F.I.L. Z70024893/1)"
+    },
+    {
+     "nombre": "Skin Renewing Sérum con Vitamina C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875903196",
+      "3337875903738"
+     ],
+     "inci": "Aqua/Water, Ascorbic Acid, Glycerin, Dimethicone, Cetearyl Ethylhexanoate, Alcohol Denat., Sodium Hydroxide, Ammonium Polyacryloyldimethyl Taurate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Tocopheryl Acetate, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin (F.I.L. D231279/1)"
+    },
+    {
+     "nombre": "Sérum Hidratante con Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000560833"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Cetearyl Alcohol, Dimethicone, Sodium Hyaluronate, Panthenol, Polyacrylate Crosspolymer-6, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Glucoside, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Water Gel Hidratante Ácido Hialurónico​",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3337875952903"
+     ],
+     "inci": "Aqua/Water, Glycerin, Niacinamide, Propanediol, Dimethicone, Isononyl Isononanoate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone Crosspolymer, Cetearyl Alcohol, Behentrimonium Methosulfate, Triethyl Citrate, Safflower Glucoside, Silica, Sodium Hydroxide, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Citrate, Cholesterol, Phenoxyethanol, Tocopherol, Chlorphenesin, Copper PCA, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Biosaccharide Gum-1, Xanthan Gum, Phytosphingosine, Benzoic Acid"
     }
    ]
   },
