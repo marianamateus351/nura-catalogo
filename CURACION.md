@@ -129,8 +129,17 @@ productos pero con SU propio EAN (otro formato), y no hay forma de confirmar que
 antiguo sea de la misma fórmula. Son 4005800309854, 4005800264887, 4005800027932,
 4005800102363, 4005800066382, 4005800287510, 4005800631702, 9005800352756 y 4005800193705.
 
+### Nivea (nivea.es) — CERRADA (2026-09-09)
+Marca entera desde el sitemap: 233 productos y 235 códigos (rostro, cuerpo, sol, desodorantes,
+cabello, hombre, niños). Ficha: `"gtin13"`/`"ean"` en el JSON de la página (y el EAN también
+va en la URL), INCI en el bloque "Incluye", nombre en el h1.
+- 12 minis/formatos de viaje fuera: su URL lleva un código interno corto, no un EAN-13.
+- 4 fichas sin INCI (packs y dos sérums), fuera.
+- El h1 no distingue las versiones NIVEA MEN de las de mujer (Dry Fresh, Protect & Care):
+  se separan por el slug y se anota "(NIVEA MEN)".
+
 ### Marcas creadas y vacías (siguiente)
-- Sesderma y Nivea. Nivea sale directa de su web (EAN en la URL); Sesderma necesita otra vía.
+- Sesderma: necesita otra vía (ficha renderizada por JavaScript).
 
 ## Fuente principal: la web oficial de cada marca (comprobado 2026-09-09)
 Casi todas publican la ficha con EAN + INCI completo, así que **la web de marca manda** y ya
@@ -162,8 +171,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-794 códigos en 9 marcas: **Garnier 234** · LRP 160 · **Eucerin 137** · Vichy 111 · CeraVe 73 ·
-Avène 30 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 684 productos está sin
-INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier y Eucerin; siguiente: Nivea y Avène
-desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma, Sesderma
-y SkinCeuticals, que necesitan otra vía.
+1029 códigos en 10 marcas: **Nivea 235** · Garnier 234 · LRP 160 · Eucerin 137 · Vichy 111 ·
+CeraVe 73 · Avène 30 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 917 productos
+está sin INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier, Eucerin y Nivea; siguiente:
+Avène desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
+Sesderma y SkinCeuticals, que necesitan otra vía.
