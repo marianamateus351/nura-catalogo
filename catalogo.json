@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ar",
+  "version": "2026-09-09at",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1109,7 +1109,17 @@
     {
       "key": "eucerin",
       "nombre": "Eucerin",
-      "productos": []
+      "productos": [
+        {
+          "nombre": "UreaRepair Plus Loción 5% Urea",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800162442"
+          ],
+          "inci": "Aqua/Water, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Glucoside, Cyclomethicone, Sodium Lactate, Butyrospermum Parkii Butter/Shea Butter, Caprylic/Capric Triglyceride, Methylpropanediol, Octyldodecanol, Dicaprylyl Ether, Tapioca Starch, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Carnitine, Ceramide 3, Sodium PCA, Arginine HCl, Serine, Alanine, Histidine, Citrulline, Lysine, Lactic Acid, Sodium Chloride, Dimethiconol, Glycogen, Mannitol, Sucrose, Glutamic Acid, Threonine, Chondrus Crispus, Sodium Cetearyl Sulfate, 1,2-Hexanediol, Phenoxyethanol"
+        }
+      ]
     },
     {
       "key": "vichy",
