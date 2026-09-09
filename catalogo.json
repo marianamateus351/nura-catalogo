@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ba",
+  "version": "2026-09-09bb",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1256,7 +1256,8 @@
           "include": [],
           "exclude": [],
           "barcodes": [
-            "3337875734905"
+            "3337875734905",
+            "3337875734929"
           ],
           "inci": "Aqua/Water, Butylene Glycol, Niacinamide, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Hydroxyethyl Urea, Propylene Glycol, Glycolic Acid, Tranexamic Acid, Allantoin, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin, Ascorbyl Glucoside, Caprylyl Glycol, Hydrolyzed Rice Protein, Vitreoscilla Ferment, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol"
         },
@@ -1314,6 +1315,15 @@
             "3337875787222"
           ],
           "inci": "Aqua/Water, Sodium Laureth Sulfate, Urea, Sodium Cocoamphoacetate, PEG-200 Hydrogenated Glyceryl Palmate, Glycol Distearate, Glycerin, Salicylic Acid, Sodium Laureth-8 Sulfate, Glycine, Piroctone Olamine, Hexylene Glycol, Alcohol Denat., Carbomer, Chlorphenesin, Citric Acid, Coco-Betaine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Magnesium Laureth Sulfate, Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, PEG-55 Propylene Glycol Oleate, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Polyquaternium-30, Propylene Glycol, Sodium Chloride, Sodium Hydroxide, Sodium Lactate, Sodium Oleth Sulfate, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Desodorante Mineral 48h Tolerance Optimale Roll-On",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875708937"
+          ],
+          "inci": "Aqua/Water, Propylene Glycol, Capryloyl Salicylic Acid, Silica Silylate, Caprylyl Glycol, Dehydroxanthan Gum, Xanthan Gum, Phenoxyethanol"
         }
       ]
     },
