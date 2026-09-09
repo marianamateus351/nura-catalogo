@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09az",
+  "version": "2026-09-09ba",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1305,6 +1305,15 @@
             "3337871324599"
           ],
           "inci": "Aqua/Water, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Perlite, Tetrasodium Glutamate Diacetate, C12-20 Alkyl Glucoside, Pentylene Glycol, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Dercos PSOlution Champú Queratorreductor",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875787222"
+          ],
+          "inci": "Aqua/Water, Sodium Laureth Sulfate, Urea, Sodium Cocoamphoacetate, PEG-200 Hydrogenated Glyceryl Palmate, Glycol Distearate, Glycerin, Salicylic Acid, Sodium Laureth-8 Sulfate, Glycine, Piroctone Olamine, Hexylene Glycol, Alcohol Denat., Carbomer, Chlorphenesin, Citric Acid, Coco-Betaine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Magnesium Laureth Sulfate, Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, PEG-55 Propylene Glycol Oleate, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Polyquaternium-30, Propylene Glycol, Sodium Chloride, Sodium Hydroxide, Sodium Lactate, Sodium Oleth Sulfate, Parfum/Fragrance"
         }
       ]
     },
