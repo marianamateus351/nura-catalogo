@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09at",
+  "version": "2026-09-09au",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1118,6 +1118,67 @@
             "4005800162442"
           ],
           "inci": "Aqua/Water, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Glucoside, Cyclomethicone, Sodium Lactate, Butyrospermum Parkii Butter/Shea Butter, Caprylic/Capric Triglyceride, Methylpropanediol, Octyldodecanol, Dicaprylyl Ether, Tapioca Starch, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Carnitine, Ceramide 3, Sodium PCA, Arginine HCl, Serine, Alanine, Histidine, Citrulline, Lysine, Lactic Acid, Sodium Chloride, Dimethiconol, Glycogen, Mannitol, Sucrose, Glutamic Acid, Threonine, Chondrus Crispus, Sodium Cetearyl Sulfate, 1,2-Hexanediol, Phenoxyethanol"
+        },
+        {
+          "nombre": "pH5 Aceite de Ducha",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800196645",
+            "4005800631290",
+            "4005800631214",
+            "4005800019531"
+          ],
+          "inci": "Glycine Soja (Soybean) Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis (Castor) Seed Oil, Poloxamer 101, Parfum/Fragrance, Aqua/Water, Propylene Glycol, Panthenol, Tocopherol, Citric Acid, Sodium Citrate"
+        },
+        {
+          "nombre": "Aquaphor Pomada Reparadora",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800019876",
+            "4005800268748",
+            "4005800019869",
+            "4005800331985"
+          ],
+          "inci": "Petrolatum, Cera Microcristallina/Microcrystalline Wax, Ceresin, Lanolin Alcohol, Panthenol, Glycerin, Bisabolol"
+        },
+        {
+          "nombre": "pH5 Crema de Manos",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800383519",
+            "4005800631542"
+          ],
+          "inci": "Aqua/Water, Glycerin, Hydrogenated Coco-Glycerides, Panthenol, Stearyl Alcohol, Triisostearin, Cetyl Alcohol, Palmitic Acid, Stearic Acid, Glyceryl Stearate, Citric Acid, Sodium Citrate, Tocopherol, Sorbitan Stearate, Chondrus Crispus Extract, Tapioca Starch, Myristic Acid, Arachidic Acid, Oleic Acid, Xanthan Gum, Dimethicone, Sodium Hydroxide, Ethylhexylglycerin, Pentylene Glycol, Phenoxyethanol, Parfum/Fragrance"
+        },
+        {
+          "nombre": "pH5 Loción Corporal",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800196485"
+          ],
+          "inci": "Aqua/Water, Glycerin, Panthenol, C15-19 Alkane, Cetyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Hydrogenated Coco-Glycerides, Polybutene, Glyceryl Stearate SE, Citric Acid, Sodium Citrate, Tocopheryl Acetate, Sorbitan Stearate, Sodium Cetearyl Sulfate, Stearyl Alcohol, Dimethicone, Carbomer, Sodium Hydroxide, Tapioca Starch, Trisodium EDTA, Pentylene Glycol, Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, BHT, Parfum/Fragrance"
+        },
+        {
+          "nombre": "DermoPure Gel Limpiador",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800192883"
+          ],
+          "inci": "Aqua/Water, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Sodium Benzoate, Salicylic Acid"
+        },
+        {
+          "nombre": "DermoPure Oil Control Gel Limpiador Triple Efecto",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005900436986"
+          ],
+          "inci": "Aqua/Water, Coco-Glucoside, Salicylic Acid, Glycerin, Sodium Laureth Sulfate, Xanthan Gum, PEG-8, Alcohol Denat., Glycolic Acid, Gluconolactone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Hydroxide, Parfum/Fragrance"
         }
       ]
     },
