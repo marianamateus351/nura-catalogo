@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09m",
+  "version": "2026-09-09n",
   "marcas": [
     {
       "key": "larocheposay",
@@ -238,15 +238,6 @@
           "inci": "Aqua/Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Hydroxysultaine, Glycerin, Niacinamide, Gluconolactone, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Tetrasodium EDTA, Hydrolyzed Hyaluronic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
         },
         {
-          "nombre": "Crema de Noche Renovadora (Skin Renewing Night Cream)",
-          "include": [],
-          "exclude": [],
-          "barcodes": [
-            "3337875903509"
-          ],
-          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter/Shea Butter, Dimethicone/Vinyl Dimethicone Crosspolymer, Cyclopentasiloxane, Glyceryl Stearate SE, Cetyl Alcohol, Dimethicone, Saccharide Isomerate, Stearic Acid, Palmitic Acid, Glycine Soja Sterols, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Niacinamide, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Myristic Acid, Sodium Lauroyl Lactylate, Sodium Benzoate, Sodium Citrate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Tocopherol, Tripeptide-1, Laureth-9, Citric Acid, Caprooyl Tetrapeptide-3, Biosaccharide Gum-1, Phytosphingosine, Xanthan Gum, Dextran, Ethylhexylglycerin, Butylene Glycol"
-        },
-        {
           "nombre": "Sérum Hidratante Ácido Hialurónico (Hydrating Hyaluronic Acid Serum)",
           "include": [],
           "exclude": [],
@@ -274,6 +265,33 @@
             "3606000537583"
           ],
           "inci": "Aqua/Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+        },
+        {
+          "nombre": "Sérum Renovador Vitamina C (Skin Renewing Vitamin C Serum)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875903738"
+          ],
+          "inci": "Aqua/Water, Ascorbic Acid, Glycerin, Dimethicone, Cetearyl Ethylhexanoate, Alcohol Denat., Sodium Hydroxide, Ammonium Polyacryloyldimethyl Taurate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Tocopheryl Acetate, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
+        },
+        {
+          "nombre": "Crema Reparadora Contorno de Ojos (Eye Repair Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3606000537613"
+          ],
+          "inci": "Aqua/Water, Niacinamide, Cetyl Alcohol, Caprylic/Capric Triglyceride, Glycerin, Propanediol, Isononyl Isononanoate, Jojoba Esters, PEG-20 Methyl Glucose Sesquistearate, Cetearyl Alcohol, Dimethicone, Methyl Glucose Sesquistearate, Phenoxyethanol, Sorbitol, Behentrimonium Methosulfate, Carbomer, Laureth-4, Triethanolamine, Tocopherol, Butylene Glycol, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Hydrogenated Vegetable Oil, Ethylhexylglycerin, Tetrasodium EDTA, Sodium Lauroyl Lactylate, Sodium Hydroxide, Zinc Citrate, Asparagopsis Armata Extract, Equisetum Arvense Extract, Maltodextrin, Aloe Barbadensis Leaf Extract, Ascophyllum Nodosum Extract, Chrysanthellum Indicum Extract, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Potassium Sorbate, Sodium Hyaluronate, Ceramide EOP"
+        },
+        {
+          "nombre": "Crema Reafirmante Contorno de Ojos Skin Renewing (Skin Renewing Eye Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875952866"
+          ],
+          "inci": "Aqua/Water, Propanediol, Glycerin, Niacinamide, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Dimethicone, Petrolatum, Polyacrylate Crosspolymer-6, Hydrogenated Lecithin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Behentrimonium Methosulfate, Triethyl Citrate, Caffeine, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Sodium Lactate, Cholesterol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Butylene Glycol, Polysorbate 20, Benzoic Acid"
         }
       ]
     },
