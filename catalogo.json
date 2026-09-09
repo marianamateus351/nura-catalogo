@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09af",
+  "version": "2026-09-09ag",
   "marcas": [
     {
       "key": "larocheposay",
@@ -726,7 +726,29 @@
     {
       "key": "avene",
       "nombre": "Avène",
-      "productos": []
+      "productos": [
+        {
+          "nombre": "Agua Termal de Avène (spray)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282779003131",
+            "3282779003124",
+            "3282779035576",
+            "3282770133134"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Nitrogen"
+        },
+        {
+          "nombre": "Tolérance Control Crema Calmante Reparadora",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770138801"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Caprylic/Capric Triglyceride, Ethylhexyl Palmitate, Glycerin, Cetearyl Alcohol, Squalane, Cetearyl Glucoside, Cetyl Esters, Aquaphilus Dolomiae Extract Filtrate, Arginine, Cera Alba/Beeswax, Citric Acid, Tromethamine, Aqua/Water, Xanthan Gum"
+        }
+      ]
     }
   ]
 }
