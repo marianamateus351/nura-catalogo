@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09k",
+  "version": "2026-09-09l",
   "marcas": [
     {
       "key": "larocheposay",
@@ -227,6 +227,34 @@
             "3337875763967"
           ],
           "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Behentrimonium Methosulfate, Carbomer, Ceramide AP, Ceramide EOP, Ceramide NP, Cholesterol, Dimethicone, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Phytosphingosine, Potassium Phosphate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Tocopherol, Xanthan Gum"
+        },
+        {
+          "nombre": "Gel Limpiador Suavizante SA (SA Smoothing Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875795456"
+          ],
+          "inci": "Aqua/Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Hydroxysultaine, Glycerin, Niacinamide, Gluconolactone, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Salicylic Acid, Sodium Benzoate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Tetrasodium EDTA, Hydrolyzed Hyaluronic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+        },
+        {
+          "nombre": "Crema de Noche Renovadora (Skin Renewing Night Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3606000537606",
+            "3337875903509"
+          ],
+          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter/Shea Butter, Dimethicone/Vinyl Dimethicone Crosspolymer, Cyclopentasiloxane, Glyceryl Stearate SE, Cetyl Alcohol, Dimethicone, Saccharide Isomerate, Stearic Acid, Palmitic Acid, Glycine Soja Sterols, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Niacinamide, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Myristic Acid, Sodium Lauroyl Lactylate, Sodium Benzoate, Sodium Citrate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Tocopherol, Tripeptide-1, Laureth-9, Citric Acid, Caprooyl Tetrapeptide-3, Biosaccharide Gum-1, Phytosphingosine, Xanthan Gum, Dextran, Ethylhexylglycerin, Butylene Glycol"
+        },
+        {
+          "nombre": "Sérum Hidratante Ácido Hialurónico (Hydrating Hyaluronic Acid Serum)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3606000560833"
+          ],
+          "inci": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Sodium Hyaluronate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
         }
       ]
     },
