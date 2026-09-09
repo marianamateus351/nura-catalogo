@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09z",
+  "version": "2026-09-09aa",
   "marcas": [
     {
       "key": "larocheposay",
@@ -590,6 +590,11 @@
           "inci": "Aqua/Water, Alcohol Denat., Ethylhexyl Triazone, Drometrizole Trisiloxane, Isononyl Isononanoate, Isopropyl Lauroyl Sarcosinate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Niacinamide, Dimethicone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Octocrylene, Propanediol, Ethylhexyl Salicylate, Cetearyl Alcohol, Silica, Tranexamic Acid, Tocopherol, Phenoxyethanol, PEG-10 Dimethicone, CI 77891/Titanium Dioxide, Polyglyceryl-10 Laurate, Sodium Stearoyl Glutamate, Caprylyl Glycol, Butylene Glycol, Cetearyl Glucoside, Mica, Glycerin, PEG-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylenediamine, Carbomer, Inulin Lauryl Carbamate, T-Butyl Alcohol"
         }
       ]
+    },
+    {
+      "key": "isdin",
+      "nombre": "ISDIN",
+      "productos": []
     }
   ]
 }
