@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ae",
+  "version": "2026-09-09af",
   "marcas": [
     {
       "key": "larocheposay",
@@ -722,6 +722,11 @@
           "inci": "Paraffin, Paraffinum Liquidum/Mineral Oil, Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, C12-15 Alkyl Benzoate, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, C30-45 Alkyl Methicone, C30-45 Olefin, Polyisobutene, Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, Parfum/Fragrance, Tocopheryl Acetate, Punica Granatum Fruit Extract, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Pentylene Glycol, Sodium Hyaluronate"
         }
       ]
+    },
+    {
+      "key": "avene",
+      "nombre": "Avène",
+      "productos": []
     }
   ]
 }
