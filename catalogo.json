@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09j",
+  "version": "2026-09-09k",
   "marcas": [
     {
       "key": "larocheposay",
@@ -197,6 +197,36 @@
             "3606000534957"
           ],
           "inci": "Aqua/Water, Ceramide AP, Ceramide EOP, Ceramide NP, Citric Acid, Cocamidopropyl Hydroxysultaine, Ethylhexylglycerin, Glycerin, Niacinamide, PEG-6 Caprylic/Capric Glycerides, Phenoxyethanol, Phytosphingosine, Propanediol, Sodium Benzoate, Sodium Chloride, Sodium Hyaluronate, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Tetrasodium EDTA, Xanthan Gum"
+        },
+        {
+          "nombre": "Gel Limpiador Anti-Imperfecciones (Blemish Control Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875923859",
+            "3337875784054",
+            "3337875923873"
+          ],
+          "inci": "Aqua/Water, Cocamidopropyl Hydroxysultaine, Glycerin, Sodium Lauroyl Sarcosinate, Niacinamide, Salicylic Acid, Sodium Methyl Cocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Gluconolactone, Sodium Cocoyl Isethionate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Calcium Gluconate, Triethyl Citrate, Sodium Hydroxide, Sodium Benzoate, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Coconut Acid, Tetrasodium EDTA, Caprylyl Glycol, Hydrolyzed Hyaluronic Acid, Trisodium Ethylenediamine Disuccinate, Hectorite, Phytosphingosine, Xanthan Gum, Acrylates Copolymer, Benzoic Acid"
+        },
+        {
+          "nombre": "Bálsamo Reparador Avanzado (Advanced Repair Balm)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875849326"
+          ],
+          "inci": "Petrolatum, Paraffinum Liquidum/Mineral Oil, Cera Microcristallina/Microcrystalline Wax, Paraffin, Caprylic/Capric Triglyceride, Dimethicone, Aqua/Water, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Tocopheryl Acetate, Tocopherol, Caprylyl Glycol, Synthetic Wax, Panthenol, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+        },
+        {
+          "nombre": "Crema de Manos Reparadora (Reparative Hand Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875597319",
+            "3337875763967"
+          ],
+          "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Behentrimonium Methosulfate, Carbomer, Ceramide AP, Ceramide EOP, Ceramide NP, Cholesterol, Dimethicone, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Phytosphingosine, Potassium Phosphate, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Tocopherol, Xanthan Gum"
         }
       ]
     },
