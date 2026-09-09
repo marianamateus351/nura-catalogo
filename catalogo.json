@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ao",
+  "version": "2026-09-09ap",
   "marcas": [
     {
       "key": "larocheposay",
@@ -992,6 +992,45 @@
             "3401381463298"
           ],
           "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Helianthus Annuus (Sunflower) Seed Oil, Behenyl Alcohol, Sucrose Stearate, Canola Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Beta-Sitosterol, Zinc Gluconate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitamide MEA, 1,2-Hexanediol, Caprylyl Glycol, Disodium EDTA, Sodium Hydroxide, Sodium Lauroyl Lactylate, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Phytosphingosine, Ceramide NP, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Citric Acid, Ceramide EOP"
+        },
+        {
+          "nombre": "Hydrabio H2O Agua Micelar Hidratante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401399694127"
+          ],
+          "inci": "Aqua/Water, Glycerin, PEG-6 Caprylic/Capric Glycerides, Disodium EDTA, Mannitol, Xylitol, Cetrimonium Bromide, Rhamnose, Niacinamide, Hexyldecanol, Sodium Hydroxide, Pyrus Malus (Apple) Seed Extract, Brassica Campestris (Rapeseed) Sterols, Tocopherol, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Sébium Gel Moussant Limpiador Purificante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401578653709",
+            "3401399277009"
+          ],
+          "inci": "Aqua/Water, Sodium Cocoamphoacetate, Sodium Laureth Sulfate, Methylpropanediol, Disodium EDTA, Sodium Chloride, Lactic Acid, Zinc Sulfate, Copper Sulfate, Potassium Sorbate, Xylitol, Fructooligosaccharides, Mannitol, Rhamnose, Propylene Glycol, Sodium Hydroxide, Ginkgo Biloba Leaf Extract, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Atoderm Crème Ultra",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3701129805343",
+            "3701129804322"
+          ],
+          "inci": "Aqua/Water, Paraffinum Liquidum/Mineral Oil, Glycerin, Brassica Campestris (Rapeseed) Seed Oil, Sodium Polyacrylate, Pentylene Glycol, Cetearyl Alcohol, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Citrate, Xylitol, Cetearyl Glucoside, Mannitol, Tocopherol, Rhamnose, Xylitylglucoside, Helianthus Annuus (Sunflower) Seed Oil, Anhydroxylitol, Niacinamide, Glucose, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
+        },
+        {
+          "nombre": "Cicabio Crema Reparadora",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401397163496",
+            "3401347869546"
+          ],
+          "inci": "Aqua/Water, Glycerin, Ethylhexyl Palmitate, Fructooligosaccharides, Zinc Oxide, Octyldodecanol, Butylene Glycol, Polyacrylamide, Laminaria Ochroleuca Extract, Copper Sulfate, Zinc Sulfate, Sodium Hyaluronate, Vitis Vinifera (Grape) Vine Extract, Asiaticoside, Asiatic Acid, Madecassic Acid, C13-14 Isoparaffin, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Caprylic/Capric Triglyceride, Laureth-7, Laureth-3, Hydroxyethylcellulose, Acetyl Dipeptide-1 Cetyl Ester, Potassium Sorbate"
         }
       ]
     },
