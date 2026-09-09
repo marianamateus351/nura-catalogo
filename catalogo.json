@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ay",
+  "version": "2026-09-09az",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1268,6 +1268,43 @@
             "3337875560931"
           ],
           "inci": "Aqua/Water, Ascorbic Acid, Alcohol Denat., Dipropylene Glycol, Glycerin, Laureth-23, Neohesperidin Dihydrochalcone, Sodium Hydroxide, Tocopherol, Hydrolyzed Hyaluronic Acid, Pinus Pinaster Bark/Bud Extract"
+        },
+        {
+          "nombre": "Normaderm Phytosolution Gel Purificante Intensivo",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875663076",
+            "3337875663090"
+          ],
+          "inci": "Aqua/Water, Coco-Betaine, Propanediol, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Sodium Cocoyl Glycinate, Dipropylene Glycol, Zinc Gluconate, Salicylic Acid, Bifida Ferment Lysate, Sodium Hydroxide, Sodium Benzoate, Phenoxyethanol"
+        },
+        {
+          "nombre": "Normaderm Phytosolution Cuidado Diario Doble Corrección",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875660617"
+          ],
+          "inci": "Aqua/Water, Glycerin, Salicylic Acid, Isononyl Isononanoate, Butylene Glycol, Kaolin, Zinc Sulfate, Bifida Ferment Lysate, Sodium Hydroxide, Sodium Polyacrylate, Sodium Hyaluronate, Sodium Benzoate, Phenoxyethanol, Ascorbyl Glucoside, Caprylyl Glycol, Hydrolyzed Algin, Trisodium Ethylenediamine Disuccinate, Biosaccharide Gum-1, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Desodorante Mineral 48h Roll-On Sin Sales de Aluminio",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875553278"
+          ],
+          "inci": "Aqua/Water, Propylene Glycol, PPG-26-Buteth-26, Steareth-100/PEG-136/HDI Copolymer, Parfum/Fragrance, PEG-40 Hydrogenated Castor Oil, Zinc Gluconate, Citric Acid, Phenoxyethanol, Caprylyl Glycol, Panthenol, Calcium Carbonate, Sodium Chloride, Magnesium Gluconate"
+        },
+        {
+          "nombre": "Desodorante Anti-transpirante 48h Anti-manchas Roll-On",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337871324599"
+          ],
+          "inci": "Aqua/Water, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Perlite, Tetrasodium Glutamate Diacetate, C12-20 Alkyl Glucoside, Pentylene Glycol, Parfum/Fragrance"
         }
       ]
     },
