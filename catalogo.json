@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09d",
+  "version": "2026-09-09e",
   "marcas": [
     {
       "key": "larocheposay",
@@ -81,6 +81,7 @@
           "exclude": [
             "gel"
           ],
+          "barcodes": ["3337875736763"],
           "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid"
         },
         {
@@ -100,6 +101,7 @@
             "glycan",
             "multiglycan"
           ],
+          "barcodes": ["3337875736749"],
           "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
         },
         {
