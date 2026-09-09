@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ah",
+  "version": "2026-09-09ai",
   "marcas": [
     {
       "key": "larocheposay",
@@ -795,6 +795,42 @@
             "3282770399226"
           ],
           "inci": "Avene Aqua/Avene Thermal Spring Water, Isopropyl Alcohol, PEG-6, Glycerin, Niacinamide, Silybum Marianum Fruit Extract, Silica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Aqua/Water"
+        },
+        {
+          "nombre": "XeraCalm A.D Crema Relipidizante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770399561"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Cetearyl Alcohol, Oenothera Biennis (Evening Primrose) Oil, Caprylic/Capric Triglyceride, Cetearyl Glucoside, Aquaphilus Dolomiae Extract, Arginine, Carbomer, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glycine, Sodium Hydroxide, Tocopherol"
+        },
+        {
+          "nombre": "Cold Cream Crema Nutritiva",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282779002738"
+          ],
+          "inci": "Paraffinum Liquidum/Mineral Oil, Avene Aqua/Avene Thermal Spring Water, Cera Alba/Beeswax, Glyceryl Stearate, Cetyl Alcohol, BHT, C20-40 Pareth-10, Caprylyl Glycol, Cetyl Phosphate, Parfum/Fragrance, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Triethanolamine"
+        },
+        {
+          "nombre": "Intense Protect SPF 50+ Fluido",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770141214"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Ethylhexyl Triazone, Phenylene Bis-Diphenyltriazine, Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, VP/Eicosene Copolymer, Benzoic Acid, Caprylyl Glycol, Glyceryl Behenate, Glyceryl Dibehenate, Glyceryl Stearate, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, PPG-1-PEG-9 Lauryl Glycol Ether, CI 17200, Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum"
+        },
+        {
+          "nombre": "Leche Limpiadora Suavizante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770152555"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Dicaprylyl Carbonate, Glycerin, Pentylene Glycol, C14-22 Alcohols, Behenyl Alcohol, Hydrogenated Vegetable Oil, Sodium Stearoyl Glutamate, C12-20 Alkyl Glucoside, Citric Acid, Parfum/Fragrance, Glyceryl Caprylate, Glycine Soja (Soybean) Oil, Sclerotium Gum, Sodium Benzoate, Tocopherol, Xanthan Gum"
         }
       ]
     }
