@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09an",
+  "version": "2026-09-09ao",
   "marcas": [
     {
       "key": "larocheposay",
@@ -960,6 +960,38 @@
             "3401345935571"
           ],
           "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Fructooligosaccharides, Mannitol, Xylitol, Rhamnose, Cucumis Sativus (Cucumber) Fruit Extract, Propylene Glycol, Cetrimonium Bromide, Disodium EDTA"
+        },
+        {
+          "nombre": "Sébium H2O Agua Micelar Purificante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401572288297"
+          ],
+          "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Sodium Citrate, Zinc Gluconate, Copper Sulfate, Ginkgo Biloba Leaf Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Propylene Glycol, Citric Acid, Disodium EDTA, Cetrimonium Bromide, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Atoderm Aceite de Ducha (Huile de Douche)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401528520846",
+            "3401528519895",
+            "3701129807330",
+            "3701129811627",
+            "3401528520037"
+          ],
+          "inci": "Aqua/Water, Glycerin, PEG-7 Glyceryl Cocoate, Sodium Cocoamphoacetate, Lauryl Glucoside, Coco-Glucoside, Glyceryl Oleate, Citric Acid, PEG-90 Glyceryl Isostearate, Parfum/Fragrance, Mannitol, Polysorbate 20, Xylitol, Laureth-2, Rhamnose, Niacinamide, Fructooligosaccharides, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate"
+        },
+        {
+          "nombre": "Atoderm Intensive Baume",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3701129802052",
+            "3401381463298"
+          ],
+          "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Helianthus Annuus (Sunflower) Seed Oil, Behenyl Alcohol, Sucrose Stearate, Canola Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Beta-Sitosterol, Zinc Gluconate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitamide MEA, 1,2-Hexanediol, Caprylyl Glycol, Disodium EDTA, Sodium Hydroxide, Sodium Lauroyl Lactylate, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Phytosphingosine, Ceramide NP, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Citric Acid, Ceramide EOP"
         }
       ]
     },
