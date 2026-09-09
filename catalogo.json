@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09l",
+  "version": "2026-09-09m",
   "marcas": [
     {
       "key": "larocheposay",
@@ -242,7 +242,6 @@
           "include": [],
           "exclude": [],
           "barcodes": [
-            "3606000537606",
             "3337875903509"
           ],
           "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter/Shea Butter, Dimethicone/Vinyl Dimethicone Crosspolymer, Cyclopentasiloxane, Glyceryl Stearate SE, Cetyl Alcohol, Dimethicone, Saccharide Isomerate, Stearic Acid, Palmitic Acid, Glycine Soja Sterols, Allantoin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Niacinamide, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Myristic Acid, Sodium Lauroyl Lactylate, Sodium Benzoate, Sodium Citrate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Tocopherol, Tripeptide-1, Laureth-9, Citric Acid, Caprooyl Tetrapeptide-3, Biosaccharide Gum-1, Phytosphingosine, Xanthan Gum, Dextran, Ethylhexylglycerin, Butylene Glycol"
@@ -255,6 +254,26 @@
             "3606000560833"
           ],
           "inci": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Sodium Hyaluronate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
+        },
+        {
+          "nombre": "Sérum Retinol Anti-Marcas (Resurfacing Retinol Serum)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875829007"
+          ],
+          "inci": "Aqua/Water, Propanediol, Dimethicone, Cetearyl Ethylhexanoate, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Hydrogenated Lecithin, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Dimethiconol, Lecithin, Sodium Citrate, Retinol, Sodium Hyaluronate, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Alcohol, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Phytosphingosine, Xanthan Gum, Polysorbate 20, Ethylhexylglycerin"
+        },
+        {
+          "nombre": "Crema Alisadora Anti-Rugosidades SA (SA Smoothing Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875684095",
+            "3606000535114",
+            "3606000537583"
+          ],
+          "inci": "Aqua/Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
         }
       ]
     },
