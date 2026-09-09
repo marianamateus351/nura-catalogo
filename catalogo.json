@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09e",
+  "version": "2026-09-09f",
   "marcas": [
     {
       "key": "larocheposay",
@@ -7,26 +7,81 @@
       "productos": [
         {
           "nombre": "Effaclar Duo+M",
-          "include": ["effaclar", "duom"],
-          "exclude": ["unifiant", "tinted", "spf", "spot", "acne", "light", "medium"],
+          "include": [
+            "effaclar",
+            "duom"
+          ],
+          "exclude": [
+            "unifiant",
+            "tinted",
+            "spf",
+            "spot",
+            "acne",
+            "light",
+            "medium"
+          ],
           "inci": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Silica, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch/Rice Starch, Punica Granatum Pericarp Extract, Potassium Cetyl Phosphate, Sorbitan Oleate, Zinc PCA, Glyceryl Stearate SE, Isohexadecane, Sodium Hydroxide, Myristyl Myristate, 2-Oleamido-1,3-Octadecanediol, Mannose, Poloxamer 338, Propanediol, Hydroxyethoxyphenyl Butanone, Capryloyl Salicylic Acid, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrin, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Salicylic Acid, Piroctone Olamine, Parfum/Fragrance"
         },
         {
           "nombre": "Toleriane Sensitive Crème",
-          "include": ["toleriane", "sensitive"],
-          "exclude": ["riche", "fluide", "ultra", "dermallergo", "double", "repair", "mattif", "serum", "eye", "yeux", "cleanser", "gel", "nettoyant", "water", "eau", "spf"],
+          "include": [
+            "toleriane",
+            "sensitive"
+          ],
+          "exclude": [
+            "riche",
+            "fluide",
+            "ultra",
+            "dermallergo",
+            "double",
+            "repair",
+            "mattif",
+            "serum",
+            "eye",
+            "yeux",
+            "cleanser",
+            "gel",
+            "nettoyant",
+            "water",
+            "eau",
+            "spf"
+          ],
           "inci": "Aqua/Water, Glycerin, Squalane, Dimethicone, Zea Mays Starch/Corn Starch, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Stearic Acid, Ceramide NP, Potassium Cetyl Phosphate, Glyceryl Stearate SE, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum"
         },
         {
           "nombre": "Cicaplast Baume B5+",
-          "include": ["cicaplast", "baume", "b5"],
-          "exclude": ["spf", "gel", "mains", "hand", "lips", "levres", "lip"],
+          "include": [
+            "cicaplast",
+            "baume",
+            "b5"
+          ],
+          "exclude": [
+            "spf",
+            "gel",
+            "mains",
+            "hand",
+            "lips",
+            "levres",
+            "lip"
+          ],
           "inci": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Madecassoside, Manganese Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminum Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide"
         },
         {
           "nombre": "Hyalu B5 Serum",
-          "include": ["hyalu", "b5", "serum"],
-          "exclude": ["ampoule", "eye", "yeux", "creme", "cream", "uv", "spf"],
+          "include": [
+            "hyalu",
+            "b5",
+            "serum"
+          ],
+          "exclude": [
+            "ampoule",
+            "eye",
+            "yeux",
+            "creme",
+            "cream",
+            "uv",
+            "spf"
+          ],
           "inci": "Aqua/Water, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, PEG-6 Caprylic/Capric Glycerides, PPG-6-Decyltetradeceth-30, Glyceryl Isostearate, Madecassoside, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Xanthan Gum, Butylene Glycol, Tocopherol, Phenoxyethanol, Parfum/Fragrance"
         }
       ]
@@ -37,26 +92,67 @@
       "productos": [
         {
           "nombre": "Crema Hidratante (Moisturizing Cream)",
-          "include": ["moistur", "cream"],
-          "exclude": ["foam", "cleans", "lotion", "eye", "night", "renewing", "sa", "itch", "psoriasis", "baby"],
+          "include": [
+            "moistur",
+            "cream"
+          ],
+          "exclude": [
+            "foam",
+            "cleans",
+            "lotion",
+            "eye",
+            "night",
+            "renewing",
+            "sa",
+            "itch",
+            "psoriasis",
+            "baby"
+          ],
           "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
         },
         {
           "nombre": "Loción Hidratante (Moisturizing Lotion)",
-          "include": ["moistur", "lotion"],
-          "exclude": ["pm", "am", "spf", "facial", "ultra", "baby"],
+          "include": [
+            "moistur",
+            "lotion"
+          ],
+          "exclude": [
+            "pm",
+            "am",
+            "spf",
+            "facial",
+            "ultra",
+            "baby"
+          ],
           "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin"
         },
         {
           "nombre": "Gel Limpiador Hidratante (Hydrating Cleanser)",
-          "include": ["hydrating", "cleanser"],
-          "exclude": ["foam", "oil", "cream", "micellar", "toner", "sa", "smoothing"],
+          "include": [
+            "hydrating",
+            "cleanser"
+          ],
+          "exclude": [
+            "foam",
+            "oil",
+            "cream",
+            "micellar",
+            "toner",
+            "sa",
+            "smoothing"
+          ],
           "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin"
         },
         {
           "nombre": "PM Facial Moisturizing Lotion",
-          "include": ["pm", "lotion"],
-          "exclude": ["am", "spf"],
+          "include": [
+            "pm",
+            "lotion"
+          ],
+          "exclude": [
+            "am",
+            "spf"
+          ],
           "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Cetearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Ceteareth-20, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin"
         }
       ]
@@ -81,7 +177,9 @@
           "exclude": [
             "gel"
           ],
-          "barcodes": ["3337875736763"],
+          "barcodes": [
+            "3337875736763"
+          ],
           "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid"
         },
         {
@@ -101,7 +199,9 @@
             "glycan",
             "multiglycan"
           ],
-          "barcodes": ["3337875736749"],
+          "barcodes": [
+            "3337875736749"
+          ],
           "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
         },
         {
@@ -162,7 +262,10 @@
             "resveratrol"
           ],
           "exclude": [],
-          "inci": "Aqua/Water, Dimethicone, Propylene Glycol, Dipropylene Glycol, Niacinamide, Alcohol Denat, Glycerin, Caffeine, Sodium Chloride, PEG/PPG-18/18 Dimethicone, Tocopherol, Resveratrol, Scutellaria Baicalensis Root Extract, Disodium EDTA"
+          "inci": "Aqua/Water, Dimethicone, Propylene Glycol, Dipropylene Glycol, Niacinamide, Alcohol Denat, Glycerin, Caffeine, Sodium Chloride, PEG/PPG-18/18 Dimethicone, Tocopherol, Resveratrol, Scutellaria Baicalensis Root Extract, Disodium EDTA",
+          "barcodes": [
+            "3606000499805"
+          ]
         },
         {
           "nombre": "Retinol 0.5",
@@ -190,9 +293,49 @@
         },
         {
           "nombre": "Gentle Cleanser",
-          "include": ["gentle", "cleanser"],
-          "exclude": ["soothing", "clarifying", "clay", "foaming", "lha", "blemish", "simply"],
-          "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycerin, Propanediol, Cetyl Alcohol, Methyl Gluceth-20, Neopentyl Glycol Dicaprate, PEG-100 Stearate, Glyceryl Stearate, Polyglyceryl-4 Caprate, Phenoxyethanol, Citrus Aurantium Dulcis Oil/Orange Peel Oil, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Polysorbate 20, Allantoin, Sodium Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Polyquaternium-39, Sodium Chloride, PEG-30 Dipolyhydroxystearate, Trideceth-6, Glycolic Acid, Sodium Benzoate"
+          "include": [
+            "gentle",
+            "cleanser"
+          ],
+          "exclude": [
+            "soothing",
+            "clarifying",
+            "clay",
+            "foaming",
+            "lha",
+            "blemish",
+            "simply"
+          ],
+          "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycerin, Propanediol, Cetyl Alcohol, Methyl Gluceth-20, Neopentyl Glycol Dicaprate, PEG-100 Stearate, Glyceryl Stearate, Polyglyceryl-4 Caprate, Phenoxyethanol, Citrus Aurantium Dulcis Oil/Orange Peel Oil, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Polysorbate 20, Allantoin, Sodium Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Polyquaternium-39, Sodium Chloride, PEG-30 Dipolyhydroxystearate, Trideceth-6, Glycolic Acid, Sodium Benzoate",
+          "barcodes": [
+            "3606000471146"
+          ]
+        },
+        {
+          "nombre": "A.G.E. Interrupter Ultra Serum",
+          "include": [
+            "interrupter",
+            "ultra"
+          ],
+          "exclude": [],
+          "barcodes": [
+            "3337875917940"
+          ],
+          "inci": "Aqua/Water, Propylene Glycol, Hydroxypropyl Tetrahydropyrantriol, Glycerin, Dimethicone, Cetearyl Isononanoate, Isohexadecane, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Diisopropyl Sebacate, VP/VA Copolymer, Hydroxyacetophenone, Phenoxyethanol, Polysilicone-11, Cellulose, Hydrogenated Lecithin, Xanthan Gum, Propanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Panthenol, Rhamnose, Ectoin, Cassia Alata Leaf Extract, Maltodextrin, Sorbitol, Vaccinium Myrtillus Fruit Extract, Sodium Hydroxide, Adenosine, Trisodium Ethylenediamine Disuccinate, Punica Granatum Fruit Extract, Gentiana Lutea Root Extract, Hydrolyzed Soy Protein, Sodium Benzoate, Potassium Sorbate, Citric Acid, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Advanced Brightening UV Defense SPF 50",
+          "include": [
+            "brightening",
+            "uv"
+          ],
+          "exclude": [
+            "spf30"
+          ],
+          "barcodes": [
+            "3337875702478"
+          ],
+          "inci": "Aqua/Water, Alcohol Denat., Ethylhexyl Triazone, Drometrizole Trisiloxane, Isononyl Isononanoate, Isopropyl Lauroyl Sarcosinate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Niacinamide, Dimethicone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Octocrylene, Propanediol, Ethylhexyl Salicylate, Cetearyl Alcohol, Silica, Tranexamic Acid, Tocopherol, Phenoxyethanol, PEG-10 Dimethicone, CI 77891/Titanium Dioxide, Polyglyceryl-10 Laurate, Sodium Stearoyl Glutamate, Caprylyl Glycol, Butylene Glycol, Cetearyl Glucoside, Mica, Glycerin, PEG-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylenediamine, Carbomer, Inulin Lauryl Carbamate, T-Butyl Alcohol"
         }
       ]
     }
