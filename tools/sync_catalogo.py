@@ -6,8 +6,16 @@ only the `productos: [...]` array of each brand block is regenerated.
 """
 import json, re, sys, datetime
 
-JSON_PATH = "/home/user/nura-catalogo/catalogo.json"
-JS_PATH = "/home/user/nura-firebase/src/data/catalogoInci.js"
+# catalogo.json se busca en la raíz de ESTE repo (el padre de tools/).
+# catalogoInci.js se busca en el repo nura-firebase, por defecto al lado de este
+# repo (../nura-firebase). Se puede cambiar con la variable de entorno
+# NURA_FIREBASE o pasando la ruta:  python3 tools/sync_catalogo.py sync <ruta.js>
+import os
+
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+JSON_PATH = os.path.join(_ROOT, "catalogo.json")
+_FB = os.environ.get("NURA_FIREBASE") or os.path.join(os.path.dirname(_ROOT), "nura-firebase")
+JS_PATH = os.path.join(_FB, "src", "data", "catalogoInci.js")
 
 KEY_ORDER = ["nombre", "include", "exclude", "barcodes", "foto", "inci"]
 
@@ -141,6 +149,14 @@ def validate():
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
+    if len(sys.argv) > 2:
+        JS_PATH = sys.argv[2]
+    for _p, _q in ((JSON_PATH, "catalogo.json"), (JS_PATH, "catalogoInci.js")):
+        if not os.path.exists(_p):
+            raise SystemExit(
+                "no encuentro %s en %s\n"
+                "Indica la ruta del repo nura-firebase con NURA_FIREBASE=<ruta> "
+                "o pasa el .js como segundo argumento." % (_q, _p))
     if cmd == "sync":
         d = load(); sync_js(d); print("JS regenerado desde JSON")
     elif cmd == "check":

@@ -34,7 +34,9 @@ de `catalogoInci.js` sin tocar sus comentarios, y valida el catálogo:
 - `python3 tools/sync_catalogo.py check` → comprueba la paridad JSON↔JS.
 - `python3 tools/sync_catalogo.py validate` → formato de códigos, regiones excluidas
   (0…/789…/869…/750…), duplicados entre marcas e INCI sospechosos ("y otros", "…").
-Las rutas de los dos repos están al principio del script. No requiere build.
+`catalogo.json` se busca en la raíz de este repo; `catalogoInci.js` en `../nura-firebase`
+por defecto, o donde digas: `NURA_FIREBASE=<ruta>` o como segundo argumento
+(`python3 tools/sync_catalogo.py sync <ruta al .js>`). No requiere build.
 
 ## Flujo para obtener códigos
 - La app (build 88+) tiene "Copiar lista" tras importar: da `código | nombre OF | estado | foto`.
@@ -112,7 +114,8 @@ con Capital Soleil Niños y con Normaderm Phytosolution). **No sirve como fuente
 según la regla 2. No copiar INCI de ahí.
 
 Para seguir la curación hace falta una de estas vías:
-- un entorno con egress abierto a las webs de marca / incidecoder / Open*Facts, o
+- ejecutar la sesión en local, donde la red sí llega a esas webs (vía elegida), o
+- un entorno remoto con egress abierto a las webs de marca / incidecoder / Open*Facts, o
 - pegar en el chat el INCI (o la "Copiar lista" de la app) para que la sesión lo formatee,
   valide y suba a los dos repos.
 
