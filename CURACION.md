@@ -103,11 +103,23 @@ Cicaplast Labios). "Cicaplast Labios" sigue con el SKU interno 30106659, sin EAN
 ### ISDIN (isdin.com)
 - Fotoprotector Gel Cream SPF30 → 8470001549990 · Nutraisdin Baby gel-champú → 8470003924801
 - Reparador Labial Fluido → 8470001507983 · Pediatrics SPF50 (formato?) → 8470001594945
-### Avène (eau-thermale-avene.es)
-- XeraCalm Aceite 400 ml → 3282779405447 · Comedomed SPF30 → 3282771001432 ·
-  Comedomed (¿clásico o +?) → 3282770390414 · Ultra Fluid (¿cuál?) → 3282779428897 ·
-  Cold Cream labios "Stick lèvres" → 3282770204797 · Lip butter → 3282770147261 ·
-  Hydrance/Trixera/Pédiatril/DermAbsolu: identificar por código.
+### Avène (eau-thermale-avene.es) — CERRADA (2026-09-09)
+Curada desde `product.xml` (149 fichas): 153 productos y 162 códigos (antes 23 y 30).
+- **El EAN va en la URL** (`/p/<slug>-<EAN>-<hash>`); el `gtin` del JSON de la página está
+  mal (le falta el último dígito), no usarlo. El INCI está en el panel `composition_inci`.
+- Avène escribe cada ingrediente como "nombre (común) (INCI puro)", p. ej. "Ricinus Communis
+  (Castor) Seed Oil (Ricinus Communis Seed Oil)": se guarda solo el INCI puro.
+- El Agua Termal en spray tiene dos ingredientes de verdad (agua termal y nitrógeno): entra
+  aunque la lista sea tan corta.
+- Fuera: Sunsimed KA y Sunsimed Pigment (productos sanitarios, la ficha no publica INCI).
+- Fluido mineral SPF50+, Fluido mineral con color SPF50+ y la Espuma de afeitar MEN tienen
+  dos fichas vivas con distinta fórmula (otro envase): se dejan las dos, con "(ref. …)" en
+  el nombre para distinguirlas.
+Pendientes resueltos: Comedomed SPF30 (3282771001432 = Comedomed+ Fluido intensivo SPF30),
+"Cold Cream stick lèvres" (3282770204797 = Bálsamo labial SPF 50+), Lip butter (3282770147261
+= Bálsamo hidratación intensa 24h). Siguen fuera por no estar en la web: XeraCalm Aceite
+400 ml 3282779405447 · Comedomed 3282770390414 · Ultra Fluid 3282779428897.
+
 ### Bioderma (bioderma.es)
 - Photoderm Max Aquafluide (sin color) → 3401561197715 · Max Spray → 3401353688742 ·
   Spray Invisible SPF30 → 3701129807255 · Sensibio AR+ (actual) → 3401343696245 ·
@@ -171,8 +183,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-1029 códigos en 10 marcas: **Nivea 235** · Garnier 234 · LRP 160 · Eucerin 137 · Vichy 111 ·
-CeraVe 73 · Avène 30 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 917 productos
-está sin INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier, Eucerin y Nivea; siguiente:
-Avène desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
+1161 códigos en 10 marcas: Nivea 235 · Garnier 234 · **Avène 162** · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 1047
+productos está sin INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier, Eucerin, Nivea y
+Avène; siguiente: ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
 Sesderma y SkinCeuticals, que necesitan otra vía.
