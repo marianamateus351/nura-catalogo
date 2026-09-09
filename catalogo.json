@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09au",
+  "version": "2026-09-09av",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1179,6 +1179,33 @@
             "4005900436986"
           ],
           "inci": "Aqua/Water, Coco-Glucoside, Salicylic Acid, Glycerin, Sodium Laureth Sulfate, Xanthan Gum, PEG-8, Alcohol Denat., Glycolic Acid, Gluconolactone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Hydroxide, Parfum/Fragrance"
+        },
+        {
+          "nombre": "DermoPure Oil Control Sérum Triple Efecto",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800294327"
+          ],
+          "inci": "Aqua/Water, Alcohol Denat., Glycerin, Tapioca Starch, Carbomer, Salicylic Acid, Isobutylamido Thiazolyl Resorcinol, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Panthenol, Glucosylrutin, Isoquercitrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pantolactone, Sodium Hydroxide, Trisodium EDTA, Citric Acid, Parfum/Fragrance"
+        },
+        {
+          "nombre": "DermoPure Oil Control Fluido Facial Hidratante Matificante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800180606"
+          ],
+          "inci": "Aqua/Water, Tapioca Starch, Glycerin, Dimethicone, Cetearyl Alcohol, Salicylic Acid, Carnitine, Decylene Glycol, Glycyrrhiza Inflata Root Extract, PEG-150 Distearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Stearoyl Glutamate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Hydroxyethylcellulose, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Phenoxyethanol, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Hyaluron-Filler Booster Hidratante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "4005800310102"
+          ],
+          "inci": "Aqua/Water, Alcohol Denat., Butylene Glycol, Glycerin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Sodium Ascorbyl Phosphate, Citric Acid, BHT, Parfum/Fragrance"
         }
       ]
     },
