@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09aw",
+  "version": "2026-09-09ax",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1239,7 +1239,19 @@
     {
       "key": "vichy",
       "nombre": "Vichy",
-      "productos": []
+      "productos": [
+        {
+          "nombre": "Minéral 89 Sérum Booster Hidratante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875839501",
+            "3337875543248",
+            "3337875596763"
+          ],
+          "inci": "Aqua/Water, Propanediol, Glycerin, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Methyl Gluceth-20, Citric Acid, Hydroxyacetophenone, Sodium Hyaluronate, Biosaccharide Gum-1, Butylene Glycol, Caprylyl Glycol, Carbomer, Maltodextrin"
+        }
+      ]
     },
     {
       "key": "nivea",
