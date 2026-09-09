@@ -109,7 +109,7 @@ distribuidor y 3606000604643), así que **no se añade ninguno sin escanear el e
 isdin.com publica el INCI de sus 310 fichas (`"completeIngredientList"` en el JSON de la
 página; 252 con lista) **pero no el EAN**, así que la marca solo crece con códigos de fuera
 (Open*Facts, 18; escaneos). Emparejado a mano, ficha por ficha, con la foto de Open*Facts:
-17 productos y 19 códigos (antes 14 y 14). INCI actualizado desde la web en 10 productos.
+16 productos y 18 códigos (antes 14 y 14). INCI actualizado desde la web en 10 productos.
 - Corregido: 8429420135444 es el **Protector Labial SPF 30** (estaba como SPF 50+).
 - Nuevos: 8470001594945 Pediatrics Lotion Spray SPF50 200 ml · 8470001549990 Gel Cream SPF30
   250 ml ("nueva fórmula") · 8470003173704 After Sun Lotion 400 ml (unido al de 200 ml) ·
@@ -221,8 +221,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-1166 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Bioderma 29 · **ISDIN 19** · SkinCeuticals 6. Ninguno de los 1050
+1165 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Bioderma 29 · **ISDIN 18** · SkinCeuticals 6. Ninguno de los 1049
 productos está sin INCI. Las 11 marcas están revisadas: 8 curadas enteras desde su web;
 ISDIN limitada por los códigos; Bioderma y Sesderma no publican el INCI y SkinCeuticals está
 tras Cloudflare. Para seguir creciendo: la pestaña "Buscados" de la app (códigos escaneados
