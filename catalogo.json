@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09p",
+  "version": "2026-09-09q",
   "marcas": [
     {
       "key": "larocheposay",
@@ -7,82 +7,39 @@
       "productos": [
         {
           "nombre": "Effaclar Duo+M",
-          "include": [
-            "effaclar",
-            "duom"
-          ],
-          "exclude": [
-            "unifiant",
-            "tinted",
-            "spf",
-            "spot",
-            "acne",
-            "light",
-            "medium"
-          ],
-          "inci": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Silica, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch/Rice Starch, Punica Granatum Pericarp Extract, Potassium Cetyl Phosphate, Sorbitan Oleate, Zinc PCA, Glyceryl Stearate SE, Isohexadecane, Sodium Hydroxide, Myristyl Myristate, 2-Oleamido-1,3-Octadecanediol, Mannose, Poloxamer 338, Propanediol, Hydroxyethoxyphenyl Butanone, Capryloyl Salicylic Acid, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrin, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Salicylic Acid, Piroctone Olamine, Parfum/Fragrance"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Silica, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch/Rice Starch, Punica Granatum Pericarp Extract, Potassium Cetyl Phosphate, Sorbitan Oleate, Zinc PCA, Glyceryl Stearate SE, Isohexadecane, Sodium Hydroxide, Myristyl Myristate, 2-Oleamido-1,3-Octadecanediol, Mannose, Poloxamer 338, Propanediol, Hydroxyethoxyphenyl Butanone, Capryloyl Salicylic Acid, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrin, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Salicylic Acid, Piroctone Olamine, Parfum/Fragrance",
+          "barcodes": [
+            "3337875926058"
+          ]
         },
         {
           "nombre": "Toleriane Sensitive Crème",
-          "include": [
-            "toleriane",
-            "sensitive"
-          ],
-          "exclude": [
-            "riche",
-            "fluide",
-            "ultra",
-            "dermallergo",
-            "double",
-            "repair",
-            "mattif",
-            "serum",
-            "eye",
-            "yeux",
-            "cleanser",
-            "gel",
-            "nettoyant",
-            "water",
-            "eau",
-            "spf"
-          ],
-          "inci": "Aqua/Water, Glycerin, Squalane, Dimethicone, Zea Mays Starch/Corn Starch, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Stearic Acid, Ceramide NP, Potassium Cetyl Phosphate, Glyceryl Stearate SE, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Squalane, Dimethicone, Zea Mays Starch/Corn Starch, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Stearic Acid, Ceramide NP, Potassium Cetyl Phosphate, Glyceryl Stearate SE, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum",
+          "barcodes": []
         },
         {
           "nombre": "Cicaplast Baume B5+",
-          "include": [
-            "cicaplast",
-            "baume",
-            "b5"
-          ],
-          "exclude": [
-            "spf",
-            "gel",
-            "mains",
-            "hand",
-            "lips",
-            "levres",
-            "lip"
-          ],
-          "inci": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Madecassoside, Manganese Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminum Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Madecassoside, Manganese Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminum Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide",
+          "barcodes": [
+            "3337872413018",
+            "3612623166239",
+            "3337875844413"
+          ]
         },
         {
           "nombre": "Hyalu B5 Serum",
-          "include": [
-            "hyalu",
-            "b5",
-            "serum"
-          ],
-          "exclude": [
-            "ampoule",
-            "eye",
-            "yeux",
-            "creme",
-            "cream",
-            "uv",
-            "spf"
-          ],
-          "inci": "Aqua/Water, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, PEG-6 Caprylic/Capric Glycerides, PPG-6-Decyltetradeceth-30, Glyceryl Isostearate, Madecassoside, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Xanthan Gum, Butylene Glycol, Tocopherol, Phenoxyethanol, Parfum/Fragrance"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, PEG-6 Caprylic/Capric Glycerides, PPG-6-Decyltetradeceth-30, Glyceryl Isostearate, Madecassoside, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Xanthan Gum, Butylene Glycol, Tocopherol, Phenoxyethanol, Parfum/Fragrance",
+          "barcodes": [
+            "3337875583657"
+          ]
         }
       ]
     },
