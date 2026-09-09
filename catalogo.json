@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09al",
+  "version": "2026-09-09am",
   "marcas": [
     {
       "key": "larocheposay",
@@ -942,6 +942,36 @@
           "inci": "Avene Aqua/Avene Thermal Spring Water, Caprylic/Capric Triglyceride, Glycerin, Squalane, Butyrospermum Parkii (Shea) Butter, Carthamus Tinctorius (Safflower) Seed Oil, Pentaerythrityl Tetracaprylate/Tetracaprate, Cetearyl Alcohol, Behenyl Alcohol, Niacinamide, C20-22 Alkyl Phosphate, C20-22 Alcohols, Retinal, Sodium Hyaluronate, Terminalia Chebula Fruit Extract, Adenosine, Acacia Senegal Gum, Cetearyl Glucoside, Parfum/Fragrance, Helianthus Annuus (Sunflower) Seed Oil, CI 17200, Sodium Benzoate, Sodium Hydroxide, Tocopherol, Tocopheryl Glucoside, Aqua/Water, Xanthan Gum"
         }
       ]
+    },
+    {
+      "key": "bioderma",
+      "nombre": "Bioderma",
+      "productos": []
+    },
+    {
+      "key": "eucerin",
+      "nombre": "Eucerin",
+      "productos": []
+    },
+    {
+      "key": "vichy",
+      "nombre": "Vichy",
+      "productos": []
+    },
+    {
+      "key": "nivea",
+      "nombre": "Nivea",
+      "productos": []
+    },
+    {
+      "key": "garnier",
+      "nombre": "Garnier",
+      "productos": []
+    },
+    {
+      "key": "sesderma",
+      "nombre": "Sesderma",
+      "productos": []
     }
   ]
 }
