@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ab",
+  "version": "2026-09-09ac",
   "marcas": [
     {
       "key": "larocheposay",
@@ -621,6 +621,51 @@
             "8429420187948"
           ],
           "inci": "Alcohol Denat., Isobutane, Dicaprylyl Ether, Propylene Glycol Dicaprylate/Dicaprate, Octocrylene, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Acrylates/Octylacrylamide Copolymer, Butane, Propane, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Zingiber Officinale (Ginger) Root Extract, Tocopheryl Acetate, Benzotriazolyl Dodecyl P-Cresol, Tocopherol, Citral"
+        },
+        {
+          "nombre": "Fotoprotector ISDIN HydroLotion SPF 50",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8429420192232"
+          ],
+          "inci": "Aqua/Water, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Dicaprylyl Ether, Octocrylene, Propanediol, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Glycerin, Tromethamine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Chloride, Phenylpropanol, Parfum/Fragrance, Caprylyl Glycol, Tocopheryl Acetate, Disodium EDTA, Chlorella Vulgaris Extract, Tocopherol, Phenoxyethanol, Linalool, Alpha-Isomethyl Ionone, CI 42090"
+        },
+        {
+          "nombre": "Fotoprotector ISDIN Protector Labial SPF 50+",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8429420135444"
+          ],
+          "inci": "Ricinus Communis (Castor) Seed Oil, Cera Microcristallina/Microcrystalline Wax, Cocoglycerides, Octocrylene, Dibutyl Adipate, Paraffin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Copernicia Cerifera (Carnauba) Cera, Ethylhexyl Triazone, Octyldodecanol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Lanolin, Glycol Montanate, 1,2-Hexanediol, Parfum/Fragrance, Caprylyl Glycol, Shorea Robusta Resin, Shorea Stenoptera Seed Butter, Tocopheryl Acetate, CI 77891/Titanium Dioxide, Bisabolol"
+        },
+        {
+          "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50+",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8429420280878"
+          ],
+          "inci": "Dicaprylyl Carbonate, Dibutyl Adipate, Hydrogenated Castor Oil, Oryza Sativa (Rice) Bran Cera, Euphorbia Cerifera (Candelilla) Cera, Cocoglycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Silica, Butyrospermum Parkii (Shea) Butter, Brassica Campestris (Rapeseed) Sterols, Cetearyl Alcohol, Panthenol, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Extract, Tocopherol, Phaeodactylum Tricornutum Extract, Citric Acid"
+        },
+        {
+          "nombre": "Germisdin Higiene Corporal Original (gel de baño)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8470003854764"
+          ],
+          "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-32, PEG-4 Rapeseedamide, Sorbitol, Parfum/Fragrance, Polysorbate 20, Sodium Chloride, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, Disodium EDTA, PEG-150 Distearate, Dichlorobenzyl Alcohol, Potassium Sorbate, Coumarin, Benzyl Salicylate, Linalool, BHT, Alcohol Denat., Benzoic Acid, CI 19140, CI 42090"
+        },
+        {
+          "nombre": "ISDIN After Sun Lotion Calm & Comfort",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "8470003808996"
+          ],
+          "inci": "Aqua/Water, Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum/Fragrance, Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica"
         }
       ]
     }
