@@ -113,25 +113,21 @@ Cicaplast Labios). "Cicaplast Labios" sigue con el SKU interno 30106659, sin EAN
   Spray Invisible SPF30 → 3701129807255 · Sensibio AR+ (actual) → 3401343696245 ·
   Sensibio Defensive → 3701129804445 · Sébium Gel Moussant Actif → 3701129803400 ·
   Nodé A/P/DS+ → 3401396545132, 3701129804773, 3701129805060 · Hydrabio mask → 3401343613730
-### Eucerin (eucerin.es)
-- Sun Oil Control Gel-Crema SPF50+ → 4005800309854 · Dry Touch SPF30 → 4005800264887 ·
-  Kids Spray → 4005800027932 · Kids Loción → 4005800102363 · Allergy Protect → 4005800066382 ·
-  Anti-Pigment Crema de Manos SPF30 → 4005800287510 · Lip Activ SPF20 → 4005800631702,
-  9005800352756 · pH5 Gel Lavant recarga → 4005800193705
-### Garnier (garnier.es) — CERRADA (2026-09-09)
-Marca entera desde el sitemap, piel y pelo: 234 productos y 234 códigos (Fructis, SkinActive,
-Delial, Original Remedies, Body Superfood, Fructis Style, Ultra Suave Niños y las coloraciones
-Olia, Nutrisse, Color Sensation, Good).
-- Ficha: `gtin13` en el JSON-LD Product, INCI en `<div id="ingredients-list">`.
-- **Coloración**: la ficha trae el INCI de cada componente separado por `<br>`
-  ("POLVO DECOLORANTE - ... (CODE F.I.L. x)"), y se guarda como
-  `Componente: ingredientes · Componente: ingredientes`.
-- **52 tintes fuera**: su ficha solo publica el INCI del oxidante, sin ningún colorante. Es una
-  lista cortada (regla 2), así que no entran. Se detectan porque no aparece ninguna
-  p-fenilendiamina, aminofenol, resorcinol, etc.
-- 2 códigos que garnier.es repite en dos productos distintos: descartados, no hay forma de
-  saber de cuál son.
-- 6 fichas más fuera porque en el campo de ingredientes hay texto de marketing, no un INCI.
+### Eucerin (eucerin.es) — CERRADA (2026-09-09)
+Curada desde el sitemap: 124 productos y 137 códigos (antes 13 y 20).
+- INCI: array ordenado `ingredients[].IngredientTitle.value` dentro del JSON de la página.
+  Eucerin traduce al español unos pocos ingredientes clave (Glicerina, Pantenol, Carnitina,
+  Creatina, Niacinamida, Ácido glicirretínico/láctico/salicílico/glicólico, "Aceite de semilla
+  de ricino communis"), que se devuelven a INCI con una tabla; y arrastra erratas
+  ("Arginine HCI", "Titanium Dioxide (nano)", "Laureth-9,4-t-Butylcyclohexanol" pegados).
+- **El EAN no está en la ficha del propio producto**, solo en los teasers que lo enlazan desde
+  otras páginas (`data-tracking-product-id` + `href`). Se recolectan de todo el sitio y luego
+  se cruzan. Así salieron 132 códigos; 4 fichas se quedaron fuera porque ningún teaser las
+  enlaza (Aquaphor 220 g, Probiom8, pH5 Loción Ligera, Sun Fluid Sensitive Protect).
+Los 9 códigos que quedaban pendientes de esta marca **siguen fuera**: la web cubre ya esos
+productos pero con SU propio EAN (otro formato), y no hay forma de confirmar que el código
+antiguo sea de la misma fórmula. Son 4005800309854, 4005800264887, 4005800027932,
+4005800102363, 4005800066382, 4005800287510, 4005800631702, 9005800352756 y 4005800193705.
 
 ### Marcas creadas y vacías (siguiente)
 - Sesderma y Nivea. Nivea sale directa de su web (EAN en la URL); Sesderma necesita otra vía.
@@ -166,8 +162,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-677 códigos en 9 marcas: **Garnier 234** · LRP 160 · Vichy 111 · CeraVe 73 · Avène 30 ·
-Bioderma 29 · Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 577 productos está sin
-INCI. Cerradas Vichy, La Roche-Posay, CeraVe y Garnier; siguiente: Eucerin, Nivea y Avène
+794 códigos en 9 marcas: **Garnier 234** · LRP 160 · **Eucerin 137** · Vichy 111 · CeraVe 73 ·
+Avène 30 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 684 productos está sin
+INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier y Eucerin; siguiente: Nivea y Avène
 desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma, Sesderma
 y SkinCeuticals, que necesitan otra vía.

@@ -1,5 +1,5 @@
 {
- "version": "2026-09-09f",
+ "version": "2026-09-09g",
  "marcas": [
   {
    "key": "larocheposay",
@@ -2222,25 +2222,159 @@
    "nombre": "Eucerin",
    "productos": [
     {
-     "nombre": "UreaRepair Plus Loción 5% Urea",
+     "nombre": "AQUAporin ACTIVE para piel normal o mixta",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800162442"
+      "4005800128608"
      ],
-     "inci": "Aqua/Water, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Glucoside, Cyclomethicone, Sodium Lactate, Butyrospermum Parkii Butter/Shea Butter, Caprylic/Capric Triglyceride, Methylpropanediol, Octyldodecanol, Dicaprylyl Ether, Tapioca Starch, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Carnitine, Ceramide 3, Sodium PCA, Arginine HCl, Serine, Alanine, Histidine, Citrulline, Lysine, Lactic Acid, Sodium Chloride, Dimethiconol, Glycogen, Mannitol, Sucrose, Glutamic Acid, Threonine, Chondrus Crispus, Sodium Cetearyl Sulfate, 1,2-Hexanediol, Phenoxyethanol"
+     "inci": "Aqua, Glycerin, Alcohol Denat., Octyldodecanol, Dicaprylyl Carbonate, Glyceryl Glucoside, Distarch Phosphate, Glyceryl Stearate Citrate, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Tocopherol, Carbomer, Sodium Polyacrylate, Sodium Hydroxide, Dimethicone, Decylene Glycol, Butylene Glycol, Phenoxyethanol"
     },
     {
-     "nombre": "pH5 Aceite de Ducha",
+     "nombre": "AQUAporin ACTIVE para piel seca",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800196645",
-      "4005800631290",
-      "4005800631214",
-      "4005800019531"
+      "4005800127427"
      ],
-     "inci": "Glycine Soja (Soybean) Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis (Castor) Seed Oil, Poloxamer 101, Parfum/Fragrance, Aqua/Water, Propylene Glycol, Panthenol, Tocopherol, Citric Acid, Sodium Citrate"
+     "inci": "Aqua, Glycerin, Glyceryl Glucoside, Simmondsia Chinensis Seed Oil, Hydrogenated Coco-Glycerides, Caprylic/Capric Triglyceride, Isopropyl Palmitate, Synthetic Beeswax, Glyceryl Stearate Citrate, Distarch Phosphate, Octyldodecanol, Pentylene Glycol, Cetyl Alcohol, Stearyl Alcohol, Sodium Hyaluronate, Panthenol, Biotin, Tocopheryl Acetate, Pantolactone, Glycine, Alanine, Carbomer, Sodium Hydroxide, Citric Acid, Dimethicone, Caprylyl Glycol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Actinic Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4251778100195"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Distarch Phosphate, Ethylhexyl Triazone, Homosalate, C12-15 Alkyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Titanium Dioxide, Silica Dimethyl Silylate, Glyceryl Stearate, Hydrogenated Rapeseed Oil, Stearyl Alcohol, Glycerin, Xanthan Gum, Sodium Stearoyl Glutamate, Silica, Chondrus Crispus Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Sodium Chloride, Phenoxyethanol, 1,2-Hexanediol, Pentylene Glycol, Sodium Hydroxide, EDTA"
+    },
+    {
+     "nombre": "After Sun Sensitive Relief Gel-Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800283079"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butylene Glycol, Tapioca Starch, C12-15 Alkyl Benzoate, Glycine, Sodium Citrate, Cyclomethicone, Caprylic/Capric Triglyceride, Octyldodecanol, Dicaprylyl Ether, Citric Acid, Xanthan Gum, Glucosylrutin, Isoquercitrin, Glycyrrhiza Inflata Root Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Ethylhexylglycerin, Benzoic Acid, Parfum"
+    },
+    {
+     "nombre": "Anti-Pigment Contorno de ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000101972"
+     ],
+     "inci": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Alcohol Denat., Cocoglycerides, Cetearyl Alcohol, Cetyl Palmitate, Isopropyl Palmitate, Glyceryl Stearate, Diisopropyl Adipate, Butyrospermum Parkii Butter, Lauroyl Lysine, Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Pimpinella Anisum Fruit Extract, Xanthan Gum, Sodium Stearoyl Glutamate, Sodium Chloride, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Synthetic Fluorphlogopite, Trisodium EDTA, Tin Oxide, CI 77891, CI 77492, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Anti-Pigment Corrector de manchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900552372"
+     ],
+     "inci": "Aqua, Glycerin, Cellulose Gum, Isobutylamido Thiazolyl Resorcinol, Glucosylrutin, Isoquercitrin, Citric Acid"
+    },
+    {
+     "nombre": "Anti-Pigment Crema corporal para áreas localizadas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800327674"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Cetearyl Alcohol, Diisopropyl Adipate, Panthenol, Caprylic/Capric Triglyceride, Glyceryl Stearate Citrate, Behenyl Alcohol, Cetyl Palmitate, Butyrospermum Parkii Butter, Cocoglycerides, Distarch Phosphate, Sodium Hyaluronate, Lactic Acid, Glycyrrhiza Inflata Root Extract, Hydroxypropyl Starch Phosphate, Triisostearin, Sodium Hydroxide, Citric Acid, Tapioca Starch, Xanthan Gum, Pantolactone, Trisodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Anti-Pigment Dual Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900550583"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol, Glycerin, Isopropyl Palmitate, Cetearyl Isononanoate, Diisopropyl Adipate, Propylheptyl Caprylate, Cetearyl Alcohol, Distarch Phosphate, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Tocopherol, Glucosylrutin, Sodium Stearoyl Glutamate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Dehydroxanthan Gum, Xanthan Gum, Gellan Gum, Dimethicone, Isoquercitrin, Citric Acid, Sodium Chloride, Ethylhexylglycerin, Trisodium EDTA, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Anti-Pigment Día FPS 30 para todo tipo de pieles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900570796"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycerin, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Cetyl Alcohol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Distarch Phosphate, Tapioca Starch, Glycyrrhiza Inflata Root Extract, Tocopherol, Glyceryl Stearate, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Sodium Stearoyl Glutamate, Sodium Hydroxide, Sodium Chloride, Ethylhexylglycerin, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Anti-Pigment Día FPS 30 tono medio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900914453"
+     ],
+     "inci": "Aqua, Alcohol Denat., CI 77891, Dibutyl Adipate, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Silica, Silica Dimethyl Silylate, CI 77492, Cetearyl Alcohol, Hydrogenated Coco-Glycerides, Copernicia Cerifera Cera, Phenylbenzimidazole Sulfonic Acid, Glycerin, Glycyrrhiza Inflata Root Extract, Tocopherol, Tapioca Starch, Hydroxypropyl Methylcellulose, Xanthan Gum, Behenyl Alcohol, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Palmitic Acid, Sodium Stearoyl Glutamate, Sodium Hydroxide, Sodium Chloride, Alumina, Trisodium EDTA, Hydroxyacetophenone, Phenoxyethanol, Parfum, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Anti-Pigment Gel Limpiador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800346408"
+     ],
+     "inci": "Aqua, Alcohol Denat., Sodium Cocoamphoacetate, Glycerin, Coco-Betaine, Lactic Acid, Sodium Chloride, Dehydroxanthan Gum, Glycolic Acid, Glyceryl Glucoside, Sodium Hydroxide, Sodium Benzoate"
+    },
+    {
+     "nombre": "Anti-Pigment Noche para todo tipo de pieles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800347771"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butyrospermum Parkii Butter, Cetearyl Isononanoate, Squalane, Isopropyl Palmitate, Panthenol, Glyceryl Stearate Citrate, Cetearyl Alcohol, Hydrogenated Coco-Glycerides, Methylpropanediol, Lauroyl Lysine, Glycyrrhiza Inflata Root Extract, Tocopherol, Glucosylrutin, Pantolactone, Xanthan Gum, Isoquercitrin, Distarch Phosphate, Citric Acid, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Anti-Pigment Serum Corporal Para Áreas Sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000014401"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Myristyl Alcohol, Dibutyl Adipate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propylheptyl Caprylate, Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Tocopherol, Sodium Stearoyl Glutamate, Sodium Hydroxide, Sodium Chloride, Carbomer, Dimethicone, Trisodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Anti-Pigment Serum Iluminador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900916167"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Cetyl Alcohol, Dibutyl Adipate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propylheptyl Caprylate, Sodium Hyaluronate, Tocopherol, Sodium Stearoyl Glutamate, Dimethicone, Carbomer, Phenoxyethanol, Ethylhexylglycerin, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Parfum"
+    },
+    {
+     "nombre": "Anti-Redness Crema Calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800107863"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Methyl Palmitate, Panthenol, Vegetable Oil, Pentylene Glycol, Methylpropanediol, Sodium Polyacrylate, 4-t-Butylcyclohexanol (Trans-Isomer), Glycyrrhiza Inflata Root Extract, Pantolactone, Caprylyl Glycol, Sodium Hydroxide, Citric Acid"
+    },
+    {
+     "nombre": "Anti-Redness Crema Correctora Día FPS30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800107832"
+     ],
+     "inci": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Dibutyl Adipate, Methylpropanediol, Butyrospermum Parkii Butter, Cetearyl Alcohol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Distarch Phosphate, Lauroyl Lysine, 4-t-Butylcyclohexanol (Trans-Isomer), Glycyrrhiza Inflata Root Extract, Xanthan Gum, Carrageenan, Gellan Gum, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Potassium Cetyl Phosphate, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, 1,2-Hexanediol, Hydroxyacetophenone, Caprylyl Glycol, CI 77891, CI 77288"
+    },
+    {
+     "nombre": "Aquaphor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900577276",
+      "4005800219528",
+      "4005800354625"
+     ],
+     "inci": "Paraffinum Liquidum, Cera Microcristallina, Ceresin, Lanolin Alcohol, Panthenol, Glycerin, Bisabolol"
     },
     {
      "nombre": "Aquaphor Pomada Reparadora",
@@ -2255,77 +2389,95 @@
      "inci": "Petrolatum, Cera Microcristallina/Microcrystalline Wax, Ceresin, Lanolin Alcohol, Panthenol, Glycerin, Bisabolol"
     },
     {
-     "nombre": "pH5 Crema de Manos",
+     "nombre": "Aquaphor Pomada en Spray Corporal",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800383519",
-      "4005800631542"
+      "4005800275838"
      ],
-     "inci": "Aqua/Water, Glycerin, Hydrogenated Coco-Glycerides, Panthenol, Stearyl Alcohol, Triisostearin, Cetyl Alcohol, Palmitic Acid, Stearic Acid, Glyceryl Stearate, Citric Acid, Sodium Citrate, Tocopherol, Sorbitan Stearate, Chondrus Crispus Extract, Tapioca Starch, Myristic Acid, Arachidic Acid, Oleic Acid, Xanthan Gum, Dimethicone, Sodium Hydroxide, Ethylhexylglycerin, Pentylene Glycol, Phenoxyethanol, Parfum/Fragrance"
+     "inci": "Butane, Paraffinum Liquidum, Cera Microcristallina, Paraffin, Lanolin Alcohol, Panthenol, Glycerin, Bisabolol"
     },
     {
-     "nombre": "pH5 Loción Corporal",
+     "nombre": "AtopiControl Bálsamo Calmante para piel atópica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800196485"
+      "4005900791047"
      ],
-     "inci": "Aqua/Water, Glycerin, Panthenol, C15-19 Alkane, Cetyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Hydrogenated Coco-Glycerides, Polybutene, Glyceryl Stearate SE, Citric Acid, Sodium Citrate, Tocopheryl Acetate, Sorbitan Stearate, Sodium Cetearyl Sulfate, Stearyl Alcohol, Dimethicone, Carbomer, Sodium Hydroxide, Tapioca Starch, Trisodium EDTA, Pentylene Glycol, Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, BHT, Parfum/Fragrance"
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Octyldodecanol, Caprylic/Capric Triglyceride, Vitis Vinifera Seed Oil, Distarch Phosphate, Glyceryl Stearate SE, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Oenothera Biennis Oil, Glycyrrhiza Inflata Root Extract, Ceramide NP, Phytosphingosine, Sodium PCA, Glycine, Decylene Glycol, Tocopherol, Citric Acid, Sodium Citrate, Helianthus Annuus Seed Oil, Behenyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, Ethylhexylglycerin, Hydroxyacetophenone, Trisodium Ethylenediamine Disuccinate, Sodium Cetearyl Sulfate, Xanthan Gum, Ascorbyl Palmitate, Oleic Acid, Phenoxyethanol"
     },
     {
-     "nombre": "DermoPure Gel Limpiador",
+     "nombre": "AtopiControl Crema Facial Calmante para la piel atópica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800192883"
+      "4005800348433"
      ],
-     "inci": "Aqua/Water, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Sodium Benzoate, Salicylic Acid"
+     "inci": "Aqua, Glycerin, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Vitis Vinifera Seed Oil, Cetearyl Alcohol, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Hydrogenated Coco-Glycerides, Oenothera Biennis Oil, Glycyrrhiza Inflata Root Extract, Ceramide NP, Phytosphingosine, Oleic Acid, Glycine, Sodium PCA, Tocopherol, Ascorbyl Palmitate, Xanthan Gum, Sodium Hydroxide, Sodium Citrate, Citric Acid, 1,2-Hexanediol, Decylene Glycol, Phenoxyethanol, Ethylhexylglycerin, Hydroxyacetophenone"
     },
     {
-     "nombre": "DermoPure Oil Control Gel Limpiador Triple Efecto",
+     "nombre": "AtopiControl Crema Forte para piel atopica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005900436986"
+      "4005800078002"
      ],
-     "inci": "Aqua/Water, Coco-Glucoside, Salicylic Acid, Glycerin, Sodium Laureth Sulfate, Xanthan Gum, PEG-8, Alcohol Denat., Glycolic Acid, Gluconolactone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Hydroxide, Parfum/Fragrance"
+     "inci": "Aqua, Glycerin, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Vitis Vinifera Seed Oil, Cetearyl Alcohol, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Hydrogenated Coco-Glycerides, Oenothera Biennis Oil, Glycyrrhiza Inflata Root Extract, Decylene Glycol, Menthoxypropanediol, Ceramide NP, Phytosphingosine, Oleic Acid, Glycine, Sodium PCA, Tocopherol, Ascorbyl Palmitate, Xanthan Gum, Sodium Hydroxide, Sodium Citrate, Citric Acid, 1,2-Hexanediol, Phenoxyethanol, Ethylhexylglycerin, Hydroxyacetophenone"
     },
     {
-     "nombre": "DermoPure Oil Control Sérum Triple Efecto",
+     "nombre": "AtopiControl Crema de Manos Calmante para la piel atópica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800294327"
+      "4005800357589"
      ],
-     "inci": "Aqua/Water, Alcohol Denat., Glycerin, Tapioca Starch, Carbomer, Salicylic Acid, Isobutylamido Thiazolyl Resorcinol, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Panthenol, Glucosylrutin, Isoquercitrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pantolactone, Sodium Hydroxide, Trisodium EDTA, Citric Acid, Parfum/Fragrance"
+     "inci": "Aqua, Glycerin, Octyldodecanol, Cetyl Alcohol, Glyceryl Stearate, Caprylic/Capric Triglyceride, Methylpropanediol, Stearyl Alcohol, Hydrogenated Coco-Glycerides, Butyrospermum Parkii Butter, Glyceryl Stearate SE, Cetyl Palmitate, Colloidal Oatmeal, Glycyrrhiza Inflata Root Extract, Ceramide NP, Phytosphingosine, Menthoxypropanediol, Glycine, Sodium PCA, Decylene Glycol, Citric Acid, Sodium Citrate, Sodium Cetearyl Sulfate, Caprylyl Glycol, Oleic Acid, Ethylhexylglycerin, Phenoxyethanol, Benzyl Alcohol"
     },
     {
-     "nombre": "DermoPure Oil Control Fluido Facial Hidratante Matificante",
+     "nombre": "AtopiControl Hidroloción Calmante para piel atopica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800180606"
+      "4005800350603"
      ],
-     "inci": "Aqua/Water, Tapioca Starch, Glycerin, Dimethicone, Cetearyl Alcohol, Salicylic Acid, Carnitine, Decylene Glycol, Glycyrrhiza Inflata Root Extract, PEG-150 Distearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Stearoyl Glutamate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Hydroxyethylcellulose, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Phenoxyethanol, Parfum/Fragrance"
+     "inci": "Aqua, Alcohol Denat., Glycerin, Octyldodecanol, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Tapioca Starch, Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Ceramide NP, Glycine, Sodium PCA, Vitis Vinifera Seed Oil, Decylene Glycol, Tocopherol, Phytosphingosine, Xanthan Gum, Hydroxypropyl Guar, Hydroxyacetophenone, Gellan Gum, Sodium Cetearyl Sulfate, Citric Acid, Oleic Acid"
     },
     {
-     "nombre": "Hyaluron-Filler Booster Hidratante",
+     "nombre": "AtopiControl Spray Calmante para piel atópica",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800310102"
+      "4005800264245"
      ],
-     "inci": "Aqua/Water, Alcohol Denat., Butylene Glycol, Glycerin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Sodium Ascorbyl Phosphate, Citric Acid, BHT, Parfum/Fragrance"
+     "inci": "Aqua, Alcohol Denat., Laureth-9,4-t-Butylcyclohexanol (Trans-Isomer), Menthoxypropanediol, Glycerin, Glycyrrhiza Inflata Root Extract, Glycine, Sodium PCA, Decylene Glycol, 1,2-Hexanediol, Ethylhexylglycerin, Pentylene Glycol, Sodium Citrate, Citric Acid, Piroctone Olamine"
     },
     {
-     "nombre": "Sun After Sun Sensitive Relief Gel-Crema",
+     "nombre": "Crema Corporal Suave pH5",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4005800281891"
+      "4005800163128"
      ],
-     "inci": "Aqua/Water, Glycerin, Alcohol Denat., Butylene Glycol, Tapioca Starch, C12-15 Alkyl Benzoate, Glycine, Sodium Citrate, Cyclomethicone, Caprylic/Capric Triglyceride, Octyldodecanol, Dicaprylyl Ether, Citric Acid, Xanthan Gum, Glucosylrutin, Isoquercitrin, Glycyrrhiza Inflata Root Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Ethylhexylglycerin, Benzoic Acid"
+     "inci": "Aqua, Glycerin, Panthenol, Octyldodecanol, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Alcohol Denat., Glyceryl Stearate, Glyceryl Stearate SE, Decyl Oleate, Triisostearin, Hydroxypropyl Starch Phosphate, Pantolactone, Tocopherol, Tocopheryl Acetate, Sodium Citrate, Citric Acid, Sodium Cetearyl Sulfate, Xanthan Gum, Phenoxyethanol, Caprylyl Glycol, Parfum"
+    },
+    {
+     "nombre": "Crema de Manos pH5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800631542",
+      "4005800383519"
+     ],
+     "inci": "Aqua, Glycerin, Panthenol, Stearyl Alcohol, Triisostearin, Cetyl Alcohol, Palmitic Acid, Stearic Acid, Glyceryl Stearate, Tocopherol, Sodium Citrate, Citric Acid, Sorbitan Stearate, Carrageenan, Myristic Acid, Arachidic Acid, Oleic Acid, Tapioca Starch, Xanthan Gum, Sodium Hydroxide, Ethylhexylglycerin, Phenoxyethanol, Pentylene Glycol, Parfum"
+    },
+    {
+     "nombre": "DermatoCLEAN Desmaquillante Micelar para Ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800270543"
+     ],
+     "inci": "Aqua, Isododecane, Isohexadecane, Coco-Caprylate/Caprate, Glycerin, Glyceryl Glucoside, Caprylyl/Capryl Glucoside, Isopropyl Palmitate, Sodium Chloride, Trisodium EDTA, Benzethonium Chloride, Phenoxyethanol, CI 61565"
     },
     {
      "nombre": "DermatoCLEAN [Hyaluron] Agua Micelar 3 en 1",
@@ -2337,6 +2489,742 @@
      "inci": "Aqua/Water, Poloxamer 124, Glyceryl Glucoside, Glycerin, Sodium Hyaluronate, Decyl Glucoside, Arginine HCl, Sodium Cocoamphoacetate, Trisodium EDTA, Sodium Chloride, 1,2-Hexanediol, Phenoxyethanol"
     },
     {
+     "nombre": "DermoCapillaire (anticaspa)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800288128"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Laureth-9, Piroctone Olamine, Salicylic Acid, Panthenol, Polyquaternium-10, Glycerin, PEG-40 Hydrogenated Castor Oil, Citric Acid, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "DermoCapillaire (urea)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800036804"
+     ],
+     "inci": "Aqua, Sodium Myreth Sulfate, Urea, Decyl Glucoside, Sodium Lactate, Sodium Cocoamphoacetate, Coco-Glucoside, Laureth-9, PEG-200 Hydrogenated Glyceryl Palmate, Glyceryl Oleate, Panthenol, Lactic Acid, Polyquaternium-10, Sodium Benzoate, Sodium Salicylate, Sodium Chloride"
+    },
+    {
+     "nombre": "DermoPure Clinical Crema Corporal Correctora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000077727"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Cetearyl Alcohol, Cocoglycerides, Butyrospermum Parkii Butter, Cetearyl Isononanoate, Glyceryl Stearate Citrate, Tapioca Starch, Hydrogenated Coco-Glycerides, Squalane, Salicylic Acid, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Xanthan Gum, Hydroxypropyl Starch Phosphate, Carrageenan, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "DermoPure Clinical Exfoliante Purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900436993"
+     ],
+     "inci": "Aqua, Glycerin, Coco-Glucoside, Coco-Betaine, Microcrystalline Cellulose, Gluconolactone, Xanthan Gum, Glycolic Acid, Lactic Acid, Cellulose, Mannitol, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Sodium Hydroxide, CI 77289"
+    },
+    {
+     "nombre": "DermoPure Clinical Gel Limpiador Corrector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800364716",
+      "4005800365577"
+     ],
+     "inci": "Aqua, Coco-Glucoside, Salicylic Acid, Glycerin, Xanthan Gum, Sodium Laureth Sulfate, PEG-8, Alcohol Denat., Glycolic Acid, Gluconolactone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "DermoPure Clinical Gel Limpiador Purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800180606",
+      "4005900436986"
+     ],
+     "inci": "Aqua, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Sodium Benzoate, Salicylic Acid"
+    },
+    {
+     "nombre": "DermoPure Clinical Hydra Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000183619"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Panthenol, Squalane, Glyceryl Stearate Citrate, Myristyl Alcohol, Tapioca Starch, Behenyl Alcohol, Cetyl Alcohol, Hydrogenated Coco-Glycerides, Hydroxypropyl Starch Phosphate, Glycyrrhiza Inflata Root Extract, Ceramide NP, 4-t-Butylcyclohexanol (Trans-Isomer), Pantolactone, Xanthan Gum, Carrageenan, Ethylhexylglycerin, Pentylene Glycol, Citric Acid, Phenoxyethanol, Hydroxyacetophenone, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "DermoPure Clinical Oil Control Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800365546"
+     ],
+     "inci": "Aqua, Glycerin, Tapioca Starch, Dimethicone, Cetearyl Alcohol, Salicylic Acid, Carnitine, Decylene Glycol, Glycyrrhiza Inflata Root Extract, PEG-150 Distearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Stearoyl Glutamate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Hydroxyethylcellulose, Sodium Hydroxide, Trisodium EDTA, Disodium Phosphate, Sodium Phosphate, Phenoxyethanol, Tetramethyl Acetyloctahydronaphthalenes, Parfum"
+    },
+    {
+     "nombre": "DermoPure Clinical Peeling 10",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000184913"
+     ],
+     "inci": "Aqua, Glycolic Acid, Glycerin, Tapioca Starch, Cetearyl Alcohol, Glyceryl Stearate, Sodium Hydroxide, Gluconolactone, PEG-40 Stearate, PEG-150 Distearate, Salicylic Acid, Glycyrrhiza Inflata Root Extract, Panthenol, Pantolactone, Xanthan Gum, Phenoxyethanol, Citric Acid"
+    },
+    {
+     "nombre": "DermoPure Clinical Probiom8",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379284"
+     ],
+     "inci": "Ethylhexyl Cocoate, Isopropyl Palmitate, Maltodextrin, Distarch Phosphate, Cutibacterium Acnes CA-31, Cutibacterium Acnes CA-81, Citric Acid, Sodium Citrate, Sodium Glutamate, Sucrose, Aqua, Alcohol Denat., Glycerin, Propylene Glycol, Tapioca Starch, Salicylic Acid, Hydroxyethylcellulose, Disodium Phosphate, Sodium Phosphate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Levulinic Acid, Sodium Levulinate, p-Anisic Acid, PEG-40 Hydrogenated Castor Oil, Parfum, Sodium Cocoamphoacetate, Sodium Laureth Sulfate, Sodium Chloride, Sodium Benzoate"
+    },
+    {
+     "nombre": "DermoPure Clinical Triple Action Sérum Corrector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800293696"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycerin, Tapioca Starch, Salicylic Acid, Carbomer, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Panthenol, Glucosylrutin, Isoquercitrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pantolactone, Sodium Hydroxide, Trisodium EDTA, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "DermoPure Gel Limpiador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800192883"
+     ],
+     "inci": "Aqua/Water, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Sodium Benzoate, Salicylic Acid"
+    },
+    {
+     "nombre": "DermoPure Oil Control Sérum Triple Efecto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800294327"
+     ],
+     "inci": "Aqua/Water, Alcohol Denat., Glycerin, Tapioca Starch, Carbomer, Salicylic Acid, Isobutylamido Thiazolyl Resorcinol, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Panthenol, Glucosylrutin, Isoquercitrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pantolactone, Sodium Hydroxide, Trisodium EDTA, Citric Acid, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity 3D Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800269776"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol, Glycerin, Cetearyl Isononanoate, Diisopropyl Adipate, Isoamyl Laurate, Isopropyl Palmitate, Propylheptyl Caprylate, Cetearyl Alcohol, Distarch Phosphate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Glycyrrhiza Inflata Root Extract, Tocopherol, Glycine Soja Oil, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Dehydroxanthan Gum, Sodium Stearoyl Glutamate, Xanthan Gum, Gellan Gum, Citric Acid, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Contorno de Ojos con Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900650412"
+     ],
+     "inci": "Aqua, Glycerin, Hydrogenated Coco-Glycerides, C12-15 Alkyl Benzoate, Cera Alba, Dicaprylyl Carbonate, Behenyl Alcohol, Butylene Glycol Dicaprylate/Dicaprate, Butylene Glycol, Hydroxypropyl Starch Phosphate, Methylpropanediol, Stearyl Alcohol, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopherol, Xanthan Gum, Sodium Stearoyl Glutamate, Palmitic Acid, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Crema de Día FPS30 Rosé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379451"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Behenyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Xanthan Gum, Sodium Stearoyl Glutamate, Glyceryl Stearate, Sodium Hydroxide, Synthetic Fluorphlogopite, Tin Oxide, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Parfum, CI 77891, CI 77491"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Crema de Día Ultraligera FPS 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800378591"
+     ],
+     "inci": "Aqua, Alcohol Denat., C12-15 Alkyl Benzoate, Glycerin, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Glyceryl Stearate, Silica Dimethyl Silylate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Copernicia Cerifera Cera, Cetearyl Alcohol, Carrageenan, Sodium Stearoyl Glutamate, Xanthan Gum, Sodium Hydroxide, Microcrystalline Cellulose, Cellulose Gum, Trisodium Ethylenediamine Disuccinate, Hydroxyacetophenone, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Crema de Día con Ácido Hialurónico FPS 15",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379574"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol, Glycerin, Cetearyl Isononanoate, Diisopropyl Adipate, Isoamyl Laurate, Isopropyl Palmitate, Propylheptyl Caprylate, Cetearyl Alcohol, Distarch Phosphate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Glycyrrhiza Inflata Root Extract, Tocopherol, Glycine Soja Oil, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Dehydroxanthan Gum, Sodium Stearoyl Glutamate, Xanthan Gum, Gellan Gum, Citric Acid, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Crema de manos correctora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379536"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Alcohol Denat., Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Cocoglycerides, Glyceryl Stearate, Butyrospermum Parkii Butter, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tapioca Starch, Stearyl Alcohol, Caprylyl Glycol, Sodium Stearoyl Glutamate, Xanthan Gum, Gellan Gum, Citric Acid, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Hyaluron Crema de Día FPS 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379697"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Behenyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Xanthan Gum, Sodium Stearoyl Glutamate, Glyceryl Stearate, Sodium Hydroxide, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Hyaluron Filler Rosé FPS 30 Recarga para una piel radiante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800367014"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Behenyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Hyaluronate, Arctium Lappa Fruit Extract, Creatine, 1-Methylhydantoin-2-Imide, Xanthan Gum, Sodium Chloride, Sodium Stearoyl Glutamate, Glyceryl Stearate, Sodium Hydroxide, Synthetic Fluorphlogopite, Tin Oxide, Dimethicone, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Parfum, CI 77891, CI 77491"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Elasticity Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800379611"
+     ],
+     "inci": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Glyceryl Stearate Citrate, Panthenol, Butylene Glycol, Hydroxypropyl Starch Phosphate, Argania Spinosa Kernel Oil, Hydrogenated Coco-Glycerides, Butyrospermum Parkii Butter, Cetyl Palmitate, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopherol, Glycine Soja Oil, Tapioca Starch, Sodium Hydroxide, Xanthan Gum, Pantolactone, Citric Acid, Trisodium Ethylenediamine Disuccinate, Caprylyl Glycol, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Longevity Epigenetic Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800343735"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol, Glycerin, Ricinus Communis Seed Oil, Octyldodecanol, Dibutyl Adipate, Glyceryl Stearate Citrate, Cetearyl Alcohol, Dihydromyricetin, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Tocopherol, Propylheptyl Caprylate, Caprylic/Capric Triglyceride, Distarch Phosphate, Glyceryl Stearate, Lauroyl Lysine, Succinoglycan, Xanthan Gum, Gellan Gum, Diethylhexyl Syringylidenemalonate, Citric Acid, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Ethylhexylglycerin, Sodium Metabisulfite, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Volume-Lift Día FPS 15 para piel normal y mixta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800193316"
+     ],
+     "inci": "Aqua, Glycerin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Alcohol Denat., Cetearyl Alcohol, Dibutyl Adipate, Hydrogenated Coco-Glycerides, Methylpropanediol, Phenylbenzimidazole Sulfonic Acid, C12-15 Alkyl Benzoate, Aluminum Starch Octenylsuccinate, Arginine HCl, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Magnolia Officinalis Bark Extract, Pimpinella Anisum Fruit Extract, Sodium Hyaluronate, Methyl Methacrylate Crosspolymer, Carbomer, Sodium Stearoyl Glutamate, Sodium Chloride, Silica Dimethyl Silylate, Dimethicone, Trisodium EDTA, Sodium Hydroxide, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Volume-Lift Día FPS 15 para piel seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800193279"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Cetearyl Alcohol, Methylpropanediol, Phenylbenzimidazole Sulfonic Acid, C12-15 Alkyl Benzoate, Aluminum Starch Octenylsuccinate, Arginine HCl, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Hydrogenated Coco-Glycerides, Synthetic Beeswax, Magnolia Officinalis Bark Extract, Pimpinella Anisum Fruit Extract, Sodium Hyaluronate, Methyl Methacrylate Crosspolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Sodium Stearoyl Glutamate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Ethylhexylglycerin, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler + Volume-Lift Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800193347"
+     ],
+     "inci": "Aqua, Glycerin, Panthenol, Dicaprylyl Ether, Hydrogenated Coco-Glycerides, Caprylic/Capric Triglyceride, Cetyl Palmitate, Isopropyl Palmitate, Synthetic Beeswax, Glyceryl Stearate Citrate, Methylpropanediol, Octyldodecanol, Arginine HCl, Cetyl Alcohol, Polymethylsilsesquioxane, Stearyl Alcohol, Magnolia Officinalis Bark Extract, Pimpinella Anisum Fruit Extract, Sodium Hyaluronate, Carbomer, Dimethicone, Trisodium EDTA, Sodium Hydroxide, Ethylhexylglycerin, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler +Elasticity Día FPS 30 Repuesto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800366994"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Behenyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Hyaluronate, Arctium Lappa Fruit Extract, Creatine, 1-Methylhydantoin-2-Imide, Xanthan Gum, Sodium Chloride, Sodium Stearoyl Glutamate, Glyceryl Stearate, Sodium Hydroxide, Dimethicone, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler +Longevity Epigenetic Crema de Día FPS30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800382475"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol, Glycerin, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Dibutyl Adipate, Dipropylene Glycol Dibenzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Glyceryl Stearate Citrate, Cetearyl Alcohol, Tapioca Starch, Silica Dimethyl Silylate, Diethylhexyl Butamido Triazone, Dihydromyricetin, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Distarch Phosphate, Glyceryl Stearate, Succinoglycan, Xanthan Gum, Gellan Gum, Diethylhexyl Syringylidenemalonate, Caprylic/Capric Triglyceride, Citric Acid, Sodium Hydroxide, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate, Sodium Metabisulfite, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler +Longevity Epigenetic Crema de Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800382550"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Hydrogenated Coco-Glycerides, Panthenol, Ricinus Communis Seed Oil, Glyceryl Stearate Citrate, Butylene Glycol, Dibutyl Adipate, Octyldodecanol, Hydroxypropyl Starch Phosphate, Cetyl Alcohol, Stearyl Alcohol, Bakuchiol, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Tocopherol, Pantolactone, Propylheptyl Caprylate, Distarch Phosphate, Glyceryl Stearate, Lauroyl Lysine, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Diethylhexyl Syringylidenemalonate, Xanthan Gum, Caprylic/Capric Triglyceride, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Sodium Metabisulfite, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Booster Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800310102"
+     ],
+     "inci": "Aqua/Water, Alcohol Denat., Butylene Glycol, Glycerin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Sodium Ascorbyl Phosphate, Citric Acid, BHT, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Hyaluron-Filler Contorno de Ojos FPS 15 para las arrugas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800057670"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol Dicaprylate/Dicaprate, Octyldodecanol, Methylpropanediol, Synthetic Beeswax, Behenyl Alcohol, Hydrogenated Coco-Glycerides, Hydroxypropyl Starch Phosphate, Stearyl Alcohol, Cetyl Palmitate, Distarch Phosphate, Glyceryl Stearate Citrate, Sodium Hyaluronate, Glycyrrhetinic Acid, Glycine Soja Germ Extract, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Ethylhexylglycerin, Caprylyl Glycol, 1,2-Hexanediol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Hyaluron-Filler Día FPS 15 Piel Normal y Mixta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800014765"
+     ],
+     "inci": "Aqua, Glycerin, Octyldodecanol, Cetearyl Alcohol, Methylpropanediol, Butylene Glycol, Glyceryl Stearate Citrate, Caprylic/Capric Triglyceride, Behenyl Alcohol, Butyl Methoxydibenzoylmethane, Hydroxypropyl Starch Phosphate, Phenylbenzimidazole Sulfonic Acid, Dicaprylyl Ether, Butylene Glycol Dicaprylate/Dicaprate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Distarch Phosphate, Ethylhexyl Triazone, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Tocopherol, Xanthan Gum, Hydrogenated Coco-Glycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Hydroxide, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Día FPS 15 Piel Seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800019623"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Butylene Glycol, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Butyrospermum Parkii Butter, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Methylpropanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetyl Alcohol, Hydroxypropyl Starch Phosphate, Stearyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Sodium Hyaluronate, Glycyrrhetinic Acid, Glycine Soja Germ Extract, Silica, Xanthan Gum, Sodium Hydroxide, Mica, Trisodium EDTA, 1,2-Hexanediol, Phenoxyethanol, Parfum, CI 77891"
+    },
+    {
+     "nombre": "Hyaluron-Filler Día FPS 15 Piel Seca Recarga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900991041"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Butylene Glycol, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Butyrospermum Parkii Butter, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Methylpropanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetyl Alcohol, Hydroxypropyl Starch Phosphate, Stearyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Sodium Hyaluronate, Glycyrrhetinic Acid, Glycine Soja Germ Extract, Silica, Xanthan Gum, Sodium Hydroxide, Mica, Trisodium EDTA, 1,2-Hexanediol, Phenoxyethanol, Parfum, CI 77891"
+    },
+    {
+     "nombre": "Hyaluron-Filler Día FPS 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800199004"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Behenyl Alcohol, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Glyceryl Stearate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Xanthan Gum, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Día FPS 30 Recarga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800366987"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, Dibutyl Adipate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Behenyl Alcohol, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Glyceryl Stearate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Xanthan Gum, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Hydrating Booster Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900942777"
+     ],
+     "inci": "Aqua, Glycerin, Distarch Phosphate, Sodium Hyaluronate, Cetearyl Isononanoate, Isopropyl Palmitate, Lauroyl Lysine, Squalane, Pantolactone, Tocopherol, Gellan Gum, Dehydroxanthan Gum, Xanthan Gum, Cetyl Alcohol, Behenyl Alcohol, Citric Acid, Lactic Acid, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Hydrating Booster Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900656063"
+     ],
+     "inci": "Aqua, Butylene Glycol, Glycerin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Sodium Ascorbyl Phosphate, Citric Acid, BHT, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Noche Reafirmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800022197"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Isopropyl Palmitate, Panthenol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Octyldodecanol, Stearyl Alcohol, Butylene Glycol, Hydroxypropyl Starch Phosphate, Behenyl Alcohol, Sodium Hyaluronate, Glycine Soja Germ Extract, Glycyrrhetinic Acid, Tocopherol, Pantolactone, Distarch Phosphate, Xanthan Gum, Citric Acid, Dimethicone, Trisodium EDTA, Caprylyl Glycol, 1,2-Hexanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Noche Reafirmante Recarga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005900991058"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Isopropyl Palmitate, Panthenol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Octyldodecanol, Stearyl Alcohol, Butylene Glycol, Hydroxypropyl Starch Phosphate, Behenyl Alcohol, Sodium Hyaluronate, Glycyrrhetinic Acid, Glycine Soja Germ Extract, Tocopherol, Distarch Phosphate, Xanthan Gum, Citric Acid, Pantolactone, Dimethicone, Trisodium EDTA, 1,2-Hexanediol, Caprylyl Glycol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hyaluron-Filler Sérum Reafirmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4006000188096"
+     ],
+     "inci": "Aqua, Glycerin, Panthenol, Octyldodecanol, Sodium Hyaluronate, Pentylene Glycol, 4-t-Butylcyclohexanol (Trans-Isomer), Xanthan Gum, Glyceryl Stearate SE, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid"
+    },
+    {
+     "nombre": "Recarga de Noche Eucerin Hyaluron Filler Elasticity para Piel Madura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800367007"
+     ],
+     "inci": "Aqua, Butylene Glycol, Caprylic/Capric Triglyceride, Panthenol, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Argania Spinosa Kernel Oil, Sodium Hyaluronate, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun After Sun Sensitive Relief Gel-Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800281891"
+     ],
+     "inci": "Aqua/Water, Glycerin, Alcohol Denat., Butylene Glycol, Tapioca Starch, C12-15 Alkyl Benzoate, Glycine, Sodium Citrate, Cyclomethicone, Caprylic/Capric Triglyceride, Octyldodecanol, Dicaprylyl Ether, Citric Acid, Xanthan Gum, Glucosylrutin, Isoquercitrin, Glycyrrhiza Inflata Root Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Ethylhexylglycerin, Benzoic Acid"
+    },
+    {
+     "nombre": "Sun Body Allergy Protect Gel-Crema FPS50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800375149"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butyl Methoxydibenzoylmethane, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Dibutyl Adipate, Distarch Phosphate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Diethylhexyl Butamido Triazone, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Glycyrrhiza Inflata Root Extract, Glucosylrutin, Isoquercitrin, Glycyrrhetinic Acid, Tocopherol, Glycerin, C18-38 Alkyl Hydroxystearoyl Stearate, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Cetyl Palmitate, Microcrystalline Cellulose, Xanthan Gum, Cellulose Gum, Sodium Stearoyl Glutamate, Silica Dimethyl Silylate, Phenoxyethanol, Caprylyl Glycol, Hydroxyacetophenone, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride"
+    },
+    {
+     "nombre": "Sun Body Oil Control Aerosol Spray FPS 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800126529"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Butylene Glycol Dicaprylate/Dicaprate, Caprylic/Capric Triglyceride, Dibutyl Adipate, Ethylhexyl Triazone, Dicaprylyl Carbonate, Acrylates/Octylacrylamide Copolymer, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Tocopherol, Aqua, Parfum"
+    },
+    {
+     "nombre": "Sun Body Oil Control Gel-Crema FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800264214"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Distarch Phosphate, Dibutyl Adipate, Ethylhexyl Triazone, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Behenyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Tocopherol, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Cetyl Palmitate, Xanthan Gum, Sodium Stearoyl Glutamate, Silica Dimethyl Silylate, Phenoxyethanol, Hydroxyacetophenone, Caprylyl Glycol, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Parfum"
+    },
+    {
+     "nombre": "Sun Body Sensitive Protect Spray FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800191084"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Dibutyl Adipate, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Sucrose Polystearate, Sodium Stearoyl Glutamate, Hydrogenated Polyisobutene, Xanthan Gum, Sodium Hydroxide, Sodium Chloride, Trisodium EDTA, Caprylyl Glycol, Hydroxyacetophenone, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Crema Oil control con color (tono claro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800341106"
+     ],
+     "inci": "Aqua, CI 77891, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica, Silica Dimethyl Silylate, Cocoglycerides, Copernicia Cerifera Cera, Carnitine, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycerin, Tapioca Starch, Chondrus Crispus Extract, Hydroxypropyl Methylcellulose, Xanthan Gum, Behenyl Alcohol, Cetearyl Alcohol, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Palmitic Acid, Sodium Stearoyl Glutamate, Sodium Hydroxide, Sodium Chloride, Trisodium EDTA, Phenoxyethanol, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Sun Crema Oil control con color (tono medio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800287824"
+     ],
+     "inci": "Aqua, Alcohol Denat., CI 77891, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica, Silica Dimethyl Silylate, Cocoglycerides, Copernicia Cerifera Cera, Carnitine, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycerin, Tapioca Starch, Chondrus Crispus Extract, Hydroxypropyl Methylcellulose, Xanthan Gum, Behenyl Alcohol, Cetearyl Alcohol, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Palmitic Acid, Sodium Stearoyl Glutamate, Sodium Hydroxide, Sodium Chloride, Trisodium EDTA, Phenoxyethanol, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Sun Face Oil Control Serum UV FPS50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800376542"
+     ],
+     "inci": "Aqua, Alcohol Denat., C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-6 Stearate, Tapioca Starch, Silica, Silica Dimethyl Silylate, Glycerin, Panthenol, Tocopherol, Carnitine, Sodium Ascorbyl Phosphate, Pantolactone, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycine Soja Oil, Copernicia Cerifera Cera, Glyceryl Stearate, Cetearyl Alcohol, Polyglyceryl-6 Behenate, Carrageenan, Xanthan Gum, Citric Acid, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Hydroxyacetophenone, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Face Photoaging Control Fluid FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800145193"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Alcohol Denat., Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Triazone, Dibutyl Adipate, Distarch Phosphate, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glyceryl Stearate Citrate, Phenylbenzimidazole Sulfonic Acid, Behenyl Alcohol, Cetearyl Alcohol, Sodium Hyaluronate, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Copernicia Cerifera Cera, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Silica, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Hydroxyacetophenone, Ethylhexylglycerin, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Sun Face Sensitive Protect Cream FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800125560"
+     ],
+     "inci": "Aqua, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Alcohol Denat., Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Dibutyl Adipate, Distarch Phosphate, Ethylhexyl Triazone, Tapioca Starch, Polyglyceryl-6 Stearate, Behenyl Alcohol, Cetearyl Alcohol, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Copernicia Cerifera Cera, Polyglyceryl-6 Behenate, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Silica, Trisodium EDTA, Sodium Hydroxide, Hydroxyacetophenone, Ethylhexylglycerin, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Sun Fluid Pigment Control FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800236396"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Glyceryl Stearate Citrate, Silica, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Tapioca Starch, Silica Dimethyl Silylate, Cetearyl Alcohol, Behenyl Alcohol, Tocopheryl Acetate, Glycyrrhiza Inflata Root Extract, Copernicia Cerifera Cera, Xanthan Gum, Carrageenan, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Trisodium EDTA, Hydroxyacetophenone, Phenoxyethanol, Ethylhexylglycerin, Parfum, Chondrus Crispus Extract, Xanthan Gum, Carrageenan, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Trisodium EDTA, Hydroxyacetophenone, Phenoxyethanol, Ethylhexylglycerin, Parfum"
+    },
+    {
+     "nombre": "Sun Gel Crema Oil Control Dry Touch FPS 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800120237"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Behenyl Alcohol, Silica Dimethyl Silylate, Copernicia Cerifera Cera, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Carnitine, Glycerin, Dimethicone, Xanthan Gum, Carrageenan, Sodium Chloride, Sodium Stearoyl Glutamate, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Decylene Glycol, Ethylhexylglycerin, Hydroxyacetophenone"
+    },
+    {
+     "nombre": "Sun Gel-Crema Oil Control Dry Touch FPS 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800120282"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Behenyl Alcohol, Silica Dimethyl Silylate, Copernicia Cerifera Cera, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Carnitine, Glycerin, Dimethicone, Xanthan Gum, Carrageenan, Sodium Chloride, Sodium Stearoyl Glutamate, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Decylene Glycol, Ethylhexylglycerin, Hydroxyacetophenone"
+    },
+    {
+     "nombre": "Sun Kids Sensitive Protect Gel-Crema FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800364327"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Distarch Phosphate, Ethylhexyl Triazone, Dibutyl Adipate, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Myristyl Myristate, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Diethylhexyl Butamido Triazone, Hydrogenated Rapeseed Oil, Copernicia Cerifera Cera, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Tocopherol, Xanthan Gum, C18-38 Alkyl Hydroxystearoyl Stearate, Cetyl Palmitate, Silica Dimethyl Silylate, Sodium Hydroxide, Caprylyl Glycol, Hydroxyacetophenone, Trisodium EDTA, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Kids Sensitive Protect Spray FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800033094"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butylene Glycol Dicaprylate/Dicaprate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Dibutyl Adipate, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Sucrose Polystearate, Sodium Stearoyl Glutamate, Hydrogenated Polyisobutene, Xanthan Gum, Sodium Hydroxide, Sodium Chloride, Trisodium EDTA, Caprylyl Glycol, Hydroxyacetophenone, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Kids Sensitive Protect Trigger Spray FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800330148"
+     ],
+     "inci": "Aqua, Homosalate, Glycerin, Alcohol Denat., Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Dibutyl Adipate, Copernicia Cerifera Cera, Phenylbenzimidazole Sulfonic Acid, VP/Hexadecene Copolymer, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Sucrose Polystearate, Sodium Stearoyl Glutamate, Hydrogenated Polyisobutene, Microcrystalline Cellulose, Cellulose Gum, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium Iminodisuccinate, Sodium Hydroxide, Sodium Chloride, Trisodium EDTA, Ethylhexylglycerin, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Lotion Extra Light Sensitive Protect FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800125720"
+     ],
+     "inci": "Aqua, Alcohol Denat., Butyl Methoxydibenzoylmethane, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Dibutyl Adipate, Distarch Phosphate, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Diethylhexyl Butamido Triazone, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycerin, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, C18-38 Alkyl Hydroxystearoyl Stearate, Cetyl Palmitate, Microcrystalline Cellulose, Xanthan Gum, Cellulose Gum, Sodium Stearoyl Glutamate, Silica Dimethyl Silylate, Phenoxyethanol, Hydroxyacetophenone, Caprylyl Glycol, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Parfum"
+    },
+    {
+     "nombre": "Sun Líquido Solar Ultraligero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800357343",
+      "4005800357404"
+     ],
+     "inci": "Aqua, Alcohol Denat., C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica, Tapioca Starch, Polyglyceryl-6 Stearate, Silica Dimethyl Silylate, Glycerin, Glycyrrhiza Inflata Root Extract, Sodium Hyaluronate, Arginine HCl, Sodium PCA, Sodium Lactate, Glycyrrhetinic Acid, Cetearyl Alcohol, Glyceryl Stearate, Copernicia Cerifera Cera, Polyglyceryl-6 Behenate, Xanthan Gum, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Trisodium EDTA, Hydroxyacetophenone, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Sun Oil Control Dry Touch Spray Transparente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800005572"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Butylene Glycol Dicaprylate/Dicaprate, Caprylic/Capric Triglyceride, Dibutyl Adipate, Ethylhexyl Triazone, Dicaprylyl Carbonate, Acrylates/Octylacrylamide Copolymer, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycyrrhetinic Acid, Glycyrrhiza Inflata Root Extract, Tocopherol, Aqua, Parfum"
+    },
+    {
+     "nombre": "Sun Photoaging Control FPS 50+ con color tono medio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800145247"
+     ],
+     "inci": "Aqua, Alcohol Denat., CI 77891, Glycerin, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica Dimethyl Silylate, Cocoglycerides, Copernicia Cerifera Cera, Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Silica, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Behenyl Alcohol, Cetearyl Alcohol, Arachidic Acid, Myristic Acid, Oleic Acid, Palmitic Acid, Stearic Acid, Carbomer, Sodium Stearoyl Glutamate, Sodium Chloride, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Hydroxyacetophenone, Alumina, CI 77492, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Sun Protección solar con pigmentos de color con SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800341137"
+     ],
+     "inci": "Aqua, Alcohol Denat., CI 77891, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica Dimethyl Silylate, CI 77492, Cocoglycerides, Copernicia Cerifera Cera, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycerin, Tocopheryl Acetate, Silica, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Behenyl Alcohol, Cetearyl Alcohol, Arachidic Acid, Myristic Acid, Oleic Acid, Palmitic Acid, Stearic Acid, Carbomer, Sodium Stearoyl Glutamate, Sodium Chloride, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Hydroxyacetophenone, Parfum, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Sun protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800302053"
+     ],
+     "inci": "Aqua, Alcohol Denat., CI 77891, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica Dimethyl Silylate, CI 77492, Cocoglycerides, Copernicia Cerifera Cera, Glycyrrhiza Inflata Root Extract, Glycyrrhetinic Acid, Glycerin, Tocopheryl Acetate, Silica, Carrageenan, Xanthan Gum, Hydroxypropyl Methylcellulose, Behenyl Alcohol, Cetearyl Alcohol, Arachidic Acid, Myristic Acid, Oleic Acid, Palmitic Acid, Stearic Acid, Carbomer, Sodium Stearoyl Glutamate, Sodium Chloride, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Hydroxyacetophenone, Parfum, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Ultra-Sensitive Crema Calmante para Piel Normal a Mixta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800108044"
+     ],
+     "inci": "Aqua, Squalane, Glycerin, Pentylene Glycol, Methylpropanediol, Tapioca Starch, Arginine HCl, Cetearyl Alcohol, 4-t-Butylcyclohexanol (Trans-Isomer), Ammonium Acryloyldimethyltaurate/VP Copolymer, Carbomer, Caprylyl Glycol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Ultra-Sensitive Crema Calmante para Piel Seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800108129"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Methyl Palmitate, Panthenol, Vegetable Oil, Pentylene Glycol, Methylpropanediol, Sodium Polyacrylate, Arginine HCl, 4-t-Butylcyclohexanol (Trans-Isomer), Pantolactone, Sodium Hydroxide, Citric Acid, Caprylyl Glycol"
+    },
+    {
+     "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800346057",
+      "4005800346620"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Urea, Lauryl Glucoside, Sodium Lactate, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Maltodextrin, Glycerin, Panthenol, Niacinamide, Alanine, Arginine HCl, Carnitine, Citric Acid, Glycine, Hydrogenated Coconut Acid, Lactic Acid, Pantolactone, Sodium Citrate, Sodium Cocoyl Isethionate, Sodium PCA, Sodium Benzoate"
+    },
+    {
+     "nombre": "UreaRepair Crema Corporal Hidratante 5 % Urea para piel seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800202933"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Urea, Hydrogenated Coco-Glycerides, Caprylic/Capric Triglyceride, Octyldodecanol, Butyrospermum Parkii Butter, Sodium Lactate, Glyceryl Stearate SE, Ceramide NP, Lactic Acid, Arginine HCl, Sodium PCA, Cholesterol, Helianthus Annuus Seed Oil, Alanine, Carnitine, Glycine, Sodium Chloride, Dimethicone, Tapioca Starch, Chondrus Crispus Extract, Sodium Cetearyl Sulfate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decylene Glycol, Phenoxyethanol, Pentylene Glycol"
+    },
+    {
+     "nombre": "UreaRepair Crema de Manos 5% Urea para manos secas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800164330"
+     ],
+     "inci": "Aqua, Glycerin, Urea, Dibutyl Adipate, Glyceryl Stearate, Stearyl Alcohol, Dicaprylyl Ether, Cetearyl Alcohol, Sodium Lactate, Tapioca Starch, Glyceryl Stearate SE, Ceramide NP, Lactic Acid, Arginine HCl, Sodium PCA, Cholesterol, Helianthus Annuus Seed Oil, Alanine, Carnitine, Glycine, Sodium Chloride, Dimethicone, Xanthan Gum, Sodium Cetearyl Sulfate, Decylene Glycol, Phenoxyethanol, Pentylene Glycol"
+    },
+    {
+     "nombre": "UreaRepair Crema de Pies 10% Urea para pies secos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800036101"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Glyceryl Stearate, Ethylhexyl Cocoate, Hydrogenated Coco-Glycerides, Octyldodecanol, Sodium Lactate, Glyceryl Stearate SE, Hydroxypropyl Starch Phosphate, Ceramide NP, Lactic Acid, Tocopherol, Cholesterol, Alanine, Carnitine, Glycine, Sodium PCA, Arginine HCl, Phytosphingosine, Helianthus Annuus Seed Oil, Oleic Acid, Xanthan Gum, Tapioca Starch, Sorbitan Stearate, Sodium Cetearyl Sulfate, Phenoxyethanol, Sodium Chloride"
+    },
+    {
+     "nombre": "UreaRepair Espuma para Pies 10 % Urea para pies secos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800287855"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Decyl Oleate, Isobutane, Panthenol, Alcohol Denat., Stearyl Alcohol, Tapioca Starch, Glyceryl Stearate SE, Propane, Helianthus Annuus Seed Oil, Ceramide NP, Ethylhexyl Cocoate, Glycine, Butane, Arginine HCl, Sodium PCA, Decylene Glycol, Sodium Lactate, Sodium Citrate, Sodium Cetearyl Sulfate, Phenoxyethanol, Methyl Benzoate, Citric Acid, Carnitine, Sodium Chloride, Cholesterol, Alanine, Lactic Acid, Pantolactone, Tocopherol, Parfum"
+    },
+    {
+     "nombre": "UreaRepair Loción Hidratante 5% Urea (Perfume Calmante)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800385476"
+     ],
+     "inci": "Aqua, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Glucoside, Ethylhexyl Cocoate, Sodium Lactate, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Octyldodecanol, Dicaprylyl Ether, Tapioca Starch, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Alanine, Carnitine, Ceramide NP, Cholesterol, Chondrus Crispus Extract, Glycine, Helianthus Annuus Seed Oil, Lactic Acid, Sodium Cetearyl Sulfate, Sodium Chloride, Sodium PCA, Tocopherol, Dimethicone, Methyl Benzoate, Pentylene Glycol, Decylene Glycol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "UreaRepair Loción Hidratante Intensiva 10% Urea (1000 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800233319"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Isopropyl Stearate, Dicaprylyl Ether, Glyceryl Glucoside, Sodium Lactate, Butyrospermum Parkii Butter, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Tapioca Starch, Carnitine, Cetearyl Alcohol, Ceramide NP, Arginine HCl, Sodium PCA, Histidine HCl, Lactic Acid, Mannitol, Arginine, Serine, Sucrose, PCA, Citrulline, Glycogen, Alanine, Threonine, Glutamic Acid, Lysine HCl, Sodium Chloride, 1,2-Hexanediol, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "UreaRepair Loción Hidratante Intensiva 10% Urea (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800385438"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Isopropyl Stearate, Dicaprylyl Ether, Glyceryl Glucoside, Sodium Lactate, Butyrospermum Parkii Butter, Tapioca Starch, Carnitine, Cetearyl Alcohol, Ceramide NP, Sodium PCA, Histidine HCl, Lactic Acid, Mannitol, Arginine, Serine, Sucrose, PCA, Citrulline, Glycogen, Alanine, Threonine, Glutamic Acid, Lysine HCl, Sodium Chloride, 1,2-Hexanediol, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "UreaRepair PLUS Loción 10% Urea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800334290"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Isopropyl Stearate, Dicaprylyl Ether, Glyceryl Glucoside, Sodium Lactate, Butyrospermum Parkii Butter, Nylon-12, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Carnitine, Cetearyl Alcohol, Ceramide NP, Arginine HCl, Sodium PCA, Histidine HCl, Lactic Acid, Mannitol, Arginine, Serine, Sucrose, PCA, Citrulline, Glycogen, Alanine, Threonine, Glutamic Acid, Lysine HCl, Sodium Chloride, 1,2-Hexanediol, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "UreaRepair Plus Loción 5% Urea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800162442"
+     ],
+     "inci": "Aqua/Water, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Glucoside, Cyclomethicone, Sodium Lactate, Butyrospermum Parkii Butter/Shea Butter, Caprylic/Capric Triglyceride, Methylpropanediol, Octyldodecanol, Dicaprylyl Ether, Tapioca Starch, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Carnitine, Ceramide 3, Sodium PCA, Arginine HCl, Serine, Alanine, Histidine, Citrulline, Lysine, Lactic Acid, Sodium Chloride, Dimethiconol, Glycogen, Mannitol, Sucrose, Glutamic Acid, Threonine, Chondrus Crispus, Sodium Cetearyl Sulfate, 1,2-Hexanediol, Phenoxyethanol"
+    },
+    {
+     "nombre": "UreaRepair Tratamiento Localizado 30% Urea para piel muy seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800220203"
+     ],
+     "inci": "Aqua, Urea, Octyldodecanol, Caprylic/Capric Triglyceride, Sodium Lactate, Decyl Oleate, Polyglyceryl-2 Dipolyhydroxystearate, Arginine HCl, Chondrus Crispus Extract, Ceramide NP, Cholesterol, Helianthus Annuus Seed Oil, Alanine, Carnitine, Glycine, Lactic Acid, Sodium PCA, Sodium Chloride, Decylene Glycol, Pentylene Glycol"
+    },
+    {
+     "nombre": "pH5 Aceite de Ducha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800196645",
+      "4005800631290",
+      "4005800631214",
+      "4005800019531"
+     ],
+     "inci": "Glycine Soja (Soybean) Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis (Castor) Seed Oil, Poloxamer 101, Parfum/Fragrance, Aqua/Water, Propylene Glycol, Panthenol, Tocopherol, Citric Acid, Sodium Citrate"
+    },
+    {
+     "nombre": "pH5 Aceite de Lavado para las Manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800390517"
+     ],
+     "inci": "Glycine Soja Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis Seed Oil, Poloxamer 101, Parfum, Propylene Glycol, Panthenol, Tocopherol, Pantolactone, Citric Acid, Sodium Citrate, Aqua, Propyl Gallate"
+    },
+    {
+     "nombre": "pH5 Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800381966"
+     ],
+     "inci": "Aqua, Cetyl Palmitate, Glycerin, Panthenol, Isopropyl Myristate, Ethylhexyl Stearate, Cetyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate SE, Tocopheryl Acetate, Pantolactone, Sorbitan Stearate, Sodium Citrate, Citric Acid, Caprylyl Glycol, Phenoxyethanol, Sodium Cetearyl Sulfate, Parfum"
+    },
+    {
+     "nombre": "pH5 Crema gel Ultraligera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800329487"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetyl Alcohol, Glyceryl Stearate Citrate, Alcohol Denat., Coco-Caprylate/Caprate, Butyrospermum Parkii Butter, Panthenol, Pantolactone, Caprylyl Glycol, Hydroxypropyl Starch Phosphate, Xanthan Gum, Hydroxyacetophenone, Ethylhexylglycerin, Phenoxyethanol, Sodium Citrate, Citric Acid, Parfum"
+    },
+    {
      "nombre": "pH5 Gel de Ducha Soft Shower",
      "include": [],
      "exclude": [],
@@ -2344,6 +3232,123 @@
       "4005900662736"
      ],
      "inci": "Aqua/Water, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Citric Acid, Sodium Chloride, Methylpropanediol, Panthenol, Sodium Citrate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Polyquaternium-10, Sodium Benzoate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "pH5 Gel de baño (1000 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800630750"
+     ],
+     "inci": "Aqua, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Citric Acid, Sodium Chloride, Methylpropanediol, Panthenol, Glycerin, Pantolactone, Sodium Citrate, Coco-Glucoside, Glycol Distearate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "pH5 Gel de baño (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800384905"
+     ],
+     "inci": "Aqua, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Citric Acid, Glycerin, Pantolactone, Sodium Citrate, Coco-Glucoside, Glycol Distearate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "pH5 Intim-Protect Gel de Higiene Íntima",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800390074"
+     ],
+     "inci": "Aqua, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Lactic Acid, Sodium Chloride, Panthenol, Bisabolol, Citric Acid, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "pH5 Lip Active",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800178054"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Cera Alba, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Polyglyceryl-4 Isostearate, Panthenol, Aqua, Tocopherol, Tocopheryl Acetate, Pantolactone, Simmondsia Chinensis Seed Oil, Helianthus Annuus Seed Oil, Ascorbyl Palmitate, Citric Acid, Sodium Citrate, Aroma"
+    },
+    {
+     "nombre": "pH5 Loción Corporal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800196485"
+     ],
+     "inci": "Aqua/Water, Glycerin, Panthenol, C15-19 Alkane, Cetyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Hydrogenated Coco-Glycerides, Polybutene, Glyceryl Stearate SE, Citric Acid, Sodium Citrate, Tocopheryl Acetate, Sorbitan Stearate, Sodium Cetearyl Sulfate, Stearyl Alcohol, Dimethicone, Carbomer, Sodium Hydroxide, Tapioca Starch, Trisodium EDTA, Pentylene Glycol, Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, BHT, Parfum/Fragrance"
+    },
+    {
+     "nombre": "pH5 Loción Enriquecida 100ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800098338"
+     ],
+     "inci": "Aqua, Isopropyl Stearate, Panthenol, Caprylic/Capric Triglyceride, Isopropyl Palmitate, Octyldodecanol, Polyglyceryl-2 Dipolyhydroxystearate, Polyglyceryl-3 Diisostearate, Sodium Citrate, Citric Acid, Tocopherol, Pantolactone, Magnesium Sulfate, 1,2-Hexanediol, Phenoxyethanol, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "pH5 Loción Enriquecida F",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800630132"
+     ],
+     "inci": "Aqua, Isopropyl Stearate, Panthenol, Caprylic/Capric Triglyceride, Isopropyl Palmitate, Octyldodecanol, Polyglyceryl-2 Dipolyhydroxystearate, Polyglyceryl-3 Diisostearate, Sodium Citrate, Citric Acid, Tocopherol, Pantolactone, Magnesium Sulfate, 1,2-Hexanediol, Phenoxyethanol, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "pH5 Loción Hidratante Ultraligera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800203350"
+     ],
+     "inci": "Aqua, Glycerin, Panthenol, Butyrospermum Parkii Butter, Methyl Palmitate, Alcohol Denat., Cetyl Palmitate, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Tapioca Starch, Propylheptyl Caprylate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Phenoxyethanol, Pantolactone, Parfum"
+    },
+    {
+     "nombre": "pH5 Loción Ligera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800203381"
+     ],
+     "inci": "Aqua, Glycerin, Panthenol, Butyrospermum Parkii Butter, Methyl Palmitate, Alcohol Denat., Cetyl Palmitate, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Tapioca Starch, Propylheptyl Caprylate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Phenoxyethanol, Pantolactone, Parfum"
+    },
+    {
+     "nombre": "pH5 Oleogel de Ducha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800384943"
+     ],
+     "inci": "Glycine Soja Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis Seed Oil, Poloxamer 101, Parfum, Tocopherol, Pantolactone, Citric Acid, Sodium Citrate, Aqua, Propyl Gallate"
+    },
+    {
+     "nombre": "pH5 Oleogel de ducha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800631191"
+     ],
+     "inci": "Glycine Soja Oil, Laureth-4, MIPA-Laureth Sulfate, Ricinus Communis Seed Oil, Poloxamer 101, Parfum, Aqua, Propylene Glycol, Panthenol, Tocopherol, Citric Acid, Sodium Citrate"
+    },
+    {
+     "nombre": "pH5 Óleo Gel de Ducha Reconfortante para Piel Sensible (1000 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800357466"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Caprylyl/Capryl Glucoside, Citric Acid, Ricinus Communis Seed Oil, Olea Europaea Fruit Oil, Glycine Soja Oil, Niacinamide, Panthenol, Pantolactone, Sodium Citrate, Sodium Chloride, Propyl Gallate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "pH5 Óleo Gel de Ducha Reconfortante para Piel Sensible (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4005800385599"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Ricinus Communis Seed Oil, Olea Europaea Fruit Oil, Glycine Soja Oil, Niacinamide, Panthenol, Pantolactone, Sodium Citrate, Sodium Chloride, Tocopherol, Parfum"
     }
    ]
   },
