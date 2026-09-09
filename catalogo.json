@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09t",
+  "version": "2026-09-09u",
   "marcas": [
     {
       "key": "larocheposay",
@@ -105,6 +105,34 @@
             "3337875757669"
           ],
           "inci": "Aqua/Water, Glycerin, Butylene Glycol, Propanediol, Butyrospermum Parkii Butter/Shea Butter, Pentylene Glycol, Squalane, Polysorbate 20, Zea Mays Starch/Corn Starch, Salvia Miltiorrhiza Root Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Sphingomonas Ferment Extract, Ammonium Polyacryloyldimethyl Taurate, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester"
+        },
+        {
+          "nombre": "Lipikar Huile Lavante AP+ (Aceite de Ducha)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875905466",
+            "3337875656764"
+          ],
+          "inci": "Aqua/Water, Glycerin, Sucrose, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Citric Acid, Niacinamide, Parfum/Fragrance, PEG-75 Shea Butter Glycerides, Polysorbate 20, PPG-5-Ceteth-20, Sodium Benzoate, Sodium Hydroxide, Vitreoscilla Ferment"
+        },
+        {
+          "nombre": "Cicaplast Labios (Baume Lèvres)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "30106659"
+          ],
+          "inci": "Caprylic/Capric Triglyceride, PPG-5 Pentaerythrityl Ether, PEG-5 Pentaerythrityl Ether, Butyrospermum Parkii Butter/Shea Butter, Cera Alba/Beeswax, Panthenol, Hydrogenated Vegetable Oil, Ethylhexyl Palmitate, Silica Silylate, Polybutene, Glycine Soja Sterols/Soybean Sterols, Aqua/Water, Sodium Saccharin, Myristyl Malate Phosphonic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+        },
+        {
+          "nombre": "Toleriane Dermallergo Contorno de Ojos",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875757515"
+          ],
+          "inci": "Aqua/Water, Glycerin, Squalane, Propanediol, Butylene Glycol, Butyrospermum Parkii Butter/Shea Butter, Pentylene Glycol, Niacinamide, Dimethicone, Polymethylsilsesquioxane, Polysorbate 20, Glyceryl Acrylate/Acrylic Acid Copolymer, Dimethiconol, Aluminum Starch Octenylsuccinate, Ammonium Polyacryloyldimethyl Taurate, Disodium EDTA, Citric Acid, Acetyl Dipeptide-1 Cetyl Ester"
         }
       ]
     },
