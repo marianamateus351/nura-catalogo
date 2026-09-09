@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ai",
+  "version": "2026-09-09aj",
   "marcas": [
     {
       "key": "larocheposay",
@@ -831,6 +831,78 @@
             "3282770152555"
           ],
           "inci": "Avene Aqua/Avene Thermal Spring Water, Dicaprylyl Carbonate, Glycerin, Pentylene Glycol, C14-22 Alcohols, Behenyl Alcohol, Hydrogenated Vegetable Oil, Sodium Stearoyl Glutamate, C12-20 Alkyl Glucoside, Citric Acid, Parfum/Fragrance, Glyceryl Caprylate, Glycine Soja (Soybean) Oil, Sclerotium Gum, Sodium Benzoate, Tocopherol, Xanthan Gum"
+        },
+        {
+          "nombre": "Cold Cream Stick Labial Nutritivo",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770142112"
+          ],
+          "inci": "Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglyceride, Cera Alba/Beeswax, Carthamus Tinctorius (Safflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Copernicia Cerifera (Carnauba) Wax, Simmondsia Chinensis (Jojoba) Seed Oil, Avene Aqua/Avene Thermal Spring Water, Bisabolol, Cetyl Alcohol, Parfum/Fragrance, Terpineol, Vanillin"
+        },
+        {
+          "nombre": "Loción Micelar Limpiadora y Desmaquillante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770037357"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Pentylene Glycol, PEG-6 Caprylic/Capric Glycerides, Cetrimonium Bromide, Disodium EDTA, Parfum/Fragrance, PEG-40 Hydrogenated Castor Oil, Sclerotium Gum, Sodium Chloride"
+        },
+        {
+          "nombre": "Agua Micelar Desmaquillante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770390179"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Glycerin, Pentylene Glycol, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate HCl, Parfum/Fragrance, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Trehalose, Aqua/Water"
+        },
+        {
+          "nombre": "Spray Solar Niños SPF 50+",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770396317"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Diisopropyl Adipate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyl Methoxydibenzoylmethane, Decyl Glucoside, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium EDTA, Helianthus Annuus (Sunflower) Seed Oil, Hydroxycapric Acid, Lauryl Glucoside, Oxothiazolidine, Propylene Glycol, Sodium Benzoate, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sorbic Acid, Tocopherol, Tocopheryl Glucoside, Xanthan Gum"
+        },
+        {
+          "nombre": "Espuma Limpiadora Matificante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282779350655"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Aqua/Water, Disodium Coco-Glucoside Citrate, Decyl Glucoside, Glycerin, Sodium Cocoamphoacetate, Citric Acid, Diglycerin, Parfum/Fragrance, Pentylene Glycol, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Chloride"
+        },
+        {
+          "nombre": "A-Oxitive Noche Cuidado Peeling",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770208245"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Triethylhexanoin, Cyclopentasiloxane, Cetearyl Alcohol, Cyclohexasiloxane, Ceteareth-20, Polymethyl Methacrylate, Ceteareth-33, Caprylic/Capric Triglyceride, Ammonium Acryloyldimethyltaurate/VP Copolymer, Benzoic Acid, BHT, Caramel, Disodium EDTA, Mica, Oenothera Biennis (Evening Primrose) Oil, Oleoyl Dipeptide-15, Oleoyl Tetrapeptide-31, Phenoxyethanol, CI 17200, Retinal, Silica, Sodium Hydroxide, CI 77891/Titanium Dioxide, Tocopherol, Tocopheryl Glucoside"
+        },
+        {
+          "nombre": "Vitamin Activ Cg Sérum Corrector de Luminosidad",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770393477"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Glycerin, Niacinamide, Pentylene Glycol, C9-12 Alkane, Caprylic/Capric Triglyceride, Pentaerythrityl Tetracaprylate/Tetracaprate, Ascorbyl Glucoside, Bakuchiol, 1,2-Hexanediol, Acacia Senegal Gum, Butylene Glycol, Citric Acid, Coco-Caprylate/Caprate, Parfum/Fragrance, Glyceryl Behenate, Glyceryl Dibehenate, Sodium Citrate, Sodium Dilauramidoglutamide Lysine, Sodium Hyaluronate, Sodium Hydroxide, Tocopheryl Glucoside, Tribehenin, Aqua/Water, Xanthan Gum"
+        },
+        {
+          "nombre": "Ultra Fluid Radiance SPF 50+",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770397697"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Aqua/Water, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, CI 77891/Titanium Dioxide, Decyl Glucoside, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, VP/Eicosene Copolymer, Acrylates/Ammonium Methacrylate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alumina, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium EDTA, Parfum/Fragrance, Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus (Sunflower) Seed Oil, CI 77492, CI 77491, CI 77499, Isopropyl Myristate, Oxothiazolidine, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide, Stearyl Alcohol, Terpineol, Tocopherol"
         }
       ]
     }
