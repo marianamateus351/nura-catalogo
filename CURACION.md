@@ -17,6 +17,11 @@ Mismo contenido, formato JS de una línea por producto.
    incibeauty). Nunca listas cortadas, alfabéticas sin orden real, "y otros ingredientes",
    ni mezclas de dos fórmulas. Si hay reformulación, usar la fórmula actual y solo asignar
    códigos de la serie actual (los envases antiguos se dejan fuera).
+2-bis. **Sin INCI no entra.** Un producto solo se añade si se le puede poner su INCI oficial
+   completo. Un código de barras suelto, aunque esté identificado y aunque salga en Open*Facts,
+   NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
+   entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
+   se queda fuera hasta que haya de dónde sacar el INCI.
 3. Fuera: códigos de EE.UU. (0…), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros,
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
@@ -119,8 +124,10 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 
-Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta Open*Facts + farmacias
-(o renderizar la página con un navegador headless).
+Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
+con un navegador headless, farmacias, incidecoder). Por la regla 2-bis, de estas tres marcas
+solo entrarán los productos a los que se les pueda poner el INCI oficial; los demás se quedan
+fuera aunque se tenga su código.
 
 Ojo con los detalles del HTML: alguna ficha usa `/` como separador de ingredientes en vez de
 `•` o `-`, alguna trae delante el código de lote y detrás un `FIL code`, y las webs tienen sus
