@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09i",
+  "version": "2026-09-09j",
   "marcas": [
     {
       "key": "larocheposay",
@@ -154,6 +154,49 @@
             "3337875904285"
           ],
           "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Isopropyl Palmitate, Propanediol, Cetearyl Alcohol, Octyldodecanol, C15-19 Alkane, Glycine, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Tristearate, Sorbitan Oleate, Carbomer, Glyceryl Stearate, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Isohexadecane, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hydroxide, Myristic Acid, Sodium Hyaluronate, Cholesterol, Palmitic Acid, Alanine, Tocopherol, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 80, Benzoic Acid, PEG-100 Stearate, PEG-20 Methyl Glucose Sesquistearate"
+        },
+        {
+          "nombre": "Crema Hidratante Intensiva (Intensive Moisturising Cream)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875923897"
+          ],
+          "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Propanediol, Isopropyl Palmitate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Myristyl Myristate, Glyceryl Stearate, Glycine, PEG-100 Stearate, Steareth-20, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Sodium Polyacrylate, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Alanine, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Benzoic Acid"
+        },
+        {
+          "nombre": "Limpiador Espumoso en Crema Hidratante (Hydrating Cream-to-Foam Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3606000577213",
+            "3337875743563",
+            "3606000559950"
+          ],
+          "inci": "Aqua/Water, Glycerin, Sodium Methyl Cocoyl Taurate, Coco-Betaine, Sodium Cocoyl Isethionate, Sodium Chloride, PCA, PPG-5-Ceteth-20, PEG-100 Stearate, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, PEG-30 Dipolyhydroxystearate, CI 77891/Titanium Dioxide, Aspartic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Isostearate, Carbomer, Glycol Distearate, Glyceryl Stearate, Glyceryl Oleate, Glycine, Trideceth-6, Cetearyl Alcohol, Behentrimonium Methosulfate, Threonine, Sodium Hydroxide, Salicylic Acid, Sodium PCA, Sodium Lactate, Arginine, Sodium Lauroyl Lactylate, Serine, Sodium Benzoate, Valine, Sodium Hyaluronate, Proline, Isoleucine, Cholesterol, Phenoxyethanol, Alanine, Phenylalanine, Coconut Acid, Coco-Glucoside, Chlorphenesin, Disodium EDTA, Hydroxyethyl Urea, Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Histidine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer"
+        },
+        {
+          "nombre": "Aceite Limpiador Espumoso Hidratante (Hydrating Foaming Oil Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875773430",
+            "3337875773447"
+          ],
+          "inci": "Aqua/Water, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Disodium Cocoyl Glutamate, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, PEG-7 Glyceryl Cocoate, PEG-150 Pentaerythrityl Tetrastearate, PPG-5-Ceteth-20, PEG-6 Caprylic/Capric Glycerides, Squalane, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Chloride, Sodium Hydroxide, Sodium Cocoyl Glutamate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Citric Acid, Capryloyl Glycine, Hydroxyacetophenone, Caprylyl Glycol, Caprylic/Capric Triglyceride, Trisodium Ethylenediamine Disuccinate, Phytosphingosine, Xanthan Gum, Benzoic Acid"
+        },
+        {
+          "nombre": "Gel Limpiador Espumoso (Foaming Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875597357",
+            "3337875597197",
+            "3337875905596",
+            "3606000537194",
+            "3606000534957"
+          ],
+          "inci": "Aqua/Water, Ceramide AP, Ceramide EOP, Ceramide NP, Citric Acid, Cocamidopropyl Hydroxysultaine, Ethylhexylglycerin, Glycerin, Niacinamide, PEG-6 Caprylic/Capric Glycerides, Phenoxyethanol, Phytosphingosine, Propanediol, Sodium Benzoate, Sodium Chloride, Sodium Hyaluronate, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Tetrasodium EDTA, Xanthan Gum"
         }
       ]
     },
