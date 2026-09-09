@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09q",
+  "version": "2026-09-09r",
   "marcas": [
     {
       "key": "larocheposay",
@@ -40,6 +40,33 @@
           "barcodes": [
             "3337875583657"
           ]
+        },
+        {
+          "nombre": "Effaclar Gel Purificante Espumoso (Gel Moussant Purifiant)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875708289"
+          ],
+          "inci": "Aqua/Water, Sodium Laureth Sulfate, PEG-8, Coco-Betaine, Hexylene Glycol, Sodium Chloride, PEG-120 Methyl Glucose Dioleate, Zinc PCA, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Phenoxyethanol, Caprylyl Glycol, Parfum/Fragrance"
+        },
+        {
+          "nombre": "Toleriane Limpiador Hidratante Suave (Hydrating Gentle Cleanser)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875545778"
+          ],
+          "inci": "Aqua/Water, Glycerin, Coco-Betaine, Propylene Glycol, Sodium Cocoyl Glycinate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Ceramide NP, Niacinamide, Sodium Hydroxide, Disodium EDTA, Capryloyl Glycine, Caprylyl Glycol, Citric Acid, Acrylates Copolymer"
+        },
+        {
+          "nombre": "Toleriane Ultra Crema",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875757614"
+          ],
+          "inci": "Aqua/Water, Isocetyl Stearate, Squalane, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, Glycerin, Zea Mays Starch/Corn Starch, Pentylene Glycol, Butylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Cetyl Alcohol, Salvia Miltiorrhiza Root Extract, Dimethiconol, Sodium Hydroxide, Sphingomonas Ferment Extract, Caprylyl Glycol, Citric Acid, Acetyl Dipeptide-1 Cetyl Ester, Acrylates/C10-30 Alkyl Acrylate Crosspolymer"
         }
       ]
     },
