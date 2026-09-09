@@ -35,24 +35,27 @@ Mismo contenido, formato JS de una línea por producto.
 - Identificar un código: buscar `"<código>"` entre comillas (upcitemdb, digit-eyes, farmacias).
 
 ## Pendiente por marca (códigos ya identificados, falta INCI oficial)
-### Vichy (vichy.es)
-- Capital Soleil Spray Fluido Niños SPF50+ 200 ml → 3337875810838
-- Capital Soleil Crema Matificante 3-en-1 SPF50+ → 3337875695176
-- Normaderm Phytosolution Crema Limpiadora Matificante 125 ml → 3337875703413
-- Pureté Thermale Agua Micelar Mineral piel sensible → 3337875674997, 3337875674942
-- Liftactiv Hyalu Mask → 3337875607346
-- Aqualia Thermal Crema Rica → 3337875588317 (fórmula actual)
-- Liftactiv Collagen Specialist (día) → 3337875607254, 3337875722520
-- Liftactiv Supreme Serum 10 → 3337875489836, 3337875489867
-- Minéral 89 Crema 72h (¿Ligera o Rica?) → 3337875831888
-- Minéral 89 Fluido SPF50+ 72h → 3337875895781
-- Liftactiv Flexiteint SPF20 (maquillaje) → 3337871321581 (solo fórmula actual)
-- Liftactiv Supreme Noche → 3337871322502 · Liftactiv Ojos → 3337871323332
-- Dercos Aminexil Clinical 5 (¿Mujer/Hombre?) → 3337875522748
-- Dercos Sebo Corrector → 3337871311346 (ver si es fórmula actual)
-- Dercos Ultracalmante cabello seco → 3337875486736
-- Pureté Thermale 3-en-1 → 3337871322533; mascarillas → 3337875508896/508919/508933
-- Dercos Nutrients Vitamin A.C.E → 3337875595681
+### Vichy (vichy.es) — CERRADA (2026-09-09)
+Curada al completo desde el sitemap de vichy.es (97 fichas oficiales): 98 productos y 111
+códigos, con el INCI que publica la propia marca en cada ficha ("Composición").
+Resueltas las dudas que quedaban abiertas:
+- 3337875596763 NO es el Minéral 89 Sérum: es el **Minéral 89 Gel Ojos** (movido a su entrada).
+- 3337875722520 es Collagen Specialist 16 **Crema de Noche** (no la de día).
+- 3337871322502 / 3337871323332 son **Hyaluronic Specialist H.A.** (crema de noche y ojos).
+- 3337875522748 es Dercos Aminexil Clinical 5 **Hombre** (Mujer = 3337875522786).
+- 3337871321581 es un tono de la **Base de Maquillaje Antiarrugas** (5 tonos en una entrada).
+Descartados por regla 3 (descatalogados en España / envase de generación anterior / tester),
+comprobados uno a uno con la foto de Open Beauty Facts:
+- 3337875695176 Capital Soleil matificante 3-en-1 (envase NL/RU antiguo)
+- 3337875703413 Normaderm Phytosolution limpiadora (envase DE/IT antiguo)
+- 3337875674997 agua micelar 100 ml y 3337871322533 3-en-1 100 ml (uno es "testez-moi, ne peut
+  être vendu"; ambos de la serie "sans parabens" anterior)
+- 3337875607346 Liftactiv Hyalu Mask 15 ml · 3337875588317 Aqualia Thermal Riche 15 ml
+- 3337875489836/489867 Liftactiv Supreme Serum 10 · 3337871311346 Dercos Sebo Control
+- 3337875595681 Dercos Nutrients Vitamin A.C.E · 3337875508896/508919/508933 mascarillas PT 75 ml
+Pendiente en Vichy: **Capital Soleil Stick Invisible SPF50+ rostro y zonas sensibles** — INCI
+oficial ya recogido, pero vichy.es solo publica el SKU interno `30065949`; falta el EAN-13.
+
 ### CeraVe (cerave.es)
 - Skin Renewing Crema con Péptidos → 3606000537606, 3337875903509 (sobrescribe la "Night Cream")
 - Loción Rostro SPF30 → 3337875840620 · Fluido Invisible SPF50+ Toque Seco → 3337875945622 ·
@@ -90,6 +93,17 @@ Mismo contenido, formato JS de una línea por producto.
 ### Marcas creadas y vacías (siguiente)
 - Sesderma, Nivea, Garnier: sacar la lista de códigos (app "Copiar lista" o Open*Facts) y curar.
 
+## Truco: sacar una marca entera de su web oficial
+Las webs de L'Oréal (vichy.es, laroche-posay.es, cerave.es, skinceuticals.es) publican en el
+sitemap todas las fichas, y cada ficha lleva el INCI completo dentro del bloque
+`<details class="product-composition">` y el EAN en el atributo de tagging
+(`"product_info": "<nombre>::<EAN>"`); los tonos van en `v-vch-variant-selector="{ean: ...}"`.
+Con eso se saca la marca completa sin depender de que Open*Facts tenga el producto.
+Ojo: alguna ficha usa `/` como separador de ingredientes en vez de `•` o `-`, y alguna trae
+delante el código de lote o detrás un `FIL code`.
+
 ## Estado (2026-09-09)
-185+ códigos en 8 marcas: CeraVe 54 · Avène 30 · Bioderma 29 · LRP 21 · Eucerin 20 · ISDIN 14 ·
-Vichy 13 · SkinCeuticals 6. Reglas de Firestore ya permiten al admin crear aprobados.
+283 códigos en 8 marcas: **Vichy 111** · CeraVe 54 · Avène 30 · Bioderma 29 · LRP 21 ·
+Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Reglas de Firestore ya permiten al admin crear
+aprobados. Vichy cerrada; siguiente: repaso de las listas cortadas del resto de marcas y
+después Sesderma / Nivea / Garnier.
