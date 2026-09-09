@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09g",
+  "version": "2026-09-09h",
   "marcas": [
     {
       "key": "larocheposay",
@@ -92,68 +92,58 @@
       "productos": [
         {
           "nombre": "Crema Hidratante (Moisturizing Cream)",
-          "include": [
-            "moistur",
-            "cream"
-          ],
-          "exclude": [
-            "foam",
-            "cleans",
-            "lotion",
-            "eye",
-            "night",
-            "renewing",
-            "sa",
-            "itch",
-            "psoriasis",
-            "baby"
-          ],
-          "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
+          "barcodes": [
+            "3337875597227",
+            "3337875597388",
+            "3606000537439",
+            "3337875598996",
+            "3337875597470",
+            "3606000537330",
+            "3606000537422",
+            "3606000537972",
+            "3606000537323"
+          ]
         },
         {
           "nombre": "Loción Hidratante (Moisturizing Lotion)",
-          "include": [
-            "moistur",
-            "lotion"
-          ],
-          "exclude": [
-            "pm",
-            "am",
-            "spf",
-            "facial",
-            "ultra",
-            "baby"
-          ],
-          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Niacinamide, Cetyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin",
+          "barcodes": [
+            "3337875597395",
+            "3337875597210",
+            "3337875598750",
+            "3606000537514",
+            "3606000534797",
+            "3606000560239",
+            "3337875905633"
+          ]
         },
         {
           "nombre": "Gel Limpiador Hidratante (Hydrating Cleanser)",
-          "include": [
-            "hydrating",
-            "cleanser"
-          ],
-          "exclude": [
-            "foam",
-            "oil",
-            "cream",
-            "micellar",
-            "toner",
-            "sa",
-            "smoothing"
-          ],
-          "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin",
+          "barcodes": [
+            "3337875597180",
+            "3337875597333",
+            "3606000537675",
+            "3606000537576",
+            "3337875905602"
+          ]
         },
         {
           "nombre": "PM Facial Moisturizing Lotion",
-          "include": [
-            "pm",
-            "lotion"
-          ],
-          "exclude": [
-            "am",
-            "spf"
-          ],
-          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Cetearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Ceteareth-20, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin"
+          "include": [],
+          "exclude": [],
+          "inci": "Aqua/Water, Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Cetearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Ceteareth-20, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Caprylyl Glycol, Phytosphingosine, Xanthan Gum, Polyglyceryl-3 Diisostearate, Ethylhexylglycerin",
+          "barcodes": [
+            "3606000537453",
+            "3337875597449"
+          ]
         }
       ]
     },
