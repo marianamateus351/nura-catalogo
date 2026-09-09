@@ -1,5 +1,5 @@
 {
- "version": "2026-09-09i",
+ "version": "2026-09-09j",
  "marcas": [
   {
    "key": "larocheposay",
@@ -1707,76 +1707,22 @@
    "nombre": "ISDIN",
    "productos": [
     {
-     "nombre": "Foto Ultra 100 ISDIN Active Unify Fusion Fluid SPF 50+",
+     "nombre": "Acniben Body Spray Reductor de Granos Corporales",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8470001710529"
+      "8470001806475"
      ],
-     "inci": "Aqua/Water, Dibutyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isododecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Sebacate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Caprylic/Capric Triglyceride, Glycerin, Niacinamide, C12-15 Alkyl Benzoate, Titanium Dioxide (Nano), Titanium Dioxide, Polyglyceryl-6 Polyhydroxystearate, Maltodextrin, Polyglyceryl-6 Polyricinoleate, 1,2-Hexanediol, Sodium Chloride, Dimethicone, Sucrose Dilaurate, Stearalkonium Hectorite, Hydroxyacetophenone, Polyglyceryl-2 Dipolyhydroxystearate, Tocopheryl Acetate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Sclareolide, Diethylhexyl Syringylidenemalonate, Sodium Cocoyl Glutamate, Sorbitan Laurate, Ethylhexylglycerin, C18-36 Acid Glycol Ester, C18-36 Acid Triglyceride, Pisum Sativum Extract"
+     "inci": "Aqua (Water), Alcohol Denat., Glycolic Acid, Glycerin, Dipropylene Glycol, Salicylic Acid, Ammonium Hydroxide, PPG-1-PEG-9 Lauryl Glycol Ether, Disodium EDTA"
     },
     {
-     "nombre": "FotoUltra ISDIN Redness Fusion Fluid SPF 50",
+     "nombre": "Acniben Repair Gel-Crema Calmante",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8429420245297"
+      "8470002000704"
      ],
-     "inci": "Aqua/Water, Propylene Glycol Dicaprylate/Dicaprate, Coco-Caprylate/Caprate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), C15-19 Alkane, Potassium Azeloyl Diglycinate, Alpha-Glucan Oligosaccharide, Pentylene Glycol, Polyglyceryl-6 Stearate, 1,2-Hexanediol, Caprylyl Glycol, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Polysorbate 60, Decyl Glucoside, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hesperidin Methyl Chalcone, Sphingomonas Ferment Extract, CI 77891/Titanium Dioxide, Tetrasodium Glutamate Diacetate, Citric Acid, Polyglyceryl-6 Behenate, Mica, Propylene Glycol, Acrylates/Beheneth-25 Methacrylate Copolymer, Xanthan Gum, Tin Oxide, Tocopherol"
-    },
-    {
-     "nombre": "Fotoprotector ISDIN Transparent Spray Wet Skin SPF 50",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8429420187948"
-     ],
-     "inci": "Alcohol Denat., Isobutane, Dicaprylyl Ether, Propylene Glycol Dicaprylate/Dicaprate, Octocrylene, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Acrylates/Octylacrylamide Copolymer, Butane, Propane, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Zingiber Officinale (Ginger) Root Extract, Tocopheryl Acetate, Benzotriazolyl Dodecyl P-Cresol, Tocopherol, Citral"
-    },
-    {
-     "nombre": "Fotoprotector ISDIN HydroLotion SPF 50",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8429420192232"
-     ],
-     "inci": "Aqua/Water, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Dicaprylyl Ether, Octocrylene, Propanediol, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Glycerin, Tromethamine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Chloride, Phenylpropanol, Parfum/Fragrance, Caprylyl Glycol, Tocopheryl Acetate, Disodium EDTA, Chlorella Vulgaris Extract, Tocopherol, Phenoxyethanol, Linalool, Alpha-Isomethyl Ionone, CI 42090"
-    },
-    {
-     "nombre": "Fotoprotector ISDIN Protector Labial SPF 50+",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8429420135444"
-     ],
-     "inci": "Ricinus Communis (Castor) Seed Oil, Cera Microcristallina/Microcrystalline Wax, Cocoglycerides, Octocrylene, Dibutyl Adipate, Paraffin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Copernicia Cerifera (Carnauba) Cera, Ethylhexyl Triazone, Octyldodecanol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Lanolin, Glycol Montanate, 1,2-Hexanediol, Parfum/Fragrance, Caprylyl Glycol, Shorea Robusta Resin, Shorea Stenoptera Seed Butter, Tocopheryl Acetate, CI 77891/Titanium Dioxide, Bisabolol"
-    },
-    {
-     "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50+",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8429420280878"
-     ],
-     "inci": "Dicaprylyl Carbonate, Dibutyl Adipate, Hydrogenated Castor Oil, Oryza Sativa (Rice) Bran Cera, Euphorbia Cerifera (Candelilla) Cera, Cocoglycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Silica, Butyrospermum Parkii (Shea) Butter, Brassica Campestris (Rapeseed) Sterols, Cetearyl Alcohol, Panthenol, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Extract, Tocopherol, Phaeodactylum Tricornutum Extract, Citric Acid"
-    },
-    {
-     "nombre": "Germisdin Higiene Corporal Original (gel de baño)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8470003854764"
-     ],
-     "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-32, PEG-4 Rapeseedamide, Sorbitol, Parfum/Fragrance, Polysorbate 20, Sodium Chloride, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, Disodium EDTA, PEG-150 Distearate, Dichlorobenzyl Alcohol, Potassium Sorbate, Coumarin, Benzyl Salicylate, Linalool, BHT, Alcohol Denat., Benzoic Acid, CI 19140, CI 42090"
-    },
-    {
-     "nombre": "ISDIN After Sun Lotion Calm & Comfort",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8470003808996"
-     ],
-     "inci": "Aqua/Water, Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum/Fragrance, Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica"
+     "inci": "Aqua (Water), Glycerin, Isodecyl Neopentanoate, Cyclopentasiloxane, Nylon-12, Cyclohexasiloxane, Cetyl Alcohol, Dimethicone, Polyacrylamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexylglycerin, PPG-15 Stearyl Ether, C13-14 Isoparan, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dime- thiconol, Laureth-7, Sodium Hyaluronate, BHT, Biosaccharide Gum-2, Disodium EDTA, Sodium Hydroxide"
     },
     {
      "nombre": "Eryfotona AK-NMSC Fluid SPF 100+",
@@ -1788,40 +1734,105 @@
      "inci": "Aqua/Water, Dibutyl Adipate, Octocrylene, Cyclopentasiloxane, Dicaprylyl Carbonate, Alcohol Denat., Titanium Dioxide, Butyl Methoxydibenzoylmethane, Cyclohexasiloxane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, PEG-30 Dipolyhydroxystearate, Nylon-12, Dimethicone, PEG-10 Dimethicone, Sodium Chloride, Phenoxyethanol, Silica, Disteardimonium Hectorite, Tocopheryl Acetate, Glyceryl Stearate, Parfum/Fragrance, Bisabolol, Disodium EDTA, Ethylhexylglycerin, Panthenol, PEG-8, Tocopherol, Lecithin, Plankton Extract, Ascorbyl Palmitate, Ascorbic Acid, Citric Acid"
     },
     {
-     "nombre": "Acniben Repair Gel-Crema Hidratante",
+     "nombre": "FotoUltra ISDIN Active Unify Fusion Fluid SPF 50+",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8470002000704"
+      "8470001710529"
      ],
-     "inci": "Aqua/Water, Glycerin, Isodecyl Neopentanoate, Cyclopentasiloxane, Nylon-12, Cyclohexasiloxane, Cetyl Alcohol, Dimethicone, Polyacrylamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexylglycerin, PPG-15 Stearyl Ether, C13-14 Isoparaffin, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Laureth-7, Sodium Hyaluronate, BHT, Biosaccharide Gum-2, Disodium EDTA, Sodium Hydroxide"
+     "inci": "Aqua (Water), Dibutyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isododecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropy| Sebacate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Caprylic/Capric Triglyceride, Glycerin, Niacinamide, C12-15 Alkyl Benzoate, Titanium Dioxide [nano], Titanium Dioxide, Polyglyceryl-6 Polyhydroxystearate, Maltodextrin, Polyglyceryl-6 Polyricinoleate, 1,2-Hexanediol, Sodium Chloride, Dimethicone, Sucrose Dilaurate, Stearalkonium Hectorite, Hydroxyacetophenone, Polyglyceryl-2 Dipolyhydroxystearate, Tocopheryl Acetate Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Sclareolide, Diethylhexyl Syringylidenemalonate, Sodium Cocoyl Glutamate, Sorbitan Laurate, Ethylhexylglycerin, C18-36 Acid Glycol Ester, C18-36 Acid Triglyceride, Pisum Sativum (Pea) Extract, Glyceryl Stearate, Tetrasodium Glutamate Diacetate, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7"
     },
     {
-     "nombre": "Acniben Body Spray Reductor de Granos Corporales",
+     "nombre": "FotoUltra ISDIN Redness Fusion Fluid SPF 50",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8470001806475"
+      "8429420245297"
      ],
-     "inci": "Aqua/Water, Alcohol Denat., Glycolic Acid, Glycerin, Dipropylene Glycol, Salicylic Acid, Ammonium Hydroxide, PPG-1-PEG-9 Lauryl Glycol Ether, Disodium EDTA"
+     "inci": "Aqua (Water), Propylene Glycol Dicaprylate/Dicaprate, Coco-Caprylate/Caprate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [nano], C15-19 Alkane, Potassium Azeloyl Diglycinate, Alpha-Glucan Oligosaccharide, Pentylene Glycol, Polyglyceryl-6 Stearate, 1,2-Hexanediol, Caprylyl Glycol, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Polysorbate 60, Decyl Glucoside, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hesperidin Methyl Chalcone, Sphingomonas Ferment Extract, CI 77891 (Titanium Dioxide), Tetrasodium Glutamate Diacetate, Citric Acid, Polyglyceryl-6 Behenate, Mica, Propylene Glycol, Acrylates/Beheneth-25 Methacrylate Copolymer, Xanthan Gum, Tin Oxide, Tocopherol"
     },
     {
-     "nombre": "Germisdin Higiene Íntima Gel-Crema",
+     "nombre": "Fotoprotector ISDIN Gel Cream SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001549990"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Phenylbenzimidazole Sulfonic Acid, Poly C10-30 Alkyl Acrylate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydroxyacetophenone, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Parfum (Fragrance), Sodium Hydroxide, Xanthan Gum, Tetrasodium Glutamate Diacetate, Zingiber O_x001E_cinale (Ginger) Root Extract, T-Butyl Alcohol"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN HydroLotion SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420192232"
+     ],
+     "inci": "Aqua/Water, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Dicaprylyl Ether, Octocrylene, Propanediol, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Glycerin, Tromethamine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Chloride, Phenylpropanol, Parfum/Fragrance, Caprylyl Glycol, Tocopheryl Acetate, Disodium EDTA, Chlorella Vulgaris Extract, Tocopherol, Phenoxyethanol, Linalool, Alpha-Isomethyl Ionone, CI 42090"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420280878"
+     ],
+     "inci": "Dicaprylyl Carbonate, Dibutyl Adipate, Hydrogenated Castor Oil, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Candelilla Cera (Euphorbia Cerifera Wax), Cocoglycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Silica, Butyrospermum Parkii (Shea) Butter, Brassica Campestris (Rapeseed) Sterols, Cetearyl Alcohol, Panthenol, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Extract, Tocopherol, Phaeodactylum Tricornutum Extract, Citric Acid"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Pediatrics Lotion Spray SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001594945"
+     ],
+     "inci": "Isobutane, Aqua (Water), Dibutyl Adipate, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Isoamyl Laurate, Isononyl Isononanoate, Coco-Caprylate/Caprate, Ethylhexyl Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Caprylic/Capric Triglyceride, Silica, Pentylene Glycol, Glyceryl Oleate, Magnesium Sulfate, Sodium Chloride, Glycerin, Panthenol, Poly C10-30 Alkyl Acrylate, Tocopheryl Acetate, Disteardimonium Hectorite, Hydroxyacetophenone, Caprylyl Glycol, Propylene Carbonate, Tetrasodium Glutamate Diacetate, Glyceryl Stearate, Tocopherol, Helichrysum Italicum Extract, Lecithin, Ascorbyl Palmitate, Citric Acid"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Protector Labial SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420135444"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Cera Microcristallina (Microcrystalline Wax), Dibutyl Adipate, Cocoglycerides, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Caprylic/Capric Triglyceride, Bis-Diglyceryl Polyacyladipate-2, Ethylhexyl Salicylate, Octyldodecanol, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Hydrogenated Rapeseed Oil, Diethylhexyl Butamido Triazone, Poly C10-30 Alkyl Acrylate, Tocopheryl Acetate, Panthenol, Parfum (Fragrance), Shorea Stenoptera Seed Butter"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Transparent Spray Wet Skin SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420187948",
+      "8429420264106"
+     ],
+     "inci": "Alcohol Denat., Isobutane, Dicaprylyl Ether, Propylene Glycol Dicaprylate/Dicaprate, Octocrylene, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Acrylates/Octylacrylamide Copolymer, Butane, Propane, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Zingiber Officinale (Ginger) Root Extract, Tocopheryl Acetate, Benzotriazolyl Dodecyl P-Cresol, Tocopherol, Citral"
+    },
+    {
+     "nombre": "Germisdin Higiene Corporal Original (gel de baño)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003854764"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-32, PEG-4 Rapeseedamide, Sorbitol, Parfum/Fragrance, Polysorbate 20, Sodium Chloride, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, Disodium EDTA, PEG-150 Distearate, Dichlorobenzyl Alcohol, Potassium Sorbate, Coumarin, Benzyl Salicylate, Linalool, BHT, Alcohol Denat., Benzoic Acid, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Germisdin Intim Gel de Higiene Íntima",
      "include": [],
      "exclude": [],
      "barcodes": [
       "8470002104501"
      ],
-     "inci": "Aqua/Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-200 Hydrogenated Glyceryl Palmate, Cocamide DEA, Alpha-Glucan Oligosaccharide, Betaine, Lactic Acid, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Glycine, Laureth-9, Hydrolyzed Wheat Gluten, Sodium Hydroxide, Parfum/Fragrance, Sodium Benzoate, Polyquaternium-10, Sodium Chloride, PEG-120 Methyl Glucose Trioleate, Propylene Glycol, Glycerin, Potassium Sorbate, Sodium Acetate, Benzoic Acid, Isopropyl Alcohol"
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Lactic Acid, Acrylates Copolymer, Glycol Cetearate, Cocamide DEA, Phenoxyethanol, Parfum (Fragrance), Sodium Cocoyl Hydrolyzed Wheat Protein, Sodium Hydroxide, Styrene/Acrylates Copolymer, Polyquaternium-10, PEG-120 Methyl Glucose Dioleate, Sodium Benzoate, Citric Acid, Disodium EDTA, Glycerin, Potassium Sorbate, Butylene Glycol"
     },
     {
-     "nombre": "Lambdapil Champú Anticaída",
+     "nombre": "ISDIN Post-solar After Sun Lotion Calm & Comfort",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8470001757104"
+      "8470003808996",
+      "8470003173704"
      ],
-     "inci": "Aqua/Water, Sodium Laureth Sulfate, Decyl Glucoside, Cocamide DEA, Sodium Cocoamphoacetate, Phenoxyethanol, Hexylene Glycol, Parfum/Fragrance, PEG-120 Methyl Glucose Dioleate, Polyquaternium-10, Citric Acid, Sodium Benzoate, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Silicone Quaternium-22, Glycerin, Pyridoxine HCl, PPG-3 Myristyl Ether, Coco-Glucoside, Glyceryl Oleate, Serenoa Serrulata Fruit Extract, Potassium Sorbate, Zinc PCA, Arginine, Acetyl Tyrosine, PEG-12 Dimethicone, Calcium Pantothenate, Zinc Gluconate, Sodium Acetate, Sodium Chloride, Niacinamide, Ornithine HCl, Isopropyl Alcohol, Polyquaternium-11, Citrulline, Hydrolyzed Soy Protein, Glucosamine HCl, Disodium Succinate, Arctium Majus Root Extract, Panax Ginseng Root Extract, Tocopherol, Biotin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hydrogenated Palm Glycerides Citrate"
+     "inci": "Aqua (Water), Alcohol Denat., Glycerin, Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Caprylic/Capric Triglyceride, Dimethicone, Propylene Glycol, Panthenol, Carbomer, Sorbitan Stearate, Allantoin, Hydroxyacetophenone, Saccharide Isomerate, Tetrasodium Glutamate Diacetate, Parfum (Fragrance), Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hydroxide, 1,2-Hexanediol, Caprylyl Glycol, Menthol, Chamomilla Recutita (Matricaria) Flower Extract, Citric Acid, Sodium Citrate, Silica"
     },
     {
      "nombre": "ISDIN Reparador Labial Stick",
@@ -1830,7 +1841,16 @@
      "barcodes": [
       "8470001901200"
      ],
-     "inci": "Paraffin, Paraffinum Liquidum/Mineral Oil, Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, C12-15 Alkyl Benzoate, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, C30-45 Alkyl Methicone, C30-45 Olefin, Polyisobutene, Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, Parfum/Fragrance, Tocopheryl Acetate, Punica Granatum Fruit Extract, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Pentylene Glycol, Sodium Hyaluronate"
+     "inci": "Paraffin, Paraffinum Liquidum (Mineral Oil), Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, C12-15 Alkyl Benzoate, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, C30-45 Alkyl Methicone, C30-45 Olefin, Polyisobutene, Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, Parfum (Fragrance), Tocopheryl Acetate, Punica Granatum Fruit Extract, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Pentylene Glycol, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Lambdapil Champú Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001757104"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Decyl Glucoside, Cocamide DEA, Sodium Cocoamphoacetate, Phenoxyethanol, Hexylene Glycol, Parfum (Fragrance), Polyquaternium-10, PEG-120 Methyl Glucose Dioleate, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Sodium Benzoate, Silicon Quaternium-22, Citric Acid, Glycerin, Pyridoxine Hcl, PPG-3 Myristyl Ether, Coco-Glucoside, Glyceryl Oleate, Serenoa Serrulata Fruit Extract, Potassium Sorbate, Zinc PCA, Arginine, Acetyl Tyrosine, Pentylene Glycol, PEG-12 Dimethicone, Calcium Pantothenate, Zinc Gluconate, Niacinamide, Ornithine Hcl, Caprylyl Glycol, Polyquaternium-11, Citrulline, Hydrolyzed Soy Protein, Glucosamine Hcl, Disodium Succinate, Arctium Majus Root Extract, Panax Ginseng Root Extract, Tocopherol, Biotin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hydrogenated Palm Glycerides Citrate"
     }
    ]
   },

@@ -96,13 +96,33 @@ pendientes que había, incluido el que no tenía código:
 Quedan 5 entradas antiguas aparte porque su fórmula ya no coincide con ninguna ficha viva
 (Toleriane Sensitive Crème, Hyalu B5 Serum, Toleriane Dermallergo Fluido y Contorno de Ojos,
 Cicaplast Labios). "Cicaplast Labios" sigue con el SKU interno 30106659, sin EAN-13.
-### SkinCeuticals
-- 10 productos sin código en el catálogo (C E Ferulic, Silymarin, Triple Lipid, AGE Advanced,
-  Blemish+Age, Discoloration, Serum 10, Retinol 0.5, Metacell, Glycolic 10): buscar sus EAN
-  (serie L'Oréal 33378757367xx: Phloretin 3337875736763, H.A. Intensifier 3337875736749).
-### ISDIN (isdin.com)
-- Fotoprotector Gel Cream SPF30 → 8470001549990 · Nutraisdin Baby gel-champú → 8470003924801
-- Reparador Labial Fluido → 8470001507983 · Pediatrics SPF50 (formato?) → 8470001594945
+### SkinCeuticals — BLOQUEADA en la web (2026-09-09)
+skinceuticals.es está detrás de un reto de Cloudflare que no se supera ni con navegador
+headless (se queda en "Un momento…"). El sitemap sí sale (408 URLs, fichas del mismo motor de
+L'Oréal, `/productos/<slug>/S17.html`), así que el día que se pueda pasar el reto la marca
+sale entera como Vichy o LRP. Mientras tanto: los 16 productos ya tienen INCI; el hueco son
+los códigos de 10 de ellos. Open*Facts no aporta más (sus 8 códigos ya están o son de EE. UU.),
+y las farmacias se contradicen (para C E Ferulic 30 ml dan un UPC americano, un EAN interno de
+distribuidor y 3606000604643), así que **no se añade ninguno sin escanear el envase**.
+
+### ISDIN (isdin.com) — CERRADA hasta donde llegan los códigos (2026-09-09)
+isdin.com publica el INCI de sus 310 fichas (`"completeIngredientList"` en el JSON de la
+página; 252 con lista) **pero no el EAN**, así que la marca solo crece con códigos de fuera
+(Open*Facts, 18; escaneos). Emparejado a mano, ficha por ficha, con la foto de Open*Facts:
+17 productos y 19 códigos (antes 14 y 14). INCI actualizado desde la web en 10 productos.
+- Corregido: 8429420135444 es el **Protector Labial SPF 30** (estaba como SPF 50+).
+- Nuevos: 8470001594945 Pediatrics Lotion Spray SPF50 200 ml · 8470001549990 Gel Cream SPF30
+  250 ml ("nueva fórmula") · 8470003173704 After Sun Lotion 400 ml (unido al de 200 ml) ·
+  8429420264106 Transparent Spray Wet Skin 250 ml (unido al 8429420187948).
+- **Ojo con las reformulaciones**: el Transparent Spray Wet Skin (8429420187948) y el
+  HydroLotion (8429420192232) del catálogo son envases de la generación anterior ("Ginger
+  Cell Protect", "Protects & Detox"): se dejan con su INCI antiguo, que es el suyo, y no se
+  les pone el actual de la web.
+- Fuera: 8470001507983 Reparador Labial tubo 10 ml (isdin.com tiene DOS fichas vivas con
+  distinta fórmula y no se puede atar el código a una) · 8470003924801 Nutraisdin Bath
+  gel-champú (línea antigua, hoy Babynaturals) · 8429420181021 "loción corporal" (sin foto ni
+  nombre) · 8470006896624 Mupirocina (medicamento) · 8470001677013 (sin nombre).
+
 ### Avène (eau-thermale-avene.es) — CERRADA (2026-09-09)
 Curada desde `product.xml` (149 fichas): 153 productos y 162 códigos (antes 23 y 30).
 - **El EAN va en la URL** (`/p/<slug>-<EAN>-<hash>`); el `gtin` del JSON de la página está
@@ -120,11 +140,19 @@ Pendientes resueltos: Comedomed SPF30 (3282771001432 = Comedomed+ Fluido intensi
 = Bálsamo hidratación intensa 24h). Siguen fuera por no estar en la web: XeraCalm Aceite
 400 ml 3282779405447 · Comedomed 3282770390414 · Ultra Fluid 3282779428897.
 
-### Bioderma (bioderma.es)
-- Photoderm Max Aquafluide (sin color) → 3401561197715 · Max Spray → 3401353688742 ·
-  Spray Invisible SPF30 → 3701129807255 · Sensibio AR+ (actual) → 3401343696245 ·
-  Sensibio Defensive → 3701129804445 · Sébium Gel Moussant Actif → 3701129803400 ·
-  Nodé A/P/DS+ → 3401396545132, 3701129804773, 3701129805060 · Hydrabio mask → 3401343613730
+### Bioderma (bioderma.es) — NO PUBLICA EL INCI (2026-09-09)
+Comprobado a fondo: la ficha renderizada con navegador no lleva el INCI (el acordeón
+"Composición" es texto de marketing y la imagen "composition" del PIM es una tarjeta del
+activo), y su GraphQL (`/api/graphql`, GET, cabecera `Store: es_es`) devuelve los campos
+`p_class_phrase_ingredient_reglementaire` y `p_class_phrase_ingredient_naos` vacíos en los 108
+productos. Por la regla 2-bis no entra nada nuevo. Open*Facts tiene 94 códigos de Bioderma:
+la vía para crecer sería incidecoder (INCI) + foto de Open*Facts (identificar el envase),
+producto a producto. Siguen pendientes los códigos ya identificados:
+Photoderm Max Aquafluide 3401561197715 · Max Spray 3401353688742 · Spray Invisible SPF30
+3701129807255 · Sensibio AR+ 3401343696245 · Sensibio Defensive 3701129804445 · Sébium Gel
+Moussant Actif 3701129803400 · Nodé A/P/DS+ 3401396545132, 3701129804773, 3701129805060 ·
+Hydrabio mask 3401343613730.
+
 ### Eucerin (eucerin.es) — CERRADA (2026-09-09)
 Curada desde el sitemap: 124 productos y 137 códigos (antes 13 y 20).
 - INCI: array ordenado `ingredients[].IngredientTitle.value` dentro del JSON de la página.
@@ -150,8 +178,18 @@ va en la URL), INCI en el bloque "Incluye", nombre en el h1.
 - El h1 no distingue las versiones NIVEA MEN de las de mujer (Dry Fresh, Protect & Care):
   se separan por el slug y se anota "(NIVEA MEN)".
 
-### Marcas creadas y vacías (siguiente)
-- Sesderma: necesita otra vía (ficha renderizada por JavaScript).
+### Sesderma (sesderma.com) — NO PUBLICA EL INCI (2026-09-09)
+Salesforce Commerce Cloud. Renderizada con navegador, la ficha (p. ej. Bodyses) solo trae
+descripción, beneficios y modo de empleo: ni INCI, ni EAN (solo el SKU interno). Open*Facts
+tiene 2 códigos. Por la regla 2-bis la marca se queda vacía; si alguna vez interesa, la vía
+sería incidecoder producto a producto.
+
+## Navegador headless (para webs renderizadas por JavaScript)
+Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
+npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
+lanzarlo con `--ssl-version-max=tls1.2 --disable-http2 --disable-quic
+--ignore-certificate-errors` y `proxy: {server: process.env.HTTPS_PROXY}`; si no, todo da
+`ERR_CONNECTION_RESET`. Con eso Sesderma y Bioderma renderizan; Cloudflare (SkinCeuticals) no.
 
 ## Fuente principal: la web oficial de cada marca (comprobado 2026-09-09)
 Casi todas publican la ficha con EAN + INCI completo, así que **la web de marca manda** y ya
@@ -183,8 +221,9 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-1161 códigos en 10 marcas: Nivea 235 · Garnier 234 · **Avène 162** · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Bioderma 29 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 1047
-productos está sin INCI. Cerradas Vichy, La Roche-Posay, CeraVe, Garnier, Eucerin, Nivea y
-Avène; siguiente: ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma,
-Sesderma y SkinCeuticals, que necesitan otra vía.
+1166 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Bioderma 29 · **ISDIN 19** · SkinCeuticals 6. Ninguno de los 1050
+productos está sin INCI. Las 11 marcas están revisadas: 8 curadas enteras desde su web;
+ISDIN limitada por los códigos; Bioderma y Sesderma no publican el INCI y SkinCeuticals está
+tras Cloudflare. Para seguir creciendo: la pestaña "Buscados" de la app (códigos escaneados
+sin resultado) e incidecoder + foto de Open*Facts para Bioderma.
