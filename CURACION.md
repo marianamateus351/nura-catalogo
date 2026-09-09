@@ -27,6 +27,15 @@ Mismo contenido, formato JS de una línea por producto.
    app (Ajustes → Revisar contribuciones → botón de la marca). Debe salir "N importados".
 7. Commits con el trailer de atribución de Claude Code. Subir siempre a los dos repos.
 
+## Herramienta de paridad (`tools/sync_catalogo.py`)
+`catalogo.json` es la fuente de verdad. El script regenera los bloques `productos: [...]`
+de `catalogoInci.js` sin tocar sus comentarios, y valida el catálogo:
+- `python3 tools/sync_catalogo.py sync` → regenera el JS desde el JSON.
+- `python3 tools/sync_catalogo.py check` → comprueba la paridad JSON↔JS.
+- `python3 tools/sync_catalogo.py validate` → formato de códigos, regiones excluidas
+  (0…/789…/869…/750…), duplicados entre marcas e INCI sospechosos ("y otros", "…").
+Las rutas de los dos repos están al principio del script. No requiere build.
+
 ## Flujo para obtener códigos
 - La app (build 88+) tiene "Copiar lista" tras importar: da `código | nombre OF | estado | foto`.
 - Con internet abierto se puede consultar Open*Facts directamente:
@@ -89,6 +98,23 @@ Mismo contenido, formato JS de una línea por producto.
   9005800352756 · pH5 Gel Lavant recarga → 4005800193705
 ### Marcas creadas y vacías (siguiente)
 - Sesderma, Nivea, Garnier: sacar la lista de códigos (app "Copiar lista" o Open*Facts) y curar.
+
+## ⚠️ Acceso a las fuentes (importante para sesiones en Claude Code web)
+En el entorno remoto la política de egress solo deja salir a GitHub y a los registros de
+paquetes. Quedan BLOQUEADOS (comprobado 2026-09-09): `vichy.es`, `laroche-posay.es`,
+`cerave.es`, `isdin.com`, `eau-thermale-avene.es`, `bioderma.es`, `eucerin.es`,
+`incidecoder.com`, `incibeauty.com`, `cosdna.com`, Open*Facts (`world.openbeautyfacts.org`
+y espejos) y todas las farmacias españolas probadas. `WebFetch` falla con `EGRESS_BLOCKED`.
+
+Lo único disponible es la búsqueda web, que devuelve un RESUMEN generado a partir de
+fragmentos: llega con listas cortadas, reordenadas o mezcladas entre variantes (se comprobó
+con Capital Soleil Niños y con Normaderm Phytosolution). **No sirve como fuente de INCI**
+según la regla 2. No copiar INCI de ahí.
+
+Para seguir la curación hace falta una de estas vías:
+- un entorno con egress abierto a las webs de marca / incidecoder / Open*Facts, o
+- pegar en el chat el INCI (o la "Copiar lista" de la app) para que la sesión lo formatee,
+  valide y suba a los dos repos.
 
 ## Estado (2026-09-09)
 185+ códigos en 8 marcas: CeraVe 54 · Avène 30 · Bioderma 29 · LRP 21 · Eucerin 20 · ISDIN 14 ·
