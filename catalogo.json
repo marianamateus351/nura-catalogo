@@ -1,5 +1,5 @@
 {
- "version": "2026-09-09j",
+ "version": "2026-09-09k",
  "marcas": [
   {
    "key": "larocheposay",
@@ -3251,6 +3251,194 @@
    "nombre": "Bioderma",
    "productos": [
     {
+     "nombre": "Atoderm Aceite de Ducha (Huile de Douche)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401528520846",
+      "3401528519895",
+      "3701129807330",
+      "3701129811627",
+      "3401528520037"
+     ],
+     "inci": "Aqua/Water, Glycerin, PEG-7 Glyceryl Cocoate, Sodium Cocoamphoacetate, Lauryl Glucoside, Coco-Glucoside, Glyceryl Oleate, Citric Acid, PEG-90 Glyceryl Isostearate, Parfum/Fragrance, Mannitol, Polysorbate 20, Xylitol, Laureth-2, Rhamnose, Niacinamide, Fructooligosaccharides, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Atoderm Crème Ultra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129805343",
+      "3701129804322"
+     ],
+     "inci": "Aqua/Water, Paraffinum Liquidum/Mineral Oil, Glycerin, Brassica Campestris (Rapeseed) Seed Oil, Sodium Polyacrylate, Pentylene Glycol, Cetearyl Alcohol, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Citrate, Xylitol, Cetearyl Glucoside, Mannitol, Tocopherol, Rhamnose, Xylitylglucoside, Helianthus Annuus (Sunflower) Seed Oil, Anhydroxylitol, Niacinamide, Glucose, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
+    },
+    {
+     "nombre": "Atoderm Gel de Ducha (eco-recarga 1 l)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129807323"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Coco-Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Methylpropanediol, Coco-Glucoside, Glyceryl Oleate, Disodium EDTA, Citric Acid, Capryloyl Glycine, Copper Sulfate, Xylitylglucoside, Anhydroxylitol, Xylitol, Niacinamide, Glucose, Fructooligosaccharides, Mannitol, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Rhamnose, Ascorbyl Palmitate, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Atoderm Intensive Baume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129802052",
+      "3401381463298"
+     ],
+     "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Helianthus Annuus (Sunflower) Seed Oil, Behenyl Alcohol, Sucrose Stearate, Canola Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Beta-Sitosterol, Zinc Gluconate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitamide MEA, 1,2-Hexanediol, Caprylyl Glycol, Disodium EDTA, Sodium Hydroxide, Sodium Lauroyl Lactylate, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Phytosphingosine, Ceramide NP, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Citric Acid, Ceramide EOP"
+    },
+    {
+     "nombre": "Atoderm Intensive Baume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129802076"
+     ],
+     "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil/Huile Minerale, Helianthus Annuus (Sunflower) Seed Oil, Behenyl Alcohol, Sucrose Stearate, Canola/Canola Oil/Huile De Colza, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Beta-Sitosterol, Xylitol, Zinc Gluconate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitamide MEA, 1,2-Hexanediol, Caprylyl Glycol, Sodium Citrate, Mannitol, Rhamnose, Sodium Lauroyl Lactylate, Sodium Hydroxide, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Phytosphingosine, Ceramide NP, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Citric Acid, Ceramide EOP"
+    },
+    {
+     "nombre": "Cicabio Crema Reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401397163496",
+      "3401347869546"
+     ],
+     "inci": "Aqua/Water, Glycerin, Ethylhexyl Palmitate, Fructooligosaccharides, Zinc Oxide, Octyldodecanol, Butylene Glycol, Polyacrylamide, Laminaria Ochroleuca Extract, Copper Sulfate, Zinc Sulfate, Sodium Hyaluronate, Vitis Vinifera (Grape) Vine Extract, Asiaticoside, Asiatic Acid, Madecassic Acid, C13-14 Isoparaffin, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Caprylic/Capric Triglyceride, Laureth-7, Laureth-3, Hydroxyethylcellulose, Acetyl Dipeptide-1 Cetyl Ester, Potassium Sorbate"
+    },
+    {
+     "nombre": "Cicabio Crème+ SPF 50+ Crema Reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129810088"
+     ],
+     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Homosalate, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, Nylon 6/12, Cyclopentasiloxane, Caprylyl Methicone, Silica, Sodium Citrate, Mannitol, Xylitol, Rhamnose, Copper Sulfate, Zinc Sulfate, Sodium Hyaluronate, Vitis Vinifera (Grape) Vine Extract, Asiaticoside, Asiatic Acid, Madecassic Acid, Ectoin, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dicaprylyl Carbonate, 1,2-Hexanediol, Caprylyl Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, Cyclomethicone, Stearalkonium Hectorite, Laureth-3, Polysorbate 60, Sorbitan Isostearate, Hydroxyethylcellulose, Propylene Carbonate, Acetyl Dipeptide-1 Cetyl Ester, BHT, Potassium Sorbate, Tocopherol, Citric Acid"
+    },
+    {
+     "nombre": "Cicabio Lip Repair Bálsamo Labial Reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129812426"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Oil, Glycerin, Trihydroxystearin, Aqua/Water, Cetyl Palmitate, Butylene Glycol, Jojoba Esters, Xylose, Simmondsia Chinensis (Jojoba) Seed Oil, Helianthus Annuus (Sunflower) Seed Wax, Pentylene Glycol, Squalane, Sodium Polyglutamate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pongamia Glabra Seed Oil, Sodium Hyaluronate, Polyglycerin-3, Acacia Decurrens Flower Wax, Mannitol, Rhamnose, Xylitol, Acetyl Dipeptide-1 Cetyl Ester, Fructooligosaccharides, Tocopherol"
+    },
+    {
+     "nombre": "Hydrabio H2O Agua Micelar Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401399694127"
+     ],
+     "inci": "Aqua/Water, Glycerin, PEG-6 Caprylic/Capric Glycerides, Disodium EDTA, Mannitol, Xylitol, Cetrimonium Bromide, Rhamnose, Niacinamide, Hexyldecanol, Sodium Hydroxide, Pyrus Malus (Apple) Seed Extract, Brassica Campestris (Rapeseed) Sterols, Tocopherol, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Hydrabio Mascarilla Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401343613730"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cyclomethicone, Dicaprylyl Ether, Dimethicone, Xylitol, Glycol Palmitate, Corn Starch Modified, Arachidyl Alcohol, Xylitylglucoside, Anhydroxylitol, Niacinamide, Pyrus Malus (Apple) Fruit Extract, Rhamnose, Laminaria Ochroleuca Extract, Cyclopentasiloxane, Glyceryl Stearate, PEG-100 Stearate, Behenyl Alcohol, Cetyl Alcohol, Titanium Dioxide, Arachidyl Glucoside, Fructooligosaccharides, Disodium EDTA, Mannitol, Xanthan Gum, Hexyldecanol, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Alumina, Stearic Acid, Caprylic/Capric Triglyceride, Chlorphenesin, Phenoxyethanol, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Nodé DS+ Champú Anticaspa Intenso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129805060"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium Cocoamphoacetate, PEG-60 Almond Glycerides, Sodium Lauroyl Sarcosinate, Coco-Betaine, PEG-90 Glyceryl Isostearate, Sodium Shale Oil Sulfonate, Salicylic Acid, Piroctone Olamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Pyridoxine Hcl, Undecyl Alcohol, Zinc Gluconate, Polyquaternium-10, Fragrance (Parfum), Disodium EDTA, Sodium Hydroxide, Zinc Pyrithione, Laureth-2, Mannitol, Xylitol, Oleyl Alcohol, Rhamnose, Juniperus Oxycedrus Wood Extract, Zanthoxylum Bungeanum Fruit Extract, Sodium Acetate, Sodium Chloride, Citric Acid, Sodium Polynaphthalenesulfonate, Isopropyl Alcohol, Potassium Sorbate, Sodium Benzoate, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
+    },
+    {
+     "nombre": "Nodé P Champú Purificante Anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129804773"
+     ],
+     "inci": "Aqua/Water, Magnesium Laureth Sulfate, Sodium Lauroyl Sarcosinate, Sodium Cocoamphoacetate, Panthenol, Disodium EDTA, Polysorbate 20, Zinc Gluconate, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Climbazole, Piroctone Olamine, Salicylic Acid, Coco-Glucoside, Glyceryl Oleate, Polyacrylate Crosspolymer-6, PEG-90 Glyceryl Isostearate, Polyquaternium-7, Laureth-2, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Fragrance (Parfum), Hexyl Cinnamal, Limonene, Sodium Chloride, Linalool, Citronellol"
+    },
+    {
+     "nombre": "Photoderm Max Fluide SPF100",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129803554"
+     ],
+     "inci": "Aqua/Water, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Homosalate, Diisopropyl Sebacate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Styrene/Acrylates Copolymer, Glycerin, Silica, Sucrose Laurate, Undecane, C20-22 Alkyl Phosphate, C20-22 Alcohols, Sodium Polyacrylate, Tridecane, Tocopherol, PEG-8 Laurate, Pentylene Glycol, Sodium Citrate, 1,2-Hexanediol, Caprylyl Glycol, Ectoin, Mannitol, Sodium Hydroxide, Xylitol, Glycine Soja (Soybean) Oil, Rhamnose, Fructooligosaccharides, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Laminaria Ochroleuca Extract"
+    },
+    {
+     "nombre": "Photoderm Pediatrics Mineral SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129807309"
+     ],
+     "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Zinc Oxide [Nano], C15-19 Alkane, Titanium Dioxide [Nano], Polyglyceryl-3 Ricinoleate, Sorbitan Isostearate, Silica, Dicaprylyl Carbonate, Glyceryl Isostearate, Pentylene Glycol, Prunus Armeniaca (Apricot) Kernel Oil, Polyhydroxystearic Acid, Tocopherol, Sodium Chloride, Sodium Citrate, Stearalkonium Hectorite, Glycine Soja (Soybean) Oil, Propylene Carbonate, Citric Acid"
+    },
+    {
+     "nombre": "Photoderm Pediatrics Spray SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129807316"
+     ],
+     "inci": "Aqua/Water, Dibutyl Adipate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Propanediol, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Glycerin, Brassica Campestris/Aleurites Fordi Oil Copolymer, Polyglyceryl-6 Stearate, 1,2-Hexanediol, Prunus Armeniaca (Apricot) Kernel Oil, C20-22 Alkyl Phosphate, Microcrystalline Cellulose, C20-22 Alcohols, Tocopherol, Sodium Citrate, Caprylyl Glycol, Polyglyceryl-6 Behenate, Cellulose Gum, O-Cymen-5-Ol, Glycine Soja (Soybean) Oil, Sodium Hydroxide, Citric Acid, Xanthan Gum, Diisopropyl Sebacate, Propylheptyl Caprylate"
+    },
+    {
+     "nombre": "Photoderm Spot-Age SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129803738"
+     ],
+     "inci": "Aqua/Water, Dibutyl Adipate, Octocrylene, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Propanediol, Butyl Methoxydibenzoylmethane, Glycerin, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ascorbyl Glucoside, Corn Starch Modified, Dicaprylyl Ether, Silica, Tocopherol, Cetearyl Alcohol, Decyl Glucoside, C20-22 Alkyl Phosphate, C20-22 Alcohols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Coco-Glucoside, Pentylene Glycol, Xanthan Gum, Squalane, Sodium Hydroxide, Sodium Citrate, 1,2-Hexanediol, Caprylyl Glycol, Glycine Soja (Soybean) Oil, Citric Acid, Ectoin, Mannitol, Xylitol, Polysorbate 60, Rhamnose, Propylene Glycol, Asiaticoside, Madecassic Acid, Asiatic Acid, Sorbitan Isostearate, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Pigmentbio C-Concentrate Sérum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129800119"
+     ],
+     "inci": "Aqua/Water, Propanediol, Glycolic Acid, Glycerin, Dipropylene Glycol, Propylheptyl Caprylate, Sodium Hydroxide, Ascorbyl Glucoside, Niacinamide, Salicylic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sorbitan Sesquioleate, Pentylene Glycol, Tocopheryl Acetate, Xanthan Gum, Sodium Citrate, Lysine, Azelaic Acid, Mannitol, Xylitol, Sodium Metabisulfite, Andrographis Paniculata Leaf Extract, Rhamnose, Saccharide Isomerate, Glycyrrhiza Glabra (Licorice) Root Extract, Tocopherol, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Pigmentbio Sensitive Areas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129800096"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cetyl Alcohol, Dimethicone, Polymethylsilsesquioxane, Dipropylene Glycol, Propylheptyl Caprylate, Caprylic/Capric Triglyceride, HDI/Trimethylol Hexyllactone Crosspolymer, C14-22 Alcohols, Pentylene Glycol, Carbomer, Polysilicone-11, Caprylyl Glycol, 1,2-Hexanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Butylene Glycol, Disodium EDTA, Lysine, C12-20 Alkyl Glucoside, Azelaic Acid, Laminaria Ochroleuca Extract, Mannitol, Salicylic Acid, Xylitol, Andrographis Paniculata Leaf Extract, Rhamnose, Sodium Hydroxide, Glycyrrhiza Glabra (Licorice) Root Extract, Decyl Glucoside, Fructooligosaccharides, Tocopherol"
+    },
+    {
+     "nombre": "Sensibio Defensive Crema Activa Calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129804445"
+     ],
+     "inci": "Aqua/Water, Glycerin, Dicaprylyl Ether, Propylheptyl Caprylate, Butylene Glycol, Glyceryl Stearate Citrate, Glycol Palmitate, Squalane, Sucrose Stearate, Mangifera Indica (Mango) Seed Butter, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Carnosine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Mannitol, Xylitol, Tocopherol, Salvia Miltiorrhiza Flower/Leaf/Root Extract, Rhamnose, Glycine Soja (Soybean) Oil, Polysorbate 60, Sorbitan Isostearate, Palmitoyl Tetrapeptide-10"
+    },
+    {
+     "nombre": "Sensibio Gel Moussant Limpiador Espumoso Calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129800843",
+      "3701129800041"
+     ],
+     "inci": "Aqua/Water, Sodium Cocoamphoacetate, Propanediol, Sodium Lauroyl Sarcosinate, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Sodium Citrate, PEG-90 Glyceryl Isostearate, Mannitol, Xylitol, Laureth-2, Rhamnose, Fructooligosaccharides, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
      "nombre": "Sensibio H2O Agua Micelar",
      "include": [],
      "exclude": [],
@@ -3265,47 +3453,6 @@
      "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Fructooligosaccharides, Mannitol, Xylitol, Rhamnose, Cucumis Sativus (Cucumber) Fruit Extract, Propylene Glycol, Cetrimonium Bromide, Disodium EDTA"
     },
     {
-     "nombre": "Sébium H2O Agua Micelar Purificante",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3401572288297"
-     ],
-     "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Sodium Citrate, Zinc Gluconate, Copper Sulfate, Ginkgo Biloba Leaf Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Propylene Glycol, Citric Acid, Disodium EDTA, Cetrimonium Bromide, Parfum/Fragrance"
-    },
-    {
-     "nombre": "Atoderm Aceite de Ducha (Huile de Douche)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3401528520846",
-      "3401528519895",
-      "3701129807330",
-      "3701129811627",
-      "3401528520037"
-     ],
-     "inci": "Aqua/Water, Glycerin, PEG-7 Glyceryl Cocoate, Sodium Cocoamphoacetate, Lauryl Glucoside, Coco-Glucoside, Glyceryl Oleate, Citric Acid, PEG-90 Glyceryl Isostearate, Parfum/Fragrance, Mannitol, Polysorbate 20, Xylitol, Laureth-2, Rhamnose, Niacinamide, Fructooligosaccharides, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate"
-    },
-    {
-     "nombre": "Atoderm Intensive Baume",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3701129802052",
-      "3401381463298"
-     ],
-     "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Helianthus Annuus (Sunflower) Seed Oil, Behenyl Alcohol, Sucrose Stearate, Canola Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Beta-Sitosterol, Zinc Gluconate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitamide MEA, 1,2-Hexanediol, Caprylyl Glycol, Disodium EDTA, Sodium Hydroxide, Sodium Lauroyl Lactylate, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Phytosphingosine, Ceramide NP, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Citric Acid, Ceramide EOP"
-    },
-    {
-     "nombre": "Hydrabio H2O Agua Micelar Hidratante",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3401399694127"
-     ],
-     "inci": "Aqua/Water, Glycerin, PEG-6 Caprylic/Capric Glycerides, Disodium EDTA, Mannitol, Xylitol, Cetrimonium Bromide, Rhamnose, Niacinamide, Hexyldecanol, Sodium Hydroxide, Pyrus Malus (Apple) Seed Extract, Brassica Campestris (Rapeseed) Sterols, Tocopherol, Parfum/Fragrance"
-    },
-    {
      "nombre": "Sébium Gel Moussant Limpiador Purificante",
      "include": [],
      "exclude": [],
@@ -3314,35 +3461,6 @@
       "3401399277009"
      ],
      "inci": "Aqua/Water, Sodium Cocoamphoacetate, Sodium Laureth Sulfate, Methylpropanediol, Disodium EDTA, Sodium Chloride, Lactic Acid, Zinc Sulfate, Copper Sulfate, Potassium Sorbate, Xylitol, Fructooligosaccharides, Mannitol, Rhamnose, Propylene Glycol, Sodium Hydroxide, Ginkgo Biloba Leaf Extract, Parfum/Fragrance"
-    },
-    {
-     "nombre": "Atoderm Crème Ultra",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3701129805343",
-      "3701129804322"
-     ],
-     "inci": "Aqua/Water, Paraffinum Liquidum/Mineral Oil, Glycerin, Brassica Campestris (Rapeseed) Seed Oil, Sodium Polyacrylate, Pentylene Glycol, Cetearyl Alcohol, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Citrate, Xylitol, Cetearyl Glucoside, Mannitol, Tocopherol, Rhamnose, Xylitylglucoside, Helianthus Annuus (Sunflower) Seed Oil, Anhydroxylitol, Niacinamide, Glucose, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
-    },
-    {
-     "nombre": "Cicabio Crema Reparadora",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3401397163496",
-      "3401347869546"
-     ],
-     "inci": "Aqua/Water, Glycerin, Ethylhexyl Palmitate, Fructooligosaccharides, Zinc Oxide, Octyldodecanol, Butylene Glycol, Polyacrylamide, Laminaria Ochroleuca Extract, Copper Sulfate, Zinc Sulfate, Sodium Hyaluronate, Vitis Vinifera (Grape) Vine Extract, Asiaticoside, Asiatic Acid, Madecassic Acid, C13-14 Isoparaffin, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Caprylic/Capric Triglyceride, Laureth-7, Laureth-3, Hydroxyethylcellulose, Acetyl Dipeptide-1 Cetyl Ester, Potassium Sorbate"
-    },
-    {
-     "nombre": "Photoderm Spot-Age SPF 50+",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3701129803738"
-     ],
-     "inci": "Aqua/Water, Dibutyl Adipate, Octocrylene, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Propanediol, Butyl Methoxydibenzoylmethane, Glycerin, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ascorbyl Glucoside, Corn Starch Modified, Dicaprylyl Ether, Silica, Tocopherol, Cetearyl Alcohol, Decyl Glucoside, C20-22 Alkyl Phosphate, C20-22 Alcohols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Coco-Glucoside, Pentylene Glycol, Xanthan Gum, Squalane, Sodium Hydroxide, Sodium Citrate, 1,2-Hexanediol, Caprylyl Glycol, Glycine Soja (Soybean) Oil, Citric Acid, Ectoin, Mannitol, Xylitol, Polysorbate 60, Rhamnose, Propylene Glycol, Asiaticoside, Madecassic Acid, Asiatic Acid, Sorbitan Isostearate, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Parfum/Fragrance"
     },
     {
      "nombre": "Sébium Global Cuidado Intensivo Purificante",
@@ -3354,6 +3472,15 @@
      "inci": "Aqua/Water, C12-13 Alkyl Lactate, Citric Acid, Dipropylene Glycol, Cyclopentasiloxane, Sodium Hydroxide, Glycerin, Methyl Methacrylate Crosspolymer, Zinc Gluconate, Salicylic Acid, Arachidyl Alcohol, Dimethicone, Behenyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Silica, Xanthan Gum, Arachidyl Glucoside, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycyrrhetinic Acid, Squalane, Bakuchiol, Sodium Metabisulfite, Xylitol, Propylene Glycol, Polysorbate 60, Sorbitan Isostearate, Fructooligosaccharides, Mannitol, Propyl Gallate, Caprylic/Capric Triglyceride, Ginkgo Biloba Leaf Extract, Rhamnose, Laminaria Ochroleuca Extract, Parfum/Fragrance"
     },
     {
+     "nombre": "Sébium H2O Agua Micelar Purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401572288297"
+     ],
+     "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Sodium Citrate, Zinc Gluconate, Copper Sulfate, Ginkgo Biloba Leaf Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Propylene Glycol, Citric Acid, Disodium EDTA, Cetrimonium Bromide, Parfum/Fragrance"
+    },
+    {
      "nombre": "Sébium Hydra Crema Hidratante",
      "include": [],
      "exclude": [],
@@ -3361,6 +3488,15 @@
       "3401348840421"
      ],
      "inci": "Aqua/Water, Glycerin, Paraffinum Liquidum/Mineral Oil, Ethylhexyl Palmitate, Dipropylene Glycol, Xylitol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Mannitol, Rhamnose, Fructooligosaccharides, Laminaria Ochroleuca Extract, Glycyrrhetinic Acid, Allantoin, Ceramide 3, Tocopheryl Acetate, Isohexadecane, Caprylic/Capric Triglyceride, Polysorbate 80, Disodium EDTA, Cetrimonium Bromide, Ginkgo Biloba Leaf Extract, Dodecyl Gallate, Propylene Glycol, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Sébium Lotion Loción Purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401360157514"
+     ],
+     "inci": "Aqua/Water, PEG-11 Methyl Ether Dimethicone, Butylene Glycol, Glycerin, Fomes Officinalis (Mushroom) Extract, Capryloyl Glycine, Polysorbate 20, Sodium Citrate, Zinc Gluconate, Salicylic Acid, Sodium Hydroxide, Mannitol, Sodium Metabisulfite, Xylitol, Rhamnose, Pyridoxine HCl, Propyl Gallate, PEG-40 Hydrogenated Castor Oil, Fructooligosaccharides, Phenoxyethanol, Parfum/Fragrance"
     },
     {
      "nombre": "Sébium Pore Refiner",
@@ -3372,15 +3508,6 @@
      "inci": "Aqua/Water, Methyl Methacrylate Crosspolymer, Dipropylene Glycol, Cyclopentasiloxane, Cyclohexasiloxane, Dimethicone, Glycerin, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Sodium Polyacrylate, Salicylic Acid, Dodecyl Gallate, Ginkgo Biloba Leaf Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Laminaria Ochroleuca Extract, Silica, Trideceth-6, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Lauryl PEG/PPG-18/18 Methicone, Caprylic/Capric Triglyceride, Paraffinum Liquidum/Mineral Oil, Pentylene Glycol, 1,2-Hexanediol, PEG/PPG-18/18 Dimethicone, Caprylyl Glycol, Propylene Glycol, Sodium Hydroxide, Citric Acid, Disodium EDTA, Parfum/Fragrance"
     },
     {
-     "nombre": "Pigmentbio C-Concentrate Sérum",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3701129800119"
-     ],
-     "inci": "Aqua/Water, Propanediol, Glycolic Acid, Glycerin, Dipropylene Glycol, Propylheptyl Caprylate, Sodium Hydroxide, Ascorbyl Glucoside, Niacinamide, Salicylic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sorbitan Sesquioleate, Pentylene Glycol, Tocopheryl Acetate, Xanthan Gum, Sodium Citrate, Lysine, Azelaic Acid, Mannitol, Xylitol, Sodium Metabisulfite, Andrographis Paniculata Leaf Extract, Rhamnose, Saccharide Isomerate, Glycyrrhiza Glabra (Licorice) Root Extract, Tocopherol, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Parfum/Fragrance"
-    },
-    {
      "nombre": "Sébium Sensitive Crema Calmante Anti-imperfecciones",
      "include": [],
      "exclude": [],
@@ -3388,24 +3515,6 @@
       "3401360106994"
      ],
      "inci": "Aqua/Water, Glycerin, Methyl Methacrylate Crosspolymer, Dipropylene Glycol, Zinc Gluconate, Coco-Caprylate/Caprate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Caprylic/Capric Triglyceride, Arachidyl Alcohol, Behenyl Alcohol, Polyacrylate Crosspolymer-6, Sodium Polyacrylate, Glycyrrhetinic Acid, Propylene Glycol, Arachidyl Glucoside, Bakuchiol, Laminaria Ochroleuca Extract, Mannitol, Xylitol, Sodium Metabisulfite, Rhamnose, Ginkgo Biloba Leaf Extract, Tocopherol, Fructooligosaccharides, Parfum/Fragrance"
-    },
-    {
-     "nombre": "Cicabio Crème+ SPF 50+ Crema Reparadora",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3701129810088"
-     ],
-     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Homosalate, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, Nylon 6/12, Cyclopentasiloxane, Caprylyl Methicone, Silica, Sodium Citrate, Mannitol, Xylitol, Rhamnose, Copper Sulfate, Zinc Sulfate, Sodium Hyaluronate, Vitis Vinifera (Grape) Vine Extract, Asiaticoside, Asiatic Acid, Madecassic Acid, Ectoin, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dicaprylyl Carbonate, 1,2-Hexanediol, Caprylyl Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, Cyclomethicone, Stearalkonium Hectorite, Laureth-3, Polysorbate 60, Sorbitan Isostearate, Hydroxyethylcellulose, Propylene Carbonate, Acetyl Dipeptide-1 Cetyl Ester, BHT, Potassium Sorbate, Tocopherol, Citric Acid"
-    },
-    {
-     "nombre": "Sébium Lotion Loción Purificante",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3401360157514"
-     ],
-     "inci": "Aqua/Water, PEG-11 Methyl Ether Dimethicone, Butylene Glycol, Glycerin, Fomes Officinalis (Mushroom) Extract, Capryloyl Glycine, Polysorbate 20, Sodium Citrate, Zinc Gluconate, Salicylic Acid, Sodium Hydroxide, Mannitol, Sodium Metabisulfite, Xylitol, Rhamnose, Pyridoxine HCl, Propyl Gallate, PEG-40 Hydrogenated Castor Oil, Fructooligosaccharides, Phenoxyethanol, Parfum/Fragrance"
     }
    ]
   },

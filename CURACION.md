@@ -140,18 +140,27 @@ Pendientes resueltos: Comedomed SPF30 (3282771001432 = Comedomed+ Fluido intensi
 = Bálsamo hidratación intensa 24h). Siguen fuera por no estar en la web: XeraCalm Aceite
 400 ml 3282779405447 · Comedomed 3282770390414 · Ultra Fluid 3282779428897.
 
-### Bioderma (bioderma.es) — NO PUBLICA EL INCI (2026-09-09)
-Comprobado a fondo: la ficha renderizada con navegador no lleva el INCI (el acordeón
-"Composición" es texto de marketing y la imagen "composition" del PIM es una tarjeta del
-activo), y su GraphQL (`/api/graphql`, GET, cabecera `Store: es_es`) devuelve los campos
-`p_class_phrase_ingredient_reglementaire` y `p_class_phrase_ingredient_naos` vacíos en los 108
-productos. Por la regla 2-bis no entra nada nuevo. Open*Facts tiene 94 códigos de Bioderma:
-la vía para crecer sería incidecoder (INCI) + foto de Open*Facts (identificar el envase),
-producto a producto. Siguen pendientes los códigos ya identificados:
-Photoderm Max Aquafluide 3401561197715 · Max Spray 3401353688742 · Spray Invisible SPF30
-3701129807255 · Sensibio AR+ 3401343696245 · Sensibio Defensive 3701129804445 · Sébium Gel
-Moussant Actif 3701129803400 · Nodé A/P/DS+ 3401396545132, 3701129804773, 3701129805060 ·
-Hydrabio mask 3401343613730.
+### Bioderma — vía incidecoder + foto de Open*Facts (2026-09-09)
+bioderma.es NO publica el INCI (ni en la ficha renderizada con navegador, ni en su GraphQL
+`/api/graphql`, que devuelve `p_class_phrase_ingredient_reglementaire` vacío en los 108
+productos). Se curó por la vía alternativa: 28 productos y 42 códigos (antes 16 y 29).
+Método, código a código, sobre los 94 de Open*Facts:
+1. Fuera los que no son EAN-13 europeos (3401…/3701…) y los sin foto.
+2. Foto de OBF: solo entra el envase actual (marca "Care first · NAOS"). Los "Sans parabens",
+   "Cellular Bioprotection", "Skin Protect Complex" son generaciones anteriores y se descartan
+   (fueron la mayoría: 26 de 44).
+3. INCI de incidecoder. Cuando hay varias versiones del mismo producto, desempata el texto de
+   la etiqueta que los usuarios de OBF fotografiaron (`ingredients_text`): se exige que ≥80 %
+   de sus ingredientes estén en la versión elegida y que saque 0,25 a la siguiente. Sin texto
+   y con varias versiones (Photoderm Brume invisible, Atoderm Crème 500 ml NAOS, toallitas
+   Sensibio H2O), fuera. Sensibio H2O AR se queda en 0,67: fuera.
+4. Sensibio AR 3401343696245: Mariana lo tenía como AR+ pero la foto de OBF dice "AR" y las
+   fórmulas AR/AR+ no se parecen en nada: fuera hasta escanearlo.
+Añadidos: Sensibio Defensive · Nodé DS+ · Nodé P · Photoderm Pediatrics Spray y Mineral ·
+Hydrabio Mascarilla · Cicabio Lip Repair · Atoderm Gel de Ducha eco-recarga · Atoderm
+Intensive Baume 500 ml · Sensibio Gel Moussant (200 y 500 ml) · Photoderm Max Fluide SPF100 ·
+Pigmentbio Sensitive Areas. Scripts: `incidecoder.py` (búsqueda + lista completa) y
+`bio_pick.py` (desempate con OBF), reutilizables para Sesderma y otras.
 
 ### Eucerin (eucerin.es) — CERRADA (2026-09-09)
 Curada desde el sitemap: 124 productos y 137 códigos (antes 13 y 20).
@@ -206,7 +215,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
 | ISDIN | sí (310 fichas) | **no** | sí | INCI sí, pero no publica EAN: los códigos hay que sacarlos de Open*Facts |
-| Bioderma | sí (108 fichas) | no | no | ficha renderizada por JavaScript; el HTML servido no trae ni INCI ni EAN |
+| Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 
@@ -221,9 +230,9 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-1165 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Bioderma 29 · **ISDIN 18** · SkinCeuticals 6. Ninguno de los 1049
-productos está sin INCI. Las 11 marcas están revisadas: 8 curadas enteras desde su web;
-ISDIN limitada por los códigos; Bioderma y Sesderma no publican el INCI y SkinCeuticals está
-tras Cloudflare. Para seguir creciendo: la pestaña "Buscados" de la app (códigos escaneados
-sin resultado) e incidecoder + foto de Open*Facts para Bioderma.
+1178 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · **Bioderma 42** · ISDIN 18 · SkinCeuticals 6. Ninguno de los 1061
+productos está sin INCI. Las 11 marcas están revisadas: 8 curadas enteras desde su web,
+Bioderma e ISDIN hasta donde llegan los códigos verificados, Sesderma vacía (no publica
+INCI; posible por incidecoder cuando haya códigos) y SkinCeuticals tras Cloudflare. Para
+seguir creciendo: la pestaña "Buscados" de la app.
