@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ax",
+  "version": "2026-09-09ay",
   "marcas": [
     {
       "key": "larocheposay",
@@ -1250,6 +1250,24 @@
             "3337875596763"
           ],
           "inci": "Aqua/Water, Propanediol, Glycerin, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Methyl Gluceth-20, Citric Acid, Hydroxyacetophenone, Sodium Hyaluronate, Biosaccharide Gum-1, Butylene Glycol, Caprylyl Glycol, Carbomer, Maltodextrin"
+        },
+        {
+          "nombre": "Liftactiv Specialist B3 Sérum Antimanchas",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875734905"
+          ],
+          "inci": "Aqua/Water, Butylene Glycol, Niacinamide, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Hydroxyethyl Urea, Propylene Glycol, Glycolic Acid, Tranexamic Acid, Allantoin, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin, Ascorbyl Glucoside, Caprylyl Glycol, Hydrolyzed Rice Protein, Vitreoscilla Ferment, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol"
+        },
+        {
+          "nombre": "Liftactiv Supreme Vitamin C Sérum",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3337875560931"
+          ],
+          "inci": "Aqua/Water, Ascorbic Acid, Alcohol Denat., Dipropylene Glycol, Glycerin, Laureth-23, Neohesperidin Dihydrochalcone, Sodium Hydroxide, Tocopherol, Hydrolyzed Hyaluronic Acid, Pinus Pinaster Bark/Bud Extract"
         }
       ]
     },
