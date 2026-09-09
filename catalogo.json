@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09am",
+  "version": "2026-09-09an",
   "marcas": [
     {
       "key": "larocheposay",
@@ -946,7 +946,22 @@
     {
       "key": "bioderma",
       "nombre": "Bioderma",
-      "productos": []
+      "productos": [
+        {
+          "nombre": "Sensibio H2O Agua Micelar",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3401396991779",
+            "3701129809082",
+            "3401572288129",
+            "3401396992080",
+            "3701129805008",
+            "3401345935571"
+          ],
+          "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Fructooligosaccharides, Mannitol, Xylitol, Rhamnose, Cucumis Sativus (Cucumber) Fruit Extract, Propylene Glycol, Cetrimonium Bromide, Disodium EDTA"
+        }
+      ]
     },
     {
       "key": "eucerin",
