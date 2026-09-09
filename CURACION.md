@@ -118,8 +118,23 @@ Cicaplast Labios). "Cicaplast Labios" sigue con el SKU interno 30106659, sin EAN
   Kids Spray → 4005800027932 · Kids Loción → 4005800102363 · Allergy Protect → 4005800066382 ·
   Anti-Pigment Crema de Manos SPF30 → 4005800287510 · Lip Activ SPF20 → 4005800631702,
   9005800352756 · pH5 Gel Lavant recarga → 4005800193705
+### Garnier (garnier.es) — CERRADA (2026-09-09)
+Marca entera desde el sitemap, piel y pelo: 234 productos y 234 códigos (Fructis, SkinActive,
+Delial, Original Remedies, Body Superfood, Fructis Style, Ultra Suave Niños y las coloraciones
+Olia, Nutrisse, Color Sensation, Good).
+- Ficha: `gtin13` en el JSON-LD Product, INCI en `<div id="ingredients-list">`.
+- **Coloración**: la ficha trae el INCI de cada componente separado por `<br>`
+  ("POLVO DECOLORANTE - ... (CODE F.I.L. x)"), y se guarda como
+  `Componente: ingredientes · Componente: ingredientes`.
+- **52 tintes fuera**: su ficha solo publica el INCI del oxidante, sin ningún colorante. Es una
+  lista cortada (regla 2), así que no entran. Se detectan porque no aparece ninguna
+  p-fenilendiamina, aminofenol, resorcinol, etc.
+- 2 códigos que garnier.es repite en dos productos distintos: descartados, no hay forma de
+  saber de cuál son.
+- 6 fichas más fuera porque en el campo de ingredientes hay texto de marketing, no un INCI.
+
 ### Marcas creadas y vacías (siguiente)
-- Sesderma, Nivea, Garnier: sacar la lista de códigos (app "Copiar lista" o Open*Facts) y curar.
+- Sesderma y Nivea. Nivea sale directa de su web (EAN en la URL); Sesderma necesita otra vía.
 
 ## Fuente principal: la web oficial de cada marca (comprobado 2026-09-09)
 Casi todas publican la ficha con EAN + INCI completo, así que **la web de marca manda** y ya
@@ -151,8 +166,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-09)
-443 códigos en 8 marcas: **LRP 160** · **Vichy 111** · **CeraVe 73** · Avène 30 · Bioderma 29 ·
-Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 344 productos está sin INCI.
-Cerradas Vichy, La Roche-Posay y CeraVe; siguiente: Garnier, Eucerin, Nivea y Avène desde su
-web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma, Sesderma y
-SkinCeuticals, que necesitan otra vía.
+677 códigos en 9 marcas: **Garnier 234** · LRP 160 · Vichy 111 · CeraVe 73 · Avène 30 ·
+Bioderma 29 · Eucerin 20 · ISDIN 14 · SkinCeuticals 6. Ninguno de los 577 productos está sin
+INCI. Cerradas Vichy, La Roche-Posay, CeraVe y Garnier; siguiente: Eucerin, Nivea y Avène
+desde su web, ISDIN (INCI de la web + códigos de Open*Facts) y, al final, Bioderma, Sesderma
+y SkinCeuticals, que necesitan otra vía.
