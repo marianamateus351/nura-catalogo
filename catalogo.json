@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09f",
+  "version": "2026-09-09g",
   "marcas": [
     {
       "key": "larocheposay",
@@ -180,7 +180,8 @@
           "barcodes": [
             "3337875736763"
           ],
-          "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid"
+          "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid",
+          "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736763.jpg"
         },
         {
           "nombre": "Silymarin CF",
@@ -202,7 +203,8 @@
           "barcodes": [
             "3337875736749"
           ],
-          "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+          "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+          "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736749.jpg"
         },
         {
           "nombre": "Triple Lipid Restore 2:4:2",
@@ -265,7 +267,8 @@
           "inci": "Aqua/Water, Dimethicone, Propylene Glycol, Dipropylene Glycol, Niacinamide, Alcohol Denat, Glycerin, Caffeine, Sodium Chloride, PEG/PPG-18/18 Dimethicone, Tocopherol, Resveratrol, Scutellaria Baicalensis Root Extract, Disodium EDTA",
           "barcodes": [
             "3606000499805"
-          ]
+          ],
+          "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3606000499805.jpg"
         },
         {
           "nombre": "Retinol 0.5",
