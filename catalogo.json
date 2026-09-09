@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09ag",
+  "version": "2026-09-09ah",
   "marcas": [
     {
       "key": "larocheposay",
@@ -747,6 +747,54 @@
             "3282770138801"
           ],
           "inci": "Avene Aqua/Avene Thermal Spring Water, Caprylic/Capric Triglyceride, Ethylhexyl Palmitate, Glycerin, Cetearyl Alcohol, Squalane, Cetearyl Glucoside, Cetyl Esters, Aquaphilus Dolomiae Extract Filtrate, Arginine, Cera Alba/Beeswax, Citric Acid, Tromethamine, Aqua/Water, Xanthan Gum"
+        },
+        {
+          "nombre": "Cicalfate+ Crema Reparadora Protectora",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770204667",
+            "3282770204698",
+            "3282770207088"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Caprylic/Capric Triglyceride, Paraffinum Liquidum/Mineral Oil, Glycerin, Hydrogenated Vegetable Oil, Zinc Oxide, Propylene Glycol, Polyglyceryl-2 Sesquiisostearate, PEG-22/Dodecyl Glycol Copolymer, Aluminum Stearate, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Cera Alba/Beeswax, Copper Sulfate, Magnesium Stearate, Magnesium Sulfate, Cera Microcristallina/Microcrystalline Wax, Tromethamine, Zinc Sulfate"
+        },
+        {
+          "nombre": "Cleanance Gel Limpiador Purificante y Matificante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770100259",
+            "3282779365529"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Aqua/Water, Zinc Coceth Sulfate, Lauryl Betaine, Decyl Glucoside, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, Citric Acid, Parfum/Fragrance, CI 61570, Isopropyl Alcohol, PEG-40 Hydrogenated Castor Oil, PEG-6, PPG-26-Buteth-26, Silybum Marianum Fruit Extract, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, CI 19140, Zinc Gluconate"
+        },
+        {
+          "nombre": "XeraCalm A.D Bálsamo Relipidizante",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282779405485"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Paraffinum Liquidum/Mineral Oil, Glycerin, Caprylic/Capric Triglyceride, PEG-12, Oenothera Biennis (Evening Primrose) Oil, Glyceryl Stearate, Myreth-3 Myristate, PEG-100 Stearate, Polyacrylate-13, Aquaphilus Dolomiae Extract, Arginine, Citric Acid, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glycine, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Tocopherol, Aqua/Water"
+        },
+        {
+          "nombre": "Cleanance Comedomed Concentrado Anti-imperfecciones",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770202854"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Isopropyl Alcohol, PEG-6, Glycerin, Silybum Marianum Fruit Extract, Silica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Aqua/Water"
+        },
+        {
+          "nombre": "Cleanance Comedomed+ Cuidado Intensivo Anti-imperfecciones",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3282770399226"
+          ],
+          "inci": "Avene Aqua/Avene Thermal Spring Water, Isopropyl Alcohol, PEG-6, Glycerin, Niacinamide, Silybum Marianum Fruit Extract, Silica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Aqua/Water"
         }
       ]
     }
