@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09h",
+  "version": "2026-09-09i",
   "marcas": [
     {
       "key": "larocheposay",
@@ -144,6 +144,16 @@
             "3606000537453",
             "3337875597449"
           ]
+        },
+        {
+          "nombre": "Loción Hidratante Intensiva (Intensive Moisturising Lotion)",
+          "include": [],
+          "exclude": [],
+          "barcodes": [
+            "3606000620865",
+            "3337875904285"
+          ],
+          "inci": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Hydroxyethyl Urea, Isopropyl Palmitate, Propanediol, Cetearyl Alcohol, Octyldodecanol, C15-19 Alkane, Glycine, Stearic Acid, Ceramide NP, Ceramide AP, Ceramide EOP, Sorbitan Tristearate, Sorbitan Oleate, Carbomer, Glyceryl Stearate, Dimethicone, Behentrimonium Methosulfate, Triethyl Citrate, Isohexadecane, Sodium PCA, Serine, Sodium Lauroyl Lactylate, Sodium Hydroxide, Myristic Acid, Sodium Hyaluronate, Cholesterol, Palmitic Acid, Alanine, Tocopherol, Hydroxyacetophenone, Caprylyl Glycol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phytosphingosine, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 80, Benzoic Acid, PEG-100 Stearate, PEG-20 Methyl Glucose Sesquistearate"
         }
       ]
     },
