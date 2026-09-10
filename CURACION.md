@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros,
+3. Fuera: códigos de EE.UU. (0…), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -294,29 +294,37 @@ Qué se quedó fuera y por qué:
 Scripts: `neutrogena.py` (parseo de fichas), `gen_neutrogena.py` (nombres en español y
 erratas), `obf_inci.py`, `vocab.py`.
 
-### Dove (dove.com/es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Marca de Unilever, de las más vendidas de España en desodorante, gel de ducha y jabón. Tiene
-web de marca, así que se ataca como Neutrogena o Nivea, no como una marca blanca.
-1. **dove.com/es** — buscar el sitemap y ver qué publica la ficha. Las dos preguntas de
-   siempre: ¿**EAN-13** (en el widget de compra, en el JSON-LD como `gtin`, o en la propia
-   URL como en Nivea y Avène)? y ¿**INCI en texto**? Unilever suele publicar los ingredientes,
-   así que el hueco probable son los códigos.
-2. **Si la web da INCI pero no EAN** (caso ISDIN): los códigos, de Open Beauty Facts,
-   emparejando por nombre. Dove tiene muchísima presencia en OBF.
-3. Si algún INCI acaba viniendo de OBF y no de la marca, criba por vocabulario (`vocab.py`).
-Trampas propias de esta marca, más gordas que en Neutrogena:
-- **Es una gama enorme y muy internacional.** El mismo nombre comercial ("Dove Original",
-  "Deeply Nourishing") lleva **fórmula distinta según el país**, y los desodorantes cambian
-  de fórmula entre spray, roll-on y stick. Si no está claro que la lista es la del producto
-  español, no entra.
-- **Muchísima variante de aroma** con el mismo nombre de gama: cada aroma es un INCI distinto
-  (cambia el `Parfum` y los colorantes). No agrupar aromas distintos en una entrada; sí
-  agrupar tamaños del mismo aroma (regla 4).
-- **Fuera Dove Men+Care solo si no se vende aquí**; si se vende, entra como producto aparte,
-  igual que se hizo con NIVEA MEN.
-- Ojo con los códigos: los europeos empiezan por `8…` (España, `84…`) o `59…`/`87…` (Unilever
-  Polonia y Países Bajos, que sí se venden aquí); los `0…` son de EE. UU. y quedan fuera por
-  la regla 3.
+### Dove (dove.com/es) — cerrada 2026-09-10: 22 productos, 28 códigos (de 74 con EAN en la web)
+Marca de Unilever. **dove.com/es publica el EAN de todo, pero el INCI solo en una de cada tres
+fichas**, y parte de esas listas son fórmulas antiguas. Cómo va la web (AEM de Unilever):
+- Akamai devuelve 403 al `curl` pelado: hay que mandar cabeceras de navegador completas
+  (`dvcurl.sh`: User-Agent, Accept, Accept-Language, sec-ch-ua, Sec-Fetch-*).
+- El `sitemap.xml` solo trae categorías. Las fichas se sacan del listado de `/es/products.html`
+  (64 fichas, `data-list-count`), que pagina con el id del componente:
+  `<ruta data-productlist-path>?page=productlist-c9e3a36c89~2`, `~3`… (sin el id devuelve vacío).
+- Ficha `/es/p/<slug>.html/<GTIN-14>`. El EAN va en la URL y en `data-productvariants`, un JSON
+  con **todas las variantes** (tamaños y aromas), cada una con su código, tamaño e
+  `ingredientStatement`. Quitar los ceros a la izquierda del GTIN-14: quedan EAN-13 o, en
+  roll-on y crema, **EAN-8 auténticos de Unilever** (59095842, 80466437…), que sí entran.
+- El acordeón "Ingredientes" del HTML es solo una plantilla (`##…ingredientStatement@@`): si
+  el JSON no trae la lista, la ficha no la tiene. 74 códigos con EAN, **23 con INCI**.
+Criterios que decidieron qué entra:
+- **INCI de la web** solo si es la fórmula vigente: cinco listas de la web (Men+Care aerosol y
+  roll-on, crema 50 ml) traen **Butylphenyl Methylpropional** (prohibido en la UE desde 2022)
+  o **HICC** (2021): fórmulas antiguas, no entran. Ese filtro (`PROHIBIDO` en `gen_dove.py`)
+  vale para cualquier marca: un prohibido en la lista delata una ficha sin actualizar.
+- **INCI de OBF solo por el mismo código** (nunca por nombre, por la trampa de fórmula distinta
+  por país) y solo si la etiqueta está limpia: gel Nutritivo, gel Hidratación Profunda,
+  roll-on Original, jabón en pastilla y autobronceadora medio-oscuro. Cuando la web agrupa
+  tamaños del mismo aroma bajo una ficha, la lista de un tamaño vale para los demás (regla 4).
+- Fuera: crema de manos Aguacate (la web parte "Calendula, Officinalis Flower" y duplica
+  Propylparaben: lista no fiable) y 46 códigos sin INCI en ningún sitio (aerosoles, roll-on
+  0 % aluminio, casi todos los geles de ducha): regla 2-bis.
+- `wiop.unilever.es` ("What's in our products") existe pero solo cubre hogar (Mimosín, Skip,
+  Cif, Domestos). Primor publica el EAN pero no la lista. incibeauty está tras Cloudflare.
+  Los códigos de OBF con `en:spain` que no están en la web son latinoamericanos o sin INCI.
+Scripts: `dvcurl.sh`, `dove.py` (fichas → `dove_db.json`), `gen_dove.py`, `obf2.py` (OBF con
+reintentos), `obf_inci.py`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -346,6 +354,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Dove | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero dove.com/es (ver su apartado) |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -359,10 +368,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1275 códigos en 13 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · **Neutrogena 56** · Bioderma 42 · Cien 26 · ISDIN 18 · Deliplus 15 ·
-SkinCeuticals 6. Ninguno de los 1152 productos está sin INCI. Sesderma sigue vacía. La criba
-por vocabulario (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo
-"súper": Babaria, Instituto Español, Bella Aurora, Sanex y L'Oréal Paris.
-**Dove ya está creada y vacía** (botón visible en la app), pendiente de curar: tiene web de
-marca, así que se mira primero si publica EAN + INCI, como Nivea/Neutrogena.
+1303 códigos en 14 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · **Dove 28** · Cien 26 · ISDIN 18 ·
+Deliplus 15 · SkinCeuticals 6. Ninguno de los 1174 productos está sin INCI. Sesderma sigue
+vacía. Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora, Sanex y
+L'Oréal Paris (esta última con web de marca: mirar primero si publica EAN + INCI).
