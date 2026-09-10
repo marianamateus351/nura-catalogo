@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, que son los envases de España, ver NYX), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX y los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico, que son los envases de España, ver NYX y Essie), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -666,28 +666,41 @@ encías / Dientes Sensibles / Limpieza / Blanqueador / Junior, Anti-Placa Expert
 For Coffee, Tea & Wine, Herbal, Kids Animal Gang y Bluey, Plax Soft Mint, Max White colutorio,
 Sérum Nocturno, Triple Action (tubo suelto).
 
-### Essie (essie.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Esmaltes de uñas. Se elige por dos motivos que se refuerzan:
-- **Cierra la plataforma de L'Oréal**, que es la que mejor ha funcionado: L'Oréal Paris (511
-  códigos), Maybelline (455) y NYX (la más grande del catálogo). Los scripts están escritos y
-  probados tres veces: **reusarlos y tocar solo lo que falle**, empezando por el caso de
-  Maybelline/NYX (tonos en la misma ficha) y, si no, el de L'Oréal Paris (página por tono).
-- **El esmalte es de las categorías que más marca nuestra propia base de disruptores.** Están
-  fichados el ftalato de dibutilo (DBP), el tolueno y los liberadores de formaldehído, que son
-  el clásico "trío tóxico" del esmalte. O sea que aquí un escaneo da resultado de verdad, no
-  un "todo bien" de relleno.
-Lo específico de esta marca:
-- **Es casi todo tono**: cada color es una referencia con su propio código, así que el volumen
-  sale de ahí. Y en esmalte **el INCI cambia entre tonos casi siempre** (los CI y los pigmentos
-  son media lista), así que lo normal aquí será **una entrada por tono**, al revés que en una
-  base de maquillaje. Agrupar solo si la lista es idéntica de verdad.
-- Los "[+/- puede contener]" del esmalte son largos: se conservan como colorantes, igual que en
-  L'Oréal Paris.
-- Además de los colores hay tratamientos (bases, top coats, endurecedores, quitaesmaltes):
-  entran igual si traen lista.
-- EAN-8 que empiezan por `30…`: franceses auténticos de L'Oréal, entran.
-Recordatorios de siempre: fichas con "Ingredients" vacío o con marketing, fuera; listas
-traducidas al español, fuera; gama descatalogada, fuera (regla 3).
+### Essie (essie.es) — cerrada 2026-09-10: 27 entradas, 125 códigos (de 253 fichas; 141 con lista en INCI)
+**Es la plantilla antigua de la plataforma de L'Oréal**, no la de L'Oréal Paris/Maybelline ni la de
+NYX: `dvcurl.sh` en serie con 1 s de pausa entra sin problema (sin Akamai ni Cloudflare), el
+sitemap `sitemap.xml` lista las 253 fichas (una página por tono, como L'Oréal Paris), pero **no hay
+JSON-LD `Product`** (solo migas). De los scripts anteriores solo vale `limpia_inci`.
+- Código: `<accordion-panel tab-title="ingredientes e información de seguridad" product-id="0000030189416">`;
+  se quitan los ceros → **EAN-8 `30…` (92 códigos, franceses de L'Oréal) o EAN-13 `3600…`**. Solo
+  vale el `product-id` del acordeón de ingredientes: el resto de `product-id` de la página son
+  los del carrusel "tonos similares".
+- Lista: dentro del mismo acordeón, con viñetas ● y "[+/- PUEDE CONTENER …]" largo, que se
+  conserva como colorantes. Parser `es_parse.py` → `es/db.json`.
+- **La web da la misma lista a toda una gama**: 36 tonos de essie enamel clásico, 17 de gel
+  couture, 17 de la colección de invierno… con todos los colorantes en el "puede contener". Es
+  la lista de la caja, no cambia entre tonos, así que aquí **sí se agrupa** (lista idéntica de
+  verdad): 27 entradas para 125 códigos, con los tonos en el nombre (hasta 5 y "y N tonos más").
+  Las listas distintas (Mrs Always Right, Glazed Metal, Serene Slate…) van solas.
+- Tratamientos que traen lista: Good As New, Hard To Resist (×3), Top Coat Brillo, Top Coat
+  Stay Longer. Sin lista o con "No se requieren": Smooth-E, Here To Stay, Strong Start, All In
+  One, Apricot Cuticle Oil, Good As Gone (quitaesmalte), Quick-E, Gel Setter, Good To Go, Matte,
+  Speed Setter, Break Fix, On A Roll…: fuera (34 fichas con código y sin lista).
+- **10 fichas traen la lista traducida al español** (la colección de verano 2025: rev it up, new
+  highs, strut with it, blushed metal, fuel your life, you can-dy it, crushed gold, dopamine
+  rush, y On A Roll ×2): "ACETATO DE BUTILO ● NITROCELULOSA…". Fuera (regla 2).
+- **essie.fr NO sirve de apoyo**: tiene el mismo `product-id` y la lista en INCI, pero para el
+  mismo código da listas distintas de las de essie.es (aruba blue: en .es la base clásica con
+  tosylamide y propyl acetate; en .fr una base con alcohol) en 20 de los 22 códigos comunes. Es
+  el aviso de las webs que repiten listas, ahora entre países: no se ha usado nada de .fr.
+- **Códigos `0…` (misma excepción que NYX):** el essie enamel clásico se fabrica en EE. UU. y 28
+  tonos llevan UPC-A (`095008…`, `0884486…`, `080079…`) que essie.es publica como `product-id`
+  de 11-12 dígitos. Son los envases que se venden aquí: entran con ceros hasta 13 dígitos. En
+  iOS el escáner ya los lee así; en Android hace falta el build del escáner (ver NYX).
+- Erratas de la web corregidas: "Cl 77491" → CI, "Butul Acetate", "CI 77510/Ferric Ammonium,
+  Ferrocyanide" partido por la coma, sinónimos "CI 77891/Titanium Dioxide" → CI 77891.
+Scripts: `es_parse.py` (ficha .es), `fr_parse.py` (solo para el contraste), `gen_essie.py`
+(agrupación por lista idéntica, nombres por gama enamel/expressie/gel couture) → `essie_merged.json`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -725,7 +738,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
 | NYX | **no** (Cloudflare); fichas a fuerza bruta por ID `/p/NYX_nnn.html` con Playwright | **UPC-A de 12 dígitos** por tono (`data-js-pid`), que es `0800897…` en EAN-13 | sí, por tono, en el popin `Product-Information?cid=pdp-popin-ingredient&pid=` | Salesforce Commerce Cloud, no la plataforma de L'Oréal Paris; ver su apartado |
 | Colgate | sí (`sitemap.xml`, 50 fichas; `dvcurl.sh` en serie) | **no** (`itemId` interno) | sí, en `<meta name="ingredientList">` (28 fichas, con alérgenos del aroma) | códigos de OBF solo por lista idéntica (sin alérgenos); ver su apartado |
-| Essie | por comprobar | por comprobar | por comprobar | grupo L'Oréal, misma plataforma que NYX/Maybelline: reusar sus scripts (ver su apartado) |
+| Essie | sí (`sitemap.xml`, 253 fichas, una por tono) | sí, `product-id` del acordeón de ingredientes (EAN-8 `30…`, `3600…` y UPC `0…`) | sí, en el acordeón (141 fichas; 10 traducidas; misma lista por gama) | plantilla antigua de L'Oréal, sin JSON-LD; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -748,15 +761,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3316 códigos en 22 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 ·
-Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 · **Colgate 13** · Fairy 11 ·
-SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2085 productos está sin INCI. Sesderma
-sigue vacía.
+3441 códigos en 23 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · **Essie 125** · Vichy 111 · CeraVe 73 ·
+Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 ·
+Colgate 13 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2112 productos
+está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
-**Essie ya está creada y vacía** (botón visible en la app), pendiente de curar: cierra la
-plataforma de L'Oréal, ver su apartado.
+Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excepción que NYX; ver su apartado).
