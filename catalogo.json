@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10k",
+ "version": "2026-09-10l",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10936,6 +10936,11 @@
      "inci": "Aqua, Butoxydiglycol, Alcohols C9-11 Ethoxylated, Ethanolamine, Parfum, Didecyldimonium Chloride, Isopropyl Alcohol, DL-Malic Acid"
     }
    ]
+  },
+  {
+   "key": "lorealparis",
+   "nombre": "L'Oréal Paris",
+   "productos": []
   }
  ]
 }

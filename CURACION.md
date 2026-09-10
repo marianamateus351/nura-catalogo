@@ -427,6 +427,28 @@ Scripts: `cf.py` (Contentful), `opf2.py`/`opf_inci.py` (Open Products Facts), `g
   directa y valdría también para Norit, Alex, Denenes y Ecran, que están en el mismo portal.
 Scripts: `dvcurl.sh`, `sy/` (fichas, PDF y listas), `gen_sanytol.py`.
 
+### L'Oréal Paris (loreal-paris.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+**La mejor apuesta que queda**, y por un motivo concreto: es del **grupo L'Oréal**, el mismo
+de Garnier, La Roche-Posay, CeraVe y Vichy, que son las cuatro marcas que mejor han salido
+(234, 160, 73 y 111 códigos, todas enteras desde su web con EAN + INCI oficiales). El motor
+de fichas es el mismo, así que lo más probable es que el trabajo ya esté medio hecho: empezar
+probando **el patrón de Garnier** (sitemap `/sitemap.xml`, fichas en rutas de gama, INCI tras
+`INGREDIENTS:`) y, si no encaja, el de Vichy/LRP (`product-ean`, `:upc-list`,
+`product-composition`, atributo `other-ingredient`).
+Aviso: SkinCeuticals es del mismo grupo y está detrás de Cloudflare. Si loreal-paris.es
+responde 403 a todo, es ese mismo reto y hay que decirlo, no insistir.
+Lo específico de esta marca, que la hace más grande y más enredada que Garnier:
+- **Es la marca con más maquillaje de todas** (bases, labiales, máscaras, sombras). Mariana
+  ha dicho expresamente que **el maquillaje SÍ interesa**. Se aplica la regla 4: los tonos de
+  un mismo producto van en **una sola entrada con varios códigos**, como se hizo con la Base
+  de Maquillaje Antiarrugas de Vichy — salvo que el INCI cambie entre tonos, que en labiales y
+  sombras pasa a menudo por los colorantes (CI …). Si cambia, entradas separadas.
+- **Tintes de pelo (Excellence, Casting, Préférence)**: son la gama con más carga hormonal de
+  la marca — nuestra base detecta resorcinol y varios ingredientes de tinte —, así que
+  interesan mucho. Pero cada tono es una fórmula distinta de verdad, y la caja lleva **dos
+  listas** (crema y revelador). Si la web no deja claro qué lista es de qué tono, no entra.
+- Gama antigua descatalogada abundante (regla 3) y códigos de EE. UU. en OBF (`0…`), fuera.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -445,6 +467,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | La Roche-Posay | sí | sí | sí | `product-ean` y `:upc-list` (varios tamaños); INCI en el atributo `other-ingredient`; nombre en la miga de pan |
 | CeraVe | sí | sí | sí | mismo grupo, marcado propio (`product-details`) |
 | Garnier | sí (`/sitemap.xml`) | sí | sí | fichas en `/marcas/<gama>/<subgama>/<slug>`; INCI tras `INGREDIENTS:` |
+| L'Oréal Paris | por comprobar | por comprobar | por comprobar | mismo grupo que Garnier/LRP/Vichy: probar primero el patrón de Garnier (ver su apartado) |
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
@@ -477,3 +500,5 @@ sin INCI. Sesderma sigue vacía. Limpieza: P&G (info-pg.com) resuelto para Ariel
 Lenor, Ambi Pur y Febreze; AC Marca (Sanytol, Norit, Alex) publica la lista pero la ficha
 española pide cuenta en reach.grupoacmarca.com. Siguientes del grupo "súper": Babaria,
 Instituto Español, Bella Aurora y L'Oréal Paris.
+**L'Oréal Paris ya está creada y vacía** (botón visible en la app), pendiente de curar: es
+del grupo L'Oréal, así que se empieza probando el patrón de Garnier.
