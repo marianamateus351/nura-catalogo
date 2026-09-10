@@ -577,6 +577,27 @@ el cómo de cada emparejamiento) → `sanex_merged.json`.
 Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredientes de Sanex**
 (se miraron 42 fichas de gel de ducha, solo dan fabricante y dirección). No volver por ahí.
 
+### NYX Professional Makeup (nyxcosmetics.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+**La apuesta de más volumen que queda.** Es del grupo L'Oréal y va sobre la misma plataforma
+que loreal-paris.es y maybelline.es, las dos marcas más grandes del catálogo (511 y 455
+códigos). Los scripts ya están escritos y probados DOS veces: **reusar `lp/get.sh`,
+`lp_parse.py`, `lp_agg.py` y `gen_lp.py`, y tocar solo lo que falle.** Además es maquillaje
+puro, con muchísimo tono por producto, que es donde salen los códigos.
+Lo que cambió entre L'Oréal Paris y Maybelline, y hay que mirar cuál de los dos casos es NYX:
+- **L'Oréal Paris**: los tonos tienen página propia, NO listada en el sitemap; se sacan de
+  `<oap-product-variant-selector :variants='[…]'>` y hacen falta pasadas sucesivas.
+- **Maybelline**: los tonos van todos en la MISMA ficha, en
+  `<input class="shade-selector__input" data-variant-ean="…" data-name="…">`, con una sola
+  lista de ingredientes por ficha y los colorantes en "[+/- puede contener]". Y el sitemap solo
+  listaba 113 de las fichas: el resto salieron de los enlaces de las páginas de categoría.
+  **Empezar probando el caso Maybelline, que es el más reciente y el más parecido.**
+Recordatorios que ya han dado guerra en las dos anteriores:
+- EAN-8 que empiezan por `30…`: son franceses auténticos de L'Oréal y **entran**.
+- Tonos con el mismo INCI → una entrada con todos sus códigos; si el INCI cambia entre tonos
+  (labiales, sombras, correctores), entradas separadas con el tono en el nombre.
+- Fichas con "Ingredients" vacío o con marketing, fuera. Listas traducidas al español, fuera.
+Detrás de NYX, en el mismo grupo y plataforma: **Essie**.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -611,6 +632,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
 | Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
+| NYX | por comprobar | por comprobar | por comprobar | grupo L'Oréal, misma plataforma que Maybelline: reusar sus scripts (ver su apartado) |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -639,3 +661,5 @@ Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · **Sanex 14** · Fairy 11 · Ski
 Sanytol 5 · Eroski 5. Ninguno de los 1534 productos está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
+**NYX ya está creada y vacía** (botón visible en la app), pendiente de curar: misma plataforma
+que L'Oréal Paris y Maybelline.
