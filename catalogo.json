@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10c",
+ "version": "2026-09-10d",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10156,6 +10156,11 @@
      "inci": "Aqua, Glycerin, Dibutyl Adipate, Glyceryl Stearate SE, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Titanium Dioxide (Nano), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Ethylhexyl Triazone, Phenoxyethanol, Butyrospermum Parkii Butter, Glycine Soja Oil, Sodium Cetearyl Sulfate, Talc, Silica, Parfum, Sodium Anisate, Sodium Levulinate, Disodium EDTA, Benzoic Acid, Calcium Gluconate, Dehydroacetic Acid, Citric Acid, Dimethicone, Tocopherol, Benzyl Alcohol, Linalool, Ubiquinone, Sodium Citrate, Soluble Collagen, Sodium Benzoate, Elaeis Guineensis Oil, Beta-Carotene"
     }
    ]
+  },
+  {
+   "key": "neutrogena",
+   "nombre": "Neutrogena",
+   "productos": []
   }
  ]
 }

@@ -257,6 +257,26 @@ champú hombre, jabón de manos Gentle & Pure, limpiador facial hidratante, crem
 Bio, crema de día VitalBeauty, crema corporal hidratante, mascarilla capilar regeneradora y
 crema solar Active SPF30. Scripts: `gen_cien.py`, `vocab.py`, `final_cien.py`.
 
+### Neutrogena (neutrogena.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Marca de Kenvue (antes Johnson & Johnson), muy vendida en supermercado y farmacia en España.
+A diferencia de Deliplus y Cien, **aquí sí hay web de marca**, así que se ataca como Nivea o
+Garnier y no como una marca blanca. Orden:
+1. **neutrogena.es** — buscar el sitemap (`/sitemap.xml`) y ver qué publica cada ficha. Las
+   dos preguntas de siempre: ¿trae **EAN-13** (o va en la URL, como en Nivea y Avène)? y
+   ¿trae el **INCI en texto**? Si trae las dos, la marca sale entera de aquí y es lo mejor.
+   Si trae INCI pero no EAN, es el caso ISDIN: los códigos se sacan de Open Beauty Facts y
+   se emparejan por nombre.
+2. **Open Beauty Facts** — `tag_0=neutrogena` y `search_terms=neutrogena`. Neutrogena se
+   vende en toda Europa y en EE. UU., así que aquí hay que ser especialmente cuidadoso con
+   la **regla 3**: fuera los códigos que empiezan por `0…` (EE. UU.), que son muchos y a
+   veces con fórmula distinta a la europea. Los europeos suelen empezar por `3…` o `4…`.
+3. Si el INCI viene de OBF y no de la marca, pasarle la **criba por vocabulario** (`vocab.py`)
+   igual que en Cien.
+Cuidado con dos cosas propias de esta marca: la gama es enorme y arrastra **productos
+descatalogados** con envases de generaciones anteriores (regla 3), y hay **fórmulas EE. UU. y
+UE distintas para el mismo nombre comercial** (los filtros solares sobre todo) — si hay duda
+de cuál es la lista, el producto no entra.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -282,6 +302,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
+| Neutrogena | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero neutrogena.es (ver su apartado) |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 | Cien (Lidl) | no hay web de marca | no | a veces en lidl.es | Open Beauty Facts como fuente principal de EAN e INCI (ver su apartado) |
@@ -303,3 +324,4 @@ Ninguno de los 1102 productos está sin INCI. Sesderma sigue vacía. La criba po
 (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo "súper":
 Babaria, Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris (estas
 tres últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Garnier).
+**Neutrogena ya está creada y vacía** (botón visible en la app), pendiente de curar.
