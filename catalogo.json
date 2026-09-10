@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10u",
+ "version": "2026-09-10v",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20090,7 +20090,93 @@
   {
    "key": "colgate",
    "nombre": "Colgate",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Max White Carbón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951484887",
+      "8718951249950"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-12, Tetrapotassium Pyrophosphate, Sodium Lauryl Sulfate, Aroma, Potassium Hydroxide, Cellulose Gum, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Charcoal Powder, Anethole, Beta-Caryophyllene, Limonene, Menthol"
+    },
+    {
+     "nombre": "Pasta de dientes Max White Instant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951484627"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-12, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Potassium Hydroxide, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Hydroxypropyl Methylcellulose, Eugenol, CI 17200, CI 42051, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Max White One",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951484672",
+      "8718951658585"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Pentasodium Triphosphate, Tetrapotassium Pyrophosphate, Aroma, Sodium Lauryl Sulfate, Cellulose Gum, Potassium Hydroxide, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Max White Purple Reveal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951540033",
+      "8718951658691"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-12, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Potassium Hydroxide, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Hydroxypropyl Methylcellulose, Anethole, Beta-Caryophyllene, Carvone, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol, CI 17200, CI 42090, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Max White Ultra Active Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951570313"
+     ],
+     "inci": "Poloxamer 105, Calcium Pyrophosphate, PEG-8, PEG/PPG-116/66 Copolymer, PVP, Silica, Tetrasodium Pyrophosphate, Aroma, Potassium Caroate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Disodium Pyrophosphate, Sodium Saccharin, Cocamidopropyl Betaine, Sucralose, Magnesium Carbonate, Eugenol"
+    },
+    {
+     "nombre": "Pasta de dientes Sensation Blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951312432",
+      "8718951553286"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Aroma, Sodium Lauryl Sulfate, Xanthan Gum, Potassium Hydroxide, Cellulose Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Sodium Fluoride, Sodium Saccharin, Benzyl Alcohol, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Total Prevención Activa Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951684843"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Sorbitol, Calcium Pyrophosphate, Aroma, Sodium Lauryl Sulfate, Tetrasodium Pyrophosphate, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Sodium Fluoride, Anethole, Benzyl Alcohol, Beta-Caryophyllene, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, Pinene"
+    },
+    {
+     "nombre": "Pasta de dientes Triple Action",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951653924"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Calcium Pyrophosphate, Sodium Lauryl Sulfate, PEG-12, Aroma, Cellulose Gum, Sodium Fluoride, Sodium Saccharin, Anethole, Beta-Caryophyllene, Carvone, Limonene, Mentha Viridis Leaf Oil, Menthol, CI 74160, CI 74260"
+    },
+    {
+     "nombre": "Sérum Blanqueador Morado Max White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951724181"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, PEG-12, Aroma, Potassium Hydroxide, Benzyl Alcohol, Xanthan Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Saccharin, Cellulose Gum, Anethole, Carvone, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Eucalyptus Globulus Oil, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 17200, CI 42090"
+    }
+   ]
   }
  ]
 }

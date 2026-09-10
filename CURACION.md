@@ -631,30 +631,40 @@ tonos), `nx_agg.py` (→ `nx/db.json`, `nx/pids.txt`), `nx/popin.js` (→ `nx/po
 `nx_gen.py` (limpieza, fusión de bloques, agrupación por INCI, `EXCLUIR`) → `nyx_merged.json`.
 Detrás de NYX, en el mismo grupo: **Essie** (comprobar plataforma antes: puede ser SFCC como NYX).
 
-### Colgate (colgate.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Pasta de dientes y colutorios: producto de uso diario en todas las casas y con exposición en
-mucosa, así que interesa aunque la marca sea pequeña en número de referencias.
-**Es de Colgate-Palmolive, igual que Sanex**, así que lo primero es probar si comparte web:
-`dvcurl.sh` (cabeceras completas de Chrome, **en serie con 1,5 s de pausa**, porque `curl`
-pelado da "Access Denied" tras Akamai) y el parser de la tabla `INGREDIENTE | PROPÓSITO` que
-se usó en sanex.es. Si colgate.es es el mismo AEM, la marca sale casi sola.
-Lo que hay que comprobar y lo que se espera:
-1. Sitemap de colgate.es y si la ficha trae la pestaña de ingredientes en tabla.
-2. **El EAN será el hueco**, como en Sanex (sanex.es no publica ninguno): los códigos, de
-   Open Beauty Facts (`tag_0=colgate`, `search_terms=colgate`), emparejando por nombre y, mejor
-   aún, **por INCI idéntico** contra la etiqueta de OBF, que es como se emparejó Sanex por
-   orden de fiabilidad. Códigos buenos: `84…` (España) y `87…` (Países Bajos, Colgate-Palmolive
-   Europa); los `0…` son de EE. UU., fuera (regla 3).
-3. **Aviso heredado de Sanex: la web de esta empresa repite listas entre fichas.** En Sanex
-   ponía el mismo INCI en las cinco fichas de gel Neutro/Zero% y se demostró falso con la
-   etiqueta real. Si en Colgate aparece la misma lista en varias pastas distintas, **no
-   fiarse**: contrastar con la etiqueta de OBF y, si no cuadra, fuera.
-4. Ojo con la **pasta de dientes**: no lleva "INCI" al uso sino la lista de ingredientes de
-   producto de higiene bucal (Aqua, Sorbitol, Hydrated Silica, Sodium Fluoride/Sodium
-   Monofluorophosphate, Sodium Lauryl Sulfate, aromas…). Vale igual, es la lista que lee el
-   detector. Los **cepillos y la seda dental no entran**: no tienen lista de ingredientes.
-5. Colutorios y blanqueadores sí entran (son líquidos con lista completa).
-Fuera por la regla 3: gama descatalogada, que en esta marca es abundante porque renombra mucho.
+### Colgate (colgate.es) — cerrada 2026-09-10: 9 productos, 13 códigos (de 28 fichas con lista en la web)
+Mismo AEM de Colgate-Palmolive que sanex.es y mismo acceso (`dvcurl.sh` en serie con 1,5 s; el
+sitemap `sitemap.xml` se lee directo: 245 URL, 50 fichas de producto), **pero la lista no va en
+tabla**: va en `<meta name="ingredientList" value="…">` (y repetida en el dataLayer), una por
+ficha, con cola "Contains: Sodium Fluoride Total Fluoride content: 1450 ppm" que se quita.
+Nombre en `<meta name="itemName">`, categoría en `itemCategory`, `itemId` interno: **sin EAN**,
+como se esperaba. Parser: `cg_parse.py` → `cg/db.json`. 28 fichas con lista (pastas, 2
+colutorios, 2 sérums); sin lista: 13 cepillos, 2 sedas, el kit LED, y 5 pastas reales (Max Fresh
+cristales, Max White Ultra Efecto Instantáneo, MaxWhite cristales, Total + Esmalte ×2).
+Códigos: OBF `tag_0=colgate` da 366, 156 europeos (143 `87…`, solo 3 `84…`), 57 con texto de
+etiqueta. Emparejado por lista (`gen_colgate.py`, con el cómo de cada código):
+- **Las listas de la web llevan los alérgenos del aroma** (Limonene, Menthol, Anethole,
+  Beta-Caryophyllene, Carvone, Mentha Viridis Leaf Oil…) y muchas etiquetas de OBF no, así que
+  la comparación se hace sobre la lista sin alérgenos y tolerando erratas de OCR ("Cl 74160",
+  "Flouride", "Xantham"). Entra solo lo que coincide 1:1: Max White One (2 códigos), Purple
+  Reveal (2), Ultra Active Foam, Instant, Sensation Blanqueador (2), Max White Carbón (2, uno
+  leído en la foto de la etiqueta española), Triple Action (pack 2×75), Total Prevención Activa
+  Original (envase 70 ml con la lista actual de fluoruro de estaño) y Sérum Blanqueador Morado
+  (envase español).
+- **El aviso heredado se cumplió**: la web repite la misma base (sin alérgenos) en cuatro
+  fichas de Total (Original, Junior, Dientes Sensibles y el kit de viaje). Solo entra Original,
+  que es la que coincide con una etiqueta real. Junior y Dientes Sensibles, fuera aunque tengan
+  código.
+- Fuera por no coincidir con la etiqueta: Colgate Total Original antiguo (8718951465756, envase
+  español con la fórmula de arginina y zinc; la web ya solo tiene la reformulada "Prevención
+  Activa" con fluoruro de estaño), Total Advanced Encías Sanas (8718951471603, otra gama), Max
+  White Charcoal UK (Mica + CI 77891 de más), Ultimate Radiance (CI 74160 de más), Plax Taze
+  Nane turco (lista igual a Plax Soft Mint pero otro aroma: trampa del aroma), Herbal/Dentagard
+  (PT y DE difieren de la web), y los envases españoles sin texto ni foto (Herbal Original,
+  "blanqueador total", Plax, MaxFresh): no se emparejan solo por nombre en esta marca.
+Las 19 fichas con lista y sin código esperan al código (foto o "Buscados"): Total + Cuidado de
+encías / Dientes Sensibles / Limpieza / Blanqueador / Junior, Anti-Placa Expert ×2, Max White
+For Coffee, Tea & Wine, Herbal, Kids Animal Gang y Bluey, Plax Soft Mint, Max White colutorio,
+Sérum Nocturno, Triple Action (tubo suelto).
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -691,7 +701,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
 | Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
 | NYX | **no** (Cloudflare); fichas a fuerza bruta por ID `/p/NYX_nnn.html` con Playwright | **UPC-A de 12 dígitos** por tono (`data-js-pid`), que es `0800897…` en EAN-13 | sí, por tono, en el popin `Product-Information?cid=pdp-popin-ingredient&pid=` | Salesforce Commerce Cloud, no la plataforma de L'Oréal Paris; ver su apartado |
-| Colgate | por comprobar | por comprobar | por comprobar | Colgate-Palmolive como Sanex: probar `dvcurl.sh` y el parser de la tabla INGREDIENTE\|PROPÓSITO (ver su apartado) |
+| Colgate | sí (`sitemap.xml`, 50 fichas; `dvcurl.sh` en serie) | **no** (`itemId` interno) | sí, en `<meta name="ingredientList">` (28 fichas, con alérgenos del aroma) | códigos de OBF solo por lista idéntica (sin alérgenos); ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -714,14 +724,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3303 códigos en 21 marcas: **NYX 999** · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
+3316 códigos en 22 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 ·
-Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 · Fairy 11 ·
-SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2076 productos está sin INCI. Sesderma
+Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 · **Colgate 13** · Fairy 11 ·
+SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2085 productos está sin INCI. Sesderma
 sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
-**Colgate ya está creada y vacía** (botón visible en la app), pendiente de curar: misma empresa
-que Sanex, ver su apartado.
+Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
