@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10d",
+ "version": "2026-09-10e",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10299,7 +10299,7 @@
      "barcodes": [
       "3574661112541"
      ],
-     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Carbomer, Potassium Cetyl Phosphate, Caprylyl Glycol, p-Anisic Acid, Parfum, Sodium Hydroxide, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol"
+     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Carbomer, Potassium Cetyl Phosphate, Caprylyl Glycol, p-Anisic Acid, Parfum, Sodium Hydroxide, Avena Sativa Kernel Oil, Ethylhexylglycerin, Tocopherol"
     },
     {
      "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Enriquecida con Aceite",
@@ -10308,7 +10308,16 @@
      "barcodes": [
       "3574661786513"
      ],
-     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Prunus Amygdalus Dulcis Oil, Caprylyl Glycol, Sodium Hydroxide, p-Anisic Acid, Parfum, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol"
+     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Prunus Amygdalus Dulcis Oil, Caprylyl Glycol, Sodium Hydroxide, p-Anisic Acid, Parfum, Avena Sativa Kernel Oil, Ethylhexylglycerin, Tocopherol"
+    },
+    {
+     "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661785868"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Avena Sativa Kernel Oil, Sodium Hydroxide, p-Anisic Acid, Ethylhexylglycerin, Tocopherol"
     },
     {
      "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Piel Seca",
@@ -10317,7 +10326,7 @@
      "barcodes": [
       "3574660527773"
      ],
-     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Parfum, Sodium Hydroxide, p-Anisic Acid, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol"
+     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Parfum, Sodium Hydroxide, p-Anisic Acid, Avena Sativa Kernel Oil, Ethylhexylglycerin, Tocopherol"
     },
     {
      "nombre": "Fórmula Noruega Loción Corporal Visiblemente Reafirmante",
@@ -10438,6 +10447,15 @@
      "inci": "Aqua, Glycerin, Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Polyquaternium-10, Polysorbate 20, Sodium Isethionate, Sodium Lauryl Sulfate, Sodium C14-16 Olefin Sulfonate, Potassium Acrylates Copolymer, Sodium Chloride, Propylene Glycol, Disodium EDTA, Citric Acid, Sodium Hydroxide, Hydroxyacetophenone, Tocopheryl Acetate, Phenoxyethanol, Parfum"
     },
     {
+     "nombre": "Hydro Boost Limpiador Gel de Agua Sin Perfume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661789903"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Potassium Acrylates Copolymer, Hydroxyacetophenone, Phenoxyethanol, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Propylene Glycol, Coconut Acid, Polyquaternium-10, Sodium Hydroxide, Disodium EDTA, Citric Acid, Ethylhexylglycerin, Disodium Tetrapropenyl Succinate, Hydrolyzed Hyaluronic Acid, Tocopheryl Acetate, Tocopherol"
+    },
+    {
      "nombre": "Hydro Boost Loción Corporal en Gel Ultraligera",
      "include": [],
      "exclude": [],
@@ -10481,6 +10499,15 @@
       "3574661699530"
      ],
      "inci": "Aqua, Dimethicone, Aluminum Starch Octenylsuccinate, Dimethicone Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Cellulose, C12-15 Alkyl Benzoate, Ascorbyl Glucoside, Retinol, Hydrolyzed Myrtus Communis Leaf Extract, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Ethylhexylglycerin, Glycerin, Caprylyl Glycol, C13-14 Isoparaffin, Laureth-7, Polyacrylamide, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, BHT, Ascorbic Acid, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Retinol Boost+ Sérum Intenso de Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661780511"
+     ],
+     "inci": "Isohexadecane, Dicaprylyl Carbonate, PPG-15 Stearyl Ether, Pentaerythrityl Tetraethylhexanoate, Triethyl Citrate, Caprylic/Capric Triglyceride, Retinol, Glycine Soja Oil, Bisabolol, BHT, Tocopherol, Tocopheryl Acetate"
     },
     {
      "nombre": "Spot Controlling Hidratante Oil-Free",
@@ -10535,6 +10562,60 @@
       "3574661870755"
      ],
      "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Sodium Chloride, Sodium Cocoyl Glycinate, Acrylates Copolymer, Palmitic Acid, Stearic Acid, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Coconut Acid, Caprylyl Glycol, Chlorphenesin, Citric Acid, Disodium EDTA, Butylene Glycol, Disodium Tetrapropenyl Succinate, Centella Asiatica Extract, Tocopherol"
+    },
+    {
+     "nombre": "Ultra Sheer Crema Invisible Hidratante Protección Facial SPF50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875118"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Caprylyl Methicone, Diisopropyl Adipate, Aluminum Starch Octenylsuccinate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Niacinamide, Dimethicone, Diisopropyl Sebacate, Glycerin, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Hydroxypropyl Starch Phosphate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Triacontanyl PVP, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decyl Glucoside, Dimethicone Crosspolymer, Hydrolyzed Jojoba Esters, Titanium Dioxide, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Disodium EDTA, Panthenol, Silica, Avena Sativa Kernel Oil, Jojoba Esters, Polysorbate 60, Sorbitan Isostearate, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Ultra Sheer Fluido Invisible Anti-Edad Protección Facial SPF50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875101"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Caprylyl Methicone, Diisopropyl Adipate, Aluminum Starch Octenylsuccinate, Acetyl Glucosamine, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Niacinamide, Dimethicone, Diisopropyl Sebacate, Glycerin, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Triacontanyl PVP, Decyl Glucoside, Dimethicone Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrolyzed Jojoba Esters, Titanium Dioxide, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Silica, Jojoba Esters, Polysorbate 60, Sorbitan Isostearate, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Ultra Sheer Fluido Invisible Control de Grasa Protección Facial SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875231"
+     ],
+     "inci": "Aqua, Alcohol, Silica, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Aluminum Starch Octenylsuccinate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Isopropyl Palmitate, Niacinamide, Trehalose, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Calcium Sodium Borosilicate, Caprylyl Methicone, Glycerin, Hydrogenated Castor Oil, Hydroxyacetophenone, Pentylene Glycol, Dimethicone, Triacontanyl PVP, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Titanium Dioxide, Decyl Glucoside, Cetyl Alcohol, Glyceryl Stearate, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Disodium EDTA, Dimethicone Crosspolymer, Polyacrylate Crosspolymer-6, PEG-75 Stearate, Ceteth-20, Steareth-20, Polysorbate 60, Sorbitan Isostearate, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Ultra Sheer Fluido Invisible Hidratante Protección Facial SPF50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875149"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Caprylyl Methicone, Diisopropyl Adipate, Aluminum Starch Octenylsuccinate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Niacinamide, Dimethicone, Diisopropyl Sebacate, Glycerin, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Triacontanyl PVP, Decyl Glucoside, Dimethicone Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrolyzed Jojoba Esters, Titanium Dioxide, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Silica, Avena Sativa Kernel Oil, Jojoba Esters, Polysorbate 60, Sorbitan Isostearate, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Ultra Sheer Loción Corporal Invisible Hidratante SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875293"
+     ],
+     "inci": "Aqua, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Glycerin, Aluminum Starch Octenylsuccinate, Hydrogenated Castor Oil, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Cocoglycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Adipate, Dimethicone, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, Triacontanyl PVP, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decyl Glucoside, Niacinamide, Disodium EDTA, Tocopheryl Acetate, Titanium Dioxide, Sodium Hydroxide, Silica, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Ultra Sheer Loción Corporal Invisible Hidratante SPF50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661875415"
+     ],
+     "inci": "Aqua, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Glycerin, Aluminum Starch Octenylsuccinate, Hydrogenated Castor Oil, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Cocoglycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Adipate, Dimethicone, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, Triacontanyl PVP, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decyl Glucoside, Niacinamide, Disodium EDTA, Tocopheryl Acetate, Titanium Dioxide, Sodium Hydroxide, Silica, Propylene Glycol, Xanthan Gum"
     }
    ]
   }

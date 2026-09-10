@@ -257,13 +257,16 @@ champú hombre, jabón de manos Gentle & Pure, limpiador facial hidratante, crem
 Bio, crema de día VitalBeauty, crema corporal hidratante, mascarilla capilar regeneradora y
 crema solar Active SPF30. Scripts: `gen_cien.py`, `vocab.py`, `final_cien.py`.
 
-### Neutrogena (neutrogena.es) — cerrada 2026-09-10: 41 productos, 47 códigos
+### Neutrogena (neutrogena.es) — cerrada 2026-09-10: 50 productos, 56 códigos
 Marca de Kenvue. **neutrogena.es publica EAN-13 e INCI en texto**, así que la marca sale
 entera de la web y OBF queda para confirmar tamaños. Cómo va la ficha (Next.js/Contentful):
-- Sitemap `/sitemap.xml` (201 URL); son fichas las de `/(productos-*|lineas-de-productos)/x/y`
-  (59, de las que 15 son páginas de gama o FAQ sin EAN).
-- **EAN** en el widget de compra: `data-mm-ids="<EAN>,0<EAN>"` (también en el JSON-LD como
-  `"gtin":"0<EAN>"` con el 0 delante, que hay que quitar).
+- Sitemap `/sitemap.xml` (201 URL). Las fichas **no siguen una sola ruta**: la mayoría van en
+  `/productos-*/<gama>/<slug>`, pero los solares Ultra Sheer cuelgan de `/proteccion-solar/`,
+  y hay fichas sueltas en `/cuerpo/…`, `/rostro/…` y `/lineas-de-productos/…`. No filtrar
+  por ruta: descargar todo lo que no sea artículo de consejos y quedarse con lo que traiga EAN
+  (52 fichas con EAN; el resto son páginas de gama o FAQ).
+- **EAN** en el widget de compra: `data-mm-ids="<EAN>,0<EAN>"` (en Ultra Sheer, sin la coma;
+  también en el JSON-LD como `"gtin":"0<EAN>"` con el 0 delante, que hay que quitar).
 - **INCI** en `<div data-sb-field-path="product.ingredients">`: normalmente un `<p>` con
   comas, pero Collagen Bank e Hydro Boost crema/contorno traen **un `<p>` por ingrediente**, el
   sérum de niacinamida una lista `<li>` tras "Los ingredientes del … son:", y las fichas nuevas
@@ -331,9 +334,9 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1266 códigos en 13 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · **Neutrogena 47** · Bioderma 42 · Cien 26 · ISDIN 18 · Deliplus 15 ·
-SkinCeuticals 6. Ninguno de los 1143 productos está sin INCI. Sesderma sigue vacía. La criba
+1275 códigos en 13 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · **Neutrogena 56** · Bioderma 42 · Cien 26 · ISDIN 18 · Deliplus 15 ·
+SkinCeuticals 6. Ninguno de los 1152 productos está sin INCI. Sesderma sigue vacía. La criba
 por vocabulario (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo
 "súper": Babaria, Instituto Español, Bella Aurora, Sanex, Dove y L'Oréal Paris (las dos
 últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Neutrogena).
