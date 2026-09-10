@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, que son los envases de España, ver NYX), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -577,26 +577,59 @@ el cómo de cada emparejamiento) → `sanex_merged.json`.
 Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredientes de Sanex**
 (se miraron 42 fichas de gel de ducha, solo dan fabricante y dirección). No volver por ahí.
 
-### NYX Professional Makeup (nyxcosmetics.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-**La apuesta de más volumen que queda.** Es del grupo L'Oréal y va sobre la misma plataforma
-que loreal-paris.es y maybelline.es, las dos marcas más grandes del catálogo (511 y 455
-códigos). Los scripts ya están escritos y probados DOS veces: **reusar `lp/get.sh`,
-`lp_parse.py`, `lp_agg.py` y `gen_lp.py`, y tocar solo lo que falle.** Además es maquillaje
-puro, con muchísimo tono por producto, que es donde salen los códigos.
-Lo que cambió entre L'Oréal Paris y Maybelline, y hay que mirar cuál de los dos casos es NYX:
-- **L'Oréal Paris**: los tonos tienen página propia, NO listada en el sitemap; se sacan de
-  `<oap-product-variant-selector :variants='[…]'>` y hacen falta pasadas sucesivas.
-- **Maybelline**: los tonos van todos en la MISMA ficha, en
-  `<input class="shade-selector__input" data-variant-ean="…" data-name="…">`, con una sola
-  lista de ingredientes por ficha y los colorantes en "[+/- puede contener]". Y el sitemap solo
-  listaba 113 de las fichas: el resto salieron de los enlaces de las páginas de categoría.
-  **Empezar probando el caso Maybelline, que es el más reciente y el más parecido.**
-Recordatorios que ya han dado guerra en las dos anteriores:
-- EAN-8 que empiezan por `30…`: son franceses auténticos de L'Oréal y **entran**.
-- Tonos con el mismo INCI → una entrada con todos sus códigos; si el INCI cambia entre tonos
-  (labiales, sombras, correctores), entradas separadas con el tono en el nombre.
-- Fichas con "Ingredients" vacío o con marketing, fuera. Listas traducidas al español, fuera.
-Detrás de NYX, en el mismo grupo y plataforma: **Essie**.
+### NYX Professional Makeup (nyxcosmetics.es) — cerrada 2026-09-10: 542 productos, 999 códigos (de 219 fichas vivas)
+**No es la plataforma de L'Oréal Paris/Maybelline**: nyxcosmetics.es va sobre Salesforce Commerce
+Cloud (URLs `…/NYX_007.html`, `dwsid`, `demandware.store`) y detrás de un **desafío interactivo
+de Cloudflare**. Scripts de L'Oréal Paris reutilizados: solo `limpia_inci` (mismo formato de
+lista: código de fórmula + "INGREDIENTS:" + viñetas + F.I.L.). El resto, nuevo (`nx/`).
+Cómo se pasa Cloudflare (probado):
+- `curl` con cabeceras de Chrome → "Just a moment…" (Turnstile) en TODO, sitemap incluido.
+  Chromium con Playwright pasa: la **primera navegación** de la sesión se queda en el desafío
+  (se resuelve solo en segundo plano) y **las siguientes pasan**. `page.request` no pasa (huella
+  TLS distinta); `fetch()` ejecutado DENTRO de la página sí, y es rápido (~5 páginas/s).
+- Los endpoints `/on/demandware.store/…` (rejilla de categoría `Search-UpdateGrid`, variantes,
+  popin) van desafiados aparte: hay que hacer una navegación (`goto`) a uno de ellos, y a partir
+  de ahí el `fetch()` interno también pasa. Scripts: `nx/xfetch.js` (páginas), `nx/popin.js`.
+- El sitemap no se puede leer y las categorías pintan la rejilla con JavaScript desde un
+  endpoint desafiado, así que **las fichas se sacaron a fuerza bruta por ID**: `/p/NYX_001.html`
+  … `/p/NYX_1300.html` (el slug da igual). 348 responden, de las que **219 son fichas vivas**,
+  129 redirigen a una categoría (descatalogadas) y 952 no existen.
+Cómo va la ficha:
+- Los tonos van en la misma ficha: `<option data-js-pid="800897078133">Los Angeles</option>` y
+  `<a class="c-swatch" data-js-pid=…>`. **El pid es el UPC-A de 12 dígitos del tono (800897…)**;
+  no hay `gtin13` ni JSON-LD `Product` (solo `ProductGroup` y migas).
+- La lista de ingredientes es **por tono** y se sirve con
+  `Product-Information?cid=pdp-popin-ingredient&pid=<pid>` (~1 KB): 1248 popins bajados. Dos
+  formatos: el de L'Oréal ("952049 3 - INGREDIENTS: … (F.I.L. …)", 479 entradas) y uno antiguo
+  de NYX sin código ni F.I.L. ("Talc, Mica, … MAY CONTAIN / PEUT CONTENIR (+/-): Titanium
+  Dioxide (CI 77891), Iron Oxides (CI 77499, 77491, 77492)", 63 entradas; se normalizan los
+  colorantes a "CI nnnnn"). Variantes: "INGREDIENTES:", "INGREDIENTS / INGRÉDIENTS:", bloques
+  "Value1:", lista que empieza por viñeta, y dos notas legales que se quitan.
+- Paletas y kits: un bloque por grupo de tonos ("SHADES 01, 03, 17 … INGREDIENTS:" o "Shades 01,
+  03 & 08 Talc, …") o por componente. **Se funden en una lista sin repetidos** (es la lista de la
+  caja, como se acordó con los tintes): 8 popins, la mayor con 31 bloques (The Smokey, 102
+  ingredientes). Si se prefiere fuera, es `MULTI` en `nx_gen.py`.
+- Tonos con la misma lista → una entrada con todos los códigos (78 entradas con varios códigos);
+  labiales, delineadores y sombras cambian de fórmula por tono → una entrada por fórmula con los
+  tonos en el nombre (hasta 5 y "y N tonos más"; "01 - Clearly Spicy - Clear" → "01 Clearly Spicy").
+**Códigos 0… (regla 3, excepción acordada aquí):** NYX es marca de EE. UU. y **todos** sus
+códigos son UPC-A `800897…`, que en EAN-13 es `0800897…`. Son los códigos de los envases que se
+venden en España (la web .es los publica tono a tono), así que **entran** con el 0 delante; la
+regla 3 sigue valiendo para el resto de marcas (un `0…` en Dove o Maybelline sí es un envase de
+EE. UU.). Efecto en la app: Android devuelve el UPC-A con 12 dígitos e iOS con 13, así que el
+escáner normaliza los de 12 dígitos anteponiendo el 0 (`App.js`, `BarcodeScanner`); sin eso NYX
+no casaría en Android. **Hay que compilar la app para que aplique.**
+Fuera y por qué: 70 fichas sin lista en la web (brochas, esponjas, pestañas, sacapuntas, y
+también producto real: Powder Blush 23 tonos, Invincible Coverage 14, Rouge Cream Blush, Xtreme
+Lip Cream, Roll On Eye Shimmer, eyeliners líquidos, Matte Lipstick Vault, Boudoir mascara…: 213
+popins vacíos); 7 tonos con fórmula antigua (CC Cream con HICC, Jumbo Eye Pencil selección con
+Isobutylparaben); Shine Loud (22 tonos: la web solo da la lista del top coat, 3 ingredientes);
+Studio Finishing Powder (la lista viene en chino: "硅石"). Aviso: la web trae bastantes tonos
+que ya no se venden dentro de fichas vivas; entran igual (mismo producto, código válido).
+Scripts: `nx/xfetch.js` (fichas por ID → `nx/grp`), `nx_parse.py` (título, pid seleccionado,
+tonos), `nx_agg.py` (→ `nx/db.json`, `nx/pids.txt`), `nx/popin.js` (→ `nx/pop/<pid>.html`),
+`nx_gen.py` (limpieza, fusión de bloques, agrupación por INCI, `EXCLUIR`) → `nyx_merged.json`.
+Detrás de NYX, en el mismo grupo: **Essie** (comprobar plataforma antes: puede ser SFCC como NYX).
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -632,7 +665,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
 | Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
-| NYX | por comprobar | por comprobar | por comprobar | grupo L'Oréal, misma plataforma que Maybelline: reusar sus scripts (ver su apartado) |
+| NYX | **no** (Cloudflare); fichas a fuerza bruta por ID `/p/NYX_nnn.html` con Playwright | **UPC-A de 12 dígitos** por tono (`data-js-pid`), que es `0800897…` en EAN-13 | sí, por tono, en el popin `Product-Information?cid=pdp-popin-ingredient&pid=` | Salesforce Commerce Cloud, no la plataforma de L'Oréal Paris; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -655,11 +688,12 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-2304 códigos en 20 marcas: L'Oréal Paris 511 · Maybelline 455 · Nivea 235 · Garnier 234 ·
-Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 ·
-Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · **Sanex 14** · Fairy 11 · SkinCeuticals 6 ·
-Sanytol 5 · Eroski 5. Ninguno de los 1534 productos está sin INCI. Sesderma sigue vacía.
+3303 códigos en 21 marcas: **NYX 999** · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 ·
+Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 · Fairy 11 ·
+SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2076 productos está sin INCI. Sesderma
+sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
-**NYX ya está creada y vacía** (botón visible en la app), pendiente de curar: misma plataforma
-que L'Oréal Paris y Maybelline.
+NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
+apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
