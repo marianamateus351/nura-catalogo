@@ -1,5 +1,5 @@
 {
- "version": "2026-09-09k",
+ "version": "2026-09-10a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -9775,6 +9775,147 @@
    "key": "sesderma",
    "nombre": "Sesderma",
    "productos": []
+  },
+  {
+   "key": "deliplus",
+   "nombre": "Deliplus",
+   "productos": [
+    {
+     "nombre": "Agua de peinado cabello Aqua Styling Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000443137"
+     ],
+     "inci": "Aqua, Alcohol Denat., VP/Va Copolymer, Acrylates Copolymer, PEG-40 Hydrogenated Castor Oil, Parfum, PEG/PPG-20/6 Dimethicone, Aminomethyl Propanol, Tetrasodium Glutamate Diacetate, Sodium Lauryl Sulfate, Propylene Glycol, Sorbic Acid, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Citronellol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Champú Hydra hyaluronic Deliplus cabello de normal a seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001013607"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Hydrogenated Starch Hydrolysate, Cocamidopropyl Betaine, Parfum, Niacinamide, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Panthenol, Coco-Glucoside, Polyquaternium-22, Glycol Distearate, Sodium Lauroyl Sarcosinate, Citric Acid, Amodimethicone, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Sodium Chloride, Tetrasodium Glutamate Diacetate, PEG-45M, Glyceryl Oleate, Glyceryl Stearate, Sodium Hydroxide, Trideceth-12, Cetrimonium Chloride, Silica, Silica Dimethyl Silylate, BHT, Pentylene Glycol, Ethylhexylglycerin, Hexyl Cinnamal, Amyl Cinnamal, Benzyl Salicylate, Limonene, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Benzoic Acid, Phenoxyethanol"
+    },
+    {
+     "nombre": "Champú Natural Deliplus todo tipo de cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000443359"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Cocamidopropyl Betaine, Decyl Glucoside, Salvia Sclarea Oil, Thuja Occidentalis Leaf Oil, Tilia Tomentosa Bud Extract, Illicium Verum Fruit/Seed Oil, Citric Acid, Parfum, Sodium Chloride, Polyquaternium-10, Dicaprylyl Ether, Sodium Levulinate, Glyceryl Oleate, Glyceryl Caprylate, Tetrasodium Glutamate Diacetate, Glycerin, Sodium Benzoate, Benzoic Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Champú Zero Deliplus todo tipo de cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001005671"
+     ],
+     "inci": "Aqua, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, PEG-7 Glyceryl Cocoate, Panthenol, Polyquaternium-10, Parfum, PEG-120 Methyl Glucose Trioleate, Citric Acid, Pentylene Glycol, Tetrasodium Glutamate Diacetate, Caprylyl Glycol, Propanediol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Champú protección y brillo Deliplus todo tipo de cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001006029"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Actinidia Chinensis Fruit Juice, Citrus Aurantium Dulcis Juice, Citrus Paradisi Juice, Pyrus Malus Juice, Prunus Amygdalus Dulcis Seed Extract, Parfum, Styrene/Acrylates Copolymer, Citric Acid, Coco-Glucoside, Polyquaternium-10, Polyquaternium-7, Disodium EDTA, Sodium Hydroxide, Butylene Glycol, Malic Acid, Trideceth-9, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Benzoic Acid"
+    },
+    {
+     "nombre": "Crema para pies 10% urea pura Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000467713"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Citric Acid, Paraffinum Liquidum, Cetearyl Ethylhexanoate, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Butyrospermum Parkii Butter, Dimethicone, Sodium Hydroxide, Persea Gratissima Oil, Tocopheryl Acetate, Tocopherol, Cera Microcristallina, Paraffin, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Caprylyl Glycol, Phenoxyethanol, Citronellol"
+    },
+    {
+     "nombre": "Desodorante aqua Deliplus antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000235152"
+     ],
+     "inci": "Isobutane, Alcohol Denat., Propane, Parfum, Butane, Ethylhexylglycerin, Isopropyl Myristate, Triethyl Citrate, Citrus Aurantium Peel Oil, Limonene, Linalool, Linalyl Acetate, Hexamethylindanopyran, Acetylcedrene, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Citral, Geraniol, Geranyl Acetate, Amyl Salicylate, Citronellol, Beta-Caryophyllene, Terpineol, Camphor"
+    },
+    {
+     "nombre": "Desodorante para pies fresh & dry Deliplus antitranspirante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000469991"
+     ],
+     "inci": "Isobutane, Propane, Cyclopentasiloxane, Aluminum Chlorohydrate, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Parfum, 2-Methyl 5-Cyclohexylpentanol, Ethylhexylglycerin, Dimethiconol, Kaolin, Disteardimonium Hectorite, Butane, Propylene Carbonate, BHT, Tetramethyl Acetyloctahydronaphthalenes, Amyl Salicylate, Isoeugenyl Acetate, Pinene"
+    },
+    {
+     "nombre": "Desodorante power Deliplus antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000235138"
+     ],
+     "inci": "Isobutane, Alcohol Denat., Propane, Parfum, Butane, Ethylhexylglycerin, Isopropyl Myristate, Triethyl Citrate, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalool, Limonene, Vanillin, Linalyl Acetate, Hexyl Cinnamal, Citronellol, Coumarin, Amyl Salicylate, Beta-Caryophyllene, Terpineol, Pogostemon Cablin Oil, Citral, Geranyl Acetate, Lavandula Oil/Extract, Rose Ketones, Menthol, Pinene, Geraniol"
+    },
+    {
+     "nombre": "Desodorante seda Deliplus antitranspirante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000464170"
+     ],
+     "inci": "Isobutane, Propane, Cyclopentasiloxane, Aluminum Chlorohydrate, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Parfum, Helianthus Annuus Seed Oil, Serica Extract, Disteardimonium Hectorite, Butane, Dimethiconol, Propylene Carbonate, Linalool, Citronellol, Hexyl Cinnamal, Geraniol, Eugenol, Isoeugenol"
+    },
+    {
+     "nombre": "Gel de higiene íntima hidratante Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000449139"
+     ],
+     "inci": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Glycerin, Disodium Lauryl Sulfosuccinate, Saccharide Isomerate, Allantoin, Lactic Acid, Triethyl Citrate, Polyquaternium-16, Glyceryl Oleate, Glyceryl Caprylate, Parfum, Citric Acid, Tetrasodium Glutamate Diacetate, Sodium Citrate, Benzoic Acid"
+    },
+    {
+     "nombre": "Jabón de manos dermoprotector Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000466990"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Gossypium Herbaceum Seed Oil, Tocopheryl Acetate, Citric Acid, Styrene/Acrylates Copolymer, Cocamidopropylamine Oxide, Coco-Glucoside, Parfum, Sodium Hydroxide, Polysorbate 80, Decylene Glycol, 1,2-Hexanediol, Hexyl Cinnamal, Sodium Benzoate, Benzoic Acid, Phenoxyethanol"
+    },
+    {
+     "nombre": "Recarga jabón de manos dermoprotector Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000229052"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Gossypium Herbaceum Seed Extract, Coco-Glucoside, PEG-7 Glyceryl Cocoate, Styrene/Acrylates Copolymer, Citric Acid, Sodium Benzoate, Potassium Sorbate, Benzoic Acid, Parfum, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Sérum facial Ácido Hialurónico y Ceramidas Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000675965"
+     ],
+     "inci": "Aqua, Bis-PEG-18 Methyl Ether Dimethyl Silane, Hydrogenated Polydecene, Ceteth-20, Propanediol, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Glyceryl Stearate, Phosphatidylcholine, Sodium Hyaluronate, Retinal, Retinol, Ceramide AP, Ceramide EOP, Ceramide NP, Phytosphingosine, Cholesterol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Alcohol, Alpha-Isomethyl Ionone, BHA, BHT, Carbomer, Cetearyl Alcohol, Disodium EDTA, Ethylhexylglycerin, Polysorbate 20, Retinyl Palmitate, Sodium Chloride, Sodium Cholate, Sodium Lauroyl Lactylate, Tocopherol, Tocopheryl Acetate, Xanthan Gum, Parfum, Phenoxyethanol"
+    },
+    {
+     "nombre": "Toallitas íntimas Deliplus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001026072"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Lactic Acid, Butylene Glycol, Polysorbate 20, PEG-7 Glyceryl Cocoate, Tetrasodium Glutamate Diacetate, Dehydroacetic Acid, Tocopheryl Acetate, Parfum, Hexamethylindanopyran, Phenoxyethanol, Benzoic Acid"
+    }
+   ]
   }
  ]
 }

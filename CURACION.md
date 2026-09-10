@@ -193,28 +193,36 @@ descripción, beneficios y modo de empleo: ni INCI, ni EAN (solo el SKU interno)
 tiene 2 códigos. Por la regla 2-bis la marca se queda vacía; si alguna vez interesa, la vía
 sería incidecoder producto a producto.
 
-### Deliplus (Mercadona) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Marca blanca de Mercadona y probablemente la más escaneada de España, así que interesa mucho.
-Es un caso distinto a las diez anteriores: **no hay web de marca con fichas**. Orden de fuentes
-a probar, de mejor a peor:
-1. **tienda.mercadona.es** — es la fuente buena si publica el INCI. Tiene API JSON pública
-   (`https://tienda.mercadona.es/api/categories/` y `/api/products/<id>/`); hay que fijar un
-   código postal para que devuelva catálogo. Comprobar dos cosas en la ficha: si trae el EAN-13
-   (puede que solo dé el id interno de Mercadona) y si trae el INCI en texto o solo en la foto
-   del envase. Si el INCI solo está en la imagen, **no vale**: no se transcribe de una foto.
-2. **Open Beauty Facts** — aquí es la fuente principal de EAN, y en marcas de súper suele tener
-   buena cobertura, con el INCI transcrito por la comunidad. Ojo: ese INCI no es oficial y a
-   veces está a medias. Solo entra si la lista está completa y coherente (empieza por Aqua,
-   termina en conservantes/perfume/CI, sin "…" ni "y otros").
-   `search_terms=deliplus&page_size=100` y también `tag_0=deliplus`.
-3. Fichas de terceros (incidecoder, incibeauty) para contrastar un INCI dudoso.
-Los EAN de Deliplus empiezan por `84` (España) y muchos por `8480000…`, que es el prefijo de
-Mercadona: sirve para reconocerlos. **Se aplica la regla 2-bis igual que a todas: producto sin
-INCI oficial completo no entra**, aunque tengamos su código. Si al final Mercadona no publica
-ingredientes en texto y OBF no llega, se dice claramente y la marca se queda pequeña o vacía:
-antes eso que meter listas inventadas.
-Detrás de Deliplus, en el mismo grupo de "marcas de súper españolas": Cien (Lidl), Babaria,
-Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris.
+### Deliplus (Mercadona) — CERRADA hasta donde llega OBF (2026-09-10)
+Resultado: **15 productos y 15 códigos**, de 532 códigos de Deliplus en Open Beauty Facts.
+Lo que se comprobó, por orden:
+1. **tienda.mercadona.es** — la API JSON funciona sin código postal (`?lang=es&wh=vlc1`):
+   `/api/categories/` (árbol), `/api/categories/<id>/` (productos de la subcategoría) y
+   `/api/products/<id>/`. La ficha trae **EAN-13, nombre oficial y fotos, pero NO el INCI en
+   texto**: `nutrition_information.ingredients` viene vacío en las 646 fichas de cosmética,
+   higiene, maquillaje y bebé (categorías 20, 21, 22, 24 y 23). El INCI solo está en la foto
+   del envase, y de una foto no se transcribe. Aun así, Mercadona vale como **validador de
+   códigos**: solo se acepta un código de OBF si está en el catálogo vivo de Mercadona
+   (producto a la venta hoy, nombre oficial). Script: `mercadona.py`.
+2. **Open Beauty Facts** — `tag_0=deliplus` (479) + `search_terms=deliplus` (132 más) = 532
+   códigos. Solo **147** siguen en el catálogo vivo de Mercadona; el resto son referencias
+   descatalogadas. De esos 147, **89 no tienen INCI transcrito** (muchos tienen solo la foto de
+   la etiqueta) y de los 58 restantes la transcripción es de calidad OCR: 18 con basura
+   ("Lote", "www.mercadona.com RECICLA", "Utilícese preferentemente…"), 17 que no son un INCI,
+   y varias con comas perdidas o tramos garbleados. Quedaron 15 listas completas y limpias
+   (tres con una coma perdida o una errata evidente, corregidas: "Coco-Glucoside Cocamidopropyl
+   Betaine", "Polyquarternium", "Tocopheryl Acetate Citric Acid"). Script: `gen_deliplus.py`.
+3. **incidecoder** tiene unas 30 fichas de Deliplus subidas por usuarios; sirvió para el sérum
+   de Ácido Hialurónico y Ceramidas (lista limpia, 0,82 con la de OBF).
+Entran: Agua de peinado Aqua Styling · Champú Hydra hyaluronic · Champú Natural · Champú Zero ·
+Champú protección y brillo · Crema para pies 10 % urea · Desodorantes aqua, power, seda y
+pies fresh & dry · Gel de higiene íntima hidratante · Jabón de manos dermoprotector y su
+recarga · Toallitas íntimas · Sérum Ácido Hialurónico y Ceramidas.
+**Cómo hacer crecer Deliplus**: hay 646 fichas de Mercadona con EAN y nombre oficial ya
+descargadas (`mc_det.json`); lo que falta es el INCI. La vía realista es que las usuarias
+fotografíen la etiqueta desde la app (OCR) o que se transcriba a mano de la foto de OBF
+(`image_ingredients_url`, 89 productos la tienen) — eso ya sería trabajo de persona, no de
+script, porque una foto no se transcribe automáticamente sin revisarla.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -241,7 +249,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
-| Deliplus | no hay web de marca | por comprobar | por comprobar | API JSON de tienda.mercadona.es + Open Beauty Facts (ver su apartado) |
+| Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
 con un navegador headless, farmacias, incidecoder). Por la regla 2-bis, de estas tres marcas
@@ -253,10 +261,8 @@ Ojo con los detalles del HTML: alguna ficha usa `/` como separador de ingredient
 erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acrónimos se
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
-## Estado (2026-09-09)
-1178 códigos en 10 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · **Bioderma 42** · ISDIN 18 · SkinCeuticals 6. Ninguno de los 1061
-productos está sin INCI. Las 11 marcas están revisadas: 8 curadas enteras desde su web,
-Bioderma e ISDIN hasta donde llegan los códigos verificados, Sesderma vacía (no publica
-INCI; posible por incidecoder cuando haya códigos) y SkinCeuticals tras Cloudflare. Para
-seguir creciendo: la pestaña "Buscados" de la app.
+## Estado (2026-09-10)
+1193 códigos en 11 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Bioderma 42 · ISDIN 18 · **Deliplus 15** · SkinCeuticals 6. Ninguno de
+los 1076 productos está sin INCI. Sesderma sigue vacía (no publica INCI). Para seguir
+creciendo: la pestaña "Buscados" de la app, y para Deliplus, las fotos de etiqueta.
