@@ -666,6 +666,29 @@ encías / Dientes Sensibles / Limpieza / Blanqueador / Junior, Anti-Placa Expert
 For Coffee, Tea & Wine, Herbal, Kids Animal Gang y Bluey, Plax Soft Mint, Max White colutorio,
 Sérum Nocturno, Triple Action (tubo suelto).
 
+### Essie (essie.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Esmaltes de uñas. Se elige por dos motivos que se refuerzan:
+- **Cierra la plataforma de L'Oréal**, que es la que mejor ha funcionado: L'Oréal Paris (511
+  códigos), Maybelline (455) y NYX (la más grande del catálogo). Los scripts están escritos y
+  probados tres veces: **reusarlos y tocar solo lo que falle**, empezando por el caso de
+  Maybelline/NYX (tonos en la misma ficha) y, si no, el de L'Oréal Paris (página por tono).
+- **El esmalte es de las categorías que más marca nuestra propia base de disruptores.** Están
+  fichados el ftalato de dibutilo (DBP), el tolueno y los liberadores de formaldehído, que son
+  el clásico "trío tóxico" del esmalte. O sea que aquí un escaneo da resultado de verdad, no
+  un "todo bien" de relleno.
+Lo específico de esta marca:
+- **Es casi todo tono**: cada color es una referencia con su propio código, así que el volumen
+  sale de ahí. Y en esmalte **el INCI cambia entre tonos casi siempre** (los CI y los pigmentos
+  son media lista), así que lo normal aquí será **una entrada por tono**, al revés que en una
+  base de maquillaje. Agrupar solo si la lista es idéntica de verdad.
+- Los "[+/- puede contener]" del esmalte son largos: se conservan como colorantes, igual que en
+  L'Oréal Paris.
+- Además de los colores hay tratamientos (bases, top coats, endurecedores, quitaesmaltes):
+  entran igual si traen lista.
+- EAN-8 que empiezan por `30…`: franceses auténticos de L'Oréal, entran.
+Recordatorios de siempre: fichas con "Ingredients" vacío o con marketing, fuera; listas
+traducidas al español, fuera; gama descatalogada, fuera (regla 3).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -702,6 +725,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
 | NYX | **no** (Cloudflare); fichas a fuerza bruta por ID `/p/NYX_nnn.html` con Playwright | **UPC-A de 12 dígitos** por tono (`data-js-pid`), que es `0800897…` en EAN-13 | sí, por tono, en el popin `Product-Information?cid=pdp-popin-ingredient&pid=` | Salesforce Commerce Cloud, no la plataforma de L'Oréal Paris; ver su apartado |
 | Colgate | sí (`sitemap.xml`, 50 fichas; `dvcurl.sh` en serie) | **no** (`itemId` interno) | sí, en `<meta name="ingredientList">` (28 fichas, con alérgenos del aroma) | códigos de OBF solo por lista idéntica (sin alérgenos); ver su apartado |
+| Essie | por comprobar | por comprobar | por comprobar | grupo L'Oréal, misma plataforma que NYX/Maybelline: reusar sus scripts (ver su apartado) |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -734,3 +758,5 @@ Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ve
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
+**Essie ya está creada y vacía** (botón visible en la app), pendiente de curar: cierra la
+plataforma de L'Oréal, ver su apartado.

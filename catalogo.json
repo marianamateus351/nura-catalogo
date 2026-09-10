@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10v",
+ "version": "2026-09-10w",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20177,6 +20177,11 @@
      "inci": "Glycerin, Aqua, Hydrated Silica, PEG-12, Aroma, Potassium Hydroxide, Benzyl Alcohol, Xanthan Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Saccharin, Cellulose Gum, Anethole, Carvone, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Eucalyptus Globulus Oil, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 17200, CI 42090"
     }
    ]
+  },
+  {
+   "key": "essie",
+   "nombre": "Essie",
+   "productos": []
   }
  ]
 }
