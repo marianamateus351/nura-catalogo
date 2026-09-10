@@ -427,7 +427,7 @@ Scripts: `cf.py` (Contentful), `opf2.py`/`opf_inci.py` (Open Products Facts), `g
   directa y valdría también para Norit, Alex, Denenes y Ecran, que están en el mismo portal.
 Scripts: `dvcurl.sh`, `sy/` (fichas, PDF y listas), `gen_sanytol.py`.
 
-### L'Oréal Paris (loreal-paris.es) — cerrada 2026-09-10: 249 productos, 501 códigos
+### L'Oréal Paris (loreal-paris.es) — cerrada 2026-09-10: 250 productos, 511 códigos
 **Sale entera de la web, con EAN + INCI oficiales**, pero con marcado propio (no es el de
 Garnier ni el de Vichy):
 - `sitemap.xml` con 2075 URL sin distinguir fichas de artículos: se bajan todas (`lp/get.sh`,
@@ -449,12 +449,22 @@ Garnier ni el de Vichy):
   de los nombres de los tonos cortado en el número de tono. Tamaños con INCI idéntico y
   nombre parecido se funden.
 Fuera y por qué:
-- **Tintes y coloración (128 fichas)**: Excellence, Casting, Préférence, Magic Retouch, Age
-  Perfect Nudes, Cool Creme, Prodigy, Colorista permanente, tinte de cejas. La web publica
-  **una sola lista** por tono (la del acondicionador o la del revelador), no las dos o tres de
-  la caja: no se sabe qué lista es y no entra, como pidió Mariana. El Washout temporal sí
-  entra (un solo componente).
-- 98 fichas **sin lista** en la web (Bright Reveal, Clásico, Filler, Glycolic Gloss, varias
+- **Tintes y coloración**: de 128 fichas, **13 traen la caja entera** (marcadores de revelador
+  —Hydrogen Peroxide, Phosphoric Acid— y de crema de color —Resorcinol, p-Phenylenediamine,
+  m-Aminophenol— juntos, cosa imposible en un solo bote): Age Perfect Nudes (5) y Retoca
+  Raíces (6) con los componentes etiquetados en el propio texto ("1252400 K - CREMA
+  COLORANTE: … (F.I.L. x). 1152439 - CREMA REVELADORA: …"), y Universal Nudes (2) con los
+  componentes separados por "Value2:", "Value3:" sin etiqueta (se etiquetan por marcadores).
+  Entran con el formato de componentes de Garnier ("Crema Colorante: … · Crema Reveladora:
+  …"). Las otras **115 publican un solo bote** (34 solo revelador, 21 solo crema de color,
+  45 solo acondicionador, 12 sin marcadores, 3 vacías), con un único código F.I.L.: no hay
+  lista escondida, y no entran (regla de Mariana). Los tintes de cejas Brow Color traen
+  "SIN AMONIACO" en vez de lista.
+- Ojo con "Value2:"/"Value3:" en fichas normales: son **versiones repetidas de la misma lista**
+  (con o sin "/ EAU", con o sin [NANO]); si tras limpiar quedan idénticas se toma una, y si
+  son **fórmulas distintas** sin decir cuál va (Clásico contorno de ojos, Le Shadow Stick 290
+  y 125, Crema Embellecedora), el producto no entra (5 fichas).
+- 96 fichas **sin lista** en la web (Bright Reveal, Clásico, Filler, Glycolic Gloss, varias
   máscaras…): el campo "Ingredients" viene vacío o con texto de marketing.
 - 3 listas **traducidas al español** (base en polvo Infalible, sérum Vitamina C…) y 3 con un
   nombre roto ("Alumi", "Sorbate" suelto): fuera, como en Neutrogena.
@@ -540,10 +550,10 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-1820 códigos en 17 marcas: **L'Oréal Paris 501** · Nivea 235 · Garnier 234 · Avène 162 ·
+1830 códigos en 17 marcas: **L'Oréal Paris 511** · Nivea 235 · Garnier 234 · Avène 162 ·
 LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 ·
 Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5. Ninguno de los
-1433 productos está sin INCI. Sesderma sigue vacía. Siguientes del grupo "súper": Sanex,
+1434 productos está sin INCI. Sesderma sigue vacía. Siguientes del grupo "súper": Sanex,
 Babaria, Instituto Español y Bella Aurora; en limpieza, Ariel con la consulta de P&G ya
 resuelta.
 **Maybelline New York ya está creada y vacía** (botón visible en la app), pendiente de curar:
