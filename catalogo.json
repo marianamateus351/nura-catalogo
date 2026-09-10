@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10l",
+ "version": "2026-09-10m",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10940,7 +10940,2501 @@
   {
    "key": "lorealparis",
    "nombre": "L'Oréal Paris",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "24h Power Glow Loose Powder",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524250355",
+      "3600524250331"
+     ],
+     "inci": "Synthetic Fluorphlogopite, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Glyceryl Caprylate, Triethoxycaprylylsilane, Tin Oxide"
+    },
+    {
+     "nombre": "Accord Parfait Base de Maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522838876",
+      "3600522862611",
+      "3600522862383",
+      "3600522838999",
+      "3600523635818",
+      "3600523016600",
+      "3600522839019",
+      "3600522838906",
+      "3600522839095",
+      "3600523567966",
+      "3600522839026",
+      "3600523635788",
+      "3600523543526",
+      "3600522838913",
+      "3600522838920",
+      "3600523016389",
+      "3600522839125",
+      "3600523818310",
+      "3600523635726",
+      "3600523016358",
+      "3600522839132",
+      "3600523016419",
+      "3600523635627",
+      "3600522839149",
+      "3600522862468",
+      "3600523497720"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Cyclohexasiloxane, Glycerin, PEG-10 Dimethicone, Methyl Methacrylate Crosspolymer, Butylene Glycol, Pentylene Glycol, Synthetic Fluorphlogopite, Disteardimonium Hectorite, Hydroxyethylpiperazine Ethane Sulfonic Acid, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Polyglyceryl-4 Isostearate, Hexyl Laurate, Caprylyl Glycol, Phenoxyethanol, Disodium Stearoyl Glutamate, Tocopherol, Panthenol, Aluminum Hydroxide, Hydroxyethyl Urea, Aloe Barbadensis Leaf Juice Powder, Sodium Hyaluronate, Tin Oxide, Hydrated Silica, Methicone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499, Mica, CI 77510, CI 15985, CI 42090, CI 45410, CI 15850"
+    },
+    {
+     "nombre": "Accord Parfait Base en Polvo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523669035",
+      "3600522303176",
+      "3600520932798",
+      "3600520771410"
+     ],
+     "inci": "Talc, Zea Mays Starch, Cocos Nucifera Oil, Magnesium Stearate, Caprylic/Capric Triglyceride, Caprylyl Glycol, Mangifera Indica Seed Butter, Theobroma Cacao Seed Butter, Sodium Hyaluronate, Silica"
+    },
+    {
+     "nombre": "Accord Parfait Blush Colorete",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521627365",
+      "3600521627396",
+      "3600521627402",
+      "3600521627419",
+      "3600521627426",
+      "3600522774617",
+      "3600522774570"
+     ],
+     "inci": "Talc, Synthetic Fluorphlogopite, Triisostearin, Phenyl Trimethicone, Magnesium Stearate, Alumina, Caprylyl Glycol, Calcium Aluminum Borosilicate, Silica, Parfum, Tin Oxide, Benzyl Alcohol, Mica, CI 77891, CI 77491, CI 77492, CI 77499, CI 75470, CI 77742, CI 45410, CI 15850, CI 19140, CI 77007, CI 77163"
+    },
+    {
+     "nombre": "Accord Parfait Sérum con Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523990252",
+      "3600523990269",
+      "3600523990276",
+      "3600523990283",
+      "3600523990290",
+      "3600523990313"
+     ],
+     "inci": "Water, Isododecane, Dimethicone, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Perlite, Sodium Hyaluronate, Nylon-12, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, Disteardimonium Hectorite, HDI/Trimethylol Hexyllactone Crosspolymer, Bis-PEG/PPG-14/14 Dimethicone, Magnesium Sulfate, Synthetic Fluorphlogopite, Ethylhexyl Hydroxystearate, Phenoxyethanol, Cellulose, Dipentaerythrityl Tetrahydroxystearate, Silica Silylate, Disodium Stearoyl Glutamate, Calcium Aluminum Borosilicate, Tocopherol, Moroccan Lava Clay, Glycerin, Empetrum Nigrum Fruit Juice, Aluminum Hydroxide, Silica, Potassium Sorbate"
+    },
+    {
+     "nombre": "Aceite Extraordinario Aceite Nutrición Intensa tratamiento pelo seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522452898"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Chamomilla Recutita Extract, Cocos Nucifera Oil, Hydroxycitronellal, Helianthus Annuus Seed Oil, Nelumbium Speciosum Extract, Limonene, Benzyl Salicylate, Benzyl Alcohol, Linalool, Linum Usitatissimum Flower Extract, Isoeugenol, Caprylic/Capric Triglyceride, Geraniol, Gardenia Tahitensis Flower Extract, Rosa Canina Flower Extract, Bisabolol, Hexyl Cinnamal, Glycine Soja Oil, Parfum"
+    },
+    {
+     "nombre": "Aceite Extraordinario Acondicionador Nutritivo para pelo seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625796"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Glycerin, Amodimethicone, CI 77891, CI 77491, CI 15985, CI 19140, Chamomilla Recutita Flower Extract, Mica, Cocos Nucifera Oil, Tocopherol, Hydroxyethylcellulose, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Helianthus Annuus Seed Oil, Nelumbo Nucifera Flower Extract, Linum Usitatissimum Flower Extract, Isopropyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Caprylic/Capric Triglyceride, Caprylic/Capric Glycerides, Myristyl Alcohol, Caramel, Gardenia Taitensis Flower, Bisabolol, Rosa Canina Flower Extract, Cetyl Esters, Cetearyl Alcohol, Cetrimonium Chloride, BHT, Citric Acid, Glycine Soja Oil, Parfum"
+    },
+    {
+     "nombre": "Aceite Extraordinario Champú Nutritivo Pelo Seco 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523277575"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, CI 19140, Dicaprylyl Ether, Cocos Nucifera Oil, Tocopherol, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Oleyl Alcohol, PPG-5-Ceteth-20, PEG-60 Hydrogenated Castor Oil, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-7, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Propylene Glycol, Caprylic/Capric Triglyceride, Carvone, Caramel, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citric Acid, Citrus Aurantium Peel Oil, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Aceite Extraordinario Mascarilla Nutritiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524246785"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Cetyl Esters, Parfum, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, CI 77891, CI 77491, CI 19140, CI 15985, Mica, Cocos Nucifera Oil, Tocopherol, Anise Alcohol, Salicylic Acid, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Benzyl Alcohol, Linalool, Caprylyl Glycol, Caprylic/Capric Triglyceride, Tartaric Acid, Caramel, Carvone, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Aceite Extraordinario Serum Multiusos Nutricion Y Brillo Para Cabello Seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524135836"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocos Nucifera Oil, Cetyl Alcohol, Cetyl Esters, Lactic Acid, Tocopherol, Phenoxyethanol, Behentrimonium Methosulfate, Trideceth-6, Anise Alcohol, Dilauryl Thiodipropionate, Chlorhexidine Digluconate, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Amodimethicone, Caprylic/Capric Glycerides, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Cetrimonium Chloride, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Aceite para Barba Larga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523526079"
+     ],
+     "inci": "Isopropyl Palmitate, Caprylic/Capric Triglyceride, Polybutene, Alcohol Denat., Parfum, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Butyrospermum Parkii Butter, Benzyl Salicylate, Benzyl Alcohol, Coumarin, Alpha-Isomethyl Ionone, Cedrus Atlantica Bark Oil, Limonene, Linalool, Eugenol, Eucalyptus Globulus Leaf Oil, Fusanus Spicatus Wood Oil, Tocopherol, Citric Acid"
+    },
+    {
+     "nombre": "Age Perfect Golden Age Crema de día pieles apagadas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523216642"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Cyclohexasiloxane, Glycerin, Cetyl Alcohol, Glyceryl Stearate, PEG-40 Stearate, Myristyl Myristate, Limnanthes Alba Seed Oil, Octyldodecanol, Paeonia Suffruticosa Root Extract, Tin Oxide, Isobutane, Sorbitan Oleate, Sorbitan Tristearate, Calcium Pantetheine Sulfonate, Isohexadecane, Sodium Hydroxide, Disodium EDTA, Hydrolyzed Soy Protein, Capryloyl Salicylic Acid, Caprylyl Glycol, Iris Florentina Root Extract, Synthetic Fluorphlogopite, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Butylene Glycol, Phenoxyethanol, CI 77163, CI 77491, CI 77891, Mica, Linalool, Geraniol, Alpha-Isomethyl Ionone, Coumarin, Limonene, Citronellol, Benzyl Alcohol, Benzyl Benzoate, Parfum"
+    },
+    {
+     "nombre": "Age Perfect Golden Age Crema de día SPF20 Pieles Apagadas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523216659"
+     ],
+     "inci": "Aqua, Glycerin, Ethylhexyl Salicylate, Niacinamide, Dimethicone, C12-15 Alkyl Benzoate, Alcohol Denat., Octocrylene, Pentylene Glycol, Butyl Methoxydibenzoylmethane, Octyldodecanol, Isopropyl Isostearate, Triethanolamine, Behenyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Ammonium Polyacryloyldimethyl Taurate, Paeonia Suffruticosa Root Extract, Tin Oxide, PEG-100 Stearate, Stearic Acid, TITANIUM DIOXIDE [Nano], Carbomer, Calcium Pantetheine Sulfonate, Ptfe, Dimethiconol, Cetearyl Alcohol, Cetearyl Glucoside, Silica, Myristic Acid, Palmitic Acid, Alumina, Ammonium Acryloyldimethyltaurate/Steareth-25 Methacrylate Crosspolymer, Disodium EDTA, Disodium Stearoyl Glutamate, Capryloyl Salicylic Acid, Iris Florentina Root Extract, Synthetic Fluorphlogopite, Cetyl Alcohol, Butylene Glycol, Methylparaben, Phenoxyethanol, CI 77491, CI 77891, Mica, CI 15510, CI 19140, Linalool, Geraniol, Alpha-Isomethyl Ionone, Coumarin, Limonene, Citronellol, Benzyl Alcohol, Benzyl Benzoate, Parfum"
+    },
+    {
+     "nombre": "Age Perfect Golden Age Crema de noche Re-estimulante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523898145"
+     ],
+     "inci": "Aqua, Glycerin, Hydrogenated Polyisobutene, Butylene Glycol, Dimethicone, Bis-Behenyl, Butyrospermum Parkii Butter, Limnanthes Alba Seed Oil, Alcohol Denat., Stearyl Alcohol, C30-45 Alkyl Dimethicone, PEG-20 Stearate, Silica, Iris Florentina Root Extract, Paeonia Suffruticosa Root Extract, Adenosine, Calcium Pantetheine Sulfonate, Menthol, Paeonia Albiflora Root Extract, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Hydroxide, Trisodium Ethylenediamine Disuccinate, Octyldodecanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Carbomer, Citric Acid, Glyceryl Stearate, PEG-100 Stearate, PEG-30 Dipolyhydroxystearate, Tocopherol, Trideceth-6, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Citronellol, Coumarin, Geraniol, Limonene, Linalool, CI 14700, CI 19140, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Age Perfect Golden Age Serum Anti-Manchas de la edad [Niacinamida]",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524055097"
+     ],
+     "inci": "Aqua/Water, Niacinamide, Glycerin, Alcohol Denat., Hydroxyethylpiperazine Ethane Sulfonic Acid, Dimethicone, Isopropyl Lauroyl Sarcosinate, Octyldodecanol, PEG-20 Methyl Glucose Sesquistearate, Paeonia Suffruticosa Callus Extract, Calcium PCA, Citric Acid, Phenylethyl Resorcinol, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Cetearyl Ethylhexanoate, Isopropyl Myristate, Acrylamide/Sodium Acryloydimethyltaurate Copolymer, Ammonium Polyacryloyldimethyl Taurate, CI 77891"
+    },
+    {
+     "nombre": "Agua micelar pieles normales y secas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523330133"
+     ],
+     "inci": "Aqua, Hexylene Glycol, Glycerin, Poloxamer 184, Disodium Cocoamphodiacetate, Disodium EDTA, Polyaminopropyl Biguanide"
+    },
+    {
+     "nombre": "Air Volume Mega Máscara (01 Negro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30179493"
+     ],
+     "inci": "Aqua, Paraffin, Copernicia Cerifera Cera, Cera Alba, Steareth-20, Acacia Senegal Gum, Butylene Glycol, Alcohol Denat., Glycerin, Steareth-2, Cetyl Alcohol, Potassium Cetyl Phosphate, Hydroxyethylcellulose, Caprylyl Glycol, Phenethyl Alcohol, Pentylene Glycol, Sodium Dehydroacetate, Sodium Polymethacrylate, Disodium EDTA, Rayon, Polyquaternium-10, Methylsilanol/Silicate Crosspolymer, Sodium Hyaluronate, 2-Oleamido-1,3-Octadecanediol, BHT, CI 77499"
+    },
+    {
+     "nombre": "Air Volume Mega Máscara (30H Extra Black)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30160903"
+     ],
+     "inci": "Water, Paraffin, Copernicia Cerifera Cera, Cera Alba, Steareth-20, Acacia Senegal Gum, Butylene Glycol, Alcohol Denat., Acrylates Copolymer, Glycerin, Steareth-2, Cetyl Alcohol, Potassium Cetyl Phosphate, Hydroxyethylcellulose, Caprylyl Glycol, Phenethyl Alcohol, Pentylene Glycol, Sodium Dehydroacetate, Sodium Polymethacrylate, Rayon, Disodium EDTA, Polyquaternium-10, Methylsilanol/Silicate Crosspolymer, Laureth-21, Sodium Hyaluronate, 2-Oleamido-1,3-Octadecanediol, BHT, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Air Volume Mega Máscara 30h Edición Especial Puro Power by Lola Lolita",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8445098340898"
+     ],
+     "inci": "Aqua, Paraffin, Copernicia Cerifera Cera, Cera Alba, Steareth-20, Acacia Senegal Gum, Butylene Glycol, Alcohol Denat., Glycerin, Steareth-2, Cetyl Alcohol, Potassium Cetyl Phosphate, Hydroxyethylcellulose, Caprylyl Glycol, Phenethyl Alcohol, Pentylene Glycol, Sodium Dehydroacetate, Sodium Polymethacrylate, Disodium EDTA, Rayon, Polyquaternium-10, Methylsilanol/Silicate Crosspolymer, Sodium Hyaluronate, 2-Oleamido-1,3-Octadecanediol, BHT, CI 77499"
+    },
+    {
+     "nombre": "Balsamo Labial Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524192839",
+      "3600524026592",
+      "3600524192822",
+      "3600523465262",
+      "3600524026578",
+      "3600524026615",
+      "3600524192815",
+      "3600524026523",
+      "3600524026547"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Candelilla Cera, Tocopherol, Alumina, Synthetic Fluorphlogopite, Calcium Aluminum Borosilicate, Glycine Soja Oil, Calcium Sodium Borosilicate, Aluminum Hydroxide, Silica, Citronellol, Magnesium Silicate, Limonene, Tin Oxide, Punica Granatum Fruit Extract, Geraniol, Barium Sulfate, Benzyl Alcohol, Colophonium, Linalool, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Barra de Labios Color Riche (107 Seine Sunset, 110 Made in Paris, 112 Paris Paris, 124 S'il Vous Plait, 125 Maison Marais, 129 Montmartre)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523801800",
+      "3600523801794",
+      "3600523801954",
+      "3600523801992",
+      "3600523802005",
+      "3600523801749"
+     ],
+     "inci": "Petrolatum, Cera Microcristallina, Cera Alba, Paraffin, Synthetic Wax, Argania Spinosa Kernel Oil, Alumina, Disteardimonium Hectorite, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Synthetic Fluorphlogopite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentaerythrityl Tetraisostearate, Polyhydroxystearic Acid, Tocopheryl Acetate, Calcium Aluminum Borosilicate, Calcium Sodium Borosilicate, Geraniol, Silica, Aluminum Hydroxide, Benzyl Alcohol, Hexyl Cinnamal, Magnesium Silicate, Hydroxycitronellal, Tin Oxide, Tocopherol, Barium Sulfate, Colophonium, Hydrogenated Palm Glycerides Citrate, Methyl 2-Octynoate, Glycine Soja Oil, Parfum"
+    },
+    {
+     "nombre": "Barra de Labios Color Riche (108 Brun Cuivré, 1980 L'AMBRE, 1990 LE BORDEAUX, 2010 LA PRUNE, 258 Berry Blush, 265 Rose Perle, 300 LE ROUGE PARIS, 302 Bois de Rose, 303 Rose Tendre, 345 Cristal Cerise, 377 Perfect Red, 453 Rose Creme, 630 Beige á Un, 635 WORTH IT MEDIUM, 601 Worth It, 226 Rose Glace)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3054080009061",
+      "3600524187620",
+      "3600524187637",
+      "3600524187644",
+      "3600521342015",
+      "3600521459201",
+      "3600524187651",
+      "3054080055839",
+      "3054080055846",
+      "3600520032276",
+      "3600521966402",
+      "3600520277363",
+      "3600522851288",
+      "3600524187613",
+      "3600524108045",
+      "3054080055815"
+     ],
+     "inci": "Lanolin Oil, Oleyl Erucate, Hydrogenated Castor Oil Dimer Dilinoleate, Acetylated Lanolin, Sesamum Indicum Seed Oil, Petrolatum, Cera Microcristallina, Cera Alba, Paraffin, Synthetic Wax, Alumina, Disteardimonium Hectorite, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Synthetic Fluorphlogopite, Calcium Sodium Borosilicate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentaerythrityl Tetraisostearate, Polyhydroxystearic Acid, Calcium Aluminum Borosilicate, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Camellia Oleifera Seed Oil, Rosa Canina Fruit Oil, Caprylic/Capric Triglyceride, Silica, Geraniol, Aluminum Hydroxide, Benzyl Alcohol, Hexyl Cinnamal, Tin Oxide, Hydroxycitronellal, BHT, Tocopherol, Hydrogenated Palm Glycerides Citrate, Magnesium Silicate, Methyl-2-Octynoate, Nelumbium Speciosum Flower Extract, Propylene Glycol, Propyl Gallate, Citric Acid, Parfum, CI 77891, Mica, CI 77491, CI 77492, CI 77499, CI 15850, CI 45410, CI 15985, CI 45380, CI 19140, CI 75470, CI 42090, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Barra de Labios Color Riche (520 NUDE DEFIANT, 540 NUDE UNSTOPPABLE, 550 NUDE UNAPOLOGETIC, 570 WORTH IT INTENSE)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524105167",
+      "3600524105174",
+      "3600524105181",
+      "3600524105198"
+     ],
+     "inci": "Dimethicone, Hydrogenated Polyisobutene, Polyethylene, Trimethyl Pentaphenyl Trisiloxane, Octyldodecyl Neopentanoate, Sucrose Acetate Isobutyrate, Stearyl Heptanoate, Trimethylsiloxysilicate, Stearyl Caprylate, Argania Spinosa Kernel Oil, Paraffin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Dimethicone/Vinyltrimethylsiloxysilicate Crosspolymer, Cera Microcristallina, Tocopheryl Acetate, Synthetic Wax, Citronellol, Calcium Sodium Borosilicate, Alumina, Calcium Aluminum Borosilicate, Limonene, Synthetic Fluorphlogopite, Geraniol, Colophonium, Benzyl Alcohol, Magnesium Silicate, Silica, Tocopherol, Linalool, Tin Oxide, Kaolin, Aluminum Hydroxide, Parfum, CI 77891, CI 77491, CI 77492, CI 77499, CI 15850, CI 45410, Mica, CI 15985, CI 42090, CI 15850, CI 17200, CI 19140, CI 45380, CI 15850, CI 75470, CI 77742"
+    },
+    {
+     "nombre": "Big Deal Máscara Latex Black (Latex Black)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524254223"
+     ],
+     "inci": "Aqua, Acrylates/Ethylhexyl Acrylate Copolymer, Alcohol Denat., Glyceryl Stearate SE, Glycerin, Stearic Acid, VP/Eicosene Copolymer, Dimethicone, Copernicia Cerifera Cera, Ricinus Communis Seed Oil, Butyrospermum Parkii Butter, Tromethamine, Phenoxyethanol, Laureth-21, PVP, Xanthan Gum, Sodium Dehydroacetate, Methylglucamine, Sodium Hyaluronate, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate, Panthenol, Biotinoyl Tripeptide-1, CI 77499"
+    },
+    {
+     "nombre": "Big Deal Máscara Latex Black (Negro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30189096"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Acrylates Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, Butylene Glycol, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Kaolin, Phenoxyethanol, Caprylyl Glycol, Pentylene Glycol, Potassium Cetyl Phosphate, Myristic Acid, CI 77499"
+    },
+    {
+     "nombre": "Big Deal Máscara Latex Black (Waterproof )",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30188358"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Oryza Sativa Cera, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Dimer Dilinoleyl Dimer Dilinoleate, Propylene Carbonate, Hydrogenated Jojoba Oil, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Panthenol, Ricinus Communis Seed Oil, Maltodextrin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, Citric Acid, Centaurea Cyanus Flower Extract, CI 77499"
+    },
+    {
+     "nombre": "Blur Filler Delineador Difuminado Mate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524253547",
+      "3600524253585"
+     ],
+     "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Blur Filler Delineador Difuminado Mate 485 NUDE ESPRESSO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524253554"
+     ],
+     "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Blur Filler Delineador Difuminado Mate 530 BORDEAUX BISOUS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524253608"
+     ],
+     "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Blur Filler Delineador Difuminado Mate 535 BROWN CARAMEL",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524253561"
+     ],
+     "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Blur Filler Delineador Difuminado Mate 601 Worth It",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524253530"
+     ],
+     "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium"
+    },
+    {
+     "nombre": "Bond Repair Acondicionador para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524074821"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Dimethicone, Bis-Cetearyl Amodimethicone, Cetyl Esters, Sodium Citrate, Citric Acid, Isopropyl Alcohol, Dicetyldimonium Chloride, Coco-Betaine, Hydroxypropyl Guar, Sodium Chloride, Hydroxycitronellal, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium Hedta, Limonene, Candelilla Cera, Linalool, Isopropyl Myristate, Amodimethicone, Cetrimonium Chloride, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Bond Repair Pre Champú para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524074548"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Stearyl Alcohol, Citric Acid, Cetyl Esters, Sodium Citrate, Hydroxypropyl Guar, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Limonene, Linalool, Isopropyl Alcohol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Bond Repair Tratamiento para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524075606"
+     ],
+     "inci": "Isododecane, Dipropylene Glycol, Aqua, Dimethicone, Alcohol Denat., Glycerin, Dimethiconol, PEG-14 Dimethicone, Hydroxyethyl Urea, Parfum, Citric Acid, Sodium Citrate, Hydroxycitronellal, Phenoxyethanol, PEG-60 Hydrogenated Castor Oil, Polyacrylamide, Limonene, Linalool, Benzyl Benzoate, Benzyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol, Isoeugenol, Geraniol, Citronellol, Citral, Laureth-7, Hexyl Cinnamal, C13-14 Isoalkane"
+    },
+    {
+     "nombre": "Brow Lamination Gel Transparente Fijador de Cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524136987"
+     ],
+     "inci": "Aqua, Beheneth-30, VP/Va Copolymer, Alcohol, Pentylene Glycol, Butylene Glycol, Glycerin, Dipropylene Glycol, Phenoxyethanol, Caprylyl Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Carbon Protect Roll-On 50ML",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522108023"
+     ],
+     "inci": "Water, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Parfum, Perlite, Charcoal Powder, Polyglycerin-10, Polyglyceryl-10 Myristate, Polyglyceryl-10 Stearate, Tetrasodium Glutamate Diacetate, C12-20 Alkyl Glucoside, Citric Acid, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Citronellol, Coumarin, Limonene, Linalool, Iodopropynyl Butylcarbamate, Sodium Dehydroacetate"
+    },
+    {
+     "nombre": "Carbon Protect Spray 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524266899"
+     ],
+     "inci": "Isobutane, Aqua, Dimethicone, Aluminum Chlorohydrate, Parfum, Tetrasodium Glutamate Diacetate, Charcoal Powder, Perlite, Tocopherol, Dimethiconol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Citronellol, Coumarin, Limonene, Linalool, Phenoxyethanol"
+    },
+    {
+     "nombre": "Cera Fijación para Hombre 75ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30177758"
+     ],
+     "inci": "Water, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Cetearyl Alcohol, Phenyl Trimethicone, Cera Microcristallina, VP, Lactic Acid, Eucalyptus Globulus Leaf Oil, Tocopherol, Cedrus Atlantica Bark Oil, Phenoxyethanol, PEG-150, PPG-1 Trideceth-6, Eugenol, Polyquaternium-37, Limonene, Benzyl Salicylate Benzyl Alcohol, Linalool, Propylene Glycol, Propylene Glycol Dicaprylate, Caprylyl Glycol, Alpha-Isomethyl Ionone, Paraffin, Fusanus Spicatus Wood Oil, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Cera Pixie para pelo corto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523557394"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Cetearyl Alcohol, Phenyl Trimethicone, Cera Microcristallina, VP/Dimethylaminoethylmethacrylate Copolymer, Lactic Acid, Phenoxyethanol, PEG-150/Decyl Alcohol/Smdi Copolymer, PPG-1 Trideceth-6, Polyquaternium-37, Limonene, Benzyl Salicylate, Benzyl Alcohol, Punica Granatum Extract, Propylene Glycol, Propylene Glycol Dicaprylate, Caprylyl Glycol, Alpha-Isomethyl Ionone, Paraffin, Geraniol, Coumarin, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Champú 3 en 1: barba, cabello y rostro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523526147"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Coco-Betaine, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Eucalyptus Globulus Leaf Oil, Tocopherol, Sodium Chloride, Sodium Benzoate, Cedrus Atlantica Bark Oil, Sodium Acetate, Sodium Hydroxide, PPG-5-Ceteth-20, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-10, Limonene, Fumaric Acid, Menthol, Benzyl Salicylate, Benzyl Alcohol, Pentylene Glycol, Mentha Piperita Extract, Propylene Glycol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Parfum, Carbomer, Fusanus Spicatus Wood Oil, Octyldodecanol, Citric Acid, Coumarin"
+    },
+    {
+     "nombre": "Clásico Contorno de ojos pieles maduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521823637"
+     ],
+     "inci": "Aqua, Glycerin, Cyclohexasiloxane, Hydrogenated Polyisobutene, Pentaerythrityl Tetraethylhexanoate, SILICA [Nano], Propylene Glycol, Propylene Glycol Dicaprylate, Stearoxytrimethylsilane, Stearyl Alcohol, Myristyl Myristate, Hydrogenated Jojoba Oil, Jasminum Officinale Extract, PEG-40 Stearate, Stearalkonium Hectorite, Potassium Cetyl Phosphate, Sorbitan Tristearate, Glyceryl Acrylate/Acrylic Acid Copolymer, Glyceryl Stearate, Glycine Soja Protein, Triethanolamine, Dimethicone, Dimethiconol, Sodium Cocoyl Glutamate, Myristyl Alcohol, Propylene Carbonate, Hydrolyzed Soy Protein, Hydroxypalmitoyl Sphinganine, Caprylyl Glycol, Tetrasodium EDTA, Pentylene Glycol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetyl Alcohol, Tocopherol, Tocopheryl Acetate, Potassium Sorbate, Methylparaben, Sodium Benzoate, Phenoxyethanol, Chlorphenesin, CI 16035, CI 19140, CI 77891, Mica"
+    },
+    {
+     "nombre": "Clásico Crema de Noche Hidratante Pieles Maduras 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411300042881"
+     ],
+     "inci": "Water, Squalane, Dimethicone, Paraffinum Liquidum, Glycerin, Cetyl Alcohol, Glyceryl Stearate, Niacinamide, PEG-40 Stearate, Hydrolyzed Soy Protein, Zea Mays Starch, Cera Alba, Dioscorea Villosa Root Extract, Hexyldecanol, Oryzanol, Acetyl Tetrapeptide-9, Calcium Pantetheine Sulfonate, Capryloyl Salicylic Acid, Hydroxypalmitoyl Sphinganine, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Trisodium Ethylenediamine Disuccinate, Cera Microcristallina, Octyldodecanol, Paraffin, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Butylene Glycol, Caprylyl Glycol, Carbomer, Isohexadecane, Pentylene Glycol, Polysorbate 20, Polysorbate 80, Sodium Lactate, Sodium Polyacrylate Starch, Sorbitan Oleate, Sorbitan Tristearate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Citronellol, Coumarin, Geraniol, Isoeugenol, Limonene, Linalool, CI 15985, CI 19140, Chlorphenesin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Clásico Crema Dia Anti-Flacidez 50ml Con Péptido de Micro-Colágeno 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411300042874"
+     ],
+     "inci": "Water, Caprylic/Capric Triglyceride, Glycerin, Dimethicone, Cetyl Alcohol, Glyceryl Stearate, Niacinamide, Myristyl Myristate, Hydrolyzed Soy Protein, PEG-40 Stearate, Zea Mays Starch, Limnanthes Alba Seed Oil, Hydroxyethylpiperazine Ethane Sulfonic Acid, Octyldodecanol, Acetyl Tetrapeptide-9, Calcium Pantetheine Sulfonate, Capryloyl Salicylic Acid, Citric Acid, Hydroxypalmitoyl Sphinganine, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Trisodium Ethylenediamine Disuccinate, Boron Nitride, Silica Silylate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Butylene Glycol, Caprylyl Glycol, Carbomer, CI 77491, CI 77891, Isohexadecane, Mica, Pentylene Glycol, Polysorbate 20, Polysorbate 80, Sodium Lactate, Sorbitan Oleate, Sorbitan Tristearate, Synthetic Fluorphlogopite, Tin Oxide, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Citronellol, Coumarin, Geraniol, Isoeugenol, Limonene, Linalool, CI 15985, CI 19140, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Clásico Crema Hidratante sin perfume, anti-arrugas y extra firmeza",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523972081"
+     ],
+     "inci": "Water, Glycerin, Caprylyl Methicone, Dimethicone, Zea Mays Starch, Isopropyl Isostearate, Propylene Glycol, Oxidized Starch Acetate, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, Alpha-Glucan Oligosaccharide, Butylene Glycol, Capryloyl Salicylic Acid, Faex Extract, Hydrolyzed Yeast Protein, Hydroxyacetophenone, Lactobacillus, Polymnia Sonchifolia Root Juice, Salicyloyl Phytosphingosine, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Retinyl Palmitate, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Maltodextrin, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Pentylene Glycol, Poloxamer 338, Sodium Polyacrylate, Stearic Acid, Tocopherol, Xanthan Gum, Polysilicone-11"
+    },
+    {
+     "nombre": "Clásico Crema SPF 30 Antiflacidez y Antimanchas, Pieles Maduras 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523997596"
+     ],
+     "inci": "Water, Glycerin, Ethylhexyl Salicylate, Dimethicone, Isopropyl Myristate, Butyl Methoxydibenzoylmethane, Niacinamide, Phenylbenzimidazole Sulfonic Acid, Hydrolyzed Soy Protein, Cetyl Alcohol, Ethylhexyl Triazone, Octyldodecanol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triethanolamine, Behenyl Alcohol, Isopropyl Isostearate, Perlite, Aluminum Starch Octenylsuccinate, Lauroyl Lysine, Acetyl Tetrapeptide-9, Adenosine, Calcium Pantetheine Sulfonate, Capryloyl Salicylic Acid, Hydroxyacetophenone, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Tocopherol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Ammonium Polyacryloyldimethyl Taurate, Butylene Glycol, Carbomer, Cetearyl Alcohol, Cetearyl Glucoside, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Pentylene Glycol, Poly C10-30 Alkyl Acrylate, Polysorbate 20, Polysorbate 60, Polysorbate 80, Sodium Lactate, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Sorbitan Isostearate, Sorbitan Oleate, Stearic Acid, Benzyl Alcohol, Citronellol, Limonene, Linalool, CI 15985, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Clásico Revitalift Tónico Efecto Peeling con 5% ácido glicólico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524019624"
+     ],
+     "inci": "Water, Glycolic Acid, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Sodium Hydroxide, Citric Acid, Pentylene Glycol, Aloe Barbadensis Leaf Juice, Citrullus Lanatus Fruit Extract, Ascorbyl Glucoside, Panthenol, PEG-40 Hydrogenated Castor Oil, PPG-26-Buteth-26, Tocopherol, Bis-PEG-18 Methyl Ether Dimethyl Silane, Linalool, CI 14700, CI 19140, Potassium Sorbate, Salicylic Acid, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Collagen Lifter Champú Voluminizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524251208",
+      "3600524275273"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Collagen Lifter Spray Voluminizador Big Hair Day",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524250171"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Color Riche Intense Volume Matte Barra de Labios (188 ROSE ACTIVIST, 520 NUDE DEFIANT, 570 WORTH IT INTENSE, 601 WORTH IT)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30145405",
+      "30144514",
+      "30152199",
+      "30147089"
+     ],
+     "inci": "Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Phenyl Trimethicone, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Hydrogenated Jojoba Oil, Dimethicone Crosspolymer, Isostearyl Isostearate, Kaolin, Paraffin, Isohexadecane, Nylon-12, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Cera Microcristallina, Polyethylene, Argania Spinosa Kernel Oil, Synthetic Wax, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Ethylhexyl Palmitate, Alumina, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Serica Powder, Perlite, Parfum, Citronellol, Trihydroxystearin, Limonene, Geraniol, Benzyl Alcohol, Sodium Hyaluronate, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Tocopherol, Magnesium Silicate, Silica, Glucomannan, Tin Oxide"
+    },
+    {
+     "nombre": "Color Riche Intense Volume Matte Barra de Labios (1980 L'AMBRE, 1990s LE BORDEAUX, 2000s LA PRUNE, 241 CORAL IRREVERENT, 336 ROUGE AVANT-GARDE, 346 ROUGE DETERMINATION, 480 PLUM DOMINANT, 482 MAUVE INDOMPTABLE, 602 NUDE ADMIRABLE, 635 WORTH IT, 300 Rouge Confident)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30189287",
+      "30189300",
+      "30189324",
+      "30147959",
+      "30147973",
+      "30153080",
+      "30145429",
+      "30153066",
+      "30145382",
+      "30189270",
+      "3600524066772"
+     ],
+     "inci": "Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Phenyl Trimethicone, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Hydrogenated Jojoba Oil, Dimethicone Crosspolymer, Isostearyl Isostearate, Kaolin, Paraffin, Isohexadecane, Nylon-12, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Cera Microcristallina, Polyethylene, Argania Spinosa Kernel Oil, Synthetic Wax, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Ethylhexyl Palmitate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Serica Powder, Perlite, Alumina, Citronellol, Trihydroxystearin, Limonene, Geraniol, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Benzyl Alcohol, Sodium Hyaluronate, Magnesium Silicate, Silica, Tocopherol, Tin Oxide, Glucomannan, Parfum"
+    },
+    {
+     "nombre": "Color Vive Acondicionador Protector para el pelo teñido 250ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625765",
+      "8411300710001"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Cocos Nucifera Oil, Sodium Benzoate, Phenoxyethanol, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Trideceth-6, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citric Acid, Potassium Hydroxide, Citronellol, Cetrimonium Chloride, Potassium Sorbate, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Color Vive Champú Protector para el pelo teñido 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524153458"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Cocamide MIPA, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hydroxide, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Salicylic Acid, Fumaric Acid, Benzyl Alcohol, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Potassium Sorbate, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Color Vive Color Vive Recarga Ecopack : Protección del Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524197322"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ascorbyl Glucoside, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Color Vive Magic Water",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524004637"
+     ],
+     "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Aqua, Parfum, CI 14700, Dicaprylyl Carbonate, Cocos Nucifera Oil, Tocopherol, Sodium Benzoate, Paeonia Officinalis Flower Extract, Behentrimonium Chloride, Ethylhexyl Salicylate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Color Vive Mascarilla nutritiva Rapid Reviver para pelo teñido",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523732814"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Tocopheryl Acetate, Cocos Nucifera Oil, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Punica Granatum Extract, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Cetrimonium Chloride, Citronellol, Coumarin, Amyl Cinnamal, GLYCERIN Enriquecido con Aminoácido y vitamina E.* *Derivado de vitamina E"
+    },
+    {
+     "nombre": "Color Vive Mascarilla Protectora del Color con Vitamina CG 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521708514"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 14700, CI 19140, Cocos Nucifera Oil, Lactic Acid, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, Paeonia Officinalis Flower Extract, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Contorno de Ojos Antiarrugas para hombre Power Age",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523576975"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycerin, Propanediol, Niacinamide, Propylene Glycol, Escin, Hydrolyzed Rice Protein, Mentha Piperita Extract, Ruscus Aculeatus Root Extract, Adenosine, Caffeine, Cryptomeria Japonica Bud Extract, Hydroxypropyl Tetrahydropyrantriol, Serine, Sodium Citrate, Sodium Hyaluronate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Ascorbyl Glucoside, Tocopherol, Perlite, Silica, Butylene Glycol, Carbomer, Hydrolyzed Corn Starch, Pentylene Glycol, Sodium Dextran Sulfate, Xanthan Gum, Phenoxyethanol"
+    },
+    {
+     "nombre": "Cool Silver Tratamiento Matizador Gris Platino (1 Blanco Puro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524194871"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 60730, HC Blue No. 14, Cocos Nucifera Oil, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Caprylyl Glycol, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Cool Silver Tratamiento Matizador Gris Platino (2 Blanco Perla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524194888"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, CI 60730, HC Blue No. 2, Cocos Nucifera Oil, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Disperse Violet 1, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Cool Silver Tratamiento Matizador Gris Platino (3 Plateado)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524194895"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 60730, Cocos Nucifera Oil, Sodium Chloride, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Crema Antiarrugas para hombre Power Age",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522021360"
+     ],
+     "inci": "Aqua, Glycerin, Isohexadecane, Dimethicone, Zea Mays Starch, Isopropyl Isostearate, Propylene Glycol, Oxidized Starch Acetate, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, Hydrolyzed Soy Protein, Mentha Piperita Extract, Adenosine, Capryloyl Salicylic Acid, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Tocopherol, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Pentylene Glycol, Sodium Polyacrylate, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Stearic Acid, Xanthan Gum, Citral, Citronellol, Coumarin, Limonene, Linalool, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Crema Blowdry Protectora de Calor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523557349"
+     ],
+     "inci": "Aqua, Amodimethicone, Cetearyl Alcohol, Tocopherol, Hydrated Silica, Sodium Hydroxide, Phenoxyethanol, Steareth-20, Phenyl Trimethicone, Acetic Acid, PPG-1 Trideceth-6, Trideceth-5, Trideceth-10, Polyquaternium-37, Chlorhexidine Digluconate, Silica Dimethyl Silylate, Polysorbate 60, Helianthus Annuus Seed Oil, Limonene, Linalool, Benzyl Alcohol, Benzyl Salicylate, Propylene Glycol Dicaprylate, Alpha-Isomethyl Ionone, Geraniol, Rosmarinus Officinalis (Rosemary) Extract, Cetyl Hydroxyethylcellulose, Cetrimonium Chloride, Vitis Vinifera Seed Oil, Citronellol, Citric Acid, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Crema de Día Hidratante +35 años colágeno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523183845"
+     ],
+     "inci": "Aqua, Dimethicone, Glycerin, Paraffinum Liquidum, Nylon-66, Myristyl Myristate, Dipropylene Glycol, Stearic Acid, Palmitic Acid, PEG-100 Stearate, Glyceryl Stearate, LITHIUM MAGNESIUM SODIUM SILICATE [Nano], PEG-20 Stearate, Stearyl Alcohol, Sorbitol, Vaccinium Myrtillus Fruit Extract, Triethanolamine, Manganese Gluconate, Sodium Chondroitin Sulfate, SILICA DIMETHYL SILYLATE [Nano], Myristic Acid, Myristyl Alcohol, Atelocollagen, Ammonium Polyacryloyldimethyl Taurate, Propylene Glycol, Caprylyl Glycol, Trisodium EDTA, Pentaerythrityl Tetraisostearate, T-Butyl Alcohol, Soluble Collagen, Boswellia Serrata Extract, Cetyl Alcohol, Butylene Glycol, Hexylene Glycol, Tocopheryl Acetate, Potassium Sorbate, Methylparaben, Phenoxyethanol, Linalool, Alpha-Isomethyl Ionone, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Citronellol, Butylphenyl Methylpropional, Hexyl Cinnamal, Benzyl Alcohol, Benzyl Salicylate, Parfum"
+    },
+    {
+     "nombre": "Crema de Día Hidratante +45 años Retinol Péptidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523183807"
+     ],
+     "inci": "Aqua, Glycerin, Isohexadecane, Dimethicone, Isopropyl Isostearate, Aluminum Starch Octenylsuccinate, Propylene Glycol, Nylon-12, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, PEG-100 Stearate, Stearic Acid, Stearyl Alcohol, Triethanolamine, Cetearyl Alcohol, Cetearyl Glucoside, Sodium Polyacrylate, Myristic Acid, Myristyl Alcohol, Palmitic Acid, Adenosine, Disodium EDTA, Disodium Stearoyl Glutamate, Hydrolyzed Opuntia Ficus-Indica Flower Extract, Hydrolyzed Soy Protein, Capryloyl Salicylic Acid, Caprylyl Glycol, Acetyl Trifluoromethylphenyl Valylglycine, Xanthan Gum, Pentylene Glycol, Ethylhexylglycerin, Polyethylene, Retinyl Palmitate, Tocopherol, Phenoxyethanol, Linalool, Geraniol, Alpha-Isomethyl Ionone, Limonene, Citronellol, Parfum"
+    },
+    {
+     "nombre": "Crema de Día Hidratante +55 años Calcio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523183814"
+     ],
+     "inci": "Aqua, Glycerin, Isohexadecane, Dimethicone, Isopropyl Isostearate, Aluminum Starch Octenylsuccinate, Propylene Glycol, Nylon-12, Octyldodecanol, Cetyl Alcohol, Ammonium Polyacryloyldimethyl Taurate, Behenyl Alcohol, C13-14 Isoparaffin, PEG-100 Stearate, Stearic Acid, Stearyl Alcohol, Arachidyl Alcohol, Calcium PCA, Triethanolamine, Cetearyl Alcohol, Cetearyl Glucoside, Myristic Acid, Myristyl Alcohol, Palmitic Acid, Adenosine, Disodium EDTA, Disodium Stearoyl Glutamate, Capryloyl Salicylic Acid, Caprylyl Glycol, Laureth-7, T-Butyl Alcohol, Polyacrylamide, Polyethylene, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Crema Embellecedora (Beige)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523451265"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 3-Methylamino-4-Nitrophenoxyethanol, Isopropyl Alcohol, Disperse Violet 1, Basic Brown 17, Basic Orange 31, Cetrimonium Chloride, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Crema Embellecedora (Blanco Perla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523451296"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, CI 60730, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, Isopropyl Alcohol, Disperse Violet 1, Cetrimonium Chloride, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Crema Embellecedora (Castaño)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523451289"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 45100, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, Basic Brown 17, Disperse Violet 1, Cetrimonium Chloride, Citric Acid, Parfum, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 45100, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, Parfum, Basic Brown 17, Disperse Violet 1, Cetrimonium Chloride, CITRIC ACID Value3: AQUA, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 45100, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, Basic Brown 17, Disperse Violet 1, Cetrimonium Chloride, Citric Acid, Parfum, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, HC Blue No. 2, CI 45100, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, 2-Nitro-5-Glyceryl Methylaniline, Isopropyl Alcohol, Basic Brown 17, Disperse Violet 1, Citric Acid, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Crema Embellecedora (Gris Perla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523451241"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, CI 60730, CI 61570, HC Blue No. 2, Sodium Chloride, Sodium Lignosulfonate, Phenoxyethanol, Ethanolamine, Trideceth-6, Chlorhexidine Digluconate, Isopropyl Alcohol, Disperse Violet 1, Cetrimonium Chloride, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Crema Hidratante Anti-Brillo para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522333968"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Dimethicone, Isononyl Isononanoate, Mentha Piperita Extract, Carbomer, Caffeine, Sodium Hydroxide, Silica Silylate, Maris Aqua, Peumus Boldus Leaf Extract, Ascorbyl Glucoside, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Biosaccharide Gum-1, Xanthan Gum, Ethyl Menthane Carboxamide, Phenoxyethanol, CI 19140, CI 42090, Linalool, Parfum"
+    },
+    {
+     "nombre": "Crema Hidratante Anti-Líneas de Expresión para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600520301778"
+     ],
+     "inci": "Aqua, Cyclohexasiloxane, Glycerin, Hydrogenated Polyisobutene, Acacia Senegal Gum, Alcohol Denat., Dipropylene Glycol, Ammonium Polyacryldimethyltauramide, Drometrizole Trisiloxane, Mentha Piperita Extract, Manganese Gluconate, Sodium Hydroxide, Nylon-12, Disodium EDTA, Biosaccharide Gum-1, Boswelia Serrata Extract, Ethylhexyl Methoxycinnamate, Tocopheryl Acetate, Phenoxyethanol, Linalool, Limonene, Parfum"
+    },
+    {
+     "nombre": "Crema Hidratante Hipoalergénica para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030216"
+     ],
+     "inci": "Water, Glycerin, Isopropyl Myristate, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Ammonium Polyacryloyldimethyl Taurate, Mentha Piperita Extract, Hydroxyacetophenone, Magnesium PCA, Sodium Hyaluronate, Tocopherol, Citric Acid, Biosaccharide Gum-1, Caprylyl Glycol, Glyceryl Isostearate, Maltodextrin, Pentylene Glycol, Xanthan Gum, Parfum"
+    },
+    {
+     "nombre": "Crema Limpiadora con Colágeno y Glicerina para Piel Madura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524199302"
+     ],
+     "inci": "Aqua, Glycerin, Disodium Cocoamphodiacetate, Coco-Betaine, PEG-7 Glyceryl Cocoate, Sodium Laureth Sulfate, Glycol Distearate, Citric Acid, PEG-75 Shea Butter Glycerides, PPG-5-Ceteth-20, PEG-55 Propylene Glycol Oleate, Sodium Chloride, Sodium Hydroxide, Propylene Glycol, Soluble Collagen, Polyquaternium-7, Acrylates Copolymer, Sodium Benzoate, Phenoxyethanol, CI 15985, Parfum"
+    },
+    {
+     "nombre": "Cushion Base de maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524258047",
+      "3600524258054",
+      "3600524258061",
+      "3600524258078",
+      "3600524258085",
+      "3600524258092",
+      "3600524258108",
+      "3600524258115",
+      "3600524258139",
+      "3600524258146",
+      "3600524258184",
+      "3600524258030",
+      "3600524258023",
+      "3600524242473",
+      "3600524242497",
+      "3600524242480",
+      "3600524242503"
+     ],
+     "inci": "Cyclopentasiloxane, HDI/Trimethylol Hexyllactone Crosspolymer, Methyl Trimethicone, Trimethylsiloxysilicate, Glycerin, PEG-10 Dimethicone, Diphenylsiloxy Phenyl Trimethicone, Isononyl Isononanoate, Pentylene Glycol, Butylene Glycol, Polypropylsilsesquioxane, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Methyl Methacrylate Crosspolymer, Phenoxyethanol, Disteardimonium Hectorite, Magnesium Sulfate, Tridecyl Trimellitate, Lauroyl Lysine, Aluminum Hydroxide, Triethoxycaprylylsilane, Dimethicone/Vinyl Dimethicone Crosspolymer, Chlorphenesin, Silica, Ethylhexylglycerin, Disodium EDTA, Silica Silylate, Tocopherol"
+    },
+    {
+     "nombre": "Desmaquillante ojos y labios waterproof y larga duracion 125ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411300048043"
+     ],
+     "inci": "Water, Cyclopentasiloxane, Isohexadecane, Isopropyl Palmitate, CI 61565, Dipotassium Phosphate, Panthenol, Poloxamer 184, Polyaminopropyl Biguanide, Potassium Phosphate, Sodium Chloride"
+    },
+    {
+     "nombre": "Dream Long #CuidaTuStyle Champú Seco Air Volume Elvive Dream Long",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524051075"
+     ],
+     "inci": "Butane, Alcohol Denat., Oryza Sativa Starch, Isopropyl Myristate, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Stearalkonium Hectorite, Calcium Carbonate, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Propylene Carbonate, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Dream Long #CuidaTuStyle Crema Peinado Sin Aclarado Non-Stop Rizos Definidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524033736"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Propylene Glycol, Butyrospermum Parkii Butter, Cetyl Esters, Guar Hydroxypropyltrimonium Chloride, Ricinus Communis Seed Oil, Tocopherol, Sodium Hyaluronate, Hydroxycitronellal, Sodium Dehydroacetate, Phenoxyethanol, Behentrimonium Chloride, Ethylhexylglycerin, Trideceth-6, Limonene, Fumaric Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Caprylyl Glycol, Acrylates Copolymer, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Coumarin, Laureth-21, Hexyl Cinnamal, Glycerin, VP/Dimethylaminoethylmethacrylate Copolymer, Parfum"
+    },
+    {
+     "nombre": "Dream Long #CuidaTuStyle Mascarilla Rizos Consentidos Elvive Dream Long",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524021887"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Ricinus Communis Seed Oil, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hyaluronate, Sodium Hydroxide, Phenoxyethanol, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Dream Long #CuidaTuStyle Spray Protector de Calor Elvive Dream Long",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523966752"
+     ],
+     "inci": "Water, Dimethicone, Stearyl Alcohol, Niacinamide, Ricinus Communis Seed Oil, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydroxycitronellal, Phenoxyethanol, Steareth-100, PEG-40 Hydrogenated Castor Oil, Behentrimonium Chloride, Trideceth-6, Salicylic Acid, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Laureth-23, Laureth-4, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Dream Long Acondicionador Reconstructor para pelo largo 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625741"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Niacinamide, Ricinus Communis Seed Oil, Sodium Benzoate, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium Hedta, Chlorhexidine Digluconate, Dimethicone, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Tartaric Acid, Geraniol, Cetyl Esters, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Dream Long Champú Reconstructor para pelo largo 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523586349"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Sodium Chloride, Parfum, CI 77891, Guar Hydroxypropyltrimonium Chloride, Niacinamide, Ricinus Communis Seed Oil, Mica, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Coumarin, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Glycol Distearate"
+    },
+    {
+     "nombre": "Dream Long Crema Stop Tijeras Tratamiento para pelo largo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523587834"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Propylene Glycol, Triethanolamine, Niacinamide, Ricinus Communis Seed Oil, Hydroxypropyl Guar, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, PEG/PPG-17/18 Dimethicone, Behentrimonium Chloride, Trideceth-6, Polyquaternium-4, Dimethiconol, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Caprylyl Glycol, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Potato Starch Modified, Citronellol, Cetrimonium Chloride, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Dream Long Elvive Dream Long Fiber Mask mascarilla reparadora para pelo largo 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524078461"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Butylene Glycol, Paraffinum Liquidum, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Cetyl Esters, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Sodium Lactate, Phenoxyethanol, PEG-90M, Trideceth-6, Chlorhexidine Digluconate, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Panthenol, Amodimethicone, Alpha-Isomethyl Ionone, Geraniol, Carbomer, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Dream Long Magic Water",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523970643"
+     ],
+     "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Aqua, Parfum, Dicaprylyl C A R B O N A T E, T O C O P H E R O L, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydroxycitronellal, Phenoxyethanol, Arginine PCA, Behentrimonium Chloride, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Dream Long Mascarilla S.O.S para pelo largo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523627240",
+      "3600523587315"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, Trideceth-6, Chlorhexidine Digluconate, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citric Acid, Potassium Hydroxide, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Dream Long Recarga Ecopack de Champú Reconstructor Para Pelo Largo y Dañado 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524197308"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ricinus Communis Seed Oil, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Coumarin, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Dream Long serum-stop-frizz-anti-encrespamiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523817481"
+     ],
+     "inci": "Aqua, Glycerin, VP/Va Copolymer, PEG-40 Hydrogenated Castor Oil, Hydroxyethylcellulose, CI 19140, CI 17200, Ricinus Communis Seed Oil, Tocopherol, Hydroxyethyl Oleyl Dimonium Chloride, Hydrolyzed Wheat Protein, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Phenoxyethanol, Theobroma Cacao Seed Butter, Ethylhexylglycerin, Behentrimonium Chloride, Polyquaternium-6, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Espuma Volumen Fijacion Fuerte",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522506966"
+     ],
+     "inci": "Aqua, Isobutane, VP/Va Copolymer, Butane, Propylene Glycol, Propane, Lactic Acid, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Trideceth-6, Xylose, Limonene, Camelina Sativa Oil, Vinylamine/Vinylformamide Copolymer, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Cetrimonium Chloride, Citronellol, Laureth-4, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Face Sculptor Contour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30188518",
+      "30188433",
+      "30188365"
+     ],
+     "inci": "Ethylhexyl Palmitate, Polyethylene, Ethylhexyl Hydroxystearate, Kaolin, Synthetic Fluorphlogopite, Methyldihydrojasmonate, Disodium Stearoyl Glutamate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum, Polybutene, Aluminum Hydroxide, CI 77491, CI 77492, CI 77499, CI 77891, CI 77163"
+    },
+    {
+     "nombre": "False Lash Máscara de Pestañas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30164185",
+      "30175792"
+     ],
+     "inci": "Aqua, Oryza Sativa Cera, Potassium Cetyl Phosphate, Acrylates Copolymer, Cera Alba, Copernicia Cerifera Cera, Cetyl Alcohol, Steareth-2, Pentylene Glycol, Hydroxyethylcellulose, Acacia Senegal Gum, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Caprylyl Glycol, Glycerin, Panthenol, Sodium Hyaluronate, 2-Oleamido-1,3-Octadecanediol, Butylene Glycol, Laureth-21, Carbomer, Sodium Lactate, Polysorbate 20, Citric Acid, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, CI 77499"
+    },
+    {
+     "nombre": "Faux Brow Rotulador de Cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524202347",
+      "3600524202354",
+      "3600524202385",
+      "3600524202361",
+      "3600524202323"
+     ],
+     "inci": "Water, Acrylates/Ethylhexyl Acrylate Copolymer, Propylene Glycol, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Caprylyl Glycol, Phenoxyethanol, Ammonium Acrylates Copolymer, Sodium Laureth-12 Sulfate, Sodium Dehydroacetate, Laureth-21, C11-15 Alketh-7, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Potassium Sorbate, Sodium Lauryl Sulfate, Disodium Laureth Sulfosuccinate"
+    },
+    {
+     "nombre": "Filler Crema facial con ácido hialurónico rellenadora intensiva SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523982790"
+     ],
+     "inci": "Water, Glycerin, Ethylhexyl Salicylate, Ethylhexyl Triazone, Alcohol Denat., Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Lauroyl Lysine, Butyl Methoxydibenzoylmethane, Octyldodecanol, Behenyl Alcohol, Isopropyl Isostearate, Perlite, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, CI 15985, CI 16035, Tocopherol, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Hydroxyacetophenone, Sodium Polyacrylate Starch, Sodium Acetylated Hyaluronate, Phenoxyethanol, Stearic Acid, Adenosine, PEG-100 Stearate, Palmitic Acid, Poly C10-30 Alkyl Acrylate, Polysorbate 80, Ammonium Polyacryloyldimethyl Taurate, Linalool, Benzyl Alcohol, Isohexadecane, Capryloyl Salicylic Acid, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Myristic Acid, Sorbitan Oleate, Disodium EDTA, Cetearyl Alcohol, Cetearyl Glucoside, Citronellol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Filler Crema Rellenadora con Ácido Hialurónico Día 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522892595"
+     ],
+     "inci": "Water, Glycerin, Dimethicone, Isohexadecane, Silica, Hydroxyethylpiperazine Ethane Sulfonic Acid, Alcohol Denat., Dipropylene Glycol, Synthetic Wax, CI 77163, CI 77891, Secale Cereale Extract, Sodium Acrylates Copolymer, Sodium Hyaluronate, Phenoxyethanol, Adenosine, PEG-10 Dimethicone, Ethylhexyl Hydroxystearate, Nylon-12, Dimethicone/PEG-10/15 Crosspolymer, Dimethicone/Polyglycerin-3 Crosspolymer, Pentylene Glycol, Synthetic Fluorphlogopite, Benzyl Salicylate, Benzyl Alcohol, Linalool, Benzyl Benzoate, Caprylic/Capric Triglyceride, Caprylyl Glycol, Dipotassium Glycyrrhizate, Alpinia Galanga Leaf Extract, Disteardimonium Hectorite, Disodium EDTA, Citronellol, Parfum"
+    },
+    {
+     "nombre": "Filler Gel en crema de ácido hialurónico Revitalift Filler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524070618"
+     ],
+     "inci": "Water, Propylene Glycol, Glycerin, Dimethicone, Alcohol Denat., Octyldodecanol, Caprylyl Methicone, Betaine, Niacinamide, Isohexadecane, Hydroxypalmitoyl Sphinganine, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Sodium Hydroxide, 2-Oleamido-1,3-Octadecanediol, Tocopheryl Acetate, Ceramide NP, Hydrogenated Lecithin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Xanthan Gum, Dimethiconol, Citronellol, Linalool, Chlorphenesin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Filler Gel-Crema con Ácido Hialurónico y Ácido Salicílico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524213794"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., Dimethicone, Isononyl Isononanoate, Capryloyl Salicylic Acid, Menthoxypropanediol, Phytic Acid, Potassium Hydroxide, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Tocopheryl Acetate, Biosaccharide Gum-1, Caprylyl Glycol, Carbomer, Polyepsilon-Lysine, Xanthan Gum, Dimethiconol, Chlorphenesin, Phenoxyethanol, Salicylic Acid, Parfum"
+    },
+    {
+     "nombre": "Filler Glass Skin Crema líquida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524250058",
+      "3600524244453"
+     ],
+     "inci": "Aqua, Butylene Glycol, Glycerin, Limnanthes Alba Seed Oil, Niacinamide, Caprylic/Capric Triglyceride, Panthenol, Dimethicone, Isopropyl Myristate, Hydrogenated Lecithin, Hydroxyethylpiperazine Ethane Sulfonic Acid, Ascorbyl Glucoside, Cetyl Alcohol, Stearyl Alcohol, Adenosine, Carbomer, CI 77891, Citric Acid, Glyceryl Stearate, Mica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Hydroxide, Sodium Hyaluronate, Tin Oxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Carvone, Citronellol, Limonene, Linalool, Linalyl Acetate, Chlorphenesin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Filler Limpiador Facial Hidratante con Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524223168"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Glycerin, PPG-5-Ceteth-20, Sodium Hyaluronate, Sodium Hydroxide, Disodium EDTA, Citric Acid, Panthenol, Polyquaternium-7, Tocopheryl Acetate, Sodium Benzoate, Salicylic Acid, Linalool, Parfum"
+    },
+    {
+     "nombre": "Filler Sun Pod Aqua-fluid Rellenador SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524244613"
+     ],
+     "inci": "Aqua, Diisopropyl Sebacate, Isopropyl Myristate, Alcohol Denat., Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Triethanolamine, Niacinamide, Caprylic/Capric Triglyceride, Cellulose, Silica Silylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Disodium Phosphate, Hydroxyacetophenone, Hydroxyethylcellulose, Polysorbate 60, Sodium Hyaluronate, Sodium Phosphate, Trisodium Ethylenediamine Disuccinate, Carvone, Citronellol, Limonene, Linalool, Linalyl Acetate, Pinene, Terpineol, CI 17200, CI 60730, Parfum"
+    },
+    {
+     "nombre": "Fluido Diario SPF50 con Color y Niacinamida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524186883",
+      "3600524186999"
+     ],
+     "inci": "Aqua, Dicaprylyl Carbonate, Ethylhexyl Triazone, Dimethicone, Niacinamide, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Mica, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [Nano], Silica, Alcohol Denat., Hydroxyethylpiperazine Ethane Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, CI 77891, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, CI 77491, CI 77492, CI 77499, Tocopherol, Sodium Hydroxide, Sodium Stearoyl Glutamate, Hydroxyacetophenone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Polyglyceryl-10 Laurate, Cellulose, Polysorbate 60, Xanthan Gum, Caprylyl Glycol, Parfum, Sorbitan Isostearate, Butylene Glycol, Cetearyl Glucoside, Lauroyl Lysine, Inulin Lauryl Carbamate, Glycerin"
+    },
+    {
+     "nombre": "Fluido Invisible Diario FPS 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524195663"
+     ],
+     "inci": "Water, Alcohol Denat., Diisopropyl Sebacate, Silica, Isopropyl Myristate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Drometrizole Trisiloxane, Perlite, Caprylic/Capric Triglyceride, Caffeine, Hydroxyacetophenone, Sodium Hyaluronate, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Disodium Phosphate, Hydroxyethylcellulose, Polysorbate 60, Sodium Phosphate, Terephthalylidene Dicamphor Sulfonic Acid, Parfum"
+    },
+    {
+     "nombre": "Fresh Extreme Roll-on 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524268480"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Parfum, Perlite, C12-20 Alkyl Glucoside, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Citral, Limonene, Linalool, Iodopropynyl Butylcarbamate"
+    },
+    {
+     "nombre": "Fresh Extreme Spray 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524266882"
+     ],
+     "inci": "Isobutane, Aluminum Chlorohydrate, Isododecane, Cocos Nucifera Oil, Isopropyl Palmitate, Panthenol, Disteardimonium Hectorite, Perlite, Propylene Carbonate, Dimethicone, Dimethiconol, Citral, Limonene, Linalool, Parfum"
+    },
+    {
+     "nombre": "Full resist Acondicionador para Pelo Frágil con tendencia a caerse, 300ML",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523923786"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Diaminopyrimidine Oxide, Lactic Acid, Arginine, Trideceth-6, Limonene, Benzoic Acid, Amodimethicone, Isopropyl Alcohol, Biotin, Potassium Hydroxide, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Full resist Champú Fortificante 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524153496"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Diaminopyrimidine Oxide, Cocamide MIPA, Sodium Benzoate, Sodium Hydroxide, Arginine, Salicylic Acid, Limonene, Fumaric Acid, Biotin, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
+    },
+    {
+     "nombre": "Full resist Elvive Full Resist Sérum Anti-caída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524075422"
+     ],
+     "inci": "Aqua, Alcohol Denat., Diaminopyrimidine Oxide, Tocopherol, Sodium Hyaluronate, Sodium Citrate, Caffeine, Safflower Glucoside, PEG-40 Hydrogenated Castor Oil, Arginine, Aminomethyl Propanol, Ammonium Polyacryloyldimethyl Taurate, Limonene, Menthol, Piroctone Olamine, Citric Acid, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Gel carbon multiaccion total clean para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523232833"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Acrylates Copolymer, Sodium Chloride, Coco-Betaine, PPG-5-Ceteth-20, Parfum, Charcoal Powder, Sodium Hydroxide, Sodium Benzoate, Sodium Dehydroacetate, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, PEG-90M, Salicylic Acid, Polyquaternium-7, Polyglycerin-10, Polyglyceryl-10 Myristate, Polyglyceryl-10 Stearate, Limonene, Linalool, Pentylene Glycol, Mentha Piperita Extract, Citric Acid, BHT, Coumarin, Glycol Distearate"
+    },
+    {
+     "nombre": "Gel de ducha Barber Club",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524073442"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Coco-Betaine, Parfum, Citric Acid, Sodium Hydroxide, Cedrus Atlantica Bark Oil, Pentylene Glycol, Coumarin, Limonene, Linalool, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel de ducha Hydra Hyaluronico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524187330"
+     ],
+     "inci": "Sodium Laureth Sulfate, Glycerin, Coco-Betaine, Parfum, Citric Acid, Sodium Hyaluronate, Sodium Hydroxide, Glycol Distearate, Acrylates Copolymer, Cocamide MEA, Pentylene Glycol, Polyquaternium-7, Sodium Chloride, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel Exfoliante Anti-Puntos Negros para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523708130"
+     ],
+     "inci": "Water, Glycerin, Myristic Acid, Stearic Acid, Palmitic Acid, Potassium Hydroxide, Lauric Acid, Butylene Glycol, Sorbitol, Glyceryl Stearate SE, PEG-8, Perlite, Mentha Piperita Extract, Charcoal Powder, Caprylyl Glycol, Tetrasodium EDTA, Citric Acid, Pentylene Glycol, Polyglycerin-10, Polyglyceryl-10 Myristate, Polyglyceryl-10 Stearate, Polyquaternium-4, Sodium Dehydroacetate, Phenoxyethanol, CI 77499, Linalool, Limonene, Parfum"
+    },
+    {
+     "nombre": "Gel Limpiador Energizante para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523718238"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Glycerin, Sodium Chloride, Mentha Piperita Extract, PPG-5-Ceteth-20, Sodium Hydroxide, Paullinia Cupana Seed Extract, Ascorbyl Glucoside, Propylene Glycol, Citric Acid, Menthol, Pentylene Glycol, Polyquaternium-7, Sodium Benzoate, Salicylic Acid, CI 16035, CI 19140, Linalool, Limonene, Parfum"
+    },
+    {
+     "nombre": "Gel Limpiador Hipoalergénico para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030551"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, PEG-8, Coco-Betaine, Hexylene Glycol, Sodium Chloride, PEG-120 Methyl Glucose Dioleate, Citric Acid, Zinc PCA, Sodium Hydroxide, Hydroxyacetophenone, Sodium Benzoate, Caprylyl Glycol, Salicylic Acid, Magnesium PCA, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Gel Limpiador Purificante con Ácido Salicílico y Niacinamida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524190453"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Decyl Glucoside, Coco-Betaine, Sodium Chloride, Salicylic Acid, Niacinamide, Triethyl Citrate, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, Sodium Hydroxide, Disodium EDTA, Capryloyl Salicylic Acid, Tetrasodium Glutamate Diacetate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Gel revitalizante de noche anti-edad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524181352"
+     ],
+     "inci": "Aqua, Glycerin, C15-19 Alkane, Butylene Glycol, Niacinamide, Undecane, Alcohol Denat., Betaine, Tridecane, Carbomer, Silica, Hydroxyethylpiperazine Ethane Sulfonic Acid, Acetyl Dipeptide-1 Cetyl Ester, Adenosine, Charcoal Powder, Hydroxyacetophenone, Polyglycerin-10, Polyglyceryl-10 Myristate, Polyglyceryl-10 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Hydroxyethylcellulose, Sorbitan Laurate, Tocopherol, Xanthan Gum, Citral, Citronellol, Coumarin, Limonene, Linalool, CI 17200, CI 42090, Chlorphenesin, Phenoxyethanol, Sodium Dehydroacetate, Parfum"
+    },
+    {
+     "nombre": "Gel taurina hydra energetic para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523232826"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Coco-Betaine, Parfum, PPG-5-Ceteth-20, CI 19140, CI 16035, Sodium Benzoate, Sodium Hydroxide, Salicylic Acid, Polyquaternium-7, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Pentylene Glycol, Mentha Piperita Extract, Alpha-Isomethyl Ionone, Citric Acid, Taurine"
+    },
+    {
+     "nombre": "Glam Bronze La Terra Polvos Bronceadores",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522109303",
+      "3600522109280"
+     ],
+     "inci": "Talc, Dimethicone, Octyldodecyl Stearoyl Stearate, Zinc Stearate, Silica, Caprylyl Glycol, Parfum, Benzyl Salicylate, Benzyl Alcohol, Linalool, Limonene, Coumarin"
+    },
+    {
+     "nombre": "Glotion Formula Iluminadora Tono Dark",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524150594"
+     ],
+     "inci": "Aqua, Glycerin, Dimethicone, Alcohol Denat., Butyrospermum Parkii Butter, Ammonium Polyacryloyldimethyl Taurate, Polyglyceryl-6 Distearate, Synthetic Fluorphlogopite, Polysilicone-11, Phenoxyethanol, Pentaerythrityl Tetraethylhexanoate, Jojoba Esters, Capryloyl Salicylic Acid, Caprylyl Glycol, Sodium Citrate, Polyacrylamide, Boron Nitride, Polyglyceryl-3 Beeswax, Cetyl Alcohol, C13-14 Isoalkane, Adenosine, Disodium EDTA, Citric Acid, Laureth-7, Alumina, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Tin Oxide, Sodium Stearate, Cetearyl Alcohol, Ceteareth-20, Calcium Chloride, Mica, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Glycolic Gloss Acondicionador Boost de Brillo 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524229962"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hydroxide, Phenoxyethanol, Limonene, Linalool, Pinene, Amodimethicone, Isopropyl Alcohol, Carvone, Geranyl Acetate, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexyl Cinnamal, Glycolic Acid"
+    },
+    {
+     "nombre": "Glycolic Gloss Champú Boost de Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524230418",
+      "3600524230630"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Pinene, Amodimethicone, Carbomer, Carvone, Geranyl Acetate, Citric Acid, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexylene Glycol, Hexyl Cinnamal, Glycolic Acid, Parfum"
+    },
+    {
+     "nombre": "Glycolic Gloss Sérum Glass Hair sin aclarado 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524228934"
+     ],
+     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Hydroxycitronellal, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Linalool, Benzyl Benzoate, Benzyl Alcohol, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Citric Acid, EDTA, Citronellol, Hexyl Cinnamal, Glycine Soja Oil, Glycolic Acid, Parfum"
+    },
+    {
+     "nombre": "Growth Booster Acondicionador Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524190019"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Isopropyl Myristate, Stearamidopropyl Dimethylamine, Glycine Soja Oil, Parfum, Niacinamide, Diaminopyrimidine Oxide, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Helianthus Annuus Seed Oil, Salicylic Acid, Limonene, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Caprylyl Glycol, Tartaric Acid, Cetyl Esters, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Growth Booster CHAMPÚ ANTICAÍDA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524196530"
+     ],
+     "inci": "Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Laureth-5 Carboxylic Acid, Parfum, Sodium Chloride, Niacinamide, Diaminopyrimidine Oxide, Sodium Hydroxide, Sodium Benzoate, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-67, Limonene, Benzoic Acid, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Propylene Glycol, Caprylyl, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Growth Booster Sérum Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524189945"
+     ],
+     "inci": "Alcohol Denat., Niacinamide, Propylene Glycol, Diaminopyrimidine Oxide, Lactic Acid, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanol, Limonene, Zingiber Officinale Root Extract, Benzyl Alcohol, Linalool, Acrylates/Beheneth-25 Methacrylate Copolymer, Piroctone Olamine, Citral, Citronellol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Haute Couleur Bronce",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524232948",
+      "3600524232894",
+      "3600524232924",
+      "3600524238698",
+      "3600524232863",
+      "3600524238681",
+      "3600524232887",
+      "3600524232870"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Sclerocarya Birrea Seed Oil, Canola Oil, Candelilla Cera, Synthetic Fluorphlogopite, Glyceryl Caprylate, Copernicia Cerifera Cera, Silica, Tocopherol, Kaolin, Ascorbyl Palmitate, Tin Oxide, Citric Acid"
+    },
+    {
+     "nombre": "Healthy looking gel hidratante con Vitamina C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524252953"
+     ],
+     "inci": "Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, CI 15510, CI 17200, CI 19140, CI 61570, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Hidra Hialurónico Acondicionador 72H de Hidratación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524029661"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, CI 17200, CI 42090, Lactic Acid, Sodium Laureth Sulfate, Sodium Hydroxide, Sodium Hyaluronate, Phenoxyethanol, Limonene, Amodimethicone, Isopropyl Alcohol, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Hidra Hialurónico Mascarilla 72H de Hidratación Intensiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030797"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 60730, Lactic Acid, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Parfum"
+    },
+    {
+     "nombre": "Hidra Hialurónico Recarga Ecopack : Hidratación Intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524197315"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, CI 60730, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
+    },
+    {
+     "nombre": "Hidra Hialurónico Serum hidratante de noche con Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524105549"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Cetyl Esters, Sodium Benzoate, Sodium Hyaluronate, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Limonene, Isopropyl Alcohol, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Hidra Hialurónico Sérum Rellenador 2% Complejo Hialurónico hidratante, 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030872"
+     ],
+     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hyaluronate, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Sorbitan Oleate, Citric Acid, Coumarin, Glycine Soja Oil, Parfum"
+    },
+    {
+     "nombre": "Hyaluron Tint Tinta y Sérum Labial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524242800",
+      "3600524242831",
+      "3600524242817",
+      "3600524242787",
+      "3600524242794",
+      "3600524242763"
+     ],
+     "inci": "Water, Glycerin, Hydrogenated Polydecene, Diisopropyl Dimer Dilinoleate, Polybutene, Polyglyceryl-2 Triisostearate, Bis-Behenyl, Pentaerythrityl Tetraisostearate, Jojoba Wax PEG-120 Esters, Pentylene Glycol, Phenoxyethanol, Aminomethyl Propanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Citric Acid, PEG-30 Glyceryl Stearate, Hydroxyacetophenone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Potassium Sorbate, Aroma, Sodium Hyaluronate, Vanilla Planifolia Fruit Extract, Sorbitan Isostearate, Polysorbate 60, Vanillin, Tocopherol, CI 17200, CI 16035, CI 15985, CI 61570, CI 19140, CI 42090, CI 45410"
+    },
+    {
+     "nombre": "Hydra Energetic Roll-on 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524143145"
+     ],
+     "inci": "Water, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Parfum, Perlite, Menthol, C12-20 Alkyl Glucoside, Glycerin, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Coumarin, Limonene, Iodopropynyl Butylcarbamate"
+    },
+    {
+     "nombre": "Hydra Energetic Spray 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524143206"
+     ],
+     "inci": "Isobutane, Aqua, Dimethicone, Aluminum Chlorohydrate, Parfum, Menthol, Glycerin, Tocopherol, Dimethiconol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Coumarin, Limonene, Phenoxyethanol"
+    },
+    {
+     "nombre": "Infaillible Brows 24H Lápiz de Cejas Rellenador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524054663",
+      "3600524054656",
+      "3600524054618",
+      "3600524054601"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Synthetic Wax, Phenylpropyldimethylsiloxysilicate, Dicalcium Phosphate, Polyethylene, Caprylic/Capric Triglyceride, Polyhydroxystearic Acid, Caprylyl Methicone, Silica, Disteardimonium"
+    },
+    {
+     "nombre": "Infaillible Brows 24h Máscara de Cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523755257",
+      "3600523755288",
+      "3600523755271"
+     ],
+     "inci": "Water, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Butylene Glycol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Perlite, Isohexadecane, Propylene Glycol, Phenoxyethanol, Caprylyl Glycol, Ammonium Polyacryloyldimethyl Taurate, Rayon, Polysorbate 80, Nylon-12, Steareth-20, Sodium Laureth Sulfate, Sorbitan Oleate, Sodium Dehydroacetate, Disodium EDTA, Panthenol, Tetrasodium EDTA, Potassium Sorbate"
+    },
+    {
+     "nombre": "Infaillible Spray Fijador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524104726"
+     ],
+     "inci": "Water, Va/Crotonates/Vinyl Neodecanoate Copolymer, Aminomethyl Propanol, Triethyl Citrate, Benzyl Salicylate, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Citronellol, Hexyl Cinnamal, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Infalible Haute Precision (Burdeos Cashmere, Brun Leather, Azul)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524050863",
+      "3600524238674",
+      "3600524050856"
+     ],
+     "inci": "Sodium Benzoate, Caprylyl Glycol, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Dehydroacetate"
+    },
+    {
+     "nombre": "Infalible Haute Precision (Noir Silk)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524238667"
+     ],
+     "inci": "Alcohol Denat., Acrylates Copolymer, Poloxamer 407, Coco-Glucoside, Phenoxyethanol, PEG-12 Dimethicone, Caprylyl Glycol, Sodium Dehydroacetate, Xanthan Gum, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Iodopropynyl Butylcarbamate, BHT, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Infallible 12H Definer Lápiz de Cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522203094",
+      "3600522203100"
+     ],
+     "inci": "Hydrogenated Vegetable Oil, Ozokerite, Copernicia Cerifera Cera, Ricinus Communis Oil, Sorbitan Tristearate, Tocopherol, Ascorbyl Palmitate, Lecithin, Glyceryl Stearate, Glyceryl Oleate, Citric Acid, CI 77491, CI 77492, CI 77499, Mica, CI 77891"
+    },
+    {
+     "nombre": "Infallible Grip Gel Automatic Eyeliner (Blue Jersey 05, Brown Denim 04, Emerald Green 08, Intense Black 01)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524026677",
+      "3600524026660",
+      "3600524026707",
+      "3600524026639"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Synthetic Fluorphlogopite, Silica, Ozokerite, Cellulose, Polyisobutene, Alumina, Kaolin, Disteardimonium Hectorite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide, Propylene Carbonate, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Maltodextrin"
+    },
+    {
+     "nombre": "Infallible Grip Gel Automatic Eyeliner (Champagne)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524167219"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates, Synthetic Fluorphlogopite, Silica, Ozokerite, Cellulose, Polyisobutene, Alumina, Kaolin, Disteardimonium Hectorite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide, Propylene Carbonate, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Maltodextrin"
+    },
+    {
+     "nombre": "Infallible Grip Gel Automatic Eyeliner (Opalescent 11, Polar White 09)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524104856",
+      "3600524104832"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Synthetic Fluorphlogopite, Ozokerite, Silica, Cellulose, Polyisobutene, Disteardimonium Hectorite, Kaolin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Carbonate, Tin Oxide, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Calcium Sodium Borosilicate, Maltodextrin, Aluminum Hydroxide, Magnesium Stearate, CI 77891, CI 77491, CI 77492, CI 77499, CI 77007, CI 77742, CI 19140, CI 77510, CI 77266 [Nano], CI 75470, CI 77510, CI 42090, Mica"
+    },
+    {
+     "nombre": "Infallible Signature Vynil Eyeliner Líquido",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30152526"
+     ],
+     "inci": "Dimethicone, Citric Acid, Simethicone, Bentonite, Xanthan Gum, Sorbitan Laurate, Sorbitan Palmitate, Hydrogenated Palm Glycerides, Sorbitan Trioleate, Sucrose Palmitate, TOCOPHEROL Value2: AQUA, Ammonium Acrylates Copolymer, Butylene Glycol, 1,2-Hexanediol, Beheneth-30, Phenoxyethanol, Hydroxyacetophenone, Caprylyl Glycol, Titanium, Aminomethyl Propanol, Polyglyceryl-3 Disiloxane Dimethicone, Citric Acid, Simethicone, Bentonite, Xanthan Gum, Sorbitan Laurate, Sorbitan Palmitate, Hydrogenated Palm Glycerides, Sorbitan Trioleate, Sucrose Palmitate, TOCOPHEROL Value3: AQUA, Ammonium Acrylates Copolymer, Butylene Glycol, 1,2-Hexanediol, Beheneth-30, Phenoxyethanol, Hydroxyacetophenone, Caprylyl Glycol, Titanium, Aminomethyl Propanol, Polyglyceryl-3 Disiloxane Dimethicone, Citric Acid, Simethicone, Bentonite, Xanthan Gum, Sorbitan Laurate, Sorbitan Palmitate, Hydrogenated Palm Glycerides, Sorbitan Trioleate, Sucrose Palmitate, Tocopherol"
+    },
+    {
+     "nombre": "Invisi Fix Fijacion Extra Fuerte",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601036208382"
+     ],
+     "inci": "Aqua, Propylene Glycol, VP/Acrylates/Lauryl Methacrylate Copolymer, Sorbitol, PEG-40 Hydrogenated Castor Oil, Magnesium Gluconate, Triethanolamine, Chlorphenesin, Calcium Gluconate, Ammonium Polyacryldimethyltauramide, Limonene, Pentasodium Pentetate, Benzyl Salicylate, Benzyl Alcohol, Linalool, Methylparaben, Butylphenyl Methylpropional, Parfum"
+    },
+    {
+     "nombre": "Invisi Fix Gel Fijacion Fuerte",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601036206036"
+     ],
+     "inci": "Aqua, Propylene Glycol, Sorbitol, Ammonium Polyacryldimethyltauramide, VP/Acrylates/Lauryl Methacrylate Copolymer, PEG-40 Hydrogenated Castor Oil, Magnesium Gluconate, Triethanolamine, Chlorphenesin, Calcium Gluconate, Limonene, Pentasodium Pentetate, Benzyl Salicylate, Benzyl Alcohol, Linalool, Methylparaben, Butylphenyl Methylpropional, Parfum"
+    },
+    {
+     "nombre": "Invisi Fix Pasta De Peinado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521617182"
+     ],
+     "inci": "Aqua, Cera Alba, Paraffinum Liquidum, Cetearyl Alcohol, Bis-Diglyceryl Polyacyladipate-2, Tribehenin, Ceteareth-33, Propylene Glycol, PVP, VP/Va Copolymer, VP/Dimethylaminoethylmethacrylate Copolymer, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Magnesium Gluconate, Ethylparaben, Triethanolamine, Calcium Gluconate, Limonene, Benzoic Acid, Linalool, Benzyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methylparaben, Butylphenyl Methylpropional, Citronellol, Citral, Hexyl Cinnamal, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Labial Hidratante Acabado Mate Difuminado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524241780",
+      "3600524241803",
+      "3600524241797",
+      "3600524241865",
+      "3600524241766"
+     ],
+     "inci": "Dimethicone, Hydrogenated Polyisobutene, Polyethylene, Octyldodecyl Neopentanoate, Silica, Sucrose Acetate Isobutyrate, Trimethylsiloxysilicate, Stearyl Heptanoate, Dimethicone Crosspolymer, Dimethicone/Vinyltrimethylsiloxysilicate Crosspolymer, Stearyl Caprylate, Kaolin, Lauroyl Lysine, Synthetic Fluorphlogopite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Paraffin, Silica Silylate, Tocopheryl Acetate, Cera Microcristallina, Synthetic Wax, Aluminum Hydroxide, Citronellol, Geraniol, Carvone, Geranyl Acetate, Limonene, Linalyl Acetate, Pelargonium Graveolens Flower Oil, Hydroxycitronellal, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Tocopherol, Sodium Acetylated Hyaluronate, Parfum, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 15985, CI 19140, CI 42090, CI 45380, CI 45410"
+    },
+    {
+     "nombre": "Labial Infalible 24H (110 Timeless Rose, 803 Eternally Exposed, 806 infinite intimacy)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522336891",
+      "3600524079574",
+      "3600524079505"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Paraffin, Cera Alba, Cera Microcristallina, Synthetic Wax, Tocopheryl Acetate, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Silica, Benzyl Alcohol, SILICA DIMETHYL SILYLATE [Nano], Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum, Mica, CI 77891, CI 77491, CI 75470"
+    },
+    {
+     "nombre": "Labial Infalible 24H (113 Invincible Sable)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522336921"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Ozokerite, Cera Alba, Tocopheryl Acetate, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Benzyl Alcohol, SILICA DIMETHYL SILYLATE [Nano], Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Labial Infalible 24H (114 Ever Nude, 115 Infinitely Mocha, 116 Beige to Stay, 117 Perpuetal Brown, 121 Flawless Fushia, 125 Born to Blush, 214 Raspeberry for Life, 217 Eternal Vamp, 218 Wandering Wildberry)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523600526",
+      "3600523600533",
+      "3600523600540",
+      "3600523600557",
+      "3600522337003",
+      "3600523600564",
+      "3600523188895",
+      "3600523600595",
+      "3600523600571"
+     ],
+     "inci": "Isododecane, Trimethylsiloxysilicate, Nylon-611/Dimethicone Copolymer, Disteardimonium Hectorite, Lauroyl Lysine, Propylene Carbonate, Alumina, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Calcium Sodium Borosilicate, Ethylhexyl Palmitate, Silica, Magnesium Silicate, Aluminum Hydroxide, Tin Oxide, SILICA DIMETHYL SILYLATE [Nano], Paraffin, Polyethylene Terephthalate, Butylene Glycol, Benzyl Alcohol, Caprylyl Glycol, Phenoxyethanol, Acrylates Copolymer, Sodium Hyaluronate, Hexylene Glycol, Parfum, Mica, CI 77891, CI 45410, CI 77491, CI 77492, CI 77499, CI 15850, CI 15985, CI 45380, CI 19140, CI 42090, CI 15850, CI 75470, CI 15850"
+    },
+    {
+     "nombre": "Labial Infalible 24H (209 Violet Parfait, 109 Blossoming Berry)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522337034",
+      "3600522336884"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Ozokerite, Cera Alba, Tocopheryl Acetate, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Benzyl Alcohol, Silica Dimethyl Silylate, Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Labial Infalible 24H (213 Toujours Teaberry)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522337072"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Ozokerite, Cera Alba, Tocopheryl Acetate, Pentaerythrityl Tetraisostearate, Benzyl Alcohol, Silica Dimethyl Silylate, Sodium Chondroitin Sulfate, Atelocollagen, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Labial Infalible 24H (312 Incessant Russet, 506 Red Infallible)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522337119",
+      "3600522337188"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Paraffin, Cera Alba, Cera Microcristallina, Synthetic Wax, Tocopheryl Acetate, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Silica, Benzyl Alcohol, Silica Dimethyl Silylate, Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum, Mica, CI 77891, CI 77491, CI 75470"
+    },
+    {
+     "nombre": "Labial Infalible 24H (404 Corail Constant)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522337133"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Paraffin, Cera Alba, Cera Microcristallina, Synthetic Wax, Tocopheryl Acetate, CI 77491, Mica, CI 77891, Silica, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Benzyl Alcohol, CI 75470, SILICA DIMETHYL SILYLATE [Nano], Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Labial Infalible 24H (507 Relentless Rouge, 700 Boundless Burgundy)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522337195",
+      "3600522634027"
+     ],
+     "inci": "Trimethyl Pentaphenyl Trisiloxane, Bis-Diglyceryl Polyacyladipate-2, Paraffin, Cera Alba, Cera Microcristallina, Synthetic Wax, Tocopheryl Acetate, CI 77491, Mica, CI 77891, Silica, Ethylhexyl Palmitate, Pentaerythrityl Tetraisostearate, Benzyl Alcohol, CI 75470, Silica Dimethyl Silylate, Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Sodium Chondroitin Sulfate, Atelocollagen, Hexylene Glycol, Sodium Hyaluronate, Parfum"
+    },
+    {
+     "nombre": "Laca Fijacion Extra Fuerte Volumen Efecto Cardado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521580813"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, ACRYLATES/t-BUTYLACRYLAMIDE COPOLYMER, Aqua, Hydroxycitronellal, PEG/PPG-4/12 Dimethicone, Magnesium Acetate, Arginine, Aminomethyl Propanol, Limonene, Linalool, Benzyl Alcohol, Benzyl Benzoate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Alpha-Isomethyl Ionone, Geraniol, Serine, Citronellol, Coumarin, Glutamic Acid, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Laca Fijacion Fuerte Cabellos Tenidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411300045004"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Va/Crotonates/Vinyl Neodecanoate Copolymer, Tocopherol, Hydroxycitronellal, PEG/PPG-4/12 Dimethicone, Ethylhexyl Methoxycinnamate, Aminomethyl Propanol, Limonene, Linalool, Benzyl Alcohol, Benzyl Benzoate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Alpha-Isomethyl Ionone, Geraniol, Citronellol, BHT, Coumarin, Glycine Soja Oil, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Laca Fijacion Fuerte Pelo Normal 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411300625015"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Va/Crotonates/Vinyl Neodecanoate Copolymer, Hydroxycitronellal, PEG/PPG-4/12 Dimethicone, Aminomethyl Propanol, Limonene, Linalool, Benzyl Alcohol, Benzyl Benzoate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Coumarin, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Laque Resistance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524259730",
+      "3600524196875",
+      "3600524196868",
+      "3600524196806",
+      "3600524196776",
+      "3600524196851",
+      "3600524259761",
+      "3600524196813",
+      "3600524196820",
+      "3600524196844",
+      "3600524259747",
+      "3600524196837",
+      "3600524196783"
+     ],
+     "inci": "Isododecane, Dimethicone, Trimethylsiloxysilicate, Polymethylsilsesquioxane, Polypropylsilsesquioxane, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Trimethylsiloxyphenyl Dimethicone, Trimethyl Pentaphenyl Trisiloxane, Bis-Stearyl Dimethicone, Dimethiconol, Squalane, Trihydroxystearin, Phenoxyethanol, Ethylhexylglycerin, Triethoxycaprylylsilane, Alumina, Silica, Kaolin, Tocopherol, Parfum, CI 77491, CI 77492, CI 77499, CI 77891, CI 15850, CI 45410, CI 15850, CI 42090, CI 19140, CI 15985, CI 17200, CI 45380, CI 77742"
+    },
+    {
+     "nombre": "Laser Borrador de bolsas instántaneo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524186388"
+     ],
+     "inci": "Isododecane, Aqua, Acrylates/Isobornyl Acrylate Copolymer, Dimethicone Crosspolymer, Silica Silylate, Alcohol Denat., Polyhydroxystearic Acid, Dimethicone, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Hydrogenated Styrene/Butadiene Copolymer, Phenoxyethanol, Sodium Acrylates Crosspolymer-2, Caprylyl Glycol, PEG/PPG-18/18 Dimethicone, Magnesium Sulfate, Silica, Tocopherol, Tris-BHT Mesitylene"
+    },
+    {
+     "nombre": "Laser Contorno de Ojos Anti-Edad - Con Pro-xylane -15ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523436095"
+     ],
+     "inci": "Aqua, Dimethicone, Glycerin, Silica, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Prunus Armeniaca Kernel Oil, Triethanolamine, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Caffeine, Isohexadecane, Adenosine, Disodium EDTA, Propylene Glycol, Hydrolyzed Hyaluronic Acid, Hydroxyethylpiperazine Ethane Sulfonic Acid, Hydroxypropyl Tetrahydropyrantriol, Polysorbate 80, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Phenoxyethanol, Chlorphenesin, CI 77891, Titanium Oxide, Mica"
+    },
+    {
+     "nombre": "Laser Crema Antiarrugas con SPF 25",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523456222"
+     ],
+     "inci": "Water, Ethylhexyl Salicylate, Niacinamide, Hydroxypropyl Tetrahydropyrantriol, Glycerin, Dimethicone, Propylene Glycol, C12-15 Alkyl Benzoate, Alcohol Denat., Octocrylene, Butyl Methoxydibenzoylmethane, Octyldodecanol, Isopropyl Isostearate, Triethanolamine, Behenyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Ammonium Polyacryloyldimethyl Taurate, Hydrolyzed Soy Protein, Capryloyl Salicylic Acid, Disodium EDTA, Faex Extract, Cetyl Alcohol, Alumina, Ammonium Acryloyldimethyltaurate/Steareth-25 Methacrylate Crosspolymer, Caprylyl Glycol, Carbomer, Cetearyl Alcohol, Cetearyl Glucoside, Disodium Stearoyl Glutamate, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Pentylene Glycol, Ptfe, Stearic Acid, TITANIUM DIOXIDE [Nano], Dimethiconol, Benzyl Alcohol, Citronellol, Isoeugenol, Limonene, Linalool, CI 14700, CI 19140, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Laser Crema de Día Correctora Anti-Edad 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522248958"
+     ],
+     "inci": "Water, Glycerin, Isohexadecane, Hydroxypropyl Tetrahydropyrantriol, Dimethicone, Aluminum Starch Octenylsuccinate, Isopropyl Isostearate, Propylene Glycol, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, Ammonium Polyacryloyldimethyl Taurate, Acetyl Dipeptide-1 Cetyl Ester, Adenosine, Capryloyl Salicylic Acid, Lauroyl Lysine, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hyaluronate, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Retinyl Palmitate, Boron Nitride, Butylene Glycol, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, C13-14 Isoalkane, Disodium Stearoyl Glutamate, Hydroxyethylcellulose, Laureth-7, Myristic Acid, Oxidized Starch Acetate, Palmitic Acid, PEG-100 Stearate, Poloxamer 338, Polyacrylamide, Sorbitan Laurate, Stearic Acid, Tocopherol, Benzyl Alcohol, Citronellol, Isoeugenol, Limonene, Linalool, CI 15985, CI 19140, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Laser Crema de Noche antiedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522480174"
+     ],
+     "inci": "Water, Dimethicone, Simmondsia Chinensis Seed Oil, Hydrogenated Castor Oil Dimer Dilinoleate, Alcohol Denat., Hydroxypropyl Tetrahydropyrantriol, Glycerin, Caprylic/Capric Triglyceride, Propanediol, Propylene Glycol, Cetyl Alcohol, Cetyl Hydroxyethylcellulose, Centella Asiatica Extract, Hydrolyzed Rice Protein, Capryloyl Salicylic Acid, Disodium EDTA, Sodium Hyaluronate, Sodium Hydroxide, SILICA [Nano], Caprylyl Glycol, Hydrated Silica, Pentylene Glycol, Polysorbate 60, Silica Dimethyl Silylate, Xanthan Gum, Benzyl Alcohol, Citronellol, Isoeugenol, Limonene, Linalool, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Laser Exfoliante Limpiador en Sérum con 3,5% de Ácido Glicolico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524223151"
+     ],
+     "inci": "Water, Coco-Betaine, Propylene Glycol, PEG-120 Methyl Glucose Dioleate, Sorbitol, Glycerin, Glycolic Acid, Triethanolamine, Sodium Laureth Sulfate, Sodium Chloride, Disteareth-100 Ipdi, Parfum, Salicylic Acid, Capryloyl Salicylic Acid, Menthol, Aloe Barbadensis Leaf Juice, Disodium EDTA, Linalool, Steareth-100, Citronellol, Benzyl Alcohol, Limonene, Citric Acid, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Laser Pressed Cream Noche con Retinol + Niacinamida Formato Monodosis, 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524025687"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Niacinamide, Isononyl Isononanoate, Glycine Soja Oil, Aluminum Starch Octenylsuccinate, Caprylic/Capric Triglyceride, Acetyl Dipeptide-1 Cetyl Ester, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Panthenol, Retinol, Retinyl Palmitate, Acrylates/Beheneth-25 Methacrylate Copolymer, Hydroxyethylcellulose, Polyglyceryl-3 Methylglucose Distearate, Sodium Polyacrylate, Sorbitan Laurate, Tocopherol, Dimethicone, Benzyl Alcohol, Citronellol, Limonene, Linalool, Caprylyl Glycol, Chlorphenesin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Laser Revitalift Sérum Triple Laser con Melasyl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524254308"
+     ],
+     "inci": "Water, Glycerin, C15-19 Alkane, Niacinamide, Zea Mays Starch, Alcohol Denat., Hydroxyethylpiperazine Ethane Sulfonic Acid, Isopropyl Isostearate, Oxidized Starch Acetate, Octyldodecanol Cetyl Alcohol, Behenyl Alcohol, Dimethicone, 2-Mercaptonicotinoyl Glycine, Ascorbyl Glucoside, Dipotassium Glycyrrhizate, Capryloyl Salicylic Acid, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Potassium Hydroxide, Sodium Polyacrylate, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Sodium Thiosulfate, Stearic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, CI 14700, CI 17200, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Laser Sérum antiedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522249559"
+     ],
+     "inci": "Aqua, Dipropylene Glycol, Dimethicone, Glycerin, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, C12-15 Alkyl Benzoate, Alcohol Denat., Dimethicone/Vinyl Dimethicone Crosspolymer, 2-Oleamido-1,3-Octadecadeniol, Capryloyl Salicylic Acid, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Potassium Hydroxide, Sodium Chloride, Tocopheryl Acetate, Cetyl Alcohol, Octyldodecanol, Silica, Carbomer, CI 77891, Hydroxyethylcellulose, Mica, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Potassium Cetyl, Phosphate, Stearic Acid, Tin Oxide, Xanthan Gum, Benzyl Alcohol, Citronellol, Limonene, Linalool, CI 15985/Yellow 6, CI 19140, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Lash Paradise Máscara de Pestañas (Blanco)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523503384"
+     ],
+     "inci": "Aqua, Polybutene, Paraffin, Potassium Cetyl Phosphate, Cera Alba, Copernicia Cerifera Cera, Steareth-2, Cetyl Alcohol, Alcohol Denat., Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Panthenol, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Caprylyl Glycol, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, 2-Oleamido-1,3-Octadecanediol, Disodium EDTA, BHT, Rosa Canina Fruit Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol, Propyl Gallate, Citric Acid"
+    },
+    {
+     "nombre": "Lash Paradise Máscara de Pestañas (Extra Black)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523897308"
+     ],
+     "inci": "Water, Paraffin, Potassium Cetyl Phosphate, Copernicia Cerifera Cera, Ethylene/Acrylic Acid Copolymer, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Synthetic Beeswax, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Steareth-20, Glyceryl Dibehenate, Steareth-2, Synthetic Fluorphlogopite, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Parfum, Silica, Disodium EDTA, Butylene Glycol, Rosa Canina Fruit Oil, Magnesium Silicate, Sodium Laureth Sulfate, Tetrasodium EDTA, Ricinus Communis Seed Oil, Maltodextrin, Potassium Sorbate, Tin Oxide, BHT, Propylene Glycol, Centaurea Cyanus Flower Extract, Propyl Gallate, Citric Acid"
+    },
+    {
+     "nombre": "Lash Paradise Máscara de Pestañas (Forever Noir)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30161443"
+     ],
+     "inci": "Pigmentos Ultra Negros Aqua, Paraffin, Potassium Cetyl Phosphate, Copernicia Cerifera Cera, Ethylene/Acrylic Acid Copolymer, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Synthetic Beeswax, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Steareth-20, Glyceryl Dibehenate, Steareth-2, Synthetic Fluorphlogopite, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Parfum, Silica, Disodium EDTA, Butylene Glycol, Rosa Canina Fruit Oil, Magnesium Silicate, Sodium Laureth Sulfate, Tetrasodium EDTA, Ricinus Communis Seed Oil, Maltodextrin, Potassium Sorbate, Tin Oxide, BHT, Propylene Glycol, Centaurea Cyanus Flower Extract, Propyl Gallate, Citric Acid, CI 77499, CI 77007, Mica, CI 77891"
+    },
+    {
+     "nombre": "Lash Paradise Máscara de Pestañas (Waterproof)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523591831"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Talc, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG, 30 Glyceryl Stearate, Candelilla Cera, Ricinus Communis Seed Oil, Panthenol, Maltodextrin, Pentaerythrityl Tetra, Di, T, Butyl Hydroxyhydrocinnamate, BHT, Centaurea Cyanus Flower Extract +/, May Contain CI 77499"
+    },
+    {
+     "nombre": "Le Shadow Stick (100 Ice Sparkle, 105 Mesmerizing Gold, 115 Twinkle Rose, 120 Magnetic Mauve, 150 Captivating Sepia, 230 Magnetic Bronze, 240 Brown Abyss, 245 Alluring rose, 420 Brown Bliss, 430 Metallic Bronze, 440 Foil Copper, 118 Rose)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524144609",
+      "3600524144593",
+      "3600524144616",
+      "3600524144630",
+      "3600524144647",
+      "3600524144661",
+      "3600524145910",
+      "3600524145927",
+      "3600524145934",
+      "3600524144654",
+      "3600524145941",
+      "3600524144623"
+     ],
+     "inci": "Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Sorbitan Stearate, Calcium Sodium Borosilicate, SILICA SILYLATE [Nano], Phenoxyethanol, Silica, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, Polysorbate 60"
+    },
+    {
+     "nombre": "Le Shadow Stick (290 Midnight Noir, 125 Starry Bordeaux)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524247133",
+      "3600524247171"
+     ],
+     "inci": "Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Sorbitan Stearate, Calcium Sodium Borosilicate, SILICA SILYLATE [Nano], Phenoxyethanol, Silica, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value2: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Sorbitan Stearate, Calcium Sodium Borosilicate, Silica Silylate, Phenoxyethanol, Silica, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value3: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Sorbitan Stearate, Calcium Sodium Borosilicate, Silica Silylate, Phenoxyethanol, Silica, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value4: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Sorbitan Stearate, Calcium Sodium Borosilicate, SILICA SILYLATE [Nano], Phenoxyethanol, Silica, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value5: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Calcium Sodium Borosilicate, Sorbitan Stearate, SILICA SILYLATE [Nano], Phenoxyethanol, Silica, Calcium Aluminum Borosilicate, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value6: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Calcium Sodium Borosilicate, Sorbitan Stearate, Silica Silylate, Phenoxyethanol, Silica, Calcium Aluminum Borosilicate, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value7: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Calcium Sodium Borosilicate, Sorbitan Stearate, Silica Silylate, Phenoxyethanol, Silica, Calcium Aluminum Borosilicate, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, POLYSORBATE 60 Value8: AQUA, Butylene Glycol, Synthetic Fluorphlogopite, Sodium Stearate, Sorbitan Isostearate, Glycerin, Dimethicone, Calcium Sodium Borosilicate, Sorbitan Stearate, SILICA SILYLATE [Nano], Phenoxyethanol, Silica, Calcium Aluminum Borosilicate, Hydroxyethylcellulose, Sodium Hydroxide, Citric Acid, Tin Oxide, Sodium Phosphate, Disodium Phosphate, Polysorbate 60"
+    },
+    {
+     "nombre": "Lip Liner Color Riche Couture - Perfilador de Labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523827770",
+      "3600524189648",
+      "3600523827831",
+      "3600523827732",
+      "3600523827824",
+      "3600524189600",
+      "3600524189624",
+      "3600522860822",
+      "3600522860785",
+      "3600522860747"
+     ],
+     "inci": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Calcium Sodium Borosilicate, Hydrogenated Polyisobutene, Rhus Succedanea Fruit Cera, C20-24 Alkyl Dimethicone, Boron Nitride, Disteardimonium Hectorite, Parfum, Synthetic Wax, Tocopherol, Propylene Carbonate, Sorbitan Tristearate, Dipalmitoyl Hydroxyproline, Geraniol, Benzyl Alcohol, Hexyl Cinnamal, Hydroxycitronellal, Kaolin, Methyl 2-Octynoate, Mica, CI 77891, CI 15850, CI 77491, CI 77492, CI 77499, CI 15850, CI 45380, CI 15985, CI 19140, CI 77742, CI 45410, CI 42090"
+    },
+    {
+     "nombre": "Lumi Colorete Luminoso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30189805",
+      "30188501",
+      "30188525",
+      "30188532",
+      "30188563",
+      "30188556"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Butylene Glycol, Alcohol, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cetyl PEG/PPG-10/1 Dimethicone, Trimethyl Pentaphenyl Trisiloxane, Synthetic Fluorphlogopite, Disteardimonium Hectorite, Polyglyceryl-4 Isostearate, Magnesium Sulfate, Phenoxyethanol, Propylene Carbonate, PEG/PPG-18/18 Dimethicone, Silica, Tin Oxide, Calcium Aluminum Borosilicate, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, Mica, CI 77891, CI 77491, CI 77499, CI 15850, CI 15985, CI 19140, CI 77510"
+    },
+    {
+     "nombre": "Lumi Glotion Le Glow Stick (Glassy Pearl Eclat)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524192556"
+     ],
+     "inci": "Polybutene, Synthetic Wax, Dimer Dilinoleyl Dimer Dilinoleate, Copernicia Cerifera Cera, Polyethylene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Dicalcium Phosphate, Tin Oxide, Maltodextrin, Calcium Aluminum Borosilicate, Calcium Titanium Borosilicate, Alumina, Calcium Sodium Borosilicate, Synthetic Fluorphlogopite, Silica"
+    },
+    {
+     "nombre": "Lumi Glotion Le Glow Stick (Le Glow Stick Glassy P, Glowy Cream Chic, Le Glow Stick Glowy Go)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524192570",
+      "3600524192594",
+      "3600524192600"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Isostearyl Neopentanoate, Polyethylene, Simmondsia Chinensis Seed Oil, Kaolin, Synthetic Beeswax, Synthetic Wax, Dicalcium Phosphate, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, Polyhydroxystearic Acid, Propylene Carbonate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide"
+    },
+    {
+     "nombre": "L’Oreal Paris x Mugler Matte",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524234645",
+      "3600524234652",
+      "3600524234669",
+      "3600524234676"
+     ],
+     "inci": "Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Phenyl Trimethicone, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Hydrogenated Jojoba Oil, Dimethicone Crosspolymer, Isostearyl Isostearate, Kaolin, Paraffin, Isohexadecane, Nylon-12, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Cera Microcristallina, Polyethylene, Synthetic Wax, Argania Spinosa Kernel Oil, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Ethylhexyl Palmitate, Alumina, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Perlite, Citronellol, Trihydroxystearin, Carvone, Limonene, Geraniol, Linalyl Acetate, Pelargonium Graveolens Flower Oil, Geranyl Acetate, Citrus Aurantium Peel Oil, Benzyl Alcohol, Sodium Hyaluronate, Calcium Sodium Borosilicate, Dimethyl Phenethyl Acetate, Citrus Limon Peel Oil, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Tocopherol, Magnesium Silicate, Silica, Tin Oxide, Glucomannan, Parfum, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 15850, CI 45410, CI 15985, CI 45380, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Magic BB Cream SPF (04 Medio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523723478"
+     ],
+     "inci": "Water, Isododecane, Cyclopentasiloxane, Glycerin, Cyclohexasiloxane, PEG-10 Dimethicone, Methyl Methacrylate Crosspolymer, Butylene Glycol, Dimethicone, Isoeicosane, Disteardimonium Hectorite, Phenoxyethanol, Acrylates/Ammonium Methacrylate Copolymer, Cetyl PEG/PPG-10/1 Dimethicone, Boron Nitride, Sodium Chloride, Polyglyceryl-4 Isostearate, Hexyl Laurate, Isostearyl Neopentanoate, Caprylyl Glycol, Methylparaben, Parfum, Triethyl Citrate, Aluminum Hydroxide, Tocopherol, Panthenol, Perfluorooctyl Triethoxysilane, Limonene, Ficus Carica Fruit, Xanthan Gum, Potassium Sorbate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Magic BB Cream SPF (Very Light, Light, Medium Dark, 03 Medio Claro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523723461",
+      "3600523723522",
+      "3600523723508",
+      "3600523723560"
+     ],
+     "inci": "Aqua, Isododecane, Cyclopentasiloxane, Glycerin, Cyclohexasiloxane, PEG-10 Dimethicone, Methyl Methacrylate Crosspolymer, Butylene Glycol, Dimethicone, Isoeicosane, Disteardimonium Hectorite, Phenoxyethanol, Acrylates/Ammonium Methacrylate Copolymer, Cetyl PEG/PPG-10/1 Dimethicone, Boron Nitride, Sodium Chloride, Polyglyceryl-4 Isostearate, Hexyl Laurate, Isostearyl Neopentanoate, Caprylyl Glycol, Methylparaben, Parfum, Triethyl Citrate, Aluminum Hydroxide, Tocopherol, Panthenol, Perfluorooctyl Triethoxysilane, Limonene, Ficus Carica Fruit, Xanthan Gum, Potassium Sorbate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Mascara de Pestanas Architecte (Negro Waterproof)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522011125"
+     ],
+     "inci": "Isododecane, Allyl Stearate/Va Copolymer, Aqua, Paraffin, Cera Alba, Disteardimonium Hectorite, Copernicia Cerifera Cera, Alcohol Denat., Oryza Sativa Cera, Propylene Carbonate, Talc, Hydrogenated Jojoba Oil, Polyglyceryl-4 Isostearate, Polyvinyl Laurate, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Candelilla Cera, 2-Oleamido-1,3-Octadecanediol, Hydroxyethylcellulose, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Ethylene/Va Copolymer, Acrylates Copolymer, Polyvinyl Alcohol, Nylon-6, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Dehydroacetate, BHT, Laureth-21, Silica, Triethoxycaprylylsilane, CI 77499"
+    },
+    {
+     "nombre": "Mascara de Pestanas Architecte (Negro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522036586"
+     ],
+     "inci": "Aqua, Paraffin, Potassium Cetyl Phosphate, Acrylates Copolymer, Cera Alba, Copernicia Cerifera Cera, Steareth-2, Cetyl Alcohol, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Ethylene/Va Copolymer, Methylparaben, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Disodium EDTA, Ethylparaben, Rayon, Nylon-6,2-Oleamido-1,3-Octadecanediol, Panthenol, Polyvinyl Alcohol, Oryza Sativa Cera, Laureth-21, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, BHT, Triethoxycaprylylsilane, CI 77491, CI 77492, CI 77499, Mica, CI 75470, CI 77007, CI 77891, CI 77510"
+    },
+    {
+     "nombre": "Mascara de pestanas volumen definido so couture Negro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522616252"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Cera Alba, Synthetic Fluorphlogopite, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Copernicia Cerifera Cera, Stearic Acid, Glyceryl Stearate, Palmitic Acid, Ethylene/Va Copolymer, Caprylyl Glycol, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Glycerin, Hydroxyethylcellulose, Butylene Glycol, Parfum, Argania Spinosa Kernel Oil, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Laureth Sulfate, Disodium EDTA, Myristic Acid, Arginine, Serica Powder, 2-Oleamido-1,3-Octadecanediol, Camellia Oleifera Seed Oil, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Sorbate, Silica, Nelumbo Nucifera Flower Extract, Tocopherol, CI 77491, CI 77492, CI 77499, Mica, CI 75470, CI 77007, CI 77891, CI 77510"
+    },
+    {
+     "nombre": "Mascara volumen intenso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524241889"
+     ],
+     "inci": "Water, Acrylates Copolymer, Oryza Sativa Cera, Propylene Glycol, Cera Alba, Pentylene Glycol, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Aminomethyl Propanediol, Glycerin, Hydroxyethylcellulose, Caprylyl Glycol, Sodium Dehydroacetate, Xanthan Gum, Myristic Acid, CI 77499"
+    },
+    {
+     "nombre": "Matte Signature Liner Líquido (Azul)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30175235"
+     ],
+     "inci": "Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Propylene Glycol, Synthetic Fluorphlogopite, Alcohol Denat., Phenoxyethanol, Silica, Acrylates Copolymer, Caprylyl Glycol, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanediol, Sodium Dehydroacetate, Sodium Laureth Sulfate, Magnesium Silicate, Tetrasodium EDTA, Disodium EDTA, Potassium Sorbate, Tin Oxide, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007, CI 75470, Mica"
+    },
+    {
+     "nombre": "Matte Signature Liner Líquido (Marrón, Negro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30175242",
+      "30175228"
+     ],
+     "inci": "Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Propylene Glycol, Synthetic Fluorphlogopite, Alcohol Denat., Silica, Phenoxyethanol, Acrylates Copolymer, Caprylyl Glycol, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Sodium Dehydroacetate, Aminomethyl Propanediol, Sodium Laureth Sulfate, Magnesium Silicate, Tetrasodium EDTA, Disodium EDTA, Potassium Sorbate, Tin Oxide, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007, CI 75470, Mica"
+    },
+    {
+     "nombre": "Matte Signature Liner Líquido (Verde)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30175259"
+     ],
+     "inci": "Water, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Synthetic Fluorphlogopite, Propylene Glycol, Alcohol Denat., Phenoxyethanol, Acrylates Copolymer, Silica, Caprylyl Glycol, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanediol, Sodium Dehydroacetate, Sodium Laureth Sulfate, Magnesium Silicate, Tetrasodium EDTA, Disodium EDTA, Potassium Sorbate, Tin Oxide"
+    },
+    {
+     "nombre": "Men Expert Crema Hidratante Anti-Fatiga 24h con SPF15",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524041724"
+     ],
+     "inci": "Water, Ethylhexyl Salicylate, Niacinamide, Glycerin, Dimethicone, Propylene Glycol, Isopropyl Myristate, C12-15 Alkyl Benzoate, Octyldodecanol, Isopropyl Isostearate, Triethanolamine, Behenyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Ammonium Polyacryloyldimethyl Taurate, Butyl Methoxydibenzoylmethane, Mentha Piperita Extract, Caffeine, Capryloyl Salicylic Acid, Hydroxyacetophenone, Sodium Citrate, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Cetyl Alcohol, Boron Nitride, Alumina, Ammonium Acryloyldimethyltaurate/Steareth-25 Methacrylate Crosspolymer, Caprylyl Glycol, Carbomer, Cetearyl Alcohol, Cetearyl Glucoside, Disodium Stearoyl Glutamate, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Pentylene Glycol, Stearic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, TITANIUM DIOXIDE [Nano], Dimethiconol, Parfum"
+    },
+    {
+     "nombre": "Micro Tatouage lapiz de cejas larga duración",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523939053",
+      "3600523938957",
+      "3600523939008",
+      "3600523939152",
+      "3600523939206"
+     ],
+     "inci": "Water, Alcohol Denat., Styrene/Acrylates/Ammonium Methacrylate Copolymer, Butylene Glycol, Poloxamer 407, Methylpropanediol, Silica, Coco-Glucoside, Phenoxyethanol, Potassium Sorbate, Sodium Laureth-12 Sulfate, Citric Acid, Xanthan Gum, Ammonium Hydroxide, BHT"
+    },
+    {
+     "nombre": "More Than Concealer corrector (323 Fawn, 338 Honey)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30173583",
+      "30173484"
+     ],
+     "inci": "Water, Undecane, Glycerin, Dimethicone, Polyglyceryl-4 Isostearate, Synthetic Fluorphlogopite, Pentylene Glycol, Butylene Glycol, Tridecane, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Polyhydroxystearic Acid, Octyldodecanol, Disteardimonium Hectorite, Disodium Stearoyl Glutamate, Cellulose Gum, Ethylhexylglycerin, Silica Silylate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Parfum, Trihydroxystearin, Aluminum Hydroxide, Acetylated Glycol Stearate, Isobutane, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Benzyl Alcohol, Tocopherol, Citronellol, Helianthus Annuus Seed Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "More Than Concealer corrector (324 Oatmeal, 325 Bisque, 327 Cashmere, 329 Cashew, 330 Pecan, 331 Latte)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30173590",
+      "30173606",
+      "30173620",
+      "30173644",
+      "30173651",
+      "30173415"
+     ],
+     "inci": "Aqua, Undecane, Glycerin, Dimethicone, Polyglyceryl-4 Isostearate, Synthetic Fluorphlogopite, Pentylene Glycol, Butylene Glycol, Tridecane, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Polyhydroxystearic Acid, Octyldodecanol, Disteardimonium Hectorite, Disodium Stearoyl Glutamate, Cellulose Gum, Ethylhexylglycerin, Silica Silylate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Parfum, Trihydroxystearin, Aluminum Hydroxide, Acetylated Glycol Stearate, Isobutane, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Benzyl Alcohol, Tocopherol, Citronellol, Helianthus Annuus Seed Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499, CI 77510"
+    },
+    {
+     "nombre": "More Than Concealer corrector (328 Linen)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30150638"
+     ],
+     "inci": "Water, Undecane, Glycerin, Dimethicone, Polyglyceryl-4 Isostearate, Synthetic Fluorphlogopite, Pentylene Glycol, Butylene Glycol, Tridecane, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Isononyl Isononanoate, Magnesium Sulfate, Polyhydroxystearic Acid, Octyldodecanol, Disteardimonium Hectorite, Disodium Stearoyl Glutamate, Silica Silylate, Cellulose Gum, Ethylhexylglycerin, Phenoxyethanol, Parfum, Trihydroxystearin, Aluminum Hydroxide, Acetylated Glycol Stearate, Hexyl Cinnamal, Benzyl Salicylate, Silica, Linalool, Alpha-Isomethyl Ionone, Benzyl Alcohol, Tocopherol, Citronellol, Helianthus Annuus Seed Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Máscara de pestañas volumen definido Fatale Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523310524"
+     ],
+     "inci": "Water, Paraffin, Potassium Cetyl Phosphate, Copernicia Cerifera Cera, Ethylene/Acrylic Acid Copolymer, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Synthetic Beeswax, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Steareth-20, Glyceryl Dibehenate, Steareth-2, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Disodium EDTA, Butylene Glycol, Sodium Laureth Sulfate, Tetrasodium EDTA, Potassium Sorbate, BHT"
+    },
+    {
+     "nombre": "Máscara de pestañas volumen Extra Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521893500"
+     ],
+     "inci": "Aqua, Paraffin, Potassium Cetyl Phosphate, Acrylates Copolymer, Cera Alba, Copernicia Cerifera Cera, Steareth-2, Cetyl Alcohol, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Laureth-21, Sodium Dehydroacetate, Caprylyl Glycol, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, PEG-40 Hydrogenated Castor Oil, Disodium EDTA, Propylene Glycol, Parfum, Sodium Hyaluronate, 2-Oleamido-1,3-Octadecanediol, Panthenol, Soluble Collagen, Trisodium EDTA, Camellia Oleifera Seed Oil, BHT, Potassium Sorbate, Cycnoches Cooperi Flower, Tocopherol, CI 77266 [Nano]"
+    },
+    {
+     "nombre": "Neceser Hydra Energetic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8445098452959"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Coco-Betaine, Parfum, Citric Acid, Sodium Hydroxide, Taurine, Pentylene Glycol, Benzyl Salicylate, Limonene, Linalool, Sodium Benzoate"
+    },
+    {
+     "nombre": "Neceser Power Age",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8445098452799"
+     ],
+     "inci": "Aqua, Bifida Ferment Lysate, Glycerin, Alcohol Denat., Dimethicone, Hydroxyethylpiperazine Ethane Sulfonic Acid, Mentha Piperita Extract, Adenosine, Faex Extract, Hydroxyacetophenone, Sodium Hyaluronate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Tocopherol, Octyldodecanol, Acetic Acid, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Lactic Acid, PEG-20 Methyl Glucose Sesquistearate, Pentylene Glycol, Xanthan Gum, Citral, Citronellol, Coumarin, Limonene, Linalool, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Nutrición Intensa Crema de día pieles maduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523639427"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Isocetyl Stearate, Hydrogenated Polyisobutene, Cyclohexasiloxane, Butyrospermum Parkii Butter, Cera Alba, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Mel, Hydroxyethylpiperazine Ethane Sulfonic Acid, Prunus Armeniaca Kernel Oil, Zea Mays Oil, Mel Extract, Cera Microcristallina, Paraffin, Royal Jelly Extract, Isobutane, Sorbitan Oleate, Sorbitan Tristearate, Calcium Pantetheine Sulfonate, Dimethicone, Copernicia Cerifera Cera, Isohexadecane, Sodium Hydroxide, Ascorbyl Glucoside, Disodium EDTA, Propylene Glycol, Caprylyl Glycol, Citric Acid, Passiflora Edulis Seed Oil, Xanthan Gum, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Oryza Sativa Bran Oil, Tocopherol, Ascorbyl Palmitate, CI 15985, CI 19140, Linalool, Geraniol, Eugenol, Coumarin, Limonene, Citronellol, Benzyl Alcohol, Parfum"
+    },
+    {
+     "nombre": "Nutrición Intensa Crema de noche pieles maduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523639434"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum, Isocetyl Stearate, Hydrogenated Polyisobutene, Dimethicone, Butyrospermum Parkii Butter, Cera Alba, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Mel, Camelina Sativa Seed Oil, Hydroxyethylpiperazine Ethane Sulfonic Acid, Rosa Canina Fruit Oil, Origanum Majorana Leaf Oil, Anthemis Nobilis Flower Oil, Prunus Armeniaca Kernel Oil, Citrus Aurantium Amara Flower Oil, Citrus Aurantium Dulcis Peel Oil, Zea Mays Oil, Mel Extract, Cera Microcristallina, Paraffin, Royal Jelly Extract, Isobutane, Sorbitan Oleate, Sorbitan Tristearate, Calcium Pantetheine Sulfonate, Copernicia Cerifera Cera, Isohexadecane, Sodium Hydroxide, Ascorbyl Glucoside, Disodium EDTA, Propylene Glycol, Caprylyl Glycol, Citric Acid, Passiflora Edulis Seed Oil, Xanthan Gum, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Oryza Sativa Bran Oil, Tocopherol, Ascorbyl Palmitate, Propyl Gallate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 15985, CI 19140, Linalool, Geraniol, Eugenol, Coumarin, Limonene, Citral, Citronellol, Benzyl Alcohol, Parfum"
+    },
+    {
+     "nombre": "Oil-Control Crema Hidratante Facial SPF30 Con Niacinamida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524191061"
+     ],
+     "inci": "Aqua, Diisopropyl Sebacate, Isopropyl Myristate, Alcohol Denat., Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Triethanolamine, Niacinamide, Caprylic/Capric Triglyceride, Hydroxyacetophenone, Trisodium Ethylenediamine Disuccinate, Cellulose, Silica Silylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Disodium Phosphate, Hydroxyethylcellulose, Polysorbate 60, Sodium Phosphate, Parfum"
+    },
+    {
+     "nombre": "Perfect Slim delineador líquido y ultra-preciso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523959877",
+      "3600523959860",
+      "3600523959853"
+     ],
+     "inci": "Water, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Methylpropanediol, Cellulose, Poloxamer 407, Coco-Glucoside, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Styrene/Acrylates Copolymer, Potassium Sorbate, Citric Acid, Sodium Benzoate, Caprylyl Glycol, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Dehydroacetate, BHT"
+    },
+    {
+     "nombre": "Pintalabios líquido mate Matte Resistance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30149472",
+      "30152038",
+      "30144361",
+      "30146921",
+      "30152045",
+      "30146938",
+      "30149496",
+      "30188617",
+      "30188624",
+      "30188631",
+      "30188655",
+      "30188662",
+      "30188679",
+      "30149502"
+     ],
+     "inci": "Dimethicone, Isododecane, Trimethylsiloxysilicate, Nylon-611, Dimethicone Crosspolymer, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Lauroyl Lysine, Silica Silylate, Phenoxyethanol, Ethylhexyl Palmitate, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Trihydroxystearin, Benzyl Alcohol, Sodium Hyaluronate, Glucomannan, Parfum, CI 15850, CI 77491, CI 77492, CI 77499, CI 45380, CI 45410, CI 15985, CI 19140, CI 15850, CI 42090"
+    },
+    {
+     "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524172718",
+      "3600524172725",
+      "3600524172787",
+      "3600524172817",
+      "3600524172824",
+      "3600524172800",
+      "3600524172732",
+      "3600524172756"
+     ],
+     "inci": "Polybutene, Tridecyl Trimellitate, Diisostearyl Malate, SILICA DIMETHYL SILYLATE [Nano], Ethylhexyl Palmitate, Vanillin, Pentylene Glycol, Caprylyl Glycol, Menthol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tribehenin, Vanillyl Butyl Ether, Vanilla Planifolia Fruit Extract, Tocopheryl Acetate, Calcium Aluminum Borosilicate, Calcium Sodium Borosilicate, Synthetic Fluorphlogopite, Alumina, Sorbitan Isostearate, Trihydroxystearin, Sodium Saccharin, Mentha Piperita Oil, Silica, Magnesium Silicate, Lactic Acid, Sodium Hyaluronate, Aluminum Hydroxide, Tin Oxide, Palmitoyl Tripeptide-1, Limonene, Glucomannan"
+    },
+    {
+     "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (114 Rose, 113 Cristal Ice, 116 Berry Noir)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524247102",
+      "3600524247096",
+      "3600524247126"
+     ],
+     "inci": "C18-36 Acid Triglyceride, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Pentaerythrityl Tetraisostearate, Tridecyl Trimellitate, Diisostearyl Malate, SILICA DIMETHYL SILYLATE [Nano], Ethylhexyl Palmitate, Vanillin, Pentylene Glycol, Caprylyl Glycol, Menthol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tribehenin, Vanillyl Butyl Ether, Vanilla Planifolia Fruit Extract, Tocopheryl Acetate, Propylene Glycol, Citric Acid, Sorbitan Isostearate, Trihydroxystearin, Sodium Saccharin, Mentha Piperita Oil, Calcium Sodium Borosilicate, Alumina, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Lactic Acid, Sodium Hyaluronate, Magnesium Silicate, Silica, Palmitoyl Tripeptide-1, Limonene, Tin Oxide, Glucomannan, Aluminum Hydroxide, CI 77891, CI 45410, Mica, CI 77491, CI 77492, CI 77499, CI 45410, CI 42090, CI 45380, CI 19140, CI 15985, CI 17200, CI 15850, CI 15850"
+    },
+    {
+     "nombre": "Prime Lab Minimizador de Pros 24H Pore Minimizer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524070113"
+     ],
+     "inci": "Water, Dimethicone, Silica, Alcohol Denat., Dimethicone/Vinyl Dimethicone Crosspolymer, Glycerin, Butylene Glycol, Bis-PEG-18 Methyl Ether Dimethyl Silane, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Isopropyl Lauroyl Sarcosinate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Polyglyceryl-3 Disiloxane Dimethicone, Silica Silylate, Lactic Acid, Ammonium Polyacryloyldimethyl Taurate, Phenoxyethanol, Capryloyl Salicylic Acid, PPG-6-Decyltetradeceth-30, Sodium Hydroxide, Salicylic Acid, PEG-20 Methyl Glucose Sesquistearate, Sodium Polyacrylate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Citrate, Adenosine, Tocopherol, Linalool, CI 14700, Parfum"
+    },
+    {
+     "nombre": "Prime Lab Prebase de Maquillaje Anti Rojeces Redness Eraser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524070007"
+     ],
+     "inci": "Isododecane, Dimethicone, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, Glycerin, Niacinamide, PEG-10 Dimethicone, Perlite, Silica, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, Disteardimonium Hectorite, Bis-PEG/PPG-14/14 Dimethicone, Magnesium Sulfate, Phenoxyethanol, Synthetic Fluorphlogopite, Dipentaerythrityl Tetrahydroxystearate, Silica Silylate, Disodium Stearoyl Glutamate, Tocopherol, Parfum, Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Prime Lab Primer Matificante 24H Matte Setter",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524070021"
+     ],
+     "inci": "Water, Alcohol Denat., Glycerin, Butylene Glycol, Bis-PEG-18 Methyl Ether Dimethyl Silane, Dimethicone, Zea Mays Starch, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Silica Silylate, Perlite, Isopropyl Lauroyl Sarcosinate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Trimethylsiloxysilicate, Salicylic Acid, Isododecane, Ammonium Polyacryloyldimethyl Taurate, Dimethiconol, Phenoxyethanol, Capryloyl Salicylic Acid, PPG-6-Decyltetradeceth-30, PEG-20 Methyl Glucose Sesquistearate, Sodium Hydroxide, Sodium Polyacrylate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Citrate, Parfum, Adenosine, Linalool, Tocopherol, Limonene, Geraniol, Citronellol"
+    },
+    {
+     "nombre": "Pro XXL Volume Máscara de Pestañas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524031107",
+      "3600524031091",
+      "3600524031138"
+     ],
+     "inci": "Water, Paraffin, Potassium Cetyl Phosphate, Copernicia Cerifera Cera, Ethylene/Acrylic Acid Copolymer, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Synthetic Beeswax, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Divinyldimethicone/Dimethicone Copolymer, Steareth-20, Glyceryl Dibehenate, Steareth-2, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Disodium EDTA, Butylene Glycol, C12-13 Pareth-23, C12-13 Pareth-3, Sodium Laureth Sulfate, Stearyl Alcohol, Myristyl Alcohol, Tetrasodium EDTA, Potassium Sorbate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, BHT"
+    },
+    {
+     "nombre": "Renacimiento Celular Crema Age Perfect Regeneradora SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524013400"
+     ],
+     "inci": "Aqua, Glycerin, Ethylhexyl Salicylate, Dimethicone, Octocrylene, Butyl Methoxydibenzoylmethane, Cetyl Alcohol, Octyldodecanol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Behenyl Alcohol, Isopropyl Isostearate, Triethanolamine, Perlite, Aluminum Starch Octenylsuccinate, Lauroyl Lysine, Tuber Aestivum Extract, Tuber Melanosporum Extract, Adenosine, Capryloyl Salicylic Acid, Hydroxyacetophenone, Neohesperidin Dihydrochalcone, Saccharomyces, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Tocopherol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Ammonium Polyacryloyldimethyl Taurate, Biotin, Cetearyl Alcohol, Cetearyl Glucoside, Citric Acid, Dimethyl Isosorbide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydroxyethylcellulose, Isohexadecane, Myristic Acid, Palmitic Acid, PEG-100 Stearate, Poly C10-30 Alkyl Acrylate, Polysorbate 60, Polysorbate 80, Propylene Glycol, Sodium Citrate, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Sorbitan Isostearate, Sorbitan Oleate, Stearic Acid, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, CI 14700, CI 19140, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Sodium Salicylate, Parfum"
+    },
+    {
+     "nombre": "Renacimiento Celular Crema de día SPF15 regeneradora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523564545"
+     ],
+     "inci": "Aqua, Glycerin, Homosalate, Octocrylene, Ethylhexyl Salicylate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Hydrogenated Polyisobutene, Bis-PEG-18 Methyl Ether Dimethyl Silane, Dimethicone, Cetearyl Alcohol, PEG-100 Stearate, PEG-20, Petrolatum, Cetyl Alcohol, Tuber Aestivum Extract, Butyrospermum Parkii Butter, C13-14 Isoparaffin, Saccharomyces, Glyceryl Stearate, Tuber Melanosporum Extract, Dimethiconol, Dimethyl Isosorbide, Cetearyl Glucoside, Neohesperidin Dihydrochalcone, Sodium Citrate, Sodium Cocoyl Glutamate, Sodium Hyaluronate, Sodium Hydroxide, Cyclodextrin, Adenosine, Vigna Aconitifolia Seed Extract, Mannitol, Disodium EDTA, Disodium Succinate, Propylene Glycol, Hydrolyzed Cicer Seed Extract, Hydroxyethylcellulose, Capryloyl Salicylic Acid, Citric Acid, Laureth-7, Xanthan Gum, Biotin, Faex Extract, Polyacrylamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Octyldodecanol, BHT, Tocopherol, Tocopheryl Acetate, Potassium Sorbate, Sodium Benzoate, Sodium Dehydroacetate, Sodium Salicylate, Phenoxyethanol, CI 14700, CI 19140, Linalool, Geraniol, Alpha-Isomethyl Ionone, Limonene, Hydroxycitronellal, Citronellol, Hexyl Cinnamal, Benzyl Alcohol, Benzyl Salicylate, Parfum"
+    },
+    {
+     "nombre": "Renacimiento Celular Crema Revitalizante Midnight",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524066505"
+     ],
+     "inci": "Water, Glycerin, Hydrogenated Polyisobutene, Dimethicone, Butylene Glycol, Bis-Behenyl, Butyrospermum Parkii Butter, Limnanthes Alba Seed Oil, Stearyl Alcohol, C30-45 Alkyl Dimethicone, PEG-20 Stearate, Saccharomyces, Panthenol, Silica, Adenosine, Capryloyl Salicylic Acid, Hydroxyacetophenone, Hydroxypropyl Tetrahydropyrantriol, Neohesperidin Dihydrochalcone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Hydroxide, Tetrasodium Glutamate Diacetate, Tocopherol, Octyldodecanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Carbomer, Citric Acid, Glyceryl Stearate, PEG-100 Stearate, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Trideceth-6, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, CI 14700, CI 19140, Chlorphenesin, Potassium Sorbate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Renacimiento Celular Serum Midnight regenerador [Complejo Antioxidante]",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524012649"
+     ],
+     "inci": "Water, Dimethicone, Glycerin, Alcohol Denat., PEG-8, Dipropylene Glycol, Saccharomyces, Propylene Glycol, Polysilicone-11, Bis-PEG-18 Methyl Ether Dimethyl Silane, Tuber Aestivum Extract, Tuber Melanosporum Extract, Adenosine, Capryloyl Salicylic Acid, Neohesperidin Dihydrochalcone, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Tocopherol, Octyldodecanol, Squalane, Ammonium Polyacryloyldimethyl Taurate, Biosaccharide Gum-4, Biotin, Caprylyl Glycol, Citric Acid, Hydroxyethylcellulose, PEG-20 Methyl Glucose Sesquistearate, Poloxamer 338, Sodium Citrate, Xanthan Gum, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Caprylic/Capric Triglyceride, Benzyl Alcohol, Hexyl Cinnamal, Hydroxycitronellal, CI 14700, CI 19140, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Sodium Salicylate, Parfum"
+    },
+    {
+     "nombre": "Revitalift Clinical Gel limpiador Iluminador [Vitamina C + +Ácido Salicílico]",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524076030"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Glycerin, PPG-5-Ceteth-20, Sodium Hydroxide, Ascorbyl Glucoside, Citric Acid, Panthenol, Polyquaternium-7, Tocopheryl Acetate, Sodium Benzoate, Salicylic Acid, CI 15510, Parfum"
+    },
+    {
+     "nombre": "Revitalift Clinical Sun Pod Vitamina C Glow con Color Fluído Diario SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524244705"
+     ],
+     "inci": "Water, Dicaprylyl Carbonate, Ethylhexyl Triazone, Dimethicone, Alcohol Denat., Pentylene Glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Silica, Synthetic Fluorphlogopite, Diethylamino Hydroxybenzoyl Hexyl Benzoate, CI 77891, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, CI 77492, CI 77491, CI 77499, Mica, Tocopherol, Ascorbyl Glucoside, Sodium Hydroxide, Sodium Stearoyl Glutamate, Hydroxyacetophenone, Phenoxyethanol, Trisodium Ethylenediamine Disuccinate, Cellulose, Polysorbate 60, Xanthan Gum, Tin Oxide, Parfum, Sorbitan Isostearate, Cetearyl Glucoside, Lauroyl Lysine, Inulin Lauryl Carbamate, Glycerin"
+    },
+    {
+     "nombre": "Roll-On Ojos Efecto Hielo Anti-Bolsas y Anti-Ojeras para hombres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521667323"
+     ],
+     "inci": "Aqua, Butylene Glycol, Glycerin, Mentha Piperita Extract, C13-14 Isoparaffin, Steareth-20, Dimethicone, Caffeine, Escin, Sodium Hyaluronate, Sodium Hydroxide, Silica, Paullinia Cupana Seed Extract, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Aluminum Hydroxide, Guanosine, Ascorbyl Glucoside, Propylene Glycol, Hydroxyproline, Caprylyl Glycol, Laureth-7, Biosaccharide Gum-1, Xanthan Gum, Panthenol, Synthetic Fluorphlogopite, Pentylene Glycol, N-Hydroxysuccinimide, Polyacrylamide, Chrysin, Potassium Sorbate, Phenoxyethanol, Chlorhexidine Digluconate"
+    },
+    {
+     "nombre": "S.O.S Pimple Paste Solución Anti-impefecciones con Niacinamida y Ácido Glicólico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524198053"
+     ],
+     "inci": "Aqua, Glycerin, Kaolin, Sodium Cocoyl Isethionate, Niacinamide, Glyceryl Stearate SE, Zea Mays Starch, Cetyl Alcohol, Salicylic Acid, Glycolipids, Carrageenan, Ceramide AP, Ceramide EOP, Ceramide NP, Beta-Glucan, Carbomer, Glycolic Acid, Triethyl Citrate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Lactic Acid, Chitosan, Xanthan Gum, Phytosphingosine, Sodium Benzoate, Benzoic Acid, CI 19140, CI 42090, Parfum"
+    },
+    {
+     "nombre": "Serum de pestañas Clinicamente Probado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523655601"
+     ],
+     "inci": "Aqua, Alcohol Denat., Hydroxyethylcellulose, Pentylene Glycol, Aminopropyl Triethoxysilane, Lactic Acid, PEG-40 Hydrogenated Castor Oil, Madecassoside, Phenoxyethanol, Polysorbate 21, Methylparaben, Ricinus Communis Seed Oil, Sodium Hyaluronate, Arginine, Serine, Citric Acid, Panthenol, Glutamic Acid, Threonine, Proline, Alanine, Cysteine"
+    },
+    {
+     "nombre": "Serum Niacinamida Anti-Manchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524119867"
+     ],
+     "inci": "Water, Squalane, Dimethicone, Paraffinum Liquidum, Glycerin, Cetyl Alcohol, Glyceryl Stearate, Niacinamide, PEG-40 Stearate, Hydrolyzed Soy Protein, Zea Mays Starch, Cera Alba, Dioscorea Villosa Root Extract, Hexyldecanol, Oryzanol, Acetyl Tetrapeptide-9, Calcium Pantetheine Sulfonate, Capryloyl Salicylic Acid, Hydroxypalmitoyl Sphinganine, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Trisodium Ethylenediamine Disuccinate, Cera Microcristallina, Octyldodecanol, Paraffin, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Butylene Glycol, Caprylyl Glycol, Carbomer, Isohexadecane, Pentylene Glycol, Polysorbate 20, Polysorbate 80, Sodium Lactate, Sodium Polyacrylate Starch, Sorbitan Oleate, Sorbitan Tristearate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Citronellol, Coumarin, Geraniol, Isoeugenol, Limonene, Linalool, CI 15985, CI 19140, Chlorphenesin, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Shirt Protect Roll-on 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524268503"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Steareth-100/PEG-136/HDI Copolymer, Perlite, Tetrasodium Glutamate Diacetate, C12-20 Alkyl Glucoside, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Alpha-Isomethyl Ionone, Citral, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Iodopropynyl Butylcarbamate"
+    },
+    {
+     "nombre": "Shirt Protect Spray 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524266905"
+     ],
+     "inci": "Isobutane, Aqua, Dimethicone, Aluminum Chlorohydrate, Parfum, Tetrasodium Glutamate Diacetate, Tocopherol, Dimethiconol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Alpha-Isomethyl Ionone, Carvone, Citral, Citronellol, Citrus Aurantium Peel Oil, Coumarin, Eucalyptus Globulus Oil, Hexyl Cinnamal, Juniperus Virginiana Oil, Limonene, Linalool, Pinene, Rose Ketones, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Phenoxyethanol"
+    },
+    {
+     "nombre": "SKIN INK FOUNDCEALER COOL",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524190187",
+      "3600524190248",
+      "3600524190309",
+      "3600524190156",
+      "3600524190163",
+      "3600524190361",
+      "3600524190200",
+      "3600524190262",
+      "3600524190286",
+      "3600524190293",
+      "3600524190323",
+      "3600524190170",
+      "3600524190255"
+     ],
+     "inci": "Isododecane, Hexyl/Succinyl Dimethicone Crosspolymer, Trimethylsiloxysilicate, Trimethylsiloxysilicate/Dimethiconol Crosspolymer, Disteardimonium Hectorite, Nylon-611/Dimethicone Copolymer, Phenoxyethanol, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Propylene Carbonate, Alcohol Denat., Alumina, Silica, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007"
+    },
+    {
+     "nombre": "Spray Beachwaves Ondas Surferas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523557370"
+     ],
+     "inci": "Aqua, Magnesium Sulfate, Alcohol Denat., Glucose, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Benzyl Salicylate, Benzyl Alcohol, Maris Sal, Citric Acid, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Spray Protector Termico Volumen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600522481362"
+     ],
+     "inci": "Aqua, Propylene Glycol, Acrylates Copolymer, Quaternium-80, Quaternium-87, Hydrolyzed Conchiolin Protein, Phenoxyethanol, Behentrimonium Chloride, Triethanolamine, Polyacrylate-3, Xylose, Limonene, Linalool, Alpha-Isomethyl Ionone, Methylparaben, Citronellol, Laureth-4, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Stick Iluminador Magnetic Radiance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524242435",
+      "3600524242541"
+     ],
+     "inci": "Polybutene, Synthetic Wax, Dimer Dilinoleyl Dimer Dilinoleate, Synthetic Fluorphlogopite, Copernicia Cerifera Cera, Polyethylene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide, Calcium Sodium Borosilicate, Silica, Dicalcium Phosphate"
+    },
+    {
+     "nombre": "Studio Line Indestructible Cera 75ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521329900"
+     ],
+     "inci": "Paraffinum Liquidum, Ozokerite, Cera Microcristallina, Paraffin, Phenyl Trimethicone, Phenoxyethanol, Limonene, Benzyl Salicylate, Benzyl Alcohol, Caprylyl Glycol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Studio Line Indestructible Gel 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600520921310"
+     ],
+     "inci": "Aqua, Alcohol Denat., Propylene Glycol, Acrylates/Hydroxyesters Acrylates Copolymer, Triethanolamine, Acrylates/Steareth-20 Methacrylate Crosspolymer, PEG-40 Hydrogenated Castor Oil, Hydrogenated Starch Hydrolysate, Sodium Lauryl Sulfate, Sodium Benzoate, Phenoxyethanol, Limonene, Benzyl Salicylate, Benzoic Acid, Benzyl Alcohol, Linalool, Disodium EDTA, Lithium Magnesium Sodium Silicate, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Studio Line Out Of Bed Crema 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601036211474"
+     ],
+     "inci": "Aqua, Alcohol Denat., VP/Va Copolymer, Propylene Glycol, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, PEG-40 Hydrogenated Castor Oil, PEG-90M, Triethanolamine, Limonene, Benzophenone-4, Benzyl Salicylate, Benzyl Alcohol, Carbomer, Butylphenyl Methylpropional, Hexyl Cinnamal, Styrene/Acrylates Copolymer, Parfum"
+    },
+    {
+     "nombre": "Studio Line Pure Wet Gel Efecto Mojado 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601036202892"
+     ],
+     "inci": "Aqua, Glycerin, PEG-8, Acrylates/Steareth-20 Methacrylate Crosspolymer, Triethanolamine, PEG-40 Hydrogenated Castor Oil, Sodium Lauryl Sulfate, Sodium Benzoate, Phenoxyethanol, Limonene, Benzyl Salicylate, Benzoic Acid, Benzyl Alcohol, Linalool, Caprylyl Glycol, Acrylates/Hydroxyesters Acrylates Copolymer, Disodium EDTA, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Stylista Curls Cream Rizos 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523715732"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Paraffinum Liquidum, CI 15985, CI 19140, Chamomilla Recutita Flower Extract, Cocos Nucifera Oil, Tocopherol, Sodium Benzoate, Hydroxycitronellal, Behentrimonium Chloride, Chlorhexidine Digluconate, Helianthus Annuus Seed Oil, Nelumbo Nucifera Flower Extract, Limonene, Benzyl Salicylate, Benzyl Alcohol, Linum Usitatissimum Flower Extract, Isopropyl Alcohol, Caprylic/Capric Triglyceride, Caprylic/Capric Glycerides, Alpha-Isomethyl Ionone, Caramel, Gardenia Taitensis Flower, Bisabolol, Rosa Canina Flower Extract, Cetrimonium Chloride, BHT, Citric Acid, Coumarin, Hexyl Cinnamal, Glycerin, Glycine Soja Oil, Phyllanthus Emblica Fruit Extract, Parfum"
+    },
+    {
+     "nombre": "Sérum Anti-Imperfecciones Con Niacinamida y Ácido Salicílico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524195649"
+     ],
+     "inci": "Aqua, Alcohol Denat., Niacinamide, Glycerin, Propanediol, Ascorbyl Glucoside, Hydroxyacetophenone, Hydroxyethylpiperazine Ethane Sulfonic Acid, Lactic Acid, Phytic Acid, Sodium Hydroxide, Hydroxypropyl Guar, PEG-60 Hydrogenated Castor Oil, Salicylic Acid, Parfum"
+    },
+    {
+     "nombre": "Sérum Antiarrugas para hombre Power Age",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524075743"
+     ],
+     "inci": "Aqua, Bifida Ferment Lysate, Glycerin, Alcohol Denat., Dimethicone, Hydroxyethylpiperazine Ethane Sulfonic Acid, Mentha Piperita Extract, Adenosine, Faex Extract, Hydroxyacetophenone, Sodium Hyaluronate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Ascorbyl Glucoside, Tocopherol, Octyldodecanol, Acetic Acid, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Lactic Acid, PEG-20 Methyl Glucose Sesquistearate, Pentylene Glycol, Xanthan Gum, Citral, Citronellol, Coumarin, Limonene, Linalool, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Sérum Reafirmante Péptido de Micro-Colágeno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524247768"
+     ],
+     "inci": "Glycerin, Alcohol Denat., Niacinamide, Rhamnose, Isononyl Isononanoate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Silica, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Butylene Glycol, Caprylyl Glycol, Carbomer, CI 77891, Citric Acid, Hydroxyacetophenone, Mica, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, PEG-20 Methyl Glucose Sesquistearate, Polysorbate 20, Sodium Hyaluronate, Sodium Lactate, Tetrasodium Glutamate Diacetate, Tin Oxide, Tocopherol, Xanthan Gum, Anise Alcohol, Benzyl Alcohol, Cananga Odorata Oil, Carvone, Citronellol, Citrus Aurantium Peel Oil, Lavandula Oil, Limonene, Linalool, Linalyl Acetate, Vanillin, Parfum, Glycerin, Alcohol Denat., Niacinamide, Rhamnose, Isononyl Isononanoate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Silica, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Butylene Glycol, Caprylyl Glycol, Carbomer, CI 77891, Citric Acid, Hydroxyacetophenone, Mica, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, PEG-20 Methyl Glucose Sesquistearate, Polysorbate 20, Sodium Hyaluronate, Sodium Lactate, Tetrasodium Glutamate Diacetate, Tin Oxide, Tocopherol, Xanthan Gum, Anise Alcohol, Benzyl Alcohol, Cananga Odorata Oil, Carvone, Citronellol, Citrus Aurantium Peel Oil, Lavandula Oil, Limonene, Linalool, Linalyl Acetate, Vanillin, Parfum, Glycerin, Alcohol Denat., Niacinamide, Rhamnose, Isononyl Isononanoate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Silica, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Butylene Glycol, Caprylyl Glycol, Carbomer, CI 77891, Citric Acid, Hydroxyacetophenone, Mica, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, PEG-20 Methyl Glucose Sesquistearate, Polysorbate 20, Sodium Hyaluronate, Sodium Lactate, Tetrasodium Glutamate Diacetate, Tin Oxide, Tocopherol, Xanthan Gum, Anise Alcohol, Benzyl Alcohol, Cananga Odorata Oil, Carvone, Citronellol, Citrus Aurantium Peel Oil, Lavandula Oil, Limonene, Linalool, Linalyl Acetate, Vanillin, Parfum, Glycerin, Alcohol Denat., Niacinamide, Rhamnose, Isononyl Isononanoate, Hydroxyethylpiperazine Ethane Sulfonic Acid, Silica, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Butylene Glycol, Caprylyl Glycol, Carbomer, CI 77891, Citric Acid, Hydroxyacetophenone, Mica, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, PEG-20 Methyl Glucose Sesquistearate, Polysorbate 20, Sodium Hyaluronate, Sodium Lactate, Tetrasodium Glutamate Diacetate, Tin Oxide, Tocopherol, Xanthan Gum, Anise Alcohol, Benzyl Alcohol, Cananga Odorata Oil, Carvone, Citronellol, Citrus Aurantium Peel Oil, Lavandula Oil, Limonene, Linalool, Linalyl Acetate, Vanillin, Parfum"
+    },
+    {
+     "nombre": "Sérum Sleek para pelo liso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523557325"
+     ],
+     "inci": "Aqua, Glycerin, VP/Va Copolymer, PEG-40 Hydrogenated Castor Oil, Hydroxyethylcellulose, Tocopherol, Hydroxyethyl Oleyl Dimonium Chloride, Hydroxycitronellal, Phenoxyethanol, Ethylhexylglycerin, Behentrimonium Chloride, Polyquaternium-6, Maltodextrin, Limonene, Benzyl Salicylate, Benzyl Alcohol, Linalool, Isopropyl Alcohol, Geraniol, Cetrimonium Chloride, Euterpe Oleracea Fruit Extract, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Telescopic (Gold)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600520881799"
+     ],
+     "inci": "Water, Acrylates Copolymer, Oryza Sativa Cera, Propylene Glycol, Cera Alba, Pentylene Glycol, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Aminomethyl Propanediol, Hydroxyethylcellulose, Caprylyl Glycol, Sodium Dehydroacetate, Xanthan Gum, Myristic Acid, 2-Oleamido-1,3-Octadecanediol"
+    },
+    {
+     "nombre": "Telescopic (Waterproof)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524196615"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Aqua, Alcohol Denat., Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Candelilla Cera, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77499"
+    },
+    {
+     "nombre": "Telescopic Extensionist Máscara de Pestañas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524229092"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Acrylates Copolymer, Synthetic Fluorphlogopite, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Butylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "TELESCOPIC Extra Black Máscara de pestañas +5mm longitud",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30147485"
+     ],
+     "inci": "Water, Behenyl Behenate, Acrylates Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Pentylene Glycol, Potassium Cetyl Phosphate, Myristic Acid, 2-Oleamido-1,3-Octadecanediol"
+    },
+    {
+     "nombre": "Thermic Resist roll-on antitranspirante 48h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523299874"
+     ],
+     "inci": "Water, Aluminum Chlorohydrate, Dimethicone, C14-22 Alcohols, Parfum, Steareth-100/PEG-136/HDI Copolymer, Perlite, Disteardimonium Hectorite, C12-20 Alkyl Glucoside, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Camphor, Carvone, Citral, Citronellol, Citrus Aurantium Bergamia Peel Oil, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Coumarin, Dimethyl Phenethyl Acetate, Geraniol, Geranyl Acetate, Lavandula Oil, Limonene, Linalool, Linalyl Acetate, Pelargonium Graveolens Flower Oil, Pinene, Pogostemon Cablin Oil, Rose Ketones, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Iodopropynyl Butylcarbamate"
+    },
+    {
+     "nombre": "Thermic Resist Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524266912"
+     ],
+     "inci": "Isobutane, Aqua, Dimethicone, Aluminum Chlorohydrate, Parfum, Disteardimonium Hectorite, Perlite, Tocopherol, Dimethiconol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool, Phenoxyethanol"
+    },
+    {
+     "nombre": "Total Repair 5 Acondicionador Reparador para pelo dañado, 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625734"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Tridecetaqua, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Trideceth-10, Trideceth-3, Trisodium Hedta, Chlorhexidine Digluconate, Dimethicone, Limonene, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Tartaric Acid, Serine, Cetyl Esters, Citronellol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Total Repair 5 Champú Reparador para el pelo dañado 250ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521704424"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Sodium Lactate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Fumaric Acid, Linalool, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Carbomer, Citric Acid, Butylene Glycol, Hexylene Glycol, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Total Repair 5 Mascarilla nutritiva Rapid Reviver para el pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523709847"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Total Repair 5 Mascarilla Reparadora para el pelo dañado 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521752074"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Lactic Acid, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Alcohol, Benzyl Salicylate, Amodimethicone, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Geraniol, Potassium Hydroxide, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Tónico Curls para pelo rizado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523557356"
+     ],
+     "inci": "Aqua, Propylene Glycol, Decyl Glucoside, Cocamidopropyl Betaine, Lycium Barbarum Fruit Extract, Tocopherol, Lactic Acid, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, PEG-40/PPG-8 Methylaminopropyl/Hydroxypropyl Dimethicone Copolymer, Ethylhexylglycerin, Trideceth-9 Pg-Amodimethicone, Triethanolamine, Aminomethyl Propanol, Trideceth-12, Polyacrylate-3, Polyurethane-34, Polysorbate 20, Polysorbate 80, Limonene, Benzyl Salicylate, Benzyl Alcohol, Dipropylene Glycol, Alpha-Isomethyl Ionone, Acrylates Copolymer, Geraniol, Potassium Sorbate, Coumarin, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "violeta Champú Violeta Matizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523682799"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Glycol Distearate, Cocamide MIPA, CI 60730, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Trideceth-6, Iris Florentina Root Extract, Polyquaternium-7, Polyquaternium-10, Salicylic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Citric Acid, Citronellol, Cetrimonium Chloride, Butylene Glycol, Coumarin, Hexylene Glycol, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "violeta Mascarilla Violeta Matizadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523682850"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, CI 60730, CI 45100, Sodium Hydroxide, Phenoxyethanol, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Citric Acid, Citronellol, Cetrimonium Chloride, Coumarin, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Volume Million Lashes Máscara de Pestañas Efecto Volumen Balm Brown",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30148079"
+     ],
+     "inci": "Water, Behenyl Behenate, Glyceryl Stearate, Cetearyl Alcohol, Propanediol, Pullulan, Stearic Acid, Glycerin, Alcohol Denat., Palmitic Acid, Silica, Sodium Hydroxide, Sodium Dehydroacetate, Caprylyl Glycol, Myristic Acid, Caffeine, Tin Oxide"
+    },
+    {
+     "nombre": "Volume Million Lashes Máscara de Pestañas Volumen Definido Negro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521821152"
+     ],
+     "inci": "Aqua, Paraffin, Potassium Cetyl Phosphate, Cera Alba, Copernicia Cerifera Cera, Acacia Senegal Gum, Glycerin, Cetyl Alcohol, Hydroxyethylcellulose, Phenoxyethanol, PEG/PPG-17/18 Dimethicone, Steareth-20, Phenethyl Alcohol, Sodium Polymethacrylate, Propylene Glycol, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Parfum, Disodium EDTA, Polyquaternium-10, Soluble Collagen, Panthenol, Trisodium EDTA, Sodium Acetate, Sodium Chloride, Potassium Sorbate, Camellia Oleifera Seed Oil, BHT, Isopropyl Alcohol, Cycnoches Cooperi Flower, Tocopherol, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Volumisse Máscara de Pestañas Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521018095"
+     ],
+     "inci": "Aqua, Paraffin, Ethylene/Acrylic Acid Copolymer, Steareth-20, Cera Alba, Copernicia Cerifera Cera, Acacia Senegal Gum, Alcohol Denat., Butylene Glycol, Steareth-2, Glycerin, Cetyl Alcohol, Potassium Cetyl Phosphate, Hydroxyethylcellulose, Phenoxyethanol, Panthenol, Sodium Polymethacrylate, PEG/PPG-17/18 Dimethicone, Sodium Dehydroacetate, 2-Oleamido-1,3-Octadecanediol, Disodium EDTA, Polyquaternium-10, Sodium Acetate, Sodium Chloride, BHT, Isopropyl Alcohol, CI 77499"
+    },
+    {
+     "nombre": "Waterproof Extensionist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524229085"
+     ],
+     "inci": "Isododecane, Oryza Sativa Cera, Cera Alba, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Dimer Dilinoleyl Dimer Dilinoleate, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Copernicia Cerifera Cera, Hydrogenated Jojoba Oil, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, CI 77499"
+    }
+   ]
   }
  ]
 }
