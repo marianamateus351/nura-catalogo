@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10b",
+ "version": "2026-09-10c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10109,6 +10109,42 @@
       "4056489368427"
      ],
      "inci": "Aqua, Octocrylene, Glycerin, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Diethylhexyl Butamido Triazone, Potassium Cetyl Phosphate, Myristyl Alcohol, Phenoxyethanol, Xanthan Gum, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Menthone Glycerin Acetal, Parfum, Hydroxyacetophenone, Potassium Hydroxide, Caprylhydroxamic Acid, Sclerotium Gum, Acacia Senegal Gum"
+    },
+    {
+     "nombre": "Cien Sun Kids Crema solar SPF50 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489764137"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Alcohol, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, VP/Hexadecene Copolymer, Triacontanyl PVP, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Microcrystalline Cellulose, Tocopheryl Acetate, Sodium Hydroxide, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Galactoarabinan, Disodium EDTA, Cellulose Gum, Xanthan Gum"
+    },
+    {
+     "nombre": "Cien Sun Kids Spray solar SPF50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619279230"
+     ],
+     "inci": "Aqua, Alcohol, Dibutyl Adipate, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Phenylbenzimidazole Sulfonic Acid, Microcrystalline Cellulose, Tocopheryl Acetate, Caprylyl Glycol, Sodium Hydroxide, Ethylhexylglycerin, Galactoarabinan, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Acrylates Copolymer, Tocopherol, Cellulose Gum, Disodium EDTA"
+    },
+    {
+     "nombre": "Cien Sun Leche solar SPF30 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489617402"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Diisopropyl Adipate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Phenoxyethanol, Stearyl Alcohol, Xanthan Gum, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Parfum, Potassium Hydroxide, Acacia Senegal Gum, Caprylhydroxamic Acid, Sclerotium Gum, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin"
+    },
+    {
+     "nombre": "Cien Sun Leche solar SPF50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619356269"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Alcohol, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, VP/Hexadecene Copolymer, Triacontanyl PVP, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Microcrystalline Cellulose, Tocopheryl Acetate, Sodium Hydroxide, Caprylyl Glycol, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Galactoarabinan, Disodium EDTA, Cellulose Gum, Xanthan Gum, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin"
     },
     {
      "nombre": "Cien VitalBeauty Crema de día 50 ml",

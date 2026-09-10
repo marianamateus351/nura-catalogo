@@ -224,7 +224,7 @@ fotografíen la etiqueta desde la app (OCR) o que se transcriba a mano de la fot
 (`image_ingredients_url`, 89 productos la tienen) — eso ya sería trabajo de persona, no de
 script, porque una foto no se transcribe automáticamente sin revisarla.
 ### Cien (Lidl) — CERRADA hasta donde llega OBF (2026-09-10)
-Resultado: **22 productos y 22 códigos**. Recuento del embudo:
+Resultado: **26 productos y 26 códigos** (22 de OBF + 4 con INCI oficial de lidl.de). Recuento del embudo de OBF:
 - Open Beauty Facts: `tag_0=cien` 237 + `search_terms=cien` → 366 códigos; con `brands` que
   contiene "cien" (palabra de verdad, no "cien" suelto en el nombre): 344; **EAN-13 reales**
   (fuera los 118 que empiezan por `20…`, código interno de tienda): 214.
@@ -244,6 +244,12 @@ Resultado: **22 productos y 22 códigos**. Recuento del embudo:
   `Accept: application/mindshift.search+json;version=2`) sí devuelve EAN y nombre oficial,
   pero la tienda online solo lista los aparatos CIEN BEAUTY (secadores, afeitadoras, 28
   artículos), ninguna cosmética de tienda. No se puede saber qué Cien está a la venta hoy.
+- **lidl.de SÍ publica el INCI oficial** de la poca cosmética Cien que vende online (misma
+  API con `locale=de_DE&assortment=DE`; la ficha lleva la lista completa en un `<p>` dentro
+  de `content-tabs__tab`). El EAN es el mismo en toda Europa, así que vale para España. Hoy
+  solo lista 4 (Cien Sun leche SPF30/SPF50, Kids crema y Kids spray SPF50): entran con INCI
+  oficial. Conviene repetir la búsqueda en temporada (la oferta online cambia). lidl.fr, .it
+  y .pt no listan cosmética Cien.
 Entran: antitranspirantes Extra Dry (roll-on mujer y hombre, spray hombre), Comfort Fresh,
 desodorantes roll-on, espuma de afeitar Sensitive, geles de ducha (Sensitive, almendra,
 argán y flor de naranjo, aloe vera, 400 ml, sólido), champú y gel melocotón-albaricoque,
@@ -276,7 +282,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
-| Cien (Lidl) | API lidl.es (solo aparatos) | sí, pero solo aparatos | no | OBF con criba de erratas por vocabulario (ver su apartado) |
+| Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 | Cien (Lidl) | no hay web de marca | no | a veces en lidl.es | Open Beauty Facts como fuente principal de EAN e INCI (ver su apartado) |
 
@@ -291,9 +297,9 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1215 códigos en 12 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Bioderma 42 · **Cien 22** · ISDIN 18 · Deliplus 15 · SkinCeuticals 6.
-Ninguno de los 1098 productos está sin INCI. Sesderma sigue vacía. La criba por vocabulario
+1219 códigos en 12 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Bioderma 42 · **Cien 26** · ISDIN 18 · Deliplus 15 · SkinCeuticals 6.
+Ninguno de los 1102 productos está sin INCI. Sesderma sigue vacía. La criba por vocabulario
 (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo "súper":
 Babaria, Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris (estas
 tres últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Garnier).
