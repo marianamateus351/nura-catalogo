@@ -193,6 +193,29 @@ descripción, beneficios y modo de empleo: ni INCI, ni EAN (solo el SKU interno)
 tiene 2 códigos. Por la regla 2-bis la marca se queda vacía; si alguna vez interesa, la vía
 sería incidecoder producto a producto.
 
+### Deliplus (Mercadona) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Marca blanca de Mercadona y probablemente la más escaneada de España, así que interesa mucho.
+Es un caso distinto a las diez anteriores: **no hay web de marca con fichas**. Orden de fuentes
+a probar, de mejor a peor:
+1. **tienda.mercadona.es** — es la fuente buena si publica el INCI. Tiene API JSON pública
+   (`https://tienda.mercadona.es/api/categories/` y `/api/products/<id>/`); hay que fijar un
+   código postal para que devuelva catálogo. Comprobar dos cosas en la ficha: si trae el EAN-13
+   (puede que solo dé el id interno de Mercadona) y si trae el INCI en texto o solo en la foto
+   del envase. Si el INCI solo está en la imagen, **no vale**: no se transcribe de una foto.
+2. **Open Beauty Facts** — aquí es la fuente principal de EAN, y en marcas de súper suele tener
+   buena cobertura, con el INCI transcrito por la comunidad. Ojo: ese INCI no es oficial y a
+   veces está a medias. Solo entra si la lista está completa y coherente (empieza por Aqua,
+   termina en conservantes/perfume/CI, sin "…" ni "y otros").
+   `search_terms=deliplus&page_size=100` y también `tag_0=deliplus`.
+3. Fichas de terceros (incidecoder, incibeauty) para contrastar un INCI dudoso.
+Los EAN de Deliplus empiezan por `84` (España) y muchos por `8480000…`, que es el prefijo de
+Mercadona: sirve para reconocerlos. **Se aplica la regla 2-bis igual que a todas: producto sin
+INCI oficial completo no entra**, aunque tengamos su código. Si al final Mercadona no publica
+ingredientes en texto y OBF no llega, se dice claramente y la marca se queda pequeña o vacía:
+antes eso que meter listas inventadas.
+Detrás de Deliplus, en el mismo grupo de "marcas de súper españolas": Cien (Lidl), Babaria,
+Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -218,6 +241,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
+| Deliplus | no hay web de marca | por comprobar | por comprobar | API JSON de tienda.mercadona.es + Open Beauty Facts (ver su apartado) |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
 con un navegador headless, farmacias, incidecoder). Por la regla 2-bis, de estas tres marcas
