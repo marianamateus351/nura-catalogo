@@ -223,6 +223,31 @@ descargadas (`mc_det.json`); lo que falta es el INCI. La vía realista es que la
 fotografíen la etiqueta desde la app (OCR) o que se transcriba a mano de la foto de OBF
 (`image_ingredients_url`, 89 productos la tienen) — eso ya sería trabajo de persona, no de
 script, porque una foto no se transcribe automáticamente sin revisarla.
+### Cien (Lidl) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Marca blanca de Lidl, mismo caso que Deliplus: no hay web de marca con fichas de producto.
+Diferencias a favor: Cien se vende en toda Europa, así que **Open Beauty Facts la tiene mucho
+mejor cubierta que a Deliplus**, y ahí sí suele venir el INCI transcrito del envase. Orden de
+fuentes:
+1. **Open Beauty Facts** — fuente principal de EAN y de INCI.
+   `search_terms=cien&page_size=100` y `tag_0=cien`. Ojo con el nombre: "cien" es una palabra
+   común, así que hay que **verificar la marca** de cada resultado (`brands` contiene "cien" /
+   "cien lidl") y descartar los falsos positivos.
+2. **lidl.es** — la ficha de la tienda online a veces trae los ingredientes en texto; comprobar.
+   No suele publicar EAN, así que serviría solo para el INCI, emparejando por nombre.
+3. incidecoder / incibeauty para contrastar un INCI dudoso.
+Los EAN de Cien suelen empezar por `20…` (código interno de tienda, **esos no valen**: no son
+únicos entre países) o por `40…` (Alemania, Lidl es alemana). **Solo entran los EAN-13 reales.**
+Regla 2-bis igual que siempre: sin INCI completo el producto no entra aunque haya código.
+Como el INCI de Open Beauty Facts lo escribe la comunidad y no la marca, aquí hay que ser
+más estricto de lo normal: si la lista está cortada, desordenada, en un solo idioma raro o
+con erratas de OCR, se descarta el producto en vez de arreglarla a ojo.
+Lección de Deliplus, aplicable aquí: de 532 códigos en OBF solo sobrevivieron 15. Esperar un
+porcentaje bajo y no forzarlo. Y si lidl.es permite listar el catálogo vivo, usarlo igual que
+se usó Mercadona: como **validador de códigos** (descartar lo descatalogado), no como fuente
+de INCI.
+
+Detrás de Deliplus y Cien, en el mismo grupo de "marcas de súper españolas": Babaria,
+Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -250,6 +275,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
+| Cien (Lidl) | no hay web de marca | no | a veces en lidl.es | Open Beauty Facts como fuente principal de EAN e INCI (ver su apartado) |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
 con un navegador headless, farmacias, incidecoder). Por la regla 2-bis, de estas tres marcas
@@ -262,7 +288,8 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1193 códigos en 11 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+1193 códigos en 11 marcas curadas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
 Vichy 111 · CeraVe 73 · Bioderma 42 · ISDIN 18 · **Deliplus 15** · SkinCeuticals 6. Ninguno de
-los 1076 productos está sin INCI. Sesderma sigue vacía (no publica INCI). Para seguir
+los 1076 productos está sin INCI. Sesderma sigue vacía (no publica INCI) y **Cien (Lidl) está
+creada pero vacía**, pendiente de curar: las dos ya tienen botón en la app. Para seguir
 creciendo: la pestaña "Buscados" de la app, y para Deliplus, las fotos de etiqueta.
