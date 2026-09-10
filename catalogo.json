@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10a",
+ "version": "2026-09-10b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -9920,7 +9920,206 @@
   {
    "key": "cien",
    "nombre": "Cien (Lidl)",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Cien Antitranspirante Comfort Fresh roll-on 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489425199"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, Helianthus Annuus Seed Oil, Glycerin, Polyglyceryl-6 Stearate, Oleyl Erucate, Diatomaceous Earth, Polyglyceryl-6 Behenate, Benzyl Alcohol, Parfum, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride, Polyglyceryl-3 Caprylate, Linalool, Glyceryl Stearate, C18-22 Hydroxyalkyl Hydroxypropyl Guar, Limonene, Benzoic Acid, Citric Acid, Sorbic Acid, Hexyl Cinnamal, Citronellol, Benzyl Salicylate, Geraniol, Lecithin, Alpha-Isomethyl Ionone, Ascorbyl Palmitate, Citral, Tocopherol"
+    },
+    {
+     "nombre": "Cien Antitranspirante Extra Dry roll-on 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619174795"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, Helianthus Annuus Seed Oil, Glycerin, Polyglyceryl-6 Stearate, Oleyl Erucate, Diatomaceous Earth, Parfum, Polyglyceryl-6 Behenate, Cetearyl Alcohol, Benzyl Alcohol, Distearoylethyl Dimonium Chloride, Polyglyceryl-3 Caprylate, Glyceryl Stearate, C18-22 Hydroxyalkyl Hydroxypropyl Guar, Benzyl Salicylate, Benzoic Acid, Linalyl Acetate, Citric Acid, Linalool, Pogostemon Cablin Oil, Sorbic Acid, Limonene, Lecithin, Citrus Limon Peel Oil, Citral, Citrus Aurantium Peel Oil, Ascorbyl Palmitate, Pinene, Menthol, Tocopherol, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "Cien Bio Crema de manos aloe vera 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489970217"
+     ],
+     "inci": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate SE, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Aloe Barbadensis Leaf Powder, Citric Acid, Tocopherol, Parfum, Sodium Hyaluronate, Lauroyl Lysine, Aloe Barbadensis Leaf Juice"
+    },
+    {
+     "nombre": "Cien Champú y gel extra suave melocotón-albaricoque 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489564300"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Decyl Glucoside, Sodium Chloride, Ammonium Lauryl Sulfate, Sodium Benzoate, Parfum, Citric Acid, Panthenol, Glycol Distearate, Cellulose, Cellulose Gum, Benzoic Acid, Glyceryl Oleate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Cien Crema corporal hidratante 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489234692"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glyceryl Stearate, Propylene Glycol, Ethylhexyl Stearate, Canola Oil, Glycerin, Butyrospermum Parkii Butter, Isododecane, Phenoxyethanol, Helianthus Annuus Hybrid Oil, Parfum, Benzyl Alcohol, Sodium Cetearyl Sulfate, Tocopheryl Acetate, Citric Acid, Simmondsia Chinensis Seed Oil, Sodium Hydroxide, Linalool, Geraniol, Citronellol, Limonene"
+    },
+    {
+     "nombre": "Cien Crema de ducha almendra 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489564416"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Sodium Benzoate, Citric Acid, Parfum, Glycol Distearate, Cellulose Gum, Prunus Amygdalus Dulcis Oil, Glyceryl Oleate, Benzoic Acid, Hydrogenated Lecithin, Cocos Nucifera Fruit Extract, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Cien Desodorante roll-on 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489643661"
+     ],
+     "inci": "Aqua, Propylene Glycol, Triethyl Citrate, Caprylyl/Capryl Glucoside, Parfum, Hydroxyethylcellulose, Citric Acid, Sodium Benzoate, Allantoin, Linalool, Citronellol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Cien Desodorante roll-on antitranspirante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489643623"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, Helianthus Annuus Seed Oil, Glycerin, Polyglyceryl-6 Stearate, Oleyl Erucate, Parfum, Polyglyceryl-6 Behenate, Benzyl Alcohol, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride, Polyglyceryl-3 Caprylate, Glyceryl Stearate, C18-22 Hydroxyalkyl Hydroxypropyl Guar, Benzoic Acid, Citric Acid, Linalool, Sorbic Acid, Limonene, Lecithin, Citronellol, Ascorbyl Palmitate, Tocopherol"
+    },
+    {
+     "nombre": "Cien Gel de ducha 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489970873"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Glycol Distearate, Coco-Glucoside, Sodium Benzoate, Parfum, Citric Acid, Citrus Aurantium Amara Flower Water, Limonene, Linalool, Hexyl Cinnamal, Cellulose, Cellulose Gum, Glyceryl Oleate, Benzoic Acid, Sodium Hydroxide, Potassium Sorbate, Linalyl Acetate"
+    },
+    {
+     "nombre": "Cien Gel de ducha en crema Sensitive 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489827153"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Glycereth-2 Cocoate, Guar Hydroxypropyltrimonium Chloride, Panthenol, Aloe Barbadensis Leaf Juice, Sine Adipe Lac, Glycol Distearate, Cocamide MEA, Laureth-4, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Cien Gel de ducha nutritivo argán y flor de naranjo 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489370406"
+     ],
+     "inci": "Aqua, Decyl Glucoside, Cellulose Gum, Benzyl Alcohol, Coco-Betaine, Parfum, Citric Acid, Citrus Aurantium Amara Flower Water, Glycerin, Limonene, Aloe Barbadensis Leaf Juice Powder, Linalool, Argania Spinosa Seedcake Extract, Sodium Hydroxide, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Cien Gel de ducha suave aloe vera 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489370390"
+     ],
+     "inci": "Aqua, Decyl Glucoside, Cellulose Gum, Benzyl Alcohol, Coco-Betaine, Parfum, Citric Acid, Linalool, Aloe Barbadensis Leaf Juice Powder, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Cien Gel de ducha sólido 80 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489417767"
+     ],
+     "inci": "Sodium Coco-sulfate, Maris sal, Olea Europaea Fruit Oil, Citric acid, Hydrated Silica, Parfum, Theobroma Cacao Seed Butter, Talc, Butyrospermum Parkii Butter, Cocos Nucifera Oil, Sodium Lauroyl Glutamate, Tocopherol, Linalool, Limonene, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Cien Jabón de manos Gentle & Pure 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489294566"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Parfum, Sodium Benzoate, Citric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Cien Limpiador facial hidratante 236 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619124745"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Xanthan Gum, Betaine, Sodium Cocoyl Isethionate, Phenoxyethanol, Polyacrylate Crosspolymer-6, Ethylhexylglycerin, Coconut Acid, Sodium Isethionate, Disodium EDTA, Sodium Lauroyl Lactylate, Sodium Hydroxide, Pentylene Glycol, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Carbomer, Sodium Hyaluronate Crosspolymer, Ceramide EOP, Citric Acid"
+    },
+    {
+     "nombre": "Cien Mascarilla capilar regeneradora 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489254805"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Isopropyl Myristate, Glycerin, Shea Butter Ethyl Esters, Mel, Isopropyl Alcohol, Citric Acid, Parfum, Linalool, Sodium Benzoate"
+    },
+    {
+     "nombre": "Cien Men Antitranspirante Extra Dry roll-on 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619074064"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-20, C12-15 Alkyl Benzoate, Parfum, Benzyl Salicylate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Cien Men Antitranspirante Extra Dry spray 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489235972"
+     ],
+     "inci": "Butane, Propane, Isopropyl Myristate, Aluminum Chlorohydrate, Octyldodecanol, Triethyl Citrate, Parfum, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Limonene, Linalool, Propylene Carbonate, Geraniol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Cien Men Champú cabello normal 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489318460"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Sodium Benzoate, Citric Acid, Glycol Distearate, Parfum, Laureth-4, Cocamide MEA, Guar Hydroxypropyltrimonium Chloride, Panthenol, Potassium Sorbate, Humulus Lupulus Extract, Propylene Glycol, Formic Acid, Lactic Acid"
+    },
+    {
+     "nombre": "Cien Men Espuma de afeitar Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489431084"
+     ],
+     "inci": "Aqua, Glycerin, Triethanolamine, Stearic Acid, Palmitic Acid, Butane, Propane, Coco-Glucoside, Aloe Barbadensis Leaf Juice Powder, Sodium Silicate, Parfum, Phenoxyethanol"
+    },
+    {
+     "nombre": "Cien Sun Crema solar Active SPF30 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489368427"
+     ],
+     "inci": "Aqua, Octocrylene, Glycerin, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Diethylhexyl Butamido Triazone, Potassium Cetyl Phosphate, Myristyl Alcohol, Phenoxyethanol, Xanthan Gum, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Menthone Glycerin Acetal, Parfum, Hydroxyacetophenone, Potassium Hydroxide, Caprylhydroxamic Acid, Sclerotium Gum, Acacia Senegal Gum"
+    },
+    {
+     "nombre": "Cien VitalBeauty Crema de día 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489236054"
+     ],
+     "inci": "Aqua, Glycerin, Dibutyl Adipate, Glyceryl Stearate SE, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Titanium Dioxide (Nano), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Ethylhexyl Triazone, Phenoxyethanol, Butyrospermum Parkii Butter, Glycine Soja Oil, Sodium Cetearyl Sulfate, Talc, Silica, Parfum, Sodium Anisate, Sodium Levulinate, Disodium EDTA, Benzoic Acid, Calcium Gluconate, Dehydroacetic Acid, Citric Acid, Dimethicone, Tocopherol, Benzyl Alcohol, Linalool, Ubiquinone, Sodium Citrate, Soluble Collagen, Sodium Benzoate, Elaeis Guineensis Oil, Beta-Carotene"
+    }
+   ]
   }
  ]
 }
