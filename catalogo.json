@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10e",
+ "version": "2026-09-10f",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10618,6 +10618,11 @@
      "inci": "Aqua, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Glycerin, Aluminum Starch Octenylsuccinate, Hydrogenated Castor Oil, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Cocoglycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Adipate, Dimethicone, Hydroxyacetophenone, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, Triacontanyl PVP, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decyl Glucoside, Niacinamide, Disodium EDTA, Tocopheryl Acetate, Titanium Dioxide, Sodium Hydroxide, Silica, Propylene Glycol, Xanthan Gum"
     }
    ]
+  },
+  {
+   "key": "dove",
+   "nombre": "Dove",
+   "productos": []
   }
  ]
 }

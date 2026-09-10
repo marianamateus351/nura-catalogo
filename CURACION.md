@@ -294,6 +294,30 @@ Qué se quedó fuera y por qué:
 Scripts: `neutrogena.py` (parseo de fichas), `gen_neutrogena.py` (nombres en español y
 erratas), `obf_inci.py`, `vocab.py`.
 
+### Dove (dove.com/es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Marca de Unilever, de las más vendidas de España en desodorante, gel de ducha y jabón. Tiene
+web de marca, así que se ataca como Neutrogena o Nivea, no como una marca blanca.
+1. **dove.com/es** — buscar el sitemap y ver qué publica la ficha. Las dos preguntas de
+   siempre: ¿**EAN-13** (en el widget de compra, en el JSON-LD como `gtin`, o en la propia
+   URL como en Nivea y Avène)? y ¿**INCI en texto**? Unilever suele publicar los ingredientes,
+   así que el hueco probable son los códigos.
+2. **Si la web da INCI pero no EAN** (caso ISDIN): los códigos, de Open Beauty Facts,
+   emparejando por nombre. Dove tiene muchísima presencia en OBF.
+3. Si algún INCI acaba viniendo de OBF y no de la marca, criba por vocabulario (`vocab.py`).
+Trampas propias de esta marca, más gordas que en Neutrogena:
+- **Es una gama enorme y muy internacional.** El mismo nombre comercial ("Dove Original",
+  "Deeply Nourishing") lleva **fórmula distinta según el país**, y los desodorantes cambian
+  de fórmula entre spray, roll-on y stick. Si no está claro que la lista es la del producto
+  español, no entra.
+- **Muchísima variante de aroma** con el mismo nombre de gama: cada aroma es un INCI distinto
+  (cambia el `Parfum` y los colorantes). No agrupar aromas distintos en una entrada; sí
+  agrupar tamaños del mismo aroma (regla 4).
+- **Fuera Dove Men+Care solo si no se vende aquí**; si se vende, entra como producto aparte,
+  igual que se hizo con NIVEA MEN.
+- Ojo con los códigos: los europeos empiezan por `8…` (España, `84…`) o `59…`/`87…` (Unilever
+  Polonia y Países Bajos, que sí se venden aquí); los `0…` son de EE. UU. y quedan fuera por
+  la regla 3.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -319,6 +343,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
+| Dove | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero dove.com/es (ver su apartado) |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
@@ -338,5 +363,6 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
 Vichy 111 · CeraVe 73 · **Neutrogena 56** · Bioderma 42 · Cien 26 · ISDIN 18 · Deliplus 15 ·
 SkinCeuticals 6. Ninguno de los 1152 productos está sin INCI. Sesderma sigue vacía. La criba
 por vocabulario (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo
-"súper": Babaria, Instituto Español, Bella Aurora, Sanex, Dove y L'Oréal Paris (las dos
-últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Neutrogena).
+"súper": Babaria, Instituto Español, Bella Aurora, Sanex y L'Oréal Paris.
+**Dove ya está creada y vacía** (botón visible en la app), pendiente de curar: tiene web de
+marca, así que se mira primero si publica EAN + INCI, como Nivea/Neutrogena.
