@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10t",
+ "version": "2026-09-10u",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20086,6 +20086,11 @@
      "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Talc, Carthamus Tinctorius Seed Oil, Argania Spinosa Kernel Oil, Rosa Canina Fruit Oil, PEG-30 Glyceryl Stearate, Silica, Propylene Glycol, Hydrogenated Jojoba Oil, Citric Acid, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, BHT, Propyl Gallate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 75470, CI 77007, CI 77288, CI 77491, CI 77492, CI 77499, CI 77510, CI 77891, Mica"
     }
    ]
+  },
+  {
+   "key": "colgate",
+   "nombre": "Colgate",
+   "productos": []
   }
  ]
 }
