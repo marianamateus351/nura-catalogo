@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10j",
+ "version": "2026-09-10k",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10897,7 +10897,45 @@
   {
    "key": "sanytol",
    "nombre": "Sanytol",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Limpiador Desinfectante Multiusos Eucaliptus (pistola 750 ml y recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411660170231",
+      "8411660170477"
+     ],
+     "inci": "Aqua, Parfum, Decan-1-ol Ethoxylated, Didecyldimonium Chloride, Ethanolamine, DL-Malic Acid, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Desinfectante Suelos y Superficies Eucaliptus (botella)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411660170132"
+     ],
+     "inci": "Aqua, Parfum, Decan-1-ol Ethoxylated, Didecyldimonium Chloride, Ethanolamine, DL-Malic Acid, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Limpiador Desinfectante Baños Eucaliptus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411660170224"
+     ],
+     "inci": "Aqua, Citric Acid, Methoxymethylbutanol, Decan-1-ol Ethoxylated, Didecyldimonium Chloride, Parfum, Isopropyl Alcohol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Limpiador Desinfectante Quitagrasas Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411660170217"
+     ],
+     "inci": "Aqua, Butoxydiglycol, Alcohols C9-11 Ethoxylated, Ethanolamine, Parfum, Didecyldimonium Chloride, Isopropyl Alcohol, DL-Malic Acid"
+    }
+   ]
   }
  ]
 }

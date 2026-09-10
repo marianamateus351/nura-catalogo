@@ -392,30 +392,40 @@ si caben dos, no (regla de las dos fórmulas).
   ficha vigente, como manda la regla 2.
 Scripts: `cf.py` (Contentful), `opf2.py`/`opf_inci.py` (Open Products Facts), `gen_fairy.py`.
 
-### Sanytol (AC Marca) — SIGUIENTE MARCA DE LIMPIEZA (pedida por Mariana, 2026-09-10)
-Desinfectante español (AC Marca, Barcelona), de los más usados en casa. Se cura con el método
-del apartado "PRODUCTOS DE LIMPIEZA": ficha del Anexo VII para la lista, Open Products Facts
-para los códigos.
-**Ojo, es un caso especial dentro de la limpieza:** buena parte de la gama Sanytol son
-**biocidas** (desinfectantes registrados), no detergentes. Eso cambia dos cosas:
-- Los biocidas declaran la **sustancia activa y su porcentaje** en el envase por obligación
-  propia (ej. "Cloruro de didecildimetilamonio 0,5 g/100 g"), lo cual es *más* información que
-  un detergente normal — y el DDAC y el benzalconio ya están en nuestra base de disruptores.
-- Pero el resto de la fórmula puede seguir sin publicarse. **Solo entra el producto si hay
-  lista completa**, no basta con la activa (regla 2-bis, sin excepción por ser biocida).
-Orden de trabajo:
-1. Localizar la ficha de ingredientes de **AC Marca / Sanytol** (sanytol.es y la web
-   corporativa de AC Marca; el envase lleva la URL del Anexo VII). Comprobar si se recorre la
-   gama entera o hay que ir ficha a ficha.
-2. **EAN** de Open Products Facts: `tag_0=sanytol` y `search_terms=sanytol`.
-3. Si AC Marca no publica la lista de forma usable: probar la ficha del **registro de biocidas**
-   y, si tampoco, decirlo y parar. No rellenar con la activa sola ni con textos de tienda.
-**Lección de Fairy, que es la que importa aquí:** con P&G el problema NO fue la lista (se
-recorre entera) sino **emparejar la ficha con el código**, porque P&G publica varias fichas de
-nombre casi idéntico para el mismo bote y OPF solo tenía 15 códigos españoles de 113. Con
-Sanytol se espera mejor proporción: es una marca sobre todo española, así que los códigos de
-OPF deberían ser casi todos de aquí y no habrá cinco variantes de nombre por producto. Aun
-así, **si un envase casa con dos fichas posibles, no entra.**
+### Sanytol (AC Marca) — cerrada 2026-09-10: 4 productos, 5 códigos (de 36 fichas en sanytol.es)
+**AC Marca sí publica la lista completa del Anexo VII, pero no en España.** Lo que hay:
+- **sanytol.es** (WordPress, `page-sitemap.xml`, 36 fichas): nombre, formato y aroma, pero ni
+  ingredientes ni Anexo VII. **El EAN va en el nombre del archivo de la imagen principal**
+  (`og:image` → `…/8411660170231-SANYTOL-…png`); 11 fichas lo traen. Ojo: las imágenes de
+  "productos relacionados" arrastran otros EAN, hay que quedarse solo con la principal.
+- **sanytol.pt** enlaza "Composição do produto" a **info.grupoacmarca.com** →
+  `reach.grupoacmarca.com/public/v2`, el portal REACH/Anexo VII de AC Marca (solo http). La
+  **lista** de productos es pública (`/public/v2/ajax?marca=SANYTOL`: 175 entradas con su
+  código interno, `sy/sanytol_list.json`), pero la **ficha de ingredientes pide cuenta de
+  usuario** (`/productos/<id>` → login). No se ha creado cuenta: es una decisión de Mariana.
+- **sanytol.fr/composition-des-produits/** publica 49 PDF "FIC public" (fiche des ingrédients
+  du consommateur, Anexo VII, fabricante GRUPO AC MARCA, L'Hospitalet) con el **código de
+  fórmula** de AC Marca. Ese código es el mismo que usa el portal español: la ficha
+  "Cuisine Dégraissant PURE" lleva `9433639396`, que en el portal es "SANYTOL DESINFECTANTE
+  QUITAGRASAS LIMON"; "Salle de Bain PURE" lleva `9433639397` = "DESINFECTANTE LIMPIADOR
+  BAÑOS EUCALIPTUS"; "Multi-usages Eucalyptus PURE" cubre `33630000…33630400` = base de
+  `9433630000-M` (multiusos) y `9433630000-B` (botella limpiahogar). **Solo entra un producto
+  cuando el código de la ficha francesa coincide con el del producto español**; el nombre
+  parecido no basta.
+- Entran: Multiusos Eucaliptus (pistola + recarga), Suelos y Superficies Eucaliptus (botella),
+  Baños Eucaliptus, Quitagrasas Limón. Las listas son cortas (7-8 nombres: DDAC como activa,
+  isopropanol, etanolamina, ácido málico, tensioactivo etoxilado, perfume) y el detector ya
+  reconoce el cloruro de didecildimetilamonio.
+- Fuera: sprays Hogar y Tejidos Menta y Algodón (la ficha francesa es de los códigos
+  `33639415`/`33639465` y el producto español es `…416`/`…466`: código distinto, no se asume
+  la misma fórmula); Multiusos Manzana y Suelos Limón (dos entradas posibles en el portal y
+  ninguna ficha con su código); toallitas, geles de manos, colada, quitamanchas y
+  limpialavadoras (sin EAN en sanytol.es ni en OPF). OPF solo tiene 32 códigos de Sanytol y
+  27 son franceses (`30…`): aquí el EAN vino de la propia web.
+- Cómo seguir si Mariana quiere más: pedir cuenta en reach.grupoacmarca.com (formulario
+  público "Solicitar una nueva cuenta"); con ella la ficha de cada código español se lee
+  directa y valdría también para Norit, Alex, Denenes y Ecran, que están en el mismo portal.
+Scripts: `dvcurl.sh`, `sy/` (fichas, PDF y listas), `gen_sanytol.py`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -446,6 +456,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
 | Fairy (P&G) | info-pg.com vía Contentful (354 fichas ES) | **no** | sí, lista completa Anexo VII | EAN de OPF emparejado por nombre exacto del envase; ver su apartado |
+| Sanytol (AC Marca) | sí (`page-sitemap.xml`, 36) | sí, en el nombre de la imagen principal | **no**; la lista está en los PDF FIC de sanytol.fr (mismo código de fórmula) y tras login en reach.grupoacmarca.com | ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -459,12 +470,10 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1314 códigos en 15 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+1319 códigos en 16 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
 Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 ·
-Deliplus 15 · **Fairy 11** · SkinCeuticals 6. Ninguno de los 1180 productos está sin INCI.
-Sesderma sigue vacía. Limpieza: la fuente de P&G (info-pg.com) está resuelta y sirve para
-Ariel, Don Limpio, Lenor, Ambi Pur y Febreze; el cuello de botella es el EAN (OPF flojo y la
-ficha sin código). Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora,
-Sanex y L'Oréal Paris.
-**Sanytol ya está creada y vacía** (botón visible en la app), pendiente de curar: ver su
-apartado y el de "PRODUCTOS DE LIMPIEZA".
+Deliplus 15 · Fairy 11 · SkinCeuticals 6 · **Sanytol 5**. Ninguno de los 1185 productos está
+sin INCI. Sesderma sigue vacía. Limpieza: P&G (info-pg.com) resuelto para Ariel, Don Limpio,
+Lenor, Ambi Pur y Febreze; AC Marca (Sanytol, Norit, Alex) publica la lista pero la ficha
+española pide cuenta en reach.grupoacmarca.com. Siguientes del grupo "súper": Babaria,
+Instituto Español, Bella Aurora y L'Oréal Paris.
