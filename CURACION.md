@@ -492,6 +492,14 @@ Ojo con los detalles del HTML: alguna ficha usa `/` como separador de ingredient
 erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acrónimos se
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
+## PENDIENTES DE MARIANA (no los puede resolver Claude solo)
+- **Cuenta en el portal REACH de AC Marca** (`reach.grupoacmarca.com`), que desbloquearía las
+  fichas de ingredientes de las **175 referencias de Sanytol** en vez de las 4 que se han
+  podido curar desde los PDF franceses. Requiere registrarse a su nombre en un portal de un
+  tercero, así que es decisión suya. **Estado (2026-09-10): lo deja pendiente, no ahora.**
+  Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
+  marcas de AC Marca.
+
 ## Estado (2026-09-10)
 1319 códigos en 16 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
 Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 ·
