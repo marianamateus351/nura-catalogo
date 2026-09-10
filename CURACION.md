@@ -529,27 +529,51 @@ de coma corregidas por inequívocas. Los otros 5 (8480010168426, 8480010185195,
 fuera (regla 3). En Open Food Facts hay cientos de Eroski, pero es alimentación.
 `gen_eroski.py`, `er/`.
 
-### Sanex (Colgate-Palmolive) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Gel de ducha y desodorante, de las más vendidas de España. Tiene web de marca (`sanex.es`),
-así que se ataca como Dove o Neutrogena, no como una marca blanca.
-**La referencia realista es Dove**, que es el mismo tipo de marca (gel + desodorante,
-multipaís, muchos aromas) y dio 22 productos y 28 códigos. No esperar una L'Oréal Paris.
-1. **sanex.es**: buscar sitemap y ver qué publica la ficha. Las dos preguntas: ¿**EAN-13**
-   (en el JSON-LD como `gtin13`, en `data-…` del widget de compra, o en la URL como en Nivea
-   y Avène)? y ¿**INCI en texto**? Colgate-Palmolive tiene política de divulgación de
-   ingredientes, así que hay posibilidades de que la lista esté; **el EAN es el hueco
-   probable**, como pasó con ISDIN y con Dove.
-2. Si la web da INCI pero no EAN → los códigos, de **Open Beauty Facts** (`tag_0=sanex`,
-   `search_terms=sanex`), emparejando por nombre. Sanex es europea: los códigos buenos
-   empiezan por `84…` (España) y `87…` (Países Bajos, donde está Colgate-Palmolive Europa);
-   los `0…` son de EE. UU. y quedan fuera por la regla 3.
-3. Criba por vocabulario (`vocab.py`) si algún INCI acaba viniendo de OBF.
-Trampas propias, las mismas que dieron guerra en Dove:
-- **Un aroma = un INCI.** "Zero%", "Dermo", "BiomeProtect", "Natur Protect" y cada variante
-  de aroma llevan fórmula distinta aunque la gama se llame igual. No agrupar aromas; sí
-  agrupar tamaños del mismo aroma (regla 4).
-- **Desodorante: spray, roll-on y stick son fórmulas distintas** aunque compartan nombre.
-- Gama antigua descatalogada abundante (regla 3): Sanex reformula y renombra a menudo.
+### Sanex (Colgate-Palmolive) — cerrada 2026-09-10: 14 productos, 14 códigos (de 54 fichas con INCI en la web)
+Gel de ducha y desodorante. **sanex.es publica el INCI completo pero ningún EAN**, así que los
+códigos vienen de Open Beauty Facts (156 códigos, 123 europeos) emparejados con las fichas.
+Cómo va la web (AEM tras Akamai, como Dove):
+- `curl` pelado → "Access Denied"; en paralelo, errores SSL. Funciona `dvcurl.sh` (cabeceras de
+  Chrome completas) **en serie con 1,5 s de pausa**. Sitemap `sitemap.xml` (149 URL, 63 fichas).
+- El INCI está en la pestaña "INGREDIENTES" como tabla `INGREDIENTE | PROPÓSITO` (una fila por
+  ingrediente); la tabla no lleva marca fija, hay que buscar cualquier `<table>` que contenga
+  "INGREDIENTE". 54 fichas la traen (11–22 ingredientes). No hay JSON-LD con `gtin13`, ni
+  `data-…` de compra: solo SKU internos.
+- **5 fichas traen la lista traducida al español** (Derma Therapy anti-sequedad, aceite de ducha y
+  alisar textura, Ultrahidratante Urea, agave revitalizante): "Cocamidopropil Betaína", "Sulfonato
+  De Sodio C14-16 Olefinas"… Fuera (regla 2), como las cremas de manos de Neutrogena.
+- Erratas de la web corregidas: "Parfumingrediente" → Parfum, "Poloxámero 124" → Poloxamer 124.
+- **La web repite la misma lista de 11 ingredientes en las cinco fichas de gel Neutro/Zero%**
+  (Family, Hidratación Delicada, Hidratante, recarga, Nutritivo), y la etiqueta española del
+  Zero% piel sensible (8718951389519, sin perfume) demuestra que es falso: 8 ingredientes y sin
+  Parfum. Esas fichas no son fiables → **ningún gel Neutro/Zero% entra**, aunque OBF tenga 8 códigos.
+Cómo se emparejó (por orden de fiabilidad):
+1. **INCI idéntico** (Jaccard 1,00 entre la etiqueta de OBF y la lista de la web): 3 códigos con
+   texto (Zero% roll-on 50 ml, Natur Protect piedra de alumbre spray 200 ml, Dermo Protector
+   stick 65 ml) + 1 leído en la foto (Natur Protect antimanchas roll-on). Vale cualquier país.
+2. **Nombre y formato, solo con envase español o portugués** (etiquetados `en:spain`/`en:portugal`
+   en OBF y portada comprobada en la foto): 10 códigos (roll-on Dermo+ Invisible/Extra
+   Control/Sensitive, Men Invisible y Men Active Control, spray Men Invisible, roll-on Mineral
+   Protect piel normal, geles Cuidado Experto Protector, Aceite y Atopiderm Nutri Repair). Cuando
+   la etiqueta de OBF trae otra lista (Extra Control roll-on con BHT y ciclopentasiloxano, Men
+   Invisible roll-on 2024 sin aloe, Men Active Control con óxido de zinc) es la fórmula anterior:
+   se usa la de la web (regla 2, reformulación). No se aceptan emparejamientos por nombre con
+   envases de otros países: Sanex cambia fórmula por mercado (los Zero% franceses de OBF tienen
+   9 ingredientes; los españoles, 8 u 11).
+3. Nombres nuevos de la web: "pH Balance Dermo" ahora es "Dermo+"; "Natur Protect" ahora es
+   "Mineral Protect"; "Zero%" gel ahora es "Sanex Neutro" (las URL antiguas `zero-…` siguen).
+Fuera y por qué: gama antigua sin ficha (Dermo Protector gel con SLES, Zero% con SLES, Natur
+Protect bambú, Men Natur Protect, Men Stress Response, Atopiderm crema de manos, BiomeProtect
+loción, Hygiene Protector jabón de manos, Men Dermo Sensitive gel, Dermo Equilibrante), listas de
+OBF que difieren en 1–3 ingredientes de la ficha (BiomeProtect gel UK con Polyquaternium-7, Natur
+Protect anti-traces con alumbre, Zero% roll-on francés con inulina), 14 códigos `31…` (Francia
+antigua) y los `0…`. Las fichas de la web sin código en OBF (Dermo+ sprays, cremas desodorantes
+Sensitive/Fresh Defence/Total Freshness, Men Fresh Protect, Zero% sprays, Mineral Protect piel
+sensible, Cuidado Experto Pro Hydrate, niños, germen de trigo, Micellar Equilibrante, piel seca
+Cuidado Experto +) esperan a que aparezca el código: se entra con la foto o con "Buscados".
+Scripts: `sx/get.sh` + `dvcurl.sh` (descarga), `sx_parse.py` (tabla → `sx/db.json`),
+`obf2.py`/`obf_inci.py` (`obf_sanex.json`, `sx/obf_inci.json`), `gen_sanex.py` (lista PROD con
+el cómo de cada emparejamiento) → `sanex_merged.json`.
 Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredientes de Sanex**
 (se miraron 42 fichas de gel de ducha, solo dan fabricante y dirección). No volver por ahí.
 
@@ -586,7 +610,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | L'Oréal Paris | sí (2075 URL, sin las páginas de tono) | sí (`gtin13` JSON-LD; tonos en `oap-product-variant-selector`) | sí (`additionalProperty` Ingredients), salvo tintes y ~100 fichas vacías | ver su apartado |
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
-| Sanex | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero sanex.es; referencia realista, Dove (ver su apartado) |
+| Sanex | sí (`sitemap.xml`, 63 fichas; Akamai: `dvcurl.sh` en serie) | **no** (solo SKU interno) | sí, tabla INGREDIENTE/PROPÓSITO (54 fichas; 5 traducidas al español; geles Neutro con lista repetida) | códigos de OBF por INCI idéntico o por nombre solo con envase ES/PT; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -609,9 +633,9 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-2290 códigos en 19 marcas: L'Oréal Paris 511 · **Maybelline 455** · Nivea 235 · Garnier 234 ·
+2304 códigos en 20 marcas: L'Oréal Paris 511 · Maybelline 455 · Nivea 235 · Garnier 234 ·
 Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 ·
-Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 ·
-Eroski 5. Ninguno de los 1520 productos está sin INCI. Sesderma sigue vacía.
+Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · **Sanex 14** · Fairy 11 · SkinCeuticals 6 ·
+Sanytol 5 · Eroski 5. Ninguno de los 1534 productos está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
-**Sanex ya está creada y vacía** (botón visible en la app), pendiente de curar: ver su apartado.
+Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).

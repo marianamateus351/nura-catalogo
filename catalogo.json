@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10q",
+ "version": "2026-09-10s",
  "marcas": [
   {
    "key": "larocheposay",
@@ -14617,7 +14617,134 @@
   {
    "key": "sanex",
    "nombre": "Sanex",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Antitranspirante roll-on Dermo+ Extra Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789968551"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Ethylhexylglycerin, Aluminum Sesquichlorohydrate"
+    },
+    {
+     "nombre": "Antitranspirante roll-on Dermo+ Invisible sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789968544"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Caprylic/Capric Triglyceride, Cocoglycerides, Aluminum Sesquichlorohydrate"
+    },
+    {
+     "nombre": "Antitranspirante roll-on Dermo+ Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789968599"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Aluminum Sesquichlorohydrate, Lactose, Whey Protein"
+    },
+    {
+     "nombre": "Antitranspirante roll-on Men Active Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463714"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Ethylhexylglycerin, Aluminum Sesquichlorohydrate"
+    },
+    {
+     "nombre": "Antitranspirante roll-on Men Invisible sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463530"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Aluminum Sesquichlorohydrate"
+    },
+    {
+     "nombre": "Antitranspirante spray antimanchas Men Invisible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951068469"
+     ],
+     "inci": "Isobutane, Butane, Propane, Aluminum Chlorohydrate, Dimethicone, Isododecane, Glycine, Parfum, Isopropyl Palmitate, Calcium Chloride, Disteardimonium Hectorite, Linum Usitatissimum Seed Oil, PPG-14 Butyl Ether, Propylene Carbonate, Dimethiconol, Caprylic/Capric Triglyceride, Cocoglycerides"
+    },
+    {
+     "nombre": "Desodorante en stick Dermo Protector 24 h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951599758"
+     ],
+     "inci": "Propylene Glycol, Aqua, Sodium Stearate, Parfum, Sodium Chloride, Stearyl Alcohol, Tetrasodium EDTA"
+    },
+    {
+     "nombre": "Desodorante roll-on Mineral Protect piedra de alumbre para piel normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463929"
+     ],
+     "inci": "Aqua, PPG-15 Stearyl Ether, Glycerin, Steareth-21, Parfum, Potassium Alum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate"
+    },
+    {
+     "nombre": "Desodorante roll-on Zero% sin aluminio (Invisible / Men)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951246874"
+     ],
+     "inci": "Aqua, Glycerin, Steareth-2, PPG-15 Stearyl Ether, Dimethicone, Steareth-21, Parfum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate"
+    },
+    {
+     "nombre": "Desodorante roll-on antimanchas Mineral Protect piedra de alumbre",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463868"
+     ],
+     "inci": "Aqua, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Potassium Alum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate"
+    },
+    {
+     "nombre": "Desodorante spray Mineral Protect piedra de alumbre (antimanchas / piel normal / piel sensible)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951728103"
+     ],
+     "inci": "Isobutane, Butane, Propane, Isododecane, Isopropyl Palmitate, PPG-14 Butyl Ether, Parfum, Linum Usitatissimum Seed Oil, Potassium Alum, Dimethicone, Aloe Barbadensis Leaf Juice, Stearalkonium Hectorite, Dimethiconol, Propylene Carbonate"
+    },
+    {
+     "nombre": "Gel de baño Cuidado Experto Protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951519619"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Sodium Lactate, Lactic Acid, Parfum, Glycol Distearate, Poloxamer 124, Sodium Benzoate, Sodium PCA, Caprylyl Glycol, Polyquaternium-7, Coco-Glucoside, Sodium Metabisulfite, Glyceryl Oleate, Glyceryl Stearate, Triticum Vulgare Germ Oil"
+    },
+    {
+     "nombre": "Gel de ducha con aceite Cuidado Experto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951594579"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Glycerin, Sodium C14-16 Olefin Sulfonate, Sodium Benzoate, Inulin, Lactic Acid, Parfum, Hydroxyacetophenone, Sodium Pyruvate, Sodium PCA, Sodium Gluconate, Sucrose Cocoate, Butyloctanol, Lecithin, Poloxamer 124, Zinc Sulfate"
+    },
+    {
+     "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951594548"
+     ],
+     "inci": "Aqua, Glycerin, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Inulin, Sodium Benzoate, Castoryl Maleate, Lactic Acid, Hydroxyacetophenone, Glyceryl Oleate, Glycol Distearate, Polyquaternium-7, Sucrose Cocoate, Sodium Gluconate, Coco-Glucoside, Sodium Hydroxide, Sodium Pyruvate, Zinc Sulfate, Glyceryl Stearate"
+    }
+   ]
   }
  ]
 }
