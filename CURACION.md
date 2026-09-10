@@ -257,25 +257,39 @@ champú hombre, jabón de manos Gentle & Pure, limpiador facial hidratante, crem
 Bio, crema de día VitalBeauty, crema corporal hidratante, mascarilla capilar regeneradora y
 crema solar Active SPF30. Scripts: `gen_cien.py`, `vocab.py`, `final_cien.py`.
 
-### Neutrogena (neutrogena.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-Marca de Kenvue (antes Johnson & Johnson), muy vendida en supermercado y farmacia en España.
-A diferencia de Deliplus y Cien, **aquí sí hay web de marca**, así que se ataca como Nivea o
-Garnier y no como una marca blanca. Orden:
-1. **neutrogena.es** — buscar el sitemap (`/sitemap.xml`) y ver qué publica cada ficha. Las
-   dos preguntas de siempre: ¿trae **EAN-13** (o va en la URL, como en Nivea y Avène)? y
-   ¿trae el **INCI en texto**? Si trae las dos, la marca sale entera de aquí y es lo mejor.
-   Si trae INCI pero no EAN, es el caso ISDIN: los códigos se sacan de Open Beauty Facts y
-   se emparejan por nombre.
-2. **Open Beauty Facts** — `tag_0=neutrogena` y `search_terms=neutrogena`. Neutrogena se
-   vende en toda Europa y en EE. UU., así que aquí hay que ser especialmente cuidadoso con
-   la **regla 3**: fuera los códigos que empiezan por `0…` (EE. UU.), que son muchos y a
-   veces con fórmula distinta a la europea. Los europeos suelen empezar por `3…` o `4…`.
-3. Si el INCI viene de OBF y no de la marca, pasarle la **criba por vocabulario** (`vocab.py`)
-   igual que en Cien.
-Cuidado con dos cosas propias de esta marca: la gama es enorme y arrastra **productos
-descatalogados** con envases de generaciones anteriores (regla 3), y hay **fórmulas EE. UU. y
-UE distintas para el mismo nombre comercial** (los filtros solares sobre todo) — si hay duda
-de cuál es la lista, el producto no entra.
+### Neutrogena (neutrogena.es) — cerrada 2026-09-10: 41 productos, 47 códigos
+Marca de Kenvue. **neutrogena.es publica EAN-13 e INCI en texto**, así que la marca sale
+entera de la web y OBF queda para confirmar tamaños. Cómo va la ficha (Next.js/Contentful):
+- Sitemap `/sitemap.xml` (201 URL); son fichas las de `/(productos-*|lineas-de-productos)/x/y`
+  (59, de las que 15 son páginas de gama o FAQ sin EAN).
+- **EAN** en el widget de compra: `data-mm-ids="<EAN>,0<EAN>"` (también en el JSON-LD como
+  `"gtin":"0<EAN>"` con el 0 delante, que hay que quitar).
+- **INCI** en `<div data-sb-field-path="product.ingredients">`: normalmente un `<p>` con
+  comas, pero Collagen Bank e Hydro Boost crema/contorno traen **un `<p>` por ingrediente**, el
+  sérum de niacinamida una lista `<li>` tras "Los ingredientes del … son:", y las fichas nuevas
+  (Ultra Gentle, Hydro Boost SPF50) un `<p class="rich-text">` suelto. Llevan pegado el código
+  interno de fórmula (`[PR-017060]`, `FPT0793`), que se quita pero **sirve para identificar
+  tamaños en OBF**: si la etiqueta de OBF trae el mismo PR-, es la misma fórmula.
+- Erratas de la web corregidas contra el vocabulario: `C12-15 Alky Benzoate`, `Tocophero`,
+  `Glycreryl Stearate SE`.
+Qué se quedó fuera y por qué:
+- **Bálsamo Reparación Inmediata Nariz y Labios** (3574660602609): la web acaba la lista en
+  `CI 7789` (colorante truncado) y no hay etiqueta en OBF ni ficha en incidecoder → lista
+  incompleta, regla 2.
+- **Clear & Defend+ Parches** (3574661889085): hidrocoloide, la web no publica ingredientes.
+- Las **cuatro cremas de manos Fórmula Noruega** la web las publica con la lista **traducida
+  al español** ("Glicerina, Alcohol Cetearílico…"). Entraron con el INCI en inglés porque las
+  etiquetas de OBF de los otros tamaños (3574661685977 sin perfume, 3574660239829 rápida
+  absorción) coinciden término a término y en el mismo orden; las dos hermanas (con perfume,
+  manos y uñas) se pasaron con esa misma correspondencia. Ojo: OBF guarda para esos mismos
+  nombres la **fórmula antigua con parabenos/fenoxietanol**, que no es la actual.
+- De los 171 códigos de OBF (107 empiezan por `3`, 47 por `0`, 11 por `7`) solo entraron los
+  que casan con una ficha actual por código PR- o por lista idéntica (crema de pies ultra
+  hidratante 100 ml, limpiador Hydro Boost, cremas de manos). El resto son EE. UU. (`0…`),
+  Brasil (`789…`) o gamas ya no publicadas (Visibly Clear, Deep Clean, Nordic Berry, Hydro
+  Boost Aqua-Gel de fórmula antigua): regla 3, no entran.
+Scripts: `neutrogena.py` (parseo de fichas), `gen_neutrogena.py` (nombres en español y
+erratas), `obf_inci.py`, `vocab.py`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -302,10 +316,9 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
-| Neutrogena | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero neutrogena.es (ver su apartado) |
+| Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
-| Cien (Lidl) | no hay web de marca | no | a veces en lidl.es | Open Beauty Facts como fuente principal de EAN e INCI (ver su apartado) |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
 con un navegador headless, farmacias, incidecoder). Por la regla 2-bis, de estas tres marcas
@@ -318,10 +331,9 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1219 códigos en 12 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Bioderma 42 · **Cien 26** · ISDIN 18 · Deliplus 15 · SkinCeuticals 6.
-Ninguno de los 1102 productos está sin INCI. Sesderma sigue vacía. La criba por vocabulario
-(`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo "súper":
-Babaria, Instituto Español, Bella Aurora, Sanex, Dove, Neutrogena y L'Oréal Paris (estas
-tres últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Garnier).
-**Neutrogena ya está creada y vacía** (botón visible en la app), pendiente de curar.
+1266 códigos en 13 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · **Neutrogena 47** · Bioderma 42 · Cien 26 · ISDIN 18 · Deliplus 15 ·
+SkinCeuticals 6. Ninguno de los 1143 productos está sin INCI. Sesderma sigue vacía. La criba
+por vocabulario (`vocab.py`) vale para cualquier marca que venga de OBF. Siguientes del grupo
+"súper": Babaria, Instituto Español, Bella Aurora, Sanex, Dove y L'Oréal Paris (las dos
+últimas tienen web de marca: mirar primero si publican EAN + INCI, como Nivea/Neutrogena).
