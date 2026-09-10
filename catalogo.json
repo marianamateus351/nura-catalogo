@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10i",
+ "version": "2026-09-10j",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10893,6 +10893,11 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Cumenesulfonate, Alcohol, PPG-17, Sodium Citrate, Parfum, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, PEI/PEG/PPG Copolymer, Phenoxyethanol, 4-Methylcyclohexane-1 3-diamine, Hexyl Cinnamal, Linalool, Magnesium Sulfate, 2-Methylcyclohexane-1 3-diamine, Dipropylene Glycol, Sodium Sulfate, Sodium Chloride, Benzisothiazolinone, Colorante, Colorante"
     }
    ]
+  },
+  {
+   "key": "sanytol",
+   "nombre": "Sanytol",
+   "productos": []
   }
  ]
 }

@@ -392,6 +392,31 @@ si caben dos, no (regla de las dos fórmulas).
   ficha vigente, como manda la regla 2.
 Scripts: `cf.py` (Contentful), `opf2.py`/`opf_inci.py` (Open Products Facts), `gen_fairy.py`.
 
+### Sanytol (AC Marca) — SIGUIENTE MARCA DE LIMPIEZA (pedida por Mariana, 2026-09-10)
+Desinfectante español (AC Marca, Barcelona), de los más usados en casa. Se cura con el método
+del apartado "PRODUCTOS DE LIMPIEZA": ficha del Anexo VII para la lista, Open Products Facts
+para los códigos.
+**Ojo, es un caso especial dentro de la limpieza:** buena parte de la gama Sanytol son
+**biocidas** (desinfectantes registrados), no detergentes. Eso cambia dos cosas:
+- Los biocidas declaran la **sustancia activa y su porcentaje** en el envase por obligación
+  propia (ej. "Cloruro de didecildimetilamonio 0,5 g/100 g"), lo cual es *más* información que
+  un detergente normal — y el DDAC y el benzalconio ya están en nuestra base de disruptores.
+- Pero el resto de la fórmula puede seguir sin publicarse. **Solo entra el producto si hay
+  lista completa**, no basta con la activa (regla 2-bis, sin excepción por ser biocida).
+Orden de trabajo:
+1. Localizar la ficha de ingredientes de **AC Marca / Sanytol** (sanytol.es y la web
+   corporativa de AC Marca; el envase lleva la URL del Anexo VII). Comprobar si se recorre la
+   gama entera o hay que ir ficha a ficha.
+2. **EAN** de Open Products Facts: `tag_0=sanytol` y `search_terms=sanytol`.
+3. Si AC Marca no publica la lista de forma usable: probar la ficha del **registro de biocidas**
+   y, si tampoco, decirlo y parar. No rellenar con la activa sola ni con textos de tienda.
+**Lección de Fairy, que es la que importa aquí:** con P&G el problema NO fue la lista (se
+recorre entera) sino **emparejar la ficha con el código**, porque P&G publica varias fichas de
+nombre casi idéntico para el mismo bote y OPF solo tenía 15 códigos españoles de 113. Con
+Sanytol se espera mejor proporción: es una marca sobre todo española, así que los códigos de
+OPF deberían ser casi todos de aquí y no habrá cinco variantes de nombre por producto. Aun
+así, **si un envase casa con dos fichas posibles, no entra.**
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -441,3 +466,5 @@ Sesderma sigue vacía. Limpieza: la fuente de P&G (info-pg.com) está resuelta y
 Ariel, Don Limpio, Lenor, Ambi Pur y Febreze; el cuello de botella es el EAN (OPF flojo y la
 ficha sin código). Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora,
 Sanex y L'Oréal Paris.
+**Sanytol ya está creada y vacía** (botón visible en la app), pendiente de curar: ver su
+apartado y el de "PRODUCTOS DE LIMPIEZA".
