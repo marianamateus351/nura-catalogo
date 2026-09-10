@@ -472,7 +472,7 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
 ## Estado (2026-09-10)
 1319 códigos en 16 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
 Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 ·
-Deliplus 15 · Fairy 11 · SkinCeuticals 6 · **Sanytol 5**. Ninguno de los 1185 productos está
+Deliplus 15 · Fairy 11 · SkinCeuticals 6 · **Sanytol 5**. Ninguno de los 1184 productos está
 sin INCI. Sesderma sigue vacía. Limpieza: P&G (info-pg.com) resuelto para Ariel, Don Limpio,
 Lenor, Ambi Pur y Febreze; AC Marca (Sanytol, Norit, Alex) publica la lista pero la ficha
 española pide cuenta en reach.grupoacmarca.com. Siguientes del grupo "súper": Babaria,
