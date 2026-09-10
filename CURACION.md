@@ -505,6 +505,13 @@ la web corporativa `www.eroski.es` no tiene catálogo):
 - **No publica el EAN**: el único identificador es el interno de la tienda (`25622853`, que
   también nombra las fotos); no hay ningún número de 13 cifras en la página. Es el caso
   inverso de Mercadona (EAN sin INCI).
+- **Higiene y cosmética: la ficha NO trae ingredientes.** Comprobado con un script en la
+  consola de Chrome de Mariana sobre 42 fichas de gel de ducha (Eroski Basic, Sanex,
+  Palmolive): "Características" solo da fabricante y dirección. El bloque "Ingredientes" solo
+  aparece en limpieza (vinagre). Las fotos de ficha son miniaturas de 200 px; el código de
+  barras de la foto trasera no se lee a ese tamaño (hay una versión grande, `_2_x.jpg`, sin
+  probar). **Eroski queda aparcada por decisión de Mariana (2026-09-10)**: la tienda no sirve
+  para higiene y el circuito de fotos no compensa. Solo entraría algo por "Buscados" + OBF.
 - **El buscador de la tienda acepta un EAN** y devuelve su ficha (probado con 8480010184396 →
   crema de manos Belle). Cada código que se consiga por otro lado se resuelve a su lista en
   un minuto, desde un navegador normal.
