@@ -529,6 +529,30 @@ de coma corregidas por inequívocas. Los otros 5 (8480010168426, 8480010185195,
 fuera (regla 3). En Open Food Facts hay cientos de Eroski, pero es alimentación.
 `gen_eroski.py`, `er/`.
 
+### Sanex (Colgate-Palmolive) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+Gel de ducha y desodorante, de las más vendidas de España. Tiene web de marca (`sanex.es`),
+así que se ataca como Dove o Neutrogena, no como una marca blanca.
+**La referencia realista es Dove**, que es el mismo tipo de marca (gel + desodorante,
+multipaís, muchos aromas) y dio 22 productos y 28 códigos. No esperar una L'Oréal Paris.
+1. **sanex.es**: buscar sitemap y ver qué publica la ficha. Las dos preguntas: ¿**EAN-13**
+   (en el JSON-LD como `gtin13`, en `data-…` del widget de compra, o en la URL como en Nivea
+   y Avène)? y ¿**INCI en texto**? Colgate-Palmolive tiene política de divulgación de
+   ingredientes, así que hay posibilidades de que la lista esté; **el EAN es el hueco
+   probable**, como pasó con ISDIN y con Dove.
+2. Si la web da INCI pero no EAN → los códigos, de **Open Beauty Facts** (`tag_0=sanex`,
+   `search_terms=sanex`), emparejando por nombre. Sanex es europea: los códigos buenos
+   empiezan por `84…` (España) y `87…` (Países Bajos, donde está Colgate-Palmolive Europa);
+   los `0…` son de EE. UU. y quedan fuera por la regla 3.
+3. Criba por vocabulario (`vocab.py`) si algún INCI acaba viniendo de OBF.
+Trampas propias, las mismas que dieron guerra en Dove:
+- **Un aroma = un INCI.** "Zero%", "Dermo", "BiomeProtect", "Natur Protect" y cada variante
+  de aroma llevan fórmula distinta aunque la gama se llame igual. No agrupar aromas; sí
+  agrupar tamaños del mismo aroma (regla 4).
+- **Desodorante: spray, roll-on y stick son fórmulas distintas** aunque compartan nombre.
+- Gama antigua descatalogada abundante (regla 3): Sanex reformula y renombra a menudo.
+Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredientes de Sanex**
+(se miraron 42 fichas de gel de ducha, solo dan fabricante y dirección). No volver por ahí.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -562,6 +586,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | L'Oréal Paris | sí (2075 URL, sin las páginas de tono) | sí (`gtin13` JSON-LD; tonos en `oap-product-variant-selector`) | sí (`additionalProperty` Ingredients), salvo tintes y ~100 fichas vacías | ver su apartado |
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
+| Sanex | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero sanex.es; referencia realista, Dove (ver su apartado) |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -589,3 +614,4 @@ Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 
 Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 ·
 Eroski 5. Ninguno de los 1520 productos está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
+**Sanex ya está creada y vacía** (botón visible en la app), pendiente de curar: ver su apartado.

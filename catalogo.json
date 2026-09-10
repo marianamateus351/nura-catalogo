@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10r",
+ "version": "2026-09-10q",
  "marcas": [
   {
    "key": "larocheposay",
@@ -14613,6 +14613,11 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Disodium Cocoamphodiacetate, Glycerin, Sodium Chloride, Glyceryl Oleate, Coco-Glucoside, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Parfum, Citric Acid, Polyquaternium-10, Tocopherol, Hydrogenated Palm Glycerides Citrate"
     }
    ]
+  },
+  {
+   "key": "sanex",
+   "nombre": "Sanex",
+   "productos": []
   }
  ]
 }
