@@ -353,23 +353,44 @@ resultado de verdad, no un "todo bien" vacío.
 **5. El campo `inci` se usa igual** aunque técnicamente no sea un INCI: es el texto de
 ingredientes que lee el detector. Nombres en español, como siempre.
 
-### Fairy (P&G) — PRIMERA MARCA DE LIMPIEZA (pedida por Mariana, 2026-09-10)
-Se estrena la categoría con Fairy por dos razones: P&G es de los que mejor publican la ficha
-del Anexo VII en Europa (**confírmalo, no está verificado**), y sobre todo porque **si el
-scraper funciona con Fairy sirve igual para Ariel, Don Limpio y Dodot**, que son la misma
-fuente. Una marca abre cuatro.
-1. Localizar la **ficha de ingredientes de P&G** (el envase lleva la URL; suele estar en un
-   sitio de "product safety"/"ingredientes" de P&G, por producto y por país). Comprobar que
-   da la lista completa y que se puede recorrer el catálogo entero, no producto a producto.
-2. **EAN**: de Open Products Facts (`world.openproductsfacts.org`), `tag_0=fairy` y
-   `search_terms=fairy`. Ojo: Fairy se llama **Dawn en EE. UU.** y **Dreft/Yes en otros
-   países**; solo entran los códigos europeos con el nombre español.
-3. Emparejar ficha ↔ código **por nombre y formato** (líquido, cápsulas, spray, tamaño). Aquí
-   es fácil equivocarse porque la gama tiene muchas variantes de aroma con el mismo nombre:
-   cada aroma es una lista distinta, igual que en Dove.
-Si P&G no publica la lista de forma usable, **decirlo y parar** — no rellenar con los rangos
-de la etiqueta ni con listas de tiendas. Alternativas del grupo si Fairy falla: Asevi, KH-7
-y Sanytol (españolas), o Henkel (Wipp, Vernel, Norit).
+### Fairy (P&G) — cerrada 2026-09-10: 6 productos, 11 códigos (de 71 variantes con lista completa)
+**P&G publica la ficha del Anexo VII de forma usable y se recorre entera.** Lo que falla es el
+emparejamiento con el código, no la lista. Cómo está montado:
+- **info-pg.com** es la web del Reglamento 648/2004 para toda Europa. Es una app Next.js con
+  selectores país → marca → formato, y los datos salen de **Contentful** (espacio
+  `damp14uglyq4`, clave pública de lectura en el propio JavaScript; `cf.py`). Consultas:
+  `brandSelector` (`fields.countryId=11` = España), `prodFormSelector` (marca + país),
+  `productDetails` (país + formato: `variants`, `paNumber`, `ipms`) e `ingredients`
+  (`fields.paNumber` → `ingredientNames`, la lista completa y ordenada). El `sitemap.xml`
+  apunta a un host de desarrollo y no lista fichas: no sirve.
+- Para España: 20 marcas de P&G, 354 fichas; Fairy tiene 71 variantes en 6 formatos
+  (a mano 544, máquina 498, gel 1023, abrillantador 1392, Professional 1573/1661), 62 fórmulas
+  distintas (`fairy_pg.json`). **La misma consulta vale para Ariel (50), Don Limpio (140),
+  Lenor (218), Ambi Pur (789), Febreze (188)…**: `cf.get({'content_type':'productDetails',
+  'fields.countryId':11,...})` y filtrar por `prodFormId` de la marca.
+- La lista trae nombres químicos largos con comas dentro ("Alcohols, C9-11-branched and
+  linear, ethoxylated"); se quitan las comas internas porque la app trocea por comas.
+  "Colorant" y "PARFUM" se dejan como "Colorante" y "Parfum".
+**El problema: la ficha no lleva EAN y el envase no lleva la clave de la ficha.** En la foto
+del envase (OPF) sale un código de 8 cifras junto al código de barras (90590462, 90794278…),
+pero **no coincide** ni con el `paNumber` ni con el `ipms` de Contentful. Así que el
+emparejamiento es solo por el **nombre exacto del envase** (leído en la foto de OPF) contra el
+nombre de la variante de P&G, y P&G lista **varias fichas con nombres casi iguales** para el
+mismo producto comercial: "Original", "Ultra Original", "Ultra Poder Original"; "Lemon",
+"Ultra Lemon", "Limón", "Limón / Limão", "Maxi Poder - Limón"; tres fichas distintas para las
+cápsulas "Original All in One con aroma a limón". Si el envase casa con una sola ficha, entra;
+si caben dos, no (regla de las dos fórmulas).
+- Entran (a mano): Ultra Poder Original, Ultra Poder Más Rápido, Ultra Original (4 tamaños),
+  Maxi Poder, Limpieza & Cuidado Aloe Vera y Pepino (ficha `91228936007`, cuyo nombre es
+  el del envase; la `…004` es otra revisión), Limpieza & Cuidado Rosa y Satén.
+- Fuera: cápsulas Todo en Uno y Original All in One (dos y tres fichas posibles), Poder 3 en 1
+  (dos listas distintas bajo dos formatos), Fairy Professional 5 L ("Original" no existe en
+  la ficha: solo Regular/Classico), Fairy Ultra sin subnombre legible, y el Ultra Lemon con
+  envase portugués. OPF solo tiene 15 códigos con `en:spain` de 113 (el resto UK, DE, FR).
+- Etiquetas viejas (fotos de 2019-2020) declaran Methylisothiazolinone; las fichas actuales
+  de esos mismos productos ya no la llevan (Benzisothiazolinone + Phenoxyethanol): se usa la
+  ficha vigente, como manda la regla 2.
+Scripts: `cf.py` (Contentful), `opf2.py`/`opf_inci.py` (Open Products Facts), `gen_fairy.py`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -396,10 +417,10 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
-| Dove | por comprobar | por comprobar | por comprobar | hay web de marca: mirar primero dove.com/es (ver su apartado) |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
+| Fairy (P&G) | info-pg.com vía Contentful (354 fichas ES) | **no** | sí, lista completa Anexo VII | EAN de OPF emparejado por nombre exacto del envase; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -413,10 +434,10 @@ erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acr
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
 ## Estado (2026-09-10)
-1303 códigos en 14 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
-Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · **Dove 28** · Cien 26 · ISDIN 18 ·
-Deliplus 15 · SkinCeuticals 6. Ninguno de los 1174 productos está sin INCI. Sesderma sigue
-vacía. Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora, Sanex y
-L'Oréal Paris (esta última con web de marca: mirar primero si publica EAN + INCI).
-**Fairy ya está creada y vacía** (botón visible en la app): estrena la categoría de productos
-de limpieza, que se cura distinto — ver el apartado "PRODUCTOS DE LIMPIEZA".
+1314 códigos en 15 marcas: Nivea 235 · Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 ·
+Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 ·
+Deliplus 15 · **Fairy 11** · SkinCeuticals 6. Ninguno de los 1180 productos está sin INCI.
+Sesderma sigue vacía. Limpieza: la fuente de P&G (info-pg.com) está resuelta y sirve para
+Ariel, Don Limpio, Lenor, Ambi Pur y Febreze; el cuello de botella es el EAN (OPF flojo y la
+ficha sin código). Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora,
+Sanex y L'Oréal Paris.
