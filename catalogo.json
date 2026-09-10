@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10p",
+ "version": "2026-09-10q",
  "marcas": [
   {
    "key": "larocheposay",
@@ -13462,7 +13462,53 @@
   {
    "key": "eroski",
    "nombre": "Eroski",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Belle Crema de Manos Reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010184396"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Allantoin, Tocopheryl Acetate, Simmondsia Chinensis Seed Oil, Parfum, Benzyl Salicylate, Sodium PCA, Benzoic Acid, Dehydroacetic Acid, Sodium Hydroxide, Myristyl Alcohol, Stearyl Alcohol, Phenoxyethanol, Hexyl Cinnamal, Linalool, Limonene, Benzyl Benzoate, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Hydroxycitronellal, Coumarin"
+    },
+    {
+     "nombre": "Basic Dermo Jabón Líquido de Manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010194272"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Styrene/Acrylates Copolymer, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Belle Natural Crema de Manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010207170"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Glycerin, Glyceryl Stearate Citrate, Olea Europaea Fruit Oil, Glyceryl Stearate, Cetearyl Alcohol, Chamomilla Recutita Flower Extract, Citrus Aurantium Peel Oil, Myrcene, Beta-Sitosterol, Glycine Soja Oil, Prunus Amygdalus Dulcis Oil, Squalene, Xanthan Gum, Sodium Phytate, Tocopherol, Potassium Sorbate, Sodium Benzoate, Citric Acid, Citral, Limonene, Linalool"
+    },
+    {
+     "nombre": "Belle Men Crema Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010177329"
+     ],
+     "inci": "Aqua, Glycerin, Betaine, Methylpropanediol, Isohexadecane, Polyglyceryl-3 Methylglucose Distearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butyrospermum Parkii Oil, Glyceryl Stearate, Tocopheryl Acetate, Caprylyl Glycol, Hydrolyzed Jojoba Esters, Silica, Carbomer, Allantoin, Oryza Sativa Starch, Phenylpropanol, Sodium Hydroxide, Maltodextrin, Moringa Pterygosperma Seed Extract, Parfum"
+    },
+    {
+     "nombre": "Gel Íntimo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010181579"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Cocoamphodiacetate, Glycerin, Sodium Chloride, Glyceryl Oleate, Coco-Glucoside, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Parfum, Citric Acid, Polyquaternium-10, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    }
+   ]
   }
  ]
 }
