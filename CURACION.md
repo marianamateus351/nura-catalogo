@@ -326,6 +326,51 @@ Criterios que decidieron qué entra:
 Scripts: `dvcurl.sh`, `dove.py` (fichas → `dove_db.json`), `gen_dove.py`, `obf2.py` (OBF con
 reintentos), `obf_inci.py`.
 
+## PRODUCTOS DE LIMPIEZA: se curan distinto que la cosmética
+Categoría nueva (pedida por Mariana, 2026-09-10). Antes de empezar, lo que cambia:
+
+**1. La etiqueta NO lleva lista de ingredientes.** Un detergente declara *rangos por familia*
+("5-15% tensioactivos aniónicos, <5% tensioactivos no iónicos, perfume, Limonene"). Eso NO
+sirve para el catálogo: no dice qué conservante ni qué tensioactivo lleva. **No meter nunca
+esos rangos en el campo `inci`.**
+
+**2. La lista completa sí existe y es obligatoria.** El Reglamento (CE) 648/2004 de detergentes
+(Anexo VII) obliga al fabricante a publicar en una web la **ficha de datos de ingredientes**
+con la lista completa. Esa web es la fuente buena, el equivalente al INCI de la cosmética.
+El envase suele llevar la URL. Ahí es donde hay que ir: **si una marca no la publica de forma
+usable, se queda fuera igual que Sesderma** (regla 2-bis, sin cambios).
+
+**3. Los códigos salen de Open Products Facts**, no de Open Beauty Facts. La app ya consulta
+las tres bases (`fetchBrandProducts` en `src/services/products.js`), así que las fotos vienen
+solas al importar. La cobertura es más floja que en cosmética: contar con menos códigos.
+
+**4. Merece la pena, y está comprobado.** De los 206 disruptores que detecta Nura, 34 son de
+categoría Hogar, y entre ellos están justo los que aparecen en estas fichas: MIT, MCI, BIT y
+OIT (isotiazolinonas), cloruro de benzalconio, DDAC, nonilfenol y alquilfenoles etoxilados,
+2-butoxietanol, fenoxietanol y los tensioactivos etoxilados. Un detergente escaneado da
+resultado de verdad, no un "todo bien" vacío.
+
+**5. El campo `inci` se usa igual** aunque técnicamente no sea un INCI: es el texto de
+ingredientes que lee el detector. Nombres en español, como siempre.
+
+### Fairy (P&G) — PRIMERA MARCA DE LIMPIEZA (pedida por Mariana, 2026-09-10)
+Se estrena la categoría con Fairy por dos razones: P&G es de los que mejor publican la ficha
+del Anexo VII en Europa (**confírmalo, no está verificado**), y sobre todo porque **si el
+scraper funciona con Fairy sirve igual para Ariel, Don Limpio y Dodot**, que son la misma
+fuente. Una marca abre cuatro.
+1. Localizar la **ficha de ingredientes de P&G** (el envase lleva la URL; suele estar en un
+   sitio de "product safety"/"ingredientes" de P&G, por producto y por país). Comprobar que
+   da la lista completa y que se puede recorrer el catálogo entero, no producto a producto.
+2. **EAN**: de Open Products Facts (`world.openproductsfacts.org`), `tag_0=fairy` y
+   `search_terms=fairy`. Ojo: Fairy se llama **Dawn en EE. UU.** y **Dreft/Yes en otros
+   países**; solo entran los códigos europeos con el nombre español.
+3. Emparejar ficha ↔ código **por nombre y formato** (líquido, cápsulas, spray, tamaño). Aquí
+   es fácil equivocarse porque la gama tiene muchas variantes de aroma con el mismo nombre:
+   cada aroma es una lista distinta, igual que en Dove.
+Si P&G no publica la lista de forma usable, **decirlo y parar** — no rellenar con los rangos
+de la etiqueta ni con listas de tiendas. Alternativas del grupo si Fairy falla: Asevi, KH-7
+y Sanytol (españolas), o Henkel (Wipp, Vernel, Norit).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -373,3 +418,5 @@ Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · **Dove 28** · Cien 26
 Deliplus 15 · SkinCeuticals 6. Ninguno de los 1174 productos está sin INCI. Sesderma sigue
 vacía. Siguientes del grupo "súper": Babaria, Instituto Español, Bella Aurora, Sanex y
 L'Oréal Paris (esta última con web de marca: mirar primero si publica EAN + INCI).
+**Fairy ya está creada y vacía** (botón visible en la app): estrena la categoría de productos
+de limpieza, que se cura distinto — ver el apartado "PRODUCTOS DE LIMPIEZA".

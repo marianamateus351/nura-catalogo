@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10g",
+ "version": "2026-09-10h",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10828,6 +10828,11 @@
      "inci": "Aqua, Glycerin, Dimethicone, Stearic Acid, Caprylic/Capric Triglyceride, Glycol Stearate, PEG-100 Stearate, Petrolatum, Glyceryl Stearate, Caprylyl Glycol, Phenoxyethanol, Cetyl Alcohol, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Disodium EDTA, Stearamide AMP, Carbomer, Tocopheryl Acetate, Butyrospermum Parkii Butter, Isomerized Linoleic Acid, Helianthus Annuus Seed Oil, Citric Acid, Coumarin, CI 77891"
     }
    ]
+  },
+  {
+   "key": "fairy",
+   "nombre": "Fairy",
+   "productos": []
   }
  ]
 }
