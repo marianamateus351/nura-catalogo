@@ -490,7 +490,37 @@ Sale entera de la web con los scripts de L'Oréal Paris, con dos diferencias de 
 Fuera: 10 fichas sin lista (calendario de adviento, dos primers, Master Fix, dos Lash
 Sensational, paleta Burgundy Bar…), 1 traducida al español (Sky High Green Altitude) y 6
 códigos de EE. UU. (`41554…`, UPC de 12 cifras). Scripts: `mb/get.sh`, `mb_parse.py`,
-`mb_gen.py`.
+`mb_gen.py`. Detrás, en el mismo grupo y con la misma plataforma: **NYX Professional
+Makeup** y **Essie**.
+
+### Eroski — cerrada 2026-09-10: 5 productos, 5 códigos (fuente OBF; la tienda da INCI pero no EAN)
+**Comprobado con Mariana desde su navegador** (el dominio entero responde a las máquinas con
+el desafío "Comprobando tu navegador" de Google Cloud Armor, un reCAPTCHA interactivo que ni
+Chromium headless pasa; ni la Wayback Machine ni Common Crawl son alcanzables desde el proxy;
+la web corporativa `www.eroski.es` no tiene catálogo):
+- La ficha de `supermercado.eroski.es/es/productdetail/<id>-<slug>/` **sí publica los
+  ingredientes en texto**, en `<div class="feature feature-text-ingredients"><span
+  class="title">Ingredientes</span><p class="text">…</p>`, montada en el servidor (Tapestry),
+  sin API JSON detrás. Para limpieza da la lista real ("Vinagre de alcohol 8%"), no rangos.
+- **No publica el EAN**: el único identificador es el interno de la tienda (`25622853`, que
+  también nombra las fotos); no hay ningún número de 13 cifras en la página. Es el caso
+  inverso de Mercadona (EAN sin INCI).
+- **El buscador de la tienda acepta un EAN** y devuelve su ficha (probado con 8480010184396 →
+  crema de manos Belle). Cada código que se consiga por otro lado se resuelve a su lista en
+  un minuto, desde un navegador normal.
+Circuito para ir llenando Eroski (no hay forma de sacar la gama entera de golpe):
+1. Los códigos llegan de la pestaña **"Buscados"** de la app (escaneos sin resultado, con el
+   nombre de Open*Facts si lo hay) o de fotos del código de barras en tienda.
+2. Mariana teclea el EAN en el buscador de la tienda y pega aquí el bloque "Características"
+   de la ficha, con el código delante.
+3. Se limpia, se pasa la criba por vocabulario (`vocab.py`) y se sube.
+Lo que hay: 10 códigos en OBF/OPF (`tag_0=eroski` + `search_terms=eroski`), 6 con lista;
+entraron los 5 que pasan la criba (crema de manos reparadora y Natural de **Belle**, la línea
+de cosmética de Eroski; Belle Men; jabón líquido Basic Dermo; gel íntimo), con tres erratas
+de coma corregidas por inequívocas. Los otros 5 (8480010168426, 8480010185195,
+8480010191110, 8480010198249, 8480010195552) **ya no existen en la tienda**: descatalogados,
+fuera (regla 3). En Open Food Facts hay cientos de Eroski, pero es alimentación.
+`gen_eroski.py`, `er/`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -524,8 +554,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sanytol (AC Marca) | sí (`page-sitemap.xml`, 36) | sí, en el nombre de la imagen principal | **no**; la lista está en los PDF FIC de sanytol.fr (mismo código de fórmula) y tras login en reach.grupoacmarca.com | ver su apartado |
 | L'Oréal Paris | sí (2075 URL, sin las páginas de tono) | sí (`gtin13` JSON-LD; tonos en `oap-product-variant-selector`) | sí (`additionalProperty` Ingredients), salvo tintes y ~100 fichas vacías | ver su apartado |
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
-| Eroski | tienda online `supermercado.eroski.es` | por comprobar | por comprobar | marca blanca: primero la tienda online, si no OBF/OPF con criba por vocabulario (ver su apartado) |
-| Eroski | tienda tras reCAPTCHA interactivo (Cloud Armor): ilegible | — | — | OBF/OPF: 10 códigos, 5 entran; ver su apartado |
+| Eroski | tienda tras reCAPTCHA interactivo (solo desde navegador) | **no** (solo id interno; el buscador acepta EAN) | sí, en texto (`feature-text-ingredients`) | códigos de "Buscados" o fotos → ficha por EAN → pegar bloque; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -552,5 +581,4 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
 Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 ·
 Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 ·
 Eroski 5. Ninguno de los 1520 productos está sin INCI. Sesderma sigue vacía.
-Pendiente de Mariana: mirar supermercado.eroski.es desde un navegador normal (pestaña Red,
-peticiones JSON) para saber si la ficha da EAN e ingredientes.
+Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
