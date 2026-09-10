@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10m",
+ "version": "2026-09-10n",
  "marcas": [
   {
    "key": "larocheposay",
@@ -13435,6 +13435,11 @@
      "inci": "Isododecane, Oryza Sativa Cera, Cera Alba, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Dimer Dilinoleyl Dimer Dilinoleate, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Copernicia Cerifera Cera, Hydrogenated Jojoba Oil, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, CI 77499"
     }
    ]
+  },
+  {
+   "key": "maybelline",
+   "nombre": "Maybelline New York",
+   "productos": []
   }
  ]
 }

@@ -461,6 +461,32 @@ Fuera y por qué:
 Scripts: `lp/get.sh`, `lp_parse.py`, `lp_agg.py` (fichas → `lp/db.json` + URL de tonos que
 faltan), `gen_lp.py` (agrupación y nombres). OBF no hizo falta.
 
+### Maybelline New York (maybelline.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
+**La siguiente con más retorno, y de largo**, por una razón muy concreta: Maybelline es del
+**grupo L'Oréal** y su web va sobre la misma plataforma que loreal-paris.es, que acaba de dar
+la marca más grande del catálogo (249 productos, 501 códigos). **Los scripts de L'Oréal Paris
+(`lp/get.sh`, `lp_parse.py`, `lp_agg.py`, `gen_lp.py`) deberían valer casi tal cual**: probar
+primero eso y solo tocar lo que falle. Es además maquillaje puro, que es justo lo que Mariana
+ha pedido expresamente que entre.
+Lo que hay que comprobar, en este orden:
+1. Que el `sitemap.xml` de maybelline.es existe y que las fichas traen **JSON-LD `Product`**
+   con `gtin13` y `additionalProperty[name="Ingredients"]`, igual que L'Oréal Paris.
+2. Que los tonos van en `<oap-product-variant-selector :variants='[…]'>` y que hay que hacer
+   **pasadas sucesivas** hasta que no salgan URL nuevas: en L'Oréal Paris las páginas de tono
+   NO estaban en el sitemap y ahí se escondía la mitad del catálogo (2075 → 2501 páginas).
+3. Ojo con los **EAN-8 de 8 cifras que empiezan por `30…`**: en L'Oréal Paris resultaron ser
+   EAN-8 franceses auténticos de máscaras y eyeliners, y entran (no confundir con los EAN-8
+   raros que excluye la regla 3). Maybelline es sobre todo máscaras y eyeliners, así que aquí
+   van a salir muchos.
+4. **Tonos** (regla 4): misma lógica que L'Oréal Paris. Tonos con el MISMO INCI, una entrada
+   con todos sus códigos; si el INCI cambia entre tonos (labiales, sombras, correctores, por
+   los CI), entradas separadas con el tono en el nombre. Aquí va a pasar mucho: la marca es
+   casi toda color.
+5. Fichas con el campo "Ingredients" vacío o con texto de marketing, fuera (regla 2-bis); y
+   listas traducidas al español, fuera también (pasó en L'Oréal Paris y en Neutrogena).
+Detrás de Maybelline, en el mismo grupo y con la misma plataforma: **NYX Professional Makeup**
+y **Essie**.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -479,7 +505,6 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | La Roche-Posay | sí | sí | sí | `product-ean` y `:upc-list` (varios tamaños); INCI en el atributo `other-ingredient`; nombre en la miga de pan |
 | CeraVe | sí | sí | sí | mismo grupo, marcado propio (`product-details`) |
 | Garnier | sí (`/sitemap.xml`) | sí | sí | fichas en `/marcas/<gama>/<subgama>/<slug>`; INCI tras `INGREDIENTS:` |
-| L'Oréal Paris | por comprobar | por comprobar | por comprobar | mismo grupo que Garnier/LRP/Vichy: probar primero el patrón de Garnier (ver su apartado) |
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
@@ -493,6 +518,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Fairy (P&G) | info-pg.com vía Contentful (354 fichas ES) | **no** | sí, lista completa Anexo VII | EAN de OPF emparejado por nombre exacto del envase; ver su apartado |
 | Sanytol (AC Marca) | sí (`page-sitemap.xml`, 36) | sí, en el nombre de la imagen principal | **no**; la lista está en los PDF FIC de sanytol.fr (mismo código de fórmula) y tras login en reach.grupoacmarca.com | ver su apartado |
 | L'Oréal Paris | sí (2075 URL, sin las páginas de tono) | sí (`gtin13` JSON-LD; tonos en `oap-product-variant-selector`) | sí (`additionalProperty` Ingredients), salvo tintes y ~100 fichas vacías | ver su apartado |
+| Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -520,3 +546,5 @@ Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5. 
 1433 productos está sin INCI. Sesderma sigue vacía. Siguientes del grupo "súper": Sanex,
 Babaria, Instituto Español y Bella Aurora; en limpieza, Ariel con la consulta de P&G ya
 resuelta.
+**Maybelline New York ya está creada y vacía** (botón visible en la app), pendiente de curar:
+misma plataforma que L'Oréal Paris, así que se reusan sus scripts.
