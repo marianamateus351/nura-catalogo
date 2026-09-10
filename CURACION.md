@@ -497,6 +497,32 @@ Lo que hay que comprobar, en este orden:
 Detrás de Maybelline, en el mismo grupo y con la misma plataforma: **NYX Professional Makeup**
 y **Essie**.
 
+### Eroski — SIGUIENTE MARCA BLANCA (pedida por Mariana, 2026-09-10)
+Marca blanca de Eroski (cooperativa vasca; fuerte en País Vasco, Navarra, Galicia y Cataluña).
+Mismo grupo que Deliplus y Cien: **no hay web de marca con fichas**. Antes de empezar, mirar
+qué salió de esas dos, porque marcan lo que se puede esperar: Deliplus 15 productos de 532
+códigos, Cien 26 de 366. **Aquí también hay que contar con un porcentaje bajo.**
+Lo que juega A FAVOR de Eroski frente a Mercadona:
+- **Tiene tienda online pública y navegable** (`supermercado.eroski.es`), con ficha por
+  producto y categorías. Mercadona daba EAN pero no ingredientes en texto; **lo primero es
+  comprobar si Eroski sí los da**, porque si los da, esta marca sale mucho mejor que Deliplus.
+  Mirar tanto la página como las peticiones JSON que hace la tienda (suele haber una API
+  detrás del buscador y del listado por categoría).
+- Es una cooperativa con tradición de información al consumidor, así que hay más posibilidades
+  de que publiquen composición que en otras marcas blancas. **Comprobarlo, no darlo por hecho.**
+Orden de trabajo:
+1. `supermercado.eroski.es`: recorrer las categorías de cosmética, higiene, bebé y limpieza.
+   Ver si la ficha trae **EAN-13** y **lista de ingredientes en texto** (para limpieza, ojo:
+   los rangos por familia NO valen, ver el apartado "PRODUCTOS DE LIMPIEZA").
+2. Si la tienda da ingredientes → esa es la fuente y no hace falta nada más.
+3. Si no los da → **Open Beauty Facts / Open Products Facts** como en Cien: `tag_0=eroski` y
+   `search_terms=eroski`, con la **criba de erratas por vocabulario** (`vocab.py`), que es
+   obligatoria cuando el INCI lo escribe la comunidad.
+4. Los EAN de Eroski empiezan por `84` (España). Ojo con los códigos internos de tienda
+   (`20…`, `2…` de peso variable): esos no valen, igual que en Cien.
+Gamas de marca propia a cubrir: la línea de higiene y cosmética, la de limpieza del hogar y la
+de bebé. El maquillaje, si lo hay, también entra (regla 3).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -529,6 +555,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sanytol (AC Marca) | sí (`page-sitemap.xml`, 36) | sí, en el nombre de la imagen principal | **no**; la lista está en los PDF FIC de sanytol.fr (mismo código de fórmula) y tras login en reach.grupoacmarca.com | ver su apartado |
 | L'Oréal Paris | sí (2075 URL, sin las páginas de tono) | sí (`gtin13` JSON-LD; tonos en `oap-product-variant-selector`) | sí (`additionalProperty` Ingredients), salvo tintes y ~100 fichas vacías | ver su apartado |
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
+| Eroski | tienda online `supermercado.eroski.es` | por comprobar | por comprobar | marca blanca: primero la tienda online, si no OBF/OPF con criba por vocabulario (ver su apartado) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -558,3 +585,5 @@ Babaria, Instituto Español y Bella Aurora; en limpieza, Ariel con la consulta d
 resuelta.
 **Maybelline New York ya está creada y vacía** (botón visible en la app), pendiente de curar:
 misma plataforma que L'Oréal Paris, así que se reusan sus scripts.
+**Eroski ya está creada y vacía** (botón visible en la app), pendiente de curar: marca blanca,
+ver su apartado.
