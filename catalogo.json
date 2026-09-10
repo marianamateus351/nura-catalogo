@@ -1,5 +1,5 @@
 {
- "version": "2026-09-10q",
+ "version": "2026-09-10r",
  "marcas": [
   {
    "key": "larocheposay",
@@ -13457,7 +13457,1111 @@
   {
    "key": "maybelline",
    "nombre": "Maybelline New York",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Base de Maquillaje Superstay Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531691967",
+      "3600531691950",
+      "3600531691936",
+      "3600531691912",
+      "3600531691905",
+      "3600531691899",
+      "3600531691882",
+      "3600531694012",
+      "3600531691875",
+      "3600531691868",
+      "3600531691851",
+      "3600531691820"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Perlite, Synthetic Fluorphlogopite, Nylon-12, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, HDI/Trimethylol Hexyllactone Crosspolymer, Bis-PEG/PPG-14/14 Dimethicone, Disteardimonium Hectorite, Magnesium Sulfate, Phenoxyethanol, Disodium Stearoyl Glutamate, Silica Silylate, Dipentaerythrityl Tetrahydroxystearate, Hydrolyzed Soy Protein, Proline, Silica, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Tocopherol, Niacinamide, Glycerin, Aluminum Hydroxide, Kaolin, Glutamic Acid, Tin Oxide, Pentylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, CI 77891, CI 77491, CI 77492, CI 77499, CI 77007, Mica, CI 77288"
+    },
+    {
+     "nombre": "Borrador Corrector de Ojos Instant Age Rewind",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531507718",
+      "3600530733644",
+      "3600530733651",
+      "3600531665715",
+      "3600531665746",
+      "3600531396909",
+      "3600531665722",
+      "3600531507725",
+      "3600531507695",
+      "3600531665739",
+      "3600531507732",
+      "3600531538781"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Glycerin, PEG-9 Polydimethylsiloxyethyl Dimethicone, Propylene Glycol, Disteardimonium Hectorite, Silica, Dimethicone Crosspolymer, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol, Sodium Chloride, Polyglyceryl-4 Isostearate, Caprylyl Glycol, Disodium Stearoyl Glutamate, Ethylhexylglycerin, Chlorphenesin, Aluminum Hydroxide, Steareth-20, Lycium Barbarum Fruit Extract, Chlorhexidine Digluconate, Sodium Benzoate, N-Hydroxysuccinimide, Lactic Acid, Potassium Sorbate, Tocopherol, Sodium Citrate, Palmitoyl Tripeptide-1, Chrysin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Palmitoyl Tetrapeptide-7, Citric Acid, Biotin, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Borrador Instant Age Rewind Corretor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531698515",
+      "3600531698522",
+      "3600531698546"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Glycerin, PEG-9 Polydimethylsiloxyethyl Dimethicone, Propylene Glycol, Disteardimonium Hectorite, Silica, Dimethicone Crosspolymer, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol, Sodium Chloride, Polyglyceryl-4 Isostearate, Caprylyl Glycol, Disodium Stearoyl Glutamate, Ethylhexylglycerin, Chlorphenesin, Kaolin, Aluminum Hydroxide, Steareth-20, Lycium Barbarum Fruit Extract, Chlorhexidine Digluconate, Sodium Benzoate, N-Hydroxysuccinimide, Lactic Acid, Potassium Sorbate, Tocopherol, Sodium Citrate, Palmitoyl Tripeptide-1, Chrysin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Palmitoyl Tetrapeptide-7, Citric Acid, Biotin, CI 77891, CI 77288, CI 77007, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Brow Fast Sculpt Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30176188",
+      "30176201",
+      "30176218",
+      "30176232"
+     ],
+     "inci": "Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Butylene Glycol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Isohexadecane, Propylene Glycol, Phenoxyethanol, Caprylyl Glycol, Ammonium Polyacryloyldimethyl Taurate, Polysorbate-80, Steareth-20, Sodium Laureth Sulfate, Sodium Dehydroacetate, Sorbitan Oleate, Disodium EDTA, Panthenol, Tetrasodium EDTA, Potassium Sorbate, Silica, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007, CI 75470, CI 77288, CI 77742, CI 77510"
+    },
+    {
+     "nombre": "Cheek Heat Colorete",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531591304",
+      "3600531591359",
+      "3600531591342",
+      "3600531591335"
+     ],
+     "inci": "Aqua, Butylene Glycol, Ethylhexyl Palmitate, Dimethicone, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Trehalose, Triethylhexanoin, Caprylic/Capric Glycerides, PEG-10 Dimethicone, Silica, Phenoxyethanol, Synthetic Fluorphlogopite, Glycerin, Sodium Polyacrylate, Tocopheryl Acetate, Caprylyl Glycol, PEG-30 Glyceryl Isostearate, Xanthan Gum, Polyglyceryl-2 Diisostearate, Tin Oxide, Triethoxycaprylylsilane, Potassium Chloride, Dipotassium Glycyrrhizate, Potassium Laurate, Tocopherol, CI 77891, Mica, CI 77491, CI 77492, CI 77499, CI 17200, CI 45410, CI 77510"
+    },
+    {
+     "nombre": "City Bronzer Polvo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531528973",
+      "3600531529000",
+      "3600531529017"
+     ],
+     "inci": "Talc, Perlite, Dimethicone, Isononyl Isononanoate, Magnesium Stearate, Caprylyl Glycol, Synthetic Fluorphlogopite, Parfum, Theobroma Cacao Seed Butter, CI 77491, CI 77492, CI 77499, Mica, CI 77891"
+    },
+    {
+     "nombre": "Color Sensational Perfilador de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600530575503",
+      "3600530575510"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Hydrogenated Coco-Glycerides, Cera Microcristallina, Cera Alba, Ricinus Communis Seed Oil, Copernicia Cerifera Cera, Butyrospermum Parkii Butter, Barium Sulfate, VP/Eicosene Copolymer, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Aluminum Hydroxide, Tin Oxide, Citric Acid, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 15850, CI 45410, CI 77000, CI 42090"
+    },
+    {
+     "nombre": "Color Sensational Perfilador de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531361464",
+      "3600531361426",
+      "3600531361389",
+      "3600531361433",
+      "3600531361495"
+     ],
+     "inci": "Methyl Trimethicone, Polyethylene, Trimethylsiloxysilicate, Synthetic Fluorphlogopite, Octyldodecanol, Paraffin, Acrylates/Dimethicone Copolymer, Cera Microcristallina, Magnesium Silicate, Disteardimonium Hectorite, Propylene Carbonate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Nylon-12, Kaolin, Polyisobutene, Aluminum Hydroxide, Tin Oxide, Magnesium Stearate, Maltodextrin, Calcium Sodium Borosilicate, Mica, CI 77891, CI 77491, CI 77492, CI 77499, CI 45410, CI 15850, CI 77742, CI 42090, CI 19140, CI 75470"
+    },
+    {
+     "nombre": "Color Sensational Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531553401",
+      "3600531297657",
+      "3600530559589",
+      "3600530559923",
+      "3600531553388",
+      "3600531553395",
+      "3600531589301",
+      "3600531589462",
+      "3600531589363",
+      "3600531589370",
+      "3600531589387",
+      "3600531589349",
+      "3600531589356",
+      "3600531543341",
+      "3600531543327",
+      "3600531543365",
+      "3600531543334",
+      "3600531543310",
+      "3600531543358",
+      "3600530559794"
+     ],
+     "inci": "Lanolin Oil, Oleyl Erucate, Hydrogenated Castor Oil Dimer Dilinoleate, Acetylated Lanolin, Sesamum Indicum Seed Oil, Petrolatum, Cera Microcristallina, Cera Alba, Paraffin, Synthetic Wax, Calcium Aluminum Borosilicate, Alumina, Disteardimonium Hectorite, Tocopheryl Acetate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentaerythrityl Tetraisostearate, Polyhydroxystearic Acid, Silica, Butyrospermum Parkii Butter, Acrylic Acid/Isobutyl Acrylate/Isobornyl Acrylate Copolymer, Octyldodecyl Neopentanoate, Aluminum Hydroxide, Hexyl Cinnamal, Synthetic Fluorphlogopite, Tin Oxide, Mel, Methyl 2-Octynoate, Coumarin, Tocopherol, Limonene, Anise Alcohol, Hydrogenated Palm Glycerides Citrate, Linalool, Calcium Sodium Borosilicate, Glycine Soja Oil, Dimethicone, Citric Acid, Parfum, CI 77891, CI 77491, CI 77492, CI 77499, Mica, CI 15850, CI 45410, CI 45380, CI 15985, CI 19140, CI 42090, CI 75470"
+    },
+    {
+     "nombre": "Color Tattoo Stix Sombra de ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531672645",
+      "3600531672621",
+      "3600531672638",
+      "3600531672577",
+      "3600531672591",
+      "3600531672560"
+     ],
+     "inci": "Isododecane, Synthetic Wax, Ethylene/Propylene Copolymer, Silica, Polymethylsilsesquioxane, Polybutene, Hydrogenated Polydicyclopentadiene, Sucrose Tetrastearate Triacetate, Coco-Caprylate, Oryza Sativa Bran Cera, Calcium Sodium Borosilicate, Synthetic Fluorphlogopite, Synthetic Beeswax, Hydrogenated Castor Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Calcium Aluminum Borosilicate, Tin Oxide, Maltodextrin, CI 77891, Mica, CI 77491, CI 77492, CI 77499, CI 77163, CI 75470, CI 77742, CI 42090, CI 19140, CI 77400, CI 77007"
+    },
+    {
+     "nombre": "Colossal Bubble Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531701802"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Acrylates Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, Butylene Glycol, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Kaolin, Phenoxyethanol, Caprylyl Glycol, Pentylene Glycol, Potassium Cetyl Phosphate, Myristic Acid, Silica, CI 77491, CI 77492, CI 77499, CI 77007, CI 77742, Mica, CI 77891"
+    },
+    {
+     "nombre": "Colossal Bubble Waterproof Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531702304"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Oryza Sativa Cera, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Hydrogenated Jojoba Oil, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Panthenol, VP/Va Copolymer, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77742, Mica, CI 77891"
+    },
+    {
+     "nombre": "Colossal GO Extreme Intense Black Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30114319"
+     ],
+     "inci": "Alcohol, Carthamus Tinctorius Seed Oil, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Sodium Dehydroacetate, Caprylyl Glycol, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Propylene Glycol, Disodium EDTA, Stearyl Alcohol, Myristyl Alcohol, Laureth-21, Soluble Collagen, Silica, Trisodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Sorbate, BHT"
+    },
+    {
+     "nombre": "Dream Radiant Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600530521807",
+      "3600531459192",
+      "3600531388072",
+      "3600531459208",
+      "3600531459154",
+      "3600531388171",
+      "3600531459185"
+     ],
+     "inci": "Aqua, Isohexadecane, Isododecane, Dimethicone, Glycerin, PEG-9 Polydimethylsiloxyethyl Dimethicone, Butylene Glycol, Niacinamide, Dimethicone Crosspolymer, Disteardimonium Hectorite, Synthetic Fluorphlogopite, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Kaolin, Phenoxyethanol, Sodium Chloride, Polyglyceryl-4 Isostearate, Caprylyl Glycol, Disodium Stearoyl Glutamate, Ethylhexylglycerin, Butyrospermum Parkii Butter, Parfum, Sodium Hyaluronate, Maltodextrin, Aluminum Hydroxide, Silica, Citric Acid, Camellia Sinensis Leaf Extract, Alpha-Isomethyl Ionone, Linalool, Citronellol, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499, CI 77288, CI 77007"
+    },
+    {
+     "nombre": "Express Brow Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531640392",
+      "3600531640378",
+      "3600531640408",
+      "3600531640385",
+      "3600531662387",
+      "3600531662400",
+      "3600531662363",
+      "3600531662394",
+      "3600531662370"
+     ],
+     "inci": "Ethylhexyl Palmitate, Synthetic Beeswax, Helianthus Annuus Seed Cera, Cocos Nucifera Oil, Copernicia Cerifera Cera, Helianthus Annuus Seed Oil, Phenoxyethanol, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Ascorbyl Palmitate, Palmitic Acid, Ethylhexylglycerin, Stearic Acid, CI 77491, CI 77492, CI 77499, Mica, CI 77891, CI 16035"
+    },
+    {
+     "nombre": "Express Brow Ultra Slim Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531579432",
+      "3600531579487",
+      "3600531579500",
+      "3600531579456",
+      "3600531579463",
+      "3600531579470",
+      "3600531579494"
+     ],
+     "inci": "Hydrogenated Soybean Oil, Synthetic Japan Wax, Synthetic Fluorphlogopite, Stearic Acid, Hydrogenated Coco-Glycerides, Zinc Stearate, Myristyl Myristate, Polyglyceryl-2 Triisostearate, Polyhydroxystearic Acid, Aluminum Hydroxide, Tocopherol, CI 77491, CI 77492, CI 77499, CI 77891"
+    },
+    {
+     "nombre": "Eyeliner Líquido Hyper Precise All Day Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600530730308",
+      "3600531502768",
+      "3600531047795",
+      "3600531681500"
+     ],
+     "inci": "Sodium Benzoate, Caprylyl Glycol, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Dehydroacetate"
+    },
+    {
+     "nombre": "Eyestudio Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531637309",
+      "3600531592325",
+      "3600531637293"
+     ],
+     "inci": "Aqua, Styrene/Acrylates Copolymer, Propylene Glycol, Ammonium Acrylates Copolymer, Butylene Glycol, Phenoxyethanol, Caprylyl Glycol, PPG-2-Deceth-30, Sodium Lauryl Sulfate, Disodium Laureth Sulfosuccinate, CI 77266 [Nano]"
+    },
+    {
+     "nombre": "Facestudio Iluminador y contorno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531342265",
+      "3600531342272"
+     ],
+     "inci": "Ethylhexyl Palmitate, Methyl Methacrylate Crosspolymer, Hydrogenated Polyisobutene, Polyethylene, Phenyl Trimethicone, Diisostearyl Malate, Nylon-12, Paraffin, Polyvinyl Laurate, Cera Microcristallina, Disteardimonium Hectorite, Butyrospermum Parkii Butter, Caprylyl Glycol, Synthetic Wax, Propylene Carbonate, Tocopherol, Citric Acid, Mica, CI 77891, CI 77491, CI 75470"
+    },
+    {
+     "nombre": "Fast Gel Esmalte de uñas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30145092",
+      "30150218",
+      "30152809",
+      "30147683",
+      "30145115",
+      "30147652",
+      "30145108",
+      "30147669",
+      "30152786",
+      "30152793",
+      "30150232",
+      "30147676",
+      "30150249",
+      "30145122",
+      "30145139",
+      "30152762",
+      "30152779",
+      "30150225"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Dipropylene Glycol Dibenzoate, Isopropyl Alcohol, Acetyl Tributyl Citrate, Cellulose Acetate Butyrate, Acrylates Copolymer, Sucrose Acetate Isobutyrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol Denat"
+    },
+    {
+     "nombre": "Fit ME Colorete",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531537364",
+      "3600531537470",
+      "3600531537357",
+      "3600531537425"
+     ],
+     "inci": "Talc, Synthetic Fluorphlogopite, Magnesium Stearate, Triisostearin, Phenyl Trimethicone, Caprylyl Glycol, Alumina, Silica, Calcium Aluminum Borosilicate, Magnesium Silicate, Calcium Sodium Borosilicate, Tin Oxide, Mica, CI 77891, CI 77491, CI 77492, CI 77499, CI 77007, CI 75470, CI 77742, CI 15850, CI 45410, CI 73360, CI 15985, CI 77163, CI 19140, CI 77400, CI 42090, CI 77000, CI 77510, CI 16035"
+    },
+    {
+     "nombre": "Fit Me Corretor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30155831",
+      "30096592",
+      "30096585",
+      "30096608",
+      "30096615",
+      "30096639",
+      "30096622",
+      "30155824"
+     ],
+     "inci": "Water, Cyclopentasiloxane, Hydrogenated Polyisobutene, Glycerin, Sorbitan Isostearate, Propylene Glycol, Titanium Dioxide [Nano], Ozokerite, Phenoxyethanol, Magnesium Sulfate, Disteardimonium Hectorite, Disodium Stearoyl Glutamate, Methylparaben, Acrylates Copolymer, Alumina, Butylparaben, Aluminum Hydroxide, Tocopherol, Silica, Chamomilla Recutita Extract, CI 77891, CI 77491, CI 77492, CI 77499, Mica"
+    },
+    {
+     "nombre": "Fit ME Mate + Minimiza Poros Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531324506",
+      "3600531549374",
+      "3600531369330",
+      "3600531544638",
+      "3600531369408",
+      "3600531544782",
+      "3600531544652",
+      "3600531324513",
+      "3600531369392",
+      "3600531324520",
+      "3600531429539",
+      "3600531369026",
+      "3600531324544",
+      "3600531324551",
+      "3600531395544",
+      "3600531453404",
+      "3600531324896",
+      "3600531453442",
+      "3600531369484",
+      "3600531359072",
+      "3600531395520",
+      "3600531453497",
+      "3600531324902",
+      "3600531453473"
+     ],
+     "inci": "Water, Cyclohexasiloxane, Nylon-12, Isododecane, Alcohol Denat., Cyclopentasiloxane, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, PEG-20, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Phenoxyethanol, Magnesium Sulfate, Disodium Stearoyl Glutamate, HDI/Trimethylol Hexyllactone Crosspolymer, Methylparaben, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Tocopherol, Butylparaben, Aluminum Hydroxide, Isobutane, Silica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Fit ME Nude BB Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531705305",
+      "3600531705312",
+      "3600531705329",
+      "3600531705336"
+     ],
+     "inci": "Water, Glycerin, Homosalate, Octocrylene, Ethylhexyl Salicylate, Caprylyl Methicone, Dimethicone, Butyloctyl Salicylate, Cetyl PEG/PPG-10/1 Dimethicone, Niacinamide, Propanediol, Dimethicone/PEG-10/15 Crosspolymer, Synthetic Fluorphlogopite, Phenoxyethanol, Sodium Chloride, Trimethylsiloxysilicate, Disteardimonium Hectorite, Disodium Stearoyl Glutamate, Chlorphenesin, Caprylyl Glycol, Silica Silylate, Trisodium Ethylenediamine Disuccinate, Simethicone, Maltodextrin, Aluminum Hydroxide, Adenosine, Dipropylene Glycol, Sodium Hyaluronate, Citric Acid, Sodium Citrate, Camellia Sinensis Leaf Extract, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Fit Me Polvo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531384159",
+      "3600531384197",
+      "3600531384210",
+      "3600531384029",
+      "3600531384043",
+      "3600531384173"
+     ],
+     "inci": "Talc, Perlite, Triisostearin, Phenyl Trimethicone, Magnesium Stearate, Caprylyl Glycol, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Fit Me Primer Hidratante Primer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531631390"
+     ],
+     "inci": "Aqua, Homosalate, Propylene Glycol, Octocrylene, Glycerin, Ethylhexyl Salicylate, Octyldodecanol, Butyl Methoxydibenzoylmethane, Diisopropyl Adipate, Stearic Acid, Potassium Cetyl Phosphate, Palmitic Acid, PEG-100 Stearate, Glyceryl Stearate, Triethanolamine, Phenoxyethanol, Cetyl Alcohol, Caprylyl Glycol, Carbomer, Tocopherol, Capryloyl Salicylic Acid, Xanthan Gum, Ethylhexylglycerin, Myristic Acid, Parfum, Dipropylene Glycol, Sodium Palmitoyl Proline, Linalool, Benzyl Salicylate, Butylene Glycol, Limonene, Benzyl Alcohol, Prunus Cerasus Extract, Rosa Centifolia Extract, Nymphaea Alba Flower Extract"
+    },
+    {
+     "nombre": "Fit Me Primer Matificante Primer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531631383"
+     ],
+     "inci": "Aqua, Isododecane, Homosalate, Octocrylene, Isononyl Isononanoate, Silica, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Glycerin, Copernicia Cerifera Cera, Silica Silylate, Octyldodecanol, PEG-30 Dipolyhydroxystearate, Triethanolamine, Polyamide-8, Phenoxyethanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Octyldodecyl Xyloside, Hydroxyacetophenone, Caprylyl Glycol, Kaolin, Sorbitan Isostearate, Polysorbate-60, Linalool, Benzyl Salicylate, Limonene, Benzyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum"
+    },
+    {
+     "nombre": "Gloss Voluminizador Lifter Plump Con Chili y Ácido Hialurónico Brillo de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30161276",
+      "30163836",
+      "30166394",
+      "30166387",
+      "30161405",
+      "30158696"
+     ],
+     "inci": "Polybutene, Tridecyl Trimellitate, Diisostearyl Malate, Silica Dimethyl Silylate [Nano], Phenoxyethanol, Ethylhexyl Palmitate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexylglycerin, Sorbic Acid, Calcium Aluminum Borosilicate, Calcium Sodium Borosilicate, Tocopheryl Acetate, Sodium Saccharin, Synthetic Fluorphlogopite, Alumina, Silica, Trihydroxystearin, Cocos Nucifera Oil, Polybutylene Terephthalate, Aluminum Hydroxide, Magnesium Silicate, Ethylene/Va Copolymer, Acrylates Copolymer, Tin Oxide, Sodium Hyaluronate, Tocopherol, Glucomannan, Parfum"
+    },
+    {
+     "nombre": "Grippy Serum Primer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531700379"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, PEG-150 Distearate, Niacinamide, Polysorbate-80, Phenoxyethanol, Caprylyl Glycol, Ethylhexylglycerin, Panthenol, Tetrasodium Glutamate Diacetate, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Instant Perfector Glow 4-en-1 Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531658106",
+      "3600531662219",
+      "3600531638887",
+      "3600531662226",
+      "3600531638894",
+      "3600531658113"
+     ],
+     "inci": "Aqua, Isohexadecane, Dimethicone, Glycerin, Isododecane, Diisopropyl Adipate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Propylene Glycol, Dimethicone Crosspolymer, Disteardimonium Hectorite, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol, Kaolin, Sodium Chloride, Polyglyceryl-4 Isostearate, Caprylyl Glycol, Synthetic Fluorphlogopite, Butyrospermum Parkii Butter, Ethylhexylglycerin, Ethylhexyl Palmitate, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Silica Dimethyl Silylate [Nano], Butylene Glycol, Sodium Hyaluronate, Tocopherol, Hexylene Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Citric Acid, Mica, CI 77891, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Lash Sensational Firework Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30144224"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Synthetic Fluorphlogopite, Cera Alba, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Butylene Glycol, Methylpropanediol, Xanthan Gum, Panthenol, Rayon, Sodium Laureth Sulfate, Myristic Acid, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Sorbate, Silica, Phenylpropanol, Kaolin, Tin Oxide, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007, Mica, CI 75470, CI 77288, CI 77742, CI 77510"
+    },
+    {
+     "nombre": "Lash Sensational Firework Waterproof Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30144187"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Aqua, Allyl Stearate/Va Copolymer, Dilinoleic Acid/Butanediol Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Panthenol, Silica, Kaolin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Lash Sensational Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531143657"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Rosa Canina Fruit Oil, Hydrogenated Jojoba Oil, PEG-30 Glyceryl Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "Lash Sensational Máscara de pestañas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531143558"
+     ],
+     "inci": "Aqua, CI 77491, CI 77492, CI 77499, CI 75470"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Brown Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30147317",
+      "30166967"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Cera Alba, Synthetic Fluorphlogopite, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Butylene Glycol, Methylpropanediol, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Laureth Sulfate, Rayon, Myristic Acid, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Sorbate, Silica, Phenylpropanol, Kaolin, Bambusa Vulgaris Extract, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, Mica, CI 77742"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Cherry Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30189355",
+      "30197299"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Cera Alba, Synthetic Fluorphlogopite, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Phenoxyethanol, Aminomethyl Propanediol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Silica, Butylene Glycol, Methylpropanediol, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Laureth Sulfate, Disodium EDTA, Rayon, Myristic Acid, Kaolin, Tin Oxide, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Potassium Sorbate, Phenylpropanol, Bambusa Vulgaris Extract, CI 77288, CI 77491, CI 77499, CI 77891, CI 77007, Mica, CI 75470, CI 77510"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Colors Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30144552",
+      "30152229",
+      "30147119"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Cera Alba, Synthetic Fluorphlogopite, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Silica, Butylene Glycol, Kaolin, Methylpropanediol, Rayon, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Laureth Sulfate, Myristic Acid, Disodium EDTA, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide, Potassium Sorbate, Phenylpropanol, Bambusa Vulgaris Extract, CI 77491, CI 77499, CI 77007, CI 77891, Mica, CI 75470, CI 77510"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Cosmic Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30152830"
+     ],
+     "inci": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Polyurethane-35, Cera Alba, Synthetic Fluorphlogopite, Glyceryl Stearate, Cetyl Alcohol, PEG-200 Glyceryl Stearate, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Copernicia Cerifera Cera, Stearic Acid, Palmitic Acid, Ethylene/Va Copolymer, Alcohol Denat., Paraffin, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Glycerin, Hydroxyethylcellulose, Methylparaben, Butylene Glycol, Methylpropanediol, Xanthan Gum, Caprylic/Capric Triglyceride, Rayon, Sodium Laureth Sulfate, Myristic Acid, Laureth-21, Disodium EDTA, PEG-40 Hydrogenated Castor Oil, Silica, Tetrasodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Kaolin, Potassium Sorbate, Phenylpropanol, Sodium Dehydroacetate, Bambusa Vulgaris Extract, CI 77491, CI 77492, CI 77499, CI 77266 [Nano], CI 77007, Mica, CI 77891, CI 77742"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30167223"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Aqua, Alcohol Denat., Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Hydrogenated Jojoba Oil, Caprylic/Capric Triglyceride, Rayon, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Bambusa Vulgaris Extract, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30197428"
+     ],
+     "inci": "Aqua, Alcohol Denat., Calcium Sodium Borosilicate, Glycerin, Calcium Aluminum Borosilicate, Carbomer, Phenoxyethanol, Propylene Glycol, Hydroxyacetophenone, Polyvinyl Alcohol, Sodium Hydroxide, Panthenol, Tin Oxide, Tetrasodium Glutamate Diacetate, CI 77891, Mica, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Lash Sensational Sky High Primer Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30152434"
+     ],
+     "inci": "Aqua, Polybutene, Paraffin, Potassium Cetyl Phosphate, Cera Alba, Copernicia Cerifera Cera, Steareth-2, Cetyl Alcohol, Alcohol Denat., Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Panthenol, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Caprylyl Glycol, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, 2-Oleamido-1,3-Octadecanediol, Rosa Canina Fruit Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, BHT, Propylene Glycol, Propyl Gallate, Citric Acid, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 77742"
+    },
+    {
+     "nombre": "Lasting Drama Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531684914",
+      "3600531684938",
+      "3600531684945",
+      "3600531684952"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Silica, Ozokerite, Synthetic Fluorphlogopite, Cellulose, Disteardimonium Hectorite, Polyisobutene, Rayon, Propylene Carbonate, Glycerin, Pullulan, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Kaolin, Urea, Tin Oxide, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 77510, CI 77742, CI 42090, CI 77266 [Nano], CI 77000"
+    },
+    {
+     "nombre": "Lasting Fix Setting Spray Fijador de maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531533694"
+     ],
+     "inci": "Aqua, Alcohol Denat., Propylene Glycol, Amp-Acrylates/Allyl Methacrylate Copolymer, PVP, Talc, Phenoxyethanol, Disodium EDTA, Chlorphenesin, Triethanolamine"
+    },
+    {
+     "nombre": "Lifter Glaze Maquillaje de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531702199",
+      "3600531702205",
+      "3600531702212",
+      "3600531702250",
+      "3600531702267"
+     ],
+     "inci": "Polyglyceryl-2 Triisostearate, Bis-Behenyl, Squalane, Butyrospermum Parkii Butter, Cellulose, Dimer Dilinoleyl Dimer Dilinoleate, Polyglyceryl-3 Beeswax, Helianthus Annuus Seed Cera, Hydrogenated Castor Oil Dimer Dilinoleate, Simmondsia Chinensis Butter, Hydrogenated Jojoba Oil, Candelilla Cera, Parfum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexyl Palmitate, Synthetic Fluorphlogopite, Calcium Aluminum Borosilicate, Caprylic/Capric Triglyceride, Propylene Glycol, Calcium Sodium Borosilicate, Citric Acid, Magnesium Silicate, Silica, Tocopherol, Trihydroxystearin, Benzyl Benzoate, Aluminum Hydroxide, Benzyl Cinnamate, Tin Oxide, Benzyl Alcohol, Limonene, Sodium Hyaluronate, Malpighia Punicifolia Fruit Extract, Tocopheryl Acetate, Glucomannan, Mica, CI 77491, CI 77492, CI 77499, CI 77891, CI 15985, CI 19140, CI 45410, CI 45380, CI 15850, CI 42090"
+    },
+    {
+     "nombre": "Lifter Gloss. Fórmula Con Ácido Hialuronico Brillo de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30144651",
+      "30147218",
+      "30149779",
+      "30152335",
+      "3600531609689",
+      "3600531609764",
+      "3600531609771",
+      "3600531609733",
+      "3600531609740",
+      "3600531651176",
+      "3600531651206",
+      "3600531651213"
+     ],
+     "inci": "C18-36 Acid Triglyceride, Bis-Diglyceryl Polyacyladipate-2, Pentaerythrityl Tetraisostearate, Polybutene, Tridecyl Trimellitate, Diisostearyl Malate, Silica Dimethyl Silylate [Nano], Phenoxyethanol, Ethylhexyl Palmitate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexylglycerin, Calcium Sodium Borosilicate, Sorbic Acid, Calcium Aluminum Borosilicate, Tocopheryl Acetate, Sodium Saccharin, Alumina, Synthetic Fluorphlogopite, Silica, Polybutylene Terephthalate, Trihydroxystearin, Cocos Nucifera Oil, Aluminum Hydroxide, Ethylene/Va Copolymer, Acrylates Copolymer, Tin Oxide, Magnesium Silicate, Sodium Hyaluronate, Tocopherol, Glucomannan, Parfum, CI 77891, CI 77491, CI 77492, CI 77499, Mica, CI 15850, CI 45410, CI 15985, CI 42090, CI 17200, CI 45380, CI 19140"
+    },
+    {
+     "nombre": "Lifter Liner con Ácido hialurónico Perfilador de labios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531691998",
+      "3600531692001",
+      "3600531692025",
+      "3600531692056",
+      "3600531692063",
+      "3600531692100",
+      "3600531692117"
+     ],
+     "inci": "Isododecane, Synthetic Wax, Polybutene, Trimethylsiloxysilicate, Sucrose Tetrastearate Triacetate, Isoamyl Laurate, Silica, Hydrogenated Jojoba Oil, Cetearyl Behenate, Synthetic Fluorphlogopite, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexyl Palmitate, Kaolin, Trihydroxystearin, Sodium Hyaluronate, Colophonium"
+    },
+    {
+     "nombre": "Máscara de pestañas efecto extensiones The Falsies Surreal Metablack Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30149663"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Potassium Cetyl Phosphate, Synthetic Fluorphlogopite, Butylene Glycol, Myristic Acid, Sodium Laureth Sulfate, Rayon, Tetrasodium EDTA, Argania Spinosa Kernel Oil, Sclerocarya Birrea Seed Oil, Oryza Sativa Bran Oil, Potassium Sorbate, Tin Oxide, CI 77499, CI 77891"
+    },
+    {
+     "nombre": "Stick Cremoso Multiusos Lifter Stix Base de maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531702007",
+      "3600531702038",
+      "3600531702052",
+      "3600531702083",
+      "3600531702137",
+      "3600531702144"
+     ],
+     "inci": "Ethylhexyl Palmitate, Polyethylene, Hydrogenated Polyisobutene, Lauroyl Lysine, Diisostearyl Malate, Triethylhexanoin, Bis-Diglyceryl Polyacyladipate-2, Silica, Ozokerite, Polyhydroxystearic Acid, Persea Gratissima Oil, Hydrogenated Vegetable Oil, Candelilla Cera, Disteardimonium Hectorite, Caprylyl Glycol, Behenyl Behenate, Vaccinium Macrocarpon Fruit Extract, Tocopheryl Acetate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, Prunus Domestica Seed Oil"
+    },
+    {
+     "nombre": "Sunkisser Colorete",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531668396",
+      "3600531668419",
+      "3600531668433",
+      "3600531668440",
+      "3600531668464",
+      "3600531668501",
+      "3600531694210",
+      "3600531694203",
+      "3600531694180",
+      "3600531694234"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Alcohol Denat., Butylene Glycol, Trimethylsiloxysilicate, PEG-10 Dimethicone, Perlite, Disteardimonium Hectorite, Nylon-12, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, HDI/Trimethylol Hexyllactone Crosspolymer, Bis-PEG/PPG-14/14 Dimethicone, Magnesium Sulfate, Phenoxyethanol, Silica Silylate, Dipentaerythrityl Tetrahydroxystearate, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Tocopherol, Glycerin, Empetrum Nigrum Fruit Juice, Silica, Alumina, Potassium Sorbate, CI 77891, CI 15985, CI 15850, CI 45410, CI 77491, CI 77492, CI 77499, CI 77007, CI 42090"
+    },
+    {
+     "nombre": "Super Stay Active Wear 30H Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531632649",
+      "3600531632717",
+      "3600531632540",
+      "3600531632496",
+      "3600531632427",
+      "3600531632472",
+      "3600531632458",
+      "3600531632519",
+      "3600531632588",
+      "3600531632489",
+      "3600531632533",
+      "3600531632410",
+      "3600531632403",
+      "3600531632342",
+      "3600531632359"
+     ],
+     "inci": "Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, PEG-10 Dimethicone, Magnesium Sulfate, Phenoxyethanol, Disteardimonium Hectorite, Sodium Hyaluronate, Dimethicone/Polyglycerin-3 Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Silica Silylate, Triethoxycaprylylsilane, Propylene Carbonate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Alumina, Silica, Dipropylene Glycol, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891, CI 77491, CI 77492, CI 77499, CI 77007"
+    },
+    {
+     "nombre": "Super Stay Ink Crayon Barra de Labios Birthday Edition",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30148000",
+      "30145443"
+     ],
+     "inci": "Isododecane, Polyethylene, Trimethylsiloxyphenyl Dimethicone, Isohexadecane, Dimethicone, Acrylates/Dimethicone Copolymer, Polypropylsilsesquioxane, Calcium Sodium Borosilicate, Stearyl Heptanoate, Hydrogenated Polyisobutene, Hydrogenated Styrene/Methylstyrene/Indene Copolymer, Synthetic Fluorphlogopite, Silica, Alumina, Magnesium Silicate, Tin Oxide, Aluminum Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Triethoxycaprylylsilane, Tocopherol, Parfum, CI 77891, Mica, CI 77491, CI 77499, CI 45410, CI 15850, CI 42090"
+    },
+    {
+     "nombre": "Super Stay Matte Ink Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531411114",
+      "30146884",
+      "30152007",
+      "30146891",
+      "30149458",
+      "3600531411091",
+      "3600531411183",
+      "3600531411107",
+      "3600531411121",
+      "3600531411138",
+      "3600531411145",
+      "3600531411176",
+      "3600531469467",
+      "3600531469498",
+      "3600531469412",
+      "3600531469436",
+      "3600531469481",
+      "3600531513412",
+      "3600531513450",
+      "3600531513474",
+      "3600531513382",
+      "3600531513429",
+      "3600531513436",
+      "3600531579036",
+      "3600531579050",
+      "3600531579067",
+      "3600531605650",
+      "3600531605681",
+      "3600531631062",
+      "3600531631116",
+      "3600531631161",
+      "3600531631215",
+      "3600531631260",
+      "3600531652272",
+      "3600531652289",
+      "3600531652296",
+      "3600531411152",
+      "3600531623081",
+      "3600531623234",
+      "3600531623135",
+      "3600531623289",
+      "3600531469504",
+      "6902395975267",
+      "6902395975281"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Isododecane, Nylon-611/Dimethicone Copolymer, Dimethicone Crosspolymer, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Lauroyl Lysine, Alumina, Silica Silylate, Phenoxyethanol, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Calcium Sodium Borosilicate, Limonene, Silica, Benzyl Benzoate, Caprylyl Glycol, Benzyl Alcohol, Tin Oxide, Citronellol, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Magnesium Silicate, Parfum, CI 77491, CI 77492, CI 77499, CI 77891, CI 45410, CI 15850, CI 45380, Mica, CI 17200, CI 15985, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Super Stay Skin Tint + Vitamina C* 24h Base maquillaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531672324",
+      "3600531672393",
+      "3600531672423",
+      "3600531672430",
+      "3600531672478",
+      "3600531672515"
+     ],
+     "inci": "Aqua, Isododecane, Dimethicone, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Synthetic Fluorphlogopite, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, Disteardimonium Hectorite, Tin Oxide, Dipentaerythrityl Tetrahydroxystearate, Silica, Silica Silylate, HDI/Trimethylol Hexyllactone Crosspolymer, Cellulose, Kaolin, Aluminum Hydroxide, Magnesium Sulfate, Ascorbyl Glucoside, Disodium Stearoyl Glutamate, Bis-PEG/PPG-14/14 Dimethicone, Tocopherol, Phenoxyethanol, Mica, CI 77007, CI 77491, CI 77492, CI 77499, CI 77891"
+    },
+    {
+     "nombre": "Super Stay Teddy Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30146730",
+      "30146785",
+      "30146761",
+      "30146778",
+      "30146808",
+      "30146815"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Nylon-611/Dimethicone Copolymer, Isododecane, Dimethicone Crosspolymer, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Lauroyl Lysine, Silica Silylate, Phenoxyethanol, Sorbic Acid, Ethylhexylglycerin, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Linalool, Silica, Alpha-Isomethyl Ionone, Tocopherol, Parfum, Mica, CI 77491, CI 77492, CI 77499, CI 45410, CI 77891, CI 15850, CI 15985, CI 45380, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Super Stay Vinyl Ink Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30145559",
+      "30148116",
+      "30145535",
+      "30148093",
+      "30150652",
+      "30153219",
+      "30145542",
+      "30148109",
+      "30150669",
+      "30153226",
+      "30150058",
+      "30144941",
+      "30152618",
+      "30152625",
+      "30144958",
+      "30147515",
+      "30158665",
+      "30163768",
+      "30166295",
+      "30163737",
+      "3600531723187",
+      "3600531723194"
+     ],
+     "inci": "Isododecane, Dimethicone, Trimethylsiloxysilicate, Polymethylsilsesquioxane, Polypropylsilsesquioxane, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Trimethylsiloxyphenyl Dimethicone, Trimethyl Pentaphenyl Trisiloxane, Bis-Stearyl Dimethicone, Dimethiconol, Trihydroxystearin, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Triethoxycaprylylsilane, Limonene, Isopropyl Palmitate, Isopropyl Myristate, Alumina, Silica, Benzyl Benzoate, Benzyl Alcohol, Citronellol, Aloe Barbadensis Leaf Extract, Linalool, Tocopherol, Parfum, CI 77891, CI 77491, CI 77492, CI 77499, CI 15850, CI 45410, CI 19140, CI 15985, CI 45380, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Superfluff Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531698737",
+      "3600531698744",
+      "3600531698751",
+      "3600531698768"
+     ],
+     "inci": "Alcohol Denat., Oryza Sativa Cera, Cera Alba, Caprylic/Capric Triglyceride, Polyhydroxystearic Acid, Glycerin, Palmitic Acid, Stearic Acid, Behenyl Alcohol, Copernicia Cerifera Cera, Cellulose Gum, Polyglyceryl-3 Stearate, Phenoxyethanol, Silica, Sodium Benzoate, Xanthan Gum, Sodium Hydroxide, Potassium Sorbate, Caffeine, Biotin, Ricinus Communis Seed Oil, Sodium Hyaluronate, Hydrogenated Castor Oil"
+    },
+    {
+     "nombre": "SuperLock Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531686277",
+      "3600531701888",
+      "3600531701895",
+      "3600531701901"
+     ],
+     "inci": "Water, Beheneth-30, VP/Va Copolymer, Pentylene Glycol, Alcohol, Butylene Glycol, Glycerin, Dipropylene Glycol, Phenoxyethanol, Caprylyl Glycol, Xanthan Gum, Sodium Polyaspartate, Aluminum Hydroxide, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Superstay 24 Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531300616",
+      "3600530695768",
+      "3600530695928",
+      "3600530695973",
+      "3600530695782",
+      "3600530695805",
+      "3600530695812",
+      "3600530695904",
+      "3600531300340",
+      "3600530696024",
+      "3600531365783"
+     ],
+     "inci": "Isododecane, Trimethylsiloxysilicate, Nylon-611/Dimethicone Copolymer, Disteardimonium Hectorite, Lauroyl Lysine, Propylene Carbonate, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Alumina, Silica, Prunus Armeniaca Kernel Oil, Synthetic Fluorphlogopite, Benzyl Alcohol, Passiflora Edulis Seed Oil, Aluminum Hydroxide, Iron Titanium Oxide, Macadamia Ternifolia Seed Oil, Coriandrum Sativum Seed Oil, Simmondsia Chinensis Seed Oil, Tin Oxide, Sodium Hyaluronate, Sodium Stearate, Cetearyl Alcohol, Ceteareth-20, Calcium Chloride, Dimethicone, Parfum, Mica, CI 77891, CI 77491, CI 77492, CI 77499, CI 45410, CI 15850, CI 15985, CI 19140, CI 42090, CI 45380, CI 75470"
+    },
+    {
+     "nombre": "SuperStay 7 Días Esmalte de uñas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531376772",
+      "3600530124848",
+      "3600530124862",
+      "3600530125005",
+      "3600530125111",
+      "3600530125128",
+      "3600530704262",
+      "3600530704279",
+      "3600530554119",
+      "3600530862122",
+      "3600530282418",
+      "3600530554140",
+      "3600530359592"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Propyl Acetate, Isopropyl Alcohol, Tributyl Citrate, Tosylamide, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Stearalkonium Hectorite, Acrylates Copolymer, Benzophenone-1, Hydrogenated Acetophenone/Oxymethylene Copolymer, Dimethicone, Aqua, Barium Sulfate, Citric Acid, Calcium Sodium Borosilicate, Acetyl Tributyl Citrate, Oxidized Polyethylene, Silica, Calcium Aluminum Borosilicate, Colophonium, Phthalic Anhydride/Glycerin/Glycidyl Decanoate Copolymer, Synthetic Fluorphlogopite, Calcium Pantothenate, Ferrous Gluconate, Alumina, Silica [Nano], Magnesium Silicate, Tin Oxide, Aluminum Hydroxide, Polyethylene Terephthalate, Polyethylene, Acetone, CI 77002, Polyurethane-11, CI 77891, CI 77163, CI 77491, CI 77499, CI 15880, CI 19140, Mica, CI 15850, CI 77510, CI 77000, CI 77266 [Nano], CI 42090, CI 77400, CI 60725"
+    },
+    {
+     "nombre": "Superstay Active Wear 30H Corretor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531647919",
+      "3600531647940",
+      "3600531647964",
+      "3600531647988",
+      "3600531648008",
+      "3600531648039"
+     ],
+     "inci": "Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Synthetic Fluorphlogopite, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, HDI/Trimethylol Hexyllactone Crosspolymer, Bis-PEG/PPG-14/14 Dimethicone, Silica, Disteardimonium Hectorite, Phenoxyethanol, Magnesium Sulfate, Disodium Stearoyl Glutamate, Silica Silylate, Dipentaerythrityl Tetrahydroxystearate, Aluminum Hydroxide, Tocopherol, Glycerin, Empetrum Nigrum Fruit Juice, Potassium Sorbate, CI 77491, CI 77492, CI 77499, CI 77891, CI 77007, CI 77288"
+    },
+    {
+     "nombre": "Superstay Híbrido 24H Polvo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531666583",
+      "3600531666613",
+      "3600531666637",
+      "3600531666651",
+      "3600531666675",
+      "3600531666699"
+     ],
+     "inci": "Talc, Zinc Stearate, Dimethicone, Silica, Zea Mays Starch, Caprylic/Capric Triglyceride, Dimethicone/Vinyl Dimethicone Crosspolymer, Caprylyl Glycol, Triethoxycaprylylsilane, Ethylhexylglycerin, Potassium Sorbate, Silica [Nano], Isoceteth-10, Alaria Esculenta Extract, Tocopherol, CI 77891, CI 77491, CI 77492, CI 77499, CI 19140, Mica, CI 15850, CI 77742, CI 77007"
+    },
+    {
+     "nombre": "SuperStay Ink Crayon Pintalabios",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30174139",
+      "30179141",
+      "30174191",
+      "30174108",
+      "30174092",
+      "30174184",
+      "30174122",
+      "30174115",
+      "30174078",
+      "30174207",
+      "30164659",
+      "30167216",
+      "30159549",
+      "30164666"
+     ],
+     "inci": "Isododecane, Polyethylene, Trimethylsiloxyphenyl Dimethicone, Isohexadecane, Dimethicone, Acrylates/Dimethicone Copolymer, Polypropylsilsesquioxane, Stearyl Heptanoate, Hydrogenated Polyisobutene, Hydrogenated Styrene/Methyl Styrene/Indene Copolymer, Alumina, Synthetic Fluorphlogopite, Calcium Aluminum Borosilicate, Limonene, Calcium Sodium Borosilicate, Aluminum Hydroxide, Polybutylene Terephthalate, Silica, Magnesium Silicate, Silica Silylate, Ethylene/Va Copolymer, Acrylates Copolymer, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Benzyl Benzoate, Tin Oxide, Benzyl Alcohol, Citronellol, Linalool, Geraniol, Disodium Stearoyl Glutamate, Tocopherol, Parfum, CI 77891, CI 77491, CI 77492, CI 77499, CI 45410, CI 15850, CI 45380, Mica, CI 15985, CI 19140, CI 77163, CI 17200, CI 42090, CI 75470"
+    },
+    {
+     "nombre": "Tattoo Brow 36H Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30150157",
+      "30145047",
+      "30152717",
+      "30147591",
+      "30150140"
+     ],
+     "inci": "Isododecane, Aluminum Starch Octenylsuccinate, Trimethylsiloxysilicate, Dimethicone, Disteardimonium Hectorite, Propylene Carbonate, Pentylene Glycol, C8-9 Isoalkane, Silica Silylate, Caprylyl Glycol, Isopropyl Titanium Triisostearate, Alumina, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 77742, CI 77510"
+    },
+    {
+     "nombre": "Tattoo Brow Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531417734",
+      "3600531417758",
+      "3600531417765"
+     ],
+     "inci": "Aqua, Alcohol Denat., Polyvinyl Alcohol, Butylene Glycol, Dihydroxyacetone, Ceteth-20, Pentylene Glycol, Laureth-25, 1,2-Hexanediol, Citric Acid, Glycerin, Sodium Citrate, CI 19140, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Tattoo Liner Ink Pen Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531669454"
+     ],
+     "inci": "Aqua, Styrene/Acrylates Copolymer, Propylene Glycol, Laureth-21, Pentylene Glycol, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Ammonium Acrylates Copolymer, Caprylyl Glycol, PPG-2-Deceth-30, Sodium Dehydroacetate, Sodium Lauryl Sulfate, Disodium Laureth Sulfosuccinate, CI 77266 [Nano]"
+    },
+    {
+     "nombre": "Tattoo Studio Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531638948",
+      "3600531638979",
+      "3600531638955"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Synthetic Fluorphlogopite, Nylon-12, Paraffin, Cera Microcristallina, Polyisobutene, Silica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disteardimonium Hectorite, Tin Oxide, Propylene Carbonate, CI 77491, CI 77492, CI 77499, CI 77891, CI 77400, CI 77510, Mica, CI 77266 [Nano]"
+    },
+    {
+     "nombre": "TattooStudio Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531571726"
+     ],
+     "inci": "Water, Acrylates Copolymer, Butylene Glycol, Acrylates/Ethylhexyl Acrylate Copolymer, Pentylene Glycol, Alcohol, Laureth-21, Phenoxyethanol, Caprylyl Glycol, PEG-40 Hydrogenated Castor Oil, Sodium Dehydroacetate, Lithium Magnesium Sodium Silicate [Nano], Xanthan Gum"
+    },
+    {
+     "nombre": "Tattoostudio Eyeliner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531687922",
+      "3600531687175",
+      "3600531687151",
+      "3600531679682",
+      "3600531679699",
+      "3600531687182",
+      "3600531687205",
+      "3600531687199",
+      "3600531701406",
+      "3600531701413",
+      "3600531701420",
+      "3600531663469",
+      "3600531531164",
+      "3600531531089",
+      "3600531531102",
+      "3600531531119",
+      "3600531531133",
+      "3600531531188",
+      "3600531531157",
+      "3600531531096",
+      "3600531663483",
+      "3600531643324",
+      "3600531643348",
+      "3600531643379",
+      "3600531643386",
+      "3600531531065"
+     ],
+     "inci": "Dimethicone, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Synthetic Fluorphlogopite, Nylon-12, Paraffin, Cera Microcristallina, Polyisobutene, Calcium Sodium Borosilicate, Silica, Calcium Aluminum Borosilicate, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tin Oxide, Maltodextrin, Kaolin, Aluminum Hydroxide, Disteardimonium Hectorite, Magnesium Stearate, Propylene Carbonate, CI 77491, CI 77492, CI 77499, CI 77891, Mica, CI 42090, CI 75470, CI 77007, CI 77000, CI 77510, CI 19140, CI 77742, CI 16035, CI 77400, CI 77266 [Nano]"
+    },
+    {
+     "nombre": "Tattoostudio Maquillaje de cejas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531630164",
+      "3600531630416",
+      "3600531630317",
+      "3600531630218"
+     ],
+     "inci": "Dimethicone, Synthetic Fluorphlogopite, Trimethylsiloxysilicate, Polyethylene, Acrylates/Stearyl Acrylate/Dimethicone Methacrylate Copolymer, Polyisobutene, Paraffin, Nylon-12, Cera Microcristallina, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77491, CI 77492, CI 77499, CI 77891"
+    },
+    {
+     "nombre": "The Colossal Big Shot Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30143265"
+     ],
+     "inci": "Aqua, Paraffin, Potassium Cetyl Phosphate, Synthetic Beeswax, Copernicia Cerifera Cera, Polyacrylate-21, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Steareth-20, Glyceryl Dibehenate, Steareth-2, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Butylene Glycol, Trideceth-6 Phosphate, Dipropylene Glycol, Glyceryl Caprylate, Propylene Glycol, Silica, Kaolin, Soluble Collagen, BHT, Trisodium EDTA, Potassium Sorbate, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "The Colossal Curl Bounce Afterdark Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30150041"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Potassium Cetyl Phosphate, Butylene Glycol, Myristic Acid, Sodium Laureth Sulfate, Laureth-21, PEG-40 Hydrogenated Castor Oil, Tetrasodium EDTA, Potassium Sorbate, Sodium Dehydroacetate, CI 77491, CI 77492, CI 77499, CI 77266 [Nano], CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "The Colossal Curl Bounce Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30145436"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Potassium Cetyl Phosphate, Butylene Glycol, Myristic Acid, Sodium Laureth Sulfate, Tetrasodium EDTA, Silica, Potassium Sorbate, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, Mica, CI 77742"
+    },
+    {
+     "nombre": "The Colossal Curl Bounce Waterproof Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30152748"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Rayon, Panthenol, Silica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "The Falsies Lash Lift Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531629106",
+      "3600531584696"
+     ],
+     "inci": "Aqua, Potassium Cetyl Phosphate, Paraffin, Ethylene/Va Copolymer, Copernicia Cerifera Cera, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cera Alba, Synthetic Beeswax, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Cetyl Alcohol, Steareth-20, Glyceryl Dibehenate, Steareth-2, Phenoxyethanol, Hydroxyethylcellulose, Acacia Senegal Gum, Tribehenin, Caprylyl Glycol, Glyceryl Behenate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Disodium EDTA, Butylene Glycol, Rayon, Sodium Laureth Sulfate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tetrasodium EDTA, Potassium Sorbate, Silica, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77742, Mica, CI 77891"
+    },
+    {
+     "nombre": "The Falsies Lash Lift Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531604752"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Candelilla Cera, Rayon, Panthenol, Silica, Kaolin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77491, CI 77492, CI 77499, CI 77007, CI 77742, Mica, CI 77891"
+    },
+    {
+     "nombre": "The Falsies Surreal Extensions Máscara Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30161467"
+     ],
+     "inci": "Aqua, Behenyl Behenate, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Poly C10-30 Alkyl Acrylate, PVP, VP/Eicosene Copolymer, Aminomethyl Propanediol, Phenoxyethanol, Caprylyl Glycol, Potassium Cetyl Phosphate, Butylene Glycol, Myristic Acid, Sodium Laureth Sulfate, Rayon, Tetrasodium EDTA, Argania Spinosa Kernel Oil, Sclerocarya Birrea Seed Oil, Oryza Sativa Bran Oil, Potassium Sorbate, Silica, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "The Falsies Surreal Extensions Máscara Waterproof Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30163799"
+     ],
+     "inci": "Isododecane, Cera Alba, Copernicia Cerifera Cera, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Oryza Sativa Cera, Paraffin, Alcohol Denat., Polyvinyl Laurate, Propylene Carbonate, VP/Eicosene Copolymer, Synthetic Beeswax, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Rayon, Argania Spinosa Kernel Oil, Sclerocarya Birrea Seed Oil, Oryza Sativa Bran Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Kaolin, CI 77491, CI 77492, CI 77499, CI 77007, CI 77891, CI 77742, Mica"
+    },
+    {
+     "nombre": "The Nudes Paleta de sombra de ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531199081"
+     ],
+     "inci": "Talc, Triisostearin, Hydrogenated Polydecene, Magnesium Stearate, Synthetic Wax, Calcium Sodium Borosilicate, HDI/Trimethylol Hexyllactone Crosspolymer, Synthetic Fluorphlogopite, Caprylyl Glycol, Silica, Calcium Aluminum Borosilicate, Perlite, Tin Oxide, Alumina, Magnesium Silicate, Mica, CI 77891, CI 77491, CI 77492, CI 77499, CI 77400, CI 77742, CI 77000, CI 77007, CI 77163, CI 75470, CI 77510, CI 19140, CI 77288, CI 16035, CI 42090, D130837/5"
+    },
+    {
+     "nombre": "Volum Express Máscara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600531507282"
+     ],
+     "inci": "Aqua, Paraffin, Potassium Cetyl Phosphate, Cera Alba, Copernicia Cerifera Cera, Acacia Senegal Gum, Glycerin, Cetyl Alcohol, Acrylates Copolymer, Hydroxyethylcellulose, Phenoxyethanol, Steareth-20, PEG/PPG-17/18 Dimethicone, Hydrolyzed Corn Starch, Caprylyl Glycol, Sodium Polymethacrylate, Sodium Dehydroacetate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Simethicone, Disodium EDTA, Rayon, Arginine, Serine, Glutamic Acid, 2-Oleamido-1,3-Octadecanediol, Silica, Propylene Glycol, Panthenol, Laureth-21, Kaolin, PVP, Methylparaben, BHT, CI 77499, CI 77007, CI 77742, Mica, CI 77266 [Nano], CI 77891"
+    },
+    {
+     "nombre": "Volum Express The Colossal Washable Mascara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30174924"
+     ],
+     "inci": "Water, Paraffin, Potassium Cetyl Phosphate, Beeswax, Carnauba Wax, Acacia Senegal Gum, Glycerin, Cetyl Alcohol, Hydroxyethylcellulose, Sodium Polymethacrylate, Hydrogenated Jojoba Oil, Hydrogenated Palm Oil, Phenethyl Alcohol, Phenoxyethanol, Steareth-20, PEG/PPG-17/18 Dimethicone, Polyquaternium-10, Silica, Soluble Collagen, Simethicone, Panthenol, Disodium EDTA, (): Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891), Ultramarines (CI 77007), Chromium Oxide Greens (CI 77288), Chromium Hydroxide Green (CI 77289), Manganese Violet (CI 77742), Ferric Ferrocyanide (CI 77510), Mica"
+    },
+    {
+     "nombre": "Volum Express The Colossal Waterproof Mascara",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30166974"
+     ],
+     "inci": "Isododecane, Cera Microcristallina, Cera Alba, C8-9 Isoparaffin, Disteardimonium Hectorite, Cera Carnauba, Aqua, Propylene Carbonate, Allyl Stearate/Va Copolymer, Lecithin, Silica, Sodium Polymethacrylate, Hydrogenated Jojoba Oil, Phenoxyethanol, PEG/PPG-17/18 Dimethicone, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, Ethylparaben, Polyvinyl Laurate, Polyquaternium-10, Soluble Collagen, Panthenol, Propylparaben, Isobutylparaben, Methylparaben, Butylparaben, Oryza Sativa Starch, CI 77499, CI 77492, CI 77491/Iron Oxides, CI 77007/Ultramarines, CI 77891/Titanium Dioxide, CI 75470 Chromium Oxide Greens, CI 77289/Chromium Hydroxide Green, CI 77742/Manganese Violet, CI 77510/Ferric Ferrocyanide, Mica"
+    }
+   ]
   },
   {
    "key": "eroski",

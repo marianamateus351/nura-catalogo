@@ -471,53 +471,26 @@ Fuera y por qué:
 Scripts: `lp/get.sh`, `lp_parse.py`, `lp_agg.py` (fichas → `lp/db.json` + URL de tonos que
 faltan), `gen_lp.py` (agrupación y nombres). OBF no hizo falta.
 
-### Maybelline New York (maybelline.es) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-10)
-**La siguiente con más retorno, y de largo**, por una razón muy concreta: Maybelline es del
-**grupo L'Oréal** y su web va sobre la misma plataforma que loreal-paris.es, que acaba de dar
-la marca más grande del catálogo (249 productos, 501 códigos). **Los scripts de L'Oréal Paris
-(`lp/get.sh`, `lp_parse.py`, `lp_agg.py`, `gen_lp.py`) deberían valer casi tal cual**: probar
-primero eso y solo tocar lo que falle. Es además maquillaje puro, que es justo lo que Mariana
-ha pedido expresamente que entre.
-Lo que hay que comprobar, en este orden:
-1. Que el `sitemap.xml` de maybelline.es existe y que las fichas traen **JSON-LD `Product`**
-   con `gtin13` y `additionalProperty[name="Ingredients"]`, igual que L'Oréal Paris.
-2. Que los tonos van en `<oap-product-variant-selector :variants='[…]'>` y que hay que hacer
-   **pasadas sucesivas** hasta que no salgan URL nuevas: en L'Oréal Paris las páginas de tono
-   NO estaban en el sitemap y ahí se escondía la mitad del catálogo (2075 → 2501 páginas).
-3. Ojo con los **EAN-8 de 8 cifras que empiezan por `30…`**: en L'Oréal Paris resultaron ser
-   EAN-8 franceses auténticos de máscaras y eyeliners, y entran (no confundir con los EAN-8
-   raros que excluye la regla 3). Maybelline es sobre todo máscaras y eyeliners, así que aquí
-   van a salir muchos.
-4. **Tonos** (regla 4): misma lógica que L'Oréal Paris. Tonos con el MISMO INCI, una entrada
-   con todos sus códigos; si el INCI cambia entre tonos (labiales, sombras, correctores, por
-   los CI), entradas separadas con el tono en el nombre. Aquí va a pasar mucho: la marca es
-   casi toda color.
-5. Fichas con el campo "Ingredients" vacío o con texto de marketing, fuera (regla 2-bis); y
-   listas traducidas al español, fuera también (pasó en L'Oréal Paris y en Neutrogena).
-Detrás de Maybelline, en el mismo grupo y con la misma plataforma: **NYX Professional Makeup**
-y **Essie**.
-
-### Eroski — cerrada 2026-09-10: 5 productos, 5 códigos (fuente OBF; la tienda no se deja leer)
-**supermercado.eroski.es no publica nada legible desde fuera**: todo el dominio (portada,
-`robots.txt`, `sitemap.xml`, fichas y las peticiones JSON) responde con la página
-"Comprobando tu navegador - reCAPTCHA" de Google Cloud Armor, un reCAPTCHA **interactivo**
-(iframe de desafío). Con Chromium headless y los flags del proxy tampoco pasa, ni esperando
-40 s: desde una IP de centro de datos el desafío no se resuelve solo. No se ha podido
-comprobar si la ficha trae EAN e ingredientes en texto; queda pendiente de mirar desde un
-navegador normal (Mariana), con las herramientas de desarrollo abiertas para ver qué JSON
-carga el listado. La web corporativa `www.eroski.es` no tiene catálogo de producto.
-Lo que sí hay (todo por Open Beauty Facts, `tag_0=eroski` + `search_terms=eroski`, y OPF):
-- **10 códigos en total** (todos `8480010…`, EAN de Eroski), 6 con lista. Muy por debajo de
-  Deliplus (532) y Cien (366): la comunidad apenas sube cosmética de Eroski.
-- Entran los 5 con lista completa que pasan la criba por vocabulario (`vocab.py`): crema de
-  manos reparadora y crema de manos Natural de **Belle** (la línea de cosmética de Eroski),
-  crema hidratante Belle Men, jabón líquido Basic Dermo y gel íntimo. Tres erratas de coma de
-  la comunidad se corrigieron porque eran inequívocas ("Hexyl Cinnamal Linalool" → dos
-  alérgenos). Fuera: un enjuague bucal sin nombre ni foto, y 4 fichas sin texto (toallitas,
-  papel higiénico húmedo y dos sin nombre), aunque tres tienen foto de la etiqueta.
-- En Open Food Facts hay cientos de Eroski, pero es alimentación; la consulta por categorías
-  de higiene/limpieza no devuelve nada usable.
-Sin limpieza ni bebé ni maquillaje: no hay fuente. `gen_eroski.py`, `er/`.
+### Maybelline New York (maybelline.es) — cerrada 2026-09-10: 81 productos, 455 códigos
+Sale entera de la web con los scripts de L'Oréal Paris, con dos diferencias de marcado:
+- `sitemap.xml` (758 URL) solo lista **113 fichas**; el resto de fichas de producto se
+  recogen de los enlaces `/todos-los-productos/<gama>/<tipo>/<slug>` de las páginas de
+  categoría (segunda pasada: 744 páginas, 101 fichas con código).
+- **Los tonos van todos en la misma ficha**, sin página propia: `<input
+  class="shade-selector__input" data-variant-ean="…" data-name="…">` por tono, y **una sola
+  lista de ingredientes por ficha** con los colorantes en "[+/- puede contener]". Así que
+  cada ficha es una entrada con todos los EAN de sus tonos (Super Stay Matte Ink 44, Tattoo
+  Studio 26, Fit Me Mate 24, Vinyl Ink 22…). Nombre en `<span class="product__header-name">`
+  (el JSON-LD trae solo la gama, "FIT ME®").
+- La nota legal va **delante** de la lista (en L'Oréal Paris iba detrás), la lista a veces sin
+  "INGREDIENTS:" y separada por "●"; el "puede contener" aparece también en francés sin
+  corchete ("/PEUT CONTENIR"). Todo eso está en `lp_parse.py` (`NOTA`, viñetas antes de las
+  barras de sinónimos) y vale para las dos webs.
+- **114 EAN-8 `30…`** (máscaras, eyeliners, gloss): los franceses auténticos, entran.
+Fuera: 10 fichas sin lista (calendario de adviento, dos primers, Master Fix, dos Lash
+Sensational, paleta Burgundy Bar…), 1 traducida al español (Sky High Green Altitude) y 6
+códigos de EE. UU. (`41554…`, UPC de 12 cifras). Scripts: `mb/get.sh`, `mb_parse.py`,
+`mb_gen.py`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -553,6 +526,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Maybelline | por comprobar | por comprobar | por comprobar | misma plataforma que L'Oréal Paris: reusar sus scripts (ver su apartado) |
 | Eroski | tienda online `supermercado.eroski.es` | por comprobar | por comprobar | marca blanca: primero la tienda online, si no OBF/OPF con criba por vocabulario (ver su apartado) |
 | Eroski | tienda tras reCAPTCHA interactivo (Cloud Armor): ilegible | — | — | OBF/OPF: 10 códigos, 5 entran; ver su apartado |
+| Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -574,9 +548,9 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-1835 códigos en 18 marcas: L'Oréal Paris 511 · Nivea 235 · Garnier 234 · Avène 162 ·
-LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 · Dove 28 ·
-Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · **Eroski 5**.
-Ninguno de los 1439 productos está sin INCI. Sesderma y Maybelline siguen vacías (Maybelline
-es del grupo L'Oréal: probar primero el marcado de loreal-paris.es, `lp_parse.py`).
-Pendiente de Mariana: mirar supermercado.eroski.es desde un navegador normal.
+2290 códigos en 19 marcas: L'Oréal Paris 511 · **Maybelline 455** · Nivea 235 · Garnier 234 ·
+Avène 162 · LRP 160 · Eucerin 137 · Vichy 111 · CeraVe 73 · Neutrogena 56 · Bioderma 42 ·
+Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 ·
+Eroski 5. Ninguno de los 1520 productos está sin INCI. Sesderma sigue vacía.
+Pendiente de Mariana: mirar supermercado.eroski.es desde un navegador normal (pestaña Red,
+peticiones JSON) para saber si la ficha da EAN e ingredientes.
