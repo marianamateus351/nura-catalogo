@@ -729,6 +729,33 @@ JSON-LD `Product`** (solo migas). De los scripts anteriores solo vale `limpia_in
 Scripts: `es_parse.py` (ficha .es), `fr_parse.py` (solo para el contraste), `gen_essie.py`
 (agrupación por lista idéntica, nombres por gama enamel/expressie/gel couture) → `essie_merged.json`.
 
+## PEDIDOS POR LAS USUARIAS (de la pestaña "Buscados" de la app)
+Esta lista manda sobre cualquier otra: son códigos que alguien ha escaneado de
+verdad y no le hemos devuelto nada. Se curan por orden de demanda. Cuando uno
+entre, se tacha aquí y Mariana lo quita de la pestaña (o se quita solo, a partir
+de la build 90).
+
+### 2026-09-11
+- **8480000416858 · "Laca de uñas manicura francesa 03"** (Deliplus/Mercadona,
+  prefijo `8480000`). Estado en OBF: la ficha existe pero **sin ingredientes**.
+  Deliplus ya está en el catálogo con 15 productos, así que esto es ampliar una
+  marca que ya tenemos, no abrir una nueva. Dónde buscar, por orden:
+  1. `mc_det.json` — las 646 fichas de Mercadona ya descargadas: confirma nombre
+     oficial y EAN, aunque no traiga INCI.
+  2. **incidecoder**, que tiene unas 30 fichas de Deliplus subidas por usuarias;
+     fue la vía que resolvió el sérum de Ácido Hialurónico y Ceramidas.
+  3. `image_ingredients_url` de OBF: si hay foto de la etiqueta, es transcripción
+     a mano, no automática.
+  Ojo con la laca de uñas: el INCI es corto y los pigmentos cambian **por tono**,
+  así que el "03" es su propia fórmula. No heredar la lista de otro tono.
+- **0810912032347** — sin nombre, no encontrado en ninguna base. Empieza por `0`,
+  o sea **EE. UU./Canadá**. Primero hay que **identificar qué producto es**
+  (buscar el código entrecomillado: upcitemdb, digit-eyes, Amazon, Google). Si
+  resulta ser un producto que no se vende en España, se anota y se deja estar;
+  si es algo que sí circula aquí, se cura con su fórmula de EE. UU. y se dice
+  expresamente en el nombre que es la versión americana, porque suele diferir de
+  la europea.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
