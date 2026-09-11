@@ -258,6 +258,21 @@ Bio, crema de día VitalBeauty, crema corporal hidratante, mascarilla capilar re
 crema solar Active SPF30. Scripts: `gen_cien.py`, `vocab.py`, `final_cien.py`.
 
 ### Neutrogena (neutrogena.es) — cerrada 2026-09-10: 50 productos, 56 códigos
+**CORRECCIÓN 2026-09-11 · las cremas de manos Fórmula Noruega tienen mal los códigos.**
+Mariana escaneó su tubo de la **Concentrada Con Perfume (4012273123009)** y la etiqueta real
+lleva **Methylparaben y Propylparaben**; el INCI que le habíamos puesto es el de la fórmula
+ACTUAL de neutrogena.es, sin parabenos (Ethylhexylglycerin + Caprylyl Glycol). O sea que a un
+tubo de la fórmula ANTIGUA se le pegó la lista de la nueva.
+Causa: estas cuatro cremas la web las publica con la lista **traducida al español**, así que el
+INCI se reconstruyó cruzando con etiquetas de OBF de otros tamaños **emparejando por nombre, no
+código a código**. Y OBF guarda para estos mismos nombres la fórmula antigua con parabenos.
+El código delataba el problema: `4012273123009` empieza por `40` (Alemania) mientras el resto
+de la gama es `357466…`. **Ya se ha quitado del catálogo** (la entrada se queda sin código,
+como el Cicaplast Labios de LRP: sigue siendo buscable por nombre con la fórmula actual).
+PENDIENTE: revisar código a código el resto de la gama contra la FOTO de la etiqueta en OBF,
+no contra el nombre. El sospechoso que queda es **8002110383709** (prefijo `800…`, Italia) en
+la Concentrada Sin Perfume; los demás son `357466…` y encajan. Regla: si la etiqueta de la foto
+lleva parabenos, ese código NO es de la serie actual y sale (reglas 2 y 3).
 Marca de Kenvue. **neutrogena.es publica EAN-13 e INCI en texto**, así que la marca sale
 entera de la web y OBF queda para confirmar tamaños. Cómo va la ficha (Next.js/Contentful):
 - Sitemap `/sitemap.xml` (201 URL). Las fichas **no siguen una sola ruta**: la mayoría van en
