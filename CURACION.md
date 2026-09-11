@@ -269,10 +269,22 @@ código a código**. Y OBF guarda para estos mismos nombres la fórmula antigua 
 El código delataba el problema: `4012273123009` empieza por `40` (Alemania) mientras el resto
 de la gama es `357466…`. **Ya se ha quitado del catálogo** (la entrada se queda sin código,
 como el Cicaplast Labios de LRP: sigue siendo buscable por nombre con la fórmula actual).
-PENDIENTE: revisar código a código el resto de la gama contra la FOTO de la etiqueta en OBF,
-no contra el nombre. El sospechoso que queda es **8002110383709** (prefijo `800…`, Italia) en
-la Concentrada Sin Perfume; los demás son `357466…` y encajan. Regla: si la etiqueta de la foto
-lleva parabenos, ese código NO es de la serie actual y sale (reglas 2 y 3).
+**Revisión 2026-09-11, código a código contra la FOTO de la etiqueta en OBF (no por nombre):**
+- Concentrada Sin Perfume: **8002110383709** (tubo UK/IE de 50 ml, 2022, fabricado en Val de
+  Reuil; el prefijo `800…` es de Johnson & Johnson Italia), **3574661685977** (50 ml DE/FR/NL,
+  2022) y **3574661685960** (75 ml, 2024). Las tres etiquetas llevan la lista actual con
+  Ethylhexylglycerin + Caprylyl Glycol, código de fórmula [PR-0003658], **sin parabenos**, y
+  coinciden ingrediente a ingrediente con el INCI del catálogo. Se quedan.
+- Rápida Absorción: **3574660239829** (75 ml, etiqueta finlandesa) y **3574661687018** (75 ml
+  DE): lista actual [PR-0003707], sin parabenos, idéntica al catálogo. Se quedan.
+  **3574660239805** es el EAN que publica la propia ficha de neutrogena.es (no viene de OBF).
+- Manos y Uñas **3574660342352** y Anti-Edad SPF20 **3574661210933**: EAN de la propia ficha
+  de neutrogena.es, no de OBF; OBF no tiene ficha de ninguno de los dos.
+- Concentrada Con Perfume: sin código (el único que tenía, 4012273123009, era de la fórmula
+  antigua con parabenos y ya se quitó). Buscable por nombre.
+Resultado: **no sale ningún código más**. Lección para el flujo: cuando el INCI se reconstruya
+desde OBF, emparejar por INCI idéntico con la etiqueta (texto o foto) del MISMO código, nunca
+por nombre; es lo que se hizo después en Sanex y Colgate.
 Marca de Kenvue. **neutrogena.es publica EAN-13 e INCI en texto**, así que la marca sale
 entera de la web y OBF queda para confirmar tamaños. Cómo va la ficha (Next.js/Contentful):
 - Sitemap `/sitemap.xml` (201 URL). Las fichas **no siguen una sola ruta**: la mayoría van en
