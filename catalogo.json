@@ -1,5 +1,5 @@
 {
- "version": "2026-09-11b",
+ "version": "2026-09-11c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -11034,51 +11034,6 @@
      "inci": "Water, Isododecane, Dimethicone, Alcohol Denat., Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Perlite, Sodium Hyaluronate, Nylon-12, Isopropyl Lauroyl Sarcosinate, Diisopropyl Sebacate, Disteardimonium Hectorite, HDI/Trimethylol Hexyllactone Crosspolymer, Bis-PEG/PPG-14/14 Dimethicone, Magnesium Sulfate, Synthetic Fluorphlogopite, Ethylhexyl Hydroxystearate, Phenoxyethanol, Cellulose, Dipentaerythrityl Tetrahydroxystearate, Silica Silylate, Disodium Stearoyl Glutamate, Calcium Aluminum Borosilicate, Tocopherol, Moroccan Lava Clay, Glycerin, Empetrum Nigrum Fruit Juice, Aluminum Hydroxide, Silica, Potassium Sorbate"
     },
     {
-     "nombre": "Aceite Extraordinario Aceite Nutrición Intensa tratamiento pelo seco",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600522452898"
-     ],
-     "inci": "Cyclopentasiloxane, Dimethiconol, Chamomilla Recutita Extract, Cocos Nucifera Oil, Hydroxycitronellal, Helianthus Annuus Seed Oil, Nelumbium Speciosum Extract, Limonene, Benzyl Salicylate, Benzyl Alcohol, Linalool, Linum Usitatissimum Flower Extract, Isoeugenol, Caprylic/Capric Triglyceride, Geraniol, Gardenia Tahitensis Flower Extract, Rosa Canina Flower Extract, Bisabolol, Hexyl Cinnamal, Glycine Soja Oil, Parfum"
-    },
-    {
-     "nombre": "Aceite Extraordinario Acondicionador Nutritivo para pelo seco",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523625796"
-     ],
-     "inci": "Aqua, Cetyl Alcohol, Glycerin, Amodimethicone, CI 77891, CI 77491, CI 15985, CI 19140, Chamomilla Recutita Flower Extract, Mica, Cocos Nucifera Oil, Tocopherol, Hydroxyethylcellulose, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Helianthus Annuus Seed Oil, Nelumbo Nucifera Flower Extract, Linum Usitatissimum Flower Extract, Isopropyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Caprylic/Capric Triglyceride, Caprylic/Capric Glycerides, Myristyl Alcohol, Caramel, Gardenia Taitensis Flower, Bisabolol, Rosa Canina Flower Extract, Cetyl Esters, Cetearyl Alcohol, Cetrimonium Chloride, BHT, Citric Acid, Glycine Soja Oil, Parfum"
-    },
-    {
-     "nombre": "Aceite Extraordinario Champú Nutritivo Pelo Seco 400ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523277575"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, CI 19140, Dicaprylyl Ether, Cocos Nucifera Oil, Tocopherol, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Oleyl Alcohol, PPG-5-Ceteth-20, PEG-60 Hydrogenated Castor Oil, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-7, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Propylene Glycol, Caprylic/Capric Triglyceride, Carvone, Caramel, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citric Acid, Citrus Aurantium Peel Oil, Coumarin, Hexyl Cinnamal, Parfum"
-    },
-    {
-     "nombre": "Aceite Extraordinario Mascarilla Nutritiva",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524246785"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Cetyl Esters, Parfum, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, CI 77891, CI 77491, CI 19140, CI 15985, Mica, Cocos Nucifera Oil, Tocopherol, Anise Alcohol, Salicylic Acid, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Benzyl Alcohol, Linalool, Caprylyl Glycol, Caprylic/Capric Triglyceride, Tartaric Acid, Caramel, Carvone, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Hexyl Cinnamal"
-    },
-    {
-     "nombre": "Aceite Extraordinario Serum Multiusos Nutricion Y Brillo Para Cabello Seco",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524135836"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Cocos Nucifera Oil, Cetyl Alcohol, Cetyl Esters, Lactic Acid, Tocopherol, Phenoxyethanol, Behentrimonium Methosulfate, Trideceth-6, Anise Alcohol, Dilauryl Thiodipropionate, Chlorhexidine Digluconate, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Amodimethicone, Caprylic/Capric Glycerides, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Cetrimonium Chloride, Coumarin, Hexyl Cinnamal, Parfum"
-    },
-    {
      "nombre": "Aceite para Barba Larga",
      "include": [],
      "exclude": [],
@@ -11313,33 +11268,6 @@
      "inci": "Dimethicone, Cera Microcristallina, Polybutene, Synthetic Wax, Isocetyl Stearate, Octyldodecyl Stearoyl Stearate, Synthetic Beeswax, Hydrated Silica, Coco-Caprylate, Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Colophonium"
     },
     {
-     "nombre": "Bond Repair Acondicionador para pelo dañado",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524074821"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Dimethicone, Bis-Cetearyl Amodimethicone, Cetyl Esters, Sodium Citrate, Citric Acid, Isopropyl Alcohol, Dicetyldimonium Chloride, Coco-Betaine, Hydroxypropyl Guar, Sodium Chloride, Hydroxycitronellal, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium Hedta, Limonene, Candelilla Cera, Linalool, Isopropyl Myristate, Amodimethicone, Cetrimonium Chloride, Hexyl Cinnamal, Parfum"
-    },
-    {
-     "nombre": "Bond Repair Pre Champú para pelo dañado",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524074548"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Stearyl Alcohol, Citric Acid, Cetyl Esters, Sodium Citrate, Hydroxypropyl Guar, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Limonene, Linalool, Isopropyl Alcohol, Hexyl Cinnamal, Parfum"
-    },
-    {
-     "nombre": "Bond Repair Tratamiento para pelo dañado",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524075606"
-     ],
-     "inci": "Isododecane, Dipropylene Glycol, Aqua, Dimethicone, Alcohol Denat., Glycerin, Dimethiconol, PEG-14 Dimethicone, Hydroxyethyl Urea, Parfum, Citric Acid, Sodium Citrate, Hydroxycitronellal, Phenoxyethanol, PEG-60 Hydrogenated Castor Oil, Polyacrylamide, Limonene, Linalool, Benzyl Benzoate, Benzyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol, Isoeugenol, Geraniol, Citronellol, Citral, Laureth-7, Hexyl Cinnamal, C13-14 Isoalkane"
-    },
-    {
      "nombre": "Brow Lamination Gel Transparente Fijador de Cejas",
      "include": [],
      "exclude": [],
@@ -11448,25 +11376,6 @@
      "inci": "Water, Glycolic Acid, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Sodium Hydroxide, Citric Acid, Pentylene Glycol, Aloe Barbadensis Leaf Juice, Citrullus Lanatus Fruit Extract, Ascorbyl Glucoside, Panthenol, PEG-40 Hydrogenated Castor Oil, PPG-26-Buteth-26, Tocopherol, Bis-PEG-18 Methyl Ether Dimethyl Silane, Linalool, CI 14700, CI 19140, Potassium Sorbate, Salicylic Acid, Sodium Benzoate, Parfum"
     },
     {
-     "nombre": "Collagen Lifter Champú Voluminizador",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524251208",
-      "3600524275273"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
-    },
-    {
-     "nombre": "Collagen Lifter Spray Voluminizador Big Hair Day",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524250171"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
-    },
-    {
      "nombre": "Color Riche Intense Volume Matte Barra de Labios (188 ROSE ACTIVIST, 520 NUDE DEFIANT, 570 WORTH IT INTENSE, 601 WORTH IT)",
      "include": [],
      "exclude": [],
@@ -11496,61 +11405,6 @@
       "3600524066772"
      ],
      "inci": "Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Phenyl Trimethicone, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Hydrogenated Jojoba Oil, Dimethicone Crosspolymer, Isostearyl Isostearate, Kaolin, Paraffin, Isohexadecane, Nylon-12, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Cera Microcristallina, Polyethylene, Argania Spinosa Kernel Oil, Synthetic Wax, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Ethylhexyl Palmitate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Serica Powder, Perlite, Alumina, Citronellol, Trihydroxystearin, Limonene, Geraniol, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Synthetic Fluorphlogopite, Benzyl Alcohol, Sodium Hyaluronate, Magnesium Silicate, Silica, Tocopherol, Tin Oxide, Glucomannan, Parfum"
-    },
-    {
-     "nombre": "Color Vive Acondicionador Protector para el pelo teñido 250ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523625765",
-      "8411300710001"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Cocos Nucifera Oil, Sodium Benzoate, Phenoxyethanol, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Trideceth-6, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citric Acid, Potassium Hydroxide, Citronellol, Cetrimonium Chloride, Potassium Sorbate, Hexyl Cinnamal, Glycerin, Parfum"
-    },
-    {
-     "nombre": "Color Vive Champú Protector para el pelo teñido 300ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524153458"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Cocamide Mipa, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hydroxide, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Salicylic Acid, Fumaric Acid, Benzyl Alcohol, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Potassium Sorbate, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Parfum"
-    },
-    {
-     "nombre": "Color Vive Color Vive Recarga Ecopack : Protección del Color",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524197322"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ascorbyl Glucoside, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
-    },
-    {
-     "nombre": "Color Vive Magic Water",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524004637"
-     ],
-     "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Aqua, Parfum, CI 14700, Dicaprylyl Carbonate, Cocos Nucifera Oil, Tocopherol, Sodium Benzoate, Paeonia Officinalis Flower Extract, Behentrimonium Chloride, Ethylhexyl Salicylate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Glycerin"
-    },
-    {
-     "nombre": "Color Vive Mascarilla nutritiva Rapid Reviver para pelo teñido",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523732814"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Tocopheryl Acetate, Cocos Nucifera Oil, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Punica Granatum Extract, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Cetrimonium Chloride, Citronellol, Coumarin, Amyl Cinnamal, Glycerin Enriquecido con Aminoácido y vitamina E.* *Derivado de vitamina E"
-    },
-    {
-     "nombre": "Color Vive Mascarilla Protectora del Color con Vitamina CG 300ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600521708514"
-     ],
-     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 14700, CI 19140, Cocos Nucifera Oil, Lactic Acid, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, Paeonia Officinalis Flower Extract, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Parfum"
     },
     {
      "nombre": "Contorno de Ojos Antiarrugas para hombre Power Age",
@@ -11731,43 +11585,180 @@
      "inci": "Water, Cyclopentasiloxane, Isohexadecane, Isopropyl Palmitate, CI 61565, Dipotassium Phosphate, Panthenol, Poloxamer 184, Polyaminopropyl Biguanide, Potassium Phosphate, Sodium Chloride"
     },
     {
-     "nombre": "Dream Long #CuidaTuStyle Champú Seco Air Volume Elvive Dream Long",
+     "nombre": "Elvive Aceite Extraordinario Aceite Nutrición Intensa tratamiento pelo seco",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3600524051075"
+      "3600522452898"
      ],
-     "inci": "Butane, Alcohol Denat., Oryza Sativa Starch, Isopropyl Myristate, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Stearalkonium Hectorite, Calcium Carbonate, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Propylene Carbonate, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+     "inci": "Cyclopentasiloxane, Dimethiconol, Chamomilla Recutita Extract, Cocos Nucifera Oil, Hydroxycitronellal, Helianthus Annuus Seed Oil, Nelumbium Speciosum Extract, Limonene, Benzyl Salicylate, Benzyl Alcohol, Linalool, Linum Usitatissimum Flower Extract, Isoeugenol, Caprylic/Capric Triglyceride, Geraniol, Gardenia Tahitensis Flower Extract, Rosa Canina Flower Extract, Bisabolol, Hexyl Cinnamal, Glycine Soja Oil, Parfum"
     },
     {
-     "nombre": "Dream Long #CuidaTuStyle Crema Peinado Sin Aclarado Non-Stop Rizos Definidos",
+     "nombre": "Elvive Aceite Extraordinario Aceite Tratamiento de Uso Universal 100 ml",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3600524033736"
+      "3600522215455"
      ],
-     "inci": "Water, Cetearyl Alcohol, Propylene Glycol, Butyrospermum Parkii Butter, Cetyl Esters, Guar Hydroxypropyltrimonium Chloride, Ricinus Communis Seed Oil, Tocopherol, Sodium Hyaluronate, Hydroxycitronellal, Sodium Dehydroacetate, Phenoxyethanol, Behentrimonium Chloride, Ethylhexylglycerin, Trideceth-6, Limonene, Fumaric Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Caprylyl Glycol, Acrylates Copolymer, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Coumarin, Laureth-21, Hexyl Cinnamal, Glycerin, VP/Dimethylaminoethylmethacrylate Copolymer, Parfum"
+     "inci": "Cyclopentasiloxane, Dimethiconol, Chamomilla Recutita Flower Extract, Cocos Nucifera Oil, Tocopherol, Helianthus Annuus Seed Oil, Calendula Officinalis Flower Extract, Benzyl Alcohol, Cinnamal, Linalool, Linum Usitatissimum Flower Extract, Caprylic/Capric Glycerides, Caprylic/Capric Triglyceride, Gardenia Taitensis Flower, Bisabolol, Rosa Canina Flower Extract, BHT, Glycine Soja Oil, Parfum"
     },
     {
-     "nombre": "Dream Long #CuidaTuStyle Mascarilla Rizos Consentidos Elvive Dream Long",
+     "nombre": "Elvive Aceite Extraordinario Acondicionador Nutritivo para pelo seco",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3600524021887"
+      "3600523625796"
      ],
-     "inci": "Water, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Ricinus Communis Seed Oil, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hyaluronate, Sodium Hydroxide, Phenoxyethanol, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
+     "inci": "Aqua, Cetyl Alcohol, Glycerin, Amodimethicone, CI 77891, CI 77491, CI 15985, CI 19140, Chamomilla Recutita Flower Extract, Mica, Cocos Nucifera Oil, Tocopherol, Hydroxyethylcellulose, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Helianthus Annuus Seed Oil, Nelumbo Nucifera Flower Extract, Linum Usitatissimum Flower Extract, Isopropyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Caprylic/Capric Triglyceride, Caprylic/Capric Glycerides, Myristyl Alcohol, Caramel, Gardenia Taitensis Flower, Bisabolol, Rosa Canina Flower Extract, Cetyl Esters, Cetearyl Alcohol, Cetrimonium Chloride, BHT, Citric Acid, Glycine Soja Oil, Parfum"
     },
     {
-     "nombre": "Dream Long #CuidaTuStyle Spray Protector de Calor Elvive Dream Long",
+     "nombre": "Elvive Aceite Extraordinario Champú Nutritivo Pelo Seco 400ml",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3600523966752"
+      "3600523277575"
      ],
-     "inci": "Water, Dimethicone, Stearyl Alcohol, Niacinamide, Ricinus Communis Seed Oil, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydroxycitronellal, Phenoxyethanol, Steareth-100, PEG-40 Hydrogenated Castor Oil, Behentrimonium Chloride, Trideceth-6, Salicylic Acid, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Laureth-23, Laureth-4, Coumarin, Hexyl Cinnamal, Parfum"
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, CI 19140, Dicaprylyl Ether, Cocos Nucifera Oil, Tocopherol, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Oleyl Alcohol, PPG-5-Ceteth-20, PEG-60 Hydrogenated Castor Oil, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-7, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Propylene Glycol, Caprylic/Capric Triglyceride, Carvone, Caramel, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citric Acid, Citrus Aurantium Peel Oil, Coumarin, Hexyl Cinnamal, Parfum"
     },
     {
-     "nombre": "Dream Long Acondicionador Reconstructor para pelo largo 500 ml",
+     "nombre": "Elvive Aceite Extraordinario Mascarilla Nutritiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524246785"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Cetyl Esters, Parfum, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, CI 77891, CI 77491, CI 19140, CI 15985, Mica, Cocos Nucifera Oil, Tocopherol, Anise Alcohol, Salicylic Acid, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Benzyl Alcohol, Linalool, Caprylyl Glycol, Caprylic/Capric Triglyceride, Tartaric Acid, Caramel, Carvone, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Aceite Extraordinario Serum Multiusos Nutricion Y Brillo Para Cabello Seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524135836"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocos Nucifera Oil, Cetyl Alcohol, Cetyl Esters, Lactic Acid, Tocopherol, Phenoxyethanol, Behentrimonium Methosulfate, Trideceth-6, Anise Alcohol, Dilauryl Thiodipropionate, Chlorhexidine Digluconate, Sclerocarya Birrea Seed Oil, Camellia Japonica Seed Oil, Limonene, Linalool, Amodimethicone, Caprylic/Capric Glycerides, Gardenia Taitensis Flower, Rosa Canina Flower Extract, Cetrimonium Chloride, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Bond Repair Acondicionador para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524074821"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Dimethicone, Bis-Cetearyl Amodimethicone, Cetyl Esters, Sodium Citrate, Citric Acid, Isopropyl Alcohol, Dicetyldimonium Chloride, Coco-Betaine, Hydroxypropyl Guar, Sodium Chloride, Hydroxycitronellal, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium Hedta, Limonene, Candelilla Cera, Linalool, Isopropyl Myristate, Amodimethicone, Cetrimonium Chloride, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Bond Repair Champú Fortificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524074685"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamide MEA, Glycerin, Cocamidopropyl Betaine, Glycol Distearate, Sodium Lauroyl Sarcosinate, Parfum, Hexylene Glycol, Coco-Betaine, Sodium Hydroxide, Sodium Chloride, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Hydroxycitronellal, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-7, Limonene, Benzoic Acid, Linalool, Benzyl Benzoate, Propylene Glycol, Carbomer, Citric Acid, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Bond Repair Pre Champú para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524074548"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Stearyl Alcohol, Citric Acid, Cetyl Esters, Sodium Citrate, Hydroxypropyl Guar, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Limonene, Linalool, Isopropyl Alcohol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Bond Repair Tratamiento para pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524075606"
+     ],
+     "inci": "Isododecane, Dipropylene Glycol, Aqua, Dimethicone, Alcohol Denat., Glycerin, Dimethiconol, PEG-14 Dimethicone, Hydroxyethyl Urea, Parfum, Citric Acid, Sodium Citrate, Hydroxycitronellal, Phenoxyethanol, PEG-60 Hydrogenated Castor Oil, Polyacrylamide, Limonene, Linalool, Benzyl Benzoate, Benzyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol, Isoeugenol, Geraniol, Citronellol, Citral, Laureth-7, Hexyl Cinnamal, C13-14 Isoalkane"
+    },
+    {
+     "nombre": "Elvive Collagen Lifter Champú Voluminizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524251208",
+      "3600524275273"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Collagen Lifter Spray Voluminizador Big Hair Day",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524250171"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Glycerin, Butylene Glycol, Isopropyl Myristate, Parfum, Stearamidopropyl Dimethylamine, Glycine, Soja Oil, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, PEG-90M, Helianthus Annuus Seed Oil, Salicylic Acid, Silica, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Tartaric Acid, Geranyl Acetate, Geraniol, Carbomer, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, BHT, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Color Vive Acondicionador Protector para el pelo teñido 250ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625765",
+      "8411300710001"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Cocos Nucifera Oil, Sodium Benzoate, Phenoxyethanol, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Trideceth-6, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citric Acid, Potassium Hydroxide, Citronellol, Cetrimonium Chloride, Potassium Sorbate, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Elvive Color Vive Champú Protector para el pelo teñido 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524153458"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Cocamide Mipa, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hydroxide, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Salicylic Acid, Fumaric Acid, Benzyl Alcohol, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Potassium Sorbate, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Parfum"
+    },
+    {
+     "nombre": "Elvive Color Vive Magic Water",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524004637"
+     ],
+     "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Aqua, Parfum, CI 14700, Dicaprylyl Carbonate, Cocos Nucifera Oil, Tocopherol, Sodium Benzoate, Paeonia Officinalis Flower Extract, Behentrimonium Chloride, Ethylhexyl Salicylate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Elvive Color Vive Mascarilla nutritiva Rapid Reviver para pelo teñido",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523732814"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Tocopheryl Acetate, Cocos Nucifera Oil, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Punica Granatum Extract, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Cetrimonium Chloride, Citronellol, Coumarin, Amyl Cinnamal, Glycerin Enriquecido con Aminoácido y vitamina E.* *Derivado de vitamina E"
+    },
+    {
+     "nombre": "Elvive Color Vive Mascarilla Protectora del Color con Vitamina CG 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521708514"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 14700, CI 19140, Cocos Nucifera Oil, Lactic Acid, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, Paeonia Officinalis Flower Extract, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Color Vive Más que un Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523970087"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cetearyl Alcohol, Ammonium Lauryl Sulfate, Parfum, Sodium Chloride, Bis(C13-15 Alkoxy) PG-Amodimethicone, Cocos Nucifera Oil, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Paeonia Officinalis Flower Extract, PEG-30 Dipolyhydroxystearate, Ethylhexyl Salicylate, Trideceth-6, Salicylic Acid, Polyquaternium-7, Dilauryl Thiodipropionate, Benzyl Alcohol, Benzyl Salicylate, Linalool, Benzoic Acid, Caprylyl Glycol, Alpha-Isomethyl Ionone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Geraniol, Citric Acid, Citronellol, Potassium Sorbate, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Elvive Color Vive Recarga Ecopack : Protección del Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524197322"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ascorbyl Glucoside, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Dream Long Acondicionador Reconstructor para pelo largo 500 ml",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11776,7 +11767,7 @@
      "inci": "Aqua, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Niacinamide, Ricinus Communis Seed Oil, Sodium Benzoate, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium Hedta, Chlorhexidine Digluconate, Dimethicone, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Tartaric Acid, Geraniol, Cetyl Esters, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
     },
     {
-     "nombre": "Dream Long Champú Reconstructor para pelo largo 400ml",
+     "nombre": "Elvive Dream Long Champú Reconstructor para pelo largo 400ml",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11785,7 +11776,25 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Sodium Chloride, Parfum, CI 77891, Guar Hydroxypropyltrimonium Chloride, Niacinamide, Ricinus Communis Seed Oil, Mica, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Coumarin, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Glycol Distearate"
     },
     {
-     "nombre": "Dream Long Crema Stop Tijeras Tratamiento para pelo largo",
+     "nombre": "Elvive Dream Long Champú Seco Air Volume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524051075"
+     ],
+     "inci": "Butane, Alcohol Denat., Oryza Sativa Starch, Isopropyl Myristate, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Stearalkonium Hectorite, Calcium Carbonate, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Propylene Carbonate, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Dream Long Crema Peinado Sin Aclarado Non-Stop Rizos Definidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524033736"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Propylene Glycol, Butyrospermum Parkii Butter, Cetyl Esters, Guar Hydroxypropyltrimonium Chloride, Ricinus Communis Seed Oil, Tocopherol, Sodium Hyaluronate, Hydroxycitronellal, Sodium Dehydroacetate, Phenoxyethanol, Behentrimonium Chloride, Ethylhexylglycerin, Trideceth-6, Limonene, Fumaric Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Caprylyl Glycol, Acrylates Copolymer, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Coumarin, Laureth-21, Hexyl Cinnamal, Glycerin, VP/Dimethylaminoethylmethacrylate Copolymer, Parfum"
+    },
+    {
+     "nombre": "Elvive Dream Long Crema Stop Tijeras Tratamiento para pelo largo",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11794,7 +11803,7 @@
      "inci": "Aqua, Cyclopentasiloxane, Propylene Glycol, Triethanolamine, Niacinamide, Ricinus Communis Seed Oil, Hydroxypropyl Guar, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, PEG/PPG-17/18 Dimethicone, Behentrimonium Chloride, Trideceth-6, Polyquaternium-4, Dimethiconol, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Caprylyl Glycol, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Potato Starch Modified, Citronellol, Cetrimonium Chloride, Coumarin, Hexyl Cinnamal, Parfum"
     },
     {
-     "nombre": "Dream Long Elvive Dream Long Fiber Mask mascarilla reparadora para pelo largo 400ml",
+     "nombre": "Elvive Dream Long Fiber Mask mascarilla reparadora para pelo largo 400ml",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11803,7 +11812,7 @@
      "inci": "Water, Cetearyl Alcohol, Butylene Glycol, Paraffinum Liquidum, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Cetyl Esters, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Sodium Lactate, Phenoxyethanol, PEG-90M, Trideceth-6, Chlorhexidine Digluconate, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Panthenol, Amodimethicone, Alpha-Isomethyl Ionone, Geraniol, Carbomer, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Glycerin, Parfum"
     },
     {
-     "nombre": "Dream Long Magic Water",
+     "nombre": "Elvive Dream Long Magic Water",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11812,7 +11821,25 @@
      "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Aqua, Parfum, Dicaprylyl C A R B O N A T E, T O C O P H E R O L, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Hydroxycitronellal, Phenoxyethanol, Arginine PCA, Behentrimonium Chloride, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
     },
     {
-     "nombre": "Dream Long Mascarilla S.O.S para pelo largo",
+     "nombre": "Elvive Dream Long Mascarilla Nutritiva Rapid Reviver para pelo largo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523709823"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, Ricinus Communis Seed Oil, Hydroxycitronellal, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Dream Long Mascarilla Rizos Consentidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524021887"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Ricinus Communis Seed Oil, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hyaluronate, Sodium Hydroxide, Phenoxyethanol, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Dream Long Mascarilla S.O.S para pelo largo",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11822,7 +11849,7 @@
      "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Niacinamide, Ricinus Communis Seed Oil, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, Trideceth-6, Chlorhexidine Digluconate, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Citric Acid, Potassium Hydroxide, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
     },
     {
-     "nombre": "Dream Long Recarga Ecopack de Champú Reconstructor Para Pelo Largo y Dañado 500ml",
+     "nombre": "Elvive Dream Long Recarga Ecopack de Champú Reconstructor Para Pelo Largo y Dañado 500ml",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -11831,13 +11858,215 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ricinus Communis Seed Oil, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Coumarin, Hexylene Glycol, Hexyl Cinnamal"
     },
     {
-     "nombre": "Dream Long serum-stop-frizz-anti-encrespamiento",
+     "nombre": "Elvive Dream Long Spray Protector de Calor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523966752"
+     ],
+     "inci": "Water, Dimethicone, Stearyl Alcohol, Niacinamide, Ricinus Communis Seed Oil, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydroxycitronellal, Phenoxyethanol, Steareth-100, PEG-40 Hydrogenated Castor Oil, Behentrimonium Chloride, Trideceth-6, Salicylic Acid, Limonene, Panthenol, Benzyl Salicylate, Linalool, Benzyl Alcohol, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Citric Acid, Laureth-23, Laureth-4, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Dream Long Sérum Stop Frizz Anti-encrespamiento",
      "include": [],
      "exclude": [],
      "barcodes": [
       "3600523817481"
      ],
      "inci": "Aqua, Glycerin, VP/Va Copolymer, PEG-40 Hydrogenated Castor Oil, Hydroxyethylcellulose, CI 19140, CI 17200, Ricinus Communis Seed Oil, Tocopherol, Hydroxyethyl Oleyl Dimonium Chloride, Hydrolyzed Wheat Protein, Hydroxycitronellal, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Phenoxyethanol, Theobroma Cacao Seed Butter, Ethylhexylglycerin, Behentrimonium Chloride, Polyquaternium-6, Limonene, Benzyl Salicylate, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Geraniol, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Full Resist Acondicionador para Pelo Frágil con tendencia a caerse, 300ML",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523923786"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Diaminopyrimidine Oxide, Lactic Acid, Arginine, Trideceth-6, Limonene, Benzoic Acid, Amodimethicone, Isopropyl Alcohol, Biotin, Potassium Hydroxide, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Elvive Full Resist Champú Fortificante 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524153496"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Diaminopyrimidine Oxide, Cocamide Mipa, Sodium Benzoate, Sodium Hydroxide, Arginine, Salicylic Acid, Limonene, Fumaric Acid, Biotin, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
+    },
+    {
+     "nombre": "Elvive Full Resist Sérum Anti-caída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524075422"
+     ],
+     "inci": "Aqua, Alcohol Denat., Diaminopyrimidine Oxide, Tocopherol, Sodium Hyaluronate, Sodium Citrate, Caffeine, Safflower Glucoside, PEG-40 Hydrogenated Castor Oil, Arginine, Aminomethyl Propanol, Ammonium Polyacryloyldimethyl Taurate, Limonene, Menthol, Piroctone Olamine, Citric Acid, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Elvive Glycolic Gloss Acondicionador Boost de Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524229962",
+      "3600524229979"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hydroxide, Phenoxyethanol, Limonene, Linalool, Pinene, Amodimethicone, Isopropyl Alcohol, Carvone, Geranyl Acetate, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexyl Cinnamal, Glycolic Acid"
+    },
+    {
+     "nombre": "Elvive Glycolic Gloss Champú Boost de Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524230418",
+      "3600524230630",
+      "3600524230647",
+      "3600524230487"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Pinene, Amodimethicone, Carbomer, Carvone, Geranyl Acetate, Citric Acid, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexylene Glycol, Hexyl Cinnamal, Glycolic Acid, Parfum"
+    },
+    {
+     "nombre": "Elvive Glycolic Gloss Sérum Glass Hair sin aclarado 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524228934"
+     ],
+     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Hydroxycitronellal, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Linalool, Benzyl Benzoate, Benzyl Alcohol, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Citric Acid, EDTA, Citronellol, Hexyl Cinnamal, Glycine Soja Oil, Glycolic Acid, Parfum"
+    },
+    {
+     "nombre": "Elvive Growth Booster Acondicionador Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524190019"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Isopropyl Myristate, Stearamidopropyl Dimethylamine, Glycine Soja Oil, Parfum, Niacinamide, Diaminopyrimidine Oxide, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Helianthus Annuus Seed Oil, Salicylic Acid, Limonene, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Caprylyl Glycol, Tartaric Acid, Cetyl Esters, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Growth Booster Champú Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524196530"
+     ],
+     "inci": "Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Laureth-5 Carboxylic Acid, Parfum, Sodium Chloride, Niacinamide, Diaminopyrimidine Oxide, Sodium Hydroxide, Sodium Benzoate, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-67, Limonene, Benzoic Acid, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Propylene Glycol, Caprylyl, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Growth Booster Sérum Anticaída",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524189945"
+     ],
+     "inci": "Alcohol Denat., Niacinamide, Propylene Glycol, Diaminopyrimidine Oxide, Lactic Acid, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanol, Limonene, Zingiber Officinale Root Extract, Benzyl Alcohol, Linalool, Acrylates/Beheneth-25 Methacrylate Copolymer, Piroctone Olamine, Citral, Citronellol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Acondicionador 72H de Hidratación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524029661"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, CI 17200, CI 42090, Lactic Acid, Sodium Laureth Sulfate, Sodium Hydroxide, Sodium Hyaluronate, Phenoxyethanol, Limonene, Amodimethicone, Isopropyl Alcohol, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Champú Hidratante 72H 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524029968"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, CI 60730, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Mascarilla 72H de Hidratación Intensiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030797"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 60730, Lactic Acid, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Recarga Ecopack : Hidratación Intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524197315"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, CI 60730, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Serum hidratante de noche con Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524105549"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Cetyl Esters, Sodium Benzoate, Sodium Hyaluronate, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Limonene, Isopropyl Alcohol, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
+    },
+    {
+     "nombre": "Elvive Hidra Hialurónico Sérum Rellenador 2% Complejo Hialurónico hidratante, 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524030872"
+     ],
+     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hyaluronate, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Sorbitan Oleate, Citric Acid, Coumarin, Glycine Soja Oil, Parfum"
+    },
+    {
+     "nombre": "Elvive Total Repair 5 Acondicionador Reparador para pelo dañado, 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523625734"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Tridecetaqua, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Trideceth-10, Trideceth-3, Trisodium Hedta, Chlorhexidine Digluconate, Dimethicone, Limonene, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Tartaric Acid, Serine, Cetyl Esters, Citronellol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Total Repair 5 Champú Reparador para el pelo dañado 250ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521704424"
+     ],
+     "inci": "Water, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Sodium Lactate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Fumaric Acid, Linalool, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Carbomer, Citric Acid, Butylene Glycol, Hexylene Glycol, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Elvive Total Repair 5 Mascarilla nutritiva Rapid Reviver para el pelo dañado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523709847"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Elvive Total Repair 5 Mascarilla Reparadora para el pelo dañado 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600521752074"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Lactic Acid, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Alcohol, Benzyl Salicylate, Amodimethicone, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Geraniol, Potassium Hydroxide, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Violeta Champú Matizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523682799"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Glycol Distearate, Cocamide Mipa, CI 60730, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Trideceth-6, Iris Florentina Root Extract, Polyquaternium-7, Polyquaternium-10, Salicylic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Citric Acid, Citronellol, Cetrimonium Chloride, Butylene Glycol, Coumarin, Hexylene Glycol, Amyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Elvive Violeta Mascarilla Matizadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523682850"
+     ],
+     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, CI 60730, CI 45100, Sodium Hydroxide, Phenoxyethanol, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Citric Acid, Citronellol, Cetrimonium Chloride, Coumarin, Amyl Cinnamal, Parfum"
     },
     {
      "nombre": "Espuma Volumen Fijacion Fuerte",
@@ -11984,33 +12213,6 @@
      "inci": "Isobutane, Aluminum Chlorohydrate, Isododecane, Cocos Nucifera Oil, Isopropyl Palmitate, Panthenol, Disteardimonium Hectorite, Perlite, Propylene Carbonate, Dimethicone, Dimethiconol, Citral, Limonene, Linalool, Parfum"
     },
     {
-     "nombre": "Full resist Acondicionador para Pelo Frágil con tendencia a caerse, 300ML",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523923786"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Diaminopyrimidine Oxide, Lactic Acid, Arginine, Trideceth-6, Limonene, Benzoic Acid, Amodimethicone, Isopropyl Alcohol, Biotin, Potassium Hydroxide, Cetrimonium Chloride, Parfum"
-    },
-    {
-     "nombre": "Full resist Champú Fortificante 300ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524153496"
-     ],
-     "inci": "Water, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Diaminopyrimidine Oxide, Cocamide Mipa, Sodium Benzoate, Sodium Hydroxide, Arginine, Salicylic Acid, Limonene, Fumaric Acid, Biotin, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
-    },
-    {
-     "nombre": "Full resist Elvive Full Resist Sérum Anti-caída",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524075422"
-     ],
-     "inci": "Aqua, Alcohol Denat., Diaminopyrimidine Oxide, Tocopherol, Sodium Hyaluronate, Sodium Citrate, Caffeine, Safflower Glucoside, PEG-40 Hydrogenated Castor Oil, Arginine, Aminomethyl Propanol, Ammonium Polyacryloyldimethyl Taurate, Limonene, Menthol, Piroctone Olamine, Citric Acid, Coumarin, Parfum"
-    },
-    {
      "nombre": "Gel carbon multiaccion total clean para hombres",
      "include": [],
      "exclude": [],
@@ -12111,61 +12313,6 @@
      "inci": "Aqua, Glycerin, Dimethicone, Alcohol Denat., Butyrospermum Parkii Butter, Ammonium Polyacryloyldimethyl Taurate, Polyglyceryl-6 Distearate, Synthetic Fluorphlogopite, Polysilicone-11, Phenoxyethanol, Pentaerythrityl Tetraethylhexanoate, Jojoba Esters, Capryloyl Salicylic Acid, Caprylyl Glycol, Sodium Citrate, Polyacrylamide, Boron Nitride, Polyglyceryl-3 Beeswax, Cetyl Alcohol, C13-14 Isoalkane, Adenosine, Disodium EDTA, Citric Acid, Laureth-7, Alumina, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Isopropyl Titanium Triisostearate, Tin Oxide, Sodium Stearate, Cetearyl Alcohol, Ceteareth-20, Calcium Chloride, Mica, CI 77891, CI 77491, CI 77492, CI 77499"
     },
     {
-     "nombre": "Glycolic Gloss Acondicionador Boost de Brillo 500 ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524229962"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Parfum, Lactic Acid, Sodium Laureth Sulfate, Hydroxycitronellal, Sodium Hydroxide, Phenoxyethanol, Limonene, Linalool, Pinene, Amodimethicone, Isopropyl Alcohol, Carvone, Geranyl Acetate, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexyl Cinnamal, Glycolic Acid"
-    },
-    {
-     "nombre": "Glycolic Gloss Champú Boost de Brillo",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524230418",
-      "3600524230630"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Pinene, Amodimethicone, Carbomer, Carvone, Geranyl Acetate, Citric Acid, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil, Hexylene Glycol, Hexyl Cinnamal, Glycolic Acid, Parfum"
-    },
-    {
-     "nombre": "Glycolic Gloss Sérum Glass Hair sin aclarado 150 ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524228934"
-     ],
-     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Hydroxycitronellal, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Linalool, Benzyl Benzoate, Benzyl Alcohol, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Citric Acid, EDTA, Citronellol, Hexyl Cinnamal, Glycine Soja Oil, Glycolic Acid, Parfum"
-    },
-    {
-     "nombre": "Growth Booster Acondicionador Anticaída",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524190019"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Isopropyl Myristate, Stearamidopropyl Dimethylamine, Glycine Soja Oil, Parfum, Niacinamide, Diaminopyrimidine Oxide, Coco-Caprylate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Helianthus Annuus Seed Oil, Salicylic Acid, Limonene, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Caprylyl Glycol, Tartaric Acid, Cetyl Esters, Hexyl Cinnamal"
-    },
-    {
-     "nombre": "Growth Booster CHAMPÚ ANTICAÍDA",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524196530"
-     ],
-     "inci": "Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Laureth-5 Carboxylic Acid, Parfum, Sodium Chloride, Niacinamide, Diaminopyrimidine Oxide, Sodium Hydroxide, Sodium Benzoate, PEG-55 Propylene Glycol Oleate, Salicylic Acid, Polyquaternium-67, Limonene, Benzoic Acid, Benzyl Alcohol, Zingiber Officinale Root Extract, Linalool, Propylene Glycol, Caprylyl, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
-    },
-    {
-     "nombre": "Growth Booster Sérum Anticaída",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524189945"
-     ],
-     "inci": "Alcohol Denat., Niacinamide, Propylene Glycol, Diaminopyrimidine Oxide, Lactic Acid, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanol, Limonene, Zingiber Officinale Root Extract, Benzyl Alcohol, Linalool, Acrylates/Beheneth-25 Methacrylate Copolymer, Piroctone Olamine, Citral, Citronellol, Hexyl Cinnamal, Parfum"
-    },
-    {
      "nombre": "Haute Couleur Bronce",
      "include": [],
      "exclude": [],
@@ -12189,51 +12336,6 @@
       "3600524252953"
      ],
      "inci": "Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, CI 15510, CI 17200, CI 19140, CI 61570, Phenoxyethanol, Parfum"
-    },
-    {
-     "nombre": "Hidra Hialurónico Acondicionador 72H de Hidratación",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524029661"
-     ],
-     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, CI 17200, CI 42090, Lactic Acid, Sodium Laureth Sulfate, Sodium Hydroxide, Sodium Hyaluronate, Phenoxyethanol, Limonene, Amodimethicone, Isopropyl Alcohol, Cetrimonium Chloride, Parfum"
-    },
-    {
-     "nombre": "Hidra Hialurónico Mascarilla 72H de Hidratación Intensiva",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524030797"
-     ],
-     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 60730, Lactic Acid, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Parfum"
-    },
-    {
-     "nombre": "Hidra Hialurónico Recarga Ecopack : Hidratación Intensa",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524197315"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, CI 60730, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
-    },
-    {
-     "nombre": "Hidra Hialurónico Serum hidratante de noche con Ácido Hialurónico",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524105549"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Cetyl Esters, Sodium Benzoate, Sodium Hyaluronate, Behentrimonium Chloride, Trideceth-6, Chlorhexidine Digluconate, Limonene, Isopropyl Alcohol, Citric Acid, Cetrimonium Chloride, Coumarin, Parfum"
-    },
-    {
-     "nombre": "Hidra Hialurónico Sérum Rellenador 2% Complejo Hialurónico hidratante, 150ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600524030872"
-     ],
-     "inci": "Aqua, Quaternium-87, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hyaluronate, Stearyl Alcohol, PPG-1 Trideceth-6, Behentrimonium Chloride, Polyquaternium-37, Polysorbate 20, Polyquaternium-11, Limonene, Candelilla Cera, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Propylene Glycol Dicaprylate, Propylene Glycol, Isopropyl Alcohol, Caprylyl Glycol, Sorbitan Oleate, Citric Acid, Coumarin, Glycine Soja Oil, Parfum"
     },
     {
      "nombre": "Hyaluron Tint Tinta y Sérum Labial",
@@ -13351,42 +13453,6 @@
      "inci": "Isobutane, Aqua, Dimethicone, Aluminum Chlorohydrate, Parfum, Disteardimonium Hectorite, Perlite, Tocopherol, Dimethiconol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool, Phenoxyethanol"
     },
     {
-     "nombre": "Total Repair 5 Acondicionador Reparador para pelo dañado, 300ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523625734"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Tridecetaqua, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Arginine, Trideceth-10, Trideceth-3, Trisodium Hedta, Chlorhexidine Digluconate, Dimethicone, Limonene, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Tartaric Acid, Serine, Cetyl Esters, Citronellol, Hexyl Cinnamal, Parfum"
-    },
-    {
-     "nombre": "Total Repair 5 Champú Reparador para el pelo dañado 250ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600521704424"
-     ],
-     "inci": "Water, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Sodium Lactate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Fumaric Acid, Linalool, Amodimethicone, 2-Oleamido-1,3-Octadecanediol, Carbomer, Citric Acid, Butylene Glycol, Hexylene Glycol, Hexyl Cinnamal, Glycerin"
-    },
-    {
-     "nombre": "Total Repair 5 Mascarilla nutritiva Rapid Reviver para el pelo dañado",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523709847"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, CI 19140, CI 17200, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Dihydrochloride, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Amyl Cinnamal"
-    },
-    {
-     "nombre": "Total Repair 5 Mascarilla Reparadora para el pelo dañado 300ml",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600521752074"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Lactic Acid, Phenoxyethanol, Arginine, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Alcohol, Benzyl Salicylate, Amodimethicone, Isopropyl Alcohol, 2-Oleamido-1,3-Octadecanediol, Alpha-Isomethyl Ionone, Serine, Geraniol, Potassium Hydroxide, Cetrimonium Chloride, Citronellol, Coumarin, Hexyl Cinnamal, Parfum"
-    },
-    {
      "nombre": "Tónico Curls para pelo rizado",
      "include": [],
      "exclude": [],
@@ -13404,24 +13470,6 @@
       "3600523999309"
      ],
      "inci": "Crema Reveladora: Aqua, Hydrogen Peroxide, Cetearyl Alcohol, Sodium Salicylate, Trideceth-2 Carboxamide MEA, Phosphoric Acid, Ceteareth-25, Tetrasodium Etidronate, Tetrasodium Pyrophosphate, Glycerin · Acondicionador: Aqua, Amodimethicone, Stearyl Alcohol, Hydroxypropyl Starch Phosphate, Isopropyl Myristate, Behentrimonium Chloride, Cetyl Alcohol, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Phenoxyethanol, Acetic Acid, PEG-150 Distearate, Trideceth-5, Trideceth-6, Trideceth-10, Panthenol, Linalool, Benzyl Alcohol, Isopropyl Alcohol, Isoeugenol, 2-Oleamido-1,3-Octadecanediol, Caprylyl Glycol, Cetrimonium Chloride, Hexyl Cinnamal, Glycerin, Parfum · Champú: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Sodium Chloride, Parfum, CI 77891, Guar Hydroxypropyltrimonium Chloride, Mica, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Fumaric Acid, Linalool, Benzyl Alcohol, Amodimethicone, Isoeugenol, Carbomer, Citric Acid, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Glycol Distearate · Crema Colorante: Aqua, Ethanolamine, Cetearyl Alcohol, Propylene Glycol, Deceth-3, Laureth-12, Oleth-30, Hexadimethrine Chloride, Lauric Acid, Glycol Distearate, Polyquaternium-22, Silica Dimethyl Silylate [Nano], CI 77891, m-Aminophenol, p-Aminophenol, 4-Amino-2-Hydroxytoluene, Ascorbic Acid, Sodium Metabisulfite, Hydroxybenzomorpholine, 6-Hydroxyindole, Thioglycerin, Toluene-2,5-Diamine, 2-Methyl-5-Hydroxyethylaminophenol, Dimethicone, Proline, Carbomer, Threonine, EDTA, Parfum"
-    },
-    {
-     "nombre": "violeta Champú Violeta Matizador",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523682799"
-     ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Glycol Distearate, Cocamide Mipa, CI 60730, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Trideceth-6, Iris Florentina Root Extract, Polyquaternium-7, Polyquaternium-10, Salicylic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Alpha-Isomethyl Ionone, Carbomer, Citric Acid, Citronellol, Cetrimonium Chloride, Butylene Glycol, Coumarin, Hexylene Glycol, Amyl Cinnamal, Parfum"
-    },
-    {
-     "nombre": "violeta Mascarilla Violeta Matizadora",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600523682850"
-     ],
-     "inci": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, CI 60730, CI 45100, Sodium Hydroxide, Phenoxyethanol, Trideceth-6, Chlorhexidine Digluconate, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Benzophenone-4, Amodimethicone, Isopropyl Alcohol, Alpha-Isomethyl Ionone, Citric Acid, Citronellol, Cetrimonium Chloride, Coumarin, Amyl Cinnamal, Parfum"
     },
     {
      "nombre": "Volume Million Lashes Máscara de Pestañas Efecto Volumen Balm Brown",

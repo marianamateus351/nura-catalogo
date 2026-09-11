@@ -498,6 +498,32 @@ Fuera y por qué:
 Scripts: `lp/get.sh`, `lp_parse.py`, `lp_agg.py` (fichas → `lp/db.json` + URL de tonos que
 faltan), `gen_lp.py` (agrupación y nombres). OBF no hizo falta.
 
+**Elvive, revisión 2026-09-11 (pedida por Mariana).** La gama SÍ estaba en el catálogo desde el
+cierre (54 productos, 67 códigos: Total Repair 5, Color Vive, Hidra Hialurónico, Bond Repair,
+Glycolic Gloss, Aceite Extraordinario, Dream Long, Full Resist, Collagen Lifter, Growth Booster,
+Violeta), pero **la web publica esos nombres sin la palabra "Elvive"** ("Total Repair 5 Champú
+Reparador…"), así que buscando "Elvive" solo salían 5. Arreglado: las 48 entradas de cuidado
+capilar llevan ahora "Elvive <gama>" delante. De las 72 fichas Elvive de la web, 20 se habían
+caído; se recuperan 8 códigos con fuente fiable y el resto se queda fuera:
+- **Con lista traducida en la web y lista INCI en incidecoder que coincide 1:1 al traducirla**
+  (es la comprobación que faltó en las cremas de manos de Neutrogena): Bond Repair Champú
+  (3600524074685) e Hidra Hialurónico Champú 400 ml (3600524029968).
+- **Foto de la etiqueta en OBF del mismo código**, envase ES/PT, código de fórmula 1199633 A:
+  Aceite Extraordinario Aceite tratamiento de uso universal 100 ml (3600522215455).
+- Lista INCI de la propia web con erratas obvias corregidas ("AMMONIUM· LAURYL SULFATE" partido,
+  "COCAMIDOPROPUL", "Potassium, Sorbate"): Color Vive Más que un Champú (3600523970087). La
+  Dream Long Más que un Champú (3600523969913) tiene un token fusionado no resoluble ("Sodium
+  Hydroxycitronellal") y se queda fuera.
+- Lista INCI de la web que el parser había marcado como traducida por la nota de marketing que
+  la sigue: Dream Long Mascarilla Rapid Reviver (3600523709823).
+- Tamaños de la misma ficha (mismo nombre en la web, solo cambia el ml) sumados a la entrada que
+  ya tenía la lista: Glycolic Gloss Champú Boost de Brillo 250 y 300 ml, Acondicionador 300 ml.
+Fuera por la regla 2-bis (la web solo trae marketing o una lista traducida sin nada con que
+contrastarla; OBF no tiene ni texto ni foto; incidecoder no tiene la ficha o no se puede
+comprobar): Full Resist Men champú, Crema Stop Rotura y Power Mask; Violeta Mascarilla
+Intensiva; Aceite Extraordinario Color Vive; Glycolic Gloss champú/acondicionador/sérum "Con
+Ácido Glicólico" y Tratamiento 5 Min; Hialurónico Pure champú y sérum. Script: `fix_elvive.py`.
+
 ### Maybelline New York (maybelline.es) — cerrada 2026-09-10: 81 productos, 455 códigos
 Sale entera de la web con los scripts de L'Oréal Paris, con dos diferencias de marcado:
 - `sitemap.xml` (758 URL) solo lista **113 fichas**; el resto de fichas de producto se
@@ -812,11 +838,11 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3442 códigos en 24 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
+3450 códigos en 24 marcas: NYX 999 · **L'Oréal Paris 519** · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Neutrogena 55 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · **Deliplus 16** · Sanex 14 ·
 Colgate 13 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · **Sol de Janeiro 1**. Ninguno
-de los 2114 productos está sin INCI. Sesderma sigue vacía.
+de los 2119 productos está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
