@@ -736,25 +736,21 @@ entre, se tacha aquí y Mariana lo quita de la pestaña (o se quita solo, a part
 de la build 90).
 
 ### 2026-09-11
-- **8480000416858 · "Laca de uñas manicura francesa 03"** (Deliplus/Mercadona,
-  prefijo `8480000`). Estado en OBF: la ficha existe pero **sin ingredientes**.
-  Deliplus ya está en el catálogo con 15 productos, así que esto es ampliar una
-  marca que ya tenemos, no abrir una nueva. Dónde buscar, por orden:
-  1. `mc_det.json` — las 646 fichas de Mercadona ya descargadas: confirma nombre
-     oficial y EAN, aunque no traiga INCI.
-  2. **incidecoder**, que tiene unas 30 fichas de Deliplus subidas por usuarias;
-     fue la vía que resolvió el sérum de Ácido Hialurónico y Ceramidas.
-  3. `image_ingredients_url` de OBF: si hay foto de la etiqueta, es transcripción
-     a mano, no automática.
-  Ojo con la laca de uñas: el INCI es corto y los pigmentos cambian **por tono**,
-  así que el "03" es su propia fórmula. No heredar la lista de otro tono.
-- **0810912032347** — sin nombre, no encontrado en ninguna base. Empieza por `0`,
-  o sea **EE. UU./Canadá**. Primero hay que **identificar qué producto es**
-  (buscar el código entrecomillado: upcitemdb, digit-eyes, Amazon, Google). Si
-  resulta ser un producto que no se vende en España, se anota y se deja estar;
-  si es algo que sí circula aquí, se cura con su fórmula de EE. UU. y se dice
-  expresamente en el nombre que es la versión americana, porque suele diferir de
-  la europea.
+- ~~**8480000416858 · "Laca de uñas manicura francesa 03"**~~ **HECHO (2026-09-11b)**: entra en
+  Deliplus como "Laca de uñas manicura francesa Deliplus 03 rosa" (nombre oficial de
+  tienda.mercadona.es, producto 41685; no estaba en las 646 fichas de `mc_det.json` y la API
+  no trae ingredientes). INCI transcrito a mano de la **foto de la etiqueta en OBF** de este
+  mismo código (la portada de esa ficha es el frasco "03 manicura francesa 11 mL", así que la
+  etiqueta es de este tono): 19 ingredientes, con sus colorantes CI 77891, CI 15850 y CI 19140
+  (el rosa). No se ha heredado nada de otro tono. incidecoder no tiene la ficha.
+- ~~**0810912032347**~~ **HECHO (2026-09-11b)**: es el **Sol de Janeiro Brazilian Bum Bum
+  Cream de 50 ml** (UPC `810912…` de Sol de Janeiro, EE. UU.; identificado por incibeauty y por
+  las tiendas que lo venden con ese código: Lookfantastic, Extime). Se vende en España
+  (Sephora), así que entra: **marca nueva "Sol de Janeiro"** con este único producto, nombrado
+  "Brazilian Bum Bum Cream 50 ml (versión EE. UU.)". INCI: la lista oficial vigente de
+  soldejaneiro.com (39 ingredientes, con Tin Oxide y CI 77891). Ojo: la lista que publica
+  Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
+  prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -794,6 +790,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Colgate | sí (`sitemap.xml`, 50 fichas; `dvcurl.sh` en serie) | **no** (`itemId` interno) | sí, en `<meta name="ingredientList">` (28 fichas, con alérgenos del aroma) | códigos de OBF solo por lista idéntica (sin alérgenos); ver su apartado |
 | Essie | sí (`sitemap.xml`, 253 fichas, una por tono) | sí, `product-id` del acordeón de ingredientes (EAN-8 `30…`, `3600…` y UPC `0…`) | sí, en el acordeón (141 fichas; 10 traducidas; misma lista por gama) | plantilla antigua de L'Oréal, sin JSON-LD; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
+| Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -815,11 +812,11 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3441 códigos en 23 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · **Essie 125** · Vichy 111 · CeraVe 73 ·
-Neutrogena 56 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · Deliplus 15 · Sanex 14 ·
-Colgate 13 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5. Ninguno de los 2112 productos
-está sin INCI. Sesderma sigue vacía.
+3442 códigos en 24 marcas: NYX 999 · L'Oréal Paris 511 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
+Neutrogena 55 · Bioderma 42 · Dove 28 · Cien 26 · ISDIN 18 · **Deliplus 16** · Sanex 14 ·
+Colgate 13 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · **Sol de Janeiro 1**. Ninguno
+de los 2114 productos está sin INCI. Sesderma sigue vacía.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su

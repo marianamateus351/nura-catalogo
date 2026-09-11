@@ -1,5 +1,5 @@
 {
- "version": "2026-09-11a",
+ "version": "2026-09-11b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -9887,6 +9887,15 @@
       "8480000466990"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Gossypium Herbaceum Seed Oil, Tocopheryl Acetate, Citric Acid, Styrene/Acrylates Copolymer, Cocamidopropylamine Oxide, Coco-Glucoside, Parfum, Sodium Hydroxide, Polysorbate 80, Decylene Glycol, 1,2-Hexanediol, Hexyl Cinnamal, Sodium Benzoate, Benzoic Acid, Phenoxyethanol"
+    },
+    {
+     "nombre": "Laca de uñas manicura francesa Deliplus 03 rosa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000416858"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Acrylates Copolymer, Stearalkonium Bentonite, n-Butyl Alcohol, Diacetone Alcohol, Etocrylene, Silica, Sorbic Acid, Hexanal, Phosphoric Acid, Tocopherol, CI 77891, CI 15850, CI 19140"
     },
     {
      "nombre": "Recarga jabón de manos dermoprotector Deliplus",
@@ -20520,6 +20529,21 @@
       "3600531663414"
      ],
      "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Dipropylene Glycol Dibenzoate, Isopropyl Alcohol, Acetyl Tributyl Citrate, Cellulose Acetate Butyrate, Acrylates Copolymer, Sucrose Acetate Isobutyrate, Phthalic Anhydride/Glycerin/Glycidyl Decanoate Copolymer, Alcohol Denat."
+    }
+   ]
+  },
+  {
+   "key": "soldejaneiro",
+   "nombre": "Sol de Janeiro",
+   "productos": [
+    {
+     "nombre": "Brazilian Bum Bum Cream 50 ml (versión EE. UU.)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810912032347"
+     ],
+     "inci": "Aqua, Methyl Glucose Sesquistearate, Phenyl Trimethicone, Dodecane, Caprylic/Capric Triglyceride, Parfum, Cetearyl Alcohol, Glyceryl Stearate Citrate, Glyceryl Caprylate, Glycerin, Cetyl Alcohol, Paullinia Cupana Seed Extract, Theobroma Grandiflorum Seed Butter, Cocos Nucifera Oil, Euterpe Oleracea Fruit Oil, Bertholletia Excelsa Seed Oil, Sodium Hyaluronate, Squalane, Ilex Guayusa Leaf Extract, Ilex Paraguariensis Leaf Extract, Daucus Carota Sativa Seed Oil, Bixa Orellana Seed Extract, Tocopherol, Mica, Sodium Phytate, Xanthan Gum, Sorbitan Isostearate, Sodium Stearoyl Glutamate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Phenoxyethanol, Benzyl Alcohol, Benzyl Salicylate, Citral, Coumarin, Hydroxycitronellal, Limonene, Tin Oxide, CI 77891"
     }
    ]
   }
