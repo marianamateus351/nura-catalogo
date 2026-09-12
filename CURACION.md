@@ -771,13 +771,13 @@ tiendas que lo listan. INCI solo con fuente verificable (regla 2); si no, fuera 
 |---|---|---|
 | ~~4056489447061~~ | **Cien Desmaquillante bifásico de ojos 100 ml** (OBF: envase FR, foto de la etiqueta legible) | **ENTRA** en Cien, INCI transcrito de la foto de OBF del mismo código |
 | ~~4056489817642~~ | **Cien Agua micelar Sensitive 3 en 1 400 ml** (OBF: envase IT con el código en la foto; fabricante Mann & Schröder) | **ENTRA** en Cien, INCI de la foto de OBF |
-| 4056489872191 | Cien Crema de manos Aloe Vera 100 ml (envase ES, Persada Belleza, Badajoz) | **FUERA (2-bis)**: la única foto de OBF es la del código, sin lista; incidecoder no la tiene |
+| 4056489872191 | Cien Crema de manos Aloe Vera 100 ml (envase ES, Persada Belleza, Badajoz) | **FUERA (2-bis)**, segundo intento 12-09: la única foto de OBF es la del código, sin lista; incidecoder no la tiene; incibeauty tiene ficha por código pero está tras Cloudflare interactivo; lidl.es responde 404/"navegador no soportado"; las tiendas que lo listan (eBay, tugexp) dan 403 |
 | ~~4335619113749~~ | **Cien Sérum facial Vitamina C Glow 30 ml** (incibeauty lo identifica por código; OBF portada FR "Vitamine C Éclat") | **ENTRA** en Cien, INCI de incidecoder (única ficha de ese producto, 18 ingredientes; coincide con skinsort) |
-| 4335619208988 | Cien Body Mist Salted Caramel 200 ml (go-upc) | **FUERA (2-bis)**: sin lista en ninguna base ni en incidecoder |
+| 4335619208988 | Cien Body Mist Salted Caramel 200 ml (go-upc) | **FUERA (2-bis)**, segundo intento 12-09: sin lista en OBF, incidecoder, skinsort ni lidl.es; incibeauty por código tras Cloudflare |
 | ~~8718951579828~~ | **Colgate Sensation White 100 ml** (go-upc) | **ENTRA**: tamaño nuevo de la Sensation Blanqueador, que ya estaba con la lista de colgate.es confirmada por etiqueta |
-| 8718951738553 | Colgate Max White Cristales Refrescantes 75 ml (go-upc) | **FUERA (2-bis)**: la ficha de colgate.es existe pero sin lista; OBF no la tiene |
+| ~~8718951738553~~ | **Colgate Max White con cristales blancos 75 ml** (go-upc lo llama "cristales refrescantes"; en colgate.es es "MaxWhite con cristales blancos") | **ENTRA (2026-09-12c)**: la ficha de colgate.es no trae lista, pero **colgate.com/pt-pt usa el mismo `itemId` (61044888) para "Max White com cristais" y sí la trae** (16 ingredientes, con Menthol, CI 74160 y CI 74260). El id compartido es prueba de que es el mismo producto: Max White One es 61042533 en las dos webs y la Instant española es la Optic portuguesa (61042532) con lista idéntica. Erratas del portal PT corregidas ("Cocamidoproxyl", "Methylcellylose"). Truco nuevo para Colgate: **cuando la ficha .es venga vacía, buscar el mismo itemId en colgate.com/pt-pt** |
 | ~~8718951763135~~ | **Colgate Max White One 75 ml** (Auchan PT lo lista con este EAN) | **ENTRA**: tercer código de la Max White One, que ya estaba con lista confirmada por dos etiquetas |
-| 8436614131144 | go-upc dice "Nat.honey Gel Baño Hidratante 900 ml" (prefijo de Instituto Español) | **SIN IDENTIFICAR DEL TODO, FUERA**: el gel Natural Honey de 900 ml que vende Mercadona lleva otro EAN (8008970056234), naturalhoney.es ya no lista ese gel y **institutoespanol.com está tras un desafío interactivo de Cloudflare** que ni Playwright pasa. Marca **Instituto Español creada vacía** como pediste; hace falta el envase (foto de etiqueta y código) o que la web se abra |
+| 8436614131144 | go-upc dice "Nat.honey Gel Baño Hidratante 900 ml" (prefijo de Instituto Español) | **SIN IDENTIFICAR DEL TODO, FUERA** (segundo intento 12-09: también están tras Cloudflare la API de WooCommerce `/wp-json/wc/store/v1/products`, el buscador `?s=` y hasta `robots.txt`; el desafío es Turnstile interactivo y Playwright no encuentra la casilla): el gel Natural Honey de 900 ml que vende Mercadona lleva otro EAN (8008970056234), naturalhoney.es ya no lista ese gel y **institutoespanol.com está tras un desafío interactivo de Cloudflare** que ni Playwright pasa. Marca **Instituto Español creada vacía** como pediste; hace falta el envase (foto de etiqueta y código) o que la web se abra |
 
 Los dos "sin identificar":
 - ~~**5054563107510**~~ = **Sensodyne Sensibilidad & Encías 75 ml** (Haleon; código UK, envase español según las
@@ -787,7 +787,9 @@ Los dos "sin identificar":
 - **8411660114303** = **Norit Complet detergente líquido 35 dosis** (AC Marca Home Care). Producto de
   limpieza: solo hay rangos de etiqueta (tensioactivos 5-15 %, conservantes, perfume) y la ficha
   completa de ingredientes está tras el portal con cuenta de AC Marca (reach.grupoacmarca.com),
-  como pasó con Sanytol. **FUERA (2-bis)** salvo que se abra esa vía.
+  como pasó con Sanytol. Segundo intento 12-09: norit.es no enlaza ninguna ficha de ingredientes (solo
+  aviso legal y cookies) y la lista pública del portal de AC Marca (`/public/v2/ajax?marca=NORIT`)
+  devuelve vacío. **FUERA (2-bis)** salvo que se abra esa vía.
 
 **Lo que dice esta lista, y es lo importante:** los huecos caen en marcas que ya tenemos
 **a medias** (Cien, Sanex, Colgate) porque no publican bien los ingredientes, y son justo las
@@ -872,11 +874,11 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3456 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3457 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Neutrogena 55 · Bioderma 42 · **Cien 29** · Dove 28 · ISDIN 18 · Deliplus 16 · **Colgate 15** ·
+Neutrogena 55 · Bioderma 42 · **Cien 29** · Dove 28 · ISDIN 18 · Deliplus 16 · **Colgate 16** ·
 Sanex 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 · **Sensodyne 1**.
-Ninguno de los 2123 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Ninguno de los 2124 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su

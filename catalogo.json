@@ -1,5 +1,5 @@
 {
- "version": "2026-09-12b",
+ "version": "2026-09-12c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20221,6 +20221,15 @@
       "8718951570313"
      ],
      "inci": "Poloxamer 105, Calcium Pyrophosphate, PEG-8, PEG/PPG-116/66 Copolymer, PVP, Silica, Tetrasodium Pyrophosphate, Aroma, Potassium Caroate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Disodium Pyrophosphate, Sodium Saccharin, Cocamidopropyl Betaine, Sucralose, Magnesium Carbonate, Eugenol"
+    },
+    {
+     "nombre": "Pasta de dientes Max White con cristales blancos 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951738553"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Glycerin, PEG-12, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Tetrasodium Pyrophosphate, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Hydroxypropyl Methylcellulose, Menthol, CI 74160, CI 74260"
     },
     {
      "nombre": "Pasta de dientes Sensation Blanqueador",
