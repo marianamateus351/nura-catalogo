@@ -1,5 +1,5 @@
 {
- "version": "2026-09-12a",
+ "version": "2026-09-12b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -9931,6 +9931,15 @@
    "nombre": "Cien (Lidl)",
    "productos": [
     {
+     "nombre": "Agua micelar Sensitive 3 en 1 Cien 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489817642"
+     ],
+     "inci": "Aqua, Methylpropanediol, Propylene Glycol, Glycerin, Sodium Cocoamphoacetate, Panthenol, Bambusa Vulgaris Water, Sodium Salicylate, Sodium Benzoate, Citric Acid, Sodium Chloride, Tetrasodium EDTA"
+    },
+    {
      "nombre": "Cien Antitranspirante Comfort Fresh roll-on 50 ml",
      "include": [],
      "exclude": [],
@@ -10163,6 +10172,24 @@
       "4056489236054"
      ],
      "inci": "Aqua, Glycerin, Dibutyl Adipate, Glyceryl Stearate SE, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Titanium Dioxide (Nano), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetearyl Alcohol, Ethylhexyl Triazone, Phenoxyethanol, Butyrospermum Parkii Butter, Glycine Soja Oil, Sodium Cetearyl Sulfate, Talc, Silica, Parfum, Sodium Anisate, Sodium Levulinate, Disodium EDTA, Benzoic Acid, Calcium Gluconate, Dehydroacetic Acid, Citric Acid, Dimethicone, Tocopherol, Benzyl Alcohol, Linalool, Ubiquinone, Sodium Citrate, Soluble Collagen, Sodium Benzoate, Elaeis Guineensis Oil, Beta-Carotene"
+    },
+    {
+     "nombre": "Desmaquillante bifásico de ojos Cien 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489447061"
+     ],
+     "inci": "Aqua, Ethylhexyl Stearate, Isopropyl Palmitate, 1,2-Hexanediol, Panthenol, Dodecane, Helianthus Annuus Hybrid Oil, Levulinic Acid, Glycerin, Sodium Levulinate, Methylpropanediol, Phenylpropanol, Caprylyl Glycol, Sodium Chloride, Sodium Hydroxide, Citric Acid, CI 61565, CI 60725"
+    },
+    {
+     "nombre": "Sérum facial Vitamina C Glow Cien 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619113749"
+     ],
+     "inci": "Aqua, Glycerin, Ascorbyl Glucoside, Phenoxyethanol, Acacia Senegal Gum, Xanthan Gum, Sodium Hydroxide, Hydroxyacetophenone, Sodium Hyaluronate, Sodium PCA, Sodium Lactate, Aloe Barbadensis Leaf Juice Powder, Alcohol, Caramel, Malpighia Emarginata Fruit Extract, Citrus Aurantium Dulcis Peel Extract, Maltodextrin, CI 77491"
     }
    ]
   },
@@ -20171,7 +20198,8 @@
      "exclude": [],
      "barcodes": [
       "8718951484672",
-      "8718951658585"
+      "8718951658585",
+      "8718951763135"
      ],
      "inci": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Pentasodium Triphosphate, Tetrapotassium Pyrophosphate, Aroma, Sodium Lauryl Sulfate, Cellulose Gum, Potassium Hydroxide, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Limonene, CI 74160"
     },
@@ -20200,7 +20228,8 @@
      "exclude": [],
      "barcodes": [
       "8718951312432",
-      "8718951553286"
+      "8718951553286",
+      "8718951579828"
      ],
      "inci": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Aroma, Sodium Lauryl Sulfate, Xanthan Gum, Potassium Hydroxide, Cellulose Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Sodium Fluoride, Sodium Saccharin, Benzyl Alcohol, Limonene, CI 74160"
     },
@@ -20599,6 +20628,21 @@
    "key": "institutoespanol",
    "nombre": "Instituto Español",
    "productos": []
+  },
+  {
+   "key": "sensodyne",
+   "nombre": "Sensodyne",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Sensibilidad & Encías 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5054563107510"
+     ],
+     "inci": "Glycerin, PEG-8, Hydrated Silica, Pentasodium Triphosphate, Aroma, Sodium Lauryl Sulfate, Carbomer, Stannous Fluoride, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, CI 42090"
+    }
+   ]
   }
  ]
 }
