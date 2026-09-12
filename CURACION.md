@@ -757,9 +757,44 @@ Scripts: `es_parse.py` (ficha .es), `fr_parse.py` (solo para el contraste), `gen
 
 ## PEDIDOS POR LAS USUARIAS (de la pestaña "Buscados" de la app)
 Esta lista manda sobre cualquier otra: son códigos que alguien ha escaneado de
-verdad y no le hemos devuelto nada. Se curan por orden de demanda. Cuando uno
+verdad y no le hemos devuelto nada. **Al empezar cualquier sesión de curación,
+mirar PRIMERO este apartado**: si hay códigos sin tachar, van antes que cualquier
+marca de la cola. Se curan por orden de demanda. Cuando uno
 entre, se tacha aquí y Mariana lo quita de la pestaña (o se quita solo, a partir
 de la build 90).
+
+### 2026-09-12 · 9 códigos escaneados sin resultado
+De los 16 que trajo Mariana, **5 no eran huecos**: eran lecturas mal hechas del
+GS1-128 del envase (tres Garnier que ya teníamos y dos Elvive que llegaron como
+"01"). Eso ya está arreglado en la app (build 92). Los **9 que sí faltan**, con la
+empresa identificada por su prefijo **contra nuestro propio catálogo**, no de
+memoria:
+
+| Código | Prefijo | Es de | Estado en OBF |
+|---|---|---|---|
+| 4056489447061 | `4056489` | Cien (Lidl) — tenemos 21 códigos con ese prefijo | no encontrado |
+| 4056489817642 | `4056489` | Cien (Lidl) | existe, sin ingredientes |
+| 4056489872191 | `4056489` | Cien (Lidl) | existe, sin ingredientes |
+| 4335619113749 | `4335619` | Cien (Lidl) — tenemos 5 | existe, sin ingredientes |
+| 4335619208988 | `4335619` | Cien (Lidl) | no encontrado |
+| 8718951579828 | `8718951` | Colgate-Palmolive — Sanex (11) o Colgate (13) | no encontrado |
+| 8718951738553 | `8718951` | Colgate-Palmolive | no encontrado |
+| 8718951763135 | `8718951` | Colgate-Palmolive | no encontrado |
+| 8436614131144 | `8436614` | **Instituto Español** (lo confirma Mariana) | no encontrado |
+
+Y dos más sin identificar, que pueden esperar:
+- **8411660114303** — prefijo `8411660`, que es de **AC Marca** (la empresa, no la
+  marca: Sanytol es suya pero tiene más). Averiguar cuál es antes de nada.
+- **5054563107510** — prefijo británico `5054563`. Identificar el producto primero.
+
+**Lo que dice esta lista, y es lo importante:** los 9 huecos caen en marcas que ya
+tenemos **a medias** — Cien 26 productos, Sanex 14, Colgate 9 — no en marcas que
+falten. Se nos quedaron pequeñas porque no publican bien los ingredientes, y son
+justo las que la gente escanea, porque la gente escanea el supermercado. **Antes
+de abrir marcas nuevas, conviene volver sobre estas.**
+
+Instituto Español es la excepción: es marca nueva y hay que crearla en
+`catalogo.json` (española, de gran distribución; web `institutoespanol.com`).
 
 ### 2026-09-11
 - ~~**8480000416858 · "Laca de uñas manicura francesa 03"**~~ **HECHO (2026-09-11b)**: entra en
