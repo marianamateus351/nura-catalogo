@@ -1,5 +1,5 @@
 {
- "version": "2026-09-11c",
+ "version": "2026-09-12a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20594,6 +20594,11 @@
      "inci": "Aqua, Methyl Glucose Sesquistearate, Phenyl Trimethicone, Dodecane, Caprylic/Capric Triglyceride, Parfum, Cetearyl Alcohol, Glyceryl Stearate Citrate, Glyceryl Caprylate, Glycerin, Cetyl Alcohol, Paullinia Cupana Seed Extract, Theobroma Grandiflorum Seed Butter, Cocos Nucifera Oil, Euterpe Oleracea Fruit Oil, Bertholletia Excelsa Seed Oil, Sodium Hyaluronate, Squalane, Ilex Guayusa Leaf Extract, Ilex Paraguariensis Leaf Extract, Daucus Carota Sativa Seed Oil, Bixa Orellana Seed Extract, Tocopherol, Mica, Sodium Phytate, Xanthan Gum, Sorbitan Isostearate, Sodium Stearoyl Glutamate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Phenoxyethanol, Benzyl Alcohol, Benzyl Salicylate, Citral, Coumarin, Hydroxycitronellal, Limonene, Tin Oxide, CI 77891"
     }
    ]
+  },
+  {
+   "key": "institutoespanol",
+   "nombre": "Instituto Español",
+   "productos": []
   }
  ]
 }
