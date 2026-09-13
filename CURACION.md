@@ -766,6 +766,9 @@ de la build 90).
 ### 2026-09-13 · 8 códigos de ISDIN escaneados (LA MEJOR OPORTUNIDAD DE LA LISTA)
 Los ocho nuevos son de **ISDIN**: seis con prefijo `8429420` y dos con `8470001`, los dos que
 ya usan los 18 códigos que tenemos de la marca. Todos con dígito de control válido.
+**No son demanda de usuarias: los escaneó Mariana en una farmacia**, recorriendo el lineal. No
+significa que nadie los pida, significa algo distinto y muy útil: son los envases que están
+HOY a la venta en España.
 
 **Por qué esto vale más que una marca nueva:** de ISDIN ya tenemos el INCI de 252 fichas
 descargado de isdin.com. Lo que nos falta desde el principio es el EAN, porque la marca no lo
