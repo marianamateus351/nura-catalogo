@@ -775,24 +775,21 @@ descargado de isdin.com. Lo que nos falta desde el principio es el EAN, porque l
 publica, y por eso la marca se quedó en 16 productos. **Aquí no hay que buscar ingredientes:
 hay que averiguar QUÉ producto es cada código y engancharle la lista que ya tenemos.**
 
-| Código | Pista |
-|---|---|
-| 8429420084551 | serie antigua (084…), anterior a los solares que tenemos |
-| 8429420246843 | cerca de 8429420245297 = FotoUltra Redness Fusion Fluid |
-| 8429420282087 | cerca de 8429420280878 = Fotoprotector Invisible Stick SPF50 |
-| 8429420285019 | misma serie que el anterior |
-| 8429420291263 | misma serie, algo posterior |
-| 8429420329867 | serie más reciente que todo lo que tenemos |
-| 8470001548887 | cerca de 8470001549990 = Gel Cream SPF30 |
-| 8470001902870 | cerca de 8470001901200 = Reparador Labial Stick |
+**Resultado 2026-09-13 (versión 2026-09-13a): 5 entran, 2 esperan la foto de la etiqueta, 1 sin identificar.**
+Identificación: el EAN aparece en la URL o la ficha de varias farmacias online independientes
+(farma2go, farmaelglobo, farmacianautic, El Corte Inglés, paratamtam, chachifarma…), y la lista que
+esas farmacias publican se comparó ingrediente a ingrediente con la ficha de isdin.com.
 
-**Las pistas son hipótesis, no hechos**: que dos códigos estén cerca solo indica que se dieron
-de alta en la misma época, y suele ser la misma gama, pero hay que confirmarlo con la foto de
-la etiqueta o la ficha antes de asignar nada. Si un código no se puede atar a UNA ficha
-concreta, no entra (es lo que ya pasó con el Reparador Labial en tubo, que tiene dos fichas
-vivas con distinta fórmula).
-Ojo también con las reformulaciones: si el código resulta ser de un envase de generación
-anterior, lleva su INCI antiguo, no el actual de la web.
+| Código | Producto | Resultado |
+|---|---|---|
+| ~~8429420285019~~ | **Eryfotona Night Ultra Fluid 50 ml** | **ENTRA**: la lista de farmaelglobo (30 ingredientes) es idéntica a la de isdin.com |
+| ~~8429420291263~~ | **Fotoprotector Fusion Water MAGIC by Alcaraz SPF 50** | **ENTRA**: la lista de farmacianautic (32) es idéntica a la ficha "by Alcaraz" de isdin.com (con Sodium Hyaluronate y Porphyridium), que difiere de la Fusion Water MAGIC normal (30) y del resto de variantes. La pista de la tabla era otra: no es la serie del Invisible Stick |
+| ~~8429420329867~~ | **Fotoprotector Facial Mist SPF 50 100 ml** | **ENTRA**: isdin.com solo tiene la ficha de 50 ml; la lista francesa de mapharmacienast para este EAN (40 ingredientes) es la misma traducida, así que entra como tamaño de 100 ml |
+| ~~8429420246843~~ | **FotoUltra Spot Prevent Color SPF 50+** | **ENTRA**: todas las farmacias lo dan como la versión COLOR (no la sin color, que es otra ficha) y la lista publicada con el EAN (farmacianautic, chachifarma) coincide con isdin.com. La pista de la tabla (Redness) era otra gama |
+| ~~8470001548887~~ | **Nutradeica Gel Crema Facial 50 ml** | **ENTRA**: ficha única en isdin.com; OBF tiene la portada (envase argentino, "Seborrheic skin"); incibeauty y farmavazquez publican con este EAN la misma lista que la web. La pista (Gel Cream SPF30) era otra gama |
+| 8470001902870 | **Fotoprotector Hydro Oil SPF 30 200 ml** | **ESPERA LA FOTO DE LA ETIQUETA**: bajo este mismo EAN las farmacias publican DOS listas: la antigua (farmaelglobo: Octocrylene, 4-Methylbenzylidene Camphor, Isohexadecane…) y la actual de isdin.com (farmaciaavenidadeamerica, druni: Coco-Caprylate/Caprate, Undecane…). ISDIN reformuló sin cambiar el código. Mariana lo tiene a mano en la farmacia: si la etiqueta lleva Octocrylene es la fórmula antigua y hay que darle esa lista; si lleva Coco-Caprylate, la de la web. No se asigna a ciegas (regla de la generación) |
+| 8429420282087 | **Fotoprotector Scalp & Hair Spray SPF 50** | **ESPERA LA FOTO DE LA ETIQUETA**, mismo caso: parafarmaciacampoamor publica con este EAN la fórmula antigua (18 ingredientes, con Octocrylene, Butane/Propane) y skinsort/dermofarma la actual de isdin.com (37, con Pentaclethra Macroloba y Physalis). Con la etiqueta se decide en un minuto |
+| 8429420084551 | ? | **SIN IDENTIFICAR**: no está en OBF, incibeauty, go-upc, upcitemdb ni en ninguna farmacia indexada. Serie `084…`, muy anterior a todo lo que tenemos: probablemente un envase antiguo o un formato de farmacia (muestra, pack). Hace falta la foto |
 
 ### 2026-09-12 · 9 códigos escaneados sin resultado — resueltos 2026-09-12 (versión 2026-09-12b)
 Identificación de cada código: OBF (ficha y foto), incibeauty por código, go-upc, y las
@@ -905,11 +902,11 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3457 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3462 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Neutrogena 55 · Bioderma 42 · **Cien 29** · Dove 28 · ISDIN 18 · Deliplus 16 · **Colgate 16** ·
+Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · **ISDIN 23** · Deliplus 16 · **Colgate 16** ·
 Sanex 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 · **Sensodyne 1**.
-Ninguno de los 2124 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Ninguno de los 2129 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
