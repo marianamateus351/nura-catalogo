@@ -1,5 +1,5 @@
 {
- "version": "2026-09-13b",
+ "version": "2026-09-13c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -1768,6 +1768,15 @@
       "8470001549990"
      ],
      "inci": "Aqua (Water), Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Phenylbenzimidazole Sulfonic Acid, Poly C10-30 Alkyl Acrylate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydroxyacetophenone, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Parfum (Fragrance), Sodium Hydroxide, Xanthan Gum, Tetrasodium Glutamate Diacetate, Zingiber O_x001E_cinale (Ginger) Root Extract, T-Butyl Alcohol"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Hydro Oil SPF 30 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001902870"
+     ],
+     "inci": "Aqua (Water), Coco-Caprylate/Caprate, Dibutyl Adipate, Undecane, Propanediol, Ethylhexyl Salicylate, Phenylbenzimidazole Sulfonic Acid, Tridecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Arginine, Glycerin, Ethylhexyl Triazone, Sodium Chloride, Phenylpropanol, Parfum, Caprylyl Glycol, Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Dihydroxy Methylchromonyl Palmitate, Amyl Salicylate, Tocopherol, CI 19140 (Yellow 5), CI 26100 (Red 17), CI 47000 (Yellow 11)"
     },
     {
      "nombre": "Fotoprotector ISDIN HydroLotion SPF 50",

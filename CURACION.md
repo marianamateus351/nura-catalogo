@@ -775,7 +775,7 @@ descargado de isdin.com. Lo que nos falta desde el principio es el EAN, porque l
 publica, y por eso la marca se quedó en 16 productos. **Aquí no hay que buscar ingredientes:
 hay que averiguar QUÉ producto es cada código y engancharle la lista que ya tenemos.**
 
-**Resultado 2026-09-13 (versión 2026-09-13b): 5 entran, 2 esperan la foto de la etiqueta, 1 sin identificar.**
+**Resultado 2026-09-13 (versión 2026-09-13c): 6 entran, 1 espera la foto de la etiqueta (Scalp & Hair), 1 sin identificar.**
 Identificación: el EAN aparece en la URL o la ficha de varias farmacias online independientes
 (farma2go, farmaelglobo, farmacianautic, El Corte Inglés, paratamtam, chachifarma…), y la lista que
 esas farmacias publican se comparó ingrediente a ingrediente con la ficha de isdin.com.
@@ -787,7 +787,7 @@ esas farmacias publican se comparó ingrediente a ingrediente con la ficha de is
 | ~~8429420329867~~ | **Fotoprotector Facial Mist SPF 50 100 ml** | **ENTRA**: isdin.com solo tiene la ficha de 50 ml; la lista francesa de mapharmacienast para este EAN (40 ingredientes) es la misma traducida, así que entra como tamaño de 100 ml |
 | ~~8429420246843~~ | **FotoUltra Spot Prevent Color SPF 50+** | **ENTRA**: todas las farmacias lo dan como la versión COLOR (no la sin color, que es otra ficha) y la lista publicada con el EAN (farmacianautic, chachifarma) coincide con isdin.com. La pista de la tabla (Redness) era otra gama |
 | ~~8470001548887~~ | **Nutradeica Gel Crema Facial 50 ml** | **ENTRA**: ficha única en isdin.com; OBF tiene la portada (envase argentino, "Seborrheic skin"); incibeauty y farmavazquez publican con este EAN la misma lista que la web. La pista (Gel Cream SPF30) era otra gama |
-| 8470001902870 | **Fotoprotector Hydro Oil SPF 30 200 ml** | **ESPERA LA FOTO DE LA ETIQUETA**: bajo este mismo EAN las farmacias publican DOS listas: la antigua (farmaelglobo: Octocrylene, 4-Methylbenzylidene Camphor, Isohexadecane…) y la actual de isdin.com (farmaciaavenidadeamerica, druni: Coco-Caprylate/Caprate, Undecane…). ISDIN reformuló sin cambiar el código. Mariana lo tiene a mano en la farmacia: si la etiqueta lleva Octocrylene es la fórmula antigua y hay que darle esa lista; si lleva Coco-Caprylate, la de la web. No se asigna a ciegas (regla de la generación) |
+| ~~8470001902870~~ | **Fotoprotector Hydro Oil SPF 30 200 ml** | **ENTRA (2026-09-13c) con la lista de la etiqueta que fotografió Mariana en la farmacia** (envase ©2025, EAN visible en la foto): es la generación actual (Coco-Caprylate/Caprate, sin Octocrylene ni 4-MBC), pero **no idéntica a la ficha de isdin.com**: el envase no lleva Diethylhexyl Butamido Triazone y sí Amyl Salicylate, y cambia el orden Arginine/Glycerin. Va la del envase (regla de la generación). Las farmacias que publicaban Octocrylene copiaban la fórmula anterior; la web de ISDIN va una generación por detrás del lineal |
 | 8429420282087 | **Fotoprotector Scalp & Hair Spray SPF 50** | **ESPERA LA FOTO DE LA ETIQUETA**, mismo caso: parafarmaciacampoamor publica con este EAN la fórmula antigua (18 ingredientes, con Octocrylene, Butane/Propane) y skinsort/dermofarma la actual de isdin.com (37, con Pentaclethra Macroloba y Physalis). Con la etiqueta se decide en un minuto |
 | 8429420084551 | ? | **SIN IDENTIFICAR**: no está en OBF, incibeauty, go-upc, upcitemdb ni en ninguna farmacia indexada. Serie `084…`, muy anterior a todo lo que tenemos: probablemente un envase antiguo o un formato de farmacia (muestra, pack). Hace falta la foto |
 
@@ -902,11 +902,11 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-10)
-3462 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3463 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · **ISDIN 23** · Deliplus 16 · **Colgate 16** ·
+Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · **ISDIN 24** · Deliplus 16 · **Colgate 16** ·
 Sanex 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 · **Sensodyne 1**.
-Ninguno de los 2129 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Ninguno de los 2130 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
