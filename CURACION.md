@@ -763,6 +763,34 @@ marca de la cola. Se curan por orden de demanda. Cuando uno
 entre, se tacha aquí y Mariana lo quita de la pestaña (o se quita solo, a partir
 de la build 90).
 
+### 2026-09-13 · 8 códigos de ISDIN escaneados (LA MEJOR OPORTUNIDAD DE LA LISTA)
+Los ocho nuevos son de **ISDIN**: seis con prefijo `8429420` y dos con `8470001`, los dos que
+ya usan los 18 códigos que tenemos de la marca. Todos con dígito de control válido.
+
+**Por qué esto vale más que una marca nueva:** de ISDIN ya tenemos el INCI de 252 fichas
+descargado de isdin.com. Lo que nos falta desde el principio es el EAN, porque la marca no lo
+publica, y por eso la marca se quedó en 16 productos. **Aquí no hay que buscar ingredientes:
+hay que averiguar QUÉ producto es cada código y engancharle la lista que ya tenemos.**
+
+| Código | Pista |
+|---|---|
+| 8429420084551 | serie antigua (084…), anterior a los solares que tenemos |
+| 8429420246843 | cerca de 8429420245297 = FotoUltra Redness Fusion Fluid |
+| 8429420282087 | cerca de 8429420280878 = Fotoprotector Invisible Stick SPF50 |
+| 8429420285019 | misma serie que el anterior |
+| 8429420291263 | misma serie, algo posterior |
+| 8429420329867 | serie más reciente que todo lo que tenemos |
+| 8470001548887 | cerca de 8470001549990 = Gel Cream SPF30 |
+| 8470001902870 | cerca de 8470001901200 = Reparador Labial Stick |
+
+**Las pistas son hipótesis, no hechos**: que dos códigos estén cerca solo indica que se dieron
+de alta en la misma época, y suele ser la misma gama, pero hay que confirmarlo con la foto de
+la etiqueta o la ficha antes de asignar nada. Si un código no se puede atar a UNA ficha
+concreta, no entra (es lo que ya pasó con el Reparador Labial en tubo, que tiene dos fichas
+vivas con distinta fórmula).
+Ojo también con las reformulaciones: si el código resulta ser de un envase de generación
+anterior, lleva su INCI antiguo, no el actual de la web.
+
 ### 2026-09-12 · 9 códigos escaneados sin resultado — resueltos 2026-09-12 (versión 2026-09-12b)
 Identificación de cada código: OBF (ficha y foto), incibeauty por código, go-upc, y las
 tiendas que lo listan. INCI solo con fuente verificable (regla 2); si no, fuera (2-bis).
