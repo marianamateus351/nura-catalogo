@@ -775,7 +775,7 @@ descargado de isdin.com. Lo que nos falta desde el principio es el EAN, porque l
 publica, y por eso la marca se quedó en 16 productos. **Aquí no hay que buscar ingredientes:
 hay que averiguar QUÉ producto es cada código y engancharle la lista que ya tenemos.**
 
-**Resultado 2026-09-13 (versión 2026-09-13a): 5 entran, 2 esperan la foto de la etiqueta, 1 sin identificar.**
+**Resultado 2026-09-13 (versión 2026-09-13b): 5 entran, 2 esperan la foto de la etiqueta, 1 sin identificar.**
 Identificación: el EAN aparece en la URL o la ficha de varias farmacias online independientes
 (farma2go, farmaelglobo, farmacianautic, El Corte Inglés, paratamtam, chachifarma…), y la lista que
 esas farmacias publican se comparó ingrediente a ingrediente con la ficha de isdin.com.
