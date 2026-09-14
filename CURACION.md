@@ -845,27 +845,42 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
 
-### Rexona (Unilever) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-14)
-Desodorante y antitranspirante, de lo más vendido de España. Se elige por delante de Kérastase
-y Redken por tres razones que se refuerzan:
-1. **Es la categoría donde Nura más tiene que decir.** Los compuestos de aluminio están
-   fichados en nuestra base de disruptores, y un antitranspirante se usa a diario, en la axila,
-   sin aclarado. Aquí un escaneo da un resultado con contenido de verdad.
-2. **Penetración enorme**, al revés que las marcas de peluquería.
-3. **La vía ya está resuelta**: Rexona es de **Unilever, igual que Dove**, cuya curación está
-   hecha. Ver el apartado de Dove: listado paginado por id de componente, EAN en la URL y en
-   `data-productvariants`, e INCI en 1 de cada 3 fichas.
-Trampas heredadas de Dove, que aquí van a ser iguales o peores:
-- **Un aroma = un INCI.** Cada variante de aroma lleva fórmula distinta aunque la gama se
-  llame igual. No agrupar aromas; sí agrupar tamaños del mismo aroma (regla 4).
-- **Spray, roll-on, stick y crema son fórmulas distintas** aunque compartan nombre. En
-  desodorante esto es la norma, no la excepción.
-- **Men y mujer, aparte**, como se hizo con NIVEA MEN.
-- Dove publicaba INCI en solo 1 de cada 3 fichas, y a veces la fórmula antigua. Contrastar con
-  la etiqueta de OBF cuando haya duda; si la ficha da una lista y la etiqueta otra, no entra.
-- Códigos: europeos `84…` (España), `59…`/`87…` (Unilever Polonia y Países Bajos, que sí se
-  venden aquí). Los `0…` son de EE. UU. y quedan fuera por la regla 3. Ojo con los EAN-8
-  auténticos de Unilever, que sí entran (ver Dove).
+### Rexona (rexona.com/es) — cerrada 2026-09-14: 14 productos, 14 códigos (de 25 con EAN en la web)
+Unilever, misma plataforma que Dove y misma vía (`dvcurl.sh`, listado paginado
+`/es/productos.html?page=productlist-31138391e9~N`, ficha `/es/p/<slug>.html/<GTIN-14>`,
+código e INCI en `data-productvariants`). Diferencias con Dove:
+- **La web solo tiene 25 fichas** (5 páginas de 6), una variante por ficha (sin tamaños
+  agrupados), y **todas traen INCI**. El sitemap `/es/sitemap.xml` no lista fichas. La ficha
+  responde con cualquier slug (`/es/p/x.html/<GTIN-14>`): se probaron así los 165 códigos
+  Rexona de OBF y de rexona.com/pt que no están en el listado, y ninguno tiene ficha en `/es`.
+- Códigos: `872…`/`871…`/`8718…`/`8711…`/`8712…` (Unilever Países Bajos) y **EAN-8
+  auténticos de Unilever** `59…`/`50…` en roll-on y aerosol de 100 ml (como en Dove). Ningún
+  `84…` ni `0…`.
+Qué decidió lo que entra (regla de Sanex/Neutrogena: solo lo que no está contradicho):
+- **Fórmula antigua (Lilial)**: roll-on Men Invisible 87340679, roll-on mujer Invisible Aqua
+  87340631 y aerosol Men Cobalt 48h 8710447493861 traen Butylphenyl Methylpropional. Fuera.
+- **Ficha ≠ etiqueta de OBF del mismo código**: roll-on Men Cobalt Dry 50096954 (la web da
+  Citral e Hydroxycitronellal; la etiqueta, Eugenol) y aerosol Cotton Dry 8720181213991 (la
+  etiqueta lleva Alpha-Isomethyl Ionone y no Coumarin). Fuera.
+- **La web repite listas entre aromas distintos** (como Sanex): Cotton Dry aerosol = Marine
+  Fresh Men, Bright Bouquet aerosol = Invisible Pure aerosol, Cobalt Dry roll-on = Quantum Dry
+  roll-on. Una de cada par es una copia y no hay etiqueta que decida: fuera las seis.
+- **rexona.com/pt** (38 fichas, mismo marcado) sirve para contrastar el mismo código, pero
+  **va por detrás**: para las cremas 8718114202372 y 8711600504141 da la lista antigua con
+  Lilial mientras la ficha `/es` coincide con la etiqueta de OBF. Cuando `/es` y `/pt` dan
+  listas distintas para un código sin etiqueta que decida (aerosol Men Invisible Black & White
+  72h 8720181213854, stick Men Cobalt 73103714, roll-on Quantum Dry 59095460), fuera.
+- Entran las 14 restantes: 4 con etiqueta de OBF idéntica (cremas Clean Scent mujer y Men,
+  Stress Control, roll-on Cotton Dry), 1 con `/pt` idéntica (roll-on Uplifting & Fresh) y 9
+  con lista única en la web y sin contradicción.
+- Los 95 códigos Rexona de OBF que no están en `/es` son en su mayoría envases franceses
+  (lotes, comprimidos de 100 ml, MotionSense) y no se han tocado: sin ficha `/es` no hay
+  fuente oficial para España. Si alguno sale en "Buscados" con foto de etiqueta, se cura por
+  el código como se hizo con Deliplus.
+Nombres: "Antitranspirante <formato> <gama> <horas> <aroma> <tamaño>", con "Men" delante en
+los de hombre. Un aroma × formato × género = una entrada, con su tamaño en el nombre.
+Scripts: `dvcurl.sh`, `gen_rexona.py` (→ `rexona_merged.json`), `rexona_db.json` (fichas
+`/es`), `rexona_pt_db.json` (fichas `/pt`), `obf_rexona_site.json`.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -894,6 +909,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Rexona | no (solo home); listado paginado por id de componente (25 fichas) | sí (en la URL y en `data-productvariants`) | sí en las 25, pero 3 con Lilial y 3 pares de aromas con lista repetida | vía Dove; contraste con etiqueta OBF y con rexona.com/pt; ver su apartado |
 | Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
 | Fairy (P&G) | info-pg.com vía Contentful (354 fichas ES) | **no** | sí, lista completa Anexo VII | EAN de OPF emparejado por nombre exacto del envase; ver su apartado |
 | Sanytol (AC Marca) | sí (`page-sitemap.xml`, 36) | sí, en el nombre de la imagen principal | **no**; la lista está en los PDF FIC de sanytol.fr (mismo código de fórmula) y tras login en reach.grupoacmarca.com | ver su apartado |
@@ -928,17 +944,18 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-10)
-3464 códigos en 25 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-09-14)
+3478 códigos en 26 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · **ISDIN 25** · Deliplus 16 · **Colgate 16** ·
-Sanex 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 · **Sensodyne 1**.
-Ninguno de los 2131 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
+Sanex 14 · **Rexona 14** · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 ·
+Sensodyne 1. Ninguno de los 2145 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
 Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excepción que NYX; ver su apartado).
-**Rexona ya está creada y vacía** (botón visible en la app), pendiente de curar: Unilever como
-Dove, ver su apartado.
+Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
+antigua y 8 están contradichas o repetidas entre aromas (ver su apartado). Siguientes de la
+cola: Kérastase y Redken.
