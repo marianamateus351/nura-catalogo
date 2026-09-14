@@ -20847,6 +20847,22 @@
      "inci": "Cyclopentasiloxane, Aluminum Zirconium Tetrachlorohydrex GLY, Dimethicone, Cera Microcristallina, Paraffin, Parfum, Silica, Dimethicone Crosspolymer, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Caprylic/Capric Triglyceride, Hydrated Silica, Gelatin Crosspolymer, Aqua, Sodium Benzoate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Limonene, Linalool"
     }
    ]
+  },
+  {
+   "key": "niyok",
+   "nombre": "Niyok",
+   "productos": [
+    {
+     "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4260664930099"
+     ],
+     "inci": "Cocos Nucifera Oil, Sodium Bicarbonate, Zea Mays Starch, Butyrospermum Parkii Butter, Zinc Oxide, Hydrogenated Castor Oil, Caprylic/Capric Triglyceride, Zinc Ricinoleate, Equisetum Arvense Extract, Tocopherol, Salvia Officinalis Oil, Aqua, Propanediol, Helianthus Annuus Seed Oil",
+     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg"
+    }
+   ]
   }
  ]
 }
