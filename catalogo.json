@@ -1,5 +1,5 @@
 {
- "version": "2026-09-13d",
+ "version": "2026-09-14a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20715,6 +20715,11 @@
      "inci": "Glycerin, PEG-8, Hydrated Silica, Pentasodium Triphosphate, Aroma, Sodium Lauryl Sulfate, Carbomer, Stannous Fluoride, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, CI 42090"
     }
    ]
+  },
+  {
+   "key": "rexona",
+   "nombre": "Rexona",
+   "productos": []
   }
  ]
 }

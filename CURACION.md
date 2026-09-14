@@ -808,6 +808,10 @@ tiendas que lo listan. INCI solo con fuente verificable (regla 2); si no, fuera 
 | ~~8718951763135~~ | **Colgate Max White One 75 ml** (Auchan PT lo lista con este EAN) | **ENTRA**: tercer código de la Max White One, que ya estaba con lista confirmada por dos etiquetas |
 | 8436614131144 | go-upc dice "Nat.honey Gel Baño Hidratante 900 ml" (prefijo de Instituto Español) | **SIN IDENTIFICAR DEL TODO, FUERA** (segundo intento 12-09: también están tras Cloudflare la API de WooCommerce `/wp-json/wc/store/v1/products`, el buscador `?s=` y hasta `robots.txt`; el desafío es Turnstile interactivo y Playwright no encuentra la casilla): el gel Natural Honey de 900 ml que vende Mercadona lleva otro EAN (8008970056234), naturalhoney.es ya no lista ese gel y **institutoespanol.com está tras un desafío interactivo de Cloudflare** que ni Playwright pasa. Marca **Instituto Español creada vacía** como pediste; hace falta el envase (foto de etiqueta y código) o que la web se abra |
 
+**8436614131144: DESCARTADO definitivamente (Mariana, 2026-09-14).** No se puede
+identificar con certeza ni conseguir su INCI, y es un gel de baño de 900 ml descatalogado. Se
+quita de la lista de pedidos; si alguien vuelve a escanearlo, reaparecerá solo.
+
 Los dos "sin identificar":
 - ~~**5054563107510**~~ = **Sensodyne Sensibilidad & Encías 75 ml** (Haleon; código UK, envase español según las
   tiendas). **ENTRA como marca nueva "Sensodyne"** con la lista oficial de sensodyne.com/es-es
@@ -840,6 +844,28 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   soldejaneiro.com (39 ingredientes, con Tin Oxide y CI 77891). Ojo: la lista que publica
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
+
+### Rexona (Unilever) — SIGUIENTE MARCA (pedida por Mariana, 2026-09-14)
+Desodorante y antitranspirante, de lo más vendido de España. Se elige por delante de Kérastase
+y Redken por tres razones que se refuerzan:
+1. **Es la categoría donde Nura más tiene que decir.** Los compuestos de aluminio están
+   fichados en nuestra base de disruptores, y un antitranspirante se usa a diario, en la axila,
+   sin aclarado. Aquí un escaneo da un resultado con contenido de verdad.
+2. **Penetración enorme**, al revés que las marcas de peluquería.
+3. **La vía ya está resuelta**: Rexona es de **Unilever, igual que Dove**, cuya curación está
+   hecha. Ver el apartado de Dove: listado paginado por id de componente, EAN en la URL y en
+   `data-productvariants`, e INCI en 1 de cada 3 fichas.
+Trampas heredadas de Dove, que aquí van a ser iguales o peores:
+- **Un aroma = un INCI.** Cada variante de aroma lleva fórmula distinta aunque la gama se
+  llame igual. No agrupar aromas; sí agrupar tamaños del mismo aroma (regla 4).
+- **Spray, roll-on, stick y crema son fórmulas distintas** aunque compartan nombre. En
+  desodorante esto es la norma, no la excepción.
+- **Men y mujer, aparte**, como se hizo con NIVEA MEN.
+- Dove publicaba INCI en solo 1 de cada 3 fichas, y a veces la fórmula antigua. Contrastar con
+  la etiqueta de OBF cuando haya duda; si la ficha da una lista y la etiqueta otra, no entra.
+- Códigos: europeos `84…` (España), `59…`/`87…` (Unilever Polonia y Países Bajos, que sí se
+  venden aquí). Los `0…` son de EE. UU. y quedan fuera por la regla 3. Ojo con los EAN-8
+  auténticos de Unilever, que sí entran (ver Dove).
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -914,3 +940,5 @@ NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la 
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
 Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excepción que NYX; ver su apartado).
+**Rexona ya está creada y vacía** (botón visible en la app), pendiente de curar: Unilever como
+Dove, ver su apartado.
