@@ -763,6 +763,28 @@ marca de la cola. Se curan por orden de demanda. Cuando uno
 entre, se tacha aquí y Mariana lo quita de la pestaña (o se quita solo, a partir
 de la build 90).
 
+**Desde 2026-09-15 los pedidos también salen del recuento de rutinas** (panel de
+datos → "Huecos del catálogo"): productos que la gente ya tiene metidos en sus
+rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
+un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
+un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
+
+### 2026-09-15 · Cosmia (Alcampo) — primer pedido salido del recuento de rutinas
+
+| Código | Producto | Resultado |
+|---|---|---|
+| 20525101 | **"Cosmia", sin más** · 1 persona, en una rutina propia | **NO ENTRA POR CÓDIGO, y no es un fallo de búsqueda.** Es un EAN-8 con dígito de control válido pero **prefijo 2: circulación restringida** (código interno de tienda, no registrado en GS1). Dos consecuencias: (1) no va a estar en OBF, incibeauty, go-upc ni en ninguna base global — no gastar tiempo buscándolo; (2) **no es único**: el mismo número puede ser otro producto en otra cadena, así que curarlo como "Cosmia X" arriesga servir la lista equivocada a quien escanee otra cosa. Además el nombre guardado es solo la marca: no sabemos QUÉ producto es. Sin identificar el producto, no entra (regla 1) |
+
+**Lo que sí hay que hacer con esto:** Cosmia es la marca propia de cosmética de
+**Alcampo (Auchan)**, y encaja exactamente con lo ya curado de Deliplus
+(Mercadona), Cien (Lidl) y Eroski: marca blanca de súper, barata, muy usada y mal
+cubierta por las bases públicas. **Añadir Cosmia a la cola como marca**, curando
+por nombre de producto e INCI oficial de alcampo.es, nunca por este código.
+
+Cuando entre la marca, este código seguirá sin resolverse solo: hace falta que
+alguien diga qué producto es (foto del envase). Mientras tanto se queda aquí sin
+tachar.
+
 ### 2026-09-13 · 8 códigos de ISDIN escaneados (LA MEJOR OPORTUNIDAD DE LA LISTA)
 Los ocho nuevos son de **ISDIN**: seis con prefijo `8429420` y dos con `8470001`, los dos que
 ya usan los 18 códigos que tenemos de la marca. Todos con dígito de control válido.
