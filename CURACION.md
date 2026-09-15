@@ -798,6 +798,20 @@ comparaba **con tildes**, así que "désinfectant" no casaba con "desinfectant",
 no había ni una palabra francesa de limpieza en la lista. De paso se arregló que
 "champú suavizante" cayera en Hogar por la palabra "suavizante".
 
+**Resultado 2026-09-15 (versión 2026-09-15a): 2 entran (marca nueva Elmex), 2 fuera.**
+Identificación por OBF (los cuatro tienen ficha con foto) y contraste con la web oficial.
+
+| Código | Qué es de verdad | Resultado |
+|---|---|---|
+| ~~8718951058446~~ | **elmex Anti-Caries Professional, pack 2 × 75 ml** (envase francés/belga; OBF trae la caja y la etiqueta legible). No es un Colgate: el prefijo `8718951` lo comparte todo el grupo (Colgate, Sanex, elmex, Palmolive) | **ENTRA** como **marca nueva Elmex**. La etiqueta (14 ingredientes) es **idéntica, en el mismo orden, a la ficha de elmex.es** "Protección caries Profesional". Ojo: elmex.fr ya publica para el mismo producto una **fórmula 2026** distinta (con Xylitol, Hydrated Silica, Xanthan Gum, sin CI 77891) bajo el EAN del tubo suelto 8718951209923; ese código no se añade hasta ver una etiqueta, porque la lista francesa es la explicativa y no está confirmada completa |
+| ~~7610108024513~~ | **elmex Protección Caries 75 ml**, envase suizo (DE/FR/IT; OBF con etiqueta legible, 36 revisiones) | **ENTRA** en Elmex con la lista de la etiqueta (15 ingredientes, con los alérgenos del aroma). La ficha de elmex.fr "Anti-Caries Original" da los mismos 8 primeros pero sin alérgenos: la lista explicativa de la web omite, así que manda la etiqueta |
+| 3045206392976 | **Sanytol Nettoyant Désinfectant Salle de Bain anti-calcaire 500 ml** ("Formule Protection", sin lejía, 1,5 % de peróxido de hidrógeno; AC Marca Ideal) | **FUERA (2-bis)**. La etiqueta solo da los rangos del Anexo VII ("< 5 % blanqueantes oxigenados, fosfonatos, tensioactivos no iónicos y anfóteros; desinfectante y perfumes"). De las 49 FIC públicas de sanytol.fr ninguna es esta: las dos con peróxido son "Nettoyant Désinfectant 4 Actions Fresh" (código 33632250, 2018) y "Pistolet Multi-Surfaces Protection 4 Actions Fresh" (33639298/308/299, 2021), otros productos. En el portal REACH de AC Marca hay una entrada "SANYTOL BAÑOS FRESH" (`9433632199-B`) que probablemente es esta fórmula, pero está tras login: enlaza con la decisión pendiente del portal (ver Sanytol) |
+| 5059883116631 | **Myprotein Protein Brownie Chocolate Chunk 75 g** (OFF, Reino Unido) | **FUERA**: alimentación, no es producto de rutina. No se cura |
+
+Lo que enseña: el prefijo `8718951` no identifica a Colgate sino a todo Colgate-Palmolive Europa,
+así que un `8718951…` desconocido puede ser Sanex, Palmolive, elmex o meridol. Y las webs de
+elmex traen la lista, pero por GraphQL (ver el apartado de Elmex).
+
 ### 2026-09-15 · Cosmia (Alcampo) — primer pedido salido del recuento de rutinas
 
 | Código | Producto | Resultado |
@@ -933,6 +947,24 @@ los de hombre. Un aroma × formato × género = una entrada, con su tamaño en e
 Scripts: `dvcurl.sh`, `gen_rexona.py` (→ `rexona_merged.json`), `rexona_db.json` (fichas
 `/es`), `rexona_pt_db.json` (fichas `/pt`), `obf_rexona_site.json`.
 
+### Elmex (elmex.es / elmex.fr) — abierta 2026-09-15: 2 productos, 2 códigos (pedidos por una usuaria)
+CP GABA, grupo Colgate-Palmolive. Misma plataforma AEM que Colgate pero con **plantilla
+"pim-pdp"**: la ficha HTML solo trae plantillas Handlebars (`{{activeIngredients}}`) y el
+contenido se carga por JavaScript desde una consulta GraphQL persistida:
+- `<body data-product="/content/dam/cp-sites-aem/pim-cf/oral-care/elmex/<locale>/<gama>/<slug>">`
+  → `https://www.elmex.<tld>/graphql/execute.json/astra/productpath;path=<esa ruta>`. Devuelve
+  `data.productDataModelByPath.item` con `name`, `activeIngredients` (lista con explicación de
+  cada ingrediente, en HTML `<li>`), `upc` (EAN, solo en algunas fichas; en elmex.fr también
+  como `data-ean` en el botón "Où acheter") y `skus` (el itemId de Colgate, p. ej. 61035324).
+- **El campo `ingredients` no vale**: es un texto por defecto repetido en todas las fichas
+  (la lista del elmex Kids con Olaflur). La lista real es `activeIngredients`, y hay que
+  contrastarla con una etiqueta porque es explicativa y puede omitir alérgenos (la del
+  Anti-Caries Original francés no los trae; la etiqueta suiza sí).
+- elmex.es tiene 5 fichas de producto (Anti-Caries Professional, Sensitive Professional, Kids,
+  Junior y dos colutorios) sin EAN; elmex.fr, unas 40 con EAN en varias. Se han curado solo los
+  dos códigos pedidos; la gama completa queda como candidata (ver la cola).
+Scripts: `dvcurl.sh`; los JSON de GraphQL en `ped15/gq_*.json`.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -960,6 +992,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Elmex | sí (`sitemap.xml`; 5 fichas ES, ~40 FR) | en `upc`/`data-ean` de algunas fichas FR; ninguna ES | sí, en `activeIngredients` por GraphQL (`/graphql/execute.json/astra/productpath;path=`), explicativa; el campo `ingredients` es un texto por defecto | ver su apartado |
 | Rexona | no (solo home); listado paginado por id de componente (25 fichas) | sí (en la URL y en `data-productvariants`) | sí en las 25, pero 3 con Lilial y 3 pares de aromas con lista repetida | vía Dove; contraste con etiqueta OBF y con rexona.com/pt; ver su apartado |
 | Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
 | Fairy (P&G) | info-pg.com vía Contentful (354 fichas ES) | **no** | sí, lista completa Anexo VII | EAN de OPF emparejado por nombre exacto del envase; ver su apartado |
@@ -995,12 +1028,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-14)
-3478 códigos en 26 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-09-15)
+3481 códigos en 28 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
-Sanex 14 · **Rexona 14** · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Sol de Janeiro 1 ·
-Sensodyne 1. Ninguno de los 2145 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Sanex 14 · Rexona 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · **Elmex 2** ·
+Sol de Janeiro 1 · Sensodyne 1 · **Niyok 1**. Ninguno de los 2148 productos está sin INCI.
+Sesderma e Instituto Español siguen vacías. Niyok ya está también en `catalogoInci.js`
+(faltaba en el espejo de la app; paridad restablecida en la 2026-09-15a).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
@@ -1008,5 +1043,6 @@ apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
 Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excepción que NYX; ver su apartado).
 Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
-antigua y 8 están contradichas o repetidas entre aromas (ver su apartado). Siguientes de la
-cola: Kérastase y Redken.
+antigua y 8 están contradichas o repetidas entre aromas (ver su apartado).
+Pedidos del 15-09: 2 de 4 curados (Elmex, marca nueva); el Sanytol francés y el brownie, fuera.
+Siguientes de la cola: Kérastase, Redken y Cosmia (Alcampo).

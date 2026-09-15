@@ -1,5 +1,5 @@
 {
- "version": "2026-09-14b",
+ "version": "2026-09-15a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20856,11 +20856,35 @@
      "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
      "include": [],
      "exclude": [],
+     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg",
      "barcodes": [
       "4260664930099"
      ],
-     "inci": "Cocos Nucifera Oil, Sodium Bicarbonate, Zea Mays Starch, Butyrospermum Parkii Butter, Zinc Oxide, Hydrogenated Castor Oil, Caprylic/Capric Triglyceride, Zinc Ricinoleate, Equisetum Arvense Extract, Tocopherol, Salvia Officinalis Oil, Aqua, Propanediol, Helianthus Annuus Seed Oil",
-     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg"
+     "inci": "Cocos Nucifera Oil, Sodium Bicarbonate, Zea Mays Starch, Butyrospermum Parkii Butter, Zinc Oxide, Hydrogenated Castor Oil, Caprylic/Capric Triglyceride, Zinc Ricinoleate, Equisetum Arvense Extract, Tocopherol, Salvia Officinalis Oil, Aqua, Propanediol, Helianthus Annuus Seed Oil"
+    }
+   ]
+  },
+  {
+   "key": "elmex",
+   "nombre": "Elmex",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Protección Caries Profesional 2 × 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951058446"
+     ],
+     "inci": "Calcium Carbonate, Aqua, Glycerin, Sodium Lauryl Sulfate, Arginine, Sodium Monofluorophosphate, Aroma, Cellulose Gum, Sodium Bicarbonate, Tetrasodium Pyrophosphate, Benzyl Alcohol, Sodium Saccharin, Sodium Hydroxide, CI 77891"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Caries 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7610108024513"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Hydroxyethylcellulose, Oleaminopropylamineth-3 HCl, Aroma, Sodium Fluoride, Saccharin, Anethole, Beta-Caryophyllene, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol"
     }
    ]
   }
