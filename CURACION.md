@@ -769,6 +769,35 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-15 · 4 escaneos en vacío — HAY USUARIA FUERA DE ESPAÑA
+
+De la sección "Escaneos en vacío" del panel: productos que alguien escaneó y se
+guardaron sin ingredientes. Los cuatro tienen dígito de control válido y **ninguno
+está en el catálogo**. Lo que dicen en conjunto importa más que cada uno por
+separado: **tres de los cuatro son de fuera de España** — dos con nombre en
+francés y uno con prefijo suizo. La cola de marcas está montada para el súper
+español (Mercadona, Lidl, Alcampo, Eroski) y hay al menos una persona escaneando
+en otro país. No cambia la prioridad hoy, pero conviene saberlo antes de decidir
+la siguiente tanda de marcas.
+
+Identificación por prefijo GS1, **sin confirmar en ninguna base** (la sesión que
+escribe esto no tiene salida a internet): hay que verificar producto a producto.
+
+| Código | Pista | Qué hacer |
+|---|---|---|
+| 8718951058446 | "Dentifrice anti-caries" · prefijo **8718951 = Colgate-Palmolive**, el MISMO que los 16 códigos de Colgate y los 11 de Sanex que ya están curados | **EL MÁS BARATO DE TODOS, empezar por aquí.** No es una marca nueva: es un hueco dentro de una marca que ya tenemos. Un dentífrico Colgate de envase francés (probablemente la gama "Protection Caries"). Si su INCI coincide con una ficha que ya tenemos, es añadir un código |
+| 7610108024513 | "Elmex" · prefijo **761 = Suiza**. Elmex es de CP GABA, **también del grupo Colgate-Palmolive** | Dentífrico. Marca nueva pero del mismo grupo que lo que ya se cura. Segundo en orden de coste |
+| 3045206392976 | "nettoyant desinfectant" · prefijo **30-37 = Francia** | Producto de LIMPIEZA, no cosmética (ver nota de abajo). Si resulta ser Sanytol francés, enlaza con la tarea pendiente del portal REACH de AC Marca. Aplicar el método de PRODUCTOS DE LIMPIEZA (Reglamento 648/2004 Anexo VII), que no da INCI completo |
+| 5059883116631 | "Brownie Chocolate Chunk" · prefijo **50 = Reino Unido** | Alimentación. La menos prioritaria: un brownie no es un producto de rutina |
+
+**Además, esto destapó un fallo en la app (ya corregido, pendiente de build):** el
+"nettoyant désinfectant" se había clasificado como **Cuidado personal**. La
+categoría decide qué reglas de ingredientes se aplican, así que un desinfectante
+analizado como cosmético da lecturas equivocadas. Eran dos cosas: el texto se
+comparaba **con tildes**, así que "désinfectant" no casaba con "desinfectant", y
+no había ni una palabra francesa de limpieza en la lista. De paso se arregló que
+"champú suavizante" cayera en Hogar por la palabra "suavizante".
+
 ### 2026-09-15 · Cosmia (Alcampo) — primer pedido salido del recuento de rutinas
 
 | Código | Producto | Resultado |
