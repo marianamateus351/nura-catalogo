@@ -810,6 +810,26 @@ nunca por el código interno 20525101.
 **medicamento**, no un cosmético (sin INCI, fuera del reglamento cosmético). Está
 abierto si Nura analiza medicamentos o los deja fuera.
 
+**Resultado 2026-09-16 (versión 2026-09-16a): 4 entran (2 huecos + 2 marcas nuevas), 1 fuera, 1 sin curar por decisión.**
+Identificación por la foto de OBF de cada código y contraste con la web oficial.
+
+| Código | Qué es de verdad | Resultado |
+|---|---|---|
+| ~~8718951735163~~ | **Sanex Zero% Extra Control roll-on 50 ml** (envase ES/IT/EL/PT, fabricado en Świdnica; etiqueta legible en OBF) | **ENTRA en Sanex como ficha nueva.** No es el Zero% Invisible/Men que ya está (8718951246874): la etiqueta lleva **Ethylhexylglycerin y Zinc Oxide y no lleva Dimethicone**. La ficha de sanex.es "Zero% Extra Control" da Dimethicone y sin Ethylhexylglycerin: **manda la etiqueta del mismo código** (como con Hydro Oil de ISDIN). Nombre: *Desodorante roll-on Zero% Extra Control 50 ml* |
+| 3574661177229 | **Neutrogena Intense Repair baume corps réparation intense 300 ml** (tarro francés "maxi format", foto de OBF de 2018) | **FUERA, dos motivos.** (1) **Descatalogado**: neutrogena.fr solo lista ya Réparation Intense CICA Lait y CICA Crème, y el tarro de 2025 con el mismo aspecto (3574661821252, 400 ml) es la Cica Creme con otra fórmula (la de la Loción Cica). (2) La foto de la etiqueta tiene el borde izquierdo cortado: "…tearyl Alcohol" puede ser Stearyl o Cetearyl, y no se adivina (regla 2). No es ninguna de las tres fichas de la gama: es la fórmula anterior a Cica (Paraffinum Liquidum, Petrolatum, Synthetic Beeswax) |
+| ~~8700216234955~~ | **Fairy Platinum QuickWash 520 ml, lavavajillas A MANO** (envase griego; la etiqueta dice "líquido para lavar platos" y lleva Lauramine Oxide y sulfatos) | **ENTRA en Fairy.** Corrección a la pista: no es de máquina. P&G tiene **una sola ficha "Platinum - QuickWash"** (a mano, `pa 90108185001`) y el nombre del envase casa con ella: entra por la regla de Fairy. La etiqueta (Anexo VII resumido) es coherente con la ficha: Benzisothiazolinone, Phenoxyethanol, Hexyl Cinnamal, Linalool |
+| ~~8436617752667~~ | **Natulim Eco Pastillas Lavavajillas Máquina 6 en 1, 30 pastillas** (Ecollim Holdings, EU Ecolabel; caja ES/PT) | **ENTRA como marca nueva Natulim.** La caja solo da los rangos del Anexo VII, pero **natulim.com publica la lista completa** en la ficha del producto (FAQ "¿Cuáles son los ingredientes?", 23 componentes en orden: carbonato, citrato y percarbonato de sodio, agua, alcoholes grasos etoxilados, TAED, ácido poliepoxisuccínico, copolímero itacónico, sulfato de sodio, alcohol polivinílico, PEG-90, subtilisina, celulosa, caolín, citrato de bismuto, goma de celulosa, dextrina, carbonato de calcio, alfa-amilasa, sulfato de magnesio, tiosulfato de sodio, polietilenglicol, sacarosa). Es el único producto de pastillas de la marca, así que la ficha es de este envase. Se guarda con los nombres en inglés (como Fairy) para que el detector los reconozca |
+| ~~3560071172015~~ | **Carrefour Soft Bio Dentífrico Frescor con agua de menta 75 ml** (fabricado en España; COSMOS Organic) | **ENTRA como marca nueva Carrefour.** Mismo EAN con dos etiquetas en OBF: la de 2020 (con fosfatos) y la de **mayo de 2026** (reformulado: Sodium Citrate, Menthol, Mentha Piperita Oil, Anethole, Eucalyptus, Pinene, Beta-Caryophyllene). Reformulación con el mismo código → va la vigente (regla 2). carrefour.fr y carrefour.es están tras Datadome/Cloudflare y no se pueden consultar |
+| 91598271 | VICKS VapoRub | **No se cura** hasta que Mariana decida lo de los medicamentos |
+
+Patrón "pastillas de lavavajillas": cubierto por Natulim. Las de Fairy (Platinum All in One y
+Platinum Plus) siguen fuera por lo de siempre: P&G tiene dos y tres fichas con nombres casi
+iguales para el mismo envase y OPF no permite decidir (ver Fairy).
+De paso: OBF tiene con etiqueta legible de 2025 el **Neutrogena Intense Repair Cica Creme cara y
+cuerpo 400 ml** (3574661821252, 13 ingredientes, sin perfume), que es la "Réparation Intense CICA
+Crème Multi-Usages" francesa. No se ha añadido porque no está en neutrogena.es; si aparece en
+Buscados, es un minuto.
+
 ### 2026-09-15 · 4 escaneos en vacío — HAY USUARIA FUERA DE ESPAÑA
 
 De la sección "Escaneos en vacío" del panel: productos que alguien escaneó y se
@@ -1006,6 +1026,19 @@ contenido se carga por JavaScript desde una consulta GraphQL persistida:
   dos códigos pedidos; la gama completa queda como candidata (ver la cola).
 Scripts: `dvcurl.sh`; los JSON de GraphQL en `ped15/gq_*.json`.
 
+### Natulim (natulim.com) — abierta 2026-09-16: 1 producto, 1 código (pedido por una usuaria)
+Ecollim Holdings, marca española de limpieza ecológica (Shopify). La caja solo lleva los rangos
+del Anexo VII, pero **la ficha web publica la lista completa** en la FAQ "¿Cuáles son los
+ingredientes?" (un nombre por párrafo, con el nombre técnico entre paréntesis en algunos).
+`/products/<slug>.json` da variantes y SKU interno, **no el EAN**: el código vino del escaneo.
+Se traduce al nombre INCI/inglés habitual (Sodium Percarbonate, TAED, Subtilisin…) como se hizo
+con Fairy. Candidatos si alguien los pide: lavavajillas a mano, tiras de detergente, quitamanchas.
+
+### Carrefour (marca blanca) — abierta 2026-09-16: 1 producto, 1 código (pedido por una usuaria en Francia)
+carrefour.fr (Datadome) y carrefour.es (Cloudflare) devuelven 403 a todo. La única fuente es la
+etiqueta: OBF tiene fotos por código y, en este caso, dos generaciones bajo el mismo EAN. Se
+cura código a código desde "Buscados" con la foto más reciente; no hay vía para recorrer la marca.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -1033,6 +1066,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | **no** (SKU interno) | sí, lista completa en la FAQ de la ficha | código del escaneo; ver su apartado |
+| Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
 | Elmex | sí (`sitemap.xml`; 5 fichas ES, ~40 FR) | en `upc`/`data-ean` de algunas fichas FR; ninguna ES | sí, en `activeIngredients` por GraphQL (`/graphql/execute.json/astra/productpath;path=`), explicativa; el campo `ingredients` es un texto por defecto | ver su apartado |
 | Rexona | no (solo home); listado paginado por id de componente (25 fichas) | sí (en la URL y en `data-productvariants`) | sí en las 25, pero 3 con Lilial y 3 pares de aromas con lista repetida | vía Dove; contraste con etiqueta OBF y con rexona.com/pt; ver su apartado |
 | Dove | solo categorías | sí (en la URL y en `data-productvariants`) | 1 de cada 3 fichas, y a veces fórmula antigua | listado paginado por id de componente; ver su apartado |
@@ -1069,16 +1104,15 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-15)
-3481 códigos en 28 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-09-16)
+3485 códigos en 30 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
-Sanex 14 · Rexona 14 · Fairy 11 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · **Elmex 2** ·
-Sol de Janeiro 1 · Sensodyne 1 · **Niyok 1**. Ninguno de los 2148 productos está sin INCI.
-Sesderma e Instituto Español siguen vacías. Niyok ya está también en `catalogoInci.js`
-(faltaba en el espejo de la app; paridad restablecida en la 2026-09-15a).
+**Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
+Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1**. Ninguno de los
+2152 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
-Sanex cerrada con 14 códigos: la web da INCI sin EAN y OBF solo confirma 14 (ver su apartado).
+Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
 apartado). **Hay que compilar la app**: el escáner ahora normaliza los UPC-A de 12 dígitos.
 Colgate cerrada con 13 códigos: la web da la lista sin EAN y OBF solo confirma 13 (ver su apartado).
@@ -1086,4 +1120,7 @@ Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excep
 Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
 antigua y 8 están contradichas o repetidas entre aromas (ver su apartado).
 Pedidos del 15-09: 2 de 4 curados (Elmex, marca nueva); el Sanytol francés y el brownie, fuera.
+Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefour como marcas
+nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
+Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
 Siguientes de la cola: Kérastase, Redken y Cosmia (Alcampo).
