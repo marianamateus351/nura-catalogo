@@ -1104,7 +1104,8 @@ por las farmacias y ahí estaba la gama entera:
   Serum, SOS Patch, y los otros 4 tonos del Super BB Concealer (Clair, Doré, Caramel, Chocolat),
   con la misma lista que el Nude. El Sérum Light queda confirmado: Nautic y Douglas dan los mismos
   45.
-- **Solo en Nautic, sin segunda fuente (pendientes de decisión de Mariana):** Ginseng Power
+- **Solo en Nautic, sin segunda fuente: NO ENTRAN (decisión de Mariana, 2026-09-16: solo lo
+  confirmado por dos fuentes). Quedan apuntados por si aparece etiqueta o ficha oficial:** Ginseng Power
   Cream 50 ml (8809255786842, 56), Ginseng Power Eye 15 ml (8809255786873, 44), Skin Hero Eye
   10 ml (8809255787696, 48), Skin Hero Glow 15 ml (8809255788112, 43; El Globo tiene el de 40 ml
   8809255788105), Skin Therapy Sérum en Aceite 30 ml (8809255787368, 39), Super BB Crème
@@ -1201,7 +1202,7 @@ Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excep
 Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
 antigua y 8 están contradichas o repetidas entre aromas (ver su apartado).
 Pedidos del 15-09: 2 de 4 curados (Elmex, marca nueva); el Sanytol francés y el brownie, fuera.
-Erborian (aportación manual del 16-09): EAN encontrado en Douglas, 30 códigos vía farmacias online (EAN en la URL) contrastadas con incidecoder; 15 códigos más esperan decisión sobre Nautic como fuente única (ver su apartado).
+Erborian (aportación manual del 16-09): EAN encontrado en Douglas, 30 códigos vía farmacias online (EAN en la URL) contrastadas con incidecoder; 15 códigos con lista solo en Nautic quedan fuera por decisión de Mariana (ver su apartado).
 Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefour como marcas
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
