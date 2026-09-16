@@ -792,10 +792,11 @@ Platinum, `8436617752667` "Pastilhas para a máquina de loiça" (prefijo españo
 pastilla de lavavajillas y lo han pedido dos personas por separado. Vale la
 pena cubrir el tipo de producto, no solo esos dos códigos.
 
-**Patrón 2 · Francia, tercer producto.** `3560071172015` "Dentifrice fraîcheur",
-prefijo **3560071 = Carrefour Francia** (marca blanca). Con el nettoyant
-désinfectant y el Elmex, ya son tres de la misma usuaria. Marca nueva; prioridad
-media, pero es demanda real y constante.
+**Patrón 2 · Productos de un viaje a Francia.** `3560071172015` "Dentifrice
+fraîcheur", prefijo **3560071 = Carrefour Francia** (marca blanca). Con el
+nettoyant désinfectant y el Elmex son tres de la misma usuaria, que vive en
+España/Portugal y los trajo de viaje. Prioridad BAJA: cuando se le acaben,
+comprará aquí.
 
 **Patrón 3 · Suplementos deportivos, sin código.** "Prozis peanut butter" (2
 personas) y "My protein vegan unflavoured" (2). Los escribieron a mano, así que
@@ -830,16 +831,16 @@ cuerpo 400 ml** (3574661821252, 13 ingredientes, sin perfume), que es la "Répar
 Crème Multi-Usages" francesa. No se ha añadido porque no está en neutrogena.es; si aparece en
 Buscados, es un minuto.
 
-### 2026-09-15 · 4 escaneos en vacío — HAY USUARIA FUERA DE ESPAÑA
+### 2026-09-15 · 4 escaneos en vacío — tres son productos comprados en un viaje
 
 De la sección "Escaneos en vacío" del panel: productos que alguien escaneó y se
 guardaron sin ingredientes. Los cuatro tienen dígito de control válido y **ninguno
 está en el catálogo**. Lo que dicen en conjunto importa más que cada uno por
 separado: **tres de los cuatro son de fuera de España** — dos con nombre en
-francés y uno con prefijo suizo. La cola de marcas está montada para el súper
-español (Mercadona, Lidl, Alcampo, Eroski) y hay al menos una persona escaneando
-en otro país. No cambia la prioridad hoy, pero conviene saberlo antes de decidir
-la siguiente tanda de marcas.
+francés y uno con prefijo suizo. **Corrección de Mariana (16-09):** la app solo se
+vende en España y Portugal; esa usuaria no vive en Francia, viajó allí y trajo
+productos. Son compras puntuales, no demanda que vaya a repetirse: prioridad
+BAJA frente a lo que se compra aquí cada semana.
 
 Identificación por prefijo GS1, **sin confirmar en ninguna base** (la sesión que
 escribe esto no tiene salida a internet): hay que verificar producto a producto.
