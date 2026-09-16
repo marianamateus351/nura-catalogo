@@ -813,6 +813,19 @@ y su código: así el escáner lo encuentra por código y no solo por nombre. El
 que subió la usuaria pasa limpio por el detector (sin parabenos, fenoxietanol,
 perfume ni siloxanos cíclicos).
 
+**Resultado 2026-09-16 (versión 2026-09-16b): ENTRA, marca nueva Erborian, EAN 8809255788167.**
+- El prefijo no es francés: Erborian fabrica en Corea y todos sus códigos son `8809255…`
+  (los 8 de OBF también). El EAN lo da **Douglas España** (`/api/v2/products/1171943?fields=FULL`:
+  campos `ean`, `ingredients` y `variantCount`); Douglas confirma que es **un solo tono** (10 ml).
+- **Todas las webs de Erborian (es, fr, uk, it) están tras DataDome** con desafío interactivo
+  que Playwright no pasa; erborian.com internacional responde pero no tiene fichas. Sephora,
+  Primor, Druni, Notino, Promofarma, Atida y El Corte Inglés bloquean o no lo listan.
+- INCI: Douglas (traducido al español, con guiones, formato L'Occitane) e **incidecoder** (en
+  inglés) dan los **mismos 38 ingredientes**; solo cambian dos parejas adyacentes de orden
+  (Synthetic Fluorphlogopite/Lauryl PEG-8 Dimethicone y Propanediol/Triethoxycaprylylsilane).
+  Se guarda en inglés con el orden de Douglas, que es el del envase. Mariana: compara con la
+  aportación de la usuaria; si el tubo da el otro orden, se cambia en un minuto.
+
 **Sigue igual:** Cosmia (Alcampo) como marca, por nombre e INCI de alcampo.es,
 nunca por el código interno 20525101.
 
@@ -1049,6 +1062,15 @@ carrefour.fr (Datadome) y carrefour.es (Cloudflare) devuelven 403 a todo. La ún
 etiqueta: OBF tiene fotos por código y, en este caso, dos generaciones bajo el mismo EAN. Se
 cura código a código desde "Buscados" con la foto más reciente; no hay vía para recorrer la marca.
 
+### Erborian (L'Occitane) — abierta 2026-09-16: 1 producto, 1 código (pedido por una usuaria)
+Sin web utilizable: es.erborian.com, fr, uk e it son Salesforce Commerce Cloud tras **DataDome**
+(desafío interactivo `geo.captcha-delivery.com`, no pasa ni con Playwright). La vía que funciona
+es **Douglas**: `https://www.douglas.es/api/v2/products/<código>?fields=FULL` devuelve `ean`,
+`ingredients` (lista completa, en español y con guiones), `variantCount` y `variantOptions`;
+el código de producto se saca del buscador `douglas.es/es/search?q=…` (`"code":"1171943"`). La
+lista de Douglas se contrasta con incidecoder (inglés). Códigos `8809255…` (Corea), no `3760…`.
+Sirve para cualquier marca selectiva sin web accesible (Sephora y las webs de L'Occitane).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -1076,6 +1098,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Erborian | — (DataDome en todas las webs de la marca) | sí, en la API pública de Douglas (`ean`) | sí, en la misma API (`ingredients`, español), contrastada con incidecoder | ver su apartado |
 | Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | **no** (SKU interno) | sí, lista completa en la FAQ de la ficha | código del escaneo; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
 | Elmex | sí (`sitemap.xml`; 5 fichas ES, ~40 FR) | en `upc`/`data-ean` de algunas fichas FR; ninguna ES | sí, en `activeIngredients` por GraphQL (`/graphql/execute.json/astra/productpath;path=`), explicativa; el campo `ingredients` es un texto por defecto | ver su apartado |
@@ -1115,12 +1138,12 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-16)
-3485 códigos en 30 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3486 códigos en 31 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 **Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
-Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1**. Ninguno de los
-2152 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 1**. Ninguno de los
+2153 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
@@ -1130,6 +1153,7 @@ Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excep
 Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
 antigua y 8 están contradichas o repetidas entre aromas (ver su apartado).
 Pedidos del 15-09: 2 de 4 curados (Elmex, marca nueva); el Sanytol francés y el brownie, fuera.
+Erborian (aportación manual del 16-09): EAN encontrado en Douglas, marca abierta con 1 código.
 Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefour como marcas
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.

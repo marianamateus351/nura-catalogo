@@ -1,5 +1,5 @@
 {
- "version": "2026-09-16a",
+ "version": "2026-09-16b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20933,6 +20933,21 @@
       "3560071172015"
      ],
      "inci": "Calcium Carbonate, Aqua, Mentha Piperita Leaf Water, Sorbitol, Aloe Barbadensis Leaf Juice, Lauryl Glucoside, Cellulose Gum, Aroma, Xanthan Gum, Citric Acid, Sodium Fluoride, Sodium Citrate, Stevia Rebaudiana Extract, Glycerin, Potassium Sorbate, Sodium Benzoate, Camellia Sinensis Leaf Extract, Menthol, Mentha Piperita Oil, Anethole, Eucalyptus Globulus Oil, Limonene, Pinene, Beta-Caryophyllene"
+    }
+   ]
+  },
+  {
+   "key": "erborian",
+   "nombre": "Erborian",
+   "productos": [
+    {
+     "nombre": "Super BB Concealer 10 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809255788167"
+     ],
+     "inci": "Aqua/Water, CI 77891/Titanium Dioxide, Caprylic/Capric Triglyceride, Dimethicone, Titanium Dioxide, Hydrogenated Polyisobutene, Niacinamide, Glycerin, Synthetic Fluorphlogopite, Lauryl PEG-8 Dimethicone, Pentylene Glycol, Butylene Glycol, Phenyl Trimethicone, CI 77492/Iron Oxides, Panax Ginseng Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Dioscorea Villosa (Wild Yam) Root Extract, Kigelia Africana Fruit Extract, Equisetum Giganteum Extract, Saccharomyces/Panax Ginseng Flower Ferment Extract, Escin, Magnesium Sulfate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Sorbitan Isostearate, Aluminum Hydroxide, Propanediol, Triethoxycaprylylsilane, Stearic Acid, Alumina, Disteardimonium Hectorite, Caprylyl Glycol, Glyceryl Caprylate, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Biosaccharide Gum-1, Ethylhexylglycerin, CI 77491/Iron Oxides, CI 77499/Iron Oxides"
     }
    ]
   }
