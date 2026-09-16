@@ -804,6 +804,15 @@ no hay EAN. Las reglas de ingredientes ya cubren nutrición deportiva; lo que
 falta son los productos. Prozis y Myprotein publican la lista completa en su
 web. Decisión de Mariana si se abren como marca; apuntado como demanda.
 
+**Erborian · Super BB Concealer (aportación manual, sin código).** Una usuaria
+subió el INCI completo desde el tubo (formato L'Occitane, con guiones y
+`CI 77891/TITANIUM DIOXIDE`) y Mariana lo aprueba por nombre. Falta el EAN:
+buscarlo (erborian.com, Sephora, OBF; prefijo francés 3760…) y verificar el INCI
+contra la ficha oficial. Si cuadra, abrir **Erborian** como marca con esta ficha
+y su código: así el escáner lo encuentra por código y no solo por nombre. El INCI
+que subió la usuaria pasa limpio por el detector (sin parabenos, fenoxietanol,
+perfume ni siloxanos cíclicos).
+
 **Sigue igual:** Cosmia (Alcampo) como marca, por nombre e INCI de alcampo.es,
 nunca por el código interno 20525101.
 
