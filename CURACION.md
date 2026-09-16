@@ -1062,7 +1062,7 @@ carrefour.fr (Datadome) y carrefour.es (Cloudflare) devuelven 403 a todo. La ún
 etiqueta: OBF tiene fotos por código y, en este caso, dos generaciones bajo el mismo EAN. Se
 cura código a código desde "Buscados" con la foto más reciente; no hay vía para recorrer la marca.
 
-### Erborian (L'Occitane) — abierta 2026-09-16: 18 productos, 30 códigos (vía farmacias) (pedido por una usuaria)
+### Erborian (L'Occitane) — cerrada 2026-09-16: 18 productos, 30 códigos (vía farmacias) (pedido por una usuaria)
 Sin web utilizable: es.erborian.com, fr, uk e it son Salesforce Commerce Cloud tras **DataDome**
 (desafío interactivo `geo.captcha-delivery.com`, no pasa ni con Playwright). La vía que funciona
 es **Douglas**: `https://www.douglas.es/api/v2/products/<código>?fields=FULL` devuelve `ean`,
@@ -1119,6 +1119,9 @@ por las farmacias y ahí estaba la gama entera:
   Serum, Water Shot Mask (sin INCI en la ficha), kits y neceseres (`3253581…`, varios productos).
 Scripts: `erb/ph_urls.json` (URL+EAN de las dos farmacias), `erb/ph/` (fichas), `erb/ic/`
 (incidecoder), `erb/nautic_final.json`, `erborian_merged.json`.
+**Cerrada por Mariana el 2026-09-16 tal cual**: entran los tonos hermanos (concealer, CC Eye
+Doré, CC Water) con la lista del tono confirmado, y la BB Crème Beige de viaje con la lista de
+Douglas; los 15 de Nautic sin segunda fuente, fuera.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
