@@ -769,6 +769,47 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-16 · Huecos de marcas que YA tenemos + dos patrones nuevos
+
+Salen del panel de datos de la app (recuento de rutinas + escaneos en vacío), ya
+cruzado con las aportaciones aprobadas a mano: lo que Mariana ya resolvió por
+nombre (crema de pies de Cien, sérum de camomila Deliplus) NO está aquí.
+Identificación **solo por prefijo GS1 y por lo que ya hay en el catálogo**; esta
+sesión no tiene salida a internet: verificar producto a producto.
+
+**Primero los tres huecos de marcas hechas.** No son marcas nuevas: son fichas o
+códigos que faltan dentro de marcas ya curadas. Es lo más barato de la lista.
+
+| Código | Pista | Qué hacer |
+|---|---|---|
+| 8718951735163 | "Saner zero" (mal leído) · prefijo **8718951 = Colgate-Palmolive**, el de los 14 códigos de Sanex | **Sanex Zero%.** Ya está curado el *Desodorante roll-on Zero% sin aluminio* (8718951246874). Esto es otro formato de la gama: gel de ducha Zero% o el desodorante en otro tamaño/variante. Si el INCI coincide con una ficha que ya tenemos, es añadir el código; si no, ficha nueva |
+| 3574661177229 | "intense repair" · prefijo **3574661 = Neutrogena** | **Fórmula Noruega Reparación Intensa** en envase en inglés. Ya hay tres fichas de la gama: Bálsamo Cica (3574661032436), Crema de Pies Talones Agrietados (3574661255903), Loción Corporal Cica (3574660533408). Casi seguro es una de ellas en otro formato: identificar cuál y añadir el código |
+| 8700216234955 | "Fairy Platinum Quick Wash" · prefijo **8700216 = Fairy** (ya tenemos 8700216460781 y 8700216601146) | **Lavavajillas a MÁQUINA**, gama nueva: las 6 fichas de Fairy son todas a mano. Método de PRODUCTOS DE LIMPIEZA (Reglamento 648/2004 Anexo VII, no hay INCI completo por ley) |
+
+**Patrón 1 · Pastillas de lavavajillas, dos usuarias distintas.** Además del Fairy
+Platinum, `8436617752667` "Pastilhas para a máquina de loiça" (prefijo español
+8436617, empresa sin identificar, etiqueta en portugués). No tenemos NINGUNA
+pastilla de lavavajillas y lo han pedido dos personas por separado. Vale la
+pena cubrir el tipo de producto, no solo esos dos códigos.
+
+**Patrón 2 · Francia, tercer producto.** `3560071172015` "Dentifrice fraîcheur",
+prefijo **3560071 = Carrefour Francia** (marca blanca). Con el nettoyant
+désinfectant y el Elmex, ya son tres de la misma usuaria. Marca nueva; prioridad
+media, pero es demanda real y constante.
+
+**Patrón 3 · Suplementos deportivos, sin código.** "Prozis peanut butter" (2
+personas) y "My protein vegan unflavoured" (2). Los escribieron a mano, así que
+no hay EAN. Las reglas de ingredientes ya cubren nutrición deportiva; lo que
+falta son los productos. Prozis y Myprotein publican la lista completa en su
+web. Decisión de Mariana si se abren como marca; apuntado como demanda.
+
+**Sigue igual:** Cosmia (Alcampo) como marca, por nombre e INCI de alcampo.es,
+nunca por el código interno 20525101.
+
+**NO curar sin que Mariana lo decida:** `91598271` VICKS VapoRub es un
+**medicamento**, no un cosmético (sin INCI, fuera del reglamento cosmético). Está
+abierto si Nura analiza medicamentos o los deja fuera.
+
 ### 2026-09-15 · 4 escaneos en vacío — HAY USUARIA FUERA DE ESPAÑA
 
 De la sección "Escaneos en vacío" del panel: productos que alguien escaneó y se
