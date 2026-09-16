@@ -1,5 +1,5 @@
 {
- "version": "2026-09-16c",
+ "version": "2026-09-16d",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20941,6 +20941,15 @@
    "nombre": "Erborian",
    "productos": [
     {
+     "nombre": "BB Crème au Ginseng Beige (tamaño viaje 15 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809255786460"
+     ],
+     "inci": "Aqua/Water, Dimethicone, CI 77492/Iron Oxides, Caprylic/Capric Triglyceride, Glycerin, Ethylhexyl Salicylate, Butyloctyl Salicylate, Titanium Dioxide, CI 77491/Iron Oxides, Hexyl Laurate, Disiloxane, Zinc Oxide, CI 77499/Iron Oxides, PEG-10 Dimethicone, Disteardimonium Hectorite, Betaine, Butylene Glycol, Pentylene Glycol, Magnesium Sulfate, CI 77891/Titanium Dioxide, Panax Ginseng Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Kigelia Africana Fruit Extract, Dioscorea Villosa (Wild Yam) Root Extract, Equisetum Giganteum Extract, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone/Vinyl Dimethicone Crosspolymer, Triethoxycaprylylsilane, Synthetic Fluorphlogopite, Stearic Acid, Alumina, Glyceryl Caprylate, Palmitic Acid, Caprylyl Glycol, Aluminum Hydroxide, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Tin Oxide, Alcohol, Ethylhexylglycerin, Parfum/Fragrance, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Linalool, Citronellol, Geraniol"
+    },
+    {
      "nombre": "Skin Therapy Eye Contorno de Ojos 15 ml",
      "include": [],
      "exclude": [],
@@ -20948,6 +20957,16 @@
       "8809255788358"
      ],
      "inci": "Aqua/Water, Butylene Glycol, Glycerin, Niacinamide, Butyrospermum Parkii (Shea) Butter, 1,2-Hexanediol, Octyldodecanol, Squalane, Isostearyl Neopentanoate, Cetearyl Alcohol, Propanediol, Palmitic Acid, Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Dioscorea Villosa (Wild Yam) Root Extract, Acmella Oleracea Extract, Phyllostachys Bambusoides Extract, Citrus Junos Fruit Extract, Capsicum Annuum Fruit Extract, Centella Asiatica Leaf Extract, Equisetum Giganteum Extract, Panax Ginseng Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Kigelia Africana Fruit Extract, Oryza Sativa (Rice) Bran Wax, Glycine Soja (Soybean) Oil, Phyllostachys Bambusoides Juice, Lactobacillus Ferment, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Dicaprylyl Carbonate, Stearic Acid, PEG-100 Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Lactic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Glyceryl Stearate, Silica, Caffeine, Arginine, Cellulose, Mica, Isoniacinamide, Sodium Hyaluronate, Magnesium Aluminum Silicate, Escin, Panthenol, Tocopherol, Cyclodextrin, Hydroxypropyl Cyclodextrin, Pentylene Glycol, Adenosine, Caprylyl Glycol, Palmitoyl Tetrapeptide-7, Chrysin, CI 77891/Titanium Dioxide"
+    },
+    {
+     "nombre": "Skin Therapy Sérum Hidratante Light (10 y 30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809255788402",
+      "8809255788464"
+     ],
+     "inci": "Aqua/Water, Gluconolactone, Squalane, Dicaprylyl Carbonate, Butylene Glycol, Pentylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Hydroxide, Zinc PCA, Phyllostachys Bambusoides Juice, Ophiopogon Japonicus Root Extract, Phyllostachys Bambusoides Extract, Polygonatum Officinale Rhizome/Root Extract, Panax Ginseng Root Extract, Scrophularia Nodosa Extract, Capsicum Annuum Fruit Extract, Citrus Junos Fruit Extract, Centella Asiatica Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Centella Asiatica Extract, Kigelia Africana Fruit Extract, Dioscorea Villosa (Wild Yam) Root Extract, Equisetum Giganteum Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Chamomilla Recutita (Matricaria) Flower Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Sodium Hyaluronate, Allantoin, Lactobacillus Ferment, PEG-60 Hydrogenated Castor Oil, Ceteareth-20, 1,2-Hexanediol, Glyceryl Caprylate, Beta-Glucan, Caprylyl Glycol, Tocopherol, Parfum/Fragrance, Alpha-Isomethyl Ionone, Linalool, Citronellol, Ethylhexylglycerin, Hexyl Cinnamal"
     },
     {
      "nombre": "Super BB Concealer 10 ml",
