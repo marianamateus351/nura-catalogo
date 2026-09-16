@@ -1123,6 +1123,38 @@ Scripts: `erb/ph_urls.json` (URL+EAN de las dos farmacias), `erb/ph/` (fichas), 
 Doré, CC Water) con la lista del tono confirmado, y la BB Crème Beige de viaje con la lista de
 Douglas; los 15 de Nautic sin segunda fuente, fuera.
 
+### Kérastase (L'Oréal Professionnel) — cerrada 2026-09-16: 47 productos, 59 códigos (de 165 en Douglas)
+**Sin web utilizable**: kerastase.es, .fr, .co.uk y .it están tras el Cloudflare interactivo
+("Un momento…", no lo pasa Playwright ni con varias cargas); kerastase.com (EE. UU.) sirve el
+sitemap pero las fichas dan 403; kerastase.pt da 500. Misma vía que Erborian: **Douglas + incidecoder**.
+- Douglas: el buscador `douglas.es/es/search?q=kerastase&page=N` (páginas desde 1; la 0 y la 1
+  son la misma; 132 resultados, 3 páginas) da en el JSON de cada tile la URL del producto base
+  (`/es/p/<10 dígitos>`); `/api/v2/products/<base>?fields=FULL` lista las variantes en
+  `variantOptions` y `/api/v2/products/<variante>` da `ean`, `name` (tamaño), `baseProductName`
+  e `ingredients`. 148 productos base, 254 variantes, **165 de Kérastase** (el buscador mezcla
+  IT Cosmetics, Lancôme y sets de Douglas `4045129…`).
+- La lista de Douglas viene del feed de L'Oréal con sus manías: separadores `•`/`●`/comas,
+  prefijo `1199765 M - INGREDIENTS:`, códigos F.I.L. al final (`C240231/1`), "Aqua/Water/Eau",
+  erratas ("Phenoxyethaol", "Helanthus") y, en 27 fichas, texto descriptivo en español en vez de
+  la lista. Se compara con incidecoder (191 fichas de la marca, listado por `?offset=N`)
+  **tolerando esos artefactos** (tokens partidos, erratas con similitud ≥ 0,9, alérgenos que a
+  incidecoder le faltan) y se guarda la lista limpia de incidecoder.
+- Resultado: 67 variantes con lista idéntica en las dos fuentes. Fuera de esas: 3 sets/estuches,
+  y **3 copias de Douglas detectadas por el contraste**: "Le Parfum" 30 ml con la lista del
+  champú Hydra-Glaze, "Masque Densité" con la lista del champú Bain Densité, y los 6 códigos de
+  Chroma Respect con una sola lista (la del Bain Riche) para el Bain y el Bain Riche, que en
+  incidecoder son fórmulas distintas: no se puede asignar y no entran. Douglas también copia,
+  aunque menos que Nautic.
+- **57 variantes con lista distinta de incidecoder** (Bain Force Architecte, Baño Regenerador,
+  Curl Manifesto Gelée/Huile/Masque, Scalp & Hair Serum, Oléo-Relax, Cicagloss, L'Huile
+  Originale…): incidecoder va por detrás (fórmulas antiguas con parabenos y Lilial) o no tiene
+  el producto. Con la regla de "solo lo confirmado" no entran; sus códigos están en
+  `ks/dg_match2.json`. Otras 41 no traen lista en Douglas.
+- Nombres: gama + nombre francés del producto + tipo en español + tamaños; los tamaños con la
+  misma lista van juntos (250, 500 y recambio). Códigos `3474636…`/`3474637…`/`3474630…`.
+Scripts: `ks/dg_base.txt`, `ks/dgb/` y `ks/dg/` (API de Douglas), `ks/ic/` (incidecoder),
+`ks/dg_match2.json` (contraste), `kerastase_merged.json`.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -1150,6 +1182,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
+| Kérastase | — (Cloudflare interactivo en .es/.fr/.uk/.it) | sí, en la API de Douglas (`ean` por variante) | sí en la API de Douglas (`ingredients`, con artefactos del feed de L'Oréal), contrastada con incidecoder | ver su apartado |
 | Erborian | — (DataDome en todas las webs de la marca) | sí: **EAN en la URL** de farmaelglobo y farmacianautic (69 códigos) y en la API de Douglas | sí en farmacianautic (`INCI`) y Douglas, pero Nautic copia listas entre fichas: solo con incidecoder/Douglas idéntico | ver su apartado |
 | Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | **no** (SKU interno) | sí, lista completa en la FAQ de la ficha | código del escaneo; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
@@ -1190,12 +1223,12 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-16)
-3515 códigos en 31 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3574 códigos en 32 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
+**Kérastase 59** · Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 **Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 30**. Ninguno de los
-2170 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+2217 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
@@ -1209,4 +1242,5 @@ Erborian (aportación manual del 16-09): EAN encontrado en Douglas, 30 códigos 
 Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefour como marcas
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
-Siguientes de la cola: Kérastase, Redken y Cosmia (Alcampo).
+Kérastase cerrada con 59 códigos vía Douglas + incidecoder (ver su apartado).
+Siguientes de la cola: Redken y Cosmia (Alcampo).

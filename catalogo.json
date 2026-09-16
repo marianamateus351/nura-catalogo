@@ -1,5 +1,5 @@
 {
- "version": "2026-09-16e",
+ "version": "2026-09-16f",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21113,6 +21113,447 @@
       "8809255788198"
      ],
      "inci": "Aqua/Water, CI 77891/Titanium Dioxide, Caprylic/Capric Triglyceride, Dimethicone, Titanium Dioxide, Hydrogenated Polyisobutene, Niacinamide, Glycerin, Synthetic Fluorphlogopite, Lauryl PEG-8 Dimethicone, Pentylene Glycol, Butylene Glycol, Phenyl Trimethicone, CI 77492/Iron Oxides, Panax Ginseng Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Dioscorea Villosa (Wild Yam) Root Extract, Kigelia Africana Fruit Extract, Equisetum Giganteum Extract, Saccharomyces/Panax Ginseng Flower Ferment Extract, Escin, Magnesium Sulfate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Sorbitan Isostearate, Aluminum Hydroxide, Propanediol, Triethoxycaprylylsilane, Stearic Acid, Alumina, Disteardimonium Hectorite, Caprylyl Glycol, Glyceryl Caprylate, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Biosaccharide Gum-1, Ethylhexylglycerin, CI 77491/Iron Oxides, CI 77499/Iron Oxides"
+    }
+   ]
+  },
+  {
+   "key": "kerastase",
+   "nombre": "Kérastase",
+   "productos": [
+    {
+     "nombre": "Blond Absolu Bain Lumière Champú (250 ml, 500 ml recambio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636692170",
+      "3474636881260",
+      "3474637079192"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Glycerin, Coco-Betaine, Sodium Chloride, Cocamide MIPA, Citric Acid, Sodium Benzoate, Sodium Hydroxide, Hexylene Glycol, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Salicylic Acid, Limonene, Tocopherol, Leontopodium Alpinum Flower/Leaf Extract, Sodium Hyaluronate, Malva Sylvestris Flower Extract/Mallow Flower Extract, Potassium Sorbate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Blond Absolu Masque Cicaextrême (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636948529"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Amodimethicone, Hydroxypropyl Starch Phosphate, Isopropyl Myristate, Behentrimonium Chloride, Phenoxyethanol, Trideceth-5, Isopropyl Alcohol, Trideceth-6, Glycerin, Caprylyl Glycol, Trideceth-10, Limonene, Cetrimonium Chloride, Sodium Hyaluronate, Acetic Acid, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Tocopherol, Leontopodium Alpinum Flower/Leaf Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Chroma Absolu Fondant Cica Chroma Acondicionador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637059187"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Dimethicone, Cetyl Esters, Sodium Benzoate, Isopropyl Alcohol, Arginine, Citric Acid, Amodimethicone, Trideceth-10, Tartaric Acid, Chlorhexidine Digluconate, PEG-100 Stearate, Steareth-6, Phenoxyethanol, Linalool, Trideceth 3, Limonene, Sodium Hyaluronate, Centella Asiatica Extract, Lactic Acid, Acetic Acid, Trisodium Hedta, CI 17200/Red 33, CI 19140/Yellow 5, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Chroma Absolu Masque Chroma Filler (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637059132"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Isopropyl Alcohol, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Trideceth-6, Phenoxyethanol, Arginine, Citric Acid, Cetrimonium Chloride, Chlorhexidine Dihydrochloride, Linalool, Limonene, Sodium Hyaluronate, Centella Asiatica Extract, Lactic Acid, CI 17200/Red 33, CI 19140/Yellow 5, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Chroma Absolu Soin Acide Chroma Gloss (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637059101"
+     ],
+     "inci": "Alcohol Denat, Propylene Glycol, Aqua/Water, Caprylic/Capric Triglyceride, Myristyl Alcohol, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Parfum/Fragrance, Lactic Acid, PEG-14 Dimethicone, PPG-10 Methyl Glucose Ether, Di-C12-13 Alkyl Malate, Tocopherol, Tartaric Acid, Linalool, Limonene, Geraniol, Centella Asiatica Extract, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Chroma Absolu Sérum Chroma Thermique (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637059057"
+     ],
+     "inci": "Aqua/Water, Amodimethicone, PEG-40 Hydrogenated Castor Oil, Trideceth-5, Polyquaternium-37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Glycerin, Tocopherol, Arginine, Phenyl Trimethicone, Trideceth-10, Lactic Acid, PPG-1 Trideceth-6, Chlorhexidine Digluconate, Sorbitan Oleate, Acetic Acid, Quaternium-87, Sodium Hyaluronate, Centella Asiatica Extract, Tartaric Acid, Linalool, Propylene Glycol, Limonene, Geraniol, Hydroxycitronellal, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Chronologiste Masque Intense Régénérant (75 ml, 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637332365",
+      "3474637332457"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Isopropyl Alcohol, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Trideceth-6, Bisabolol, Caprylyl Glycol, Benzoic Acid, Tocopherol, Cetrimonium Chloride, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Limonene, Butylene Glycol, Sodium Hydroxide, Citronellol, Farnesol, 2-Oleamido-1, 3-Octadecanediol, Geraniol, Sodium Hyaluronate, Safflower Glucoside, Hydroxycitronellal, Octyldodecanol, Lecithin, Phenethyl Alcohol, Polycaprolactone, Phenoxyethanol, Poloxamer 188, Ceramide NP, Hydroxypalmitoyl Sphinganine, Alteromonas Ferment Extract, BHT, Sodium Citrate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Chronologiste Sérum Universel (40 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636728329"
+     ],
+     "inci": "Aqua/Water, Glycerin, Propanediol, Prunus Armeniaca Kernel Oil/Apricot Kernel Oil, Argania Spinosa Kernel Oil, Pentylene Glycol, Alcohol Denat, 1,2-Hexanediol, Phenoxyethanol, Hydroxyethylpiperazine Ethane Sulfonic Acid, Xanthan Gum, Sodium Hyaluronate, Hydroxyethylcellulose, Carrageenan, Algin, CI 77499/Iron Oxides, Mica, Benzyl Salicylate, Hexyl Cinnamal, Sodium Hydroxide, Benzyl Alcohol, Calcium Sodium Borosilicate, Limonene, CI 77891/Titanium Dioxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Lauryl Sulfate, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Citronellol, Geraniol, Bisabolol, Hydroxycitronellal, Tocopherol, Coumarin, Butylene Glycol, Beta-Sitosterol, Linalool, Squalene, Tin Oxide, Alteromonas Ferment Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Curl Manifesto Bain Hydratation Douceur Champú (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636968688"
+     ],
+     "inci": "Aqua/Water, Sodium C14-16 Olefin Sulfonate, Glycerin, Cocamide MEA, Cocamidopropyl Betaine, Glycol Distearate, Sodium Chloride, Sodium Lauroyl Sarcosinate, Hexylene Glycol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Coco-Betaine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Salicylic Acid, Carbomer, Benzyl Salicylate, Benzoic Acid, Linalool, Polyquaternium-7, Benzyl Alcohol, Mel Extract/Honey Extract, 2-Oleamido-1, 3-Octadecanediol, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Curl Manifesto Crème de Jour Fondamentale (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636968756"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Hydroxypropyl Guar, Stearamidopropyl Dimethylamine, Cetyl Esters, Caprylyl Glycol, Glyceryl Stearate, Salicylic Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Tartaric Acid, Mel Extract/Honey Extract, 2-Oleamido-1, 3-Octadecanediol, Citric Acid, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Discipline Bain Fluidealiste Champú (500 ml, 250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636295463",
+      "3474636400188",
+      "3474636739578"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Coco-Betaine, Glycerin, Glycol Distearate, Sodium Chloride, Amodimethicone, PPG-5-Ceteth-20, Dimethicone, Sodium Benzoate, Polyquaternium-6, Salicylic Acid, Carbomer, Arginine, Glutamic Acid, Benzyl Salicylate, Trideceth-6, Serine, Benzyl Alcohol, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, 2-Oleamido-1, 3-Octadecanediol, Cetrimonium Chloride, Linalool, Alpha-Isomethyl Ionone, Sodium Hydroxide, Citric Acid, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Fusio-Scrub Énergisant (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636757039"
+     ],
+     "inci": "Sodium Chloride, Aqua/Water, Sodium Laureth Sulfate, Maris Sal/Sea Salt/Sel Marin, Cocamide MIPA, PEG-100 Stearate, Glyceryl Stearate, Parfum/Fragrance, Sodium Hydroxide, Citric Acid, Menthol, Salicylic Acid, Pyridoxine Hcl, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Linalool"
+    },
+    {
+     "nombre": "Genesis Bain Hydra-Fortifiant Champú (500 ml recambio, 250 ml, 500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636857814",
+      "3474636980291",
+      "3474637079208"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Citric Acid, Cocamidopropyl Betaine, Sodium Hydroxide, Propylene Glycol, Sodium Chloride, Sodium Benzoate, Hexylene Glycol, Polyquaternium-10, Salicylic Acid, Limonene, Linalool, Glycerin, Benzyl Salicylate, Coumarin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Xylitylglucoside, Anhydroxylitol, Leontopodium Alpinum Callus Culture Extract, Xylitol, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Genesis Bain Nutri-Fortifiant Champú (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637079215"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Carbomer, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Glycerin, Salicylic Acid, Limonene, Glycol Distearate, Mica, PEG-100 Stearate, Linalool, Steareth-6, Phenoxyethanol, Coco-Betaine, Trideceth 3, CI 77891/Titanium Dioxide, Benzyl Salicylate, Coumarin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Acetic Acid, Fumaric Acid, Xylitylglucoside, Anhydroxylitol, Leontopodium Alpinum Callus Culture Extract, Xylitol, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Genesis Défense Thermique Protector Térmico (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636857975"
+     ],
+     "inci": "Aqua/Water, Cocos Nucifera Oil/Coconut Oil, Amodimethicone, Polyquaternium - 37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Xylitylglucoside, Sodium Hydroxide, Anhydroxylitol, Xylitol, Dimethicone PEG-7 Phosphate, PPG-1 Trideceth-6, Trideceth-6, Behentrimonium Chloride, Limonene, Xylose, Ethylhexylglycerin, Sorbitan Oleate, Linalool, Isopropyl Alcohol, Cetrimonium Chloride, Glycerin, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Benzyl Salicylate, Coumarin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Benzyl Benzoate, Leontopodium Alpinum Callus Culture Extract, Potassium Sorbate, Tocopherol, Citric Acid, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Genesis Fondant Renforçateur Acondicionador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636857883"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Glycerin, Glycine Soja Oil/Soybean Oil, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Coco-Caprylate/Caprate, Cetyl Esters, Tartaric Acid, Caprylyl Glycol, Salicylic Acid, Limonene, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Linalool, Benzyl Salicylate, Coumarin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Xylitylglucoside, Anhydroxylitol, Leontopodium Alpinum Callus Culture Extract, Xylitol, Citric Acid, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Genesis Sérum Anti-Chute Fortifiant (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636858002"
+     ],
+     "inci": "Aqua/Water, Alcohol Denat, Diaminopyrimidine Oxide, Ammonium Polyacryloyldimethyl Taurate, Aminomethyl Propanol, Citric Acid, PEG-40 Hydrogenated Castor Oil, Piroctone Olamine, Caffeine, Arginine, Limonene, Niacinamide, Pyridoxine Hcl, Linalool, Safflower Glucoside, Benzyl Salicylate, Coumarin, Citral, Benzyl Alcohol, Xylitylglucoside, Citronellol, Benzyl Benzoate, Anhydroxylitol, Xylitol, Zingiber Officinale Root Extract/Ginger Root Extract, Resveratrol, Tocopherol, Sodium Citrate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Gloss Absolu Anti-Frizz Glaze Milk (190 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637283445"
+     ],
+     "inci": "Aqua/Water, Cocos Nucifera Oil/Coconut Oil, Amodimethicone, Polyquaternium-37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Sodium Hydroxide, Limonene, Dimethicone PEG-7 Phosphate, PPG-1 Trideceth-6, Trideceth-6, Behentrimonium Chloride, Xylose, Ethylhexylglycerin, Acrylates/Stearyl Methacrylate Copolymer, Linalool, Sorbitan Oleate, Isopropyl Alcohol, Citronellol, Cetrimonium Chloride, Sodium Hyaluronate, Citric Acid, Caprylic/Capric Triglyceride, Lactic Acid, Glycolic Acid, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Citral, EDTA, Coumarin, Tocopherol, Rosa Canina Flower Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Gloss Absolu Bain Hydra-Glaze Champú (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637283384"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Lactic Acid, Arginine, Salicylic Acid, Sodium Hydroxide, Triethyl Citrate, Parfum/Fragrance, Cocamidopropyl Hydroxysultaine, Decyl Glucoside, Sodium Chloride, Sodium Benzoate, Limonene, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Brassicamidopropyl Dimethylamine, Glyceryl Oleate, Citric Acid, Linalool, Citronellol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Citral, Glycolic Acid, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Lecithin, Tocopherol, Ascorbyl Palmitate, Hydrogenated Palm Glycerides Citrate, Rosa Canina Flower Extract"
+    },
+    {
+     "nombre": "Gloss Absolu Fondant Insta Glaze Acondicionador (250 ml, 75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637283421",
+      "3474637283469"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Parfum/Fragrance, Isopropyl Alcohol, Sodium Chloride, Phenoxyethanol, Hydroxypropyl Guar, Ethanolamine, Polyquaternium-37, Limonene, Caprylyl Glycol, Propylene Glycol Dicaprylate/Dicaprate, Cocos Nucifera Oil/Coconut Oil, Trideceth-6, PPG-1 Trideceth-6, Linalool, Citronellol, Cetrimonium Chloride, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Lactic Acid, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Glycolic Acid, Citric Acid, EDTA, Rosa Canina Flower Extract"
+    },
+    {
+     "nombre": "Gloss Absolu Glaze Drops Aceite (45 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637285012"
+     ],
+     "inci": "Isododecane, Dimethicone, C11-13 Isoalkane, Caprylic/Capric Triglyceride, Dimethiconol, Amodimethicone, Parfum/Fragrance, Limonene, Hexyl Cinnamal, Linalool, Citronellol, Alpha-Isomethyl Ionone, Coumarin, Citral, Rosa Canina Flower Extract"
+    },
+    {
+     "nombre": "Gloss Absolu Masque Crème Hydra-Glaze (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637314316"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Isopropyl Myristate, Cetyl Esters, Amodimethicone, Phenoxyethanol, Isopropyl Alcohol, Carvone, Limonene, Glycolic Acid, Citrus Limon Peel Oil, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Coco-Betaine, Citrus Aurantium Peel Oil, Linalyl Acetate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Sodium Hydroxide, Pinene, Citronellol, Sodium Chloride, Hexyl Cinnamal, Rosa Canina Flower Extract, Citric Acid, CI 19140/Yellow 5, CI 14700/Red 4, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive 8H Magic Night Serum (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155025"
+     ],
+     "inci": "Aqua/Water, Dimethicone, C13-16 Isoalkane, Niacinamide, Glycerin, Polyacrylamide, Phenoxyethanol, C13-14 Isoalkane, Laureth-7, Panthenol, Ascorbyl Glucoside, Butylene Glycol, Linalool, Hydroxycitronellal, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Citronellol, Hydrolyzed Wheat Protein, Alpha-Isomethyl Ionone, Coumarin, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Limonene, Iris Florentina Root Extract, Citric Acid, CI 19140/Yellow 5, CI 14700/Red 4, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Bain Satin Riche Champú (500 ml, 500 ml recambio, 250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637154943",
+      "3474637154950",
+      "3474637231828"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Glycerin, Glycol Distearate, Dimethicone, Sodium Chloride, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Hexylene Glycol, Citric Acid, Stearamidopropyl Dimethylamine, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Coco-Betaine, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Salicylic Acid, Carbomer, Panthenol, Niacinamide, Ascorbyl Glucoside, Butylene Glycol, Linalool, PEG-100 Stearate, Steareth-6, Limonene, Trideceth 3, Phenoxyethanol, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Fumaric Acid, Acetic Acid, Iris Florentina Root Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Lait Vital Acondicionador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637154981"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Behentrimonium Chloride, Phenoxyethanol, Ceteareth-33, Hydroxypropyl Guar, Octyldodecanol, Cetrimonium Chloride, Isopropyl Alcohol, Amodimethicone, Sodium PCA, Panthenol, Niacinamide, Ascorbyl Glucoside, Butylene Glycol, Linalool, Benzyl Alcohol, Hydroxycitronellal, Hexyl Cinnamal, Citronellol, Trideceth-6, Coumarin, Alpha-Isomethyl Ionone, Geraniol, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Iris Florentina Root Extract, Citric Acid, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Lotion Thermique Sublimatrice (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155049"
+     ],
+     "inci": "Aqua/Water, Niacinamide, Polyquaternium-37, Propylene Glycol Dicaprylate/Dicaprate, Citric Acid, Polysorbate 20, Quaternium-87, Stearyl Alcohol, Glycine Soja Oil/Soybean Oil, Sodium Benzoate, Caprylyl Glycol, Behentrimonium Chloride, PPG-1 Trideceth-6, Panthenol, Ascorbyl Glucoside, Butylene Glycol, Candelilla Cera/Candelilla Wax/Cire De Candelilla, Propylene Glycol, Linalool, Hydroxycitronellal, Isopropyl Alcohol, Sorbitan Oleate, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Polyquaternium-11, Citronellol, Hydrolyzed Wheat Protein, Alpha-Isomethyl Ionone, Coumarin, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Limonene, Iris Florentina Root Extract, Phenoxyethanol, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Masquintense Cabello Fino a Medio (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637154967"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Amodimethicone, Cetrimonium Chloride, Phenoxyethanol, Isopropyl Alcohol, Sodium Laureth Sulfate, Niacinamide, Lactic Acid, Butylene Glycol, Linalool, Benzyl Alcohol, Hydroxycitronellal, Hexyl Cinnamal, Citronellol, Coumarin, Alpha-Isomethyl Ionone, Geraniol, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Iris Florentina Root Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Masquintense Riche (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155001"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Behentrimonium Methosulfate, Amodimethicone, Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate, Behentrimonium Chloride, Lauryl Laurate, Butylene Glycol, Caprylic/Capric Triglyceride, Hydroxypropyl Starch Phosphate, Aminopropyl Dimethicone, Phenoxyethanol, Isododecane, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Isopropyl Alcohol, PVP, Trideceth-6, Zea Mays Germ Oil/Corn Germ Oil, Niacinamide, Citric Acid, Cetrimonium Chloride, Linalool, Benzyl Alcohol, Hydroxycitronellal, Hexyl Cinnamal, Citronellol, Coumarin, Alpha-Isomethyl Ionone, Geraniol, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Iris Florentina Root Extract, Tocopherol, CI 19140/Yellow 5, CI 15985/Yellow 6, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Nectar Thermique Protector Térmico (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155063"
+     ],
+     "inci": "Aqua/Water, C13-16 Isoalkane, Propylene Glycol, Dimethicone, Triethanolamine, Phenoxyethanol, PEG/PPG-17/18 Dimethicone, Carbomer, Potato Starch Modified, Behentrimonium Chloride, Hydroxypropyl Guar, Caprylyl Glycol, Polyquaternium-4, Amodimethicone, Panthenol, Niacinamide, Ascorbyl Glucoside, Butylene Glycol, Isopropyl Alcohol, Linalool, Hydroxycitronellal, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Citronellol, Trideceth-6, Hydrolyzed Wheat Protein, Alpha-Isomethyl Ionone, Coumarin, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Limonene, Iris Florentina Root Extract, Cetrimonium Chloride, Citric Acid, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Nutri-Supplement Scalp Serum (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155209"
+     ],
+     "inci": "Aqua/Water, Glycerin, Citric Acid, Polyquaternium-37, Paraffinum Liquidum/Mineral Oil, Amodimethicone, Phenoxyethanol, Polysorbate 20, Quaternium-87, Stearyl Alcohol, Behentrimonium Chloride, Panthenol, Niacinamide, Ascorbyl Glucoside, Butylene Glycol, Propylene Glycol, Candelilla Cera/Candelilla Wax, PPG-1 Trideceth-6, Chlorhexidine Digluconate, Isopropyl Alcohol, Trideceth-6, Acrylates Copolymer, Sorbitan Oleate, Polyquaternium-11, Linalool, Hydrolyzed Wheat Protein, 2-Oleamido-1, 3-Octadecanediol, Hydroxycitronellal, Benzyl Salicylate, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Cetrimonium Chloride, Benzyl Alcohol, Hexyl Cinnamal, Citronellol, Iris Florentina Root Extract, Alpha-Isomethyl Ionone, Coumarin, Limonene, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Nutritive Nutri-Supplement Split Ends Serum (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637155032"
+     ],
+     "inci": "Isododecane, Dimethicone, Dimethiconol, Tocopherol, Glyceryl Linoleate, Zea Mays Germ Oil/Corn Germ Oil, Glyceryl Oleate, Linalool, Hydroxycitronellal, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Glyceryl Linolenate, Coumarin, Limonene, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Première Bain Décalcifiant Réparateur Champú (500 ml recambio, 250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637195809",
+      "3474637231279"
+     ],
+     "inci": "Aqua/Water, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycol Distearate, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Glycerin, Parfum/Fragrance, PPG-5-Ceteth-20, Decyl Glucoside, Cocamidopropyl Betaine, Coco-Betaine, Citric Acid, Divinyldimethicone/Dimethicone Copolymer, Amodimethicone, Sodium Hydroxide, Polyquaternium-7, Polyquaternium-10, Carbomer, Sodium Benzoate, Sodium Chloride, Limonene, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Salicylic Acid, Benzoic Acid, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Glycine, Polysorbate 21, Trideceth-6, Linalool, C12-13 Alketh-23, C12-13 Alketh-3, Citral, Cetrimonium Chloride, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Première Concentré Décalcifiant Ultra-Réparateur (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637196684"
+     ],
+     "inci": "Aqua/Water, Glycerin, Propylene Glycol, Glycine, Citric Acid, PEG-40 Hydrogenated Castor Oil, Sodium Hydroxide, Parfum/Fragrance, Cetrimonium Chloride, Polysorbate 20, Polysorbate 80, Phenoxyethanol, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Hydroxypropyl Guar, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Quaternium-80, Limonene, Linalool, Sodium Benzoate, Citral, Potassium Sorbate"
+    },
+    {
+     "nombre": "Première Fondant Fluidité Réparateur Acondicionador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637196707"
+     ],
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, Behentrimonium Chloride, Propylene Glycol, Phenoxyethanol, PEG-150/Decyl Alcohol/Smdi Copolymer, Amodimethicone, Limonene, Isopropyl Alcohol, Trideceth-10, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Glycine, Citric Acid, Chlorhexidine Digluconate, PEG-100 Stearate, Linalool, Sodium Hydroxide, Steareth-6, Trideceth 3, Citral, Sodium Benzoate, Acetic Acid, Potassium Sorbate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Première Huile Gloss Réparatrice (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637196813"
+     ],
+     "inci": "Isododecane, Dimethicone, C11-13 Isoalkane, Caprylic/Capric Triglyceride, Dimethiconol, Amodimethicone, Parfum/Fragrance, Limonene, Linalool, Citral, Coumarin, Benzyl Salicylate, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Geraniol"
+    },
+    {
+     "nombre": "Première Masque Filler Réparateur (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637196646"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Behentrimonium Methosulfate, Amodimethicone, Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate, Parfum/Fragrance, Behentrimonium Chloride, Lauryl Laurate, Caprylic/Capric Triglyceride, Butylene Glycol, Hydroxypropyl Starch Phosphate, Aminopropyl Dimethicone, Sodium Hydroxide, Phenoxyethanol, Isododecane, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Limonene, Isopropyl Alcohol, PVP, Trideceth-6, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Glycine, Citric Acid, Linalool, Cetrimonium Chloride, Citral, Sodium Benzoate, Potassium Sorbate, Tocopherol"
+    },
+    {
+     "nombre": "Première Sérum Filler Fondamental (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637196677"
+     ],
+     "inci": "Aqua/Water, Isopropyl Myristate, Dimethicone, Triethanolamine, Amodimethicone, Parfum/Fragrance, Phenoxyethanol, Carbomer, Polyquaternium-4, Potato Starch Modified, Limonene, Hydroxypropyl Guar, Behentrimonium Chloride, Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol, Glycine, Trideceth-6, Isopropyl Alcohol, Linalool, Cetrimonium Chloride, Citral, Coumarin, Benzyl Salicylate, Sodium Benzoate, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Potassium Sorbate, Geraniol"
+    },
+    {
+     "nombre": "Résistance Bain Extentioniste Champú (500 ml, 250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636612666",
+      "3474636612680"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Coco-Betaine, Taurine, Cocamide MIPA, Sodium Chloride, Amodimethicone, Laureth-5 Carboxylic Acid, PPG-5-Ceteth-20, Sodium Benzoate, Sodium Hydroxide, Citric Acid, Polyquaternium-10, PEG-55 Propylene Glycol Oleate, Propylene Glycol, PEG-60 Hydrogenated Castor Oil, Salicylic Acid, Amyl Cinnamal, Hexyl Cinnamal, Benzyl Alcohol, Linalool, Hydroxycitronellal, Citronellol, Limonene, Creatine, 2-Oleamido-1, 3-Octadecanediol, Benzyl Cinnamate, Sodium Acetate, Isopropyl Alcohol, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Résistance Ciment Thermique Protector Térmico (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474630652439"
+     ],
+     "inci": "Aqua/Water, Cyclopentasiloxane, Propylene Glycol, Dimethiconol, Triethanolamine, Phenoxyethanol, PEG/PPG-17-18 Dimethicone, Carbomer, Behentrimonium Chloride, Polyquaternium-4, Potato Starch Modified, Hydroxypropyl Guar, Methylparaben, Limonene, Amodimethicone, Cetyl Alcohol, Quaternium-87, Behentrimonium Methosulfate, Quaternium-33, Trideceth-6, 2-Oleamido-1, 3-Octadecanediol, Geraniol, Linalool, Glycerin, Citronellol, Citral, Cetrimonium Chloride, Trehalose, Tamarindus Indica Seed Polysaccharide, Myrothamnus Flabellifolia Leaf Extract, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Soleil Huile Sirène Spray (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636695324"
+     ],
+     "inci": "Aqua/Water, Isopropyl Myristate, Isododecane, Dimethicone, VP/VA Copolymer, Magnesium Sulfate, Phenoxyethanol, Chlorphenesin, Caprylyl Glycol, Cocos Nucifera Oil/Coconut Oil, Ethylhexyl Salicylate, Benzyl Alcohol, Orbignya Oleifera Seed Oil, Tocopherol, Citric Acid, CI 19140/Yellow 5, CI 17200/Red 33, Sodium Hydroxide, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Spécifique Masque Réhydratant (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636954742"
+     ],
+     "inci": "Aqua/Water, Hydroxypropyl Starch Phosphate, Quaternium-87, Stearyl Alcohol, Behentrimonium Chloride, Propylene Glycol, Isononyl Isononanoate, Cetyl Esters, Caprylyl Glycol, Capryloyl Glycine, Candelilla Cera/Candelilla Wax/Cire De Candelilla, Isopropyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Linalool, Limonene, Geraniol, Citronellol, Alpha-Isomethyl Ionone, 2-Oleamido-1, 3-Octadecanediol, CI 42090/Blue 1, CI 19140/Yellow 5, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Spécifique Sérum Potentialiste (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636954704"
+     ],
+     "inci": "Aqua/Water, Alcohol Denat, Bifida Ferment Lysate, Ascorbyl Glucoside, Aminomethyl Propanol, PEG-40 Hydrogenated Castor Oil, Carbomer, Mannose, Polysorbate 21, Alpha-Glucan Oligosaccharide, Phenoxyethanol, Glycerin, Pentylene Glycol, Polymnia Sonchifolia Root Juice, Faex Extract/Yeast Extract/Extrait De Levure, Sodium Benzoate, Maltodextrin, Limonene, Geraniol, Hexyl Cinnamal, Benzyl Benzoate, Benzyl Alcohol, Lactobacillus, Linalool, Citral, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Symbiose Bain Crème Anti-Pelliculaire Champú (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637135690"
+     ],
+     "inci": "Aqua/Water, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycol Distearate, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Glycerin, Parfum/Fragrance, Decyl Glucoside, Cocamidopropyl Betaine, PPG-5-Ceteth-20, Coco-Betaine, Citric Acid, Sodium Hydroxide, Piroctone Olamine, Sodium Benzoate, Sodium Chloride, Carbomer, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Limonene, Polyquaternium-7, Salicylic Acid, Polyquaternium-10, Benzoic Acid, Squalane, Polysorbate 21, Benzyl Salicylate, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Potassium Sorbate"
+    },
+    {
+     "nombre": "Symbiose Fondant Apaisant Essentiel Acondicionador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637136383"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Glycerin, Isopropyl Myristate, Parfum/Fragrance, Stearamidopropyl Dimethylamine, Glycine Soja Oil/Soybean Oil, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Coco-Caprylate/Caprate, Cetyl Esters, Caprylyl Glycol, Sodium Benzoate, Tartaric Acid, Limonene, Salicylic Acid, Squalane, Bifida Ferment Lysate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Benzyl Salicylate, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Phenoxyethanol, Citric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Symbiose Masque Revitalisant Essentiel (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637136345"
+     ],
+     "inci": "Aqua/Water, Cetearyl Alcohol, Amodimethicone, Glycerin, Behentrimonium Chloride, Cetyl Esters, Parfum/Fragrance, Trideceth-5, Phenoxyethanol, Isopropyl Alcohol, Sodium Hydroxide, Trideceth-6, Limonene, Trideceth-10, Squalane, Salicylic Acid, Bifida Ferment Lysate, Cetrimonium Chloride, Benzyl Salicylate, Acetic Acid, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Sodium Benzoate, Citric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Symbiose Micro-Peeling Cellulaire (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637135744"
+     ],
+     "inci": "Aqua/Water, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Glycerin, Cocamide MEA, Salicylic Acid, Coco-Betaine, Laureth-5 Carboxylic Acid, Acrylates Copolymer, Cocamide MIPA, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Argania Spinosa Shell Powder, Prunus Armeniaca Seed Powder/Apricot Seed Powder, Hexylene Glycol, Sodium Chloride, Menthol, Polyquaternium-10, Isopropyl Myristate, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Limonene, Squalane, Capryloyl Salicylic Acid, Benzyl Salicylate, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Potassium Sorbate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Symbiose Sérum Cellulaire Nuit Anti-Pelliculaire (90 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637136321"
+     ],
+     "inci": "Aqua/Water, Alcohol Denat, Ammonium Polyacryloyldimethyl Taurate, Citric Acid, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanol, Piroctone Olamine, Squalane, Salicylic Acid, Bifida Ferment Lysate, Limonene, Glycerin, Benzyl Salicylate, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Coumarin, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Parfum/Fragrance"
     }
    ]
   }
