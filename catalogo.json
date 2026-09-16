@@ -1,5 +1,5 @@
 {
- "version": "2026-09-16b",
+ "version": "2026-09-16c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -20940,6 +20940,15 @@
    "key": "erborian",
    "nombre": "Erborian",
    "productos": [
+    {
+     "nombre": "Skin Therapy Eye Contorno de Ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809255788358"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Niacinamide, Butyrospermum Parkii (Shea) Butter, 1,2-Hexanediol, Octyldodecanol, Squalane, Isostearyl Neopentanoate, Cetearyl Alcohol, Propanediol, Palmitic Acid, Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Dioscorea Villosa (Wild Yam) Root Extract, Acmella Oleracea Extract, Phyllostachys Bambusoides Extract, Citrus Junos Fruit Extract, Capsicum Annuum Fruit Extract, Centella Asiatica Leaf Extract, Equisetum Giganteum Extract, Panax Ginseng Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Kigelia Africana Fruit Extract, Oryza Sativa (Rice) Bran Wax, Glycine Soja (Soybean) Oil, Phyllostachys Bambusoides Juice, Lactobacillus Ferment, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Dicaprylyl Carbonate, Stearic Acid, PEG-100 Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Lactic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Glyceryl Stearate, Silica, Caffeine, Arginine, Cellulose, Mica, Isoniacinamide, Sodium Hyaluronate, Magnesium Aluminum Silicate, Escin, Panthenol, Tocopherol, Cyclodextrin, Hydroxypropyl Cyclodextrin, Pentylene Glycol, Adenosine, Caprylyl Glycol, Palmitoyl Tetrapeptide-7, Chrysin, CI 77891/Titanium Dioxide"
+    },
     {
      "nombre": "Super BB Concealer 10 ml",
      "include": [],

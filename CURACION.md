@@ -1062,7 +1062,7 @@ carrefour.fr (Datadome) y carrefour.es (Cloudflare) devuelven 403 a todo. La ún
 etiqueta: OBF tiene fotos por código y, en este caso, dos generaciones bajo el mismo EAN. Se
 cura código a código desde "Buscados" con la foto más reciente; no hay vía para recorrer la marca.
 
-### Erborian (L'Occitane) — abierta 2026-09-16: 1 producto, 1 código (pedido por una usuaria)
+### Erborian (L'Occitane) — abierta 2026-09-16: 2 productos, 2 códigos (pedido por una usuaria)
 Sin web utilizable: es.erborian.com, fr, uk e it son Salesforce Commerce Cloud tras **DataDome**
 (desafío interactivo `geo.captcha-delivery.com`, no pasa ni con Playwright). La vía que funciona
 es **Douglas**: `https://www.douglas.es/api/v2/products/<código>?fields=FULL` devuelve `ean`,
@@ -1070,6 +1070,24 @@ es **Douglas**: `https://www.douglas.es/api/v2/products/<código>?fields=FULL` d
 el código de producto se saca del buscador `douglas.es/es/search?q=…` (`"code":"1171943"`). La
 lista de Douglas se contrasta con incidecoder (inglés). Códigos `8809255…` (Corea), no `3760…`.
 Sirve para cualquier marca selectiva sin web accesible (Sephora y las webs de L'Occitane).
+**Intento de completar la marca (2026-09-16, versión 2026-09-16c): no se puede más allá de 2 productos.**
+- Douglas España solo vende **4 productos** de Erborian (búsqueda `q=erborian`: 46 en Alemania,
+  4 aquí). Douglas Alemania tiene la gama entera pero su API responde 403 (Akamai) y la ficha
+  HTML no lleva los datos; Douglas Francia devuelve HTML en vez de JSON. Sephora, Primor, Druni,
+  Notino y skinsort bloquean.
+- **Skin Therapy Eye 15 ml (8809255788358): ENTRA.** Douglas e incidecoder ("Skin Therapy Eye
+  Cream") dan los mismos 56 ingredientes en el mismo orden.
+- **Skin Therapy Sérum Light (10 ml 8809255788464 y 30 ml 8809255788402): FUERA.** Douglas da la
+  lista (50), pero incidecoder no tiene el sérum (su "Skin Therapy" es otra crema) y no hay
+  segunda fuente. Se queda apuntado con sus dos códigos por si aparece etiqueta.
+- **BB Crème au Ginseng travel 15 ml Beige (8809255786460): FUERA.** Douglas da la fórmula
+  "mejorada" (Ethylhexyl Salicylate, Hexyl Laurate, Tin Oxide, Alcohol) y todas las fichas de
+  incidecoder y la etiqueta de OBF (8809255780376) son fórmulas anteriores; la más parecida
+  (SPF 20) difiere en 10 ingredientes. Sin fuente que la confirme, y con tonos que Douglas ES
+  no lista, no entra.
+- Ojo con las listas de Douglas: vienen con nombres pegados ("TITANIUMDIOXIDE", "HEXYLLAURATE")
+  y guiones dentro de nombres (PEG-10, 1,2-Hexanediol) iguales al separador: no se pueden usar
+  sin contrastarlas con una lista bien formada.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
@@ -1138,12 +1156,12 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-16)
-3486 códigos en 31 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+3487 códigos en 31 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 **Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
-Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 1**. Ninguno de los
-2153 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 2**. Ninguno de los
+2154 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
@@ -1153,7 +1171,7 @@ Essie cerrada con 125 códigos (28 son UPC `0…` de essie clásico, misma excep
 Rexona cerrada con 14 códigos de 25: la web da EAN e INCI en todo, pero 3 listas son fórmula
 antigua y 8 están contradichas o repetidas entre aromas (ver su apartado).
 Pedidos del 15-09: 2 de 4 curados (Elmex, marca nueva); el Sanytol francés y el brownie, fuera.
-Erborian (aportación manual del 16-09): EAN encontrado en Douglas, marca abierta con 1 código.
+Erborian (aportación manual del 16-09): EAN encontrado en Douglas, marca abierta con 2 códigos; no se puede completar (ver su apartado).
 Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefour como marcas
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
