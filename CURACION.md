@@ -755,6 +755,28 @@ JSON-LD `Product`** (solo migas). De los scripts anteriores solo vale `limpia_in
 Scripts: `es_parse.py` (ficha .es), `fr_parse.py` (solo para el contraste), `gen_essie.py`
 (agrupación por lista idéntica, nombres por gama enamel/expressie/gel couture) → `essie_merged.json`.
 
+## APROBADAS A MANO: la curación las cruza y el catálogo las retira
+Lo que se aprueba a mano en la app (clave `manual_<nombre>`, sin código) es una ficha
+incompleta: sin EAN, sin foto, con el nombre que puso la usuaria. Cuando ese producto entra
+curado en el catálogo, la ficha buena es la del catálogo, y la manual sobra. Cómo va:
+- Mariana saca de vez en cuando el volcado de "Herramientas del catálogo → copiar aprobadas
+  a mano" (código si lo hay, nombre, marca, fecha e ingredientes) y lo pega en el apartado
+  de abajo, tal cual. Es la única forma de verlas desde fuera de Firestore.
+- En cada sesión de curación se cruzan con el catálogo: por lista idéntica primero, por
+  nombre después. Cuando una manual es el mismo producto que una ficha del catálogo, la ficha
+  lleva `"sustituye": ["manual_…"]` con la clave de la manual (la clave es
+  `manual_` + nombre en minúsculas con todo lo que no sea letra o número convertido en `_`,
+  cortado a 40 caracteres).
+- Al importar (la marca o "novedades"), la app escribe la ficha por código y **borra las
+  manuales listadas en `sustituye`**. Una ficha con manuales vivas cuenta como novedad aunque
+  su código ya estuviera importado, así que basta con el botón de novedades. Las manuales sin
+  pareja en el catálogo se quedan como están.
+- Si una manual trae una lista que NO coincide con la del catálogo, no se sustituye a ciegas:
+  se mira cuál es la buena (etiqueta, generación) y se anota aquí.
+
+### Volcado de aprobadas a mano (pegar aquí)
+_(vacío: pendiente del primer volcado)_
+
 ## PEDIDOS POR LAS USUARIAS (de la pestaña "Buscados" de la app)
 Esta lista manda sobre cualquier otra: son códigos que alguien ha escaneado de
 verdad y no le hemos devuelto nada. **Al empezar cualquier sesión de curación,
