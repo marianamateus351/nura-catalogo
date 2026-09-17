@@ -1,5 +1,5 @@
 {
- "version": "2026-09-17a",
+ "version": "2026-09-17b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10288,6 +10288,15 @@
      "inci": "Aqua, Glycerin, Dimethicone, Acetyl Glucosamine, Propylene Glycol, Amodimethicone, Ethylhexylglycerin, Hexylresorcinol, Dimethiconol, Silica, Mica, Pentylene Glycol, Carbomer, Dimethicone/Vinyl Dimethicone Crosspolymer, Disodium EDTA, Sodium Hydroxide, Tetrahydrodiferuloylmethane, Phenoxyethanol, Parfum, Benzyl Salicylate, Citronellol, CI 77891"
     },
     {
+     "nombre": "Clear & Defend Exfoliante Facial con Ácido Salicílico 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661332505"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Sorbitol, Cellulose, Salicylic Acid, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Acrylates Crosspolymer-4, C12-15 Alkyl Lactate, Panthenol, Cocamidopropyl PG-Dimonium Chloride Phosphate, Talc, Disodium Tetrapropenyl Succinate, Cera Microcristallina, Sodium Chloride, Disodium EDTA, Citric Acid, Sodium Hydroxide, Benzalkonium Chloride, Parfum, CI 19140, CI 73360"
+    },
+    {
      "nombre": "Collagen Bank Contorno de Ojos",
      "include": [],
      "exclude": [],
@@ -12078,13 +12087,13 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, CI 60730, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Parfum"
     },
     {
-     "nombre": "Elvive Hidra Hialurónico Mascarilla 72H de Hidratación Intensiva",
+     "nombre": "Elvive Hidra Hialurónico Mascarilla Hidratación Intensa 100h 310 ml",
      "include": [],
      "exclude": [],
      "barcodes": [
       "3600524030797"
      ],
-     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, CI 60730, Lactic Acid, Sodium Hyaluronate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-100 Stearate, Behentrimonium Chloride, Trideceth-10, Trideceth-3, Chlorhexidine Digluconate, Propylene Glycol, Amodimethicone, Isopropyl Alcohol, Parfum"
+     "inci": "Aqua/Water, Glycerin, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Parfum/Fragrance, Sorbitan Isostearate, Myristyl Alcohol, CI 17200/Red 33, CI 42090/Blue 1, Lactic Acid, Coco-Betaine, Sodium Hyaluronate, Sodium Chloride, Sodium Hydroxide, Phenoxyethanol, Dimethyl Phenethyl Acetate, Limonene, Benzoic Acid, Amodimethicone, Tartaric Acid, Carvone, Cetyl Esters, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, Citric Acid, Coumarin"
     },
     {
      "nombre": "Elvive Hidra Hialurónico Recarga Ecopack : Hidratación Intensa",
