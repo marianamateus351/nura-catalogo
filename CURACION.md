@@ -769,13 +769,13 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-09-17 · Fotos de Mariana: Elvive Total Repair 5 700 ml, Elvive Hidra Hialurónico mascarilla, Neutrogena Clear & Defend — versiones 2026-09-17a/b
+### 2026-09-17 · Fotos de Mariana: Elvive Total Repair 5 700 ml, Elvive Hidra Hialurónico mascarilla, Neutrogena Clear & Defend — versiones 2026-09-17a/b/c
 | Código | Producto | Resultado |
 |---|---|---|
 | ~~3600523823710~~ | **L'Oréal Paris Elvive Total Repair 5 Champú Reparador 700 ml** (botella eco-diseñada rellenable; EAN y lista legibles en la foto; F.I.L. Z70072368/1) | **ENTRA en L'Oréal Paris como ficha aparte.** La etiqueta lleva 40 ingredientes: los 35 de la ficha del champú de 250 ml (3600521704424) **más cinco componentes del perfume** (Pinene, Carvone, Geranyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil). Perfume reformulado con otro F.I.L.: lista distinta, entrada distinta (regla 4), sin tocar la del 250 ml |
 | ~~3600524030797~~ | **Elvive Hidra Hialurónico Mascarilla Hidratación Intensa 310 ml** (foto de Mariana; F.I.L. Z70069499/2) | **Ya estaba, pero con otra lista: se SUSTITUYE por la de la etiqueta.** La ficha de loreal-paris.es daba la fórmula anterior (Distarch Phosphate, Quaternium-87, Dimethicone, CI 60730, "72H"); el tarro actual ("100h", Stearamidopropyl Dimethylamine, CI 17200/CI 42090, Coco-Betaine, 26 ingredientes) es una reformulación con el mismo EAN: va la vigente (regla 2) |
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
-| — | **Philip Martin's Maple Aqua Rinse** (mascarilla hidratante, made in Italy) | **Falta la foto de atrás**: sin EAN ni lista no se puede curar. Marca nueva si entra |
+| ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
 ### 2026-09-16 · Huecos de marcas que YA tenemos + dos patrones nuevos
 
@@ -1231,12 +1231,12 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-17)
-3576 códigos en 32 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3577 códigos en 33 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 **Kérastase 59** · Neutrogena 56 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 **Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
-Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 30**. Ninguno de los
-2219 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Philip Martin's 1** · **Natulim 1** · **Carrefour 1** · **Erborian 30**. Ninguno de los
+2220 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su

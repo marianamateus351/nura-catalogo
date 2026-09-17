@@ -1,5 +1,5 @@
 {
- "version": "2026-09-17b",
+ "version": "2026-09-17c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21572,6 +21572,21 @@
       "3474637136321"
      ],
      "inci": "Aqua/Water, Alcohol Denat, Ammonium Polyacryloyldimethyl Taurate, Citric Acid, PEG-40 Hydrogenated Castor Oil, Aminomethyl Propanol, Piroctone Olamine, Squalane, Salicylic Acid, Bifida Ferment Lysate, Limonene, Glycerin, Benzyl Salicylate, Benzyl Alcohol, Linalool, Citronellol, Citral, Geraniol, Artemisia Umbelliformis Flower Extract, Coumarin, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Parfum/Fragrance"
+    }
+   ]
+  },
+  {
+   "key": "philipmartins",
+   "nombre": "Philip Martin's",
+   "productos": [
+    {
+     "nombre": "Maple Aqua Rinse Mascarilla Hidratante 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8057587040952"
+     ],
+     "inci": "Aqua, Myristyl Alcohol, Cetearyl Alcohol, Cetrimonium Chloride, Acer Saccharum Sap Extract, Hydrolyzed Chestnut Extract, Olea Europaea Leaf Extract, Simmondsia Chinensis Seed Oil, Persea Gratissima Oil, Hydrolyzed Sweet Almond Protein, Glycerin, Polyquaternium-10, Polyquaternium-6, Parfum, Phenoxyethanol, Sodium Benzoate, Lactic Acid, Citronellol, Limonene"
     }
    ]
   }
