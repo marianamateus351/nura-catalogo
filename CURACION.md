@@ -769,6 +769,11 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-17 · Elvive Total Repair 5 champú 700 ml (foto de Mariana) — versión 2026-09-17a
+| Código | Producto | Resultado |
+|---|---|---|
+| ~~3600523823710~~ | **L'Oréal Paris Elvive Total Repair 5 Champú Reparador 700 ml** (botella eco-diseñada rellenable; EAN y lista legibles en la foto; F.I.L. Z70072368/1) | **ENTRA en L'Oréal Paris como ficha aparte.** La etiqueta lleva 40 ingredientes: los 35 de la ficha del champú de 250 ml (3600521704424) **más cinco componentes del perfume** (Pinene, Carvone, Geranyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Citrus Limon Peel Oil). Perfume reformulado con otro F.I.L.: lista distinta, entrada distinta (regla 4), sin tocar la del 250 ml |
+
 ### 2026-09-16 · Huecos de marcas que YA tenemos + dos patrones nuevos
 
 Salen del panel de datos de la app (recuento de rutinas + escaneos en vacío), ya
@@ -1222,13 +1227,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-16)
-3574 códigos en 32 marcas: NYX 999 · L'Oréal Paris 519 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-09-17)
+3575 códigos en 32 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 **Kérastase 59** · Neutrogena 55 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 **Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Natulim 1** · **Carrefour 1** · **Erborian 30**. Ninguno de los
-2217 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+2218 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
