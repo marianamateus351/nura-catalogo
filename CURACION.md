@@ -769,6 +769,22 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-18 · 8411582242320, escaneo sin nombre — identificado, NO entra (sin lista oficial)
+| Código | Producto | Resultado |
+|---|---|---|
+| 8411582242320 | **Asevi Vinagre de Limpieza con Detergente Limón, pistola 750 ml** (Asevi Home Brands S.L., Xàbia; prefijo 8411582 = Asevi). Identificado por `gtin13` en ladrogueria.com y ancar3.com; la foto de la tienda enseña el frontal ("Multiusos y cristales"), no la lista | **NO entra (regla 2-bis).** Producto de limpieza → método 648/2004. Asevi sí publica listas Anexo VII completas por EAN (`asevicompany.com/fichas/listado_ingredientes/<EAN>.pdf`, 203 fichas), pero **este código no está entre ellas** y ninguna de las 203 es un vinagre; la ficha del producto en la web no trae ingredientes. Sin lista oficial, fuera. Si Asevi la publica algún día, o Mariana manda foto de la etiqueta trasera, se hace la ficha y se abre la marca |
+
+**Asevi como marca (de propina).** Su portal de fichas cubre 203 referencias con EAN
+en la propia entrada y lista completa (sin rangos, formato "Lista de Ingredientes según
+648/2004/CE": AQUA, ALCOHOL, ... COLORANT). Es una marca de limpieza muy vendida
+(fregasuelos) que se podría curar entera con ese portal si alguna vez toca limpieza.
+Cómo se lee: la web va detrás de un reto JavaScript (SiteGuarding, no captcha visual):
+Playwright con el Chromium del contenedor lo pasa en ~30 s y deja la cookie `_I_`, que
+después vale para `curl`. La lista de fichas sale de la API de WordPress
+(`/es/wp-json/wp/v2/productoean?per_page=100&_fields=id,title,acf`, campos
+`acf.codigo_ean` y `acf.archivo`); los PDF usan fuentes CID con ToUnicode
+(`pdfcid.py` del scratchpad los lee).
+
 ### 2026-09-17 · Fotos de Mariana: Elvive Total Repair 5 700 ml, Elvive Hidra Hialurónico mascarilla, Neutrogena Clear & Defend — versiones 2026-09-17a/b/c
 | Código | Producto | Resultado |
 |---|---|---|
@@ -1210,6 +1226,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
+| Asevi | sí (WP REST: `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`, fuentes CID) | limpieza; el vinagre pedido no está en su portal; ver PEDIDOS 2026-09-18 |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
