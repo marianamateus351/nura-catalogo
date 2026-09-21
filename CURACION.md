@@ -1065,8 +1065,9 @@ fabricante**: publica el EAN y la lista completa de cada referencia en su propia
   difusa kepone/ketone), Estireno por "Sodium Styrene/Acrylates Copolymer", Propilenglicol
   por "Propylene Glycol Butyl Ether"; y 33 fichas caían en Cuidado personal porque la app
   conocía "friegasuelos" pero no "fregasuelos", "limpiahogar" ni "perfumador de ropa".
-  Dudoso y sin tocar: "Poliester modificado" (polímero antirredeposición de los detergentes)
-  dispara "Microplásticos (poliéster)".
+  "Poliester modificado" (polímero antirredeposición de los detergentes, soluble en agua, sin
+  evidencia de disrupción endocrina) disparaba "Microplásticos (poliéster)": excluido por
+  decisión de Mariana (2026-09-21); el aviso sigue para fibras de poliéster/polipropileno.
 Nombres: "<tipo> <variante> <tamaño>" ("Fregasuelos Mio (950 ml, 1 L y 1,15 L)", "Suavizante
 Hipoalergénico Talco Rosa (60, 84 y 125 lavados)", "Detergente Max Active 50 lavados"); las
 dosis "44D"/"40W" del portal son lavados. Scripts: `asv/pw.js`, `asv/ck.sh`, `pdfcid.py`,
