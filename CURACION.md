@@ -1057,6 +1057,16 @@ fabricante**: publica el EAN y la lista completa de cada referencia en su propia
   que publica el fabricante.
 - **El vinagre de limpieza pedido por una usuaria (8411582242320) no está en el portal**: sigue
   fuera (ver PEDIDOS 2026-09-18).
+- **Revisión de la detección (2026-09-21).** Pasado el detector de la app sobre las 138 fichas.
+  Avisos verdaderos que sorprenden pero están en la ficha oficial: Diethanolamine en casi
+  todos los detergentes, Diethyl Phthalate en Max Higyenic, Toluene en el ambientador WC
+  Purple rumano, Resorcinol en varios perfumadores y suavizantes, Lilial en 23 fichas.
+  Falsos positivos corregidos en la app: Clordecona por "Methyl Nonyl Ketone" (coincidencia
+  difusa kepone/ketone), Estireno por "Sodium Styrene/Acrylates Copolymer", Propilenglicol
+  por "Propylene Glycol Butyl Ether"; y 33 fichas caían en Cuidado personal porque la app
+  conocía "friegasuelos" pero no "fregasuelos", "limpiahogar" ni "perfumador de ropa".
+  Dudoso y sin tocar: "Poliester modificado" (polímero antirredeposición de los detergentes)
+  dispara "Microplásticos (poliéster)".
 Nombres: "<tipo> <variante> <tamaño>" ("Fregasuelos Mio (950 ml, 1 L y 1,15 L)", "Suavizante
 Hipoalergénico Talco Rosa (60, 84 y 125 lavados)", "Detergente Max Active 50 lavados"); las
 dosis "44D"/"40W" del portal son lavados. Scripts: `asv/pw.js`, `asv/ck.sh`, `pdfcid.py`,
