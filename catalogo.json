@@ -1,5 +1,5 @@
 {
- "version": "2026-09-21a",
+ "version": "2026-09-21b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21742,7 +21742,7 @@
      "barcodes": [
       "8411582236817"
      ],
-     "inci": "Aqua, Sodium Lauryl Sulfate, Polyvinyl Alcohol, Glycerin, Sodium C14-16 Olefin Sulfonate, PEG-7 Glyceryl Cocoate, Sodium Benzoate, Sodium Bicarbonate, Poliester modificado, Parfum, Propylene Glycol, Trisodium Dicarboxymethyl Alaninate, Sodium Polyacrylate, Benzyl Salicylate, Citric Acid, Methyl Alcohol, 2-acetil-4-metiltridec-2-enoato de etilo, Butoxyethanol, Subtilisin, Lipase, Sodium Formate, Amyl Salicylate, Tetramethyl acetyloctahydronaphthalenes, Polietilenglicoles PM 400, Eucaliptus Globulus Oil, Disodium Distyrylbiphenyl Disulfonate, Urea, Hexamethylindanopyran, Geraniol, 4 4´-bis[6-anilino-4-[bis(2-hidroxietil)amino]-1 3 5-triazin-2-il]amino]stilbene-2 2´-disulfonato de sodio y potasio, Sodium Glycolate, Sodium Hydroxide, Colorante, Sodium Diethylenetriamine Pentamethylene Phosphonate"
+     "inci": "Aqua, Sodium Lauryl Sulfate, Polyvinyl Alcohol, Glycerin, Sodium C14-16 Olefin Sulfonate, PEG-7 Glyceryl Cocoate, Sodium Benzoate, Sodium Bicarbonate, Poliester modificado, Parfum, Propylene Glycol, Trisodium Dicarboxymethyl Alaninate, Sodium Polyacrylate, Benzyl Salicylate, Citric Acid, Methyl Alcohol, 2-acetil-4-metiltridec-2-enoato de etilo, Butoxyethanol, Subtilisin, Lipase, Sodium Formate, Amyl Salicylate, Tetramethyl acetyloctahydronaphthalenes, Polietilenglicoles PM 400, Eucalyptus Globulus Leaf Oil, Disodium Distyrylbiphenyl Disulfonate, Urea, Hexamethylindanopyran, Geraniol, 4 4´-bis[6-anilino-4-[bis(2-hidroxietil)amino]-1 3 5-triazin-2-il]amino]stilbene-2 2´-disulfonato de sodio y potasio, Sodium Glycolate, Sodium Hydroxide, Colorante, Sodium Diethylenetriamine Pentamethylene Phosphonate"
     },
     {
      "nombre": "Asevi Bands Detergente en Tiras Color Protect 30 lavados",
@@ -21769,7 +21769,7 @@
      "barcodes": [
       "8411582243815"
      ],
-     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Isopropyl Alcohol, PPG-2 Methyl Ether, C9-11 Pareth-3, Alcohol graso etoxilado 8 mol EO, Sodium Laureth Sulfate, Tetrasodium Dicarboxymethyl Glutamate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolimero, Linalool, Geraniol, Colorante, Phenoxyethanol, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Isopropyl Alcohol, PPG-2 Methyl Ether, C9-11 Pareth-3, Alcohol graso etoxilado 8 mol EO, Sodium Laureth Sulfate, Tetrasodium Dicarboxymethyl Glutamate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolímero, Linalool, Geraniol, Colorante, Phenoxyethanol, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Desinfectante Baños Gerpostar 750 ml",
@@ -21778,25 +21778,17 @@
      "barcodes": [
       "8411582243310"
      ],
-     "inci": "Aqua, Alcohol, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Glutamate Diacetate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Isopropyl Alcohol, Parfum, Copolimero, Hexyl Cinnamal, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Colorante, Benzisothiazolinone, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Alcohol, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Glutamate Diacetate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Isopropyl Alcohol, Parfum, Copolímero, Hexyl Cinnamal, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Colorante, Benzisothiazolinone, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
-     "nombre": "Desinfectante Baños Gerpostar 750 ml (envase en inglés)",
+     "nombre": "Desinfectante Baños Gerpostar Plus (0,75 L y 750 ml) (envases de fuera de España)",
      "include": [],
      "exclude": [],
      "barcodes": [
+      "8411582889006",
       "8411582889501"
      ],
-     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, Isopropyl Alcohol, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Dicarboxymethyl Glutamate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolymer, Linalool, Geraniol, Phenoxyethanol, Colorante, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
-    },
-    {
-     "nombre": "Desinfectante Baños Gerpostar Plus 0,75 L (envase de Rumanía)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8411582889006"
-     ],
-     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, Isopropyl Alcohol, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Dicarboxymethyl Glutamate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolimer, Linalool, Geraniol, Phenoxyethanol, Colorante, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, Isopropyl Alcohol, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Dicarboxymethyl Glutamate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolímero, Linalool, Geraniol, Phenoxyethanol, Colorante, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Desinfectante Limpiador Gerpostar Plus (1 L y 1,1 L)",
@@ -21989,7 +21981,7 @@
      "barcodes": [
       "8411582889709"
      ],
-     "inci": "Aqua, Potassium Oleate, TEA-Dodecylbenzenesulfonate, C10-16 Pareth-7, Sodium Laureth Sulfate, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Potassium Dodecylbenzenesulfonate, Acido 1 4-Bencenodicarboxilico dimetil ester polimero con 1 2-propanodiol diester con α-metil-ω-hidroxipoli(oxi-1 2-etanodiil), Sodium Chloride, PEG-120 Methyl Glucose Dioleate, Parfum, Acido fosfonico sales, Potassium Hydroxide, Diethanolamine, Propylene Glycol, Glycerin, Potassium Citrate, Ethyl 2-acetyl-4-methyltridec-2-enoate, Sodium Formate, Sodium Hydroxide, Hexyl Cinnamal, Disodium Distyrylbiphenyl Disulfonate, Potassium sodium 4 4´-bis[6-anilino-4-[bis(2-hydroxyethyl)amino]-1 3 5-triazin-2-yl]amino]stilbene-2 2´-disulphonate, Citronellol, Benzisothiazolinone, Subtilisin, Alaninamida sustituida, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante, TBHQ, Methylisothiazolinone, Dibromocyanoacetamide"
+     "inci": "Aqua, Potassium Oleate, TEA-Dodecylbenzenesulfonate, C10-16 Pareth-7, Sodium Laureth Sulfate, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Potassium Dodecylbenzenesulfonate, Acido 1 4-Bencenodicarboxilico dimetil ester polimero con 1 2-propanodiol diester con α-metil-ω-hidroxipoli(oxi-1 2-etanodiil), Sodium Chloride, PEG-120 Methyl Glucose Dioleate, Parfum, Acido fosfonico sales, Potassium Hydroxide, Diethanolamine, Propylene Glycol, Glycerin, Potassium Citrate, 2-acetil-4-metiltridec-2-enoato de etilo, Sodium Formate, Sodium Hydroxide, Hexyl Cinnamal, Disodium Distyrylbiphenyl Disulfonate, Potassium sodium 4 4´-bis[6-anilino-4-[bis(2-hydroxyethyl)amino]-1 3 5-triazin-2-yl]amino]stilbene-2 2´-disulphonate, Citronellol, Benzisothiazolinone, Subtilisin, Alaninamida sustituida, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante, TBHQ, Methylisothiazolinone, Dibromocyanoacetamide"
     },
     {
      "nombre": "Detergente Max Color 50 lavados",
@@ -22088,7 +22080,7 @@
      "barcodes": [
       "8411582881215"
      ],
-     "inci": "Aqua, Sodium Dodecylbenzenesulfonate, Sodium Oleate, C10-16 Alketh-2, PEG-7 Glyceryl Cocoate, Triethanolamine, Sodium Laureth Sulfate, Glycerin, Trideceth-8, Poliester modificado, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Propylene Glycol, Parfum, Trisodium Dicarboxymethyl Alaninate, Citric Acid, Diethanolamine, Sodium EDTMP, Butoxyethanol, Polyethylenglicol 400, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-acetil-4-metiltridec-2-enoato de etilo, Disodium Distyrylbiphenyl Disulfonate, Urea, Hexamethylindanopyran, Hexyl Cinnamal, Potasiu sodiu 4 4´-bis [6-anilino-4- [bis (2-hidroxietil) amino] -1 3 5-triazin-2-il] amino] stilben-2 2´-disulfonat, Subtilisin, Sodium Formate, Benzisothiazolinone, Lipase, Sodium Chloride, Citronellol, Tetramethyl acetyloctahydronaphthalenes"
+     "inci": "Aqua, Sodium Dodecylbenzenesulfonate, Sodium Oleate, C10-16 Alketh-2, PEG-7 Glyceryl Cocoate, Triethanolamine, Sodium Laureth Sulfate, Glycerin, Trideceth-8, Poliester modificado, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Propylene Glycol, Parfum, Trisodium Dicarboxymethyl Alaninate, Citric Acid, Diethanolamine, Sodium EDTMP, Butoxyethanol, Polietilenglicoles PM 400, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-acetil-4-metiltridec-2-enoato de etilo, Disodium Distyrylbiphenyl Disulfonate, Urea, Hexamethylindanopyran, Hexyl Cinnamal, Potasiu sodiu 4 4´-bis [6-anilino-4- [bis (2-hidroxietil) amino] -1 3 5-triazin-2-il] amino] stilben-2 2´-disulfonat, Subtilisin, Sodium Formate, Benzisothiazolinone, Lipase, Sodium Chloride, Citronellol, Tetramethyl acetyloctahydronaphthalenes"
     },
     {
      "nombre": "Detergente Power Luxury 50 lavados (envase de Rumanía)",
@@ -22224,7 +22216,7 @@
      "barcodes": [
       "8411582888689"
      ],
-     "inci": "Aqua, C9-11 Pareth-3, Parfum, PEG-10 Hydrogenated Castor Oil, Copolimero acrilico-estireno, Hexyl Cinnamal, Hexamethylindanopyran, 2-acetil-4-metiltridec-2-enoato de etilo, Tetramethyl Acetyloctahydronaphthalenes, Citronellol, Amyl Salicylate, Linalool, Propylene Glycol, Coumarin, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Dimethylbenzyl Carbinyl Acetate, Linalyl Acetate, Dipropylene Glycol, Benzisothiazolinone, Polisiloksan, Methylchloroisothiazolinone/Methylisothiazolinone, TBHQ"
+     "inci": "Aqua, C9-11 Pareth-3, Parfum, PEG-10 Hydrogenated Castor Oil, Copolimero acrilico-estireno, Hexyl Cinnamal, Hexamethylindanopyran, 2-acetil-4-metiltridec-2-enoato de etilo, Tetramethyl Acetyloctahydronaphthalenes, Citronellol, Amyl Salicylate, Linalool, Propylene Glycol, Coumarin, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Dimethylbenzyl Carbinyl Acetate, Linalyl Acetate, Dipropylene Glycol, Benzisothiazolinone, Polisiloxano, Methylchloroisothiazolinone/Methylisothiazolinone, TBHQ"
     },
     {
      "nombre": "Fregasuelos Mio (950 ml, 1 L y 1,15 L)",
@@ -22239,22 +22231,14 @@
      "inci": "Aqua, C9-11 Pareth-3, Parfum, PEG-10 Hydrogenated Castor Oil, Terpineol, Copolimero acrilico-estireno, Citronellol, Geraniol, Terpineol, Camphor, Hexamethylindanopyran, Propylene Glycol, Eucalyptus Globulus Leaf Oil, Coumarin, Amyl Cinnamal, Linalool, Hexyl Cinnamal, Limonene, Acetophenone, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Citrus Aurantium Amara Flower Extract, Alpha-Isomethyl Ionone, Benzisothiazolinone, Methyl Nonyl Ketone, Methylchloroisothiazolinone/Methylisothiazolinone, Limonene"
     },
     {
-     "nombre": "Fregasuelos Mio 1 L (envase de Rumanía)",
+     "nombre": "Fregasuelos Mio 1 L (envases de fuera de España)",
      "include": [],
      "exclude": [],
      "barcodes": [
+      "8411582875016",
       "8411582881543"
      ],
-     "inci": "Aqua, Alcohol graso etoxilado 8 mol EO, PEG-10 Hydrogenated Castor Oil, C9-11 Pareth-3, Parfum, Copolimero acrilico-estireno, Propylene Glycol, Polisiloxan, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Acetophenone, Methyl Nonyl Ketone"
-    },
-    {
-     "nombre": "Fregasuelos Mio 1 L (envase en inglés)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8411582875016"
-     ],
-     "inci": "Aqua, Alcohol graso etoxilado 8 mol EO, PEG-10 Hydrogenated Castor Oil, C9-11 Pareth-3, Parfum, Copolimero acrilico-estireno, Propylene Glycol, Polisiloxane, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Acetophenone, Methyl Nonyl Ketone"
+     "inci": "Aqua, Alcohol graso etoxilado 8 mol EO, PEG-10 Hydrogenated Castor Oil, C9-11 Pareth-3, Parfum, Copolimero acrilico-estireno, Propylene Glycol, Polisiloxano, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Acetophenone, Methyl Nonyl Ketone"
     },
     {
      "nombre": "Fregasuelos Mio 900 ml",
@@ -22263,7 +22247,7 @@
      "barcodes": [
       "8411582211326"
      ],
-     "inci": "Aqua, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Parfum, PEG-40 Hydrogenated Castor Oil, Terpineol, Copolimero acrilico-estireno, Citronellol, Geraniol, Camphor, Hexamethylindanopyran, Propylene Glycol, Eucaliptus Globulus Oil, Linalool, Coumarin, Amyl Cinnamal, Hexyl Cinnamal, Benzisothiazolinone, Tetramethyl acetyloctahydronaphthalenes, Limonene, Acetophenone, Benzyl Salicylate, Citrus Aurantium Peel Oil, Polisiloxano, Methyl Nonyl Ketone, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Parfum, PEG-40 Hydrogenated Castor Oil, Terpineol, Copolimero acrilico-estireno, Citronellol, Geraniol, Camphor, Hexamethylindanopyran, Propylene Glycol, Eucalyptus Globulus Leaf Oil, Linalool, Coumarin, Amyl Cinnamal, Hexyl Cinnamal, Benzisothiazolinone, Tetramethyl acetyloctahydronaphthalenes, Limonene, Acetophenone, Benzyl Salicylate, Citrus Aurantium Peel Oil, Polisiloxano, Methyl Nonyl Ketone, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Fregasuelos Naranja (900 ml, 950 ml, 1 L y 1,15 L)",
@@ -22331,7 +22315,7 @@
      "barcodes": [
       "8411582201662"
      ],
-     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Dodecylbenzenesulfonate, PEG-7 Glyceryl Cocoate, Cocoyl Methyl Glucamide, Lauramine Oxide, 2-Propen-1-aminico N N dimetil-N-2-propen-1-il- cloruro (1:1) polimero con 2- propenamida y acido 2-propenoico sal de sodio, Tetrasodium Glutamate Diacetate, Triethanolamine, (R)-p-Menta-1 8-dieno, Parfum, Sodium Hydroxide, Sodium Hydroxide, Benzisothiazolinone, Diethanolamine, Citronellol, Citral, Colorante, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Dodecylbenzenesulfonate, PEG-7 Glyceryl Cocoate, Cocoyl Methyl Glucamide, Lauramine Oxide, 2-Propen-1-aminico N N dimetil-N-2-propen-1-il- cloruro (1:1) polimero con 2- propenamida y acido 2-propenoico sal de sodio, Tetrasodium Glutamate Diacetate, Triethanolamine, Limonene, Parfum, Sodium Hydroxide, Sodium Hydroxide, Benzisothiazolinone, Diethanolamine, Citronellol, Citral, Colorante, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Lavavajillas a Mano Ultra Red 650 ml",
@@ -22385,7 +22369,7 @@
      "barcodes": [
       "8411582888559"
      ],
-     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, Isopropyl Alcohol, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Glutamate Diacetate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Kopolimer, Hexyl Cinnamal, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Phenoxyethanol, Colorante, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Acido L-(+)-lactico, Formic Acid, Trideceth-8, C9-11 Pareth-3, Isopropyl Alcohol, PPG-2 Methyl Ether, Sodium Laureth Sulfate, Tetrasodium Glutamate Diacetate, Capryleth-9 Carboxylic Acid, Xanthan Gum, Parfum, Copolímero, Hexyl Cinnamal, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Phenoxyethanol, Colorante, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Limpiador Cristales Chimeneas Asevi-IQ 475 ml",
@@ -22475,7 +22459,7 @@
      "barcodes": [
       "8411582207510"
      ],
-     "inci": "Aqua, Parfum, PEG-7 Glyceryl Cocoate, PEG-40 Hydrogenated Castor Oil, Acrylates Copolymer, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexyl Cinnamal, Dipropylene Glycol, Linalool, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Geraniol, Linalyl Acetate, Terpineol, Potassium Hydroxide, Trideceth-10, Amyl Salicylate, Eucaliptus Globulus Oil, Trideceth-5, Geranyl Acetate, Propylene Glycol, Benzyl Cinnamate, Benzisothiazolinone, Limonene, Sodium Laureth Sulfate, Rose Ketones, Methylchloroisothiazolinone/Methylisothiazolinone, Ethyl Acrylate"
+     "inci": "Aqua, Parfum, PEG-7 Glyceryl Cocoate, PEG-40 Hydrogenated Castor Oil, Acrylates Copolymer, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexyl Cinnamal, Dipropylene Glycol, Linalool, Tetramethyl acetyloctahydronaphthalenes, Citronellol, Geraniol, Linalyl Acetate, Terpineol, Potassium Hydroxide, Trideceth-10, Amyl Salicylate, Eucalyptus Globulus Leaf Oil, Trideceth-5, Geranyl Acetate, Propylene Glycol, Benzyl Cinnamate, Benzisothiazolinone, Limonene, Sodium Laureth Sulfate, Rose Ketones, Methylchloroisothiazolinone/Methylisothiazolinone, Ethyl Acrylate"
     },
     {
      "nombre": "Perfumador de Ropa Azul 720 ml (envases de fuera de España)",
@@ -22538,18 +22522,10 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8411582261345"
-     ],
-     "inci": "Aqua, Butoxydiglycol, Ethanolamine, Trisodium Dicarboxymethyl Alaninate, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Trideceth-8, Capryleth-9 Carboxylic Acid, Sodium EDTMP, (R)-p-Menta-1 8-dieno, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Glycolate, Parfum, Sodium Chloride, Sodium Hydroxide, Citronellol, Citral, Geraniol, Fosfonato de disodio, Sodium Phosphate, Colorante"
-    },
-    {
-     "nombre": "Quitagrasas Cocina (pistola) 750 ml (envase de Rumanía)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
+      "8411582261345",
       "8411582880164"
      ],
-     "inci": "Aqua, Butoxydiglycol, Ethanolamine, Trisodium Dicarboxymethyl Alaninate, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Trideceth-8, Capryleth-9 Carboxylic Acid, Sodium EDTMP, (R)-p-menta-1 8-dienă, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Glycolate, Parfum, Sodium Chloride, Sodium Hydroxide, Citronellol, Citral, Geraniol, Fosfonato de disodio, Sodium Phosphate, Colorante"
+     "inci": "Aqua, Butoxydiglycol, Ethanolamine, Trisodium Dicarboxymethyl Alaninate, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Trideceth-8, Capryleth-9 Carboxylic Acid, Sodium EDTMP, Limonene, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Glycolate, Parfum, Sodium Chloride, Sodium Hydroxide, Citronellol, Citral, Geraniol, Fosfonato de disodio, Sodium Phosphate, Colorante"
     },
     {
      "nombre": "Quitagrasas Desinfectante Gerpostar Plus (pistola) 750 ml (envase en inglés)",
@@ -22558,7 +22534,7 @@
      "barcodes": [
       "8411582875061"
      ],
-     "inci": "Aqua, Tetrapotassium Pyrophosphate, Triethanolamine, Methoxyisopropanol, Alcohol graso etoxilado (5-6 EO), Capryleth-9 Carboxylic Acid, Didecyldimonium Chloride, Diethanolamine, Isopropyl Alcohol, Acido fosfonico sales, Limonene, Parfum, 2-methoxypropanol, Decyl Alcohol"
+     "inci": "Aqua, Tetrapotassium Pyrophosphate, Triethanolamine, Methoxyisopropanol, Alcohol graso etoxilado (5-6 EO), Capryleth-9 Carboxylic Acid, Didecyldimonium Chloride, Diethanolamine, Isopropyl Alcohol, Acido fosfonico sales, Limonene, Parfum, 2-Metoxipropanol, Decyl Alcohol"
     },
     {
      "nombre": "Quitamanchas (pistola) 750 ml",
@@ -22786,7 +22762,7 @@
      "barcodes": [
       "8411582230440"
      ],
-     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Hexyl Cinnamal, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Linalool, Coumarin, Benzyl Salicylate, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), (9Ci, Colorante, Alcohol, Phenoxyethanol"
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Hexyl Cinnamal, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Linalool, Coumarin, Benzyl Salicylate, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), Colorante, Alcohol, Phenoxyethanol"
     },
     {
      "nombre": "Suavizante Sensations Zen 60 lavados (envase de Polonia)",
@@ -22795,7 +22771,7 @@
      "barcodes": [
       "8411582888733"
      ],
-     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexyl Cinnamal, Trideceth-10, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Trideceth-5, Linalool, Coumarin, Benzyl Salicylate, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), *) 6b] - (9CI, Colorante"
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexyl Cinnamal, Trideceth-10, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Trideceth-5, Linalool, Coumarin, Benzyl Salicylate, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), Colorante"
     },
     {
      "nombre": "Suavizante Sensations Zen 60 lavados (envase de Rumanía)",
@@ -22804,7 +22780,7 @@
      "barcodes": [
       "8411582881826"
      ],
-     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Hexyl Cinnamal, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Linalool, Coumarin, Benzyl Salicylate, Alcohol, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), (9Ci, Colorante, Alcohol, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone"
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Hexyl Cinnamal, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Linalool, Coumarin, Benzyl Salicylate, Alcohol, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), Colorante, Alcohol, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone"
     },
     {
      "nombre": "Suavizante Sensations Zen 60 lavados (envase en inglés)",

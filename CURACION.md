@@ -1009,7 +1009,7 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
 
-### Asevi (asevicompany.com) — cerrada 2026-09-21: 138 productos, 167 códigos (de 203 fichas en su portal)
+### Asevi (asevicompany.com) — cerrada 2026-09-21: 135 productos, 167 códigos (de 203 fichas en su portal)
 Asevi Home Brands (antes Pons Químicas, Xàbia): fregasuelos, detergentes, suavizantes,
 ambientadores, desinfectantes. Primera marca de limpieza curada **entera desde el
 fabricante**: publica el EAN y la lista completa de cada referencia en su propia web.
@@ -1057,7 +1057,19 @@ fabricante**: publica el EAN y la lista completa de cada referencia en su propia
   que publica el fabricante.
 - **El vinagre de limpieza pedido por una usuaria (8411582242320) no está en el portal**: sigue
   fuera (ver PEDIDOS 2026-09-18).
-- **Revisión de la detección (2026-09-21).** Pasado el detector de la app sobre las 138 fichas.
+- **Versión 2026-09-21b.** Tres fragmentos de nombre químico partido ("(9CI", "*) 6b]…") unidos a su
+  línea, y traducidos los restos en rumano/polaco/inglés ("Kopolimer" → Copolímero, "Polisiloxan" →
+  Polisiloxano, "(R)-p-menta-1,8-dieno" → Limonene, que es la misma molécula). Al unificarse
+  nombres, tres listas extranjeras pasaron a coincidir con la española: 138 → 135 fichas, mismos 167 códigos.
+- **Falsos negativos (2026-09-21).** "Hexamethylindanopyran" es el nombre INCI del galaxólido (HHCB)
+  y la app solo conocía "Galaxolide": añadido el alias (salta en 27 fichas de Asevi y en 4 de
+  Avène/Deliplus que ya lo llevaban). Pendientes de decisión de Mariana: Didecyldimonium Chloride
+  (DDAC, 20 fichas; mismos estudios en ratón que el cloruro de benzalconio ya recogido), TBHQ
+  (4 fichas; actividad estrogénica/androgénica muy débil en ToxCast), Fosfato de tris(2-butoxietilo)
+  (TBOEP, 1 ficha) y los alcoholes etoxilados tipo Pareth/Trideceth (la ficha de tensioactivos
+  etoxilados solo reconoce "laureth"). OTNE (Tetramethyl acetyloctahydronaphthalenes, 41 fichas):
+  sensibilizante y tóxico acuático, sin datos de disrupción; no se añade.
+- **Revisión de la detección (2026-09-21).** Pasado el detector de la app sobre las fichas.
   Avisos verdaderos que sorprenden pero están en la ficha oficial: Diethanolamine en casi
   todos los detergentes, Diethyl Phthalate en Max Higyenic, Toluene en el ambientador WC
   Purple rumano, Resorcinol en varios perfumadores y suavizantes, Lilial en 23 fichas.
@@ -1309,8 +1321,8 @@ Garnier 234 · **Asevi 167** · Avène 162 · LRP 160 · Eucerin 137 · Essie 12
 Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
 Sanex 15 · Rexona 14 · Fairy 12 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
-2358 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
-Asevi cerrada con 167 códigos (138 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
+2355 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
