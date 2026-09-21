@@ -834,6 +834,17 @@ Comprobación: ~81 fichas de Asevi en "otros"; la cosmética no cambia ni un avi
 Al aplicar: barrer el catálogo entero y confirmar los cuatro números de comprobación. Cero
 cambios en cosmética salvo los indicados.
 
+**Aplicado el 2026-09-21** (app, rama claude/redesign-v2-wqk1cj). Barrido de las 2.355 fichas
+con la categoría que asigna la app: DDAC **24 de Hogar (20 Asevi + 4 Sanytol) y 0 de cosmética** ·
+TBHQ **4 y 0** · TBOEP **1 y 0** · alcoholes -eth en "otros" **90 de Hogar y 0 de cosmética**
+(81 con nombre INCI -eth y 9 que Asevi escribe "Alcohol graso etoxilado", incluido como alias;
+sin ese alias son los 81 previstos). Ninguna ficha de cosmética cambia un solo aviso de
+disruptor. De paso se vio que tres cosméticos caían en Hogar por una palabra del nombre
+(pintalabios NYX tono "Laundry Day", stick Maybelline "Multiusos", coloración L'Oréal "sin
+amoniaco"): corregido en `guessCategoria` (maquillaje, labiales y tintes no cuentan como
+limpieza); la coloración pasa a mostrar su nota de sulfitos como alérgeno de contacto, que
+es lo correcto. Hace falta build para que llegue a las usuarias.
+
 ### 2026-09-16 · Huecos de marcas que YA tenemos + dos patrones nuevos
 
 Salen del panel de datos de la app (recuento de rutinas + escaneos en vacío), ya
