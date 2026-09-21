@@ -1069,6 +1069,10 @@ fabricante**: publica el EAN y la lista completa de cada referencia en su propia
   (TBOEP, 1 ficha) y los alcoholes etoxilados tipo Pareth/Trideceth (la ficha de tensioactivos
   etoxilados solo reconoce "laureth"). OTNE (Tetramethyl acetyloctahydronaphthalenes, 41 fichas):
   sensibilizante y tóxico acuático, sin datos de disrupción; no se añade.
+- **Otros riesgos (no disruptores), añadidos a esa lista de la app el 2026-09-21:** acrilato de etilo
+  (IARC 2B; los cuatro perfumadores de ropa) y glutaraldehído (sensibilizante respiratorio; suavizante
+  Rosa Mosqueta). Vistos y descartados por falta de clasificación relevante: metanol, 2-butoxietanol,
+  xileno, DBNPA (sensibilizante cutáneo), IPBC.
 - **Revisión de la detección (2026-09-21).** Pasado el detector de la app sobre las fichas.
   Avisos verdaderos que sorprenden pero están en la ficha oficial: Diethanolamine en casi
   todos los detergentes, Diethyl Phthalate en Max Higyenic, Toluene en el ambientador WC
