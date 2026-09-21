@@ -774,16 +774,7 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 |---|---|---|
 | 8411582242320 | **Asevi Vinagre de Limpieza con Detergente Limón, pistola 750 ml** (Asevi Home Brands S.L., Xàbia; prefijo 8411582 = Asevi). Identificado por `gtin13` en ladrogueria.com y ancar3.com; la foto de la tienda enseña el frontal ("Multiusos y cristales"), no la lista | **NO entra (regla 2-bis).** Producto de limpieza → método 648/2004. Asevi sí publica listas Anexo VII completas por EAN (`asevicompany.com/fichas/listado_ingredientes/<EAN>.pdf`, 203 fichas), pero **este código no está entre ellas** y ninguna de las 203 es un vinagre; la ficha del producto en la web no trae ingredientes. Sin lista oficial, fuera. Si Asevi la publica algún día, o Mariana manda foto de la etiqueta trasera, se hace la ficha y se abre la marca |
 
-**Asevi como marca (de propina).** Su portal de fichas cubre 203 referencias con EAN
-en la propia entrada y lista completa (sin rangos, formato "Lista de Ingredientes según
-648/2004/CE": AQUA, ALCOHOL, ... COLORANT). Es una marca de limpieza muy vendida
-(fregasuelos) que se podría curar entera con ese portal si alguna vez toca limpieza.
-Cómo se lee: la web va detrás de un reto JavaScript (SiteGuarding, no captcha visual):
-Playwright con el Chromium del contenedor lo pasa en ~30 s y deja la cookie `_I_`, que
-después vale para `curl`. La lista de fichas sale de la API de WordPress
-(`/es/wp-json/wp/v2/productoean?per_page=100&_fields=id,title,acf`, campos
-`acf.codigo_ean` y `acf.archivo`); los PDF usan fuentes CID con ToUnicode
-(`pdfcid.py` del scratchpad los lee).
+**Asevi como marca**: curada entera el 2026-09-21 desde ese portal (ver su apartado en la lista de marcas).
 
 ### 2026-09-17 · Fotos de Mariana: Elvive Total Repair 5 700 ml, Elvive Hidra Hialurónico mascarilla, Neutrogena Clear & Defend — versiones 2026-09-17a/b/c
 | Código | Producto | Resultado |
@@ -1018,6 +1009,60 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
 
+### Asevi (asevicompany.com) — cerrada 2026-09-21: 138 productos, 167 códigos (de 203 fichas en su portal)
+Asevi Home Brands (antes Pons Químicas, Xàbia): fregasuelos, detergentes, suavizantes,
+ambientadores, desinfectantes. Primera marca de limpieza curada **entera desde el
+fabricante**: publica el EAN y la lista completa de cada referencia en su propia web.
+- **Dónde está.** Buscador "Introduce el EAN" en el pie de cada ficha (`?s=<EAN>&post_type=productoean`),
+  que enlaza a `/fichas/listado_ingredientes/<EAN>.pdf`. El listado completo sale de la API
+  de WordPress: `/es/wp-json/wp/v2/productoean?per_page=100&page=N&_fields=id,title,acf`
+  (203 entradas; `acf.codigo_ean` y `acf.archivo`). Los PDF son "Lista de Ingredientes según
+  648/2004/CE, 907/2006/EC": nombre INCI por línea, en orden, sin rangos; los descriptivos
+  sin INCI van en castellano ("Poliester modificado", "Fosfonato de disodio"). Tres fichas
+  inglesas van en formato de bandas de concentración (CAS · nombre químico · INCI): se toma
+  el INCI, y el nombre químico si no lo hay.
+- **Acceso.** La web va detrás de un reto JavaScript (SiteGuarding, `/.well-known/sgcaptcha/`),
+  no un captcha visual: Playwright con el Chromium del contenedor lo pasa en ~30 s y deja la
+  cookie `_I_`, que luego vale para `curl` durante horas (`asv/pw.js`, `asv/ck.sh`).
+- **Lectura de los PDF.** Dos generadores distintos: fuentes CID con ToUnicode (hex) y PDF de
+  Word con fuentes WinAnsi (cadenas literales); algunos linealizados guardan la página 2 antes
+  que la 1 y otros parten `/Contents` en 8 trozos. `pdfcid.py` cubre los dos formatos, ordena
+  por `/Kids` y corta líneas por posición vertical; `asv/parse_all.py` separa nombre y lista
+  (cabeceras en castellano, rumano, polaco e inglés) y une las líneas partidas de los nombres
+  químicos largos (paréntesis sin cerrar, guion o coma al final).
+- **Qué queda fuera (36 de 203).** 14 fichas cuyo PDF da 404 en el portal (Higienizante Hogar y
+  Textil, los tres Fregasuelos Desinfectante, Desinfectante Textil 720/1440, Multiusos Gerpostar
+  95 ml, Limpiador y Baños Gerpostar 1280 ml, Antihollín Asevi-IQ y tres Consum). 21 fichas de
+  **marca blanca Consum** (fregasuelos, suavizantes, detergente, quitamanchas, perfumador):
+  son de Consum, no de Asevi; están bajadas y leídas por si algún día se abre esa marca.
+  Y `8411582881550` "PARDOSELI ASEVI CIAN": el portal le enlaza el PDF de Mio (el
+  identificador del producto dentro del PDF no coincide con el título), así que no se sabe
+  qué lista es la suya. Fuera.
+- **Envases de fuera de España.** 66 códigos son envases de Rumanía (`PARDOSELI`, `BALSAM`,
+  `DET RUFE`, `DEO`…), Polonia (`PL …`) o en inglés (`… FLOOR CLEANER`, `FABRIC CONDITIONER`).
+  EAN oficial y lista oficial igual que los españoles, así que entran; el nombre va en
+  castellano con "(envase de Rumanía)" / "(envase de Polonia)" / "(envase en inglés)". Cuando
+  la lista coincide exactamente con la del envase español (Fregasuelos Naranja rumano, Suavizante
+  Azul inglés…), el código se suma a la ficha española. Los nombres químicos descriptivos en
+  rumano, polaco o inglés se han pasado al castellano que usan las fichas españolas del mismo
+  producto (`TR` en `asv/gen_asevi.py`), y "perfumes" de las fichas inglesas es `Parfum`.
+- **Agrupación.** Lista idéntica = una ficha con todos sus tamaños (Fregasuelos Naranja 900 ml,
+  950 ml, 1 L y 1,15 L; Suavizante Azul 60, 84 y 125 lavados). Lista distinta = ficha aparte
+  aunque sea el mismo producto (Fregasuelos Mio 900 ml lleva 25 ingredientes y los otros
+  tamaños 27; Desinfectante Baños 750 ml y 1,1 L difieren). `COLORANT` se escribe `Colorante`
+  como en Fairy; las comas internas de los nombres químicos se quitan para no partir la lista.
+- **Rarezas oficiales que se dejan tal cual.** El Ambientador Primavera declara
+  "((3-(trifluorometil)piridin-2-il)sulfonil)carbamato de metilo"; el Desincrustante rumano
+  solo lleva Aqua, Hydrochloric Acid y colorante; el Limpión Lavadoras son tres sales. Es lo
+  que publica el fabricante.
+- **El vinagre de limpieza pedido por una usuaria (8411582242320) no está en el portal**: sigue
+  fuera (ver PEDIDOS 2026-09-18).
+Nombres: "<tipo> <variante> <tamaño>" ("Fregasuelos Mio (950 ml, 1 L y 1,15 L)", "Suavizante
+Hipoalergénico Talco Rosa (60, 84 y 125 lavados)", "Detergente Max Active 50 lavados"); las
+dosis "44D"/"40W" del portal son lavados. Scripts: `asv/pw.js`, `asv/ck.sh`, `pdfcid.py`,
+`asv/parse_all.py` (→ `asv/parsed.json`), `asv/gen_asevi.py` (→ `asv/asevi_final.json`),
+`asv/pdf/` (187 PDF).
+
 ### Rexona (rexona.com/es) — cerrada 2026-09-14: 14 productos, 14 códigos (de 25 con EAN en la web)
 Unilever, misma plataforma que Dove y misma vía (`dvcurl.sh`, listado paginado
 `/es/productos.html?page=productlist-31138391e9~N`, ficha `/es/p/<slug>.html/<GTIN-14>`,
@@ -1226,7 +1271,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
-| Asevi | sí (WP REST: `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`, fuentes CID) | limpieza; el vinagre pedido no está en su portal; ver PEDIDOS 2026-09-18 |
+| Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -1247,13 +1292,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-17)
-3577 códigos en 33 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-**Kérastase 59** · Neutrogena 56 · Bioderma 42 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
-**Sanex 15** · Rexona 14 · **Fairy 12** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
-Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · **Philip Martin's 1** · **Natulim 1** · **Carrefour 1** · **Erborian 30**. Ninguno de los
-2220 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+## Estado (2026-09-21)
+3744 códigos en 36 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · **Asevi 167** · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
+Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
+Sanex 15 · Rexona 14 · Fairy 12 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
+Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
+2358 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+Asevi cerrada con 167 códigos (138 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
 NYX cerrada con 999 códigos, todos `0800897…` (UPC-A de NYX; excepción a la regla 3, ver su
