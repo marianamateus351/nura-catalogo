@@ -784,6 +784,56 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
 | ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
+### 2026-09-21 · Decisiones de criterio sobre las cuatro sustancias de Asevi (para aplicar en la app)
+
+Decididas con los números del catálogo entero (2.355 fichas): DDAC 24 fichas de Hogar y
+0 de cosmética · TBHQ 4 y 0 · TBOEP 1 y 0 · alcoholes -eth sin laureth **81 de Hogar y 340
+de cosmética**. Tres entran como disruptor Emergente; la cuarta va a "otros" y solo Hogar.
+
+**a) DDAC → ya existe: ficha 198. No crear otra. Solo le falta el alias INCI.**
+Asevi escribe `Didecyldimonium Chloride` y la 198 solo conocía `didecyldimethylammonium
+chloride`. Sustituir estos campos en la 198 (riesgo Emergente se queda):
+- aliases: `Didecyldimonium Chloride, didecyldimethylammonium chloride, didecyl dimethyl ammonium chloride, DDAC, cloruro de didecildimetilamonio`
+- dondeSeEncuentra: `Desinfectantes de superficies y sanitarios, suavizantes y perfumadores de ropa con efecto higienizante, toallitas y limpiadores antibacterianos.`
+- mecanismo: `Amonio cuaternario ('quat'), de la misma familia que el cloruro de benzalconio. La señal viene de estudios en ratón con una mezcla de los dos (ADBAC + DDAC): menos camadas, menos ovulación y menos espermatozoides. En rata, un estudio de varias generaciones no vio efecto hasta dosis muy altas. No está claro cuánto de ese efecto es del DDAC solo, ni si ocurre con la exposición doméstica normal.`
+- evidencia: `Melin et al. 2014 y 2016 (ratón, mezcla ADBAC+DDAC); estudio multigeneracional en rata sin efecto hasta 1500 ppm. Sin clasificación como disruptor endocrino en ECHA; en la UE está regulado como biocida.`
+- alternativa: `Para limpieza diaria, jabón o detergente y agua. Reservar los desinfectantes con 'quats' para cuando haga falta desinfectar de verdad, y ventilar y aclarar después.`
+Comprobación: 24 fichas de Hogar (Asevi + Sanytol), 0 de cosmética.
+
+**b) TBHQ → disruptor, Emergente. Ficha nueva.**
+- nombre: `TBHQ (terc-butilhidroquinona)` · categoria: `Hogar` (sin soloCategoria: también E319 en alimentación y en labiales)
+- aliases: `tert-Butylhydroquinone, TBHQ, E319, t-butylhydroquinone, tertiary butylhydroquinone, mono-tert-butylhydroquinone` · cas: `1948-33-0` · riesgo: `Emergente`
+- dondeSeEncuentra: `Antioxidante sintético: detergentes, fregasuelos y quitamanchas (evita que las grasas y perfumes se oxiden); en alimentación como E319 en aceites, snacks y grasas; en algunos labiales y bálsamos.`
+- mecanismo: `En cribados de células (ToxCast) muestra una actividad hormonal muy débil, estrogénica y androgénica, y en células de mama reduce el receptor de estrógenos en presencia de estradiol. No hay estudios en animales que confirmen un efecto hormonal. Es una señal de laboratorio, no una evidencia de daño.`
+- evidencia: `Cribados ToxCast/Tox21 (in vitro); estudios en células MCF-7 y T-47D. EFSA (E319) no señala preocupación endocrina; ingesta diaria admisible de 0,7 mg/kg.`
+- alternativa: `Productos con antioxidantes naturales declarados: tocoferol (vitamina E), extracto de romero.` · fuente: `ToxCast · EFSA (E319)`
+Comprobación: 4 fichas de Asevi, 0 de cosmética.
+
+**c) TBOEP → disruptor, Emergente. Ficha nueva** (misma familia que TPHP 79 y TCEP 132; dejarlo fuera rompe la coherencia, y es de los organofosforados más detectados en polvo doméstico).
+- nombre: `Fosfato de tris(2-butoxietilo) (TBOEP)` · categoria: `Hogar`
+- aliases: `Tris(2-butoxyethyl) phosphate, TBOEP, TBEP, Tributoxyethyl phosphate, tris(2-butoxyethyl)phosphate` · cas: `78-51-3` · riesgo: `Emergente`
+- dondeSeEncuentra: `Abrillantadores y ceras de suelos, plásticos flexibles (PVC), algunas espumas. Se acumula en el polvo de casa.`
+- mecanismo: `Organofosforado usado como plastificante y retardante de llama. En pez cebra y en ensayos celulares altera las hormonas tiroideas y el desarrollo temprano. En mamíferos los datos son escasos y no permiten sacar conclusiones.`
+- evidencia: `Estudios en pez cebra y ensayos in vitro; biomonitoreo en polvo doméstico y orina (uno de los organofosforados más detectados). Sin clasificación como disruptor endocrino en ECHA.`
+- alternativa: `Abrillantadores sin fosfatos orgánicos; limpiar el polvo con paño húmedo y ventilar, que es por donde entra la mayor parte de la exposición.` · fuente: `Estudios en pez cebra · biomonitoreo`
+Comprobación: 1 ficha (el abrillantador), 0 de cosmética.
+
+**d) Alcoholes etoxilados -eth → NO entra en disruptores. Entra en OTROS_INGREDIENTES, solo Hogar.**
+Ampliar la 192 marcaría 340 fichas más de cosmética (14% del catálogo) por una preocupación que
+no es endocrina (1,4-dioxano, IARC 2B) y que en cosmética está controlada; ceteareth-20 va al
+1-3% como emulsionante. En un detergente, en cambio, el Pareth/Trideceth es el tensioactivo
+principal. "Otros a tener en cuenta" no puntúa: coherencia sin inflar el IEH. La 192 (laureth)
+se queda como está.
+- nombre: `Alcoholes etoxilados (pareth, trideceth, deceth…)` · soloCategoria: `Hogar`
+- aliases: `pareth, trideceth, deceth, undeceth, oleth, ceteareth, steareth, ceteth, alcohols ethoxylated, alcohol ethoxylate, alcoholes etoxilados`
+- nota: `Tensioactivos fabricados por etoxilación, que puede dejar trazas de 1,4-dioxano (posible cancerígeno, IARC 2B) que no aparecen en la etiqueta. No es un disruptor endocrino y no cuenta para tu índice; se lista porque en un detergente son el ingrediente principal. El laureth, el más estudiado, sigue en su propia ficha.`
+Comprobación: ~81 fichas de Asevi en "otros"; la cosmética no cambia ni un aviso.
+
+**Descartados, de acuerdo:** OTNE, metanol, 2-butoxietanol, xileno, DBNPA, IPBC.
+
+Al aplicar: barrer el catálogo entero y confirmar los cuatro números de comprobación. Cero
+cambios en cosmética salvo los indicados.
+
 ### 2026-09-16 · Huecos de marcas que YA tenemos + dos patrones nuevos
 
 Salen del panel de datos de la app (recuento de rutinas + escaneos en vacío), ya
