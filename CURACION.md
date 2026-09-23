@@ -1055,7 +1055,7 @@ esas farmacias publican se comparó ingrediente a ingrediente con la ficha de is
 | ~~8429420246843~~ | **FotoUltra Spot Prevent Color SPF 50+** | **ENTRA**: todas las farmacias lo dan como la versión COLOR (no la sin color, que es otra ficha) y la lista publicada con el EAN (farmacianautic, chachifarma) coincide con isdin.com. La pista de la tabla (Redness) era otra gama |
 | ~~8470001548887~~ | **Nutradeica Gel Crema Facial 50 ml** | **ENTRA**: ficha única en isdin.com; OBF tiene la portada (envase argentino, "Seborrheic skin"); incibeauty y farmavazquez publican con este EAN la misma lista que la web. La pista (Gel Cream SPF30) era otra gama |
 | ~~8470001902870~~ | **Fotoprotector Hydro Oil SPF 30 200 ml** | **ENTRA (2026-09-13c) con la lista de la etiqueta que fotografió Mariana en la farmacia** (envase ©2025, EAN visible en la foto): es la generación actual (Coco-Caprylate/Caprate, sin Octocrylene ni 4-MBC), pero **no idéntica a la ficha de isdin.com**: el envase no lleva Diethylhexyl Butamido Triazone y sí Amyl Salicylate, y cambia el orden Arginine/Glycerin. Va la del envase (regla de la generación). Las farmacias que publicaban Octocrylene copiaban la fórmula anterior; la web de ISDIN va una generación por detrás del lineal |
-| 8429420282087 | **Fotoprotector Scalp & Hair Spray SPF 50** | **ESPERA LA FOTO DE LA ETIQUETA**, mismo caso: parafarmaciacampoamor publica con este EAN la fórmula antigua (18 ingredientes, con Octocrylene, Butane/Propane) y skinsort/dermofarma la actual de isdin.com (37, con Pentaclethra Macroloba y Physalis). Con la etiqueta se decide en un minuto |
+| ~~8429420282087~~ | **Fotoprotector Scalp & Hair Spray SPF 50** | **ENTRA (2026-09-23d)** con la fórmula actual: Douglas ES publica para este EAN la lista de isdin.com (37 ingredientes). Antes: **esperaba la foto de la etiqueta**, mismo caso: parafarmaciacampoamor publica con este EAN la fórmula antigua (18 ingredientes, con Octocrylene, Butane/Propane) y skinsort/dermofarma la actual de isdin.com (37, con Pentaclethra Macroloba y Physalis). Con la etiqueta se decide en un minuto |
 | ~~8429420280113~~ (nuevo, fuera de la lista de 8) | **FotoUltra 100 Solar Allergy Protect SPF 50+ 50 ml** | **ENTRA (2026-09-13d)**: Mariana fotografió caja y código en la farmacia; la etiqueta (envase ©2025) es idéntica a la ficha de isdin.com, 35 ingredientes en el mismo orden |
 | 8429420084551 | ? | **SIN IDENTIFICAR**: no está en OBF, incibeauty, go-upc, upcitemdb ni en ninguna farmacia indexada. Serie `084…`, muy anterior a todo lo que tenemos: probablemente un envase antiguo o un formato de farmacia (muestra, pack). Hace falta la foto |
 
@@ -1166,6 +1166,69 @@ duplicadas por dos subidas y varias marcadas "discontinued").
   Pediatrics Transparent Spray, sticks, compactos, cápsulas (Heliocare oral no es cosmética).
 Los EAN de los 20 productos fuera están en `hel/dg_heliocare.json` y `hel/sl_lists.json`:
 con una foto de etiqueta entran en cinco minutos.
+
+### ISDIN — ampliada 2026-09-23: 60 productos, 68 códigos (antes 23 y 25)
+La vía nueva que faltaba desde el principio: isdin.com da el INCI oficial de 252 fichas pero
+no el EAN, y ahora el EAN sale de dos tiendas que publican código + lista, y **solo entra un
+código si la lista que la tienda publica con él es idéntica (erratas y alérgenos aparte) a
+una ficha de isdin.com de ese mismo producto**. Fuentes:
+- **Douglas ES** (`/es/search?q=isdin` da 49 fichas de ISDIN/Bexident; la API
+  `api/v2/products/<id>?fields=FULL&lang=es` trae `ean` e `ingredients`): 41 con lista, 28 de
+  ellas idénticas a isdin.com.
+- **SkinLovers** (Shopify, `barcode` en el JSON y bloque "Ingredients"): 120 fichas, 77 con
+  lista, 26 idénticas a isdin.com.
+- Lo que no casa con ninguna ficha oficial se queda fuera aunque tenga código y lista (unos
+  50 códigos: fórmulas anteriores, promo packs de ampollas, Lambdapil cápsulas, Bexident
+  colutorios/pastas sin lista…). Están en `nx/isdin_match2.txt` por si algún día hay etiqueta.
+- **Fuera por copia de lista**: SkinLovers repite listas entre fichas, exactamente el patrón de
+  Nautic con Erborian. 8429420243385 "Salicylic Renewal Serum" lleva la lista de K-Ox Eyes;
+  8429420206694 "Nutraisdin AF" (pomada con miconazol, un medicamento) lleva la de la Pomada
+  Reparadora; 8470003331180 "Gel Cream SPF 50" lleva en SkinLovers la lista del Gel Cream
+  SPF 30 (entra igualmente porque **Douglas** sí da para ese código la lista del SPF 50 de
+  isdin.com); 8470001507983 (tubo 10 ml con el nombre viejo "Nutrabalm") lleva la misma lista
+  que 8470001507990, y como isdin.com sigue teniendo dos fichas vivas del tubo con dos
+  fórmulas, sigue fuera; entra solo 8470001507990.
+- **Reformulaciones**: el HydroLotion 8429420192232 lleva en Douglas la fórmula actual de
+  isdin.com y en SkinLovers la anterior (Octocrylene, Isohexadecane); en el catálogo sigue con
+  la anterior, que es la del envase que se fotografió (decisión del 2026-09-09). Mismo caso el
+  Hydro Oil (Douglas = web, catálogo = etiqueta). El Pediatrics Gel Cream 8470001527332 es
+  al revés: SkinLovers = web actual, Douglas = fórmula vieja; entra la actual.
+- **Resuelto el pendiente del 2026-09-13**: 8429420282087 Scalp & Hair Spray SPF 50 entra con
+  la fórmula actual (37 ingredientes), que ahora confirman Douglas e isdin.com para ese EAN.
+- Códigos añadidos a productos que ya estaban (mismo producto, segundo EAN): Redness
+  8429420245303, Spot Prevent Color 8429420246850, Eryfotona Night 8429420285026.
+- Packs con el mismo INCI van como un código más del producto (Woman Higiene Íntima 2×200,
+  Ureadin Lotion10 1000 ml junto al 750 ml); el pack Bexident Encías 2×500 va solo porque el
+  bote suelto no tiene lista en ninguna tienda.
+- Corregida una ligadura rota de isdin.com ("Zingiber O_x001E_cinale" → Officinale) que estaba
+  en el Gel Cream SPF 30 del catálogo y en tres fichas nuevas.
+Scripts: `nx/match_isdin2.py` (cruce), `nx/inci_cmp.py` (comparación tolerante a erratas y
+alérgenos), `nx/gen_isdin_final.py` (lista final; conserva lo que ya estaba), `nx/dg/`.
+
+### Consum (marca blanca) — abierta 2026-09-23: 19 productos, 19 códigos (de 22 fichas)
+Sale del portal de Asevi, que la fabrica (ver Asevi): 22 fichas "CONSUM …" en el WP REST
+`productoean`, con EAN de Consum (`8414807…`) y PDF de ingredientes del Anexo VII; 3 PDF dan
+404. Mismos scripts y misma lectura que Asevi (`asv/parsed.json` → `asv/consum_final.json`).
+Fregasuelos (7), suavizantes (9), detergente, quitamanchas y perfumador de ropa. Consum
+también vende cosmética de marca blanca, pero eso no está en Asevi: si un día interesa, es
+otra vía.
+
+### Sesderma — abierta 2026-09-23: 11 productos, 11 códigos
+sesderma.com sigue sin publicar el INCI (ver arriba), así que va como Heliocare/Biretix:
+**dos fuentes idénticas o nada**.
+- EAN + lista: **SkinLovers** (94 fichas, 28 con lista) y **Douglas ES** (43 fichas de
+  Sesderma, 23 con lista). Contraste: **incidecoder** (la página de marca solo enseña 96
+  fichas; buscando gama a gama salen 79 más, 175 con lista).
+- Entran los 11 con lista idéntica en dos fuentes: Seslash, C-Vit Contorno de Ojos, Daeses
+  Mascarilla, Sesnatura Cuerpo y Busto y Repaskin Urban 365 Piel Sensible (SkinLovers =
+  incidecoder); Azelac RU Gel Crema, Repaskin Dry Touch, Factor G Renew Óvalo y Contorno de
+  Ojos, Abradermol (Douglas = incidecoder, tres con erratas de Douglas); Repaskin Urban 365
+  Despigmentante (SkinLovers = Douglas).
+- Fuera 28 códigos con lista en una sola fuente o distinta en cada una (Sesderma reformula
+  tanto como Heliocare: C-Vit crema, Hidraderm Hyal, Reti Age, Mesoses, Azelac hidratante,
+  Repaskin Silk Touch, Sesbalance, Retisil, Oceanskin…), entre ellos 5 fichas cuya
+  "lista" es una frase de marketing. Todo en `nx/ses_match.json`.
+Scripts: `nx/match_ses.py`, `nx/gen_ses_final.py`, `nx/ic_sesderma_lists2.json`.
 
 ### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
 **La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
@@ -1503,9 +1566,9 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
-| ISDIN | sí (310 fichas) | **no** | sí | INCI sí, pero no publica EAN: los códigos hay que sacarlos de Open*Facts |
+| ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
-| Sesderma | sí (~120 fichas ES) | no | no | Magento PWA renderizado por JavaScript; solo expone el SKU interno |
+| Sesderma | sí (~120 fichas ES) | no; Douglas ES y SkinLovers | no; SkinLovers, Douglas e incidecoder | dos fuentes idénticas o nada (11 códigos); ver su apartado |
 | SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
@@ -1535,6 +1598,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Pantene · Head & Shoulders · Herbal Essences · Aussie | sí (`haircode.es/sitemap.xml`, 46 fichas; el listado visible solo enseña 20) | **sí** (`templateProps.ean` en `__NEXT_DATA__`) | **sí**, completo (`ingredientsSection.ingredientsText`) | web capilar oficial de P&G España; las webs UK/FR/IT se contradicen entre sí por EAN; ver su apartado |
 | Biretix (Cantabria Labs) | sí (`sitemap.xml` de cantabrialabs.es, 15 fichas) | **no** (solo CN); EAN en la API de Douglas ES y en el JSON de SkinLovers | **no** (solo activos); INCI en incidecoder, SkinLovers y shop-apotheke, más etiqueta OBF | dos fuentes idénticas o nada; ver su apartado |
 | Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
+| Consum (marca blanca) | portal de Asevi (22 fichas `CONSUM …`) | **sí** (`acf.codigo_ean`) | sí, PDF Anexo VII por EAN | igual que Asevi; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -1556,13 +1620,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-23)
-3850 códigos en 44 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3912 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Kérastase 59 · Neutrogena 56 · Bioderma 42 · **Cocunat 39** · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Pantene 18 ·
-Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · **Freshly 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 ·
-SkinCeuticals 6 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 · **Heliocare 5** · Elmex 2 ·
-Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
-2458 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+**ISDIN 68** · Kérastase 59 · Neutrogena 56 · Bioderma 42 · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
+**Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 · **Sesderma 11** ·
+Aussie 10 · Herbal Essences 9 · Biretix 8 · SkinCeuticals 6 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
+Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
+Carrefour 1. Ninguno de los 2514 productos está sin INCI. Instituto Español sigue vacía.
+ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).

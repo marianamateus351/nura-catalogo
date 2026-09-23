@@ -1,5 +1,5 @@
 {
- "version": "2026-09-23c",
+ "version": "2026-09-23d",
  "marcas": [
   {
    "key": "larocheposay",
@@ -1716,6 +1716,24 @@
      "inci": "Aqua (Water), Alcohol Denat., Glycolic Acid, Glycerin, Dipropylene Glycol, Salicylic Acid, Ammonium Hydroxide, PPG-1-PEG-9 Lauryl Glycol Ether, Disodium EDTA"
     },
     {
+     "nombre": "Acniben Exfoliante Suave 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420242210"
+     ],
+     "inci": "Aqua (Water), Cellulose, Sorbitol, Betaine, Niacinamide, Coco-Glucoside, Decyl Glucoside, Hydroxyethylcellulose, Sclerotium Gum, Sphingomonas Ferment Extract, Sodium Benzoate, Zinc PCA, Potassium Sorbate, Sodium Metabisulfite, Citric Acid, Tetrasodium Glutamate Diacetate, Parfum (Fragrance), CI 42090 (Blue 1), CI 19140 (Yellow 5)"
+    },
+    {
+     "nombre": "Acniben Night Concentrate 27 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420236219"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Niacinamide, Betaine, Lauryl PEG/PPG-18/18 Methicone, Propanediol, Silica, Dibutyl Adipate, Alcohol Denat., Zinc PCA, 1,2-Hexanediol, Pentylene Glycol, Caprylyl Glycol, 4-T-Butylcyclohexanol, Sodium Acrylates Crosspolymer-2, Polyacrylate Crosspolymer-6, Xylitol, Caprylic Acid, Tocopheryl Acetate, Sphingomonas Ferment Extract, Caprylic/Capric Triglyceride, Glycerin, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum (Fragrance), Maltodextrin, Bixa Orellana Seed Extract, Hydrolyzed Opuntia Ficus Indica Flower Extract, Disodium EDTA, Tocopherol, Retinal (Retinaldehyde), Sodium Hydroxide, Phospholipids, T-Butyl Alcohol, Citral, Ascorbic Acid"
+    },
+    {
      "nombre": "Acniben Repair Gel-Crema Calmante",
      "include": [],
      "exclude": [],
@@ -1723,6 +1741,51 @@
       "8470002000704"
      ],
      "inci": "Aqua (Water), Glycerin, Isodecyl Neopentanoate, Cyclopentasiloxane, Nylon-12, Cyclohexasiloxane, Cetyl Alcohol, Dimethicone, Polyacrylamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexylglycerin, PPG-15 Stearyl Ether, C13-14 Isoparan, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dime- thiconol, Laureth-7, Sodium Hyaluronate, BHT, Biosaccharide Gum-2, Disodium EDTA, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Babynaturals Crema Facial 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420181106"
+     ],
+     "inci": "Aqua (Water), Coco-Caprylate/Caprate, Glycerin, Caprylic/Capric Triglyceride, Undecane, Methylpropanediol, Propanediol, Tridecane, Butyrospermum Parkii (Shea Butter), Lysolecithin, Sclerotium Gum, Caprylyl Glycol, Alpha-Glucan Oligosaccharide, Cetyl Alcohol, Gossypium Herbaceum (Cotton) Seed Oil, Pullulan, Xanthan Gum, Parfum (Fragrance), Sodium Acrylates Copolymer, Hydrogenated Polydecene, Tocopheryl Acetate, Phenylpropanol, Helianthus Annuus (Sunflower) Seed Oil, Phospholipids, Polyglyceryl-10 Stearate, Silica, Tocopherol, Helichrysum Italicum Extract, Lecithin, Ascorbyl Palmitate, Citric Acid"
+    },
+    {
+     "nombre": "Babynaturals Primeros Dientes Gel 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420181113"
+     ],
+     "inci": "Aqua (Water), Xanthan Gum, Glycerin, Panthenol, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol, Aroma (Flavor), Potassium Sorbate, Sodium Hyaluronate, Citric Acid, Dipotassium Glycyrrhizate, Pantolactone, Helichrysum Italicum Extract"
+    },
+    {
+     "nombre": "Bexident Dientes Sensibles Gel Tópico 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420184985"
+     ],
+     "inci": "Aqua (Water), Potassium Nitrate, Propylene Glycol, Sorbitol, Hydroxyethylcellulose, Panthenol, Sodium Monofluorophosphate, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Dipotassium Glycyrrhizate, Laureth-9, Sodium Citrate, Allantoin, Aroma (Flavor), Sodium Saccharin, Citric Acid, O-Cymen-5-Ol, Cetylpyridinium Chloride, Aloe Barbadensis Leaf Juice, Limonene, Potassium Sorbate"
+    },
+    {
+     "nombre": "Bexident Encías Uso Diario Colutorio (pack 2 × 500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420280441"
+     ],
+     "inci": "Aqua (Water), Propylene Glycol, Sorbitol, Panthenol, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Aroma (Flavor), Sodium Monofluorophosphate, Sodium Saccharin, O-Cymen-5-Ol, Citric Acid, Sodium Citrate, Allantoin, Cetylpyridinium Chloride, Aloe Barbadensis Leaf Juice, Eugenol, Limonene, Potassium Sorbate"
+    },
+    {
+     "nombre": "Bexident Post Tratamiento Coadyuvante Gel Tópico 25 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420184794"
+     ],
+     "inci": "Aqua (Water), Sorbitol, Glycerin, Panthenol, PEG-60 Hydrogenated Castor Oil, Hydroxyethylcellulose, Chitosan, Poloxamer 188, Lactic Acid/, Chlorhexidine Digluconate, Aroma (Flavor), Allantoin, Sodium Saccharin, Eugenol, Limonene, BHT"
     },
     {
      "nombre": "Eryfotona AK-NMSC Fluid SPF 100+",
@@ -1738,9 +1801,46 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8429420285019"
+      "8429420285019",
+      "8429420285026"
      ],
      "inci": "Aqua (Water), Propanediol, Niacinamide, Glycerin, Alcohol Denat., Pentylene Glycol, Hydrogenated Lecithin, Caprylyl Glycol, Phenylpropanol, Bakuchiol, Tocopheryl Acetate, Allantoin, Mannitol, Phosphatidylcholine, Tetrasodium Glutamate Diacetate, Melatonin, Sphingomonas Ferment Extract, Diosmine, Citric Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Lecithin, Micrococcus Lysate, Xanthan Gum, Hydroxyacetophenone, Phenethyl Alcohol, Sodium Chloride, Tocopherol"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Body Glow SPF 30 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420311404"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, CI 77891 (Titanium Dioxide), Diethylhexyl Butamido Triazone, Synthetic Fluorphlogopite, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Phenylbenzimidazole Sulfonic Acid, Poly C10-30 Alkyl Acrylate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Alumina, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydroxyacetophenone, Oryza Sativa (Rice) Bran Cera (Wax), Mica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Parfum (Fragrance), Tocopheryl Acetate, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Metabisulfite, CI 77491 (Iron Oxides), Tetrasodium Glutamate Diacetate, Pistacia Lentiscus (Mastic) Gum, Tin Oxide, T-Butyl Alcohol, Citric Acid"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Body Lotion Pediatrics SPF 50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420312388"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Dibutyl Adipate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Sebacate, Diisopropyl Adipate, Caprylyl Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C14-22 Alcohols, C13-15 Alkane, Phenylpropanol, Glycerin, Hydroxyacetophenone, Panthenol, Tocopheryl Acetate, Sodium Hydroxide, Ethylcellulose, Polysorbate 60, Poly C10-30 Alkyl Acrylate, Caprylyl Glycol, C12-20 Alkyl Glucoside, Parfum (Fragrance), Polyacrylate Crosspolymer-6, Dimethicone/Vinyl Dimethicone Crosspolymer, Tetrasodium Glutamate Diacetate, Sphingomonas Ferment Extract, Xanthan Gum, Helichrysum Italicum Extract, Tocopherol, Citric Acid"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Body Lotion SPF 50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420312432"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Dibutyl Adipate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Sebacate, Diisopropyl Adipate, Caprylyl Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C14-22 Alcohols, C13-15 Alkane, Phenylpropanol, Hydroxyacetophenone, Sodium Hydroxide, Ethylcellulose, Polysorbate 60, Poly C10-30 Alkyl Acrylate, Caprylyl Glycol, Parfum (Fragrance), Tocopheryl Acetate, C12-20 Alkyl Glucoside, Panthenol, Polyacrylate Crosspolymer-6, Zingiber Officinale (Ginger) Root Extract, Dimethicone/Vinyl Dimethicone Crosspolymer, Tetrasodium Glutamate Diacetate, Sphingomonas Ferment Extract, Xanthan Gum, Amyl Salicylate, Tocopherol, Citric Acid"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Coverage SPF 50+ 1.0 Pearl 30 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420313590"
+     ],
+     "inci": "Aqua (Water), CI 77891 (Titanium Dioxide), Coco-Caprylate/Caprate, DibutylAdipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetyl PEG/PPG-10/1 Dimethicone, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Boron Nitride, C9-12 Alkane, Phenethyl Benzoate, Pentylene Glycol, Tapioca Starch, Caprylic/Capric Triglyceride, CI 77492 (Iron Oxides), Polyhydroxystearic Acid, Silica Dimethyl Silylate, Sodium Chloride, Sorbitan Olivate, Simmondsia Chinensis (Jojoba) Seed Oil, Dimethicone, Camelina Sativa Seed Oil, Hydroxyacetophenone, CI 77491 (Iron Oxides), Neopentyl Glycol Diethylhexanoate, Aluminum Hydroxide, Triethoxycaprylylsilane, Parfum (Fragrance), Disteardimonium Hectorite, CI 77499 (Iron Oxides), Caprylyl Glycol, Tocopheryl Acetate, Thymus Vulgaris (Thyme) Flower/Leaf/Stem Extract, Dimethicone Crosspolymer, Tetrasodium Glutamate Diacetate, Propylene Carbonate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Dunaliella Salina Extract, Triisopropanolamine"
     },
     {
      "nombre": "Fotoprotector ISDIN Facial Mist SPF 50 100 ml",
@@ -1752,6 +1852,15 @@
      "inci": "Isobutane, Aqua (Water), Dimethicone, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Diethylhexyl Butamido Triazone, Ethylhexyl Salicylate, Diisopropyl Sebacate, Drometrizole Trisiloxane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Betaine, Glycerin, Silica, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Phenethyl Benzoate, Sodium PCA, Pentylene Glycol, Disodium Phenyl Dibenzimidazole Tetrasulfonate, 2, 3-Butanediol, Trimethylsiloxysilicate, Caprylic/Capric Triglyceride, Phenylpropanol, Caprylyl Glycol, Diphenylsiloxy Phenyl Trimethicone, Parfum (Fragrance), Silica Dimethyl Silylate, Arginine, PEG/PPG-20/15 Dimethicone, Propanediol, Hydroxyacetophenone, Tocopheryl Acetate, Sodium Chloride, Ethylhexylglycerin, Hydrolyzed Hyaluronic Acid, Xanthan Gum, Tocopherol, Citric Acid"
     },
     {
+     "nombre": "Fotoprotector ISDIN Fusion Fluid SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001525369"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Cyclopentasiloxane, Octocrylene, Alcohol Denat., Butyl Methoxydibenzoylmethane, Cyclohexasiloxane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, PEG-30 Dipolyhydroxystearate, Nylon-12, Titanium Dioxide (nano), PEG-10 Dimethicone, Sodium Chloride, Phenoxyethanol, Dimethicone, Disteardimonium Hectorite, Silica, Allantoin, Glyceryl Stearate, Parfum (Fragrance), Disodium EDTA, Ethylhexylglycerin, Sodium Hyaluronate, Dimethiconol, PEG-8, Tocopherol, Ascorbyl Palmitate, Ascorbic Acid, Citric Acid"
+    },
+    {
      "nombre": "Fotoprotector ISDIN Fusion Water Magic by Alcaraz SPF 50",
      "include": [],
      "exclude": [],
@@ -1761,13 +1870,68 @@
      "inci": "Aqua (Water), Dibutyl Adipate, Propanediol, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Silica, Diisopropyl Sebacate, Arginine, Pentylene Glycol, Hydroxyacetophenone, Lauryl PEG/PPG-18/18 Methicone, VP/Eicosene Copolymer, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Glycerin, Caprylyl Glycol, Hydrated Silica, Tocopheryl Acetate, PEG-10 Dimethicone, Tetrasodium Glutamate Diacetate, Parfum (Fragrance), Sclerotium Gum, Sodium Hyaluronate, Porphyridium Cruentum Extract, Caprylic/Capric Triglyceride, Xanthan Gum, Physalis Pubescens Fruit Juice, Tocopherol"
     },
     {
+     "nombre": "Fotoprotector ISDIN Fusion Water MAGIC Color Medium SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420306752"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Dibutyl Adipate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, CI 77891 (Titanium Dioxide), Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Propanediol, Arginine, Pentylene Glycol, Glyceryl Oleate, Glycerin, Calcium Sodium Borosilicate, Hydroxyacetophenone, Dimethicone/Vinyl Dimethicone Crosspolymer, CI 77492 (Iron Oxides), Parfum (Fragrance), Caprylyl Glycol, Hydrated Silica, Tocopheryl Acetate, Polysorbate 60, PEG-10 Dimethicone, Aluminum Hydroxide, Tetrasodium Glutamate Diacetate, Sclerotium Gum, Sodium Hyaluronate, CI 77491 (Iron Oxides), Porphyridium Cruentum Extract, Xanthan Gum, CI 77499 (Iron Oxides), Sodium Lauroyl Glutamate, Lysine, Magnesium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Fusion Water MAGIC Glow SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420307247"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Sebacate, Propanediol, Arginine, Undecane, Pentylene Glycol, CI 77891 (Titanium Dioxide), Synthetic Fluorphlogopite, Alumina, Tridecane, Hydroxyacetophenone, Lauryl PEG/PPG-18/18 Methicone, Panthenol, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Glycerin, Caprylyl Glycol, PEG-10 Dimethicone, Sodium Hydroxide, CI 77491 (Iron Oxides), Tetrasodium Glutamate Diacetate, Parfum (Fragrance), Sclerotium Gum, Porphyridium Cruentum Extract, Potassium Cetyl Phosphate, Xanthan Gum, Tin Oxide, Tocopherol"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Fusion Water MAGIC Repair Color SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420281622",
+      "8429420282421"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Dibutyl Adipate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, CI 77891 (Titanium Dioxide), Propanediol, Phenylbenzimidazole Sulfonic Acid, Glycerin, Arginine, Pentylene Glycol, Glyceryl Oleate, CI 77492 (Iron Oxides), Butylene Glycol, Calcium Sodium Borosilicate, Hydroxyacetophenone, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum (Fragrance), CI 77491 (Iron Oxides), Caprylyl Glycol, Hydrated Silica, Tocopheryl Acetate, Polysorbate 60, PEG-10 Dimethicone, CI 77499 (Iron Oxides), Aluminum Hydroxide, Tetrasodium Glutamate Diacetate, Caesalpinia Spinosa Gum, Sclerotium Gum, Sodium Hyaluronate, Xanthan Gum, Sodium Lauroyl Glutamate, Carbomer, Lysine, Polysorbate 20, Sodium Lactate, Magnesium Chloride, Sodium Hydroxide, Phenoxyethanol, Sodium Benzoate, Lecithin, Plankton Extract, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Pentapeptide-34 Trifluoroacetate"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Fusion Water MAGIC Repair SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420281547"
+     ],
+     "inci": "Aqua (Water), Propanediol, Dibutyl Adipate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Silica, Diisopropyl Sebacate, Arginine, Undecane, Pentylene Glycol, Glycerin, Tridecane, Butylene Glycol, Hydroxyacetophenone, Lauryl PEG/PPG-18/18 Methicone, VP/Eicosene Copolymer, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Polyacrylate Starch, Caprylyl Glycol, Hydrated Silica, Tocopheryl Acetate, PEG-10 Dimethicone, Tetrasodium Glutamate Diacetate, Parfum (Fragrance), Sclerotium Gum, Sodium Hyaluronate, Xanthan Gum, Carbomer, Polysorbate 20, Sodium Lactate, Phenoxyethanol, Sodium Benzoate, Lecithin, Plankton Extract, Tocopherol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Pentapeptide-34 Trifluoroacetate"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Fusion Water MAGIC SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420306240"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Propanediol, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Silica, Diisopropyl Sebacate, Arginine, Pentylene Glycol, Hydroxyacetophenone, Lauryl PEG/PPG-18/18 Methicone, VP/Eicosene Copolymer, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Glycerin, Caprylyl Glycol, Hydrated Silica, Tocopheryl Acetate, PEG-10 Dimethicone, Tetrasodium Glutamate Diacetate, Parfum (Fragrance), Sclerotium Gum, Sodium Hyaluronate, Porphyridium Cruentum Extract, Xanthan Gum, Citric Acid"
+    },
+    {
      "nombre": "Fotoprotector ISDIN Gel Cream SPF 30",
      "include": [],
      "exclude": [],
      "barcodes": [
       "8470001549990"
      ],
-     "inci": "Aqua (Water), Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Phenylbenzimidazole Sulfonic Acid, Poly C10-30 Alkyl Acrylate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydroxyacetophenone, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Parfum (Fragrance), Sodium Hydroxide, Xanthan Gum, Tetrasodium Glutamate Diacetate, Zingiber O_x001E_cinale (Ginger) Root Extract, T-Butyl Alcohol"
+     "inci": "Aqua (Water), Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Propanediol, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Phenylbenzimidazole Sulfonic Acid, Poly C10-30 Alkyl Acrylate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydroxyacetophenone, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Parfum (Fragrance), Sodium Hydroxide, Xanthan Gum, Tetrasodium Glutamate Diacetate, Zingiber Officinale (Ginger) Root Extract, T-Butyl Alcohol"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Gel Cream Wet Skin SPF 50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003331180"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Isopropyl Palmitate, Cetearyl Ethylhexanoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Silica, Pentylene Glycol, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, C20-22 Alkyl Phosphate, C20-22 Alcohols, Polyacrylate Crosspolymer-6, Caprylyl Glycol, Hydroxyacetophenone, Sodium Hydroxide, Poly C10-30 Alkyl Acrylate, Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Glyceryl Stearate, PEG-100 Stearate, Parfum (Fragrance), Tetrasodium Glutamate Diacetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Zingiber Ocinale (Ginger) Root Extract, T-Butyl Alcohol"
     },
     {
      "nombre": "Fotoprotector ISDIN Hydro Oil SPF 30 200 ml",
@@ -1797,6 +1961,15 @@
      "inci": "Dicaprylyl Carbonate, Dibutyl Adipate, Hydrogenated Castor Oil, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Candelilla Cera (Euphorbia Cerifera Wax), Cocoglycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Silica, Butyrospermum Parkii (Shea) Butter, Brassica Campestris (Rapeseed) Sterols, Cetearyl Alcohol, Panthenol, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Extract, Tocopherol, Phaeodactylum Tricornutum Extract, Citric Acid"
     },
     {
+     "nombre": "Fotoprotector ISDIN Pediatrics Gel Cream Wet Skin SPF 50 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001527332"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Isopropyl Palmitate, Cetearyl Ethylhexanoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Me- thoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Pentylene Glycol, C20-22 Alkyl Phosphate, Poly C10-30 Alkyl Acrylate, C20-22 Alcohols, Caprylyl Glycol, Hydroxyacetophenone, Polyacrylate Crosspolymer-6, Sodium Hydroxide, Xanthan Gum, Panthenol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocin- namate, Tocopheryl Acetate, Glyceryl Stearate, PEG-100 Stearate, Tetrasodium Glutamate Diacetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glycerin, T-Butyl Alcohol, Helichrysum Italicum Extract"
+    },
+    {
      "nombre": "Fotoprotector ISDIN Pediatrics Lotion Spray SPF 50",
      "include": [],
      "exclude": [],
@@ -1806,6 +1979,15 @@
      "inci": "Isobutane, Aqua (Water), Dibutyl Adipate, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Isoamyl Laurate, Isononyl Isononanoate, Coco-Caprylate/Caprate, Ethylhexyl Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Caprylic/Capric Triglyceride, Silica, Pentylene Glycol, Glyceryl Oleate, Magnesium Sulfate, Sodium Chloride, Glycerin, Panthenol, Poly C10-30 Alkyl Acrylate, Tocopheryl Acetate, Disteardimonium Hectorite, Hydroxyacetophenone, Caprylyl Glycol, Propylene Carbonate, Tetrasodium Glutamate Diacetate, Glyceryl Stearate, Tocopherol, Helichrysum Italicum Extract, Lecithin, Ascorbyl Palmitate, Citric Acid"
     },
     {
+     "nombre": "Fotoprotector ISDIN Pediatrics Stick SPF 50 20 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420307964"
+     ],
+     "inci": "Dicaprylyl Carbonate, Dibutyl Adipate, Hydrogenated Castor Oil, Oryza Sativa (Rice) Bran Cera (Wax), Candelilla Cera (Euphorbia Cerifera Wax), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cocoglycerides, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyrospermum Parkii (Shea) Butter Extract, Butyrospermum Parkii (Shea) Butter, Brassica Campestris (Rapeseed) Sterols, Cetearyl Alcohol, Silica, Pentylene Glycol, Parfum (Fragrance), Argania Spinosa Kernel Oil, Benzotriazolyl Dodecyl P-Cresol, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Spent Grain Wax, Ricinus Communis (Castor) Seed Oil, CI 19140 (Yellow 5 Lake), Tocopherol, Isopropyl Titanium Triisostearate, Citric Ac"
+    },
+    {
      "nombre": "Fotoprotector ISDIN Protector Labial SPF 30",
      "include": [],
      "exclude": [],
@@ -1813,6 +1995,15 @@
       "8429420135444"
      ],
      "inci": "Ricinus Communis (Castor) Seed Oil, Cera Microcristallina (Microcrystalline Wax), Dibutyl Adipate, Cocoglycerides, Oryza Sativa Cera (Oriza Sativa Rice Bran Wax), Caprylic/Capric Triglyceride, Bis-Diglyceryl Polyacyladipate-2, Ethylhexyl Salicylate, Octyldodecanol, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Hydrogenated Rapeseed Oil, Diethylhexyl Butamido Triazone, Poly C10-30 Alkyl Acrylate, Tocopheryl Acetate, Panthenol, Parfum (Fragrance), Shorea Stenoptera Seed Butter"
+    },
+    {
+     "nombre": "Fotoprotector ISDIN Scalp & Hair Spray SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420282087"
+     ],
+     "inci": "Isobutane, Aqua (Water), Alcohol Denat., Dibutyl Adipate, Diisopropyl Sebacate, Isopropyl Palmitate, Ethylhexyl Salicylate, Phenethyl Benzoate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, 1,2-Hexanediol, Phenylbenzimidazole Sulfonic Acid, Silica Dimethyl Silylate, Caprylic/Capric Triglyceride, Diethylhexyl Butamido Triazone, Arginine, Physalis Pubescens Fruit Juice, Glycerin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl Acetate, Pentaclethra Macroloba Seed Oil, Helianthus Annuus (Sunflower) Seed Extract, Parfum (Fragrance), Sclareolide, Tetrasodium Glutamate Diacetate, Amyl Salicylate, Phaeodactylum Tricornutum Extract, Magnolia Officinalis Bark Extract, Zingiber Officinale (Ginger) Root Extract, Pisum Sativum (Pea) Extract, Salvia Hispanica Seed Extract, Sodium Benzoate, Tocopherol"
     },
     {
      "nombre": "Fotoprotector ISDIN Transparent Spray Wet Skin SPF 50",
@@ -1838,7 +2029,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8429420245297"
+      "8429420245297",
+      "8429420245303"
      ],
      "inci": "Aqua (Water), Propylene Glycol Dicaprylate/Dicaprate, Coco-Caprylate/Caprate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [nano], C15-19 Alkane, Potassium Azeloyl Diglycinate, Alpha-Glucan Oligosaccharide, Pentylene Glycol, Polyglyceryl-6 Stearate, 1,2-Hexanediol, Caprylyl Glycol, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Polysorbate 60, Decyl Glucoside, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hesperidin Methyl Chalcone, Sphingomonas Ferment Extract, CI 77891 (Titanium Dioxide), Tetrasodium Glutamate Diacetate, Citric Acid, Polyglyceryl-6 Behenate, Mica, Propylene Glycol, Acrylates/Beheneth-25 Methacrylate Copolymer, Xanthan Gum, Tin Oxide, Tocopherol"
     },
@@ -1856,7 +2048,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8429420246843"
+      "8429420246843",
+      "8429420246850"
      ],
      "inci": "Aqua (Water), Dibutyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isododecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Sebacate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Caprylic/Capric Triglyceride, Glycerin, Niacinamide, Titanium Dioxide [nano], Titanium Dioxide, Polyglyceryl-6 Polyhydroxystearate, Polyglyceryl-6 Polyricinoleate, 1, 2-Hexanediol, Sodium Chloride, Stearalkonium Hectorite, Hydroxyacetophenone, Polyglyceryl-2 Dipolyhydroxystearate, Tocopheryl Acetate, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, CI 77492 (Iron Oxides), Sclareolide, Diethylhexyl Syringylidenemalonate, Dimethicone, Ethylhexylglycerin, CI 77491 (Iron Oxides), Glyceryl Stearate, Tetrasodium Glutamate Diacetate, CI 77499 (Iron Oxides), Triethoxycaprylylsilane"
     },
@@ -1898,6 +2091,115 @@
      "inci": "Paraffin, Paraffinum Liquidum (Mineral Oil), Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, C12-15 Alkyl Benzoate, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, C30-45 Alkyl Methicone, C30-45 Olefin, Polyisobutene, Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, Parfum (Fragrance), Tocopheryl Acetate, Punica Granatum Fruit Extract, Tocopherol, Silica Dimethyl Silylate, Butylene Glycol, Pentylene Glycol, Sodium Hyaluronate"
     },
     {
+     "nombre": "ISDIN Reparador Labial tubo 10 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001507990"
+     ],
+     "inci": "Petrolatum, Paraffinum Liquidum (Mineral Oil), Paraffin, Octyldodecanol, Butyrospermum Parkii (Shea) Butter, Panthenol, Copernicia Cerifera (Carnauba Wax) Cera, VP/Hexadecene Copolymer, Glycerin, Tocopheryl Acetate, Glycol Montanate, Allantoin, Parfum (Fragrance), Shorea Robusta Resin, Bisabolol, Rosa Canina Fruit Oil, Isocetyl Alcohol, Asiaticoside, Madecassic Acid, Asiatic Acid, Ceramide NP, Sodium Hyaluronate, Cetyl Alcohol, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "ISDIN Woman Higiene Íntima 200 ml (y pack 2 × 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001569745",
+      "8429420142039"
+     ],
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-200 Hydrogenated Glyceryl Palmate, Cocamide DEA, Alpha-Glucan Oligosaccharide, Betaine, Lactic Acid, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Glycine, Laureth-9, Hydrolyzed Wheat Gluten, Sodium Hydroxide, Parfum (Fragrance), Sodium Benzoate, Polyquaternium-10, Sodium Chloride, PEG-120 Methyl Glucose Trioleate, Propylene Glycol, Glycerin, Potassium Sorbate, Sodium Acetate, Benzoic Acid, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Isdinceutics A.G.E. Reverse Day 50 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001812353"
+     ],
+     "inci": "Aqua (Water)1, Butylene Glycol, Isodecyl Neopentanoate, Propanediol, Niacinamide, Glycerin1, Betaine, Caprylic/Capric Triglyceride, Silica, Dimethicone, Hydrogenated Polyisobutene, Stearyl Alcohol, Octyldodecanol, Dipentaerythrityl Hexacaprylate/Hexacaprate, Tridecyl Trimellitate, Phenylpropanol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Parfum (Fragrance), Cetearyl Alcohol, Potassium Olivoyl Hydrolyzed Oat Protein, Glyceryl Stearate, Carnosine, Tridecyl Stearate, Neopentyl Glycol Dicaprylate/Dicaprate, Glyceryl Oleate, Pentylene Glycol, Sodium Hyaluronate Crosspolymer, Disodium EDTA, PEG-8, Alteromonas Ferment Extract, Hydroxypropyl Cyclodextrin, Tetradecyl Aminobutyroylvalylaminobutyric Urea Trifluoroacetate1, Tocopherol, Benzyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ascorbyl Palmitate, Magnesium Chloride1, Alcohol Denat., Ascorbic Acid, Citric Acid, Palmitoyl Tripeptide-38, CI 15985 (Yellow 6), CI 19140 (Yellow 5)"
+    },
+    {
+     "nombre": "Isdinceutics Auriderm 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001769152"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Ethoxydiglycol, Propylene Glycol, Caprylic/Capric Triglyceride, Phytonadione Epoxide, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Triethanolamine, Carbomer, Styrene/Acrylates Copolymer, Tocopheryl Acetate, Phosphatidylcholine, Ascorbyl Palmitate, Tocopherol, Disodium EDTA, Sorbitan Oleate, Caprylyl/Capryl Glucoside, Parfum (Fragrance), Limonene, Alcohol, Oleic Acid, Sunflower Seed Oil Glyceride"
+    },
+    {
+     "nombre": "Isdinceutics Hyaluronic Concentrate 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420200678"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Propanediol, Glycerin, 1,2-Hexanediol, Sodium Acrylates Copolymer, Dimethicone Crosspolymer, Butylene Glycol, Pseudoalteromonas Ferment Extract, Glycereth-26, Lecithin, Maltodextrin, Sodium Benzoate, Pentylene Glycol, Lens Esculenta (Lentil) Seed Extract, Parfum (Fragrance), Disodium EDTA, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Xanthan Gum, Citric Acid, Biosaccharide Gum-1, Carbomer, Polysorbate 20, Sodium Lactate, Sodium Salicylate, Salicylic Acid, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7"
+    },
+    {
+     "nombre": "Isdinceutics Hyaluronic Moisture Piel Normal a Seca 50 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420222779"
+     ],
+     "inci": "Aqua (Water), C15-19 Alkane, Propanediol, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Cellulose, Sodium Acrylates Crosspolymer-2, Dimethicone, 1,2-Hexanediol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tocopheryl Acetate, Trehalose, Urea, Parfum (Fragrance), Tocopherol, Vigna Aconitifolia Seed Extract, Dimethicone Crosspolymer, Citric Acid, Maltodextrin, Sodium Hyaluronate, Tetrasodium Glutamate Diacetate, Hydrolyzed Hyaluronic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentylene Glycol, Serine, Camellia Japonica Flower Extract, Alteromonas Ferment Extract, Algin, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Potassium Phosphate, CI 42090 (Blue 1), CI 17200 (Red 33)"
+    },
+    {
+     "nombre": "Isdinceutics Hyaluronic Moisture Piel Sensible 50 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420222984"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propanediol, Glycerin, Butylene Glycol, Niacinamide, Cellulose, Pentylene Glycol, Sodium Acrylates Crosspolymer-2, Dimethicone, 1,2-Hexanediol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tocopheryl Acetate, 4-T-Butylcyclohexanol, Trehalose, Urea, Citric Acid, Tocopherol, Parfum (Fragrance), Vigna Aconitifolia Seed Extract, Dimethicone Crosspolymer, Maltodextrin, Sodium Hyaluronate, Tetrasodium Glutamate Diacetate, Hydrolyzed Hyaluronic Acid, Hydroxyphenyl Propamidobenzoic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Serine, Alteromonas Ferment Extract, Algin, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Ascorbyl Palmitate, Potassium Phosphate, CI 17200 (Red 33)"
+    },
+    {
+     "nombre": "Isdinceutics Instant Flash 5 ampollas × 2 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420165472"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propanediol, Caesalpinia Spinosa Fruit Extract, Phenoxyethanol, Kappaphycus Alvarezii Extract, Biosaccharide Gum-1, Lens Esculenta (Lentil) Seed Extract, Ethylhexylglycerin, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Xanthan Gum, Helichrysum Stoechas Extract, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Sodium Hydroxide, Sodium Benzoate, Pentapeptide-34 Trifluoroacetate"
+    },
+    {
+     "nombre": "Isdinceutics K-Ox Eyes 15 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001769183"
+     ],
+     "inci": "Aqua (Water), Glycerin, Isohexadecane, Isopropyl Myristate, PPG-15 Stearyl Ether, PEG-30 Dipolyhydroxystearate, Phytonadione Epoxide, Magnesium Sulfate, Phenoxyethanol, Cera Microcristallina (Microcrystalline Wax), Parfum (Fragrance), CI 77891 (Titanium Dioxide), Sodium Dextran Sulfate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Steareth-20, Hesperidin Methyl Chalcone, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, PEG-8, Pentylene Glycol, Tocopherol, Chlorhexidine Digluconate, N-Hydroxysuccinimide, Potassium Sorbate, BHT, Dipeptide-2, Ascorbyl Palmitate, Palmitoyl Tetrapeptide-7, Citric Acid, Ascorbic Acid, Chrysin, Palmitoyl Tripeptide-1, Sodium Citrate, Biotin"
+    },
+    {
+     "nombre": "Isdinceutics Melaclear 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420274730"
+     ],
+     "inci": "Aqua (Water), Propanediol, Gluconolactone, Dimethicone, Niacinamide, Alcohol Denat., Phytic Acid, Cocoglycerides, Silica, Polyacrylate Crosspolymer-6, Tranexamic Acid, C9-12 Alkane, Mandelic Acid, Sodium Hydroxide, Saccharide Isomerate, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Parfum (Fragrance), Tocopherol, Salicylic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, 4-Butylresorcinol, Polysilicone-11, Tocopheryl Acetate, Sclareolide, Sodium Metabisulfite, Xanthan Gum, Sodium Benzoate, PEG-10 Dimethicone, Disodium EDTA, T-Butyl Alcohol, Citric Acid, Sodium Citrate, CI 15985 (Yellow 6), CI 19140 (Yellow 5)"
+    },
+    {
+     "nombre": "Isdinceutics Retinal Intense 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420236912"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Dibutyl Adipate, Niacinamide, Isoamyl Laurate, Lauryl PEG/PPG-18/18 Methicone, Glycerin, Propanediol, Dimethicone/Vinyl Dimethicone Crosspolymer, Alcohol Denat., Bakuchiol, 1,2-Hexanediol, Pentylene Glycol, Caprylic/Capric Triglyceride, Ethylcellulose, Hydroxyacetophenone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, 4-T-Butylcyclohexanol, Caprylyl Glycol, Parfum (Fragrance), Sodium Acrylates Crosspolymer-2, Polyacrylate Crosspolymer-6, Vigna Aconitifolia Seed Extract, Tocopheryl Acetate, Tocopherol, Citric Acid, Xanthan Gum, Maltodextrin, Melatonin, Retinal (Retinaldehyde), Silica, Disodium EDTA, Phospholipids, Synthetic Fluorphlogopite, CI 77891 (Titanium Dioxide), Ascorbic Acid, T-Butyl Alcohol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Palmitoyl Tetrapeptide-7, Tin Oxide, Chrysin"
+    },
+    {
+     "nombre": "Isdinceutics Vital Eyes 15 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420202924"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propanediol, Dimethicone, Dicaprylyl Carbonate, Caffeine, Butyrospermum Parkii (Shea) Butter, Maltodextrin, Caprylic/Capric Triglyceride, Behenyl Alcohol, Olus Oil (Vegetable Oil), Dipentaerythrityl Hexacaprylate/Hexacaprate, Tridecyl Trimellitate, Cetearyl Alcohol, Dipotassium Glycyrrhizate, Sodium Polyacrylate, Candelilla Cera (Euphorbia Cerifera Wax), Unda-ria Pinnatifida Extract, Cetyl Alcohol, Glyceryl Stearate, Phenylpropanol, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Poly C10-30 Alkyl Acrylate, Tocopheryl Acetate, PEG-75 Stearate, Caprylyl Glycol, Tridecyl Stearate, Hydroxyethylcellulose, Sodium Hydroxide, Neopentyl Glycol Dicapryla-te/Dicaprate, Ceteth-20, Steareth-20, Melatonin, Parfum (Fragrance), Caesalpinia Spinosa Fruit Extract, Corallina Officinalis Extract, Disodium EDTA, PEG-8, Kappaphycus Alvarezii Extract, Potassium Sorbate, Tocopherol, Sodium Benzoate, Oryza Sativa (Rice) Extract, Ascorbyl Palmitate, Citric Acid, Ascorbic Acid"
+    },
+    {
      "nombre": "Lambdapil Champú Anticaída",
      "include": [],
      "exclude": [],
@@ -1914,6 +2216,43 @@
       "8470001548887"
      ],
      "inci": "Aqua (Water), Glycerin, Acetamide MEA, Isodecyl Neopentanoate, Cyclopentasiloxane, Pentylene Glycol, Cetyl Alcohol, Cyclohexasiloxane, Sclerotium Gum, Zinc PCA, Piroctone Olamine, Polyacrylamide, Polymethyl Methacrylate, Butylene Glycol, Stearyl Glycyrrhetinate, C13-14 Isoparaffin, Glyceryl Stearate, PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Hydroxide, Laureth-7, Biosaccharide Gum-2, Disodium EDTA, Hydroxyphenyl Propamidobenzoic Acid, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Psorisdin Champú Antidescamación 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001523464"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Triethanolamine, Urea, Glycolic Acid, Salicylic Acid, Cocamidopropyl Betaine, Decyl Glucoside, PEG-120 Methyl Glucose Dioleate, Sodium Cocoamphoacetate, Parfum (Fragrance), Laureth-9, Bis-PEG/PPG-20/20 Dimethicone, Phenoxyethanol, Sodium Shale Oil Sulfonate, Dihydroxypropyl PEG-5 Linoleammonium Chloride, Menthol, PEG-40 Hydrogenated Castor Oil, BHT, Disodium EDTA, Ethylhexylglycerin, Sodium Chloride, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Ureadin Cream 10 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429420305489"
+     ],
+     "inci": "Aqua (Water), Urea, Glycerin, Octyldodecanol, Cetyl Alcohol, Cetearyl Alcohol, Dimethicone, Panthenol, Phenylpropanol, 1,2-Hexanediol, Laureth-9, Potassium Cetyl Phosphate, Propanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Jojoba Esters, Tocopheryl Acetate, Allantoin, Parfum (Fragrance), Persea Gratissima (Avocado) Oil, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Cera (Wax), Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Polyglycerin-3, Acacia Decurrens Flower Cera (Wax), Lactic Acid, Tocopherol"
+    },
+    {
+     "nombre": "Ureadin Lotion10 Loción 750 ml / 1000 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001861412",
+      "8429420163232"
+     ],
+     "inci": "Aqua (Water), Urea, Isopropyl Myristate, Paraffinum Liquidum (Mineral Oil), Glyceryl Stearate, PEG-40 Stearate, Sorbitol, Cetearyl Ethylhexanoate, Dimethicone, Phenoxyethanol, Cetyl Alcohol, Persea Gratissima (Avocado) Oil, Carbomer, Allantoin, Palmitic Acid, Stearic Acid, Ethylhexylglycerin, Parfum (Fragrance), Sodium Hydroxide, Lactic Acid, Limonene, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Linalool, Benzyl Salicylate, Eugenol, Citral, Hydroxycitronellal, Coumarin"
+    },
+    {
+     "nombre": "Ureadin Ultra20 Crema 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002601826"
+     ],
+     "inci": "Aqua (Water), Urea, Isopropyl Myristate, Para num Liquidum (Mineral Oil), Glyceryl Stearate, PEG-40 Stearate, Sorbitol, Cetearyl Ethylhexanoate, Cetyl Alcohol, Dimethicone, Glycine, Phenoxyethanol, Persea Gratissima (Avocado) Oil, Carbomer, Allantoin, Palmitic Acid, Stearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Ethylhexylglycerin, Parfum (Fragrance), Sodium Hydroxide, Limonene, Hexyl Cinnamal, Lactic Acid, Alpha-Isomethyl Ionone, Linalool, Benzyl Salicylate, Eugenol, Citral, Hydroxycitronellal, Coumarin"
     }
    ]
   },
@@ -9837,7 +10176,107 @@
   {
    "key": "sesderma",
    "nombre": "Sesderma",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Abradermol Crema Microdermoabrasión 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002347908"
+     ],
+     "inci": "Aqua, Alumina, Caprylic/Capric Triglyceride, Niacinamide, Isohexadecane, Butyrospermum Parkii Butter Extract, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Propylene Glycol, Glycerin, Tocopheryl Acetate, Cyclopentasiloxane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethiconol, Disodium EDTA, Phenoxyethanol, Ethylparaben, Methylparaben, Parfum, Benzyl Alcohol, Geraniol, Citral, D-Limonene"
+    },
+    {
+     "nombre": "Azelac RU Gel Crema Intensivo 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979432940"
+     ],
+     "inci": "Aqua, Propanediol, Paraffinum Liquidum, Cyclopentasiloxane, Lecithin, Arachidyl Alcohol, Alcohol, Cetyl Alcohol, Undecylenoyl Phenylalanine, Tranexamic Acid, Retinol, Retinal, Palmitoyl Tripeptide-5, Nicotiana Benthamiana SH-Polypeptide-7, Niacin, Morus Alba Root Extract, Glycyrrhetinic Acid, Diacetyl Boldine, Bellis Perennis (Daisy) Flower Extract, Bakuchiol, Azelaic Acid, Ascorbyl Glucoside, 4-Butylresorcinol, 3-O-Ethyl Ascorbic Acid, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide 40 SH-Polypeptde 2, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Dimethicone/Vinyl Dimethicone Crosspolymer, Behenyl Alcohol, Arachidyl Glucoside, Triticum Vulgare Germ Extract, Propylene Glycol, Carbomer, Cyclohexasiloxane, Xanthan Gum, Dimethicone, Polysorbate 20, Citrus Grandis Fruit Extract, Sodium Cholate, Polysilicone-11, Sodium Hydroxide, Butylene Glycol, BHT, Tocopheryl Acetate, Disodium EDTA, Tocopherol, Glyceryl Stearate, Ascorbyl Palmitate, Silica, Sodium Chloride, Isoceteth-10, Caprylic/Capric Triglyceride, Glyceryl Oleate, Glycerin, Decyl Glucoside, Citric Acid, Tromethamine, Hydrochloric Acid, BHA, Hexylene Glycol, Caprylyl Glycol, Dipotassium Phosphate, Hydroxypropyl Cyclodextrin, Potassium Phosphate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "C-Vit Contorno de Ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979424464"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Propanediol, Pentylene Glycol, Caprylic/Capric Triglyceride, Propylene Glycol, Isostearyl Isostearate, Glycerin, PEG-100 Stearate, Glyceryl Stearate, PEG-40 Hydrogenated Castor Oil, Glyceryl Behenate, Cetyl Alcohol, Arachidyl Alcohol, Superoxide Dismutase, Resveratrol Dimethyl Ether, Quercetin, Pinanediol, Palmitoyl Tetrapeptide-7, Methylsilanol Mannuronate, Melilotus Officinalis Extract, Hydrolyzed Rice Bran Protein, Hesperidin Methyl Chalcone, Glycine Soja Protein, Ginkgo Biloba Leaf Extract, Dipeptide-2, Citrus Aurantium Dulcis Fruit Extract, Camphanediol, 3-O-Ethyl Ascorbic Acid, Palmitoyl Dipeptide-5 Diaminohydroxybutyrate, Palmitoyl Dipeptide-5 Diaminobutyroyl Hydroxythreonine, Cyclohexasiloxane, Behenyl Alcohol, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Lecithin, Arachidyl Glucoside, Alcohol, Mica, Titanium Dioxide, Triethanolamine, Polysorbate 20, Dimethicone/Vinyl Dimethicone Crosspolymer, BHT, Glyceryl Polyacrylate, Steareth-20, Disodium EDTA, Butylene Glycol, Sodium Chloride, Sodium Cholate, Sodium Citrate, Chlorhexidine Digluconate, Citric Acid, Sodium Dextran Sulfate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Parfum, Citronellyl Methylcrotonate, D-Limonene, Linalool, Citral, Ci 15985"
+    },
+    {
+     "nombre": "Daeses Mascarilla Reafirmante 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001533685"
+     ],
+     "inci": "Aqua, Titanium Dioxide, Glycerin, Propylene Glycol, Dimethyl MEA, Propanediol, Carbomer, Phenoxyethanol, Lactic Acid, Allantoin, Palmitoyl Tripeptide-5, Chamomilla Recutita Extract, Gentiana Lutea Root Extract, Hydrolyzed Elastin, Zinc Ricinoleate, Lysine, Hexyl Cinnamic Aldehyde, Methylparaben, Ethylparaben, Butylparaben, Propylparaben, Potassium Sorbate, Parfum, Citronellol, Coumarin, Geraniol, Linalool, Citral, Hydroxycitronellal, D-Limonene, Benzyl Benzoate, Benzyl Salicylate, Benzyl Alcohol, Farnesol, Isoeugenol"
+    },
+    {
+     "nombre": "Factor G Renew Contorno de Ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979480606"
+     ],
+     "inci": "Aqua, Tribehenin PEG-20 Esters, Propanediol, Isostearyl Isostearate, Glycerin, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Cyclohexasiloxane, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Nicotiana Benthamiana Hexapeptide 40 SH-Polypeptde 2, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Sh-Polypeptide-15 Hexapeptide-40, Alcohol, BHT, Butylene Glycol, Camphanediol, Carbomer, Dipotassium Phosphate, Disodium EDTA, Dl-Alpha-Tocopheryl Acetate, Ethylhexylglycerin, Hydrochloric Acid, Lecithin, Nicotiana Benthamiana SH-Oligopeptide-2, Nicotiana Benthamiana Sh-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Parfum, Phenoxyethanol, Phytonadione Epoxide, Pinanediol, Polysorbate 20, Potassium Phosphate, Retinal, Sodium Chloride, Sodium Cholate, Triethanolamine, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Factor G Renew Óvalo Facial y Cuello 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979426345"
+     ],
+     "inci": "Aqua, Glycerin, Tribehenin PEG-20 Esters, Caprylic/Capric Triglyceride, Propanediol, Isostearyl Isostearate, Cyclopentasiloxane, Lecithin, Cyclohexasiloxane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Nicotiana Benthamiana Hexapeptide 40 SH-Polypeptde 2, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-5, Nicotiana Benthamiana Sh-Polypeptide-15 Hexapeptide-40, Alcohol, BHA, BHT, Biotin, Caprylyl Glycol, Carbomer, Citric Acid, Coco-Glucoside, Dimethyl MEA, Dipotassium Phosphate, Disodium EDTA, Dl-Alpha-Tocopheryl Acetate, Ethylhexylglycerin, Glaucine, Glycine Soja Protein, Hydrochloric Acid, Hydrolyzed Rice Bran Protein, Hydrolyzed Sodium Hyaluronate, Lactic Acid, Methylsilanol Mannuronate, Nicotiana Benthamiana SH-Oligopeptide-2, Nicotiana Benthamiana Sh-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Parfum, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Pistacia Lentiscus Gum, Polysorbate 20, Potassium Phosphate, Potassium Sorbate, Retinal, Retinol, Retinyl Palmitate, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Citrate, Sodium Dextran Sulfate, Sorbic Acid, Superoxide Dismutase, Tocopherol, Triethanolamine, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Repaskin Dry Touch SPF 50 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979482006"
+     ],
+     "inci": "Aqua, Octocrylene, C12-15 Alkyl Benzoate, Polymethyl Methacrylate, Ethylhexyl Salicylate, Titanium Dioxide (Nano), Alcohol Denat, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Cyclopentasiloxane, Glycerin, Propanediol, Dimethicone, Triethanolamine, VP/Eicosene Copolymer, Polyglyceryl-3 Polyricinoleate, PEG-100 Stearate, Glyceryl Stearate, Alcohol, Aminopropyl Triethoxysilane, Arabidopsis Thaliana Extract, Camellia Sinensis Leaf Extract, Cetearyl Alcohol, Cyclohexasiloxane, Disodium EDTA, Ergothioneine, Ethylhexylglycerin, Hydrochloric Acid, Lecithin, Micrococcus Lysate, Parfum, Phenoxyethanol, Plankton Extract, Polysilicone-11, Polysorbate 20, Potassium Sorbate, Propylene Glycol, Resveratrol Dimethyl Ether, Silica, Silybum Marianum Extract, Sodium Chloride, Sodium Cholate, Stearic Acid, Thermus Thermophillus Ferment, Tocopheryl Acetate, Xanthan Gum"
+    },
+    {
+     "nombre": "Repaskin Urban 365 Despigmentante SPF 50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979482150"
+     ],
+     "inci": "Aqua, Ethylhexyl Methoxycinnamate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, Propylene Glycol, Ethylhexyl Triazone, Ethylhexyl Salicylate, Polymethyl Methacrylate, Titanium Dioxide (Nano), Thermus Thermophillus Ferment, Cyclopentasiloxane, Butyl Methoxydibenzoylmethane, Isostearyl Alcohol, Butylene Glycol Cocoate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol, Arabidopsis Thaliana Extract, Azelaic Acid, Benzoic Acid, Calcium Chloride, Calcium Sulfate, Camellia Sinensis Leaf Extract, Caprylyl Glycol, Carbomer, Citric Acid, Decyl Glucoside, Dimethicone, Disodium EDTA, Ethylcellulose, Ethylhexylglycerin, Ferulic Acid, Glycerin, Hexylene Glycol, Hydrochloric Acid, Micrococcus Lysate, Niacinamide, Parfum, Phenoxyethanol, Phosphatidylcholine, Plankton Extract, Polypodium Leucotomos Root Extract, Polysilicone-11, Polysorbate 20, Potassium Sorbate, Silica, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Hydroxide, Tocopheryl Acetate, Triethyl Citrate, Zinc Chloride, Zonaria Tournefortii Extract"
+    },
+    {
+     "nombre": "Repaskin Urban 365 Piel Sensible SPF 50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979482242"
+     ],
+     "inci": "Aqua, Octocrylene, Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Silica, Propanediol, Cyclopentasiloxane, Thermus Thermophillus Ferment, Titanium Dioxide, Dimethicone, Cetyl Alcohol, VP/Eicosene Copolymer, Glyceryl Stearate, Alcohol, Aloe Barbadensis Leaf Juice, Arabidopsis Thaliana Extract, Benzoic Acid, Calcium Chloride, Calcium Sulfate, Camellia Sinensis Leaf Extract, Caprylyl Glycol, Centella Asiatica Extract, Ceteth-20, Citric Acid, Ethylhexylglycerin, Glycerin, Hydrochloric Acid, Micrococcus Lysate, Panthenol, Pantolactone, PEG-75 Stearate, Phenoxyethanol, Phosphatidylcholine, Plankton Extract, Polymethyl Methacrylate, Polypodium Leucotomos Root Extract, Polysorbate 20, Potassium Sorbate, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Hydroxide, Steareth-20, Tocopheryl Acetate, Triethyl Citrate, Xanthan Gum, Zinc Chloride, Zonaria Tournefortii Extract"
+    },
+    {
+     "nombre": "Seslash Sérum Pestañas y Cejas 5 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979419491"
+     ],
+     "inci": "Aqua, Glycerin, PEG-40 Hydrogenated Castor Oil, Lecithin, Propanediol, Bis-PEG-18 Methyl Ether Dimethyl Silane, Alcohol, Tocopheryl Acetate, Panthenol, Morus Alba Root Extract, Sodium Hyaluronate, Acetyl Tetrapeptide-3, Trifolium Pratense Extract, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-86, Polysorbate 20, Xanthan Gum, Propylene Glycol, Prunus Amygdalus Dulcis Oil, Ethylhexylglycerin, Butylene Glycol, Hydrolyzed Jojoba Esters, Disodium EDTA, Sodium Cholate, Triethanolamine, BHT, Sodium Chloride, Dextran, Pantolactone, Tromethamine, Hydrochloric Acid, Phenoxyethanol, Sodium Methylparaben, Parfum"
+    },
+    {
+     "nombre": "Sesnatura Crema Reafirmante Cuerpo y Busto 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001715043"
+     ],
+     "inci": "Aqua, Isohexadecane, Propylene Glycol, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Arachidyl Alcohol, Dimethyl MEA, Lactic Acid, Cetyl Alcohol, Behenyl Alcohol, Triticum Vulgare Germ Oil, Myristyl Myristate, Ceteareth-12, Arachidyl Glucoside, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Ascorbyl Palmitate, C13-14 Isoparaffin, Carbomer, Citric Acid, Citronellol, Coumarin, Cyclopentasiloxane, Disodium EDTA, Ethylparaben, Genistein Glucoside, Glycerin, Glyceryl Oleate, Glyceryl Stearate, Glycine Soja Seed Extract, Hexyl Cinnamic Aldehyde, Hydrolyzed Elastin, Hydroxyproline, Laureth-7, Lecithin, Methylparaben, O-Cymen-5-Ol, Palmitoyl Tripeptide-5, Parfum, PEG-100 Stearate, Phenoxyethanol, Potassium Sorbate, Soluble Collagen, Tocopherol"
+    }
+   ]
   },
   {
    "key": "deliplus",
@@ -23822,6 +24261,183 @@
       "8470001930163"
      ],
      "inci": "Aqua, C12-15 Alkyl Benzoate, Dimethicone, Isododecane, Titanium Dioxide(Nano), Zinc Oxide(Nano), Butyloctyl Salicylate, Sodium Potassium Aluminum Silicate, Niacinamide, Alumina, Styrene/Acrylates Copolymer, Phenethyl Benzoate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Polypodium Leucotomos Leaf Extract, Physalis Angulata Extract, Melanin, Plankton Extract, 3-O-Ethyl Ascorbic Acid, Oxothiazolidine, Tocopheryl Acetate, Hydrogen Dimethicone, Phenylpropanol, Polyhydroxystearic Acid, Magnesium Sulfate, Dimethicone/PEG-10/15 Crosspolymer, Propylene Glycol, Caprylyl Glycol, Titanium Dioxide, Silica, Propanediol, Triethoxycaprylylsilane, Caprylic/Capric Triglyceride, Tocopherol, Butylene Glycol, Dipropylene Glycol, Sodium Citrate, Disteardimonium Hectorite, Propylene Carbonate, Lecithin, Phenoxyethanol, Sodium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "consum",
+   "nombre": "Consum",
+   "productos": [
+    {
+     "nombre": "Detergente Ropa Blanca y Color 46 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807559890"
+     ],
+     "inci": "Aqua, TEA-Dodecylbenzenesulfonate, C10-16 Alketh-1 (Formerly C10-16 Pareth-1), Potassium Oleate, Sodium Laureth Sulfate, Propylene Glycol, Potassium Dodecylbenzenesulfonate, Trideceth-8, Sodium Polyacrylate, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Potassium Citrate, Potassium Hydroxide, Diethanolamine, Trisodium Dicarboxymethyl Alaninate, Sodium EDTMP, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Glycerin, Subtilisin, Polietilenglicoles PM 400, Sodium Formate, Disodium Distyrylbiphenyl Disulfonate, Urea, Sodium Chloride, Benzisothiazolinone, Sodium Hydroxide, Lipase, Tetramethyl acetyloctahydronaphthalenes, 4 4´-bis[6-anilino-4-[bis(2-hidroxietil)amino]-1 3 5-triazin-2-il]amino]stilbene-2 2´-disulfonato de sodio y potasio, Sodium Hydroxide, Fosfonato de disodio, Sodium Glycolate, Amilasa α-"
+    },
+    {
+     "nombre": "Fregasuelos Aire Fresco 1,2 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807545787"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Trideceth-8, Sodium Laureth Sulfate, Parfum, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Fregasuelos Aire Fresco 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807559654"
+     ],
+     "inci": "Aqua, Trideceth-8, Isopropyl Alcohol, Sodium Laureth Sulfate, Parfum, Tetramethyl Acetyloctahydronaphthalenes, Benzisothiazolinone, Polisiloxano, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Fregasuelos Bouquet 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807558558"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Trideceth-8, Sodium Laureth Sulfate, Parfum, P-ment-1-en-8-ol, Hexyl Cinnamal, Linalool, Citronellol, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Fregasuelos Colonia 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807558534"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Trideceth-8, Sodium Laureth Sulfate, Dipropylene Glycol, Limonene, Parfum, Citral, Linalyl Acetate, Beta-Pinenes, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Floral 1 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807537898"
+     ],
+     "inci": "Aqua, Trideceth-8, Isopropyl Alcohol, PEG-10 Hydrogenated Castor Oil, Parfum, Citronellol, Hexyl Cinnamal, Geraniol, Copolimero acrilico-estireno, Linalool, Propylene Glycol, Benzyl Salicylate, Eugenol, Limonene, Masa de reacción de 3 5-dimetilciclohex-3-eno-1-carbaldehído y 2 4-dimetilciclohex-3-eno-1-carbaldehído, Hydroxycitronellal, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Cinnamyl Alcohol, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Frutal 1 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807537881"
+     ],
+     "inci": "Aqua, Trideceth-8, Isopropyl Alcohol, Parfum, Dipropylene Glycol, Linalool, Copolimero acrilico-estireno, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Fregasuelos Flores Blancas 1,2 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807545794"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Trideceth-8, Sodium Laureth Sulfate, Parfum, Hexyl Cinnamal, Citronellol, Hydroxycitronellal, Linalool, Benzisothiazolinone, Colorante, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Perfumador Ropa 36 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807558404"
+     ],
+     "inci": "Aqua, Parfum, PEG-7 Glyceryl Cocoate, Dipropylene Glycol, Acrylates Copolymer, PEG-40 Hydrogenated Castor Oil, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexyl Cinnamal, Potassium Hydroxide, Alpha-Isomethyl Ionone, Hexamethylindanopyran, Linalyl Acetate, Geraniol, Linalool, Trideceth-10, Tetramethyl acetyloctahydronaphthalenes, Amyl Salicylate, Trideceth-5, Terpineol, Eugenol, Rose Ketones, Propylene Glycol, Benzisothiazolinone, Coumarin, Sodium Laureth Sulfate, Methyl Alcohol, Hydroxycitronellal, Methylchloroisothiazolinone/Methylisothiazolinone, Resorcinol, Ethyl Acrylate"
+    },
+    {
+     "nombre": "Quitamanchas 720 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807555601"
+     ],
+     "inci": "Aqua, Trideceth-8, TEA-Dodecylbenzenesulfonate, Propylene Glycol, Sodium Laureth Sulfate, Potassium Dodecylbenzenesulfonate, Poliester modificado, Alcohol C12-C18 etoxilado (7EO), Glycerin, Potassium Citrate, Diethanolamine, Sodium EDTMP, Potassium Hydroxide, Parfum, Sodium Formate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Chloride, Subtilisin, Benzisothiazolinone, Alaninamida sustituida, Phenoxyethanol, Fosfonato de disodio, Methylchloroisothiazolinone/Methylisothiazolinone, Sodium Phosphate"
+    },
+    {
+     "nombre": "Suavizante Aire de Ceilán 60 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546777"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Acido L-(+)-lactico, Butylphenyl Methylpropional, Trideceth-10, Hexyl Cinnamal, Alcohol, Linalool, Trideceth-5, Geraniol, Amyl Cinnamal, Citronellol, Dipropylene Glycol, Alpha-Isomethyl Ionone, Coumarin, Benzaldehyde, Colorante, Poliol amino aromatico"
+    },
+    {
+     "nombre": "Suavizante Brisa de Santorini 60 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546760"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Acido L-(+)-lactico, Limonene, Trideceth-10, Linalool, Alcohol, Alpha-Isomethyl Ionone, Trideceth-5, Butylphenyl Methylpropional, Hexyl Cinnamal, Colorante, Dipropylene Glycol, TBHQ"
+    },
+    {
+     "nombre": "Suavizante Frescor 80 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546739"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Tetramethyl acetyloctahydronaphthalenes, Trideceth-10, Hexyl Cinnamal, Amyl Cinnamal, Hexamethylindanopyran, Trideceth-5, Eugenol, Citronellol, Pogostemon Cablin Oil, Linalool, Terpineol, Amyl Salicylate, Limonene, Polisiloxano, Phosphoric Acid, Colorante, Hydroxypropyl Guar, Dipropylene Glycol, 1 4-diazabiciclooctano"
+    },
+    {
+     "nombre": "Suavizante Hipoalergénico 60 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546746"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Acido L-(+)-lactico, Trideceth-10, Alcohol, Trideceth-5, Benzaldehyde"
+    },
+    {
+     "nombre": "Suavizante Plancha Fácil 60 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546753"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Didecyldimonium Chloride, Parfum, Hexyl Cinnamal, Acido L-(+)-lactico, Trideceth-10, Linalool, Alcohol, Trideceth-5, Butylphenyl Methylpropional, Limonene, Colorante"
+    },
+    {
+     "nombre": "Suavizante Relax 80 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807547194"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Coumarin, Linalool, Alcohol, Citronellol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Geraniol, Limonene, Colorante"
+    },
+    {
+     "nombre": "Suavizante Rosa Mosqueta 80 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807547187"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Didecyldimonium Chloride, Citronellol, Geraniol, Acido L-(+)-lactico, Alcohol, Colorante, Methyl Alcohol, Poliol amino aromatico, Phenoxyethanol, Resorcinol"
+    },
+    {
+     "nombre": "Suavizante Sol de Antioquia 60 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807546784"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Acido L-(+)-lactico, Trideceth-10, Alcohol, Trideceth-5"
+    },
+    {
+     "nombre": "Suavizante Talco 80 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807547170"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Alcohol, Citronellol, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Geraniol, Linalool, Hexyl Cinnamal, Limonene, Methyl Alcohol, Colorante, Phenoxyethanol, Resorcinol"
     }
    ]
   }
