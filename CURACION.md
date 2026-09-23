@@ -793,10 +793,11 @@ Orden, después de lo pendiente de Buscados:
    (versión 2026-09-23b): 18 + 6 + 9 códigos, más Aussie (10) de la misma fuente. No fue
    por info-pg.com (solo detergentes) sino por haircode.es, la web capilar oficial de P&G
    España, que lleva EAN e INCI en cada ficha. Ver su apartado.
-2. **Freshly Cosmetics y Cocunat.** Marcas españolas nacidas en Instagram, público de Nura.
-   Publican el INCI completo en la ficha de cada producto de su web.
-3. **Heliocare** (Cantabria Labs): mismo portal y método que Biretix. El solar de farmacia
-   más vendido.
+2. ~~**Freshly Cosmetics y Cocunat.**~~ — **hechas el 2026-09-23** (versión 2026-09-23c):
+   Freshly 11 códigos (la web da INCI pero no EAN; EAN por Douglas, emparejado por lista) y
+   Cocunat 39 (el HTML no lleva INCI; sale de la API de la marca con `gtin`). Ver sus apartados.
+3. ~~**Heliocare**~~ — **hecha el 2026-09-23**: solo 5 códigos con dos fuentes idénticas;
+   Cantabria Labs no publica INCI y las fuentes reflejan reformulaciones. Ver su apartado.
 4. Cuando Mariana pueda ir a un Mercadona con el móvil: **ampliar Deliplus** desde la
    etiqueta (hoy 16 fichas; es el hueco más grande del catálogo).
 
@@ -1110,6 +1111,61 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   soldejaneiro.com (39 ingredientes, con Tin Oxide y CI 77891). Ojo: la lista que publica
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
+
+### Freshly Cosmetics — abierta 2026-09-23: 11 productos, 11 códigos (de 64 fichas con INCI en la web)
+PrestaShop (`sitemap_products_ES.xml`, 188 URL, 118 fichas reales, 64 con INCI). **La web
+publica el INCI completo pero NO el EAN**: la lista va como botones
+`data-button="more-information-ingredients-pdp"` (uno por ingrediente, con su glosario);
+el nombre comercial está en el `<h2>` ("Golden Radiance Body Oil") y el `<title>` es el
+descriptor en castellano ("Aceite corporal para estrías y cicatrices"). Sin `ean13` en el
+`data-product` ni JSON-LD. OBF solo tiene 2 códigos.
+- **EAN por la API de Douglas ES** (47 fichas Freshly, 44 con `ingredients`). Se empareja
+  por lista, no por nombre: entra solo cuando la lista de Douglas es la misma que la de la
+  web ingrediente a ingrediente, ignorando los componentes del "perfume natural" (aceites
+  de cítricos, pineno, vainillina, mentol…) que la web desglosa y Douglas resume en Parfum.
+- Entran 11. Fuera (12 de Douglas con lista distinta a la web): Vibrant Balance champú y
+  acondicionador, Rose Cleanser, Hair Radiance Keratin Spray (dos conservantes en otro
+  orden), Omega Rich, Curly Power, Radiant Curls Oil, Concentrate, Lime Purifying,
+  Frizz-Away Co-Wash, Rose Quartz Cleanser 50 ml, Hyaluronic Energy 50 ml. Y las ~30 fichas
+  sin código en Douglas ni en OBF (Bloom Orchid, Bakuchiol, desodorante…).
+Nombres: "<nombre comercial> (<descriptor de la web>) <tamaño>". Scripts: `fc/` (fichas
+`p/`, `products.json`, `dg/`, `dg_freshly.json`, `freshly_final.json`).
+
+### Cocunat — abierta 2026-09-23: 39 productos, 39 códigos (de 96 fichas en su API)
+Shopify headless (Astro). `/products.json` funciona (143 productos) pero sin `barcode` y
+casi sin INCI; el HTML de la ficha tampoco lleva la lista. **Los datos salen de la API de
+la propia marca**: `https://api-less.cocunat.com/api/products/<handle>` devuelve
+`gtin`, `sku`, `ingredients` (texto INCI) y los campos del feed de Google Shopping. 96
+fichas responden; 58 con INCI, 47 con `gtin`.
+- Entran 39: fichas con `gtin` y lista, sin ser pack/mini/refill/duo, y cuyo `gtin` no
+  está compartido con otra lista distinta.
+- **Douglas ES (41 fichas Cocunat) da otra lista para el mismo EAN en 24 de 29 casos** y
+  coincide solo en Pure Shampoo y Pure Conditioner. Se toma la de la API de la marca (regla
+  2: fórmula vigente publicada por el fabricante). Douglas además usa para varios productos
+  un EAN distinto del que da la marca (Wondermask, The Architect, The Lift, Savior…): son
+  envases anteriores y quedan fuera hasta ver una etiqueta.
+- Fuera: bundles y minis (sin `gtin` propio), y las fichas sin `gtin` en la API.
+Nombres: el `title` de la API (marca nacida en inglés: "The Cure", "Wondermask").
+Scripts: `cc/` (`api/`, `api_all.json`, `dg_cocunat.json`, `cocunat_final.json`).
+
+### Heliocare (Cantabria Labs) — abierta 2026-09-23: 5 productos, 5 códigos (de 61 fichas en cantabrialabs.es)
+Mismo circuito que Biretix: **cantabrialabs.es no publica el INCI** (61 fichas Heliocare,
+solo activos y CN). EAN por Douglas ES (25 fichas, ids `5011406107…5011996287`) y
+SkinLovers (56 fichas con `barcode`; 20 EAN comunes con Douglas, todos iguales); INCI por
+SkinLovers (28 fichas con lista, separada por `;`) e incidecoder (53 fichas, muchas
+duplicadas por dos subidas y varias marcadas "discontinued").
+- Entran solo los 5 con dos fuentes idénticas (erratas aparte): 360º Age Active Fluid,
+  360º Fluid Cream, 360º Gel Oil-Free Dry Touch, 360º Water Gel y 360º Pediatrics Mineral.
+- **Heliocare reformula mucho y las fuentes lo reflejan**: las dos subidas de incidecoder
+  de Age Active, Pigment Solution, Fluid Cream, Water Gel y MD AK difieren entre sí en 4-6
+  ingredientes; SkinLovers vs incidecoder difieren en 1 ingrediente en Pediatrics Lotion,
+  Advanced Gel, Pediatrics Atopic y Pediatrics Mineral (una errata de truncado en este,
+  que sí entra) y en más en Sensation, Mineral Tolerance, Ultra 90 Gel, MD A-R y MD AK.
+  Sin etiqueta no se sabe cuál es la vigente: fuera.
+- Sin lista en ninguna fuente: Color Gel Oil-Free (3 tonos), Sport, Invisible Spray,
+  Pediatrics Transparent Spray, sticks, compactos, cápsulas (Heliocare oral no es cosmética).
+Los EAN de los 20 productos fuera están en `hel/dg_heliocare.json` y `hel/sl_lists.json`:
+con una foto de etiqueta entran en cinco minutos.
 
 ### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
 **La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
@@ -1473,6 +1529,9 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
+| Freshly Cosmetics | sí (`sitemap_products_ES.xml`, 118 fichas) | **no** | sí, botones `more-information-ingredients-pdp` (64 fichas) | EAN por Douglas, emparejado por lista idéntica; ver su apartado |
+| Cocunat | `/products.json` (143) sin barcode ni INCI | **sí**, `gtin` en `api-less.cocunat.com/api/products/<handle>` | sí, `ingredients` en esa API (58) | API oficial de la marca; Douglas da listas antiguas; ver su apartado |
+| Heliocare (Cantabria Labs) | sí (61 fichas en cantabrialabs.es) | **no** (solo CN); Douglas ES + SkinLovers | **no**; SkinLovers e incidecoder | dos fuentes idénticas o nada; ver su apartado |
 | Pantene · Head & Shoulders · Herbal Essences · Aussie | sí (`haircode.es/sitemap.xml`, 46 fichas; el listado visible solo enseña 20) | **sí** (`templateProps.ean` en `__NEXT_DATA__`) | **sí**, completo (`ingredientsSection.ingredientsText`) | web capilar oficial de P&G España; las webs UK/FR/IT se contradicen entre sí por EAN; ver su apartado |
 | Biretix (Cantabria Labs) | sí (`sitemap.xml` de cantabrialabs.es, 15 fichas) | **no** (solo CN); EAN en la API de Douglas ES y en el JSON de SkinLovers | **no** (solo activos); INCI en incidecoder, SkinLovers y shop-apotheke, más etiqueta OBF | dos fuentes idénticas o nada; ver su apartado |
 | Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
@@ -1497,13 +1556,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-23)
-3795 códigos en 41 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3850 códigos en 44 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · **Pantene 18** ·
-Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · **Aussie 10** · **Herbal Essences 9** · Biretix 8 ·
-SkinCeuticals 6 · **Head & Shoulders 6** · Sanytol 5 · Eroski 5 · Elmex 2 ·
+Kérastase 59 · Neutrogena 56 · Bioderma 42 · **Cocunat 39** · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Pantene 18 ·
+Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · **Freshly 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 ·
+SkinCeuticals 6 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 · **Heliocare 5** · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
-2403 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+2458 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).

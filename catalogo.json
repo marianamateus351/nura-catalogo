@@ -1,5 +1,5 @@
 {
- "version": "2026-09-23b",
+ "version": "2026-09-23c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -23309,6 +23309,519 @@
       "8700216185332"
      ],
      "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Polysorbate 20, Disodium EDTA, Citric Acid, Coumarin, Hexyl Cinnamal, Histidine, Butylene Glycol, Glycerin, Linalool, Aloe Barbadensis Leaf Juice, Cocos Nucifera Fruit Juice, Limonene, Alcohol Denat, Lactic Acid, Ecklonia Radiata Extract"
+    }
+   ]
+  },
+  {
+   "key": "freshly",
+   "nombre": "Freshly Cosmetics",
+   "productos": [
+    {
+     "nombre": "Intense Bond-Restoring (acondicionador hidratante) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950545"
+     ],
+     "inci": "Aqua, Behenyl Alcohol, Glycerin, Triolein, Cetearyl Alcohol, Arachidyl/Behenyl Betainate Esylate, Sodium Lactate, Undecane, Silybum Marianum Ethyl Ester, Kaolin, Hydrolyzed Chestnut Extract, Hydrolyzed Vegetable Protein, Hydrogenated Olive Oil Stearyl Ester, Glyceryl Stearate, Lactic Acid, Tridecane, Potato Starch Modified, Coco-Caprylate/Caprate, Citric Acid, Tocopherol, Parfum, Sodium Benzoate, Linalool, Geraniol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Hyaluronic Energy Body Serum (gel frío piernas cansadas y sensación de hinchazón) 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950255"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Aqua, Glycerin, Pentylene Glycol, Parfum, Chondrus Crispus Powder, C13-15 Alkane, Menthyl Lactate, Menthol, Propanediol, Sodium Hyaluronate, Hyaluronic Acid, Rheum Rhaponticum Root Extract, Citrus Limon Peel Extract, Ruscus Aculeatus Root Extract, Solidago Virgaurea Extract, Palmaria Palmata Extract, Bacillus Ferment, Lactic Acid, Sodium Levulinate, Sodium Phytate, Sodium Anisate, Potassium Sorbate, Sodium Benzoate, Limonene, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Pacific Ocean Moisturising (hidratante facial activa para pieles grasas y mixtas) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950347"
+     ],
+     "inci": "Aqua, Glycerin, Pentylene Glycol, Acacia Senegal Gum, Malachite Extract, Superoxide Dismutase, Stevia Rebaudiana Leaf/Stem Extract, Hyaluronic Acid, Sodium Hyaluronate, Althaea Officinalis Root Extract, Gigartina Stellata Extract, Syringa Vulgaris Extract, Lithothamnion Calcareum Extract, Xanthan Gum, Amylopectin, Parfum, Chondrus Crispus Extract, Maltodextrin, Levulinic Acid, Sodium Levulinate, Sodium Phytate, p-Anisic Acid, Lactic Acid, Sodium Hydroxide, Sodium Benzoate, Menthol, Potassium Sorbate, Citric Acid, Maclura Cochinchinensis Leaf Prenylflavonoids"
+    },
+    {
+     "nombre": "Intense Bond-Restoring (champú hidratante cabello seco) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950521"
+     ],
+     "inci": "Aqua, Disodium Cocoyl Glutamate, Betaine, Glycerin, Coco-Betaine, Coco Glucoside, Glyceryl Oleate, Potassium Cocoyl Rice Amino Acids, Trehalose, Polyglyceryl-3 Betainate Acetate, Lauryl Lactyl Lactate, Crambe Abyssinica Seed Oil Phytosterol Esters, Triolein, Citrus Aurantium Peel Oil Expressed, Tocopherol, Xanthan Gum, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Palm Glycerides Citrate, Vegetable Oil, Citric Acid, Parfum, Sodium Benzoate, Potassium Sorbate, Limonene, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Dandruff Control (champú anticaspa sin sulfatos) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950606"
+     ],
+     "inci": "Aqua, Lauryl Glucoside, Disodium Cocoyl Glutamate, Coco-Betaine, Coco Glucoside, Glyceryl Oleate, Potassium Cocoyl Rice Amino Acids, Parfum, Betaine, Zinc PCA, Lauryl Lactyl Lactate, Propanediol Caprylate, Vitis Vinifera Juice Extract, Menthol, Menthyl Lactate, Phyllanthus Emblica Fruit Extract, Tocopherol, Guar Hydroxypropyltrimonium Chloride, Propanediol, Glycerin, Hydrogenated Palm Glycerides Citrate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Citrus Limon Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Golden Radiance Body Oil (aceite corporal para estrías y cicatrices) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015930244"
+     ],
+     "inci": "Prunus Amygdalus Dulcis Oil, Helianthus Annuus Seed Oil, Macadamia Ternifolia Seed Oil, Salvia Hispanica Seed Oil, Olea Europaea Fruit Oil, Persea Gratissima Oil, Papaver Somniferum Seed Oil, Parfum, Tocopherol, Corylus Avellana Seed Oil, Orbignya Oleifera Seed Oil, Simmondsia Chinensis Seed Oil, Rosa Moschata Seed Oil, Sclerocarya Birrea Seed Oil, Astaxanthin, Carthamus Tinctorius Seed Oil, Lavandula Oil/ Extract, Juniperus Virginiana Oil, Santalum Album Oil, Alkanna Tinctoria Root Extract, Citrus Aurantium Bergamia Peel Oil, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Rose Flower Oil/Extract, Beta Pinene, Citronellol, Hydroxycitronellal, Linalyl Acetate, Linalool, Limonene, Citral, Benzyl Alcohol, Vanillin"
+    },
+    {
+     "nombre": "Hyper-Concentrate (contorno de ojos para ojeras y arrugas) 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015930190"
+     ],
+     "inci": "Aqua, Pentylene Glycol, Glycerin, Microcrystalline Cellulose, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Simmondsia Chinensis Seed Oil, Oleic Acid, Terminalia Arjuna Extract, Anigozanthos Flavidus Extract, Helianthus Annuus Seed Oil, Gentiana Lutea Root Extract, Crataegus Monogyna Flower Extract, Jasminum Sambac Flower Extract, Hydrolyzed Rhodophyceae Extract, Xanthan Gum, Mannitol, Phosphatidylcholine, Succinoglycan, Lecithin, Glycine Soja Oil, Hyaluronic Acid, Sodium Phytate, Cetyl Alcohol, Levulinic Acid, Sodium Levulinate, Arginine, Alkanna Tinctoria Root Extract, Tocopherol, p-Anisic Acid, Decyl Glucoside, Maris Sal / Sea Salt, Potassium Sorbate, Sodium Benzoate, Beta-Sitosterol, Citric Acid, Squalene, Sodium Chloride"
+    },
+    {
+     "nombre": "Lotus Radiance Darkspot Treatment (crema facial despigmentante) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015931661"
+     ],
+     "inci": "Aqua, Pentylene Glycol, C13-15 Alkane, Glycerin, Caprylic/Capric Triglyceride, Isoamyl Laurate, Propanediol, Parfum, Cetearyl Alcohol, Heptyl Undecylenate, Maltodextrin, Cetyl Alcohol, Prunus Amygdalus Dulcis Oil, Ascorbyl Glucoside, Lansium Domesticum Leaf Extract, Azelaic Acid, Pinus Strobus Extract, Heterotheca Inuloides Flower Extract, Hydrolyzed rhodophyceae extract, Cystoseira Tamariscifolia Extract, Lactic Acid, Glyceryl Stearate, Jojoba Esters, Helianthus Annuus Seed Wax, Sodium Stearoyl Glutamate, Mannitol, Phosphatidylcholine, Isoamyl Cocoate, Xanthan Gum, Polyglyceryl-10 Laurate, Polyglycerin-3, Ceramide NP, Hectorite, Citric Acid, Arginine, Maris Sal / Sea Salt, Sodium Chloride, Sodium Phytate, Tocopherol, p-Anisic Acid, Levulinic Acid, Sodium Levulinate, Potassium Sorbate, Sodium Benzoate, Terpineol"
+    },
+    {
+     "nombre": "Shield 360º Skin SPF 30 (sérum con color) tono Claro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616951573"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Zinc Oxide, Coco-Caprylate/Caprate, CI 77891/Titanium Dioxide, Isoamyl Laurate, Octyldodecyl PCA, Silica, Crambe Abyssinica Seed Oil Phytosterol Esters, CI 77492, Triolein, Hydrogenated Ethylhexyl Olivate, Parfum, Vaccinium Macrocarpon Seed Oil, Hydrogenated Lecithin, CI 77491/Iron Oxide, Haematococcus Pluvialis Extract, CI 77499, Zingiber Officinale Root Extract, Carthamus Tinctorius Seed Oil, Astaxanthin"
+    },
+    {
+     "nombre": "Azelaic Radiance Face Treatment (ácido azelaico para acné, rosácea y cuperosis) 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950309"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice Powder, Azelaic Acid, Aqua, Pentylene Glycol, Propanediol, Glycerin, Oryza Sativa Starch, Cyamopsis Tetragonoloba Gum, Cleome Gynandra Leaf Extract, Crocus Sativus Flower Extract, Diglycerin, Troxerutin, Honokiol, Magnolol, Pinus Pinaster Bark/Bud Extract, Tapioca Starch, Algin, Polyglyceryl-10 Laurate, Polyglyceryl-6 Oleate, Sodium Levulinate, Levulinic Acid, Sorbitan Palmitate, Lactobacillus Ferment Lysate, Parfum, Sodium Phytate, p-Anisic Acid, Linalyl Acetate, Vanillin"
+    },
+    {
+     "nombre": "Fresh Green (agua micelar natural) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436616950095"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Pyrus Malus Fruit Water, Propanediol, Aqua, Glycerin, Agastache Mexicana Flower/Leaf/Stem Extract, Ginkgo Biloba Leaf Extract, Cucumis Sativus Fruit Extract, Arctium Majus Root Extract, Citrus Limon Peel Extract, Fucus Vesiculosus Extract, Hedera Helix Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis Leaf Extract, Saponaria Officinalis Leaf/Root Extract, Dehydroacetic Acid, Glyceryl Caprylate, Caprylyl/Capryl Glucoside, p-Anisic Acid, Benzyl Alcohol, Parfum, Levulinic Acid, Sodium Levulinate, Arginine, Potassium Sorbate, Sodium Benzoate, Citrus Aurantium Peel Oil, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "cocunat",
+   "nombre": "Cocunat",
+   "productos": [
+    {
+     "nombre": "Anti-aging cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022210"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: WATER (AQUA), CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERYL STEARATE, CETEARYL ALCOHOL, PROPANEDIOL, GLYCERYL STEARATE SE, STEARIC ACID, GLYCERIN, CRAMBE ABYSSINICA SEED OIL PHYTOSTEROL ESTERS, PERSEA GRATISSIMA (AVOCADO) OIL, BETAINE, SODIUM HYALURONATE, NIACINAMIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER, CALENDULA OFFICINALIS EXTRACT, ASCORBYL GLUCOSIDE, TOCOPHEROL, SODIUM LAUROYL GLUTAMATE, XANTHAN GUM, GLYCINE SOJA SOYBEAN) OIL, PHENETHYL ALCOHOL, SQUALENE, CAPRYLYL GLYCOL, TITANIUM DIOXIDE (CI 77891), BETA-SITOSTEROL, CAPRYLHYDROXAMIC ACID, POTASSIUM SORBATE, FRAGRANCE (PARFUM), TERPINEOL*, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL*, GERANYL ACETATE*, LINALOOL*, LIMONENE**Naturally found in the parfum. 100% Natural Parfum / Se encuentran de manera natural en el perfume. Perfume 100% Natural"
+    },
+    {
+     "nombre": "Basic Boombastic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021718"
+     ],
+     "inci": "BOOMBASTIC: AQUA (WATER), CETEARYL ALCOHOL, GLYCERIN, STEARAMIDOPROPYL DIMETHYLAMINE, PCA GLYCERYL OLEATE, C13-15 ALKANE, COCOS NUCIFERA (COCONUT) OIL, PRUNUS ARMENIACA (APRICOT) KERNEL OIL, MACADAMIA INTEGRIFOLIA SEED OIL, CAMELLIA JAPONICA SEED OIL, PARFUM (FRAGRANCE)*, GLYCERYL STEARATE SE, LACTIC ACID, HEPTYL UNDECYLENATE, LIMONENE**, SODIUM BENZOATE, SODIUM SALICYLATE, LINALOOL**, CITRONELLOL**, PUNICA GRANATUM EXTRACT, POTASSIUM SORBATE *Perfume 100% Natural / 100% Natural Parfum **Se encuentran de manera natural en el perfume / Naturally found in the parfum"
+    },
+    {
+     "nombre": "Body Power",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022289"
+     ],
+     "inci": "WARM UP: AQUA, PROPANEDIOL, ALCOHOL DENAT, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAFFEINE, HELIANTHUS ANNUUS SEED OIL, XANTHAN GUM, BENZYL ALCOHOL, MENTHOL, GLUCOSYL HESPERIDINE, PARFUM, DEHYDROACETIC ACID, FISETIN, BENZOIC ACID, RASPBERRY KETONE, SODIUM PHYTATE, PLANKTON EXTRACT, SORBIC ACID, GLYCINE SOJA OIL, TOCOPHEROL, BETA-SITOSTEROL, SQUALENE, BENZYL BENZOATE* . SMART BURN: AQUA, GLYCERIN, PROPANEDIOL, XANTHAN GUM, CAFFEINE, SODIUM HYALURONATE, SODIUM BENZOATE, POTASSIUM SORBATE, GINKGO BILOBA LEAF EXTRACT, PARFUM, SODIUM PHYTATE, GLUCONOLACTONE, BACILLUS/SOYBEAN FERMENT EXTRACT, CALCIUM GLUCONATE, LIMONENE, LINALOOL, CITRAL . * Naturally found in the parfum / Se encuentran de manera natural en el perfume. 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Boombastic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020896"
+     ],
+     "inci": "BOOMBASTIC: AQUA (WATER), CETEARYL ALCOHOL, GLYCERIN, STEARAMIDOPROPYL DIMETHYLAMINE, PCA GLYCERYL OLEATE, C13-15 ALKANE, COCOS NUCIFERA (COCONUT) OIL, PRUNUS ARMENIACA (APRICOT) KERNEL OIL, MACADAMIA INTEGRIFOLIA SEED OIL, CAMELLIA JAPONICA SEED OIL, PARFUM (FRAGRANCE)**, GLYCERYL STEARATE SE, LACTIC ACID, HEPTYL UNDECYLENATE, LIMONENE*, SODIUM BENZOATE, SODIUM SALICYLATE, LINALOOL*, CITRONELLOL*, PUNICA GRANATUM EXTRACT, POTASSIUM SORBATE *Perfume 100% Natural / 100% Natural Parfum **Se encuentran de manera natural en el perfume / Naturally found in the parfum"
+    },
+    {
+     "nombre": "Browliner - Blonde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021923"
+     ],
+     "inci": "BROWN BROWLINER Hydrogenated Jojoba Oil, Caprylic/Capric Triglyceride, Hydrogenated Vegetable Oil, Simmondsia Chinensis Seed Oil, Butyrospermum Parkii Butter, Canola Oil, Sclerocarya Birrea Seed Oil, Candelilla Cera, Glyceryl Caprylate, Copernicia Cerifera Cera, Hydrogenated Castor Oil, Tocopherol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate* . [MAY CONTAIN (+/-): Mica, CI 77499, CI 77891, CI 77492, CI 77491] * Ingredient from sustainable farming. RSPO/MB 100% natural ingredients, 13% organic ingredients DEEP BROWN / ASH BROWN / BLONDE BROWLINER Hydrogenated Jojoba Oil, Caprylic/Capric Triglyceride, Hydrogenated Vegetable Oil, Simmondsia Chinensis Seed Oil, Butyrospermum Parkii Butter, Canola Oil, Sclerocarya Birrea Seed Oil, Candelilla Cera, Glyceryl Caprylate, Copernicia Cerifera Cera, Tocopherol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate* . [MAY CONTAIN (+/-): Mica, CI 77891, CI 77499, CI 77492, CI 77491, CI 77163] * Ingredient from sustainable farming. RSPO/MB 100% natural ingredients DEEP BROWN BROWLINER: 16% organic ingredients / ASH BROWN BROWLINER: 15% organic ingredients/ BLONDE BROWLINER: 16% organic ingredients"
+    },
+    {
+     "nombre": "CLINICAL THE REAL C 30 days",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022838"
+     ],
+     "inci": "CAPRYLIC/CAPRIC TRIGLYCERIDE, ASCORBIC ACID, BORON NITRIDE, SILICA, OLUS OIL, TOCOPHEROL, HYDROGENATED RAPESEED OIL, DIETHYLHEXYL SYRINGYLIDENEMALONATE. Made with love in Barcelona We take care of our planet. Everything in this box is 100% recyclable"
+    },
+    {
+     "nombre": "Capillary serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020346"
+     ],
+     "inci": "PRUNUS AMYGDALUS DULCIS OIL, HELIANTHUS ANNUUS SEED OIL, CUCURBITA PEPO SEED OIL\\*, SESAMUM INDICUM SEED OIL, ARGANIA SPINOSA KERNEL OIL, CORYLUS AVELLANA SEED OIL\\*, LAVANDULA HYBRIDA OIL, LINALOOL\\*\\*, GLYCINE SOJA OIL, TOCOPHEROL, BETA-SITOSTEROL, LIMONENE\\*\\*, SQUALENE, GERANIOL\\*\\*, COUMARIN\\*\\*, CITRAL\\*\\*. \\* Ingredients from organic farming / Ingredientes procedentes de la agricultura ecológica \\*\\* Naturally found in essential oil / Se encuentra de forma natural en el aceite esencial"
+    },
+    {
+     "nombre": "Clinical AHA Complex 10%",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023491"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: Aqua (Water), Glycolic Acid, Pentylene Glycol, 2, 3-Butanediol, Niacinamide, Mandelic Acid, Alcohol Denat, Glycerin, Lactic Acid, Sodium Hydroxide, Citric Acid, Dipotassium Glycyrrhizate, Sodium Citrate, Lactobacillus/Punica Granatum Fruit Ferment Extract, Chondrus Crispus (Carrageenan) Powder, Algae Oligosaccharides, Sodium Hyaluronate, Euphrasia Officinalis Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Leuconostoc/Radish Root Ferment Filtrate, Xanthophylls, Lecithin, Xanthan Gum, Aspergillus Ferment, Polyglyceryl-4 Caprate, Propanediol, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance), Linalool*, Citronellol*, Terpineol*, Juniperus Virginiana Oil*, Limonene*, Vanillin*, Citral*, Citrus Limon (Lemon) Peel Oil*, Menthol*.*Naturally found in the parfum. 100% Natural Parfum / Se encuentran de manera natural en el perfume. Perfume 100% Natural"
+    },
+    {
+     "nombre": "Clinical Beauty Filler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023217"
+     ],
+     "inci": "INGREDIENTS / INGREDIENTES: INGREDIENTS / INGREDIENTES: AQUA (WATER), PROPANEDIOL, PENTYLENE GLYCOL, GLYCERIN, ACETYL HEXAPEPTIDE-8, PALMITOYL TRIPEPTIDE-38*, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, SQUALENE, BETA-SITOSTEROL, LEVULINIC ACID, CELLULOSE GUM, GLYCERYL CAPRYLATE, HYDROGENATED PHOSPHATIDYLCHOLINE, LYSOLECITHIN, LECITHIN, CHONDRUS CRISPUS (CARRAGEENAN) POWDER, CERATONIA SILIQUA GUM, SODIUM PHYTATE, GLUCOSE, HYDROXYPROPYL CYCLODEXTRIN, CAPRYLYL GLYCOL, SODIUM BENZOATE, TOCOPHEROL, CITRIC ACID, POTASSIUM SORBATE, PHYTIC ACID *Ingredient from sustainable farming. RSPO/MB / Ingrediente procedente de cultivo sostenible. RSPO/MB"
+    },
+    {
+     "nombre": "Clinical Exosomes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570025006"
+     ],
+     "inci": "AQUA (WATER), PROPANEDIOL, PENTYLENE GLYCOL, GLYCERIN, XANTHAN GUM, ADANSONIA DIGITATA SEED EXTRACT, ACETYL HEXAPEPTIDE-8, PALMITOYL TRIPEPTIDE-38, HYDROLIZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, SODIUM HYALURONATE, LYCIUM BARBARUM CALLUS CULTURE EXTRACT, ASCORBIC ACID, LEVULINIC ACID, GLYCERYL CAPRYLATE, ISOMALT, SCLEROTIUM GUM, SODIUM PHYTATE, SORBITOL, ALGIN, POTASSIUM HYDROXIDE, PARFUM (FRAGRANCE)*, HYDROXYPROPYL CYCLODEXTRIN, CAPRYLYL GLYCOL, LECITHIN, CITRUS LIMON (LEMON) PEEL OIL**, LINALYL ACETATE**, PHYTIC ACID, LINALOOL**, LIMONENE**, 1, 2-HEXANEDIOL, CITRAL**, GLUTATHIONE, MICA, TIN OXIDE, TITANIUM DIOXIDE, CI 77480 (GOLD) * 100% Natural Parfum / Perfume 100% Natural ** Naturally found in the parfum / Se encuentran de manera natural en el perfume"
+    },
+    {
+     "nombre": "Clinical Molecular Therapy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023767"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: WATER (AQUA), COCO-CAPRYLATE/CAPRATE, ORBIGNYA OLEIFERA SEED OIL, GLYCERYL STEARATE CITRATE, GLYCERIN, CETYL PHOSPHATE, TRIHEPTANOIN, ARGININE, PROPANEDIOL, FRAGRANCE (PARFUM)*, ALUMINA, SODIUM ACETYLATED HYALURONATE, TITANIUM DIOXIDE (CI 77891), LITHOPS PSEUDOTRUNCATELLA CALLUS LYSATE, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, BAKUCHIOL, ORYZA SATIVA (RICE) STARCH, GLYCOLIPIDS, ORNITHINE, THYMUS VULGARIS (THYME) FLOWER/LEAF EXTRACT, LEUCOJUM AESTIVUM BULB EXTRACT, PHOSPHOLIPIDS, TOCOPHEROL, LEVULINIC ACID, P-ANISIC ACID, LECITHIN, SACCHARIDE ISOMERATE, CYAMOPSIS TETRAGONOLOBA (GUAR) GUM, PLANKTON EXTRACT, PHYTIC ACID, ACETYL HEXAPEPTIDE-8, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, PHENETHYL ALCOHOL, DILINOLEIC ACID/BUTANEDIOL COPOLYMER, CAPRYLYL GLYCOL, XANTHAN GUM, PENTYLENE GLYCOL, CASTOR OIL/IPDI COPOLYMER, TIN OXIDE, C9-12 ALKANE, POTASSIUM SORBATE, CITRUS LIMON (LEMON) PEEL OIL, LINALYL ACETATE, BENZYL ALCOHOL, POGOSTEMON CABLIN (PATCHOULI) OIL, PELARGONIUM GRAVEOLENS (ROSE GERANIUM) FLOWER OIL, FRUCTOOLIGOSACCHARIDES, BIOFLAVONOIDS, GLYCOPROTEINS, LINALOOL*, CITRAL*, PINENE*, BETA-CARYOPHYLLENE*, TERPINEOL*, MENTHA PIPERITA (PEPPERMINT) OIL*, CITRONELLOL*, GERANIOL*, TERPINOLENE*, ALPHA-TERPINENE*, LIMONENE*, MENTHOL**Naturally found in the parfum. 100% Natural Parfum / Se encuentran de manera natural en el perfume. Perfume 100% Natural"
+    },
+    {
+     "nombre": "Clinical Retinal 0.1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023514"
+     ],
+     "inci": "AQUA, GLYCERIN, PROPANEDIOL, COCO-CAPRYLATE/CAPRATE, SUCROSE POLYSTEARATE, NIACINAMIDE, POLYGLYCERYL-6 DISTEARATE, CETEARYL ALCOHOL, BETAINE, GLYCERYL CAPRYLATE, XANTHAN GUM, JOJOBA ESTERS, SODIUM ACETYLATED HYALURONATE, ALLANTOIN, TOCOPHEROL, RETINAL, PHOSPHATIDYLCHOLINE, PENTYLENE GLYCOL, MANNITOL, CETYL ALCOHOL, POLYGLYCERYL-3 BEESWAX, POTASSIUM CETYL PHOSPHATE, OLEA EUROPAEA OIL UNSAPONIFIABLES, POLYGLYCERYL-10 LAURATE, SCLEROTIUM GUM, ALGIN"
+    },
+    {
+     "nombre": "Clinical The Real C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022616"
+     ],
+     "inci": "CAPRYLIC/CAPRIC TRIGLYCERIDE, ASCORBIC ACID, BORON NITRIDE, SILICA, HYDROGENATED RAPESEED OIL, TOCOPHEROL, HYDROGENATED PALM OIL*, DIETHYLHEXYL SYRINGYLIDENEMALONATE. *Ingredient from sustainable farming. RSPO/MB / Ingrediente procedente del cultivo sostenible. RSPO/MB. *Ingredient from sustainable farming. RSPO/MB / Ingrediente procedente del cultivo sostenible. RSPO/MB"
+    },
+    {
+     "nombre": "Combination Oily Skin Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020452"
+     ],
+     "inci": "Combination cream AQUA/WATER, CAPRYLIC/CAPRIC TRIGLYCERIDE, COCO CAPRYLATE/CAPRATE, SODIUM ACRYLATE/ACRYLOYLDIMETHYLTAURATE/DIMETHYLACRYLAMIDE, PROPANEDIOL, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, SORBITAN ISOSTEARATE, PARFUM/FRAGANCE*, CITRIC ACID, GLYCINE SOJA OIL, CITRUS LIMONUM FRUIT EXTRACT, HEDERA HELIX LEAF EXTRACT, SALVIA OFFICINALIS LEAF EXTRACT, BENZYL ALCOHOL, SODIUM HYALURONATE, TOCOPHEROL, STEROLS, POTASSIUM SORBATE, SODIUM BENZOATE, SQUALENE, TETRASODIUM GLUTAMATE DIACETATE, CAPRYLYL GLYCOL. * No harsh synthetic chemicals / Keine aggressiven synthetischen Chemikalien"
+    },
+    {
+     "nombre": "Curl Booster",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020810"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), GLYCERIN, XANTHAN GUM, POLYGLYCERYL-4 CAPRATE, ARGANIA SPINOSA KERNEL OIL. COCOS NUCIFERA (COCONUT) OIL, ALOE BARBADENSIS LEAF JUICE, CANNABIS SATIVA SEED OIL, PUNICA GRANATUM FRUIT EXTRACT, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF OIL, AMYRIS BALSAMIFERA BARK OIL, PELARGONIUM GRAVEOLENS OIL, CITRUS RETICULATA (TANGERINE) PEEL OIL, MENTHA ARVENSIS LEAF OIL, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, CITRUS PARADISI (GRAPEFRUIT) PEEL OIL, BENZYL ALCOHOL, DEHYDROACETIC ACID, SORBIC ACID, BENZOIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, CAMPHOR*, MENTHOL*, LIMONENE*, CITRAL*, LINALOOL*, CITRONELLOL*, GERANIOL*, PINENE*, SANTALOL*, BETA-CARYOPHYLLENE*, TERPINEOL*, TERPINOLENE*, ALPHA-TERPINENE*.* Naturally found in essential oils / Se encuentran de manera natural en los aceites esenciales"
+    },
+    {
+     "nombre": "Curl Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020865"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), SODIUM POLYITACONATE, POLYGLYCERYL-4 CAPRATE, GLYCERIN, BENZYL ALCOHOL, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM (FRAGRANCE), DEHYDROACETIC ACID, BENZOIC ACID, PORPHYRA UMBILICALIS EXTRACT, LIMONENE*, SORBIC ACID, CAESALPINIA SPINOSA GUM, LINALOOL*, SODIUM BENZOATE, POTASSIUM SORBATE, BENZYL BENZOATE*, CITRUS AURANTIUM PEEL OIL* .*Se encuentran de manera natural en el perfume. Perfume 100% Natural / Naturally found in the parfum. 100% Natural Parfum"
+    },
+    {
+     "nombre": "Curl moisturizer leave-in",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021886"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), ALOE BARBADENSIS LEAF JUICE*, PROPANEDIOL, CETYL ALCOHOL, CRAMBE ABYSSINICA SEED OIL, PHYTOSTEROL ESTERS, DISTEAROYLETHYL DIMONIUM CHLORIDE, COCONUT ALKANES, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, ARGANIA SPINOSA KERNEL OIL, COCO-CAPRYLATE/CAPRATE, CETEARYL ALCOHOL, DEHYDROXANTHAN GUM, DILINOLEIC ACID/PROPANEDIOL COPOLYMER, PARFUM (FRAGRANCE), SODIUM CHLORIDE, SODIUM BENZOATE, POTASSIUM SORBATE, CITRUS AURANTIUM PEEL (ORANGE) OIL, CITRUS LIMON (LEMON) PEEL OIL, CINNAMOMUM ZEYLANICUM LEAF OIL, EUGENIA CARYOPHYLLUS (CLOVE) OIL, MENTHA VIRIDIS (SPEARMINT) LEAF OIL, PINENE**, CITRAL**, EUGENOL**, LINALOOL**, VANILLIN**, TERPINOLENE**, LIMONENE**.* Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico** Naturally found in the parfum / Se encuentran de manera natural en el perfume. 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Detox Cleansing Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022326"
+     ],
+     "inci": "AQUA, CAPRYLYL/CAPRYL WHEAT BRAN/STRAW GLYCOSIDES, LAURYL/MYRISTYL WHEAT BRAN/STRAW GLYCOSIDES, GLYCERIN, PROPANEDIOL, ALLANTOIN, HAMAMELIS VIRGINIANA LEAF EXTRACT, CALENDULA OFFICINALIS EXTRACT, AZELAIC ACID, PANTHENOL, XANTHAN GUM, COCAMIDOPROPYL BETAINE, PARFUM, SODIUM CHLORIDE, SODIUM BENZOATE, POTASSIUM SORBATE, LINALOOL*. * Naturally found in the parfum / Se encuentran de manera natural en el perfume. 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Divine Balm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020681"
+     ],
+     "inci": "OLEA EUROPAEA FRUIT OIL, HELIANTHUS ANNUUS SEED OIL, CERA ALBA, AQUA/WATER, GLYCERIN, PROPOLIS EXTRACT, MEL EXTRACT, ROYAL JELLY EXTRACT, TOCOPHEROL, SQUALENE, BETA-SITOSTEROL, SODIUM BENZOATE, POTASSIUM SORBATE. 100% ingredientes naturales/ 100% natürliche Inhaltsstoffe"
+    },
+    {
+     "nombre": "Exotic Orange Body Mousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021572"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), STEARIC ACID, CAPRYLIC/CAPRIC TRIGLYCERIDE, COCO-CAPRYLATE/CAPRATE, GLYCERIN, PARFUM (FRAGRANCE)*, LIMONENE**, ORYZA SATIVA (RICE) STARCH, PROPANEDIOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PANAX GINSENG ROOT EXTRACT, POLYGLYCERYL-3 DIISOSTEARATE, XANTHAN GUM, PHENETHYL ALCOHOL, CAPRYLYL GLYCOL, POTASSIUM HYDROXIDE, POTASSIUM SORBATE, LINALOOL**, CITRAL**, EUGENOL**, CINNAMOMUM ZEYLANICUM LEAF OIL**, PINENE**, VANILLIN**, EUGENIA CARYOPHYLLUS (CLOVE) OIL**, MENTHA VIRIDIS (SPEARMINT) LEAF OIL, TERPINOLENE**, BETA-CARYOPHYLLENE**, TERPINEOL**, LINALYL ACETATE**, CARVONE**, GERANYL ACETATE**, GERANIOL**, CITRONELLOL**, ALPHA-TERPINENE**, CITRUS AURANTIUM (BITTER ORANGE) PEEL OIL**, CITRUS LIMON (LEMON) PEEL OIL**.* 100% Natural Parfum / Perfume 100% Natural ** Naturally found in the parfum / Se encuentran de manera natural en el perfume"
+    },
+    {
+     "nombre": "Extraordinary Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020339"
+     ],
+     "inci": "PRUNUS AMYGDALUS DULCIS OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ETHYLHEXANOATE, ROSA MOSCHATA SEED OIL, ARGANIA SPINOSA OIL, TOCOPHERYL ACETATE, LINOLEIC ACID, LINOLENIC ACID, TOCOPHEROL, SQUALENE, BETA-SITOSTEROL, PARFUM/FRAGANCE*. * Without harsh synthetic chemicals / Ohne aggressive synthetische Chemikalien"
+    },
+    {
+     "nombre": "Eye Contour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022005"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), COCO-CAPRYLATE/CAPRATE, CETEARYL OLIVATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, SORBITAN OLIVATE, PROPANEDIOL, ZEA MAYS (CORN) STARCH, BUTYROSPERMUM PARKII (SHEA) BUTTER, CRAMBE ABYSSINICA SEED OIL PHYTOSTEROL ESTERS, GLYCERIN, SODIUM HYALURONATE, CAFFEINE, CENTELLA ASIATICA EXTRACT, CAESALPINIA SPINOSA GUM, CAPRYLYL GLYCOL, ALGIN, BISABOLOL, GLYCINE SOJA (SOYBEAN) OIL, AESCULUS HIPPOCASTANUM (HORSE CHESTNUT) EXTRACT, MALTODEXTRIN, EQUISETUM ARVENSE EXTRACT, BETA-SITOSTEROL, PANAX GINSENG ROOT EXTRACT, BETAINE, PAEONIA LACTIFLORA ROOT EXTRACT, TREHALOSE, PHENETHYL ALCOHOL, SQUALENE, POTASSIUM SORBATE, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL*, GERANYL ACETATE*, TOCOPHEROL, PARFUM (FRAGRANCE)**, SODIUM BENZOATE, TERPINEOL*, LINALOOL*, LIMONENE** Naturally found in the parfum / Se encuentran de manera natural en el perfume** 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Happy hair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022302"
+     ],
+     "inci": "Jarabe de glucosa, azúcar, agua, gelificante (pectina), acetato de DL-alfa-tocoferilo (vitamina E), acidulante (ácido cítrico), ácido L-ascórbico (vitamina C), maltodextrina, corrector de acidez (citrato de sodio), aceite vegetal, aroma, citrato de zinc, acetato de retinilo (vitamina A), D-pantotenato cálcico (ácido pantoténico), ergocalciferol (vitamina D), D-Biotina (Biotina), nicotinamida (niacina), clorhidrato de piridoxina (vitamina B6), antiaglomerante (cera de carnauba), colorante (azul brillante FCF), cianocobalamina (vitamina B12), ácido pteroilmonoglutámico (ácido fólico), riboflavina (vitamina B2), bitartrato de colina, yoduro de potasio, inositol (mio-inositol). GLUCOSE SYRUP, SUGAR, WATER, GELLING AGENT (PECTIN), DL-ALPHA-TOCOPHERYL ACETATE (VITAMIN E), ACIDULANT (CITRIC ACID), L-ASCORBIC ACID (VITAMIN C), MALTODEXTRIN, ACIDITY REGULATOR (SODIUM CITRATE), VEGETABLE OIL, FLAVOURING, ZINC CITRATE, RETINYL ACETATE (VITAMIN A), D-BIOTIN (BIOTIN), D-CALCIUM PANTOTHENATE (PANTOTHENIC ACID), ERGOCALCIFEROL (VITAMIN D), NICOTINAMIDE (NIACIN), PYRIDOXINE HYDROCHLORIDE (VITAMIN B6), ANTI-CAKING AGENT (CARNAUBA WAX), COLORING (BRILLIANT BLUE FCF), CYANOCOBALAMIN (VITAMIN B12), PTEROYLMONOGLUTAMIC ACID (FOLIC ACID), RIBOFLAVIN (VITAMIN B2), CHOLINE BITARTRATE, POTASSIUM IODIDE, INOSITOL (MIO-INOSITOL)"
+    },
+    {
+     "nombre": "Instant Root Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023590"
+     ],
+     "inci": "Black and medium brown CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERYL CAPRYLATE, GLYCERYL UNDECYLENATE, GLYCOLIPIDS, HYDROGENATED OLIVE OIL UNSAPONIFIABLES, LAUROYL LYSINE, LYSINE, MAGNESIUM CHLORIDE, MAGNESIUM MYRISTATE, MICA, OCTYLDODECYL STEAROYL STEARATE, PENTYLENE GLYCOL, SODIUM LAUROYL GLUTAMATE. [MAY CONTAIN (+/-): CI 77491( IRON OXIDES), CI 77492 (IRON OXIDES), CI 77499 (IRON OXIDES)]. Light brown and dark blonde ALUMINUM HYDROXIDE, CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERYL CAPRYLATE, GLYCERYL UNDECYLENATE, GLYCOLIPIDS, HYDROGENATED OLIVE OIL UNSAPONIFIABLES, LAUROYL LYSINE, LYSINE, MAGNESIUM CHLORIDE, MAGNESIUM MYRISTATE, MICA, OCTYLDODECYL STEAROYL STEARATE, PENTYLENE GLYCOL, SODIUM LAUROYL GLUTAMATE. [MAY CONTAIN (+/-): CI 77491 (IRON OXIDES), CI 77492(IRON OXIDES), CI 77499 (IRON OXIDES), CI 77891(TITANIUM DIOXIDE)]"
+    },
+    {
+     "nombre": "Micellar Water 3 in 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020834"
+     ],
+     "inci": "AQUA(WATER), GLYCERIN, ALOE BARBADENSIS LEAF JUICE*, PENTYLENE GLYCOL, LAVANDULA ANGUSTIFOLIA OIL, POLYGLYCERYL-4 CAPRATE, CAPRYLYL/CAPRYL GLUCOSIDE, LEVULINIC ACID, POTASSIUM HYDROXIDE, GLYCERYL CAPRYLATE, POTASSIUM SORBATE, SODIUM BENZOATE, CITRIC ACID, LINALOOL**, LIMONENE**. *Ingredients from organic farming **Naturally found in essential oils 99% NATURAL INGREDIENTS 3% ORGANIC INGREDIENTS"
+    },
+    {
+     "nombre": "Pamper Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022401"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: AQUA (WATER), ALOE BARBADENSIS LEAF JUICE*, GLYCERIN, PENTYLENE GLYCOL, COCO-GLUCOSIDE, ALGIN, BETAINE, SODIUM HYALURONATE, SODIUM CHLORIDE, LEVULINIC ACID, XANTHAN GUM, GLYCERYL CAPRYLATE, PARFUM (FRAGRANCE), SODIUM HYDROXIDE, POTASSIUM SORBATE, SODIUM BENZOATE, CITRUS LIMON (LEMON) PEEL OIL*, LIMONENE*, LINALYL ACETATE*, LINALOOL*, CITRAL*, CITRIC ACID.*Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico** Naturally found in the parfum. 100% Natural Parfum/ Se encuentran de manera natural en el perfume.Perfume 100% Natural"
+    },
+    {
+     "nombre": "Pure Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021084"
+     ],
+     "inci": "AQUA, CETEARYL ALCOHOL, GLYCERIN, STEARAMIDOPROPYL DIMETHYLAMINE, LACTIC ACID, GLYCERYL STEARATE SE, CHAMOMILLA RECUTITA EXTRACT, SALVIA OFFICINALIS LEAF EXTRACT, TROPAEOLUM MAJUS EXTRACT, ARCTIUM LAPPA ROOT EXTRACT, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM*, SODIUM BENZOATE, SODIUM SALICYLATE, POTASSIUM SORBATE *100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Pure shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021077"
+     ],
+     "inci": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, COCAMIDOPROPYL BETAINE, DECYL GLUCOSIDE, PRUNUS AMYGDALUS DULCIS OIL, CHAMOMILLA RECUTITA EXTRACT, SALVIA OFFICINALIS LEAF EXTRACT, TROPAEOLUM MAJUS EXTRACT, ARCTIUM LAPPA ROOT EXTRACT, LYSINE, TETRASODIUM GLUTAMATE DIACETATE, GLYCERIN, SODIUM CHLORIDE, SODIUM BENZOATE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM*, SODIUM SALICYLATE, POTASSIUM SORBATE * 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Rich Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020872"
+     ],
+     "inci": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, DECYL GLUCOSIDE, COCAMIDOPROPYL BETAINE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM**, SODIUM CHLORIDE, LIMONENE (*), SODIUM BENZOATE, CITRIC ACID, GLYCERIN, PCA GLYCERYL OLEATE, POTASSIUM COCOYL RICE AMINO ACIDS, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM SALICYLATE, COCO-CAPRYLATE, TETRASODIUM GLUTAMATE DIACETATE, GLYCERYL OLEATE, LINALOOL(*), CITRONELLOL(*), POTASSIUM SORBATE, COCOS NUCIFERA FRUIT EXTRACT, PUNICA GRANATUM EXTRACT (*) Se encuentra de manera natural en el perfume ** 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Rich conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020889"
+     ],
+     "inci": "AQUA, CETEARYL ALCOHOL, GLYCERIN, STEARAMIDOPROPYL DIMETHYLAMINE, COCOS NUCIFERA OIL, PRUNUS ARMENIACA KERNEL OIL, C13-15 ALKANE, LACTIC ACID, GLYCERYL STEARATE SE, PARFUM**, HEPTYL UNDECYLENATE, LIMONENE(*), SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM SALICYLATE, LINALOOL(*), CITRONELLOL(*), PUNICA GRANATUM EXTRACT, POTASSIUM SORBATE (*) Se encuentra de manera natural en el perfume ** 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Savior",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022081"
+     ],
+     "inci": "FIXER - 100 ML AQUA (WATER), CETEARYL ALCOHOL, DICAPRYLYL ETHER, BETAINE, SHEA BUTTER CETYL ESTERS, GLYCERIN, ARGANIA SPINOSA (ARGAN) OIL, PARFUM (FRAGRANCE)**, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, PENTACLETHRA MACROLOBA SEED OIL, PCA GLYCERYL OLEATE, PHYTANTRIOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, PANTHENOL, BUTYROSPERMUM PARKII (SHEA) BUTTER*, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, CHONDRUS CRISPUS (CARRAGEENAN) POWDER, CERATONIA SILIQUA GUM, CELLULOSE GUM, ALGIN, SODIUM CETEARYL SULFATE, XANTHAN GUM, COCO-GLUCOSIDE, BENZYL ALCOHOL, DEHYDROACETIC ACID, GLYCINE SOJA (SOYBEAN) OIL, BENZOIC ACID, GELLAN GUM, CHITOSAN, SORBIC ACID, GLUCOSE, TOCOPHEROL, BETA-SITOSTEROL, SQUALENE, DISODIUM PHOSPHATE, POTASSIUM PHOSPHATE, CITRIC ACID. *Ingredientes procedentes del cultivo ecológico / Ingredients from organic farming *100% Natural Parfum / Perfume 100% Natural 93% natural ingredients SMOOTHER - 100 ML AQUA (WATER), CETEARYL ALCOHOL, GLYCERIN, STEARAMIDOPROPYL DIMETHYLAMINE, ARGANIA SPINOSA KERNEL (ARGAN) OIL, COCOS NUCIFERA (COCONUT) OIL, C13-15 ALKANE, LACTIC ACID, GLYCERYL STEARATE SE, PARFUM (FRAGRANCE)*, PUNICA GRANATUM (POMEGRANATE) EXTRACT, HEPTYL UNDECYLENATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM BENZOATE, SODIUM SALICYLATE, POTASSIUM SORBATE. *100% Natural Parfum / Perfume 100% Natural 98% natural ingredients"
+    },
+    {
+     "nombre": "The Absolute",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021046"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: WATER (AQUA), CITRUS AURANTIUM DULCIS (ORANGE) FRUIT WATER *, GLYCERIN, PROPANEDIOL, CETEARYL OLIVATE, SILICA, BUTYROSPERMUM PARKII (SHEA) BUTTER*, CETYL ALCOHOL, COCO-CAPRYLATE/CAPRATE, SORBITAN OLIVATE, OPUNTIA FICUS-INDICA (PRICKLY PEAR) SEED OIL, COCOS NUCIFERA (COCONUT) OIL, ROSA CANINA FRUIT OIL, BENZYL ALCOHOL, TITANIUM DIOXIDE (CI 77891), FRAGRANCE (PARFUM), SODIUM HYALURONATE, CAESALPINIA SPINOSA FRUIT EXTRACT, AVENA SATIVA (OAT) KERNEL EXTRACT, LIMONENE**, LYCIUM BARBARUM (GOJI BERRY) FRUIT EXTRACT*, BAKUCHIOL, DEHYDROACETIC ACID, KAPPAPHYCUS ALVAREZII EXTRACT, POTASSIUM HYDROXIDE, GLYCINE SOJA (SOYBEAN) OIL, BENZOIC ACID, LAMINARIA JAPONICA EXTRACT, CITRUS LIMON (LEMON) PEEL OIL**, SORBIC ACID, BIOSACCHARIDE GUM-1, SODIUM BENZOATE**, CELLULOSE GUM, LINALOOL**, TOCOPHEROL, LINALYL ACETATE**, SODIUM LEVULINATE, CHONDRUS CRISPUS POWDER, CERATONIA SILIQUA (CAROB) GUM, GLYCERYL CAPRYLATE, POTASSIUM SORBATE, PINENE**, BETA-SITOSTEROL, ROSE FLOWER OIL/EXTRACT**, ROSA DAMASCENA EXTRACT, JUNIPERUS VIRGINIANA OIL**, P-ANISIC ACID, SQUALENE, MENTHA VIRIDIS (SPEARMINT) LEAF OIL**, CARVONE**, GLUCOSE, CITRAL**, CITRONELLOL**, TERPINOLENE**.*Ingredientes procedentes del cultivo ecológico/ Ingredients from organic farming**Se encuentran de manera natural en el perfume/ Naturally found in the parfum. Perfume 100% Natural / 100% Natural Parfum"
+    },
+    {
+     "nombre": "The Architect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021527"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: Aloe Barbadensis Leaf Juice**, Water (Aqua), Rosa Damascena Flower Water, Propanediol, Glycerin, Xanthan Gum, Sodium Hyaluronate, Helianthus Annuus (Sunflower) Seed Oil, Benzyl Alcohol*, Caffeine, Silica, Bakuchiol, Titanium Dioxide (CI 77891), Parfum (Fragrance), Dehydroacetic Acid, Lespedeza Capitata Leaf/Stem Extract, MICA, Benzoic Acid, Anigozanthos Flavidus Extract, Tasmania Lanceolata Fruit/Leaf Extract, Sorbic Acid, Potassium Sorbate, Biosaccharide Gum-1, Jasminum Sambac (Jasmine) Flower Extract, Crataegus Monogyna Flower Extract, Chlorella Emersonii Extract, Sodium Benzoate, Sodium Levulinate, Citric Acid, Glyceryl Caprylate, p-Anisic Acid, Tocopherol, Tin Oxide, Limonene*, Citrus Limon (Lemon) Peel Oil, Linalool*, Linalyl Acetate*, Pinene*, Juniperus Virginiana Oil***Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico* Naturally found in the parfum. 100% Natural Parfum / Se encuentran de manera natural en el perfume. Perfume 100% Natural"
+    },
+    {
+     "nombre": "The Cure",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022104"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: SESAMUM INDICUM (SESAME) SEED OIL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL*, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL*, ROSA CANINA FRUIT OIL, PLUKENETIA VOLUBILIS (SACHA INCHI) SEED OIL*, SQUALANE, CORYLUS AVELLANA (HAZEL) SEED OIL*, ARGANIA SPINOSA KERNEL OIL*, BAKUCHIOL, OLEA EUROPAEA (OLIVE) FRUIT OIL, ROSA MOSCHATA (ROSEHIP) SEED OIL, OPUNTIA FICUS-INDICA (PRICKLY PEAR) SEED OIL, MACADAMIA TERNIFOLIA SEED OIL, CALENDULA OFFICINALIS FLOWER EXTRACT*, AMYRIS BALSAMIFERA BARK OIL, SALVIA LAVANDULIFOLIA HERB OIL, PELARGONIUM GRAVEOLENS OIL**, CITRONELLOL**, GLYCINE SOJA (SOYBEAN) OIL, TOCOPHEROL, PASSIFLORA EDULIS (PASSIONFRUIT) FRUIT EXTRACT, BETA-SITOSTEROL, ROSE FLOWER OIL/EXTRACT**, ROSA DAMASCENA EXTRACT, SQUALENE, ANIBA ROSAEODORA (ROSEWOOD) WOOD OIL, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT, CITRUS AURANTIUM BERGAMIA (BERGAMOT) PEEL OIL, LINALOOL**, BETA-CARYOPHYLLENE**, GERANYL ACETATE**, ALPHA-TERPINENE**, TERPINOLENE**, CITRAL**, TERPINEOL**, LINALYL ACETATE**, CAMPHOR**, PINENE**, GERANIOL**, SANTALOL**, LIMONENE**.*Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico**Naturally found in essential oils /Se encuentran de manera natural en los aceites esenciales"
+    },
+    {
+     "nombre": "The Lift",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570023255"
+     ],
+     "inci": "INGREDIENTS/INGREDIENTES: Aloe Barbadensis Leaf Juice**, Aqua (Water), Rosa Damascena Flower Water, Glycerin, Cichorium Intybus (Chikory) Root Oligosaccharides, Magnesium Aluminum Silicate, Algin, Punica Granatum Extract, Citrus Aurantium Dulcis (Orange) Flower Extract, Sodium Hyaluronate, Benzyl Alcohol*, Xanthan Gum, Parfum (Fragrance), Caesalpinia Spinosa Gum, Dehydroacetic Acid, Leuconostoc/Radish Root Ferment Filtrate, Gluconolactone, MICA, Benzoic Acid, Titanium Dioxide (CI 77891), Sodium Benzoate, Tasmannia Lanceolata Fruit/Leaf Extract, Sorbic Acid, Potassium Sorbate, Gleditsia Triacanthos Seed Extract, Caprylyl Glycol, Citric Acid, Calcium Gluconate, Tin Oxide, Limonene*, Citrus Limon (Lemon) Peel Oil, Linalool*, Linalyl Acetate*, Pinene*, Juniperus Virginiana Oil*.**Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico*Naturally found in the parfum. 100% Natural Parfum / Se encuentran de manera natural en el perfume. Perfume 100% Natural"
+    },
+    {
+     "nombre": "The glow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570021145"
+     ],
+     "inci": "AQUA (WATER), DICAPRYLYL ETHER, GLYCERIN, BUTYROSPERMUM PARKII (SHEA) BUTTER*, COCO-CAPRYLATE/CAPRATE, BETAINE, STEARYL ALCOHOL, LAURYL GLUCOSIDE, POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL*, COCOS NUCIFERA (COCONUT) OIL, BENZYL ALCOHOL, XANTHAN GUM, TREHALOSE, MICA, PARFUM (FRAGRANCE)**, TITANIUM DIOXIDE (CI 77891), DEHYDROACETIC ACID, IRON OXIDES (CI 77491), GLYCINE SOJA (SOYBEAN) OIL, BENZOIC ACID, SODIUM HYDROXIDE, SORBIC ACID, TOCOPHEROL, CITRIC ACID, BETA-SITOSTEROL, SQUALENE. * Ingredients from organic farming / Ingredientes procedentes del cultivo ecológico ** 100% Natural Parfum / Perfume 100% Natural"
+    },
+    {
+     "nombre": "Total Cleansing Milk",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020568"
+     ],
+     "inci": "AQUA/WATER, ISOPROPYL MYRISTATE, GLYCERIN, CETEARYL ALCOHOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETYL ALCOHOL, OLUS OIL, SODIUM CETEARYL SULFATE, SODIUM PHYTATE, BENZYL ALCOHOL, DEHYDROACETIC ACID, BENZOIC ACID, POTASSIUM HYDROXIDE, SORBIC ACID, TOCOPHEROL, SQUALENE, BETA-SITOSTEROL, DISODIUM PHOSPHATE, ALCOHOL DENAT, POTASSIUM PHOSPHATE. 97% NATURAL INGREDIENTS"
+    },
+    {
+     "nombre": "Velvet Scrub",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570022906"
+     ],
+     "inci": "PRUNUS AMYGDALUS DULCIS OIL, SODIUM CHLORIDE, GLYCERIN, PRUNUS ARMENIACA KERNEL OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, AQUA, SUCROSE LAURATE, SUCROSE STEARATE, LITSEA CUBEBA FRUIT OIL, CITRAL(*), HELIANTHUS ANNUUS SEED OIL, LIMONENE(*), BETA-CAROTENE, GLYCINE SOJA OIL, TOCOPHEROL, DAUCUS CAROTA SATIVA ROOT EXTRACT. Naturally found in the essential oils. Made with love in Barcelona"
+    },
+    {
+     "nombre": "WonderMask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436570020858"
+     ],
+     "inci": "AQUA (WATER), KAOLIN (CI 77004), DECYL OLEATE, GLYCERIN, TITANIUM DIOXIDE (CI 77891), MAGNESIUM ALUMINUM SILICATE, CELLULOSE, TASMANNIA LANCEOLATA FRUIT/LEAF EXTRACT, OPUNTIA FICUS-INDICA (PRICKLY PEAR) SEED OIL, ROSA CANINA FRUIT OIL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT*, ZINGIBER OFFICINALE (GINGER) ROOT EXTRACT*, ROSA GALLICA FLOWER POWDER, XANTHAN GUM, SODIUM ANISATE, TOCOPHEROL, DEHYDROACETIC ACID, PARFUM (FRAGRANCE), BENZOIC ACID, LIMONENE**, SORBIC ACID, BENZYL ALCOHOL, LINALOOL**, POTASSIUM SORBATE, SODIUM BENZOATE. * Ingredients from organic farming **Naturally found in the parfum. Perfume 100% Natural / 100% Natural Parfum"
+    }
+   ]
+  },
+  {
+   "key": "heliocare",
+   "nombre": "Heliocare",
+   "productos": [
+    {
+     "nombre": "360º Age Active Fluid SPF50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001977786"
+     ],
+     "inci": "Aqua, Isododecane, Cyclopentasiloxane, Diisopropyl Adipate, Ethylhexyl Salicylate, Caprylyl Methicone, Trisiloxane, Titanium Dioxide (Nano), Zinc Oxide (Nano), Butylene Glycol, Phenethyl Benzoate, Diethylhexyl Carbonate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Isononyl Isononanoate, Cetyl PEG/PPG-10/1 Dimethicone, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Styrene/Acrylates Copolymer, Ethylhexyl Triazone, Polymethylsilsesquioxane, Tris-Biphenyl Triazine (Nano), Polypodium Leucotomos Leaf Extract, Aspalathus Linearis Extract, Chlamydomonas Reinhardtii Extract, Urea, Trehalose, Serine, Sodium Hyaluronate, Glycerin, Algin, Pullulan, Disteardimonium Hectorite, Phenylpropanol, Magnesium Sulfate, Propylene Glycol, Aluminum Hydroxide, Stearic Acid, Caprylyl Glycol, Propanediol, Propylene Carbonate, Tocopheryl Acetate, Pentylene Glycol, Triethoxycaprylylsilane, Decyl Glucoside, Xanthan Gum, PEG-8, Disodium Phosphate, Glyceryl Polyacrylate, Tocopherol, Lecithin, Potassium Phosphate, Ascorbyl Palmitate, Ascorbic Acid, Citric Acid, PEG-8 Laurate, Sodium Phytate, Phenoxyethanol, Ci 77492, Ci 77491, Ci 77499, Parfum, Linalool"
+    },
+    {
+     "nombre": "360º Fluid Cream SPF50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001679864"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Isoamyl Laurate, PPG-15 Stearyl Ether, Hexylene Glycol, Caprylyl Methicone, Titanium Dioxide, Dipropylene Glycol Dibenzoate, Ethylhexyl Triazone, Hectorite, Trilaureth-4 Phosphate, Ceteareth-25, 3-O-Ethyl Ascorbic Acid, Polypodium Leucotomos Leaf Extract, Ferulic Acid, Caffeic Acid, Glycerin, Physalis Angulata Extract, Caprylyl Glycol, Melanin, PPG-15 Stearyl Ether Benzoate, Sodium Citrate, Camellia Sinensis Extract, Tocopheryl Acetate, Panthenyl Triacetate, Parfum, Arginine, Hydroxypropyl Cellulose, Disodium Ethylene Dicocamide PEG-15 Disulfate, Ethylhexylglycerin, Ethyl Linoleate, Caprylic/Capric Triglyceride, Oleyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethyl Lauroyl Arginate Hcl, Citric Acid, Plankton Extract, Sorbic Acid, Xanthan Gum, Butylene Glycol, Propylene Glycol, Silica, Oxothiazolidine, Tocopherol, Lecithin, Sodium Benzoate, Phenoxyethanol, Ci 77491, Ci 77492, Ci 77499, Linalool, Limonene"
+    },
+    {
+     "nombre": "360º Gel Oil-Free Dry Touch SPF50 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001724137"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Arginine, Phenylbenzimidazole Sulfonic Acid, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Titanium Dioxide(Nano), Hexylene Glycol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Nylon-12, Myristyl Alcohol, Dipropylene Glycol Dibenzoate, Ceteareth-25, Diethylhexyl Butamido Triazone, Phenoxyethanol, Polypodium Leucotomos Leaf Extract, Ferulic Acid, Caffeic Acid, Physalis Angulata Extract, Caprylyl Glycol, Melanin, Myristyl Glucoside, Ethylhexyl Triazone, Caprylyl Methicone, Hydrolyzed Wheat Protein/PVP Crosspolymer, Glycerin, 3-O-Ethyl Ascorbic Acid, Alumina, PPG-15 Stearyl Ether Benzoate, Disodium Ethylene Dicocamide PEG-15 Disulfate, Camellia Sinensis Extract, Ethylhexylglycerin, Tocopheryl Acetate, Xanthan Gum, Phytosphingosine Hcl, Plankton Extract, Ethyl Lauroyl Arginate Hcl, Panthenyl Triacetate, Parfum, Simethicone, Oxothiazolidine, Disodium EDTA, Silica, Ethyl Linoleate, Caprylic/Capric Triglyceride, Oleyl Alcohol, Butylene Glycol, Propylene Glycol, Lecithin, Sodium Benzoate, Tocopherol, Linalool, Limonene"
+    },
+    {
+     "nombre": "360º Water Gel SPF50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001930156"
+     ],
+     "inci": "Aqua, Octocrylene, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Butylene Glycol, Phenylbenzimidazole Sulfonic Acid, Arginine, Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenethyl Benzoate, Silica, Tris-Biphenyl Triazine(Nano), Polymethylsilsesquioxane, Styrene/Acrylates Copolymer, Polypodium Leucotomos Leaf Extract, Ethylhexyl Triazone, Physalis Angulata Extract, Plankton Extract, Melanin, Oxothiazolidine, Sodium Hyaluronate, Glycerin, Trehalose, Urea, Serine, Pullulan, Algin, C20-22 Alkyl Phosphate, Phenylpropanol, C20-22 Alcohols, Vp/Acrylates/Lauryl Methacrylate Copolymer, Sodium Acrylates Crosspolymer-2, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Caprylyl Glycol, Propanediol, Pentylene Glycol, Methicone, Caprylic/Capric Triglyceride, Disodium Phosphate, Glyceryl Polyacrylate, Disodium EDTA, Tocopheryl Acetate, Potassium Phosphate, Lecithin, BHT, Sodium Benzoate, Tocopherol, Phenoxyethanol, Parfum, Linalool, Limonene"
+    },
+    {
+     "nombre": "360º Pediatrics Mineral SPF50+ 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001930163"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Dimethicone, Isododecane, Titanium Dioxide(Nano), Zinc Oxide(Nano), Butyloctyl Salicylate, Sodium Potassium Aluminum Silicate, Niacinamide, Alumina, Styrene/Acrylates Copolymer, Phenethyl Benzoate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Polypodium Leucotomos Leaf Extract, Physalis Angulata Extract, Melanin, Plankton Extract, 3-O-Ethyl Ascorbic Acid, Oxothiazolidine, Tocopheryl Acetate, Hydrogen Dimethicone, Phenylpropanol, Polyhydroxystearic Acid, Magnesium Sulfate, Dimethicone/PEG-10/15 Crosspolymer, Propylene Glycol, Caprylyl Glycol, Titanium Dioxide, Silica, Propanediol, Triethoxycaprylylsilane, Caprylic/Capric Triglyceride, Tocopherol, Butylene Glycol, Dipropylene Glycol, Sodium Citrate, Disteardimonium Hectorite, Propylene Carbonate, Lecithin, Phenoxyethanol, Sodium Benzoate"
     }
    ]
   }
