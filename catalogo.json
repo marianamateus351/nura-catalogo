@@ -1,5 +1,5 @@
 {
- "version": "2026-09-21b",
+ "version": "2026-09-23a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -22844,6 +22844,60 @@
       "8411582875030"
      ],
      "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Didecyldimonium Chloride, Parfum, Acido L-(+)-lactico, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Alcohol, Citronellol, Butylphenyl Methylpropional, Geraniol, Linalool, Alcohol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Phenoxyethanol, Colorante"
+    }
+   ]
+  },
+  {
+   "key": "biretix",
+   "nombre": "Biretix",
+   "productos": [
+    {
+     "nombre": "Cleanser Gel Limpiador Purificante (200 ml, 400 ml y recarga 400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436574361599",
+      "8470002116511",
+      "8470002123885"
+     ],
+     "inci": "Aqua, Propylene Glycol, Decyl Glucoside, Cocamidopropyl Betaine, TEA-Lauryl Sulfate, Propanediol, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamide DEA, Aloe Barbadensis Gel, Algae Extract, Propolis Extract, Hamamelis Virginiana Leaf Extract, Oryza Sativa Bran Extract, Boswellia Serrata Extract, Mel Extract, Oligopeptide-10, PEG-150 Pentaerythrityl Tetrastearate, Gluconolactone, Disodium EDTA, Piroctone Olamine, Sodium Benzoate, Butylene Glycol, Calcium Gluconate, Citric Acid, Potassium Sorbate, Parfum, Phenoxyethanol"
+    },
+    {
+     "nombre": "Micropeel Exfoliante Purificante 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001729057"
+     ],
+     "inci": "Aqua, Disodium PEG-5 Laurylcitrate Sulfosuccinate, Decyl Glucoside, Sodium Lauroyl Glutamate, Glycerin, Phytelephas Aequatorialis Seed Powder, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butylene Glycol, Betaine, Triethanolamine, Phenoxyethanol, Propylene Glycol, Niacinamide, Zinc Sulfate, Salix Nigra Bark Extract, Tilia Cordata Flower Extract, Arctium Majus Root Extract, Bambusa Vulgaris Leaf/Stem Extract, Prunus Armeniaca Fruit Extract, Chamomilla Recutita Flower Extract, Biotin, Sodium Laureth Sulfate, Caprylyl Glycol, Polysorbate 20, Sodium Chloride, Ethylhexylglycerin, Disodium EDTA, Parfum"
+    },
+    {
+     "nombre": "Tri-Active Gel Anti-imperfecciones 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001908285",
+      "8436574365856"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycolic Acid, Niacinamide, Propylene Glycol, Salicylic Acid, Ammonium Hydroxide, Polyquaternium-10, Retinol, Hydroxypinacolone Retinoate, Oligopeptide-10, Oryza Sativa Bran Extract, Boswellia Serrata Extract, Honey Extract, Butylene Glycol, Ethylhexylglycerin, Tetrasodium EDTA, Pentylene Glycol, Palmitoyl Hydroxypropyltrimonium Amylopectin/Glycerin Crosspolymer, Dimethyl Isosorbide, 1,2-Hexanediol, Polysorbate 20, Caprylyl Glycol, Hydrogenated Lecithin, BHT, BHA"
+    },
+    {
+     "nombre": "Tri-Active Spray Anti-imperfecciones 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001945761"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycolic Acid, Niacinamide, Propylene Glycol, Salicylic Acid, Ammonium Hydroxide, Heptyl Glucoside, Retinol, Hydroxypinacolone Retinoate, Oligopeptide-10, Oryza Sativa Bran Extract, Boswellia Serrata Extract, Honey Extract, Butylene Glycol, Ethylhexylglycerin, Tetrasodium EDTA, Pentylene Glycol, Palmitoyl Hydroxypropyltrimonium Amylopectin/Glycerin Crosspolymer, Dimethyl Isosorbide, 1,2-Hexanediol, Polysorbate 20, Caprylyl Glycol, Hydrogenated Lecithin, BHT, BHA"
+    },
+    {
+     "nombre": "Isorepair Crema Hidratante Regeneradora 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436574361582"
+     ],
+     "inci": "Aqua, C12-20 Acid PEG-8 Ester, Squalane, Snail Secretion Filtrate, C12-15 Alkyl Benzoate, Hexylene Glycol, Saccharide Isomerate, PPG-20 Methyl Glucose Ether, Dipropylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, Fructose, Glucose, Cetyl Alcohol, Tocopheryl Acetate, Arginine, Gluconolactone, Boswellia Serrata Gum Extract, Glucosyl Ceramide, Phospholipids, Cholesterol, Calcium Gluconate, Sodium Hyaluronate, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Maltodextrin, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Citric Acid, Sodium Benzoate, Parfum"
     }
    ]
   }

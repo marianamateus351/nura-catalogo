@@ -784,7 +784,18 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
 | ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
-### 2026-09-23 · Biretix (Cantabria Labs) — marca nueva, aportación de una usuaria
+### 2026-09-23 · Biretix (Cantabria Labs) — marca nueva, aportación de una usuaria — resuelto el 2026-09-23 (versión 2026-09-23a)
+
+**Resultado: el código NO es el spray, es el Cleanser.** Open Beauty Facts tiene una foto de la
+etiqueta trasera de 8436574361599 (subida por una usuaria, lote 10/2024) con el EAN impreso y
+el nombre "Biretix Cleanser Gel Limpiador Purificante 200 ml"; Douglas y SkinLovers dan el
+mismo EAN para el Cleanser 200 ml. La lista que pegó la usuaria es la del **Tri-Active Gel**
+(idéntica a incidecoder y SkinLovers, con Polyquaternium-10; la del spray lleva Heptyl
+Glucoside en su lugar). Es decir: código de un producto, lista de otro. **La aportación manual
+aprobada con esa lista está mal para ese código**: al importar Biretix desde la app, la ficha
+del catálogo la sobreescribe (la importación por marca hace merge sobre `ingredientesTexto`).
+Entra con la lista de la etiqueta. Biretix abierta como marca: ver su apartado.
+
 
 | Código | Pista | Qué hacer |
 |---|---|---|
@@ -1084,6 +1095,46 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
 
+### Biretix (Cantabria Labs) — cerrada 2026-09-23: 5 productos, 8 códigos (de 15 fichas en cantabrialabs.es)
+Cantabria Labs (antes IFC, Santander). **La web del fabricante NO publica el INCI**: ni
+cantabrialabs.es (solo "Composición" con los activos y el CN de farmacia), ni .com, ni .pt.
+Vía: INCI por dos fuentes independientes idénticas + EAN por dos fuentes.
+- **EAN.** API de Douglas ES (`/api/v2/products/<id>?fields=FULL`, campo `ean`; 11 fichas con
+  ids `5011406034…5011990016`, variantes del Cleanser por `variant=`) y **SkinLovers**
+  (Shopify, `"barcode"` en el JSON de la ficha, 11 fichas): coinciden código a código.
+  farmacianautic (EAN en la URL) añade 8436574365856 (Tri-Active Gel, envase nuevo) y
+  8436574361582 (Isorepair, también en Douglas). Cosmetis publica `ean` en `<meta>`.
+- **INCI.** incidecoder (22 fichas, varias duplicadas por dos subidas distintas), SkinLovers
+  (bloque "Ingredients" con erratas de transcripción), shop-apotheke.de (con erratas y una
+  ficha, Mask, que copia la lista del Gel) y la **etiqueta de OBF** del Cleanser 200 ml. Se
+  guarda la lista limpia de incidecoder (o la etiqueta) cuando otra fuente da la misma lista
+  ingrediente a ingrediente (erratas de transcripción toleradas, nunca un ingrediente de más
+  o de menos).
+- **Entran (5):** Cleanser 200/400/recarga (etiqueta + incidecoder ×2 + SkinLovers ×3),
+  Micropeel (incidecoder ×2 + SkinLovers), Tri-Active Gel (incidecoder + SkinLovers + la lista
+  de la usuaria), Tri-Active Spray (incidecoder + SkinLovers) e Isorepair crema (incidecoder ×2
+  + shop-apotheke).
+- **Fuera (10) y por qué:**
+  - **Duo Gel** 8470001859853: dos fórmulas en circulación (incidecoder/shop-apotheke con
+    Phenoxyethanol, 27; SkinLovers con BHT/BHA/1,2-Hexanediol y sin Phenoxyethanol, 34). La
+    nueva solo la da una fuente: hace falta foto de etiqueta.
+  - **Double Correction Serum** 8470002160040: incidecoder ×2 (43) y SkinLovers (44) difieren
+    en un ingrediente (Sphingomonas Ferment Extract). Foto de etiqueta.
+  - **Gel** 8470001723505: incidecoder y shop-apotheke dan la misma lista, pero lleva
+    Methyl/Ethyl/Butylparaben y huele a fórmula antigua; sin etiqueta actual, fuera.
+  - **Hydramat Day SPF30** 8470001999726 (solo incidecoder), **Hydramat Day SPF30 Color**
+    8436574364477 (solo SkinLovers), **Mask** (incidecoder 33 vs 38), **Oil Control Solution**
+    8470002119451, **Tri-Active Intensive Gel** 8436574365849, **Tri-Active Control Gel**,
+    **Isorepair Bálsamo Labial** 8436574365481 e **Isorepair Limpiador Cremoso** 8436574365498:
+    sin lista en ninguna fuente o con una sola.
+  - Códigos descartados: 8437002567255 (Nautic, Cleanser 200 ml, prefijo de otra empresa) y
+    8032715360546 (Nautic, spray, envase italiano).
+- Con una foto de etiqueta (Buscados o Mariana) cualquiera de los 10 entra en cinco minutos:
+  los EAN ya están.
+Nombres: los de cantabrialabs.es sin "Biretix" delante. Scripts/datos: `brx/` (Douglas
+`dg/`, incidecoder `ic/`, SkinLovers `sl/`, Nautic `nt/`, shop-apotheke `sa/`, foto OBF
+`obf_ingr.jpg`, `biretix_final.json`).
+
 ### Asevi (asevicompany.com) — cerrada 2026-09-21: 135 productos, 167 códigos (de 203 fichas en su portal)
 Asevi Home Brands (antes Pons Químicas, Xàbia): fregasuelos, detergentes, suavizantes,
 ambientadores, desinfectantes. Primera marca de limpieza curada **entera desde el
@@ -1373,6 +1424,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
+| Biretix (Cantabria Labs) | sí (`sitemap.xml` de cantabrialabs.es, 15 fichas) | **no** (solo CN); EAN en la API de Douglas ES y en el JSON de SkinLovers | **no** (solo activos); INCI en incidecoder, SkinLovers y shop-apotheke, más etiqueta OBF | dos fuentes idénticas o nada; ver su apartado |
 | Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
@@ -1394,13 +1446,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-21)
-3744 códigos en 36 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · **Asevi 167** · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
+## Estado (2026-09-23)
+3752 códigos en 37 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
-Sanex 15 · Rexona 14 · Fairy 12 · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
+Sanex 15 · Rexona 14 · Fairy 12 · **Biretix 8** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
-2355 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+2360 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
