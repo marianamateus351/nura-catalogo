@@ -1230,6 +1230,36 @@ sesderma.com sigue sin publicar el INCI (ver arriba), así que va como Heliocare
   "lista" es una frase de marketing. Todo en `nx/ses_match.json`.
 Scripts: `nx/match_ses.py`, `nx/gen_ses_final.py`, `nx/ic_sesderma_lists2.json`.
 
+### SkinCeuticals — ampliada 2026-09-23: 28 productos, 21 códigos (antes 16 y 6)
+skinceuticals.es y el resto de webs de la marca (.fr, .it, .de, .co.uk, .com) siguen detrás de
+Cloudflare, y Douglas ES no vende la marca. Así que va como Sesderma: **SkinLovers**
+(59 fichas; el bloque "Ingredients" lleva primero los activos en prosa y al final la lista
+INCI en mayúsculas, 33 con lista y 36 con `barcode`) contrastado con **incidecoder** (102
+fichas con lista entre la página de marca y las búsquedas por gama). Entra lo idéntico.
+- 12 productos nuevos con EAN `3606000…`: Antioxidant Lip Repair, Blemish + Age Cleansing
+  Gel, Retinol 0.3, Emollience, Glycolic Renewal Cleanser, H.A. Intensifier (fórmula actual),
+  Mineral Eye/Matte/Radiance UV Defense, Phyto A+, Phyto Corrective Masque, Soothing Cleanser.
+- Código añadido a tres fichas que estaban solo por nombre (Silymarin CF 8431567460174, Triple
+  Lipid Restore 3606000435087, Blemish + Age Defense 8431567387990), con la lista confirmada;
+  y la lista del Advanced Brightening UV Defense (3337875702478) pasa a la actual, que dan
+  igual SkinLovers e incidecoder (la anterior no llevaba Diisopropyl Sebacate).
+- **H.A. Intensifier tiene dos EAN con dos fórmulas**: 3337875736749 (la que estaba, ahora
+  "fórmula anterior") y 3606000436442 (la actual, con Cyclohexasiloxane). Van separadas.
+- Fuera por lista distinta entre fuentes: Metacell Renewal B3 (3606000495470) y Daily
+  Moisture (3606000482111). Sin lista en incidecoder: Oil Shield UV Defense, Simply Clean,
+  Tripeptide-R Neck Repair. Sin lista o sin código en SkinLovers: cofres, Cell Cycle
+  Catalyst, P-Tiox, Serum 10, Discoloration Defense, Retexturing Activator, Glycolic 10.
+- **10 productos se quedan fuera solo por la regla 3 (código UPC de EE. UU.)**: SkinLovers
+  los vende con UPC-A de 12 dígitos `635494…` (= `0635494…` en EAN-13) y su lista es
+  idéntica a incidecoder: C E Ferulic (635494363210), A.G.E. Interrupter (635494345254),
+  A.G.E. Eye Complex (635494358209), AOX+ Eye Gel (635494348200), Clarifying Clay Masque
+  (635494330205), Hydrating B5 Gel (635494317206) y Masque (635494316209), Phyto Corrective
+  Gel (635494314205), Sheer Mineral UV Defense SPF 50 (635494394207) y Ultra Facial UV
+  Defense SPF 50 (635494349207). Es el mismo caso que NYX (los envases que se venden aquí
+  llevan ese código): **si Mariana quiere la misma excepción, entran en un minuto**
+  (`sk/sk_match.json`).
+Scripts: `sk/parse_sl.py`, `sk/fetch_ic.py`, `sk/match_sk.py`, `sk/gen_sk_final.py`.
+
 ### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
 **La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
 Fairy) es solo la web del Reglamento 648/2004, y para España lista 20 marcas de limpieza,
@@ -1569,7 +1599,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
 | Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
 | Sesderma | sí (~120 fichas ES) | no; Douglas ES y SkinLovers | no; SkinLovers, Douglas e incidecoder | dos fuentes idénticas o nada (11 códigos); ver su apartado |
-| SkinCeuticals | — | — | — | Cloudflare responde 403 a todo, incluido el sitemap |
+| SkinCeuticals | — (Cloudflare en todas las webs de la marca) | no; `barcode` en el JSON de SkinLovers | no; SkinLovers (lista INCI al final del bloque "Ingredients") e incidecoder | dos fuentes idénticas o nada (21 códigos); ver su apartado |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Kérastase | — (Cloudflare interactivo en .es/.fr/.uk/.it) | sí, en la API de Douglas (`ean` por variante) | sí en la API de Douglas (`ingredients`, con artefactos del feed de L'Oréal), contrastada con incidecoder | ver su apartado |
@@ -1620,13 +1650,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-23)
-3912 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3927 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
 **ISDIN 68** · Kérastase 59 · Neutrogena 56 · Bioderma 42 · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
-**Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 · **Sesderma 11** ·
-Aussie 10 · Herbal Essences 9 · Biretix 8 · SkinCeuticals 6 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
+**SkinCeuticals 21** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
+**Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2514 productos está sin INCI. Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 2526 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

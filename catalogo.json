@@ -1,5 +1,5 @@
 {
- "version": "2026-09-23d",
+ "version": "2026-09-23e",
  "marcas": [
   {
    "key": "larocheposay",
@@ -1537,11 +1537,11 @@
      "exclude": [
       "gel"
      ],
+     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736763.jpg",
      "barcodes": [
       "3337875736763"
      ],
-     "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid",
-     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736763.jpg"
+     "inci": "Aqua/Water, Dipropylene Glycol, Alcohol Denat, Ascorbic Acid, Butylene Glycol, Triethyl Citrate, Phloretin, Ferulic Acid"
     },
     {
      "nombre": "Silymarin CF",
@@ -1549,10 +1549,13 @@
       "silymarin"
      ],
      "exclude": [],
-     "inci": "Aqua/Water, Alcohol Denat, Ascorbic Acid, Propylene Glycol, Dipropylene Glycol, Laureth-23, Silybum Marianum Fruit Extract, Sodium Citrate, Salicylic Acid, Ferulic Acid"
+     "barcodes": [
+      "8431567460174"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat, Ascorbic Acid (15%), Propylene Glycol, Dipropylene Glycol, Laureth-23, Silybum Marianum Fruit Extract (0.5%), Sodium Citrate, Salicylic Acid (0.5%), Ferulic Acid (0.5%)"
     },
     {
-     "nombre": "H.A. Intensifier",
+     "nombre": "H.A. Intensifier 30 ml (fórmula anterior)",
      "include": [
       "intensifier"
      ],
@@ -1560,11 +1563,11 @@
       "glycan",
       "multiglycan"
      ],
+     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736749.jpg",
      "barcodes": [
       "3337875736749"
      ],
-     "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
-     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3337875736749.jpg"
+     "inci": "Aqua/Water, Dimethicone, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Polyglyceryl-4 Caprate, Dipotassium Glycyrrhizate, Lactobacillus/Soybean Ferment Extract, Polysilicone-11, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 PEG/PPG-16/16 Dimethicone, Ammonium Polyacryloyldimethyl Taurate, PEG-20 Methyl Glucose Sesquistearate, Caprylyl Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Acetylated Hyaluronate, Dextrin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa Extract, Caprylic/Capric Triglyceride, Adenosine, Pentylene Glycol, Citrus Nobilis Peel Oil, Limonene, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
     },
     {
      "nombre": "Triple Lipid Restore 2:4:2",
@@ -1572,7 +1575,10 @@
       "triplelipid"
      ],
      "exclude": [],
-     "inci": "Aqua/Water, Dimethicone, Hydrogenated Polyisobutene, Glycerin, Cholesterol, C12-15 Alkyl Benzoate, Ceramide 3, Helianthus Annuus Seed Oil Unsaponifiables, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sodium Polyacrylate, PEG-10 Dimethicone, Nylon-12, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Dimethicone/PEG-10/15 Crosspolymer, Phenoxyethanol, Disteardimonium Hectorite, Hydroxyethylpiperazine Ethane Sulfonic Acid, Ammonium Polyacryloyldimethyl Taurate, Chlorphenesin, Caprylyl Glycol, PEG/PPG-18/18 Dimethicone, Propylene Carbonate, Disodium EDTA, Adenosine, Dipropylene Glycol, Lavandula Angustifolia Oil, Rosmarinus Officinalis Leaf Oil, T-Butyl Alcohol, Mentha Piperita Oil, Sodium Citrate, Linalool, Isobutane, Ceramide EOP, BHT, Tocopherol, Limonene"
+     "barcodes": [
+      "3606000435087"
+     ],
+     "inci": "Aqua/Water/Eau, Dimethicone, Hydrogenated Polyisobutene, Glycerin, Cholesterol, C12-15 Alkyl Benzoate, Ceramide 3, Helianthus Annuus Seed Oil Unsaponifiables/Sunflower Seed Oil Unsaponifiables, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sodium Polyacrylate, PEG-10 Dimethicone, Nylon-12, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Dimethicone/PEG-10/15 Crosspolymer, Phenoxyethanol, Disteardimonium Hectorite, Hydroxyethylpiperazine Ethane Sulfonic Acid, Ammonium Polyacryloyldimethyl Taurate, Chlorphenesin, Caprylyl Glycol, PEG/PPG-18/18 Dimethicone, Propylene Carbonate, Disodium EDTA, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Adenosine, Dipropylene Glycol, Lavandula Angustifolia Oil/Lavender Oil, Rosmarinus Officinalis Leaf Oil/Rosemary Leaf Oil, T-Butyl Alcohol, Mentha Piperita Oil/Peppermint Oil, Sodium Citrate, Linalool, Isobutane, Ceramide EOP, BHT, Tocopherol, Limonene"
     },
     {
      "nombre": "A.G.E. Interrupter Advanced",
@@ -1598,7 +1604,10 @@
       "solution",
       "spf"
      ],
-     "inci": "Alcohol Denat, Aqua/Water, Methylpropanediol, Glycolic Acid, Diisopropyl Adipate, Octadecenedioic Acid, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, Capryloyl Salicylic Acid, Sodium Hydroxide, Polyquaternium-10"
+     "barcodes": [
+      "8431567387990"
+     ],
+     "inci": "Alcohol Denat, Water, Methylpropanediol, Glycolic Acid, Diisopropyl Adipate, Octadecenedioic Acid, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, Capryloyl Salicylic Acid, Sodium Hydroxide, Polyquaternium-10"
     },
     {
      "nombre": "Discoloration Defense",
@@ -1624,11 +1633,11 @@
       "resveratrol"
      ],
      "exclude": [],
-     "inci": "Aqua/Water, Dimethicone, Propylene Glycol, Dipropylene Glycol, Niacinamide, Alcohol Denat, Glycerin, Caffeine, Sodium Chloride, PEG/PPG-18/18 Dimethicone, Tocopherol, Resveratrol, Scutellaria Baicalensis Root Extract, Disodium EDTA",
+     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3606000499805.jpg",
      "barcodes": [
       "3606000499805"
      ],
-     "foto": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/3606000499805.jpg"
+     "inci": "Aqua/Water, Dimethicone, Propylene Glycol, Dipropylene Glycol, Niacinamide, Alcohol Denat, Glycerin, Caffeine, Sodium Chloride, PEG/PPG-18/18 Dimethicone, Tocopherol, Resveratrol, Scutellaria Baicalensis Root Extract, Disodium EDTA"
     },
     {
      "nombre": "Retinol 0.5",
@@ -1669,10 +1678,10 @@
       "blemish",
       "simply"
      ],
-     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycerin, Propanediol, Cetyl Alcohol, Methyl Gluceth-20, Neopentyl Glycol Dicaprate, PEG-100 Stearate, Glyceryl Stearate, Polyglyceryl-4 Caprate, Phenoxyethanol, Citrus Aurantium Dulcis Oil/Orange Peel Oil, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Polysorbate 20, Allantoin, Sodium Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Polyquaternium-39, Sodium Chloride, PEG-30 Dipolyhydroxystearate, Trideceth-6, Glycolic Acid, Sodium Benzoate",
      "barcodes": [
       "3606000471146"
-     ]
+     ],
+     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycerin, Propanediol, Cetyl Alcohol, Methyl Gluceth-20, Neopentyl Glycol Dicaprate, PEG-100 Stearate, Glyceryl Stearate, Polyglyceryl-4 Caprate, Phenoxyethanol, Citrus Aurantium Dulcis Oil/Orange Peel Oil, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Polysorbate 20, Allantoin, Sodium Hydroxide, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Polyquaternium-39, Sodium Chloride, PEG-30 Dipolyhydroxystearate, Trideceth-6, Glycolic Acid, Sodium Benzoate"
     },
     {
      "nombre": "A.G.E. Interrupter Ultra Serum",
@@ -1698,7 +1707,115 @@
      "barcodes": [
       "3337875702478"
      ],
-     "inci": "Aqua/Water, Alcohol Denat., Ethylhexyl Triazone, Drometrizole Trisiloxane, Isononyl Isononanoate, Isopropyl Lauroyl Sarcosinate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Niacinamide, Dimethicone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Octocrylene, Propanediol, Ethylhexyl Salicylate, Cetearyl Alcohol, Silica, Tranexamic Acid, Tocopherol, Phenoxyethanol, PEG-10 Dimethicone, CI 77891/Titanium Dioxide, Polyglyceryl-10 Laurate, Sodium Stearoyl Glutamate, Caprylyl Glycol, Butylene Glycol, Cetearyl Glucoside, Mica, Glycerin, PEG-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylenediamine, Carbomer, Inulin Lauryl Carbamate, T-Butyl Alcohol"
+     "inci": "Aqua/Water, Alcohol Denat, Ethylhexyl Triazone, Drometrizole Trisiloxane, Isononyl Isononanoate, Isopropyl Lauroyl Sarcosinate, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Niacinamide, Dimethicone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano]/Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Octocrylene, Propanediol, Ethylhexyl Salicylate, Cetearyl Alcohol, Silica, Tranexamic Acid, Tocopherol, Phenoxyethanol, PEG-10 Dimethicone, CI 77891/Titanium Dioxide, Polyglyceryl-10 Laurate, Sodium Stearoyl Glutamate, Caprylyl Glycol, Butylene Glycol, Cetearyl Glucoside, Mica, Glycerin, PEG-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Trisodium Ethylenediamine Disuccinate, Carbomer, Inulin Lauryl Carbamate, T-Butyl Alcohol"
+    },
+    {
+     "nombre": "Antioxidant Lip Repair 10 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000498983"
+     ],
+     "inci": "Aqua/Water/Eau, Hydrogenated Polyisobutene, Glycerin, Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline, Dimethicone, Undecane, Tridecane, PEG/PPG-18/18 Dimethicone, Silica, Alcohol Denat, Tocopheryl Acetate, Polymethylsilsesquioxane, Ethylhexyl Palmitate, Phenoxyethanol, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Tocopherol, Magnesium Sulfate, Disteardimonium Hectorite, Glucosamine Hcl, Tribehenin, Caprylyl Glycol, Allantoin, Disodium EDTA, Hydroxyethyl Urea, Sorbitan Isostearate, Sodium Hyaluronate, Faex Extract / Yeast Extract / Extrait De Levure, Biosaccharide Gum-1, Palmitoyl Oligopeptide, Silybum Marianum Extract"
+    },
+    {
+     "nombre": "Blemish + Age Cleansing Gel 240 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000471467"
+     ],
+     "inci": "Aqua/Water, Coco-Betaine, Propylene Glycol, PEG-120 Methyl Glucose Dioleate, Sorbitol, Glycerin, Glycolic Acid, Triethanolamine, Sodium Laureth Sulfate, Sodium Chloride, Disteareth-100 Ipdi, Salicylic Acid, Capryloyl Salicylic Acid, Menthol, Disodium EDTA, Steareth-100"
+    },
+    {
+     "nombre": "Retinol 0.3 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000509603"
+     ],
+     "inci": "Aqua/Water, Isostearyl Neopentanoate, Glycerin, Glycine Soja Oil/Soybean Oil, Propylene Glycol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Cetearyl Alcohol, Phenoxyethanol, Isohexadecane, Retinol 0.3%, Polysorbate 80, Sodium Hyaluronate, Medicago Sativa Extract/Alfalfa Extract, Chamomilla Recutita Extract/Matricaria Flower Extract, Triethanolamine"
+    },
+    {
+     "nombre": "Emollience 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000482159"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Sesamum Indicum Oil/Sesame Seed Oil, Propylene Glycol, Glyceryl Stearate, Vitis Vinifera Seed Oil/Grape Seed Oil, Rosa Canina Fruit Oil, Macadamia Ternifolia Seed Oil, Mangifera Indica Seed Butter/Mango Seed Butter, Stearic Acid, Palmitic Acid, Triethanolamine, Caprylic/Capric Glycerides, Phenoxyethanol, Panthenol, Carbomer, Chlorphenesin, Caprylyl Glycol, Aloe Barbadensis / Aloe Barbadensis Leaf Juice, Disodium EDTA, Allantoin, Laminaria Ochroleuca Extract, Ginkgo Biloba Extract / Ginkgo Biloba Leaf Extract, Chlorella Vulgaris Extract, Algae Extract"
+    },
+    {
+     "nombre": "Glycolic Renewal Cleanser 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000481121"
+     ],
+     "inci": "Aqua/Water/Eau, Glycolic Acid, Coco-Glucoside, Propylene Glycol, Ammonium Polyacryloyldimethyl Taurate, Glycerin, Sodium Methyl Cocoyl Taurate, Sodium Hydroxide, Aloe Barbadensis Leaf Juice, Phytic Acid, Sodium Chloride, Phenoxyethanol, Dipropylene Glycol, Coconut Acid, Caprylyl Glycol, Salicylic Acid, Chlorphenesin, Ethylhexylglycerin, Boswellia Serrata Gum, Cymbopogon Schoenanthus Oil, Citral, Citric Acid, Potassium Sorbate, Sodium Benzoate, Tocopherol"
+    },
+    {
+     "nombre": "H.A. Intensifier 30 ml (fórmula actual)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000436442"
+     ],
+     "inci": "Aqua/Water/Eau, Cyclohexasiloxane, Glycerin, Alcohol Denat, Hydroxypropyl Tetrahydropyrantriol, Propylene Glycol, Dipotassium Glycyrrhizate, Polysilicone-11, Polymethylsilsesquioxane, Sodium Hyaluronate, Dimethicone, Tocopherol, Phenoxyethanol, Capryloyl Salicylic Acid, Octyldodecanol, Bis-PEG/PPG-16/16 / PEG/PPG-16/16 Dimethicone, PEG-20 Methyl Glucose Sesquistearate, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Xanthan Gum, Dextrin, Oryza Sativa Extract, Rice Extract, Disodium EDTA, Caprylic/Capric Triglyceride, Sodium Hydroxide, Adenosine, Citrus Nobilis Peel Oil/Mandarin Orange Peel Oil, Limonene, T-Butyl Alcohol, Cellulose Acetate Butyrate, Polyphosphorylcholine Glycol Acrylate, Polyvinyl Alcohol, Sodium Chloride, Butylene Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Mineral Eye UV Defense SPF 30 10 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000409125"
+     ],
+     "inci": "Dimethicone, Titanium Dioxide [Nano] / Titanium Dioxide, C12-15 Alkyl Benzoate, Hydrogenated Jojoba Oil, Styrene/Acrylates Copolymer, Dimethicone Crosspolymer, Talc, Triethylhexanoin, Isohexadecane, Dimethicone/Vinyl Dimethicone Crosspolymer, Aluminum Hydroxide, Stearic Acid, CI 77491, CI 77492, CI 77499/Iron Oxides, Aluminum Stearate, Polypropylsilsesquioxane, Alumina, Polyhydroxystearic Acid, PEG-8 Laurate, Silica Silylate, Isododecane, 2-Oleamido-1, 3-Octadecanediol, Disodium Stearoyl Glutamate (F.I.L. D172626/1)"
+    },
+    {
+     "nombre": "Mineral Matte UV Defense SPF 30 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000439627"
+     ],
+     "inci": "Dimethicone, Titanium Dioxide [Nano] / Titanium Dioxide, C12-15 Alkyl Benzoate, Dicaprylyl Ether, Dimethicone/Vinyl Dimethicone Crosspolymer, Triethylhexanoin, Isohexadecane, Styrene/Acrylates Copolymer, Hydrogenated Jojoba Oil, Aluminum Hydroxide, Stearic Acid, CI 77491, CI 77492, CI 77499/Iron Oxides, Aluminum Stearate, Silica Silylate, Alumina, Polyhydroxystearic Acid, PEG-8 Laurate, Aqua/Water, Laureth-4, Disodium Stearoyl Glutamate, Tocopherol"
+    },
+    {
+     "nombre": "Mineral Radiance UV Defense SPF 50 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000497290"
+     ],
+     "inci": "Aqua, Titanium Dioxide (Nano), Isododecane, Dimethicone, Undecane, C12-15 Alkyl Benzoate, Styrene/Acrylates Copolymer, Caprylyl Methicone, Nylon-12, Butyloctyl Salicylate, Phenethyl Benzoate, Tridecane, Dicaprylyl Carbonate, Silica (Nano), Triethylhexanoin, Isohexadecane, Dicaprylyl Ether, Talc, Dimethicone/PEG-10/15 Crosspolymer, Aluminum Hydroxide, Stearic Acid, Pentylene Glycol, PEG-9 Polydimethylsiloxyethyl Dimethicone, CI 77492, Aluminum Stearate, PEG-8 Laurate, Phenoxyethanol, Magnesium Sulfate, Caprylyl Glycol, Alumina, Polyhydroxystearic Acid, Disteardimonium Hectorite, CI 77491, Diethylhexyl Syringylidenemalonate, Tocopherol, CI 77499, Propylene Carbonate, Artemia Extract, Benzoic Acid, PEG-9"
+    },
+    {
+     "nombre": "Phyto A+ Brightening Treatment 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000584563"
+     ],
+     "inci": "Aqua/Water, Glycerin, Isononyl Isononanoate, Propylene Glycol, Azelaic Acid, Niacinamide, Squalane, Alpha-Arbutin, Ammonium Polyacryloyldimethyl Taurate, Hydrogenated Polyisobutene, Silica Silylate, Hydroxyacetophenone, Sodium Hyaluronate, Caprylyl Glycol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hydroxide, Olea Europaea Leaf Extract/Olive Leaf Extract, Parfum/Fragrance, Butylene Glycol, Rosmarinus Officinalis Leaf Extract/Rosemary Leaf Extract, Citrus Grandis Fruit Extract, Sodium Benzoate, Cucumis Sativus Fruit Extract/Cucumber Fruit Extract, Sorbitan Isostearate, Polysorbate 60, Benzyl Benzoate, Thymus Vulgaris Flower/Leaf Extract - Thyme Flower/Leaf Extract, Lactic Acid, Benzyl Alcohol, Alpha-Isomethyl Ionone, Linalool, Potassium Sorbate, Citronellol, Morus Alba Root Extract, CI 19140/Yellow 5, Cl 42090 Blue 1, Tocopherol"
+    },
+    {
+     "nombre": "Phyto Corrective Masque 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000436725"
+     ],
+     "inci": "Aqua/Water, Glycerin, Alcohol Denat, Dipropylene Glycol, Dimethicone, Butylene Glycol, Propylene Glycol, PEG-8, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Ammonium Polyacryloyldimethyl/Taurate, Phenoxyethanol, Carbomer, Dimethiconol, Sodium Hyaluronate, Olea Europaea Leaf Extract/Olive Leaf Extract, Sodium Hydroxide, Tetrasodium EDTA, Sodium Citrate, Parfum/Fragrance, Acetyl Dipeptide-1 Cetyl Ester, Cucumis Sativus Fruit Extract/Cucumber Fruit Extract, T-Butyl Alcohol, Sodium Benzoate, Thymus Vulgaris Flower/Leaf Extract, Citrus Grandis Extract / Grapefruit Fruit Extract, Toluene Sulfonic Acid, Benzyl Benzoate, Cellulose Acetate Butyrate, Benzyl Alcohol, Alpha-Isomethyl Ionone, Polyphosphorylcholine Glycol Acrylate, Linalool, Morus Alba Root Extract, Polyvinyl Alcohol, Caprylyl Glycol, Citronellol, CI 19140/Yellow 5, CI 42090/Blue 1, Sodium Chloride"
+    },
+    {
+     "nombre": "Soothing Cleanser 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3606000463622"
+     ],
+     "inci": "Aqua/Water/Eau, Sorbitol, Glycerin, Sodium Cocoyl Glycinate, PEG-8, Hexylene Glycol, Coco-Betaine, Propylene Glycol, Phenoxyethanol, Disodium EDTA, Sodium Chloride, Orchis Mascula Extract, Cucumis Sativus Fruit Extract/Cucumber Fruit Extract"
     }
    ]
   },
