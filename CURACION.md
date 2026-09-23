@@ -1260,6 +1260,31 @@ fichas con lista entre la página de marca y las búsquedas por gama). Entra lo 
   (`sk/sk_match.json`).
 Scripts: `sk/parse_sl.py`, `sk/fetch_ic.py`, `sk/match_sk.py`, `sk/gen_sk_final.py`.
 
+### Bioderma — ampliada 2026-09-23: 35 productos, 50 códigos (antes 28 y 42)
+Mismo circuito que Sesderma y SkinCeuticals (**dos fuentes idénticas o nada**): bioderma.es
+sigue sin publicar el INCI y Douglas ES apenas vende la marca (3 fichas, sin lista). EAN +
+lista de **SkinLovers** (78 fichas, 62 con lista, 65 con `barcode`; pega el código de lote
+"BI747" al último ingrediente y parte algún nombre en dos, cosa que la comparación ya
+tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya teníamos).
+- Entran 7 productos y 8 códigos: Cicabio Arnica+, Hydrabio H2O 100 y 500 ml, Pigmentbio
+  Daily Care SPF 50+, Pigmentbio Foaming Cream, Atoderm Intensive Gel-Crème 500 ml, Sensibio
+  AR+ Gel Micelar y Sensibio Aceite Micelar 300 ml. Confirmados dos que ya estaban
+  (Pigmentbio Sensitive Areas, Photoderm Pediatrics Mineral).
+- **Hydrabio H2O**: el 250 ml del catálogo (3401399694127) lleva la lista de la etiqueta de
+  OBF (generación anterior, con Disodium EDTA); SkinLovers da para los tres tamaños la actual,
+  idéntica a incidecoder. Los 100/500 ml entran como "(fórmula actual)" y el 250 ml se queda
+  como está (misma decisión que el HydroLotion de ISDIN).
+- Fuera por copia de lista: Pigmentbio H2O Micellar Water (3701129800102) lleva en
+  SkinLovers la lista de la Foaming Cream (Magnesium Laureth Sulfate, Cellulose Acetate).
+- Fuera por lista distinta o de otra generación (unos 30): Sensibio H2O (orden distinto),
+  Photoderm Spot-Age (solo cambia la posición de Fragrance, pero no es idéntica), Photoderm
+  Cream/AR/AR+/X Defense/Eau Solaire, Hydrabio Light/Rich/Perfecteur/Booster, Sensibio AR+
+  Bi-Serum/SOS/CC, Sébium Kerato+, Cicabio Cleansing Balm…; y 16 fichas de SkinLovers cuya
+  "lista" es una frase (Sensibio Defensive, Photoderm Pediatrics Milk, Hyalu+…), más los
+  promo packs `5600358…`. Todo en `bio/match.txt`.
+Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
+`bio/gen_bio_final.py`.
+
 ### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
 **La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
 Fairy) es solo la web del Reglamento 648/2004, y para España lista 20 marcas de limpieza,
@@ -1597,7 +1622,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
 | ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
-| Bioderma | sí (108 fichas) | no | **no** | ni renderizada ni por GraphQL publica el INCI: vía incidecoder + foto de OBF (ver su apartado) |
+| Bioderma | sí (108 fichas) | no; `barcode` en el JSON de SkinLovers | **no**; SkinLovers e incidecoder | dos fuentes idénticas o nada (50 códigos); antes incidecoder + foto de OBF; ver sus apartados |
 | Sesderma | sí (~120 fichas ES) | no; Douglas ES y SkinLovers | no; SkinLovers, Douglas e incidecoder | dos fuentes idénticas o nada (11 códigos); ver su apartado |
 | SkinCeuticals | — (Cloudflare en todas las webs de la marca) | no; `barcode` en el JSON de SkinLovers | no; SkinLovers (lista INCI al final del bloque "Ingredients") e incidecoder | dos fuentes idénticas o nada (21 códigos); ver su apartado |
 | Neutrogena | sí (`/sitemap.xml`) | sí | sí | EAN en `data-mm-ids`; INCI en `data-sb-field-path="product.ingredients"` (a veces un `<p>` por ingrediente); ver su apartado |
@@ -1650,13 +1675,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-23)
-3938 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3946 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-**ISDIN 68** · Kérastase 59 · Neutrogena 56 · Bioderma 42 · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
+**ISDIN 68** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2537 productos está sin INCI. Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 2544 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
