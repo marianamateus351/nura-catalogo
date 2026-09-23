@@ -784,6 +784,20 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
 | ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
+### 2026-09-23 · Biretix (Cantabria Labs) — marca nueva, aportación de una usuaria
+
+| Código | Pista | Qué hacer |
+|---|---|---|
+| 8436574361599 | "Biretix" · prefijo **8436574 = Cantabria Labs** (Industrial Farmacéutica Cantabria). Lista pegada por una usuaria desde una web, con traducciones y porcentajes: Alcohol Denat. 2º, Glycolic Acid 15 %, Niacinamide 5 %, Salicylic Acid 2 %, Retinol + Hydroxypinacolone Retinoate (RetinSphere), Oligopeptide-10 (BIOPEP-15), Boswellia, BHT y BHA | Por el alcohol en 2ª posición y el trío glicólico/salicílico/RetinSphere, casi seguro **Biretix Tri-Active Spray anti-imperfecciones** (formato cuerpo/espalda). Verificar en biretix.com / cantabrialabs.es, confirmar nombre y formato con el EAN, y **abrir Biretix como marca**: la gama es corta (Duo, Tri-Active gel y spray, Cleanser, Hydra, Mask, Isorepair) y Cantabria Labs publica el INCI completo. Mariana aprueba mientras tanto la aportación con la lista limpia |
+
+Lista limpia (sin traducciones ni porcentajes, para comparar con la oficial): Aqua, Alcohol
+Denat., Glycolic Acid, Niacinamide, Propylene Glycol, Salicylic Acid, Ammonium Hydroxide,
+Polyquaternium-10, Retinol, Hydroxypinacolone Retinoate, Oligopeptide-10, Oryza Sativa Bran
+Extract, Boswellia Serrata Extract, Honey Extract, Butylene Glycol, Ethylhexylglycerin,
+Tetrasodium EDTA, Pentylene Glycol, Palmitoyl Hydroxypropyltrimonium Amylopectin/Glycerin
+Crosspolymer, Dimethyl Isosorbide, 1,2-Hexanediol, Polysorbate 20, Caprylyl Glycol,
+Hydrogenated Lecithin, BHT, BHA.
+
 ### 2026-09-21 · Decisiones de criterio sobre las cuatro sustancias de Asevi (para aplicar en la app)
 
 Decididas con los números del catálogo entero (2.355 fichas): DDAC 24 fichas de Hogar y
