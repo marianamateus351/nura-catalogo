@@ -1,5 +1,5 @@
 {
- "version": "2026-09-23a",
+ "version": "2026-09-23b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -22898,6 +22898,417 @@
       "8436574361582"
      ],
      "inci": "Aqua, C12-20 Acid PEG-8 Ester, Squalane, Snail Secretion Filtrate, C12-15 Alkyl Benzoate, Hexylene Glycol, Saccharide Isomerate, PPG-20 Methyl Glucose Ether, Dipropylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, Fructose, Glucose, Cetyl Alcohol, Tocopheryl Acetate, Arginine, Gluconolactone, Boswellia Serrata Gum Extract, Glucosyl Ceramide, Phospholipids, Cholesterol, Calcium Gluconate, Sodium Hyaluronate, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Maltodextrin, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Citric Acid, Sodium Benzoate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "pantene",
+   "nombre": "Pantene",
+   "productos": [
+    {
+     "nombre": "Champú Repara y Protege",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540876084"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Sodium Chloride, Parfum, Stearyl Alcohol, Cocamide MEA, Glycol Distearate, Sodium Benzoate, Glycerin, Citric Acid, Cetyl Alcohol, Sodium Salicylate, Guar Hydroxypropyltrimonium Chloride, Trihydroxystearin, Sodium Hydroxide, Panthenol, Polyquaternium-6, Tetrasodium EDTA, Hexyl Cinnamal, Histidine"
+    },
+    {
+     "nombre": "Hidratación y Brillo Sérum de Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216250719"
+     ],
+     "inci": "Aqua, Dimethicone, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Benzyl Alcohol, Sorbitan Caprylate, Hydroxyethylcellulose, Quaternium-18, Parfum, PEG-2M, Cetearyl Alcohol, Oleyl Alcohol, Glyceryl Stearate, Citric Acid, Polysorbate 60, Panthenyl Ethyl Ether, Lysine HCL, EDTA, Alcohol, Limonene, Histidine, Panthenol, Silica, Hydroxycitronellal, Geraniol, Sodium Hyaluronate, Oenothera Biennis Oil, Adansonia Digitata Seed Oil, Alpha-Isomethyl Ionone, Linalool, Citronellol, Phenoxyethanol, Biotin, BHT"
+    },
+    {
+     "nombre": "Miracles Hidratación y Brillo Sérum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216181518"
+     ],
+     "inci": "Aqua, Dimethicone, Paraffinum Liquidum, Phenoxyethanol, Betaine, Benzyl Alcohol, Polyacrylamide, C13-14 Alkane, Parfum, Ethylhexylglycerin, Laureth-7, Panthenol, Panthenyl Ethyl Ether, Limonene, Histidine, Sodium Hyaluronate, Adansonia Digitata Seed Oil, Geraniol, Hydroxycitronellal, Citric Acid, Biotin, Tocopherol"
+    },
+    {
+     "nombre": "Molecular Bond Repair Acondicionador Intensivo Tratamiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216178112"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Glutamic Acid, Parfum, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Disodium EDTA, Polysorbate 20, Hexyl Cinnamal, Behentrimonium Methosulfate, Panthenol, Panthenyl Ethyl Ether, Histidine, Benzyl Salicylate, Isopropyl Alcohol, Limonene, CI 77492, Biotin, Methicone"
+    },
+    {
+     "nombre": "Molecular Bond Repair Crema sin Aclarado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216637305"
+     ],
+     "inci": "Aqua, Hexyldecanol, Stearyl Alcohol, Silicone Quaternium-26, Behentrimonium Methosulfate, Triethylhexanoin, Cetyl Alcohol, Caprylic/Capric Triglyceride, Isopropyl Alcohol, Sorbitan Caprylate, Benzyl Alcohol, Phenoxyethanol, Sodium Benzoate, Parfum, Disodium EDTA, Citric Acid, Laureth-7, Panthenol, Panthenyl Ethyl Ether, Hexyl Cinnamal, Histidine, Citrus Aurantium Peel Oil, Terpineol, Hexamethylindanopyran, Linalool, CI 77492, Citronellol, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Hydroxycitronellal, Pelargonium Graveolens Flower Oil, Geraniol, Tocopheryl Acetate, Rose Ketones, Biotin, Methicone"
+    },
+    {
+     "nombre": "Molecular Bond Repair Mascarilla Capilar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216173391"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Parfum, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Behentrimonium Methosulfate, Disodium EDTA, Polysorbate 20, Hexyl Cinnamal, Panthenol, Panthenyl Ethyl Ether, Isopropyl Alcohol, Histidine, Benzyl Salicylate, CI 77492, Limonene, Biotin, Methicone"
+    },
+    {
+     "nombre": "Pro-V Crema Ondas con Movimiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540314470"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Dimethicone, Glutamic Acid, Benzyl Alcohol, Parfum, Sodium Benzoate, Polysorbate 20, EDTA, Citric Acid, Panthenol, Panthenyl Ethyl Ether, Hexyl Cinnamal, Sodium Chloride, Argania Spinosa Kernel Oil, Hydroxycitronellal, Limonene"
+    },
+    {
+     "nombre": "Pro-V Crema Rizos con Movimiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540314326"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Dimethicone, Glutamic Acid, Benzyl Alcohol, Parfum, Sodium Benzoate, Polysorbate 20, EDTA, Citric Acid, Panthenol, Panthenyl Ethyl Ether, Hexyl Cinnamal, Sodium Chloride, Cocos Nucifera Oil, Hydroxycitronellal, Limonene"
+    },
+    {
+     "nombre": "Pro-V Espuma Ondas Perfectas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540349595"
+     ],
+     "inci": "Aqua, Propane, Butane, VP/Va Copolymer, Isobutane, PVP, Chitosan, Phenoxyethanol, Polyquaternium-16, Caprylyl Glycol, 1.2-Hexanediol, Parfum, Formic Acid, Disodium EDTA, Laureth-4, Cetrimonium Chloride, Panthenyl Ethyl Ether, Panthenol, Hexyl Cinnamal, Argania Spinosa Kernel Oil, Citric Acid"
+    },
+    {
+     "nombre": "Pro-V Espuma Rizos Perfectos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540637234"
+     ],
+     "inci": "Aqua, Propane, Polyquaternium-4, Butane, Isobutane, Propylene Glycol, Phenoxyethanol, C9-11 Pareth-8, Parfum, Caprylyl Glycol, 1.2-Hexanediol, Panthenyl Ethyl Ether, Disodium EDTA, Panthenol, Hexyl Cinnamal, Cocos Nucifera Oil, Hydroxycitronellal, Citric Acid"
+    },
+    {
+     "nombre": "Pro-V Espuma Volumen Perfecto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540348963"
+     ],
+     "inci": "Aqua, Propane, Butane, Polyquaternium-11, Isobutane, PVP, VP/Va Copolymer, Phenoxyethanol, Chitosan, Caprylyl Glycol, Polyquaternium-16, 1.2-Hexanediol, Parfum, Laureth-4, Disodium EDTA, Formic Acid, Cetrimonium Chloride, Panthenyl Ethyl Ether, Panthenol, Hexyl Cinnamal, Biotin, Citric Acid"
+    },
+    {
+     "nombre": "Pro-V Miracle 5 en 1 Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540332023"
+     ],
+     "inci": "Aqua, VP/Methacrylamide/Vinyl Imidazole Copolymer, Polyquaternium-16, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Parfum, Disodium EDTA, Cetrimonium Chloride, Citric Acid, Histidine, Limonene, Linalool, Panthenol, Panthenyl Ethyl Ether, Phenylpropanol, Argania Spinosa Kernel Oil, Propanediol, Caprylyl Glycol, Citronellol, Citral"
+    },
+    {
+     "nombre": "Pro-V Repara & Protege Ampollas Tratamiento Intensivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540532782"
+     ],
+     "inci": "Aqua, Bis-Aminopropyl Dimethicone, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Citric Acid, Polysorbate 20, Glycerin, Panthenol, Panthenyl Ethyl Ether, Histidine, PEG-100 Stearate, Hexyl Cinnamal, Propylene Glycol, Rubus Idaeus Fruit Extract, Ricinus Communis Seed Oil, Prunus Armeniaca Kernel Oil, Hydrolyzed Silk, Biotin, Palmitoyl Pentapeptide-4"
+    },
+    {
+     "nombre": "Pro-V Repara & Protege Mascarilla Capilar de Keratina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540417119"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Behentrimonium Methosulfate, Cetyl Alcohol, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Disodium EDTA, Histidine, Panthenol, Panthenyl Ethyl Ether, Citric Acid, Hexyl Cinnamal, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Pro-V Sunkiss Glow Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530050951"
+     ],
+     "inci": "Aqua, Propylene Glycol, Amodimethicone, Quaternium-80, Panthenol, Benzyl Alcohol, 1, 2-Hexanediol, Caprylyl Glycol, Parfum, Oleic Acid, Cetrimonium Chloride, Tocopheryl Acetate, Behentrimonium Chloride, Isopropyl Alcohol, Trideceth-12, Histidine, Glyceryl Oleate, Disodium EDTA, Hexamethylindanopyran, Niacinamide, Citric Acid, Dimethyl Phenethyl Acetate, Butylene Glycol, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Caffeine, Ricinus Communis Seed Oil, Vanillin, Hydroxycitronellal, Limonene, Alcohol Denat, Rose Ketones, Biotin, Rosa Gallica Flower Extract, Silk Extract"
+    },
+    {
+     "nombre": "Repara y Protege Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216442565"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Methosulfate, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Oleic Acid, Sodium Benzoate, Polysorbate 20, Disodium EDTA, Panthenol, Histidine, Citric Acid, Hexyl Cinnamal, Hydroxycitronellal, Limonene"
+    },
+    {
+     "nombre": "Suave & Liso Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216442893"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Oleic Acid, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Argania Spinosa Kernel Oil, Sodium Benzoate, Disodium EDTA, Panthenol, Polysorbate 20, Citric Acid, Histidine, Hexyl Cinnamal, Hydroxycitronellal, Limonene"
+    },
+    {
+     "nombre": "Suave & Liso Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540876367"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Sodium Chloride, Parfum, Stearyl Alcohol, Cocamide MEA, Glycol Distearate, Sodium Benzoate, Glycerin, Citric Acid, Cetyl Alcohol, Sodium Salicylate, Guar Hydroxypropyltrimonium Chloride, Trihydroxystearin, Sodium Hydroxide, Panthenol, Polyquaternium-6, Tetrasodium EDTA, Hexyl Cinnamal, Histidine, Argania Spinosa Kernel Oil"
+    }
+   ]
+  },
+  {
+   "key": "headshoulders",
+   "nombre": "Head & Shoulders",
+   "productos": [
+    {
+     "nombre": "Citrus Fresh Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216266383"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethiconol, Menthol, Sodium Benzoate, Dimethicone, Sodium Salicylate, Tetrasodium EDTA, TEA-Dodecylbenzenesulfonate, Sodium Hydroxide, Glycerin, Trideceth-10, Niacinamide, Hexyl Cinnamal, Limonene, Benzyl Salicylate, Citronellol, Panthenol, Tocopheryl Acetate, Acetic Acid, CI 19140, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090"
+    },
+    {
+     "nombre": "Classic Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216266628"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Dimethiconol, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Hexyl Cinnamal, Linalool, Tetrasodium EDTA, Sodium Hydroxide, Trideceth-10, Glycerin, Niacinamide, Panthenol, Tocopheryl Acetate, Acetic Acid, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Classic Champú 2 en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216155489"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Dimethiconol, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Hexyl Cinnamal, Linalool, Tetrasodium EDTA, Trideceth-10, Sodium Hydroxide, Glycerin, Niacinamide, Panthenol, Tocopheryl Acetate, Acetic Acid, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "DERMAXPRO Champú Revitalizante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216231916"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Glycol Distearate, Sodium Citrate, Dimethiconol, Piroctone Olamine, Dimethicone, Parfum, Citric Acid, Sodium Benzoate, Sodium Salicylate, TEA-Dodecylbenzenesulfonate, Guar Hydroxypropyltrimonium Chloride, Menthol, Tocopheryl Acetate, Trideceth-10, Tetrasodium EDTA, Sodium Hydroxide, Hexyl Cinnamal, Niacinamide, Aloe Barbadensis Leaf Juice, Linalool, Hydroxycitronellal, Geraniol, Citronellol, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol"
+    },
+    {
+     "nombre": "DERMAXPRO Tratamiento Revitalizante Cuero Cabelludo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216231848"
+     ],
+     "inci": "Alcohol Denat, Aqua, Niacinamide, PEG/PPG-20/23 Dimethicone, Caffeine, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Menthol, Parfum, Panthenol, Hexyl Cinnamal, Linalool, Aloe Barbadensis Leaf Juice, Hydroxycitronellal, Geraniol, Triethanolamine, Propylene Glycol, Citronellol, Mentha Piperita Flower/Leaf/Stem Oil, Mentha Arvensis Leaf/Stem Oil, Limonene, Camellia Sinensis Leaf Extract"
+    },
+    {
+     "nombre": "Menthol Fresh Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216266451"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Dimethiconol, Menthol, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Tetrasodium EDTA, Sodium Hydroxide, Trideceth-10, Glycerin, Hexyl Cinnamal, Linalool, Niacinamide, Panthenol, Tocopheryl Acetate, Acetic Acid, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    }
+   ]
+  },
+  {
+   "key": "herbalessences",
+   "nombre": "Herbal Essences",
+   "productos": [
+    {
+     "nombre": "Acondicionador Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540101162"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Polysorbate 20, Disodium EDTA, Citric Acid, Coumarin, Hexyl Cinnamal, Histidine, Butylene Glycol, Glycerin, Linalool, Aloe Barbadensis Leaf Juice, Cocos Nucifera Fruit Juice, Alcohol Denat, Lactic Acid, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Acondicionador Reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540101131"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Methosulfate, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Oleic Acid, Parfum, Benzyl Alcohol, Dicetyldimonium Chloride, Isopropyl Alcohol, Sodium Benzoate, Propylene Glycol, Disodium EDTA, Benzyl Benzoate, Hexyl Cinnamal, Histidine, Citric Acid, Butylene Glycol, Argania Spinosa Kernel Oil, Aloe Barbadensis Leaf Juice, Alcohol Denat, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Aloe Puro + Aceite de Aguacate Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841837260"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Glutamic Acid, Parfum, Bis-Aminopropyl Dimethicone, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Disodium EDTA, Histidine, Limonene, Aloe Barbadensis Leaf Juice, Butylene Glycol, Persea Gratissima Oil, Alcohol Denat, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Aloe Puro + Aceite de Aguacate Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841841403"
+     ],
+     "inci": "Aqua, Lauramidopropyl Betaine, Sodium Cocoyl Isethionate, Sodium Lauroyl Sarcosinate, Sodium Citrate, Citric Acid, Parfum, Sodium Benzoate, Sodium Salicylate, Polyquaternium-10, Tetrasodium EDTA, Limonene, Aloe Barbadensis Leaf Juice, Butylene Glycol, Histidine, Persea Gratissima Oil, Alcohol Denat, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Champú Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090223623"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Sodium Chloride, Stearyl Alcohol, Parfum, Cetyl Alcohol, Citric Acid, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Sodium Salicylate, Sodium Hydroxide, Trihydroxystearin, Tetrasodium EDTA, Polyquaternium-6, Coumarin, Hexyl Cinnamal, Polyquaternium-10, Histidine, Linalool, Butylene Glycol, Glycerin, Aloe Barbadensis Leaf Juice, Cocos Nucifera Fruit Juice, Alcohol Denat, Sodium Acetate, Lactic Acid, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Champú Reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090224040"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Stearyl Alcohol, Sodium Chloride, Parfum, Cetyl Alcohol, Citric Acid, Sodium Benzoate, Sodium Salicylate, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-6, Sodium Hydroxide, Trihydroxystearin, Polyquaternium-10, Tetrasodium EDTA, Benzyl Benzoate, Hexyl Cinnamal, Histidine, Alpha-Isomethyl Ionone, Coumarin, Butylene Glycol, Argania Spinosa Kernel Oil, Aloe Barbadensis Leaf Juice, Sodium Acetate, Alcohol Denat, Ecklonia Radiata Extract, Ascorbic Acid"
+    },
+    {
+     "nombre": "Mascarilla Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540088821"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Parfum, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Coumarin, Hexyl Cinnamal, Histidine, Citric Acid, Butylene Glycol, Glycerin, Linalool, Aloe Barbadensis Leaf Juice, Cocos Nucifera Fruit Juice, Alcohol Denat, Lactic Acid, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Mascarilla Nutritiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540084311"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Parfum, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Disodium EDTA, Histidine, Limonene, Aloe Barbadensis Leaf Juice, Butylene Glycol, Persea Gratissima Oil, Alcohol Denat, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Mascarilla Reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540084557"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Glycerin, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Sodium Chloride, Parfum, Benzyl Alcohol, Citric Acid, Disodium EDTA, Phenoxyethanol, Benzyl Benzoate, Hexyl Cinnamal, Histidine, Butylene Glycol, Alpha-Isomethyl Ionone, Magnesium Nitrate, Aloe Barbadensis Leaf Juice, Argania Spinosa Kernel Oil, Alcohol Denat, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Ecklonia Radiata Extract"
+    }
+   ]
+  },
+  {
+   "key": "aussie",
+   "nombre": "Aussie",
+   "productos": [
+    {
+     "nombre": "3 Minute Miracle Hidratación Profunda Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540970386"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Silicone Quaternium-26, Behentrimonium Chloride, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Polysorbate 20, Citric Acid, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Coumarin, Sodium Hydroxide, Simmondsia Chinensis Seed Oil, Persea Gratissima Oil, Macadamia Ternifolia Seed Oil"
+    },
+    {
+     "nombre": "3MM Tratamiento Rizos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216185356"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Polysorbate 20, Citric Acid, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Coumarin, Macadamia Ternifolia Seed Oil, Simmondsia Chinensis Seed Oil, Cocos Nucifera Oil"
+    },
+    {
+     "nombre": "Aceite Reconstructor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841710822"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Parfum, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Linalool, Coumarin, Simmondsia Chinensis Seed Oil, Persea Gratissima Oil, Macadamia Ternifolia Seed Oil"
+    },
+    {
+     "nombre": "Hidratación Profunda Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540953952"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Stearyl Alcohol, Sodium Chloride, Cetyl Alcohol, Parfum, Citric Acid, Sodium Benzoate, Sodium Salicylate, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-6, Sodium Hydroxide, Trihydroxystearin, Polyquaternium-10, Tetrasodium EDTA, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Linalool, Coumarin, Simmondsia Chinensis Seed Oil, Persea Gratissima Oil, Macadamia Ternifolia Seed Oil, Sodium Acetate"
+    },
+    {
+     "nombre": "Hidratación Profunda Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540970348"
+     ],
+     "inci": "Aqua, Bis-Aminopropyl Dimethicone, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Polysorbate 20, Citric Acid, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Coumarin, Simmondsia Chinensis Seed Oil, Persea Gratissima Oil, Macadamia Ternifolia Seed Oil"
+    },
+    {
+     "nombre": "SOS 1 Minute Miracle Repair Rescue Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216437264"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Silicone Quaternium-26, Behentrimonium Chloride, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Sodium Benzoate, Limonene, Disodium EDTA, Polysorbate 20, Citric Acid, Linalool, Macadamia Ternifolia Seed Oil, Sodium Hydroxide, Butylene Glycol, Fragaria Chiloensis Fruit Extract"
+    },
+    {
+     "nombre": "SOS Heat Defence Spray Leave In",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841555881"
+     ],
+     "inci": "Aqua, Glycerin, Phenoxyethanol, Amodimethicone, PPG-2 Methyl Ether, PEG-40 Hydrogenated Castor Oil, Benzyl Alcohol, Polyquaternium-11, Parfum, Polysorbate 80, Disodium EDTA, Ethylhexylglycerin, Aminomethyl Propanol, Citric Acid, Limonene, Trideceth-12, Cetrimonium Chloride, Linalool, Macadamia Ternifolia Seed Oil, Sodium Benzoate, Butylene Glycol, Caprylyl Glycol, Geraniol, Citral, Fragaria Chiloensis Fruit Extract, Tocopherol"
+    },
+    {
+     "nombre": "SOS Repair & Revive Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216421300"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Parfum, Sodium Chloride, Citric Acid, Sodium Benzoate, Sodium Citrate, Sodium Salicylate, Limonene, Guar Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Tetrasodium EDTA, Linalool, Macadamia Ternifolia Seed Oil, Histidine, Butylene Glycol, Fragaria Chiloensis Fruit Extract"
+    },
+    {
+     "nombre": "Supercharged Repair Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216441063"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Behentrimonium Chloride, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Sodium Benzoate, Limonene, Disodium EDTA, Citric Acid, Linalool, Polysorbate 20, Macadamia Ternifolia Seed Oil, Histidine, Butylene Glycol, Geraniol, Citral, Fragaria Chiloensis Fruit Extract"
+    },
+    {
+     "nombre": "Work That Curl Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216185332"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Polysorbate 20, Disodium EDTA, Citric Acid, Coumarin, Hexyl Cinnamal, Histidine, Butylene Glycol, Glycerin, Linalool, Aloe Barbadensis Leaf Juice, Cocos Nucifera Fruit Juice, Limonene, Alcohol Denat, Lactic Acid, Ecklonia Radiata Extract"
     }
    ]
   }

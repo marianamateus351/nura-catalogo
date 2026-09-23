@@ -789,9 +789,10 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 Mariana está haciendo publicidad y quiere que el **primer escaneo** de quien llega acierte.
 Orden, después de lo pendiente de Buscados:
 
-1. **Pantene, Head & Shoulders y Herbal Essences** (P&G). Champú es de lo primero que se
-   escanea y están en todos los súper. P&G publica el INCI completo de cada producto en
-   su web de ingredientes (pgproductsafety / "smartlabel"); mismo circuito que Fairy.
+1. ~~**Pantene, Head & Shoulders y Herbal Essences** (P&G)~~ — **hechas el 2026-09-23**
+   (versión 2026-09-23b): 18 + 6 + 9 códigos, más Aussie (10) de la misma fuente. No fue
+   por info-pg.com (solo detergentes) sino por haircode.es, la web capilar oficial de P&G
+   España, que lleva EAN e INCI en cada ficha. Ver su apartado.
 2. **Freshly Cosmetics y Cocunat.** Marcas españolas nacidas en Instagram, público de Nura.
    Publican el INCI completo en la ficha de cada producto de su web.
 3. **Heliocare** (Cantabria Labs): mismo portal y método que Biretix. El solar de farmacia
@@ -1109,6 +1110,39 @@ que la gente escanea. Antes de abrir marcas nuevas, conviene volver sobre estas.
   soldejaneiro.com (39 ingredientes, con Tin Oxide y CI 77891). Ojo: la lista que publica
   Lookfantastic para el 50 ml es la fórmula antigua con Butylphenyl Methylpropional (Lilial,
   prohibido en la UE desde 2022): no se ha usado (regla 2, fórmula actual). Sin ficha en OBF.
+
+### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
+**La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
+Fairy) es solo la web del Reglamento 648/2004, y para España lista 20 marcas de limpieza,
+ninguna capilar. Los champús no tienen ficha del Anexo VII. La fuente buena es otra:
+- **haircode.es**, la web capilar oficial de P&G España (pantene.es redirige ahí). Next.js;
+  cada ficha lleva en `__NEXT_DATA__` → `props.pageProps.templateProps` el **`ean`** y el
+  INCI completo en `ingredientsSection.ingredientsText`, además del `title` en castellano.
+  El listado visible "Productos que amamos" solo enseña 20 fichas, pero **`/sitemap.xml`
+  lista 46** (`/productos-que-amamos/<tipo>/<slug>`): 24 Pantene, 6 Head & Shoulders
+  (`hys-…`), 9 Herbal Essences y 10 Aussie. Se han bajado las 46.
+- **Los códigos son los de los envases españoles**: los tres Pantene de OBF con `en:spain` que
+  coinciden (espumas Rizos y Ondas Perfectas, ampollas Repara & Protege) están en haircode.es
+  con ese mismo EAN, y la transcripción de etiqueta de OBF de las ampollas es idéntica a la
+  lista de la web salvo erratas de quien la tecleó. Las listas de Herbal Essences Hidratante y
+  Reparador coinciden (sin alérgenos) con las italianas de haircode.it, otro EAN.
+- **Fuera (3):** las tres lacas Pantene Pro-V (Fijación con Movimiento, Volumen Perfecto,
+  Fijación Ultrafuerte) traen la misma lista de 15 ingredientes las tres; sin segunda fuente
+  que lo confirme, regla de Sanex/Rexona, fuera.
+- **Aussie no estaba en la cola**: se ha abierto porque sale de la misma fuente a coste cero y
+  es champú de súper (Mariana decide si se queda).
+- **Lo que NO hay que usar**: las otras webs de P&G se contradicen entre sí para el MISMO
+  EAN. Para Head & Shoulders, headandshoulders.co.uk (85 fichas, `gtin` por tamaño e INCI en
+  `ingredientsInfo`) y haircode.uk dan listas distintas en 6 de los 9 códigos comunes, y la
+  etiqueta de OBF de Classic Clean 400 ml (8006540810538) es una tercera versión. H&S
+  reformula y mantiene el EAN. Los 80 códigos británicos no se tocan: solo 3 están en OBF y
+  ninguno con `en:spain`. **headandshoulders.es no existe** (DNS) y herbalessences.es
+  redirige a lacuponera.es (cupones). haircode.fr e .it tienen sus propias gamas con EAN
+  franceses/italianos.
+Nombres: el `title` de la ficha sin la marca delante ("Pro-V Espuma Rizos Perfectos", "Classic
+Champú 2 en 1", "Champú Hidratante"). Scripts/datos: `pg/hc/` (fichas `p/`, `products.json`,
+`<marca>_final.json`), `pg/hs/uk/` y `pg/hcuk/` (webs UK, solo para contraste), `pg/hcit/`,
+`pg/obf_all.json` (302 códigos de OBF de las tres marcas).
 
 ### Biretix (Cantabria Labs) — cerrada 2026-09-23: 5 productos, 8 códigos (de 15 fichas en cantabrialabs.es)
 Cantabria Labs (antes IFC, Santander). **La web del fabricante NO publica el INCI**: ni
@@ -1439,6 +1473,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
+| Pantene · Head & Shoulders · Herbal Essences · Aussie | sí (`haircode.es/sitemap.xml`, 46 fichas; el listado visible solo enseña 20) | **sí** (`templateProps.ean` en `__NEXT_DATA__`) | **sí**, completo (`ingredientsSection.ingredientsText`) | web capilar oficial de P&G España; las webs UK/FR/IT se contradicen entre sí por EAN; ver su apartado |
 | Biretix (Cantabria Labs) | sí (`sitemap.xml` de cantabrialabs.es, 15 fichas) | **no** (solo CN); EAN en la API de Douglas ES y en el JSON de SkinLovers | **no** (solo activos); INCI en incidecoder, SkinLovers y shop-apotheke, más etiqueta OBF | dos fuentes idénticas o nada; ver su apartado |
 | Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
@@ -1462,12 +1497,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-23)
-3752 códigos en 37 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+3795 códigos en 41 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · Deliplus 16 · Colgate 16 ·
-Sanex 15 · Rexona 14 · Fairy 12 · **Biretix 8** · SkinCeuticals 6 · Sanytol 5 · Eroski 5 · Elmex 2 ·
+Kérastase 59 · Neutrogena 56 · Bioderma 42 · Erborian 30 · Cien 29 · Dove 28 · ISDIN 25 · **Pantene 18** ·
+Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · **Aussie 10** · **Herbal Essences 9** · Biretix 8 ·
+SkinCeuticals 6 · **Head & Shoulders 6** · Sanytol 5 · Eroski 5 · Elmex 2 ·
 Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 · Carrefour 1. Ninguno de los
-2360 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
+2403 productos está sin INCI. Sesderma e Instituto Español siguen vacías.
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
 Sanex cerrada con 15 códigos: la web da INCI sin EAN y OBF solo confirma 15 (ver su apartado).
