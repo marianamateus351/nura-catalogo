@@ -784,6 +784,21 @@ un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
 | ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
+### 2026-09-23 · Cola de marcas para la campaña de Instagram (decisión de Mariana)
+
+Mariana está haciendo publicidad y quiere que el **primer escaneo** de quien llega acierte.
+Orden, después de lo pendiente de Buscados:
+
+1. **Pantene, Head & Shoulders y Herbal Essences** (P&G). Champú es de lo primero que se
+   escanea y están en todos los súper. P&G publica el INCI completo de cada producto en
+   su web de ingredientes (pgproductsafety / "smartlabel"); mismo circuito que Fairy.
+2. **Freshly Cosmetics y Cocunat.** Marcas españolas nacidas en Instagram, público de Nura.
+   Publican el INCI completo en la ficha de cada producto de su web.
+3. **Heliocare** (Cantabria Labs): mismo portal y método que Biretix. El solar de farmacia
+   más vendido.
+4. Cuando Mariana pueda ir a un Mercadona con el móvil: **ampliar Deliplus** desde la
+   etiqueta (hoy 16 fichas; es el hueco más grande del catálogo).
+
 ### 2026-09-23 · Biretix (Cantabria Labs) — marca nueva, aportación de una usuaria — resuelto el 2026-09-23 (versión 2026-09-23a)
 
 **Resultado: el código NO es el spray, es el Cleanser.** Open Beauty Facts tiene una foto de la
