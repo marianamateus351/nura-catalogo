@@ -1,5 +1,5 @@
 {
- "version": "2026-09-23f",
+ "version": "2026-09-24a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -24619,6 +24619,2076 @@
       "8414807547170"
      ],
      "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Alcohol, Citronellol, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Geraniol, Linalool, Hexyl Cinnamal, Limonene, Methyl Alcohol, Colorante, Phenoxyethanol, Resorcinol"
+    }
+   ]
+  },
+  {
+   "key": "ducray",
+   "nombre": "Ducray",
+   "productos": [
+    {
+     "nombre": "Anaphase+ Acondicionador fortificante anti-rotura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398199"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Ethylhexyl Palmitate, Behenamidopropyl Dimethylamine, Dicaprylyl Carbonate, Cetearyl Alcohol, 1,2-Hexanediol, Fragrance (Parfum), Benzoic Acid, Cetearyl Glucoside, Glycine Soja Oil, Hydrolyzed Vegetable Protein, Lactic Acid, Panthenol, Pantolactone, Sclerotium Gum, Sodium Benzoate, Tocopherol, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Anaphase+ Champú anticaída y crecimiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398168"
+     ],
+     "inci": "Water (Aqua), Lauryl Glucoside, Sodium Cocoyl Alaninate, Coco-Betaine, Coco-Glucoside, Glycol Distearate, 1,2-Hexanediol, Adenosine, Benzoic Acid, Butylene Glycol, Cellulose, Cellulose Gum, Citric Acid, Fragrance (Parfum), Glycerin, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Manganese PCA, Sodium Benzoate, SODIUM DILAURAMIDOGLUTAMIDE LYSINE 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Anaphase+ Loción anticaída y crecimiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770155112"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Hexylene Glycol, Pentylene Glycol, Polyglyceryl-4 Caprate, Acetyl Tetrapeptide-2, Biotin, Caramel, Creatine, Dextran, Fragrance (Parfum), Panthenol, Pantolactone, Pyridoxine Hcl, Tetramethyl Acetyloctahydronaphthalenes, Tocopheryl Nicotinate, TRIMETHYLBENZENEPROPANOL 93% de naturalidad"
+    },
+    {
+     "nombre": "Bálsamo emoliente antirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203929"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Mineral Oil (Paraffinum Liquidum), Glycerin, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Beeswax (Cera Alba), Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Glyceryl Stearate, Glycyrrhetinic Acid, Isoleucine, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Bálsamo hidratante diario",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148459"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Carthamus Tinctorius Seed Oil, Laureth-9,1, 2-Hexanediol, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Cichorium Intybus (Chicory) Root Extract, Fragrance (Parfum), Glyceryl Stearate, PEG-100 Stearate, Pentylene Glycol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tripterygium Wilfordii Callus Extract"
+    },
+    {
+     "nombre": "Champú anticaída y anclaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770075526"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Betaine, Glycerin, Sodium Cocoamphoacetate, Acrylates Copolymer, Ceteareth-60 Myristyl Glycol, PEG-40 Hydrogenated Castor Oil, Alcohol, Biotin, Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Glycol Distearate, Hydrolyzed Wheat Protein, Linalyl Acetate, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-7, Pyridoxine Hcl, Ruscus Aculeatus Root Extract, Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopheryl Nicotinate"
+    },
+    {
+     "nombre": "Crema emoliente antirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203950"
+     ],
+     "inci": "Water (Aqua), Carthamus Tinctorius Seed Oil, Glycerin, Cetearyl Alcohol, Dimethicone, 10-Hydroxydecenoic Acid, Beeswax (Cera Alba), Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Glyceryl Stearate, Glycyrrhetinic Acid, Isoleucine, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Crema emoliente nutritiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770204285"
+     ],
+     "inci": "Water (Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Glyceryl Stearate, PEG-12, Isohexadecane, Microcrystalline Wax (Cera Microcristallina), Palmitic Acid, Stearic Acid, Crambe Abyssinica Seed Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate, BHT, Caffeine Carboxylic Acid.Caprylyl Glycol, Citronellol, Dimethicone, Ethylhexylglycerin, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Limonene, Linalool, Paraffin, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Triethanolamine"
+    },
+    {
+     "nombre": "Dexyane Aceite limpiador protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203028"
+     ],
+     "inci": "Water (Aqua), Glycerin, Disodium Cocoyl Glutamate, Oleth-10, Sodium Cocoamphoacetate, Ceteareth-60 Myristyl Glycol, PEG-120 Methyl Glucose Dioleate, Coco-Glucoside, Butyrospermum Parkii Butter, Caprylyl Glycol, Carthamus Tinctorius Seed Oil, Citric Acid, Coco-Glucoside, Cocos Nucifera Oil, Glyceryl Oleate, Glycyrrhetinic Acid, Hydrogenated Palm Glycerides Citrate, Isoleucine, Lactic Acid, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Tocopherol, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Dexyane Crema barrera aislante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203196"
+     ],
+     "inci": "Water (Aqua), Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Hydrogenated Vegetable Oil, PEG-30 Dipolyhydroxystearate, Isododecane, Butyrospermum Parkii Butter, Zea Mays Starch, PEG-22/Dodecyl Glycol Copolymer, Beeswax (Cera Alba), 10-Hydroxydecenoic Acid, Benzoic Acid, Caprylyl Glycol, Cetyl Alcohol, Glyceryl Stearate, Isoleucine, Xanthan Gum"
+    },
+    {
+     "nombre": "Dexyane Gel limpiador sobregraso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770053029"
+     ],
+     "inci": "Water (Aqua), Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Polysorbate 20, Glycerin, Citric Acid, Ascorbyl Palmitate, Disodium Laureth Sulfosuccinate, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Isoleucine, Laureth-3, Lecithin, Maleic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol"
+    },
+    {
+     "nombre": "Dexyane MeD Crema reparadora calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148138"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Beeswax, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Citric Acid, Glycyrrhetinic Acid, Guanidine Carbonate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Dexyane MeD Palpebral (ref. 148046)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148046"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Butyrospermum Parkii Butter, Propylene Glycol, Beeswax (Cera Alba), Glyceryl Stearate, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Disodium EDTA, Glycyrrhetinic Acid, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate, Citric Acid"
+    },
+    {
+     "nombre": "Dexyane MeD Palpebral (ref. 394115)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394115"
+     ],
+     "inci": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Cera Alba, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Citric Acid, Glycyrrhetinic Acid, Guanidine Carbonate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Diaseptyl 0,2 % Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779392181"
+     ],
+     "inci": "Water (Aqua), Glycerin, Chlorhexidine Digluconate, Decyl Glucoside, Triethanolamine"
+    },
+    {
+     "nombre": "Elution Champú anticaspa para uso diario",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390032"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Glycine, Glycerin, Coco-Betaine, Acrylates Copolymer, Methyl Gluceth-20, PEG-7 Glyceryl Cocoate, Amyl Salicylate, Citric Acid, Fragrance (Parfum), Glycol Palmitate, Glycol Stearate, Hexamethylindanopyran, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Panthenol, Pantolactone, Phenoxyethanol, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Zinc Glycinate"
+    },
+    {
+     "nombre": "Equilibrante Champú dermoprotector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148275"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, TOCOPHEROL 91% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Hidrosis Control Crema cara, manos y pies",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390025"
+     ],
+     "inci": "Water (Aqua), Cetearyl Alcohol, Aluminum Sesquichlorohydrate, 1,2-Hexanediol, Ceteareth-20, Triethyl Citrate, Arginine, Citric Acid, Dimethicone, Glyceryl Stearate, Helianthus Annuus Seed Oil, PEG-100 Stearate, Propylene Glycol, Tocopherol, Zinc Ricinoleate"
+    },
+    {
+     "nombre": "Hidrosis Control Roll-on antitranspirante axilas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389456"
+     ],
+     "inci": "Water (Aqua), Aluminum Sesquichlorohydrate, Pentylene Glycol, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Dimethicone, Arginine, BHT, Cetrimonium Chloride, Citric Acid, Helianthus Annuus Seed Oil, Oryza Sativa Starch, Propylene Glycol, Sclerotium Gum, Tocopherol, Triethyl Citrate, Zinc Ricinoleate"
+    },
+    {
+     "nombre": "Ictyane Bálsamo labial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770107258"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Bis-Diglyceryl Polyacyladipate-2, Mineral Oil (Paraffinum Liquidum), Glycerin, Isopropyl Palmitate, Hydrogenated Vegetable Oil, Cetearyl Ethylhexanoate, Hydrogenated Polyisobutene, Polyethylene, VP/Hexadecene Copolymer, Beeswax (Cera Alba), Hydrogenated Castor Oil, Nylon-12, 10-Hydroxydecenoic Acid, Disteardimonium Hectorite, Glyceryl Linoleate, Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glyceryl Stearate, Glycine Soja Oil, Isopropyl Myristate, Tocopherol, Tocopheryl Acetate, Water (Aqua)"
+    },
+    {
+     "nombre": "Ictyane Bálsamo labial reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401943"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Vegetable Oil, Hydrogenated Coco-Glycerides, Squalane, Hydrogenated Polyisobutene, VP/Hexadecene Copolymer, Beeswax (Cera Alba), Hydrogenated Castor Oil, 10-Hydroxydecenoic Acid, Disteardimonium Hectorite"
+    },
+    {
+     "nombre": "Ictyane Crema de manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203455"
+     ],
+     "inci": "Water (Aqua), Butyrospermum Parkii Butter, Glycerin, Propylene Glycol, Glyceryl Stearate, Mineral Oil (Paraffinum Liquidum), Hexylene Glycol, Dimethicone, Cetearyl Alcohol, Panthenol, Palmitic Acid, Stearic Acid, Tocopheryl Acetate, Trehalose, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Caprylyl Glycol, Cetearyl Glucoside, Citronellol, Dimethiconol, Fragrance (Parfum), Geraniol, Hydrogenated Starch Hydrolysate, Hydroxycitronellal, Limonene, Linalool, Sodium Benzoate, Sodium Hydroxide, Xanthan Gum"
+    },
+    {
+     "nombre": "Ictyane Leche corporal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770204780"
+     ],
+     "inci": "Water (Aqua), Glycerin, Carthamus Tinctorius Seed Oil, Cocos Nucifera Oil, Mineral Oil (Paraffinum Liquidum), Triethylhexanoin, C9-12 Alkane, Sorbitan Stearate, Hydrogenated Starch Hydrolysate, Trehalose, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, Caffeine Carboxylic Acid, Caprylyl Glycol, Cetearyl Alcohol, Citronellol, Coco-Caprylate/Caprate, Crambe Abyssinica Seed Oil, Disodium Phosphate, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Limonene, Linalool, Potassium Phosphate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Sucrose Cocoate, Tropolone, Xanthan Gum"
+    },
+    {
+     "nombre": "Ictyane Stick labial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779370660"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Mineral Oil (Paraffinum Liquidum), Beeswax (Cera Alba), Hydrogenated Castor Oil, Isopropyl Palmitate, Butyrospermum Parkii Butter, Cetyl Esters, Cetearyl Ethylhexanoate, Bis-Diglyceryl Polyacyladipate-2, Hydrogenated Vegetable Oil, Squalane, Microcrystalline Wax (Cera Microcristallina), Glycerin, Paraffin, BHT, Fragrance (Parfum), Isopropyl Myristate, Linalyl Acetate, Panthenol, Propylene Glycol, Sorbitol, Tocopheryl Acetate, Trehalose"
+    },
+    {
+     "nombre": "Ictyane Stick labial hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401318"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Mineral Oil (Paraffinum Liquidum), Beeswax (Cera Alba), Hydrogenated Castor Oil, Isopropyl Palmitate, Butyrospermum Parkii Butter, Cetyl Esters, Cetearyl Ethylhexanoate, Bis-Diglyceryl Polyacyladipate-2, Hydrogenated Vegetable Oil, Squalane, Microcrystalline Wax (Cera Microcristallina), Glycerin, Paraffin, BHT, Fragrance (Parfum), Isopropyl Myristate, Linalyl Acetate, Panthenol, Propylene Glycol, Sorbitol, Tocopheryl Acetate, Trehalose"
+    },
+    {
+     "nombre": "Kelual DS Champú de tratamiento anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770400786"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Undecylenamidopropyl Betaine, Decyl Glucoside, Ciclopirox Olamine, Laureth-9, Lactamide MEA, Coco-Betaine, Ceteareth-60 Myristyl Glycol, Citric Acid, Fragrance (Parfum), Glycyrrhetinic Acid, Mentha Piperita Flower/Leaf/Stem Extract, Pentylene Glycol, Piroctone Olamine, Polyquaternium-10, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 83 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Kelual DS Champú tratamiento anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770140453"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Undecylenamidopropyl Betaine, Decyl Glucoside, Ciclopirox Olamine, Lactamide MEA, Coco-Betaine, Ceteareth-60 Myristyl Glycol, Citric Acid, Fragrance (Parfum), Glycyrrhetinic Acid, Piroctone Olamine, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Kelual DS Crema calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770392371"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Lactamide MEA, Cetearyl Alcohol, Glyceryl Stearate, Sodium Stearoyl Glutamate, 1,2-Hexanediol, Caprylyl Glycol, Cetearyl Glucoside, Ciclopirox Olamine, Citric Acid, Disodium Phosphate, Glycyrrhetinic Acid, Hydroxyethylcellulose, Piroctone Olamine, Serenoa Serrulata Fruit Extract, Sodium Phosphate, Sodium Phytate, Xanthan Gum"
+    },
+    {
+     "nombre": "Kelual DS Gel limpiador antiescamas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770392401"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Ceteareth-60 Myristyl Glycol, Coco-Betaine, Decyl Glucoside, Glyceryl Laurate, 1,2-Hexanediol, Caprylyl Glycol, Ciclopirox Olamine, Citric Acid, Glycyrrhetinic Acid, Piroctone Olamine, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Kelual DS Sebocontrol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001920"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Undecylenamidopropyl Betaine, Decyl Glucoside, Ciclopirox Olamine, Lactamide MEA, Glycerin, Coco-Betaine, Anetholea Anisata Leaf Extract, Blue 1 (CI 42090), Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Glycyrrhetinic Acid, Hexyl Cinnamal, Piroctone Olamine, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Kelual DS Spray calmante anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771000787"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Laureth-9, Lactamide MEA, PPG-1-PEG-9 Lauryl Glycol Ether, Ciclopirox Olamine, Citric Acid, Mentha Piperita Flower/Leaf/Stem Extract, Menthol, Pentylene Glycol, Piroctone Olamine, Serenoa Serrulata Fruit Extract, Sodium Citrate"
+    },
+    {
+     "nombre": "Kelual Emulsión contra las escamas del cuero cabelludo y el rostro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770202274"
+     ],
+     "inci": "Water (Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), PEG-12, Dimethicone, Lactamide MEA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Carbomer, Ethylhexylglycerin, PEG-30 Dipolyhydroxystearate, Sodium Hydroxide, Tocopherol"
+    },
+    {
+     "nombre": "Keracnyl Gel limpiador antiimperfecciones para cara y cuerpo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141382"
+     ],
+     "inci": "Water (Aqua), Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Coco-Betaine, Glycerin, Decyl Glucoside, Polysorbate 20, Trideceth-9, Blue 1 (CI 42090), Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Myrtus Communis Leaf Extract, PEG-40 Hydrogenated Castor Oil, PEG-5 Ethylhexanoate, PPG-26-Buteth-26, Sodium Benzoate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Keracnyl Gel-crema matificante anti-brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001869"
+     ],
+     "inci": "Water (Aqua), Propanediol, Pentylene Glycol, Glycerin, Triethylhexanoin, Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Blue 1 (CI 42090), Caprylic/Capric Triglyceride, Caprylyl Glycol, Cetearyl Olivate, Diglycerin, Fragrance (Parfum), Glyceryl Laurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydroxypropyl Starch Phosphate, Lens Esculenta Seed Extract, PEG-30 Dipolyhydroxystearate, Polyglycerin-3, Polysorbate 60, Potassium Hydroxide, Sodium Benzoate, Sorbitan Isostearate, Sorbitan Olivate, Tocopheryl Glucoside, Trideceth-6"
+    },
+    {
+     "nombre": "Keracnyl PP Tratamiento antiimperfecciones y antirrecurrencia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141320"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Cetearyl Alcohol, Isohexadecane, Niacinamide, Pentylene Glycol, Butylene Glycol, Glycerin, Octyldodecanol, Oryza Sativa Starch, Polymethyl Methacrylate, Benzoic Acid, Butyrospermum Parkii Butter, Cetearyl Glucoside, Dicaprylyl Carbonate, Disodium Phosphate, Glyceryl Laurate, Helianthus Annuus Seed Oil, Myrtus Communis Leaf Extract, Polyacrylate-13, Polyisobutene, Polysorbate 20, Potassium Phosphate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Sorbitan Isostearate, Stearyl Glycyrrhetinate, Tocopherol, Tripterygium Wilfordii Callus Extract, XANTHAN GUM 82 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Keracnyl Repair Bálsamo labial nutritivo reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770395716"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Vegetable Oil, Hydrogenated Coco-Glycerides, Squalane, Hydrogenated Polyisobutene, VP/Hexadecene Copolymer, Beeswax (Cera Alba), Hydrogenated Castor Oil, 10-Hydroxydecenoic Acid, Disteardimonium Hectorite"
+    },
+    {
+     "nombre": "Keracnyl Repair Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770037418"
+     ],
+     "inci": "Water (Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Glyceryl Stearate, PEG-12, Butyrospermum Parkii Butter, Dimethicone, Microcrystalline Wax (Cera Microcristallina), Palmitic Acid, Stearic Acid, 10-Hydroxydecenoic Acid, BHT, Disodium EDTA, Glyceryl Linoleate, Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glycine Soja Oil, Paraffin, Tocopherol, Triethanolamine"
+    },
+    {
+     "nombre": "Keracnyl Spray corporal secante antiimperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001999"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Glycolic Acid, Sodium Hydroxide, Salicylic Acid, PPG-1-PEG-9 Lauryl Glycol Ether, Disodium EDTA, Fragrance (Parfum), Myrtus Communis Leaf Extract, Pentylene Glycol, Tripterygium Wilfordii Callus Extract"
+    },
+    {
+     "nombre": "Keracnyl Sérum regulador antiimperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770399264"
+     ],
+     "inci": "Water (Aqua), Azelaic Acid, Caprylic/Capric Triglyceride, Dicaprylyl Ether, Glycerin, Glycolic Acid, Microcrystalline Cellulose, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Sodium Hydroxide, Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Helianthus Annuus Seed Oil, Myrtus Communis Leaf Extract, Pentylene Glycol, Potassium Cetyl Phosphate, Tocopherol, Tripterygium Wilfordii Callus Extract, XANTHAN GUM 88% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Keracnyl UV Fluido antiimperfecciones SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145175"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Zea Mays Starch, Butyl Methoxydibenzoylmethane, C10-18 Triglycerides, Decyl Glucoside, Glycerin, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glyceryl Laurate, Helianthus Annuus Seed Oil, Hexamethylindanopyran, Myrtus Communis Leaf Extract, Niacinamide, PEG-30 Dipolyhydroxystearate, Pentylene Glycol, Propylene Glycol, Sodium Hydroxide, Stearyl Alcohol, Tocopherol, Tribehenin, Trideceth-6, Tripterygium Wilfordii Callus Extract, Xanthan Gum"
+    },
+    {
+     "nombre": "Kertyol P.S.O. Champú tratante reequilibrante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148473"
+     ],
+     "inci": "Water (Aqua), Cocos Nucifera Oil, Sodium Trideceth Sulfate, Sodium Lauroamphoacetate, Cocamide MIPA, Glycerin, Sodium Chloride, Salicylic Acid, 1,2-Hexanediol, Caprylyl Glycol, Cichorium Intybus (Chicory) Root Extract, Fragrance (Parfum), Ictasol, Pentylene Glycol, Tripterygium Wilfordii Callus Extract"
+    },
+    {
+     "nombre": "Kertyol P.S.O. Concentrado de uso local",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148480"
+     ],
+     "inci": "Water (Aqua), Ethylhexyl Palmitate, Glycerin, Lactamide MEA, Cetearyl Alcohol, Dimethicone, Glycolic Acid, Glyceryl Stearate, Ceteareth-33, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ictasol, Laureth-9,1, 2-Hexanediol, Caprylyl Glycol, Cichorium Intybus Root Extract, Dimethyl Phenethyl Acetate, Fragrance (Parfum), Hydrogenated Polyisobutene, PEG-7 Trimethylolpropane Coconut Ether, Pentylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, Tripterygium Wilfordii Callus Extract 72, 4% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Kertyol P.S.O. Gel limpiador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770148435"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Lactamide MEA, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Polysorbate 20, 1,2-Hexanediol, Caprylyl Glycol, Cichorium Intybus Root Extract, Citric Acid, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Laureth-3, Maleic Acid, PEG-120 Methyl Glucose Dioleate, Pentylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol, Tripterygium Wilfordii Callus Extract, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Leche corporal calmante fisioprotectora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770055085"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Laureth-9,1, 2-Hexanediol, 4-T-Butylcyclohexanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Carbomer, Glyceryl Stearate, PEG-100 Stearate, Pentylene Glycol, Sodium Hydroxide, Sorbitan Stearate, Tropolone"
+    },
+    {
+     "nombre": "Melascreen Concentrado antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389197"
+     ],
+     "inci": "Water (Aqua), Azelaic Acid, Caprylic/Capric Triglyceride, Squalane, Propanediol, Glycerin, Glycolic Acid, Glyceryl Stearate, Sodium Hydroxide, Cetearyl Alcohol, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Benzoic Acid, Cetearyl Glucoside, Helianthus Annuus Seed Oil, Hesperidin Methyl Chalcone, Sclerotium Gum, Sodium Chloride, TOCOPHEROL 84 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Melascreen Contorno de ojos antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389234"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, C14-22 Alcohols, Behenyl Alcohol, Glyceryl Stearate, Hydrogenated Vegetable Oil, Sodium Stearoyl Glutamate, 1,2-Hexanediol, Ascorbyl Glucoside, C12-20 Alkyl Glucoside, Caprylyl Glycol, Citric Acid, Hesperidin Methyl Chalcone, Sclerotium Gum, Sodium Citrate, Sodium Dextran Sulfate, Sodium Hydroxide, Tropolone, XANTHAN GUM 98 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Melascreen Crema protectora antimanchas SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389296"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Oryza Sativa Starch, Phenylene Bis-Diphenyltriazine, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Potassium Cetyl Phosphate, Stearyl Alcohol, VP/Eicosene Copolymer, Azelaic Acid, Benzoic Acid, Caprylyl Glycol, Glyceryl Behenate, Glyceryl Dibehenate, PPG-1-PEG-9 Lauryl Glycol Ether, Red 33 (CI 17200), Sodium Hydroxide, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Melascreen Cuidado global para las manos SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770073249"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Cetearyl Isononanoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polymethyl Methacrylate, Glycerin, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Decyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Lecithin, Lepidium Sativum Sprout Extract, Phenoxyethanol, Phenylethyl Resorcinol, Polysorbate 80, Propylene Glycol, Silica, Sodium Hyaluronate, Sodium Polyacrylate, Soy Isoflavones, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Melascreen Sérum global",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770049527"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Azelaic Acid, Dicaprylyl Ether, Glycolic Acid, Glycerin, Glyceryl Stearate, Cetearyl Alcohol, Sodium Hydroxide, Dimethicone, Nylon-12, Benzoic Acid, Butylene Glycol, Ceteareth-33, Disodium EDTA, Fragrance (Parfum), Glycine Soja Oil, Hydrogenated Lecithin, Oligopeptide-68, Sclerotium Gum, Sodium Hyaluronate, Sodium Oleate, Tocopherol, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Melascreen Sérum luminosidad antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389593"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Ascorbyl Glucoside, Niacinamide, Glycerin, Hydroxypropyl Starch Phosphate, Propanediol, C14-22 Alcohols, 1,2-Hexanediol, C12-20 Alkyl Glucoside, Caprylyl Glycol, Citric Acid, Diutan Gum, Fragrance (Parfum), Microcrystalline Cellulose, Sodium Citrate, Sodium Hydroxide, XANTHAN GUM 92 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Neoptide Expert Loción anticaída y anclaje del cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770153255"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Isopropyl Alcohol, PEG-6, Hexylene Glycol, Pentylene Glycol, Butylene Glycol, Citric Acid, Lespedeza Capitata Flower/Leaf/Stem Extract, Manganese PCA, Polyacrylate-13, Polyisobutene, Polysorbate 20, Silybum Marianum Fruit Extract, Sodium Dilauramidoglutamide Lysine, Sodium Phytate, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "SENSINOL Champú tratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394931"
+     ],
+     "inci": "Water (Aqua), Glycerin, Decyl Glucoside, Sodium Cocoyl Glutamate, Laureth-9, Algin, Carrageenan, Citric Acid, Sodium Benzoate 98%"
+    },
+    {
+     "nombre": "SENSINOL SOS spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394993"
+     ],
+     "inci": "Water (Aqua), Pentylene Glycol, Polyglyceryl-4 Caprate, Laureth-9, Citric Acid, Eriobotrya Japonica Leaf Extract, Sodium Benzoate, Sodium Phytate 97, 5 %"
+    },
+    {
+     "nombre": "Sabal Champú de tratamiento seborregulador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397291"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Coco-Betaine, Carvone, Citric Acid, Fragrance (Parfum), Green 3 (CI 42053), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Magnesium Laureth Sulfate, Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, Mentha Viridis Leaf Oil, Menthol, Oleth-10, PEG-18 Glyceryl Oleate/Cocoate, Piroctone Olamine, Polyquaternium-22, Salicylic Acid, Serenoa Serrulata Fruit Extract, Sodium Chloride, Sodium Hydroxide, Sodium Laureth-8 Sulfate, Sodium Oleth Sulfate, Tocopherol"
+    },
+    {
+     "nombre": "Sabal Champú diario seboabsorbente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397246"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Kaolin, Methylpropanediol, Glycol Palmitate, Cetearyl Alcohol, Hectorite, Benzyl Alcohol, Caprylyl Glycol, Carvone, Citric Acid, Coco-Glucoside, Disodium Phosphate, Fragrance (Parfum), Glycerin, Glycol Distearate, Mentha Viridis Leaf Oil, Menthol, Phenylpropanol, Potassium Phosphate, Serenoa Serrulata Fruit Extract, Sodium Cetearyl Sulfate, Sodium Lauryl Sulfate"
+    },
+    {
+     "nombre": "Sensinol Sérum fisioprotector calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779417006"
+     ],
+     "inci": "Water (Aqua), Pentylene Glycol, Glycine, Laureth-9, Zinc Gluconate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Squanorm Champú Refrescante Anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771000817"
+     ],
+     "inci": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, PEG-40 Hydrogenated Castor Oil, Succinic Acid, 1,2-Hexanediol, Bisabolol, Blue 1 (CI 42090), Caprylyl Glycol, Carvone, Eucalyptus Globulus Oil, Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Mentha Viridis Leaf Oil, Menthol, Menthyl Lactate, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum"
+    },
+    {
+     "nombre": "Squanorm Champú hidratante anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401790"
+     ],
+     "inci": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Caprylyl Glycol, Fragrance (Parfum), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum"
+    },
+    {
+     "nombre": "Squanorm Champú regulador anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401806"
+     ],
+     "inci": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Bisabolol, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum"
+    }
+   ]
+  },
+  {
+   "key": "klorane",
+   "nombre": "Klorane",
+   "productos": [
+    {
+     "nombre": "ANTICASPA Champú Tratante y Reequilibrante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770400311"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Coco-Glucoside, Pentylene Glycol, Alpinia Galanga Rhizome Extract, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Green 3 (CI 42053), Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Linalyl Acetate, Oleth-10, Polyquaternium-22, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397598"
+     ],
+     "inci": "Water (Aqua), Hydroxypropyl Starch Phosphate, Cetearyl Alcohol, Behenamidopropyl Dimethylamine, Glycerin, Coco-Caprylate/Caprate, 1,2-Hexanediol, Cinchona Succirubra Bark Extract, Caffeine, Sodium Dilauramidoglutamide Lysine, Alcohol, Benzoic Acid, Butylene Glycol, Ceteareth-33, Citric Acid, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 90% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "ANTICAÍDA Tratamiento Fortificante Intensivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397635"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Glycerin, Oleth-10, Cinchona Succirubra Bark Extract, Caffeine, Myrciaria Dubia Fruit Extract, Biotin, Alcohol, Citric Acid, Fragrance (Parfum), Propanediol, TOCOPHEROL 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Aceite al Mango - Nutrición - Cabello seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141030"
+     ],
+     "inci": "Water (Aqua), Coco-Caprylate/Caprate, Ethylhexyl Palmitate, Pongamia Glabra Seed Oil, C9-12 Alkane, Pentylene Glycol, Sodium Chloride, Mangifera Indica Seed Butter, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Sodium Benzoate, TOCOPHEROL 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Aceite corporal nutritivo - Flor de cupuaçu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203066"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Coco-Caprylate/Caprate, Olea Europaea Fruit Oil, Squalane, Theobroma Grandiflorum Seed Butter, Tocopheryl Acetate, Alpha-Isomethyl Ionone, Citral, Citronellol, Fragrance (Parfum), Helianthus Annuus Seed Oil, Oleth-10, TOCOPHEROL 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Aceite corporal seco - Flor de hibisco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203110"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Dicaprylyl Ether, Olea Europaea Fruit Oil, Squalane, Theobroma Grandiflorum Seed Butter, Tocopheryl Acetate, Fragrance (Parfum), Helianthus Annuus Seed Oil, Oleth-10, TOCOPHEROL 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Aceite multiusos a la Caléndula BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770391053"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Glycerin, Water (Aqua), Helianthus Annuus Seed Oil, Sucrose Laurate, CALENDULA OFFICINALIS FLOWER EXTRACT 100 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Aceite reparador aftersun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206654"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Dicaprylyl Ether, Squalane, Tocopheryl Acetate, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Fragrance (Parfum), Glycine Soja Oil, Tocopherol"
+    },
+    {
+     "nombre": "Aceite solar seco SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206500"
+     ],
+     "inci": "C12-15 Alkyl Benzoate, Diisopropyl Adipate, Coco-Caprylate, Dicaprylyl Carbonate, Diethylhexyl Butamido Triazone, Isododecane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Fragrance (Parfum), Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Glycine Soja Oil, Helianthus Annuus Seed Oil, PEG-40 Hydrogenated Castor Oil, Tocopherol, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Acondicionador a la Avena",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145311"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Ethylhexyl Palmitate, Behenamidopropyl Dimethylamine, Dicaprylyl Carbonate, Cetearyl Alcohol, 1,2-Hexanediol, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Lactic Acid, Sclerotium Gum, Tocopherol"
+    },
+    {
+     "nombre": "Acondicionador a la Centaurea BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145120"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Ethylhexyl Palmitate, Dicaprylyl Carbonate, Behenamidopropyl Dimethylamine, 1,2-Hexanediol, Centaurea Cyanus Flower Water, Benzoic Acid, Butylene Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Ext, Violet 2 (CI 60730), Fragrance (Parfum), Lactic Acid, Red 33 (CI 17200), Sclerotium Gum, TOCOPHEROL 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Acondicionador a la Granada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143522"
+     ],
+     "inci": "Water (Aqua), Stearyl Alcohol, Behenamidopropyl Dimethylamine, C9-12 Alkane, Cetyl Alcohol, Hydroxypropyl Starch Phosphate, Ethylhexyl Palmitate, 1,2-Hexanediol, Punica Granatum Extract, Alcohol, Citric Acid, Coco-Caprylate/Caprate, Fragrance (Parfum), Lactic Acid, Octyldodecanol, Sodium Benzoate, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Acondicionador a la Menta BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144628"
+     ],
+     "inci": "Water (Aqua), Behenamidopropyl Dimethylamine, Behenyl Alcohol, Glycerin, Dicaprylyl Carbonate, Betaine, Lactic Acid, Hydroxypropyl Starch Phosphate, C14-22 Alcohols, Caprylic/Capric Triglyceride, Mentha Aquatica Flower/Leaf/Stem Extract, Menthol, Benzyl Salicylate, C12-20 Alkyl Glucoside, Citric Acid, Fragrance (Parfum), Guar Hydroxypropyltrimonium Chloride, Linalool, Phenoxyethanol, Propanediol, Salicylic Acid, Sodium Benzoate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Acondicionador al Lino BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770147469"
+     ],
+     "inci": "Water (Aqua), Hydroxypropyl Starch Phosphate, Behenamidopropyl Dimethylamine, Vinegar (Acetum), Pentylene Glycol, Linum Usitatissimum Seed Extract, Fragrance (Parfum), Lactic Acid, Limonene, Propylene Glycol, Sclerotium Gum, SODIUM BENZOATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Acondicionador al Mango",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770140972"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Ethylhexyl Palmitate, Behenamidopropyl Dimethylamine, Dicaprylyl Carbonate, Cetearyl Alcohol, 1,2-Hexanediol, Mangifera Indica Seed Butter, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Lactic Acid, Sclerotium Gum, Tocopherol, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Acondicionador al extracto esencial de olivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770075083"
+     ],
+     "inci": "Water (Aqua), Glycerin, Cetearyl Alcohol, Dicaprylyl Carbonate, Vinegar (Acetum), PEG-40 Hydrogenated Castor Oil, Ceteareth-33, Betaine, Butyrospermum Parkii Butter, Benzyl Salicylate, Citronellol, Fragrance (Parfum), Hydrolyzed Wheat Protein, Hydroxyethylcellulose, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Linalool, Olea Europaea Fruit Extract, Phenoxyethanol, Propanediol, Sclerotium Gum, Sodium Benzoate, Tocopherol, Tocopheryl Nicotinate"
+    },
+    {
+     "nombre": "Acondicionador con Peonía ORGÁNICA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145700"
+     ],
+     "inci": "Water (Aqua), Pentylene Glycol, Hydroxypropyl Starch Phosphate, Betaine, Glycerin, Behenamidopropyl Dimethylamine, Propylene Glycol, Paeonia Lactiflora Root Extract, Fragrance (Parfum), Lactic Acid, Sclerotium Gum, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Acondicionador nutri-reparador Aftersun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150537"
+     ],
+     "inci": "Glycol Palmitate, Caprylic/Capric Triglyceride, Cocos Nucifera (Coconut) Oil (Cocos Nucifera Oil)Behenamidopropyl Dimethylamine, Cetearyl Alcohol, Behenyl Alcohol, Glycerin, Fragrance (Parfum), Calophyllum Inophyllum Seed Oil, Gardenia Taitensis Flower, Arginine Hcl, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Citric Acid, Glycine Soja Oil, Glycine Soja Seedcake Extract, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Wheat Protein, Lactic Acid, Lysine Hcl, Propylene Glycol, Sodium Benzoate, Tocopherol, WATER (AQUA) 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Agua Micelar 3-en-1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390292"
+     ],
+     "inci": "Water (Aqua), Glycerin, Pentylene Glycol, Butylene Glycol, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate Hcl, Polyglyceryl-4 Caprate, POLYGLYCERYL-6 CAPRYLATE 100% ingredientes de origen natural"
+    },
+    {
+     "nombre": "Agua perfumada Petit Brin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770112313"
+     ],
+     "inci": "Water (Aqua), PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Citric Acid, Fragrance (Parfum), Glycerin, Isoeugenyl Acetate, Linalyl Acetate, Sodium Benzoate, SODIUM CITRATE 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Agua perfumada refrescante a la Caléndula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770104882"
+     ],
+     "inci": "Water (Aqua), PEG-40 Hydrogenated Castor Oil, Calendula Officinalis Flower Extract, Caprylyl Glycol, Citric Acid, Fragrance (Parfum), Glycerin, Isoeugenyl Acetate, Isoleucine, Linalyl Acetate, Polysorbate 80, Propylene Glycol, SODIUM BENZOATE 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Bandas de cera a la Almendra dulce",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779417051"
+     ],
+     "inci": "Glyceryl Rosinate, Mineral Oil (Paraffinum Liquidum), Microcrystalline Wax (Cera Microcristallina), BHT, Polyethylene, Prunus Amygdalus Dulcis Oil"
+    },
+    {
+     "nombre": "Bandas de cera fría a la Almendra dulce",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779417075"
+     ],
+     "inci": "Glyceryl Rosinate, Mineral Oil (Paraffinum Liquidum), Microcrystalline Wax (Cera Microcristallina), BHT, Polyethylene, Prunus Amygdalus Dulcis Oil"
+    },
+    {
+     "nombre": "Bruma a la Menta acuática",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770209983"
+     ],
+     "inci": "Water (Aqua), Alcohol (Alcohol Denat), Oleth-10, Glycerin, Benzyl Salicylate, Citral, Citric Acid, Citronellol, Coumarin, Fragrance (Parfum), Limonene, Linalool, Lysine, Mentha Aquatica Flower/Leaf/Stem Extract, Menthol, Polyquaternium-22, Propanediol, Propylene Glycol, Tocopherol, Triethyl Citrate, ZINC RICINOLEATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Bruma hidratante a la Peonía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770203134"
+     ],
+     "inci": "Water (Aqua), Glycerin, Propanediol, 1,2-Hexanediol, Paeonia Lactiflora Root Extract, Betaine, Coco-Caprylate/Caprate, Ethylhexylglycerin, Fragrance (Parfum), Helianthus Annuus Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Trehalose"
+    },
+    {
+     "nombre": "Bálsamo a la Menta acuática",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770202373"
+     ],
+     "inci": "Water (Aqua), Behenamidopropyl Dimethylamine, Behenyl Alcohol, Betaine, Glycerin, Dicaprylyl Carbonate, Lactic Acid, Hydroxypropyl Starch Phosphate, C14-22 Alcohols, Caprylic/Capric Triglyceride, Benzyl Salicylate, C12-20 Alkyl Glucoside, Citric Acid, Fragrance (Parfum), Guar Hydroxypropyltrimonium Chloride, Linalool, Mentha Aquatica Flower/Leaf/Stem Extract, Menthol, Phenoxyethanol, Propanediol, Salicylic Acid, Sodium Benzoate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "CALMANTE Champú antiirritación y protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145076"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Ceteareth-60 Myristyl Glycol, Coco-Betaine, Decyl Glucoside, Propylene Glycol, Paeonia Lactiflora Root Extract, Caprylyl Glycol, Citric Acid, Fragrance (Parfum), Polyquaternium-22, Red 33 (CI 17200), Sodium Benzoate, Trisodium Ethylenediamine Disuccinate 88%"
+    },
+    {
+     "nombre": "CRECIMIENTO Acondicionador acelerador del crecimiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771000503"
+     ],
+     "inci": "Water (Aqua), Hydroxypropyl Starch Phosphate, Cetearyl Alcohol, Behenamidopropyl Dimethylamine, Glycerin, Coco-Caprylate/Caprate, 1,2-Hexanediol, Cinchona Succirubra Bark Extract, Adenosine, Caffeine, Hydrolyzed Vegetable Protein, Panthenol, Alcohol, Benzoic Acid, Ceteareth-33, Citric Acid, Fragrance (Parfum), Green 3 (CI 42053), Helianthus Annuus Seed Oil, Lactic Acid, Pantolactone, Red 33 (CI 17200), Sodium Benzoate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 89% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "CRECIMIENTO Champú acelerador del crecimiento a la adenosina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771000473"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Sodium Chloride, Cinchona Succirubra Bark Extract, Adenosine, Caffeine, Hydrolyzed Vegetable Protein, Panthenol, Alcohol, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Green 3 (CI 42053), Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Pantolactone, Polyquaternium-10, Polyquaternium-22, Red 33 (CI 17200), Sodium Benzoate, Sodium Hydroxide, Tocopherol 86%"
+    },
+    {
+     "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771000428"
+     ],
+     "inci": "Water (Aqua), Alcohol Denat., Glycerin, Pentylene Glycol, Panthenol, Cinchona Succirubra Bark Extract, Adenosine, Caffeine, Hydrolyzed Vegetable Protein, Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Citric Acid, Fragrance (Parfum), Oleth-10, Pantolactone, Sodium Benzoate, TOCOPHEROL 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú Brillo & Hidratación al Higo de Barbaria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394535"
+     ],
+     "inci": "Water (Aqua), Lauryl Glucoside, Sodium Cocoyl Alaninate, Coco-Betaine, Opuntia Ficus-Indica Stem Extract, Citric Acid, Disodium Phosphate, Ext, Violet 2 (CI 60730), Fragrance (Parfum), Glycerin, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Red 33 (CI 17200), Red 40 (CI 16035), Sodium Benzoate 97%"
+    },
+    {
+     "nombre": "Champú a la Centaurea BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145250"
+     ],
+     "inci": "Water (Aqua), Decyl Glucoside, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Disodium Cocoamphodiacetate, Acrylates Copolymer, Centaurea Cyanus Flower Water, Butylene Glycol, Caprylyl Glycol, Ceteareth-60 Myristyl Glycol, Citric Acid, Coco-Glucoside, Coconut Acid, Ext, Violet 2 (CI 60730), Fragrance (Parfum), Glyceryl Oleate, Glycol Stearate, Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Maleic Acid, Polyquaternium-22, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú a la Granada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143577"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Ceteareth-60 Myristyl Glycol, Decyl Glucoside, Lauryl Betaine, Laureth-3, Punica Granatum Extract, Alcohol, Caprylyl Glycol, Citric Acid, Fragrance (Parfum), Maleic Acid, Polyquaternium-22, Red 33 (CI 17200), Red 40 (CI 16035), Sodium Benzoate, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Champú a la Menta BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144871"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Laureth-3, Sodium Cocoamphoacetate, Maleic Acid, PEG-40 Hydrogenated Castor Oil, Mentha Aquatica Flower/Leaf/Stem Extract, Mentha Viridis Leaf Oil, Eucalyptus Globulus Leaf/Twig Oil, Benzyl Salicylate, Camphor, Caramel, Citric Acid, Fragrance (Parfum), Green 5 (CI 61570), Limonene, Linalool, Menthol, Propanediol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 77% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú a la Ortiga BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141931"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Decyl Glucoside, Lauryl Betaine, Ceteareth-60 Myristyl Glycol, Laureth-3, Glyceryl Laurate, Urtica Dioica Root Extract, Caprylyl Glycol, Citric Acid, Fragrance (Parfum), Green 3 (CI 42053), Maleic Acid, Polyquaternium-22, Polysorbate 20, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, YELLOW 6 (CI 15985) 85% de ingredientes naturales"
+    },
+    {
+     "nombre": "Champú a la avena",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145373"
+     ],
+     "inci": "Water (Aqua), Decyl Glucoside, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycerin, Disodium Cocoamphodiacetate, Acrylates Copolymer, Avena Sativa Leaf/Stem Extract, Caprylyl Glycol, Ceteareth-60 Myristyl Glycol, Citric Acid, Coco-Glucoside, Coconut Acid, Fragrance (Parfum), Glyceryl Oleate, Glycol Stearate, Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Maleic Acid, Polyquaternium-22, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú al Cupuaçu BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144727"
+     ],
+     "inci": "Water (Aqua), Sodium Trideceth Sulfate, Caprylic/Capric Triglyceride, Cocos Nucifera Oil, Sodium Lauroamphoacetate, Sodium Chloride, Behenamidopropyl Dimethylamine, Glycerin, Cocamide MIPA, Citric Acid, Theobroma Grandiflorum Seed Butter, Helianthus Annuus Seed Oil, Tocopherol, Caprylyl Glycol, Caramel, Fragrance (Parfum), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Red 40 (CI 16035), SODIUM BENZOATE 83% de ingredientes naturales"
+    },
+    {
+     "nombre": "Champú al Mango",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770140941"
+     ],
+     "inci": "Water (Aqua), Decyl Glucoside, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycerin, Disodium Cocoamphodiacetate, Acrylates Copolymer, Mangifera Indica Seed Butter, Tocopherol, Caprylyl Glycol, Ceteareth-60 Myristyl Glycol, Citric Acid, Coco-Glucoside, Coconut Acid, Fragrance (Parfum), Glyceryl Oleate, Glycol Stearate, Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Maleic Acid, Polyquaternium-22, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú al Oliva BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144567"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Glycerin, Sodium Cocoamphoacetate, Ceteareth-60 Myristyl Glycol, PEG-40 Hydrogenated Castor Oil, Sodium Laureth-8 Sulfate, Olea Europaea Fruit Extract, Betaine, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Green 3 (CI 42053), Hesperidin Methyl Chalcone, Hydrogenated Vegetable Glycerides Citrate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Magnesium Laureth Sulfate, Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, Phenoxyethanol, Propanediol, Red 33 (CI 17200), Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Oleth Sulfate, Tocopherol, Tocopheryl Nicotinate, Trisodium Ethylenediamine Disuccinate, YELLOW 6 (CI 15985) 82% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú al lino BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770147308"
+     ],
+     "inci": "Water (Aqua), Disodium Laureth Sulfosuccinate, Decyl Glucoside, Ceteareth-60 Myristyl Glycol, Lauryl Betaine, Laureth-3, Linum Usitatissimum Seed Extract, Blue 1 (CI 42090), Caprylyl Glycol, Citric Acid, Ext, Violet 2 (CI 60730), Fragrance (Parfum), Limonene, Maleic Acid, Propylene Glycol, Sodium Benzoate, Sodium Chloride, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú desenredante - Melocotón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206746"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Ceteareth-60 Myristyl Glycol, Zinc Coceth Sulfate, Coco-Glucoside, Polysorbate 20, Sodium Cocoamphoacetate, Methyl Gluceth-20, Avena Sativa Kernel Extract, Benzoic Acid, Citric Acid, Fragrance (Parfum), Hexamethylindanopyran, Polyquaternium-10, Propylene Glycol, Red 4 (CI 14700), Sodium Chloride, Sodium Hydroxide, Sodium Sulfate, Trisodium Ethylenediamine Disuccinate, YELLOW 6 (CI 15985) 81 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú desenredante a la Caléndula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206418"
+     ],
+     "inci": "Water (Aqua), Glycerin, Coco-Glucoside, Ceteareth-60 Myristyl Glycol, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Polysorbate 20, Fragrance (Parfum), Calendula Officinalis Flower Extract, Citric Acid, Disodium Laureth Sulfosuccinate, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Isoleucine, Laureth-3, Maleic Acid, Polysorbate 80, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Champú envolvente a la almendra - Todo tipo de cabellos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150438"
+     ],
+     "inci": "Water (Aqua), Decyl Glucoside, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycerin, Disodium Cocoamphodiacetate, Polyquaternium-22, Acrylates Copolymer, Prunus Amygdalus Dulcis Oil, Caprylyl Glycol, Caramel, Ceteareth-60 Myristyl Glycol, Citric Acid, Coco-Glucoside, Coconut Acid, Fragrance (Parfum), Glyceryl Oleate, Glycol Stearate, Green 3 (CI 42053), Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Maleic Acid, Sodium Benzoate, Sodium Chloride, Sodium Glycolate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 85 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú mascarilla en polvo a la Ortiga BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770142044"
+     ],
+     "inci": "Sodium Cocoyl Isethionate, Zea Mays Starch, Oryza Sativa Starch, Hectorite, Kaolin, Coconut Acid, Acacia Senegal Gum, Urtica Dioica Root Extract, Glyceryl Laurate, Bambusa Arundinacea Juice, Fragrance (Parfum), Limonene, Polyquaternium-10, Polysorbate 20, Propylene Glycol, Water (Aqua), Xanthan Gum"
+    },
+    {
+     "nombre": "Champú nutri-reparador Aftersun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150513"
+     ],
+     "inci": "Water (Aqua), Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Prunus Amygdalus Dulcis Oil, Disodium Laureth Sulfosuccinate, Glycerin, Disodium Cocoamphodiacetate, Ceteareth-60 Myristyl Glycol, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Caramel, Fragrance (Parfum), Glycine Soja Oil, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Laureth-3, Lauric Acid, Maleic Acid, PEG-30 Dipolyhydroxystearate, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Methyl Isethionate, Tocopherol, Trideceth-6, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 84% de ingredientes naturales"
+    },
+    {
+     "nombre": "Champú seco a la Menta acuática BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770207521"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol, Mentha Aquatica Flower/Leaf/Stem Extract, Aluminum Starch Octenylsuccinate, Benzyl Salicylate, Cetrimonium Chloride, Citric Acid, Cyclodextrin, Eucalyptus Globulus Leaf Oil, Fragrance (Parfum), Iron Oxides (CI 77491) (CI 77492) (CI 77499), Isopropyl Myristate, Linalool, Mentha Viridis Leaf Oil, Menthol, Propanediol, Tocopheryl Acetate, WATER (AQUA) Polvos de origen natural"
+    },
+    {
+     "nombre": "Champú seco a la Ortiga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770208696"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol, Aluminum Starch Octenylsuccinate, Cetrimonium Chloride, Cyclodextrin, Cyclohexasiloxane, Cyclopentasiloxane, Fragrance (Parfum), Isopropyl Myristate, Polysorbate 20, Propylene Glycol, Silica, Urtica Dioica Root Extract, Water (Aqua)"
+    },
+    {
+     "nombre": "Champú seco al Lino BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770147605"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol, Zea Mays Starch, Linum Usitatissimum Seed Extract, Bambusa Arundinacea Juice, Cellulose, Cyclodextrin, Fragrance (Parfum), Iron Oxides (CI 77491) Iron Oxides (CI 77492) Iron Oxides (CI 77499), Isopropyl Myristate, Magnesium Stearate, Microcrystalline Cellulose, Propylene Glycol, WATER (AQUA) Polvos de origen natural"
+    },
+    {
+     "nombre": "Champú seco con avena y Ceramidaᴸᴵᴷᴱ - Con color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390766"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol, Zea Mays Starch, Avena Sativa Sprout Oil, Sodium Dilauramidoglutamide Lysine, Butylene Glycol, Cellulose, Cyclodextrin, Fragrance (Parfum), Iron Oxides (CI 77491) (CI 77492) (CI 77499), Isopropyl Myristate, Magnesium Stearate, Microcrystalline Cellulose, WATER (AQUA) Polvos de origen 100 % natural, ingredientes 99% de origen natural"
+    },
+    {
+     "nombre": "Champú seco con avena y Ceramideᴸᴵᴷᴱ",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390759"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol, Zea Mays Starch, Avena Sativa Sprout Oil, Sodium Dilauramidoglutamide Lysine, Butylene Glycol, Cellulose, Cyclodextrin, Fragrance (Parfum), Isopropyl Myristate, Magnesium Stearate, Microcrystalline Cellulose, WATER (AQUA) Polvos de origen 100% natural, 99% ingredientes de origen natural"
+    },
+    {
+     "nombre": "Champú seco con ortiga - Con color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770208672"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Isobutane, Alcohol Denat., Aluminum Starch Octenylsuccinate, Cetrimonium Chloride, Cyclodextrin, Fragrance (Parfum), Iron Oxides (CI 77491) Iron Oxides (CI 77492) Iron Oxides (CI 77499), Isopropyl Myristate, Polysorbate 20, Propylene Glycol, Silica, Urtica Dioica Root Extract, Water (Aqua)"
+    },
+    {
+     "nombre": "Champú suave aftersun al Monoï",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206692"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Glycerin, Coco-Betaine, Decyl Glucoside, Cocos Nucifera Oil, Gardenia Taitensis Flower Extract, Acrylates Copolymer, Benzoic Acid, Benzyl Salicylate, Ceteareth-33, Ceteareth-60 Myristyl Glycol, Cetearyl Alcohol, Citric Acid, Citronellol, Citrus Aurantium Peel Oil, Cocamide MEA, Coco-Glucoside, Copper Sulfate, Fragrance (Parfum), Glyceryl Oleate, Glycol Distearate, Helianthus Annuus Seed Oil, Hexyl Cinnamal, Hydrogenated Vegetable Glycerides Citrate, Hydroxycitronellal, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Laureth-10, Limonene, Linalool, Linalyl Acetate, Morinda Citrifolia Fruit Extract, Phenoxyethanol, Propylene Glycol, Salicylic Acid, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Trisodium Ethylenediamine Disuccinate, Vanillin"
+    },
+    {
+     "nombre": "Champú sólido a la Avena",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145281"
+     ],
+     "inci": "Triticum Vulgare Starch, Sodium Cocoyl Isethionate, Disodium Lauryl Sulfosuccinate, Cetearyl Alcohol, Water (Aqua), Glycerin, Hydrogenated Castor Oil, Zea Mays Starch, Avena Sativa Leaf/Stem Extract, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Cocamidopropyl Betaine, Decyl Glucoside, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Champú sólido al Mango",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770139259"
+     ],
+     "inci": "Triticum Vulgare Starch, Sodium Cocoyl Isethionate, Disodium Lauryl Sulfosuccinate, Cetearyl Alcohol, Glycerin, Water (Aqua), Hydrogenated Castor Oil, Zea Mays Starch, Mangifera Indica Seed Butter, Fragrance (Parfum), Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Cocamidopropyl Betaine, Decyl Glucoside, Red 4 (CI 14700), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Cica-Sérum al Cupuaçu BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150643"
+     ],
+     "inci": "Water (Aqua), Cetearyl Alcohol, Ethylhexyl Palmitate, Dicaprylyl Carbonate, Behenamidopropyl Dimethylamine, Theobroma Grandiflorum Seed Butter, 1,2-Hexanediol, Tocopheryl Acetate, Sodium Hyaluronate, Alpha-Isomethyl Ionone, Benzoic Acid, Cetearyl Glucoside, Citral, Citronellol, Coumarin, Fragrance (Parfum), Geraniol, Glycine Soja Oil, Helianthus Annuus Seed Oil, Lactic Acid, Limonene, Polyquaternium-39, Sodium Benzoate, TOCOPHEROL 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema de ducha - Flor de Frangipani",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143799"
+     ],
+     "inci": "Water (Aqua), Glycerin, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Coco-Betaine, Fragrance (Parfum), Theobroma Grandiflorum Seed Butter, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Glycol Stearate, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, Sodium Hydroxide, Tocopherol, Trisodium Ethylenediamine Disuccinate, VANILLIN 91% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema de ducha - Flor de cupuaçu (ref. 113297)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770113297"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Lauryl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, Decyl Glucoside, Benzoic Acid, Caramel, Ceteareth-60 Myristyl Glycol, Citric Acid, Fragrance (Parfum), Helianthus Annuus Seed Oil, Hydrogenated Palm Glycerides Citrate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Styrene/Acrylates Copolymer, Theobroma Grandiflorum Seed Butter, Tocopherol"
+    },
+    {
+     "nombre": "Crema de ducha - Flor de cupuaçu (ref. 143775)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143775"
+     ],
+     "inci": "Water (Aqua), Glycerin, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Coco-Betaine, Theobroma Grandiflorum Seed Butter, Acetyl Cedrene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Glycol Stearate, Helianthus Annuus Seed Oil, Hexamethylindanopyran, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 91% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema depilatoria a la Almendra dulce",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770207378"
+     ],
+     "inci": "Water (Aqua), Glycerin, Urea, Strontium Hydroxide, Cetearyl Alcohol, Guanidine Carbonate, Thiolactic Acid, Ceteareth-33, Potassium Hydroxide, Titanium Dioxide (CI 77891), BHT, Fragrance (Parfum), Glycyrrhetinic Acid, Linalyl Acetate, Prunus Amygdalus Dulcis Oil, Tetrasodium EDTA"
+    },
+    {
+     "nombre": "Crema hidratante a la Caléndula BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770391107"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Pentylene Glycol, Dicaprylyl Carbonate, C14-22 Alcohols, Behenyl Alcohol, Sodium Stearoyl Glutamate, Calendula Officinalis Flower Extract, Acacia Senegal Gum, Aloe Barbadensis Leaf Juice Powder, C12-20 Alkyl Glucoside, Citric Acid, Fragrance (Parfum), Glyceryl Caprylate, Glycine Soja Oil, Sclerotium Gum, Sodium Benzoate, Tocopherol, XANTHAN GUM 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema limpiadora a la Caléndula con Cold Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770104981"
+     ],
+     "inci": "Water (Aqua), Disodium Cocoyl Glutamate, Glycerin, PEG-40 Hydrogenated Castor Oil, Sodium Cocoamphoacetate, Ceteareth-60 Myristyl Glycol, PEG-120 Methyl Glucose Dioleate, Propylene Glycol, 1,2-Hexanediol, Fragrance (Parfum), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ascorbyl Palmitate, Beeswax (Cera Alba), Benzoic Acid, Calendula Officinalis Flower Extract, Carthamus Tinctorius Seed Oil, Cetyl Alcohol, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Isoleucine, Lecithin, Polysorbate 80, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sorbic Acid, Styrene/Acrylates Copolymer, Tocopherol, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Crema nutritiva con Cold Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282779327060"
+     ],
+     "inci": "Water (Aqua), Carthamus Tinctorius Seed Oil, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Beeswax (Cera Alba), Benzoic Acid, Calendula Officinalis Flower Extract, Caprylyl Glycol, Cetearyl Glucoside, Fragrance (Parfum), Glyceryl Stearate, Hexadecanolactone, Isoeugenyl Acetate, Isoleucine, Linalyl Acetate, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Polysorbate 80, Propylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, TOCOPHERYL ACETATE 96 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema para el cambio de pañal a la Caléndula BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770391176"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Vegetable Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Oil, Polyglyceryl-2 Dipolyhydroxystearate, Simmondsia Chinensis Seed Oil, Magnesium Sulfate, Polyglyceryl-3 Diisostearate, Calendula Officinalis Flower Extract, Benzoic Acid, Glyceryl Caprylate, Tocopherol, ZINC SULFATE 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema sin aclarado al Mango",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141023"
+     ],
+     "inci": "Water (Aqua), Cetearyl Alcohol, Ethylhexyl Palmitate, Dicaprylyl Carbonate, Behenamidopropyl Dimethylamine, Mangifera Indica Seed Butter, 1,2-Hexanediol, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Lactic Acid, Polyquaternium-37, Tocopherol, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema solar sublime SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150629"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Glycerin, Butyl Methoxydibenzoylmethane, C10-18 Triglycerides, Potassium Cetyl Phosphate, Zea Mays Starch, Glyceryl Stearate, PEG-100 Stearate, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Decyl Glucoside, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glycine Soja Oil, Iron Oxides (CI 77492) (CI 77491), Mica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Stearyl Alcohol, Titanium Dioxide (CI 77891), Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Crema solar sublime SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770150636"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamidotriazone, Diisopropyl Adipate, Glycerin, Butyl Methoxydibenzoylmethane, C10-18 Triglycerides, Potassium Cetyl Phosphate, Zea Mays Starch, Decyl Glucoside, Glyceryl Stearate, PEG-100 Stearate, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glycine Soja Oil, Iron Oxides (CI 77492) (CI 77491), Mica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Stearyl Alcohol, Titanium Dioxide (CI 77891), Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Crema sublimadora aftersun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206715"
+     ],
+     "inci": "Water (Aqua), Glycerin, Squalane, Cocos Nucifera Oil, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Silica, Polyacrylate-13, Calophyllum Inophyllumseed Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Stearate, Glycine Soja Oil, Iron Oxides (CI 77491), Mica, PEG-100 Stearate, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Titanium Dioxide (CI 77891), Tocopherol, TOCOPHERYL ACETATE 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Desmaquillante De Ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770204223"
+     ],
+     "inci": "Water (Aqua), Butylene Glycol, Centaurea Cyanus Flower Water, Poloxamer 184, Hexylene Glycol, PEG-6 Caprylic/Capric Glycerides, Citric Acid, Phenethyl Alcohol, Sodium Chloride, Trisodium Ethylenediamine Disuccinate 87%"
+    },
+    {
+     "nombre": "Desmaquillante de ojos waterproof",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770204247"
+     ],
+     "inci": "Water (Aqua), Isododecane, Caprylic/Capric Triglyceride, Butylene Glycol, Centaurea Cyanus Flower Water, Sodium Chloride, Blue 1 (CI 42090), Disodium EDTA, Isopropyl Palmitate, Phenethyl Alcohol, Red 40 (CI 16035), SODIUM BENZOATE 77 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "GLOSS HYDRATANT Champú reactivador de brillo y tonos castaños",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771002637"
+     ],
+     "inci": "Water (Aqua), Sodium Laureth Sulfate, Glycolic Acid, Cocamidopropyl Betaine, Coco-Glucoside, Sodium Hydroxide, Pentylene Glycol, Opuntia Ficus-Indica Stem Extract, Lawsonia Inermis Leaf Extract, Blue 1 (CI 42090), Citric Acid, Disodium EDTA, Disodium Phosphate, Fragrance (Parfum), Glycerin, Glyceryl Oleate, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Linalyl Acetate, Polyquaternium-39, Potassium Sorbate, Red 33 (CI 17200), Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes, TOCOPHEROL 84 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770395853"
+     ],
+     "inci": "Water (Aqua), Glycerin, Propanediol, Butylene Glycol, Centaurea Cyanus Flower Water, Betaine, Sodium Dextran Sulfate, Sodium Hyaluronate, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Blue 1 (CI 42090), Caprylyl Glycol, Citric Acid, Fragrance (Parfum), PEG-30 Dipolyhydroxystearate, Potassium Hydroxide, Sodium Citrate, TRIDECETH-6 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel crema solar sublime SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206531"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Isononanoate, Diethylhexyl Butamido Triazone, Glycerin, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Silica, Stearyl Alcohol, VP/Eicosene Copolymer, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Carbomer, Decyl Glucoside, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glycine Soja Oil, Iron Oxides (CI 77492) (CI 77491), Mica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, Titanium Dioxide (CI 77891), Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Gel de ducha - Agua de tiare",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143843"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Polysorbate 20, Coco-Betaine, Theobroma Grandiflorum Seed Butter, Helianthus Annuus Seed Oil, Tocopherol, Acetyl Cedrene, Benzyl Salicylate, Caprylyl Glycol, Citric Acid, Citronellol, Citrus Limon Peel Oil, Coco-Glucoside, Dimethyl Phenethyl Acetate, Fragrance (Parfum), Geraniol, Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Hydroxycitronellal, Isoeugenyl Acetate, Limonene, Linalool, Linalyl Acetate, Oleth-10, Sodium Benzoate, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel de ducha - Flor de hibisco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144147"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Polysorbate 20, Coco-Betaine, Theobroma Grandiflorum Seed Butter, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hexamethylindanopyran, Hydrogenated Vegetable Glycerides Citrate, Oleth-10, Sodium Benzoate, Terpineol, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel de ducha - Flor de naranjo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144161"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Polysorbate 20, Coco-Betaine, Theobroma Grandiflorum Seed Butter, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hexamethylindanopyran, Hydrogenated Vegetable Glycerides Citrate, Oleth-10, Sodium Benzoate, Terpineol, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel de ducha - Hoja de higuera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144192"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Polysorbate 20, Coco-Betaine, Theobroma Grandiflorum Seed Butter, Benzyl Salicylate, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Limonene, Linalool, Linalyl Acetate, Oleth-10, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel de ducha 2 en 1 - Pera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206784"
+     ],
+     "inci": "Water (Aqua), Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Sodium Cocoamphoacetate, Zinc Coceth Sulfate, Polysorbate 20, Avena Sativa Kernel Extract, Citric Acid, Dimethyl Phenethyl Acetate, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel de ducha 2 en 1 - Perfume de Frambuesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206760"
+     ],
+     "inci": "Water (Aqua), Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Sodium Cocoamphoacetate, Zinc Coceth Sulfate, Polysorbate 20, Avena Sativa Kernel Extract, Citric Acid, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hexamethylindanopyran, Hydrogenated Vegetable Glycerides Citrate, Propylene Glycol, Red 33 (CI 17200), Red 4 (CI 14700), Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Sulfate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 87% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel limpiador suave a la Caléndula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770104943"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Sodium Cocoamphoacetate, Zinc Coceth Sulfate, Polysorbate 20, Calendula Officinalis Flower Extract, Citric Acid, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Glyceryl Oleate, Helianthus Annuus Seed Oil, Hydrogenated Vegetable Glycerides Citrate, Isoleucine, Linalyl Acetate, Polysorbate 80, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide, Tocopherol, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Gel-crema hidratante a la Peonía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770209105"
+     ],
+     "inci": "Water (Aqua), Glycerin, Propanediol, 1,2-Hexanediol, Betaine, Caprylic/Capric Triglyceride, Squalane, Paeonia Lactiflora Root Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter, C12-20 Alkyl Glucoside, C14-22 Alcohols, C9-12 Alkane, Caprylic/Capric Glycerides, Coco-Caprylate/Caprate, Cocos Nucifera Oil, Fragrance (Parfum), Isocetyl Stearoyl Stearate, Potassium Hydroxide, Propylene Glycol, Sodium Hyaluronate, Sodium Polyacrylate, Stearyl Glycyrrhetinate, Tocopheryl Acetate, TREHALOSE 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Hidratación & Brillo Acondicionador hidratante al Higo de Barbaria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394580"
+     ],
+     "inci": "Water (Aqua), Hydroxypropyl Starch Phosphate, Cetearyl Alcohol, Behenamidopropyl Dimethylamine, Glycerin, Coco-Caprylate/Caprate, 1,2-Hexanediol, Opuntia Ficus-Indica Stem Extract, Benzoic Acid, Ceteareth-33, Disodium Phosphate, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Red 33 (CI 17200), Tocopherol, Trisodium Ethylenediamine Disuccinate 90%"
+    },
+    {
+     "nombre": "Hidratación & Brillo Sérum hidratante al Higo de Barbaria & Ácido Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770394634"
+     ],
+     "inci": "Water (Aqua), Erythritol, Behenyl Alcohol, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Opuntia Ficus-Indica Stem Extract, Sodium Hyaluronate, Benzoic Acid, Citric Acid, Disodium Phosphate, Fragrance (Parfum), Glycerin, Hydrogenated Lecithin, Sodium Stearoyl Glutamate, Xanthan Gum 99%"
+    },
+    {
+     "nombre": "Jabón en crema - Flor de cupuaçu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770113532"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Water (Aqua), Fragrance (Parfum), Theobroma Grandiflorum Seed Butter, Alpha-Isomethyl Ionone, Citral, Glycerin, Helianthus Annuus Seed Oil, Palm Kernel Acid, Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate, Titanium Dioxide (CI 77891), TOCOPHEROL 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Jabón en crema - Flor de hibisco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206944"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Water (Aqua), Fragrance (Parfum), Theobroma Grandiflorum Seed Butter, Glycerin, Helianthus Annuus Seed Oil, Iron Oxides (CI 77491). (CI 77499), Palm Kernel Acid, Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate, Titanium Dioxide (CI 77891), TOCOPHEROL 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Jabón en crema - Hoja de higuera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770112498"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Water (Aqua), Fragrance (Parfum), Theobroma Grandiflorum Seed Butter, Benzyl Salicylate, Blue 1 (CI 42090), Coumarin, Glycerin, Helianthus Annuus Seed Oil, Limonene, Linalool, Palm Kernel Acid, Red 33 (CI 17200), Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate, Titanium Dioxide (CI 77891), Tocopherol, YELLOW 6 (CI 15985) 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Jabón sólido limpiador a la Caléndula BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389708"
+     ],
+     "inci": "Sodium Palmate, Sodium Cocoate, Water (Aqua), Glycerin, Fragrance (Parfum), Calendula Officinalis Flower Extract, Sodium Chloride, TETRASODIUM GLUTAMATE DIACETATE 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Leche corporal - Hoja de higuera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770113426"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Isopropyl Palmitate, C14-22 Alcohols, Dimethicone, Benzoic Acid, Benzyl Salicylate, Blue 1 (CI 42090), C12-20 Alkyl Glucoside, C20-22 Alcohols, C20-22 Alkyl Phosphate, Caprylyl Glycol, Coumarin, Fragrance (Parfum), Helianthus Annuus Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Limonene, Linalool, Polysorbate 60, Red 33 (CI 17200), Sodium Hydroxide, Sorbitan Isostearate, Squalane, Theobroma Grandiflorum Seed Butter, Tocopherol, Xanthan Gum, YELLOW 6 (CI 15985) 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Leche hidratante a la Caléndula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770104912"
+     ],
+     "inci": "Water (Aqua), Glycerin, Carthamus Tinctorius Seed Oil, Ethylhexyl Palmitate, Zea Mays Starch, Calendula Officinalis Flower Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Fragrance (Parfum), Glyceryl Stearate, Isoeugenyl Acetate, Isoleucine, Linalyl Acetate, PEG-100 Stearate, Polysorbate 80, Propylene Glycol, Sodium Hydroxide, XANTHAN GUM 96% de ingredientes naturales"
+    },
+    {
+     "nombre": "Loción corporal - Flor de cupuaçu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770113198"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Carthamus Tinctorius Seed Oil, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Oil, Cocos Nucifera Oil, Theobroma Grandiflorum Seed Butter, Cetearyl Alcohol, Squalane, Alpha-Isomethyl Ionone, Benzoic Acid, Caprylyl Glycol, Cetyl Alcohol, Citral, Citronellol, Coumarin, Disodium Phosphate, Fragrance (Parfum), Geraniol, Helianthus Annuus Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Potassium Phosphate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Mascarilla nutritiva al Mango",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770140996"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Caprylic/Capric Triglyceride, Mangifera Indica Seed Butter, Behenamidopropyl Dimethylamine, Glycerin, Coco-Caprylate/Caprate, Cetearyl Alcohol, 1,2-Hexanediol, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Sclerotium Gum, Tocopherol, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 98 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Máscarilla 3 en 1 al Cupuazu ORGANICO bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144819"
+     ],
+     "inci": "Water (Aqua), Glycol Palmitate, Behenyl Alcohol, Caprylic/Capric Triglyceride, Cocos Nucifera Oil, Theobroma Grandiflorum Seed Butter, Behenamidopropyl Dimethylamine, Dicaprylyl Carbonate, Cetearyl Alcohol, Glycerin, Betaine, 1,2-Hexanediol, Helianthus Annuus Seed Oil, Tocopherol, Alpha-Isomethyl Ionone, Benzoic Acid, Caramel, Cetearyl Glucoside, Citral, Citric Acid, Citronellol, Coumarin, Fragrance (Parfum), Geraniol, Lactic Acid, LIMONENE 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "NUTRICIÓN Mascarilla nutritiva e iluminadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001197"
+     ],
+     "inci": "Water (Aqua), Cetyl Alcohol, Caprylic/Capric Triglyceride, Mangifera Indica Seed Butter, Behenamidopropyl Dimethylamine, Glycerin, Coco-Caprylate/Caprate, Cetearyl Alcohol, 1,2-Hexanediol, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Sclerotium Gum, Terpineol, Tocopherol, Yellow 5 (CI 19140), YELLOW 6 (CI 15985) 98 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "PURIFICANTE CON COLOR Champú seco con ortiga y vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396416"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Alcohol, Isobutane, Zea Mays Starch, Urtica Dioica Leaf Extract, Tocopheryl Acetate, Cellulose, Citric Acid, Cyclodextrin, Fragrance (Parfum), Glycerin, Iron Oxides (Ci77491)(CI 77492) (CI 77499), Isopropyl Myristate, Magnesium Stearate, Microcrystalline Cellulose, Potassium Sorbate, Sodium Benzoate, Water (Aqua) 99 %"
+    },
+    {
+     "nombre": "PURIFICANTE Champú seco a la Ortiga & Vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396362"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Alcohol, Isobutane, Zea Mays Starch, Urtica Dioica Leaf Extract, Tocopheryl Acetate, Cellulose, Citric Acid, Cyclodextrin, Fragrance (Parfum), Glycerin, Isopropyl Myristate, Magnesium Stearate, Microcrystalline Cellulose, Potassium Sorbate, Sodium Benzoate, Water (Aqua) 99%"
+    },
+    {
+     "nombre": "Parches de ojos alisadores hidro-gel al Aciano BIO & Ácido hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396850"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Pentylene Glycol, Algin, Butylene Glycol, Centaurea Cyanus Flower Water, Sodium Hyaluronate, Blue 1 (CI 42090), Calcium Sulfate Hydrate, Hesperidin Methyl Chalcone, Polyglyceryl-4 Caprate, Sodium Dextran Sulfate, Tetrasodium Glutamate Diacetate, Tetrasodium Pyrophosphate, Tocopheryl Acetate, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770399394"
+     ],
+     "inci": "Water (Aqua), Cetearyl Alcohol, Ethylhexyl Palmitate, Dicaprylyl Carbonate, Behenamidopropyl Dimethylamine, Theobroma Grandiflorum Seed Butter, 1,2-Hexanediol, Tocopheryl Acetate, Sodium Hyaluronate, Benzoic Acid, Cetearyl Glucoside, Fragrance (Parfum), Helianthus Annuus Seed Oil, Lactic Acid, Polyquaternium-39, Sodium Benzoate, TOCOPHEROL 96% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "SOS Sérum calmante a la Peonía BIO",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770147797"
+     ],
+     "inci": "Water (Aqua), Pentylene Glycol, Betaine, Glycerin, Oleth-10, Propylene Glycol, Paeonia Lactiflora Root Extract, Caprylyl Glycol, Fragrance (Parfum), Tocopherol"
+    },
+    {
+     "nombre": "Spray desenredante a la Miel de acacia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770207934"
+     ],
+     "inci": "Water (Aqua), Propylene Glycol, Cetrimonium Chloride, Chamomilla Recutita Flower Extract, Fragrance (Parfum), Honey (Mel), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, PEG-40 Hydrogenated Castor Oil, Polyquaternium-10, PPG-26-Buteth-26, TETRASODIUM EDTA 92 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Spray para el cambio de pañal Eryteal 3 en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770200058"
+     ],
+     "inci": "Water (Aqua), Glycerin, Olea Europaea Fruit Oil, Carthamus Tinctorius Seed Oil, Ricinus Communis Seed Oil, Zinc Oxide, Glyceryl Linoleate, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, C12-20 Alkyl Glucoside, C14-22 Alcohols, Calendula Officinalis Flower Extract, Citric Acid, Ethylhexyl Palmitate, Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glyceryl Stearate, Glycine Soja Oil, Sclerotium Gum, Sodium Hydroxide, Tocopherol, Zinc Sulfate"
+    },
+    {
+     "nombre": "Spray solar sublime SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206517"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, C10 -18 Triglycerides, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Citric Acid, Decyl Glucoside, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glycine Soja Oil, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Spray solar sublime SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206524"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, C10 -18 Triglycerides, Calophyllum Inophyllum Seed Oil, Cocos Nucifera Oil, Gardenia Taitensis Flower, Benzoic Acid, Caprylyl Glycol, Citric Acid, Decyl Glucoside, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glycine Soja Oil, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Sérum concentrado hidrorrellenador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770395686"
+     ],
+     "inci": "Water (Aqua), Glycerin, Propanediol, Butylene Glycol, Centaurea Cyanus Flower Water, 1,2-Hexanediol, Alcohol Denat., Sodium Dextran Sulfate, Sodium Hyaluronate, Betaine, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Fragrance (Parfum), Leontopodium Alpinum Flower/Leaf Extract, Sclerotium Gum, Sodium Citrate, Tapioca Starch, TOCOPHEROL 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Toallitas corporales suaves",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770105001"
+     ],
+     "inci": "Water (Aqua), Glycerin, PEG-40 Hydrogenated Castor Oil, Calendula Officinalis Flower Extract, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Isoleucine, Polysorbate 80, Propylene Glycol, SODIUM BENZOATE 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Toallitas limpiadoras con agua",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401431"
+     ],
+     "inci": "Water (Aqua), Glycerin, PEG-40 Hydrogenated Castor Oil, Calendula Officinalis Flower Extract, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Isoeugenyl Acetate, Isoleucine, Linalyl Acetate, Polysorbate 80, Propylene Glycol, SODIUM BENZOATE 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "VOLUMEN Champú seco texturizante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001098"
+     ],
+     "inci": "Butane, Propane, Oryza Sativa Starch, Alcohol, Isobutane, Zea Mays Starch, Cellulose, Cyclodextrin, Fragrance (Parfum), Iron Oxides (CI 77491, CI 77492, CI 77499), Isopropyl Myristate, Linum Usitatissimum Seed Extract, Magnesium Stearate, Microcrystalline Cellulose, Propylene Glycol, Water (Aqua) 99%"
+    }
+   ]
+  },
+  {
+   "key": "aderma",
+   "nombre": "A-Derma",
+   "productos": [
+    {
+     "nombre": "Agua micelar dermatológica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146578"
+     ],
+     "inci": "Water (Aqua), Glycerin, Pentylene Glycol, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate Hcl, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, TARAXACUM OFFICINALE (DANDELION) RHIZOME/ROOT EXTRACT (TARAXACUM OFFICINALE RHIZOME/ROOT EXTRACT) 100% de ingredientes naturales"
+    },
+    {
+     "nombre": "Biology AC Agua micelar limpiadora purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770153033"
+     ],
+     "inci": "Water (Aqua), Glycerin, Pentylene Glycol, Garcinia Mangostana Peel Extract, Avena Sativa Flower/Leaf/Stem Juice, Taraxacum Officinale Rhizome/Root Extract, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate Hcl, Fragrance (Parfum), Maltodextrin, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate"
+    },
+    {
+     "nombre": "Biology AC Crema compensadora ultracalmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770388855"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Pentylene Glycol, Behenyl Alcohol, Glyceryl Stearate, Hydrogenated Vegetable Oil, Microcrystalline Cellulose, Cetearyl Glucoside, Simmondsia Chinensis Seed Oil, Garcinia Mangostana Peel Extract, Avena Sativa Flower/Leaf/Stem Juice, Sodium Hyaluronate, Taraxacum Officinale Rhizome/Root Extract, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Fragrance (Parfum), Glyceryl Caprylate, Helianthus Annuus Seed Oil, Maltodextrin, Sodium Benzoate, Sodium Stearoyl Glutamate, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology AC Cuidado matificante antiimperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770388916"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Pentylene Glycol, Behenyl Alcohol, Microcrystalline Cellulose, Lactic Acid, Cetearyl Glucoside, Glyceryl Stearate, Simmondsia Chinensis Seed Oil, Garcinia Mangostana Peel Extract, Avena Sativa Flower/Leaf/Stem Juice, Hibiscus Sabdariffa Flower Extract, Sodium Hyaluronate, Taraxacum Officinale Rhizome/Root Extract, Aloe Barbadensis Leaf Juice Powder, Fragrance (Parfum), Helianthus Annuus Seed Oil, Maltodextrin, Sodium Benzoate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology AC Fluido antiimperfecciones antimarcas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770388886"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Pentylene Glycol, Glyceryl Stearate, Cetearyl Alcohol, Behenyl Alcohol, Microcrystalline Cellulose, Lactic Acid, Simmondsia Chinensis Seed Oil, Garcinia Mangostana Peel Extract, Sodium Hyaluronate, Avena Sativa Flower/Leaf/Stem Juice, Hibiscus Sabdariffa Flower Extract, Taraxacum Officinale Rhizome/Root Extract, Aloe Barbadensis Leaf Juice Powder, Cetearyl Glucoside, Fragrance (Parfum), Helianthus Annuus Seed Oil, Maltodextrin, Sclerotium Gum, Sodium Benzoate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology AC Gel espumoso limpiador purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770153002"
+     ],
+     "inci": "Water (Aqua), Disodium Coco-Glucoside Citrate, Decyl Glucoside, Glycerin, Pentylene Glycol, Sodium Cocoamphoacetate, Garcinia Mangostana Peel Extract, Avena Sativa Flower/Leaf/Stem Juice, Taraxacum Officinale Rhizome/Root Extract, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Fragrance (Parfum), Maltodextrin, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Chloride, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology Espuma limpiadora dermatológica hidraprotectora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770154085"
+     ],
+     "inci": "Water (Aqua), Glycerin, Propanediol, Pentylene Glycol, Sodium Cocoyl Glutamate, Decyl Glucoside, Sodium Cocoamphoacetate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, Citric Acid, Sodium Chloride, Sodium Stearoyl Glutamate, TARAXACUM OFFICINALE (DANDELION) RHIZOME/ROOT EXTRACT (TARAXACUM OFFICINALE RHIZOME/ROOT EXTRACT) 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology Sérum 3 en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770389333"
+     ],
+     "inci": "Water (Aqua), Glycerin, Pentylene Glycol, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, Caprylyl Glycol, Sodium Benzoate, TARAXACUM OFFICINALE (DANDELION) RHIZOME/ROOT EXTRACT (TARAXACUM OFFICINALE RHIZOME/ROOT EXTRACT) 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Biology Sérum de vitamina C estabilizada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770393224"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ascorbyl Glucoside, Pentylene Glycol, Avena Sativa Flower/Leaf/Stem Juice, Aloe Barbadensis Leaf Juice Powder, Caprylyl Glycol, Citric Acid, Sclerotium Gum, Sodium Benzoate, Sodium Citrate, Sodium Hydroxide, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Bálsamo Labial DERMALIBOUR+ CICA-Reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143683"
+     ],
+     "inci": "Ricinus Communis Seed Oil, Water (Aqua), Butyrospermum Parkii Oil, Glycerin, Simmondsia Chinensis Seed Oil, Beeswax (Cera Alba), Polyglyceryl-2 Dipolyhydroxystearate, Butyrospermum Parkii Butter, Disteardimonium Hectorite, Magnesium Sulfate, Avena Sativa Leaf/Stem Extract, Zinc Sulfate, Benzoic Acid, Glycyrrhetinic Acid, Helianthus Annuus Seed Oil, Hydroxycapric Acid, Tocopherol, XANTHAN GUM 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema hidratante ligera dermatológica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146646"
+     ],
+     "inci": "Water (Aqua), Dicaprylyl Carbonate, Glycerin, Pentylene Glycol, C14-22 Alcohols, Behenyl Alcohol, Helianthus Annuus Seed Oil, Citrus Aurantium Dulcis Fruit Water, Hydrogenated Vegetable Oil, Sodium Stearoyl Glutamate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, C12-20 Alkyl Glucoside, Citric Acid, Glyceryl Caprylate, Sclerotium Gum, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema hidratante para manos y uñas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770154276"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Pentylene Glycol, Behenyl Alcohol, Glyceryl Stearate, Hydrogenated Vegetable Oil, Microcrystalline Cellulose, Cetearyl Glucoside, Simmondsia Chinensis Seed Oil, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, Citric Acid, Fragrance (Parfum), Glyceryl Caprylate, Helianthus Annuus Seed Oil, Sodium Benzoate, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema reparadora calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770209495"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii Butter, Dimethicone, Cetearyl Alcohol, Glyceryl Stearatepalmitic Acid, Stearic Acid, Sodium Hyaluronate, Avena Sativa Leaf/Stem Extract, Alanyl Glutamine, Uncaria Tomentosa Extract, Batyl Alcohol, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Dimethiconol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Acetate, XANTHAN GUM 94% de ingredientes naturales"
+    },
+    {
+     "nombre": "Crema rica dermatológica hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146615"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Pentylene Glycol, Behenyl Alcohol, Argania Spinosa Kernel Oil, Cetearyl Glucoside, Citrus Aurantium Dulcis Fruit Water, Glyceryl Stearate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, Citric Acid, Glyceryl Caprylate, Helianthus Annuus Seed Oil, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Crema solar SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770072716"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Pentaerythrityl Tetracaprylate/Tetracaprate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Butylene Glycol, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Decyl Glucoside, C10-18 Triglycerides, Glyceryl Stearate, PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Amyl Salicylate, Avena Sativa Sprout Oil, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus Seed Oil, Isoeugenyl Acetate, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Tribehenin, Trideceth-6, Xanthan Gum"
+    },
+    {
+     "nombre": "Crema solar facial SPF 50+ sin perfume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770202120"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Caprylic/Capric Triglyceride, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Glycerin, Silica, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Decyl Glucoside, 1,2-Hexanediol, VP/Eicosene Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Carbomer, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus Seed Oil, Propylene Glycol, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Cuidado dermatológico antirrojeces",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146691"
+     ],
+     "inci": "Water (Aqua), Glycerin, Dicaprylyl Carbonate, Pentylene Glycol, C14-22 Alcohols, Butylene Glycol, Helianthus Annuus Seed Oil, Behenyl Alcohol, Citrus Aurantium Dulcis Fruit Water, Sodium Stearoyl Glutamate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, C12-20 Alkyl Glucoside, Citric Acid, Citrus Reticulata Peel Extract, Glyceryl Caprylate, Sclerotium Gum, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Cuidado dermatológico calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146677"
+     ],
+     "inci": "Water (Aqua), Glycerin, Dicaprylyl Carbonate, Pentylene Glycol, C14-22 Alcohols, Helianthus Annuus Seed Oil, Behenyl Alcohol, Citrus Aurantium Dulcis Fruit Water, Sodium Stearoyl Glutamate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, C12-20 Alkyl Glucoside, Citric Acid, Cola Nitida Seed Extract, Glyceryl Caprylate, Sclerotium Gum, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Cuidado dermatológico nutritivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146714"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, C14-22 Alcohols, Pentylene Glycol, Dicaprylyl Carbonate, Carthamus Tinctorius Seed Oil, Argania Spinosa Kernel Oil, Citrus Aurantium Dulcis Fruit Water, Sodium Stearoyl Glutamate, Acacia Senegal Gum, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, C12-20 Alkyl Glucoside, Citric Acid, Glyceryl Caprylate, Helianthus Annuus Seed Oil, Sclerotium Gum, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Cutalgan Roll-on efecto refrescante ultracalmante (ref. 388848)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770388848"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Uncaria Tomentosa Extract, Avena Sativa Leaf/Stem Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Carbomer, Propylene Glycol, Sclerotium Gum, SODIUM HYDROXIDE 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Cutalgan Roll-on efecto refrescante ultracalmante (ref. 401929)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401929"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Uncaria Tomentosa Extract, Avena Sativa Leaf/Stem Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Carbomer, Propylene Glycol, Sclerotium Gum, SODIUM HYDROXIDE 98% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Dermalibour+ CICA-Crema reparadora purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770141962"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Vegetable Oil, Polyglyceryl-2 Dipolyhydroxystearate, Zinc Oxide, Magnesium Sulfate, Polyglyceryl-3 Diisostearate, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Copper Sulfate, Helianthus Annuus Seed Oil, Simmondsia Chinensis Seed Oil, Tocopherol, ZINC SULFATE 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Dermalibour+ CICA-Gel espumoso purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770145021"
+     ],
+     "inci": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Decyl Glucoside, Zinc Coceth Sulfate, Disodium Laureth Sulfosuccinate, Avena Sativa Leaf/Stem Extract, Copper Sulfate, Zinc Sulfate, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Maleic Acid, Sodium Benzoate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 90 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Dermalibour+ Crema aislante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770390995"
+     ],
+     "inci": "Water (Aqua), Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycolhydrogenated Vegetable Oil, PEG-30 Dipolyhydroxystearate, Isododecane, Zea Mays (Corn) Starch(Zea Mays Starch), Zinc Oxide, PEG-22/Dodecyl Glycol Copolymer, Beeswax (Cera Alba), Avena Sativa Leaf/Stem Extract, Cetyl Alcohol, Citric Acid, Copper Sulfate, Glyceryl Stearate, Magnesium Sulfate, O-Cymen-5-Ol, Sodium Hydroxide, Xanthan Gum, Zinc Sulfate"
+    },
+    {
+     "nombre": "Epitheliale A.H Bálsamo-parche reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770393712"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Vegetable Oil, Water (Aqua), Simmondsia Chinensis Seed Oil, Butyrospermum Parkii Butter, Sucrose Laurate, Avena Sativa Leaf/Stem Extract, Citric Acid, Helianthus Annuus Seed Oil, Sodium Citrate, Sodium Hyaluronate, Theobroma Grandiflorum Seed Butter, Tocopherol, UNCARIA TOMENTOSA EXTRACT 100% ingredientes de origen natural"
+    },
+    {
+     "nombre": "Epitheliale A.H Gel-aceite de masaje anti-marcas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144222"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Glycerin, Water (Aqua), Olea Europaea Fruit Oil, Sucrose Laurate, Tocopheryl Acetate, Alanyl Glutamine, Avena Sativa Leaf/Stem Extract, SODIUM HYALURONATE 98 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Epitheliale A.H Ultra Repair Crema reparadora antimarcas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398632"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii Butter, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate, Palmitic Acid, Sodium Hyaluronate, Stearic Acid, Avena Sativa Leaf/Stem Extract, Alanyl Glutamine, Uncaria Tomentosa Extract, Batyl Alcohol, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Dimethiconol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Epitheliale A.H Ultra Repair Crema reparadora antimarcas SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398700"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Cetearyl Isononanoate, Diisopropyl Adipate, Isodecyl Neopentanoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Panthenol, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Methyl Gluceth-20, Sorbitol, Decyl Glucoside, C10-18 Triglycerides, Sodium Hyaluronate, Avena Sativa Leaf/Stem Extract, Alanyl Glutamine, Uncaria Tomentosa Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Pantolactone, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Hydroxide, Tribehenin, Trideceth-6, Xanthan Gum"
+    },
+    {
+     "nombre": "Esenciales Crema de ducha hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396560"
+     ],
+     "inci": "Water (Aqua), Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Disodium Cocoamphodiacetate, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Avena Sativa Kernel Extract, Caprylyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Glycol Distearate, Hydrogenated Vegetable Glycerides Citrate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 93 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Esenciales Gel de ducha sobregraso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396539"
+     ],
+     "inci": "Water (Aqua), Glycerin, Sorbitol, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Disodium Cocoamphodiacetate, Polysorbate 20, Avena Sativa Kernel Extract, Caprylyl Glycol, Caramel, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Propylene Glycol, Sodium Benzoate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 90 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Esenciales Pan dermatólogico calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398625"
+     ],
+     "inci": "Disodium Lauryl Sulfosuccinate, Maltodextrin, Sodium Cocoyl Isethionate, Water (Aqua), Avena Sativa Kernel Flour, Palmitic Acid, Stearic Acid, Cetearyl Alcohol, Paraffin, Prunus Amygdalus Dulcis Oil, Ceteareth-6, PEG-45 Palm Kernel Glycerides, Citric Acid, Microcrystalline Wax (Cera Microcristallina), Titanium Dioxide (CI 77891)"
+    },
+    {
+     "nombre": "Exomega Allergo - Bálsamo Emoliente Antirrascado De Cosmética Estéril",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770149814"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Niacinamide, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Cetearyl Glucoside, Cetyl Alcohol, Glyceryl Stearate, Oenothera Biennis Oil, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Aceite de ducha emoliente anti-irritación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770388701"
+     ],
+     "inci": "Water (Aqua), Glycerin, Hydrogenated Starch Hydrolysate, Coco-Glucoside, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Ceteareth-60 Myristyl Glycol, PEG-40 Hydrogenated Castor Oil, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Lauric Acid, Magnesium Oxide, Oenothera Biennis Oil, PEG-120 Methyl Glucose Dioleate, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Lauroyl Methyl Isethionate, Sodium Methyl Isethionate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 91% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Aceite limpiador emoliente antipicor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770393859"
+     ],
+     "inci": "Water (Aqua), Glycerin, Hydrogenated Starch Hydrolysate, Coco-Glucoside, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Ceteareth-60 Myristyl Glycol, PEG-40 Hydrogenated Castor Oil, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Lauric Acid, Magnesium Oxide, Oenothera Biennis Oil, PEG-120 Methyl Glucose Dioleate, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Lauroyl Methyl Isethionate, Sodium Methyl Isethionate, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 91 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Baño calmante antipicor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770396904"
+     ],
+     "inci": "Water (Aqua), Glycerin, Olive Oil Glycereth-8 Esters, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, BHT, Caprylyl Glycol, Fragrance (Parfum), Oenothera Biennis Oil, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbic Acid, Sorbitan Isostearate, Tocopherol, Xanthan Gum 96%"
+    },
+    {
+     "nombre": "Exomega Control Bálsamo emoliente antiirritación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770149715"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Niacinamide, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Carbomer, Cetearyl Glucoside, Glyceryl Stearate, Oenothera Biennis Oil, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Bálsamo palpebral calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401158"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Niacinamide, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Glyceryl Stearate, Helianthus Annuus Seed Oil, Helichrysum Gymnocephalum Flower/Leaf/Stem Extract, Maltodextrin, Oenothera Biennis Oil, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Crema de noche emoliente reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397673"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Niacinamide, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Glyceryl Stearate, Helianthus Annuus Seed Oil, Helichrysum Gymnocephalum Flower/Leaf/Stem Extract, Maltodextrin, Oenothera Biennis Oil, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate 97%"
+    },
+    {
+     "nombre": "Exomega Control Crema emoliente antirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770149685"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Niacinamide, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Glyceryl Stearate, Oenothera Biennis Oil, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Gel limpiador calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401165"
+     ],
+     "inci": "Water (Aqua), Glycerin, Sorbitol, Coco-Glucoside, Sodium Cocoamphoacetate, Zinc Coceth Sulfate, Citric Acid, Ceteareth-60 Myristyl Glycol, PEG-40 Hydrogenated Castor Oil, Sodium Lauroyl Methyl Isethionate, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Glyceryl Oleate, Helianthus Annuus Seed Oil, Helichrysum Gymnocephalum Flower/Leaf/Stem Extract, Hydrogenated Vegetable Glycerides Citrate, Maltodextrin, Oenothera Biennis Oil, PEG-120 Methyl Glucose Dioleate, Propylene Glycol, Sodium Benzoate, Sodium Citrate, Sodium Hydroxide, Tocopherol, TRISODIUM ETHYLENEDIAMINE DISUCCINATE 91% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Gel-crema calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770401172"
+     ],
+     "inci": "Water (Aqua), Glycerin, C9-12 Alkane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride, Isocetyl Stearoyl Stearate, Niacinamide, Polyglyceryl-10 Myristate, 1,2-Hexanediol, 10-Hydroxydecenoic Acid, Avena Sativa Sprout Oil, Caprylyl Glycol, Citric Acid, Coco-Caprylate/Caprate, Ethylhexylglycerin, Helianthus Annuus Seed Oil, Helichrysum Gymnocephalum Flower/Leaf/Stem Extract, Maltodextrin, Polysorbate 60, Sodium Citrate, Sodium Hyaluronate, Sorbitan Isostearate, Squalane, Tocopherol, XANTHAN GUM 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Leche emoliente antiirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770149746"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Glyceryl Stearate, Niacinamide, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Carbomer, Cetearyl Alcohol, Cetearyl Glucoside, Oenothera Biennis Oil, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, TOCOPHERYL ACETATE 95% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Protector solar emoliente SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770397765"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Pentaerythrityl Tetracaprylate/Tetracaprate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Butylene Glycol, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Decyl Glucoside, C10-18 Triglycerides, Glyceryl Stearate, PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Avena Sativa Sprout Oil, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus Seed Oil, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Tribehenin, Trideceth-6, Xanthan Gum"
+    },
+    {
+     "nombre": "Exomega Control Spray emoliente antirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770149784"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-2 Dipolyhydroxystearate, Butyrospermum Parkii Butter, Niacinamide, 10-Hydroxydecenoic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Lauryl Glucoside, Nitrogen, Oenothera Biennis Oil, Sodium Citrate, Sodium Hydroxide, Sodium Lauryl Glucose Carboxylate, Sorbic Acid, Tocopherol, Tocopheryl Acetate, XANTHAN GUM 97 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Exomega Control Sérum ultracalmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771002040"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Caprylyl Glycol, Carbomer, Helichrysum Gymnocephalum Flower/Leaf/Stem Extract, Maltodextrin, PEG-30 Dipolyhydroxystearate, Sclerotium Gum, Sodium Hydroxide, UNCARIA TOMENTOSA EXTRACT 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Fluido solar facial invisible SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770202144"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Diisopropyl Adipate, Isodecyl Neopentanoate, Silica, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Potassium Cetyl Phosphate, Butyl Methoxydibenzoylmethane, Decyl Glucoside, 1,2-Hexanediol, C10-18 Triglycerides, VP/Eicosene Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Amyl Salicylate, Avena Sativa Sprout Oil, Benzoic Acid, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Glyceryl Stearate, Helianthus Annuus Seed Oil, Isoeugenyl Acetate, PEG-100 Stearate, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Tocopherol, Tocopheryl Acetate, Tribehenin, Trideceth-6, Xanthan Gum"
+    },
+    {
+     "nombre": "Fluido solar facial matificante SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770072754"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Cetearyl Isononanoate, Diisopropyl Adipate, Isodecyl Neopentanoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, Decyl Glucoside, C10-18 Triglycerides, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Amyl Salicylate, Avena Sativa Sprout Oil, Benzoic Acid, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glutamic Acid, Glyceryl Behenate, Glyceryl Dibehenate, Isoeugenyl Acetate, PEG-30 Dipolyhydroxystearate, Propylene Glycol, Silica [Nano], Sodium Hydroxide, Tocopheryl Acetate, Tribehenin, Trideceth-6, Xanthan Gum"
+    },
+    {
+     "nombre": "Gel espumoso emoliente anti-irritación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770143744"
+     ],
+     "inci": "Water (Aqua), Disodium Cocoamphodiacetate, PEG-7 Glyceryl Cocoate, Decyl Glucoside, Polysorbate 20, Sodium Chloride, Ceteareth-60 Myristyl Glycol, Hydrogenated Starch Hydrolysate, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Benzoic Acid, Citric Acid, Glyceryl Laurate, Lactic Acid, Maltodextrin, Oenothera Biennis Oil, Tocopherol"
+    },
+    {
+     "nombre": "Gel limpiador emoliente 2 en 1 antiirritación",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770144314"
+     ],
+     "inci": "Water (Aqua), Glycerin, Coco-Glucoside, Ceteareth-60 Myristyl Glycol, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Polysorbate 20, PEG-40 Hydrogenated Castor Oil, Glyceryl Oleate, Citric Acid, 10-Hydroxydecenoic Acid, Avena Sativa Leaf/Stem Extract, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Hydrogenated Vegetable Glycerides Citrate, Laureth-3, Magnesium Oxide, Maleic Acid, Oenothera Biennis Oil, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, TOCOPHEROL 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Gel limpiador purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770037029"
+     ],
+     "inci": "Water (Aqua), Sodium Cocoamphoacetate, Disodium Cocoyl Glutamate, Sodium Chloride, PEG-120 Methyl Glucose Dioleate, Avena Sativa Leaf/Stem Extract, Glutamic Acid, Glycyrrhetinic Acid, Caprylyl Glycol, Ceteareth-60 Myristyl Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Green 5 (CI 61570), Hydrogenated Palm Glycerides Citrate, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Sodium Benzoate, TOCOPHEROL 86% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Leche desmaquillante dermatológica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770146530"
+     ],
+     "inci": "Water (Aqua), Glycerin, Dicaprylyl Carbonate, Pentylene Glycol, C14-22 Alcohols, Behenyl Alcohol, Sodium Stearoyl Glutamate, Aloe Barbadensis Leaf Juice Powder, Avena Sativa Flower/Leaf/Stem Juice, C12-20 Alkyl Glucoside, Citric Acid, Coco-Glucoside, Glyceryl Caprylate, Helianthus Annuus Seed Oil, Sodium Benzoate, Taraxacum Officinale Rhizome/Root Extract, Tocopherol, XANTHAN GUM 99% de ingredientes naturales"
+    },
+    {
+     "nombre": "Loción reparadora hidratante aftersun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770072778"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Isopropyl Palmitate, Propylene Glycol, C14-22 Alcohols, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Amyl Salicylate, Avena Sativa Sprout Oil, Benzoic Acid, C12-20 Alkyl Glucoside, C20-22 Alcohols, C20-22 Alkyl Phosphate, Caprylyl Glycol, Fragrance (Parfum), Isoeugenyl Acetate, Polysorbate 60, Sodium Hyaluronate, Sodium Hydroxide, Sorbitan Isostearate, Squalane, Tocopheryl Acetate, Xanthan Gum"
+    },
+    {
+     "nombre": "Loción solar SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770110234"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Loción solar infantil SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770110258"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Protect Spray solar invisible SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398250"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Amyl Salicylate, Avena Sativa Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus Seed Oil, Isoeugenyl Acetate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Protect Spray solar invisible para niños SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770398267"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Spray emoliente antirrascado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770139181"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-2 Dipolyhydroxystearate, Butyrospermum Parkii Butter, Niacinamide, Avena Sativa Leaf/Stem Extract, Oenothera Biennis Oil, 10-Hydroxydecenoic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Lauryl Glucoside, Sodium Citrate, Sodium Hydroxide, Sodium Lauryl Glucose Carboxylate, Sorbic Acid, Tocopherol, Tocopheryl Acetate, XANTHAN GUM 97% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Spray refrescante ultracalmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770209648"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Uncaria Tomentosa Extract, Avena Sativa Leaf/Stem Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acidcaprylyl Glycol, Carbomer, Propylene Glycol, Sclerotium Gum, SODIUM HYDROXIDE 99% de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Spray secante y calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770104783"
+     ],
+     "inci": "Water (Aqua), Zinc Oxide, Hydrogenated Starch Hydrolysate, Acrylates/Vinyl Isodecanoate Crosspolymer, Avena Sativa Leaf/Stem Extract, Benzyl Alcohol, SODIUM HYDROXIDE 99 % de ingredientes de origen natural"
+    },
+    {
+     "nombre": "Spray solar SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770072730"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Spray solar infantil SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770072747"
+     ],
+     "inci": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Isononanoate, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Decyl Glucoside, C10-18 Triglycerides, Avena Sativa (Oat) Sprout Oil, Benzoic Acid, Caprylyl Glycol, Citric Acid, Disodium EDTA, Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum"
+    },
+    {
+     "nombre": "Stick labial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770030174"
+     ],
+     "inci": "Octyldodecanol, Isopropyl Palmitate, Hydrogenated Castor Oil, Cetyl Esters, Beeswax (Cera Alba), Bis-Diglyceryl Polyacyladipate-2, Cetearyl Ethylhexanoate, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Avena Sativa Kernel Flour, Copernicia Cerifera (Carnauba) Wax (Cera Carnauba), Polyethylene, Hydrogenated Polyisobutene, Tocopheryl Acetate, Fragrance (Parfum), Isopropyl Myristate, Panthenol, Propylene Glycol"
+    },
+    {
+     "nombre": "Stick reparador purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770105872"
+     ],
+     "inci": "Mineral Oil (Paraffinum Liquidum), Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Hydrogenated Castor Oil, Isopropyl Palmitate, Beeswax (Cera Alba), Bis-Diglyceryl Polyacyladipate-2, Zinc Oxide, Cetyl Esters, Hydrogenated Polyisobutene, Polyethylene, Water (Aqua), Avena Sativa Leaf/Stem Extract, BHT, Copper Sulfate, Propylene Glycol, Zinc Sulfate"
+    },
+    {
+     "nombre": "Stick solar invisible SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282770206210"
+     ],
+     "inci": "Octyldodecanol, Polyethylene, Butylene Glycol Cocoate, Microcrystalline Wax (Cera Microcristallina), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Beeswax (Cera Alba), Hydrogenated Castor Oil, Avena Sativa Sprout Oil, Aluminum Hydroxide, Disodium Stearoyl Glutamate, Saccharin, Titanium Dioxide (CI 77891)"
     }
    ]
   }

@@ -1285,6 +1285,26 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Ducray, Klorane y A-Derma (Pierre Fabre) — cerradas 2026-09-24: 228 productos, 228 códigos (de 241 fichas)
+Las tres webs (`ducray.com/es-es`, `klorane.com/es-es`, `aderma.es`) son la misma plataforma
+que Avène: `product.xml` en el sitemap, **EAN en la URL** (`/p/<slug>-<EAN>-<hash>`), INCI
+en el panel `composition_inci`, nombre en el h1. Mismos scripts (`avene.py`, `gen_avene.py`
+parametrizado en `pf/gen_pf.py`), con dos añadidos en `pf/prep.py`:
+- **Klorane marca los ingredientes BIO con un asterisco** ("Water (Aqua)*"): se quita antes
+  de comparar, porque partía el nombre y hacía que la lista pareciera rara.
+- **Ducray y A-Derma no ponen la gama en el título** ("Champú de tratamiento anticaspa",
+  "Crema calmante"): se antepone la gama sacada de la URL (Kelual DS, Keracnyl, Melascreen,
+  Ictyane, Dexyane MeD…; Exomega Control, Epitheliale A.H, Biology AC, Dermalibour+…) para
+  que el nombre identifique el producto. Klorane ya lleva la planta en el título.
+- Ducray 59 de 62 (fuera: dos Anacaps, que son complementos alimenticios, y una segunda ficha
+  de Dexyane MeD sin lista) · Klorane 105 de 109 (fuera: tres sin lista y la mascarilla
+  Hidratación & Brillo, cuya ficha trae la lista en chino) · A-Derma 64 de 64.
+- Dos fichas vivas con el mismo nombre y distinta fórmula, separadas por referencia como en
+  Avène: Dexyane MeD Palpebral, Cutalgan roll-on, Klorane crema de ducha de cupuaçu.
+- Los `3282…` que aparecen además en cada ficha son enlaces cruzados de la web, no otros
+  tamaños: se ignoran (igual que en Avène).
+Datos: `pf/<marca>_db.json` (crudo), `pf/<marca>_db2.json` (preparado), `pf/<marca>_new.json`.
+
 ### Pantene, Head & Shoulders, Herbal Essences y Aussie (P&G, haircode.es) — cerradas 2026-09-23: 43 productos, 43 códigos (de 46 fichas)
 **La premisa de la cola era otra vía y no vale para champús**: info-pg.com (el circuito de
 Fairy) es solo la web del Reglamento 648/2004, y para España lista 20 marcas de limpieza,
@@ -1621,6 +1641,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Ducray · Klorane · A-Derma | sí (`product.xml`: 67 · 110 · 64) | sí, **en la URL** | sí (`composition_inci`) | plataforma de Avène; gama desde la URL en Ducray y A-Derma; ver su apartado |
 | ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
 | Bioderma | sí (108 fichas) | no; `barcode` en el JSON de SkinLovers | **no**; SkinLovers e incidecoder | dos fuentes idénticas o nada (50 códigos); antes incidecoder + foto de OBF; ver sus apartados |
 | Sesderma | sí (~120 fichas ES) | no; Douglas ES y SkinLovers | no; SkinLovers, Douglas e incidecoder | dos fuentes idénticas o nada (11 códigos); ver su apartado |
@@ -1674,14 +1695,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-23)
-3946 códigos en 45 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · CeraVe 73 ·
-**ISDIN 68** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
+## Estado (2026-09-24)
+4174 códigos en 48 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Klorane 105** · CeraVe 73 ·
+**ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2544 productos está sin INCI. Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 2772 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
