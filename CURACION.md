@@ -1333,7 +1333,10 @@ española, es.davines.com**.
 - Douglas ES no vende Davines: no hay segunda fuente, vale la web de la marca sola.
 - Nombre: el de la marca (en inglés, con la gama en mayúsculas como la escribe Davines) +
   tipo en español + tamaños con la misma lista juntos. Errata corregida: "2-Bromo-2
-  -Nitropropane-1,3-Diol" (bronopol, Purifying Shampoo).
+  -Nitropropane-1,3-Diol" (bronopol, Purifying Shampoo). **La web española pega palabras**
+  ("Basicbrown 17", "Hydrogenatedrapeseed Alcohol", "Glycerylolivate", "Disodiumedta"…,
+  14 casos): se separan en la versión 2026-09-24e (`PEGADAS` en `dv/es/gen.py`), buscadas
+  partiendo cada palabra desconocida en dos que ya existen en el resto del catálogo.
 Scripts: `dv/es/crawl.py`, `dv/es/gen.py` (y los de la web internacional en `dv/`).
 
 ### Haruharu Wonder (haruharuwonder.com) — abierta 2026-09-24: 29 productos, 40 códigos (de 45 fichas)
