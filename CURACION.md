@@ -769,6 +769,15 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-24 · Haruharu Wonder (Corea) — pedido de una usuaria — resuelto (versión 2026-09-24b)
+Una usuaria probó tres productos: escaneó el **Black Rice Bakuchiol Eye Cream 20 ml
+(8809532221523)**, que salía en Buscados como "está pero sin ingredientes", y subió a mano,
+sin código, el **Centella Phyto & 5 Peptide Concentrate Cream** y el **Black Rice
+Probiotics Barrier Essence**. Se abre la marca entera desde su web (ver su apartado). Las dos
+listas que subió la usuaria son **idénticas** a las oficiales (quitando las concentraciones en
+ppm); el catálogo las trae ahora con código: 8809532221790 y recarga 8809532221943 (crema) y
+8809532221967 / 8809532222131 (esencia 120 y 30 ml).
+
 ### 2026-09-18 · 8411582242320, escaneo sin nombre — identificado, NO entra (sin lista oficial)
 | Código | Producto | Resultado |
 |---|---|---|
@@ -1285,6 +1294,29 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Haruharu Wonder (haruharuwonder.com) — abierta 2026-09-24: 29 productos, 40 códigos (de 45 fichas)
+Marca coreana (códigos `8809532…`, prefijo 880 de Corea: vale, como Erborian). La web es la
+tienda Shopify de la marca y basta sola (misma regla que Nivea o Cocunat):
+- **EAN por tamaño** en `/products/<handle>.js` (`variants[].barcode`) y en el JSON-LD
+  (`gtin13`); `products.json` no lo trae.
+- **INCI completo** en el modal "Full Ingredients" de la ficha
+  (`#ingredientsModal … metafield-multi_line_text_field`).
+- Se quitan las concentraciones que la marca intercala ("(2,000ppm)", "(5%)"), que además
+  llevan comas y partirían la lista en la app. Erratas evidentes de la web corregidas
+  ("Sodium Chlori de", "Hydroxyethylcell ulose", "Cydodextrin", "catearyl Olivate",
+  "Ehtylhexylglycerin", "Sterois", "Zanthoxylum, Piperitum", "Cetearyl Alcohol C14-22
+  Alcohols" sin coma…).
+- Tamaños con la misma lista, juntos (tónicos 30/150/300 ml, esencia 30/120 ml, crema y su
+  recarga…). Los tres Peptide Glowy Balm van separados porque cambian los colorantes.
+- Nombre: gama (Black Rice, Centella, Black Bamboo, Rose PDRN) + nombre del producto + tipo
+  en español + tamaños.
+- **Fuera**: los dos solares Moisture Pure Mineral Relief (8809532221691) y Moisture Airyfit
+  (8809532221707), porque la web publica una lista pasada por OCR y estropeada
+  ("Propylheptyi", "Polyglycery1", "DibuyiAdipate Propanedial"…) y no se transcribe a ojo;
+  el 10 Hyaluronic Cream sin perfume (8809532221721), cuya "lista" es texto de marketing;
+  sets, cofres y accesorios sin código.
+Scripts: `hh/crawl.py`, `hh/gen.py`, datos en `hh/db.json`.
+
 ### Ducray, Klorane y A-Derma (Pierre Fabre) — cerradas 2026-09-24: 228 productos, 228 códigos (de 241 fichas)
 Las tres webs (`ducray.com/es-es`, `klorane.com/es-es`, `aderma.es`) son la misma plataforma
 que Avène: `product.xml` en el sitemap, **EAN en la URL** (`/p/<slug>-<EAN>-<hash>`), INCI
@@ -1641,6 +1673,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
 | Ducray · Klorane · A-Derma | sí (`product.xml`: 67 · 110 · 64) | sí, **en la URL** | sí (`composition_inci`) | plataforma de Avène; gama desde la URL en Ducray y A-Derma; ver su apartado |
 | ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
 | Bioderma | sí (108 fichas) | no; `barcode` en el JSON de SkinLovers | **no**; SkinLovers e incidecoder | dos fuentes idénticas o nada (50 códigos); antes incidecoder + foto de OBF; ver sus apartados |
@@ -1696,13 +1729,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4174 códigos en 48 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+4214 códigos en 49 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
-**SkinCeuticals 21** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
+**SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2772 productos está sin INCI. Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 2801 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
