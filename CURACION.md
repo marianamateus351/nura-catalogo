@@ -769,6 +769,22 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-24 · Davines OI — dos aportaciones de una usuaria — resuelto en parte (versión 2026-09-24c)
+Una usuaria subió a mano, sin código, **OI Shampoo** y **OI Hair Oil** de Davines. Se abre la
+marca entera desde su web (ver su apartado).
+- **OI Shampoo: la lista de la usuaria es idéntica a la oficial.** Entra en el catálogo con
+  sus tres códigos (280 ml 8004608247630, 90 ml 8004608247654, 500 ml 8004608294566).
+- **OI Oil: NO entra, espera la etiqueta.** La lista de la usuaria no es la de la web. La web
+  de Davines e incidecoder dan la corta (acaba en Citronellol, Mauritia Flexuosa, Geraniol,
+  Linalool, Alpha-Isomethyl Ionone, Limonene). La usuaria da una más larga con la fragancia
+  nueva de la gama OI: Hexamethylindanopyran (galaxólido), Eucalyptus, Acetyl Cedrene,
+  Terpineol, Methyl Salicylate, Lavandula, Camphor, Pelargonium, Linalyl Acetate. Es la misma
+  fragancia que ya lleva el OI Shampoo actual en la web, así que es muy probable que sea la
+  fórmula nueva y que la ficha del aceite vaya por detrás. La foto de OBF (8004608247593)
+  confirma el código pero no deja leer la lista, que va en el lateral. Con una foto del
+  lateral del envase se decide en un minuto: códigos 135 ml 8004608247593 y 50 ml
+  8004608247609.
+
 ### 2026-09-24 · Haruharu Wonder (Corea) — pedido de una usuaria — resuelto (versión 2026-09-24b)
 Una usuaria probó tres productos: escaneó el **Black Rice Bakuchiol Eye Cream 20 ml
 (8809532221523)**, que salía en Buscados como "está pero sin ingredientes", y subió a mano,
@@ -1294,6 +1310,25 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Davines (world.davines.com) — abierta 2026-09-24: 123 productos, 173 códigos (de 248 fichas)
+Tienda Shopify internacional de la marca (italiana, códigos `8004608…`). Web oficial sola:
+- **INCI completo** en la ficha (`specifics__list ingredients`), con una coletilla ("The
+  product information listed here might be subject to change…") que se quita.
+- **EAN por tamaño** en el JSON-LD de la ficha (`offers[].gtin13` junto a su `sku`), y
+  también en el nombre de la foto de cada tamaño (`Davines-<sku>-<nombre>-<EAN>-1.jpg`). Se
+  cruzan los dos: **7 tamaños de la gama SU dan un EAN distinto en cada sitio** (cambio de
+  envase, parece) y se quedan fuera; el resto coincide o solo tiene uno de los dos, siempre
+  atado al SKU del tamaño y con dígito de control válido. `products.json` no trae `barcode`.
+- 246 fichas con lista, pero solo 133 con EAN (las fotos de muchas fichas tienen nombres
+  aleatorios y su JSON-LD no lleva `gtin13`). Fuera además: kits, cofres y calendario de
+  adviento (9), el estuche de champú sólido y el OI Oil (ver PEDIDOS, 2026-09-24).
+- Douglas ES no vende Davines, así que no hay segunda fuente para contrastar.
+- Nombre: el de la marca (en inglés, con la gama en mayúsculas como la escribe Davines) +
+  tipo en español + tamaños con la misma lista juntos.
+- Se corrige una errata de la web: "2-Bromo-2 -Nitropropane-1,3-Diol" (bronopol, en el
+  Purifying Shampoo).
+Scripts: `dv/crawl.py` (fichas, JSON-LD y fotos), `dv/gen.py`; datos en `dv/db.json`.
+
 ### Haruharu Wonder (haruharuwonder.com) — abierta 2026-09-24: 29 productos, 40 códigos (de 45 fichas)
 Marca coreana (códigos `8809532…`, prefijo 880 de Corea: vale, como Erborian). La web es la
 tienda Shopify de la marca y basta sola (misma regla que Nivea o Cocunat):
@@ -1673,6 +1708,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Davines | Shopify `world.davines.com` (`products.json`, 248 fichas) | sí, `gtin13` + `sku` en el JSON-LD y en el nombre de la foto | sí, completo en la ficha | web oficial sola; ver su apartado |
 | Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
 | Ducray · Klorane · A-Derma | sí (`product.xml`: 67 · 110 · 64) | sí, **en la URL** | sí (`composition_inci`) | plataforma de Avène; gama desde la URL en Ducray y A-Derma; ver su apartado |
 | ISDIN | sí (310 fichas) | **no**; EAN en la API de Douglas ES y en el JSON de SkinLovers | sí | código solo si la lista de la tienda es idéntica a la ficha de isdin.com; ver su apartado |
@@ -1729,13 +1765,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4214 códigos en 49 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Klorane 105** · CeraVe 73 ·
+4387 códigos en 50 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 173** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2801 productos está sin INCI. Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 2924 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

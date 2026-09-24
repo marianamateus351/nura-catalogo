@@ -1,5 +1,5 @@
 {
- "version": "2026-09-24b",
+ "version": "2026-09-24c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -26967,6 +26967,1169 @@
       "8809532222445"
      ],
      "inci": "Water, Glycerin, Isopentyldiol, Niacinamide, Methyl Gluceth-20, 1,2-Hexanediol, Diphenyl Dimethicone, Triethylhexanoin, Panthenol, Butylene Glycol, Carbomer, Tromethamine, Polyglyceryl-10 Myristate, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dioscorea Japonica Root Extract, Sodium Polyacrylate, PVM/MA Copolymer, Adenosine, Hydrolyzed Corn Starch, Beta-Glucan, Hydrogenated Lecithin, Centella Asiatica Extract, Sucrose, Ficus Carica (Fig) Fruit Extract, Ceramide NP, Sodium DNA, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Squalane, Hyaluronic Acid, Azelaic Acid, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Sodium PCA, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate"
+    }
+   ]
+  },
+  {
+   "key": "davines",
+   "nombre": "Davines",
+   "productos": [
+    {
+     "nombre": "ALCHEMIC Conditioner Chocolate (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259046"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetylalcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsiachinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Disodiumedta, Hydroxyethylcellulose, Sodium Benzoate, Glyceryl Olivate, Hydrogenated Palmglycerides Citrate, Hydrogenated Rapeseed Alcohol, Sclerotium Gum, Citric Acid, Basicbrown 17, Basic Blue 99, Basic Brown 16, Acid Violet 43, Basic Red 76, Basic Yellow 57"
+    },
+    {
+     "nombre": "ALCHEMIC Conditioner Copper (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259022"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4 Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba)Seed Oil, Tocopherol, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Glyceryl Olivate, Hydrogenated Palm Glycerides Citrate, Hydrogenatedrapeseed Alcohol, Sclerotium Gum, Citric Acid, Basic Yellow 57, Basic Brown 17"
+    },
+    {
+     "nombre": "ALCHEMIC Conditioner Golden (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258964"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4 Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba)Seed Oil, Tocopherol, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Glyceryl Olivate, Hydrogenated Palm Glycerides Citrate, Hydrogenatedrapeseed Alcohol, Sclerotium Gum, Citric Acid, Basic Yellow 57, Basic Brown 17"
+    },
+    {
+     "nombre": "ALCHEMIC Conditioner Red (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259008"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetylalcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Glycerylolivate, Hydrogenated Palm Glycerides Citrate, Hydrogenated Rapeseed Alcohol, Sclerotium Gum, Citric Acid, Basic Red 51"
+    },
+    {
+     "nombre": "ALCHEMIC Conditioner Silver (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259060"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4 Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis(Jojoba) Seed Oil, Tocopherol, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Glyceryl Olivate, Hydrogenated Palm Glycerides Citrate, Hydrogenated Rapeseed Alcohol, Sclerotium Gum, Citric Acid, Acid Violet 43"
+    },
+    {
+     "nombre": "ALCHEMIC Conditioner Tobacco (acondicionador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258988"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Cetyl Alcohol, Cetrimonium Chloride, Beheneth-25, Glyceryl Stearate, Polyglyceryl-4 Oleate, Benzyl Alcohol, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seedoil, Tocopherol, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Glyceryl Olivate, Hydrogenated Palm Glycerides Citrate, Hydrogenated Rapeseedalcohol, Sclerotium Gum, Citric Acid, Basic Brown 17"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Chocolate (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259039"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Panthenol, Sodium Cocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-37, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Basic Brown 16, Basic Blue 99, Acid Violet 43, Basic Red 76, Basic Yellow 57, Basic Brown 17"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Copper (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259015"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Panthenol, Sodium Cocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-37, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Basic Brown 17, Basic Yellow 57"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Golden (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258957"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Panthenol, Sodium Cocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-37, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Basic Yellow 57, Basic Brown 17"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Red (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258995"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Panthenol, Sodium Cocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-37, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Basic Red 51"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Silver (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608259053"
+     ],
+     "inci": "Aqua/Water/Eau, Sodiumlauroyl Methyl Isethionate, Glycerin, Cocamidopropylbetaine, Disodium Cocoamphodiacetate, Sodium Lauroylsarcosinate, Decyl Glucoside, Panthenol, Sodiumcocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylatecrosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-11, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimoniumchloride, Tetrasodium Glutamatediacetate, Acid Violet 43"
+    },
+    {
+     "nombre": "ALCHEMIC Shampoo Tobacco (champú) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258971"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Panthenol, Sodium Cocoyl Glycinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Sodium Chloride, Parfum/Fragrance, Polysorbate 20, Polyester-37, Sodium Benzoate, Sodium PCA, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Basic Brown 17"
+    },
+    {
+     "nombre": "Beautiful Things Restoring Leave-in Mask (mascarilla sin aclarado) 90 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293774"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Parfum/Fragrance, Behentrimonium Methosulfate, Benzyl Alcohol, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Cetyl Alcohol, Sodium Gluconate, Triolein, Cellulose, Cetearyl Olivate, Cetrimonium Chloride, Ethyl Oleate, Sorbitan Olivate, Glycerin, Dicocoyl Pentaerythrityl Distearyl Citrate, Isopropyl Alcohol, Sodium Benzoate, Olea Europaea Leaf Extract/Olea Europaea (Olive) Leaf Extract, Lactic Acid, Sclerotium Gum, 1,2-Hexanediol, Hydroxyacetophenone, Hydrolyzed Adansonia Digitata Seed Extract, Pentylene Glycol, Cyclodextrin, Citric Acid, Citrus Aurantium Sinensis Peel Extract, Citrus Reticulata Peel Extract/Citrus Reticulata (Tangerine) Peel Extract, Sh-Polypeptide-123, Cyamopsis Tetragonoloba Gum/Cyamopsis Tetragonoloba (Guar) Gum, Tocopherol, Xanthan Gum, Phytic Acid, Tetramethyl Acetyloctahydronaphthalenes, Juniperus Virginiana Oil, Linalool, Linalyl Acetate, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citrus Aurantium Flower Oil, Cedrus Atlantica Oil/Extract, Isoeugenyl Acetate, Citrus Aurantium Peel Oil, Pogostemon Cablin Oil, Pinene, Rose Ketones, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Citronellol"
+    },
+    {
+     "nombre": "CALMING Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608256519",
+      "8004608256793"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Disodium Cocoamphodiacetate, Glycerin, Sodium Lauroyl Sarcosinate, Propanediol, Polysorbate 20, Sodium Olivamphoacetate, Sodium Chloride, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum/Fragrance, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Oleyl Alcohol, Caprylhydroxamic Acid, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Polyquaternium-67, Zanthoxylum Bungeanum Fruit Extract, Vaccinium Myrtillus Leaf Extract, Citric Acid, CI 17200/Red 33"
+    },
+    {
+     "nombre": "CALMING Superactive (sérum capilar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608244509"
+     ],
+     "inci": "Disiloxane, Isododecane, Alcohol Denat., Dimethicone, Oxidized Corn Oil, Parfum/Fragrance, Oleyl Alcohol, Zanthoxylum Bungeanum Fruit Extract, Aqua/Water/Eau, Limonene"
+    },
+    {
+     "nombre": "Cleansing Nectar (gel de ducha) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608226697"
+     ],
+     "inci": "Aqua/Water/Eau, Decyl Glucoside, Cocamide MIPA, Caprylyl/Capryl Glucoside, Sodium Cocoyl Isethionate, Sodium Lauroamphoacetate, Sodium Methyl Cocoyl Taurate, Glycerin, Benzyl Alcohol, Parfum/Fragrance, Sodium Chloride, Coco-Glucoside, Glyceryl Oleate, Sodium Lauroyl Oat Amino Acids, Citric Acid, Coconut Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Sodium Isethionate, Potassium Sorbate, Limonene, Linalool, Carthamus Tinctorius Seed Oil/Carthamus Tinctorius (Safflower) Seed Oil, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "DEDE Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293149",
+      "8004608296331"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Aloe Barbadensis Leaf Juice, Behentrimonium Chloride, Glycerin, Hydroxypropyl Starch Phosphate, Cetrimonium Chloride, Parfum/Fragrance, Polyglyceryl-2 Stearate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Glyceryl Stearate, Stearyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Gluconate, Triheptanoin, Sodium Benzoate, Coco-Caprylate/Caprate, Butylene Glycol, Lactic Acid, Tocopherol, Dilinoleic Acid/Butanediol Copolymer, Hibiscus Sabdariffa Flower Extract, Citric Acid, Potassium Sorbate, CI 19140/Yellow 5, Castor Oil/Ipdi Copolymer, Caprylyl Glycol, Chlorphenesin, Sodium Phytate, CI 14700/Red 4, Linalool, Citronellol, Hydroxycitronellal, Amyl Salicylate"
+    },
+    {
+     "nombre": "DEDE Leave-in Conditioner (acondicionador sin aclarado) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293156"
+     ],
+     "inci": "Aqua/Water/Eau, Polyglyceryl-4 Caprate, Dipropylene Glycol, Dioleoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Propanediol, Parfum/Fragrance, Isopropyl Palmitate, Sodium Gluconate, 1,2-Hexanediol, Behentrimonium Chloride, Cetrimonium Chloride, Inulin, Polyglyceryl-3 Cocoate, Polyglyceryl-6 Caprylate, Polyglyceryl-6 Ricinoleate, Lactic Acid, Behentrimonium Methosulfate, Caprylhydroxamic Acid, Butylene Glycol, Glycerin, Hibiscus Sabdariffa Flower Extract, CI 19140/Yellow 5, CI 14700/Red 4, Citric Acid, Caprylyl Glycol, Chlorphenesin, Sodium Phytate, Linalool, Citronellol, Hydroxycitronellal, Amyl Salicylate, Trimethylbenzenepropanol, Citrus Aurantium Flower Oil, Limonene, Linalyl Acetate"
+    },
+    {
+     "nombre": "DEDE Shampoo (champú) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293132",
+      "8004608296317"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Cocoyl Alaninate, Caprylyl/Capryl Glucoside, Decyl Glucoside, Sodium Lauroyl Methyl Isethionate, Parfum/Fragrance, Benzyl Alcohol, Polyglyceryl-6 Caprylate, Lactic Acid, Polyglyceryl-4 Caprate, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Butylene Glycol, Glycerin, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Inulin, Hibiscus Sabdariffa Flower Extract, Terephthalylidene Dicamphor Sulfonic Acid, Citric Acid, Caprylyl Glycol, Chlorphenesin, Sodium Phytate, CI 19140/Yellow 5, Tocopherol, CI 14700/Red 4, Lecithin, Linalool, Citronellol, Hydroxycitronellal, Amyl Salicylate"
+    },
+    {
+     "nombre": "DETOXIFYING Scrub Shampoo (champú exfoliante) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608256533",
+      "8004608256809"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Decyl Glucoside, Sodium Lauroyl Sarcosinate, Silica, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Jojoba Esters, Sodium Chloride, Benzyl Alcohol, Parfum/Fragrance, Sodium Benzoate, Glycol Distearate, Coco-Glucoside, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Cynara Scolymus Leaf Extract/Cynara Scolymus (Artichoke) Leaf Extract, Sodium Hydroxide, Citric Acid, Benzyl Benzoate, Glyceryl Stearate, Potassium Sorbate, CI 77289/Chromium Hydroxide Green"
+    },
+    {
+     "nombre": "ELEVATING Scalp Recovery Treatment (tratamiento) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275329"
+     ],
+     "inci": "Aqua/Water/Eau, Pentylene Glycol, Glycerin, Propanediol, Butylene Glycol, 1,2-Hexanediol, Polysorbate 20, Mannitol, Tetrasodium Glutamate Diacetate, Fumaria Officinalis Extract, Caprylhydroxamic Acid, Parfum/Fragrance, Lactobacillus Ferment, Tasmannia Lanceolata Leaf Extract, Citric Acid, Phenoxyethanol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "ENERGIZING Gel (gel) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608255550"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Polysorbate 20, Caffeine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Menthol, Parfum/Fragrance, Aminomethyl Propanol, Disodium EDTA, Eucalyptus Globulus Leaf Oil, Niacinamide, Linalool, Limonene, Eugenol, Epigallocatechin Gallatyl Glucoside, Benzyl Benzoate, Cinnamal, Epigallocatechin Gallate"
+    },
+    {
+     "nombre": "ENERGIZING Seasonal Superactive (sérum capilar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275381"
+     ],
+     "inci": "Alcohol Denat., Aqua/Water/Eau, Eucalyptol, Propanediol, Menthol, Mannitol, Glycerin, Lactobacillus Ferment, Niacinamide, Agastache Mexicana Flower/Leaf/Stem Extract, Limonene, Epigallocatechin Gallatyl Glucoside, Epigallocatechin Gallate"
+    },
+    {
+     "nombre": "ENERGIZING Shampoo (champú) 100 ml / 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608255499",
+      "8004608255505"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Sodium Lauroyl Sarcosinate, Polysorbate 20, Caffeine, Sodium Chloride, Benzyl Alcohol, Parfum/Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Trisodium Ethylenediamine Disuccinate, Mentha Piperita Oil/Mentha Piperita (Peppermint) Oil, Glyceryl Oleate, Coco-Glucoside, Sodium Hydroxide, Eugenol, Disodium EDTA, Eucalyptus Globulus Leaf Oil, Linalool, Polyquaternium-10, Limonene, Niacinamide, Citric Acid, Epigallocatechin Gallatyl Glucoside, CI 17200/Red 33, CI 19140/Yellow 5"
+    },
+    {
+     "nombre": "ENERGIZING Superactive (sérum capilar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275374"
+     ],
+     "inci": "Alcohol Denat., Aqua/Water/Eau, Eucalyptol, Menthol, Glycerin, Mannitol, Lactobacillus Ferment, Niacinamide, Limonene, Trifolium Pratense Extract/Trifolium Pratense (Clover) Extract, Vigna Radiata Seed Extract, Epigallocatechin Gallatyl Glucoside, Epigallocatechin Gallate"
+    },
+    {
+     "nombre": "ENERGIZING Thickening Tonic (tónico capilar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275404"
+     ],
+     "inci": "Alcohol Denat., Aqua/Water/Eau, Glycerin, Amp-Acrylates/Allyl Methacrylate Copolymer, Isobutylene/Ethylmaleimide/Hydroxyethylmaleimide Copolymer, Panthenol, Niacinamide, Disodium EDTA, Parfum/Fragrance, Menthol, Caffeine, Eucalyptus Globulus Leaf Oil, Citric Acid, Limonene, Linalool, Eugenol, Phenoxyethanol, Epigallocatechin Gallatyl Glucoside, Benzyl Benzoate, Cinnamal, Epigallocatechin Gallate"
+    },
+    {
+     "nombre": "HEART OF GLASS Instant Bonding Glow (tratamiento de brillo) 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608294689"
+     ],
+     "inci": "Aqua/Water/Eau, Propylene Glycol, Caprylic/Capric Triglyceride, Glyceryl Stearate SE, Cetrimonium Chloride, Behentrimonium Chloride, Parfum/Fragrance, Glycerin, Benzyl Alcohol, Cellulose, Polyester-37, Isopropyl Alcohol, Polyglyceryl-3 Polyricinoleate, Sorbitan Isostearate, Sclerotium Gum, Sodium Benzoate, Maleic Acid, Caprylyl Glycol, Thioctamidoethyl Dimethylamine Maleate, Sodium Surfactin, Sodium Hydroxide, Ethylhexylglycerin, Hydrolyzed Adansonia Digitata Seed Extract, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Juniperus Virginiana Oil, Linalool, Limonene, Linalyl Acetate, Alpha-Isomethyl Ionone, Geraniol, Citrus Aurantium Flower Oil, Pinene, Cedrus Atlantica Oil/Extract"
+    },
+    {
+     "nombre": "HEART OF GLASS Rich Conditioner (acondicionador) 250 ml / 90 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608294672",
+      "8004608298335"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Cetyl Alcohol, Hydrogenated Farnesene, Cetrimonium Chloride, Behentrimonium Methosulfate, Glyceryl Stearate, Parfum/Fragrance, Orbignya Oleifera Seed Oil, Isopropyl Alcohol, Benzyl Alcohol, Maleic Acid, Disodium EDTA, Sodium Benzoate, Genipa Americana Fruit Extract, Polyglyceryl-3 Polyricinoleate, Sclerotium Gum, Sorbitan Isostearate, Thioctamidoethyl Dimethylamine Maleate, Sodium Hydroxide, Corn Starch Modified, Hydrolyzed Adansonia Digitata Seed Extract, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Tetramethyl Acetyloctahydronaphthalenes, Juniperus Virginiana Oil, Linalool, Linalyl Acetate, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citrus Aurantium Flower Oil"
+    },
+    {
+     "nombre": "HEART OF GLASS Sheer Glaze (brillo) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608294696"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Benzyl Alcohol, Cellulose, Parfum/Fragrance, Cetrimonium Chloride, Cetyl Alcohol, Dicocoyl Pentaerythrityl Distearyl Citrate, Sodium Benzoate, Isopropyl Alcohol, Caprylyl Glycol, Phenethyl Benzoate, Disodium EDTA, Lactic Acid, Polyglyceryl-4 Oleate, Ethylhexylglycerin, Ethylhexyl Methoxycinnamate, Hydrolyzed Adansonia Digitata Seed Extract, Glyceryl Olivate, Hydrogenated Rapeseed Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Juniperus Virginiana Oil, Linalool, Linalyl Acetate, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citrus Aurantium Flower Oil, Cedrus Atlantica Oil/Extract, Isoeugenyl Acetate, Citrus Aurantium Peel Oil, Pogostemon Cablin Oil, Pinene"
+    },
+    {
+     "nombre": "HEART OF GLASS Silkening Chelating Shampoo (champú) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608294665"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Alaninate, Parfum/Fragrance, Polysorbate 20, Sodium Methyl Isethionate, Betaine, Lauric Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Brassicamidopropyl Dimethylamine, Coco-Glucoside, Sodium Chloride, Glyceryl Oleate, Sodium Benzoate, Glycol Distearate, Trisodium Ethylenediamine Disuccinate, Tetrasodium Glutamate Diacetate, Polyquaternium-7, Phenethyl Benzoate, Sodium Laurate, Polyquaternium-10, Coconut Acid, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Genipa Americana Fruit Extract, Corn Starch Modified, Glyceryl Stearate, Tocopherol, Sodium Hydroxide, Hydrolyzed Adansonia Digitata Seed Extract, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Juniperus Virginiana Oil, Linalool, Limonene, Linalyl Acetate, Alpha-Isomethyl Ionone, Geraniol, Citrus Aurantium Flower Oil, Pinene, Cedrus Atlantica Oil/Extract"
+    },
+    {
+     "nombre": "Intense Treatment (tratamiento) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608271727"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Cetrimonium Chloride, Behentrimonium Methosulfate, Behenyl Alcohol, Dicocoyl Pentaerythrityl Distearyl Citrate, Parfum/Fragrance, Polyglyceryl-10 Pentastearate, Glyceryl Stearate, Quaternium-87, Isopropyl Alcohol, Benzyl Alcohol, Maleic Acid, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Benzoate, Stearamidopropyl Dimethylamine, Disodium EDTA, Oryza Sativa Cera/Oryza Sativa (Rice) Bran Wax, Thioctamidoethyl Dimethylamine Maleate, Sodium Hydroxide, Polyglyceryl-3 Polyricinoleate, Sorbitan Isostearate, Alpha-Isomethyl Ionone, Linalool, Hydrolyzed Adansonia Digitata Seed Extract, Lactic Acid, Coumarin, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil"
+    },
+    {
+     "nombre": "Liquid Spell Reinforcing Bodifying Fluid (fluido) 50 ml / 125 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608268239",
+      "8004608271246"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Propanediol, Parfum/Fragrance, Alcohol Denat., 1,2-Hexanediol, Coco-Betaine, Polyquaternium-11, Disodium EDTA, Polyquaternium-53, Soy Amino Acids, Wheat Amino Acids, Citric Acid, Glycine, Lysine Hcl, Polyester-37, PVP, Sodium Chloride, Caprylhydroxamic Acid, Arginine Hcl, Serine, Threonine, Polyacrylamidopropyltrimonium Chloride, Polyquaternium-55, Distearyldimonium Chloride, Phenoxyethanol, Behentrimonium Chloride, Benzyl Alcohol, Gamma-Docosalactone, Alpha-Isomethyl Ionone, Caprylyl Glycol, Glycine Soja Sterols/Glycine Soja (Soybean) Sterols"
+    },
+    {
+     "nombre": "LOVE CURL Co-wash (co-wash, limpiador acondicionador) 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296393"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Hydroxypropyl Starch Phosphate, Cocos Nucifera Oil/Cocos Nucifera (Coconut) Oil, Aloe Barbadensis Leaf Juice, Coco-Glucoside, Glyceryl Oleate, Parfum/Fragrance, Lactic Acid, Glycerin, Butylene Glycol, Benzyl Alcohol, Sodium Benzoate, Sodium Gluconate, Adansonia Digitata Pulp Extract, Saccharomyces Polypeptides, Citric Acid, Potassium Sorbate, Arginine, Hydrolyzed Vegetable Protein, Leucine, Lysine, Tocopherol, Lecithin, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "LOVE CURL Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296416",
+      "8004608296409"
+     ],
+     "inci": "Aqua/Water/Eau, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Hydroxypropyl Starch Phosphate, Behentrimonium Chloride, Parfum/Fragrance, Inulin, Benzyl Alcohol, Polyglyceryl-2 Stearate, Glyceryl Stearate, Butylene Glycol, Triheptanoin, Stearyl Alcohol, Sodium Benzoate, Sodium Gluconate, Coco-Caprylate/Caprate, Citric Acid, Adansonia Digitata Pulp Extract, Dilinoleic Acid/Butanediol Copolymer, Hydroxyethylcellulose, Saccharomyces Polypeptides, Potassium Sorbate, Arginine, Hydrolyzed Vegetable Protein, Leucine, Lysine, Castor Oil/Ipdi Copolymer, Mica, CI 77492/Iron Oxides, CI 77891/Titanium Dioxide, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "LOVE CURL Cream (crema) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296508"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Aloe Barbadensis Leaf Juice, Cetearyl Alcohol, Cetyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Parfum/Fragrance, Behentrimonium Methosulfate, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Benzyl Alcohol, Hydrolyzed Corn Starch, Polyglyceryl-2 Stearate, Glyceryl Stearate, Butylene Glycol, Cetrimonium Chloride, Stearyl Alcohol, Sclerotium Gum, Sodium Benzoate, Citric Acid, Sodium Gluconate, Adansonia Digitata Pulp Extract, Potassium Sorbate, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil, Menthol, Citrus Aurantium Peel Oil, Citronellol, Pinene, Terpinolene"
+    },
+    {
+     "nombre": "LOVE CURL Enhancing Milk (leche capilar) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296461"
+     ],
+     "inci": "Aqua/Water/Eau, Polyglyceryl-10 Isostearate, Behentrimonium Methosulfate, Hydrolyzed Corn Starch, Parfum/Fragrance, Benzyl Alcohol, Triheptanoin, Cetyl Alcohol, Propylene Glycol, Coco-Caprylate/Caprate, Cellulose, Cetrimonium Chloride, Sodium Benzoate, Glycerin, Butylene Glycol, Dilinoleic Acid/Butanediol Copolymer, Aloe Barbadensis Leaf Juice, Adansonia Digitata Pulp Extract, Lactic Acid, Castor Oil/Ipdi Copolymer, Citric Acid, Sodium Gluconate, Potassium Sorbate, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil, Menthol, Citrus Aurantium Peel Oil, Citronellol, Pinene, Terpinolene"
+    },
+    {
+     "nombre": "LOVE CURL Mask (mascarilla) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296447",
+      "8004608296430"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Aloe Barbadensis Leaf Juice, Glycerin, Behentrimonium Chloride, Cetyl Alcohol, Potato Starch Modified, Parfum/Fragrance, Benzyl Alcohol, Polyglyceryl-2 Stearate, Glyceryl Stearate, Butylene Glycol, Triheptanoin, Stearyl Alcohol, Sodium Benzoate, Sodium Gluconate, Coco-Caprylate/Caprate, Citric Acid, Hydroxyethylcellulose, Adansonia Digitata Pulp Extract, Dilinoleic Acid/Butanediol Copolymer, Saccharomyces Polypeptides, Potassium Sorbate, Arginine, Hydrolyzed Vegetable Protein, Leucine, Lysine, Mica, CI 77492/Iron Oxides, Castor Oil/Ipdi Copolymer, CI 77891/Titanium Dioxide, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "LOVE CURL Shampoo (champú) 250 ml / 75 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296379",
+      "8004608296362",
+      "8004608296478"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Aloe Barbadensis Leaf Juice, Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Alaninate, Decyl Glucoside, Parfum/Fragrance, Glycerin, Benzyl Alcohol, Sodium Benzoate, Glycol Distearate, Sodium Gluconate, Inulin, Salicylic Acid, Guar Hydroxypropyltrimonium Chloride, Butylene Glycol, Coco-Glucoside, Lactic Acid, Cellulose, Cellulose Gum, Adansonia Digitata Pulp Extract, Glyceryl Oleate, Glyceryl Stearate, Triheptanoin, Coco-Caprylate/Caprate, Citric Acid, Dilinoleic Acid/Butanediol Copolymer, Potassium Sorbate, Castor Oil/Ipdi Copolymer, Limonene, Linalyl Acetate, Citrus Aurantium Flower Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290360",
+      "8004608296003"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Cetrimonium Chloride, Orbignya Oleifera Seed Oil, Behentrimonium Methosulfate, Stearyl Alcohol, Parfum/Fragrance, Inulin, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Hydroxyethylcellulose, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, Sodium Gluconate, Sodium Benzoate, Citric Acid, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Caprylyl Glycol, CI 60730/Ext. Violet 2, Potassium Sorbate, CI 19140/Yellow 5, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol, Citronellol, Citral"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Lightweight Milk (leche capilar) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290391"
+     ],
+     "inci": "Aqua/Water/Eau, Polyglyceryl-10 Isostearate, Behentrimonium Methosulfate, Benzyl Alcohol, Parfum/Fragrance, Triheptanoin, Cetyl Alcohol, Glycerin, Propylene Glycol, Coco-Caprylate/Caprate, Cellulose, Cetrimonium Chloride, Sodium Benzoate, Dilinoleic Acid/Butanediol Copolymer, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, Citric Acid, Castor Oil/Ipdi Copolymer, Lactic Acid, Caprylyl Glycol, Potassium Sorbate, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol, Citral, Menthol, Citronellol, Linalool, Pinene, Coumarin, Lavandula Oil/Extract, Terpinolene"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Mask (mascarilla) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290377",
+      "8004608296027"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cetyl Alcohol, Behentrimonium Chloride, Ethyl Olivate, Cetrimonium Chloride, Glyceryl Stearate, Orbignya Oleifera Seed Oil, Triolein, Behentrimonium Methosulfate, Inulin, Shea Butter Ethyl Esters, Stearyl Alcohol, Parfum/Fragrance, Hydrogenated Soy Polyglycerides, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Triheptanoin, Sodium Gluconate, Hydroxyethylcellulose, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Sodium Benzoate, Citric Acid, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, C15-23 Alkane, Caprylyl Glycol, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, Potassium Sorbate, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol, Citronellol, Citral"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Serum (sérum capilar) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290384"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Glycerin, Orbignya Oleifera Seed Oil, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Parfum/Fragrance, Behentrimonium Methosulfate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Polyglyceryl-2 Stearate, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Cetrimonium Chloride, Glyceryl Stearate, Sclerotium Gum, Sodium Gluconate, Stearyl Alcohol, Sodium Benzoate, Citric Acid, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, Caprylyl Glycol, Caprylhydroxamic Acid, CI 60730/Ext. Violet 2, Potassium Sorbate, CI 19140/Yellow 5, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol, Citral, Menthol, Citronellol, Linalool, Pinene, Coumarin, Lavandula Oil/Extract, Terpinolene"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Shampoo (champú) 250 ml / 75 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290353",
+      "8004608295983",
+      "8004608296041"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Alaninate, Decyl Glucoside, Parfum/Fragrance, Glycerin, Benzyl Alcohol, Glycol Distearate, Sodium Benzoate, Lactic Acid, Inulin, Sodium Gluconate, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, Cellulose, Cellulose Gum, Glyceryl Oleate, Glyceryl Stearate, Citric Acid, Potassium Sorbate, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, CI 61570/Green 5, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol"
+    },
+    {
+     "nombre": "LOVE SMOOTHING Solid Shampoo (champú sólido) 100 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296072"
+     ],
+     "inci": "Sodium Cocoyl Isethionate, Hydrogenated Vegetable Oil, Polyglyceryl-4 Laurate, Aqua/Water/Eau, Glycerin, Disodium Cocoyl Glutamate, Parfum/Fragrance, Disodium Coco-Glucoside Citrate, Cetrimonium Chloride, Cocamidopropyl Betaine, Citric Acid, Triheptanoin, Tetrasodium Glutamate Diacetate, Coco-Caprylate/Caprate, Pyrus Malus Fruit Extract/Pyrus Malus (Apple) Fruit Extract, Dilinoleic Acid/Butanediol Copolymer, Sodium Hydroxide, Castor Oil/Ipdi Copolymer, Sodium Benzoate, Potassium Sorbate, Linalyl Acetate, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Terpineol, Citral, Menthol, Citronellol"
+    },
+    {
+     "nombre": "MELU Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290339",
+      "8004608296102"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Orbignya Oleifera Seed Oil, Cetrimonium Chloride, Behentrimonium Chloride, Ethyl Oleate, Inulin, Parfum/Fragrance, Polyglyceryl-2 Stearate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Glyceryl Stearate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Stearyl Alcohol, Sodium Gluconate, Sclerotium Gum, Sodium Benzoate, Lactic Acid, Hydrolyzed Cicer Seed Extract, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Citric Acid, CI 61570/Green 5, CI 19140/Yellow 5, Potassium Sorbate, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Limonene, Anethole, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil"
+    },
+    {
+     "nombre": "MELU Serum (sérum capilar) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608292708"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Myristyl Alcohol, Parfum/Fragrance, Behentrimonium Methosulfate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Polyglyceryl-2 Stearate, Ethyl Oleate, Cetrimonium Chloride, Glyceryl Stearate, Lauroyl Lysine, Orbignya Oleifera Seed Oil, Sclerotium Gum, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Gluconate, Stearyl Alcohol, Sodium Benzoate, Citric Acid, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Hydrolyzed Cicer Seed Extract, CI 61570/Green 5, CI 19140/Yellow 5, Potassium Sorbate, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Limonene, Anethole, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Linalool, Coumarin, Linalyl Acetate, Pinene, Pogostemon Cablin Oil"
+    },
+    {
+     "nombre": "MELU Shampoo (champú) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290322",
+      "8004608296089"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Caprylyl/Capryl Glucoside, Parfum/Fragrance, Panthenol, Benzyl Alcohol, Glycerin, Sodium Benzoate, Sodium Gluconate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, Glycol Distearate, Hydrolyzed Cicer Seed Extract, Cellulose, Cellulose Gum, Coco-Glucoside, Glyceryl Oleate, Glyceryl Stearate, Citric Acid, Potassium Sorbate, CI 61570/Green 5, CI 19140/Yellow 5, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Limonene, Anethole, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil"
+    },
+    {
+     "nombre": "MELU Spray (spray) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290346"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Polysorbate 20, Propanediol, Hydrolyzed Corn Starch, 1,2-Hexanediol, Inulin, Parfum/Fragrance, Sodium Gluconate, Lactic Acid, Sodium Benzoate, Caprylhydroxamic Acid, Terephthalylidene Dicamphor Sulfonic Acid, Hydrolyzed Cicer Seed Extract, Citric Acid, Potassium Sorbate, CI 61570/Green 5, CI 19140/Yellow 5, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Limonene, Anethole, Citrus Aurantium Peel Oil, Citrus Aurantium Bergamia Peel Oil/Citrus Aurantium Bergamia (Bergamot) Peel Oil, Linalool, Coumarin"
+    },
+    {
+     "nombre": "MINU Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293385",
+      "8004608296140"
+     ],
+     "inci": "Aqua/Water/Eau, Cetyl Alcohol, Behentrimonium Chloride, Cetearyl Alcohol, Cetrimonium Chloride, Orbignya Oleifera Seed Oil, Behentrimonium Methosulfate, Glyceryl Stearate, Inulin, Stearyl Alcohol, Hydrolyzed Rice Protein, Ethyl Olivate, Parfum/Fragrance, Benzyl Alcohol, Glycine, Lysine Hcl, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Malpighia Glabra Fruit Extract/Malpighia Glabra (Acerola) Fruit Extract, Triheptanoin, Sodium Gluconate, Sodium Benzoate, Hydroxyethylcellulose, Citric Acid, Butylene Glycol, Glycerin, Benzotriazolyl Dodecyl P-Cresol, Coffea Arabica Seed Extract/Coffea Arabica (Coffee) Seed Extract, CI 61570/Green 5, Potassium Sorbate, CI 19140/Yellow 5, Limonene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Linalyl Acetate, Pogostemon Cablin Oil, Linalool, Pinene"
+    },
+    {
+     "nombre": "MINU Mask (mascarilla) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293392",
+      "8004608296164"
+     ],
+     "inci": "Aqua/Water/Eau, Propylene Glycol, Cetyl Alcohol, Behentrimonium Chloride, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Cetrimonium Chloride, Orbignya Oleifera Seed Oil, Parfum/Fragrance, Polyglyceryl-2 Stearate, Triheptanoin, Coco-Caprylate/Caprate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Stearyl Alcohol, Malpighia Glabra Fruit Extract/Malpighia Glabra (Acerola) Fruit Extract, Sodium Gluconate, Hydroxyethylcellulose, Sodium Benzoate, Citric Acid, Dilinoleic Acid/Butanediol Copolymer, Butylene Glycol, Niacinamide, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Coffea Arabica Seed Extract/Coffea Arabica (Coffee) Seed Extract, Castor Oil/Ipdi Copolymer, CI 61570/Green 5, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, Potassium Sorbate, Limonene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Linalyl Acetate, Pogostemon Cablin Oil, Linalool, Pinene, Terpineol"
+    },
+    {
+     "nombre": "MINU Milk (leche capilar) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293415"
+     ],
+     "inci": "Aqua/Water/Eau, Behentrimonium Methosulfate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Cellulose, Cetyl Alcohol, Glyceryl Stearate, Parfum/Fragrance, Glycerin, Triheptanoin, Cetrimonium Chloride, Citric Acid, Sodium Gluconate, Sodium Benzoate, Coco-Caprylate/Caprate, Caprylyl Glycol, Butylene Glycol, Glycine, Lysine Hcl, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Ethylhexylglycerin, Dilinoleic Acid/Butanediol Copolymer, Coffea Arabica Seed Extract/Coffea Arabica (Coffee) Seed Extract, Hydrolyzed Rice Protein, Castor Oil/Ipdi Copolymer, CI 61570/Green 5, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, Limonene, Pogostemon Cablin Oil, Linalool, Citral"
+    },
+    {
+     "nombre": "MINU Shampoo (champú) 250 ml / 75 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293378",
+      "8004608296126",
+      "8004608296188"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Alaninate, Decyl Glucoside, Parfum/Fragrance, Glycerin, Benzyl Alcohol, Sodium Benzoate, Glycol Distearate, Lactic Acid, Inulin, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside, Malpighia Glabra Fruit Extract/Malpighia Glabra (Acerola) Fruit Extract, Tetrasodium Glutamate Diacetate, Cellulose, Cellulose Gum, Terephthalylidene Dicamphor Sulfonic Acid, Butylene Glycol, Glyceryl Oleate, Glyceryl Stearate, Coffea Arabica Seed Extract/Coffea Arabica (Coffee) Seed Extract, Citric Acid, Sodium Hydroxide, Sodium Gluconate, CI 61570/Green 5, Potassium Sorbate, CI 60730/Ext. Violet 2, CI 19140/Yellow 5, Limonene, Pogostemon Cablin Oil"
+    },
+    {
+     "nombre": "Moisturizing Balm (bálsamo) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608226703"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Coco-Caprylate, Glyceryl Stearate, Cetrimonium Chloride, Behentrimonium Methosulfate, Behentrimonium Chloride, Sodium Lauroyl Glutamate, Stearic Acid, Benzyl Alcohol, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Sorbitol, Phenethyl Benzoate, Caprylyl/Capryl Glucoside, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil*, Carthamus Tinctorius Seed Oil/Carthamus Tinctorius (Safflower) Seed Oil*, Parfum/Fragrance, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil*, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil*, Isopropyl Alcohol, Potassium Sorbate, Tocopherol, Limonene, Citric Acid, Linalool"
+    },
+    {
+     "nombre": "MOMO Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289012",
+      "8004608295884"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate, Behentrimonium Chloride, C12-15 Alkyl Benzoate, Cetrimonium Chloride, Parfum/Fragrance, Inulin, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Myristyl Alcohol, Aloe Barbadensis Leaf Juice, Polyglyceryl-2 Stearate, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Gluconate, Stearyl Alcohol, Sclerotium Gum, Sodium Benzoate, Lactic Acid, Butylene Glycol, Glycerin, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Prunus Armeniaca Fruit Extract/Prunus Armeniaca (Apricot) Fruit Extract, Alcohol Denat., Citric Acid, CI 19140/Yellow 5, CI 61570/Green 5, Sodium Phytate, CI 17200/Red 33, Coumarin"
+    },
+    {
+     "nombre": "MOMO Serum (sérum capilar) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289029"
+     ],
+     "inci": "Aqua/Water/Eau, Glyceryl Stearate, Cetearyl Alcohol, Cetyl Alcohol, Parfum/Fragrance, Behentrimonium Methosulfate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Polyglyceryl-2 Stearate, Benzotriazolyl Dodecyl P-Cresol, Benzyl Alcohol, Orbignya Oleifera Seed Oil, Stearyl Alcohol, Cetrimonium Chloride, Sclerotium Gum, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Gluconate, Sodium Benzoate, Citric Acid, Octadecyl Di-T-Butyl-4-Hydroxyhydrocinnamate, Butylene Glycol, Glycerin, Prunus Armeniaca Fruit Extract/Prunus Armeniaca (Apricot) Fruit Extract, Alcohol Denat., CI 19140/Yellow 5, CI 61570/Green 5, CI 17200/Red 33, Coumarin, Citral, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "MOMO Shampoo (champú) 250 ml / 75 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289005",
+      "8004608295860",
+      "8004608295914"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Cocoyl Alaninate, Caprylyl/Capryl Glucoside, Decyl Glucoside, Sodium Lauroyl Methyl Isethionate, Parfum/Fragrance, Benzyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Lactic Acid, Butylene Glycol, Glycerin, Guar Hydroxypropyltrimonium Chloride, Inulin, Polyquaternium-10, Prunus Armeniaca Fruit Extract/Prunus Armeniaca (Apricot) Fruit Extract, Alcohol Denat., Citric Acid, Sodium Phytate, CI 19140/Yellow 5, CI 61570/Green 5, CI 14700/Red 4, Coumarin"
+    },
+    {
+     "nombre": "MOMO Solid Shampoo (champú sólido) 100 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608295907"
+     ],
+     "inci": "Sodium Cocoyl Isethionate, Hydrogenated Vegetable Oil, Polyglyceryl-4 Laurate, Aqua/Water/Eau, Glycerin, Disodium Cocoyl Glutamate, Brassicamidopropyl Dimethylamine, Parfum/Fragrance, Disodium Coco-Glucoside Citrate, Cetrimonium Chloride, Cocamidopropyl Betaine, Citric Acid, Tetrasodium Glutamate Diacetate, Butylene Glycol, Prunus Armeniaca Fruit Extract/Prunus Armeniaca (Apricot) Fruit Extract, Alcohol Denat., Sodium Hydroxide, Sodium Benzoate, Sodium Phytate, Coumarin, Citral"
+    },
+    {
+     "nombre": "NOUNOU Conditioner (acondicionador) 75 ml / 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296232",
+      "8004608293439"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, C15-19 Alkane, Caprylic/Capric Triglyceride, Parfum/Fragrance, Polyglyceryl-2 Stearate, Glyceryl Stearate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Benzyl Alcohol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Stearyl Alcohol, Lauroyl Lysine, Sodium Gluconate, Sclerotium Gum, Sodium Benzoate, Lactic Acid, Butylene Glycol, Glycerin, Lupinus Albus Seed Extract, Alcohol, Mica, CI 77492/Iron Oxides, Avena Sativa Peptide/Avena Sativa (Oat) Peptide, Citric Acid, CI 77891/Titanium Dioxide, 1,2-Hexanediol, Caprylyl Glycol, CI 77499/Iron Oxides, CI 77491/Iron Oxides, Sodium Phytate, Benzoic Acid, Linalool, Limonene, Citrus Aurantium Flower Oil, Linalyl Acetate, Geraniol"
+    },
+    {
+     "nombre": "NOUNOU Mask (mascarilla) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293453",
+      "8004608296256"
+     ],
+     "inci": "Aqua/Water/Eau, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Glyceryl Stearate, Cetearyl Alcohol, Orbignya Oleifera Seed Oil, Parfum/Fragrance, Inulin, Shea Butter Ethyl Esters, Behentrimonium Methosulfate, Stearyl Alcohol, Benzyl Alcohol, Glyceryl Dibehenate, Sodium Gluconate, Triheptanoin, Tribehenin, Hydroxyethylcellulose, Sodium Benzoate, Citric Acid, Coco-Caprylate/Caprate, Butylene Glycol, Glycerin, Lupinus Albus Seed Extract, Glyceryl Behenate, Mica, CI 77492/Iron Oxides, Dilinoleic Acid/Butanediol Copolymer, Alcohol, Avena Sativa Peptide/Avena Sativa (Oat) Peptide, CI 77891/Titanium Dioxide, 1,2-Hexanediol, Caprylyl Glycol, CI 77499/Iron Oxides, CI 77491/Iron Oxides, Castor Oil/Ipdi Copolymer, Benzoic Acid, Sodium Phytate, Linalool, Limonene, Citrus Aurantium Flower Oil, Linalyl Acetate, Geraniol"
+    },
+    {
+     "nombre": "NOUNOU Oil (aceite) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293477"
+     ],
+     "inci": "Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, C13-15 Alkane, Ethyl Oleate, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Caprylic/Capric Triglyceride, Dicaprylyl Ether, Lauryl Alcohol, Tocopheryl Acetate, Tocopherol, Lupinus Albus Seed Extract, Linalool, Linalyl Acetate, Limonene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Citral, Geraniol, Terpineol, Citronellol, Pinene, Citrus Aurantium Flower Oil, Geranyl Acetate, Alpha-Terpinene, Benzaldehyde, Rose Ketones, Beta-Caryophyllene, Eugenol, Terpinolene"
+    },
+    {
+     "nombre": "NOUNOU Shampoo (champú) 250 ml / 75 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608293422",
+      "8004608296218",
+      "8004608296270"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Parfum/Fragrance, Benzyl Alcohol, Caprylyl/Capryl Glucoside, Glycerin, Panthenol, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, Sodium Gluconate, Glycol Distearate, Butylene Glycol, Lupinus Albus Seed Extract, Triheptanoin, Cellulose, Cellulose Gum, Coco-Glucoside, Terephthalylidene Dicamphor Sulfonic Acid, Coco-Caprylate/Caprate, Alcohol, Glyceryl Oleate, Glyceryl Stearate, Dilinoleic Acid/Butanediol Copolymer, Citric Acid, Castor Oil/Ipdi Copolymer, Sodium Phytate, CI 19140/Yellow 5, CI 14700/Red 4, CI 61570/Green 5, Linalool, Limonene, Citrus Aurantium Flower Oil, Linalyl Acetate, Geraniol"
+    },
+    {
+     "nombre": "NOURISHING Hair Building Pak (mascarilla) 250 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608269199",
+      "8004608271451"
+     ],
+     "inci": "Aqua/Water/Eau, Cetyl Alcohol, Cetearyl Alcohol, Behentrimonium Chloride, Stearamidopropyl Dimethylamine, Glycerin, Hydrogenated Farnesene, Glyceryl Stearate, Cetrimonium Chloride, Glycine, Parfum/Fragrance, Behenyl Alcohol, Maleic Acid, Polyglyceryl-10 Pentastearate, Benzyl Alcohol, Lysine Hcl, Citric Acid, Hydrolyzed Rice Protein, Thioctamidoethyl Dimethylamine Maleate, Disodium EDTA, Sodium Benzoate, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Lactic Acid, Linalyl Acetate, Terpineol, Eucalyptus Globulus Oil, Hexadecanolactone, Hexyl Cinnamal, Linalool, Anethole, Limonene"
+    },
+    {
+     "nombre": "NOURISHING Hair Royal Jelly Superactive (sérum capilar) 8 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608230830"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Glycine, Inositol, Lactic Acid, Pyridoxine Hcl, Potassium Sorbate, Sodium Benzoate.Powder/Poudre: Maltodextrin, Royal Jelly, Silica, Microcrystalline Cellulose, Biotin, Magnesium Oxide"
+    },
+    {
+     "nombre": "NOURISHING Keratin Sealer (sellador) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608269229"
+     ],
+     "inci": "Aqua/Water/Eau, Hydrogenated Farnesene, Behentrimonium Chloride, Benzyl Alcohol, Cetearyl Alcohol, Parfum/Fragrance, Cetyl Alcohol, Polyquaternium-37, Polyester-37, Cetrimonium Chloride, Sodium Benzoate, Isopropyl Alcohol, Citric Acid, Disodium EDTA, Glycine, Lysine Hcl, Sclerotium Gum, Hydrolyzed Rice Protein, Hexyl Cinnamal, Linalool, Limonene, Citral"
+    },
+    {
+     "nombre": "Nourishing Oil (aceite) 140 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608226710"
+     ],
+     "inci": "Carthamus Tinctorius Seed Oil/Carthamus Tinctorius (Safflower) Seed Oil, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Parfum/Fragrance, Juniperus Virginiana Oil, Limonene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Linalool, Pelargonium Graveolens Oil, Tocopherol, Citrus Nobilis Peel Oil/Citrus Nobilis (Mandarin Orange) Peel Oil, Citrus Aurantium Bergamia Fruit Oil/Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Citronellol, Citrus Aurantium Amara Leaf/Twig Oil/Citrus Aurantium Amara (Bitter Orange) Leaf/Twig Oil, Geraniol, Pogostemon Cablin Leaf Oil, Citrus Aurantium Amara Flower Oil/Citrus Aurantium Amara (Bitter Orange) Flower Oil, Rosa Damascena Flower Oil, Citral, Illicium Verum Fruit/Seed Oil/Illicium Verum (Anise) Fruit/Seed Oil, Polianthes Tuberosa Flower Extract"
+    },
+    {
+     "nombre": "NOURISHING Vegetarian Miracle Conditioner (acondicionador) 250 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608269250",
+      "8004608271468"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Cetyl Alcohol, Behentrimonium Methosulfate, Cetrimonium Chloride, Beheneth-25, Glycine, Parfum/Fragrance, Quaternium-87, Maleic Acid, Benzyl Alcohol, Lysine Hcl, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Hydrolyzed Rice Protein, Thioctamidoethyl Dimethylamine Maleate, Disodium EDTA, Hydroxyethylcellulose, Sodium Benzoate, Sodium Hydroxide, Sclerotium Gum, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Linalyl Acetate, Terpineol, Eucalyptus Globulus Oil, Hexadecanolactone, Hexyl Cinnamal, Linalool, Anethole, Limonene"
+    },
+    {
+     "nombre": "NOURISHING Vegetarian Miracle Mask (mascarilla) 250 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608269151",
+      "8004608271475"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Glycerin, Glyceryl Stearate, Hydrogenated Farnesene, Cetrimonium Chloride, Triheptanoin, C13-15 Alkane, Maleic Acid, Parfum/Fragrance, Behenyl Alcohol, Polyglyceryl-10 Pentastearate, Benzyl Alcohol, Glycine, Lysine Hcl, Hydrolyzed Rice Protein, Thioctamidoethyl Dimethylamine Maleate, Sodium Benzoate, Citric Acid, Sclerotium Gum, Retinyl Palmitate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Lactic Acid, Linalyl Acetate, Terpineol, Eucalyptus Globulus Oil, Hexadecanolactone, Hexyl Cinnamal, Linalool, Anethole"
+    },
+    {
+     "nombre": "OI All In One Milk (leche capilar) 135 ml / 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608285199",
+      "8004608285205"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Panthenol, Behentrimonium Chloride, Parfum/Fragrance, Benzyl Alcohol, Cetyl Alcohol, Tocopherol, Amodimethicone, Cetrimonium Chloride, Amodimethicone/Silsesquioxane Copolymer, Sodium Benzoate, Trideceth-5, Citric Acid, Glycerin, Trideceth-12, Cyclopentasiloxane, Phenoxyethanol, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Bixa Orellana Seed Extract, Hexamethylindanopyran, Eucalyptus Globulus Oil, Acetyl Cedrene, Terpineol, Citronellol, Lavandula Oil/Extract, Geraniol, Methyl Salicylate, Alpha-Isomethyl Ionone, Camphor, Pelargonium Graveolens Flower Oil, Linalool, Linalyl Acetate, Limonene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Pinene"
+    },
+    {
+     "nombre": "OI Body Wash (gel de ducha) 280 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608247760"
+     ],
+     "inci": "Aqua/Water/Eau, Disodiumlaurethsulfosuccinate, Cocamidopropylbetaine, Sodiumlauroylmethylisethionate, Glycerin, Cocoglucoside, Glycoldistearate, Glyceryloleate, Parfum/Fragrance, Sodiumcocoylglycinate, Sodiumchloride, Acrylates/C1030Alkylacrylatecrosspolymer, Benzylalcohol, Sodiumcocoylisethionate, Cetylbetaine, Polysorbate20, Sodiumlauroamphoacetate, Sodiummethylcocoyltaurate, Sodiumbenzoate, Tetrasodiumglutamatediacetate, Polyquaternium7, Trisodiumethylenediaminedisuccinate, Polyquaternium10, Glycerylstearate, Laurylbetaine, Citric Acid, Sodiumhydroxide, Citronellol, Benzoic Acid, Helianthusannuusseedoil/Helianthusannuus(Sunflower)Seedoil, Bixaorellanaseedoil, Tocopherol"
+    },
+    {
+     "nombre": "OI Hair Butter (manteca) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608264590"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Dimethicone, Cetrimonium Chloride, Behentrimonium Methosulfate, Behenyl Alcohol, Polyglyceryl-10 Pentastearate, Glyceryl Stearate, Quaternium-87, Parfum/Fragrance, Isopropyl Alcohol, Benzyl Alcohol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, C15-19 Alkane, Dimethiconol, Silicone Quaternium-22, Sodium Benzoate, Stearamidopropyl Dimethylamine, Disodium EDTA, Oryza Sativa Cera/Oryza Sativa (Rice) Bran Wax, Dipropylene Glycol, Polyglyceryl-3 Caprate, Citric Acid, Polyglyceryl-3 Polyricinoleate, Sorbitan Isostearate, Cocamidopropyl Betaine, Lactic Acid, Tocopherol, Citronellol, Geraniol, Palmitamidopropyltrimonium Chloride, Propylene Glycol, Bixa Orellana Seed Oil"
+    },
+    {
+     "nombre": "OI Hand Balm (bálsamo de manos) 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608247746"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cyclopentasiloxane, Cetearyl Alcohol, Cetyl Alcohol, Arachidyl Alcohol, Behenyl Alcohol, Benzyl Alcohol, Cyclohexasiloxane, Tocopheryl Acetate, Dimethicone, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Arachidyl Glucoside, Dimethicone Crosspolymer, Allantoin, Sodium Polyacrylate, Hexyldecyl Laurate, Hexyldecanol, Parfum/Fragrance, Potassium Sorbate, Hydrogenated Polydecene, C30-45 Alkyl Methicone, C30-45 Olefin, Olea Europaea Fruit Oil/Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Disodium EDTA, Tocopherol, Trideceth-6, Bixa Orellana Seed Oil, Hydrogenated Palm Glycerides Citrate, Citronellol, Geraniol, Juglans Regia Seed Extract/Juglans Regia (Walnut) Seed Extract, Alpha-Isomethyl Ionone, Linalool"
+    },
+    {
+     "nombre": "OI Shampoo (champú) 280 ml / 90 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608247630",
+      "8004608247654",
+      "8004608294566"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Disodium Laureth Sulfosuccinate, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauryl Sulfoacetate, Sodium Methyl 2-Sulfolaurate, Panthenol, Parfum/Fragrance, Sodium Methyl Isethionate, Benzyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lauric Acid, PPG-26-Buteth-26, Coco-Glucoside, Phenethyl Benzoate, Glyceryl Oleate, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Glycol Distearate, Citric Acid, Trisodium Ethylenediamine Disuccinate, Polyquaternium-7, Disodium 2-Sulfolaurate, Sodium Hydroxide, Sodium Laurate, Amodimethicone, Guar Hydroxypropyltrimonium Chloride, C11-15 Alketh-7, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Glyceryl Stearate, Glycerin, Laureth-9, Trideceth-12, Bixa Orellana Seed Extract, Hexamethylindanopyran, Eucalyptus Globulus Oil, Acetyl Cedrene, Terpineol, Citronellol, Methyl Salicylate, Lavandula Oil/Extract, Geraniol"
+    },
+    {
+     "nombre": "OI SOUFFLÉ (soufflé capilar) 125 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608291541"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Propanediol, Parfum/Fragrance, 1,2-Hexanediol, Coco-Betaine, Inulin, Sodium Gluconate, Polyquaternium-53, Soy Amino Acids, Wheat Amino Acids, PVP, Polyquaternium-11, Citric Acid, Glycine, Lysine Hcl, Sodium Chloride, Caprylhydroxamic Acid, Amodimethicone, Laureth-9, Arginine Hcl, Serine, Threonine, Polyquaternium-55, Phenoxyethanol, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Caprylyl Glycol, Benzyl Alcohol, Potassium Sorbate, Acetic Acid, Bixa Orellana Seed Extract, Sodium Benzoate, Hexamethylindanopyran, Eucalyptus Globulus Oil, Acetyl Cedrene, Terpineol, Citronellol, Methyl Salicylate, Lavandula Oil/Extract, Geraniol, Alpha-Isomethyl Ionone, Camphor, Pelargonium Graveolens Flower Oil, Linalool, Linalyl Acetate, Limonene"
+    },
+    {
+     "nombre": "PURIFYING Gel (gel) 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608230649"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Glycerin, Zinc Lactate, Propanediol, Sodium Hydroxide, Parfum/Fragrance, Caprylyl Glycol, Bisabolol, Piroctone Olamine, Sodium Gluconate, Benzyl Alcohol, Ziziphus Joazeiro Bark Extract, Tocopherol, Linalool, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Taraxacum Officinale Root Extract/Taraxacum Officinale (Dandelion) Root Extract, Citric Acid, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Purifying Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608236580",
+      "8004608236597"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Propylene Glycol, Sodium Lauryl Glucose Carboxylate, Glycerin, Lauryl Glucoside, Sodium Lauroyl Methyl Isethionate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Selenium Sulfide, Glyceryl Oleate, Taraxacum Officinale Root Extract/Taraxacum Officinale (Dandelion) Root Extract, Coco-Glucoside, Polysorbate 20, Sodium Benzoate, Citric Acid, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, 2-Bromo-2-Nitropropane-1,3-Diol, Linalool, Parfum/Fragrance"
+    },
+    {
+     "nombre": "REBALANCING Cleansing Treatment (tratamiento limpiador) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275350"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Polysorbate 20, Sodium Cocoyl Alaninate, Propylene Glycol, Decyl Glucoside, Parfum/Fragrance, Benzyl Alcohol, Mentha Piperita Oil/Mentha Piperita (Peppermint) Oil, Sodium Chloride, Butylene Glycol, Coco-Glucoside, Glyceryl Oleate, Citric Acid, Sodium Benzoate, Polyquaternium-7, Bisabolol, Coconut Acid, Guar Hydroxypropyltrimonium Chloride, Eucalyptus Globulus Leaf Oil, Menthol, Limonene, Cinnamomum Cassia Bark Extract, Sanguisorba Officinalis Root Extract, Zingiber Officinale Root Extract/Zingiber Officinale (Ginger) Root Extract"
+    },
+    {
+     "nombre": "REBALANCING Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608256540",
+      "8004608256816"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Polysorbate 20, Parfum/Fragrance, Sodium Olivamphoacetate, Sodium Lauroyl Sarcosinate, Benzyl Alcohol, Sodium Methyl Isethionate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lauric Acid, Sodium Benzoate, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Sodium Laurate, Sodium Hydroxide, Butylene Glycol, Disodium EDTA, Limonene, Polyquaternium-67, Citrus Limon Leaf Extract/Citrus Limon (Lemon) Leaf Extract, Citral, Cinnamomum Cassia Bark Extract, Sanguisorba Officinalis Root Extract, Zingiber Officinale Root Extract/Zingiber Officinale (Ginger) Root Extract"
+    },
+    {
+     "nombre": "RENEWING Conditioning Treatment (tratamiento acondicionador) 250 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608255116",
+      "8004608256762"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Cetyl Alcohol, Cetrimonium Chloride, Polyglyceryl-4 Oleate, Parfum/Fragrance, Glyceryl Stearate, Beheneth-25, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Benzyl Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isopropyl Alcohol, Glyceryl Olivate, Hydroxyethylcellulose, Sodium Benzoate, Aristotelia Chilensis Fruit Extract, Spinacia Oleracea Leaf Extract/Spinacia Oleracea (Spinach) Leaf Extract, Hydrogenated Rapeseed Alcohol, Citric Acid, Hexyl Cinnamal, Tocopherol, Disodium EDTA, Limonene, Sclerotium Gum, Carnosine, Potassium Sorbate"
+    },
+    {
+     "nombre": "RENEWING Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608255093",
+      "8004608256755"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Parfum/Fragrance, Polysorbate 20, Sodium Lauryl Sulfoacetate, Decyl Glucoside, Benzyl Alcohol, Sodium Methyl Isethionate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lauric Acid, Polyester-37, Sodium Methyl 2-Sulfolaurate, Sodium Benzoate, Dicaprylyl Ether, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Lauryl Alcohol, Aristotelia Chilensis Fruit Extract, Spinacia Oleracea Leaf Extract/Spinacia Oleracea (Spinach) Leaf Extract, Sodium Laurate, Hexyl Cinnamal, Guar Hydroxypropyltrimonium Chloride, Disodium 2-Sulfolaurate, Tetrasodium Glutamate Diacetate, Limonene, Sodium Hydroxide, Carnosine, Citric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Replenishing Butter (manteca) 230 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608286028"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Dicaprylyl Carbonate, Glycerin, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Cetearyl Glucoside, Coco-Caprylate, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Orbignya Oleifera Seed Oil, Glyceryl Stearate, Benzyl Alcohol, Parfum/Fragrance, Triheptanoin, Potassium Sorbate, Sodium Stearoyl Glutamate, Coco-Caprylate/Caprate, Tocopherol, Limonene, Citric Acid, Dilinoleic Acid/Butanediol Copolymer, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Linalool, Geraniol, Citronellol, Castor Oil/Ipdi Copolymer, Citral, Carthamus Tinctorius Seed Oil/Carthamus Tinctorius (Safflower) Seed Oil, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil"
+    },
+    {
+     "nombre": "REPLUMPING Conditioner (acondicionador) 150 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608240419",
+      "8004608245186"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cetyl Alcohol, Cetrimonium Chloride, Cetearyl Alcohol, Benzyl Alcohol, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Domestica Fruit Extract, Limonene, Sodium Benzoate, Disodium EDTA, Citric Acid, Citral"
+    },
+    {
+     "nombre": "REPLUMPING Hair Filler Superactive Leave-in (sérum capilar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608275411"
+     ],
+     "inci": "Aqua/Water/Eau, Tapioca Starch/Triticum Vulgare (Wheat) Starch, Cetearyl Alcohol, Glycerin, Benzyl Alcohol, Behentrimonium Chloride, Alcohol Denat., Cellulose, Cetrimonium Chloride, Cetyl Alcohol, Parfum/Fragrance, Polyquaternium-69, VP/Va Copolymer, Phenethyl Benzoate, Sodium Benzoate, Polyquaternium-11, Polyester-37, Isopropyl Alcohol, Lactic Acid, Ammonium Bicarbonate, Caprylyl Glycol, Limonene, Disodium EDTA, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Ethylhexylglycerin, Propylene Glycol, Sodium Hyaluronate, Guar Hydroxypropyltrimonium Chloride, Citral, Phenoxyethanol, Linalool, Citric Acid"
+    },
+    {
+     "nombre": "REPLUMPING Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608256557",
+      "8004608256823"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Sodium Lauroyl Sarcosinate, Polysorbate 20, Sodium Chloride, Benzyl Alcohol, Parfum/Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Limonene, Sodium Benzoate, Prunus Domestica Fruit Extract, Glycol Distearate, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Disodium EDTA, Coco-Glucoside, Sodium Hydroxide, Citral, Glyceryl Stearate, Glyceryl Oleate, Citric Acid"
+    },
+    {
+     "nombre": "SOLU Sea Salt Scrub (exfoliante de sal marina) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290414",
+      "8004608296522"
+     ],
+     "inci": "Sodium Chloride, Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Maris Sal/Sea Salt/Sel Marin, Sodium Cocoyl Isethionate, Sodium Lauryl Sulfoacetate, Polyglyceryl-10 Laurate, Coco-Betaine, Decyl Glucoside, Glycerin, Stearamidopropyl Dimethylamine, Betaine, Cocamide MIPA, Parfum/Fragrance, Polyglyceryl-4 Oleate, Jojoba Esters, Citric Acid, Butylene Glycol, Sodium Gluconate, Sodium Benzoate, Glyceryl Olivate, Polygonum Fagopyrum Seed Extract/Polygonum Fagopyrum (Buckwheat) Seed Extract, Hydrogenated Rapeseed Alcohol, CI 77491/Iron Oxides, Caprylyl Glycol, Ethylhexylglycerin, Benzyl Alcohol, Limonene, Linalool, Amyl Salicylate, Citronellol, Pinene, Pogostemon Cablin Oil, Geraniol, Linalyl Acetate, Citrus Aurantium Peel Oil, Terpineol"
+    },
+    {
+     "nombre": "SOLU Shampoo (champú) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608290407",
+      "8004608296539"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Cocoyl Alaninate, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Caprylyl/Capryl Glucoside, Benzyl Alcohol, Lactic Acid, Parfum/Fragrance, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Sodium Benzoate, Butylene Glycol, Glycerin, Guar Hydroxypropyltrimonium Chloride, Polygonum Fagopyrum Seed Extract/Polygonum Fagopyrum (Buckwheat) Seed Extract, Citric Acid, Caprylyl Glycol, Ethylhexylglycerin, CI 14700/Red 4, CI 61570/Green 5, CI 19140/Yellow 5, Limonene, Linalool, Amyl Salicylate, Citronellol, Pinene, Pogostemon Cablin Oil, Geraniol, Linalyl Acetate, Citrus Aurantium Peel Oil, Terpineol"
+    },
+    {
+     "nombre": "Styling Clay (arcilla de peinado) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608276470"
+     ],
+     "inci": "Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Kaolin, Propylene Glycol, Cera Alba/Beeswax/Cire Dabeille, Laureth-4, Isohexadecane, Glyceryl Stearate, Parfum/Fragrance, Bentonite, Ozokerite, Isopropyl Myristate, Hydrogenated Castor Oil, Isopropyl Palmitate, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, PPG-15 Stearyl Ether, Limonene, Caramel, Geraniol, Citronellol, Aqua/Water/Eau, Linalool, Citral"
+    },
+    {
+     "nombre": "Styling Paste (pasta de peinado) 125 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608276463"
+     ],
+     "inci": "Aqua/Water/Eau, Propylene Glycol, VP/Va Copolymer, Isohexadecane, Ozokerite, Hydrogenated Castor Oil, Ceteareth-20, Oleth-5, Ceteareth-2, Parfum/Fragrance, Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Polyacrylamide, Ethylhexyl Methoxycinnamate, Caprylyl Glycol, C13-14 Isoalkane, Benzyl Alcohol, PEG-45M, Limonene, PPG-15 Stearyl Ether, Caprylhydroxamic Acid, Glycerin, Laureth-7, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Phenoxyethanol, Citric Acid, Linalool, Citronellol, Silica"
+    },
+    {
+     "nombre": "SU SPF30 (protector solar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296584"
+     ],
+     "inci": "Aqua/Water/Eau, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glyceryl Stearate, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Arginine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Capryloyl Glycerin/Sebacic Acid Copolymer, Polyglyceryl-6 Stearate, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Potassium Cetyl Phosphate, Xanthan Gum, Caprylyl Glycol, Dibutyl Adipate, Parfum/Fragrance, Ethylhexylglycerin, Polyglyceryl-6 Behenate, Butylene Glycol, Citrus Aurantium Amara Peel Extract/Citrus Aurantium Amara (Bitter Orange) Peel Extract, Citric Acid, Sodium Gluconate, Sodium Benzoate, Hexamethylindanopyran, Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal"
+    },
+    {
+     "nombre": "SU SPF50 (protector solar) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296591"
+     ],
+     "inci": "Aqua/Water/Eau, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Adipate, Glyceryl Stearate, Arginine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Glycerin, Capryloyl Glycerin/Sebacic Acid Copolymer, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Cetyl Alcohol, Potassium Cetyl Phosphate, Xanthan Gum, Caprylyl Glycol, Diisopropyl Sebacate, Parfum/Fragrance, Ethylhexylglycerin, Polyglyceryl-6 Behenate, Butylene Glycol, Citrus Amara Peel Extract/Citrus Aurantium Amara (Bitter Orange) Peel Extract, Citric Acid, Sodium Gluconate, Sodium Benzoate, Hexamethylindanopyran, Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal"
+    },
+    {
+     "nombre": "The Let It Go Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608264170"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Parfum/Fragrance, Cetyl Alcohol, Distearoylethyl Dimonium Chloride, Cetrimonium Chloride, Polyglyceryl-4 Oleate, Glyceryl Stearate, Panthenol, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Benzyl Alcohol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Glyceryl Olivate, Disodium EDTA, Sclerotium Gum, Sodium Benzoate, Hydrogenated Rapeseed Alcohol, Kaolin, Tocopherol, Citric Acid, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Bacopa Monnieri Extract, Limonene, Citrus Aurantium Peel Oil, Eucalyptus Globulus Oil, Menthol, Pinene, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Laurus Nobilis Leaf Oil, Linalool"
+    },
+    {
+     "nombre": "The Purity Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258179"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Distearoylethyl Dimonium Chloride, Coco-Betaine, Glycerin, Glyceryl Stearate, Polyglyceryl-4 Oleate, Parfum/Fragrance, Beheneth-25, Cetrimonium Chloride, Benzyl Alcohol, Charcoal Powder, Tocopherol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Glyceryl Olivate, Citric Acid, Disodium EDTA, Sclerotium Gum, Sodium Benzoate, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Hydrogenated Rapeseed Alcohol, Camellia Sinensis Leaf Extract, Potassium Sorbate, Citrus Limon Peel Oil/Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Flower Oil, Geraniol, Limonene, Pelargonium Graveolens Flower Oil, Linalyl Acetate, Linalool, Pinene, Citronellol"
+    },
+    {
+     "nombre": "The Quick Fix Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258216"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Cetyl Alcohol, Behentrimonium Methosulfate, Cetrimonium Chloride, Parfum/Fragrance, Polyglyceryl-4 Oleate, Glyceryl Stearate, Quaternium-87, Kaolin, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Benzyl Alcohol, Glyceryl Olivate, Sclerotium Gum, Sodium Benzoate, Hydrogenated Rapeseed Alcohol, Tocopherol, Citric Acid, Propylene Glycol, Sodium Hyaluronate, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Guar Hydroxypropyltrimonium Chloride, Ethylhexylglycerin, Phenoxyethanol, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Citrus Aurantium Flower Oil, Limonene, Hydroxycitronellal, Linalyl Acetate, Citronellol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "The Renaissance Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258230"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Orbignya Oleifera Seed Oil, Cetyl Alcohol, Glyceryl Stearate, Hydrogenated Farnesene, Behentrimonium Methosulfate, Cetrimonium Chloride, Parfum/Fragrance, Kaolin, Quaternium-87, Panthenol, Benzyl Alcohol, Sclerotium Gum, Sodium Benzoate, Tocopherol, Citric Acid, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Juniperus Virginiana Oil, Pogostemon Cablin Oil, Limonene, Hexyl Cinnamal, Linalool, Citrus Aurantium Flower Oil, Hydroxycitronellal"
+    },
+    {
+     "nombre": "The Restless Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608267263"
+     ],
+     "inci": "Aqua/Water/Eau, Isododecane, Stearamidopropyl Dimethylamine, Zea Mays Starch/Zea Mays (Corn) Starch, Cetyl Alcohol, Hydrogenated Farnesene, Cetrimonium Chloride, Parfum/Fragrance, Citric Acid, Polyquaternium-37, Behentrimonium Methosulfate, Stearyl Alcohol, Polyglyceryl-4 Oleate, Polyacrylamidopropyltrimonium Chloride, Benzyl Alcohol, Salvia Hispanica Seed Extract, Glyceryl Olivate, Sclerotium Gum, Sodium Benzoate, Hydrogenated Rapeseed Alcohol, Isopropyl Alcohol, Leuconostoc/Radish Root Ferment Filtrate, Linalyl Acetate, Pinene, Linalool, Limonene, Citronellol, Pogostemon Cablin Oil, Citrus Aurantium Flower Oil"
+    },
+    {
+     "nombre": "The Spotlight Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258155"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Cetyl Alcohol, Hydrogenated Farnesene, Behentrimonium Methosulfate, Cetrimonium Chloride, Parfum/Fragrance, Glyceryl Stearate, Quaternium-87, Panthenol, Benzyl Alcohol, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Moringa Oleifera Seed Oil, Mica, Disodium EDTA, Sclerotium Gum, Sodium Benzoate, Citric Acid, CI 77891/Titanium Dioxide, Tocopherol, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Limonene, Citronellol, Alpha-Isomethyl Ionone, Geranyl Acetate, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "The Wake-Up Circle (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258193"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Cetrimonium Chloride, Polyglyceryl-4 Oleate, Glyceryl Stearate, Kaolin, Parfum/Fragrance, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Panthenol, Isopropyl Alcohol, Benzyl Alcohol, VP/Dmapa Acrylates Copolymer, Glyceryl Olivate, Tocopherol, Disodium EDTA, Sclerotium Gum, Sodium Benzoate, Hydrogenated Rapeseed Alcohol, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Citric Acid, Benzalkonium Chloride, Withania Somnifera Root Extract, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Geraniol, Citronellol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "This is a Curl Building Serum (sérum capilar) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608237488",
+      "8004608246459"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, VP/Dmapa Acrylates Copolymer, Cetearyl Alcohol, Panthenol, Behentrimonium Chloride, Polyquaternium-37, Propylene Glycol Dicaprylate/Dicaprate, Amodimethicone, Benzyl Alcohol, Parfum/Fragrance, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Sodium Benzoate, PPG-1 Trideceth-6, Trideceth-12, Cetrimonium Chloride, Citric Acid, Cyclopentasiloxane, Linalool, Sorbitan Oleate, Limonene, Phenoxyethanol, Benzalkonium Chloride"
+    },
+    {
+     "nombre": "This is a Curl Moisturizing Mousse (espuma) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608247203"
+     ],
+     "inci": "Aqua/Water/Eau, Butane, Polyquaternium-11, Glycerin, Propane, Isobutane, Cocamidopropylamine Oxide, Panthenol, PEG/PPG-18/18 Dimethicone, Amodimethicone, Propylene Glycol, Trideceth-12, Parfum/Fragrance, Cetrimonium Chloride, Linalool, Limonene"
+    },
+    {
+     "nombre": "This is a Dry Texturizer (texturizante) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608248941"
+     ],
+     "inci": "Hydrofluorocarbon 152A, Alcohol Denat., Isobutane, VP/Va Copolymer, PVP, Aluminum Starch Octenylsuccinate, PEG-12 Dimethicone, Fragrance, Helianthus Annus (Sunflower) Seed Extract, Silica"
+    },
+    {
+     "nombre": "This is a Forming Pomade (pomada) 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608248958"
+     ],
+     "inci": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Ceteareth-20, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Ceresin, Glyceryl Dibehenate, Laureth-4, Beheneth-25, Orbignya Oleifera Seed Oil, PVP, Glyceryl Rosinate, Tribehenin, Glyceryl Behenate, Parfum/Fragrance, Olea Europaea Oil Unsaponifiables/Olea Europaea (Olive) Oil Unsaponifiables, Caprylyl Glycol, Benzyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Caprylhydroxamic Acid, Glycerin, Linalool, Limonene, Sodium Hydroxide"
+    },
+    {
+     "nombre": "This is a Medium Hair Spray (laca) 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608252122"
+     ],
+     "inci": "Alcohol Denat., Butane, Propane, Isobutane, Acrylates Copolymer, Potassium Hydroxide, Fragrance, Panthenol, Propylene Glycol, Linalool, Limonene"
+    },
+    {
+     "nombre": "This is a Medium Hold Finishing Gum (goma de peinado) 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608251965"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, VP/Va Copolymer, Ceteareth-20, Propylene Glycol, Isohexadecane, Ozokerite, Ceteareth-12, Kaolin, Cetyl Alcohol, Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Benzyl Alcohol, Sodium Polyacrylate, Ethylhexyl Methoxycinnamate, Parfum/Fragrance, Caprylyl Glycol, Hydrogenated Polydecene, PEG-45M, Sodium Benzoate, Hydrogenated Castor Oil, PPG-15 Stearyl Ether, Trideceth-6, Caprylhydroxamic Acid, Glycerin, Sodium Phytate, Linalool, Phenoxyethanol, Limonene"
+    },
+    {
+     "nombre": "This is a Medium Hold Modeling Gel (gel) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608237464"
+     ],
+     "inci": "Aqua/Water/Eau, VP/Va Copolymer, Polyquaternium-10, Propanediol, Polysorbate 20, Benzyl Alcohol, Sodium Benzoate, Parfum/Fragrance, Citric Acid, Linalool, Limonene"
+    },
+    {
+     "nombre": "This is a Medium Hold Pliable Paste (pasta de peinado) 125 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608237419"
+     ],
+     "inci": "Aqua/Water/Eau, Propylene Glycol, VP/Va Copolymer, Isohexadecane, Ozokerite, Hydrogenated Castor Oil, Ceteareth-20, Oleth-5, Ceteareth-2, Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Parfum/Fragrance, Ethylhexyl Methoxycinnamate, Polyacrylamide, Caprylyl Glycol, Benzyl Alcohol, C13-14 Isoalkane, PEG-45M, PPG-15 Stearyl Ether, Caprylhydroxamic Acid, Glycerin, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Laureth-7, Linalool, Limonene, Phenoxyethanol, Citric Acid, Silica"
+    },
+    {
+     "nombre": "This is a Primer (prebase de peinado) 100 ml / 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608286967",
+      "8004608286950"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., VP/Va Copolymer, Panthenol, Decyl Glucoside, Polysorbate 20, Parfum/Fragrance, Polyquaternium-69, Polyquaternium-11, Citric Acid, Limonene, Hexamethylindanopyran, Linalool, Linalyl Acetate, Hexyl Cinnamal, Geraniol, Hydroxycitronellal, Pinene, Menthol, Alpha-Isomethyl Ionone, Mentha Piperita Oil/Mentha Piperita (Peppermint) Oil, Citral, Terpineol, Benzyl Benzoate"
+    },
+    {
+     "nombre": "This is a Sea Salt Spray (spray de sal marina) 100 ml / 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608265993",
+      "8004608258346"
+     ],
+     "inci": "Aqua/Water/Eau, Magnesium Sulfate, Propanediol, Sodium Chloride, Polysorbate 20, Potassium Sorbate, Sodium Benzoate, Parfum/Fragrance, Citric Acid, Maris Sal/Sea Salt/Sel Marin"
+    },
+    {
+     "nombre": "This is a Shimmering Mist (bruma) 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608252153"
+     ],
+     "inci": "Alcohol Denat., Butane, Propane, Cyclopentasiloxane, Isobutane, Cyclohexasiloxane, Isopropyl Myristate, Phenylpropyldimethylsiloxysilicate, PEG/PPG-18/18 Dimethicone, Parfum/Fragrance"
+    },
+    {
+     "nombre": "This is a Strong Dry Wax (cera) 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608251972"
+     ],
+     "inci": "Petrolatum, Aqua/Water/Eau, VP/Va Copolymer, Glyceryl Stearate, Cera Alba/Beeswax/Cire D’Abeille, Kaolin, Isohexadecane, Ceteareth-20, Parfum/Fragrance, Cetyl Palmitate, Cetearyl Alcohol, Ceteareth-12, Oleth-5, Caprylyl Glycol, Glycerin, Caprylhydroxamic Acid, Linalool, PPG-15 Stearyl Ether, Limonene"
+    },
+    {
+     "nombre": "This Is A Strong Hair Spray (laca) 400 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608252139",
+      "8004608250623"
+     ],
+     "inci": "Alcohol Denat., Hydrofluorocarbon 152A, Va/Crotonates/Vinyl Neodecanoate, Copolymer, Aminomethyl Propanol, Bis-PEG/PPG-14/14 Dimethicone, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Fragrance, Panthenol, Phenyl Trimethicone, PPG-3 Methyl Ether, Triethyl Citrate"
+    },
+    {
+     "nombre": "This is a Strong Moulding Clay (arcilla de peinado) 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608251989"
+     ],
+     "inci": "Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Kaolin, Propylene Glycol, Cera Alba/Beeswax/Cire D’Abeille, Laureth-4, Isohexadecane, Glyceryl Stearate, Bentonite, Ceresin, Isopropyl Myristate, Hydrogenated Castor Oil, Isopropyl Palmitate, Parfum/Fragrance, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, PPG-15 Stearyl Ether, Linalool, Limonene, Caramel"
+    },
+    {
+     "nombre": "This is a Texturizing Dust (polvo texturizante) 8 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608237518"
+     ],
+     "inci": "Aqua/Water/Eau, Silica Silylate, Isopentyldiol, Gluconolactone, Sodium Benzoate, VP/Va Copolymer, Passiflora Edulis Seed Oil, Oryza Sativa Bran Oil/Oryza Sativa (Rice) Bran Oil, Euterpe Oleracea Fruit Oil"
+    },
+    {
+     "nombre": "This is a Volume Boosting Mousse (espuma) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608247197"
+     ],
+     "inci": "Water, Butane, VP/Va Copolymer, Propane, Isobutane, Polyquaternium-11, Propylene Glycol, Polyquaternium-4, Amodimethicone, Cetrimonium Chloride, Trideceth-12, Cocamidopropylamine Oxide, Cocamide DEA, Fragrance Glycerin, Panthenol, Linalool, Limonene"
+    },
+    {
+     "nombre": "This Is An Extra Strong Hair Spray (laca) 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608248965"
+     ],
+     "inci": "Alcohol Denat., Hydrofluorocarbon 152A, Octylacrylamide/Acrylates/Butylaminoethyl, Methacrylate Copolymer, Fragrance, Pentaerythrityl Tetracaprylate/Tetracaprate, Amp-Isostearoyl, Hydrolyzed Wheat Protein, Ethylhexyl Methocinnamate, Water, Cyclopentasiloxane, Aminomethyl Propanol, PEG/PPG-17/18 Dimethicone, Phenyl Trimethicone, Triethyl Citrate"
+    },
+    {
+     "nombre": "This is an Invisible No Gas Spray (laca) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608252146"
+     ],
+     "inci": "Alcohol Denat., Water, Polyeurethane-14, Amp Acrylates Copolymer, Octylacrilamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Fragrance, Sodium Benzoate, Aminomethyl Propanol, Triethyl Citrate, Glycerin, Thyme Flower/Leaf/Stem Extract, Phylanthus Embilica Fruit Extract, Lemon Peel Extract, Hippophae Rhamnoides Fruit Extract, Ascophyllum Nodosum Extract"
+    },
+    {
+     "nombre": "This is an Invisible Serum (sérum capilar) 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608237402"
+     ],
+     "inci": "Aqua/Water/Eau, Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglyceride, Glycerin, VP/Va Copolymer, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Polydecene, PEG-40 Hydrogenated Castor Oil, Octyldodecanol, Benzyl Alcohol, Parfum/Fragrance, Sodium Benzoate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydrogenated Castor Oil, Tocopherol, Sodium Phytate, Linalool, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Limonene"
+    },
+    {
+     "nombre": "This is an Oil Non Oil (aceite capilar sin aceite) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608258865"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Polyquaternium-10, Benzyl Alcohol, PEG-40 Hydrogenated Castor Oil, Methyl Gluceth-20, Sodium Benzoate, VP/Dimethylaminoethylmethacrylate Copolymer, Parfum/Fragrance, Citric Acid, Hydrolyzed Corn Protein, Hydrolyzed Wheat Protein, Hydrolyzed Soy Protein, Phenoxyethanol, Caprylyl Glycol, Leuconostoc/Radish Root Ferment Filtrate"
+    },
+    {
+     "nombre": "VOLU Conditioner (acondicionador) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289043",
+      "8004608295969"
+     ],
+     "inci": "Aqua/Water/Eau, Cetyl Alcohol, Cetearyl Alcohol, Behentrimonium Chloride, Zea Mays Starch/Zea Mays (Corn) Starch, Cetrimonium Chloride, Parfum/Fragrance, Benzyl Alcohol, Glyceryl Stearate, Inulin, Kaolin, Butylene Glycol, Glycerin, Sodium Gluconate, Sclerotium Gum, Sodium Benzoate, Citric Acid, Citrus Reticulata Peel Extract/Citrus Reticulata (Tangerine) Peel Extract, Anethole, Linalyl Acetate, Linalool"
+    },
+    {
+     "nombre": "VOLU Hair Mist (bruma) 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289050"
+     ],
+     "inci": "Aqua/Water/Eau, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Pullulan, Benzyl Alcohol, Parfum/Fragrance, Glycerin, Sorbitol, Sodium Gluconate, Sodium Benzoate, Butylene Glycol, Citrus Reticulata Peel Extract/Citrus Reticulata (Tangerine) Peel Extract, Acacia Senegal Gum, Alcohol, Citric Acid, Tris(Tetramethylhydroxypiperidinol) Citrate, Trehalose, CI 60730/Ext. Violet 2, Anethole, Linalyl Acetate, Linalool, Hexyl Cinnamal, Menthol"
+    },
+    {
+     "nombre": "VOLU Shampoo (champú) 250 ml / 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608289036",
+      "8004608295945"
+     ],
+     "inci": "Aqua/Water/Eau, Cocamidopropyl Betaine, Sodium Cocoyl Alaninate, Caprylyl/Capryl Glucoside, Sodium Lauroyl Methyl Isethionate, Decyl Glucoside, Benzyl Alcohol, Parfum/Fragrance, Lactic Acid, Sodium Benzoate, Glycerin, Butylene Glycol, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Citrus Reticulata Peel Extract/Citrus Reticulata (Tangerine) Peel Extract, Citric Acid, Sodium Gluconate, CI 60730/Ext. Violet 2, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Linalool, Linalyl Acetate, Cedrus Atlantica Oil/Extract"
+    },
+    {
+     "nombre": "VOLU Solid Shampoo (champú sólido) 100 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608296300"
+     ],
+     "inci": "Sodium Cocoyl Isethionate, Hydrogenated Vegetable Oil, Polyglyceryl-4 Laurate, Aqua/Water/Eau, Glycerin, Disodium Cocoyl Glutamate, Brassicamidopropyl Dimethylamine, Parfum/Fragrance, Disodium Coco-Glucoside Citrate, Panthenol, Cetrimonium Chloride, Cocamidopropyl Betaine, Citric Acid, Tetrasodium Glutamate Diacetate, Butylene Glycol, Citrus Reticulata Peel Extract/Citrus Reticulata (Tangerine) Peel Extract, Sodium Hydroxide, Sodium Gluconate, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Linalool, Linalyl Acetate, Cedrus Atlantica Oil/Extract, Limonene"
+    },
+    {
+     "nombre": "WE STAND Regeneration Hair, Body & Face Butter (manteca) 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608294603"
+     ],
+     "inci": "Aqua/Water/Eau*, Cetearyl Alcohol*, Dicaprylyl Carbonate, Glycerin*, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil*, Cetearyl Glucoside*, Coco-Caprylate*, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter*, Orbignya Oleifera Seed Oil*, Glyceryl Stearate*, Benzyl Alcohol, Parfum/Fragrance, Sodium Stearoyl Glutamate*, Triheptanoin*, Potassium Sorbate, Coco-Caprylate/Caprate*, Tocopherol*, Hexamethylindanopyran, Citric Acid*, Dilinoleic Acid/Butanediol Copolymer*, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil*, Hexyl Cinnamal, Linalool, Geraniol, Hydroxycitronellal, Linalyl Acetate, Alpha-Isomethyl Ionone, Castor Oil/Ipdi Copolymer*, Calendula Officinalis Flower Extract*, Carthamus Tinctorius Seed Oil/Carthamus Tinctorius (Safflower) Seed Oil*, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil*"
+    },
+    {
+     "nombre": "WELLBEING Conditioner (acondicionador) 150 ml / 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608230762",
+      "8004608234944"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cetyl Alcohol, Cetearyl Alcohol, Cetrimonium Chloride, Echinacea Pallida Extract, Simmondsia Chinensis Seed Oil/Simmondsia Chinensis (Jojoba) Seed Oil, Citric Acid, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Limonene, Benzyl Salicylate, Parfum/Fragrance"
+    },
+    {
+     "nombre": "WELLBEING Shampoo (champú) 250 ml / 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004608256502",
+      "8004608256786"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Sodium Chloride, Polysorbate 20, Benzyl Alcohol, Parfum/Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Dicaprylyl Ether, Glycol Distearate, Trisodium Ethylenediamine Disuccinate, Polyquaternium-10, Lauryl Alcohol, Limonene, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Coco-Glucoside, Echinacea Pallida Extract, Benzyl Salicylate, Glyceryl Stearate, Glyceryl Oleate, Sodium Hydroxide, Hexyl Cinnamal, Citric Acid"
     }
    ]
   }
