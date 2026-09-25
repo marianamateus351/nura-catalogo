@@ -769,6 +769,29 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### Caudalie (es.caudalie.com) — abierta 2026-09-25 (versión 2026-09-25l): 74 productos, 77 códigos (de 127 URL)
+Pedido de Mariana tras su escaneo de la Crema Sorbete. Fuente única: la web española de la marca.
+- **Cómo se saca**: URL de producto del sitemap (`/sitemap.xml`, 112) más las enlazadas desde las
+  255 páginas de categoría: 127. En cada ficha, el JSON-LD `Product` trae `gtin13` y la propiedad
+  "Lista completa de ingredientes". Las fichas con varios formatos (tamaño, recarga) solo publican un
+  código por página, pero la lista es la de la página para todos los formatos, así que el código
+  sigue atado a su lista; nombre sin tamaño. Recarga con código propio y misma lista (Crema Tisana
+  de Noche, Loción Tónica, Aceite Desmaquillante) en la misma entrada. Limpieza: fuera "INGREDIENTS :",
+  el código de fórmula "(412/017)" y lo que va detrás (notas de COSMOS/Ecocert, "*ingredientes de la
+  agricultura biológica", "PAO"), asteriscos.
+- **Fuera**: 34 sets, dúos, tríos, rutinas, cofres, neceser, masajes y tarjetas regalo (los "vir-…"
+  llevan además códigos inventados que no son EAN); 5 fichas sin producto; la Leche de Almendras
+  400 ml 3522930005629 (la web pone "Isostearate" suelto, palabra cortada: lista no fiable; la de
+  200 ml entra). La Crema Sorbete 3522930004387 se queda con la lista del tubo (ver abajo).
+- CC Cream Vinocrush: el código es del tono 2 y la lista, la de ese tono. "Tratamiento Lifting Ojos
+  (antigua colección)" 3522930002963: la web lo sigue vendiendo con su código y su lista antigua,
+  distinta de la del nuevo 3522930005773; entran los dos.
+- **Revisión FP/FN**: la "Crema Exfoliante Desincrustante" caía en Hogar por "desincrustante"
+  (término de limpieza): añadidos "exfoliant", "peeling", "facial" y "rostro" a los términos que
+  marcan cosmética. Regresión: 0 cambios en las 4.475 fichas anteriores. Sin más falsos positivos
+  (propilenglicol de verdad en la Gelatina Purificante; el Propylene Glycol Stearate de la CC Cream no
+  salta). La 211 salta en 11 (lavandín y lavanda de la gama Vinopure y aguas). Sin falsos negativos.
+
 ### 2026-09-25 · Caudalie VinoHydra Crema Sorbete Hidratante 60 ml (3522930004387) — escaneo de Mariana en tienda — resuelto (versión 2026-09-25k)
 Marca nueva, Caudalie (marca `caudalie`). Fotos de Mariana del tubo (EAN y lista legibles; código
 de fórmula "(412/017)", referencia 438D3, CNP 7304378). La web oficial `es.caudalie.com`
@@ -2239,6 +2262,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
 | Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
 | Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
+| Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
 | Lacer | laceroralhealth.com (web dental oficial) | no: C.N. por formato → EAN 847000+C.N.; `8430340…` por tiendas | sí | ver su apartado |
@@ -2301,13 +2325,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6422 códigos en 72 marcas: NYX 999 · **Caudalie 1** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6498 códigos en 72 marcas: NYX 999 · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4475 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4548 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
