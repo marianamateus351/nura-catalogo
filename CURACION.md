@@ -864,6 +864,21 @@ y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos"
   diseño: ver "Higiene íntima y menstrual". Regresión: 0 cambios en las fichas existentes.
 - **2026-09-25 · Falso negativo con decisión pendiente: polietileno** (98 cosméticos). Ver la
   decisión B en "Higiene íntima y menstrual".
+- **2026-09-25 · Microplásticos: nylon y acrílicos en polvo (decisión de Mariana: "sí al nylon").**
+  La 191 pasa a llamarse "Microplásticos (poliéster, polipropileno, polietileno, nylon…)" y reconoce
+  además Nylon-12, Nylon-6, Nylon-66, Nylon-6/12, Nylon-611 (también dentro de "Nylon-611/Dimethicone
+  Copolymer"), Polymethyl Methacrylate, Methyl Methacrylate Crosspolymer y las microesferas
+  Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer (partículas sólidas, también
+  microplástico para la UE 2023/2055). **No** los poliuretanos de las máscaras (película, no
+  partícula; mismo criterio que la resina de los esmaltes UV Gel). Regresión sobre las 4.474 fichas:
+  **95 ganan la 191, todas por esos nombres** (NYX 19, L'Oréal Paris 18, Avène 8, LRP 7, Garnier y
+  Maybelline 6, Babaria 5, Bioderma e ISDIN 4, Ducray, Eucerin, Sesderma y SkinCeuticals 3, Vichy 2,
+  Endocare, Haruharu, Heliocare y Neutrogena 1; las otras ~34 fichas con nylon ya lo tenían por el
+  polietileno); ningún otro cambio.
+- **2026-09-25 · Decisiones E y F de Mariana: fuera.** Flúor de las pastas de dientes y
+  Benzophenone-12 de las velas: no hay pruebas de disrupción endocrina a esas exposiciones (el flúor,
+  estudios de agua muy fluorada, no de pasta; la BP-12, casi sin datos y sin actividad clara), así que
+  no llevan aviso. No volver a proponerlos salvo evidencia nueva.
 - **2026-09-25 · KH-7 y Bosque Verde: categoría y un nombre dentro de otro.** (1) 9 fichas de
   limpieza caían en Cuidado personal porque la app no conocía "multisuperficie", "limpiador de
   cocinas"/"cocinas limpiador", "limpia mopas", "limpiador de muebles", "disuelve manchas" ni
