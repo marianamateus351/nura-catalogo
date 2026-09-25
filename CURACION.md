@@ -806,6 +806,34 @@ ppm); el catálogo las trae ahora con código: 8809532221790 y recarga 880953222
 | ~~3574661332505~~ | **Neutrogena Clear & Defend Exfoliante Facial 150 ml** (tubo UK/nórdico, foto de Mariana; PR-017564) | **ENTRA en Neutrogena.** No está en neutrogena.es; **neutrogena.co.uk** tiene la ficha con el mismo EAN (`data-mm-ids`) y el mismo PR-017564, 22 ingredientes, y coincide con lo legible de la etiqueta (la foto tiene brillos sobre tres nombres). Truco nuevo: la web británica usa el mismo marcado que la española |
 | ~~8057587040952~~ | **Philip Martin's Maple Aqua Rinse Mascarilla Hidratante 200 ml** (Philip Martin's srl, Altavilla Vicentina; foto de la etiqueta de Mariana, EAN y lista legibles) | **ENTRA como marca nueva Philip Martin's** (versión 2026-09-17c) con los 19 ingredientes de la etiqueta. philipmartins.it (Wix) no publica el INCI completo, solo los activos, y remite al envase; el EAN sí aparece en el HTML de la ficha hermana Maple Aqua Wash |
 
+### 2026-09-25 · Segunda cola de marcas + revisión de falsos positivos y negativos por marca
+
+**Regla nueva para TODAS las marcas a partir de ahora:** al cerrar una marca, pasar el detector
+de la app por sus fichas y revisar (1) **falsos positivos**: reglas que saltan por un nombre
+dentro de otro nombre (el patrón Toluene-2,5-Diamine / Phenylethyl Resorcinol / Polyester-1 /
+Methyl Nonyl Ketone), por una categoría equivocada o por un alias demasiado corto; (2) **falsos
+negativos**: sustancias con evidencia de disrupción endocrina que estén en las fichas y ninguna
+regla reconozca (nombres INCI que faltan como alias, como pasó con Hexamethylindanopyran).
+Cada corrección se aplica en la app con la regresión del catálogo entero (cero cambios no
+intencionados) y se anota aquí; las decisiones de criterio (riesgo, entra o no) se dejan
+escritas para Mariana, como las cuatro de Asevi.
+
+**Orden de la cola** (después de lo pendiente de Buscados y de los huecos de Datos):
+
+1. **Endocare** y **ampliar Heliocare** (Cantabria Labs, mismo portal que Biretix).
+   **Ampliar Head & Shoulders** (P&G, mismo circuito que Pantene).
+2. **Higiene íntima y menstrual**: Evax, Tampax, Ausonia, Lactacyd, Chilly. Es la categoría
+   propia de Nura y la única regla específica (fragancia en compresas/tampones, ficha 34) no
+   tiene todavía ningún producto que la dispare. Ojo: compresas y tampones no llevan INCI
+   cosmético; curar lo que el fabricante publique (composición, "con perfume"/"sin perfume").
+3. **Embarazo y bebé**: Mustela (publica INCI completo), Nenuco, Suavinex.
+4. **The Ordinary** (INCI completo en su web, fichas cortas).
+5. **Súper de cada semana**: Babaria, Byphasse, Lactovit, Vaseline; capilar TRESemmé, Gliss,
+   Syoss (Unilever y Henkel publican INCI); maquillaje Catrice y Essence (Cosnova publica
+   INCI); dental Oral-B y Lacer; limpieza Bosque Verde y KH-7 (método 648/2004, como Asevi).
+6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
+   Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
+
 ### 2026-09-23 · Cola de marcas para la campaña de Instagram (decisión de Mariana)
 
 Mariana está haciendo publicidad y quiere que el **primer escaneo** de quien llega acierte.
