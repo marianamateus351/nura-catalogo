@@ -769,6 +769,19 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-25 · Caudalie VinoHydra Crema Sorbete Hidratante 60 ml (3522930004387) — escaneo de Mariana en tienda — resuelto (versión 2026-09-25k)
+Marca nueva, Caudalie (marca `caudalie`). Fotos de Mariana del tubo (EAN y lista legibles; código
+de fórmula "(412/017)", referencia 438D3, CNP 7304378). La web oficial `es.caudalie.com`
+(`/p/438/creme-sorbet-hydratante-vinohydra-438.html`) da **ese mismo EAN** (`gtin13`) y el INCI,
+también con "(412/017)", pero **no es idéntico al del tubo**: la web pone Parfum en el puesto 13 y
+Palmitoyl Grape Seed Extract detrás de Caprylyl Glycol, y añade Linalyl Acetate, Carvone y Mentha
+Viridis (Spearmint) Leaf Oil (alérgenos del perfume; parece la etiqueta nueva con los alérgenos que
+exige el Reglamento 2023/1545); el tubo de la tienda pone Parfum al final y sin esos tres. **Entra
+la lista del tubo** (lo que hay hoy en la estantería; la etiqueta manda). El detector da lo mismo
+con las dos (solo "Fragancia no divulgada"). Foto: la trae Open Beauty Facts.
+**Ojo para abrir Caudalie entera**: la web da `gtin13` + INCI por ficha (fácil), pero este caso
+enseña que su lista puede ir por delante de los envases que hay en tienda.
+
 ### 2026-09-24 · Davines OI — dos aportaciones de una usuaria — resuelto (versión 2026-09-24d)
 Una usuaria subió a mano, sin código, **OI Shampoo** y **OI Hair Oil** de Davines. Se abre la
 marca entera (ver su apartado).
@@ -2288,13 +2301,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6421 códigos en 71 marcas: NYX 999 · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6422 códigos en 72 marcas: NYX 999 · **Caudalie 1** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4474 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4475 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

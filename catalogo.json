@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25j",
+ "version": "2026-09-25k",
  "marcas": [
   {
    "key": "larocheposay",
@@ -42690,6 +42690,21 @@
       "0769915236460"
      ],
      "inci": "Hydrogenated Polyisobutene, Caprylyl Glycol, Polyglyceryl-3 Stearate, Palmitoyl Isoleucine, Anemarrhena Asphodeloides Root Extract, Rhus Succedanea Fruit Wax, Tocopherol"
+    }
+   ]
+  },
+  {
+   "key": "caudalie",
+   "nombre": "Caudalie",
+   "productos": [
+    {
+     "nombre": "VinoHydra Crema Sorbete Hidratante 60 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3522930004387"
+     ],
+     "inci": "Aqua/Water/Eau, Vitis Vinifera (Grape) Fruit Water, Dicaprylyl Ether, Glycerin, Butyrospermum Parkii (Shea) Butter Extract, C12-16 Alcohols, Hexyldecanol, Hexyldecyl Laurate, Palmitoyl Grape Seed Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Palmitic Acid, Erythritol, Lecithin, Sodium Benzoate, Caprylyl Glycol, Mannitol, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Xanthan Gum, Vitis Vinifera (Grape) Juice, Ceramide NP, Sodium Hydroxide, Chamomilla Recutita (Matricaria) Flower Extract, Sodium Carboxymethyl Beta-Glucan, Sodium Citrate, Citric Acid, Sodium Hyaluronate, Sodium Phytate, Potassium Sorbate, Biosaccharide Gum-1, Sodium Levulinate, Glyceryl Caprylate, Homarine HCl, Sodium Anisate, Acetyl Tetrapeptide-15, Parfum (Fragrance)"
     }
    ]
   }
