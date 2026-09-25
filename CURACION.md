@@ -791,6 +791,11 @@ Pedido de Mariana tras su escaneo de la Crema Sorbete. Fuente única: la web esp
   marcan cosmética. Regresión: 0 cambios en las 4.475 fichas anteriores. Sin más falsos positivos
   (propilenglicol de verdad en la Gelatina Purificante; el Propylene Glycol Stearate de la CC Cream no
   salta). La 211 salta en 11 (lavandín y lavanda de la gama Vinopure y aguas). Sin falsos negativos.
+- **Contraste con etiquetas de Open Beauty Facts** (mismo código): 27 de los 76 códigos están en OBF,
+  6 con la lista transcrita. 4 coinciden salvo erratas de quien la tecleó; 2 son etiquetas de otra
+  versión: la Mascarilla Instant Detox (etiqueta de Turquía con Petroselinum Crispum Seed Oil y Algin,
+  fórmula anterior) y el Gel de Ducha Thé des Vignes (etiqueta francesa "(123/013)" con el Parfum en
+  5.º lugar y Disodium Cocoyl Glutamate). Se deja la web; el detector da lo mismo con las dos.
 
 ### 2026-09-25 · Caudalie VinoHydra Crema Sorbete Hidratante 60 ml (3522930004387) — escaneo de Mariana en tienda — resuelto (versión 2026-09-25k)
 Marca nueva, Caudalie (marca `caudalie`). Fotos de Mariana del tubo (EAN y lista legibles; código
