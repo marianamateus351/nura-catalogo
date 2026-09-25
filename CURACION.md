@@ -1018,8 +1018,9 @@ perfume ni siloxanos cíclicos).
   Se guarda en inglés con el orden de Douglas, que es el del envase. Mariana: compara con la
   aportación de la usuaria; si el tubo da el otro orden, se cambia en un minuto.
 
-**Sigue igual:** Cosmia (Alcampo) como marca, por nombre e INCI de alcampo.es,
-nunca por el código interno 20525101.
+~~**Sigue igual:** Cosmia (Alcampo) como marca, por nombre e INCI de alcampo.es,
+nunca por el código interno 20525101.~~ — **hecho el 2026-09-25**: 115 códigos (EAN de Alcampo +
+composición de auchan.fr); ver su apartado.
 
 **NO curar sin que Mariana lo decida:** `91598271` VICKS VapoRub es un
 **medicamento**, no un cosmético (sin INCI, fuera del reglamento cosmético). Está
@@ -1359,6 +1360,24 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Cosmia (Alcampo / Auchan) — abierta 2026-09-25 (versión 2026-09-25d): 115 productos, 115 códigos
+Hueco de Datos del 2026-09-15 (marca blanca de Alcampo; el código 20525101 de aquel pedido sigue
+sin identificar, ver esa entrada). Dos fuentes oficiales, una para cada cosa:
+- **EAN**: la tienda de Alcampo (`compraonline.alcampo.es`, plataforma Ocado) tiene una API por
+  producto, `/api/webproductpagews/v5/products/bop?retailerProductId=<id>`, con el EAN en
+  `bopData.fields[features]` ("EAN | 3596710516957"). La búsqueda solo enseña 50 resultados por
+  consulta: se unieron 41 búsquedas por tipo de producto (201 fichas, 133 con EAN). **El firewall
+  corta si se va rápido**: con pausas y reintentos.
+- **Composición**: Cosmia es de **Auchan SAS** (el "operador" que da la propia Alcampo) y
+  **auchan.fr** publica la "Composition" de cada ficha con su "Réf / EAN". Se busca el EAN en
+  auchan.fr y **solo se acepta si la ficha francesa muestra ese mismo EAN**. 121 de 133.
+- Fuera: 6 maquinillas (la composición que da Auchan es la de la banda lubricante), la esponja,
+  un 3 en 1 sin composición y 10 que auchan.fr no vende (champús secos, desodorantes, el
+  anticaspa con climbazol, la mascarilla de argán…).
+- Nombre: el de Alcampo sin "COSMIA" delante. Asteriscos de ingredientes ecológicos quitados.
+- Revisión FP/FN: sin falsos positivos (el "aroma" que salta es el de la pasta de dientes, bien).
+  Falso negativo con decisión pendiente: el aceite de lavanda (decisión C).
+
 ### Embarazo y bebé: Mustela, Nenuco, Suavinex — 2026-09-25 (versión 2026-09-25c): 47 productos, 61 códigos
 Cola del 25-09, punto 3.
 - **Mustela** (mustela.es, Shopify de Laboratoires Expanscience): **web oficial sola**. EAN por
@@ -1434,6 +1453,14 @@ y en Ausonia por "polipropileno"/"poliéster", como dice su propia ficha.
     polipropileno).
   Propuesta: añadir "polyethylene, polietileno, poliolefinas, polyolefin, polyethylene
   terephthalate" a la 191. Dime sí o no.
+- **C) Aceites esenciales de lavanda y árbol del té.** Hoy ninguna regla los reconoce. Hay señal
+  publicada de actividad estrogénica y antiandrogénica (Henley et al. 2007, NEJM: ginecomastia
+  prepuberal con productos de lavanda y árbol del té; Ramsey et al. 2019, in vitro, con
+  componentes como linalyl acetate y terpineol), aunque la evidencia en personas es de casos
+  aislados y está discutida. Números: **"Lavandula" en 41 fichas** (Davines 12, Nivea 7, Cosmia 6,
+  Cocunat 4, Haruharu 4…) y árbol del té en 1. Si entra, propuesta: riesgo "Emergente", alias
+  "lavandula angustifolia oil, lavandula oil, lavender oil, lavandula hybrida oil, lavandin
+  oil, melaleuca alternifolia leaf oil, tea tree oil". Dime sí o no.
 
 ### Endocare (Cantabria Labs) — abierta 2026-09-25: 4 productos, 4 códigos (de 43 EAN encontrados)
 Cola del 25-09, punto 1. Mismo circuito que Biretix y Heliocare: cantabrialabs.es no publica
@@ -1872,6 +1899,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Cosmia (Alcampo/Auchan) | — | sí, API de compraonline.alcampo.es (`bop`), con pausas | composición en auchan.fr, mismo EAN | ver su apartado |
 | Mustela | Shopify (`products.json`, 117 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, en la ficha | web oficial sola; ver su apartado |
 | Nenuco | sí (`sitemap-0.xml`, 10 fichas) | **no** | sí | código solo con nombre y tamaño exactos o lista idéntica |
 | Evax · Tampax (P&G) | solo 3 fichas de Tampax; las de Evax por la web | sí, en el bloque de reseñas de cada ficha (`bvData.eaNs`), mezclado entre familias | no hay INCI: composición en dos artículos de evaxtampax.es | código solo si es único de una familia; ver su apartado |
@@ -1934,13 +1962,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4516 códigos en 57 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+4631 códigos en 58 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
-Heliocare 5 · **Endocare 4** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2992 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
+Carrefour 1. Ninguno de los 3107 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
