@@ -838,7 +838,8 @@ escritas para Mariana, como las cuatro de Asevi.
    INCI); dental Oral-B y Lacer; limpieza Bosque Verde y KH-7 (método 648/2004, como Asevi).
    — **Catrice y Essence hechas el 2026-09-25** (versión 2026-09-25e): 677 + 740 códigos; ver
    su apartado. Siguen Babaria, Byphasse, Lactovit, Vaseline, TRESemmé, Gliss, Syoss, Oral-B,
-   Lacer, Bosque Verde y KH-7.
+   Lacer, Bosque Verde y KH-7. **Vaseline, TRESemmé y Gliss hechas** (versión 2026-09-25f:
+   29 + 18 + 29 códigos); Syoss sin fuente válida.
 6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
    Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
 
@@ -1374,6 +1375,41 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
   promo packs `5600358…`. Todo en `bio/match.txt`.
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
+
+### Vaseline, TRESemmé, Gliss y Syoss — 2026-09-25 (versión 2026-09-25f): 66 productos, 76 códigos
+Cola del 25-09, punto 5. Notas y ejemplos con URL en el scratchpad (`c5/<marca>_notas.md`).
+- **Vaseline (Unilever) — 25 productos, 29 códigos.** `vaseline.com/es` no existe (404, sin
+  versión española): se usó **vaseline.com/uk**, misma plataforma que Dove (código e INCI por
+  variante en `data-productvariants`). Los códigos son los europeos (`871…`/`872…`, EAN-8 de
+  Unilever en la vaselina original y el Lip Therapy Rosy) y la etiqueta de 8712561480369 en OBF
+  lleva texto y teléfono de España. Nombres traducidos al castellano. Etiquetas de OBF revisadas
+  a mano como contraste. Fuera: body butter 8710908737329 y Essential Healing 200 ml
+  8712561479806 (Lilial: fórmula antigua; el de 400 ml entra), Advanced Repair 200 ml
+  8712561478762 (la etiqueta muestra otra fórmula), Cocoa Radiant loción 8712561483094 y
+  8712561483162 (dos etiquetas sin Benzyl Alcohol, Citronellol ni CI 77891 que sí da la web).
+- **TRESemmé (Unilever) — 12 productos, 18 códigos.** `tresemme.com/es`, código e INCI de la
+  misma variante. 28 fichas, 42 códigos, solo 15 variantes con lista. Champú y acondicionador
+  Intensa Hidratación: la lista está solo en la variante de 100 ml, y **por la regla de Dove**
+  (tamaños bajo la misma ficha comparten lista, regla 4) entran también sus 400 y 685 ml
+  (8720181435201/256, 8720181435249/331). Fuera: mascarilla Repara & Fortalece 8720181238086
+  (Lilial y texto de otra ficha pegado) y 27 códigos sin lista.
+- **Gliss (Henkel) — 29 productos, 29 códigos.** `schwarzkopf.es` (sitemap, 37 fichas de
+  Gliss): `gtin` en los datos estructurados de la ficha e INCI completo; además se exige que el
+  código coincida con el del nombre del archivo de la foto del producto, porque la web tiene
+  copias. Fuera: los 3 Full Hair Wonder (código copiado de Oil Nutritive y lista traducida),
+  champú Long & Sublime (código de ficha ≠ código de la foto), sérum Aqua Revive (lista cortada),
+  Total Repair Reflex Shine y Tratamiento de Puntas (dos productos con la misma lista: uno es
+  copia). "7 Seconds" publicado dos veces con el mismo código: una entrada.
+- **Syoss (Henkel) — no entra.** `syoss.es` da listas pero ningún código; las de tintes (Permanent
+  Color, Oleo Intense, Brow Tint, Root Retouch) están traducidas al castellano. Primor da códigos
+  pero con listas de fórmulas antiguas que no coinciden con syoss.es, a veces en el mismo código
+  (mousse Keratin 5201143155199). Color Glaze: códigos sin tono. La Matt Cream (84461032) tiene la
+  lista cortada en syoss.es y en Primor; completa solo en la foto de etiqueta de OBF (fuente única:
+  no vale).
+- **Revisión FP/FN:** sin falsos positivos (el "Aroma" que salta en los bálsamos labiales de
+  Vaseline es el saborizante, bien; "Sodium Methylparaben" en Gliss es un parabeno, bien). Sin
+  falsos negativos nuevos (estireno: mismo criterio que el 21-09). Regresión: 0 cambios en las
+  fichas anteriores (no se ha tocado la app).
 
 ### Catrice y essence (Cosnova) — abiertas 2026-09-25 (versión 2026-09-25e): 505 + 541 productos, 677 + 740 códigos
 Cola del 25-09, punto 5. Fuente única: las webs oficiales en español, `catrice.eu/es-es` y
@@ -1986,6 +2022,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Evax · Tampax (P&G) | solo 3 fichas de Tampax; las de Evax por la web | sí, en el bloque de reseñas de cada ficha (`bvData.eaNs`), mezclado entre familias | no hay INCI: composición en dos artículos de evaxtampax.es | código solo si es único de una familia; ver su apartado |
 | Ausonia (P&G) | sí (`sitemap.xml`, 153) | sí (`gtin` por variante) | composición solo de la gama Discreet | ver "Higiene íntima y menstrual" |
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
+| Vaseline · TRESemmé (Unilever) | Vaseline: solo vaseline.com/uk | sí, por variante (`data-productvariants`) | sí, por variante | como Dove, `dvcurl.sh` |
+| Gliss (Henkel) | sí (schwarzkopf.es) | sí, `gtin` + código en el archivo de la foto | sí | ver su apartado; Syoss sin códigos |
 | Catrice · essence (Cosnova) | sí (sitemap de producto por país, `es-es`) | sí, `gtin13` en el JSON-LD y `gtin` en el objeto de producto | sí, `c_inciList` del mismo objeto (o referencia `$xx` en los datos de Next.js) | ver su apartado |
 | Davines | Shopify por país: **es.davines.com** (la global va atrasada) | sí, `gtin13` + `sku` en el JSON-LD y en el nombre de la foto | sí, completo en la ficha | web española; ver su apartado |
 | Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
@@ -2044,13 +2082,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6048 códigos en 60 marcas: NYX 999 · **essence 740** · **Catrice 677** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6124 códigos en 63 marcas: NYX 999 · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4153 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4219 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25e",
+ "version": "2026-09-25f",
  "marcas": [
   {
    "key": "larocheposay",
@@ -39683,6 +39683,628 @@
       "4059729586650"
      ],
      "inci": "Talc, Synthetic Fluorphlogopite, Silica, Magnesium Myristate, Synthetic Wax, Dimethicone, Caprylic/Capric Triglyceride, Isononyl Isononanoate, Aluminum Hydroxide, Boron Nitride, Tocopheryl Acetate, Triethoxycaprylylsilane, Dimethiconol, Caprylyl Glycol, Ethylhexylglycerin, Kaolin, Polyhydroxystearic Acid, Phenoxyethanol, Parfum (Fragrance), Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, CI 73360 (Red 30 Lake), CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), CI 77742 (Manganese Violet), CI 77891 (Titanium Dioxide)"
+    }
+   ]
+  },
+  {
+   "key": "vaseline",
+   "nombre": "Vaseline",
+   "productos": [
+    {
+     "nombre": "Loción corporal Intensive Care Advanced Repair sin perfume 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561480369"
+     ],
+     "inci": "Aqua, Glycerin, Stearic Acid, Isopropyl Palmitate, Glycol Stearate, PEG-100 Stearate, Dimethicone, Paraffinum Liquidum, Glyceryl Stearate, Petrolatum, Cetyl Alcohol, Phenoxyethanol, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Propylparaben, Stearamide AMP, Disodium EDTA"
+    },
+    {
+     "nombre": "Loción corporal Intensive Care Aloe Soothe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561481663",
+      "8712561482318"
+     ],
+     "inci": "Aqua, Glycerin, Stearic Acid, Isopropyl Myristate, Paraffinum Liquidum, Glyceryl Stearate, Glycol Stearate, Dimethicone, PEG-100 Stearate, Petrolatum, Cetyl Alcohol, Tapioca Starch, Phenoxyethanol, Magnesium Aluminum Silicate, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum, Sodium Hydroxide, Propylparaben, Xanthan Gum, Disodium EDTA, Stearamide AMP, Aloe Barbadensis Leaf Juice Powder, Benzyl Alcohol, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Loción corporal Intensive Care Essential Healing 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561484398"
+     ],
+     "inci": "Aqua, Glycerin, Stearic Acid, Isopropyl Myristate, Paraffinum Liquidum, Glyceryl Stearate, Glycol Stearate, Dimethicone, PEG-100 Stearate, Petrolatum, Cetyl Alcohol, Tapioca Starch, Phenoxyethanol, Magnesium Aluminum Silicate, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum, Sodium Hydroxide, Propylparaben, Xanthan Gum, Disodium EDTA, Stearamide AMP, Lactic Acid, Avena Sativa Straw Extract, Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Cinnamyl Alcohol, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Loción corporal Intensive Care Mature Skin Rejuvenation 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714100012604"
+     ],
+     "inci": "Aqua, Glycerin, Dimethicone, Stearic Acid, Caprylic/Capric Triglyceride, Glycol Stearate, PEG-100 Stearate, Petrolatum, Glyceryl Stearate, Phenoxyethanol, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Methylparaben, Parfum, Propylparaben, Disodium EDTA, Stearamide AMP, Carbomer, Niacinamide, Hydroxystearic Acid, Benzyl Alcohol, Citronellol, Hexyl Cinnamal, Limonene, Linalool, CI 77891"
+    },
+    {
+     "nombre": "Loción en spray Intensive Care Aloe Soothe 190 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561692533"
+     ],
+     "inci": "Aqua, Isopropyl Myristate, Glycerin, Sorbitan Isostearate, Dimethicone, Polyglyceryl-3 Diisostearate, Phenoxyethanol, Tapioca Starch, Methylparaben, Parfum, Carbomer, Xanthan Gum, Stearic Acid, Propylparaben, Ammonium Acryloyldimethyltaurate/VP Copolymer, Disodium EDTA, Sodium Hydroxide, Petrolatum, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Benzyl Alcohol, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Crema de manos Intensive Care Healthy Hands Stronger Nails",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561485524",
+      "8712561485548"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Dimethicone, Stearic Acid, Glycerin, Glycol Stearate, Triethanolamine, Glyceryl Stearate, Phenoxyethanol, Petrolatum, Cetyl Alcohol, Magnesium Aluminum Silicate, Parfum, Methylparaben, Carbomer, Disodium EDTA, Stearamide AMP, Hydrolyzed Keratin, Propylparaben, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Crema de manos Intensive Care Hand Cream + Anti-Bac 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561479776"
+     ],
+     "inci": "Aqua, Glycerin, Tapioca Starch, Polyquaternium-37, Dicaprylyl Carbonate, Phenoxyethanol, Caprylyl Glycol, Lauryl Glucoside, Benzethonium Chloride, Parfum, Citric Acid, Pentasodium Pentetate, Tocopheryl Acetate, Cocos Nucifera Oil, Helianthus Annuus Seed Oil, Citronellol, Limonene, Linalool, CI 77891"
+    },
+    {
+     "nombre": "Aceite corporal en gel Cocoa Radiant 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8712561485579"
+     ],
+     "inci": "Paraffinum Liquidum, Hydrogenated Styrene/Butadiene Copolymer, Parfum, Theobroma Cacao Seed Butter, Benzyl Alcohol, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Linalool"
+    },
+    {
+     "nombre": "Expert Care Dark Spot Rescue (loción corporal antimanchas)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181164019"
+     ],
+     "inci": "Aqua, Ethylhexyl Salicylate, Glycerin, Stearic Acid, Phenylbenzimidazole Sulfonic Acid, Glycol Stearate, PEG-100 Stearate, Butyl Methoxydibenzoylmethane, Dimethicone, Octocrylene, Glyceryl Stearate, Caprylyl Glycol, Potassium Hydroxide, Phenoxyethanol, Carbomer, Cetyl Alcohol, Xanthan Gum, Parfum, Sodium Hydroxide, Niacinamide, Disodium EDTA, BHT, Stearamide AMP, Potassium Carbonate, Petrolatum, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Expert Care Extremely Dry Skin Rescue (bálsamo reparador)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181101311"
+     ],
+     "inci": "Aqua, Petrolatum, Paraffinum Liquidum, Glycerin, Stearic Acid, Glycol Stearate, Triethanolamine, Glyceryl Stearate, Paraffin, Cetyl Alcohol, Cera Microcristallina, Phenoxyethanol, Magnesium Aluminum Silicate, Methylparaben, Carbomer, Stearamide AMP, Disodium EDTA, Propylparaben, CI 77891"
+    },
+    {
+     "nombre": "Expert Care Instant Dry Skin Rescue (loción corporal)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181101274"
+     ],
+     "inci": "Aqua, Glycerin, Stearic Acid, Isopropyl Palmitate, Glycol Stearate, PEG-100 Stearate, Dimethicone, Paraffinum Liquidum, Glyceryl Stearate, Petrolatum, Cetyl Alcohol, Hydrolyzed Hyaluronic Acid, Phenoxyethanol, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Propylparaben, Stearamide AMP, Disodium EDTA, Hydroxystearic Acid"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Dewy Radiance 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181698934"
+     ],
+     "inci": "Aqua, Dimethicone, Isohexadecane, Glycerin, Niacinamide, Carbomer, Phenoxyethanol, Parfum, Methylparaben, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Cystine, Glycine, Sodium PCA, Petrolatum, Sodium Hyaluronate, Glutathione, Citronellol, Citrus Aurantium Peel Oil, Dimethyl Phenethyl Acetate, Geranyl Acetate, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Rose Ketone, CI 77891"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Flawless Tone 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181698958"
+     ],
+     "inci": "Aqua, Ethylhexyl Methoxycinnamate, Niacinamide, Glycerin, Triethanolamine, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Butyl Methoxydibenzoylmethane, Undecane, Parfum, Methylparaben, Tridecane, Propylparaben, Styrene/Acrylates Copolymer, Disodium EDTA, Coco-Glucoside, Glycine, Cystine, Potassium Hydroxide, Sodium PCA, BHT, Petrolatum, Citric Acid, Benzoic Acid, Sodium Hyaluronate, Glutathione, Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Geraniol, Geranyl Acetate, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Pinene, Terpineol"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Overnight Radiance 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181698972"
+     ],
+     "inci": "Aqua, Dimethicone, Glycerin, Isohexadecane, Niacinamide, Carbomer, Phenoxyethanol, Methylparaben, Parfum, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Cystine, Glycine, Sodium PCA, Hydrolyzed Collagen, Sodium Hyaluronate, Glutathione, Petrolatum, Alpha-Isomethyl Ionone, Citronellol, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, CI 77891"
+    },
+    {
+     "nombre": "Vaselina Original (Protecting Jelly)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "42182627",
+      "42182634",
+      "42182658"
+     ],
+     "inci": "Petrolatum"
+    },
+    {
+     "nombre": "Bálsamo labial Lip Therapy Original 20 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099802150117"
+     ],
+     "inci": "Petrolatum"
+    },
+    {
+     "nombre": "Bálsamo labial Lip Therapy Aloe Vera 20 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714100597347"
+     ],
+     "inci": "Petrolatum, Aloe Barbadensis Extract, Isopropyl Myristate, Aroma, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Eugenol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Bálsamo labial Lip Therapy Cocoa 20 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718114642871"
+     ],
+     "inci": "Petrolatum, Theobroma Cacao Seed Butter, Aroma, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Limonene"
+    },
+    {
+     "nombre": "Bálsamo labial Lip Therapy Rosy 20 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "50064861"
+     ],
+     "inci": "Petrolatum, Rosa Damascena Flower Oil, Prunus Amygdalus Dulcis Oil, Aroma, Linalool, CI 73360, CI 77891"
+    },
+    {
+     "nombre": "Bálsamo labial en barra Lip Therapy Original 4 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8711600352513"
+     ],
+     "inci": "Octyldodecanol, Caprylic/Capric Triglyceride, C10-18 Triglycerides, PEG-8 Beeswax, Polyethylene, Cera Alba, Euphorbia Cerifera Cera, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Petrolatum, Glycerin, Bisabolol, Panthenol, Tocopheryl Acetate, BHT"
+    },
+    {
+     "nombre": "Bálsamo labial en barra Lip Therapy Aloe 4 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8711600352728"
+     ],
+     "inci": "Octyldodecanol, Caprylic/Capric Triglyceride, C10-18 Triglycerides, PEG-8 Beeswax, Polyethylene, Cera Alba, Euphorbia Cerifera Cera, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Petrolatum, Glycerin, Aroma, Helianthus Annuus Seed Oil, Chamomilla Recutita Flower Extract, Cucumis Sativus Fruit Extract, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate, Retinyl Palmitate, BHT, Tocopherol, Citronellol, Eugenol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Bálsamo labial en barra Lip Therapy Cocoa 4 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8711600353091"
+     ],
+     "inci": "Octyldodecanol, Caprylic/Capric Triglyceride, C10-18 Triglycerides, PEG-8 Beeswax, Polyethylene, Cera Alba, Euphorbia Cerifera Cera, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Glycerin, Petrolatum, Butyrospermum Parkii Butter, Theobroma Cacao Seed Butter, Tocopheryl Acetate, Aroma, BHT, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Limonene, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Bálsamo labial en barra Lip Therapy Rosy 4 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8711600352889"
+     ],
+     "inci": "Octyldodecanol, Caprylic/Capric Triglyceride, C10-18 Triglycerides, PEG-8 Beeswax, Polyethylene, Cera Alba, Euphorbia Cerifera Cera, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Petrolatum, Glycerin, Prunus Amygdalus Dulcis Oil, Rosa Canina Fruit Oil, Tocopheryl Acetate, Aroma, BHT, Linalool, CI 15850, CI 77491, CI 77492, CI 77499"
+    },
+    {
+     "nombre": "Bálsamo labial Original Therapy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181061721"
+     ],
+     "inci": "Petrolatum, Parfum"
+    },
+    {
+     "nombre": "Bálsamo labial Rosy Tinted",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181061769"
+     ],
+     "inci": "Petrolatum, Parfum, Sodium Chloride, Sodium Sulfate, Linalool, CI 77891, CI 73360"
+    }
+   ]
+  },
+  {
+   "key": "tresemme",
+   "nombre": "TRESemmé",
+   "productos": [
+    {
+     "nombre": "Crema de rizos Hidratante 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8717163638941"
+     ],
+     "inci": "Aqua, VP/VA Copolymer, Aloe Barbadensis Leaf Juice Powder, Butylene Glycol, Caprylyl Glycol, Citric Acid, Cocos Nucifera Fruit Extract, Cocos Nucifera Oil, Disodium EDTA, DMDM Hydantoin, Glycerin, Iodopropynyl Butylcarbamate, Isopropyl Alcohol, Lactic Acid, Laurtrimonium Chloride, Parfum, PEG-40 Hydrogenated Castor Oil, Pentylene Glycol, Phenoxyethanol, Polyquaternium-11, Propylene Glycol, Sine Adipe Lac, Sodium Hydroxide, Coumarin, Linalool"
+    },
+    {
+     "nombre": "Tratamiento Intensivo Purifica & Hidrata 1 min WOW 170 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181231209"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Dimethicone, Parfum, Dipropylene Glycol, Cetyl Palmitate, Amodimethicone, Gluconolactone, Trehalose, Disodium EDTA, Phenoxyethanol, PEG-7 Propylheptyl Ether, Cetrimonium Chloride, Magnesium Nitrate, Sodium Sulfate, Lactic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Hydrolyzed Hyaluronic Acid, Benzyl Alcohol, Benzyl Salicylate, Geraniol, Limonene"
+    },
+    {
+     "nombre": "Tratamiento Intensivo Liso Keratina 1 min WOW",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181514944"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Dimethicone, Hydrolyzed Keratin, Gluconolactone, Trehalose, Sodium Sulfate, Dipropylene Glycol, Cetyl Palmitate, Parfum, Amodimethicone, Disodium EDTA, Phenoxyethanol, PEG-7 Propylheptyl Ether, Cetrimonium Chloride, Magnesium Nitrate, Lactic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Benzyl Alcohol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Mascarilla Botanique Nutre y Fortalece 440 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181238048"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Cocos Nucifera Oil, Behentrimonium Chloride, Parfum, Aloe Barbadensis Leaf Juice Powder, Cocos Nucifera Fruit Extract, Dipropylene Glycol, Lactic Acid, Sodium Chloride, Disodium EDTA, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Sine Adipe Lac, Coumarin, Linalool"
+    },
+    {
+     "nombre": "Mascarilla Liso Keratina 440 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181238406"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Dimethicone, Behentrimonium Chloride, Parfum, Dipropylene Glycol, Lactic Acid, Amodimethicone, Disodium EDTA, Sodium Chloride, Phenoxyethanol, PEG-7 Propylheptyl Ether, Cetrimonium Chloride, Magnesium Nitrate, Hydrolyzed Keratin, Sclerocarya Birrea Seed Oil, Argania Spinosa Kernel Oil, Benzyl Alcohol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Mascarilla Hidratación Intensa 440 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181239168"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Stearamidopropyl Dimethylamine, Behentrimonium Chloride, Glycerin, Amodimethicone, Argania Spinosa Kernel Oil, Cetrimonium Chloride, Dipropylene Glycol, Disodium EDTA, Hydroxyethylcellulose, Lactic Acid, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Paraffinum Liquidum, Parfum, PEG-150 Distearate, PEG-180M, PEG-7 Propylheptyl Ether, Petrolatum, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Silica, Silk Amino Acids, Sodium Chloride, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Champú Intensa Hidratación (100, 400 y 685 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "50297627",
+      "8720181435201",
+      "8720181435256"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Dimethiconol, Parfum, Sodium Benzoate, Citric Acid, Glycol Distearate, Carbomer, Guar Hydroxypropyltrimonium Chloride, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Cocamide MEA, Disodium EDTA, PEG-45M, Phenoxyethanol, Tocopheryl Acetate, Citrus Tangerina Peel Oil, Sodium Hydroxide, PPG-6, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Acondicionador Intensa Hidratación (100, 400 y 685 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "50297696",
+      "8720181435249",
+      "8720181435331"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Stearamidopropyl Dimethylamine, Behentrimonium Chloride, Parfum, Dipropylene Glycol, Lactic Acid, Amodimethicone, Sodium Chloride, Disodium EDTA, PEG-7 Propylheptyl Ether, Cetrimonium Chloride, Phenoxyethanol, Magnesium Nitrate, Tocopheryl Acetate, Methylchloroisothiazolinone, Methylisothiazolinone, Citrus Tangerina Peel Oil, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Champú Lamellar Shine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181528798",
+      "8720181528804"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Parfum, Dimethiconol, Glycol Distearate, Citric Acid, Sodium Benzoate, Carbomer, Guar Hydroxypropyltrimonium Chloride, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Cocamide MEA, Disodium EDTA, PEG-45M, Phenoxyethanol, Arginine, Lysine HCl, Macadamia Integrifolia/Tetraphylla Seed Oil, Cocos Nucifera Oil, Ceramide NG, Sodium Sulfate, Sodium Hydroxide, PPG-6, Mica, Benzyl Alcohol, Benzyl Salicylate, Hexyl Cinnamal, Limonene, Linalool, CI 17200, CI 19140, CI 42090, CI 77891"
+    },
+    {
+     "nombre": "Acondicionador Lamellar Shine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181528811",
+      "8720181528828"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Stearamidopropyl Dimethylamine, Parfum, Behentrimonium Chloride, Dipropylene Glycol, Lactic Acid, Amodimethicone, Sodium Chloride, Disodium EDTA, PEG-7 Propylheptyl Ether, Cetrimonium Chloride, Phenoxyethanol, Magnesium Nitrate, Arginine, Macadamia Integrifolia/Tetraphylla Seed Oil, Cocos Nucifera Oil, Lysine HCl, Ceramide NG, Methylisothiazolinone, Methylchloroisothiazolinone, Benzyl Alcohol, Benzyl Salicylate, Hexyl Cinnamal, Limonene, Linalool, CI 17200, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Aceite Lamellar Shine 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181539183"
+     ],
+     "inci": "Cyclopentasiloxane, Paraffinum Liquidum, Dimethiconol, Helianthus Annuus Seed Oil, Parfum, Beta-Carotene, Glycine Soja Oil, Cocos Nucifera Oil, Macadamia Integrifolia/Tetraphylla Seed Oil, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Sérum Lamellar Shine 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181539404"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Lactic Acid, Stearamidopropyl Dimethylamine, Behentrimonium Chloride, Parfum, Sodium Benzoate, Dipropylene Glycol, Sodium Chloride, Trideceth-5, Disodium EDTA, Arginine, PEG-7 Glyceryl Cocoate, Ceramide NG, Cocos Nucifera Oil, Macadamia Integrifolia/Tetraphylla Seed Oil, Lysine HCl, Citric Acid, Carbomer, Xanthan Gum, Potassium Sorbate, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, CI 17200, CI 19140, CI 42090"
+    }
+   ]
+  },
+  {
+   "key": "gliss",
+   "nombre": "Gliss",
+   "productos": [
+    {
+     "nombre": "Champú Aqua Revive 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436447423"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethylsilanol Hyaluronate, Glycerin, Laminaria Saccharina Extract, Hydrolyzed Keratin, Parfum (Fragrance), Sodium Benzoate, Coco-Glucoside, Polyquaternium-10, Glyceryl Oleate, Citric Acid, PEG-120 Methyl Glucose Dioleate, Panthenol, Benzyl Salicylate, Sodium Hydroxide, Linalool, Propylene Glycol, Phenoxyethanol, Potassium Sorbate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Acondicionador de Reparación Express Aqua Revive 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5201143753876"
+     ],
+     "inci": "Aqua/Water/Eau, Trisiloxane, Dimethicone, Prunus Armeniaca (Apricot) Kernel Oil, Phenyl Trimethicone, Dimethylsilanol Hyaluronate, Glycerin, Laminaria Saccharina Extract, Hydrolyzed Keratin, Dimethiconol, Polyquaternium-16, Parfum (Fragrance), Cetyl PEG/PPG-10/1 Dimethicone, Cetrimonium Chloride, Lactic Acid, Panthenol, Sodium Benzoate, Benzyl Salicylate, Linalool, Phenoxyethanol, Potassium Sorbate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Mascarilla Aqua Revive 4 en 1 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457873"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Dimethylsilanol Hyaluronate, Parfum (Fragrance), Amodimethicone, Lactic Acid, Butyrospermum Parkii (Shea) Butter, Isopropyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Panthenol, Sodium Benzoate, Ceteareth-20, Benzyl Salicylate, Trideceth-10, Phenoxyethanol, Linalool, Benzyl Alcohol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Champú Color Perfector 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5201143151993"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Magnesium Chloride, Dimethicone, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Dimethylsilanol Hyaluronate, Glycerin, Hydrolyzed Keratin, Magnesium Citrate, Parfum (Fragrance), Sodium Benzoate, PEG-120 Methyl Glucose Dioleate, Amodimethicone, Citric Acid, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, PEG-40 Hydrogenated Castor Oil, Hydrogenated Castor Oil, Glycol Distearate, Laureth-4, Prunus Armeniaca (Apricot) Kernel Oil, Laureth-23, Trideceth-10, Sodium Hydroxide, Propylene Glycol, Benzyl Alcohol, Phenoxyethanol, Sodium Salicylate, Potassium Sorbate, Sorbic Acid"
+    },
+    {
+     "nombre": "Acondicionador Color Perfector 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436165495"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Isopropyl Myristate, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Dimethylsilanol Hyaluronate, Glycerin, Hydrolyzed Keratin, Magnesium Citrate, Stearamidopropyl Dimethylamine, Cetyl Palmitate, Parfum (Fragrance), Phenoxyethanol, Isopropyl Alcohol, Methylparaben, Citric Acid, Dimethicone, Polyquaternium-37, Cetrimonium Chloride, Dicaprylyl Carbonate, Prunus Armeniaca (Apricot) Kernel Oil, Guar Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Benzyl Alcohol, Potassium Sorbate, Sorbic Acid"
+    },
+    {
+     "nombre": "Mascarilla Color Perfector 4 en 1 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8015700167801"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Magnesium Citrate, Parfum (Fragrance), Amodimethicone, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Isopropyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Sodium Benzoate, Ceteareth-20, Trideceth-10, Phenoxyethanol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Potassium Sorbate, Sorbic Acid"
+    },
+    {
+     "nombre": "Champú Liquid Silk 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436456869"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycosphingolipids, Hydrolyzed Silk, Sericin, Hydrolyzed Keratin, Parfum (Fragrance), PEG-7 Glyceryl Cocoate, Polyquaternium-10, Sodium Benzoate, PEG-120 Methyl Glucose Dioleate, Coco-Glucoside, Glyceryl Oleate, Citric Acid, PEG-40 Hydrogenated Castor Oil, Glycol Distearate, Hydrogenated Castor Oil, Butylene Glycol, Laureth-4, Prunus Armeniaca (Apricot) Kernel Oil, Propylene Glycol, Sodium Hydroxide, Benzyl Alcohol, Phenoxyethanol, Potassium Sorbate, Methylparaben, Propylparaben"
+    },
+    {
+     "nombre": "Mascarilla Liquid Silk 4 en 1 Brillo 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457699"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Glycosphingolipids, Hydrolyzed Silk, Sericin, Parfum (Fragrance), Amodimethicone, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Isopropyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Butylene Glycol, Sodium Benzoate, Ceteareth-20, Trideceth-10, Phenoxyethanol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Potassium Sorbate, Methylparaben, Propylparaben"
+    },
+    {
+     "nombre": "Acondicionador Exprés Long & Sublime 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436307277"
+     ],
+     "inci": "Aqua/Water/Eau, Trisiloxane, Dimethicone, Prunus Armeniaca (Apricot) Kernel Oil, Phenyl Trimethicone, Hydrolyzed Keratin, Biotin, Paeonia Lactiflora Root Extract, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, Dimethiconol, Polyquaternium-16, Parfum (Fragrance), Cetyl PEG/PPG-10/1 Dimethicone, Cetrimonium Chloride, Glycerin, Lactic Acid, Sodium Benzoate, Trideceth-5, Benzyl Alcohol, Phenoxyethanol, Alpha-Isomethyl Ionone, Limonene, Potassium Sorbate"
+    },
+    {
+     "nombre": "Night Elixir Hidratación 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9000101702224"
+     ],
+     "inci": "Aqua/Water/Eau, Dimethicone, Cetearyl Alcohol, Behentrimonium Chloride, Laureth-4, Isopropyl Myristate, Hydroxyoctanone, Dimethylsilanol Hyaluronate, Panthenol, Betaine, Hydroxyethylcellulose, Cetrimonium Chloride, Parfum (Fragrance), Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Propylene Glycol, Cetrimonium Methosulfate, Citric Acid, Sodium Salicylate, Quaternium-87, Phenoxyethanol, Quaternium-91, Methylparaben, Laureth-23, Linalool, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Citronellol, Benzyl Alcohol, Coumarin"
+    },
+    {
+     "nombre": "Night Elixir Reconstrucción 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8015700168037"
+     ],
+     "inci": "Aqua/Water/Eau, Dimethicone, Cetearyl Alcohol, Behentrimonium Chloride, Laureth-4, Isopropyl Myristate, Hydroxyoctanone, Glycerin, Cetrimonium Chloride, Panthenol, Betaine, Hydroxyethylcellulose, Parfum (Fragrance), Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Propylene Glycol, Cetrimonium Methosulfate, Phenoxyethanol, Citric Acid, Sodium Salicylate, Quaternium-87, Quaternium-91, Methylparaben, Laureth-23, Linalool, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Citronellol, Benzyl Alcohol, Coumarin"
+    },
+    {
+     "nombre": "Night Elixir Reparación 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5410091767334"
+     ],
+     "inci": "Aqua/Water/Eau, Dimethicone, Cetearyl Alcohol, Behentrimonium Chloride, Laureth-4, Isopropyl Myristate, Hydroxyoctanone, Hydrolyzed Pearl, Panthenol, Betaine, Cetrimonium Chloride, Hydroxyethylcellulose, Parfum (Fragrance), Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Propylene Glycol, Glycerin, Citric Acid, Sodium Salicylate, Quaternium-87, Phenoxyethanol, Quaternium-91, Methylparaben, Cetrimonium Methosulfate, Laureth-23, Linalool, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Citronellol, Benzyl Alcohol, Coumarin, Potassium Sorbate, Sorbic Acid"
+    },
+    {
+     "nombre": "Champú Oil Nutritive 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7332531037914"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, PEG-120 Methyl Glucose Dioleate, Prunus Armeniaca (Apricot) Kernel Oil, Sclerocarya Birrea Seed Oil, Hydrolyzed Keratin, Parfum (Fragrance), Polyquaternium-10, Sodium Benzoate, PEG-7 Glyceryl Cocoate, Coco-Glucoside, Glyceryl Oleate, PEG-40 Hydrogenated Castor Oil, Citric Acid, Linalool, Sodium Hydroxide, Limonene, Propylene Glycol, Phenoxyethanol, Potassium Sorbate, Benzyl Alcohol, CI 19140, CI 15985, CI 47005"
+    },
+    {
+     "nombre": "Acondicionador de Reparación Express Oil Nutritive 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436165648"
+     ],
+     "inci": "Aqua/Water/Eau, Trisiloxane, Dimethicone, Prunus Armeniaca (Apricot) Kernel Oil, Phenyl Trimethicone, Sclerocarya Birrea Seed Oil, Hydrolyzed Keratin, Dimethiconol, Polyquaternium-16, Parfum (Fragrance), Cetyl PEG/PPG-10/1 Dimethicone, Cetrimonium Chloride, Lactic Acid, Sodium Benzoate, Linalool, Limonene, Alpha-Isomethyl Ionone, Geraniol, Phenoxyethanol, Potassium Sorbate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Mascarilla Oil Nutritive 4 en 1 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457811"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Distearoylethyl Hydroxyethylmonium Methosulfate, Glycerin, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Sclerocarya Birrea Seed Oil, Behentrimonium Chloride, Parfum (Fragrance), Amodimethicone, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Isopropyl Alcohol, Ceteareth-20, Sodium Benzoate, Prunus Armeniaca (Apricot) Kernel Oil, Trideceth-10, Linalool, Limonene, Phenoxyethanol, Alpha-Isomethyl Ionone, Geraniol, Benzyl Alcohol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Daily Oil Elixir 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436183338"
+     ],
+     "inci": "Dimethicone, Dimethiconol, Undecane, Dicaprylyl Ether, Tridecane, Helianthus Annuus (Sunflower) Seed Oil, Hydroxyoctanone, Argania Spinosa Kernel Oil, Parfum (Fragrance), Benzyl Alcohol, Geraniol, Hexyl Cinnamal, Citronellol, Limonene, Benzyl Salicylate, Alpha-Isomethyl Ionone, Linalool, Coumarin, Citral, CI 40800"
+    },
+    {
+     "nombre": "Daily Oil Sérum 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9000100843256"
+     ],
+     "inci": "Dimethicone, Dimethiconol, Hydroxyoctanone, Macadamia Ternifolia Seed Oil, Parfum (Fragrance), Benzyl Alcohol, Geraniol, Hexyl Cinnamal, Citronellol, Limonene, Trisiloxane, Disiloxane, Benzyl Salicylate, Alpha-Isomethyl Ionone, Linalool, Coumarin, Citral"
+    },
+    {
+     "nombre": "Sérum Split Hair Miracle 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436370271"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Glycerin, PEG-7 Glyceryl Cocoate, Hydroxyoctanone, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Vitis Vinifera (Grape) Seed Oil, Betaine, Polyquaternium-37, PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), Lactic Acid, Limonene, Isopropyl Alcohol, Sodium Hydroxide, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Coumarin, Alpha-Isomethyl Ionone, Anise Alcohol"
+    },
+    {
+     "nombre": "Champú Total Repair 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436456920"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Dimethicone, Hydrolyzed Keratin, Combretum Farinosum Flower Nectar, PEG-7 Glyceryl Cocoate, Parfum (Fragrance), Sodium Benzoate, Citric Acid, Amodimethicone, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Glycol Distearate, Laureth-4, PEG-120 Methyl Glucose Dioleate, Glycerin, Laureth-23, Trideceth-10, Sodium Hydroxide, Limonene, Benzyl Salicylate, Phenoxyethanol, Hexyl Cinnamal, Propylene Glycol, Sodium Salicylate, Benzyl Alcohol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Acondicionador Total Repair 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7310181582046"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Quaternium-87, Stearamidopropyl Dimethylamine, Dimethicone, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Hydrolyzed Keratin, Combretum Farinosum Flower Nectar, Citric Acid, Propylene Glycol, Parfum (Fragrance), Phenoxyethanol, Glycerin, Sodium Methylparaben, Dimethiconol, Polyquaternium-37, Dicaprylyl Carbonate, Limonene, Benzyl Alcohol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Acondicionador de Reparación Express Total Repair 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436168090"
+     ],
+     "inci": "Aqua/Water/Eau, Trisiloxane, Dimethicone, Prunus Armeniaca (Apricot) Kernel Oil, Phenyl Trimethicone, Hydrolyzed Keratin, Combretum Farinosum Flower Nectar, Dimethiconol, Polyquaternium-16, Parfum (Fragrance), Cetyl PEG/PPG-10/1 Dimethicone, Cetrimonium Chloride, Glycerin, Lactic Acid, Sodium Benzoate, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Coumarin, Alpha-Isomethyl Ionone, Phenoxyethanol, Potassium Sorbate, CI 15985, CI 17200"
+    },
+    {
+     "nombre": "Mascarilla Total Repair 4 en 1 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457750"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Hydrolyzed Keratin, Parfum (Fragrance), Amodimethicone, Lactic Acid, Butyrospermum Parkii (Shea) Butter, Isopropyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Sodium Benzoate, Ceteareth-20, Trideceth-10, Limonene, Phenoxyethanol, Benzyl Salicylate, Hexyl Cinnamal, Benzyl Alcohol, Coumarin, Alpha-Isomethyl Ionone, Potassium Sorbate, Anise Alcohol"
+    },
+    {
+     "nombre": "Mini Mascarilla Total Repair 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457934"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydrolyzed Keratin, Combretum Farinosum Flower Nectar, Behentrimonium Chloride, Parfum (Fragrance), Amodimethicone, Lactic Acid, Butyrospermum Parkii (Shea) Butter, Prunus Armeniaca (Apricot) Kernel Oil, Isopropyl Alcohol, Sodium Benzoate, Ceteareth-20, Trideceth-10, Limonene, Phenoxyethanol, Benzyl Alcohol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Champú Ultimate Repair 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5201143152204"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Dimethicone, Hydrolyzed Keratin, Hydrolyzed Pearl, PEG-7 Glyceryl Cocoate, Parfum (Fragrance), Sodium Benzoate, Amodimethicone, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Glycol Distearate, Laureth-4, PEG-120 Methyl Glucose Dioleate, Glycerin, Laureth-23, Trideceth-10, Linalool, Sodium Hydroxide, Limonene, Phenoxyethanol, Propylene Glycol, Sodium Salicylate, Potassium Sorbate, Sorbic Acid, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Acondicionador Ultimate Repair 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436236270"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Quaternium-87, Stearamidopropyl Dimethylamine, Dimethicone, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Hydrolyzed Keratin, Hydrolyzed Pearl, Citric Acid, Propylene Glycol, Parfum (Fragrance), Phenoxyethanol, Sodium Methylparaben, Glycerin, Dimethiconol, Polyquaternium-37, Dicaprylyl Carbonate, Linalool, Limonene, Potassium Sorbate, Sorbic Acid, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Acondicionador Express Ultimate Repair 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436335317"
+     ],
+     "inci": "Aqua/Water/Eau, Trisiloxane, Dimethicone, Prunus Armeniaca (Apricot) Kernel Oil, Phenyl Trimethicone, Hydrolyzed Keratin, Hydrolyzed Pearl, Dimethiconol, Polyquaternium-16, Cetyl PEG/PPG-10/1 Dimethicone, Cetrimonium Chloride, Parfum (Fragrance), Lactic Acid, Sodium Benzoate, Glycerin, Linalool, Limonene, Phenoxyethanol, Potassium Sorbate, Alpha-Isomethyl Ionone, Geraniol, Sorbic Acid, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Mascarilla Ultimate Repair 4 en 1 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436457637"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Hydrolyzed Keratin, Parfum (Fragrance), Amodimethicone, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Isopropyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Sodium Benzoate, Ceteareth-20, Trideceth-10, Linalool, Phenoxyethanol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Potassium Sorbate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Mini Mascarilla Ultimate Repair 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436458016"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Glycerin, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Myristate, Behenamidopropyl Dimethylamine, Hydrolyzed Keratin, Hydrolyzed Pearl, Behentrimonium Chloride, Parfum (Fragrance), Amodimethicone, Lactic Acid, Butyrospermum Parkii (Shea) Butter, Prunus Armeniaca (Apricot) Kernel Oil, Isopropyl Alcohol, Sodium Benzoate, Ceteareth-20, Trideceth-10, Linalool, Phenoxyethanol, Limonene, Potassium Sorbate, Sorbic Acid, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Mascarilla líquida 7 Seconds Ultimate Repair 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8015700164657"
+     ],
+     "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Dicaprylyl Carbonate, Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Parfum (Fragrance), Cetrimonium Chloride, PEG-7 Glyceryl Cocoate, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Hydrolyzed Keratin, Lauryl Alcohol, Cetyl Alcohol, Linalool, Limonene, Citric Acid, Alpha-Isomethyl Ionone, Geraniol, Phenoxyethanol, Benzyl Alcohol, Potassium Sorbate, Tocopherol, Sodium Benzoate"
     }
    ]
   }
