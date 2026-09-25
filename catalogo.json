@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25h",
+ "version": "2026-09-25i",
  "marcas": [
   {
    "key": "larocheposay",
@@ -40958,6 +40958,1498 @@
       "8480000401786"
      ],
      "inci": "Aqua, C12-15 Pareth-7, Propylene Glycol, C12-14 Pareth-7, Polietilenimina etoxilada, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Phenoxyethanol, Glycerin, Parfum, Cloruro de calcio · 2H2O, Sorbitol, Subtilisin, Lipase, Xanthan Gum, Sodium Formate, Amilasa α-, Ácido 4-formilfenilborónico, Benzisothiazolinone, Liasa pectato, Calcium Chloride, Alaninamida disustituida, Mananasa endo-1 4-β-"
+    }
+   ]
+  },
+  {
+   "key": "babaria",
+   "nombre": "Babaria",
+   "productos": [
+    {
+     "nombre": "Aceite Bronceador Luminoso (200 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412705295",
+      "8410412490351"
+     ],
+     "inci": "Paraffinum Liquidum, Ethylene/Propylene/Styrene Copolymer, Butylene/Ethylene/Styrene Copolymer, Aloe Barbadensis Leaf Extract, Cocos Nucifera Oil, Hydrogenated Coconut Oil, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Beta-Carotene, Gardenia Tahitensis Flower, Parfum (Fragrance), Ascorbyl Palmitate, Tocopherol, Helianthus Annuus Seed Oil (Sunflower), CI 77491, Mica, Titanium Dioxide"
+    },
+    {
+     "nombre": "Aceite Protector Coco SPF50 (100 ml, 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000352",
+      "8410412000642"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, PEG-7 Glyceryl Cocoate, Octocrylene, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Caprylic/Capric Triglyceride, Cocos Nucifera Oil, Gardenia Tahitensis Flower, Acetyl Tyrosine, Tocopherol, Achillea Millefolium Extract, Riboflavin, Niacinamide, Parfum (Fragrance), Aqua (Water), Glycerin, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Aceite Spray Protector Bronze SPF15 (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520423"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Tributyl Citrate, Butyl Methoxydibenzoylmethane, Aqua (Water), Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Hydrogenated Coconut Oil, VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Niacinamide, Achillea Millefolium Flower Extract, Acetyl Tyrosine, Aloe Barbadensis Leaf Extract, Riboflavin, Glycerin, Parfum (Fragrance), Paraffinum Liquidum (Mineral Oil), Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Vanillin, Amyl Salicylate"
+    },
+    {
+     "nombre": "After Sun Gel Aloe (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519175"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Aloe Barbadensis Leaf Extract, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hyaluronate, Chlorella Vulgaris Extract, Dimethylmethoxy Chromanyl Palmitate, Phenoxyethanol, Propanediol, Parfum (Fragrance), Caprylyl Glycol, Tetrasodium Glutamate Diacetate, Dibutyl Adipate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylhydroxamic Acid, Sodium Hydroxide, Ascorbic Acid, Citric Acid, CI 42090 (FD&C Blue No.1), Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Lactic Acid, CI 19140 (FD&C Yellow No.5), Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes, Limonene"
+    },
+    {
+     "nombre": "Ampollas Hyaluronic Acid (5 unidades x 2ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100137"
+     ],
+     "inci": "Propylene Glycol, Aqua (Water), Sodium Hyaluronate, Diazolidinyl Urea, Sodium Benzoate, Potassium Sorbate, Citric Acid"
+    },
+    {
+     "nombre": "Ampollas Retinol (5 unidades x 2ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100427"
+     ],
+     "inci": "Propylene Glycol, Aqua (Water), Octocrylene, PEG-40 Hydrogenated Castor Oil, Retinol, Trideceth-9, Diazolidinyl Urea, Sodium Benzoate, Carbomer, Xanthan Gum, Potassium Sorbate, Triethanolamine, Polysorbate 20, BHT, BHA"
+    },
+    {
+     "nombre": "Ampollas Vitamina C (5 unidades x 2ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100120"
+     ],
+     "inci": "Propylene Glycol, Aqua (Water), Ascorbic Acid, Citric Acid, Glycosaminoglycans, Sodium Hyaluronate, Diazolidinyl Urea, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid"
+    },
+    {
+     "nombre": "Bálsamo Acondicionador Color Capture (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220361"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Ethylhexyl Salicylate, Trimethylsiloxyphenyl Dimethicone, Passiflora Incarnata Extract, Camellia Japonica Flower Extract, Silicone Quaternium-18, PEG-12 Dimethicone, Isopropyl Alcohol, Parfum (Fragrance), Butylene Glycol, Citric Acid, Trideceth-6, Glycerin, Trideceth-12, Phenoxyethanol, Methylchloroisothiazolinone, Methylisothiazolinone, CI 16035 (FD&C Red No. 40), Sodium Benzoate, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Bálsamo Acondicionador Hydra & Nutritive (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220439"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Octocrylene, Aloe Barbadensis Leaf Extract, Argania Spinosa Kernel Oil, Trimethylsiloxyphenyl Dimethicone, PEG-12 Dimethicone, Parfum (Fragrance), DMDM Hydantoin, Citric Acid, Isopropyl Alcohol, Methylchloroisothiazolinone, Methylisothiazolinone, Ascorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, CI 42090, CI 19140 (FD & C Yellow 5), CI 47005 (D&C Yellow Nº10), Limonene, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Bálsamo Acondicionador Nutritive & Repair (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220354"
+     ],
+     "inci": "Aqua (Water), Glycerin, Cetearyl Alcohol, Behentrimonium Chloride, Trimethylsiloxyphenyl Dimethicone, PEG-12 Dimethicone, Sclerocarya Birrea Seed Oil, Pisum Sativum (Pea) Extract, Salvia Hispanica Seed Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Argania Spinosa Kernel Oil, Parfum (Fragrance), Citric Acid, Phenoxyethanol, Sodium Citrate, Sodium Hydroxide, CI 47005 (D&C Yellow Nº10), Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Potassium Sorbate, CI 16035 (FD & C Red No. 40), Eugenol, Cinnamal, Coumarin, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Bálsamo After Sun Bathing Efecto Hielo (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000321"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Aloe Barbadensis Leaf Extract, Propylene Glycol, Allantoin, Panthenol, Chamomilla Recutita Flower Extract, Sorbitol, Ascorbic Acid, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum (Fragrance), Citric Acid, Triethanolamine, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Glycerin, CI 42090 (FD & C Blue 1), CI 19140 (FD & C Yellow 5)"
+    },
+    {
+     "nombre": "Bálsamo After Sun Efecto Hielo (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519182"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Aloe Barbadensis Leaf Extract, Propylene Glycol, Allantoin, Panthenol, Chamomilla Recutita Flower Extract, Sorbitol, Ascorbic Acid, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum (Fragrance), Citric Acid, Triethanolamine, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Glycerin, CI 42090 (FD & C Blue 1), CI 19140 (FD & C Yellow 5)"
+    },
+    {
+     "nombre": "Body Cream Aloe (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100281"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Aloe Barbadensis Leaf Extract, Isopropyl Myristate, Glyceryl Stearate, PEG-100 Stearate, Equisetum Arvense Extract, Glycerin, Sodium Hyaluronate, Tocopheryl Acetate, Dimethicone, Sodium Carbomer, Phenoxyethanol, Parfum (Fragrance), Alcohol Denat., Sodium Methylparaben, Citric Acid, Tetrasodium EDTA, Methylparaben, Ethylparaben, Propanediol, Ascorbic Acid, 1,2-Hexanediol, Caprylyl Glycol, Caprylhydroxamic Acid, Sodium Benzoate, Potassium Sorbate, Sodium Sulfite, Dimethyl Phenethyl Acetate, Linalyl Acetate, Geranyl Acetate"
+    },
+    {
+     "nombre": "Body Cream Coco (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100335"
+     ],
+     "inci": "Aqua (Water), Paraffinum Liquidum (Mineral Oil), Glycerin, Cetearyl Alcohol, Stearic Acid, Hydrogenated Coconut Oil, PEG-100 Stearate, Glyceryl Stearate, Tocopheryl Acetate, Parfum (Fragrance), Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Methylparaben, Tetrasodium EDTA, Ethylparaben, Methylparaben, Acrylates/Vinyl Isodecanoate Crosspolymer, Propanediol, Caprylyl Glycol, Caprylhydroxamic Acid, CI 19140 (FD&C Yellow No. 5), CI 16035 (FD&C Red No. 40), CI 42090 (FD& Blue No. 1)"
+    },
+    {
+     "nombre": "Body Cream Vitamina C (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100342"
+     ],
+     "inci": "Aqua (Water), Glycerin, Paraffinum Liquidum, Pentaerythrityl Distearate, Cetyl Alcohol, Stearyl Alcohol, Isopropyl Myristate, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Biosaccharide Gum-4, Ceteth-24, Parfum (Fragrance), Sodium Carbomer, Xanthan Gum, Phenoxyethanol, Tetrasodium EDTA, Disodium EDTA, Methylparaben, 2-Bromo-2-Nitropropane-1,3-Diol, Ethylparaben, 1,2-Hexanediol, Sodium Hydroxide, Geraniol, Citral, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Body Cream Vitamina E (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100328"
+     ],
+     "inci": "Aqua (Water), Glycerin, Cetyl Alcohol, Stearyl Alcohol, Isopropyl Myristate, Stearic Acid, Isostearyl Isostearate, Tocopheryl Acetate, Ceteth-24, Parfum (Fragrance), Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Benzyl Alcohol, Sodium Carbomer, Xanthan Gum, Tetrasodium EDTA, Citric Acid, Methylparaben, Ethylparaben, Benzyl Benzoate, Linalool, Coumarin, Citronellol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Eugenol"
+    },
+    {
+     "nombre": "Body Milk Ácido Hialurónico (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519915"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Isopropyl Myristate, Dimethicone, Sodium Hyaluronate, Propanediol, Caprylyl Glycol, Phenoxyethanol, Parfum (Fragrance), 1,2-Hexanediol, Potassium Cetyl Phosphate, Sodium Methylparaben, Xanthan Gum, Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Carbomer, Citric Acid, Butylparaben, Ethylparaben, Caprylhydroxamic Acid, Propylparaben, Alpha-Isomethyl Ionone, Citronellol, Citrus Limon Peel Oil, Limonene, Linalool, Linalyl Acetate, Pinene, Terpineol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Body Milk Colágeno Vegano (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519922"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Isopropyl Myristate, Nicotiana Benthamiana Hexapeptide-40 sh-Polypeptide-47 (Colágeno), Propanediol, Parfum (Fragrance), Potassium Cetyl Phosphate, Glycerin, Phenoxyethanol, Caprylyl Glycol, Sodium Methylparaben, Xanthan Gum, Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Pentylene Glycol, Sodium Carbomer, Citric Acid, Butylparaben, Ethylparaben, Caprylhydroxamic Acid, Propylparaben, Hexyl Cinnamal, Terpineol, Alpha-Isomethyl Ionone, Linalool, Citronellol, Eugenol, Geranyl Acetate, Tetramethyl acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalyl Acetate"
+    },
+    {
+     "nombre": "Body Milk Niacinamida (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519946"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Isopropyl Myristate, Dimethicone, Niacinamide, Potassium Cetyl Phosphate, Propanediol, Parfum (Fragrance), Phenoxyethanol, Caprylyl Glycol, Sodium Methylparaben, Xanthan Gum, Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Carbomer, Citric Acid, Butylparaben, Ethylparaben, Caprylhydroxamic Acid, Propylparaben, Alpha-Isomethyl Ionone, Benzyl salicylate, Citronellol, Dimethyl Phenethyl Acetate, Hexamethylindanopyran, Hexyl Cinnamal, Linalool, Linalyl Acetate, Pogostemon Cablin Oil, Tetramethyl acetyloctahydronaphthalenes, Trimethylbenzenepropanol"
+    },
+    {
+     "nombre": "Body Milk Vitamina C (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519953",
+      "8410412120753"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Isopropyl Myristate, Dimethicone, Sodium Ascorbyl Phosphate, Biosaccharide Gum-4, Propanediol, Caprylyl Glycol, Phenoxyethanol, Parfum (Fragrance), 1,2-Hexanediol, Potassium Cetyl Phosphate, Sodium Methylparaben, Xanthan Gum, Caprylhydroxamic Acid, Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Carbomer, Butylparaben, Ethylparaben, Propylparaben, Citric Acid, Sodium Hydroxide, Camphor, Citral, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Geraniol, Hexyl Cinnamal, Lavandula Oil/Extract, Limonene, Linalool, Linalyl Acetate, Menthol, Pinene, Terpineol, Terpinolene, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Body Milk Vitamina E (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519939"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Isopropyl Myristate, Propylene Glycol, Dimethicone, Propanediol, Tocopheryl Acetate, Parfum (Fragrance), Phenoxyethanol, Caprylyl Glycol, Potassium Cetyl Phosphate, Xanthan Gum, Sodium Methylparaben, Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Carbomer, Citric Acid, Butylparaben, Ethylparaben, Caprylhydroxamic Acid, Propylparaben, Eugenol, Acetyl Cedrene, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Citronellol, Coumarin, Linalool, Hexamethylindanopyran, Benzyl benzoate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Bruma Facial SPF50 Limited Edition (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519199"
+     ],
+     "inci": "Isobutane, Aqua (Water), Propane, Dibutyl Adipate, Octocrylene, Dicaprylyl Carbonate, Isopropyl Myristate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Polyglyceryl-2 Dipolyhydroxystearate, Silica, Ethylhexyl Triazone, Polymethyl Methacrylate, Phenylbenzimidazole Sulfonic Acid, Hydroxyphenyl Propamidobenzoic Acid, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Extract, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Parfum (Fragrance), Phenoxyethanol, Butane, Sodium Hydroxide, Sodium Laureth Sulfate, Disodium EDTA, Methylparaben, Ethylparaben, Aminomethyl Propanol, Glycerin, Citric Acid, Sodium Methylparaben, Butylene Glycol, Pentylene Glycol, Potassium Sorbate, Sodium Benzoate, Ascorbyl Palmitate, Ascorbic Acid, Sodium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Bruma Protectora Kids SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000543"
+     ],
+     "inci": "Isobutane, Aqua (Water), Propane, Dibutyl Adipate, Octocrylene, Isopropyl Myristate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Silica, Polyglyceryl-2 Dipolyhydroxystearate, Ethylhexyl Triazone, Polymethyl Methacrylate, Phenylbenzimidazole Sulfonic Acid, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Extract, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Parfum (Fragrance), Phenoxyethanol, Butane, Sodium Hydroxide, Sodium Laureth Sulfate, Disodium EDTA, Ethylparaben, Methylparaben, Glycerin, Aminomethyl Propanol, Sodium Methylparaben, Sodium Benzoate, Potassium Sorbate, Citric Acid, Ascorbic Acid, Sodium Sulfite, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Bruma Solar Facial (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519144"
+     ],
+     "inci": "Isobutane, Aqua (Water), Propane, Dibutyl Adipate, Octocrylene, Dicaprylyl Carbonate, Isopropyl Myristate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Polyglyceryl-2 Dipolyhydroxystearate, Silica, Ethylhexyl Triazone, Polymethyl Methacrylate, Phenylbenzimidazole Sulfonic Acid, Hydroxyphenyl Propamidobenzoic Acid, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Extract, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Parfum (Fragrance), Phenoxyethanol, Butane, Sodium Hydroxide, Sodium Laureth Sulfate, Disodium EDTA, Methylparaben, Ethylparaben, Aminomethyl Propanol, Glycerin, Citric Acid, Sodium Methylparaben, Butylene Glycol, Pentylene Glycol, Potassium Sorbate, Sodium Benzoate, Ascorbyl Palmitate, Ascorbic Acid, Sodium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Bruma Solar Hydra SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520416"
+     ],
+     "inci": "Isobutane, Aqua (Water), Propane, Dibutyl Adipate, Octocrylene, Dicaprylyl Carbonate, Isopropyl Myristate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Polyglyceryl-2 Dipolyhydroxystearate, Silica, Ethylhexyl Triazone, Polymethyl Methacrylate, Phenylbenzimidazole Sulfonic Acid, Aloe Barbadensis Leaf Extract, 3-O-Ethyl Ascorbic Acid, Hyaluronic Acid, Centella Asiatica Leaf Vesicles, Mannitol, Phosphatidylcholine, Beta-Sitosterol, Hydroxyphenyl Propamidobenzoic Acid, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Parfum (Fragrance), Glycerin, Polyglyceryl-10 Laurate, Phenoxyethanol, Butane, Sodium Hydroxide, 1,2-Hexanediol, Sodium Laureth Sulfate, Disodium EDTA, Sodium Methylparaben, Ethylparaben, Methylparaben, Aminomethyl Propanol, Butylene Glycol, Pentylene Glycol, Citric Acid, Ascorbyl Palmitate, Ascorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Dimethyl Phenethyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Champú Árbol de Té y Vinagre (700 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412021005"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Acetum, Quassia Amara Wood Extract, Prunus Armeniaca (Apricot) Fruit Extract, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Melaleuca Alternifolia Leaf Oil, Parfum (Fragrance), Tetrasodium EDTA, Polyquaternium-7, Sodium Benzoate, Citric Acid, Polysorbate 80, Methylisothiazolinone, Methylchloroisothiazolinone, CI 19140 (FD&C Yellow No.5), Imidazolidinyl Urea, CI 42090 (FD&C Blue No.1), CI 17200 (D&C Red No.33), Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Linalool, Linalyl Acetate, Citrus Limon Peel Oil"
+    },
+    {
+     "nombre": "Champú Cebolla Anticaspa (380 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519717"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Alcohol Denat., Parfum (Fragrance), Allium Cepa Bulb Extract, Piroctone Olamine, Glycerin, Polyquaternium-7, Citric Acid, Sodium Benzoate, Tetrasodium EDTA, CI 17200 (D&C Red No.33), Potassium Sorbate, Methylchloroisothiazolinone, CI 16035 (FD&C Red No.40), Methylisothiazolinone, CI 42090 (FD&C Blue No.1), Citrus Aurantium Peel Oil, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Menthol, Pinene, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú Cebolla Repara (380 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519724"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Allium Cepa Bulb Extract, Parfum (Fragrance), Glycerin, Polyquaternium-7, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Pisum Sativum (Pea) Extract, Salvia Hispanica (Chia) Seed Extract, Sodium Benzoate, Tetrasodium EDTA, Citric Acid, Phenoxyethanol, Sodium Citrate, CI 17200 (D&C Red No.33), Potassium Sorbate, Methylchloroisothiazolinone, CI 16035 (FD&C Red No.40), Methylisothiazolinone, CI 42090 (FD&C Blue No.1), Alpha-Isomethyl Ionone, Citronellol, Citrus Aurantium Bergamia Peel Oil, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú Cebolla (700 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020626",
+      "8410412518918"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Sodium Chloride, Parfum (Fragrance), Polyquaternium-7, Allium Cepa Bulb Extract, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Glycerin, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Phenoxyethanol, Sodium Citrate, Potassium Sorbate, Methylchloroisothiazolinone, Methylisothiazolinone, CI 17200 (D&C Red No.33), CI 16035 (FD&C Red No.40), CI 42090 (FD&C Blue No.1), Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú Color Capture (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220279"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Laureth-2, Acrylates Copolymer, Sodium Chloride, Ethylhexyl Salicylate, Passiflora Incarnata Extract, Camellia Japonica Flower Extract, Parfum (Fragrance), Styrene/Acrylates Copolymer, Sodium Benzoate, Sodium Hydroxide, Disodium EDTA, Butylene Glycol, Citric Acid, Glycerin, Methylchloroisothiazolinone, Phenoxyethanol, Methylisothiazolinone, CI 16035 (FD & C Red No. 40), CI 17200 (D&C Red Nº33), Hexyl Cinnamal, Linalool, Limonene"
+    },
+    {
+     "nombre": "Champú Hydra & Nutritive (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220293"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Aloe Barbadensis Leaf Extract, Cocamidopropyl Betaine, Sodium Chloride, Polyquaternium-10, Argania Spinosa Kernel Oil, Parfum (Fragrance), PEG/PPG-20/6 Dimethicone, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Propylene Glycol, Phenoxyethanol, Ascorbic Acid, Methylchloroisothiazolinone, Potassium Sorbate, Sodium Sulfite, CI 42090, Ethylhexylglycerin, Methylisothiazolinone, CI 19140 (FD & C Yellow 5), Triisopropanolamine, Linalool"
+    },
+    {
+     "nombre": "Champú Limón & Vitamina C (380 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520652"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citrus Limon (Lemon) Fruit Extract, Polyquaternium-7, Glycerin, 3-O-Ethyl Ascorbic Acid, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Parfum (Fragrance), Tetrasodium EDTA, Sodium Benzoate, Citric Acid, Methylchloroisothiazolinone, Phenoxyethanol, Potassium Sorbate, Sodium Citrate, Methylisothiazolinone, CI 47005 (D&C Yellow No.10), CI 16035 (FD&C Red No.40), Limonene, Linalool, Linalyl Acetate, Citrus Aurantium Peel Oil"
+    },
+    {
+     "nombre": "Champú Nutritive & Repair (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220460"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Argania Spinosa Kernel Oil, Citrus Aurantium Dulcis (Orange) Fruit Extract, Polyquaternium-7, Guar Hydroxypropyltrimonium Chloride, Sodium Cocoamphoacetate, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Sclerocarya Birrea Seed Oil, Pisum Sativum (Pea) Extract, Salvia Hispanica Seed Extract, Parfum (Fragrance), Glycerin, Alcohol Denat., Styrene/Acrylates Copolymer, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Phenoxyethanol, Sodium Citrate, Methylchloroisothiazolinone, Methylisothiazolinone, CI 47005 (D&C Yellow Nº10), Potassium Sorbate, CI 16035 (FD & C Red No. 40), Fumaric Acid, Xanthan Gum, Eugenol, Cinnamal, Coumarin"
+    },
+    {
+     "nombre": "Champú Oliva (700 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220309"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Sodium Chloride, Polyquaternium-7, Olea Europaea Fruit Oil, Sodium Cocoamphoacetate, Styrene/Acrylates Copolymer, Parfum (Fragrance), Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Citric Acid, Methylisothiazolinone, Alcohol Denat., Methylchloroisothiazolinone, Sodium Benzoate, Citronellol, Hexyl Cinnamal, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Champú Ondas & Rizos (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220330"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Cocos Nucifera (Coconut) Fruit Extract, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Pistacia Vera Seed Extract, Polyquaternium-7, Benzophenone-4, Guar Hydroxypropyltrimonium Chloride, Glycerin, Propanediol, Parfum (Fragrance), Alcohol Denat., Styrene/Acrylates Copolymer, Tetrasodium EDTA, Sodium Benzoate, Citric Acid, Phenoxyethanol, Fumaric Acid, Sodium Citrate, CI 60730, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Xanthan Gum, Linalool, Hexyl Cinnamal, Limonene, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Champú S.O.S. Caspa (500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220323"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Sodium Chloride, Propylene Glycol, Piroctone Olamine, Mentha Viridis Leaf Extract, Zinc Chloride, Citrus Aurantifolia (Lime) Fruit Extract, Styrene/Acrylates Copolymer, Polyquaternium-7, Lysine, Glycerin, Parfum (Fragrance), Glycol Distearate, Cocamide MEA, Magnesium Chloride, Tetrasodium EDTA, Sodium Benzoate, Lactic Acid, Citric Acid, DMDM Hydantoin, Potassium Chloride, Phenoxyethanol, Potassium Sorbate, Xanthan Gum, CI 42090 (FD&C Blue No.1), Tetramethyl acetyloctahydronaphthalenes, Beta-Caryophyllene, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Contorno de Ojos Aloe Vera (15 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412026253"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Octyldodecanol, Propylene Glycol, Oleyl Erucate, Alcohol Denat., Spilanthes Acmella Flower Extract, Sodium Hyaluronate, Tocopheryl Acetate, Ascorbic Acid, Sodium Polyacrylate, Phenoxyethanol, Parfum (Fragrance), Acrylates/Vinyl Isodecanoate Crosspolymer, Ethylhexylglycerin, BHT, Tetrasodium EDTA, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite"
+    },
+    {
+     "nombre": "Contorno de Ojos Antimanchas (12 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100236"
+     ],
+     "inci": "Aqua (Water), Pentylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Dibutyl Adipate, Dimethylmethoxy Chromanyl Palmitate, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetyl Tetrapeptide-5, Sodium Hyaluronate, Parfum (Fragrance), Caprylyl Glycol, 1,2-Hexanediol, Citric Acid, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Contorno de Ojos Vital Skin (15 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020725"
+     ],
+     "inci": "Aqua (Water), Octyldodecanol, Pentylene Glycol, Propylene Glycol, Oleyl Erucate, Propanediol, Rosa Moschata (Rosehip) Seed Oil, Tocopheryl Acetate, Acmella Oleracea Extract, Silanetriol, Alginic Acid, Hydrolyzed Soy Protein, Glycerin, Sodium Polyacrylate, Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium EDTA, Sodium Benzoate, Potassium Sorbate, Parfum (Fragrance), Hexamethylindanopyran, Linalyl Acetate, Tetramethyl acetyloctahydronaphthalenes, Hexyl Cinnamal, Terpineol, Alpha-Isomethyl Ionone, Linalool, Citronellol, Eugenol, Geranyl Acetate, Camphor, Vanillin"
+    },
+    {
+     "nombre": "Crema Corporal Oliva (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412026154"
+     ],
+     "inci": "Aqua (Water), Glycerin, Paraffinum Liquidum, Stearyl Alcohol, Cetyl Alcohol, Stearic Acid, Olea Europaea Fruit Oil, Ceteth-24, Tocopheryl Acetate, Phenoxyethanol, Sodium Carbomer, Parfum (Fragrance), Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Citric Acid, Propylparaben, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Crema Facial Active Lifting Effect (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100755"
+     ],
+     "inci": "Aqua (Water), Glycerin, Squalane, Octyldodecanol, Polyacrylate-13, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Tocopheryl Acetate, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Sodium Hydroxide, Acrylates/Vinyl Isodecanoate Crosspolymer, Parfum (Fragrance), Ethylhexylglycerin, Polysorbate 20, Sorbitan Isostearate, Tetrasodium EDTA, Phenoxyethanol, Hexamethylindanopyran, Trimethylbenzenepropanol, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate"
+    },
+    {
+     "nombre": "Crema Facial Antiarrugas Aloe (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412026239"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Octyldodecanol, Cetearyl Alcohol, Ethylhexyl Salicylate, Glycerin, Cyclopentasiloxane, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ceteareth-12, Ceteareth-20, Polyacrylamide, C13-14 Isoparaffin, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Sodium Hyaluronate, Ascorbic Acid, Caprylyl Glycol, Parfum (Fragrance), 1,2-Hexanediol, Phenoxyethanol, Laureth-7, Benzyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Ethylhexylglycerin, Tetrasodium EDTA, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Hexamethylindanopyran, Terpineol, Amyl Salicylate, Linalyl Acetate"
+    },
+    {
+     "nombre": "Crema Facial Antiarrugas Rosa Mosqueta (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412056236"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Rosa Moschata (Rosehip) Seed Oil, Pentylene Glycol, Dimethicone, Glycerin, Polyimide-1, Cyclopentasiloxane, Butyrospermum Parkii (Shea) Butter, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Dimethiconol, Ascorbyl Palmitate, Styrene/VP Copolymer, Parfum (Fragrance), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Tetrasodium EDTA, Paraffinum Liquidum (Mineral Oil), BHT, Menthol, Acetyl Cedrene"
+    },
+    {
+     "nombre": "Crema Facial Antimanchas (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100144"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Pentylene Glycol, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Dibutyl Adipate, Glycerin, Paraffinum Liquidum (Mineral Oil), Rosa Moschata Seed Oil, Dimethylmethoxy Chromanyl Palmitate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Methylsilanol mannuronate, Parfum (Fragrance), Sodium Carbomer, Sorbic Acid, Propylene Glycol, Xanthan Gum, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Hexyl Cinnamal, Decyl Glucoside, Phenoxyethanol, Linalool, Limonene, Hexyl Cinnamal, Coumarin"
+    },
+    {
+     "nombre": "Crema Facial Colágeno (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100625"
+     ],
+     "inci": "Aqua (Water), Glycerin, Squalane, Octyldodecanol, Isostearyl Isostearate, Nicotiana Benthamiana Hexapeptide-40 sh-Polypeptide-47 (Collagen), Polyacrylate-13, Tocopheryl Acetate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Phenoxyethanol, Polyisobutene, Parfum (Fragrance), Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium Glutamate Diacetate, Polysorbate 20, Sodium Carbomer, Sorbitan Isostearate, Ethylhexylglycerin, Decyl Glucoside, Pentylene Glycol, Sodium Hydroxide, Propylene Glycol, Xanthan Gum"
+    },
+    {
+     "nombre": "Crema Facial de Noche Neurobeauty (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519410"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Propanediol, Polyacrylate-13, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Zanthoxylum Alatum Fruit Extract, Dimethicone Crosspolymer, Phenoxyethanol, Polyisobutene, Parfum (Fragrance), Xanthan Gum, Tetrasodium Glutamate Diacetate, Pentylene Glycol, Polysorbate 20, Sorbitan Isostearate, Ethylhexylglycerin, Citric Acid, Decyl Glucoside, Sodium Hydroxide, Propylene Glycol, CI 19140 (FD&C Yellow No.5), CI 42090 (FD & C Blue No.1), Citronellol, Hexamethylindanopyran, Hexyl Cinnamal, Citrus Limon Peel Oil, Coumarin, Lavandula Oil/Extract, Limonene, Eucalyptus Globulus Oil, Geraniol, Tetramethyl acetyloctahydronaphthalenes, Linalool, Linalyl Acetate, Pinene"
+    },
+    {
+     "nombre": "Crema Facial Glicólico (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100595"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, C12-15 Alkyl Benzoate, Glycerin, Octyldodecanol, Glycolic Acid, Ceteareth-12, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tocopheryl Acetate, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris (Rapeseed) Sterols, Zingiber Officinale (Ginger) Root Extract, Mannitol, Hydroxyphenyl Propamidobenzoic Acid, 4-T-Butylcyclohexanol, Phenoxyethanol, Phosphatidylcholine, Ceramide NP (Ceramide 3), Hexyldecanol, Pentylene Glycol, Sodium Carbomer, Sodium Hydroxide, Citric Acid, Parfum (Fragrance), Ethylhexylglycerin, Tetrasodium EDTA, Stearic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Sodium Chloride, Linalool, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Crema Facial Hidratante Aloe Vera (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412026246"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Squalane, Ethylhexyl Salicylate, Oleyl Erucate, Octyldodecanol, Propylene Glycol, Sodium Polyacrylate, Chondrus Crispus (Carrageenan) Extract, Biosaccharide Gum-4, Dimethicone, Tocopheryl Acetate, Glucose, Parfum (Fragrance), Dimethyl Phenethyl Acetate, Linalyl Acetate, Xanthan Gum, Ascorbic Acid, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium EDTA, Caprylyl Glycol, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, 1,2-Hexanediol"
+    },
+    {
+     "nombre": "Crema Facial Hidratante Rosa Mosqueta (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412056243"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Rosa Moschata (Rosehip) Seed Oil, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Glycerin, Isoamyl p-Methoxycinnamate, Stearic Acid, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Chondrus Crispus (Carrageenan) Extract, Arginine, Proline, Serine, Caprylyl Glycol, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Ascorbyl Palmitate, Glucose, Butylene Glycol, Pectin, Parfum (Fragrance), Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Sodium Methylparaben, Sodium Hydroxide, Methylparaben, Ethylparaben, Tetrasodium EDTA, Ethylhexylglycerin, Paraffinum Liquidum (Mineral Oil), BHT, 2-Bromo-2-Nitropropane-1,3-Diol, Menthol, Acetyl Cedrene, Camphor"
+    },
+    {
+     "nombre": "Crema Facial Hyaluronic Acid (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100243"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Cyclopentasiloxane, Glycerin, Octyldodecanol, Ceteareth-12, Ceteareth-20, Dimethicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Hyaluronate, Dimethicone Crosspolymer, Polyisobutene, Phenoxyethanol, Polyacrylate-13 Sodium Carbomer, Parfum (Fragrance), Polymethyl Methacrylate, Tetrasodium EDTA, Xanthan Gum, Ethylhexylglycerin, Citric Acid, Polysorbate 20, Sorbitan Isostearate, Sodium Laureth Sulfate, Aminomethyl Provanol. Hexamethvlindanoovran. Tetramethy Acetvioctandronaphthalenes. Limonene"
+    },
+    {
+     "nombre": "Crema Facial Hydrafresh Ácido Hialurónico (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100809"
+     ],
+     "inci": "Aqua (Water), Dimethicone, Propylene Glycol, Sodium Polyacrylate, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Dimethicone Crosspolymer, Parfum (Fragrance), Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol, CI 42090 (FD & C Blue No.1)"
+    },
+    {
+     "nombre": "Crema Facial Microbiota (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100724"
+     ],
+     "inci": "Aqua (Water), Glycerin, Octyldodecanol, Polyacrylate-13, Isostearyl Isostearate, Chlorella Vulgaris Extract, Nephelium Lappaceum Leaf Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Tocopheryl Acetate, Maltodextrin, Phenoxyethanol, Polyisobutene, Parfum (Fragrance), Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium Glutamate Diacetate, Polysorbate 20, Sorbitan Isostearate, Ethylhexylglycerin, Propanediol, Decyl Glucoside, Sodium Hydroxide, Lactic Acid, Propylene Glycol, Xanthan Gum, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Crema Facial Pieles Maduras Aloe (125 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412026161"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Glycerin, Paraffinum Liquidum, Stearyl Alcohol, Polyacrylamide, Ceteareth-12, Ceteareth-20, Octyldodecanol, Cetyl Alcohol, C13-14 Isoparaffin, Butyrospermum Parkii Butter, Prunus Amygdalus Dulcis Oil, Methylsilanol Mannuronate, Tocopheryl Acetate, Ascorbic Acid, Parfum (Fragrance), Laureth-7, Tetrasodium EDTA, Ethylhexylglycerin, BHT, Phenoxyethanol, Citric Acid, Sorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Hexyl Cinnamal, Linalool, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Eugenol, Coumarin"
+    },
+    {
+     "nombre": "Crema Facial Retinol (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100304"
+     ],
+     "inci": "Aqua (Water), Homosalate, Stearyl Alcohol, Octyldodecanol, Glycerin, Cetyl Alcohol, Polyacrylate-13, Ceteareth-20, Ceteareth-12, Sodium Hyaluronate, Retinol, Tocopheryl Acetate, Polyisobutene, Caprylyl Glycol, Parfum (Fragrance), Polysorbate 20, 1,2-Hexanediol, Tetrasodium EDTA, Xanthan Gum, Sorbitan Isostearate, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Citric Acid, 2-Bromo-2-Nitropropane-1,3-Diol, BHT, BHA, CI 16035 (FD & C Red No. 40), Citral"
+    },
+    {
+     "nombre": "Crema Facial Solar Sport SPF50 (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490061"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Dibutyl Adipate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Phenylbenzimidazole Sulfonic Acid, Potassium Cetyl Phosphate, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Ethylhexyl Triazone, Acrylates/Steareth-20 Methacrylate Copolymer, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Flower Extract, Silanetriol, Glycerin, Alginic Acid, Decyl Glucoside, Phenoxyethanol, Parfum (Fragrance), Sodium Methylparaben, Xanthan Gum, Disodium EDTA, Methylparaben, Ethylparaben, Sodium Hydroxide, Propanediol, Caprylyl Glycol, Propylene Glycol, Caprylhydroxamic Acid, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Linalyl Acetate, Acetyl Cedrene, Hexamethylindanopyran, Geranyl Acetate"
+    },
+    {
+     "nombre": "Crema Facial SPF50 Limited Edition (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519205"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Dibutyl Adipate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Phenylbenzimidazole Sulfonic Acid, Potassium Cetyl Phosphate, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Ethylhexyl Triazone, Acrylates/Steareth-20 Methacrylate Copolymer, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Flower Extract, Silanetriol, Glycerin, Alginic Acid, Decyl Glucoside, Phenoxyethanol, Parfum (Fragrance), Sodium Methylparaben, Xanthan Gum, Disodium EDTA, Methylparaben, Ethylparaben, Sodium Hydroxide, Propanediol, Caprylyl Glycol, Propylene Glycol, Caprylhydroxamic Acid, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Linalyl Acetate, Acetyl Cedrene, Hexamethylindanopyran, Geranyl Acetate"
+    },
+    {
+     "nombre": "Crema Facial Vitamina C (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100250"
+     ],
+     "inci": "Aqua (Water), Oleyl Erucate, Squalane, Alcohol Denat., Octyldodecanol, Polyacrylate-13, 3-O-Ethyl Ascorbic Acid, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Tocopheryl Acetate, Polyisobutene, Phenoxyethanol, Decyl Glucoside, Propylene Glycol, Polysorbate 20, Sorbitan Isostearate, Acrylates/Vinyl Isodecanoate Crosspolymer, Parfum (Fragrance), Tetrasodium EDTA, Citric Acid, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Limonene, Hexyl Cinnamal, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Crema Facial Vitamin D (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412518932"
+     ],
+     "inci": "Aqua (Water), Glycerin, Dimethicone, Propanediol, Sodium Polyacrylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Saccharomyces/Grape Ferment Extract, Tocopheryl Acetate, Propylene Glycol, Ethylhexylglycerin, Dimethicone Crosspolymer, Phenoxyethanol, Decyl Glucoside, Parfum (Fragrance), Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, CI 47005 (D&C Yellow No.10), CI 19140 (FD&C Yellow No.5), CI 16035 (FD&C Red No.40), Sodium Citrate, Sodium Benzoate, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexamethylindanopyran, Linalyl Acetate, Limonene"
+    },
+    {
+     "nombre": "Crema Solar Facial Multiprotección con Color SPF50+ (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490207"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Homosalate, Titanium Dioxide, Dibutyl Adipate, Alcohol Denat., Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Tridecyl Trimellitate, Diethylhexyl Butamido Triazone, VP/Eicosene Copolymer, Potassium Cetyl Phosphate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Isopropyl Myristate, PEG-100 Stearate, Glyceryl Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Paraffinum Liquidum, Glycerin, CI 77492, Dimethylmethoxy Chromanyl Palmitate, Niacinamide, Stearyl Alcohol, Biosaccharide Gum-4, Phenoxyethanol, Parfum (Fragrance), CI 77491, Decyl Glucoside, Cetyl Alcohol, Sodium Methylparaben, Isostearyl Sebacate, Sodium Carbomer, CI 77499, Xanthan Gum, Citric Acid, Disodium EDTA, Ethylparaben, Methylparaben, 2-Bromo-2-Nitropropane-1,3-Diol, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Propylene Glycol, 1,2-Hexanediol, Isostearyl Sebacate, Hexyl Cinnamal, Linalool, Limonene, Coumarin"
+    },
+    {
+     "nombre": "Crema Solar Facial Multiprotección SPF50+ (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490191"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Alcohol Denat., Ethylhexyl Salicylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Diethylhexyl Butamido Triazone, Sodium Stearoyl Glutamate, Isopropyl Myristate, Stearyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Cetyl Alcohol, Dimethylmethoxy Chromanyl Palmitate, Niacinamide, Biosaccharide Gum-4, Parfum (Fragrance), Phenoxyethanol, Sodium Carbomer, Sodium Methylparaben, Xanthan Gum, Citric Acid, Disodium EDTA, Decyl Glucoside, Glycerin, Ethylparaben, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, 2-Bromo-2-Nitropropane-1,3-Diol, Propylene Glycol, 1,2-Hexanediol, Hexyl Cinnamal, Linalool, Limonene, Coumarin"
+    },
+    {
+     "nombre": "Desmaquillador Ojos y Labios (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430166"
+     ],
+     "inci": "Aqua (Water), Isohexadecane, Cyclopentasiloxane, Glycerin, Isopropyl Myristate, Gossypium Herbaceum (Cotton) Seed Extract, Phenoxyethanol, Sodium Chloride, Benzophenone-3, Disodium EDTA, Sodium Hydroxide, Potassium Sorbate, Sodium Benzoate, CI 61565"
+    },
+    {
+     "nombre": "Desodorante Duo Fresh & Skin Protect (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520591"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Steareth-2, Glycerin, Steareth-21, Octenidine HCl, Ethylhexylglycerin, Propylene Glycol, Parfum (Fragrance), Phenoxyethanol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Linalyl Acetate, Citronellol, Citrus Limon Peel Oil, Terpineol, Limonene, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Desodorante Duo Invisible & Anti Spot (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520584"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Steareth-2, Glycerin, Steareth-21, Niacinamide, Ethylhexylglycerin, Octenidine HCl, Dimethicone, Parfum (Fragrance), Phenoxyethanol, Propylene Glycol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Limonene, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Alpha-Isomethyl Ionone, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Desodorante Roll-on Ácido Hialurónico (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520027"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Steareth-2, Glycerin, Steareth-21, Sodium Hyaluronate, Octenidine HCl, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexylglycerin, Propylene Glycol, Parfum (Fragrance), Phenoxyethanol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Alpha-Isomethyl Ionone, Citronellol, Citrus Limon Peel Oil, Limonene, Linalool, Linalyl Acetate, Terpineol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante Roll-on Aloe (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412280150"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Aloe Barbadensis Leaf Extract, Steareth-2, Glycerin, Octenidine HCl, Dimethicone, Steareth-21, Ethylhexylglycerin, Parfum (Fragrance), Phenoxyethanol, Propylene Glycol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Citric Acid, Ascorbic Acid, Sodium Sulfite, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Desodorante Roll-on Vitamina C (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520034"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Steareth-2, Glycerin, Steareth-21, 3-O-Ethyl Ascorbic Acid, Octenidine HCl, Ethylhexylglycerin, Propylene Glycol, Parfum (Fragrance), Phenoxyethanol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, CI 19140 (FD&C Yellow No.5), CI 47005 (D&C Yellow No.10), CI 16035 (FD&C Red No.40), Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Desodorante Spray Cero (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412280211"
+     ],
+     "inci": "Isobutane, Propane, Cyclopentasiloxane, Dimethicone, Magnesium Oxide, Inulin, Fructose, Octenidine HCl, Ethylhexylglycerin, Parfum (Fragrance), Butane, Disteardimonium Hectorite, Propylene Glycol, Propylene Carbonate"
+    },
+    {
+     "nombre": "Desodorante Spray Chocolate (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020947"
+     ],
+     "inci": "Alcohol Denat., Isobutane, Propane, Parfum (Fragrance), Aqua (Water), Butane, Aloe Barbadensis Leaf Extract, Paraffinum Liquidum (Mineral Oil), Farnesol, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalool, Limonene, Citrus Aurantium Peel Oil, Linalyl Acetate, Citrus Limon Peel Oil, Coumarin, Acetyl Cedrene, Vanillin, Pinene, Amyl Salicylate, Lavandula Oil/Extract, Pelargonium Graveolens Flower Oil, Citral"
+    },
+    {
+     "nombre": "Desodorante Spray Invisible (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412280235"
+     ],
+     "inci": "Isobutane, Propane, Cyclopentasiloxane, Dimethicone, Aluminum Chlorohydrate, Niacinamide, Parfum (Fragrance), Butane, Disteardimonium Hectorite, Propylene Carbonate, Aqua (Water), Limonene, Linalool, Citronellol, Alpha-Isomethyl Ionone, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Desodorante Spray Skin Protect+ (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412280242"
+     ],
+     "inci": "Isobutane, Propane, Cyclopentasiloxane, Dimethicone, Aluminum Chlorohydrate, Octenidine HCl, Propylene Glycol, Ethylhexylglycerin, Disteardimonium Hectorite, Parfum (Fragrance), Alpha-Isomethyl Ionone, Butane, Propylene Carbonate, Aqua (Water), Linalool, Benzyl Alcohol, Citronellol, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Desodorante Spray Splash (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020930"
+     ],
+     "inci": "Alcohol Denat., Isobutane, Propane, Parfum (Fragrance), Aqua (Water), Aloe Barbadensis Leaf Extract, Farnesol, Butane, Paraffinum Liquidum (Mineral Oil), Linalool, Benzyl Salicylate, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Lavandula Oil/Extract, Limonene, Acetyl Cedrene, Citrus Limon Peel Oil, Citronellol, Citrus Aurantium Peel Oil, Eugenol, Pelargonium Graveolens Flower Oil, Pinene, Coumarin, Camphor, Citral, Anethole, Citrus Aurantium Bergamia Peel Oil, Beta-Caryophyllene, Geraniol, Trimethylcyclopentenyl Methylisopentenol, Geranyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Desodorante Spray Sunset (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519557"
+     ],
+     "inci": "Alcohol Denat., Isobutane, Propane, Parfum (Fragrance), Aqua (Water), Aloe Barbadensis Leaf Extract, Farnesol, Paraffinum Liquidum (Mineral Oil), Butane, Tetramethyl acetyloctahydronaphthalenes, Linalyl Acetate, Hexamethylindanopyran, Linalool, Coumarin, Pogostemon Cablin Oil, Hexyl Cinnamal, Geraniol, Lavandula Oil/Extract, Vanillin, Citronellol, Alpha-Isomethyl Ionone, Trimethylcyclopentenyl Methylisopentenol, Geranyl Acetate, Limonene, Pinene, Citrus Aurantium Peel Oil, Mentha Piperita Oil, Pelargonium Graveolens Flower Oil, Camphor, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "Fluido Solar Facial Bronze SPF50+ Color (40 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520393"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Titanium Dioxide, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Glycerin, Polyglyceryl-3 Stearate/Sebacate Crosspolymer, Silica, Mica, Diethylhexyl Butamido Triazone, Acetyl Tyrosine, Riboflavin, Sodium Stearoyl Glutamate, 3-O-Ethyl Ascorbic Acid, Hyaluronic Acid, Aloe Barbadensis Leaf Extract, Silanetriol, Potassium Cetyl Phosphate, Phenoxyethanol, CI 77492, Acacia Senegal Gum, 1,2-Hexanediol, CI 77491, Centella Asiatica Leaf Vesicles, Mannitol, Phosphatidylcholine, Hydroxyacetophenone, Xanthan Gum, Ethylhexylglycerin, Parfum (Fragrance), Isostearyl Sebacate, Methylpropanediol, Acrylates/Vinyl Isodecanoate Crosspolymer, Disodium EDTA, CI 77499, Sodium Hydroxide, Acrylates Copolymer, Decylene Glycol, Disodium Stearoyl Glutamate, Aluminum Hydroxide, Pentylene Glycol, Propanediol, Beta-Sitosterol, Ascorbic Acid, Polyglyceryl-10 Laurate, Potassium Sorbate, Alginic Acid, Citric Acid, Sodium Benzoate, Sodium Sulfite, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexamethylindanopyran, Linalyl Acetate, Citral, Coumarin, Dimethyl Phenethyl Acetate, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Fluido Solar Facial Hydra SPF50+ (40 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520409"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tributyl Citrate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Octyldodecanol, Ethylhexyl Triazone, Silica, Phenethyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-3 Stearate/Sebacate Crosspolymer, Alcohol Denat., Aloe Barbadensis Leaf Extract, Centella Asiatica Leaf Vesicles, Sodium Hyaluronate, 3-O-Ethyl Ascorbic Acid, Hyaluronic Acid, Phenoxyethanol, Sodium Stearoyl Glutamate, Parfum (Fragrance), Glycerin, Sodium Hydroxide, 1,2-Hexanediol, Hydroxyacetophenone, Potassium Cetyl Phosphate, Acrylates/Vinyl Isodecanoate Crosspolymer, Ethylhexylglycerin, Methylpropanediol, Xanthan Gum, Disodium EDTA, Decylene Glycol, Mannitol, Phosphatidylcholine, Pentylene Glycol, Caprylyl Glycol, Polyglyceryl-10 Laurate, Methyl Salicylate, Beta-Sitosterol, Citric Acid, Ascorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexamethylindanopyran, Linalyl Acetate, Citral, Coumarin, Dimethyl Phenethyl Acetate, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Gel Facial Exfoliante (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430227"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Cocamidopropyl Betaine, Cellulose Acetate, Sodium Laureth Sulfate, Acrylates Copolymer, Sodium Chloride, Microcrystalline cellulose, Biosaccharide Gum-4, 1,2-Hexanediol, Parfum (Fragrance), Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Sodium Benzoate, CI 77288, Ascorbic Acid, Citric Acid, Methylchloroisothiazolinone, Potassium Sorbate, Sodium Sulfite, Methylisothiazolinone, Limonene, Linalool, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel Limpiador Facial Ácido Hialurónico (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412518833"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Parfum (Fragrance), Sodium Hyaluronate, Niacinamide, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Limonene"
+    },
+    {
+     "nombre": "Gel Limpiador Facial Vitamina C (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412518857"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, 3-O-Ethyl Ascorbic Acid, Glycolic Acid, Parfum (Fragrance), Tetrasodium Glutamate Diacetate, Sodium Benzoate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel Limpiador Matificante (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430180"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Extract, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Sodium Chloride, Chlorella Vulgaris Extract, Glycerin, Parfum (Fragrance), Propanediol, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Benzoate, Ascorbic Acid, Methylchloroisothiazolinone, Potassium Sorbate, Sodium Sulfite, Methylisothiazolinone, Lactic Acid, Sodium Hydroxide, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gelatina Bronce Intenso Coco (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490368"
+     ],
+     "inci": "Petrolatum, Hydrogenated Coconut Oil, Isopropyl Myristate, Paraffinum Liquidum, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Beta-Carotene, Ascorbyl Palmitate, Parfum (Fragrance), Helianthus Annuus Seed Oil (Sunflower), BHT, CI 26100 (Red No.17), CI 47000, CI 61565"
+    },
+    {
+     "nombre": "Gelatina Bronceadora Sun Reflections SPF15 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490122"
+     ],
+     "inci": "Petrolatum, Dibutyl Adipate, Dicaprylyl Carbonate, Tributyl Citrate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Paraffinum Liquidum (Mineral Oil), Synthetic Wax, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Microcrystalline Wax, Parfum (Fragrance), Tocopheryl Acetate, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Seed Oil, Daucus Carota Sativa (Carrot) Root Extract, Riboflavin, Aqua (Water), Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, CI 26100 (D&C Red No. 17), Tocopherol, Coumarin, Amyl Salicylate, Citrus Aurantium Peel Oil, Limonene, Benzyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Dimethyl Phenethyl Acetate, Terpineol, Citronellol, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Leche Corporal Almendras Dulce (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412130158"
+     ],
+     "inci": "Aqua (Water), Glycerin, Paraffinum Liquidum (Mineral Oil), Propylene Glycol, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Propanediol, Acrylates/Vinyl Isodecanoate Crosspolymer, Parfum (Fragrance), Caprylyl Glycol, Tetrasodium EDTA, Ethylparaben, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Hydroxide, Acetyl Cedrene, Alpha-Isomethyl Ionone, Benzyl salicylate, Citronellol, Geraniol, Hexamethylindanopyran, Hexyl Cinnamal, Hydroxycitronellal, Isoeugenol, Linalool, Linalyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Leche Corporal Oliva (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412047357"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Cetyl Alcohol, Olea Europaea Fruit Oil, Ceteth-24, Tocopheryl Acetate, Isopropyl Myristate, Phenoxyethanol, Sodium Carbomer, Parfum (Fragrance), Methylparaben, Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Citric Acid, Propylparaben, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Leche Corporal Reafirmante (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412130141"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Isopropyl Myristate, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Paraffinum Liquidum, Aloe Barbadensis Leaf Extract, Equisetum Arvense Extract, Tocopheryl Acetate, Phenoxyethanol, Parfum (Fragrance), Tetrasodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Carbomer, Glycerin, Methylparaben, 2-Bromo-2-Nitropropane-1,3-Diol, Butylparaben, Ethylparaben, Citric Acid, Propylparaben, Potassium Sorbate, Sodium Benzoate, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Leche Protectora Bronze SPF30 (100 ml, 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520553",
+      "8410412520546"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Tributyl Citrate, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, VP/Eicosene Copolymer, Glyceryl Stearate, PEG-100 Stearate, Glycerin, C12-15 Alkyl Benzoate, Ethylhexyl Triazone, Aloe Barbadensis Leaf Extract, Phenoxyethanol, Niacinamide, Acetyl Tyrosine, Achillea Millefolium Flower Extract, Riboflavin, Sodium Hydroxide, Benzyl Alcohol, Cetearyl Alcohol, Propanediol, Caprylhydroxamic Acid, Acrylates/Vinyl Isodecanoate Crosspolymer, Parfum (Fragrance), Sodium Stearoyl Glutamate, Xanthan Gum, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium EDTA, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Linalyl Acetate, Acetyl Cedrene, Hexamethylindanopyran, Geranyl Acetate"
+    },
+    {
+     "nombre": "Leche Protectora Hydra SPF50 (100 ml, 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412120463",
+      "8410412520478"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Tributyl Citrate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Phenethyl Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Ethylhexyl Triazone, Potassium Cetyl Phosphate, Polyglyceryl-3 Stearate/Sebacate Crosspolymer, PEG-100 Stearate, Glyceryl Stearate, Paraffinum Liquidum (Mineral Oil), Cetearyl Alcohol, Aloe Barbadensis Leaf Extract, Centella Asiatica Leaf Vesicles, Hyaluronic Acid, 3-O-Ethyl Ascorbic Acid, Beta-Sitosterol, Mannitol, Phosphatidylcholine, Sodium Hydroxide, Phenoxyethanol, Glycerin, Decyl Glucoside, Sodium Methylparaben, Parfum (Fragrance), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Pentylene Glycol, Acrylates/Vinyl Isodecanoate Crosspolymer, Methylparaben, Ethylparaben, Propylene Glycol, Polyglyceryl-10 Laurate, 1,2-Hexanediol, Citric Acid, Ascorbic Acid, Sodium Sulfite, Sodium Benzoate, Potassium Sorbate, Hexamethylindanopyran, Geranyl Acetate, Linalyl Acetate, Acetyl Cedrene"
+    },
+    {
+     "nombre": "Leche Protectora Sensibles SPF50+ (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000413"
+     ],
+     "inci": "Aqua (Water), Octocrylene, Dibutyl Adipate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Glycerin, Diethylhexyl Butamido Triazone, Potassium Cetyl Phosphate, Glyceryl Stearate, PEG-100 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, Paraffinum Liquidum (Mineral Oil), Alcohol Denat., Aloe Barbadensis Leaf Extract, Caprylhydroxamic Acid, Niacinamide, Achillea Millefolium Flower Extract, Hydroxyphenyl Propamidobenzoic Acid, Ascorbyl Palmitate, VP/Eicosene Copolymer, Decyl Glucoside, Phenoxyethanol, Parfum (Fragrance), Propanediol, Citric Acid, Sodium Carbomer, Sodium Methylparaben, Caprylyl Glycol, Xanthan Gum, Methylparaben, Ethylparaben, Tetrasodium EDTA, Propylene Glycol, Pentylene Glycol, Butylene Glycol, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Ascorbic Acid, Sodium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Leche Protectora Solar SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000499"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Tributyl Citrate, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Potassium Cetyl Phosphate, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Paraffinum Liquidum, Aloe Barbadensis Leaf Extract, VP/Eicosene Copolymer, Glycerin, Niacinamide, Achillea Millefolium Extract, Riboflavin, Acetyl Tyrosine, Ascorbic Acid, Phenoxyethanol, Sodium Hydroxide, Decyl Glucoside, Parfum (Fragrance), Sodium Methylparaben, Xanthan Gum, Sodium Carbomer, Methylparaben, Ethylparaben, Tetrasodium EDTA, Propylene Glycol, Potassium Sorbate, Sodium Benzoate, Citric Acid, Sodium Sulfite"
+    },
+    {
+     "nombre": "Leche Protectora SPF20 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490283"
+     ],
+     "inci": "Aqua (Water), Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, VP/Eicosene Copolymer, Glyceryl Stearate, PEG-100 Stearate, Glycerin, Cetearyl Alcohol, Diethylhexyl Butamido Triazone, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Extract, Riboflavin, Phenoxyethanol, Sodium Hydroxide, Sodium Carbomer, Parfum (Fragrance), Sodium Methylparaben, Xanthan Gum, Tetrasodium EDTA, Ethylparaben, Methylparaben, Acrylates/Vinyl Isodecanoate Crosspolymer, 2-Bromo-2-Nitropropane-1,3-Diol, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite"
+    },
+    {
+     "nombre": "Leche Solar Aloe SPF30 Limited Edition (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519229"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Tributyl Citrate, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Potassium Cetyl Phosphate, VP/Eicosene Copolymer, Glyceryl Stearate, PEG-100 Stearate, Glycerin, C12-15 Alkyl Benzoate, Ethylhexyl Triazone, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Extract, Riboflavin, Phenoxyethanol, Sodium Hydroxide, Benzyl Alcohol, Cetearyl Alcohol, Sodium Carbomer, Parfum (Fragrance), Xanthan Gum, Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium EDTA, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Propanediol, Caprylyl Glycol, Caprylhydroxamic Acid, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Linalool, Linalyl Acetate, Hexyl Cinnamal, Terpineol, Eugenol, Hydroxycitronellal, Geranyl Acetate, Limonene, Isoeugenol"
+    },
+    {
+     "nombre": "Mascarilla Cebolla (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020992"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Parfum (Fragrance), Allium Cepa Bulb Extract, PEG-12 Dimethicone, Trimethylsiloxyphenyl Dimethicone, Methylchloroisothiazolinone, Methylisothiazolinone, Citric Acid, Isopropyl Alcohol, Glycerin, Potassium Sorbate, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mascarilla Coco (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220187"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Ethylhexyl Salicylate, Hydrogenated Coconut Oil, PEG-12 Dimethicone, Trimethylsiloxyphenyl Dimethicone, Parfum (Fragrance), Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Isopropyl Alcohol, Vanillin"
+    },
+    {
+     "nombre": "Mascarilla Color Capture (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220231"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Silicone Quaternium-18, Passiflora Incarnata Extract, Camellia Japonica Flower Extract, Trimethylsiloxyphenyl Dimethicone, Benzophenone-4, PEG-12 Dimethicone, Parfum (Fragrance), Trideceth-6, Trideceth-12, Glycerin, Sodium Hydroxide, Butylene Glycol, Phenoxyethanol, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Isopropyl Alcohol, CI 16035 (FD & C Red No. 40), Hexyl Cinnamal, Linalool, Limonene"
+    },
+    {
+     "nombre": "Mascarilla Limón & Vitamina C (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412020664"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Dimethicone, Behentrimonium Chloride, Glycerin, Citrus Limon (Lemon) Fruit Extract, 3-O-Ethyl Ascorbic Acid, Parfum (Fragrance), Isopropyl Alcohol, Sodium Benzoate, Potassium Sorbate, Methylchloroisothiazolinone, Methylisothiazolinone, CI 47005 (D&C Yellow No.10), Limonene, Linalool, Linalyl Acetate, Citrus Aurantium Peel Oil"
+    },
+    {
+     "nombre": "Mascarilla Nutritive & Repair (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220224"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Trimethylsiloxyphenyl Dimethicone, PEG-12 Dimethicone, Citrus Aurantium Dulcis (Orange) Fruit Extract, Argania Spinosa (Argan Tree) Kernel Oil, Sclerocarya Birrea (Cider Tree) Seed Oil, Salvia Hispanica (Chia) Seed Extract, Pisum Sativum (Pea) Extract, Hydroxypropyltrimonium Hydrolyzed Corn Starch, Glycerin, Parfum (Fragrance), Phenoxyethanol, Citric Acid, Sodium Citrate, CI 47005 (D&C Yellow No.10), CI 16035 (FD&C Red No.40), Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Potassium Sorbate, Isopropyl Alcohol, Eugenol, Cinnamal, Coumarin"
+    },
+    {
+     "nombre": "Mascarilla Oliva (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220255"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Olea Europaea (Olive) Fruit Oil, PEG-12 Dimethicone, Trimethylsiloxyphenyl Dimethicone, Parfum (Fragrance), Methylchloroisothiazolinone, Methylisothiazolinone, Citric Acid, Isopropyl Alcohol, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, Linalyl Acetate, Citrus Limon Peel Oil, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Mascarilla Ondas & Rizos (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412220248"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Cocos Nucifera (Coconut) Fruit Extract, Guar Hydroxypropyltrimonium Chloride, Pistacia Vera (Pistachio) Seed Extract, Trimethylsiloxyphenyl Dimethicone, Benzophenone-4, Parfum (Fragrance), PEG-12 Dimethicone, Xanthan Gum, Propanediol, Alcohol Denat., Sodium Hydroxide, Citric Acid, CI 60730 (EXT D&C. Violet No. 2), Methylchloroisothiazolinone, Methylisothiazolinone, Isopropyl Alcohol, Potassium Sorbate, Sodium Benzoate, Linalool, Hexyl Cinnamal, Limonene, Alpha-Isomethyl Ionone, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Citrus Aurantium Peel Oil"
+    },
+    {
+     "nombre": "Milky Toner Skin Barrier (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520379"
+     ],
+     "inci": "Aqua (Water), Glycerin, Chlorella Vulgaris Extract, Dimethicone, Glycol Distearate, Acacia Senegal Gum, 1,2-Hexanediol, Sodium Laureth Sulfate, Cocamide MEA, Decylene Glycol, Parfum (Fragrance), Hydroxyacetophenone, Methylpropanediol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Xanthan Gum, Lactic Acid, Propanediol, Alpha-Isomethyl Ionone, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mousse Cremoso Limpiador (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430173"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Decyl Glucoside, Glycerin, Rosa Moschata Seed Oil, Chondrus Crispus (Carrageenan) Extract, PEG-40 Hydrogenated Castor Oil, Glucose, Caprylyl Glycol, Parfum (Fragrance), Sodium Chloride, Tetrasodium Glutamate Diacetate, Sodium Benzoate, Citric Acid, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Hydroxide, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Protector Capilar Aloe (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412120456"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Benzophenone-4, Aloe Barbadensis Leaf Extract, Cetrimonium Chloride, Panthenol, PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), Isopropyl Alcohol, Propylene Glycol, Sodium Hydroxide, Ascorbic Acid, Potassium Sorbate, Sodium Sulfite, Sodium Benzoate, Citric Acid, Limonene, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Linalool, Citronellol, Citrus Limon Peel Oil, Acetyl Cedrene, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Protector Labial SPF30 (5,7 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412507059"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Oryza Sativa Bran Wax, Hydrogenated Sunflower Seed Oil, Ricinus Communis (Castor) Seed Oil, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, Butyrospermum Parkii (Shea) Butter, Aroma (Flavor), Allantoin, Tocopherol, Vanillin, Helianthus Annuus (Sunflower) Seed Oil, Terpineol"
+    },
+    {
+     "nombre": "Roll On SPF50+ Limited Edition (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519212"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Tributyl Citrate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, VP/Eicosene Copolymer, Sodium Stearoyl Glutamate, Hydroxyphenyl Propamidobenzoic Acid, Niacinamide, Achillea Millefolium Extract, Aloe Barbadensis Leaf Extract, Trideceth-9, PEG-5 Ethylhexanoate, Glycerin, Phenoxyethanol, Parfum (Fragrance), Sodium Hydroxide, Cetearyl Alcohol, Sodium Methylparaben, Xanthan Gum, Acrylates/Vinyl Isodecanoate Crosspolymer, Propanediol, Caprylyl Glycol, Caprylhydroxamic Acid, Disodium EDTA, Methylparaben, Ethylparaben, Potassium Cetyl Phosphate, Butylene Glycol, Pentylene Glycol, Potassium Sorbate, Sodium Benzoate, Ascorbyl Palmitate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Serum Facial Active Lifting Effect (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100748"
+     ],
+     "inci": "Aqua (Water), Glycerin, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Isopropyl Myristate, Parfum (Fragrance), Phenoxyethanol, Polyacrylate-13, Acrylates/Vinyl Isodecanoate Crosspolymer, Ethylhexylglycerin, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Sodium Hydroxide, Hexamethylindanopyran, Trimethylbenzenepropanol, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate"
+    },
+    {
+     "nombre": "Serum Facial Antimanchas (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100168"
+     ],
+     "inci": "Aqua (Water), Glycolic Acid, Dibutyl Adipate, Tri(Polyglyceryl-2/Lauryl) Hydrogenated Trilinoleate, Polyacrylate-13, Sodium Hydroxide, Dimethylmethoxy Chromanyl Palmitate, Rosa Moschata Seed Oil, Tocopheryl Acetate, Polyisobutene, Polyacrylate Crosspolymer-6, Phenoxyethanol, Parfum (Fragrance), Tetrasodium EDTA, Ethylhexylglycerin, Polysorbate 20, Sorbitan Isostearate, t-Butyl Alcohol, Hexyl Cinnamal, Coumarin, Limonene, Linalool, Carbomer"
+    },
+    {
+     "nombre": "Serum Facial Colágeno (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100601"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Nicotiana Benthamiana Hexapeptide-40 sh-Polypeptide-47 (Colágeno), Panthenol, Phenoxyethanol, Parfum (Fragrance), Pentylene Glycol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Serum Facial Glicólico (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100526"
+     ],
+     "inci": "Aqua (Water), Glycolic Acid, Tri(Polyglyceryl-3/Lauryl) Hydrogenated Trilinoleate, Polyacrylate-13, Sodium Hydroxide, Brassica Campestris (Rapeseed) Sterols, Zingiber Officinale (Ginger) Root Extract, Hydroxyphenyl Propamidobenzoic Acid, Bisabolol, Mannitol, Phosphatidylcholine, Glycerin, 4-T-Butylcyclohexanol, Ceramide NP (Ceramide 3), Cetylhydroxyproline Palmitamide, Phenoxyethanol, Polyisobutene, Hexyldecanol, Pentylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tocopheryl Acetate, Aminomethyl Propanol, Parfum (Fragrance), Tetrasodium EDTA, Polysorbate 20, Sorbitan Isostearate, Ethylhexylglycerin, Stearic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Sodium Chloride, Citronellol, Geraniol, Linalool"
+    },
+    {
+     "nombre": "Serum Facial Microbiota (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100717"
+     ],
+     "inci": "Aqua (Water), Glycerin, Polyacrylate-13, Chlorella Vulgaris Extract, Nephelium Lappaceum Leaf Extract, Sodium Hyaluronate, Tocopheryl Acetate, Maltodextrin, Phenoxyethanol, Polyisobutene, Lactic Acid, Parfum (Fragrance), Tetrasodium Glutamate Diacetate, Polysorbate 20, Ethylhexylglycerin, Propanediol, Sorbitan Isostearate, Citric Acid, Sodium Hydroxide, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Serum Facial Skin Barrier (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520362"
+     ],
+     "inci": "Aqua (Water), Glycerin, Polyacrylate-13, Chlorella Vulgaris Extract, Nephelium Lappaceum Leaf Extract, Sodium Hyaluronate, Tocopheryl Acetate, Maltodextrin, Phenoxyethanol, Polyisobutene, Lactic Acid, Parfum (Fragrance), Tetrasodium Glutamate Diacetate, Polysorbate 20, Ethylhexylglycerin, Propanediol, Sorbitan Isostearate, Citric Acid, Sodium Hydroxide, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Crema Facial Skin Barrier (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520355"
+     ],
+     "inci": "Aqua (Water), Glycerin, Octyldodecanol, Polyacrylate-13, Isostearyl Isostearate, Chlorella Vulgaris Extract, Nephelium Lappaceum Leaf Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Tocopheryl Acetate, Maltodextrin, Phenoxyethanol, Polyisobutene, Parfum (Fragrance), Acrylates/Vinyl Isodecanoate Crosspolymer, Tetrasodium Glutamate Diacetate, Polysorbate 20, Sorbitan Isostearate, Ethylhexylglycerin, Propanediol, Decyl Glucoside, Sodium Hydroxide, Lactic Acid, Propylene Glycol, Xanthan Gum, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Tetramethyl Acetyloctahydronaphthalenes, Terpineol"
+    },
+    {
+     "nombre": "Serum Facial Vitamin D (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412518925"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propanediol, Polyacrylate-13, Saccharomyces/Grape Ferment Extract, Chlorella Vulgaris Extract, Tocopheryl Acetate, Ethylhexylglycerin, Phenoxyethanol, Polyisobutene, Parfum (Fragrance), Tetrasodium Glutamate Diacetate, Polysorbate 20, Sorbitan Isostearate, Citric Acid, Sodium Hydroxide, Lactic Acid, CI 47005 (D&C Yellow No.10), CI 16035 (FD&C Red No.40), Sodium Citrate, Sodium Benzoate, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexamethylindanopyran, Linalyl Acetate, Limonene"
+    },
+    {
+     "nombre": "Serum Facial Hyaluronic Acid (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100069"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Hyaluronic Acid, Sodium Hyaluronate, Phosphatidylcholine, 3-O-Ethyl Ascorbic Acid, Aloe Barbadensis Leaf Extract, Centella Asiatica Leaf Vesicles, Mannitol, Parfum (Fragrance), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Beta-Sitosterol, Pentylene Glycol, Sodium Hydroxide, 1,2-Hexanediol, Caprylyl Glycol, Polyglyceryl-10 Laurate, Phenoxyethanol, Citric Acid, Ascorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes, Limonene"
+    },
+    {
+     "nombre": "Serum Facial Retinol (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100083"
+     ],
+     "inci": "Aqua (Water), Ethylhexyl Salicylate, Propylene Glycol, Polysorbate 80, Trideceth-9, PEG-5 Ethylhexanoate, Polyacrylamide, Retinol, Tocopheryl Acetate, Phenoxyethanol, C13-14 Isoparaffin, Parfum (Fragrance), Tetrasodium EDTA, Laureth-7, Ethylhexylglycerin, Disodium EDTA, Acrylates/Vinyl Isodecanoate Crosspolymer, Citric Acid, Tocopherol, Undecane, Tridecane, CI 16035 (FD&C Red No.40), Linalyl Acetate, Citral"
+    },
+    {
+     "nombre": "Serum Solar Facial Ácido Hialurónico (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490320"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Tributyl Citrate, Octyldodecanol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Alcohol Denat., Ethylhexyl Triazone, Silica, Phenylbenzimidazole Sulfonic Acid, VP/Eicosene Copolymer, Sodium Hyaluronate, Dimethylmethoxy Chromanyl Palmitate, Phenoxyethanol, Niacinamide, Sodium Stearoyl Glutamate, Silanetriol, Parfum (Fragrance), Sodium Hydroxide, Glycerin, Potassium Cetyl Phosphate, Achillea Millefolium Flower Extract, Chlorella Vulgaris Extract, Acrylates/Vinyl Isodecanoate Crosspolymer, Disodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Caprylhydroxamic Acid, 1,2-Hexanediol, Xanthan Gum, Propanediol, Potassium Sorbate, Sodium Benzoate, Alginic Acid, Lactic Acid, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexamethylindanopyran, Linalyl Acetate, Limonene, Coumarin, Citrus Limon Peel Oil, Dimethyl Phenethyl Acetate, Citrus Aurantium Peel Oil, Pinene"
+    },
+    {
+     "nombre": "Serum Facial Vitamina C (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412100076"
+     ],
+     "inci": "Aqua (Water), Propylene Glycol, Alcohol Denat., 3-O-Ethyl Ascorbic Acid, Allantoin, Phosphatidylcholine, Tocopheryl Acetate, Benzyl Alcohol, Pentylene Glycol, Polyacrylate-13, Sodium Polyacrylate, Centella Asiatica Leaf Vesicles, Aloe Barbadensis Leaf Extract, Hyaluronic Acid, Polyisobutene, Parfum (Fragrance), Tetrasodium EDTA, Xanthan Gum, Benzoic Acid, Mannitol, Disodium EDTA, Polysorbate 20, Sorbitan Isostearate, Sorbic Acid, Glycerin, Polyglyceryl-10 Laurate, Beta-Sitosterol, Citric Acid, 1,2-Hexanediol, Ascorbic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Limonene, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Linalool, Linalyl Acetate, Citrus Limon Peel Oil, Terpineol, Pinene, Lavandula Oil/Extract, Geraniol"
+    },
+    {
+     "nombre": "Spray Aceite Protector Bronze SPF30 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520492"
+     ],
+     "inci": "Alcohol Denat., Octocrylene, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Aqua (Water), Dibutyl Adipate, VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Hydrogenated Coconut Oil, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Flower Extract, Riboflavin, Parfum (Fragrance), Glycerin, Paraffinum Liquidum (Mineral Oil), Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Vanillin, Amyl Salicylate"
+    },
+    {
+     "nombre": "Spray Aceite Protector Bronze SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412120524"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, PEG-7 Glyceryl Cocoate, Octocrylene, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Caprylic/Capric Triglyceride, Aqua (Water), Cocos Nucifera (Coconut) Oil, Gardenia Taitensis Flower, Acetyl Tyrosine, Tocopherol, Achillea Millefolium Flower Extract, Riboflavin, Niacinamide, Parfum (Fragrance), Glycerin, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Vanillin, Amyl Salicylate"
+    },
+    {
+     "nombre": "Spray Aceite Protector Bronze SPF6 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412120500"
+     ],
+     "inci": "Paraffinum Liquidum (Mineral Oil), C12-15 Alkyl Benzoate, Octocrylene, Butyl Methoxydibenzoylmethane, Beta-Carotene, Daucus Carota Sativa (Carrot) Seed Oil, Achillea Millefolium Flower Extract, Daucus Carota Sativa (Carrot) Root Extract, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Parfum (Fragrance), Sorbitan Oleate, Ascorbyl Palmitate, Potassium Sorbate, Sodium Benzoate, Glycerin, Aqua (Water), Alcohol Denat., Terpineol, Hexamethylindanopyran, Acetyl Cedrene, Linalyl Acetate, Vanillin, Amyl Salicylate, Pinene, Eugenyl Acetate, Geranyl Acetate"
+    },
+    {
+     "nombre": "Spray Aceite Protector Monohi Tahiti SPF15 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000604"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, PEG-7 Glyceryl Cocoate, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Tributyl Citrate, Dibutyl Adipate, Diethylhexyl Butamido Triazone, VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Gardenia Tahitensis Flower, Cocos Nucifera Oil, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Extract, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Beta-Carotene, Riboflavin, Tocopherol, Parfum (Fragrance), Aqua (Water), Glycerin, Paraffinum Liquidum, Helianthus Annuus Seed Oil (Sunflower), Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Spray Aceite Protector Zanahoria SPF6 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000598"
+     ],
+     "inci": "Paraffinum Liquidum, C12-15 Alkyl Benzoate, Octocrylene, Butyl Methoxydibenzoylmethane, Beta-Carotene, Daucus Carota Sativa Seed Oil (Carrot), Artemia Extract, Daucus Carota Sativa Root Extract (Carrot), Helianthus Annuus Seed Oil (Sunflower), Parfum (Fragrance), Sorbitan Oleate, Ascorbyl Palmitate, Glycerin, Aqua, Limonene"
+    },
+    {
+     "nombre": "Spray Aceite Seco SPF15 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490269"
+     ],
+     "inci": "Alcohol Denat., Isobutane, Propane, Dibutyl Adipate, Dicaprylyl Carbonate, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Helianthus Annuus Seed Oil (Sunflower), Sorbitan Isostearate, Caproyl Tyrosine, Dihydroxyacetone, Beta-Carotene, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Hydrogenated Coconut Oil, Niacinamide, Cocos Nucifera Oil, Achillea Millefolium Extract, Gardenia Tahitensis Flower, Tocopherol, Ascorbyl Palmitate, Glycerin, Aqua (Water), Glyceryl Oleate, Parfum (Fragrance), Ascorbyl Palmitate, Potassium Sorbate, Sodium Benzoate, Butane"
+    },
+    {
+     "nombre": "Spray Aqua Bifásica SPF30 UV (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490238"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Paraffinum Liquidum, Octocrylene, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Glycerin, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Diethylhexyl Butamido Triazone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Beta-Carotene, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Riboflavin, Ascorbyl Palmitate, Ascorbic Acid, Parfum (Fragrance), Phenoxyethanol, Sodium Chloride, Sodium Hydroxide, Disodium EDTA, Isopropyl Myristate, Helianthus Annuus Seed Oil (Sunflower), Potassium Sorbate, Citric Acid, Sodium Benzoate, Sodium Sulfite, CI 26100 (RED No.17)"
+    },
+    {
+     "nombre": "Spray Aqua Bifásica SPF50 UV (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490221"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Octocrylene, Glycerin, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Phenylbenzimidazole Sulfonic Acid, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Dibutyl Adipate, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Beta-Carotene, Daucus Carota Sativa Seed Oil (Carrot), Daucus Carota Sativa Root Extract (Carrot), Riboflavin, Parfum (Fragrance), Ascorbyl Palmitate, Ascorbic Acid, Phenoxyethanol, Sodium Chloride, Sodium Hydroxide, Disodium EDTA, Isopropyl Myristate, Helianthus Annuus Seed Oil (Sunflower), Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, CI 26100 (RED No.17)"
+    },
+    {
+     "nombre": "Spray Protector Bronze SPF30 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412120531"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, VP/Eicosene Copolymer, Ethylhexyl Triazone, Sodium Stearoyl Glutamate, C12-15 Alkyl Benzoate, Aloe Barbadensis Leaf Extract, Niacinamide, Cetearyl Alcohol, Sodium Hydroxide, Phenoxyethanol, Glycerin, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Methylparaben, Parfum (Fragrance), Xanthan Gum, Propanediol, Disodium EDTA, Methylparaben, Ethylparaben, Caprylyl Glycol, Acetyl Tyrosine, Caprylhydroxamic Acid, Achillea Millefolium Flower Extract, Riboflavin, Potassium Sorbate, Sodium Benzoate, Citric Acid, Ascorbic Acid, Sodium Sulfite, Linalyl Acetate, Acetyl Cedrene, Hexamethylindanopyran, Geranyl Acetate"
+    },
+    {
+     "nombre": "Spray Protector Hydra SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412520447"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Phenethyl Benzoate, Tributyl Citrate, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-3 Stearate/Sebacate Crosspolymer, Diethylhexyl Butamido Triazone, Ethylhexyl Triazone, Cetearyl Alcohol, Sodium Stearoyl Glutamate, Aloe Barbadensis Leaf Extract, Centella Asiatica Leaf Vesicles, Hyaluronic Acid, 3-O-Ethyl Ascorbic Acid, Beta-Sitosterol, Glycerin, Potassium Cetyl Phosphate, Phenoxyethanol, Sodium Hydroxide, 1,2-Hexanediol, Hydroxyacetophenone, Sodium Methylparaben, Parfum (Fragrance), Methylpropanediol, Acrylates/Vinyl Isodecanoate Crosspolymer, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA, Methylparaben, Ethylparaben, Decylene Glycol, Mannitol, Phosphatidylcholine, Pentylene Glycol, Polyglyceryl-10 Laurate, Citric Acid, Ascorbic Acid, Sodium Sulfite, Sodium Benzoate, Potassium Sorbate, Linalyl Acetate, Acetyl Cedrene, Hexamethylindanopyran, Geranyl Acetate"
+    },
+    {
+     "nombre": "Spray Protector Sensibles SPF50+ (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000512"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Tributyl Citrate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, VP/Eicosene Copolymer, Sodium Stearoyl Glutamate, Hydroxyphenyl Propamidobenzoic Acid, Niacinamide, Achillea Milefolium Flower Extract, Aloe Barbadensis Leaf Extract, Trideceth-9, PEG-5 Ethylhexanoate, Glycerin, Phenoxyethanol, Parfum (Fragrance), Sodium Hydroxide, Cetearyl Alcohol, Sodium Methylparaben, Xanthan Gum, Acrylates/Vinyl Isodecanoate Crosspolymer, Propanediol, Caprylyl Glycol, Lauryl Glucoside, Polyglyceryl-6 Laurate, Myristyl Glucoside, Caprylhydroxamic Acid, Disodium EDTA, Methylparaben, Ethylparaben, Potassium Cetyl Phosphate, Butylene Glycol, Pentylene Glycol, Potassium Sorbate, Sodium Benzoate, Ascorbyl Palmitate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Spray Protector Solar SPF30 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490030"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, VP/Eicosene Copolymer, Ethylhexyl Triazone, Sodium Stearoyl Glutamate, C12-15 Alkyl Benzoate, Aloe Barbadensis Leaf Extract, Niacinamide, Cetearyl Alcohol, Sodium Hydroxide, Phenoxyethanol, Glycerin, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Methylparaben, Parfum (Fragrance), Xanthan Gum, Propanediol, Disodium EDTA, Methylparaben, Ethylparaben, Caprylyl Glycol, Acetyl Tyrosine, Caprylhydroxamic Acid, Achillea Millefolium Extract, Phenoxyethanol, Riboflavin, Potassium Sorbate, Sodium Benzoate, Citric Acid, Ascorbic Acid, Sodium Sulfite"
+    },
+    {
+     "nombre": "Spray Protector Solar SPF50 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412000574"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tributyl Citrate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Phenylbenzimidazole Sulfonic Acid, VP/Eicosene Copolymer, Diethylhexyl Butamido Triazone, Ethylhexyl Triazone, Cetearyl Alcohol, Aloe Barbadensis Leaf Extract, Sodium Stearoyl Glutamate, Glycerin, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Flower Extract, Riboflavin, Phenoxyethanol, Potassium Cetyl Phosphate, Sodium Hydroxide, Propanediol, Parfum (Fragrance), Sodium Methylparaben, Caprylyl Glycol, Acrylates/Vinyl Isodecanoate Crosspolymer, Disodium EDTA, Xanthan Gum, Ethylparaben, Methylparaben, Caprylhydroxamic Acid, Potassium Sorbate, Sodium Benzoate, Ascorbic Acid, Citric Acid, Sodium Sulfite, Acetyl Cedrene, Geranyl Acetate, Hexamethylindanopyran, Linalyl Acetate"
+    },
+    {
+     "nombre": "Spray Protector SPF20 (300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490290"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, Octocrylene, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Dicaprylyl Carbonate, Aqua (Water), Diethylhexyl Butamido Triazone, VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Aloe Barbadensis Leaf Extract, Acetyl Tyrosine, Niacinamide, Achillea Millefolium Extract, Riboflavin, Paraffinum Liquidum, Parfum (Fragrance), Glycerin, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Spray Solar Vitamin D SPF30 (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519168"
+     ],
+     "inci": "Aqua (Water), Dibutyl Adipate, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Silica, VP/Eicosene Copolymer, C12-15 Alkyl Benzoate, Ethylhexyl Triazone, Saccharomyces/Grape Ferment Extract, Acetyl Tyrosine, Niacinamide, Sodium Stearoyl Glutamate, Glycerin, Achillea Millefolium Extract, Cetearyl Alcohol, Riboflavin, Phenoxyethanol, Parfum (Fragrance), Sodium Hydroxide, Acrylates/Vinyl Isodecanoate Crosspolymer, Sodium Methylparaben, Xanthan Gum, Propanediol, Disodium EDTA, Ethylparaben, Methylparaben, Sodium Citrate, Caprylyl Glycol, Caprylhydroxamic Acid, Sodium Benzoate, Potassium Sorbate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, Terpineol"
+    },
+    {
+     "nombre": "Stick Solar Facial Glow (20 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412519120"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Octyldodecanol, Cera Microcristallina (Microcrystalline Wax), Polyethylene, Undecane, Titanium Dioxide (Nano), Hydrogenated Castor Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyrospermum Parkii (Shea) Butter, Butyl Methoxydibenzoylmethane, Mica, Octocrylene, Tridecane, Isohexadecane, Triethylhexanoin, Titanium Dioxide, Aluminum Stearate, Cocos Nucifera (Coconut) Oil, Tocopheryl Acetate, Niacinamide, Achillea Millefolium Extract, Gardenia Taitensis Flower, Tocopherol, Alumina, Polyhydroxystearic Acid, Parfum (Fragrance), Sorbitan Oleate, Glycerin, CI 77491, Aqua (Water), Potassium Sorbate, Sodium Benzoate, BHT, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Stick Solar Facial SPF50 (20 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412490146"
+     ],
+     "inci": "C12-15 Alkyl Benzoate, Hydrolyzed Sunflower Seed Wax, Tribehenin, Tributyl Citrate, Dicaprylyl Carbonate, Paraffinum Liquidum, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Synthetic Wax, Aqua (Water), Microcrystalline Wax, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), Tris-Biphenyl Triazine (nano), Butyrospermum Parkii Butter, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Niacinamide, Achillea Millefolium Extract, Ascorbyl Palmitate, Dimethicone, Parfum (Fragrance), Silica, Decyl Glucoside, BHT, Glycerin, Xanthan Gum, Propylene Glycol, Butylene Glycol, Disodium Phosphate, Potassium Sorbate, Sodium Benzoate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Toallitas Desmaquilladoras Aloe Vera (25 uds)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430050"
+     ],
+     "inci": "Aqua (Water), Olus Oil, Lauryl Glucoside, Glycerin, Glyceryl Oleate, Dicaprylyl Carbonate, Polyglyceryl-2 Dipolyhydroxystearate, Aloe Ferox Leaf Extract, Hexyldecanol, Hexyldecyl Laurate, Tocopheryl Acetate, Propylene Glycol, Parfum (Fragrance), Isoamyl Laurate, Cocamidopropyl Betaine, Allantoin, Phenoxyethanol, Dehydroacetic Acid, Benzoic Acid, Potassium Sorbate, Tetrasodium EDTA, Citric Acid, Citral, Citronellol, Limonene, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Toallitas Desmaquilladoras Rosa Mosqueta (25 uds)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430067"
+     ],
+     "inci": "Aqua (Water), Olus Oil, Lauryl Glucoside, Glycerin, Glyceryl Oleate, Dicaprylyl Carbonate, Polyglyceryl-2 Dipolyhydroxystearate, Rosa Moschata Seed Oil, Hexyldecanol, Hexyldecyl Laurate, Tocopheryl Acetate, Propylene Glycol, Parfum (Fragrance), Isoamyl Laurate, Cocamidopropyl Betaine, Allantoin, Phenoxyethanol, Dehydroacetic Acid, Benzoic Acid, Tetrasodium EDTA, Citric Acid"
+    },
+    {
+     "nombre": "Tónico Facial Calmante (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410412430203"
+     ],
+     "inci": "Aqua (Water), Glycerin, PEG-40 Hydrogenated Castor Oil, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Triethylene Glycol, Propylene Glycol, Parfum (Fragrance), Citric Acid, Benzophenone-4, Sodium Hydroxide, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, CI 42090, Ascorbic Acid, CI 19140 (FD & C Yellow 5), Sodium Sulfite, Limonene, Linalool, Hexyl Cinnamal, Citral, Citronellol"
+    }
+   ]
+  },
+  {
+   "key": "byphasse",
+   "nombre": "Byphasse",
+   "productos": [
+    {
+     "nombre": "Fijador de Maquillaje (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097093755"
+     ],
+     "inci": "Aqua (Water), PEG-12 Dimethicone, Rosa Damascena Flower Water, Aloe Barbadensis Leaf Juice, Isododecane, Trimethylsiloxysilicate, Glycerin, Citric Acid, Parfum (Fragrance), Phenoxyethanol, Chlorphenesin, Gluconolactone, Sodium Benzoate, Potassium Sorbate, Calcium Gluconate, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Leche Hidratante Iluminadora Glow Effect (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097097029"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Glycerin, Vitis Vinifera (Grape) Seed Oil, Phenoxyethanol, Inulin, Tocopheryl Acetate, Xanthan Gum, Titanium Dioxide, Parfum (Fragrance), Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, 3-O-Ethyl Ascorbic Acid, Sodium Hydroxide, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate"
+    },
+    {
+     "nombre": "Mascarilla de Arcilla Renovadora (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097094998"
+     ],
+     "inci": "Aqua (Water), Kaolin, Titanium Dioxide, Propylene Glycol, Cetearyl Alcohol, Glycerin, Benzyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Stearic Acid, Allantoin, Panthenol, Royal Jelly, Sodium Polyacrylate, Parfum (Fragrance), Dicaprylyl Carbonate, Ethylhexylglycerin, Sodium Hydroxide, Montmorillonite, Polyglyceryl-3 Caprate, Tetrasodium Glutamate Diacetate, Illite, Isopropyl Titanium Triisostearate, Triethoxysilylethyl Polydimethylsiloxyethyl Hexyl Dimethicone, Tocopherol, CI 77492 (Iron Oxide Yellow), CI 77491 (Iron Oxide Red), CI 77499 (Iron Oxide Black)"
+    },
+    {
+     "nombre": "Mascarilla de Arcilla Anti-imperfecciones (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097094172"
+     ],
+     "inci": "Aqua (Water), Kaolin, Butylene Glycol, Cetearyl Alcohol, Titanium Dioxide, PEG-100 Stearate, Glyceryl Stearate, Benzyl Alcohol, Stearic Acid, Stearyl Stearate, Parfum (Fragrance), Sodium Polyacrylate, Dicaprylyl Carbonate, Barosma Betulina Leaf Extract, Ethylhexylglycerin, Sodium Hydroxide, Polyglyceryl-3 Caprate, Tetrasodium Glutamate Diacetate, Euphorbia Cerifera (Candelilla) Wax, Menthol, Limonene, Benzyl Salicylate, Linalool, Jojoba Esters, Montmorillonite, Citric Acid, Illite, Hexyl Cinnamal, Citronellol, Tocopherol, CI 77288 (Chromium Oxide Greens), CI 77510 (Ferric Ferrocyanide)"
+    },
+    {
+     "nombre": "Mascarilla de Arcilla Detox (150 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097094165"
+     ],
+     "inci": "Aqua (Water), Kaolin, Titanium Dioxide, Propylene Glycol, Benzyl Alcohol, Sodium Polyacrylate, Glycerin, Dicaprylyl Carbonate, Paraffinum Liquidum (Mineral Oil), Polysorbate 20, Parfum (Fragrance), Carbomer, Xanthan Gum, Sodium Hydroxide, Montmorillonite, Carnosine, Cyclopentasiloxane, Ethylhexylglycerin, Polyglyceryl-3 Caprate, Tetrasodium Glutamate Diacetate, Illite, Tocopherol, CI 77491 (Iron Oxide Red)"
+    },
+    {
+     "nombre": "Sérum Antimanchas Niacinamida Skin Booster (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097096428"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Butylene Glycol, Glycerin, Phenoxyethanol, Polysorbate 20, Tocopheryl Acetate, Xanthan Gum, Panthenol, Disodium EDTA, Parfum (Fragrance), Caprylyl Glycol, Sodium Hydroxide, Glycine Soja (Soybean) Oil, Sodium Hyaluronate, Tocopherol, Beta-sitosterol, Sodium Benzoate, Squalene, Potassium Sorbate, Sodium Chloride, Citric Acid, Hexyl Cinnamal, Linalool, Limonene, CI 19140, CI 14720"
+    },
+    {
+     "nombre": "Sérum Antiarrugas Retinol Skin Booster (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097096411"
+     ],
+     "inci": "Aqua (Water), Butylene Glycol, Glycerin, Phenoxyethanol, Polysorbate 20, Tocopheryl Acetate, Xanthan Gum, Panthenol, Disodium EDTA, Parfum (Fragrance), Caprylyl Glycol, Glycine Soja (Soybean) Oil, Sodium Hyaluronate, Sodium Retinoyl Hyaluronate, Sodium Hydroxide, Tocopherol, Beta-sitosterol, Sodium Benzoate, Squalene, Potassium Sorbate, Sodium Chloride, Citric Acid, CI 19140"
+    },
+    {
+     "nombre": "Sérum Iluminador Vitamina C Skin Booster (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097096435"
+     ],
+     "inci": "Aqua (Water), Butylene Glycol, Glycerin, Phenoxyethanol, Xanthan Gum, Panthenol, Polysorbate 20, Sodium Ascorbyl Phosphate, Disodium EDTA, Citric Acid, Parfum (Fragrance), Caprylyl Glycol, Glycine Soja (Soybean) Oil, Sodium Hyaluronate, Tocopherol, Beta-sitosterol, Sodium Benzoate, Squalene, Potassium Sorbate, Sodium Chloride, Limonene, Linalool, CI 15985"
+    },
+    {
+     "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436097094424"
+     ],
+     "inci": "Aqua (Water), Glycerin, PEG-6 Caprylic/Capric Glycerides, Benzyl Alcohol, Polysorbate 20, Cocamidopropyl Betaine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, PEG-7 Glyceryl Cocoate, Sodium Hydroxide, Ethylhexylglycerin, Charcoal Powder, Citric Acid, Tocopherol"
+    }
+   ]
+  },
+  {
+   "key": "lactovit",
+   "nombre": "Lactovit",
+   "productos": [
+    {
+     "nombre": "Gel de Ducha Lactourea Reparador (550 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135007444"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Urea, Coco-Glucoside, Glycerin, Milk Extract, Propylene Glycol, Helianthus Annuus Seed Oil, Polyquaternium-39, Potassium Lactate, Tocopherol, Lactic Acid, Parfum, Glycol Distearate, Propanediol, Lecithin, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Tetrasodium Glutamate Diacetate, C12-13 Alkyl Lactate, Hydrogenated Castor Oil, Sodium Hydroxide, Citric Acid, Hexamethylindanopyran, Linalyl Acetate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Gel de Ducha Lactourea Anti-manchas (550 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135011854"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Urea, Niacinamide, Coco-Glucoside, Glycerin, Milk Extract, Propylene Glycol, Potassium Lactate, Lactic Acid, Parfum, Glycol Distearate, C12-13 Alkyl Lactate, Hydrogenated Castor Oil, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Tetrasodium Glutamate Diacetate, Citric Acid, Hexamethylindanopyran, Linalyl Acetate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Gel de Ducha Lactourea Reafirmante (550 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135010512"
+     ],
+     "inci": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Urea, Coco-Glucoside, Glycerin, Glycol Distearate, Hydrolyzed Collagen, Milk Extract, Glyceryl Oleate, Propylene Glycol, Potassium Lactate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Castor Oil, Lactic Acid, Parfum (Fragrance), Propanediol, Lecithin, CI 19140 (Acid Yellow 23), CI 17200 (Acid Red 33), Sodium Benzoate, Potassium Sorbate, Citric Acid, Tetrasodium Glutamate Diacetate, Limonene, Linalool, Hexyl Cinnamal, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Dulcis Peel Oil"
+    },
+    {
+     "nombre": "Gel-Champú 2 en 1 Sport (250 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135350236"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Milk Extract, Hydrolyzed Collagen, Decyl Glucoside, Coco-Glucoside, Glycerin, Laureth-2, Propylene Glycol, C12-13 Alkyl Lactate, Glycol Distearate, Tocopherol, Polyquaternium-39, Propanediol, Lecithin, Glyceryl Oleate, Helianthus Annuus Seed Oil, Tetrasodium Glutamate Diacetate, Hydrogenated Castor Oil, Parfum, Sodium Benzoate, Potassium Sorbate, Citric Acid, Lactic Acid, Amyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Coumarin, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Leche Corporal Nutritiva Sérum Revitalizante (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135354029"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Glyceryl Stearate, Cetyl Palmitate, Palmitic Acid, PEG-100 Stearate, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Milk Extract, Olus Oil, Stearic Acid, Caprylyl Glycol, Propylene Glycol, Carbomer, Myristic Acid, Dimethicone, Hydrogenated Vegetable Oil, Candelilla Cera, Tocopheryl Acetate, Phenoxyethanol, Disodium EDTA, Sodium Hydroxide, Parfum, Potassium Sorbate, Sodium Benzoate, Benzyl Salicylate, Linalool, Linalyl Acetate, Limonene, Hexyl Cinnamal, Acetyl Cedrene, Hexamethylindanopyran, Citronellol, Coumarin, Geraniol, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Geranyl Acetate, Pinene"
+    },
+    {
+     "nombre": "Loción Lactourea Anti-manchas (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135011861"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum, Glyceryl Stearate, Cetearyl Alcohol, Cetyl Palmitate, Niacinamide, PEG-100 Stearate, Cetearyl Ethylhexanoate, Urea, Milk Extract, Titanium Dioxide, Tocopheryl Acetate, Polyglyceryl-2 Caprate, Simmondsia Chinensis Seed Oil, Helianthus Annuus Seed Oil, Dimethicone, Potassium Lactate, Palmitic Acid, Stearic Acid, Caprylyl Glycol, Propylene Glycol, Propanediol, Myristic Acid, Glyceryl Caprylate, Tocopherol, Squalane, Carbomer, Sodium Hydroxide, Sucrose Stearate, Alumina, Disodium EDTA, Lecithin, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Parfum, Hexamethylindanopyran, Linalyl Acetate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Limonene, Citronellol, Coumarin, Geraniol, Vanillin, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Loción Lactourea Reafirmante (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135010604"
+     ],
+     "inci": "Aqua (Water), Glycerin, Paraffinum Liquidum (Mineral Oil), Cetearyl Alcohol, Glyceryl Stearate, Cetyl Palmitate, Cetearyl Ethylhexanoate, PEG-100 Stearate, Dimethicone, Urea, Potassium Lactate, Stearic Acid, Palmitic Acid, Milk Extract, Hydrolyzed Collagen, Tocopheryl Acetate, Lactic Acid, Carbomer, Phenoxyethanol, Propylene Glycol, Potassium Sorbate, Caprylyl Glycol, Propanediol, Lecithin, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Sodium Benzoate, Sodium Hydroxide, Parfum (Fragrance), Citral, Alpha-Isomethyl Ionone, Geraniol, Coumarin, Citronellol, Limonene, Hexyl Cinnamal, Linalool, Vanillin, Citrus Sinensis Peel Oil, Linalyl Acetate, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, CI 19140 (Yellow 5), CI 17200 (Red 33)"
+    },
+    {
+     "nombre": "Pomada Reparadora Lactourea Manos, Codos y Pies (75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135009998"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Paraffinum Liquidum, Cetearyl Alcohol, Isododecane, Cetyl Palmitate, Urea, Stearic Acid, Palmitic Acid, Milk Extract, Glyceryl Stearate, Propylene Glycol, Sodium Polyacrylate, Tocopheryl Acetate, Galactaric Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Chlorphenesin, Potassium Lactate, Sodium Hydroxide, Parfum (Fragrance), Alpha-Isomethyl Ionone, Citral, Citronellol, Citrus Sinensis Peel Oil, Coumarin, Geraniol, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin"
+    },
+    {
+     "nombre": "Mousse Crema Lactourea (400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135006423"
+     ],
+     "inci": "Aqua (Water), Glycerin, Stearic Acid, Palmitic Acid, Hydrogenated Vegetable Oil, Cetearyl Alcohol, Hydrogenated Ethylhexyl Olivate, Tocopheryl Acetate, Hydrogenated Olive Oil Unsaponifiables, Caprylyl Glycol, Urea, Milk Extract, Phenoxyethanol, Sodium Polyacrylate Starch, Sodium Polyacrylate, Potassium Lactate, Parfum (Fragrance), Citral, Alpha-Isomethyl Ionone, Geraniol, Coumarin, Citronellol, Limonene, Hexyl Cinnamal, Linalool, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, Citrus Sinensis Peel Oil"
+    },
+    {
+     "nombre": "Desodorante Roll-on Extra Eficaz (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135353091"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Glycereth-26, Parfum (Fragrance), Butylene Glycol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycine, Calcium Chloride, Milk Extract, Aluminum Sesquichlorohydrate, Allantoin, Tocopherol, Propylene Glycol, Hydroxyacetophenone, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Chitosan, Sodium Alginate, Potassium Laurate, Potassium Sorbate, Sodium Benzoate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Limonene, Coumarin, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Desodorante Roll-on Extra Eficaz Men (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135353268"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Glycereth-26, Parfum (Fragrance), Butylene Glycol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycine, Calcium Chloride, Milk Extract, Aluminum Sesquichlorohydrate, Allantoin, Tocopherol, Propylene Glycol, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Hydroxyacetophenone, Chitosan, Sodium Alginate, Potassium Laurate, Potassium Sorbate, Sodium Benzoate, Linalool, Citral"
+    },
+    {
+     "nombre": "Desodorante Roll-on Invisible Tacto Seco (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135005532"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Glycereth-26, Butylene Glycol, Parfum (Fragrance), PEG-40 Hydrogenated Castor Oil, PPG-26-Buteth-26, Milk Extract, Algin, Allantoin, Aluminum Sesquichlorohydrate, Chitosan, Tocopherol, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Potassium Laurate, Potassium Sorbate, Propylene Glycol, Sodium Benzoate"
+    },
+    {
+     "nombre": "Desodorante Roll-on Lactourea Reparador (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135353626"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Glycereth-26, Parfum (Fragrance), Butylene Glycol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycine, Calcium Chloride, Milk Extract, Urea, Aluminum Sesquichlorohydrate, Allantoin, Tocopherol, Sodium Lactate, Propylene Glycol, Hydroxyacetophenone, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Chitosan, Sodium Alginate, Potassium Laurate, Potassium Sorbate, Sodium Benzoate, Hexamethylindanopyran, Linalool, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Linalyl Acetate, Limonene, Citronellol, Coumarin, Geraniol, Vanillin, Alpha-Isomethyl Ionone, Citral, Lavandula Oil/Extract, Pelargonium Graveolens Flower Oil, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante Roll-on Piel Sensible (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135353435"
+     ],
+     "inci": "Aqua (Water), Aluminum Chlorohydrate, Glycereth-26, Parfum (Fragrance), Butylene Glycol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycine, Calcium Chloride, Milk Extract, Aluminum Sesquichlorohydrate, Allantoin, Bisabolol, Tocopherol, Propylene Glycol, Hydroxyacetophenone, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Chitosan, Sodium Alginate, Potassium Laurate, Potassium Sorbate, Sodium Benzoate, Benzyl Salicylate, Hexamethylindanopyran, Hexyl Cinnamal, Linalool, Linalyl Acetate, Acetyl Cedrene, Citronellol, Limonene, Citrus Aurantium Peel Oil, Coumarin, Amyl Salicylate, Geraniol, Farnesol, Alpha-Isomethyl Ionone, Cananga Odorata Oil/Extract, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante Roll-on 0% Extra Eficaz (50 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135353299"
+     ],
+     "inci": "Aqua (Water), Triethyl Citrate, Steareth-2, Steareth-21, Diatomaceous Earth, PPG-15 Stearyl Ether, Parfum (Fragrance), PEG-6 Caprylic/Capric Glycerides, Allantoin, Tocopheryl Acetate, Butylene Glycol, Milk Extract, Cyclopentasiloxane, Disodium EDTA, Lactic Acid, Propylene Glycol, VP/Eicosene Copolymer, Sodium Benzoate, Potassium Sorbate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Citronellol, Coumarin, Hexyl Cinnamal, Geraniol, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Alpha-Isomethyl Ionone, Citral, Rose Ketones, Camphor"
+    },
+    {
+     "nombre": "Desodorante Spray Extra Eficaz (200 ml, 35 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135352155",
+      "8411135009271"
+     ],
+     "inci": "Isobutane, Propane, Aqua (Water), Aluminum Chlorohydrate, Dicaprylyl Ether, Parfum (Fragrance), Caprylic/Capric Triglyceride, Milk Extract, Isopropyl Myristate, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propylene Glycol, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1,2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Limonene, Coumarin, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Desodorante Spray Extra Eficaz Men (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135352322"
+     ],
+     "inci": "Isobutane, Propane, Aqua (Water), Aluminum Chlorohydrate, Dicaprylyl Ether, Parfum (Fragrance), Caprylic/Capric Triglyceride, Milk Extract, Isopropyl Myristate, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propylene Glycol, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1,2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Acetyl Cedrene, Trimethylcyclopentenyl Methylisopentenol, Trimethylbenzenepropanol, Limonene, Alpha-Isomethyl Ionone, Camphor, Pogostemon Cablin Oil, Hexadecanolactone"
+    },
+    {
+     "nombre": "Desodorante Spray Invisible Tacto Seco (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135005525"
+     ],
+     "inci": "Isobutane, Propane, Aqua (Water), Aluminum Chlorohydrate, Dicaprylyl Ether, Parfum (Fragrance), Caprylic/Capric Triglyceride, Milk Extract, Isopropyl Myristate, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propylene Glycol, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1,2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante Spray Lactourea Reparador (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135352629"
+     ],
+     "inci": "Isobutane, Propane, Aqua (Water), Aluminum Chlorohydrate, Dicaprylyl Ether, Parfum (Fragrance), Caprylic/Capric Triglyceride, Milk Extract, Urea, Isopropyl Myristate, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propylene Glycol, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1,2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Potassium Lactate, Potassium Sorbate, Sodium Benzoate, Linalool, Hexyl Cinnamal, Limonene, Citronellol, Coumarin, Geraniol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Desodorante Spray Piel Sensible (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135352452"
+     ],
+     "inci": "Isobutane, Propane, Aqua (Water), Aluminum Chlorohydrate, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Milk Extract, Bisabolol, Tocopheryl Acetate, Isopropyl Myristate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1,2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Propylene Glycol, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance), Acetyl Cedrene, Citronellol, Limonene, Citrus Aurantium Peel Oil, Coumarin, Amyl Salicylate, Geraniol, Alpha-Isomethyl Ionone, Linalyl Acetate, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante Stick 0% Extra Eficaz (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410190244948"
+     ],
+     "inci": "Dipropylene Glycol, Aqua (Water), Propylene Glycol, Glycerin, Palmitic Acid, Stearic Acid, Parfum (Fragrance), Hydrolyzed Milk Protein, Calcium Lactate, Tocopheryl Acetate, Ethylhexylglycerin, Farnesol, Octenidine HCl, Glycine, Isotridecyl Alcohol Ethoxylated, PEG-40 Hydrogenated Castor Oil, Sodium Citrate, Sodium Dodecylbenzenesulfonate, Sodium Hydroxide, Sodium Lactate, Styrene/Acrylate Copolymer, Phenoxyethanol, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Geraniol, Amyl Salicylate, Benzaldehyde, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, Pinene, Rose Ketones"
     }
    ]
   }

@@ -841,6 +841,7 @@ escritas para Mariana, como las cuatro de Asevi.
    Lacer, Bosque Verde y KH-7. **Vaseline, TRESemmé y Gliss hechas** (versión 2026-09-25f:
    29 + 18 + 29 códigos); Syoss sin fuente válida. **Oral-B y Lacer hechas** (versión 2026-09-25g: 7 + 68).
    **KH-7 y Bosque Verde hechas** (versión 2026-09-25h: 10 + 16).
+   **Babaria, Byphasse y Lactovit hechas** (versión 2026-09-25i: 139 + 9 + 22). **Cola 5 cerrada.**
 6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
    Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
 
@@ -1407,6 +1408,51 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
   promo packs `5600358…`. Todo en `bio/match.txt`.
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
+
+### Babaria, Byphasse y Lactovit — 2026-09-25 (versión 2026-09-25i): 163 productos, 170 códigos
+Cola del 25-09, punto 5 (cierra la cola). Notas y ejemplos con URL en el scratchpad
+(`c5/<marca>_notas.md`; datos y scripts en `c5/babaria/`, `c5/byphasse/`, `c5/lactovit/`, `c5/druni/`).
+- **Babaria (Berioska) — 133 productos, 139 códigos.** Lista: solo la web oficial (185 fichas en
+  castellano de `product-sitemap.xml`; cada una con `REF: 5000xxxx` y la lista, sin EAN en el
+  texto). EAN atado, de más a menos fuerte: (1) 53 fichas, una imagen de la galería de la propia
+  ficha cuyo nombre lleva la misma REF y el EAN (`50000533-…-EAN-8410412100335`; solo si la REF
+  coincide, porque la web mezcla imágenes de otros productos); (2) 52, dos fuentes que coinciden
+  (los enlaces "Comprar" de la ficha: EAN en la URL de Carrefour, API `bop` de Alcampo, `gtin13` de
+  Druni; y/o la imagen), siempre con el mismo tamaño; (3) 20, una sola tienda enlazada desde la
+  ficha, con nombre y tamaño comprobados; (4) 18, un producto de Druni con la lista idéntica a la
+  oficial. En 16 códigos Druni enseña una fórmula anterior (p. ej. con Homosalate): va la vigente de
+  la web (regla 2, como el dentífrico de Carrefour). ~14 erratas de la web corregidas
+  ("Methoxyphenyl nazine", "Tetrasodium EDIA", "Partum"…). Fuera: 37 fichas sin EAN atado (el Deo
+  Duo Zero solo tiene un EAN con el dígito de control mal), 2 sin lista válida, 3 con la lista de
+  otro producto (Bruma Sensibles SPF50 200 ml, Leche Protectora Solar SPF30 100 ml, Roll-On Solar
+  Facial SPF50+) y **5 cuya lista de la web lleva un ingrediente que ya no se puede vender en la UE**
+  (ficha sin actualizar, filtro de Dove): Aceite Corporal Aloe 8410412020213 y Crema Facial 4
+  Efectos Rosa Mosqueta 8410412056281 (Lilial), Fluido Hidratante Antimanchas 8410412100151 (4-MBC,
+  fuera del mercado desde el 1-5-2026), Protector Kids SPF50+ 8410412490177 y Spray Aceite
+  Protector Coco SPF30 8410412520089 (Homosalate en producto corporal/spray, no permitido desde
+  2025; en las dos cremas faciales que lo llevan sí está permitido y entran).
+- **Byphasse — 9 productos, 9 códigos.** La web oficial (252 fichas, 192 con una sola lista) no
+  publica el EAN y su tienda usa SKU internos. Única fuente de EAN válida: el `gtin13` de Druni,
+  **solo cuando la lista de Druni es idéntica a la oficial** (11 casos; 9 entran). Fuera por copia
+  de lista: sérum hialurónico y agua micelar normal (Druni pone la de otro), mascarilla Purificante
+  (la web pone la de Detox). Unos 180 productos con lista pero sin EAN atado (geles, leches,
+  champús…); Alcampo, Dia, Carrefour, Primor, Clarel y OBF no dieron nada útil.
+- **Lactovit — 21 productos, 22 códigos.** 26 fichas (API de WordPress); la lista no está en el
+  texto sino en la **imagen de la etiqueta oficial** ("VER ETIQUETA"). Transcrita a mano desde
+  recortes ampliados (`lactovit/transcr.py`; comprobada una contra la imagen letra a letra: roll-on
+  Piel Sensible, idéntica) y **el EAN leído del código de barras de esa misma etiqueta** (dígitos
+  impresos, decodificador y dígito de control coinciden; Druni y Alcampo lo confirman en 10). Más
+  dudosa: Mousse Crema Lactourea 400 ml 8411135006423 (el tarro no lleva código; sale de Alcampo y
+  Druni por nombre y tamaño exactos, y Druni enseña una lista anterior para ese código: va la de la
+  etiqueta oficial). La Leche Nutritiva hoy se llama "Sérum Revitalizante" en la etiqueta (mismo
+  código, confirmado en Alcampo y OBF). Fuera: Gel Nutritivo y Leche Lactourea (su "VER ETIQUETA"
+  enseña la del Gel Lactourea), Mousse Anti-manchas y Reafirmante (sin código), geles de 750 ml
+  (la etiqueta solo da el de 550).
+- **Revisión FP/FN:** sin falsos positivos (los "sulfitos" de 40 Babaria son Sodium Sulfite de los
+  tintes; la "Cocamide DEA" y el retinol, bien). Avisos verdaderos que sorprenden: galaxólido en 42
+  Babaria y 15 Lactovit; bronopol en 9 Babaria; butilparabeno en 6. Sin falsos negativos nuevos
+  (estireno: criterio del 21-09; "Isoamyl p-Methoxycinnamate", 1 ficha, filtro UV sin datos de
+  disrupción publicados). Regresión: 0 cambios en las fichas anteriores.
 
 ### KH-7 y Bosque Verde (limpieza) — 2026-09-25 (versión 2026-09-25h): 24 productos, 26 códigos
 Cola del 25-09, punto 5. Método de limpieza (648/2004), como Asevi. Notas y ejemplos con URL en
@@ -2150,6 +2196,9 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
 | Vaseline · TRESemmé (Unilever) | Vaseline: solo vaseline.com/uk | sí, por variante (`data-productvariants`) | sí, por variante | como Dove, `dvcurl.sh` |
 | Gliss (Henkel) | sí (schwarzkopf.es) | sí, `gtin` + código en el archivo de la foto | sí | ver su apartado; Syoss sin códigos |
+| Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
+| Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
+| Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
 | Lacer | laceroralhealth.com (web dental oficial) | no: C.N. por formato → EAN 847000+C.N.; `8430340…` por tiendas | sí | ver su apartado |
@@ -2212,13 +2261,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6225 códigos en 67 marcas: NYX 999 · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6395 códigos en 70 marcas: NYX 999 · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4285 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4448 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
