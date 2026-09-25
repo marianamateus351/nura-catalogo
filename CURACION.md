@@ -831,7 +831,8 @@ escritas para Mariana, como las cuatro de Asevi.
    cosmético; curar lo que el fabricante publique (composición, "con perfume"/"sin perfume").
 3. ~~**Embarazo y bebé**: Mustela (publica INCI completo), Nenuco, Suavinex.~~ — **hecho el
    2026-09-25** (versión 2026-09-25c): Mustela 58 códigos, Nenuco 3, Suavinex sin fuente.
-4. **The Ordinary** (INCI completo en su web, fichas cortas).
+4. **The Ordinary** (INCI completo en su web, fichas cortas). — **preparada el 2026-09-25, sin
+   aplicar**: sus códigos son UPC `0769915…` (regla 3); espera la decisión D.
 5. **Súper de cada semana**: Babaria, Byphasse, Lactovit, Vaseline; capilar TRESemmé, Gliss,
    Syoss (Unilever y Henkel publican INCI); maquillaje Catrice y Essence (Cosnova publica
    INCI); dental Oral-B y Lacer; limpieza Bosque Verde y KH-7 (método 648/2004, como Asevi).
@@ -1329,8 +1330,10 @@ fichas con lista entre la página de marca y las búsquedas por gama). Entra lo 
   idéntica a incidecoder: C E Ferulic (635494363210), A.G.E. Interrupter (635494345254),
   A.G.E. Eye Complex (635494358209), AOX+ Eye Gel (635494348200), Clarifying Clay Masque
   (635494330205), Hydrating B5 Gel (635494317206) y Masque (635494316209), Phyto Corrective
-  Gel (635494314205), Sheer Mineral UV Defense SPF 50 (635494394207) y Ultra Facial UV
-  Defense SPF 50 (635494349207). Es el mismo caso que NYX (los envases que se venden aquí
+  Gel (635494314205) y Sheer Mineral UV Defense SPF 50 (635494394207). **Corrección 2026-09-25:
+  son 9, no 10**: el Ultra Facial UV Defense SPF 50 (635494349207) tiene los mismos ingredientes
+  pero en otro orden, así que no es idéntico. Los 9 están preparados en
+  `pendientes/skinceuticals_upc.json` (ver decisión D). Es el mismo caso que NYX (los envases que se venden aquí
   llevan ese código): **si Mariana quiere la misma excepción, entran en un minuto**
   (`sk/sk_match.json`).
 Scripts: `sk/parse_sl.py`, `sk/fetch_ic.py`, `sk/match_sk.py`, `sk/gen_sk_final.py`.
@@ -1359,6 +1362,25 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
   promo packs `5600358…`. Todo en `bio/match.txt`.
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
+
+### The Ordinary (DECIEM) — preparada 2026-09-25, NO aplicada: 26 productos, 26 códigos UPC (decisión D)
+Cola del 25-09, punto 4.
+- **INCI**: la web española de la marca (`theordinary.com/es-es`, sitemap `sitemap-es_ES.xml`,
+  101 URL) trae la lista completa en `data-original-ingredients` y el nombre en `product-name`
+  (el `<title>` y el primer h1 llevan promociones, no sirven). 80 productos con lista.
+- **Código**: la web no lo publica. Douglas ES vende 48 fichas de The Ordinary, con **UPC-A de 12
+  dígitos `769915…`** (DECIEM es canadiense), que en EAN-13 es `0769915…`. **La regla 3 deja fuera
+  los códigos que empiezan por 0** salvo excepción expresa (NYX y essie). Por eso no se aplica.
+- Emparejado por **nombre exacto** entre Douglas y la web (sin quitar palabras como "Solution",
+  que confundía la mascarilla de ácido salicílico con la solución) y, cuando Douglas da una lista
+  útil, comprobando que es idéntica. Douglas traduce muchas listas al castellano ("glicerina") o
+  las pega sin comas: en esas vale la lista oficial y el nombre exacto.
+- Fuera por lista distinta (posible reformulación): Squalane Cleanser, Retinol 1% in Squalane,
+  AHA 30% + BHA 2%. Fuera por no tener ficha con el mismo nombre en la web española: 18 (Hyaluronic
+  Acid 2% + B5, Caffeine, Glycolic 7%, lácticos, mandélico, capilares…); con una tabla de nombres a
+  mano se pueden sumar varios. Fuera The Daily Set (es un set).
+- Preparado en `pendientes/theordinary_upc.json` (códigos ya en 13 dígitos con el 0 delante, como
+  NYX). Si Mariana da la excepción, entra con `apply.py`.
 
 ### Cosmia (Alcampo / Auchan) — abierta 2026-09-25 (versión 2026-09-25d): 115 productos, 115 códigos
 Hueco de Datos del 2026-09-15 (marca blanca de Alcampo; el código 20525101 de aquel pedido sigue
@@ -1461,6 +1483,11 @@ y en Ausonia por "polipropileno"/"poliéster", como dice su propia ficha.
   Cocunat 4, Haruharu 4…) y árbol del té en 1. Si entra, propuesta: riesgo "Emergente", alias
   "lavandula angustifolia oil, lavandula oil, lavender oil, lavandula hybrida oil, lavandin
   oil, melaleuca alternifolia leaf oil, tea tree oil". Dime sí o no.
+- **D) Excepción a la regla 3 para los UPC de The Ordinary y SkinCeuticals.** Los envases que se
+  venden en España llevan el UPC-A de su fabricante (`0769915…` The Ordinary, canadiense;
+  `0635494…` SkinCeuticals EE. UU.), igual que NYX (`0800897…`), que ya tiene la excepción. Sin
+  ella no entra ningún The Ordinary (26 preparados) ni esos 9 SkinCeuticals (entre ellos el C E
+  Ferulic). La app ya normaliza los UPC-A de 12 dígitos. Dime sí o no.
 
 ### Endocare (Cantabria Labs) — abierta 2026-09-25: 4 productos, 4 códigos (de 43 EAN encontrados)
 Cola del 25-09, punto 1. Mismo circuito que Biretix y Heliocare: cantabrialabs.es no publica
