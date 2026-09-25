@@ -829,7 +829,8 @@ escritas para Mariana, como las cuatro de Asevi.
    propia de Nura y la única regla específica (fragancia en compresas/tampones, ficha 34) no
    tiene todavía ningún producto que la dispare. Ojo: compresas y tampones no llevan INCI
    cosmético; curar lo que el fabricante publique (composición, "con perfume"/"sin perfume").
-3. **Embarazo y bebé**: Mustela (publica INCI completo), Nenuco, Suavinex.
+3. ~~**Embarazo y bebé**: Mustela (publica INCI completo), Nenuco, Suavinex.~~ — **hecho el
+   2026-09-25** (versión 2026-09-25c): Mustela 58 códigos, Nenuco 3, Suavinex sin fuente.
 4. **The Ordinary** (INCI completo en su web, fichas cortas).
 5. **Súper de cada semana**: Babaria, Byphasse, Lactovit, Vaseline; capilar TRESemmé, Gliss,
    Syoss (Unilever y Henkel publican INCI); maquillaje Catrice y Essence (Cosnova publica
@@ -1358,6 +1359,29 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Embarazo y bebé: Mustela, Nenuco, Suavinex — 2026-09-25 (versión 2026-09-25c): 47 productos, 61 códigos
+Cola del 25-09, punto 3.
+- **Mustela** (mustela.es, Shopify de Laboratoires Expanscience): **web oficial sola**. EAN por
+  variante en `/products/<handle>.js` (`barcode`; `products.json` no lo trae) e INCI completo en
+  la ficha ("Lista de ingredientes:", o un párrafo que es la lista). **45 productos, 58 códigos**
+  (tamaños con la misma lista juntos). Fuera: packs, rutinas, neceseres, canastillas y dúos
+  (varios productos en una ficha), muestras sin código, dos fichas con la lista traducida al
+  castellano (toallitas compostables formato ahorro, aceite de baño piel seca: "AGUA,
+  GLICERINA, BENZOATO DE SODIO…" no es INCI), el aceite de estrías (sin lista) y el pijama
+  Stelatopia (es un textil impregnado). La web va con cortes de protección: descargar despacio.
+- **Nenuco** (nenuco.es): publica el INCI de 10 fichas pero **no el EAN**. Alcampo da EAN solo de
+  algunos y Open Beauty Facts tiene 5 códigos. Entran 2 productos y 3 códigos, solo con nombre y
+  tamaño exactos o lista idéntica: Agua de Colonia 200 ml (8428076006733 por nombre y tamaño;
+  8410104445775 con la etiqueta de OBF idéntica a la web) y Agua de Colonia Classic 650 ml
+  (8428076006795, Alcampo). Fuera los que cambian de nombre o de tamaño entre fuentes (champú
+  "extra suave" en la web y "ultra suave" en la tienda, jabón de 650 ml en la web y de 750 ml
+  en OBF…). La web mete un espacio invisible tras "Geraniol" en una ficha: quitado (había otro
+  en el nombre de una ficha de CeraVe, también quitado).
+- **Suavinex** (suavinex.com): no publica INCI ni EAN; SkinLovers e incidecoder no la tienen y
+  Douglas solo trae accesorios. Fuera entera (regla 2-bis).
+- Revisión FP/FN: Mustela y Nenuco limpias (perfume y propilenglicol, bien disparados; nada de
+  la lista de vigilancia sin aviso).
+
 ### Higiene íntima y menstrual: Evax, Tampax, Ausonia, Lactacyd, Chilly — 2026-09-25 (versión 2026-09-25b): 6 productos, 48 códigos
 Cola del 25-09, punto 2. Compresas y tampones no llevan INCI: se guarda **la composición que
 publica el fabricante**, con sus palabras, y si lleva o no fragancia según lo que él declara.
@@ -1848,6 +1872,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Mustela | Shopify (`products.json`, 117 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, en la ficha | web oficial sola; ver su apartado |
+| Nenuco | sí (`sitemap-0.xml`, 10 fichas) | **no** | sí | código solo con nombre y tamaño exactos o lista idéntica |
 | Evax · Tampax (P&G) | solo 3 fichas de Tampax; las de Evax por la web | sí, en el bloque de reseñas de cada ficha (`bvData.eaNs`), mezclado entre familias | no hay INCI: composición en dos artículos de evaxtampax.es | código solo si es único de una familia; ver su apartado |
 | Ausonia (P&G) | sí (`sitemap.xml`, 153) | sí (`gtin` por variante) | composición solo de la gama Discreet | ver "Higiene íntima y menstrual" |
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
@@ -1908,13 +1934,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4455 códigos en 55 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+4516 códigos en 57 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
-Heliocare 5 · **Endocare 4** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2945 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Heliocare 5 · **Endocare 4** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
+Carrefour 1. Ninguno de los 2992 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

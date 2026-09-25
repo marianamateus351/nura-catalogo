@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25b",
+ "version": "2026-09-25c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -1507,7 +1507,7 @@
      "inci": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Cetearyl Alcohol, Dimethicone, Sodium Hyaluronate, Panthenol, Polyacrylate Crosspolymer-6, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Glucoside, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin"
     },
     {
-     "nombre": "Water Gel Hidratante Ácido Hialurónico​",
+     "nombre": "Water Gel Hidratante Ácido Hialurónico",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -28396,6 +28396,455 @@
       "8470001694263"
      ],
      "inci": "Aqua, Lauryl Glucoside, Cocamidopropyl Betaine, Lactic Acid, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Glycerin, Sodium Methylparaben"
+    }
+   ]
+  },
+  {
+   "key": "mustela",
+   "nombre": "Mustela",
+   "productos": [
+    {
+     "nombre": "Aceite de baño y ducha Stelatopia con Girasol BIO 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105034306"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Caprylyl/Capryl Glucoside, Hydroxypropyl Guar, Citric Acid, Sodium Benzoate, Potassium Sorbate, Persea Gratissima (Avocado) Fruit Extract, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables"
+    },
+    {
+     "nombre": "Acondicionador con o sin aclarado 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105044282"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glycerin, Distearoylethyl Dimonium Chloride, Persea Gratissima (Avocado) Oil, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Sclerotium Gum, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Agua de colonia sin alcohol - Nueva fórmula 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105045425"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylyl/Capryl Glucoside, Parfum (Fragrance), Glycerin, Sodium Benzoate, Butylene Glycol, Tartaric Acid, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Chamomilla Recutita (Matricaria)Flower Extract, Mel Extract/Honey Extract/Extrait De Miel"
+    },
+    {
+     "nombre": "Agua limpiadora sin aclarado con Aguacate BIO 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035815"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, 1,2-Hexanediol, Allantoin, Caprylyl Glycol, Parfum (Fragrance), Tartaric Acid, Sodium Hydroxide, Aloe Barbadensis Leaf Juice Powder, Persea Gratissima (Avocado) Fruit Extract, Propylene Glycol, Saponaria Officinalis Leaf/Root Extract"
+    },
+    {
+     "nombre": "Agua micelar cara y cuerpo - Certificada BIO 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105037963"
+     ],
+     "inci": "Aqua (Water), Glycerin, Caprylyl/Capryl Glucoside, Aloe Barbadensis Leaf Juice Powder, Sodium Benzoate, Potassium Sorbate, Citric Acid, Olea Europaea (Olive) Fruit Oil"
+    },
+    {
+     "nombre": "Agua para peinar refrescante 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036027"
+     ],
+     "inci": "Aqua/Water/Eau, Inulin, Lauryl Glucoside, Polyglyceryl-6 Laurate, Parfum (Fragrance), Myristyl Glucoside, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Chamomilla Recutita (Matricaria) Flower Water, Potassium Sorbate"
+    },
+    {
+     "nombre": "Babygel baño de espuma con Aguacate BIO 750ml / 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035396",
+      "3504105035600"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Myreth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Coco-Glucoside, PEG-150 Distearate, Parfum (Fragrance), Propylene Glycol, Glyceryl Caprylate, Maris Sal/Sea Salt/Sel Marin, Citric Acid, Centaurea Cyanus Flower Extract, Potassium Sorbate, Persea Gratissima (Avocado) Fruit Extract, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Bálsamo lactancia - Certificado BIO 30ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105034481"
+     ],
+     "inci": "Olea Europaea (Olive) Fruit Oil, Glycerin, Aqua/Water/Eau, Sucrose Laurate, Sucrose Stearate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil"
+    },
+    {
+     "nombre": "Bálsamo pectoral reconfortante 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105045623"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Olus Oil/Vegetable Oil/Huile Végétale, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Squalane, Dicaprylyl Carbonate, Prunus Persica (Peach) Kernel Oil, Arachidyl Alcohol, Candelilla Cera (Euphorbia Cerifera (Candelilla) Wax) )/Cire De Candelilla, Cera Alba (Beeswax)/Cire D’Abeille, Parfum (Fragrance), Hydrogenated Vegetable Oil, Cetearyl Glucoside, Sclerotium Gum, Behenyl Alcohol, Butylene Glycol, Propylene Glycol, Glyceryl Caprylate, Capryloyl Glycine, Arachidyl Glucoside, Xanthan Gum, Sodium Hydroxide, Chamomilla Recutita (Matricaria) Flower Extract, Mel Extract/Honey Extract/Extrait De Miel, Tocopherol, Persea Gratissima (Avocado) Fruit Extract, Tilia Cordata Flower Extract, Linalyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Bálsamo Universal Certificado BIO con 3 Extractos de Aguacate 75ml tubo de aluminio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105044855"
+     ],
+     "inci": "Aqua/Water/Eau, Persea Gratissima (Avocado) Oil, Caprylic/Capric Triglyceride, C10-18 Triglycerides, Glycerin, Cetyl Alcohol, Polyglyceryl-3 Distearate, Xanthan Gum, Levulinic Acid, Glyceryl Stearate Citrate, Sodium Benzoate, Sodium Stearoyl Glutamate, Gellan Gum, Sodium Levulinate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Propanediol, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, PERSEA GRATISSIMA (AVOCADO) FRUIT EXTRACT. Ingredientes procedentes de la agricultura biológica"
+    },
+    {
+     "nombre": "Champú desenredante y nutritivo en crema 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105043452"
+     ],
+     "inci": "Aqua/Water/Eau, Coco-Glucoside, Cocamidopropyl Betaine, Glycerin, Glyceryl Stearate, Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-3 Distearate, Citric Acid, Disodium Cocoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Sclerotium Gum, Sodium Benzoate, Glyceryl Stearate Citrate, Parfum (Fragrance), Guar Hydroxypropyltrimonium Chloride, Sodium Cocoyl Glutamate, Persea Gratissima (Avocado) Oil, Potassium Sorbate"
+    },
+    {
+     "nombre": "Champú mousse recién nacido 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105034382"
+     ],
+     "inci": "Aqua/Water, Coco-Glucoside, Polyglyceryl-4 Caprate, Inulin, Galactoarabinan, Citric Acid, Sodium Benzoate, Propanediol, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Champú mousse Stelatopia 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105030544"
+     ],
+     "inci": "Aqua/Water/Eau, Coco-Glucoside, Polyglyceryl-4 Caprate, Polyquaternium-10, Citric Acid, Sodium Benzoate, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Champú suave con Aguacate BIO 500 ml / 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036126",
+      "3504105036133"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cocamidopropyl Betaine, Sodium, Myreth Sulfate, Coco-Glucoside, Glyceryl Caprylate, PEG-150 Distearate, Parfum (Fragrance), Polyquaternium10, Panthenol, Citric Acid, Potassium Sorbate, Butylene Glycol, Chamomilla Recutita (Matricaria) Flower Extract, Persea Gratissima (Avocado) Fruit Extract, Caramel"
+    },
+    {
+     "nombre": "Cicastela crema reparadora 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105032937"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, C10-18 Triglycerides, Panthenol, Glycerin, Triisostearin, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-3 Diisostearate, Ricinus Communis Seed Oil, 1,2-Hexanediol, Cetearyl Alcohol, Potassium Cetyl Phosphate, Polyacrylate Crosspolymer-6, Allantoin, Glyceryl Caprylate, Glyceryl Stearate Citrate, Hydrogenated Castor Oil, Hydrolyzed Hyaluronic Acid, Xanthan Gum, Copper PCA, Zinc PCA, Sodium Hydroxide, Persea Gratissima (Avocado) Fruit Extract, Citric Acid"
+    },
+    {
+     "nombre": "Crema bálsamo 1 2 3 50ml / 100ml / 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105025786",
+      "3504105025847",
+      "3504105025885"
+     ],
+     "inci": "Aqua (Water), Zinc Oxide, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Polyglyceryl-2-Dipolyhydroxystearate, Glycerin, Cera Alba (Beeswax), Persea Gratissima (Avocado) Oil, Polyglyceryl-3 Diisostearate, Ethyl Linoleate, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Magnesium Sulfate, Stearalkonium Hectorite, Levulinic Acid, Caprylyl Glycol, Capryloyl Glycine, Sodium Levulinate, Undecyl Dimethyl Oxazoline, Propylene Carbonate, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Crema estrías 250 ml / 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105033798",
+      "3504105033828"
+     ],
+     "inci": "Aqua/Water, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Glycerin, Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Glyceryl Stearate, Cetearyl Alcohol, Sodium Stearoyl Lactylate, 1,2-Hexanediol, Persea Gratissima (Avocado) Oil, Polyacrylate Crosspolymer-6, Tocopherol, Caprylyl Glycol, Parfum (Fragrance), Sodium Stearoyl Glutamate, Propanediol, Citric Acid, Hydrolyzed Avocado Protein, Maltodextrin, Pentylene Glycol, Sodium Hydroxide, Hamamelis Virginiana Leaf Extract, Xanthan Gum, Passiflora Edulis Fruit Extract"
+    },
+    {
+     "nombre": "Crema facial emoliente Stelatopia 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105031572"
+     ],
+     "inci": "Aqua/Water/Eau, Propanediol Dicaprylate, C10-18 Triglycerides, Glycerin, Triisostearin, Glyceryl Stearate Citrate, Ricinus Communis (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, 1,2-Hexanediol, Cetyl Alcohol, Polyacrylate Crosspolymer-6, Sodium Stearoyl Glutamate, Glyceryl Caprylate, Hydrogenated Castor Oil, Sodium Citrate, Citric Acid, Dipotassium Glycyrrhizate, Tocopherol, Persea Gratissima (Avocado) Fruit Extract, Ceramide NP, Phytosphingosine"
+    },
+    {
+     "nombre": "Crema facial hidratante confort con Schisandra BIO 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036430"
+     ],
+     "inci": "Aqua/Water, Triisostearin, Propanediol Dicaprylate, Dicaprylyl Carbonate, C12-16 Alcohols, 1,2-Hexanediol, Glycerin, Glyceryl Stearate SE, Sodium Acrylates Copolymer, Hydrogenated Lecithin, Palmitic Acid, Cetyl Alcohol, Microcrystalleryl Cellulose, Glyceryl Caprylate, Caprylyl Glycol, Lecithin, Dipotassium Glycyrrhizate, Tocopherol, Xanthan Gum, Maltodextrin, Saccharide Hydrolysate, Citric Acid, Persea Gratissima (Avocado) Fruit Extract. Schisandra"
+    },
+    {
+     "nombre": "Crema facial nutritiva al Cold Cream y Cera de abeja BIO 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105044640"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Hydrogenated Coconut Oil, Butyrospermum Parkii (Shea) Butter, Ceraalba/Beeswax/Cire D’Abeille, Helianthusannuus (Sunflower) Seed Oil, Stearalkonium Hectorite, Magnesiumsulfate, Parfum (Fragrance), Gluconolactone, Propylene Carbonate, Sodium Benzoate, Tocopherol, Perseagratissima (Avocado) Fruit Extract, Calcium Gluconate, Ceramide NP, Phytosphingosine"
+    },
+    {
+     "nombre": "Crema hidratante cara y cuerpo - Certificada BIO 150ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105037970"
+     ],
+     "inci": "Aqua (Water), Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Polyglyceryl-3 Distearate, C10-18 Triglycerides, Olea Europaea (Olive) Fruit Oil, Glyceryl Stearate Citrate, Levulinic Acid, Sclerotium Gum, Sodium Stearoyl Glutamate, Sodium Benzoate, Sodium Levulinate, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Xanthan Gum"
+    },
+    {
+     "nombre": "Crema relipidizante Stelatopia + 150ml / 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105039844",
+      "3504105039875"
+     ],
+     "inci": "AQUA/WATER/EAU, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, C10-18 Triglycerides, Sucrose Stearate, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Persea Gratissima (Avocado) Oil, Alpha-Glucan Oligosaccharide, Bentonite, Glyceryl Caprylate, Xanthan Gum, Sodium Benzoate, Sodium Stearoyl Glutamate, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Cuidado Costra láctea 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105034412"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, Propanediol Dicaprylate, Glycerin, Di-C12-13 Alkyl Malate, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Potassium Cetyl Phosphate, Galactoarabinan, Cetyl Alcohol, Sclerotium Gum, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Sodium Benzoate, Tocopherol, Propanediol, Xanthan Gum, Undecyl Dimethyl Oxazoline, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Essential care - Cuidado multiacción embarazo y postparto 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105042691"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Sucrose Stearate, Passiflora Edulis Seed Oil, Cetearyl Alcohol, Glyceryl Caprylate, Sodium Stearoyl Glutamate, Gellan Gum, Xanthan Gum, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Sodium Benzoate, Levulinic Acid, Propanediol, Sodium Levulinate, Citric Acid, Passiflora Edulis Fruit Extract"
+    },
+    {
+     "nombre": "Gel de baño confort con Schisandra BIO 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035709"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Caprylyl/Capryl Glucoside, Hydroxypropyl Guar, Citric Acid, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Saccharide Hydrolysate, Persea Gratissima (Avocado) Fruit Extract. Schisandra"
+    },
+    {
+     "nombre": "Gel de baño Stelatopia con Girasol BIO 200 ml / 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105033637",
+      "3504105033644"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Caprylyl/Capryl Glucoside, Butyrospermum Parkii (Shea) Butter, Hydroxypropyl Guar, Oryza Sativa (Rice) Starch, Sodium Benzoate, Citric Acid, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Potassium Sorbate, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Gel de baño suave con Aguacate BIO 200 ml / 500 ml / 750ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035464",
+      "3504105035471",
+      "3504105035617"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Cocamidopropyl Betaine, Sodium Myreth Sulfate, PEG-7 Glyceryl Cocoate, Coco-Glucoside, PEG-150 Distearate, Glyceryl Caprylate, Glycol Distearate, Parfum (Fragrance), Citric Acid, Panthenol, Potassium Sorbate, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Gel de Árnica y Caléndula BIO 100ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036409"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Arnica Montana Flower Extract, Sclerotium Gum, Sodium Benzoate, Citric Acid, Potassium Sorbate, Calendula Officinalis Flower Extract"
+    },
+    {
+     "nombre": "Gel-Champú cuerpo y cabello - Certificado BIO 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105037956"
+     ],
+     "inci": "Aqua (Water), Lauryl Glucoside, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Citric Acid, Disodium Cocoyl Glutamate, Sodium Benzoate, Aloe Barbadensis Leaf Juice Powder, Potassium Sorbate, Sodium Cocoyl Glutamate, Olea Europaea (Olive) Fruit Oil"
+    },
+    {
+     "nombre": "Hydra Bebé crema facial con Aguacate BIO 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035631"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Olus Oil/Vegetable Oil/Huile Vegetale, Glycerin, C10-18 Triglycerides, Cetyl Alcohol, Polyglyceryl-6 Distearate, 1,2-Hexanediol, Cera Alba/Beeswax/Cire D’Abeille, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Parfum (Fragrance), Jojoba Esters, Caprylyl Glycol, Sodium Stearoyl Glutamate, Polyglyceryl-3 Beeswax, Tocopheryl Acetate, Citric Acid, Polysorbate 60, Sorbitan Isostearate, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Hydra bebé leche corporal con Aguacate BIO 300ml / 500 ml / 750ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105035501",
+      "3504105035518",
+      "3504105035624"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Polyglyceryl-6 Distearate, Cetyl Alcohol, 1,2-Hexanediol, Cera Alba/Beeswax Cire D’Abeille, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Parfum (Fragrance), Jojoba Esters, Caprylyl Glycol, Sodium Stearoyl Glutamate, Polyglyceryl-3 Beeswax/Polyglyceryl-3 Cire D’Abeille, Tocopheryl Acetate, Polysorbate 60, Sorbitan Isostearate, Citric Acid, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Jabón sobregraso al Cold Cream y Cera de abeja BIO 100gr",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036102"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Aqua/Water/Eau, Parfum Fragrance, Palm Kernel Acid, Glycerin, Sodium Chloride, Hordeum Vulgare Extract/Extrait D’Orge, Octyldodecanol, Cocoglycerides, Tetrasodium Etidronate, Polyglyceryl2 Dipolyhydroxystearate, Polyglyceryl3 Diisostearate, Magnesium Sulfate, Cera Alba/Beeswax/Cire D’Abeille, Ceramide NP, Persea Gratissima Avocado Fruit Extract, Phytosphingosine, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Leche corporal hidratante confort con schisandra BIO 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036454"
+     ],
+     "inci": "Según la norma ISO 16128. Aqua/Water, Dicaprylyl Carbonate, Triisostearin, Sodium Acrylates Copolymer, 1,2-Hexanediol, Glyceryl Caprylate, Lecithin, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Tocopherol, Citric Acid, Maltodextrin, Saccharide Hydrolysate, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Leche nutritiva al Cold Cream y Cera de abeja Bio 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105044602"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, C10-18 Triglycerides, Polyglyceryl-3 Distearate, Glycerin, 1,2-Hexanediol, Cetearyl Alcohol, Cera Alba/Beeswax/Cire D’Abeille, Parfum (Fragrance), Glyceryl Caprylate, Glyceryl Stearate Citrate, Sclerotium Gum, Sodium Stearoyl Glutamate, Tocopherol, Xanthan Gum, Citric Acid, Persea Gratissima (Avocado) Fruit Extract, Ceramide NP, Phytosphingosine"
+    },
+    {
+     "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036768"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Glycerin, Cetyl Alcohol, Ethylhexyl Triazone, C20-22 Alkyl Phosphate, C20-22 Alcohols, Arginine, 1,2-Hexanediol, Glyceryl Caprylate, Persea Gratissima (Avocado) Oil, Tocopherol, Caprylyl Glycol, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Leche solar muy alta protección SPF 50+ 100ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036775"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Glycerin, Cetyl Alcohol, Ethylhexyl Triazone, C20-22 Alkyl Phosphate, C20-22 Alcohols, Arginine, 1,2-Hexanediol, Glyceryl Caprylate, Persea Gratissima (Avocado) Oil, Tocopherol, Caprylyl Glycol, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Linimento 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105033231"
+     ],
+     "inci": "Aqua, Olea Europaea Fruit Oil, Calcium Hydroxide, Caprylyl Glycol, Acrylates/C 10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Sorbitan Oleate, Daucus Carota Sativa Root Extract, Zea Mays Oil, Tocopherol"
+    },
+    {
+     "nombre": "Loción limpiadora sin aclarado con Aguacate BIO 750 ml / 500 ml / 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105045388",
+      "3504105045395",
+      "3504105045418"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus ( Sunflower ) Seed Oil, Glycerin, Polyglyceryl 3 Distearate, Cetyl Alcohol, C10 18 Triglycerides, 1, 2 Hexanediol, Glyceryl Caprylate, Glyceryl Stearate Citrate, Sodium Stearoyl Glutamate, Parfum (Fragrance), Sphingomonas Ferment Extract, Citric Acid, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Musti Eau de senteur - Agua Perfumada bebé 50ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105045432"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylyl/Capryl Glucoside, Parfum (Fragrance), Glycerin, Sodium Benzoate, Butylene Glycol, Tartaric Acid, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Chamomilla Recutita (Matricaria) Flower Extract, Mel Extract/Honey Extract/Extrait De Miel"
+    },
+    {
+     "nombre": "Refill Gel-champú certificado BIO 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105038724"
+     ],
+     "inci": "Lista de ingredientes INCI: AQUA (WATER), Lauryl Glucoside, Glycerin, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Citric Acid, Disodium Cocoyl Glutamate, Sodium Benzoate, Aloe Barbadensis Leaf Juice Powder, Potassium Sorbate, Sodium Cocoyl Glutamate, OLEA EUROPAEA (OLIVE) FRUIT OIL. Ingredientes procedentes de la agricultura BIO/ecológica. Certificado COSMOS ORGANIC por Ecocert Greenlife según el estándar COSMOS"
+    },
+    {
+     "nombre": "Spray solar alta protección SPF 50 200ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105036751"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Glycerin, Ethylhexyl Triazone, Potassium Cetyl Phosphate, 1,2-Hexanediol, C20-22 Alkyl Phosphate, C20-22 Alcohols, Glyceryl Caprylate, Persea Gratissima (Avocado) Oil, Tocopherol, Caprylyl Glycol, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Persea Gratissima (Avocado) Fruit Extract"
+    },
+    {
+     "nombre": "Stelatopia Intense Tubo 30ml.",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105037598"
+     ],
+     "inci": "Ectoin, Aqua, Hydrogenated Lecithin, Ceramide-3, Squalane, Olea Europaea Fruit Oil, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Oryza Sativa (Rice) Bran Cera, Carbomer, Xanthan Gum, Sodium Carbomer, Cardiospermum Halicacabum Flower/Leaf/Vine Extract, Glycine, Alanine, Pentylene Glycol, Butylene Glycol, Hydroxyethylcellulose, Glycerine, Hydroxyphenyl Propamidobenzoic Acid"
+    },
+    {
+     "nombre": "Stick nutritivo al Cold Cream y Cera de abeja 9.2gr",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105045616"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Coconut Oil, Olus Oil/Vegetable Oil/Huile Végétale, Polyglyceryl-3 Beeswax, Caprylic/Capric Triglyceride, Cera Alba/Beeswax/Cire D’Abeille, C10-18 Triglycerides, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Butyrospermum Parkii (Shea) Butter, Stearalkonium Hectorite, Tocopheryl Acetate, Propylene Carbonate, Bisabolol, Persea Gratissima (Avocado) Fruit Extract, Ceramide NP, Phytosphingosine"
+    },
+    {
+     "nombre": "Stick solar alta protección SPF 50 Stick 9ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105037772"
+     ],
+     "inci": "Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Lauroyl Glutamide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Ethylhexyl Triazone, Dibutyl Ethylhexanoyl Glutamide, Gamma-Octalactone, Tocopherol, Persea Gratissima (Avocado) Oil, Diethylhexyl Syringylidenemalonate, Caprylic/Capric Triglyceride"
+    },
+    {
+     "nombre": "Toallitas limpiadoras compostables sin perfume 60 unidades.",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3504105041595"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Levulinate, Sodium Benzoate, Citric Acid, Polyglyceryl-4 Laurate/Succinate, Persea Gratissima (Avocado) Fruit Extract"
+    }
+   ]
+  },
+  {
+   "key": "nenuco",
+   "nombre": "Nenuco",
+   "productos": [
+    {
+     "nombre": "Agua de Colonia fragancia original 200 ml (y spray 240 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428076006733",
+      "8410104445775"
+     ],
+     "inci": "Aqua, Alcohol Denat, Parfum, PEG-40 Hydrogenated Castor Oil, Citral, Hydroxycitronellal, Linalool, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Agua de Colonia Classic 650 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428076006795"
+     ],
+     "inci": "Alcohol Denat, Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Citral, Hydroxycitronellal, Linalool, Limonene, Geraniol"
     }
    ]
   }
