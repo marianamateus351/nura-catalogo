@@ -1379,9 +1379,9 @@ fichas con lista entre la página de marca y las búsquedas por gama). Entra lo 
   Gel (635494314205) y Sheer Mineral UV Defense SPF 50 (635494394207). **Corrección 2026-09-25:
   son 9, no 10**: el Ultra Facial UV Defense SPF 50 (635494349207) tiene los mismos ingredientes
   pero en otro orden, así que no es idéntico. Los 9 están preparados en
-  `pendientes/skinceuticals_upc.json` (ver decisión D). Es el mismo caso que NYX (los envases que se venden aquí
-  llevan ese código): **si Mariana quiere la misma excepción, entran en un minuto**
-  (`sk/sk_match.json`).
+  `pendientes/skinceuticals_upc.json`. **Descartados el 2026-09-25 (decisión D):** no es el caso de
+  NYX; los envases europeos de SkinCeuticals llevan `3606000…` (L'Oréal), así que en una farmacia
+  española esos UPC no salen.
 Scripts: `sk/parse_sl.py`, `sk/fetch_ic.py`, `sk/match_sk.py`, `sk/gen_sk_final.py`.
 
 ### Bioderma — ampliada 2026-09-23: 35 productos, 50 códigos (antes 28 y 42)
@@ -1759,6 +1759,9 @@ pendiente.
   `0635494…` SkinCeuticals EE. UU.), igual que NYX (`0800897…`), que ya tiene la excepción. Sin
   ella no entra ningún The Ordinary (26 preparados) ni esos 9 SkinCeuticals (entre ellos el C E
   Ferulic). La app ya normaliza los UPC-A de 12 dígitos. Dime sí o no.
+  **Resuelta 2026-09-25**: Mariana solo quiere códigos que salgan al escanear en España/Portugal.
+  Comprobado: The Ordinary sí (mismo UPC en todo el mundo) y entra; SkinCeuticals no (en Europa
+  lleva `3606000…`; la frase de arriba sobre sus envases era errónea) y se descarta.
 
 ### Endocare (Cantabria Labs) — abierta 2026-09-25: 4 productos, 4 códigos (de 43 EAN encontrados)
 Cola del 25-09, punto 1. Mismo circuito que Biretix y Heliocare: cantabrialabs.es no publica
