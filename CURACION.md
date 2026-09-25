@@ -840,6 +840,7 @@ escritas para Mariana, como las cuatro de Asevi.
    su apartado. Siguen Babaria, Byphasse, Lactovit, Vaseline, TRESemmé, Gliss, Syoss, Oral-B,
    Lacer, Bosque Verde y KH-7. **Vaseline, TRESemmé y Gliss hechas** (versión 2026-09-25f:
    29 + 18 + 29 códigos); Syoss sin fuente válida. **Oral-B y Lacer hechas** (versión 2026-09-25g: 7 + 68).
+   **KH-7 y Bosque Verde hechas** (versión 2026-09-25h: 10 + 16).
 6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
    Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
 
@@ -862,6 +863,16 @@ y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos"
   diseño: ver "Higiene íntima y menstrual". Regresión: 0 cambios en las fichas existentes.
 - **2026-09-25 · Falso negativo con decisión pendiente: polietileno** (98 cosméticos). Ver la
   decisión B en "Higiene íntima y menstrual".
+- **2026-09-25 · KH-7 y Bosque Verde: categoría y un nombre dentro de otro.** (1) 9 fichas de
+  limpieza caían en Cuidado personal porque la app no conocía "multisuperficie", "limpiador de
+  cocinas"/"cocinas limpiador", "limpia mopas", "limpiador de muebles", "disuelve manchas" ni
+  "vela perfumada/aromática"; añadidos a los términos inequívocos de Hogar, junto con las dos
+  marcas (`bosque verde`, `kh-7`), que solo hacen limpieza. (2) "Naftaleno 2-etoxi-"
+  (2-etoxinaftaleno, nerolina, un componente de perfume) saltaba como Naftaleno (IARC 2B): añadidos
+  el etoxi- y el metoxinaftaleno a su `excluyeSi` ("Naphthalene" suelto sigue saltando, probado).
+  Regresión: **10 cambios, todos en las 24 fichas nuevas de KH-7 y Bosque Verde** (9 pasan a Hogar,
+  con lo que 4 ganan el aviso de alcoholes etoxilados, que es solo de Hogar; la vela Neroli pierde el
+  falso Naftaleno); ninguna ficha de otra marca cambia.
 - **2026-09-25 · Decisiones B y C de Mariana aplicadas.** (B) La ficha 191 pasa a llamarse
   "Microplásticos (poliéster / polipropileno / polietileno)" y reconoce además polyethylene,
   polietileno, polyethylene terephthalate (PET, purpurina), polyolefin(s) y poliolefina(s);
@@ -1396,6 +1407,49 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
   promo packs `5600358…`. Todo en `bio/match.txt`.
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
+
+### KH-7 y Bosque Verde (limpieza) — 2026-09-25 (versión 2026-09-25h): 24 productos, 26 códigos
+Cola del 25-09, punto 5. Método de limpieza (648/2004), como Asevi. Notas y ejemplos con URL en
+el scratchpad (`c5/kh7_notas.md`, `c5/bosqueverde_notas.md`; generador `c5/kh7bv/gen.py`).
+- **KH-7 — 8 productos, 10 códigos.** Lista: el PDF de la ficha de ingredientes de cada producto
+  en kh7.es (`/hojas_ingredientes/…_ESPANA.pdf`, 14 fichas, casi todas de 2026 y con UFI). kh7.es
+  no da EAN: salen de Consum (API `tienda.consum.es/api/rest/V1.0/catalog/product?q=kh-7`),
+  identificando cada uno por la foto del envase y el tamaño frente a los envases 2026 de kh7.es;
+  el Quitagrasas además por Mercadona, cuya etiqueta trasera lleva **el mismo UFI** que la ficha;
+  Desic porque la propia ficha de kh7.es enlaza Consum y Alcampo, que dan el mismo EAN. Entran
+  Quitagrasas (pistola y recambio), Quitagrasas Cítrico, Sin Manchas (2), Antical, Baños
+  Multisuperficie, Cocinas, Desic (fregasuelos insecticida con permetrina) y Maderas y Cuero (la
+  entrada más floja: código solo de Open Products Facts, con foto del envase actual). Fuera: Sin
+  Manchas Sin Olores 8420822104342 (se vende como el antiguo Oxi Effect 750 ml; la ficha es del de
+  780), Quitagrasas 715 ml 8420822135292 (tamaño que kh7.es no enseña), códigos de Francia e
+  Israel, y seis productos con ficha pero sin EAN (Quitagrasas ECO, Baños ECO, Desincrustante,
+  Placas de inducción, Vitrocerámica, recambio Cítrico). Errata de la ficha corregida
+  ("Metoxhyisopropanol").
+- **Bosque Verde — 16 productos, 16 códigos.** Mercadona no da ingredientes (la API de la tienda
+  da EAN, proveedor y foto de la etiqueta; la etiqueta solo trae rangos). La lista sale de la ficha
+  648/2004 del **fabricante**: **Francisco Aragón** (15: cada ficha de franciscoaragon.com enlaza el
+  PDF y el producto en Mercadona, que da el EAN; Oud por nombre y tamaño exactos; en el Limpiador de
+  Muebles el código de artículo 07736 de la ficha forma parte del EAN) y **SPB** (1: nombra sus PDF
+  por EAN, pero son de 2015-2020 y muchos escaneados; solo Disuelve manchas, de 2020, pasa la
+  comprobación). **Comprobación con la etiqueta actual** (foto de Mercadona): todo lo que la
+  etiqueta nombra (conservantes, alérgenos, "Contiene…") tiene que estar en la lista, o fuera.
+  Entran Limpiacristales, Limpiador de Hornos, Limpia Mopas, Limpiador de Muebles, 5 ambientadores
+  en spray (Blossom, Essence, Red Elixir, Oud, Peonía), 2 de perlas (Lima, Tiernos Recuerdos) y 4
+  velas perfumadas (Peonía, Santal Vanilla, Neroli, Chai). Ambientadores y velas no son
+  detergentes, pero el fabricante publica su lista en el mismo formato y la app ya tiene reglas para
+  ambientadores. Fuera: 27 ambientadores, mikados y velas de Francisco Aragón cuya etiqueta nombra
+  alérgenos que la lista no trae (lista incompleta o de otra fórmula), la vela Chai en tarro (ficha
+  de 120 g, producto de 150 g), el difusor con recambio (lleva aparato), insecticidas sin lista, el
+  amoníaco, el friegasuelos Spa, Oxi Active y las lejías de SPB (listas antiguas o que no cuadran con
+  la etiqueta), el gel de Persán 8480000404046 (dos listas distintas para el mismo EAN y ninguna con
+  los alérgenos de la etiqueta) y los proveedores que no publican (Inquiba, Linasa, McBride…).
+- **Revisión FP/FN** (ver el registro): 9 fichas caían en Cuidado personal (categoría equivocada) y
+  la vela Neroli saltaba como Naftaleno por "Naftaleno 2-etoxi-"; corregidos los dos. Avisos
+  verdaderos que sorprenden: **ftalato de dietilo (DEP) en 6 ambientadores/velas de Bosque Verde**,
+  galaxólido en el ambientador Blossom, permetrina en Desic, DDAC en el Antical. **Pregunta de
+  criterio para Mariana (F, sin prisa):** "Benzophenone-12" (octabenzona, filtro UV para que no
+  amarillee la cera) en 4 velas, sin regla. La app avisa de la benzofenona y de las BP-3/BP-4 por su
+  actividad hormonal; para la BP-12 hay muy pocos datos. No se ha añadido.
 
 ### Oral-B y Lacer — 2026-09-25 (versión 2026-09-25g): 42 productos, 75 códigos
 Cola del 25-09, punto 5. Notas y ejemplos con URL en el scratchpad (`c5/oralb_notas.md`, `c5/lacer_notas.md`).
@@ -2090,6 +2144,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
 | Vaseline · TRESemmé (Unilever) | Vaseline: solo vaseline.com/uk | sí, por variante (`data-productvariants`) | sí, por variante | como Dove, `dvcurl.sh` |
 | Gliss (Henkel) | sí (schwarzkopf.es) | sí, `gtin` + código en el archivo de la foto | sí | ver su apartado; Syoss sin códigos |
+| KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
+| Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
 | Lacer | laceroralhealth.com (web dental oficial) | no: C.N. por formato → EAN 847000+C.N.; `8430340…` por tiendas | sí | ver su apartado |
 | Oral-B (P&G) | oralb.es | sí | **no** (ni UK/DE/PT) | dos fuentes idénticas; ver su apartado |
 | Catrice · essence (Cosnova) | sí (sitemap de producto por país, `es-es`) | sí, `gtin13` en el JSON-LD y `gtin` en el objeto de producto | sí, `c_inciList` del mismo objeto (o referencia `$xx` en los datos de Next.js) | ver su apartado |
@@ -2150,13 +2206,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6199 códigos en 65 marcas: NYX 999 · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6225 códigos en 67 marcas: NYX 999 · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4261 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4285 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25g",
+ "version": "2026-09-25h",
  "marcas": [
   {
    "key": "larocheposay",
@@ -40728,6 +40728,236 @@
       "8470003727068"
      ],
      "inci": "Aqua, Xylitol, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Sodium Monofluorophosphate, Hydroxyacetophenone, Panthenol, Poloxamer 407, Sodium Gluconate, Tocopheryl Acetate, Aroma, O-Cymen-5-ol, Sodium Citrate, Sodium Fluoride, Sodium Chloride, Dipotassium Phosphate, Potassium Chloride, Aloe Barbadensis Leaf Extract, Dipotassium Glycyrrhizate, Malic Acid, Potassium Phosphate, Citric Acid, Sucralose, CI 42090"
+    }
+   ]
+  },
+  {
+   "key": "kh7",
+   "nombre": "KH-7",
+   "productos": [
+    {
+     "nombre": "Quitagrasas (pistola y recambio 780 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822130389",
+      "8420822130396"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, Methoxyisopropanol, Fatty Alcohol Ethoxylated 8 mol EO, Ethanolamine, Sodium Polyacrylate, Acrylates/Steareth-30 Methacrylate Copolymer"
+    },
+    {
+     "nombre": "Quitagrasas Cítrico 780 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822131027"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, Methoxyisopropanol, Fatty Alcohol Ethoxylated 8 mol EO, Ethanolamine, Sodium Polyacrylate, Parfum, Acrylates/Steareth-30 Methacrylate Copolymer, Citral, Terpineol, Linalool, Camphor, Aceites Esenciales"
+    },
+    {
+     "nombre": "Sin Manchas quitamanchas (spray y recambio 780 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822132260",
+      "8420822132277"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, PEG-7 Glyceryl Cocoate, Sodium Dodecylbenzene Sulfonate, Methoxyisopropanol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Alcohol graso etoxilado 5 mol EO, Productos de reacción de monoetanolamina y ácido bórico (1:3), Propylene Glycol, Calcium Chloride, Parfum, Subtilisin, Subtilisin, Glycerin, Amilasa α-, Methylchloroisothiazolinone/Methylisothiazolinone, Phenoxyethanol, Benzisothiazolinone, Methyl Nonyl Ketone"
+    },
+    {
+     "nombre": "Antical limpiador de baño 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822133526"
+     ],
+     "inci": "Aqua, Acido L-(+)-lactico, Acido DL-malico, C12-14 Pareth-7, Sodium Citrate, Parfum, Didecyldimonium Chloride, Copolimero acrilato sal de sodio, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Baños Multisuperficie 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822133533"
+     ],
+     "inci": "Aqua, Methoxyisopropanol, Citric Acid, C12-14 Pareth-7, Sodium Citrate, Parfum, Copolimero Acrilico, Terpineol, Linalool, Limonene, Acrylic Acid"
+    },
+    {
+     "nombre": "Cocinas limpiador 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822133540"
+     ],
+     "inci": "Aqua, Alcohol, Methoxyisopropanol, Ethanolamine, C12-14 Pareth-7, Acrylates/Steareth-30 Methacrylate Copolymer, Parfum"
+    },
+    {
+     "nombre": "Desic fregasuelos insecticida lavanda 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822113269"
+     ],
+     "inci": "Aqua, PPG-2 Methyl Ether, C12-14 Pareth-7, 1-(2-butoxi-1-metiletoxi)propan-2-ol, Parfum, PEG-10 Hydrogenated Castor Oil, Permethrin, Geraniol, Limonene, Hexyl Cinnamal, Sodium Citrate, Linalool, Terpineol, Amyl Salicylate, Citric Acid, Linalyl Acetate, Methylchloroisothiazolinone/Methylisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Maderas y Cuero (multiusos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420822133564"
+     ],
+     "inci": "Aqua, Isopropylideneglycerol, Resina, Cera montana, Tensioactivo, PPG-6-Deceth-4, Soforolípidos, Parfum, Benzisothiazolinone, Methylchloroisothiazolinone/Methylisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "bosqueverde",
+   "nombre": "Bosque Verde",
+   "productos": [
+    {
+     "nombre": "Limpiacristales (spray 400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000732071"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Hidrocarburos ricos en C3-4 destilado del petróleo, Methoxyisopropanol, Ammonium Hydroxide, Morpholine, Polimero acrilico, Diethylhexyl Sodium Sulfosuccinate, Alcohol, 2-Metoxipropanol, Methylisothiazolinone, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador de Hornos (spray 300 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000442109"
+     ],
+     "inci": "Aqua, Hidrocarburos ricos en C3-4 destilado del petróleo, Ethanolamine, Deceth-10, Butoxyethanol, Tetrapotassium Pyrophosphate, 1-Propanaminio 3-amino-N N N-trimetil- N-(aceite de ricino acil etoxilato) derivds. Me sulfato (6-EO + 10.7-EO), Copolimero acrilico, PEG-10 Cocamine, d-limoneno, Sodium Nitrite, Sodium Benzoate, Sodium Lauroyl Sarcosinate, Copolimero acrilato sal de sodio, Parfum, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Limpia Mopas (spray 750 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000443106"
+     ],
+     "inci": "Alcohol, Hidrocarburos ricos en C3-4 destilado del petróleo, Hidrocarburos C6 isoalcanos, Paraffinum Liquidum, Diethyl Phthalate, Acido octilfosfónico, Parfum, Amyl cinnamal, Alcohol, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de Muebles con ceras (spray 400 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001007736"
+     ],
+     "inci": "Aqua, Hidrocarburos ricos en C3-4 destilado del petróleo, Quaternium-80, C11-15 Sec-Pareth-12, Sodium Benzoate, Trideceth-8, Trideceth-10, Parfum, Phenoxyethanol, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Sodium Lauroyl Sarcosinate, Morpholine, Coumarin, Amyl Salicylate, Benzisothiazolinone, Iodopropynyl Butylcarbamate"
+    },
+    {
+     "nombre": "Ambientador spray Blossom 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001055409"
+     ],
+     "inci": "Hidrocarburos ricos en C3-4 destilado del petróleo, Alcohol, (2-metoximetiletoxi) propanol, Parfum, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes, Ethylene Brassylate, Diethyl Phthalate, Vanillin, Linalool, Benzaldeido, [3R-(3α 3aβ 7β 8aα)]-octahidro-3 8 8-trimetil-6-metilen-1H-3a 7-metanoazuleno, Damascenone, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador spray Essence 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001036743"
+     ],
+     "inci": "Hidrocarburos ricos en C3-4 destilado del petróleo, Alcohol, Parfum, 1-(1 2 3 4 5 6 7 8-octahidro-2 3 8 8-tetrametil-2-naftil)etan-1-ona, Diethyl Phthalate, Linalool, Linalyl Acetate, Limonene, 2 6-dimetiloct-7-en-2-ol, Benzyl Alcohol, Citronellol, Oxacicloheptadec-10-en-2-ona, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador spray Red Elixir 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001031717"
+     ],
+     "inci": "Hidrocarburos ricos en C3-4 destilado del petróleo, Alcohol, Tetramethyl acetyloctahydronaphthalenes, Parfum, Diethyl Phthalate, Dodecahidro-3a 6 6 9a-tetrametilnafto[2 1-b]furano, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador spray Oud 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001051135"
+     ],
+     "inci": "Hidrocarburos ricos en C3-4 destilado del petróleo, Alcohol, (2-metoximetiletoxi) propanol, Parfum, Diethyl Phthalate, Linalyl Acetate, d-limoneno, 2 6-Dimethyl-7-Octen-2-Ol, 1-metil-4-(4-metil-3-pentenil)ciclohex-3-eno-1-carbaldehído, Biciclo[4.1.0]hept-3-eno 3 7 7-trimetilo, Damascenone, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador spray hogar Peonía 450 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001049590"
+     ],
+     "inci": "Alcohol, Aqua, Parfum, Diethyl Phthalate, Acetato de α α-dimetilfenetilo, Linalool, Terpineol, alpha-Isomethyl Ionone, (2-metoximetiletoxi) propanol, Geraniol, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador perlas Lima",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000727343"
+     ],
+     "inci": "Aqua, Deceth-10, (2-methoxymethylethoxy)propanol, Dipropylene Glycol, Parfum, Benzalkonium Chloride, Glycol, Benzisothiazolinone, Isopropyl Alcohol, Colorante, Denatonium Benzoate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Ambientador perlas Tiernos Recuerdos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000727336"
+     ],
+     "inci": "Aqua, Deceth-10, (2-methoxymethylethoxy)propanol, Parfum, PEG-10 Hydrogenated Castor Oil, Linalool, d-limoneno, Coumarin, P-ment-1-en-8-ol, Benzalkonium Chloride, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Geraniol, Glycol, Pinene, Benzisothiazolinone, Isopropyl Alcohol, Denatonium Benzoate, Sodium Hydroxide, Colorante"
+    },
+    {
+     "nombre": "Vela perfumada Peonía 300 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001031700"
+     ],
+     "inci": "Cera de Parafina, Paraffin, Cera Microcristallina, Paraffinum Liquidum, Glyceryl Palmitate/Stearate, Parfum, Acetato de α α-dimetilfenetilo, Benzophenone-12, Linalool, Terpineol, alpha-Isomethyl Ionone, Octrizole, (2-metoximetiletoxi) propanol, Geraniol, Carvone, Rose Ketones"
+    },
+    {
+     "nombre": "Vela perfumada Santal Vanilla 150 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001036200"
+     ],
+     "inci": "Cera de Parafina, Paraffin, Cera Microcristallina, Glyceryl Palmitate/Stearate, Parfum, Ethylene Brassylate, Vanillin, Benzophenone-12, Benzyl Alcohol, Linalool, Coumarin, Octrizole, Trans-Rose Ketone-3, Isohexenyl Cyclopentenyl Carbaldehyde, 2-hidroxi-3-metilciclopent-2-enona, Bencenoacetonitrilo alfabutilideno- (Z)-, Heptamethyl Decahydroindenofuran, Cinnamal"
+    },
+    {
+     "nombre": "Vela perfumada Neroli (tealight)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001055942"
+     ],
+     "inci": "Cera de Parafina, Paraffin, Hydrogenated Tallow, Paraffinum Liquidum, Cera Microcristallina, Parfum, Benzyl Benzoate, Linalool, Tetramethyl acetyloctahydronaphthalenes, Citral, Ethylene Brassylate, 2 6-Dimethyl-7-Octen-2-Ol, Naranja dulce ext, Benzophenone-12, Terpineol, Naftaleno 2-etoxi-, Octrizole, Cis-3-Hexenyl Salicylate, Geraniol, 3-(4-isobutil-2-metilfenil)propanal, 7-hidroxicitronelal"
+    },
+    {
+     "nombre": "Vela perfumada Chai (tealight)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000720771"
+     ],
+     "inci": "Paraffin, Parfum, Eugenol, Cinamaldehído, Benzyl Benzoate, Vanillin, Coumarin, Anethole, Benzophenone-12, Beta-Caryophyllene, Octrizole, Cinnamyl Alcohol, Linalyl Acetate, Linalool, Colorante, (R)-p-Menta-1 8-dieno"
+    },
+    {
+     "nombre": "Disuelve manchas (spray 750 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000401786"
+     ],
+     "inci": "Aqua, C12-15 Pareth-7, Propylene Glycol, C12-14 Pareth-7, Polietilenimina etoxilada, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Phenoxyethanol, Glycerin, Parfum, Cloruro de calcio · 2H2O, Sorbitol, Subtilisin, Lipase, Xanthan Gum, Sodium Formate, Amilasa α-, Ácido 4-formilfenilborónico, Benzisothiazolinone, Liasa pectato, Calcium Chloride, Alaninamida disustituida, Mananasa endo-1 4-β-"
     }
    ]
   }
