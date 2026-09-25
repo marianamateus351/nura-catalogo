@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25f",
+ "version": "2026-09-25g",
  "marcas": [
   {
    "key": "larocheposay",
@@ -40305,6 +40305,429 @@
       "8015700164657"
      ],
      "inci": "Propylene Glycol, Alcohol Denat., Myristyl Alcohol, Dicaprylyl Carbonate, Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Parfum (Fragrance), Cetrimonium Chloride, PEG-7 Glyceryl Cocoate, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Hydrolyzed Keratin, Lauryl Alcohol, Cetyl Alcohol, Linalool, Limonene, Citric Acid, Alpha-Isomethyl Ionone, Geraniol, Phenoxyethanol, Benzyl Alcohol, Potassium Sorbate, Tocopherol, Sodium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "oralb",
+   "nombre": "Oral-B",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Advanced Protección de Encías 2 × 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216675598"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Sodium Lauryl Sulfate, Sodium Gluconate, Aroma, Carrageenan, Sodium Citrate, Xanthan Gum, Zinc Citrate, Stannous Fluoride, Sodium Hydroxide, Stannous Chloride, Sodium Saccharin, Sodium Fluoride, Sucralose, Glycerin, CI 74260, CI 74160, Citric Acid, Sodium Benzoate, Potassium Sorbate, Menthol, Mentha Viridis Leaf Oil, Mentha Piperita Oil, Limonene, Carvone, Anethole"
+    },
+    {
+     "nombre": "Pasta de dientes Advanced Prevención del Sarro (75 ml y pack 3 × 75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216675246",
+      "8006530008518"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Sodium Hexametaphosphate, Propylene Glycol, PEG-6, Aqua, Zinc Lactate, Trisodium Phosphate, Sodium Lauryl Sulfate, Aroma, Sodium Gluconate, Stannous Fluoride, Sodium Saccharin, Xanthan Gum, PVP, Carrageenan, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Chloride, Sodium Hydroxide, Sodium Benzoate, CI 42090, Menthol, Anethole"
+    },
+    {
+     "nombre": "Pasta de dientes Pro Junior 6-12 años 75 ml (edición Stitch)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216089326"
+     ],
+     "inci": "Glycerin, Aqua, Sorbitol, Hydrated Silica, Sodium Lauryl Sulfate, Sodium Citrate, Sodium Gluconate, Carrageenan, Xanthan Gum, Aroma, Sodium Saccharin, Stannous Fluoride, Cocamidopropyl Betaine, Sodium Hydroxide, Stannous Chloride, Sodium Chloride, Sodium Fluoride, Sucralose, Sodium Benzoate, Citric Acid, Potassium Sorbate, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes 3D White Clinical Blanqueamiento Intensivo 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216088305"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Sodium Hexametaphosphate, Disodium Pyrophosphate, Sodium Lauryl Sulfate, Carrageenan, Aroma, Sodium Monofluorophosphate, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Phosphoric Acid, Sodium Chloride, Sucralose, Sodium Hydroxide, Sodium Benzoate, CI 74160, CI 74260, Citric Acid, Sodium Citrate, Potassium Sorbate, Methyl Salicylate, Menthol, Mentha Viridis Leaf Oil, Limonene, Eugenol, Eugenia Caryophyllus Oil, Cinnamal, Carvone, Anethole"
+    },
+    {
+     "nombre": "Pasta de dientes Pro-Expert Protección Profesional (75 ml y pack 2 × 75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841811963",
+      "8001841811765"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Sodium Hexametaphosphate, Aqua, Sodium Gluconate, Aroma, Sodium Lauryl Sulfate, Trisodium Phosphate, Stannous Fluoride, Carrageenan, Sodium Saccharin, PVP, Stannous Chloride, Xanthan Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Chloride, Sodium Hydroxide, CI 74160, Sodium Benzoate, Methyl Salicylate, Menthol, Mentha Viridis Leaf Oil, Eugenol, Eugenia Caryophyllus Oil, Cinnamal, Carvone, Anethole"
+    }
+   ]
+  },
+  {
+   "key": "lacer",
+   "nombre": "Lacer",
+   "productos": [
+    {
+     "nombre": "Afta Lacer colutorio 120 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001631855"
+     ],
+     "inci": "Aqua, PVP, Taurine, Zinc Gluconate, PEG-40 Hydrogenated Castor Oil, Sodium Saccharin, Aroma"
+    },
+    {
+     "nombre": "Afta Lacer gel 8 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001631848"
+     ],
+     "inci": "Aqua, PVP, Taurine, Xanthan Gum, Zinc Gluconate, PEG-40 Hydrogenated Castor Oil, Sodium Saccharin, Aroma"
+    },
+    {
+     "nombre": "Afta Lacer spray 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001631831"
+     ],
+     "inci": "Aqua, PVP, Taurine, Zinc Gluconate, PEG-40 Hydrogenated Castor Oil, Sodium Saccharin, Aroma"
+    },
+    {
+     "nombre": "Clorhexidina colutorio 0,12 % (500 ml y monodosis 15 ml × 24)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003856669",
+      "8470001918239",
+      "8430340059963"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Xylitol, PEG-40 Hydrogenated Castor Oil, Sucralose, Chlorhexidine Digluconate, Aroma, O-Cymen-5-ol, Hydroxypropyl Methylcellulose, Menthol, Sodium Citrate, Citric Acid, Vanillin, Neohesperidin Dihydrochalcone, CI 16255, Limonene"
+    },
+    {
+     "nombre": "Clorhexidina colutorio 0,2 % 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001982889"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Xylitol, Chlorhexidine Digluconate, Poloxamer 407, Potassium Acesulfame, Aroma, Menthol, Sodium Saccharin, Neohesperidin Dihydrochalcone, Lactic Acid, CI 16185, CI 15985, Limonene"
+    },
+    {
+     "nombre": "Clorhexidina pasta dentífrica 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001893086"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Aqua, Hydrated Silica, Glycerin, PEG-8, Hydroxyethylcellulose, Titanium Dioxide, Cocamidopropyl Betaine, Xylitol, Aroma, Tocopheryl Acetate, Panthenol, Dimethicone, Sodium Chloride, Chlorhexidine Digluconate, Menthol, Potassium Acesulfame, Sodium Saccharin, Methyl Salicylate, Sodium Benzoate, Limonene"
+    },
+    {
+     "nombre": "Clorhexidina spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002477421",
+      "8430340061942"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Xylitol, PEG-40 Hydrogenated Castor Oil, Poloxamer 407, Chlorhexidine Digluconate, Aroma, Potassium Acesulfame, Menthol, Sodium Saccharin, Methyl Salicylate, Neohesperidin Dihydrochalcone, Lactic Acid, CI 16185, CI 15985, Limonene"
+    },
+    {
+     "nombre": "Colutorio Flúor júnior diario fresa 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002385764"
+     ],
+     "inci": "Aqua, Propylene Glycol, Panthenol, Xylitol, Aroma, Hydroxyacetophenone, Sodium Monofluorophosphate, Calcium Glycerophosphate, Sodium Citrate, Citric Acid, Sucralose, Vanillin, CI 16255"
+    },
+    {
+     "nombre": "Colutorio Flúor júnior diario menta 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002122093"
+     ],
+     "inci": "Aqua, Propylene Glycol, Panthenol, Xylitol, PEG-40 Hydrogenated Castor Oil, Hydroxyacetophenone, Sodium Monofluorophosphate, Aroma, Calcium Glycerophosphate, Sodium Citrate, Citric Acid, Sucralose, Sodium Chloride, CI 47005, CI 42051, Limonene"
+    },
+    {
+     "nombre": "Colutorio Flúor júnior semanal fresa 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002385924"
+     ],
+     "inci": "Aqua, Propylene Glycol, Panthenol, Xylitol, Sodium Monofluorophosphate, Aroma, Hydroxyacetophenone, Citric Acid, Calcium Glycerophosphate, Sodium Citrate, Sucralose, Vanillin, CI 16255"
+    },
+    {
+     "nombre": "GingiLacer Encías Delicadas colutorio (200 ml, 500 ml y 1 l)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002636576",
+      "8470002636651",
+      "8470001633088",
+      "8430340050748",
+      "8430340050700"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Hydroxyacetophenone, Sodium Citrate, Poloxamer 407, Sodium Gluconate, O-Cymen-5-ol, Zinc Chloride, Aroma, Dipotassium Glycyrrhizate, Sodium Fluoride, Menthol, Sucralose, Mentha Piperita Oil, Citric Acid, Neohesperidin Dihydrochalcone, Vanillin, CI 42090, CI 47005, Limonene"
+    },
+    {
+     "nombre": "GingiLacer Encías Delicadas pasta dentífrica (75, 125 y 200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002573376",
+      "8470002678729",
+      "8470001828262"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Propylene Glycol, Sodium Monofluorophosphate, Xylitol, Aroma, Titanium Dioxide, Xanthan Gum, Sodium C14-C16 Olefin Sulfonate, Zinc Chloride, Sodium Lauroyl Sarcosinate, Dipotassium Glycyrrhizate, Trehalose, Bisabolol, Sodium Hydroxide, Sucralose, O-Cymen-5-ol"
+    },
+    {
+     "nombre": "Colutorio cuidado bucal sin alcohol (100 ml a 1 l)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001611222",
+      "8470002013681",
+      "8470002057654",
+      "8470001620859",
+      "8430340050717",
+      "8430340050670",
+      "8430340050724"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Hydroxyacetophenone, Sodium Citrate, Sodium Gluconate, Poloxamer 407, Aroma, O-Cymen-5-ol, Sodium Fluoride, Menthol, Sucralose, Citric Acid, Mentha Piperita Oil, Neohesperidin Dihydrochalcone, Vanillin, CI 14720, Limonene"
+    },
+    {
+     "nombre": "Gel dental infantil sabor fresa (50 y 75 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001589125",
+      "8470001845627"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Aqua, Hydrated Silica, Glycerin, PEG-8, Xylitol, Aroma, Xanthan Gum, Sodium Monofluorophosphate, Sodium Lauroyl Sarcosinate, Calcium Glycerophosphate, Sucralose, Lactic Acid, CI 16255"
+    },
+    {
+     "nombre": "Júnior gel dental menta 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001555885"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Hydrated Silica, Aqua, Hydrated Silica, Glycerin, PEG-8, Xylitol, Sodium Monofluorophosphate, Panthenol, Aroma, Xanthan Gum, Sodium Lauroyl Sarcosinate, Calcium Glycerophosphate, Sucralose, Lactic Acid, Sodium Chloride, CI 47005, CI 42051, Limonene"
+    },
+    {
+     "nombre": "Mucorepair colutorio 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002185722"
+     ],
+     "inci": "Aqua, Glycerin, Hydrogenated Starch Hydrolysate, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Sodium Citrate, Hydroxyacetophenone, Citric Acid, Hyaluronic Acid, Sodium Hyaluronate, O-Cymen-5-ol, PVM/MA Copolymer, Aroma, Dipotassium Glycyrrhizate, Asiaticoside, Sucralose, Sodium Gluconate, Limonene"
+    },
+    {
+     "nombre": "Mucorepair gel tópico 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001848345"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, Hydrogenated Starch Hydrolysate, PEG-40 Hydrogenated Castor Oil, Carbomer, Sodium Benzoate, Asiaticoside, Aroma, Sodium Citrate, Sodium Hydroxide, Glycyrrhetinic Acid, Hydrolyzed Hyaluronic Acid, PVM/MA Copolymer, Sodium Hyaluronate, Benzoic Acid, O-Cymen-5-ol, Citric Acid, Sodium Gluconate, Sucralose, Limonene"
+    },
+    {
+     "nombre": "Pasta dentífrica (50, 75, 125 y 200 ml; pack de viaje 3 × 5 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003918626",
+      "8470003918541",
+      "8470003918473",
+      "8470001636478",
+      "8470001651136"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Magnesium Aluminum Silicate, PEG-8, Aroma, Xylitol, Sodium Lauryl Sulfate, Xanthan Gum, Sodium Fluoride, CI 77891, Sodium Citrate, Sodium Gluconate, Sodium Saccharin, O-Cymen-5-ol, Citric Acid, Menthol, Limonene"
+    },
+    {
+     "nombre": "LacerBlanc colutorio d-Citrus 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001639479"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Potassium Citrate, Sodium Hexametaphosphate, Xylitol, Sodium Benzoate, Citric Acid, Poloxamer 407, PVP, Sodium Methylparaben, Aroma, Sodium Monofluorophosphate, Panthenol, Tocopheryl Acetate, Menthyl Lactate, Zinc Chloride, Disodium EDTA, Sucralose, Sodium Saccharin, Eugenol, Limonene"
+    },
+    {
+     "nombre": "LacerBlanc colutorio d-Menta 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001691705"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Potassium Citrate, Sodium Hexametaphosphate, Xylitol, Sodium Benzoate, Citric Acid, Aroma, PVP, Sodium Methylparaben, Poloxamer 407, Sodium Gluconate, Sodium Monofluorophosphate, Tocopheryl Acetate, Panthenol, Zinc Chloride, Menthol, Sodium Saccharin, Sucralose, Limonene"
+    },
+    {
+     "nombre": "LacerBlanc pasta dental d-Citrus (75 y 125 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001576545",
+      "8470001576552"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Sodium Hexametaphosphate, Titanium Dioxide, PVP, PEG-8, Sodium Lauryl Sulfate, Aroma, Sodium Monofluorophosphate, Potassium Citrate, Xylitol, Dimethicone, Xanthan Gum, Zinc Citrate, Disodium EDTA, Sodium Ascorbyl Phosphate, Sodium Saccharin, Limonene"
+    },
+    {
+     "nombre": "LacerBlanc pasta dental d-Menta 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001691712"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Sodium Hexametaphosphate, PEG-8, PVP, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Aroma, Potassium Citrate, Xylitol, Menthol, Xanthan Gum, Zinc Citrate, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Gluconate, Tocopheryl Acetate, O-Cymen-5-ol, Sodium Chloride, Sodium Glycolate, Sodium Benzoate, CI 77891, CI 42090, Mentha Piperita Oil, Anethole, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "LacerBlanc pincel dental blanqueador 9 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001625724"
+     ],
+     "inci": "Alcohol, PVP, PEG-8, Aqua, PVP-Hydrogen Peroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sorbitan Isostearate, Polysorbate 60"
+    },
+    {
+     "nombre": "LacerBlanc White Flash kit dental blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001932488"
+     ],
+     "inci": "Gel dental preparador: Aqua, Glycerin, Alcohol, Sodium Lauryl Sulfate, Cellulose Gum, Poloxamer 188, Polysorbate 20, Poloxamer 407, Aroma, Sodium Citrate, Menthol, Caffeine, Potassium Acesulfame, Sodium Benzoate, Sodium Saccharin, Sucralose, Citric Acid, BHT, CI 42090, Limonene · Gel dental blanqueador: Glycerin, Propylene Glycol, Carbomer, Potassium Acesulfame, Mica, Menthol, Sodium Carbonate Peroxide, Triethanolamine, CI 77891"
+    },
+    {
+     "nombre": "LacerFresh Frescor Prolongado colutorio 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003429702",
+      "8430340053404"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Sodium Citrate, Hydroxyacetophenone, Aroma, Menthol, Trehalose, Zinc Chloride, Citric Acid, Eucalyptol, Hydroxyethylcellulose, Sodium Fluoride, Sucralose, Octenidine HCl, Neohesperidin Dihydrochalcone, Vanillin, CI 42090, Limonene, Linalool"
+    },
+    {
+     "nombre": "LacerFresh Frescor Prolongado gel dentífrico (75 ml, 125 ml y pack 2 × 125 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002176041",
+      "8470001683328",
+      "8430340059512"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Aqua, Hydrated Silica, Glycerin, Aroma, Sodium Monofluorophosphate, Xylitol, Cocamidopropyl Betaine, Propylene Glycol, Xanthan Gum, Trehalose, Sodium Chloride, Menthol, Sodium Citrate, Zinc Chloride, Eucalyptol, Sucralose, Sodium Gluconate, Potassium Acesulfame, Citric Acid, Sodium Glycolate, Octenidine HCl, Sodium Benzoate, Neohesperidin Dihydrochalcone, Vanillin, CI 42090"
+    },
+    {
+     "nombre": "LacerFresh Frescor Prolongado spray bucal 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001840103"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Aroma, Sodium Citrate, Menthol, Eucalyptol, Trehalose, Zinc Chloride, Citric Acid, Hydroxyethylcellulose, Sodium Fluoride, Sucralose, Octenidine HCl, Vanillin, Neohesperidin Dihydrochalcone, CI 42090, Limonene, Linalool"
+    },
+    {
+     "nombre": "LacerNatur pasta dentífrica 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001894731"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Dicalcium Phosphate Dihydrate, Glycerin, Hydrated Silica, Sodium Monofluorophosphate, Xylitol, Xanthan Gum, Aroma, Sodium Lauroyl Sarcosinate, Sodium Phytate, Stevia Rebaudiana Leaf Extract, Citrus Aurantium Amara Fruit Extract, Citrus Reticulata Fruit Extract, Citrus Aurantium Sinensis Peel Extract, Ascorbic Acid, Citric Acid, Lactic Acid, Citral, Linalool"
+    },
+    {
+     "nombre": "LacerOros acción integral colutorio (200 ml, 500 ml y 1 l)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003497121",
+      "8470002600836",
+      "8430340052926",
+      "8470001950963"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Potassium Nitrate, Xylitol, Hydroxyacetophenone, Sodium Citrate, Panthenol, Sodium Fluoride, Poloxamer 407, Sodium Gluconate, Citric Acid, O-Cymen-5-ol, Zinc Chloride, Aroma, Menthol, Dipotassium Glycyrrhizate, Sucralose, Mentha Piperita Oil, Limonene"
+    },
+    {
+     "nombre": "LacerOros acción integral pasta dentífrica (75, 125, 200 ml y pack 2 × 125 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003965569",
+      "8470003094436",
+      "8470001929310",
+      "8430340058126"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Potassium Nitrate, Propylene Glycol, Sodium Monofluorophosphate, Titanium Dioxide, Xylitol, Aroma, Xanthan Gum, Zinc Chloride, Cocamidopropyl Betaine, Panthenol, Sodium Lauroyl Sarcosinate, Dipotassium Glycyrrhizate, Sodium Chloride, Sodium Hydroxide, O-Cymen-5-ol, Sucralose, Menthol, Sodium Glycolate, Sodium Benzoate, Vanillin"
+    },
+    {
+     "nombre": "LacerPro Forte crema adhesiva para prótesis dental (40 y 70 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001837479",
+      "8470001837486"
+     ],
+     "inci": "Cellulose Gum, Petrolatum, Paraffinum Liquidum, Calcium/Sodium PVM/MA Copolymer, Silica, Menthol, Menthyl Lactate, Lecithin"
+    },
+    {
+     "nombre": "SensiLacer colutorio sensibilidad dental 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001670984"
+     ],
+     "inci": "Aqua, Potassium Nitrate, Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Sodium Monofluorophosphate, Xylitol, Poloxamer 407, Dichlorobenzyl Alcohol, Citric Acid, Sodium Methylparaben, Aroma, Menthol, Potassium Acesulfame, Sodium Saccharin, Sodium Propylparaben, Disodium EDTA, Neohesperidin Dihydrochalcone, Vanillin, Methyl Salicylate, CI 42090, Limonene"
+    },
+    {
+     "nombre": "SensiLacer gel bioadhesivo sensibilidad dental 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001749826"
+     ],
+     "inci": "Aqua, Potassium Nitrate, Hydrated Silica, Hydrogenated Starch Hydrolysate, Propylene Glycol, Glycerin, Hydroxyethylcellulose, Sodium Monofluorophosphate, PEG-40 Hydrogenated Castor Oil, Aroma, Lactic Acid, Sucralose, Menthol, Limonene"
+    },
+    {
+     "nombre": "SensiLacer gel dentífrico sensibilidad dental 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001749833"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Aqua, Hydrated Silica, Glycerin, Potassium Nitrate, PEG-8, Dicalcium Phosphate Dihydrate, Sodium Monofluorophosphate, Xylitol, Aroma, Xanthan Gum, Cocamidopropyl Betaine, Sucralose, Sodium Chloride, Sodium Glycolate, Sodium Benzoate, Vanillin, Menthol, Limonene"
+    },
+    {
+     "nombre": "XeroLacer Boca Seca colutorio 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003731003"
+     ],
+     "inci": "Aqua, Xylitol, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Sodium Monofluorophosphate, Hydroxyacetophenone, Panthenol, Poloxamer 407, Sodium Gluconate, Tocopheryl Acetate, Aroma, O-Cymen-5-ol, Sodium Citrate, Sodium Fluoride, Sodium Chloride, Dipotassium Phosphate, Potassium Chloride, Aloe Barbadensis Leaf Extract, Dipotassium Glycyrrhizate, Malic Acid, Potassium Phosphate, Citric Acid, Sucralose, CI 42090"
+    },
+    {
+     "nombre": "XeroLacer Boca Seca pasta dentífrica 125 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003563451"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Glycerin, Sodium Bicarbonate, Xylitol, Aroma, Propylene Glycol, Titanium Dioxide, Sodium Monofluorophosphate, Xanthan Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Chloride, Panthenol, Sodium Citrate, Sodium Gluconate, Tocopheryl Acetate, Dipotassium Glycyrrhizate, O-Cymen-5-ol, Dipotassium Phosphate, Sucralose, Potassium Chloride, Aloe Barbadensis Leaf Juice, Potassium Phosphate, Menthol, Sodium Glycolate, Sodium Benzoate, Vanillin, Limonene"
+    },
+    {
+     "nombre": "XeroLacer Boca Seca spray 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003727068"
+     ],
+     "inci": "Aqua, Xylitol, Propylene Glycol, Glycerin, PEG-40 Hydrogenated Castor Oil, Sodium Monofluorophosphate, Hydroxyacetophenone, Panthenol, Poloxamer 407, Sodium Gluconate, Tocopheryl Acetate, Aroma, O-Cymen-5-ol, Sodium Citrate, Sodium Fluoride, Sodium Chloride, Dipotassium Phosphate, Potassium Chloride, Aloe Barbadensis Leaf Extract, Dipotassium Glycyrrhizate, Malic Acid, Potassium Phosphate, Citric Acid, Sucralose, CI 42090"
     }
    ]
   }
