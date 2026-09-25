@@ -1667,9 +1667,15 @@ y en Ausonia por "polipropileno"/"poliéster", como dice su propia ficha.
 
 **Decisiones de Mariana (2026-09-25):** A, que se quede como está ("el punto es que detecte que
 hay fragancia": en compresas y tampones sale el aviso específico 34); B, sí ("si el polietileno
-es un microplástico, debería figurar como tal; si las poliolefinas lo son, también"); C, sí
-("aceites de lavanda y árbol del té son disruptores endocrinos"). B y C aplicados en la app el
-mismo día, ver el registro de la revisión FP/FN. D sigue pendiente.
+es un microplástico, debería figurar como tal; si las poliolefinas lo son, también"); C era una
+pregunta suya ("¿son disruptores endocrinos o no?"). Respuesta dada: **no está demostrado**; hay
+casos aislados de ginecomastia prepuberal (Henley 2007) y actividad débil en células (Ramsey
+2019), pero en ratas no se vio efecto estrogénico (Politano 2013) y ningún organismo (UE, ECHA,
+SCCS) los clasifica como disruptores. Decisión: **opción 1, mantenerlos como "Emergente" (el nivel
+más bajo) "pero no alarmando, porque la evidencia es bajísima"**: los textos de la ficha 211 dicen
+que la evidencia es muy baja, que no hace falta evitarlos y, si preocupa, en niños pequeños y uso
+diario. B y C aplicados en la app el mismo día, ver el registro de la revisión FP/FN. D sigue
+pendiente.
 
 **Decisiones que se le plantearon:**
 - **A) ¿La 34 sustituye o se suma a la 5?** Aplicado: sustituye (un solo aviso de perfume, el
