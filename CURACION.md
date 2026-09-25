@@ -834,6 +834,22 @@ escritas para Mariana, como las cuatro de Asevi.
 6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
    Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
 
+#### Registro de la revisión de falsos positivos y negativos (herramientas y cambios)
+Herramientas (scratchpad): `revisa.mjs <marca>` lista, por cada aviso, **qué ingrediente de la
+ficha lo dispara** (para ver nombres dentro de otros nombres) y qué ingredientes de una **lista
+de vigilancia** de posibles disruptores (listas SCCS/UE, ECHA, TEDX) no reconoce ninguna regla;
+`reg.mjs` + `regdiff.py` sacan los avisos de las ~2.900 fichas con la categoría que pone la app
+y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos").
+
+- **2026-09-25 · Ésteres de propilenglicol y acetatos de (iso)eugenilo** (visto al revisar
+  Davines). "Propylene Glycol Dicaprylate/Dicaprate" y "Propylene Glycol Stearate" son ésteres,
+  no el propilenglicol humectante de la ficha 38; "Eugenyl Acetate" e "Isoeugenyl Acetate"
+  saltaban como Eugenol (207) e Isoeugenol (206) por la tolerancia a erratas. Añadidos a
+  `excluyeSi` (38: 17 ésteres de PG; 206 y 207: los acetatos). Regresión: **46 fichas pierden
+  un aviso falso (38 ×28, 206 ×14, 207 ×4), ninguna pierde uno verdadero** (comprobado ficha a
+  ficha: ninguna de las 46 lleva el propilenglicol, eugenol o isoeugenol sueltos), ningún otro
+  cambio.
+
 ### 2026-09-23 · Cola de marcas para la campaña de Instagram (decisión de Mariana)
 
 Mariana está haciendo publicidad y quiere que el **primer escaneo** de quien llega acierte.
