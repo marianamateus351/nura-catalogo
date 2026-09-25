@@ -836,6 +836,9 @@ escritas para Mariana, como las cuatro de Asevi.
 5. **Súper de cada semana**: Babaria, Byphasse, Lactovit, Vaseline; capilar TRESemmé, Gliss,
    Syoss (Unilever y Henkel publican INCI); maquillaje Catrice y Essence (Cosnova publica
    INCI); dental Oral-B y Lacer; limpieza Bosque Verde y KH-7 (método 648/2004, como Asevi).
+   — **Catrice y Essence hechas el 2026-09-25** (versión 2026-09-25e): 677 + 740 códigos; ver
+   su apartado. Siguen Babaria, Byphasse, Lactovit, Vaseline, TRESemmé, Gliss, Syoss, Oral-B,
+   Lacer, Bosque Verde y KH-7.
 6. **Deliplus** sigue siendo el hueco más grande (16 fichas): ampliar desde la etiqueta cuando
    Mariana pueda ir a un Mercadona; Bosque Verde en el mismo paseo.
 
@@ -858,6 +861,15 @@ y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos"
   diseño: ver "Higiene íntima y menstrual". Regresión: 0 cambios en las fichas existentes.
 - **2026-09-25 · Falso negativo con decisión pendiente: polietileno** (98 cosméticos). Ver la
   decisión B en "Higiene íntima y menstrual".
+- **2026-09-25 · Catrice y Essence: dos nombres dentro de otro nombre.** "Propylene Glycol
+  Dibenzoate" (7 fichas de essence) saltaba como Propilenglicol (38): es un éster, mismo criterio
+  que los 17 ésteres de arriba. "Phosphoric Acid Polyester" (15 esmaltes UV Gel de essence)
+  saltaba como Microplásticos (191) por la palabra "polyester": es una resina líquida del esmalte
+  de gel que se cura en película, no una fibra ni una partícula; mismo caso que "poliéster
+  modificado". Añadidos a `excluyeSi` de la 38 y de la 191. Regresión sobre las 4.153 fichas:
+  **22 cambian (38 ×7, 191 ×15), todas por estas dos frases; ninguna lleva además propilenglicol
+  o poliéster sueltos** ("Aliphatic Polyesterurethane Acrylate" de los mismos esmaltes ya no
+  saltaba); ningún otro cambio.
 
 ### 2026-09-23 · Cola de marcas para la campaña de Instagram (decisión de Mariana)
 
@@ -1362,6 +1374,48 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
   promo packs `5600358…`. Todo en `bio/match.txt`.
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
+
+### Catrice y essence (Cosnova) — abiertas 2026-09-25 (versión 2026-09-25e): 505 + 541 productos, 677 + 740 códigos
+Cola del 25-09, punto 5. Fuente única: las webs oficiales en español, `catrice.eu/es-es` y
+`essence.eu/es-es` (sitemaps de producto: 680 y 756 fichas; una ficha por tono).
+- **Cómo se saca**: cada ficha es `/p/<id>/<slug>`. El nombre y el EAN (`gtin13`) salen del
+  JSON-LD (`ProductGroup` → `hasVariant` cuya URL lleva ese `<id>`); el tono, del objeto de
+  producto de la página (`"id":"<id>"`, `"gtin"`, `"color":{"number","name"}`); la lista, del
+  `c_inciList` de **ese mismo objeto**. Se exige que el EAN sea válido, que contenga el `<id>`
+  (Cosnova numera así: 4059729**446930** ↔ id 944693) y que entre el objeto y su `c_inciList` no
+  haya otro objeto. Cuando la lista es larga, la página la guarda aparte como referencia (`$53`) en
+  los datos de Next.js; se resuelve con su longitud exacta (paletas, cushions: 16 + 37 fichas).
+- **Tonos**: una entrada por fórmula. Los tonos con la lista idéntica van juntos con todos sus
+  códigos, "Base de maquillaje ... (tonos 10, 20, 30)"; si todos los tonos de un producto comparten
+  lista, sin tonos en el nombre. Los colorantes cambian de un tono a otro, así que muchas
+  entradas llevan un solo tono.
+- **Listas por partes** (paletas, dúos, pestañas con pegamento): se deja cada parte con su
+  nombre, como en los tintes de Garnier: "Nº 1/3: Mica, Talc, ... · Nº 2: ...", "Cream: ... ·
+  Powder: ...", "Pegamento" en las pestañas postizas. El "[+/- May Contain: CI ...]" de las
+  paletas se deja tal cual está en la etiqueta.
+- **Fuera**: essence 9 fichas sin lista, 1 con la lista de otro objeto en medio, 1 dúo de contorno
+  con la cabecera rota, el set de cejas y los 4 sets de uñas postizas (la única lista es la de la
+  toallita limpiadora); Catrice las 3 "Lip Artist" (barra + perfilador, cabecera en siete idiomas
+  que no se puede partir con seguridad).
+- **Nombres**: los de la web española tal cual (Cosnova mezcla castellano y mayúsculas de marca:
+  "Laca de uñas GEL AFFAIR", "BASE DE MAQUILLAJE EN BARRA"). Arreglados a mano: las tres mini
+  paletas "the BROWN/MAUVE/PEACH edition" (el JSON-LD llamaba "BROWN" a las tres) y el perfilador
+  "line n' STAIN!" de la primera tanda (01 y 02, fórmula distinta de la gama nueva "line and
+  stain", marcado "(primera versión)").
+- **Revisión FP/FN** (`revisa.mjs catrice essence`). Falsos positivos corregidos: Propylene
+  Glycol Dibenzoate y Phosphoric Acid Polyester (ver el registro). Avisos verdaderos que
+  sorprenden: **Hexamethylindanopyran (galaxólido) en 1 Catrice y 6 essence**, BHT en 16 essence
+  (los esmaltes UV Gel y un topper), octisalato en 20 + 15 (los que llevan SPF), octocrileno y
+  etilhexil metoxicinamato en la prebase Ten!sational 10 in 1 Dream de Catrice. Revisado sin cambio: los copolímeros de estireno
+  ("Styrene/Acrylates Copolymer" y afines, 80 + 6) siguen sin aviso, mismo criterio que el 21-09 (el
+  polímero no es el monómero); "Lauryl Polyneopentyl Glycol Adipate Phthalate/PEI-45
+  Crosspolymer" (9 essence) es un poliéster con el ftalato ligado a la cadena, no un ftalato
+  plastificante suelto, así que no se añade a la ficha de ftalatos (si Mariana lo quiere avisado,
+  es una decisión de criterio); siloxanos "Tris(trimethylsiloxy)silylethyl Dimethicone" (no son
+  D4/D5/D6) y "Tris(tetramethylhydroxypiperidinol) Citrate" (estabilizante UV del envase, sin
+  datos de disrupción): sin cambio. Aceite de lavanda en 2 Catrice: decisión C.
+- Scripts: `su/cosnova.py`, `su/cosnova2.py` (comprobación estricta del objeto),
+  `su/cosnova3.py` (referencias `$xx`), `su/build_cosnova.py`, `su/group_cosnova.py`.
 
 ### The Ordinary (DECIEM) — preparada 2026-09-25, NO aplicada: 26 productos, 26 códigos UPC (decisión D)
 Cola del 25-09, punto 4.
@@ -1932,6 +1986,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Evax · Tampax (P&G) | solo 3 fichas de Tampax; las de Evax por la web | sí, en el bloque de reseñas de cada ficha (`bvData.eaNs`), mezclado entre familias | no hay INCI: composición en dos artículos de evaxtampax.es | código solo si es único de una familia; ver su apartado |
 | Ausonia (P&G) | sí (`sitemap.xml`, 153) | sí (`gtin` por variante) | composición solo de la gama Discreet | ver "Higiene íntima y menstrual" |
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
+| Catrice · essence (Cosnova) | sí (sitemap de producto por país, `es-es`) | sí, `gtin13` en el JSON-LD y `gtin` en el objeto de producto | sí, `c_inciList` del mismo objeto (o referencia `$xx` en los datos de Next.js) | ver su apartado |
 | Davines | Shopify por país: **es.davines.com** (la global va atrasada) | sí, `gtin13` + `sku` en el JSON-LD y en el nombre de la foto | sí, completo en la ficha | web española; ver su apartado |
 | Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
 | Ducray · Klorane · A-Derma | sí (`product.xml`: 67 · 110 · 64) | sí, **en la URL** | sí (`composition_inci`) | plataforma de Avène; gama desde la URL en Ducray y A-Derma; ver su apartado |
@@ -1988,14 +2043,14 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-24)
-4631 códigos en 58 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-09-25)
+6048 códigos en 60 marcas: NYX 999 · **essence 740** · **Catrice 677** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 3107 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4153 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
