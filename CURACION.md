@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX y los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico, que son los envases de España, ver NYX y Essie), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico y los `0769915…` de The Ordinary, que son los envases de España, ver NYX, Essie y The Ordinary). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -831,8 +831,8 @@ escritas para Mariana, como las cuatro de Asevi.
    cosmético; curar lo que el fabricante publique (composición, "con perfume"/"sin perfume").
 3. ~~**Embarazo y bebé**: Mustela (publica INCI completo), Nenuco, Suavinex.~~ — **hecho el
    2026-09-25** (versión 2026-09-25c): Mustela 58 códigos, Nenuco 3, Suavinex sin fuente.
-4. **The Ordinary** (INCI completo en su web, fichas cortas). — **preparada el 2026-09-25, sin
-   aplicar**: sus códigos son UPC `0769915…` (regla 3); espera la decisión D.
+4. ~~**The Ordinary**~~ — **hecha el 2026-09-25** (versión 2026-09-25j): 26 códigos UPC `0769915…`,
+   los mismos que en España (decisión D).
 5. **Súper de cada semana**: Babaria, Byphasse, Lactovit, Vaseline; capilar TRESemmé, Gliss,
    Syoss (Unilever y Henkel publican INCI); maquillaje Catrice y Essence (Cosnova publica
    INCI); dental Oral-B y Lacer; limpieza Bosque Verde y KH-7 (método 648/2004, como Asevi).
@@ -1613,7 +1613,16 @@ Cola del 25-09, punto 5. Fuente única: las webs oficiales en español, `catrice
 - Scripts: `su/cosnova.py`, `su/cosnova2.py` (comprobación estricta del objeto),
   `su/cosnova3.py` (referencias `$xx`), `su/build_cosnova.py`, `su/group_cosnova.py`.
 
-### The Ordinary (DECIEM) — preparada 2026-09-25, NO aplicada: 26 productos, 26 códigos UPC (decisión D)
+### The Ordinary (DECIEM) — abierta 2026-09-25 (versión 2026-09-25j): 26 productos, 26 códigos UPC (decisión D)
+**Decisión D (Mariana, 2026-09-25):** "quiero los códigos que una consumidora, al escanear en una
+farmacia aquí, en España y Portugal, le salga algo; si no es, no los quiero poner". Comprobado en
+Open Beauty Facts: The Ordinary lleva **el mismo UPC `0769915…` en todo el mundo** (escaneos de
+España, Francia, Italia, Finlandia y Reino Unido, todos `0769915…`; DECIEM no tiene código europeo
+aparte), así que entra con la excepción, como NYX. **SkinCeuticals, no**: los envases europeos llevan
+`3606000…` de L'Oréal (15 ya en el catálogo; los escaneos de Alemania en OBF, igual) y los `0635494…`
+son los de EE. UU.; los 9 preparados se descartan. Fichero `pendientes/` borrado.
+Revisión FP/FN: sin falsos positivos (fenoxietanol 14, galato de propilo 2, BHT 1, sulfitos 1); sin
+falsos negativos. Nombres en inglés, como los da la web española de la marca.
 Cola del 25-09, punto 4.
 - **INCI**: la web española de la marca (`theordinary.com/es-es`, sitemap `sitemap-es_ES.xml`,
   101 URL) trae la lista completa en `data-original-ingredients` y el nombre en `product-name`
@@ -1630,7 +1639,7 @@ Cola del 25-09, punto 4.
   Acid 2% + B5, Caffeine, Glycolic 7%, lácticos, mandélico, capilares…); con una tabla de nombres a
   mano se pueden sumar varios. Fuera The Daily Set (es un set).
 - Preparado en `pendientes/theordinary_upc.json` (códigos ya en 13 dígitos con el 0 delante, como
-  NYX). Si Mariana da la excepción, entra con `apply.py`.
+  NYX). Aplicado el 2026-09-25 tras la decisión D.
 
 ### Cosmia (Alcampo / Auchan) — abierta 2026-09-25 (versión 2026-09-25d): 115 productos, 115 códigos
 Hueco de Datos del 2026-09-15 (marca blanca de Alcampo; el código 20525101 de aquel pedido sigue
@@ -2261,13 +2270,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6395 códigos en 70 marcas: NYX 999 · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6421 códigos en 71 marcas: NYX 999 · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4448 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4474 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
