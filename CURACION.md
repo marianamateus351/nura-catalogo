@@ -862,6 +862,27 @@ y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos"
   diseño: ver "Higiene íntima y menstrual". Regresión: 0 cambios en las fichas existentes.
 - **2026-09-25 · Falso negativo con decisión pendiente: polietileno** (98 cosméticos). Ver la
   decisión B en "Higiene íntima y menstrual".
+- **2026-09-25 · Decisiones B y C de Mariana aplicadas.** (B) La ficha 191 pasa a llamarse
+  "Microplásticos (poliéster / polipropileno / polietileno)" y reconoce además polyethylene,
+  polietileno, polyethylene terephthalate (PET, purpurina), polyolefin(s) y poliolefina(s);
+  "Polyethylene Glycol", "polietilenglicol" y "Polyethylene Oxide" (solubles, no son plástico
+  sólido) van a `excluyeSi`. (C) Ficha nueva **211 "Aceites esenciales de lavanda y árbol del
+  té"**, riesgo Emergente, solo coincidencia exacta con los nombres de los aceites (Lavandula
+  angustifolia/officinalis/hybrida oil con y sin el nombre común, "Lavandula Oil/Extract",
+  lavender/lavandin oil, Melaleuca alternifolia (tea tree) leaf oil, tea tree oil y sus nombres en
+  castellano). No saltan los extractos ni el agua floral (lo decidido fueron los aceites), ni
+  Salvia lavandulifolia ni Melaleuca viridiflora (niaulí). Regresión sobre las 4.261 fichas: **188
+  cambian y las 188 son las previstas**: 147 ganan la 191 (polyethylene 128, PET 15, oxidized
+  polyethylene 9, poliolefinas 2; NYX 62, Catrice 24, L'Oréal Paris 16, essie y Maybelline 10,
+  Avène 8, Vaseline 4, A-Derma 3, Asevi, Klorane y LRP 2, Dove, Ducray, Evax y Garnier 1 — Evax
+  Liberty por "poliolefinas") y 41 ganan la 211 (Davines 12, Nivea 7, Cosmia 5, Cocunat y
+  Haruharu 4, Asevi, Catrice y L'Oréal Paris 2, Deliplus, Freshly y SkinCeuticals 1). Ningún
+  otro cambio, ninguna ficha pierde avisos. **Pendiente de criterio (siguiendo el principio de
+  Mariana, "si es microplástico, que figure"):** otros polímeros sólidos que la restricción UE
+  2023/2055 también cuenta como microplásticos, sobre todo **Nylon-12/Nylon-6** y **Polymethyl
+  Methacrylate** (maquillaje) y los poliuretanos en polvo; no se han añadido sin preguntar.
+  Números en el catálogo: Nylon-12 79, Methyl Methacrylate Crosspolymer 26, Nylon-611 15,
+  Polymethyl Methacrylate 12, Polyurethane-11/-35 y otros ~30, Nylon-6 3.
 - **2026-09-25 · Catrice y Essence: dos nombres dentro de otro nombre.** "Propylene Glycol
   Dibenzoate" (7 fichas de essence) saltaba como Propilenglicol (38): es un éster, mismo criterio
   que los 17 ésteres de arriba. "Phosphoric Acid Polyester" (15 esmaltes UV Gel de essence)
@@ -1590,7 +1611,13 @@ sustituye** por el específico de la 34 (perfume en contacto con mucosa). La 34 
 había; salta en Evax Liberty y Ausonia Discreet. La 191 (microplásticos) salta en los tampones
 y en Ausonia por "polipropileno"/"poliéster", como dice su propia ficha.
 
-**Decisiones para Mariana (no aplicadas):**
+**Decisiones de Mariana (2026-09-25):** A, que se quede como está ("el punto es que detecte que
+hay fragancia": en compresas y tampones sale el aviso específico 34); B, sí ("si el polietileno
+es un microplástico, debería figurar como tal; si las poliolefinas lo son, también"); C, sí
+("aceites de lavanda y árbol del té son disruptores endocrinos"). B y C aplicados en la app el
+mismo día, ver el registro de la revisión FP/FN. D sigue pendiente.
+
+**Decisiones que se le plantearon:**
 - **A) ¿La 34 sustituye o se suma a la 5?** Aplicado: sustituye (un solo aviso de perfume, el
   específico). Si prefieres los dos, es una línea.
 - **B) Polietileno y poliolefinas como microplásticos (ficha 191).** Hoy la 191 solo reconoce
