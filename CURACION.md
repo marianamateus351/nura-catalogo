@@ -824,7 +824,8 @@ escritas para Mariana, como las cuatro de Asevi.
    **Ampliar Head & Shoulders** (P&G, mismo circuito que Pantene).~~ — **hecho el 2026-09-25**:
    Endocare 4 códigos (versión 2026-09-25a); Heliocare y Head & Shoulders sin fuente para
    ampliar. Ver sus apartados.
-2. **Higiene íntima y menstrual**: Evax, Tampax, Ausonia, Lactacyd, Chilly. Es la categoría
+2. ~~**Higiene íntima y menstrual**: Evax, Tampax, Ausonia, Lactacyd, Chilly.~~ — **hecho el
+   2026-09-25** (versión 2026-09-25b): 48 códigos y la ficha 34 ya salta; ver su apartado. Es la categoría
    propia de Nura y la única regla específica (fragancia en compresas/tampones, ficha 34) no
    tiene todavía ningún producto que la dispare. Ojo: compresas y tampones no llevan INCI
    cosmético; curar lo que el fabricante publique (composición, "con perfume"/"sin perfume").
@@ -851,6 +852,10 @@ y comparan antes/después de cada cambio (disruptores, "otros" y "otros riesgos"
   un aviso falso (38 ×28, 206 ×14, 207 ×4), ninguna pierde uno verdadero** (comprobado ficha a
   ficha: ninguna de las 46 lleva el propilenglicol, eugenol o isoeugenol sueltos), ningún otro
   cambio.
+- **2026-09-25 · Ficha 34 (fragancia en compresas/tampones) sin disparador.** Falso negativo de
+  diseño: ver "Higiene íntima y menstrual". Regresión: 0 cambios en las fichas existentes.
+- **2026-09-25 · Falso negativo con decisión pendiente: polietileno** (98 cosméticos). Ver la
+  decisión B en "Higiene íntima y menstrual".
 
 ### 2026-09-23 · Cola de marcas para la campaña de Instagram (decisión de Mariana)
 
@@ -1353,6 +1358,59 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Higiene íntima y menstrual: Evax, Tampax, Ausonia, Lactacyd, Chilly — 2026-09-25 (versión 2026-09-25b): 6 productos, 48 códigos
+Cola del 25-09, punto 2. Compresas y tampones no llevan INCI: se guarda **la composición que
+publica el fabricante**, con sus palabras, y si lleva o no fragancia según lo que él declara.
+- **Evax y Tampax** (P&G, evaxtampax.es). Composición oficial en dos artículos: "¿Qué contienen
+  las compresas Evax?" (capa superior y exterior de poliolefinas; núcleo de espuma absorbente
+  en Liberty, de celulosa con gel en Fina y Segura y Cottonlike; adhesivo; "aroma: solo en las
+  versiones etiquetadas con un ligero aroma"; envoltorio) y "¿De qué están hechos los tampones
+  Tampax?" (rayón y algodón, polietileno y polipropileno, cordón, hilo de poliéster, aplicador
+  sin BPA, "no se añade ningún perfume"). **Los EAN** salen del bloque de reseñas de cada ficha
+  (`bvData.eaNs`), que mezcla códigos entre familias; **solo se acepta un código si aparece en
+  una sola familia** (dentro de una familia la composición es la misma; cambia la absorción).
+  Open*Facts confirma el nombre en los que tiene.
+  - Entran: **Evax Liberty** (9 códigos; su ficha dice "delicada fragancia") y **Tampax Pearl
+    (10), Compak (17) y Pearl Compak (6)**, sin perfume.
+  - **Fuera, esperan etiqueta**: Evax Cottonlike, Fina y Segura, Salvaslip (normal, maxi, fresh,
+    aroma) y Adapt. La web no dice si llevan aroma (Cottonlike habla de "perlas activas", que
+    según P&G solo van en las versiones con aroma) y la familia Salvaslip mezcla con y sin
+    aroma bajo los mismos códigos. Con una foto del paquete ("con un ligero aroma" o no) entran.
+- **Ausonia** (P&G, ausonia.es). Las compresas menstruales no tienen composición publicada, solo
+  frases ("los protegeslips no tienen perfume"): fuera. Sí la tiene la gama **Discreet** (pérdidas
+  de orina): núcleo de celulosa o poliéster/polipropileno/polietileno o gel, capa superior
+  sintética, "control de olor: contiene un ligero aroma", adhesivos, capa trasera. Entra como
+  una ficha con 5 códigos (los que no salen en ninguna otra ficha de Ausonia).
+- **Lactacyd** (gel íntimo, INCI normal): lactacyd.es no publica lista ni código. Por dos
+  fuentes idénticas (SkinLovers = incidecoder) entra 1: Pharma Sensitive 250 ml. Otro que casaba
+  lleva un código con prefijo 2 (código interno de tienda): fuera. El resto, listas distintas.
+- **Chilly** (gel íntimo, Bolton): chilly-intimate.com/es solo da activos, sin lista ni código;
+  Douglas trae dos listas sin segunda fuente. Fuera.
+
+**Cambio en la app: la ficha 34 ya salta.** No tenía forma de hacerlo: su alias era una frase
+("'Perfume' en productos menstruales") que nunca aparece en una lista. Ahora, si el texto es la
+composición de un **producto absorbente** (lleva "núcleo absorbente", "compresa", "protegeslip",
+"salvaslip", "tampón" o "aplicador") y lleva fragancia, el aviso genérico de perfume (5) **se
+sustituye** por el específico de la 34 (perfume en contacto con mucosa). La 34 queda como
+"solo por lógica" (no salta por nombre). Regresión: **0 cambios** en las 2.935 fichas que ya
+había; salta en Evax Liberty y Ausonia Discreet. La 191 (microplásticos) salta en los tampones
+y en Ausonia por "polipropileno"/"poliéster", como dice su propia ficha.
+
+**Decisiones para Mariana (no aplicadas):**
+- **A) ¿La 34 sustituye o se suma a la 5?** Aplicado: sustituye (un solo aviso de perfume, el
+  específico). Si prefieres los dos, es una línea.
+- **B) Polietileno y poliolefinas como microplásticos (ficha 191).** Hoy la 191 solo reconoce
+  poliéster y polipropileno. Números del catálogo entero:
+  - "Polyethylene" como ingrediente propio: **98 cosméticos** (maquillaje, exfoliantes,
+    espesantes) y 2 de Hogar. Es el microplástico clásico de la cosmética (restricción UE
+    2023/2055). Añadirlo suma un aviso "Emergente" a esos 98.
+  - "Polyethylene Terephthalate" (purpurina PET): 11 cosméticos. "Oxidized Polyethylene": 8.
+  - "Poliolefinas"/"polietileno" en composiciones de compresas: Evax Liberty (hoy sin aviso de
+    microplásticos, porque P&G escribe "poliolefinas") y los tampones (que ya avisan por el
+    polipropileno).
+  Propuesta: añadir "polyethylene, polietileno, poliolefinas, polyolefin, polyethylene
+  terephthalate" a la 191. Dime sí o no.
+
 ### Endocare (Cantabria Labs) — abierta 2026-09-25: 4 productos, 4 códigos (de 43 EAN encontrados)
 Cola del 25-09, punto 1. Mismo circuito que Biretix y Heliocare: cantabrialabs.es no publica
 el INCI, así que **dos fuentes idénticas o nada**. EAN de SkinLovers (34 fichas, 31 con
@@ -1790,6 +1848,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Evax · Tampax (P&G) | solo 3 fichas de Tampax; las de Evax por la web | sí, en el bloque de reseñas de cada ficha (`bvData.eaNs`), mezclado entre familias | no hay INCI: composición en dos artículos de evaxtampax.es | código solo si es único de una familia; ver su apartado |
+| Ausonia (P&G) | sí (`sitemap.xml`, 153) | sí (`gtin` por variante) | composición solo de la gama Discreet | ver "Higiene íntima y menstrual" |
 | Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
 | Davines | Shopify por país: **es.davines.com** (la global va atrasada) | sí, `gtin13` + `sku` en el JSON-LD y en el nombre de la foto | sí, completo en la ficha | web española; ver su apartado |
 | Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
@@ -1848,13 +1908,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4407 códigos en 51 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+4455 códigos en 55 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
-Heliocare 5 · **Endocare 4** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2939 productos está sin INCI. Instituto Español sigue vacía.
+Heliocare 5 · **Endocare 4** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
+Carrefour 1. Ninguno de los 2945 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

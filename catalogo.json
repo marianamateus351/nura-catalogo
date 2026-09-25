@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25a",
+ "version": "2026-09-25b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -28276,6 +28276,126 @@
       "8470003987509"
      ],
      "inci": "Aqua, Snail Secretion Leak, C12-20 Acid PEG-8 Ester, C12-15 Alkyl Benzoate, Glycerin, Saccharide Isomerate, Hexylene Glycol, PEG/PPG-20/6 Dimethicone, Fructose, Glucose, Phenoxyethanol, Maltodextrin, Tocopheryl Acetate, Cetyl Alcohol, Methylparaben, Propylparaben, Dextrin, Sucrose, Urea, Disodium EDTA, Sodium Citrate, Tetrahydrodiferuloylmethane, Parfum, Alanine, Aspartic Acid, Glutamic Acid, Hexyl Nicotinate, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "evax",
+   "nombre": "Evax",
+   "productos": [
+    {
+     "nombre": "Liberty compresas con fragancia (normal, super, noche y noche extra; con y sin alas)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015400656531",
+      "4015400656609",
+      "4084500345188",
+      "8001090362841",
+      "8001090370587",
+      "8001090371966",
+      "8001090371980",
+      "8001090383280",
+      "8001090385987"
+     ],
+     "inci": "Capa superior de poliolefinas, núcleo absorbente de espuma absorbente, capa exterior de poliolefinas, adhesivo, ligera fragancia, envoltorio de poliolefina impresa, papel impreso de las alas"
+    }
+   ]
+  },
+  {
+   "key": "tampax",
+   "nombre": "Tampax",
+   "productos": [
+    {
+     "nombre": "Pearl tampones con aplicador (lites, regular, super y super plus)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015400269762",
+      "4015400269793",
+      "4015400434757",
+      "4015400434788",
+      "4015400489313",
+      "4015400758358",
+      "4015400758389",
+      "4015400804376",
+      "4015400804406",
+      "8700216761147"
+     ],
+     "inci": "Núcleo absorbente de rayón y algodón, capa exterior de fibras sintéticas (polietileno y polipropileno), cordón de algodón y fibras sintéticas (polipropileno), hilo de fibras sintéticas (poliéster), aplicador de plástico fabricado sin BPA, sin perfume añadido, sin blanqueo con cloro elemental"
+    },
+    {
+     "nombre": "Compak tampones con aplicador (lites, regular, super y super plus)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015400133957",
+      "4015400285953",
+      "4015400285991",
+      "4015400286202",
+      "4015400286240",
+      "4015400715269",
+      "4015400715290",
+      "4015400715320",
+      "4015400715443",
+      "8006540458945",
+      "8006540458976",
+      "8006540463239",
+      "8006540467947",
+      "8006540467992",
+      "8006540468081",
+      "8006540468173",
+      "8006540468203"
+     ],
+     "inci": "Núcleo absorbente de rayón y algodón, capa exterior de fibras sintéticas (polietileno y polipropileno), cordón de algodón y fibras sintéticas (polipropileno), hilo de fibras sintéticas (poliéster), aplicador de plástico fabricado sin BPA, sin perfume añadido, sin blanqueo con cloro elemental"
+    },
+    {
+     "nombre": "Pearl Compak tampones con aplicador (regular, super y super plus)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015400690313",
+      "4015400690405",
+      "4015400690498",
+      "4015400690528",
+      "4015400690559",
+      "8001841536873"
+     ],
+     "inci": "Núcleo absorbente de rayón y algodón, capa exterior de fibras sintéticas (polietileno y polipropileno), cordón de algodón y fibras sintéticas (polipropileno), hilo de fibras sintéticas (poliéster), aplicador de plástico fabricado sin BPA, sin perfume añadido, sin blanqueo con cloro elemental"
+    }
+   ]
+  },
+  {
+   "key": "ausonia",
+   "nombre": "Ausonia",
+   "productos": [
+    {
+     "nombre": "Discreet compresas y protegeslips para pérdidas de orina (con ligera fragancia)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015400738091",
+      "4015400738183",
+      "4015400738275",
+      "8006530315487",
+      "8006540359822"
+     ],
+     "inci": "Núcleo absorbente de fibras de celulosa o poliéster, polipropileno y polietileno o material gelificante absorbente, capa superior de fibras sintéticas, control de olor con ligera fragancia, barrera LeakGuards, adhesivos, capa trasera impermeable, envoltorio"
+    }
+   ]
+  },
+  {
+   "key": "lactacyd",
+   "nombre": "Lactacyd",
+   "productos": [
+    {
+     "nombre": "Pharma Sensitive gel de higiene íntima 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001694263"
+     ],
+     "inci": "Aqua, Lauryl Glucoside, Cocamidopropyl Betaine, Lactic Acid, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Glycerin, Sodium Methylparaben"
     }
    ]
   }
