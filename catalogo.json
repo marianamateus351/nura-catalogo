@@ -1,5 +1,5 @@
 {
- "version": "2026-09-24e",
+ "version": "2026-09-25a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -28234,6 +28234,48 @@
       "8004608256786"
      ],
      "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Parfum/Fragrance, Polysorbate 20, Benzyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Dicaprylyl Ether, Glycol Distearate, Polyquaternium-10, Lauryl Alcohol, Guar Hydroxypropyltrimonium Chloride, Tetrasodium Glutamate Diacetate, Coco-Glucoside, Echinacea Pallida Extract, Glyceryl Oleate, Glyceryl Stearate, Sodium Hydroxide, Citric Acid, Potassium Sorbate, Limonene, Benzyl Salicylate, Hexyl Cinnamal"
+    }
+   ]
+  },
+  {
+   "key": "endocare",
+   "nombre": "Endocare",
+   "productos": [
+    {
+     "nombre": "Hydractive Solución Micelar 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436574360868"
+     ],
+     "inci": "Aqua, PEG-6 Caprylic/Capric Glycerides, Niacinamide, Xylitol, Cucumis Sativus Fruit Extract, Alpha-Glucan Oligosaccharide, Polymnia Sonchifolia Root Juice, Olivine Extract, Lactobacillus, Butylene Glycol, Maltodextrin, Cetrimonium Bromide, Disodium EDTA"
+    },
+    {
+     "nombre": "Radiance Contorno de Ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470001997302"
+     ],
+     "inci": "Aqua, Dimethicone, Polysilicone-11, Cyclopentasiloxane, Glycerin, Cyclohexasiloxane, Silica, Nylon-12, Titanium Dioxide, CI 77891, Propylene Glycol, Butylene Glycol Cocoate, Tranexamic Acid, Octyldodecyl Myristate, Niacinamide, Caffeine, Deschampsia Antarctica Leaf Extract, Portulaca Oleracea Extract, Acetyl Tetrapeptide-5, Sodium Hyaluronate, Sodium Ascorbyl Phosphate, Hydrolyzed Jojoba Esters, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, PEG-10 Dimethicone, Titanium Dioxide(Nano), Isohexadecane, Polysorbate 40, Tocopheryl Acetate, Zea Mays Starch, Ammonium Polyacryloyldimethyl Taurate, Isostearic Acid, Maltodextrin, Caprylyl Glycol, Chlorphenesin, Xanthan Gum, Hydroxyethylcellulose, Citric Acid, Mica, Tin Oxide, Phenoxyethanol, Disodium EDTA, Potassium Sorbate, Parfum, CI 77492, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Age Barrier Hyaluboost Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002094857"
+     ],
+     "inci": "Aqua, Niacinamide, Glycerine, Butylene Glycol, Bis-PEG-12 Dimethicone, Propanediol, Methylsilanol Hydroxyproline Aspartate, Panthenol, Sodium Phytate, Sodium Hyaluronate, Deschampsia Antarctica Leaf Extract, Arginine, Gluconolactone, Calcium Gluconate, Zea Mays Starch, Xanthan Gum, Ethylhexylglycerin, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Contorno de Ojos y Labios (Eye & Lip Contour) 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470003987509"
+     ],
+     "inci": "Aqua, Snail Secretion Leak, C12-20 Acid PEG-8 Ester, C12-15 Alkyl Benzoate, Glycerin, Saccharide Isomerate, Hexylene Glycol, PEG/PPG-20/6 Dimethicone, Fructose, Glucose, Phenoxyethanol, Maltodextrin, Tocopheryl Acetate, Cetyl Alcohol, Methylparaben, Propylparaben, Dextrin, Sucrose, Urea, Disodium EDTA, Sodium Citrate, Tetrahydrodiferuloylmethane, Parfum, Alanine, Aspartic Acid, Glutamic Acid, Hexyl Nicotinate, Limonene"
     }
    ]
   }

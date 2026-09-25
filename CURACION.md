@@ -820,8 +820,10 @@ escritas para Mariana, como las cuatro de Asevi.
 
 **Orden de la cola** (después de lo pendiente de Buscados y de los huecos de Datos):
 
-1. **Endocare** y **ampliar Heliocare** (Cantabria Labs, mismo portal que Biretix).
-   **Ampliar Head & Shoulders** (P&G, mismo circuito que Pantene).
+1. ~~**Endocare** y **ampliar Heliocare** (Cantabria Labs, mismo portal que Biretix).
+   **Ampliar Head & Shoulders** (P&G, mismo circuito que Pantene).~~ — **hecho el 2026-09-25**:
+   Endocare 4 códigos (versión 2026-09-25a); Heliocare y Head & Shoulders sin fuente para
+   ampliar. Ver sus apartados.
 2. **Higiene íntima y menstrual**: Evax, Tampax, Ausonia, Lactacyd, Chilly. Es la categoría
    propia de Nura y la única regla específica (fragancia en compresas/tampones, ficha 34) no
    tiene todavía ningún producto que la dispare. Ojo: compresas y tampones no llevan INCI
@@ -1351,6 +1353,32 @@ tolera) contra **incidecoder** (252 fichas de la marca más las 22 que ya tenía
 Scripts: `bio/fetch.sh`, `bio/parse_sl.py`, `bio/fetch_ic.py`, `bio/match_bio.py`,
 `bio/gen_bio_final.py`.
 
+### Endocare (Cantabria Labs) — abierta 2026-09-25: 4 productos, 4 códigos (de 43 EAN encontrados)
+Cola del 25-09, punto 1. Mismo circuito que Biretix y Heliocare: cantabrialabs.es no publica
+el INCI, así que **dos fuentes idénticas o nada**. EAN de SkinLovers (34 fichas, 31 con
+`barcode`) y Douglas ES (Endocare, casi todas sin lista); listas de SkinLovers (24),
+incidecoder (26) y Douglas.
+- Entran 4: Hydractive Solución Micelar 100 ml, Radiance Contorno de Ojos, Age Barrier
+  Hyaluboost Sérum y Contorno de Ojos y Labios (SkinLovers = incidecoder).
+- **SkinLovers transcribe muy mal las listas de Endocare**: palabras pegadas
+  ("caprylictriglyceridebutyrospermumparkii"), letras cambiadas ("niaciamide", "undecnae"),
+  trozos desordenados ("butyrospermum parkii maintain"). No sirven como fuente. Douglas casi
+  no trae lista. farmaelglobo y farmacianautic tienen el EAN en la URL pero solo los activos.
+  Open Beauty Facts no tiene ninguna lista transcrita de estos códigos.
+- Los 39 EAN que quedan fuera están en `cl/endocare/match.json`: con una foto de etiqueta
+  entran en cinco minutos (Tensage, Cellage, Renewal, Radiance C, Expert Drops, Aquafoam…).
+
+### Heliocare y Head & Shoulders — revisadas 2026-09-25 para ampliar: sin cambios
+- **Heliocare**: con las fuentes de hoy (SkinLovers 55 fichas, Douglas 41, incidecoder 35,
+  farmacias y OBF) solo se confirman los 5 que ya estaban. De los que casan de más, uno es
+  una copia (el "360º Pigment Solution Fluid" de SkinLovers lleva la lista del Age Active)
+  y otro tiene un código con prefijo de otra empresa (`8437002…`, como el que ya se
+  descartó en Biretix). Sigue esperando etiquetas: los EAN están en `cl/heliocare/match.json`.
+- **Head & Shoulders**: haircode.es sigue con las mismas 6 fichas `hys-` (los 53 enlaces del
+  sitemap incluyen las páginas de categoría; no hay fichas nuevas de ninguna marca P&G). Las
+  webs de H&S de Reino Unido, Francia e Italia dan listas distintas para el mismo EAN, así
+  que no valen (lo mismo que con Pantene). Sin fuente oficial española, no se amplía.
+
 ### Davines (es.davines.com) — abierta 2026-09-24, rehecha el mismo día: 134 productos, 189 códigos
 Marca italiana (códigos `8004608…`). Tienda Shopify con una web por país; **manda la
 española, es.davines.com**.
@@ -1762,6 +1790,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Eucerin | sí (`/sitemap`) | sí | sí | INCI como array ordenado `ingredients[].IngredientTitle.value` en el JSON de la página |
 | Nivea | sí | sí | sí | **el EAN va en la propia URL**: `tonico-facial-suave-40058081826880244.html` → EAN 4005808182688 |
 | Avène | sí (`/product.xml`, 149 fichas) | sí | sí | **el EAN va en la URL**; INCI tras "Ingredientes Composición" |
+| Endocare (Cantabria Labs) | — | no; SkinLovers y Douglas ES | no; incidecoder (SkinLovers transcribe mal) | dos fuentes idénticas o nada; ver su apartado |
 | Davines | Shopify por país: **es.davines.com** (la global va atrasada) | sí, `gtin13` + `sku` en el JSON-LD y en el nombre de la foto | sí, completo en la ficha | web española; ver su apartado |
 | Haruharu Wonder | Shopify (`products.json`, 45 fichas) | sí, `barcode` en `/products/<handle>.js` | sí, modal "Full Ingredients" | web oficial sola; ver su apartado |
 | Ducray · Klorane · A-Derma | sí (`product.xml`: 67 · 110 · 64) | sí, **en la URL** | sí (`composition_inci`) | plataforma de Avène; gama desde la URL en Ducray y A-Derma; ver su apartado |
@@ -1819,13 +1848,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-24)
-4403 códigos en 50 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+4407 códigos en 51 marcas: NYX 999 · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
-Heliocare 5 · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 2935 productos está sin INCI. Instituto Español sigue vacía.
+Heliocare 5 · **Endocare 4** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
+Carrefour 1. Ninguno de los 2939 productos está sin INCI. Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
