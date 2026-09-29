@@ -779,10 +779,36 @@ comillas, tiendas online que publican `gtin13`) antes de nada.
 | Código | Pista | Qué hacer |
 |---|---|---|
 | ~~0711221984627~~ | **Salt & Stone Deodorant Santal & Vetiver 75 g** (marca de EE. UU.). No está en ninguna base Open*Facts; identificado por el prefijo 0711221 (OBF tiene 0711221983866, Salt & Stone, escaneado en Bélgica) y confirmado en la web de la marca: `saltandstone.com/products/natural-deodorant.js` da ese `barcode` a la variante "Santal & Vetiver / 2.6 OZ / 75 G" | **ENTRA, y se abre la marca entera** (35 productos, 40 códigos; ver su apartado). La web publica la lista completa por aroma. Código UPC `0…`: entra por el criterio de Mariana (es el que escanea una usuaria aquí: lo prueba este mismo escaneo) |
-| ~~8445984023355~~ | Prefijo 8445984 y serie `02339x`–`02341x` = **Beauty Drops** (marca española de Girona; sus gotas Luminous/Bronzie Glow son 8445984023393/023409 y la crema It's the Magic 023416). **El código exacto no aparece en ninguna parte accesible**: ni en Open Beauty/Food/Products Facts, ni en las 85 fichas de Beauty Drops de Hola Princesa (Shopify, con `barcode`), ni en buscador; INCI Beauty, Primor y Druni están tras Cloudflare o no venden la marca. Además **Beauty Drops no tiene web propia que publique el INCI** (beautydrops.es no existe; beauty-drops.com es otra empresa, italiana) | **NO entra** (regla 2-bis y sin identificar). Mariana lo quita de la pestaña. Si alguien manda foto de la etiqueta con el código y la lista, se puede curar desde la foto |
+| ~~8445984023355~~ | **MET Bronze Drops Gotas Bronceadoras 30 ml**. Mariana lo encontró en INCI Beauty ("MET Gouttes bronzantes"). MET es la marca propia de **You Are The Princess**: todas sus fichas en `youaretheprincess.com` tienen la tienda como propietaria (`vendor`) y el código sale en `/products/met-bronze-drops-gotas-bronceadoras.js` (`barcode` 8445984023355). El mismo prefijo 8445984 lo llevan productos de Beauty Drops (que vende Hola Princesa), probablemente del mismo grupo: por eso la primera identificación, por la serie de números, apuntaba ahí. La lista de INCI Beauty es alfabética y con ingredientes ocultos (no vale), pero la ficha de la marca publica la completa (la misma que da Primor según el buscador; la web de Primor no se deja leer) | **ENTRA, y se abre MET entera** (53 productos, 169 códigos; ver su apartado). Corrige lo apuntado antes en esta fila ("no entra, Beauty Drops") |
 | ~~8411582242320~~ | Asevi Vinagre de Limpieza con Detergente Limón 750 ml | **Ya resuelto el 2026-09-18 (abajo): NO entra**, Asevi no publica la lista de ese código. Sigue en la pestaña porque nunca entró y no se borra solo. Mariana lo quita con "Quitar" |
 
-Resueltos los dos el 2026-09-29: Salt & Stone entra (marca entera); Beauty Drops no.
+Resueltos los dos el 2026-09-29: Salt & Stone entra (marca entera) y el segundo resultó ser MET, que también
+entra (marca entera).
+
+### MET (You Are The Princess) — abierta 2026-09-29 (versión 2026-09-29b): 53 productos, 169 códigos
+Marca propia de maquillaje y cuidado de la tienda española You Are The Princess (códigos 8445984…).
+- **Fuente única, la web de la marca (Shopify)**: colección `/collections/met` (56 fichas, todas con
+  `vendor` "You Are The Princess"); código por variante (tono) en `/products/<handle>.js`; lista en el
+  bloque "INGREDIENTES" de la ficha. Una lista por ficha con "May contain" para los tonos, así que
+  todos los tonos van juntos: "Hydro Glam Lipstick (tonos Red Wines, Bloody Heart…)".
+- **Las listas son transcripciones de la etiqueta con erratas**: guiones de corte de línea
+  ("PHENOXYE-THANOL", "HEXAMETHYLINDA- NOPYRAN", que sin arreglar no saltaría como galaxólido), "Cl"/"C1"
+  por "CI", "CI 77 491", comas perdidas, letras cambiadas ("SINHETIC", "Seranoa", "Parka Butter",
+  "Phenoxythanol", "Trigly Ceride", "Sili A"…). Limpieza (`bq/met_clean.py`, `bq/met_final.py`): los
+  cortes se unen solo si la palabra unida existe en el vocabulario del catálogo y los trozos no; erratas
+  evidentes a mano; y **validación**: toda palabra de la lista tiene que existir en las ~4.600 fichas del
+  catálogo (o ser un INCI real comprobado: Diphenyl, Rosin, Neotame, Tocotrienols, Mauritia Flexuosa,
+  Amorphophallus Konjac…). Listas por partes con su nombre ("En Crema: … · En Polvo: …", "Gel: … Pen: …").
+- **Fuera**: First Step Primer ("Cyclohexane" en 5.º lugar, casi seguro errata de otro ingrediente, no se
+  puede adivinar), I Shine Lipstick ("Caprylic/Capric Tricellitate": no se sabe si es Triglyceride o
+  Trimellitate), el set de pinzas.
+- **Revisión FP/FN** (`revisa.mjs met`): sin falsos positivos (fenoxietanol 51, propilenglicol 13,
+  microplásticos 5 por polietileno y PMMA, galaxólido 2, BHT 2, sulfitos 1 por Sodium Bisulfite).
+  Sin falsos negativos: estireno (criterio del 21-09); "4-Butylresorcinol" (1, despigmentante, otra
+  sustancia que el resorcinol, sin datos de disrupción). Regresión: 0 cambios en las 4.583 fichas
+  anteriores.
+- **Beauty Drops**, probablemente del mismo grupo (mismo prefijo), podría curarse igual si alguna de sus tiendas publica
+  la lista completa; queda anotado, no hecho.
 
 ### Salt & Stone (saltandstone.com) — abierta 2026-09-29 (versión 2026-09-29a): 35 productos, 40 códigos
 Marca de EE. UU. (Los Ángeles) que se vende en Europa; pedida por el escaneo 0711221984627 de Buscados.
@@ -2308,6 +2334,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
 | Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
 | Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
+| MET (You Are The Princess) | Shopify (`/collections/met`) | sí, `barcode` por variante en `.js` | sí, bloque INGREDIENTES (transcrito, con erratas: validar) | ver su apartado |
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
@@ -2372,13 +2399,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6538 códigos en 73 marcas: NYX 999 · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6707 códigos en 74 marcas: NYX 999 · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4583 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4636 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
