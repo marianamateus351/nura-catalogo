@@ -1,5 +1,5 @@
 {
- "version": "2026-09-25l",
+ "version": "2026-09-29a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -43365,6 +43365,332 @@
       "3522930005810"
      ],
      "inci": "Aqua/Water/Eau, Alcohol Denat., Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Glycerin, Sodium Benzoate, Hydroxylated Hydrolyzed Grape Seed Oil, Linalool, Limonene, Pisum Sativum (Pea) Extract, Salvia Hispanica Seed Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Parfum (Fragrance), Eugenol"
+    }
+   ]
+  },
+  {
+   "key": "saltandstone",
+   "nombre": "Salt & Stone",
+   "productos": [
+    {
+     "nombre": "Desodorante natural Santal & Vetiver (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984627"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Benzyl Benzoate, Geraniol, Limonene"
+    },
+    {
+     "nombre": "Desodorante natural Bergamot & Hinoki (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983880"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Benzyl Benzoate, Citral, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante natural Saffron & Cedar (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840293"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Limonene"
+    },
+    {
+     "nombre": "Desodorante natural Neroli & Basil (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983866"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Citral, Citronellol, Eugenol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante natural Black Rose & Oud (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840026"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Benzyl Benzoate, Eugenol, Linalool"
+    },
+    {
+     "nombre": "Desodorante natural Lily & Yuzu (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840910"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Tapioca Starch, Ozokerite, Magnesium Hydroxide, Sodium Bicarbonate, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Niacinamide, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Spirulina Platensis Extract, Lactobacillus Ferment, Maltodextrin, Limonene, Linalool, Citral, Geraniol"
+    },
+    {
+     "nombre": "Desodorante natural en gel Bergamot & Hinoki (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983460"
+     ],
+     "inci": "Propylene Glycol, Water (Aqua), Sodium Stearate, Polyglyceryl-10 Caprylate/Caprate, Propanediol, Saccharomyces Ferment, Fragrance (Parfum), Glycerin, Glyceryl Caprylate, Maranta Arundinacea Root Powder, Zea Mays (Corn) Starch, Glyceryl Undecylenate, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Macrocystis Pyrifera (Kelp) Extract, Saccharina Longicruris Extract, Leuconostoc/Radish Root Ferment Filtrate, Hyaluronic Acid, Citric Acid, Benzyl Benzoate, Citral, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante natural en gel Santal & Vetiver (75 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983545"
+     ],
+     "inci": "Propylene Glycol, Water (Aqua), Sodium Stearate, Fragrance (Parfum), Polyglyceryl-10 Caprylate/Caprate, Propanediol, Saccharomyces Ferment, Glycerin, Glyceryl Caprylate, Maranta Arundinacea Root Powder, Zea Mays (Corn) Starch, Glyceryl Undecylenate, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Macrocystis Pyrifera (Kelp) Extract, Saccharina Longicruris Extract, Leuconostoc/Radish Root Ferment Filtrate, Hyaluronic Acid, Citric Acid, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Gel de ducha Bergamot & Hinoki (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984603"
+     ],
+     "inci": "Water/Aqua/Eau, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Cocamide MIPA, Polyglyceryl-4 Caprate, Fragrance (Parfum), Benzyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Citric Acid, Sodium Gluconate, Polyquaternium-7, Dehydroacetic Acid, Sodium PCA, Sodium Lactate, Aloe Barbadensis Leaf Juice, Hyaluronic Acid, Lactobacillus/Punica Granatum Fruit Ferment Extract, Niacinamide, Arginine, Aspartic Acid, Leuconostoc/Radish Root Ferment Filtrate, PCA, 3-O-Ethyl Ascorbic Acid, Histidine, Phenylalanine, Carica Papaya (Papaya) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Glycine, Alanine, Serine, Valine, Sodium Chloride, Sodium Hydroxide, Tocopherol, Hydrogenated Palm Glycerides Citrate, Potassium Sorbate, Isoleucine, Proline, Threonine, Benzyl Benzoate, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha Santal & Vetiver (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983729"
+     ],
+     "inci": "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Cocamide MIPA, Polyglyceryl-4 Caprate, Fragrance (Parfum), Benzyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Citric Acid, Sodium Gluconate, Polyquaternium-7, Dehydroacetic Acid, Sodium PCA, Sodium Lactate, Lactobacillus/Nereocystis Leutkeana Ferment Filtrate, Arginine, Spirulina Maxima Extract, Aloe Barbadensis Leaf Juice, Aloe Barbadensis Flower Extract, Hyaluronic Acid, Niacinamide, Laminaria Digitata Extract, Solanum Melongena (Eggplant) Fruit Extract, Isoleucine, PCA, 3-O-Ethyl Ascorbic Acid, Curcuma Longa (Turmeric) Root Extract, Ocimum Basilicum (Basil) Flower/Leaf Extract, Ocimum Sanctum Leaf Extract, Coccinia Indica Fruit Extract, Corallina Officinalis Extract, Glycine, Alanine, Serine, Valine, Proline, Threonine, Aspartic Acid, Histidine, Phenylalanine, Sodium Chloride, Melia Azadirachta Leaf Extract, Saccharide Isomerate, Melia Azadirachta Flower Extract, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Gel de ducha Saffron & Cedar (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840057"
+     ],
+     "inci": "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Cocamide MIPA, Polyglyceryl-4 Caprate, Fragrance (Parfum), Benzyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Citric Acid, Sodium Gluconate, Polyquaternium-7, Dehydroacetic Acid, Sodium PCA, Sodium Lac- tate, Arginine, Lactobacillus/Punica Granatum Fruit Ferment Extract, Aloe Barbadensis Leaf Juice, Aloe Barbadensis Flower Extract, Hyaluronic Acid, Niacinamide, Solanum Melongena (Eggplant) Fruit Extract, Isoleucine, Leuconostoc/Radish Root Ferment Filtrate, PCA, 3-O-Ethyl Ascorbic Acid, Carica Papaya (Papaya) Fruit Extract, Curcuma Longa (Turmeric) Root Extract, Ocimum Basilicum (Basil) Flower/Leaf Extract, Ocimum Sanctum Leaf Extract, Coccinia Indica Fruit Extract, Corallina Officinalis Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Glycine, Alanine, Serine, Valine, Proline, Threonine, Aspartic Acid, Histidine, Phenylalanine, Sodium Chloride, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract"
+    },
+    {
+     "nombre": "Gel de ducha Neroli & Basil (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840064"
+     ],
+     "inci": "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Cocamide MIPA, Polyglyceryl-4 Caprate, Fragrance (Parfum), Benzyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Citric Acid, Sodium Gluconate, Polyquaternium-7, Dehydroacetic Acid, Sodium PCA, Sodium Lactate, Arginine, Lactobacillus/Punica Granatum Fruit Ferment Extract, Aloe Barbadensis Leaf Juice, Hyaluronic Acid, Niacinamide, Isoleucine, Leuconostoc/Radish Root Ferment Filtrate, PCA, 3-O-Ethyl Ascorbic Acid, Carica Papaya (Papaya) Fruit Extract, Coccinia Indica Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Glycine, Alanine, Serine, Valine, Proline, Threonine, Aspartic Acid, Histidine, Phenylalanine, Sodium Chloride, Melia Azadirachta Flower Extract, Citral, Eugenol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha Black Rose & Oud (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840316"
+     ],
+     "inci": "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Polyglyceryl-4 Caprate, Glycerin, Cocamide MIPA, Fragrance (Parfum), Nannochloropsis Oculata Extract, Niacinamide, Hyaluronic Acid, Macrocystis Pyrifera (Kelp) Extract, Spirulina Maxima Extract, Aloe Barbadensis Leaf Juice, Porphyra Umbilicalis Extract, Leuconostoc/Radish Root Ferment Filtrate, Silybum Marianum Seed Oil, Sodium Gluconate, Polyquaternium-7, Dehydroacetic Acid, Sodium PCA, Sodium Lactate, Arginine, Saccharide Isomerate, Aspartic Acid, PCA, Isoleucine, Proline, Threonine, 3-O-Ethyl Ascorbic Acid, Disteareth-75 IPDI, Histidine, Phenylalanine, Glycine, Alanine, Serine, Valine, Benzyl Alcohol, Coccinia Indica Fruit Extract, Melia Azadirachta Flower Extract, Sodium Benzoate, Benzyl Benzoate, Eugenol, Citric Acid"
+    },
+    {
+     "nombre": "Gel de ducha Lily & Yuzu (450 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850073050743"
+     ],
+     "inci": "Water/Eau/Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Cocamide MIPA, Fragrance (Parfum), Polyglyceryl-4 Caprate, Sodium PCA, Sodium Lactate, Aloe Barbadensis Leaf Juice, Lactobacillus/Punica Granatum Fruit Ferment Extract, Arginine, Aspartic Acid, PCA, Carica Papaya (Papaya) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, 3-O-Ethyl Ascorbic Acid, Niacinamide, Chondrus Crispus (Carrageenan) Extract, Hyaluronic Acid, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Spirulina Maxima Extract, Limonene, Linalool, Linalyl acetate, Pinene, Tetramethyl acetyloctahydronaphthalenes, Benzyl Alcohol, Disteareth-75 IPDI, Sodium Benzoate, Sodium Gluconate, Citric Acid, Polyquaternium-7, Dehydroacetic Acid, Histidine, Phenylalanine, Phenoxyethanol, Melia Azadirachta (Neem) Flower Extract, Coccinia Indica (Ivy Gourd) Fruit Extract, Leuconostoc/Radish Root Ferment Filtrate, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "Loción corporal Neroli & Basil (450 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840088",
+      "0850063840408"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Isopropyl Myristate, Cetearyl Olivate, Niacinamide, Shea Butter Glycerides, Sorbitan Olivate, Cetearyl Alcohol, Fragrance (Parfum), Laminaria Japonica Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea Seed Oil, Tocopherol, Tetrasodium Glutamate Diacetate, Sodium Ascorbyl Phosphate, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Phenoxyethanol, Caprylyl Glycol, Citric Acid, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Loción corporal Santal & Vetiver (450 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984573",
+      "0850063840279"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Isopropyl Myristate, Cetearyl Olivate, Niacinamide, Shea Butter Glycerides, Sorbitan Olivate, Cetearyl Alcohol, Laminaria Japonica Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea Seed Oil, Tocopherol, Fragrance (Parfum), Tetrasodium Glutamate Diacetate, Sodium Ascorbyl Phosphate, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Phenoxyethanol, Caprylyl Glycol, Citric Acid, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Loción corporal Bergamot & Hinoki (450 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984559",
+      "0850063840262"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Isopropyl Myristate, Cetearyl Olivate, Niacinamide, Shea Butter Glycerides, Sorbitan Olivate, Cetearyl Alcohol, Laminaria Japonica Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea Seed Oil, Tocopherol, Fragrance (Parfum), Tetrasodium Glutamate Diacetate, Sodium Ascorbyl Phosphate, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus acrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea SeOfficinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Phenoxyethanol, Caprylyl Glycol, Citric Acid, Benzyl Benzoate, Citral, Limonene, Linalool"
+    },
+    {
+     "nombre": "Loción corporal Saffron & Cedar (450 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840095",
+      "0850063840101"
+     ],
+     "inci": "Water/Aqua/Eau, Caprylic/Capric Triglyceride, Glycerin, Isopropyl Myristate, Cetearyl Olivate, Niacinamide, Shea Butter Glycerides, Sorbitan Olivate, Cetearyl Alcohol, Fragrance (Parfum), Laminaria Japonica Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea Seed Oil, Tocopherol, Tetrasodium Glutamate Diacetate, Sodium Ascorbyl Phosphate, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Phenoxyethanol, Caprylyl Glycol, Citric Acid, Citrus Limon Peel Oil"
+    },
+    {
+     "nombre": "Loción corporal Black Rose & Oud (450 ml, 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984580",
+      "0850063840286"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Isopropyl Myristate, Cetearyl Olivate, Niacinamide, Shea Butter Glycerides, Sorbitan Olivate, Cetearyl Alcohol, Laminaria Japonica Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Polyacrylate Crosspolymer-6, Sclerocarya Birrea Seed Oil, Tocopherol, Fragrance (Parfum), Tetrasodium Glutamate Diacetate, Sodium Ascorbyl Phosphate, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Phenoxyethanol, Caprylyl Glycol, Citric Acid, Benzyl Benzoate, Eugenol"
+    },
+    {
+     "nombre": "Crema corporal Santal & Vetiver (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840446"
+     ],
+     "inci": "Water (Aqua), Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol Dibenzoate, Squalane, C13-15 Alkane, Glycerin, Propanediol, Cetearyl Alcohol, Argania Spinosa Kernel Oil, Polyglyceryl-10 Myristate, Dimethicone, Glyceryl Stearate, Saccharide Isomerate, Fragrance (Parfum), Glyceryl Stearate Citrate, Chondrus Crispus Extract, Spirulina Maxima Extract, Porphyra Umbilicalis Extract, Macrocystis Pyrifera (Kelp) Extract, Tocopherol, Allantoin, Xanthan Gum, Citric Acid, Sodium Citrate, Sodium Phytate, Sorbitan Isostearate, Hydrogenated Lecithin, Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tetramethyl Acetyloctahydronaphthalenes, Phenoxyethanol, Vanillin, Limonene, Pinene, Beta-Caryophyllene, Eucalyptus Globulus Oil, Citrus Limon Peel Oil"
+    },
+    {
+     "nombre": "Crema corporal Bergamot & Hinoki (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840439"
+     ],
+     "inci": "Water (Aqua), Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol Dibenzoate, Squalane, C13-15 Alkane, Glycerin, Propanediol, Cetearyl Alcohol, Argania Spinosa Kernel Oil, Polyglyceryl-10 Myristate, Dimethicone, Glyceryl Stearate, Saccharide Isomerate, Fragrance (Parfum), Glyceryl Stearate Citrate, Chondrus Crispus Extract, Spirulina Maxima Extract, Porphyra Umbilicalis Extract, Macrocystis Pyrifera (Kelp) Extract, Tocopherol, Allantoin, Xanthan Gum, Citric Acid, Sodium Citrate, Sodium Phytate, Sorbitan Isostearate, Hydrogenated Lecithin, Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tetramethyl Acetyloctahydronaphthalenes, Phenoxyethanol, Geranyl Acetate, Benzyl Benzoate, Camphor, Limonene, Linalool, Citral, Pinene, Linalyl Acetate, Citrus Aurantium Bergamia (Bergamot) Peel Oil, Eucalyptus Globulus Oil, Jasmine Oil/Extract"
+    },
+    {
+     "nombre": "Crema corporal Saffron & Cedar (200 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840453"
+     ],
+     "inci": "Water (Aqua), Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol Dibenzoate, Squalane, C13-15 Alkane, Glycerin, Propanediol, Cetearyl Alcohol, Argania Spinosa Kernel Oil, Polyglyceryl-10 Myristate, Dimethicone, Fragrance (Parfum), Glyceryl Stearate, Saccharide Isomerate, Glyceryl Stearate Citrate, Tocopherol, Chondrus Crispus Extract, Spirulina Maxima Extract, Porphyra Umbilicalis Extract, Macrocystis Pyrifera (Kelp) Extract, Phenoxyethanol, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Xanthan Gum, Allantoin, Hydrogenated Lecithin, Ethylhexylglycerin, Sodium Phytate, Sorbitan Isostearate, Citric Acid, Sodium Citrate, Citrus Limon Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Bruma corporal Saffron & Cedar (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840125"
+     ],
+     "inci": "Alcohol Denat., Water (Aqua), Fragrance (Parfum), Ethoxydiglycol, Jania Rubens Extract, Glycerin, Benzotriazolyl Dodecyl p-Cresol, Tris(Tetramethylhydroxypiperidinol) Citrate, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Bruma corporal Santal & Vetiver (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0662652981894"
+     ],
+     "inci": "Alcohol Denat., Water (Aqua), Fragrance (Parfum), Ethoxydiglycol, Jania Rubens Extract, Glycerin, Benzotriazolyl Dodecyl p-Cresol, Tris(Tetramethylhydroxypiperidinol) Citrate, Alcohol, Benzyl Benzoate, Geraniol, Limonene, Ext. Violet 2 (CI 60730), Yellow 6 (CI 15985), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Bruma corporal Bergamot & Hinoki (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0662652981887"
+     ],
+     "inci": "Alcohol Denat., Water (Aqua), Fragrance (Parfum), Ethoxydiglycol, Jania Rubens Extract, Glycerin, Tris(Tetramethylhydroxypiperidinol) Citrate, Benzotriazolyl Dodecyl p-Cresol, Alcohol, Limonene, Linalool, Benzyl Benzoate, Citral, Green 3 (CI 42053), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Bruma corporal Black Rose & Oud (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0662652981870"
+     ],
+     "inci": "Alcohol Denat., Water (Aqua), Fragrance (Parfum), Ethoxydiglycol, Benzyl Benzoate, Jania Rubens Extract, Glycerin, Tris(Tetramethylhydroxypiperidinol) Citrate, Benzotriazolyl Dodecyl p-Cresol, Eugenol, Linalool, Limonene, Ext. Violet 2 (CI 60730), Yellow 6 (CI 15985), Blue 1 (CI 42090), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Bruma corporal Lily & Yuzu (100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850073050439"
+     ],
+     "inci": "Alcohol Denat., Water (Aqua/Eau), Fragrance (Parfum), Ethoxydiglycol, Benzotriazolyl Dodecyl P-Cresol, Tris(Tetramethylhydroxypiperidinol) Citrate, Glycerin, Jania Rubens Extract, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Linalyl Acetate, Linalool, Pinene, Citral, Terpinolene, Beta-Caryophyllene, Geranyl Acetate, Terpineol, Geraniol, Eucalyptus Globulus Oil, Citronellol, Rose Ketones, Alpha-Terpinene"
+    },
+    {
+     "nombre": "Aceite corporal Santal & Vetiver (112 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840835"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Macadamia Ternifolia Seed Oil, Tetramethyl Acetyloctahydronaphthalenes, Fragrance (Parfum), Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Squalane, Undaria Pinnatifida Extract, Carthamus Tinctorius (Safflower) Seed Oil, Silybum Marianum Seed Oil, Glycerin, Nannochloropsis Oculata Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Laminaria Japonica Extract, Porphyra Umbilicalis Extract, Caprylic/Capric Triglyceride, Benzyl Benzoate, Beta-Caryophyllene, Geraniol, Limonene, Pinene, Trimethylcyclopentenyl Methylisopentenol, Vanillin, Citrus Limon (Lemon) Peel Oil, Eucalyptus Globulus Oil"
+    },
+    {
+     "nombre": "Aceite corporal Bergamot & Hinoki (112 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840859"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Macadamia Ternifolia Seed Oil, Fragrance (Parfum), Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Squalane, Undaria Pinnatifida Extract, Carthamus Tinctorius (Safflower) Seed Oil, Silybum Marianum Seed Oil, Glycerin, Nannochloropsis Oculata Extract, Spirulina Maxima Extract, Laminaria Digitata Extract, Laminaria Japonica Extract, Porphyra Umbilicalis Extract, Caprylic/Capric Triglyceride, Benzyl Benzoate, Geranyl Acetate, Limonene, Linalool, Linalyl Acetate, Pinene, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Camphor, Citral, Eucalyptus Globulus Oil"
+    },
+    {
+     "nombre": "Crema de manos Santal & Vetiver (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983620"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Squalane, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric/Myristic/Stearic Triglyceride, Spirulina Maxima Extract, Macrocystis Pyrifera (Kelp) Extract, Chondrus Crispus Extract, Porphyra Umbilicalis Extract, Niacinamide, Algin, Tremella Fuciformis Sporocarp Extract, Sodium Hyaluronate, Polyglyceryl-3 Stearate, Ethylhexylglycerin, Glyceryl Stearate, Hydrogenated Lecithin, Carbomer, Betaine, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Beta-Glucan, Potassium Sorbate, Citric Acid, Sodium Benzoate, Xanthan Gum, Tocopherol, Polysorbate 60, Sorbitan Isostearate, Phenoxyethanol, Fragrance (Parfum), Benzoic Acid, Sorbic Acid, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Crema de manos Bergamot & Hinoki (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983705"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Squalane, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric/Myristic/Stearic Triglyceride, Spirulina Maxima Extract, Macrocystis Pyrifera (Kelp) Extract, Chondrus Crispus Extract, Porphyra Umbilicalis Extract, Niacinamide, Algin, Tremella Fuciformis Sporocarp Extract, Sodium Hyaluronate, Polyglyceryl-3 Stearate, Ethylhexylglycerin, Glyceryl Stearate, Hydrogenated Lecithin, Carbomer, Betaine, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Beta-Glucan, Potassium Sorbate, Citric Acid, Sodium Benzoate, Xanthan Gum, Tocopherol, Polysorbate 60, Sorbitan Isostearate, Phenoxyethanol, Fragrance (Parfum), Benzoic Acid, Sorbic Acid, Benzyl Benzoate, Limonene, Linalool, Citral"
+    },
+    {
+     "nombre": "Crema de manos Saffron & Cedar (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840118"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Squalane, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric/Myristic/Stearic Triglyceride, Fragrance (Parfum), Spirulina Maxima Extract, Macrocystis Pyrifera (Kelp) Extract, Chondrus Crispus Extract, Porphyra Umbilicalis Extract, Niacinamide, Algin, Tremella Fuciformis Sporocarp Extract, Sodium Hyaluronate, Polyglyceryl-3 Stearate, Ethylhexylglycerin, Glyceryl Stearate, Hydrogenated Lecithin, Carbomer, Betaine, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Beta-Glucan, Potassium Sorbate, Citric Acid, Sodium Benzoate, Xanthan Gum, Tocopherol, Polysorbate 60, Sorbitan Isostearate, Phenoxyethanol, Benzoic Acid, Sorbic Acid"
+    },
+    {
+     "nombre": "Crema de manos Black Rose & Oud (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221984030"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Squalane, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric/Myristic/Stearic Triglyceride, Spirulina Maxima Extract, Macrocystis Pyrifera (Kelp) Extract, Chondrus Crispus Extract, Porphyra Umbilicalis Extract, Niacinamide, Algin, Tremella Fuciformis Sporocarp Extract, Sodium Hyaluronate, Polyglyceryl-3 Stearate, Ethylhexylglycerin, Glyceryl Stearate, Hydrogenated Lecithin, Carbomer, Betaine, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Beta-Glucan, Potassium Sorbate, Citric Acid, Sodium Benzoate, Xanthan Gum, Tocopherol, Polysorbate 60, Sorbitan Isostearate, Phenoxyethanol, Fragrance (Parfum), Benzoic Acid, Sorbic Acid, Benzyl Benzoate, Eugenol"
+    },
+    {
+     "nombre": "Crema de manos Neroli & Basil (60 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850063840392"
+     ],
+     "inci": "Water (Aqua), Caprylic/Capric Triglyceride, Squalane, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice, Glycerin, Cetearyl Alcohol, Glyceryl Stearate Citrate, Caprylic/Capric/Myristic/Stearic Triglyceride, Fragrance (Parfum), Spirulina Maxima Extract, Macrocystis Pyrifera (Kelp) Extract, Chondrus Crispus Extract, Porphyra Umbilicalis Extract, Niacinamide, Algin, Tremella Fuciformis Sporocarp Extract, Sodium Hyaluronate, Polyglyceryl-3 Stearate, Ethylhexylglycerin, Glyceryl Stearate, Hydrogenated Lecithin, Carbomer, Betaine, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Beta-Glucan, Potassium Sorbate, Citric Acid, Sodium Benzoate, Xanthan Gum, Tocopherol, Polysorbate 60, Sorbitan Isostearate, Phenoxyethanol, Benzoic Acid, Sorbic Acid, Limonene, Linalool, Citral, Geraniol, Eugenol, Coumarin, Citronellol"
+    },
+    {
+     "nombre": "Limpiador facial Spirulina & Yuzu (212 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0711221983910"
+     ],
+     "inci": "Water/Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Glutamate, Sorbeth-230 Tetraoleate, Sodium Chloride, Algae Extract, Sodium Hyaluronate, Spirulina Maxima Extract, Chondrus Crispus Extract, Macrocystis Pyrifera (Kelp) Extract, Porphyra Umbilicalis Extract, Aloe Barbadensis Leaf Juice, Glycerin, Squalane, Laminaria Digitata Extract, Camellia Sinensis Leaf Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Silybum Marianum Seed Oil, Decyl Glucoside, Sorbitan Laurate, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Hexylene Glycol, Cucumis Sativus (Cucumber) Fruit Extract, Tetrasodium Glutamate Diacetate, Maltodextrin, PEG-40 Hydrogenated Castor Oil, Carthamus Tinctorius (Safflower) Seed Oil, Fragrance, Phenoxyethanol, Sodium Hydroxide, Limonene, Amyl Cinnamal, Chlorophyllin-Copper Complex"
     }
    ]
   }

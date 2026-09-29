@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico y los `0769915…` de The Ordinary, que son los envases de España, ver NYX, Essie y The Ordinary). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, que son los envases de España, ver NYX, Essie, The Ordinary y Salt & Stone). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -769,7 +769,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-09-29 · 2 códigos nuevos en "Buscados" (y uno repetido ya resuelto) — PENDIENTE
+### 2026-09-29 · 2 códigos nuevos en "Buscados" (y uno repetido ya resuelto) — resuelto el 2026-09-29 (versión 2026-09-29a)
 De la pestaña "Buscados" de la app, foto de Mariana del 29-09. Tres códigos con un escaneo cada
 uno, dígito de control válido en los tres, ninguno en el catálogo. La sesión que escribe esto no
 tiene salida a internet: **identificación solo por prefijo GS1, sin confirmar en ninguna base.**
@@ -778,12 +778,37 @@ comillas, tiendas online que publican `gtin13`) antes de nada.
 
 | Código | Pista | Qué hacer |
 |---|---|---|
-| 0711221984627 | EAN-13 que empieza por 0 = **UPC-A 711221-98462-7, empresa de EE. UU./Canadá**. Producto americano que se vende aquí (Amazon, Sephora, Druni, Primor o traído de viaje). No se puede saber la marca solo por el prefijo | Buscar el código en las bases Open *Facts y en un buscador. Si sale cosmética con web oficial que publique el INCI completo, entra como ficha (y si la marca tiene web curable, valorar abrirla entera). Si es comida, suplemento o no se identifica, se anota aquí y Mariana lo quita de la pestaña |
-| 8445984023355 | Prefijo **8445984 = GS1 España, bloque 8445xxx asignado en los últimos años** a empresas nuevas o pequeñas: marca joven, indie o marca propia de una tienda. No se puede saber cuál por el prefijo | Igual: buscar el código. Ojo con la regla de siempre: si es una marca pequeña sin INCI oficial en su web ni en el envase fotografiado, **no entra** aunque se sepa qué es |
+| ~~0711221984627~~ | **Salt & Stone Deodorant Santal & Vetiver 75 g** (marca de EE. UU.). No está en ninguna base Open*Facts; identificado por el prefijo 0711221 (OBF tiene 0711221983866, Salt & Stone, escaneado en Bélgica) y confirmado en la web de la marca: `saltandstone.com/products/natural-deodorant.js` da ese `barcode` a la variante "Santal & Vetiver / 2.6 OZ / 75 G" | **ENTRA, y se abre la marca entera** (35 productos, 40 códigos; ver su apartado). La web publica la lista completa por aroma. Código UPC `0…`: entra por el criterio de Mariana (es el que escanea una usuaria aquí: lo prueba este mismo escaneo) |
+| ~~8445984023355~~ | Prefijo 8445984 y serie `02339x`–`02341x` = **Beauty Drops** (marca española de Girona; sus gotas Luminous/Bronzie Glow son 8445984023393/023409 y la crema It's the Magic 023416). **El código exacto no aparece en ninguna parte accesible**: ni en Open Beauty/Food/Products Facts, ni en las 85 fichas de Beauty Drops de Hola Princesa (Shopify, con `barcode`), ni en buscador; INCI Beauty, Primor y Druni están tras Cloudflare o no venden la marca. Además **Beauty Drops no tiene web propia que publique el INCI** (beautydrops.es no existe; beauty-drops.com es otra empresa, italiana) | **NO entra** (regla 2-bis y sin identificar). Mariana lo quita de la pestaña. Si alguien manda foto de la etiqueta con el código y la lista, se puede curar desde la foto |
 | ~~8411582242320~~ | Asevi Vinagre de Limpieza con Detergente Limón 750 ml | **Ya resuelto el 2026-09-18 (abajo): NO entra**, Asevi no publica la lista de ese código. Sigue en la pestaña porque nunca entró y no se borra solo. Mariana lo quita con "Quitar" |
 
-Cuando se resuelvan los dos nuevos, tacharlos aquí y dejar el resultado en una fila, como en las
-entradas anteriores.
+Resueltos los dos el 2026-09-29: Salt & Stone entra (marca entera); Beauty Drops no.
+
+### Salt & Stone (saltandstone.com) — abierta 2026-09-29 (versión 2026-09-29a): 35 productos, 40 códigos
+Marca de EE. UU. (Los Ángeles) que se vende en Europa; pedida por el escaneo 0711221984627 de Buscados.
+- **Fuente única, la web de la marca (Shopify)**: el código de cada variante en `/products/<handle>.js`
+  (`barcode`, UPC-A de 12 dígitos → EAN-13 con el 0 delante) y la **lista completa por aroma** en el
+  modal "Full Ingredients" de la ficha (una sección por aroma: SANTAL & VETIVER, BERGAMOT & HINOKI…).
+  El aroma de cada variante es la primera parte de su título ("Santal & Vetiver / 2.6 OZ / 75 G").
+- **Códigos `0…`**: excepción a la regla 3 por el criterio de Mariana (solo códigos que se escanean
+  aquí): la marca usa el mismo UPC en todo el mundo; lo prueban el escaneo de Buscados (España) y
+  0711221983866 en OBF escaneado en Bélgica.
+- **Entran** (10 fichas de producto): desodorante (6 aromas), desodorante en gel (2), gel de ducha (6),
+  loción corporal (5 aromas; 450 ml y 100 ml del mismo aroma juntos), crema corporal (3), bruma corporal
+  (5), aceite corporal (2), crema de manos (5) y el limpiador facial Spirulina & Yuzu. Nombre: tipo en
+  castellano + aroma (nombre de marca) + tamaño.
+- **Fuera**: todos los sets, dúos, tríos, colecciones y minis sin modal propio (los minis tienen su
+  código pero la web no les pone lista), velas, tarjetas regalo, muestras y el eau de parfum (sin
+  lista); el **gel de ducha en recarga de 946 ml** (4 aromas con una sola lista, que es la del Bergamot
+  & Hinoki: lista mal atribuida); desodorante Ambrette & Pear 0850082483228 (sin sección de lista para
+  ese aroma); bruma y recarga Neroli & Basil (variante sin código).
+- **Revisión FP/FN** (`revisa.mjs saltandstone`): sin falsos positivos (Propylene Glycol Dibenzoate
+  de las cremas no salta; el propilenglicol que salta es el de los desodorantes en gel); fragancia en
+  34, benzoato de bencilo en 20, fenoxietanol en 15, eugenol en 9. Sin falsos negativos ("Tris
+  (tetramethylhydroxypiperidinol) Citrate", 5 fichas: estabilizante UV del envase, ya visto en
+  essence, sin datos de disrupción). Regresión con el products.js del build 99 (carga perezosa del
+  catálogo): 0 cambios en las 4.548 fichas anteriores.
+- Scripts: `bq/ss_build.py`; datos en `bq/ss/` (.js) y `bq/ssh/` (fichas).
 
 ### Caudalie (es.caudalie.com) — abierta 2026-09-25 (versión 2026-09-25l): 74 productos, 77 códigos (de 127 URL)
 Pedido de Mariana tras su escaneo de la Crema Sorbete. Fuente única: la web española de la marca.
@@ -2283,6 +2308,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
 | Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
 | Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
+| Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2346,13 +2372,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6498 códigos en 72 marcas: NYX 999 · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6538 códigos en 73 marcas: NYX 999 · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4548 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4583 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
