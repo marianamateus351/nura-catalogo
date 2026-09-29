@@ -769,6 +769,22 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-29 · 2 códigos nuevos en "Buscados" (y uno repetido ya resuelto) — PENDIENTE
+De la pestaña "Buscados" de la app, foto de Mariana del 29-09. Tres códigos con un escaneo cada
+uno, dígito de control válido en los tres, ninguno en el catálogo. La sesión que escribe esto no
+tiene salida a internet: **identificación solo por prefijo GS1, sin confirmar en ninguna base.**
+Verificar producto a producto (Open Beauty/Food/Products Facts, buscador con el código entre
+comillas, tiendas online que publican `gtin13`) antes de nada.
+
+| Código | Pista | Qué hacer |
+|---|---|---|
+| 0711221984627 | EAN-13 que empieza por 0 = **UPC-A 711221-98462-7, empresa de EE. UU./Canadá**. Producto americano que se vende aquí (Amazon, Sephora, Druni, Primor o traído de viaje). No se puede saber la marca solo por el prefijo | Buscar el código en las bases Open *Facts y en un buscador. Si sale cosmética con web oficial que publique el INCI completo, entra como ficha (y si la marca tiene web curable, valorar abrirla entera). Si es comida, suplemento o no se identifica, se anota aquí y Mariana lo quita de la pestaña |
+| 8445984023355 | Prefijo **8445984 = GS1 España, bloque 8445xxx asignado en los últimos años** a empresas nuevas o pequeñas: marca joven, indie o marca propia de una tienda. No se puede saber cuál por el prefijo | Igual: buscar el código. Ojo con la regla de siempre: si es una marca pequeña sin INCI oficial en su web ni en el envase fotografiado, **no entra** aunque se sepa qué es |
+| ~~8411582242320~~ | Asevi Vinagre de Limpieza con Detergente Limón 750 ml | **Ya resuelto el 2026-09-18 (abajo): NO entra**, Asevi no publica la lista de ese código. Sigue en la pestaña porque nunca entró y no se borra solo. Mariana lo quita con "Quitar" |
+
+Cuando se resuelvan los dos nuevos, tacharlos aquí y dejar el resultado en una fila, como en las
+entradas anteriores.
+
 ### Caudalie (es.caudalie.com) — abierta 2026-09-25 (versión 2026-09-25l): 74 productos, 77 códigos (de 127 URL)
 Pedido de Mariana tras su escaneo de la Crema Sorbete. Fuente única: la web española de la marca.
 - **Cómo se saca**: URL de producto del sitemap (`/sitemap.xml`, 112) más las enlazadas desde las
