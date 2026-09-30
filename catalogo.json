@@ -1,5 +1,5 @@
 {
- "version": "2026-09-29b",
+ "version": "2026-09-30a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -44290,6 +44290,133 @@
       "8445984015640"
      ],
      "inci": "Ethylhexyl Palmitate, Ozokerite, Mica, Polyisobutene, Caprylic/Capric Triglyceride, Tridecyl Trimellitate, Synthetic Wax, Phenoxyethanol"
+    }
+   ]
+  },
+  {
+   "key": "cetaphil",
+   "nombre": "Cetaphil",
+   "productos": [
+    {
+     "nombre": "Crema Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320013901",
+      "3499320013918",
+      "3499320014137"
+     ],
+     "inci": "Aqua, Glycerin, Petrolatum, Dicaprylyl Ether, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Helianthus Annuus Seed Oil, PEG-30 Stearate, Panthenol, Niacinamide, Prunus Amygdalus Dulcis Oil, Tocopherol, Tocopheryl Acetate, Pantolactone, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Propylene Glycol, BHT, Disodium EDTA, Benzyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Citric Acid"
+    },
+    {
+     "nombre": "Loción Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320015639",
+      "3499320014069"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Ceteareth-20, Panthenol, Niacinamide, Tocopheryl Acetate, Dimethicone, Persea Gratissima Oil, Helianthus Annuus Seed Oil, Pantolactone, Glyceryl Stearate, Sodium Benzoate, Benzyl Alcohol, Citric Acid"
+    },
+    {
+     "nombre": "Hidratante Facial de Día",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009867"
+     ],
+     "inci": "Aqua, Dicaprylyl Carbonate, Cyclopentasiloxane, Glycerin, Hydroxyethyl Urea, Glyceryl Stearate, PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Cetyl Alcohol, Erythritol, Glycine Soja Oil, Homarine Hcl, Hydrolyzed Hyaluronic Acid, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide, Sodium PCA, Tocopherol"
+    },
+    {
+     "nombre": "PRO Oil Control Hidratante SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009218"
+     ],
+     "inci": "Aqua, Octocrylene, Isopropyl Lauroyl Sarcosinate, Glycerin, Ethylhexyl Salicylate, Dimethicone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Polymethyl Methacrylate, Silica, Sucrose Tristearate, Aluminum Starch Octenylsuccinate, Pentylene Glycol, Polysorbate 61, Sodium Stearoyl Glutamate, Phenoxyethanol, Tocopheryl Acetate, Caprylyl Glycol, Glycyrrhetinic Acid, Dimethiconol, Panthenol, Allantoin, Carbomer, Disodium EDTA, Zinc Gluconate, Potassium Sorbate, Triethanolamine, Xanthan Gum, Ceramide NP, Pantolactone, Citric Acid"
+    },
+    {
+     "nombre": "PRO Redness Control Hidratante SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009942"
+     ],
+     "inci": "Aqua, Dimethicone, Titanium Dioxide (nano), Caprylyl Methicone, Zinc Oxide (nano), Cetyl Diglyceryl Tris(Trimethylsiloxy)Silylethyl Dimethicone, Glycerin, C12-15 Alkyl Benzoate, Isohexadecane, Dicaprylyl Carbonate, Silica, Allantoin, Benzyl Alcohol, Caffeine, CI 77288, CI 77491, CI 77492, CI 77499, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Hydrogenated Lecithin, Magnesium Sulfate, Methylpropanediol, Tocopherol, Triethoxycaprylylsilane, Trisiloxane"
+    },
+    {
+     "nombre": "Loción Limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320014113"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Panthenol, Niacinamide, Pantolactone, Xanthan Gum, Sodium Cocoyl Isethionate, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Pan Dermatológico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009546"
+     ],
+     "inci": "Sodium Cocoyl Isethionate, Stearic Acid, Sodium Tallowate, Aqua, Sodium Cocoate, Sodium Stearate, Glycerin, Sodium Chloride, PEG-20, Parfum, Titanium Dioxide, Sodium Isethionate, Petrolatum, Sodium Gluconate, Sodium Isostearoyl Lactylate, Sucrose Cocoate, Tetrasodium Glutamate Diacetate, Linalool, Hydroxycitronellal, Citronellol, Geraniol, Amyl Cinnamal, Benzyl Salicylate, Cinnamyl Alcohol, Limonene, BHT, Sodium Ferrocyanide"
+    },
+    {
+     "nombre": "SA Limpiador Exfoliante Suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320018876"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Gluconolactone, Betaine, PEG-120 Methyl Glucose Dioleate, Sodium Cocoamphoacetate, Glycereth-26, Panthenol, Mandelic Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Citric Acid, Ethylhexylglycerin, Disodium EDTA, Niacinamide, Salicylic Acid, Pantolactone, Tocopherol, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "SA Loción Hidratante Exfoliante Suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320018869"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Butter, Cetearyl Alcohol, Gluconolactone, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Mandelic Acid, Tocopheryl Acetate, Sodium Hydroxide, Panthenol, Ethylhexylglycerin, Niacinamide, Phenoxyethanol, Xanthan Gum, Disodium EDTA, Salicylic Acid, Pantolactone, Citric Acid"
+    },
+    {
+     "nombre": "Exfoliante Facial Suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5020465201496"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Coco-Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Bambusa Arundinacea Stem Extract, Citric Acid, Heliotropine, Panthenol, Parfum, Phenoxyethanol, Polyquaternium-10, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Sodium Cocoamphoacetate, Sodium Hydroxide, Tocopheryl Acetate, Xanthan Gum"
+    },
+    {
+     "nombre": "Gel Limpiador Facial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320015660",
+      "3499320015875"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Sodium Cocoamphoacetate, Panthenol, Niacinamide, Pantolactone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Parfum, Amyl Cinnamal, Citronellol, Geraniol, Hydroxycitronellal, Linalool, Sodium Chloride, Citric Acid"
+    },
+    {
+     "nombre": "PRO Oil Control Espuma Limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009249"
+     ],
+     "inci": "Aqua, Zinc Coceth Sulfate, Glycerin, PEG-75, Amyl Cinnamal, Benzyl Benzoate, Citronellol, Dipotassium Glycyrrhizate, Disodium EDTA, Geraniol, Hydroxycitronellal, Linalool, PEG-7 Glyceryl Cocoate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Zinc Gluconate, Parfum"
+    },
+    {
+     "nombre": "PRO Redness Control Espuma Limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3499320009928"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Cocoyl Glutamate, Sodium Cocoamphoacetate, PEG-75, Allantoin, Amyl Cinnamal, Caffeine, Citric Acid, Citronellol, Dipotassium Glycyrrhizate, Disodium EDTA, Geraniol, Hydroxycitronellal, Linalool, Parfum, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Sodium Benzoate"
     }
    ]
   }

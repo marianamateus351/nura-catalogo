@@ -769,6 +769,60 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-09-30 · Cetaphil (Galderma) — marca nueva pedida por una usuaria — abierta (versión 2026-09-30a): 13 productos, 17 códigos
+Una usuaria buscó Cetaphil a mano en la app y solo la encontró en Open Beauty Facts: demanda real.
+- **Web oficial: `cetaphil.es`** (Galderma, Salesforce Commerce Cloud). **Publica el INCI completo por
+  producto** (bloque "Ingredientes" de la ficha, terminado en el código de fórmula de Galderma,
+  "FIL.1765.V00"). Toda la gama española son **16 fichas** (sitemap de producto + las 25 categorías +
+  la búsqueda interna `Search-ShowAjax`; no hay más).
+- **Trampa: el "código" de la web no es siempre un EAN.** El identificador de producto se parece a un
+  EAN pero es interno en muchas fichas: 3499320014046/47/48/49 y 3499320013900 tienen el dígito de
+  control mal; las variantes de tamaño son "3499320014046-1", "-2"; el Loción Ultra Hidratante y la
+  Crema Espuma Limpiadora comparten "3499320014045". Solo se usa un identificador de la web como código
+  cuando **otra fuente confirma que es el EAN de ese producto** (Open Beauty Facts o dosfarma con el
+  mismo código): Crema Hidratante 453 g 3499320013901 (OBF España) y 85 g 3499320013918 (OBF Suiza),
+  Hidratante Facial de Día 3499320009867, PRO Redness Control Hidratante SPF 30 3499320009942 y Espuma
+  3499320009928 (también OBF Polonia), PRO Oil Control Espuma 3499320009249, Pan Dermatológico
+  3499320009546 y Exfoliante Facial Suave 5020465201496 (dosfarma).
+- **El resto de códigos, de dosfarma** (farmacia online española; EAN y "Composición" en cada ficha),
+  **solo si su lista es idéntica a la oficial y lleva el mismo código de fórmula FIL**: Crema Hidratante
+  453 g 3499320014137 (FIL.1765), Loción Hidratante 237 y 470 ml 3499320015639 y 3499320014069
+  (FIL.1745), Loción Limpiadora 473 ml 3499320014113 (FIL.1747), Gel Limpiador Facial 236 y 473 ml
+  3499320015660 y 3499320015875 (FIL.1744), SA Limpiador Exfoliante Suave 3499320018876 (FIL.1904) y SA
+  Loción Hidratante Exfoliante Suave 3499320018869 (FIL.1905).
+- **Nombre sin tamaño y sin "Cetaphil"** (como en el resto de marcas): "Crema Hidratante", "PRO Oil
+  Control Espuma Limpiadora"…; tamaños de la misma fórmula juntos. No hay sets en la web; los "packs" de
+  dosfarma (códigos internos `21000…`) fuera.
+- **Fuera**: Loción Ultra Hidratante y Crema Espuma Limpiadora (**la web les pone la lista de la Loción
+  Hidratante**, FIL.1745: copia; sus listas de dosfarma son fuente única); Crema Hidratante Facial Diaria
+  SPF30 (la web no da lista); Crema Noche 3499320008006 (no está en la web); Loción Limpiadora 236 ml de
+  dosfarma 3499320018654 (**fórmula antigua con parabenos**: butyl-, methyl- y propylparaben) y Crema
+  Hidratante 100 g 3499320014106 (otra fórmula); PRO Oil Control Hidratante 8430351001197 de dosfarma
+  (lista distinta de la oficial); 3499320013888/013895 de la web (dígito de control correcto pero sin
+  ninguna confirmación: con identificadores internos alrededor, un dígito correcto puede ser casualidad).
+- **Reformulaciones con el mismo código** (va la lista de la web, regla 2): Pan Dermatológico
+  3499320009546 (dosfarma aún da la anterior, con Pentasodium Pentetate y Tetrasodium Etidronate; la
+  web, Sodium Gluconate y Tetrasodium Glutamate Diacetate) y PRO Redness Control Espuma 3499320009928
+  (dosfarma pone Isopropyl Alcohol donde la web pone Propylene Glycol).
+- **Contraste con Open Beauty Facts** (mismo código): 4 de los 17 están en OBF. Crema Hidratante
+  3499320013901 (España): la lista transcrita está incompleta (acaba en el 14.º ingrediente), pero los 13
+  primeros son los mismos y en el mismo orden. 3499320013918 y 3499320009928: sin lista. **Gel Limpiador Facial 473 ml 3499320015875**
+  (etiqueta de Países Bajos): lleva **Phenoxyethanol y Limonene**, que no están en la web ni en dosfarma
+  (misma fórmula FIL.1744 en las dos); es otra versión del envase. Se deja la oficial española; con la
+  holandesa la app daría además el aviso de fenoxietanol.
+- **Revisión FP/FN** (`revisa.mjs cetaphil`): sin falsos positivos (fenoxietanol 6, fragancia 5,
+  propilenglicol 2, BHT 2, D5 en el Hidratante Facial de Día, octocrileno y octisalato en el PRO Oil
+  Control SPF 30, microplásticos por su Polymethyl Methacrylate, tensioactivo etoxilado por Disodium
+  Laureth Sulfosuccinate; "Embarazo" en las dos SA por el ácido salicílico). Sin falsos negativos (el
+  siloxano "Cetyl Diglyceryl Tris(trimethylsiloxy)silylethyl Dimethicone" no es D4/D5/D6). Regresión
+  sobre las 4.636 fichas anteriores: 0 cambios.
+- **Decisión para Mariana**: el PRO Oil Control Hidratante SPF 30 entra con **3499320009218, que solo da
+  la web** (sin confirmación en OBF ni dosfarma). Se ha aceptado porque todos los demás identificadores
+  "ES_…" de la web (5 de 5) resultaron EAN reales. Si prefieres el criterio estricto, se quita (es un
+  código).
+- Scripts y datos: `ct/` en el scratchpad (`ct/off.json` listas oficiales, `ct/dos.json` dosfarma,
+  `ct/variants.json` variantes de la web).
+
 ### 2026-09-29 · 2 códigos nuevos en "Buscados" (y uno repetido ya resuelto) — resuelto el 2026-09-29 (versión 2026-09-29a)
 De la pestaña "Buscados" de la app, foto de Mariana del 29-09. Tres códigos con un escaneo cada
 uno, dígito de control válido en los tres, ninguno en el catálogo. La sesión que escribe esto no
@@ -2334,6 +2388,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
 | Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
 | Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
+| Cetaphil (Galderma) | sí (`sitemap_index.xml`, 17 URL) | **no fiable**: el identificador de la ficha a veces es interno; confirmar con OBF/dosfarma | sí, bloque "Ingredientes" con código FIL | ver su apartado |
 | MET (You Are The Princess) | Shopify (`/collections/met`) | sí, `barcode` por variante en `.js` | sí, bloque INGREDIENTES (transcrito, con erratas: validar) | ver su apartado |
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
@@ -2399,13 +2454,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6707 códigos en 74 marcas: NYX 999 · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6724 códigos en 75 marcas: NYX 999 · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4636 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4649 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
