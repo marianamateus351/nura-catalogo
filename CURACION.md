@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, que son los envases de España, ver NYX, Essie, The Ordinary y Salt & Stone). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone y los `0840122…` de Rare Beauty, que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone y Rare Beauty). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -774,6 +774,77 @@ datos → "Huecos del catálogo"): productos que la gente ya tiene metidos en su
 rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
+
+### Rare Beauty (rarebeauty.com) — abierta 2026-09-30 (versión 2026-09-30f): 98 productos, 401 códigos
+**Marca pedida por Mariana el 2026-09-30.** Maquillaje de EE. UU. (Selena Gomez) que en España se vende en Sephora.
+- **Fuente única, la web oficial (Shopify)**: 145 fichas en `products.json`; fuera sets, dúos, tríos, minis en
+  cofre, muestras ("Sample Card", "Deluxe Sample"), tarjetas regalo y crédito, donación, bolsas, brochas,
+  esponjas, vela, pegatinas, ropa y el juguete para perros (quedan 78). El código de cada variante sale del
+  `barcode` de `/products/<handle>.js`: **los 401 son de la propia web**, UPC-A `840122…` → EAN-13 con el 0
+  delante (`0840122…`); no ha hecho falta ni Sephora ni OBF para ninguno. Entran por la decisión D (los packs
+  de Sephora España llevan el mismo UPC, como The Ordinary). Ninguno estaba ya en el catálogo.
+- **Lista**: bloque "Full Ingredients" de cada ficha. Si la lista cambia por tono, la web pone una cabecera por
+  tono o grupo de tonos ("POWER BOOST (BS01), HAPPY SOL (BS02)…:", "TALENTED, CREATIVE, LIVELY…:"); cada
+  variante se asigna a su cabecera por el nombre del tono. Errata de la web corregida: cabecera "MEIDUM" →
+  Medium (polvos Always an Optimist). Se dejan los pigmentos "[+/- May Contain: …]" tal cual (solo se
+  arregla "[+/- May Contain/]:" → "[+/- May Contain:"); fuera "Full list:"/"Full ingredients:" y el punto
+  final. La paleta Essential Neutrals va por partes, cada grupo de sombras con su nombre ("Pastel Peach,
+  Timeless Taupe…: … · Finest Fizz: …"), como en Catrice.
+- **Tonos**: una entrada por lista. Si todos los tonos comparten lista, una sola entrada sin tonos en el
+  nombre (base Liquid Touch: 48 códigos; True to Myself: 48; corrector Liquid Touch: 48…). Cambian de lista
+  por tono: colorete líquido Soft Pinch (15 listas en 16 tonos, más 10 del mini), aceite labial Soft Pinch
+  (8, el mini comparte lista con su tono grande), colorete en polvo Soft Pinch (6), barra de labios Kind
+  Words (3 grupos), bronceador en barra Warm Wishes (5) y polvos Always an Optimist (3): "(tonos …)" en el
+  nombre. Mini y tamaño grande juntos cuando la lista es idéntica (bruma 4 en 1, prebases, máscara, gel de
+  ducha, loción, colorete Matte Bouncy, iluminador líquido, Eau de parfum Rare y su travel spray).
+- **Nombres** en castellano, sin marca ni tamaño: tipo + nombre de la gama ("Colorete líquido Soft Pinch
+  Liquid Blush (tono Bliss)", "Base de maquillaje Liquid Touch Weightless Foundation").
+- **Fuera por no traer lista en su ficha** (regla: sin INCI oficial completo no entra): Rare Beginnings Eau
+  de Parfum Travel Spray, Perfect Strokes Matte Liquid Liner Brown, Find Comfort Bouncy Body Cream, Find
+  Comfort Body & Hair Fragrance Mist Mini; y 4 tonos del colorete líquido mini (Joy, Encourage, Virtue,
+  Truth), cuya ficha no tiene cabecera para ellos. No cosmética: papel matificante y dosificador de la loción.
+- Todas las palabras de las listas validadas contra el vocabulario del catálogo: las nuevas son INCI reales
+  (Tripelargonin, Dipropylheptyl Carbonate, Polycitronellol, Vitex Agnus-Castus, Tussilago Farfara, Eclipta
+  Prostrata, Rhodiola Rosea, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment…). `check.py`: 0 sospechosas.
+- **Contraste con Open Beauty Facts** (mismo código): **no hay nada que contrastar**. Ninguno de los 425
+  códigos está en Open Beauty Facts (tampoco en Open Food ni Open Products Facts), y OBF no tiene ni un
+  producto con la marca "Rare Beauty" (búsqueda por marca: 0; la misma búsqueda con Caudalie da 97). Las
+  listas quedan solo con la fuente oficial. Sephora España, que sería el segundo contraste, bloquea las
+  descargas automáticas (403 de Akamai). **Por eso la decisión D no está comprobada con un escaneo de aquí**:
+  si Mariana escanea un Rare Beauty en Sephora y sale, queda confirmada (como con Salt & Stone).
+- **Revisión FP/FN** (`revisa.mjs rarebeauty`): las 98 en Cuidado personal. Sin falsos positivos:
+  fenoxietanol 33, fragancia 32 (= las 32 listas que llevan Fragrance/Parfum), salicilato de bencilo 17, BHT
+  17, eugenol 10, microplásticos 12 (polietileno, Methyl Methacrylate Crosspolymer, Nylon-12), benzoato de
+  bencilo 3, etoxilados 2 (prebase de ojos y delineador líquido), lavanda 2 (roll-on y bruma; aviso tranquilo,
+  decisión C), octisalato 1 (el Eau de parfum Rare Beginnings lleva Ethylhexyl Salicylate, filtro UV del
+  perfume: correcto), propilenglicol 1 (delineador líquido); IARC: talco 2 (2A) y negro de humo CI 77266 nano
+  2 (2B, los dos delineadores). Sin falsos negativos: los copolímeros de estireno (Hydrogenated Styrene/Isoprene,
+  Ethylene/Propylene/Styrene, Butylene/Ethylene/Styrene, Styrene/Acrylates; 28 fichas) siguen sin aviso por
+  el criterio del 21-09; ningún gel de uñas, así que el aviso de acrilatos no sale. **Regresión sobre las
+  5.014 fichas anteriores: 0 cambios.** No ha hecho falta tocar la app.
+- **Fuera la hidratante con color Positive Light Tinted Moisturizer SPF 20 (24 códigos)**: es un protector
+  solar OTC de EE. UU. y la web separa los filtros ("Active ingredients: Homosalate 9.0%, Titanium Dioxide
+  1.8%, Zinc Oxide 0.9%") de la lista ("Inactive ingredients: …"). La primera versión solo cogió la segunda
+  y **se perdía el aviso de homosalato** (falso negativo cazado en la revisión). Pero además un 9 % de
+  homosalato supera el límite de la UE (7,34 % en cara desde 2022), así que ese envase no puede ser el que
+  se vende en España: el europeo es otra fórmula y, casi seguro, otro código. Fuera por la decisión D. Es la
+  única ficha de la marca con "Active ingredients".
+- **Decisiones de criterio para Mariana (sin prisa; hoy se ha aplicado la opción conservadora)**:
+  - **H. Listas con los mismos ingredientes en otro orden.** Algunos tonos o el mini de un tono tienen la
+    misma lista cambiando el orden (colorete líquido Hope, Faith y Spirited, grande frente a mini; Hope y
+    Resilience; aceite labial Hope/Happy/Wonder/Honesty; los dos grupos grandes de Kind Words; bronceador
+    Bright Side y Good Energy). El orden es parte de la etiqueta (va por concentración), así que **van en
+    entradas separadas**, como manda la regla de "listas idénticas". Los avisos salen iguales en unas y otras;
+    si prefieres menos entradas, se pueden juntar cuando solo cambia el orden (quedarían unas 9 entradas menos).
+  - **I. Mini sin lista en su ficha.** Los 4 tonos del colorete líquido mini sin cabecera se quedan fuera
+    aunque el tamaño grande de esos tonos sí tiene lista: el mini de otros tonos trae la lista en otro orden,
+    así que no se puede dar por hecho que sea la misma. Lo mismo el travel spray de Rare Beginnings (el de
+    Rare sí trae lista y es idéntica a la del grande). Se podrían aceptar tomando la del tamaño grande.
+  - **J. Envases de EE. UU. con fórmula distinta de la europea.** La hidratante SPF 20 queda fuera porque su
+    fórmula no es legal en la UE (ver arriba). En el resto no hay señal de fórmula distinta (los colorantes
+    van con nombre americano y CI, todos permitidos en la UE), pero sin OBF ni Sephora no se ha podido
+    comparar con una etiqueta española.
+- Scripts: `rb/build.py`, `rb/make.py` (scratchpad); fichas en `rb/p/`.
 
 ### Manucurist (manucurist.com/es) — abierta 2026-09-30 (versión 2026-09-30e): 274 productos, 278 códigos
 Pedida por Mariana (anuncio de Xtrem Flash™ en Instagram; la marca se vende como "green"/"9-free"). Esmaltes
@@ -2504,6 +2575,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Cetaphil (Galderma) | sí (`sitemap_index.xml`, 17 URL) | **no fiable**: el identificador de la ficha a veces es interno; confirmar con OBF/dosfarma | sí, bloque "Ingredientes" con código FIL | ver su apartado |
 | MET (You Are The Princess) | Shopify (`/collections/met`) | sí, `barcode` por variante en `.js` | sí, bloque INGREDIENTES (transcrito, con erratas: validar) | ver su apartado |
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
+| Rare Beauty | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC `840122…`) | sí, bloque "Full Ingredients", con cabecera por tono cuando cambia | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2567,13 +2639,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7112 códigos en 77 marcas: NYX 999 · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7513 códigos en 78 marcas: NYX 999 · **Rare Beauty 401** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5014 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5112 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
