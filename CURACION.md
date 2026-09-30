@@ -775,7 +775,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### SVR (es.svr.com) — abierta 2026-09-30 (versión 2026-09-30c): 90 productos, 109 códigos
+### SVR (es.svr.com) — abierta 2026-09-30 (versiones 2026-09-30c y d): 90 productos, 109 códigos
 Pedida por Mariana. Tienda oficial española de Laboratoires SVR (Shopify, `vendor` "Laboratoires SVR Espana").
 - **Código**: `barcode` por variante en `/products/<handle>.js` de es.svr.com (156 fichas; fuera 36
   regalos, packs, rutinas, muestras y minis de regalo, y el Pouch). Algunos van con espacios
@@ -784,8 +784,8 @@ Pedida por Mariana. Tienda oficial española de Laboratoires SVR (Shopify, `vend
   ("LAB21.35/C.39"), pero muchas listas de la web española están TRADUCIDAS al castellano** ("GLICERINA",
   "ACEITE DE SEMILLAS DE HELIANTHUS", "PERFUME/FRAGANCIA"): no valen tal cual. Entonces se toma la de
   **fr.svr.com (también oficial) de la ficha con el mismo código de barras**, siempre que tenga el mismo
-  número de ingredientes (±1) y, si las dos webs dan código LAB, el mismo. Resultado: 24 códigos con la
-  lista española (ya en INCI) y 85 con la francesa.
+  número de ingredientes (±1) y, si las dos webs dan código LAB, el mismo. Resultado: 23 códigos con la
+  lista española (ya en INCI) y 86 con la francesa.
 - **Fuera**: DENSITIUM Baume Nuit (LAB C.40 en España, C.42 en Francia) y SUN SECURE Eau Solaire (LAB21.24
   frente a LAB18.09): versiones distintas; DENSITIUM Crème (30 frente a 34 ingredientes) y SPIRIAL Spray
   Végétal (14 frente a 18); SEBIACLEAR Gel Moussant y TOPIALYSE Stick Lèvres (lista solo en castellano y
@@ -807,6 +807,18 @@ Pedida por Mariana. Tienda oficial española de Laboratoires SVR (Shopify, `vend
   Methyl Methacrylate Crosspolymer, octinoxato 1, aluminio 1 en el antitranspirante; "Embarazo" 10: 9 por ácido
   salicílico y 1 por retinol). Sin falsos negativos (estireno: criterio del 21-09). Regresión de la marca
   nueva sobre las 4.650 fichas anteriores: 0 cambios.
+- **Revisión a fondo (Mariana: "revisa bien los ingredientes y categorías"; versión 2026-09-30d)**: cada
+  palabra de las 90 listas contrastada con el vocabulario de las otras ~4.650 fichas. Encontrado y
+  corregido: **SPIRIAL Extreme seguía en castellano** ("Cloruro de Aluminio, Sesquiclorhidrato de Aluminio,
+  Hidroxietilcelulosa, Niacinamida") y por eso **no saltaba el aviso de aluminio** (falso negativo): ahora
+  lleva la lista francesa del mismo código y salta; erratas de las webs arregladas ("Sodium Hydrox Ide",
+  "Sugaride Isomerate" → Saccharide, "Potassium Sorbat"/"Sorbatee", "Capryliccapric", "Tetraditbutyl",
+  "Neopentylglycol", "Butyrospermum Parkii ­Shea- Butter" con guion invisible) y un resto de Excel
+  ("Hydroxyethyl Acrylate_X005F_X0016_Sodium…" → "/"). Las palabras que quedan fuera del vocabulario son
+  INCI reales (Albizia Julibrissin, Lepidium Sativum, Evodia Rutaecarpa, Spiraea Ulmaria, Clematis
+  Vitalba, Lactobionic Acid…). **Categorías: las 90 en Cuidado personal.** "Polyester-7" (2 solares) no
+  salta como microplástico: polímero líquido filmógeno, mismo criterio que Polyester-1 y la resina de los
+  esmaltes. Regresión: 1 cambio, el SPIRIAL Extreme gana el aviso de aluminio.
 - Scripts: `svr/parse.py`, `svr/build.py`, `svr/obf.py` (scratchpad).
 
 ### 2026-09-30 · Cetaphil (Galderma) — marca nueva pedida por una usuaria — abierta (versión 2026-09-30a): 13 productos, 17 códigos
