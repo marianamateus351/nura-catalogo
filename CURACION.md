@@ -819,7 +819,7 @@ Una usuaria buscó Cetaphil a mano en la app y solo la encontró en Open Beauty 
 - **Decisión para Mariana**: el PRO Oil Control Hidratante SPF 30 entra con **3499320009218, que solo da
   la web** (sin confirmación en OBF ni dosfarma). Se ha aceptado porque todos los demás identificadores
   "ES_…" de la web (5 de 5) resultaron EAN reales. Si prefieres el criterio estricto, se quita (es un
-  código).
+  código). **Resuelto 2026-09-30: Mariana responde "Ok", se queda.**
 - Scripts y datos: `ct/` en el scratchpad (`ct/off.json` listas oficiales, `ct/dos.json` dosfarma,
   `ct/variants.json` variantes de la web).
 
