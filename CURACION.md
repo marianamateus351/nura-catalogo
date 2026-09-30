@@ -818,7 +818,20 @@ franceses: Green™ (118), semipermanente LED Green Flash™ (113), Active™, i
   Trimethylolpropane Trimethacrylate o Pentaerythrityl Triacrylate en el Top Coat Xtrem Flash). No son
   disruptores endocrinos: son **alérgenos de contacto** (la UE obliga a avisar en algunos de uso
   profesional). Hoy la app no avisa; si se quiere, sería un "otro ingrediente (alérgeno)", como los
-  sulfitos.
+  sulfitos. **Resuelta 2026-09-30: sí** ("puedes poner como otros riesgos o así … y incluyes ese
+  alérgeno"). Hecho en la app como **"Acrilatos y metacrilatos (alérgeno de contacto)"** en "Otros a tener
+  en cuenta" (la misma sección que "Sulfitos (alérgeno de contacto)": no son disruptores y no cambian el
+  IEH), solo cosmética y solo coincidencia exacta. Reconoce los monómeros y resinas reactivas de los geles
+  y semipermanentes: HEMA/di-HEMA/Bis-HEMA, hydroxyethyl y hydroxypropyl methacrylate, trimethylolpropane
+  tri(met)acrylate, pentaerythrityl tri/tetraacrylate, isobornyl y tetrahydrofurfuryl (met)acrylate,
+  ethyl/methyl methacrylate, di/tripropylene glycol diacrylate, triethylene glycol dimethacrylate,
+  urethane dimethacrylate, bis-GMA. **No** los copolímeros ya polimerizados que llevan esos nombres
+  dentro (primera pasada: 158 fichas, 33 de ellas falsos positivos por "Acrylonitrile/Methyl
+  Methacrylate/Vinylidene Chloride Copolymer", "…/Isobornyl Acrylate Copolymer" y el espesante
+  "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer"; corregido quitando los alias de
+  hydroxyethyl/hydroxypropyl acrylate y excluyendo esos copolímeros). Regresión final: **125 fichas
+  ganan el aviso, todas geles o semipermanentes** (110 Manucurist Green Flash y Top Coat, 15 esmaltes UV
+  Gel de essence), ninguna otra.
 - Scripts: `mc2/build.py`, `mc2/final.py` (scratchpad).
 
 ### SVR (es.svr.com) — abierta 2026-09-30 (versiones 2026-09-30c y d): 90 productos, 109 códigos
