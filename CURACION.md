@@ -775,6 +775,40 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### SVR (es.svr.com) — abierta 2026-09-30 (versión 2026-09-30c): 90 productos, 109 códigos
+Pedida por Mariana. Tienda oficial española de Laboratoires SVR (Shopify, `vendor` "Laboratoires SVR Espana").
+- **Código**: `barcode` por variante en `/products/<handle>.js` de es.svr.com (156 fichas; fuera 36
+  regalos, packs, rutinas, muestras y minis de regalo, y el Pouch). Algunos van con espacios
+  ("3 662 361 003 853"). Solo códigos de la tienda española.
+- **Lista: la ficha trae "Ver la lista de ingredientes" con el código de fórmula del laboratorio
+  ("LAB21.35/C.39"), pero muchas listas de la web española están TRADUCIDAS al castellano** ("GLICERINA",
+  "ACEITE DE SEMILLAS DE HELIANTHUS", "PERFUME/FRAGANCIA"): no valen tal cual. Entonces se toma la de
+  **fr.svr.com (también oficial) de la ficha con el mismo código de barras**, siempre que tenga el mismo
+  número de ingredientes (±1) y, si las dos webs dan código LAB, el mismo. Resultado: 24 códigos con la
+  lista española (ya en INCI) y 85 con la francesa.
+- **Fuera**: DENSITIUM Baume Nuit (LAB C.40 en España, C.42 en Francia) y SUN SECURE Eau Solaire (LAB21.24
+  frente a LAB18.09): versiones distintas; DENSITIUM Crème (30 frente a 34 ingredientes) y SPIRIAL Spray
+  Végétal (14 frente a 18); SEBIACLEAR Gel Moussant y TOPIALYSE Stick Lèvres (lista solo en castellano y
+  sin ficha francesa con ese código); 11 fichas sin lista (DENSITIUM Bi-Sérum, Crème SPF30 y Riche,
+  SENSIFINE Extrême, [C20] Fluide, [HYALU], Masque SOS, XERIAL DM Psoriasis, PHYSIOPURE Tonique, CLAIRIAL
+  Night Peel, SENSIFINE AR Eau Micellaire); 7 variantes sin código (recargas, 400 ml de TOPIALYSE Crème,
+  solares Blur/Aqua/Huile).
+- Limpieza: fuera el código LAB, "INGREDIENTS (CONTAINS):", "INCI:" y notas finales ("* Aloe vera
+  concentrado en polvo"); listas antiguas separadas por puntos ("AQUA (PURIFIED WATER). UREA.") pasadas a
+  comas; "SOPROPYL" → "Isopropyl" (letra perdida en las dos webs).
+- **Contraste con Open Beauty Facts**: 44 de los 109 códigos están en OBF, casi todos sin lista. Con lista:
+  3 iguales; el resto son transcripciones con erratas de OCR ("Glycerparfum", texto de la etiqueta
+  mezclado) o etiquetas de otros países y versiones: HYDRALIANE Crème (Túnez), SENSIFINE AR Crème
+  (Italia, fórmula anterior), XERIAL 50 Pieds (otro orden). Se deja la oficial.
+- **Revisión FP/FN** (`revisa.mjs svr`): el SENSIFINE **Dermo-Nettoyant caía en Hogar** por "nettoyant"
+  (término de limpieza en francés): añadidos "dermo-nettoyant" y "visage" a los términos que marcan
+  cosmética; regresión sobre las 4.740 fichas: 1 cambio, esa ficha, a Cuidado personal. Resto sin falsos
+  positivos (fragancia 48, propilenglicol 12, fenoxietanol 3, etoxilados 3, microplásticos 2 por PMMA y
+  Methyl Methacrylate Crosspolymer, octinoxato 1, aluminio 1 en el antitranspirante; "Embarazo" 10: 9 por ácido
+  salicílico y 1 por retinol). Sin falsos negativos (estireno: criterio del 21-09). Regresión de la marca
+  nueva sobre las 4.650 fichas anteriores: 0 cambios.
+- Scripts: `svr/parse.py`, `svr/build.py`, `svr/obf.py` (scratchpad).
+
 ### 2026-09-30 · Cetaphil (Galderma) — marca nueva pedida por una usuaria — abierta (versión 2026-09-30a): 13 productos, 17 códigos
 Una usuaria buscó Cetaphil a mano en la app y solo la encontró en Open Beauty Facts: demanda real.
 - **Web oficial: `cetaphil.es`** (Galderma, Salesforce Commerce Cloud). **Publica el INCI completo por
@@ -2394,6 +2428,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Babaria | sí (`product-sitemap.xml`) | no en el texto: imagen de la galería (REF+EAN), enlaces "Comprar", Druni | sí | ver su apartado |
 | Byphasse | — | no; `gtin13` de Druni solo con lista idéntica | sí | ver su apartado |
 | Lactovit | API de WordPress | en la imagen de la etiqueta oficial | en la imagen de la etiqueta oficial | transcrita; ver su apartado |
+| SVR | Shopify (es.svr.com y fr.svr.com) | sí, `barcode` por variante en `.js` | sí, pero **en castellano en muchas fichas de la española**: usar la francesa del mismo código | ver su apartado |
 | Cetaphil (Galderma) | sí (`sitemap_index.xml`, 17 URL) | **no fiable**: el identificador de la ficha a veces es interno; confirmar con OBF/dosfarma | sí, bloque "Ingredientes" con código FIL | ver su apartado |
 | MET (You Are The Princess) | Shopify (`/collections/met`) | sí, `barcode` por variante en `.js` | sí, bloque INGREDIENTES (transcrito, con erratas: validar) | ver su apartado |
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
@@ -2460,13 +2495,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6725 códigos en 75 marcas: NYX 999 · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+6834 códigos en 76 marcas: NYX 999 · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4650 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4740 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
