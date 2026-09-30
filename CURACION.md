@@ -65,6 +65,12 @@ oficial ya recogido, pero vichy.es solo publica el SKU interno `30065949`; falta
 
 ### CeraVe (cerave.es) — CERRADA (2026-09-09)
 Curada desde el sitemap: 35 productos y 73 códigos (antes 22 y 54).
+**Repaso 2026-09-30 (pedido de Mariana; versión 2026-09-30b)**: el sitemap tiene hoy 39 fichas de producto
+(38 + 1). Las 38 de antes, bajadas otra vez: **mismos códigos y mismas listas**, ninguna reformulación.
+Nueva: **Limpiador Arcilla-Espuma Control Imperfecciones 3337875926836** (EAN reclamado solo por su
+ficha, dígito correcto, no está en OBF), entra con la lista de la web. Revisión FP/FN: salta solo
+"Embarazo" por su ácido salicílico, bien; sin falsos negativos. Regresión: 0 cambios en las 4.649 fichas
+anteriores. CeraVe queda en 35 productos y 74 códigos (el recuento de arriba cuenta las fichas de la web).
 **Aviso: el `gtin13` de cerave.es no es de fiar.** Copia el mismo código en fichas distintas
 (las 5 recargas comparten uno). El INCI de cada ficha sí es el suyo, así que: se usa el EAN de
 la web solo cuando lo reclama UNA sola ficha, y si no, se recupera el código ya curado
@@ -2454,13 +2460,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-6724 códigos en 75 marcas: NYX 999 · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
-Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 73 ·
+6725 códigos en 75 marcas: NYX 999 · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 4649 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 4650 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
