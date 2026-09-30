@@ -1,5 +1,5 @@
 {
- "version": "2026-09-30d",
+ "version": "2026-09-30e",
  "marcas": [
   {
    "key": "larocheposay",
@@ -45261,6 +45261,2482 @@
       "3401381332495"
      ],
      "inci": "Aqua/Water/Eau, Poloxamer 184, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Gluconolactone, 1,2-Hexanediol, Citric Acid, Sodium Hydroxide, Cetrimonium Bromide, Parfum/Fragrance"
+    }
+   ]
+  },
+  {
+   "key": "manucurist",
+   "nombre": "Manucurist",
+   "productos": [
+    {
+     "nombre": "Active™ Plump Aqua Glazed",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222185"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Acrylates Copolymer, Glycolic Acid, Etocrylene, Aqua (Water), Malic Acid, Hexanal, Olive Oil Decyl Esters, Lactic Acid, CI 77891 (Titanium Dioxide), Glycerin, Squalene, Tin Oxide, Caulerpa Lentillifera Extract, Aluminum Hydroxide, Triethoxycaprylylsilane, Sodium Benzoate, Magnesium Ascorbyl Phosphate, Citric Acid, Tocopherol, CI 77510 (Ferric Ammonium Ferrocyanide), Hydrolyzed Vegetable Protein, Leuconostoc/Radish Root Ferment Filtrate, CI 60725 (Violet 2), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Desengrasante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263221454",
+      "3662263221584"
+     ],
+     "inci": "Alcohol Denat., Etocrylene, Parfum (Fragrance), Aqua (Water), Propanediol, Pentylene Glycol, CI 14700 (Red 4)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Emerald",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511180"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Amour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511173"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77491 (Iron Oxides), CI 15880 (Red 34 Lake), Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), Sorbic Acid, BHT, Phosphoric Acid, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Emerald",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331627"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, CI 19140 (Yellow 5 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77510 (Ferric Ammonium Ferrocyanide), CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), CI 77266 [Nano] (Black 2), Alcohol Denat"
+    },
+    {
+     "nombre": "Esmalte Green™ Amour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331603"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77491 (Iron Oxides), CI 15880 (Red 34 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77891 (Titanium Dioxide), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Bliss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331610"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Synthetic Fluorphlogopite, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Silica, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Ethyl Acetate, Diethylhexyl Sodium Sulfosuccinate, Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), Tin Oxide, Alcohol Denat., CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bliss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511197"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Synthetic Fluorphlogopite, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Silica, Diacetone Alcohol, Sorbic Acid, BHT, Tin Oxide, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Active™ Shine Icy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263221713"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Calcium Sodium Borosilicate, Acrylates Copolymer, Glycolic Acid, Etocrylene, Hexanal, Aqua (Water), CI 77891 (Titanium Dioxide), Glycerin, Tin Oxide, Sorbic Acid, Beta Vulgaris Extract (Beta Vulgaris (Beet) Root Extract), Citric Acid, Aluminum Hydroxide, Triethoxycaprylylsilane, Sodium Benzoate, Potassium Sorbate, Tocopherol, CI 60725 (Violet 2)"
+    },
+    {
+     "nombre": "Esmalte Green™ Milky Matcha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331290"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 19140 (Yellow 5 Lake), Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), CI 77510 (Ferric Ammonium Ferrocyanide), Aluminum Hydroxide, Alcohol Denat., CI 15850 (Red 6 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Milky Matcha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263510954"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 19140 (Yellow 5 Lake), BHT, Aqua (Water), Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), Aluminum Hydroxide, Alcohol Denat., CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Sandstone",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331634"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, CI 77491 (Iron Oxides), CI 15880 (Red 34 Lake), Diacetone Alcohol, Silica, Sorbic Acid, BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid, CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Sandstone",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511203"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Mica, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, CI 77491 (Iron Oxides), Sorbic Acid, CI 77499 (Iron Oxides), Diethylhexyl Sodium Sulfosuccinate, BHT, Aqua (Water), Phosphoric Acid, CI 77492 (Iron Oxides), Tin Oxide, Alcohol Denat., Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Grenat",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511159"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, Isopropyl Alcohol, CI 77491 (Iron Oxides), CI 77499 (Iron Oxides), CI 15880 (Red 34 Lake), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, BHT, Aqua (Water), Phosphoric Acid, Alcohol Denat., CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Esmalte Green™ Grenat",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331580"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, CI 77491 (Iron Oxides), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 15880 (Red 34 Lake), Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 77266 [Nano] (Black 2), Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), Alcohol Denat., CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Milky Peach",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331573"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, Phosphoric Acid, CI 77491 (Iron Oxides), N-Butyl Alcohol, Aqua (Water), Alcohol Denat., CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Milky Peach",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511142"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 77742 (Manganese Violet), BHT, Aqua (Water), Phosphoric Acid, Alcohol Denat., Aluminum Hydroxide, Kaolin, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Base Coat Vitaminada Green™",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330644"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Heptane, Alcohol, Etocrylene, Isopropyl Alcohol, Hexanal, Aqua (Water), Tocopheryl Acetate, Magnesium Ascorbyl Phosphate, CI 60725 (Violet 2), Tocopherol"
+    },
+    {
+     "nombre": "Baño Quitaesmalte Exprés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330750"
+     ],
+     "inci": "Ethyl Acetate, Alcohol Denat., Triethyl Citrate, Etocrylene, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Lavandula Angustifolia (Lavanda) Oil, Aqua (Agua), Isoamyl Laurate, Kaempferia Galanga Root Extract, Pongamia Pinnata Seed Extract, Polygonum Fagopyrum (Trigo Sarraceno) Seed Extract, Butyl Acetate, Isopropyl Alcohol, Panthenol, Magnesium Ascorbyl Phosphate, Nitrocellulose, CI 15850 (Laca Roja6), Acetyl Tributyl Citrate"
+    },
+    {
+     "nombre": "Esmalte Green™ Groove",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331566"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Silica, Alumina, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), Tris-HEA IPDI Isocyanurate Trimer, CI 77491 (Iron Oxides), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, Tin Oxide, Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), Alcohol Denat., CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Esmalte Green™ Bloom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331559"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Ethyl Trimethylbenzoyl Phenylphosphinate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 45410 (Red 28), Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), Aluminum Hydroxide, Alcohol Denat., CI 45380 (Red 22), CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Halo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331542"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, Synthetic Fluorphlogopite, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, CI 77742 (Manganese Violet), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), CI 77491 (Iron Oxides), Alcohol Denat., Kaolin, Tin Oxide, Aluminum Hydroxide, CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Groove",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511135"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Silica, Alumina, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 77491 (Iron Oxides), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, BHT, Tin Oxide, Aqua (Water), Phosphoric Acid, Alcohol Denat., CI 19140 (Yellow 5 Lake), Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bloom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511128"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, BHT, CI 45410 (Red 28), Phosphoric Acid, CI 45380 (Red 22), CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Halo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511111"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Synthetic Fluorphlogopite, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, CI 77742 (Manganese Violet), Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, BHT, Aqua (Water), Phosphoric Acid, Alcohol Denat., Kaolin, Tin Oxide, CI 77491 (Iron Oxides), Aluminum Hydroxide, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Glacé Jelly",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331504"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Alcohol Denat., Phosphoric Acid, N-Butyl Alcohol, CI 45410 (Red 28), CI 19140 (Yellow 5 Lake), Sorbic Acid, CI 45350 (Yellow 8), CI 19140 (Yellow 5), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Pink Sorbet Jelly",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331641"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 77891 (Titanium Dioxide), CI 77742 (Manganese Violet), Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), CI 45410 (Red 28), Alcohol Denat., CI 45350 (Yellow 8), Kaolin, CI 19140 (Yellow 5), CI 45380 (Red 22), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Sugar Plum Jelly",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331528"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 77891 (Titanium Dioxide), Phosphoric Acid, N-Butyl Alcohol, CI 73360 (Red 30), Aqua (Water), CI 45410 (Red 28), CI 15850 (Red 7 Lake), Alcohol Denat., CI 45350 (Yellow 8), CI 19140 (Yellow 5), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Pomme d'Amour Jelly",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331535"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 15850 (Red 6 Lake), CI 77891 (Titanium Dioxide), Phosphoric Acid, N-Butyl Alcohol, CI 15850 (Red 7 Lake), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Twizzle Jelly",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331511"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, CI 73360 (Red 30), Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pink Sand",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511074"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Gold Button",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511043"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), Diacetone Alcohol, Silica, Sorbic Acid, BHT, Aluminum Hydroxide, Triethoxycaprylylsilane, Phosphoric Acid, CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Spicy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511081"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15850 (Red 6 Lake), Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Spicy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331474"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 15850 (Red 6 Lake), Stearalkonium Bentonite, Isopropyl Alcohol, Alcohol Denat., Acrylates Copolymer, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Tangerine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511098"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 45350 (Yellow 8), BHT, CI 45410 (Red 28), CI 47005 (Acid Yellow 3 (Not Certified By FDA)), Phosphoric Acid, CI 45380 (Red 22), CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Tangerine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331481"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 45350 (Yellow 8), Phosphoric Acid, N-Butyl Alcohol, CI 45410 (Red 28), CI 47005 (Acid Yellow 3), Aqua (Water), Alcohol Denat., CI 45380 (Red 22), CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Nebula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511104"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Polybutylene Terephthalate, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Acrylates Copolymer, Ethylene/Va Copolymer, Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), Sorbic Acid, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Nebula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331498"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Polybutylene Terephthalate, Acrylates Copolymer, Stearalkonium Bentonite, Ethylene/Va Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77891 (Titanium Dioxide), Alcohol Denat., Phosphoric Acid, N-Butyl Alcohol, Sorbic Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Active™ Blur",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263224028"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Acrylates Copolymer, Glycolic Acid, Calcium Aluminum Borosilicate, Alcohol Denat., Etocrylene, Aqua (Water), Malic Acid, Hexanal, Lactic Acid, CI 77891 (Titanium Dioxide), Olive Oil Decyl Esters, Niacinamide, Castanea Sativa Seed Extract, Squalene, Aluminum Hydroxide, Triethoxycaprylylsilane, 1,2-Hexanediol, Caprylyl Glycol, Sorbic Acid, CI 15850 (Red 6 Lake), Biotin, Tocopherol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Dove Beige",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511036"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 77491 (Iron Oxides), BHT, Phosphoric Acid, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Queen of Night",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511050"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 77266 [Nano] (Black 2), BHT, CI 15880 (Red 34 Lake), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Top Coat gel Xtrem Flash™",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511524"
+     ],
+     "inci": "Bis-HEA Poly(1,4-Butanediol)-9/IPDI Copolymer, Hydroxypropyl Methacrylate, Pentaerythritol Tetrakis(3-Mercaptopropionate), Bis(Pentaerythrityl Triacrylate) Pentaerythrityl Diacrylate/IPDI Copolymer, Sucrose Benzoate, Ethyl Trimethylbenzoyl Phenylphosphinate, Trimethylolpropane Trimethacrylate, Pentaerythrityl Tetraacrylate, Pentaerythrityl Triacrylate, Hydroxycyclohexyl Phenyl Ketone, Dimethicone, BHT"
+    },
+    {
+     "nombre": "Esmalte Green™ Freckles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330507"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77491 (Iron Oxides), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), CI 15850 (Red 6 Lake), Kaolin"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Freckles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511029"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77491 (Iron Oxides), Sorbic Acid, BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), Kaolin"
+    },
+    {
+     "nombre": "Esmalte Green™ Mist Grey",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330491"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77742 (Manganese Violet), CI 77266 [Nano] (Black 2), CI 77510 (Ferric Ammonium Ferrocyanide), Kaolin, CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Mist Grey",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511012"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, BHT, Phosphoric Acid, CI 77742 (Manganese Violet), CI 77266 [Nano] (Black 2), CI 77510 (Ferric Ammonium Ferrocyanide), Kaolin, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Milky Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330484"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77742 (Manganese Violet), Phosphoric Acid, N-Butyl Alcohol, CI 77491 (Iron Oxides), Kaolin, CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Milky Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511005"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 77742 (Manganese Violet), BHT, Phosphoric Acid, Kaolin, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Quitaesmalte suave Green Flash",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263510077"
+     ],
+     "inci": "Ethyl Acetate, Alcohol Denat., Ricinus Communis (Castor) Seed Oil, Fragrance (Parfum), Etocrylene, Butyl Acetate, CI 61565 (Green 6), Yellow 11 (CI 47000), Terpineol, Trimethylbenzenepropanol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Sérum Completo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263220112"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propylene Glycol, Trisodium Phosphate, Panthenol, Pentylene Glycol, Propanediol, Carbomer, Decyl Glucoside, Methyl Gluceth-20, Hydrolyzed Corn Starch, Beta Vulgaris (Beet) Root Extract, Castanea Sativa (Chestnut) Seed Extract, Parfum (Fragrance), Sodium Cocoyl Glutamate, Alcohol, Glyceryl Caprylate, Polyglyceryl-6 Oleate, Citric Acid, Lactic Acid, Tris(Tetramethylhydroxypiperidinol) Citrate, Caprylyl Glycol, 1,2-Hexanediol, Sodium Surfactin, P-Anisic Acid, CI 15510 (Orange 4), CI 19140 (Yellow 5)"
+    },
+    {
+     "nombre": "Lápiz Corrector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263141035"
+     ],
+     "inci": "Ethyl Acetate, Alcohol Denat., Ricinus Communis Seed Oil, Parfum, Etocrylene, Butyl Acetate, CI 61565, CI 47000"
+    },
+    {
+     "nombre": "+ Aceite Removedor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330842"
+     ],
+     "inci": "Diethyl Succinate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Parfum, Tocopherol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Cuidado nutritivo para cutículas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263221317"
+     ],
+     "inci": "Helianthus Annuus Seed Oil, Caprylic/Capric Triglyceride, Glycerin, Aqua, Oleic/Linoleic/Linolenic Polyglycerides, Sucrose Laurate, Sucrose Stearate, Parfum (Fragrance), Phenylpropanol, Tocopherol, Ricinus Communis Seed Oil, Sucrose Palmitate, Pistacia Lentiscus Gum, Citronellol, Geraniol, Linalool"
+    },
+    {
+     "nombre": "Esmalte Green™ Mocha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263333195"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), Sorbic Acid, CI 77266 [Nano] (Black 2), Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Kaolin"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Mocha",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516819"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides), Sorbic Acid, CI 77266 [Nano] (Black 2), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), Kaolin"
+    },
+    {
+     "nombre": "Esmalte Green™ Prune",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332990"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Isopropyl Alcohol, Acrylates Copolymer, CI 15880 (Red 34 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77491 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Prune",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516987"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, CI 15880 (Red 34 Lake), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 77491 (Iron Oxides), BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Fairy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332983"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Silica, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Alcohol Denat., Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Tin Oxide, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Fairy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516970"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Silica, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Tin Oxide, Sorbic Acid, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Dark Dahlia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263511067"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 15850 (Red 7 Lake), CI 15880 (Red 34 Lake), Diacetone Alcohol, Silica, Sorbic Acid, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Tuileries",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332365"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, CI 77492 (Iron Oxides), Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77499 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Tweed",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332372"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Synthetic Fluorphlogopite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77499 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, CI 77491 (Iron Oxides), CI 77742 (Manganese Violet), Tin Oxide, CI 19140 (Yellow 5 Lake), Kaolin"
+    },
+    {
+     "nombre": "Esmalte Green™ Bohème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332358"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77491 (Iron Oxides), Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 15880 (Red 34 Lake), Phosphoric Acid, N-Butyl Alcohol, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Tuileries",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515966"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77492 (Iron Oxides), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Sorbic Acid, CI 77499 (Iron Oxides), BHT, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Tweed",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515973"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Synthetic Fluorphlogopite, Diacetone Alcohol, Silica, Sorbic Acid, CI 77499 (Iron Oxides), BHT, CI 77491 (Iron Oxides), Phosphoric Acid, CI 77742 (Manganese Violet), Tin Oxide, Kaolin, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bohème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515959"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77491 (Iron Oxides), Diacetone Alcohol, Silica, Sorbic Acid, CI 15880 (Red 34 Lake), BHT, Phosphoric Acid, CI 77266 [Nano] (Black 2), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte infantil Héctor el Estegosaurio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270490"
+     ],
+     "inci": "Aqua (Water), Maltodextrin, CI 77007 (Ultramarines), Propanediol, Pullulan, CI 77891 (Titanium Dioxide), Phenethyl Alcohol, Glycerin, PEG-40 Castor Oil, Polyacrylate Crosspolymer 6, 1,2-Hexanediol, Xanthan Gum, Caprylyl/Capryl Glucoside, Ammonium Acrylates Copolymer, CI 73360 (Red 30 Lake (Talc Lake)), Kaolin, PPG-3 Methyl Ether, Bentonite, Sodium Cocoyl Glutamate, Butylene Glycol, Caprylyl Glycol, Glyceryl Caprylate, Citric Acid, Polyglyceryl-6 Oleate, PPG-25 Dimethicone, Trideceth-6 Phosphate, Sodium Hydroxide, Pentylene Glycol, Dipropylene Glycol, Sodium Surfactin, Silica Silylate"
+    },
+    {
+     "nombre": "Esmalte infantil Marius el Diplodocus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270506"
+     ],
+     "inci": "Aqua (Water), Maltodextrin, Polybutylene Terephthalate, Polyethylene Terephthalate, Propanediol, Pullulan, Acrylates Copolymer, Glycerin, Phenethyl Alcohol, Ethylene/Va Copolymer, Polyacrylate Crosspolymer 6, CI 77891 (Titanium Dioxide), 1,2-Hexanediol, Synthetic Fluorphlogopite, Xanthan Gum, Caprylyl/Capryl Glucoside, Polyurethane-11, CI 77510 (Ferric Ferrocyanide), Sodium Cocoyl Glutamate, CI 77492 (Iron Oxides), Glyceryl Caprylate, Polyglyceryl-6 Oleate, Citric Acid, Tin Oxide, CI 77000 (Aluminium Powder), Sodium Surfactin"
+    },
+    {
+     "nombre": "Esmalte infantil Penélope la Triceratops",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270483"
+     ],
+     "inci": "Aqua (Water), Maltodextrin, Synthetic Fluorphlogopite, Propanediol, Pullulan, CI 77891 (Titanium Dioxide), Glycerin, Phenethyl Alcohol, Polyacrylate Crosspolymer 6, 1,2-Hexanediol, Xanthan Gum, Caprylyl/Capryl Glucoside, Tin Oxide, CI 77491 (Iron Oxides), Sodium Cocoyl Glutamate, Glyceryl Caprylate, Citric Acid, Polyglyceryl-6 Oleate, Sodium Surfactin"
+    },
+    {
+     "nombre": "Esmalte Green™ Neon Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332969"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, CI 45410 (Red 28), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 45380 (Red 22), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Neon Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516956"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Silica, Diacetone Alcohol, CI 45410 (Red 28), BHT, Phosphoric Acid, CI 45380 (Red 22), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Lava",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332976"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Alcohol Denat., Isopropyl Alcohol, Acrylates Copolymer, CI 15850 (Red 6 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 12085 (Red 36), Tris-HEA IPDI Isocyanurate Trimer, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Lava",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516963"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, CI 15850 (Red 6 Lake), CI 12085 (Red 36), Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Solar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000790"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Synthetic Fluorphlogopite, Alcohol Denat., CI 77891 (Titanium Dioxide), Calcium Sodium Borosilicate, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, Tin Oxide, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Solar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516932"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Synthetic Fluorphlogopite, CI 77891 (Titanium Dioxide), Calcium Sodium Borosilicate, Diacetone Alcohol, Silica, BHT, Phosphoric Acid, Tin Oxide, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Pearlescent",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332341"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Mica, CI 77891 (Titanium Dioxide), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77742 (Ammonium Manganese Pyrophosphate), CI 77491 (Red Oxide Of Iron), Tin Oxide, Kaolin, CI 19140 (Ki N°4), CI 15850 (Aka N°201), CI 77499 (Black Oxide Of Iron)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pearlescent",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515942"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Diacetone Alcohol, Silica, Mica, CI 77891 (Titanium Dioxide), Sorbic Acid, BHT, Phosphoric Acid, CI 77742 (Manganese Violet), CI 77491 (Iron Oxides), Tin Oxide, Kaolin, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Esmalte Green™ Lime",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332334"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, CI 19140 (Yellow 5 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Lime",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515935"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake), Diacetone Alcohol, Silica, Sorbic Acid, BHT, Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Fizz",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332327"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 45410 (Red 28), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77891 (Titanium Dioxide), CI 60730 (Ext Violet 2), Phosphoric Acid, N-Butyl Alcohol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Fizz",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515928"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 45410 (Red 28), Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), Sorbic Acid, BHT, CI 60730 (Ext Violet 2), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Active™ Plump Pink Glazed",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222406"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate"
+    },
+    {
+     "nombre": "Active™ Glow Cranberry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222390"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Glycolic Acid, Caprylic/Capric Triglyceride, Etocrylene, Aqua (Water), Prunus Amygdalus Dulcis (Sweet Almond) Oil, CI 15850 (Red 6 Lake), Isopropyl Alcohol, Hibiscus Sabdariffa Flower Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Lactobacillus Ferment, CI 26100 (Red 17), CI 15850 (Red 7 Lake), 1,2-Hexanediol, Caprylyl Glycol, Rubus Idaeus (Raspberry) Leaf Extract, Tocopherol"
+    },
+    {
+     "nombre": "Active™ Glow Grape",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222383"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Glycolic Acid, Caprylic/Capric Triglyceride, Etocrylene, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glycerin, Aqua (Water), Hibiscus Sabdariffa Flower Extract, CI 15850 (Red 6 Lake), Isopropyl Alcohol, Lactobacillus Ferment, CI 60725 (Violet 2), Vitis Vinifera (Grape) Fruit Extract, Rubus Idaeus (Raspberry) Leaf Extract, Tocopherol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Active™ Smooth (tonos 01, 02, 03)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222345",
+      "3662263222352",
+      "3662263222369"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Oryza Sativa (Rice) Starch, Acrylates Copolymer, Glycolic Acid, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Etocrylene, Olive Oil Decyl Esters, Malic Acid, Tocopheryl Acetate, Hexanal, Lactic Acid, CI 77891 (Titanium Dioxide), Aqua (Water), CI 77491 (Iron Oxides), Propylene Glycol, Squalene, CI 77492 (Iron Oxides), Triethoxycaprylylsilane, Aluminum Hydroxide, Quartz, Potassium Sorbate, CI 77266[Nano] (Black 2), Tocopherol, Sorbic Acid, Stearalkonium Bentonite, Phosphoric Acid, Diacetone Alcohol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pistachio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332495"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Alcohol Denat., Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 19140 (Yellow 5 Lake), Phosphoric Acid, N-Butyl Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide), CI 15850 (Red 6 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Bubble",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263333188"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Alcohol Denat., Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77007 (Ultramarines), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, Kaolin, CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), CI 15850 (Red 6 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pistachio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516918"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 19140 (Yellow 5 Lake), Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bubble",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516925"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77007 (Ultramarines), BHT, Phosphoric Acid, Kaolin, CI 19140 (Yellow 5 Lake), CI 77742 (Manganese Violet), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Pop",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332488"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Stearalkonium Bentonite, Alcohol Denat., CI 77891 (Titanium Dioxide), Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 45410 (Red 28), Phosphoric Acid, CI 45350 (Yellow 8), N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 45380 (Red 22), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pop",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516901"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 45410 (Red 28), CI 45350 (Yellow 8), CI 19140 (Yellow 5 Lake), CI 45380 (Red 22), Phosphoric Acid, CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Iris",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330958"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Tributyl Citrate, Alcohol, Propylene Glycol/Sebacic Acid/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, CI 15880 (Red 34 Lake), Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, CI 77510 (Ferric Ammonium Ferrocyanide), Glycerin, Phosphoric Acid, Aqua (Water), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Satin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516031"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Mica, Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 73360 (Red 30), CI 77742 (Manganese Violet), Tin Oxide, Kaolin, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Quartz",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516048"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Mica, Polyethylene Terephthalate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77499 (Iron Oxides), CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), BHT, Polyurethane-11, Phosphoric Acid, Tin Oxide, CI 77000 (Aluminium Powder)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Mystic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516055"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), CI 15850 (Red 7 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Diacetone Alcohol, Silica, Alcohol, BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte Green™ Satin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332389"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Mica, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Phosphoric Acid, N-Butyl Alcohol, CI 73360 (Red 30), Sorbic Acid, CI 77742 (Manganese Violet), Tin Oxide, Kaolin, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Quartz",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332396"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Mica, Polyethylene Terephthalate, Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77499 (Iron Oxides), CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), Phosphoric Acid, Polyurethane-11, N-Butyl Alcohol, Tin Oxide, CI 77000 (Aluminium Powder), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Mystic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332402"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77891 (Titanium Dioxide), CI 15850 (Red 7 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77510 (Ferric Ammonium Ferrocyanide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Gotas Secantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263224080"
+     ],
+     "inci": "Disiloxane, Coconut Alkanes, Coco-Caprylate/Caprate, Lavandula Angustifolia (Lavender) Oil, Alcohol Denat., Argan Oil Aminopropanediol Esters, Terpineol, Linalyl Acetate, Linalool, Geranyl Acetate, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "Esmalte Green™ Pamplemousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332310"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Mica, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77491 (Iron Oxides), Phosphoric Acid, CI 77742 (Manganese Violet), N-Butyl Alcohol, Tin Oxide, Kaolin, CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Lemonade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332303"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Silica, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), Tin Oxide"
+    },
+    {
+     "nombre": "Esmalte Green™ Wisteria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332297"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 60730 (Ext Violet 2), Phosphoric Acid, N-Butyl Alcohol, CI 45410 (Red 28)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pamplemousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515911"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Mica, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 77491 (Iron Oxides), CI 77742 (Manganese Violet), Phosphoric Acid, Tin Oxide, CI 77004 (Kaolin), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Lemonade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515904"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Synthetic Fluorphlogopite, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Silica, Diacetone Alcohol, Alcohol, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), Tin Oxide"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Wisteria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515898"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 60730 (Ext Violet 2), Phosphoric Acid, CI 45410 (Red 28)"
+    },
+    {
+     "nombre": "Active™ Smooth 00",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222703"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Oryza Sativa (Rice) Starch, Acrylates Copolymer, Glycolic Acid, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Etocrylene, Olive Oil Decyl Esters, Tocopheryl Acetate, Malic Acid, Hexanal, Lactic Acid, CI 77891 (Titanium Dioxide), Aqua (Water), Propylene Glycol, Squalene, CI 77491 (Iron Oxides), Aluminum Hydroxide, Triethoxycaprylylsilane, Quartz, Potassium Sorbate, Sorbic Acid, Tocopherol, Phosphoric Acid"
+    },
+    {
+     "nombre": "Active™ Bright",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222772"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Acrylates Copolymer, Etocrylene, CI 77891 (Titanium Dioxide), Tocopheryl Acetate, Hexanal, Mica, Propylene Glycol, Aqua (Water), Citric Acid, Citrus Limon (Lemon) Fruit Extract, Aluminum Hydroxide, Tin Oxide, Triethoxycaprylylsilane, Tilia Platyphyllos Extract, Tocopherol"
+    },
+    {
+     "nombre": "Active™ Shine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222765"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Silica, Acrylates Copolymer, Glycolic Acid, Calcium Sodium Borosilicate, Etocrylene, Hexanal, Aqua (Water), CI 77891 (Titanium Dioxide), Glycerin, Tin Oxide, CI 77491 (Iron Oxides), Citric Acid, Sorbic Acid, Beta Vulgaris (Beet) Root Extract, Sodium Benzoate, Potassium Sorbate, Tocopherol, Triethoxycaprylylsilane, CI 19140 (Yellow 5 Lake), Aluminum Hydroxide"
+    },
+    {
+     "nombre": "Active™ Glow Blueberry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263221300"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Glycolic Acid, Caprylic/Capric Triglyceride, Etocrylene, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glycerin, Aqua (Water), CI 15850 (Red 6 Lake), Isopropyl Alcohol, Hibiscus Sabdariffa Flower Extract, Lactobacillus Ferment, CI 60725 (Violet 2), Vitis Vinifera Fruit Extract, Vaccinium Myrtillus Fruit Extract, Rubus Idaeus (Raspberry) Leaf Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Porcelaine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332440"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Porcelaine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515867"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Brazil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332471"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 45350 (Yellow 8), CI 42090 (Blue 1), Phosphoric Acid, N-Butyl Alcohol, CI 47005 (Yellow 10 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Brazil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263516277"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 45350 (Yellow 8), CI 42090 (Blue 1), BHT, CI 47005 (Yellow 10 Lake), Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte Green™ Candy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332280"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Phosphoric Acid, CI 45410 (Red 28), N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), Sorbic Acid, CI 45380 (Red 22), CI 60730 (Ext Violet 2)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Candy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515881"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Diacetone Alcohol, Silica, BHT, CI 45410 (Red 28), Phosphoric Acid, CI 45380 (Red 22), CI 60730 (Ext Violet 2)"
+    },
+    {
+     "nombre": "Esmalte amargo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263224097"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Isopropyl Alcohol, Cellulose Acetate Propionate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Denatonium Benzoate, Dimethyl Sulfone, Alcohol Denat., Prunus Armeniaca Kernel Oil, Dimethyl Oxobenzo Dioxasilane, Glycolic Acid, Aqua (Water), Acetyl Methionine, Acetyl Cysteine, Hydrolyzed Cicer Seed Extract, Lens Esculenta (Lentil) Seed Extract, Chenopodium Quinoa Seed Oil, Biotin"
+    },
+    {
+     "nombre": "Esmalte Green™ Shimmer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332433"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, CI 77891 (Titanium Dioxide), Silica, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Mica, CI 77491(Iron Oxides), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77499 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, Tin Oxide, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Shell",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332426"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77492 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, CI 77491 (Iron Oxides), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Jade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263332419"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77492 (Iron Oxides), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Shimmer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515850"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, Silica, CI 77891 (Titanium Dioxide), Mica, CI 77491 (Iron Oxides), Diacetone Alcohol, CI 77499 (Iron Oxides), BHT, Tin Oxide, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Shell",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515843"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77492 (Iron Oxides), BHT, Phosphoric Acid, CI 77491 (Iron Oxides), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Jade : esmalte semipermanente verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515836"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis-Trimethylbenzoyl Phenylphosphine Oxide, Stearalkonium Bentonite, CI 77492 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Mascarilla S.O.S.",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263220099"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Polyvinyl Alcohol, Panthenol, Parfum (Fragrance), Alcohol, Tris(Tetramethylhydroxypiperidinol) Citrate, CI 14700 (Red 4), Eugenol, Geraniol, Citronellol"
+    },
+    {
+     "nombre": "Esmalte Green™ Sparks",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330354"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Synthetic Fluorphlogopite, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77266 [Nano] (Black 2), Sorbic Acid, Phosphoric Acid, CI 77891 (Titanium Dioxide), N-Butyl Alcohol, Tin Oxide, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Red Velvet",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330316"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 15850 (Red 6 Lake), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 15850 (Red 7 Lake), CI 15880 (Red 34 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol"
+    },
+    {
+     "nombre": "Esmalte Green™ Utopia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330347"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77000 (Aluminum Powder), Stearalkonium Bentonite, Silica, Isopropyl Alcohol, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77820 (Silver), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 15850 (Red 6 Lake), Phosphoric Acid, Tin Oxide, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Red Velvet",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514860"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 15850 (Red 6 Lake), CI 15850 (Red 7 Lake), CI 15880 (Red 34 Lake), Diacetone Alcohol, Silica, BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Sparks",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514877"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Synthetic Fluorphlogopite, Diacetone Alcohol, Silica, CI 77266 [Nano] (Black 2), BHT, CI 77891 (Titanium Dioxide), Phosphoric Acid, Tin Oxide, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Utopia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514853"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77000 (Aluminium Powder), Silica, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, CI 77820 (Silver), CI 15850 (Red 6 Lake), BHT, Tin Oxide, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Dark Pansy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330064"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 15880, Stearalkonium Bentonite, CI 15850, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140, CI 77510, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Shell Beige",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330729"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Etocrylene, Acetyl Tributyl Citrate, Diacetone Alcohol, Isopropyl Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77491 (Iron Oxides), Helianthus Annuus (Sunflower) Seed Oil, CI 77499 (Iron Oxides), Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Red Coral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330026"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 73360 (Red 30), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 12085 (Red 36)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Artichaut",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514662"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77492 (Iron Oxides), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77510 (Ferric Ammonium Ferrocyanide), BHT, Phosphoric Acid, CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Metallic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514679"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Silica, CI 77491 (Iron Oxides), CI 77000 (Aluminum Powder), Diacetone Alcohol, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Brique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514648"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 77499 (Iron Oxides), Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Sauge",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514655"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 77510 (Ferric Ammonium Ferrocyanide), CI 19140 (Yellow 5 Lake), CI 77266 [Nano] (Black 2), Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte Green™ Sauge",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331177"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 19140 (Yellow 5 Lake), Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), N-Butyl Alcohol, CI 77266 (Black 2)"
+    },
+    {
+     "nombre": "Esmalte Green™ Metallic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331191"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, Silica, CI 77491 (Iron Oxides), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77000 (Aluminum Powder), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Brique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331160"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 15850 (Red 6 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77499 (Iron Oxides), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Artichaut",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331184"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77492 (Iron Oxides), Acrylates Copolymer, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Mimosa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330880"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 19140 (Yellow 5 Lake), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol"
+    },
+    {
+     "nombre": "Esmalte Green™ Ultramarine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330415"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77007 (Ultramarines), Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Diacetone Alcohol, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Phosphoric Acid, Kaolin, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Snow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330187"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Diamant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330460"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate, Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Phosphoric Acid, N-Butyl Alcohol, CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Red Coral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515423"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 73360 (Red 30), Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), BHT, CI 19140 (Yellow 5 Lake), Phosphoric Acid, CI 12085 (Red 36)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Capucine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263510381"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 73360 (Aka 226), Diacetone Alcohol, Silica, CI 19140 (Ki N°4), BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte Green™ Gold",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330453"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Silica, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77891 (Titanium Dioxide), Sorbic Acid, CI 77491 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, Tin Oxide, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Disco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331153"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, CI 77000 (Aluminum Powder), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 77891 (Titanium Dioxide), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Mica, Sorbic Acid, CI 77491 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, Tin Oxide, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bougainvillea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514624"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), CI 73360 (Red 30), Diacetone Alcohol, Silica, CI 15850 (Red 7 Lake), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Violette",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514617"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Silica, Diacetone Alcohol, CI 15880 (Red 34 Lake), BHT, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Disco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514631"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Calcium Aluminum Borosilicate, Stearalkonium Bentonite, CI 77000 (Aluminum Powder), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Mica, CI 77491 (Iron Oxides), BHT, Phosphoric Acid, Tin Oxide, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Bougainvillea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000103"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77891 (Titanium Dioxide), CI 73360 (Red 30), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Etocrylene, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 15850 (Red 7 Lake), Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Blossom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330996"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77742 (Manganese Violet), Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77491 (Iron Oxides), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Beige",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330194"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, CI 77891 (Titanium Dioxide), Phosphoric Acid, N-Butyl Alcohol, Mica, Sorbic Acid, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), Tin Oxide, CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Milky White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263515430"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Bis(Glycidoxyphenyl)Propane/Bisaminomethylnorbornane Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, Ethyl Trimethylbenzoyl Phenylphosphinate, Fluorescent Brightener 230, BHT, Phosphoric Acid, Aluminum Hydroxide, CI 60725 (Violet 2), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Color Refresher",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514778"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Acrylates Copolymer, Nitrocellulose, Acetyl Tributyl Citrate, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Ethyl Trimethylbenzoyl Phenylphosphinate, Tris-HEA IPDI Isocyanurate Trimer, CI 60725 (Violet 2)"
+    },
+    {
+     "nombre": "Esmalte Green™ Péonie",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330088"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 73360 (Red 30), CI 15850 (Red 7 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Gloss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263321055"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Acrylates Copolymer, Silica, HEA IPDI Isocyanurate"
+    },
+    {
+     "nombre": "Esmalte Green™ Lisa Lilas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330705"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, HEA IPDI Isocyanurate, Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 15850 (Red 7 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Milky White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330606"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Acrylates Copolymer, CI 77891 (Titanium Dioxide), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 60725 (Violet 2), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Midnight",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331139"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, CI 77510 (Ferric Ammonium Ferrocyanide), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 15880 (Red 34 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77266 [Nano] (Black 2), Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Riviera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331122"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, CI 19140 (Yellow 5 Lake), N-Butyl Alcohol"
+    },
+    {
+     "nombre": "Esmalte Green™ Mermaid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331467"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Polyethylene Terephthalate, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isopropyl Alcohol, Polyurethane-33, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Phosphoric Acid, N-Butyl Alcohol, CI 77000 (Aluminium Powder), CI 77499 (Iron Oxides), Sorbic Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Mermaid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514761"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Polyethylene Terephthalate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, Polyurethane-33, Alcohol, BHT, Phosphoric Acid, CI 77000 (Aluminium Powder)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Riviera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514587"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Midnight",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514594"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77891 (Titanium Dioxide), CI 77510 (Ferric Ammonium Ferrocyanide), Diacetone Alcohol, Silica, CI 15880 (Red 34 Lake), BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Hollyhock",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330545"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl, Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 15880 (Red 34 Lake), Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, CI 15850 (Red 7 Lake), Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, N-Butyl Alcohol, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Red Cherry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330057"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl"
+    },
+    {
+     "nombre": "Esmalte Green™ Coral Reef",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330163"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 77891, CI 73360, CI 12085, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Extract, CI 19140, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Poppy Seed",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310141"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77499, Isopropyl Alcohol, Acetyl Tributyl Citrate, CI 77891, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77510, Helianthus Annuus (Sunflower) Seed Oil, CI 15880, Phosphoric Acid, Silica, Alumina, Bambusa Vulgaris Extract, CI 19140, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pulp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331030"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acetyl Tributyl Citrate, CI 15850 (Red 6 Lake), Etocrylene, CI 19140 (Yellow 5 Lake), Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, Water (Aqua), Alumina, Trimethylpentanediyl Dibenzoate, Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte Green™ Crème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331108"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Acrylates Copolymer, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, N-Butyl Alcohol, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Petit Pois",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263331115"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, CI 19140 (Yellow 5 Lake), HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Diacetone Alcohol, Sorbic Acid, Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), N-Butyl Alcohol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Crème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514563"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pulp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514525"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15850 (Red 6 Lake), Diacetone Alcohol, Silica, CI 19140 (Yellow 5 Lake), Alcohol, BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Active™ Glow Raspberry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263224110"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Glycolic Acid, Caprylic/Capric Triglyceride, Etocrylene, Prunus Amygdalus Dulcis (Sweet Almond) Oil, CI 15850 (Red 6 Lake), Isopropyl Alcohol, Lactobacillus Ferment, Rubus Idaeus (Raspberry) Leaf Extract, Tocopherol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Gloss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514532"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, CI 77891 (Titanium Dioxide), Diacetone Alcohol, BHT, CI 77742 (Manganese Violet), Phosphoric Acid, Tin Oxide, CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pétula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514006"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15850 (Red 7 Lake), Diacetone Alcohol, Silica, Alcohol, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Top Coat Mate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263311230"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Silica, Stearalkonium Bentonite, Etocrylene, Diacetone Alcohol, Phosphoric Acid, Trimethylpentanediyl Dibenzoate, CI 60725 (Violet 2)"
+    },
+    {
+     "nombre": "Esmalte Green™ Clay",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263321024"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acetyl Tributyl Citrate, CI 77491 (Iron Oxides), Etocrylene, Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, CI 77266 [Nano] (Black 2), Glycerin, Phosphoric Acid, Aqua (Water), Trimethylpentanediyl Dibenzoate, Alumina, CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte Green™ Anthracite",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263321017"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, CI 77891 (Titanium Dioxide), Etocrylene, Diacetone Alcohol, CI 77266 [Nano] (Black 2), Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, Aqua (Water), Trimethylpentanediyl Dibenzoate, Alumina, CI 19140 (Yellow 5 Lake), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte Green™ Saphir",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263321000"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, CI 77742 (Manganese Violet), Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acetyl Tributyl Citrate, Etocrylene, CI 77510 (Ferric Ammonium Ferrocyanide), Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, Aqua (Water), Trimethylpentanediyl Dibenzoate, Alumina, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Clay",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514501"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77491 (Iron Oxides), Diacetone Alcohol, Silica, CI 77266 [Nano] (Black 2), BHT, Phosphoric Acid, CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Saphir",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514488"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77742 (Manganese Violet), CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, CI 77510 (Ferric Ammonium Ferrocyanide), BHT, Phosphoric Acid, CI 77266 [Nano] (Black 2), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Anthracite",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263514495"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77266 [Nano] (Black 2), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake )"
+    },
+    {
+     "nombre": "Esmalte Green™ Poison",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263312015"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Calcium Aluminum Borosilicate, Calcium Aluminum Borosilicate, CI 19140 (Yellow 5 Lake), Etocrylene, CI 77510 (Ferric Ammonium Ferrocyanide), Diacetone Alcohol, CI 77891 (Titanium Dioxide), Sorbic Acid, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77266 [Nano] (Black 2), Phosphoric Acid, Glycerin, Silica, Aqua (Water), Alumina, Tin Oxide, Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte Green™ Moon",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263312022"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Mica, CI 77891 (Titanium Dioxide), Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Isopropyl Alcohol, Glycerin, Phosphoric Acid, Sorbic Acid, Aqua (Water), Alumina, Tin Oxide, CI 19140 (Yellow 5 Lake ), Acetyl Tributyl Citrate, Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Fuchsia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503994"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Ethyl Acetate, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15850 (Red 7 Lake), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 77742 (Manganese Violet), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Moon",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503796"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Mica, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, BHT, Phosphoric Acid, Tin Oxide, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Poison",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503765"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, Calcium Aluminum Borosilicate, Silica, CI 19140 (Yellow 5 Lake), Diacetone Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide), CI 77891 (Titanium Dioxide), CI 77266 [Nano] (Black 2), BHT, Phosphoric Acid, Tin Oxide"
+    },
+    {
+     "nombre": "Esmalte Green™ Fuchsia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310103"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, CI 15850, CI 77891, Isopropyl Alcohol, Etocrylene, Diacetone Alcohol, CI 77742, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Silica, Bambusa Vulgaris Sap Extract, CI 19140, CI 73360, Tocopherol"
+    },
+    {
+     "nombre": "Crema botánica Fleur d'Orange - Cosmos Organic - 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263400149"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil*, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Glyceryl Stearate Citrate, Hydrogenated Rapeseed Oil, Parfum (Fragrance), Benzyl Alcohol, Sodium Stearoyl Lactylate, Xanthan Gum, Sodium Benzoate, Aloe Barbadensis Leaf Extract*, Acacia Decurrens Flower Wax, Polyglycerin-3, Dehydroacetic Acid, Linalool, Citric Acid, Biosaccharide Gum-1, Eugenol, Sodium Levulinate, Limonene, Glyceryl Caprylate, Lilium Candidum Flower Extract, Citronellol, Sodium Anisate, Geraniol, Citral"
+    },
+    {
+     "nombre": "Crema botánica Lavande Vraie - Cosmos Organic - 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263400132"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil*, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Glyceryl Stearate Citrate, Hydrogenated Rapeseed Oil, Parfum (Fragrance), Benzyl Alcohol, Sodium Stearoyl Lactylate, Xanthan Gum, Sodium Benzoate, Aloe Barbadensis Leaf Extract*, Acacia Decurrens Flower Wax, Polyglycerin-3, Dehydroacetic Acid, Citric Acid, Linalool, Biosaccharide Gum-1, Sodium Levulinate, Glyceryl Caprylate, Lilium Candidum Flower Extract, Sodium Anisate, Citronellol"
+    },
+    {
+     "nombre": "Jabón artesanal Lavande Vraie - Cosmos Organic - 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263400071"
+     ],
+     "inci": "Aqua (Water), Potassium Cocoate, Tetrasodium Glutamate Diacetate, Cellulose Gum, Glycerin, Potassium Olivate, Parfum (Fragrance), Decyl Glucoside, Cocos Nucifera (Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Linalool, Caramel"
+    },
+    {
+     "nombre": "Crema botánica Rose Nouvelle - Cosmos Organic - 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263400125"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil*, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Glyceryl Stearate Citrate, Hydrogenated Rapeseed Oil, Parfum (Fragrance), Benzyl Alcohol, Sodium Stearoyl Lactylate, Xanthan Gum, Sodium Benzoate, Aloe Barbadensis Leaf Extract*, Acacia Decurrens Flower Wax, Polyglycerin-3, Dehydroacetic Acid, Citronellol, Citric Acid, Biosaccharide Gum-1, Geraniol, Sodium Levulinate, Glyceryl Caprylate, Lilium Candidum Flower Extract, Sodium Anisate, Linalool, Eugenol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pastel Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263504465"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, BHT, CI 77492 (Iron Oxides), CI 77491 (Iron Oxides), Phosphoric Acid, CI 73360 (Red 30), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263312008"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Isopropyl Alcohol, Alumina, Phosphoric Acid, Acetyl Tributyl Citrate, Diacetone Alcohol, Etocrylene, Trimethylpentanediyl Dibenzoate, CI 77742 (Manganese Violet), CI 15850 (Red 6 Lake), CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503741"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77742 (Manganese Violet), Diacetone Alcohol, CI 15850 (Red 6 Lake), Silica, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Aubergine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263311216"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, Acetyl Tributyl Citrate, Stearalkonium Bentonite, Alumina, Phosphoric Acid, Bambusa Arundinacea Stem Extract, Cocos Nucifera (Coconut) Oil, Diacetone Alcohol, Aqua (Water), Etocrylene, Glycerin, Sorbic Acid, Trimethylpentanediyl Dibenzoate, CI 77510 (Ferric Ammonium Ferrocyanide), CI 15880 (Red 34 Lake), CI 73360 (Red 30), CI 73360, CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Aubergine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503734"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Tosylamide/Epoxy Resin, Tributyl Citrate, Isopropyl Alcohol, Acetyl Tributyl Citrate, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15880 (Red 34 Lake), Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, CI 77891 (Titanium Dioxide), Diacetone Alcohol, Octocrylene, Silica, CI 77510 (Ferric Ammonium Ferrocyanide), Alcohol, HEA/IPDI Isocyanurate Trimer/Pg Crosspolymer, Phosphoric Acid, Glycolic Acid, Malic Acid, Lactic Acid, CI 19140 (Yellow 5 Lake), Water (Aqua), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Dune",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263311223"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Ethyl Acetate, Isopropyl Alcohol, Stearalkonium Bentonite, Alumina, Phosphoric Acid, Acetyl Tributyl Citrate, Bambusa Arundinacea Stem Extract, Cocos Nucifera (Coconut) Oil, Diacetone Alcohol, Aqua (Water), Etocrylene, Glycerin, Sorbic Acid, Trimethylpentanediyl Dibenzoate, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Dune",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503727"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Tosylamide/Epoxy Resin, Tributyl Citrate, Isopropyl Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Diacetone Alcohol, Silica, Octocrylene, CI 77491 (Iron Oxides), HEA/IPDI Isocyanurate Trimer/Pg Crosspolymer, CI 77499 (Iron Oxides), Phosphoric Acid, Glycolic Acid, Lactic Acid, Malic Acid, CI 19140 (Yellow 5 Lake), Aqua (Water)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Cosmic Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500801"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Hydroxyethyl Acrylate/IPDI/PPG-15, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77000 (Aluminum Powder), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77491 (Iron Oxides), Mica, Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Esmalte Green™ Amande",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310981"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Etocrylene, Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 19140 (Yellow 5 Lake), Glycerin, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, Aqua (Water), Alumina, Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ amande",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503604"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Butyl Acetate, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, Etocrylene, Diacetone Alcohol, Silica, CI 19140 (Yellow 5 Lake), BHT, CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Blossom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263503611"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, CI 77742 (Manganese Violet), BHT, CI 77491 (Iron Oxides), Phosphoric Acid, CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 15850 (Red 6 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Light Blue",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310875"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Tributyl Citrate, Alcohol, Propylene Glycol/Sebacic Acid/Trimellitic Anhydride Copolymer, CI 77891 (Titanium Dioxide), Isopropyl Alcohol, Stearalkonium Bentonite, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Etocrylene, Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), Aqua, CI 19140 (Yellow 5 Lake), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Light Blue",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500962"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500580"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, BHT, CI 19140 (Yellow 5 Lake), Phosphoric Acid, CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pink Paradise",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500658"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, CI 73360 (Red 30), Mica, BHT, Phosphoric Acid, CI 15850 (Red 7 Lake), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Bálsamo Rose - Cosmos Orgánico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263400026",
+      "3662263400255"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Octyldodecanol, Cocos Nucifera (Coconut) Oil*, C10-18 Triglycerides, Glycerin**, Oleic/Linoleic/Linolenic Polyglycerides, Glyceryl Behenate, Glyceryl Stearate, Parfum (Fragrance), Rosa Damascena Flower Oil, Alkanna Tinctoria Root Extract, Tocopherol, Undaria Pinnatifida Extract*, Caprylic/Capric Triglyceride, Citronellol, Geraniol, Linalool, Eugenol, Citral"
+    },
+    {
+     "nombre": "Esmalte Green™ Orme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310837"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Tributyl Citrate, Alcohol, Propylene Glycol/Sebacic Acid/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Stearalkonium Bentonite, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, CI 77891 (Titanium Dioxide), Acetyl Tributyl Citrate, CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), CI 77491 (Iron Oxides), Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, Aqua (Water), CI 73360 (Red 30), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Orme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500825"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77492 (Iron Oxides), Diacetone Alcohol, Silica, CI 77491 (Iron Oxides), BHT, CI 77266 [Nano] (Black 2), Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte Green™ Clove",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310820"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Tributyl Citrate, Alcohol, Propylene Glycol/Sebacic Acid/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Stearalkonium Bentonite, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77491 (Iron Oxides), Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Phosphoric Acid, Glycerin, Aqua (Water), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte Green™ Cosmic Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310806"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Tributyl Citrate, Alcohol, Propylene Glycol/Sebacic Acid/Trimellitic Anhydride Copolymer, CI 77000 (Aluminum Powder), Isopropyl Alcohol, Stearalkonium Bentonite, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, CI 77491 (Iron Oxides), Mica, Diacetone Alcohol, Sorbic Acid, Cocos Nucifera (Coconut) Oil, Glycerin, Phosphoric Acid, Aqua (Water), Acetyl Tributyl Citrate, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), CI 77499 (Iron Oxides), Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Esmalte infantil Bonnie la Sirène",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270131"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, Polyethylene Terephthalate, CI 77891 (Titanium Dioxide), Propanediol, Mica, Pentylene Glycol, Barium Sulfate, Calcium Sodium Borosilicate, Hectorite, Silica, PPG-30 Butyl Ether, CI 77007 (Ultramarines), Propylene Glycol, Calcium Aluminum Borosilicate, PEG-150/Decyl Alcohol/Smdi Copolymer, Parfum (Fragrance), Polyurethane-11, PEG-40 Castor Oil, CI 77492 (Iron Oxides), Tin Oxide, Polymethyl/Phenylsilsesquioxane Silicate, CI 77510 (Ferric Ferrocyanide), CI 19140 (Yellow 5 Lake), Sodium Benzoate, Silica Dimethyl Silylate, Phenethyl Alcohol, Kaolin, 1,2-Hexanediol, Ammonium Acrylates Copolymer, Bentonite, Aminomethyl Propanol, Butylene Glycol, Caprylyl Glycol, Trideceth-6 Phosphate, Dipropylene Glycol, Glyceryl Caprylate"
+    },
+    {
+     "nombre": "Esmalte infantil Kiki el gatito",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270223"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, CI 73360 (Red 30 Lake), Propanediol, Pentylene Glycol, Hectorite, CI 77891 (Titanium Dioxide), PPG-30 Butyl Ether, PEG-40 Castor Oil, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, Parfum (Fragrance), Mica, Phenethyl Alcohol, Sodium Benzoate, 1,2-Hexanediol, Bentonite, Silica Dimethyl Silylate, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Esmalte infantil Lucette La Fauvette",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270193"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, Propanediol, Pentylene Glycol, CI 15850 (Red 7 Lake), Hectorite, PPG-30 Butyl Ether, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, PEG-40 Castor Oil, Parfum (Fragrance), Phenethyl Alcohol, Sodium Benzoate, Silica Dimethyl Silylate, 1,2-Hexanediol, Bentonite, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Esmalte infantil Janis el hipocampo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270155"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, CI 77891 (Titanium Dioxide), Propanediol, Synthetic Fluorphlogopite, Pentylene Glycol, Hectorite, Calcium Aluminum Borosilicate, PPG-30 Butyl Ether, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, Silica, PEG-40 Castor Oil, CI 77007 (Ultramarines), CI 73360 (Red 30 Lake), Parfum (Fragrance), Phenethyl Alcohol, Sodium Benzoate, Silica Dimethyl Silylate, 1,2-Hexanediol, Bentonite, Tin Oxide, Aminomethyl Propanol, Kaolin, CI 77492 (Iron Oxides), Ammonium Acrylates Copolymer, Butylene Glycol, Caprylyl Glycol, Trideceth-6 Phosphate, Dipropylene Glycol, Glyceryl Caprylate"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Shell Beige",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500696"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Ethyl Trimethylbenzoyl Phenylphosphinate, Diacetone Alcohol, Silica, CI 77491 (Iron Oxides), CI 77499 (Iron Oxides), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Navy Blue",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310714"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 77510 (Ferric Ammonium Ferrocyanide), CI 77891 (Titanium Dioxide), Etocrylene, CI 15880 (Red 34 Lake), Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Tocopherol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Navy Blue",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500665"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77510 (Ferric Ammonium Ferrocyanide), CI 77891 (Titanium Dioxide), Silica, Diacetone Alcohol, CI 15880 (Red 34 Lake), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Terracotta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310738"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77491 (Iron Oxides), Acetyl Tributyl Citrate, CI 77891 (Titanium Dioxide), Etocrylene, CI 12085 (Red 36), Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Sorbic Acid, Trimethylpentanediyl Dibenzoate, CI 19140 (Yellow 5 Lake), Glycerin, Phosphoric Acid, Aqua (Water), Alumina, Bambusa Arundinacea Stem Extract"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Terracotta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500702"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, Stearalkonium Bentonite, CI 12085 (Red 36), CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), Diacetone Alcohol, Silica, CI 19140 (Yellow 5 Lake), BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Esmalte infantil Lily the Unicorn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270216"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, Propanediol, CI 77891 (Titanium Dioxide), Pentylene Glycol, CI 77007 (Ultramarines), Hectorite, CI 73360 (Red 30 Lake), PPG-30 Butyl Ether, PEG-40 Castor Oil, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, Parfum (Fragrance), Phenethyl Alcohol, Sodium Benzoate, 1,2-Hexanediol, Bentonite, Kaolin, Silica Dimethyl Silylate, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Esmalte infantil Manzana el pescado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270186"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, CI 77891 (Titanium Dioxide), Propanediol, Pentylene Glycol, Synthetic Fluorphlogopite, CI 77007 (Ultramarines), Hectorite, PPG-30 Butyl Ether, PEG-40 Castor Oil, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, Parfum (Fragrance), Phenethyl Alcohol, 1,2-Hexanediol, Sodium Benzoate, Bentonite, Kaolin, Silica Dimethyl Silylate, Aminomethyl Propanol, Tin Oxide, CI 77492 (Iron Oxides), Ammonium Acrylates Copolymer, Butylene Glycol, Caprylyl Glycol, Trideceth-6 Phosphate, Dipropylene Glycol, Glyceryl Caprylate"
+    },
+    {
+     "nombre": "Esmalte infantil Pia la abeja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263270209"
+     ],
+     "inci": "Aqua (Water), Sodium Acrylate/Methylstyrene/Styrene Copolymer, Polystyrene, PPG-3 Methyl Ether, Propanediol, Pentylene Glycol, Hectorite, Calcium Aluminum Borosilicate, PPG-30 Butyl Ether, Propylene Glycol, PEG-150/Decyl Alcohol/Smdi Copolymer, Silica, CI 77891 (Titanium Dioxide), Parfum (Fragrance), CI 77492 (Iron Oxides), Sodium Benzoate, Silica Dimethyl Silylate, PEG-40 Castor Oil, Tin Oxide, Ammonium Acrylates Copolymer, Phenethyl Alcohol, 1,2-Hexanediol, Bentonite, Butylene Glycol, Aminomethyl Propanol, Caprylyl Glycol, Trideceth-6 Phosphate, Dipropylene Glycol, Glyceryl Caprylate"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Lisa Lilas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500597"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, BHT, CI 15850 (Red 7 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Esmalte Green™ Bois de Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330682"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides), Acetyl Tributyl Citrate, Isopropyl Alcohol, Etocrylene, Diacetone Alcohol, CI 73360 (Red 30), Trimethylpentanediyl Dibenzoate, CI 15850 (Red 7 Lake), Phosphoric Acid, CI 77499 (Iron Oxides), Alumina, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Red Hibiscus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500368"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77491 (Iron Oxides), Mica, Silica, CI 15880 (Red 34 Lake), Diacetone Alcohol, BHT, CI 77891 (Titanium Dioxide), Phosphoric Acid, Tin Oxide, CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Dark Night",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500344"
+     ],
+     "inci": "Ethyl Acetate, Nitrocellulose, Butyl Acetate, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77510 (Ferric Ammonium Ferrocyanide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77499 (Iron Oxides), CI 77891 (Titanium Dioxide), Mica, Silica, Diacetone Alcohol, BHT, Phosphoric Acid, CI 77510 (Ferric Ferrocyanide), Tin Oxide"
+    },
+    {
+     "nombre": "Aceite Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263220051"
+     ],
+     "inci": "Prunus Amygdalus Dulcis (Sweet Almond) Oil, Passiflora Edulis Seed Oil, Juglans Regia (Walnut) Seed Oil, Aleurites Moluccanus Seed Oil, Cocos Nucifera (Coconut) Oil, Adansonia Digitata Seed Oil, Tocopheryl Acetate, Tocopherol"
+    },
+    {
+     "nombre": "Base Fortificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263222437"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Glycolic Acid, Aqua (Water), Etocrylene, Gluconolactone, Isopropyl Alcohol, Dimethyl Oxobenzo Dioxasilane, CI 60725 (Violet 2)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Indian Summer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500337"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 73360 (Red 30), CI 77491 (Iron Oxides), Diacetone Alcohol, Silica, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake), BHT, Phosphoric Acid, CI 12085 (Red 36)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Victoria Plum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500436"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77491 (Iron Oxides), CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), Diacetone Alcohol, Silica, CI 73360 (Red 30), CI 15880 (Red 34 Lake), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Khaki",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000196"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77499, Stearalkonium Bentonite, Isopropyl Alcohol, Acetyl Tributyl Citrate, CI 77891, CI 19140, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, CI 77491, Phosphoric Acid, Silica, Alumina, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Rose Mountbatten",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500429"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), Diacetone Alcohol, Silica, CI 77491 (Iron Oxides), BHT, Mica, CI 19140 (Yellow 5 Lake), CI 15880 ( Red 34 Lake), Phosphoric Acid, CI 73360 (Red 30)"
+    },
+    {
+     "nombre": "Diluyente Green Flash™",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263502027"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Alcohol Denat"
+    },
+    {
+     "nombre": "Esmalte Green™ Pétula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263315078"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140 (Yellow 5 Lake), CI 73360 (Red 30), Tocopherol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Bird of Paradise",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500153"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 12085 (Red 36), Silica, Diacetone Alcohol, Mica, CI 73360 (Red 30), BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Esmalte Green™ Anémone",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330040"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 15850, Etocrylene, Diacetone Alcohol, CI 73360, CI 15850, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Iron Oxides, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pastel Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310653"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891 (Titanium Dioxide), Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, Silica, Tocopherol"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Hortencia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500252"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, CI 77742 (Manganese Violet), CI 73360 (Red 30), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Beige",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500269"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, Mica, Ci77491 (Iron Oxides), Ci19140 (Yellow 5 Lake), Ci77499 (Iron Oxides), Tin Oxide"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pale Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500283"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, CI 77742 (Manganese Violet), CI 77491 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Licorice",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500290"
+     ],
+     "inci": "Ethyl Acetate, Nitrocellulose, Butyl Acetate, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Acetyl Tributyl Citrate, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77499 (Iron Oxide), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, BHT, Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Khaki",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500214"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 77499 (Iron Oxides), Ethyl Trimethylbenzoyl Phenylphosphinate, CI 77891 (Titanium Dioxide), Silica, Diacetone Alcohol, CI 19140 (Yellow 5 Lake), BHT, CI 77491 (Iron Oxides), Phosphoric Acid"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Diamant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500245"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, BHT, Silica, CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Ultramarine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500191"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, CI 77007 (Ultramarines), Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, CI 77891 (Titanium Dioxide), BHT, Phosphoric Acid, Aluminum Hydroxide, Triethoxycaprylylsilane, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Carnation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500139"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Mica, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, Tin Oxide, BHT, Silica, CI 77491 (Iron Oxides), CI 77742 (Manganese Violet), CI 77891 (Titanium Dioxide), CI 77499 (Iron Oxides), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Coral Reef",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500146"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, Mica, BHT, Silica, CI 12085 (Red 36), CI 73360 (Red 30), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Hollyhock",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500108"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, BHT, Silica, CI 15850 (Red 7 Lake), CI 77510 (Ferric Ammonium Ferrocyanide), CI 15880 (Red 34 Lake), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Péonie",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500115"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, BHT, Silica, CI 15850 (Red 7 Lake), CI 73360 (Red 30), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Poppy Red",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500054"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, CI 73360 (Red 30), Ethyl Trimethylbenzoyl Phenylphosphinate, Silica, Diacetone Alcohol, CI 15850 (Red 7 Lake), CI 77891 (Titanium Dioxide), BHT, CI 77491 (Iron Oxides), Phosphoric Acid, CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Red Cherry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500061"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, BHT, Silica, CI 12085 (Red 36), CI 15850 (Red 7 Lake), CI 73360 (Red 30), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Pomegranate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500085"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Stearalkonium Bentonite, Ethyl Trimethylbenzoyl Phenylphosphinate, Phosphoric Acid, Diacetone Alcohol, BHT, Silica, CI 12085 (Red 36), CI 15850 (Red 7 Lake), CI 73360 (Red 30), CI 15880 (Red 34 Lake), CI 77891 (Titanium Dioxide), CI 19140 (Yellow 5 Lake)"
+    },
+    {
+     "nombre": "Semipermanente Green Flash™ Dark Pansy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500092"
+     ],
+     "inci": "Ethyl Acetate, Nitrocellulose, Butyl Acetate, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Acetyl Tributyl Citrate, Isopropyl Alcohol, Bis-HEMA Poly(1,4-Butanediol)-9/IPDI Copolymer, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 15880 (Red 34 Lake), Stearalkonium Bentonite, CI 15850 (Red 7 Lake), Diacetone Alcohol, Silica, BHT, Phosphoric Acid, CI 19140 (Yellow 5 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Top Coat Green Flash™",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263500030"
+     ],
+     "inci": "Ethyl Acetate, Butyl Acetate, Acrylates Copolymer, HEA/IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Nitrocellulose, Acetyl Tributyl Citrate, Tris-HEA IPDI Isocyanurate Trimer, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Hydroxyethyl Acrylate/IPDI/PPG-15 Glyceryl Ether Copolymer, Isopropyl Alcohol, Ethyl Trimethylbenzoyl Phenylphosphinate, CI 60725 (Violet 2)"
+    },
+    {
+     "nombre": "Esmalte Green™ Gold Sand",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310585"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891, Mica, Synthetic Fluorphlogopite, Stearalkonium Bentonite, Etocrylene, Diacetone Alcohol, CI 77491, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Tin Oxide, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140, Tocopherol, Acetyl Tributyl Citrate, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Esmalte Green™ Lilas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330521"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 77007, CI 77742, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77499, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Silica, CI 19140, CI 73360, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Rose Mountbatten",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330477"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77891, Isopropyl Alcohol, Acetyl Tributyl Citrate, CI 77499, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77491, Helianthus Annuus (Sunflower) Seed Oil, CI 15880, CI 19140, Phosphoric Acid, Alumina, Silica, CI 73360, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Dark Night",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000240"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Butyl Acetate, Alcohol, CI 77510, Acetyl Tributyl Citrate, Isopropyl Alcohol, Stearalkonium Bentonite, CI 77499, CI 77891, Mica, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Silica, Alumina, Tin Oxide, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Armeria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000172"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77891, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 15880, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, CI 19140, CI 73360, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Bird of Paradise",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330309"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, Etocrylene, CI 12085, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 73360, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, CI 19140, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Red Hibiscus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330323"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77491, Mica, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 15880, Silica, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, CI 73360, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Dark Dahlia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330330"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Acetyl Tributyl Citrate, Isopropyl Alcohol, Stearalkonium Bentonite, CI 15850, CI 15880, Etocrylene, CI 15850, Diacetone Alcohol, CI 77891, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, CI 77491, Phosphoric Acid, Alumina, Bambusa Vulgaris Extract, Silica, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Carnation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330248"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Mica, Stearalkonium Bentonite, CI 77891, CI 77742, Etocrylene, Acetyl Tributyl Citrate, Diacetone Alcohol, Isopropyl Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 77491, Helianthus Annuus (Sunflower) Seed Oil, CI 77499, Phosphoric Acid, Tin Oxide, Alumina, Silica, CI 19140, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Capucine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330279"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891, Stearalkonium Bentonite, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 73360, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 19140, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pink Sand",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000028"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Acetyl Tributyl Citrate, Alcohol, Stearalkonium Bentonite, CI 77891 (Titanium Dioxide), Acrylates Copolymer, Isopropyl Alcohol, HEA IPDI Isocyanurate Trimer/Polycaprolactone Diol Copolymer, Isophorone Diamine/Isophthalic Acid/Tromethamine Copolymer, Tris-HEA IPDI Isocyanurate Trimer, Sorbic Acid, Diethylhexyl Sodium Sulfosuccinate, CI 77491 (Iron Oxides), Phosphoric Acid, N-Butyl Alcohol, Aqua (Water), CI 19140 (Yellow 5 Lake), Alcohol Denat., CI 77499 (Iron Oxides), CI 45410 (Red 28), CI 45350 (Yellow 8), CI 19140 (Yellow 5), CI 15850 (Red 6 Lake), CI 77510 (Ferric Ammonium Ferrocyanide)"
+    },
+    {
+     "nombre": "Old Rose : esmalte rosa viejo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263000059"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, CI 77891, Stearalkonium Bentonite, CI 77742, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 77491, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, CI 77499, Alumina, Silica, CI 19140, Bambusa Vulgaris Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Violeta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330118"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 15880, Stearalkonium Bentonite, CI 77891, Etocrylene, Diacetone Alcohol, CI 15850, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Bambusa Vulgaris Sap Extract, CI 19140, CI 77510, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Victoria Plum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330125"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, CI 77491, CI 77891, Acetyl Tributyl Citrate, Isopropyl Alcohol, CI 77499, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, Trimethylpentanediyl Dibenzoate, CI 73360, CI 15880, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, Silica, Bambusa Vulgaris Extract, CI 19140, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pomegranate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263330071"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Stearalkonium Bentonite, Acetyl Tributyl Citrate, CI 15850, Isopropyl Alcohol, Etocrylene, Diacetone Alcohol, CI 73360, CI 15880, Cocos Nucifera Oil, Trimethylpentanediyl Dibenzoate, CI 77891, Helianthus Annuus (Sunflower) Seed Oil, Phosphoric Acid, Alumina, CI 19140, CI 12085, Bambusa Vulgaris Sap Extract, Tocopherol"
+    },
+    {
+     "nombre": "Esmalte Green™ Pale Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662263310004"
+     ],
+     "inci": "Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isosorbide Dicaprylate/Caprate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Alcohol, Ethyl Acetate, Stearalkonium Bentonite, Butyl Acetate, Etocrylene, Diacetone Alcohol, Cocos Nucifera (Coconut) Oil, CI 77891, Trimethylpentanediyl Dibenzoate, Helianthus Annuus (Sunflower) Seed Oil, Acetyl Tributyl Citrate, Phosphoric Acid, Isopropyl Alcohol, Alumina, CI 77742, CI 77491, CI 19140, Bambusa Vulgaris Sap Extract, Silica, Tocopherol"
     }
    ]
   }
