@@ -785,7 +785,7 @@ velas y ambientadores son Hogar; K-beauty: comprobar que el INCI de la web (en i
 envase europeo.
 1. ~~Durex (lubricantes, geles y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03b): 6 productos, 7 códigos; ver su apartado
 2. ~~Control (lubricantes y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03c): 3 productos, 3 códigos (solo las cremas publican INCI); ver su apartado
-3. Cumlaude Lab (higiene íntima)
+3. ~~Cumlaude Lab (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03d): 30 productos, 31 códigos; ver su apartado
 4. Chilly (higiene íntima)
 5. Saforelle (higiene íntima)
 6. Kiko Milano (maquillaje)
@@ -797,6 +797,40 @@ envase europeo.
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Cumlaude Lab (cumlaudelab.com/es) — cerrada 2026-10-03 (versión 2026-10-03d): 30 productos, 31 códigos — tercera cola, 3
+- **Lista**: web oficial (Next.js, sitemap `/es/sitemap.xml`), bloque INCI bajo "Ingredientes" (separado por ";"),
+  49 fichas de producto. Fuera los **13 complementos alimenticios** (Drenaqua, Drenaqua Plus, Endopelv, Femcollagen,
+  Femplus, Ginenatal Forte, Gineseda cápsulas, Lubripiù Ω7, Menstrual Tech, Serotogyn y Nocta, Tynbiotic, Vibioma): no son
+  cosmética; y las bragas menstruales.
+- **Códigos: la web no da EAN** (SKU interno, "CLXHI"). Salen de **Atida** (67 fichas Cumlaude, `gtin13` + su lista), y
+  cada código se ata a la ficha oficial **por lista idéntica** (no por nombre): 29 con la misma lista ingrediente a
+  ingrediente; Toallitas Perianales 8428749696100 por nombre y formato exactos (Atida no da lista). Fuera packs
+  (`21000…`, "2x", "+ regalo"). OBF no tiene ningún producto Cumlaude.
+- **Mismo nombre, dos fórmulas** según el formato: CLX Higiene Íntima 100 ml (sin Ceteareth-60) y 500 ml (con), Origyn
+  Higiene Íntima Diaria 100 y 500 ml: entradas separadas con "(formato … ml)". Hydra Oil Higiene Íntima: dos fichas en
+  la web con la misma lista, una entrada. CLX Lavado Vaginal 140 ml y caja de 5: juntos (mismo producto).
+- **Fuera con lista oficial**: **CLX Higiene Íntima Mousse** (Atida da para 8428749938408 una lista de 41 ingredientes con
+  Parfum y aceites esenciales; la web, 26: no se sabe cuál lleva el código), **Hydra Oil aceite vulvar** 8428749899204
+  (último ingrediente distinto), **Lubripiù Higiene Íntima** 8428749771005 (otra lista), **Deligyn Higiene Íntima
+  100/200 ml** (sin código atado; Atida no da lista), **LS-Powder** (sin código), y el "Viderage Gel-Crema" de Atida
+  8428749002178, que lleva la lista del LS-Derm.
+- **Erratas de la web corregidas**: "Laureth9", "Acryloyldimenthyl Thaurate", "Sodium Silfate" (Sulfate), "Sh-
+  Polypeptide-9", "sh-Oligopeptide- 1", "Acetyl Tetrapeptide- 15", "Di-glycerin", "Sodium Hyalyronate",
+  "Bio-saccharide Gum -1", "PEG-7, Glyceryl Cocoate" (Origyn Hidratante Interno; el Deligyn lo escribe bien) y
+  "Propylene Glycol: Phenoxyethanol" (Lubripiù Hidratante Externo). Fuera los porcentajes ("Chlorhexidine
+  Digluconate (0.2%)").
+- **Revisión FP/FN** (`revisa.mjs cumlaude`): **clorhexidina (37) salta en las 6 que la llevan y solo en ellas** (toda la
+  gama CLX: hidratante externo, geles 100 y 500 ml, lavado vaginal, óvulos y toallitas). Probada con textos: salta con
+  digluconato, dihidrocloruro y en castellano; no con Chlorphenesin, Hexetidine ni Cetylpyridinium. **Corrección
+  (falso positivo)**: saltaba con "Chlorhexidine-free" / "sin clorhexidina" (texto de envase o de OCR): añadido
+  `excluyeSi` a la 37 ("sin clorhexidina", "libre de clorhexidina", "chlorhexidine-free", "chlorhexidine free", "free
+  from chlorhexidine", "without chlorhexidine"); regresión sobre las 5.199 fichas: 0 cambios. Además: fenoxietanol 15,
+  propilenglicol 12, fragancia 11, etoxilados 10 (Laureth-9 de los óvulos e hidratantes, Laureth-2, Disodium Laureth
+  Sulfosuccinate), árbol del té 1 (Prebiotic Lube), embarazo 1 (Retinyl Palmitate del LS-Oil). Lavanda en extracto de flor
+  (3) sin aviso, a propósito (la 211 es solo para el aceite esencial). Regresión de la marca: 0 cambios en las 5.169
+  fichas anteriores.
+- Scripts: `cl/parse.py`, `cl/atida.py`, `cl/match.py`, `cl/make.py` (scratchpad).
 
 ### Control (control.es / control.it / control.pt) — cerrada 2026-10-03 (versión 2026-10-03c): 3 productos, 3 códigos — tercera cola, 2
 - Marca italiana (Artsana; códigos `8058664…` y `8411134…`). **control.es** es Shopify (47 fichas: 18 preservativos,
@@ -2718,6 +2752,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Medik8 | Shopify (`es.medik8.com`, `pt.medik8.com`) | sí, `barcode` por variante en `.js` (envase UE; el británico es otro código) | **traducida** en ES; en INCI ficha a ficha en nl/pt/de/fr/it.medik8.com (mismos códigos) | ver su apartado |
 | Durex | sí (`sitemap-0.xml`) | **no** (SKU internos): dosfarma + Atida | solo 13 fichas (lubricantes); preservativos sin lista | ver su apartado |
 | Control | Shopify (control.es/.it/.pt) | sí, `barcode` en `.js` | traducida en .es; INCI en .it/.pt, solo en las cremas | ver su apartado |
+| Cumlaude Lab | sí (`/es/sitemap.xml`) | **no** (SKU interno): Atida, atado por lista idéntica | sí, INCI con ";" | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2781,13 +2816,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7581 códigos en 81 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7612 códigos en 82 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5169 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5199 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

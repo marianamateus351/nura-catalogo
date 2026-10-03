@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03c",
+ "version": "2026-10-03d",
  "marcas": [
   {
    "key": "larocheposay",
@@ -49470,6 +49470,283 @@
       "8058664146178"
      ],
      "inci": "Aqua (Water), Aloe Barbadensis Leaf Juice, Glycerin, PEG-40 Hydrogenated Castor Oil, Propanediol, Benzyl Alcohol, Betaine, 1,2-Hexanediol, Polysorbate 20, Parfum (Fragrance), 2-Methyl 5-Cyclohexylpentanol, Sodium Benzoate, Lactic Acid, Sodium Gluconate, Thymus Vulgaris Flower/Leaf Oil [Thymus Vulgaris (Thyme) Flower/Leaf Oil], Bisabolol"
+    }
+   ]
+  },
+  {
+   "key": "cumlaude",
+   "nombre": "Cumlaude Lab",
+   "productos": [
+    {
+     "nombre": "Hidratante externo CLX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749534600"
+     ],
+     "inci": "Aqua (Water), Glycerin, Hydroxyethylcellulose, Laureth-9, Chlorhexidine Digluconate, Sodium Hyaluronate, Lactic Acid"
+    },
+    {
+     "nombre": "Gel de higiene íntima CLX (formato 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749001133"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Sodium Chloride, Cocamidopropylamine Oxide, PEG-40 Hydrogenated Castor Oil, Glycol Distearate, Lactic Acid, Propylene Glycol, Steareth-4, Mentha piperita (Peppermint) Leaf Extract, Thymus vulgaris (Thyme) Flower/Leaf Extract, Origanum vulgare Leaf Extract, Centaurea cyanus Flower Extract, Calendula officinalis Flower Extract, Equisetum arvense Leaf Extract, Rosmarinus officinalis (Rosemary) Leaf Extract, Chlorhexidine Digluconate, Cinnamomum zeylanicum Bark Extract, Citrus limon (Lemon) Peel Extract, Hydrastis canadensis (Goldenseal) Root Extract, Lavandula angustifolia (Lavender) Flower Extract, Olea europaea (Olive) Leaf Extract, Caprylyl Glycol, Phenoxyethanol, o-Cymen-5-ol, Disodium EDTA, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Gel de higiene íntima CLX (formato 500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749001157"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Sodium Chloride, 1, 2-Hexanediol, PEG-40 Hydrogenated Castor Oil, Chlorhexidine Digluconate, Olea europaea (Olive) Leaf Extract, Mentha piperita (Peppermint) Leaf Extract, Thymus vulgaris (Thyme) Flower/Leaf Extract, Origanum vulgare Leaf Extract, Rosmarinus officinalis (Rosemary) Leaf Extract, Cinnamomum zeylanicum Bark Extract, Citrus limon (Lemon) Peel Extract, Hydrastis canadensis (Goldenseal) Root Extract, Lavandula angustifolia (Lavender) Flower Extract, Lactobacillus Ferment, Cocamidopropylamine Oxide, Glycol Distearate, Steareth-4, Maltodextrin, Hydroxyacetophenone, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Lactic Acid, Sodium Benzoate, Mentha Piperita Oil, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Lavado vaginal CLX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749851608",
+      "8428749851707"
+     ],
+     "inci": "Aqua, Glycerin, PEG-8, Polysorbate 20, Chlorhexidine Digluconate, PEG-7 Glyceryl Cocoate, Calendula officinalis Flower Extract, Equisetum arvense Leaf Extract, Centaurea Cyanus Flower Extract, Propylene Glycol, Lysine"
+    },
+    {
+     "nombre": "Óvulos vaginales CLX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749884309"
+     ],
+     "inci": "Hydrogenated Coco-glycerides, PEG-7 Glyceryl Cocoate, Triacontanyl PVP, Laureth-9, Chlorhexidine Digluconate, SodiumHyaluronate, Aqua (Water)"
+    },
+    {
+     "nombre": "Toallitas íntimas CLX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749927204"
+     ],
+     "inci": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Cetearyl Isononanoate, Ceteareth-20, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Chlorhexidine Digluconate, Citric Acid, Hydrolyzed Hyaluronic Acid, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Mentha Piperita (Peppermint) Leaf Extract, Equisetum arvense Leaf Extract, Tocopheryl Acetate, Origanum Vulgare Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Centaurea cyanus Flower Extract, Calendula officinalis Flower Extract, Cinnamomum Zeylanicum Bark Extract, Olea Europaea (Olive) Leaf Extract, Lavandula Angustifolia (Lavender) Flower Extract, Hydrastis Canadensis (Goldenseal) Root Extract, Citrus limon (Lemon) Peel Extract, Cetyl Palmitate, Ceteareth-12, Disodium Phosphate, Propylene Glycol, Phenoxyethanol, Ethylhexylglycerin, Benzoic Acid, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Gel de higiene íntima Deligyn (formato 500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749001188"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Sodium Lauroyl Sarcosinate, Sodium Chloride, 1, 2-Hexanediol, PEG-40 Hydrogenated Castor Oil, Arnica montana Flower Extract, 2-Methyl 5-Cyclohexylpentanol, Althaea officinalis Root Extract, Cyanocobalamin, Lactobacillus Ferment, Disodium Cocoamphodiacetate, Cocamidopropylamine Oxide, Disodium Cocoyl Glutamate, Glycol Distearate, Glycerin, Sodium Cocoyl Glutamate, Steareth-4, Propylene Glycol, Maltodextrin, Hydroxyacetophenone, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Sodium Benzoate, Dimethyl Phenethyl Acetate, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Óvulos vaginales Gineseda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749884200"
+     ],
+     "inci": "Hydrogenated Cocoglycerides, Triacontanyl PVP, PEG-7 Glyceryl Cocoate, Laureth-9, Glycyrrhetinic Acid, Sodium PCA, Aqua (Water)"
+    },
+    {
+     "nombre": "Lubricante Ginesens Lube",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749000259"
+     ],
+     "inci": "Aqua (Water), Panthenol, Arginine, Glycine Soja (Soybean) Oil, Ginkgo Biloba Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Xanthan Gum, Polysorbate 20, Sodium Acrylate/Sodium Acryloyldimethyl Taurate/Acrylamide Copolymer, Ammonium Sulfate, Propylene Glycol, Sodium Sulfate, Vanillyl Butyl Ether, Caprylyl Glycol, Lecithin, Glyceryl Stearate, Glyceryl Oleate, Ascorbyl Palmitate, Tocopherol, Lactic Acid, Citric Acid, 1, 2-Hexanediol, Phenoxyethanol, Chlorphenesin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Hidratante interno Deligyn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749831204"
+     ],
+     "inci": "Aqua (Water), Glycerin, C10-18 Triglycerides, PEG-7 Glyceryl Cocoate, Sucrose Stearate, Polyacrylic Acid, Sodium Hydroxide, Carbomer, Phenoxyethanol, Chlorphenesin, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Hidratante interno Origyn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749536000"
+     ],
+     "inci": "Aqua (Water), Glycerin, C10-18 Triglycerides, PEG-7 Glyceryl Cocoate, Sucrose Stearate, Polyacrylic Acid, Carbomer, Phenoxyethanol, Sodium Hydroxide, Chlorphenesin, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Aceite de higiene íntima Hydra Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749908708"
+     ],
+     "inci": "Aqua (Water), Glycerin, PEG-7 Glyceryl Cocoate, Sodium Cocoamphoacetate, Sodium Lactate, PEG-90 Glyceryl Isostearate, Sodium Lauryl Glucose Carboxylate, Polysorbate 20, Lauryl Glucoside, Sodium Chloride, Lactic Acid, Oryza Sativa (Rice) Bran Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Niacinamide, Schisandra Chinensis Fruit Extract, Coco-Glucoside, Glyceryl Oleate, Laureth-2, Hydrogenated Palm Glycerides Citrate, Tocopherol, Sodium Citrate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Sorbic Acid, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Bruma hidratante Hydra Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749854906"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Aloe barbadensis Leaf Juice, Panthenol, Glycerin, C14-22 Alcohols, Allantoin, Biosaccharide Gum-2, Sodium Hyaluronate, Sodium Carboxymethyl Beta-Glucan, Polyacrylate Crosspolymer-6, C12-20 Alkyl Glucoside, Pentylene Glycol, t-Butyl Alcohol, Hydroxyacetophenone, Tetrasodium Glutamate Diacetate, Lactic Acid, Citric Acid, Sodium Hydroxide, 1, 2-Hexanediol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Gel-crema reparador vulvoperineal LS-Derm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749016533"
+     ],
+     "inci": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Niacinamide, Helianthus annuus (Sunflower) Seed Oil, Propylene Glycol, Argania spinosa Kernel Oil, Tocopheryl Acetate, Arginine, Vitis vinifera (Grape) Seed Oil, Sodium Hyaluronate, Glycine soja (Soybean) Oil, Rosa canina Fruit Extract, Acetyl Glutamine, Bacillus/Folic Acid Ferment Filtrate Extract, Sh-Oligopeptide-1, Sh-Oligopeptide-2, Sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-9, Laureth-9, Carbomer, Pullulan, Lecithin, 1, 2-Hexanediol, Butylene Glycol, Caprylyl Glycol, Disodium EDTA, Phenoxyethanol, Chlorphenesin"
+    },
+    {
+     "nombre": "Lipogel LS-Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749018575"
+     ],
+     "inci": "Tocopheryl Acetate, Panthenyl Triacetate, Retinyl Palmitate, Tocopherol"
+    },
+    {
+     "nombre": "Hidratante externo Lubripiù",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749771104"
+     ],
+     "inci": "Aqua (Water), C12-20 Acid PEG-8 Ester, Persea gratissima (Avocado) Oil, Oryza sativa (Rice) Bran Oil, Olus Oil (vegetable Oil), Diglycerin, Squalane, Plukenetia volubilis Seed Oil, Butyrospermum parkii (Shea) Butter, Glyceryl Stearate, Sodium Hyaluronate, Achillea millefolium Extract, Lactic Acid, Propylene Glycol, Phenoxyethanol, Chlorphenesin"
+    },
+    {
+     "nombre": "Óvulos vaginales Lubripiù",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749878209"
+     ],
+     "inci": "Hydrogenated Coco-glycerides, Triacontanyl PVP, PEG-7 Glyceryl Cocoate, Laureth-9, Squalane, Persea gratissima (Avocado) Oil, Oryza sativa (Rice) Bran Oil, Plukenetia volubilis Seed Oil, Olus Oil (Vegetable Oil), Butyrospermum parkii (Shea) Butter, Sodium Hyaluronate, Aqua (Water), Citric acid"
+    },
+    {
+     "nombre": "Gel lubricante vaginal Mucus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749535805"
+     ],
+     "inci": "Aqua (Water), Diglycerin, Sodium Hyaluronate, Biosaccharide Gum-1, Xanthan Gum, Sodium Acrylate/Sodium Acryloyldimethyl Taurate/Acrylamide Copolymer, Ammonium Sulfate, Sodium Sulfate, Lactic Acid, Sodium Hyaluronate, Phenoxyethanol, Chlorphenesin, Potassium Sorbate"
+    },
+    {
+     "nombre": "Hidratante externo Origyn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749534105"
+     ],
+     "inci": "Aqua (Water), Glycerin, C10-18 Triglycerides, Paraffinum Liquidum, Sucrose Stearate, Panthenol, Phenoxyethanol, Carbomer, Polyacrylic Acid, Sodium Hydroxide, Bisabolol"
+    },
+    {
+     "nombre": "Gel de higiene íntima diaria Origyn (formato 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749001195"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Ceteareth-60 Myristyl Glycol, Lactic Acid, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Sodium Chloride, Cocamidopropylamine Oxide, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Equisetum Arvense Leaf Extract, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Phenoxyethanol, o-Cymen-5-ol, Disodium EDTA, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Gel de higiene íntima diaria Origyn (formato 500 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749001225"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Ceteareth-60 Myristyl Glycol, Lactic Acid, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Sodium Chloride, 1, 2-Hexanediol, PEG-40 Hydrogenated Castor Oil, Calendula officinalis Flower Extract, Hydrolyzed Hyaluronic Acid, Lactobacillus Ferment, Cocamidopropylamine Oxide, Propylene Glycol, Maltodextrin, Hydroxyacetophenone, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Gel de higiene íntima infantil Pediatrics",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749807605"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitol, Ceteareth-60 Myristyl Glycol, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Sodium Chloride, Cocamidopropylamine Oxide, Disodium Cocoyl Glutamate, Caprylyl Glycol, Sodium Cocoyl Glutamate, Propylene Glycol, Lactic Acid, Glycerin, Calendula officinalis Flower Extract, Tilia tomentosa Extract, Malva sylvestris (Mallow) Flower/Leaf/Stem Extract, Paeonia officinalis Flower Extract, Phenoxyethanol, o-Cymen-5-ol, Potassium Sorbate, Sodium Benzoate, Disodium EDTA, Tetrasodium EDTA, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Lubricante Prebiotic Lube",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749000266"
+     ],
+     "inci": "Aqua (Water), Alpha-Glucan Oligosaccharide, Carbomer, Inulin, Polysorbate 20, Chondrus Crispus (Carrageenan) Powder, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Acrylate/Sodium Acryloyldimethyl Taurate/Acrylamide Copolymer, Ammonium Sulfate, Sclerotium Gum, Sodium Sulfate, Sodium Hydroxide, Lactic Acid, Phenoxyethanol, Chlorphenesin, Potassium Sorbate"
+    },
+    {
+     "nombre": "Espuma de higiene íntima Prebiotic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749662105"
+     ],
+     "inci": "Aqua (Water), Disodium Laureth Sulfosuccinate, Butane, Ammonium Lauryl Sulfate, Lactic Acid, Propane, Decyl Glucoside, Isobutane, Alpha-Glucan Oligosaccharide, Phenoxyethanol, Parfum (Fragrance), Polyquaternium-44, Ethylhexylglycerin, Panthenol"
+    },
+    {
+     "nombre": "Óvulos vaginales Prebiotic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749884408"
+     ],
+     "inci": "Hydrogenated Cocoglycerides, Propylene Glycol, Alpha-Glucan Oligosaccharide, Panthenyl Triacetate, PEG-7 Glyceryl Cocoate, Triacontanyl PVP, Laureth-9, Lactic Acid, Glycyrrhetinic Acid, Aqua (Water)"
+    },
+    {
+     "nombre": "Bruma vulvar Prebiotic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749972501"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric/Succinic Triglyceride, Alpha-Glucan Oligosaccharide, Panthenol, Lactococcus Ferment Lysate, Ganoderma Lucidum (Mushroom) Extract, Epigallocatechin Gallate, Madecassoside, Glycerin, Sodium Acetylated Hyaluronate, Centella Asiatica Leaf Extract, Asiaticoside, Caprylyl Glycol, Superoxide Dismutase, Hydroxypropyl Starch Phosphate, 1, 2-Hexanediol, Polyacrylate Crosspolymer-6, Propanediol, T-Butyl Alcohol, Xanthan Gum, Sodium Chloride, Hydroxyacetophenone, Lactic Acid, Sodium Benzoate"
+    },
+    {
+     "nombre": "Lipogel Rectal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749884101"
+     ],
+     "inci": "Tocopheryl Acetate, Olus Oil (Vegetable Oil), Bis-Diglyceryl Polyacyladipate-1, Panthenyl Triacetate, Methylpropanediol, Glyceryl Stearate, Glyceryl Dibehenate, Laureth-9, Hydrogenated Castor Oil, Acetyl Tetrapeptide-15, Stearyl Glycyrrhetinate, Hamamelis virginiana (Witch hazel) Bark/Twig Extract, Tribehenin, Glycerin, Glyceryl Behenate, Coco-Glucoside, Sorbic Acid"
+    },
+    {
+     "nombre": "Toallitas perianales limpiadoras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749696100"
+     ],
+     "inci": "Aqua (Water), Methylpropanediol, Butylene Glycol, Hamamelis virginiana (Witch Hazel) Leaf Water, Glycerin, C12-13 Pareth-9, Panthenol, Disodium Phosphate, Cetrimonium Bromide, Disodium EDTA, Sodium Benzoate, Tocopheryl Acetate, Potassium Sorbate, Stearyl Glycyrrhetinate, Gluconolactone, Lactic Acid, Coco-Glucoside, Phenoxyethanol, Simethicone, Calcium Gluconate, Polysorbate 65, Methylcellulose, Ethylhexylglycerin, Acetyl Tetrapeptide-15, Sorbic Acid, Benzoic Acid, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Sérum Viderage Brightening",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749000976"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Dimethyl Isosorbide, Glycereth-26, Pentylene Glycol, Butylene Glycol, Potassium Azeloyl Diglycinate, Ascorbyl Glucoside, Tranexamic Acid, Pentaerythrityl Tetraethylhexanoate, Isononyl Isononanoate, Dipotassium Glycyrrhizate, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium Glutamate Diacetate, Lactic Acid, Sodium Hydroxide, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Gel-crema íntimo Viderage",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428749646600"
+     ],
+     "inci": "Aqua (Water), Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Helianthus annuus (Sunflower) Seed Oil, Propylene Glycol, Argania spinosa Kernel Oil, Laureth-9, Carbomer, Vitis Vinifera (Grape) Seed Oil, Tocopheryl Acetate, Pullulan, Arginine, Sodium Hyaluronate, Glycine soja (Soybean) Oil, Rosa Canina Fruit Extract, Lecithin, Acetyl Glutamine, sh-Oligopeptide-1, sh-Oligopeptide-2, sh-Polypeptide-1, sh-Polypeptide-9, sh-Polypeptide-11, Bacillus/Soybean/Folic acid Ferment Extract, Tocopherol, Butylene Glycol, 1, 2-Hexanediol, Caprylyl Glycol, Phenoxyethanol, Chlorphenesin, Disodium EDTA"
     }
    ]
   }
