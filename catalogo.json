@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03g",
+ "version": "2026-10-03h",
  "marcas": [
   {
    "key": "larocheposay",
@@ -64532,6 +64532,158 @@
       "8719134171532"
      ],
      "inci": "Aqua/Water, Glycine Soja (Soybean) Oil, Glycerin, Helianthus Annuus (Sunflower) Hybrid Oil, Parfum/Fragrance, Prunus Yedoensis Leaf Extract, Rice Ferment Filtrate (Sake), Leuconostoc/Radish Root Ferment Filtrate, Coco-Glucoside, Sucrose Stearate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera (Grape) Seed Oil, Sodium Surfactin, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Microcrystalline Cellulose, Diutan Gum, Cellulose Gum, Sodium Stearoyl Glutamate, Sodium Chloride, Butylene Glycol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Linalool, Tetrasodium Iminodisuccinate, Triethyl Citrate, Caprylyl Glycol, Benzoic Acid"
+    }
+   ]
+  },
+  {
+   "key": "boj",
+   "nombre": "Beauty of Joseon",
+   "productos": [
+    {
+     "nombre": "Gel exfoliante Apricot Blossom Peeling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738312872"
+     ],
+     "inci": "Aqua, Prunus Mume Flower Water, Cellulose, Methylpropanediol, 1,2-Hexanediol, Carbomer, Arginine, Ethylhexylglycerin, Allantoin, Sorbitol, Disodium EDTA, Butylene Glycol, Pyrus Malus (Apple) Fruit Extract, Camellia Sinensis Leaf Extract, Houttuynia Cordata Extract, Nelumbo Nucifera Flower Extract, Oryza Sativa (Rice) Extract, Prunus Mume Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract"
+    },
+    {
+     "nombre": "Crema hidratante Dynasty Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809525249565",
+      "8809954941498"
+     ],
+     "inci": "Aqua, Glycerin, Hydrogenated Polydecene, 1,2-Hexanediol, Niacinamide, Squalane, Butylene Glycol, Propanediol, Butylene Glycol Dicaprylate/Dicaprate, Cetearyl Olivate, Sorbitan Olivate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Panax Ginseng Root Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Carthamus Tinctorius (Safflower) Seed Oil, Hydrogenated Coconut Oil, Glyceryl Acrylate/Acrylic Acid Copolymer, Oryza Sativa (Rice) Bran Water, Ethylhexylglycerin, Adenosine, Caprylic/Capric Triglyceride, Disodium EDTA, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Honey Extract, Ceramide NP, Hydrogenated Lecithin, Coptis Japonica Root Extract, Raphanus Sativus (Radish) Seed Extract, Theobroma Cacao (Cocoa) Seed Extract, Lycium Chinense Fruit Extract, Dextrin, Phellinus Linteus Extract, Scutellaria Baicalensis Root Extract"
+    },
+    {
+     "nombre": "Aceite limpiador Ginseng Cleansing Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809968130130"
+     ],
+     "inci": "Glycine Soja (Soybean) Oil, Cetyl Ethylhexanoate, Sorbeth-30 Tetraoleate, Isododecane, Olea Europaea (Olive) Fruit Oil, Camellia Japonica Seed Oil, Hydrogenated Coconut Oil, Octyldodecanol, Polybutene, Caprylic/Capric Triglyceride, Aqua, Tocopherol, Panax Ginseng Seed Oil, Salvia Officinalis (Sage) Oil, Artemisia Vulgaris Oil, Ocimum Basilicum (Basil) Oil, Camphor, Corylus Avellana (Hazelnut) Seed Oil, Nigella Sativa Seed Oil, Butylene Glycol, Panax Ginseng Berry Extract, Glycerin, 1,2-Hexanediol, Methylpropanediol, Panax Ginseng Root Extract, Ethyl Hexanediol, Panax Ginseng Extract, Panax Ginseng Leaf/Stem Extract, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Esencia Ginseng Essence Water",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738310960"
+     ],
+     "inci": "Aqua, Butylene Glycol, Glycerin, Propanediol, Niacinamide, 1,2-Hexanediol, Panax Ginseng Root Water, Hydroxyacetophenone, Glyceryl Glucoside, Panthenol, Xanthan Gum, Allantoin, Dipotassium Glycyrrhizate, Adenosine, Dextrin, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Glucose, Panax Ginseng Callus Culture Extract, Panax Ginseng Root Extract, Panax Ginseng Berry Extract, Ethylhexylglycerin, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738312728"
+     ],
+     "inci": "Oryza Sativa (Rice) Bran Water, Aqua, Glycerin, Butylene Glycol, 1,2-Hexanediol, Dipropylene Glycol, Alpha-Arbutin, Niacinamide, Methyl Gluceth-20, Panthenol, Polyglycerin-3, Trehalose, Glyceryl Glucoside, Hydrolyzed Jojoba Esters, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Hydroxyethylcellulose, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Disodium EDTA, Sorbitan Isostearate, Glucose, Coix Lacryma-Jobi Ma-Yuen Seed Extract, Coptis Japonica Root Extract, Glycine Soja (Soybean) Seed Extract, Hordeum Distichon (Barley) Extract, Oryza Sativa (Rice) Extract, Sesamum Indicum (Sesame) Seed Extract, Triticum Vulgare (Wheat) Seed Extract, Vigna Radiata Seed Extract, Zea Mays (Corn) Kernel Extract"
+    },
+    {
+     "nombre": "Tónico Glow Replenishing Rice Milk",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809968130239"
+     ],
+     "inci": "Aqua, Methylpropanediol, Propanediol, 1,2-Hexanediol, Glycerin, Glycereth-26, Polymethyl Methacrylate, Panthenol, Hydroxyethyl Urea, Aluminum Chlorohydrate, Butylene Glycol, Kaolin, Sodium Citrate, Microcrystalline Cellulose, Oryza Sativa (Rice) Extract, Ethylhexylglycerin, Dipotassium Glycyrrhizate, Citric Acid, Hydrogenated Lecithin, Coptis Japonica Root Extract, Ulmus Davidiana Root Extract, Amaranthus Caudatus Seed Extract, Ficus Carica (Fig) Fruit Extract, Centella Asiatica Extract, Dextrin, Theobroma Cacao (Cocoa) Seed Extract, Ceramide NP, Tocopherol, Sodium Hyaluronate, Rice Amino Acids"
+    },
+    {
+     "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809657114960"
+     ],
+     "inci": "Aqua, Dipropylene Glycol, Glycerin, Butylene Glycol, Propolis Extract, Niacinamide, 1,2-Hexanediol, Betaine Salicylate, Sodium Polyacryloyldimethyl Taurate, Tromethamine, Polyglyceryl-10 Laurate, Xanthan Gum, Caprylyl Glycol, Carbomer, Ethylhexylglycerin, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Curcuma Longa (Turmeric) Root Extract, Dextrin, Theobroma Cacao (Cocoa) Extract, Corallina Officinalis Extract, Melaleuca Alternifolia (Tea Tree) Extract, Centella Asiatica Extract, Methylpropanediol, Lotus Corniculatus Seed Extract, Pentylene Glycol, Octanediol, Calophyllum Inophyllum Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Gel limpiador Green Plum Refreshing Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738314678",
+      "8809968132172"
+     ],
+     "inci": "Aqua, Prunus Mume Fruit Water, Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Glycerin, Sodium Chloride, 1,2-Hexanediol, Hydroxyacetophenone, Coconut Acid, Caprylyl Glycol, Ethylhexylglycerin, Citric Acid, Disodium EDTA, Phaseolus Radiatus Seed Extract, Sodium Isethionate, Guar Hydroxypropyltrimonium Chloride, Dextrin, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Gardenia Florida Fruit Extract, Propylene Glycol Laurate, Sodium Citrate, Butylene Glycol, Camellia Sinensis Leaf Extract, Houttuynia Cordata Extract, Nelumbo Nucifera Flower Extract, Oryza Sativa (Rice) Extract, Prunus Mume Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract"
+    },
+    {
+     "nombre": "Tónico exfoliante Green Plum Refreshing Toner: AHA + BHA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809968130123"
+     ],
+     "inci": "Aqua, Prunus Mume Fruit Water, Dipropylene Glycol, Glycerin, Glycolic Acid, Butylene Glycol, Tromethamine, 1,2-Hexanediol, Hydroxyacetophenone, Salicylic Acid, Ethylhexylglycerin, Vigna Radiata Seed Extract, Disodium EDTA, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Corallina Officinalis Extract, Octyldodeceth-16, Xanthan Gum, C12-14 Pareth-12"
+    },
+    {
+     "nombre": "Mascarilla facial Ground Rice and Honey Glow Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809968130246"
+     ],
+     "inci": "Aqua, Kaolin, Honey, Glycerin, Propanediol, Dipropylene Glycol, Oryza Sativa (Rice) Hull Powder, Isononyl Isononanoate, 1,2-Hexanediol, Cetyl Alcohol, Caprylic/Capric Triglyceride, Polyglyceryl-3 Methylglucose Distearate, Butylene Glycol, Glyceryl Stearate, Oryza Sativa (Rice) Bran, Bentonite, Palmitic Acid, Stearic Acid, Hydroxyacetophenone, Behenyl Alcohol, Cellulose, Zea Mays (Corn) Starch, Ethylhexylglycerin, Xanthan Gum, Potassium Cetyl Phosphate, Oryza Sativa (Rice) Lees Extract, Polyacrylate-13, Hydrogenated Polyisobutene, Sodium Phytate, Polyglyceryl-10 Laurate, Ethylhexyl Palmitate, Sorbitan Isostearate, Oryza Sativa (Rice) Extract, Menthyl Lactate, Honey Extract"
+    },
+    {
+     "nombre": "Sérum Light On Serum: Centella + Vita C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809875906477"
+     ],
+     "inci": "Aqua, 3-O-Ethyl Ascorbic Acid, Glycerin, Propanediol, 1,2-Hexanediol, Betaine, Panthenol, Methyl Trimethicone, Cetyl Ethylhexanoate, Dicaprylyl Carbonate, Cetearyl Alcohol, Centella Asiatica Extract, Dimethicone/Vinyl Dimethicone Crosspolymer, Cetearyl Olivate, Bisabolol, Potassium Cetyl Phosphate, Silica, Sorbitan Olivate, Dipropylene Glycol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Eclipta Prostrata Leaf Extract, Laminaria Japonica Extract, Hydrolyzed Jojoba Esters, Hydroxyacetophenone, Ethylhexylglycerin, Xanthan Gum, Alcohol, Polyglyceryl-10 Myristate, Fructooligosaccharides, Adenosine, Butylene Glycol, Hydrogenated Lecithin, Beta-Glucan, Sorbitan Isostearate, Hydrolyzed Hyaluronic Acid, Phellodendron Amurense Bark Extract, Tocopherol, Maltodextrin, Carbomer, Arginine, Hydrolyzed Gardenia Florida Extract, Citrus Unshiu Peel Extract, Brassica Oleracea Acephala Leaf Extract, Ascorbic Acid Polypeptide"
+    },
+    {
+     "nombre": "Bálsamo limpiador Radiance Cleansing Balm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809606851663"
+     ],
+     "inci": "Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, PEG-20 Glyceryl Triisostearate, Synthetic Wax, PEG-10 Isostearate, Sorbitan Sesquioleate, Hippophae Rhamnoides Oil, Oryza Sativa (Rice) Bran Oil, Aqua, Oryza Sativa (Rice) Seed Water, Glycerin, Propanediol, 1,2-Hexanediol, Lactobacillus/Soybean Ferment Extract, Butylene Glycol, Coix Lacryma-Jobi Ma-Yuen Seed Extract, Oryza Sativa (Rice) Extract, Avena Sativa (Oat) Meal Extract, Ethylhexylglycerin, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Mascarilla de poros Red Bean Refreshing Pore Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738316986"
+     ],
+     "inci": "Aqua, Glycerin, Kaolin, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Phaseolus Angularis Seed Powder, Hectorite, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Olivate, Sorbitan Olivate, Phaseolus Angularis Seed Extract, Ultramarines, Pyrus Communis (Pear) Fruit Extract, Ethylhexylglycerin, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hedera Helix (Ivy) Leaf/Stem Extract, Polyisobutene, Fragaria Chiloensis (Strawberry) Fruit Extract, Pyrus Malus (Apple) Leaf Extract, CI 77491, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Gel hidratante Red Bean Water Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738316993"
+     ],
+     "inci": "Aqua, Butylene Glycol, Glycerin, 1,2-Hexanediol, Methyl Trimethicone, Phaseolus Angularis Seed Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Glyceryl Glucoside, C12-14 Alketh-12, Maltodextrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethicone Crosspolymer, Ethylhexylglycerin, Betaine, Panthenol, Allantoin, Dipotassium Glycyrrhizate, Polyquaternium-51, Xanthan Gum, Disodium EDTA, Glyceryl Acrylate/Acrylic Acid Copolymer, Dioscorea Japonica Root Extract, Glucose, Sodium Citrate, Beta-Glucan, Hydrolyzed Corn Starch, Citric Acid, Sucrose, Magnesium Ascorbyl Phosphate, Caprylyl Glycol, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Cyanocobalamin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Acetyl Hexapeptide-8, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Phosphoric Acid, Ascorbic Acid, Sh-Oligopeptide-1, Sh-Oligopeptide-2, Sh-Polypeptide-1"
+    },
+    {
+     "nombre": "Sérum de ojos Revive Eye Serum: Ginseng + Retinal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738316146"
+     ],
+     "inci": "Aqua, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5"
+    },
+    {
+     "nombre": "Sérum Revive Serum: Ginseng + Snail Mucin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738316139"
+     ],
+     "inci": "Aqua, Butylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Glycerin, Niacinamide, Propanediol, Panax Ginseng Root Water, Trehalose, Snail Secretion Filtrate, Carbomer, Tromethamine, Xanthan Gum, Malt Extract, Sodium Polyacrylate, Adenosine, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Ganoderma Lucidum (Mushroom) Extract, Panax Ginseng Root Extract, Phellinus Linteus Extract, Centella Asiatica Extract, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Forsythia Suspensa Fruit Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Scutellaria Baicalensis Root Extract, Sodium Acetylated Hyaluronate"
     }
    ]
   }

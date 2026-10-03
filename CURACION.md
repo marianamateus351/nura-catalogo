@@ -790,13 +790,39 @@ envase europeo.
 5. ~~Saforelle (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03e): 5 productos, 6 códigos; ver su apartado
 6. ~~Kiko Milano (maquillaje)~~ — **cerrada 2026-10-03** (versión 2026-10-03f): 1054 productos, 1765 códigos; ver su apartado
 7. ~~Rituals (cuerpo, baño y perfumados)~~ — **cerrada 2026-10-03** (versión 2026-10-03g): 498 productos (23 de Hogar), 540 códigos; ver su apartado
-8. Beauty of Joseon (K-beauty)
+8. ~~Beauty of Joseon (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03h): 16 productos, 18 códigos (lista del envase UE/ROW); ver su apartado
 9. COSRX (K-beauty)
 10. Anua (K-beauty)
 11. Uriage (dermocosmética)
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Beauty of Joseon (beautyofjoseon.com) — cerrada 2026-10-03 (versión 2026-10-03h): 16 productos, 18 códigos — tercera cola, 8
+- **Fuente única, la tienda global oficial** (Shopify, en inglés). **No hay tienda oficial UE ni española**: probados
+  beautyofjoseon.eu/.es/.de/.fr/.nl y los subdominios eu./uk.; ninguno es de la marca. Sitemap de productos (59 fichas) +
+  `products.json`. Código: `barcode` de cada variante en `/products/<handle>.js` (EAN-13 coreanos `8809…`).
+- **Envase europeo**: cada ficha publica en `customMetafields.all_ingredients` **dos listas**, la estadounidense ("Water, …")
+  y la del envase UE/ROW ("AQUA, …", en mayúsculas). Se usa siempre la UE, pasada a mayúsculas iniciales. Comparadas: 13
+  iguales, 1 igual salvo el orden (Green Plum Refreshing Toner) y **2 con diferencias reales**: el Glow Serum UE lleva además
+  Caprylyl Glycol, y la Red Bean Pore Mask UE pone "CI 77491" donde la de EE. UU. pone "Iron Oxide". Productos que la web marca
+  solo para EE. UU. (`region_catalog` sin UK/ROW: Day Dew, Daily Sunscreen y Tinted Mineral versión US) fuera.
+- **El código coreano es el del envase europeo**: 10 de los 18 códigos están en Open Beauty Facts escaneados en Países Bajos,
+  Alemania y otros países UE (la marca no cambia el EAN para Europa). Contraste de lista: Revive Eye Serum, igual que la UE de
+  la web; los demás sin lista o con foto del frontal.
+- **Fuera**: los productos que la tienda oculta al mercado UE (su `.js` da 404 o la ficha redirige a la portada): solares
+  Relief Sun Rice + Probiotics y Aqua-Fresh (también sus variantes UK), sticks solares, lociones Comfort Protection, Daily
+  Tinted Fluid, Jelloskin, mascarilla Calming Barrier EU/global, Pore Firming EU y el mini del Light On; sin código: Calming
+  Barrier Serum, Hydra Shield EU, Pore Firming PDRN; sin lista: mascarilla en lámina US, Revive Firming Moisturizer,
+  parches de ojos, Tinted Mineral EU; y todos los sets, dúos, kits y packs.
+- **Nombres**: tipo en castellano + nombre de la web ("Sérum Glow Serum: Propolis + Niacinamide"). Dynasty Cream 50 y 100 ml
+  (lista idéntica) en una entrada con los dos códigos; Green Plum Refreshing Cleanser igual (2 códigos). Erratas de mayúsculas
+  al convertir: "(TEA Tree)" → "(Tea Tree)", "MA-Yuen" → "Ma-Yuen".
+- **Revisión FP/FN** (`revisa.mjs boj`): aluminio 1 (Aluminum Chlorohydrate en el tónico Glow Replenishing Rice Milk, está de
+  verdad), microplásticos 1 (Polymethyl Methacrylate, mismo producto), embarazo 2 (Salicylic Acid del Green Plum Toner,
+  Retinal del Revive Eye Serum). Sin falsos positivos. "Melaleuca Alternifolia (Tea Tree) Extract" del Glow Serum sin aviso,
+  a propósito (la 211 es solo para el aceite esencial). Sin cambios en el detector. Regresión: 0 cambios en las 6.756 fichas
+  anteriores.
 
 ### Rituals (rituals.com/es-es) — cerrada 2026-10-03 (versión 2026-10-03g): 498 productos, 540 códigos (475 de cuidado personal y 23 de Hogar) — tercera cola, 7
 - **Fuente única, la web española** (Next.js): sitemap `/es-es/sitemap-es-es.xml`, 1.261 fichas. La lista sale del bloque
@@ -2874,6 +2900,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Saforelle | es.saforelle.com (4 fichas) + pt.saforelle.com (Shopify) | sí (`data-eans` en ES, `barcode` en PT) | ES casi siempre traducida; PT en INCI | ver su apartado |
 | Kiko Milano | sí (`/es-es/sitemap.xml`, una ficha por tono) | sí, `barcodes` en `__NEXT_DATA__` | sí, `ingredient_list` (de PDF: palabras partidas, hay que limpiar) | ver su apartado |
 | Rituals | sí (`/es-es/sitemap-es-es.xml`) | sí, `eanCode` en su buscador (Algolia `prd_products_b2cweb_es`) | sí, `productDetails.inci` (Hogar casi siempre sin lista) | ver su apartado |
+| Beauty of Joseon | Shopify global (`beautyofjoseon.com`, sin tienda UE) | sí, `barcode` en `.js` (EAN coreano, el mismo en la UE) | sí, dos listas: EE. UU. y UE/ROW ("AQUA…"): se usa la UE | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2937,13 +2964,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-9923 códigos en 85 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+9941 códigos en 86 marcas: NYX 999 · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 6756 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 6772 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
