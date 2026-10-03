@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03h",
+ "version": "2026-10-03i",
  "marcas": [
   {
    "key": "larocheposay",
@@ -64684,6 +64684,672 @@
       "8809738316139"
      ],
      "inci": "Aqua, Butylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Glycerin, Niacinamide, Propanediol, Panax Ginseng Root Water, Trehalose, Snail Secretion Filtrate, Carbomer, Tromethamine, Xanthan Gum, Malt Extract, Sodium Polyacrylate, Adenosine, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Ganoderma Lucidum (Mushroom) Extract, Panax Ginseng Root Extract, Phellinus Linteus Extract, Centella Asiatica Extract, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Forsythia Suspensa Fruit Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Scutellaria Baicalensis Root Extract, Sodium Acetylated Hyaluronate"
+    }
+   ]
+  },
+  {
+   "key": "cosrx",
+   "nombre": "COSRX",
+   "productos": [
+    {
+     "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457058",
+      "8809598457065"
+     ],
+     "inci": "Aqua/Water, Snail Secretion Filtrate, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Butylene Glycol, Betaine, Potassium Chloride, Agar, Erythritol, Sclerotium Gum, Sucrose, Cellulose Gum, Allantoin, Polyglyceryl-10 Laurate, Panthenol, Ethylhexylglycerin, Adenosine, Sodium Phytate, Hydrogenated Lecithin, Cetearyl Alcohol, Stearic Acid, Pentylene Glycol, Hydrolyzed Collagen, Gluconolactone, Ceramide NP, Sodium Hyaluronate, Tocopherol, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Cholesterol, Phytosphingosine, Hyaluronic Acid, Ceramide AP, Ceramide AS, Hydrolyzed Sodium Hyaluronate, Ceramide EOP"
+    },
+    {
+     "nombre": "Mascarilla de hidrogel The Alpha-Arbutin Discoloration Care Hydrogel Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457249",
+      "8809598457256"
+     ],
+     "inci": "Aqua/Water, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Agar, Betaine, Sclerotium Gum, Potassium Chloride, Alpha-Arbutin, Erythritol, Sucrose, Cellulose Gum, Polyglyceryl-10 Laurate, Panthenol, Allantoin, Acetyl Glucosamine, Xanthan Gum, Ethylhexylglycerin, Adenosine, Theobroma Cacao (Cocoa) Seed Extract, Hydrolyzed Collagen, Sodium Phytate, Hydrogenated Lecithin, Cetearyl Alcohol, Stearic Acid, Pentylene Glycol, Ferulic Acid, Ceramide NP, Sodium Hyaluronate, Tocopherol, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Cholesterol, Phytosphingosine, Hyaluronic Acid, Ceramide AP, Ceramide AS, Hydrolyzed Sodium Hyaluronate, Glutathione, Ceramide EOP"
+    },
+    {
+     "nombre": "Mascarilla de hidrogel The Peptide Collagen Lifting Glow Hydrogel Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457232",
+      "8809598457263"
+     ],
+     "inci": "Aqua/Water, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Agar, Erythritol, Sclerotium Gum, Potassium Chloride, Sucrose, Cellulose Gum, Polyglyceryl-10 Laurate, Panthenol, Ethylhexylglycerin, Allantoin, Xanthan Gum, Adenosine, Sodium Phytate, Hydrolyzed Collagen, Hydrogenated Lecithin, Cetearyl Alcohol, Cyanocobalamin, Stearic Acid, Tocopherol, Acetyl Hexapeptide-8, Butylene Glycol, Pentylene Glycol, Acetyl Glucosamine, Ceramide NP, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Palmitoyl Tripeptide-5, Phytosphingosine, Cholesterol, Hyaluronic Acid, Ceramide AP, Ceramide AS, Caprylyl Glycol, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Hydrolyzed Sodium Hyaluronate, Copper Tripeptide-1, Acetyl Tetrapeptide-2, Dextran, Palmitoyl Tripeptide-8, Ceramide EOP"
+    },
+    {
+     "nombre": "Parches para granos AC Collection Acne Patch",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450981"
+     ],
+     "inci": "Carboxymethylcellulose sodium, Polyisobutene, Rosin, Polybutene, Mineral oil, Centella Asiatica Extract, Polyurethane film"
+    },
+    {
+     "nombre": "Crema The Ceramide Skin Barrier Moisturizer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457171"
+     ],
+     "inci": "Water/Aqua, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, Butylene Glycol Dicaprylate/Dicaprate, Squalane, Pentaerythrityl Tetraisostearate, Dicaprylyl Carbonate, Behenyl Alcohol, Dimethicone, Betaine, Hydroxypropyl Bispalmitamide MEA, C14-22 Alcohols, Palmitic Acid, Stearic Acid, Hydroxypropyl Bislauramide MEA, Arachidyl Alcohol, Cholesterol, Polyacrylate-13, C12-20 Alkyl Glucoside, Allantoin, Arachidyl Glucoside, Caprylyl Glycol, Glyceryl Caprylate, Ethylhexylglycerin, Hydrogenated Polyisobutene, Carbomer, Tromethamine, Hydrogenated Lecithin, Dimethiconol, Cetearyl Alcohol, Polyglyceryl-10 Laurate, Ethylhexyl Palmitate, Sorbitan Isostearate, Phytosphingosine, Panthenol, Propanediol, Tocopherol, Ceramide NP, Sodium Hyaluronate, Ceramide NS, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Ceramide AP, Ceramide AS, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Sodium Acetylated Hyaluronate, Ceramide EOP"
+    },
+    {
+     "nombre": "Mascarilla en lámina Full Fit Propolis Nourishing Magnet Sheet Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598453258"
+     ],
+     "inci": "Water, Dipropylene Glycol, Glycereth-26, Glycerin, Butylene Glycol, 1,2-Hexanediol, Panthenol, Trehalose, Hexylene Glycol, Hydroxyacetophenone, Xanthan Gum, Propolis Extract, Royal Jelly Extract, Honey Extract, Disodium EDTA, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Pimpinella Anisum(Anise) Fruit Extract, Vanilla Planifolia Fruit Extract, Camellia Sinensis Leaf Extract, Rosa Centifolia Flower Water, Pyrus Communis (Pear) Fruit Extract, Cocos Nucifera (Coconut) Oil, Fragaria Chiloensis (Strawberry) Fruit Extract, Rosa Damascena Flower Water"
+    },
+    {
+     "nombre": "Espuma limpiadora AC Collection Calming Foam Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450547",
+      "8809598453692"
+     ],
+     "inci": "Water, Glycerin, Stearic Acid, Myristic Acid, PEG-32, Potassium Hydroxide, Palmitic Acid, Lauric Acid, Glyceryl Stearate, PEG-100 Stearate, Lauramide DEA, Cocamidopropyl Betaine, Potassium Cocoate, Salicylic Acid, Sodium Chloride, Arachidic Acid, Lavandula Hybrida Oil, Linalool, Disodium EDTA, Oleic Acid, Limonene, Asiaticoside, Asiatic Acid, Madecassic Acid"
+    },
+    {
+     "nombre": "Crema hidratante AC Collection Lightweight Soothing Moisturizer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450912"
+     ],
+     "inci": "Propolis Extract, Aloe Barbadensis Leaf Water, Camellia Sinensis Leaf Water, Butylene Glycol, Cetyl Ethylhexanoate, Glycerin, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cyclomethicone, Cetearyl Olivate, Betaine, Cetearyl Alcohol, Sorbitan Olivate, Panthenol, Ethylhexylglycerin, Allantoin, Xanthan gum, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Hyaluronate, Arginine, Zinc PCA, Betaine Salicylate, Mentha Haplocalix Extract, Menthyl Lactate, Citric Acid, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Asiaticoside, Asiatic Acid, Madecassic Acid"
+    },
+    {
+     "nombre": "Esencia Advanced Snail 96 Mucin Power Essence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470009"
+     ],
+     "inci": "Snail Secretion Filtrate, Betaine, Butylene Glycol, 1,2-Hexanediol, Sodium Polyacrylate, Phenoxyethanol, Sodium Hyaluronate, Allantoin, Ethyl Hexanediol, Carbomer, Panthenol, Arginine, Aqua/Water"
+    },
+    {
+     "nombre": "Parches de ojos Advanced Snail Hydrogel Eye Patch",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598452305"
+     ],
+     "inci": "Water, Glycerin, Snail Secretion Filtrate, Niacinamide, Carrageenan, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Betaine, Hydroxyacetophenone, Allantoin, Chlorphenesin, Cyamopsis Tetragonoloba (Guar) Gum, Calcium Chloride, Butylene Glycol, Sucrose, Cellulose Gum, Adenosine, Potassium Chloride, Dipotassium Glycyrrhizate, Ethylhexylglycerin, PEG-90M"
+    },
+    {
+     "nombre": "Gel limpiador Advanced Snail Mucin Gel Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598452350",
+      "8809598453654"
+     ],
+     "inci": "Water, Acrylates Copolymer, Butylene Glycol, Glycerin, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Isethionate, 1,2-Hexanediol, Coco-Glucoside, Lauryl Betaine, Snail Secretion Filtrate, Arginine, Tromethamine, Potassium Cocoyl Glycinate, Fragrance, Carbomer, Sodium Chloride, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, Disodium EDTA"
+    },
+    {
+     "nombre": "Contorno de ojos Advanced Snail Peptide Eye Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598451070",
+      "8809598455412"
+     ],
+     "inci": "Snail Secretion Filtrate, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, 1,2-Hexanediol, Niacinamide, Water, Palmitic Acid, Arginine, Carbomer, Stearic Acid, Betaine, Cetearyl Olivate, Sorbitan Olivate, Sodium Polyacrylate, Allantoin, Tocopheryl Acetate, Panthenol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hyaluronate, Adenosine, Xanthan Gum, Myristic Acid, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7"
+    },
+    {
+     "nombre": "Esencia Advanced Snail Radiance Dual Essence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598452053"
+     ],
+     "inci": "Snail Secretion Filtrate, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Betaine, Panthenol, Water, Glycerin, Limnanthes Alba (Meadowfoam) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Allantoin, Carbomer, Macadamia Ternifolia Seed Oil, Sodium Polyacrylate, Sodium Hyaluronate, Inulin Lauryl Carbamate, Arginine, Argania Spinosa Kernel Oil, Xanthan Gum, Sodium Surfactin, Ethylhexylglycerin, Glutathione"
+    },
+    {
+     "nombre": "Tónico exfoliante AHA 7 Whitehead Power Liquid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470047"
+     ],
+     "inci": "Pyrus Malus (Apple) Fruit Water, Butylene Glycol, Glycolic Acid, Niacinamide, Sodium Hydroxide, 1,2-Hexanediol, Panthenol, Sodium Hyaluronate, Xanthan Gum, Ethyl Hexanediol"
+    },
+    {
+     "nombre": "Tónico AHA/BHA Clarifying Treatment Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470030"
+     ],
+     "inci": "Water, Salix Alba (Willow) Bark Water, Pyrus Malus (Apple) Fruit Water, Butylene Glycol, 1,2-Hexanediol, Sodium Lactate, Glycolic Acid, Betaine Salicylate, Allantoin, Panthenol, Ethyl Hexanediol"
+    },
+    {
+     "nombre": "Protector solar en barra Airy-Light Invisible Sun Stick SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457195"
+     ],
+     "inci": "Methyl Methacrylate Crosspolymer, Synthetic Wax, Caprylyl Methicone, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Ethylhexyl Palmitate, Butyloctyl Salicylate, Neopentyl Glycol Diheptanoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Ozokerite, Tocopheryl Acetate, Silica, Vinyl Dimethicone, Polysilicone-15, Synthetic Fluorphlogopite, Propylheptyl Caprylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ceresin, Bisabolol, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Triethoxycaprylylsilane, Glyceryl Caprylate, Caprylyl Glycol, Disteardimonium Hectorite, Ethylhexylglycerin, Triethyl Citrate, Tocopherol, Ceramide NP, Water, Niacinamide, Allantoin, Zinc PCA, Panthenol, 1,2-Hexanediol, Sodium Hyaluronate, Aloe Barbadensis Leaf Water"
+    },
+    {
+     "nombre": "Protector solar Aloe 54.2 Aqua Tone-up Sunscreen SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598455405"
+     ],
+     "inci": "Aloe Barbadensis Leaf Water, Homosalate, Butylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Glycerin, Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Methyl Trimethicone, Niacinamide, Titanium Dioxide (CI 77891), Diisopropyl Sebacate, Terephthalylidene Dicamphor Sulfonic Acid, 1,2-Hexanediol, Potassium Cetyl Phosphate, Cetearyl Alcohol, Tromethamine, Glyceryl Stearate, Behenyl Alcohol, Polyacrylate Crosspolymer-6, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Lecithin, Poly C10-30 Alkyl Acrylate, Ethylhexylglycerin, Stearic Acid, Aluminum Hydroxide, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Iron Oxides (CI 77491), Disodium EDTA, Triethoxycaprylylsilane, Iron Oxides (CI 77492), Sodium Hyaluronate, Allantoin, Myristic Acid, Cyanocobalamin, Lauric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Protector solar Aloe Soothing Sun Cream SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470191",
+      "8809598454354"
+     ],
+     "inci": "Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Cyclopentasiloxane, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Dimethicone, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG-100 Stearate, Triethanolamine, Silica, Sodium Hydroxide, Dimethicone/Vinyl Dimethicone Crosspolymer, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Fragrance, Caprylyl Glycol, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Arborescens Leaf Extract, Dipotassium Glycyrrhizate, Carbomer, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Benzyl Alcohol, Citronellol, Benzyl Benzoate, Citral"
+    },
+    {
+     "nombre": "Crema Balancium Comfort Ceramide Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598451445"
+     ],
+     "inci": "Centella Asiatica Leaf Water, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Betaine, 1,2-Hexanediol, Cetearyl Olivate, Elaeis Guineensis (Palm) oil, Ceramide NP, Sorbitan Olivate, Hydrogenated Lecithin, Triethylhexanoin, Beeswax, Elaeis Guineensis (Palm) Kernel Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Cyclohexasiloxane, Cassia Obtusifolia Seed Extract, Sucrose Distearate, Dipropylene Glycol, Panthenol, Niacinamide, Dimethicone/Vinyl Dimethicone Crosspolymer, Glyceryl Stearate, Xanthan Gum, Sodium Hyaluronate, Limonene, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Asiaticoside, Asiatic Acid, Madecassic Acid, Linalool"
+    },
+    {
+     "nombre": "Exfoliante líquido BHA Blackhead Power Liquid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470054"
+     ],
+     "inci": "Salix Alba (Willow) Bark Water, Butylene Glycol, Betaine Salicylate, Niacinamide, 1,2-Hexanediol, Arginine, Panthenol, Sodium Hyaluronate, Xanthan Gum, Ethyl Hexanediol"
+    },
+    {
+     "nombre": "Tónico Centella Water Alcohol-Free Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470085"
+     ],
+     "inci": "Water, Centella Asiatica Leaf Water, Butylene Glycol, 1,2-Hexanediol, Betaine, Panthenol, Allantoin, Ethyl Hexanediol, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Parches para granos Clear Fit Master Patch",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416471396",
+      "8809598455733"
+     ],
+     "inci": "Petroleum Resin, Cellulose Gum, Styrene Isoprene Styrene Block Copolymer, Polyurethane Film, Polyisobutylene, Liquid Paraffin, Tetrakis Methane"
+    },
+    {
+     "nombre": "Tónico 5 PDRN B5 Vital Soothing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121416",
+      "8800311121683"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Niacinamide, Pentylene Glycol, 2,3-Butanediol, 1,2-Hexanediol, Betaine, Diethoxyethyl Succinate, Sodium DNA, Carbomer, Arginine, Panthenol, Ethylhexylglycerin, Adenosine, Hydrolyzed Corn Starch, Disodium EDTA, Allantoin, Sucrose, Lactobacillus Ferment, Pantothenic Acid, Alpha-Arbutin, Hydrolyzed Collagen, Centella Asiatica Extract, Propanediol, Tocopherol, Sodium Phytate, Sodium Hyaluronate, Hydrolyzed DNA, Caprylyl Glycol, Hydroxypropyltrimonium Hyaluronate, Acetyl Hexapeptide-8, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate"
+    },
+    {
+     "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121423",
+      "8800311121676"
+     ],
+     "inci": "Aqua/Water, Dipropylene Glycol, Butylene Glycol, Pentylene Glycol, Glycerin, Niacinamide, 1,2-Hexanediol, Betaine, Panthenol, Sodium DNA, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyacrylate Crosspolymer-6, Xanthan Gum, Ethylhexylglycerin, Adenosine, Hydrolyzed Corn Starch, Disodium EDTA, Hydrolyzed Collagen, Sucrose, t-Butyl Alcohol, Lactobacillus Ferment, Allantoin, Alpha-Arbutin, Centella Asiatica Extract, Propanediol, Tocopherol, Sodium Phytate, Sodium Hyaluronate, Hydrolyzed DNA, Caprylyl Glycol, Hydroxypropyltrimonium Hyaluronate, Acetyl Hexapeptide-8, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate"
+    },
+    {
+     "nombre": "Mascarilla en lámina Advanced Snail Mucin Power Sheet Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598452572"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Snail Secretion Filtrate, 1,2-Hexanediol, Panthenol, Hydroxyacetophenone, Hexylene Glycol, Xanthan Gum, Dipropylene Glycol, Sodium Polyacrylate, Allantoin, Hydroxyethylcellulose, Sodium Hyaluronate, Disodium EDTA, Dipotassium Glycyrrhizate, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate"
+    },
+    {
+     "nombre": "Crema Azelaic Acid 10 B5 Redness Soothing Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311122239"
+     ],
+     "inci": "Aqua/Water, Azelaic Acid, Propanediol, Glycerin, Coco-Caprylate/Caprate, C9-12 Alkane, Cetearyl Alcohol, C12-15 Alkyl Benzoate, Sorbitan Stearate, Cetearyl Olivate, 1,2-Hexanediol, Dimethiconol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sorbitan Olivate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tromethamine, Sucrose Cocoate, Sodium Polyacryloyldimethyl Taurate, Sodium Metaphosphate, Ethylhexylglycerin, Sorbitan Isostearate, Panthenol, Tocopherol, Madecassoside, Niacinamide, Allantoin, Dipotassium Glycyrrhizate, Zinc PCA, Gluconolactone, Alpha-Arbutin, Asiaticoside, Madecassic Acid, Asiatic Acid, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Glycyrrhiza Uralensis (Licorice) Root Extract, Hyaluronic Acid, Disodium EDTA, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Mascarilla PDRN Exosome Skinplaning Glaze Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311120679"
+     ],
+     "inci": "Aqua/Water, Polyvinyl Alcohol, Octyldodecanol, Methylpropanediol, Butylene Glycol, Niacinamide, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Algin, Polysorbate 80, Pentaerythrityl Tetraethylhexanoate, Pullulan, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-10 Oleate, Glyceryl Stearate, PEG-100 Stearate, Titanium Dioxide, Disteardimonium Hectorite, Synthetic Fluorphlogopite, Mica, Microcrystalline Cellulose, Ethylhexylglycerin, Sphingomonas Ferment Extract, Adenosine, Cellulose Gum, Sodium Phytate, Sodium DNA, Tin Oxide, Glutathione, Acetyl Glucosamine, Allantoin, Panthenol, Hydrolyzed Collagen, Gluconolactone, Mannitol, Centella Asiatica Leaf Extract, Glycerin, Lactobacillus Extracellular Vesicles, Hydrated Silica, Citric Acid, Sodium Hyaluronate, Caprylyl Glycol, Acetyl Hexapeptide-8"
+    },
+    {
+     "nombre": "Sérum capilar Peptide-132 Ultra Perfect Hair Bonding Oil Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457355"
+     ],
+     "inci": "Dimethicone, Hydrogenated Poly(C6-14 Olefin), Cetyl Ethylhexanoate, Dicaprylyl Carbonate, Dimethiconol, Disiloxane, Dicaprylyl Ether, Aminopropyl Dimethicone, Argania Spinosa Kernel Oil, Hexyldecanol, Fragrance/Parfum, Hexyl Cinnamal, Limonene, Citronellol, Tocopherol, Linalool, Benzyl Benzoate, Olea Europaea (Olive) Fruit Oil, Camellia Japonica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Oryza Sativa (Rice) Bran Oil, Vitis Vinifera (Grape) Seed Oil, Macadamia Ternifolia Seed Oil, Tripeptide-132 HCl"
+    },
+    {
+     "nombre": "Champú Peptide-132 Ultra Perfect Hair Bonding Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457331"
+     ],
+     "inci": "Aqua/Water, Sodium C14-16 Olefin Sulfonate, Glycerin, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Caprylyl/Capryl Glucoside, Lauryl Hydroxysultaine, Disodium Cocoyl Glutamate, Sodium Cocoyl Alaninate, Lauryl Betaine, Sodium Chloride, Cetyl Alcohol, Polyquaternium-10, Citric Acid, Sodium Salicylate, PVP, Fragrance/Parfum, Caprylyl Glycol, Trihydroxystearin, Caprylic/Capric Triglyceride, Polyquaternium-6, Sodium Citrate, PPG-3 Caprylyl Ether, C10-18 Triglycerides, Vitis Vinifera (Grape) Seed Oil, Dicaprylyl Ether, Sodium Metaphosphate, Ethylhexylglycerin, Piroctone Olamine, Anthemis Nobilis Flower Water, Glyceryl Stearate, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Macadamia Ternifolia Seed Oil, Dehydroacetic Acid, Hexyl Cinnamal, Propanediol, Zinc PCA, 1,2-Hexanediol, Biotin, Tripeptide-132 HCl, Tocopherol, Sodium Hyaluronate, Laminaria Japonica Extract, Avena Sativa (Oat) Peptide, Arginine, Serine, Glutamic Acid, Threonine, Leucine, Proline, Aspartic Acid, Isoleucine, Glycine, Soluble Collagen, Hydrolyzed Hyaluronic Acid, Phenylalanine, Alanine, Tyrosine, Lysine, Sodium Hyaluronate Crosspolymer, Histidine, Hyaluronic Acid, Caffeine, Panthenol, Niacinamide, Alcohol Denat., PEG-150 Pentaerythrityl Tetrastearate, Hydrogenated Lecithin, Butylene Glycol, Cetearyl Alcohol, Valine, PPG-2 Hydroxyethyl Cocamide, Stearic Acid, Sodium Acetylated Hyaluronate, Ceramide NP, Phytosphingosine, Cholesterol, Hydrolyzed Vegetable Protein, Methionine, Ceramide NS, Cystine, Ceramide AP, Ceramide EOP, Tryptophan, Ceramide AS"
+    },
+    {
+     "nombre": "Tratamiento capilar Peptide-132 Ultra Perfect Hair Bonding Treatment",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598457348"
+     ],
+     "inci": "Aqua/Water, Glycerin, Dimethicone, Cetyl Ethylhexanoate, Isopentyldiol, Cetyl Alcohol, Stearyl Alcohol, Behentrimonium Chloride, Coco-Caprylate/Caprate, Stearamidopropyl Dimethylamine, Sorbitol, Dipropylene Glycol, Dimethiconol, Hydroxypropyl Starch Phosphate, Amodimethicone, Lactic Acid, Maltitol, Fragrance/Parfum, Caprylyl Glycol, Trideceth-10, Sodium Gluconate, Ethylhexylglycerin, Anthemis Nobilis Flower Water, 1,2-Hexanediol, Propanediol, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Camellia Japonica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Oryza Sativa (Rice) Bran Oil, Vitis Vinifera (Grape) Seed Oil, Biotin, Tripeptide-132 HCl, Macadamia Ternifolia Seed Oil, Sodium Hyaluronate, Tocopherol, Laminaria Japonica Extract, Sodium Metaphosphate, Avena Sativa (Oat) Peptide, Arginine, Serine, Glutamic Acid, Threonine, Leucine, Proline, Aspartic Acid, Isoleucine, Glycine, Soluble Collagen, Hydrolyzed Hyaluronic Acid, Phenylalanine, Alanine, Tyrosine, Lysine, Sodium Hyaluronate Crosspolymer, Histidine, Hyaluronic Acid, Caffeine, Panthenol, Niacinamide, Hydrogenated Lecithin, Butylene Glycol, Cetearyl Alcohol, Valine, Sodium Acetylated Hyaluronate, Stearic Acid, Methionine, Cystine, Tryptophan, Ceramide NP, Hydrolyzed Vegetable Protein, Ceramide NS, Phytosphingosine, Cholesterol, Ceramide AP, Ceramide AS, Ceramide EOP"
+    },
+    {
+     "nombre": "Sérum exfoliante Red Rice Inositol Exfoliating Care Pore Wash-off Peel Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121775"
+     ],
+     "inci": "Aqua/Water, Dipropylene Glycol, Tripropylene Glycol, Cellulose, Propanediol, Glycerin, Carbomer, Steartrimonium Methosulfate, Oryza Sativa (Rice) Seed Water, Isopropyl Alcohol, Saccharide Isomerate, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, 1,2-Hexanediol, Caprylyl Glycol, Cetyl Ethylhexanoate, Ethylhexyl Palmitate, Squalane, Inositol, Butylene Glycol, Hydrogenated Lecithin, Hydrolyzed Jojoba Esters, Ethylhexylglycerin, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Sodium Phytate, Cyanocobalamin, Coptis Japonica Root Extract, Citric Acid, Sodium Citrate, Hydroxypropyltrimonium Hyaluronate, Dipotassium Glycyrrhizate, Oryza Sativa (Rice) Extract, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Panthenol, Gluconolactone, Niacinamide, Hyaluronic Acid, Glycolic Acid, Phytic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Tocopherol, Salicylic Acid, Ceramide NP, Betaine, Tromethamine"
+    },
+    {
+     "nombre": "Limpiador Red Rice Inositol Pore Clarifying Deep Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121768"
+     ],
+     "inci": "Aqua/Water, Glycerin, Sodium Cocoyl Glycinate, Cellulose, Sodium Lauroyl Glutamate, Hydrated Silica, Kaolin, Disodium Cocoamphodiacetate, 1,2-Hexanediol, Oryza Sativa (Rice) Seed Water, Betaine, Sodium Chloride, Sodium Sweetalmondamphoacetate, Lauryl Betaine, Sodium Methyl Cocoyl Taurate, Glycol Distearate, Sodium Polyacrylate, Glycol Stearate, Ethylhexylglycerin, Hydroxyacetophenone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Inositol, Polyglycerin-3, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Gardenia Florida Fruit Extract, Dextrin, Cyanocobalamin, Hexylene Glycol, Butylene Glycol, Panthenol, Oryza Sativa (Rice) Seed Extract, Niacinamide, Gluconolactone, Phytic Acid, Beta-Glucan, Sodium Hyaluronate, Tocopherol, Ceramide NP, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Bruma The Blue Peptide Bakuchiol Hydra Plump Boosting Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311123069"
+     ],
+     "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Niacinamide, Butylene Glycol, Tripropylene Glycol, Pentylene Glycol, Glycerin, Betaine, Isopentyldiol, Sodium Chloride, Copper Tripeptide-1, 1,2-Hexanediol, Ethylhexylglycerin, Sodium Gluconate, Bakuchiol, Adenosine, Tocopherol, Caprylyl Glycol, Nicotinamide Adenine Dinucleotide, Magnesium Sulfate, Calcium Chloride, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Manganese Sulfate, Acetyl Hexapeptide-1, Acetyl Heptapeptide-4, Chenopodium Quinoa Seed Extract, Zinc Sulfate, Disodium EDTA, Panthenol, Inositol, Acetyl Hexapeptide-8, Sodium Hydroxide, Propanediol, Sodium Hyaluronate, Acetyl Octapeptide-3, Ascorbyl Glucoside, Hydrolyzed Hyaluronic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Hydrolyzed Collagen, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Sérum The Blue Peptide Bakuchiol Plump Glow Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121225"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Dipropylene Glycol, Niacinamide, 1,2-Hexanediol, Betaine, Diethoxyethyl Succinate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, COPPER TRIPEPTIDE-1(GHK-Cu), Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Bakuchiol, Hydrogenated Lecithin, Alcohol, Sodium Methyl Stearoyl Taurate, Ethylhexylglycerin, Hydroxypropyl Starch Phosphate, Disodium EDTA, Adenosine, Caprylyl Glycol, Tocopherol, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetyl Hexapeptide-1, Acetyl Heptapeptide-4, Panthenol, Inositol, Acetyl Hexapeptide-8, Sodium Hydroxide, Propanediol, Beta-Glucan, Sodium Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Collagen, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Acetyl Octapeptide-3"
+    },
+    {
+     "nombre": "Bruma The Ceramide Skin Barrier Moisturizing Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311120822"
+     ],
+     "inci": "Aqua/Water, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Hydrogenated Poly(C6-14 OLEFIN), Dimethicone, Cetyl Ethylhexanoate, Hydroxypropyl Bislauramide MEA, 1,2-Hexanediol, Cholesterol, Sodium Surfactin, Glyceryl Caprylate, Ethylhexylglycerin, Disodium EDTA, Behenic Acid, Squalane, Panthenol, Allantoin, Hydrogenated Lecithin, Cetearyl Alcohol, Tocopherol, Betaine, Stearic Acid, Propanediol, Sodium PCA, Sodium Hyaluronate, Sodium Lactate, PCA, Serine, Alanine, Glycine, Hydrolyzed Hyaluronic Acid, Ceramide NP, Glutamic Acid, Sodium Hyaluronate Crosspolymer, Lysine HCL, Threonine, Arginine, Hyaluronic Acid, Ceramide NS, Phytosphingosine, Ceramide AP, Ceramide AS, Proline, Sodium Acetylated Hyaluronate, Ceramide EOP"
+    },
+    {
+     "nombre": "Mascarilla de noche Full Fit Propolis Honey Overnight Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598452336"
+     ],
+     "inci": "Propolis Extract, Butylene Glycol, Glycerin, Honey Extract, Royal Jelly Extract, 1,2-Hexanediol, Water, Betaine, Cassia Obtusifolia Seed Extract, Carbomer, Arginine, Ethylhexylglycerin, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil, Sodium Polyacrylate, Panthenol, Allantoin, Adenosine, Sodium Hyaluronate, Beeswax"
+    },
+    {
+     "nombre": "Sérum Full Fit Propolis Light Ampoule",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450820",
+      "8809598454316"
+     ],
+     "inci": "Propolis Extract, Butylene Glycol, Glycerin, Betaine, 1,2-Hexanediol, Cassia Obtusifolia Seed Extract, Sodium Hyaluronate, Hydroxyethylcellulose, Carbomer, Panthenol, Arginine"
+    },
+    {
+     "nombre": "Crema Full Fit Propolis Light Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598451032",
+      "8809598454323"
+     ],
+     "inci": "Propolis Extract, Butylene Glycol, Glycerin, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, 1,2-Hexanediol, Honey Extract, Royal Jelly Extract, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cassia Obtusifolia Seed Extract, Cetearyl Olivate, Beeswax, Cetearyl Alcohol, Sorbitan Olivate, Allantoin, Arginine, Carbomer, Xanthan Gum"
+    },
+    {
+     "nombre": "Tónico Full Fit Propolis Synergy Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450899",
+      "8809598451896"
+     ],
+     "inci": "Propolis Extract, Honey Extract, Butylene Glycol, 1,2-Hexanediol, Glycerin, Betaine, Cassia Obtusifolia Seed Extract, Panthenol, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Ethylhexylglycerin, Sodium Hyaluronate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride"
+    },
+    {
+     "nombre": "Esencia Galactomyces 95 Tone Balancing Essence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416471310"
+     ],
+     "inci": "Galactomyces Ferment Filtrate, Niacinamide, Panthenol, Glycerin, 1,2-Hexanediol, Butylene Glycol, Betaine, Sodium Hyaluronate, Allantoin, Xanthan Gum, Ethyl Hexanediol, Adenosine"
+    },
+    {
+     "nombre": "Crema Hyaluronic Acid Intensive Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470122"
+     ],
+     "inci": "Hippophae Rhamnoides Water, Ethyl Hexanediol, 1,2-Hexanediol, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Betaine, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Macadamia Ternifolia Seed Oil, Sodium Hyaluronate, Arginine, Panthenol, Dimethicone, Ethylhexylglycerin, Carbomer, Allantoin, Xanthan Gum"
+    },
+    {
+     "nombre": "Gel crema Hydrium Green Tea Aqua Soothing Gel Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450622"
+     ],
+     "inci": "Water, Propanediol, Camellia Sinensis Leaf Extract, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Tromethamine, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Allantoin, Aloe Ferox Leaf Extract, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Hydrolyzed Hibiscus Esculentus Extract, Lupinus Albus Seed Extract, Moringa Oleifera Seed Extract, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract"
+    },
+    {
+     "nombre": "Crema Hydrium Moisture Power Enriched Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450646"
+     ],
+     "inci": "Water, Glycerin, Ethylhexyl Stearate, Vinyl Dimethicone, Pentylene Glycol, Cocos Nucifera (Coconut) Oil, 1,2-Hexanediol, Cetearyl Alcohol, Panthenol, Polymethylsilsesquioxane, Arachidyl Alcohol, Propolis Extract, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyglyceryl-6 Stearate, Butylene Glycol, Carbomer, Behenyl Alcohol, Glyceryl Stearate, Tromethamine, Dimethiconol, Caprylyl Glycol, Arachidyl Glucoside, Hydrogenated Lecithin, Ceramide NP, Ethylhexylglycerin, Xanthan Gum, Sucrose Stearate, Polyglyceryl-6 Behenate, Sodium Polyacrylate Starch, Stearic Acid, Palmitic Acid, Sodium Hyaluronate, Cholesterol, Hyaluronic Acid, Glycosphingolipids, Hydrolyzed Hyaluronic Acid"
+    },
+    {
+     "nombre": "Sérum Hydrium Triple Hyaluronic Moisture Ampoule",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450653"
+     ],
+     "inci": "Water, Glycerin, Butylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Methyl Gluceth-10, Sodium Hyaluronate, Carbomer, Panthenol, Tromethamine, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Gluconolactone, Lactobionic Acid"
+    },
+    {
+     "nombre": "Mascarilla labial Lip Sleep Balancium Ceramide Lip Butter Sleeping Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598453388"
+     ],
+     "inci": "Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Ricinus Communis (Castor) Seed Oil, Polyglyceryl-3 Distearate, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Simmondsia Chinensis (Jojoba) Seed Oil, Caprylic/Capric Triglyceride, Beeswax, Ozokerite, Polyethylene, Mangifera Indica (Mango) Seed Butter, Euphorbia Cerifera (Candelilla) Wax, Glyceryl Stearate Citrate, Ethylhexylglycerin, Glycerin, Ceramide NP, Phytosphingosine"
+    },
+    {
+     "nombre": "Gel limpiador Low pH Good Morning Gel Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470511"
+     ],
+     "inci": "Water, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Polysorbate 20, Styrax Japonicus Branch/Fruit/Leaf Extract, Butylene Glycol, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Allantoin, Caprylyl Glycol, Ethylhexylglycerin, Betaine Salicylate, Citric Acid, Ethyl Hexanediol, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Disodium EDTA"
+    },
+    {
+     "nombre": "Gel exfoliante Low pH Goodnight Soft Peeling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598453364"
+     ],
+     "inci": "Water, Cellulose, Glycerin, Rosa Damascena Flower Water, Propanediol, Butylene Glycol, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Lavandula Angustifolia (Lavender) Flower Water, Tromethamine, Niacinamide, Maltodextrin, Ethylhexylglycerin, Disodium EDTA, Pentylene Glycol, Lactobionic Acid, Papain, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Lactobacillus/Soybean Ferment Extract, Sodium Hyaluronate, Sodium Metabisulfite, Lactobacillus/Rice Ferment, Camellia Japonica Flower Extract"
+    },
+    {
+     "nombre": "Parches para granos Master Patch Intensive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598453883",
+      "8809598454118"
+     ],
+     "inci": "Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Polyisobutene, Styrene/Isoprene Copolymer, Salicylic Acid, Melaleuca Alternifolia (TEA Tree) Leaf Oil"
+    },
+    {
+     "nombre": "Loción Oil-Free Ultra-Moisturizing Lotion with Birch Sap",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470559"
+     ],
+     "inci": "Betula Platyphylla Japonica Juice, Butylene Glycol, Glycerin, Dimethicone, Betaine, Cetearyl Alcohol, 1,2-Hexanediol, Cetearyl Olivate, Sorbitan Olivate, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethyl Hexanediol, Xanthan Gum, Allantoin, Panthenol, Water, Sodium Hyaluronate, Sodium Lactate, Sorbitan Isostearate, Polysorbate 60, Tocopherol, 4-Terpineol"
+    },
+    {
+     "nombre": "Discos One Step Original Blemish Pore Clear Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121591"
+     ],
+     "inci": "Salix Alba (Willow) Bark Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Betaine Salicylate, PEG-60 Hydrogenated Castor Oil, Ethyl Hexanediol, Panthenol, Sodium Hydroxide, Allantoin, Limonene, Adenosine, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Aqua/Water, Arginine, Pantothenic Acid, Citrus Aurantium Dulcis (Orange) Peel Oil, Sodium Hyaluronate, Gluconolactone, Zinc PCA, Pentylene Glycol, Madecassoside, Capryloyl Salicylic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Ethylhexylglycerin, Hydrolyzed Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Discos One Step Original Clear Skin Calming Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121577"
+     ],
+     "inci": "Camellia Sinensis Leaf Water, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Gluconolactone, Panthenol, Aqua/Water, Allantoin, Arginine, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Glycerin, Pantothenic Acid, Adenosine, Asiaticoside, Pentylene Glycol, Madecassic Acid, Asiatic Acid, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Madecassoside, Sodium Hyaluronate Crosspolymer, Ceramide NP, Hydrolyzed Hyaluronic Acid, Polyglyceryl-2 Stearate, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Beta-Glucan, Capryloyl Salicylic Acid, Glyceryl Stearate, Hyaluronic Acid, Stearyl Alcohol, Oleic Acid, Cholesterol, Ethylhexylglycerin, Hydroxyacetophenone, Centella Asiatica Extract, Hydrolyzed Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Discos One Step Original Peptide Collagen Lifting Glow Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121560"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Tripropylene Glycol, Niacinamide, Pentylene Glycol, 2,3-Butanediol, Betaine, Lactobacillus Ferment, Propanediol, Diethoxyethyl Succinate, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexylglycerin, 1,2-Hexanediol, Adenosine, Arginine, Carbomer, Disodium EDTA, Xanthan Gum, Glyceryl Acrylate/Acrylic Acid Copolymer, Dipotassium Glycyrrhizate, Allantoin, Panthenol, Cyanocobalamin, Prunus Persica (Peach) Flower Extract, Hydrolyzed Collagen, Pantothenic Acid, Tocopherol, Sodium Hyaluronate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Palmitoyl Tripeptide-5, Copper Tripeptide-1, Acetyl Hexapeptide-8, Dimethylsilanol Hyaluronate, Potassium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Collagen, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Collagen Extract"
+    },
+    {
+     "nombre": "Discos One Step Original Tone Clarifying Moisture Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311121584"
+     ],
+     "inci": "Oryza Sativa (Rice) Bran Water, Butylene Glycol, Aqua/Water, Glycerin, Niacinamide, 1,2-Hexanediol, Gluconolactone, Xanthan Gum, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Adenosine, Tromethamine, Disodium EDTA, Hydrogenated Lecithin, Betaine, Panthenol, Pantothenic Acid, Allantoin, Alpha-Arbutin, Gardenia Jasminoides Fruit Extract, Polyglyceryl-10 Laurate, 3-O-Ethyl Ascorbic Acid, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Dimethylsilanol Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Glutathione, Squalane, Sodium PCA, Sodium Lactate, PCA, Tocopherol, Serine, Alanine, Glycine, Glutamic Acid, Lysine Hcl, Threonine, Arginine, Proline"
+    },
+    {
+     "nombre": "Tónico Refresh ABC Daily Toner (AHA BHA Vitamin C)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598450967",
+      "8809598451902",
+      "8809598451889",
+      "8809598455399"
+     ],
+     "inci": "Actinidia Chinensis (Kiwi) Fruit Extract, Hylocereus Undatus Fruit Extract, Salix Alba (Willow) Bark Water, Pyrus Malus (Apple) Fruit Water, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Ethyl Hexanediol, Sodium Lactate, Water, Glycolic Acid, Allantoin, Panthenol, Adenosine, Betaine Salicylate, Ascorbyl Glucoside"
+    },
+    {
+     "nombre": "Limpiador Salicylic Acid Daily Gentle Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416471112",
+      "8809598453661"
+     ],
+     "inci": "Water, Glycerin, Myristic Acid, Stearic Acid, Potassium Hydroxide, Lauric Acid, Butylene Glycol, Glycol Distearate, Polysorbate 80, Sodium Methyl Cocoyl Taurate, Salicylic Acid, Cocamidopropyl Betaine, PEG-60 Hydrogenated Castor Oil, Fragrance, Sodium Chloride, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Caprylyl Glycol, Ethylhexylglycerin, Salix Alba (Willow) Bark Water, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, 1,2-Hexanediol, Ethyl Hexanediol, Citric Acid, Disodium EDTA"
+    },
+    {
+     "nombre": "Sérum The 6 Peptide Skin Booster Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311122611",
+      "8809598455658"
+     ],
+     "inci": "Water, Dipropylene Glycol, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Niacinamide, Acetyl Hexapeptide-8, Copper Tripeptide-1, sh-Polypeptide-121, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Oligopeptide-68, Palmitoyl Tripeptide-8, Allantoin, Sodium Hyaluronate, Acetyl Glucosamine, Serine, Alanine, Glycine, Threonine, Arginine, Proline, Betaine, Sodium PCA, Sodium Lactate, PCA, Glutamic Acid, Lysine HCl, Tocopherol, Dextran, Glycine Soja (Soybean) Oil, Hydrogenated Lecithin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyacrylate Crosspolymer-6, Butylene Glycol, Xanthan Gum, Ethylhexylglycerin, Adenosine, Polyquaternium-51, Disodium EDTA, Citric Acid, Caprylyl Glycol, t-Butyl Alcohol, Potassium Sorbate, Sodium Oleate"
+    },
+    {
+     "nombre": "Sérum The AHA 2 BHA 2 Blemish Treatment Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598455696"
+     ],
+     "inci": "Water, Propanediol, Polysorbate 20, Glycolic Acid, Salicylic Acid, Gluconolactone, Zinc PCA, Allantoin, Sodium Hyaluronate, Sodium Hydroxide, Dipropylene Glycol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexylglycerin, Dipotassium Glycyrrhizate, 1,2-Hexanediol, Disodium EDTA"
+    },
+    {
+     "nombre": "Exfoliante The AHA BHA PHA LHA 35 Peel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454873"
+     ],
+     "inci": "Water, Glycolic Acid, Lactic Acid, Potassium Hydroxide, Gluconolactone, Mandelic Acid, Dipropylene Glycol, Panthenol, Salicylic Acid, Methylpropanediol, 1,2-Hexanediol, Octyldodeceth-16, Citric Acid, Hydroxyethylcellulose, Pentylene Glycol, Sodium Polyacryloyldimethyl Taurate, Cyanocobalamin, Polyacrylate Crosspolymer-6, Hydroxypropyl Starch Phosphate, Ethylhexylglycerin, Capryloyl Salicylic Acid, Polysorbate 60, Disodium Phosphate, Sodium Phosphate, Tocopherol, Allantoin, Hydrolyzed Hyaluronic Acid"
+    },
+    {
+     "nombre": "Crema The Blue Peptide Bakuchiol Plump Bounce Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800311122468"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Methyl Trimethicone, Niacinamide, 1,2-Hexanediol, Cetearyl Alcohol, Squalane, Dimethicone, Caprylyl Methicone, COPPER TRIPEPTIDE-1 (GHK-Cu), Caprylic/Capric Triglyceride, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Polyacrylate Crosspolymer-6, Glyceryl Stearate, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Cetearyl Glucoside, Hydrogenated Lecithin, Glyceryl Caprylate, Ethylhexylglycerin, Stearic Acid, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Sodium Gluconate, Bakuchiol, Adenosine, Myristic Acid, Lauric Acid, Caprylyl Glycol, Tocopherol, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetyl Hexapeptide-1, Acetyl Heptapeptide-4, Panthenol, Betaine, Inositol, Acetyl Hexapeptide-8, Sodium Hydroxide, Propanediol, Synthetic Wax, Sodium Hyaluronate, Acetyl Octapeptide-3, Polyglyceryl-10 Stearate, Hydrolyzed Hyaluronic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Ceramide NP, Hyaluronic Acid, Cholesterol, Hydrolyzed Collagen, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Sérum The Hyaluronic Acid 3 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454668",
+      "8809598454989"
+     ],
+     "inci": "Water, Butylene Glycol, Propanediol, Glycerin, Sodium Hyaluronate, Pentylene Glycol, 1,2-Hexanediol, Diethoxyethyl Succinate, Sodium Polyacryloyldimethyl Taurate, Betaine, Xanthan Gum, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium PCA, Sodium Lactate, PCA, Glyceryl Acrylate/Acrylic Acid Copolymer, Hydrogenated Lecithin, Ethylhexylglycerin, Serine, Alanine, Glycine, Sodium Phytate, Sorbitan Isostearate, PVM/MA Copolymer, Glutamic Acid, Citric Acid, Lysine HCl, Threonine, Arginine, Sodium Methyl Stearoyl Taurate, Proline, Ceramide NP, Cholesterol, Caprylic/Capric Triglyceride, Phytosphingosine, Stearic Acid, Oleic Acid, Alcohol, Tocopherol, Lactic Acid, Caprylyl Glycol, Caprylhydroxamic Acid"
+    },
+    {
+     "nombre": "Sérum The Niacinamide 15 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454958"
+     ],
+     "inci": "Water, Pentylene Glycol, Niacinamide, Butylene Glycol, Acetyl Glucosamine, 1,2-Hexanediol, Zinc PCA, Trehalose, Xanthan Gum, Pullulan, Allantoin, Ethylhexylglycerin, Sodium Phytate, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Crema The Retinol 0.1 Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454996"
+     ],
+     "inci": "Water, Caprylic/Capric Triglyceride, Propanediol, Glycerin, Tocopheryl Acetate, Cetearyl Alcohol, Trehalose, Panthenol, Butyrospermum Parkii (Shea) Butter, Glycine Soja (Soybean) Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Glyceryl Polymethacrylate, Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Carbomer, Tromethamine, Glyceryl Stearate, Polysilicone-11, Sodium Sulfite, Tocopherol, Daucus Carota Sativa (Carrot) Root Extract, Retinol, Allantoin, Glyceryl Caprylate, Oryza Sativa (Rice) Bran Wax, Tocotrienols, Stearic Acid, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Disodium EDTA, Ethylhexylglycerin, Adenosine, Sorbitan Isostearate, Elaeis Guineensis (Palm) Oil, BHT, Beta-Carotene, Myristic Acid, Lauric Acid, Ascorbic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, 3-O-Ethyl Ascorbic Acid, Glutathione, Sodium Hyaluronate, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Aceite The Retinol 0.5 Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454965"
+     ],
+     "inci": "Squalane, Glycine Soja (Soybean) Oil, Di-C12-13 Alkyl Malate, Retinol, Caprylic/Capric Triglyceride, BHT, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Hydroxymethoxyphenyl Decanone"
+    },
+    {
+     "nombre": "Sérum The Vitamin C 13 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598455238",
+      "8809598455474"
+     ],
+     "inci": "Water, Ascorbic Acid, Butylene Glycol, Dipropylene Glycol, Tromethamine, 3-O-Ethyl Ascorbic Acid, Panthenol, Acetyl Glucosamine, Caffeine, Sodium Hyaluronate, Sodium Sulfite, Disodium EDTA, Glutathione, Adenosine, Gardenia Florida Fruit Extract, Allantoin, Dextrin, Squalane, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Arginine, Niacinamide, Pentylene Glycol, Glycyrrhiza Glabra (Licorice) Root Extract"
+    },
+    {
+     "nombre": "Sérum Advanced The Vitamin C 23 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454651"
+     ],
+     "inci": "Aqua/Water, Ascorbic Acid, Butylene Glycol, Dimethicone, Panthenol, 3-O-Ethyl Ascorbic Acid, Squalane, Sodium Hydroxide, Caffeine, Sodium Hyaluronate, Sodium Metaphosphate, Adenosine, Acetyl Glucosamine, Gardenia Florida Fruit Extract, Allantoin, Dextrin, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Arginine, Niacinamide, Pentylene Glycol, Glutathione, Helianthus Annuus (Sunflower) Seed Oil, Methyl Trimethicone, Carthamus Tinctorius (Safflower) Seed Oil, Camellia Japonica Seed Oil, Daucus Carota Sativa (Carrot) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Beta-Carotene"
+    },
+    {
+     "nombre": "Limpiador Hydrium Triple Hyaluronic Moisturizing Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598451926"
+     ],
+     "inci": "Water, Glycerin, Stearic Acid, Myristic Acid, Lauric Acid, Potassium Hydroxide, Palmitic Acid, Potassium Cocoyl Glycinate, Coco-Glucoside, Glyceryl Stearate, Fragrance(Parfum), Polyquaternium-7, Acrylates/C10-30 Alkyl AcrylateCrosspolymer, Sodium Cocoyl Isethionate, Arachidic Acid, Disodium EDTA, 1,2-Hexanediol, Oleic Acid, Sodium Benzoate, Quillaja Saponaria Bark Extract, CitricAcid, Butylene Glycol, Panthenol, Hyaluronic Acid, Ethylhexylglycerin, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Mascarilla de noche Ultimate Nourishing Rice Overnight Spa Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470726"
+     ],
+     "inci": "Water, Butylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Niacinamide, Betaine, Cetearyl Olivate, 1,2-Hexanediol, Dimethicone, Sorbitan Olivate, Oryza Sativa (Rice) Extract, Elaeis Guineensis (Palm) Kernel Oil, Cetearyl Alcohol, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethyl Hexanediol, Elaeis Guineensis (Palm) Oil, Carbomer, Arginine, Xanthan Gum, Allantoin, Sorbitan Isostearate, Polysorbate 60, Tocopherol"
+    },
+    {
+     "nombre": "Protector solar Ultra-Light Invisible Sunscreen SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598456242"
+     ],
+     "inci": "Aloe Barbadensis Leaf Water, Diethylhexyl Succinate, Propanediol, Aqua/Water, Drometrizole Trisiloxane, Ethylhexyl Triazone, Niacinamide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Terephthalylidene Dicamphor Sulfonic Acid, 1,2-Hexanediol, Behenyl Alcohol, Methyl Trimethicone, Sodium Polyacryloyldimethyl Taurate, Hamamelis Virginiana (Witch Hazel) Leaf Water, Tromethamine, Polyacrylate Crosspolymer-6, Arachidyl Alcohol, Caprylyl Glycol, Ethylhexylglycerin, Arachidyl Glucoside, Sodium Metaphosphate, Adenosine, Tocopherol, Sodium Hyaluronate, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Protector solar Vitamin E Vitalizing Sunscreen SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809598454613"
+     ],
+     "inci": "Water/Aqua/Eau, Propanediol, Homosalate, Octocrylene, Ethylhexyl Salicylate(Octisalate), Butyloctyl Salicylate, Butyl Methoxydibenzoylmethane(Avobenzone), Diphenylsiloxy phenyl trimethicone, Dimethicone, VP/Eicosene copolymer, Silica, Trisiloxane, Cyclopentasiloxane, Trimethylsiloxysilicate, 1,2-Hexanediol, Behenyl alcohol, Glyceryl stearate, PEG-100 stearate, C14-22 alcohols, Cetyl alcohol, Potassium cetyl phosphate, Polyacrylate-13, Polyisobutene, Fragrance/Parfum, C12-20 Alkyl glucoside, Butylene glycol, Disodium EDTA, Ethylhexylglycerin, Polysorbate 20, Sorbitan isostearate, Dextrin, Theobroma cacao (cocoa) extract, Gossypium herbaceum (cotton) extract, Glucose, Tocopherol"
+    },
+    {
+     "nombre": "Discos One Step Original Clear Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416470306"
+     ],
+     "inci": "Salix Alba (Willow) Bark Water, Butylene Glycol, Glycerin, Betaine Salicylate, 1,2-Hexanediol, Arginine, PEG-60 Hydrogenated Castor Oil, Panthenol, Allantoin, Ethyl Hexanediol, Citrus Aurantium Dulcis (Orange) Peel Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Sodium Hydroxide, Sodium Hyaluronate"
+    },
+    {
+     "nombre": "Tónico exfoliante Two in One Poreless Power Liquid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809416471655"
+     ],
+     "inci": "Salix Alba (Willow) Bark Water, Butylene Glycol, Hydroxypropyl Cyclodextrin, Water, Pentylene Glycol, 1,2-Hexanediol, Betaine Salicylate, Arginine, Betaine, PEG-60 Hydrogenated Castor Oil, Allantoin, Panthenol, Ethylhexylglycerin, Sodium Hyaluronate, Carbomer, Cassia Obtusifolia Seed Extract, Menthyl Lactate, Mentha Haplocalix Extract"
     }
    ]
   }
