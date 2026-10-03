@@ -775,6 +775,63 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
+De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
+antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
+empezar una marca, va primero. Avisos de Mariana: en Durex y Control deben saltar nonoxinol-9
+(35), propilenglicol (38) y fragancia sin dispararse por error; en Cumlaude, Chilly y Saforelle
+(mucosa) la clorhexidina (37) solo cuando esté de verdad; Kiko y Rituals por sitemap; en Rituals,
+velas y ambientadores son Hogar; K-beauty: comprobar que el INCI de la web (en inglés) es el del
+envase europeo.
+1. ~~Durex (lubricantes, geles y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03b): 6 productos, 7 códigos; ver su apartado
+2. Control (lubricantes y preservativos)
+3. Cumlaude Lab (higiene íntima)
+4. Chilly (higiene íntima)
+5. Saforelle (higiene íntima)
+6. Kiko Milano (maquillaje)
+7. Rituals (cuerpo, baño y perfumados)
+8. Beauty of Joseon (K-beauty)
+9. COSRX (K-beauty)
+10. Anua (K-beauty)
+11. Uriage (dermocosmética)
+12. Nuxe (dermocosmética)
+13. Martiderm (dermocosmética)
+14. Olaplex (capilar)
+
+### Durex (durex.es) — cerrada 2026-10-03 (versión 2026-10-03b): 6 productos, 7 códigos — tercera cola, 1
+- **Fuente de la lista**: durex.es (Reckitt; sitemap `sitemap-0.xml`, 59 fichas de producto sin contar packs). Solo **13
+  fichas publican "Ingredientes"** y son todas lubricantes: Original 50/100, Calor, Frescor, Perfect Connection 50/100,
+  Naturals (gel íntimo, extra sensitivo, hidratante) y Sensilube gel hidratante 40/75. **Los preservativos no traen
+  lista** (solo "látex de caucho natural, extra lubricado con silicona"): no entran. Tampoco traen lista los lubricantes
+  de sabor (fresa, cherry), Intense Orgasmic, Massage 2 en 1, Sensilube Fluido y KY. De las otras webs de Durex, solo
+  durex.fr da listas (12), pero de envases franceses con otro código (Massage "douceur" 5038483238189 frente al español
+  5038483733769): no se usan. durex.pt/.it/.de/.co.uk, sin lista.
+- **Códigos: la web no da EAN** (solo SKU internos). Salen de **dosfarma** (67 fichas Durex) y **Atida** (113, `gtin13`),
+  emparejados por nombre y tamaño con la ficha oficial y confirmados en las dos farmacias; en el Efecto Calor las dos
+  dan además la misma lista INCI que la web. Fuera packs (códigos internos `21000…`), duplos y kits.
+- **Entran**: Lubricante efecto calor 8428076011652, efecto frescor 5052197040487, Naturals gel íntimo 8410104881832,
+  Naturals extra sensitivo con aloe 8410104892333, Naturals hidratante 8410104892258 y Perfect Connection 50 y 100 ml
+  8428076000014 / 8428076000090 (una entrada: "Dimethicone" sola, lista completa de un lubricante de silicona).
+- **Fuera con lista oficial**: **Original 50 ml**: el único código en farmacias, 5052197040364 ("Play Original"), lo dan
+  dosfarma y Atida con otra fórmula ("Hidroxietilcelulosa, Propilenglicol, Hidróxido sódico, Agua, Conservante") y la web
+  con la actual (Aqua, Propylene Glycol, Xanthan Gum, Carbomer…): no se sabe qué lista lleva ese código; el de 100 ml no
+  está en ninguna farmacia. **Sensilube gel hidratante 40/75 ml**: el código "Sensilube 40 ml" 5010232969216 es el del
+  **Fluido** (dosfarma le pone otra composición, con metil-, etil- y propilparabeno) y el de 75 ml de Atida se llama "Ky
+  Jelly": sin código seguro.
+- **Open Beauty Facts**: de los 7 códigos solo está 8410104881832 (Francia, sin lista). Mismas fórmulas con otro código
+  en OBF: Natural Hydra+ NL 3059948002154 = Naturals hidratante (igual), naturals Gleitgel DE 4002448154983 = extra
+  sensitivo (igual), Play Feel DE 5038483962435 = la lista actual del Original.
+- **Revisión FP/FN** (`revisa.mjs durex`): propilenglicol (38) salta en los dos que lo llevan (calor y frescor);
+  "Aroma" del frescor salta como aroma no divulgado (188); fragancia (5) no salta en ninguno porque ninguno lleva Parfum
+  (correcto). **Nonoxinol-9 (35)**: ningún lubricante Durex de España lo lleva; probada con textos: salta con
+  "Nonoxynol-9" y "nonoxinol-9", no con Nonoxynol-4/-10/-12, Polyquaternium-10 ni PPG-9. **Corrección: no reconocía
+  "Nonoxynol 9" con espacio**: añadidos "nonoxynol 9", "nonoxinol-9" y "nonoxinol 9" a la 35; regresión 0 cambios (no
+  hay nonoxinoles en el catálogo). Sin falsos negativos. Regresión de la marca: 0 cambios en las 5.160 fichas anteriores.
+- **Decisión de criterio para Mariana (M)**: los otros nonoxinoles (Nonoxynol-4, -10, -12…) son etoxilados de nonilfenol
+  igual que el 9 y pueden liberar nonilfenol (disruptor reconocido, regla 148 de Hogar). Hoy no saltan. No hay ninguno en el
+  catálogo; si se quiere, se añaden a la 35 (o a la 192 de etoxilados) cuando aparezca alguno.
+- Scripts: `dx/parse.py`, `c5/dosfarma.py`, `dx/atida.json` (scratchpad).
+
 ### Medik8 (es.medik8.com + tiendas UE de la marca) — abierta 2026-10-03 (versión 2026-10-03a): 48 productos, 58 códigos
 **Marca pedida por Mariana el 2026-10-03.** Dermocosmética británica (vitamina A, vitamina C, péptidos).
 - **Códigos: no son EAN británicos `50…`.** Medik8 usa el prefijo GS1 `818625` (UPC-A de 12 dígitos → EAN-13 con el
@@ -2641,6 +2698,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
 | Rare Beauty | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC `840122…`) | sí, bloque "Full Ingredients", con cabecera por tono cuando cambia | ver su apartado |
 | Medik8 | Shopify (`es.medik8.com`, `pt.medik8.com`) | sí, `barcode` por variante en `.js` (envase UE; el británico es otro código) | **traducida** en ES; en INCI ficha a ficha en nl/pt/de/fr/it.medik8.com (mismos códigos) | ver su apartado |
+| Durex | sí (`sitemap-0.xml`) | **no** (SKU internos): dosfarma + Atida | solo 13 fichas (lubricantes); preservativos sin lista | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2704,13 +2762,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7571 códigos en 79 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7578 códigos en 80 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5160 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5166 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

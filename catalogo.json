@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03a",
+ "version": "2026-10-03b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -49376,6 +49376,67 @@
       "0818625028176"
      ],
      "inci": "Aqua (Water), Niacinamide, Glycerin, Inulin, Alpha-Glucan Oligosaccharide, Allantoin, Butylene Glycol, Aloe Barbadensis (Aloe Vera) Leaf Juice, Phenoxyethanol, Anthemis Nobilis (Chamomile) Flower Water, Rosmarinus Officinalis (Rosemary) Water, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Beta-Glucan, Caprylyl Glycol"
+    }
+   ]
+  },
+  {
+   "key": "durex",
+   "nombre": "Durex",
+   "productos": [
+    {
+     "nombre": "Lubricante efecto calor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428076011652"
+     ],
+     "inci": "Glycerin, Aqua, Propylene Glycol, Hydroxyethylcellulose, Benzoic Acid, Sodium Saccharin, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Lubricante efecto frescor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5052197040487"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, Carbomer, Aroma, Xanthan Gum, Sodium Hydroxide, Benzoic Acid, Citric Acid"
+    },
+    {
+     "nombre": "Gel lubricante íntimo Naturals",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104881832"
+     ],
+     "inci": "Aqua, Glycerin, Propanediol, Xanthan Gum, Inulin, Benzoic Acid, Alpha-Glucan Oligosaccharide, Potassium Lactate, Lactic Acid"
+    },
+    {
+     "nombre": "Lubricante Naturals extra sensitivo con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104892333"
+     ],
+     "inci": "Aqua, Propanediol, Xanthan Gum, Benzoic Acid, Aloe Barbadensis Leaf Juice, Potassium Lactate, Lactic Acid"
+    },
+    {
+     "nombre": "Lubricante Naturals hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104892258"
+     ],
+     "inci": "Aqua, Glycerin, Propanediol, Xanthan Gum, Benzoic Acid, Sodium Hyaluronate, Potassium Lactate, Lactic Acid"
+    },
+    {
+     "nombre": "Lubricante de silicona Perfect Connection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8428076000014",
+      "8428076000090"
+     ],
+     "inci": "Dimethicone"
     }
    ]
   }
