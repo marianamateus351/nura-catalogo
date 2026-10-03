@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03d",
+ "version": "2026-10-03e",
  "marcas": [
   {
    "key": "larocheposay",
@@ -49747,6 +49747,58 @@
       "8428749646600"
      ],
      "inci": "Aqua (Water), Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Helianthus annuus (Sunflower) Seed Oil, Propylene Glycol, Argania spinosa Kernel Oil, Laureth-9, Carbomer, Vitis Vinifera (Grape) Seed Oil, Tocopheryl Acetate, Pullulan, Arginine, Sodium Hyaluronate, Glycine soja (Soybean) Oil, Rosa Canina Fruit Extract, Lecithin, Acetyl Glutamine, sh-Oligopeptide-1, sh-Oligopeptide-2, sh-Polypeptide-1, sh-Polypeptide-9, sh-Polypeptide-11, Bacillus/Soybean/Folic acid Ferment Extract, Tocopherol, Butylene Glycol, 1, 2-Hexanediol, Caprylyl Glycol, Phenoxyethanol, Chlorphenesin, Disodium EDTA"
+    }
+   ]
+  },
+  {
+   "key": "saforelle",
+   "nombre": "Saforelle",
+   "productos": [
+    {
+     "nombre": "Crema íntima calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700399100615"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum, PEG-6 Stearate, Panthenol, Apricot Kernel Oil PEG-6 Esters, Pentylene Glycol, Glycol Stearate, PEG-32 Stearate, Macadamia Integrifolia Seed Oil, Butyrospermum Parkii Butter, Glyceryl Caprylate/Caprate, Piroctone Olamine, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Sodium Dextran Sulfate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Aloe Barbadensis Leaf Extract, Arctium Lappa Root Extract, Citric Acid, Glycine Soja Oil"
+    },
+    {
+     "nombre": "Gel de higiene íntima y corporal Miss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700399100431"
+     ],
+     "inci": "Aqua, Sodium Cocoamphoacetate, Lauryl Glucoside, Glycerin, Propanediol, Sodium Cocoyl Glutamate, Sodium Lauryl Glucose Carboxylate, Coco-Glucoside, Glyceryl Oleate, Parfum, Lactic Acid, Ethylhexylglycerin, Laureth-2, PEG/PPG-120/10 Trimethylolpropane Trioleate, Allantoin, Disodium EDTA, Sodium Benzoate, Potassium Sorbate, Citric Acid, Althaea Officinalis Root Extract, Arctium Lappa Root Extract, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Espuma de higiene íntima ultrasuave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401344235597"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Cocamide DEA, Sodium Chloride, 1,2-Hexanediol, Caprylyl Glycol, PEG-6 Caprylic/Capric Glycerides, Propylene Glycol, Parfum, Polysorbate 20, Stearamine Oxide, Sodium Cocoyl Amino Acids, Lavandula Angustifolia Oil, Tetrasodium EDTA, Linalool, Sodium Hydroxide, Arctium Lappa Root Extract, Sarcosine, Citronellol, Coumarin, Geraniol, Magnesium Aspartate, Potassium Aspartate"
+    },
+    {
+     "nombre": "Pastilla de higiene íntima Essential",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700399102800",
+      "3700399102817"
+     ],
+     "inci": "Aqua, Sodium Cocoyl Glutamate, Citric Acid, Sodium Citrate, Alpha-Glucan Oligosaccharide, Sodium Gluconate, Algin, Sodium Bicarbonate, Xanthan Gum, Maltodextrin, Potassium Sorbate, Sodium Benzoate, Glycerin, Arctium Lappa Root Extract"
+    },
+    {
+     "nombre": "Toallitas íntimas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700399100929"
+     ],
+     "inci": "Aqua, Gluconolactone, Glycerin, Sodium Benzoate, Coco-Glucoside, Sodium Hydroxide, Calcium Gluconate, Arctium Lappa Root Extract"
     }
    ]
   }

@@ -787,7 +787,7 @@ envase europeo.
 2. ~~Control (lubricantes y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03c): 3 productos, 3 códigos (solo las cremas publican INCI); ver su apartado
 3. ~~Cumlaude Lab (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03d): 30 productos, 31 códigos; ver su apartado
 4. ~~Chilly (higiene íntima)~~ — **revisada 2026-10-03: NO ENTRA, la marca no publica INCI en ningún sitio oficial.** chilly-intimate.com/es (14 fichas: geles, sin aclarado, toallitas) y /it (22 fichas, también desodorantes íntimos y mascarillas) solo dan ingredientes destacados (mentol, ácido láctico, pH); ni lista ni código. Igual que en la segunda cola (2026-09-25). Sin versión nueva del catálogo (no cambia nada).
-5. Saforelle (higiene íntima)
+5. ~~Saforelle (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03e): 5 productos, 6 códigos; ver su apartado
 6. Kiko Milano (maquillaje)
 7. Rituals (cuerpo, baño y perfumados)
 8. Beauty of Joseon (K-beauty)
@@ -797,6 +797,41 @@ envase europeo.
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Saforelle (es.saforelle.com + pt.saforelle.com) — cerrada 2026-10-03 (versión 2026-10-03e): 5 productos, 6 códigos — tercera cola, 5
+- **Webs**: `saforelle.es` sirve una página genérica; la tienda española de verdad es **es.saforelle.com** (Salesforce
+  Commerce): solo 4 fichas (Crema calmante, Gel Suave y calmante, Gel Ultrahidratante, Miss), con el EAN en el widget de
+  "dónde comprar" (`data-eans`) y el C.N. Solo la **Crema calmante** trae la lista en INCI; las otras tres, **traducidas
+  al castellano**. La tienda portuguesa **pt.saforelle.com** (Shopify, 12 fichas) da `barcode` por variante y la lista en
+  INCI. saforelle.fr no publica lista en la página (ni en su HTML).
+- **Comparación España ↔ Portugal por código**: **Crema calmante** 3700399100615: las dos en INCI y casi iguales (PT añade
+  Tocopherol al final y dice "Aloe Barbadensis Leaf Juice Powder" donde ES "Leaf Extract"): se toma la española.
+  **Miss** 3700399100431: la traducción española y la lista portuguesa coinciden en número y orden (23): lista de PT.
+  **Gel Ultrahidratante** 3700399100462: **dos fórmulas completamente distintas** en ES (cocamidopropil betaína, Laureth-2,
+  copolímero de estireno…) y en PT (Caprylyl/Capryl Glucoside, Glycol Distearate…) para el mismo código: **fuera** (y su
+  recarga PT 3401360213289). **Gel Suave y calmante** (ES 3401373973026, 3401365334248, 3401361810371, 3401325411774) y
+  **Fresh** 3700399100523: en PT las dos fichas llevan **la misma lista copiada** carácter a carácter, y la española del
+  Suave y calmante es otra (con **octoxinol-12**, sin Parfum en la misma posición): **fuera las dos**.
+- **Entran**: Crema íntima calmante (ES), Gel de higiene íntima y corporal Miss (PT), Espuma de higiene íntima ultrasuave
+  3401344235597 (PT), Pastilla de higiene íntima Essential, kit de inicio 3700399102800 y recarga 3700399102817 (misma
+  lista; el kit es la pastilla con su jabonera) y Toallitas íntimas 3700399100929 (PT). Fuera Mucogyne gel y óvulos
+  (producto sanitario, sin lista), Physioflor (complemento) y las bragas menstruales.
+- Erratas: "Para_num Liquidum" (Paraffinum), "Sodiu Bicarbonate", palabras pegadas de la web portuguesa
+  ("SodiumBenzoate"…), asteriscos y el texto de marketing pegado a la lista de las toallitas.
+- **Open Beauty Facts**: ninguno de los 6 códigos en OBF; en Open Food Facts (mal clasificados) 3700399100615 (Alemania) y
+  3700399100431 (Camboya), sin lista. El Suave y calmante 3401365334248 está en OBF (Francia, Marruecos) sin lista.
+- **Revisión FP/FN** (`revisa.mjs saforelle`): fragancia (5) en Miss y Espuma, propilenglicol (38) en la Espuma, Laureth-2
+  (192) en Miss, aceite de lavanda (211) en la Espuma, cocamida DEA (IARC 2B) en la Espuma. **Clorhexidina (37): ningún
+  producto la lleva y no salta en ninguno.** Sin falsos positivos. Regresión: 0 cambios en las 5.199 fichas anteriores.
+- **Decisión de criterio para Mariana (N) — sustancia nueva, no metida**: **octoxinoles (Octoxynol-9, -12…)**, etoxilados de
+  octilfenol. Están en la lista de sustancias extremadamente preocupantes de la UE (REACH, autorización) porque se
+  degradan a 4-terc-octilfenol, que es la regla 147 (Hogar, riesgo Alto). En cosmética están permitidos. Hoy no salta
+  nada con ellos; no hay ninguno en el catálogo (el único visto, el Gel Suave y calmante español, ha quedado fuera).
+  Propuesta si se quiere: ficha nueva "Octoxinoles (etoxilados de octilfenol)", categoría Cuidado personal, riesgo
+  Emergente, aliases `octoxynol-9, octoxynol-12, octoxinol, octoxynol`, texto: "Tensioactivos que en el medio ambiente se
+  degradan a octilfenol, un disruptor estrogénico. La UE los vigila como sustancias extremadamente preocupantes; en
+  cosmética están permitidos y la exposición por la piel es baja." Va con la decisión M (los otros nonoxinoles): las dos
+  son la misma familia (alquilfenoles etoxilados).
 
 ### Cumlaude Lab (cumlaudelab.com/es) — cerrada 2026-10-03 (versión 2026-10-03d): 30 productos, 31 códigos — tercera cola, 3
 - **Lista**: web oficial (Next.js, sitemap `/es/sitemap.xml`), bloque INCI bajo "Ingredientes" (separado por ";"),
@@ -2753,6 +2788,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Durex | sí (`sitemap-0.xml`) | **no** (SKU internos): dosfarma + Atida | solo 13 fichas (lubricantes); preservativos sin lista | ver su apartado |
 | Control | Shopify (control.es/.it/.pt) | sí, `barcode` en `.js` | traducida en .es; INCI en .it/.pt, solo en las cremas | ver su apartado |
 | Cumlaude Lab | sí (`/es/sitemap.xml`) | **no** (SKU interno): Atida, atado por lista idéntica | sí, INCI con ";" | ver su apartado |
+| Saforelle | es.saforelle.com (4 fichas) + pt.saforelle.com (Shopify) | sí (`data-eans` en ES, `barcode` en PT) | ES casi siempre traducida; PT en INCI | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2816,13 +2852,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7612 códigos en 82 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7618 códigos en 83 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5199 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5204 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
