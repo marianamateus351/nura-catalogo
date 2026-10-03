@@ -798,6 +798,56 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### Hogar · portal 3, P&G (info-pg.com) — cerrado 2026-10-03 (versión 2026-10-03q): Fairy +2 códigos; el resto, 0
+- **Las listas están todas**: misma consulta a Contentful que con Fairy (`cf.py`; `hg/pg/raw.json`). España: Ariel 72 fichas
+  (+3 Ariel Poderoso), Lenor 53, Don Limpio 20, Ambi Pur 93, Febreze 8, Fairy 63 → 261 fórmulas distintas con lista.
+  Las seis de Fairy ya curadas siguen idénticas en el portal (comprobado ficha a ficha). Las líneas *Professional* (Ariel,
+  Lenor, Fairy, Mr. Proper) no se venden al público: fuera.
+- **Los códigos no.** El portal no da EAN (como en septiembre), y **las webs de marca no responden desde aquí**: ariel.es,
+  lenor.es, donlimpio.es, ambipur.es, febreze.es, fairy.es cortan la conexión o dan error de túnel (no es un 403 de política;
+  no se ha reintentado más). Open Products Facts, Open Food Facts y Open Beauty Facts, marca por marca:
+  - **Fairy: entran 2** en "Ultra Original (lavavajillas a mano)" (ficha `21084379002`, la de septiembre): `4015400917304`
+    (OFF, España, "Fairy Ultra Original" 480 ml) y `4015400591337` (OFF, España; la foto dice "ULTRA Original" e "imán
+    antigrasa": envase español). Fuera: `4015400957973` (OFF lo marca España pero el envase es polaco, "NOWA formuła"),
+    `4015400917328` (OPF, envase solo portugués, "Dura mais"), `5413149221444` (Espuma Activa: no hay ficha con ese nombre).
+  - **Lenor: 0.** El único envase con español es `8700216704861` (OPF, Portugal; Unstoppables Fresh XL, texto IT/ES), y el
+    portal tiene **tres** fichas posibles con listas distintas ("Un stoppables fresh", "Fresh", "Unstoppables Fresh"): fuera
+    por dos fórmulas.
+  - **Ambi Pur: 0.** `5410076362479` (OPF, Portugal; Air "brisa marina", ES/IT) no casa con ninguna ficha: la única con Brisa
+    Marina es "Air Mist **Lenor** Oceano / Brisa Marina" y el envase no lleva Lenor.
+  - **Ariel: 0.** Los dos que OPF marca como España (`7500435138826`, `7500435120852`) son envases mexicanos (prefijo 750);
+    `8006530120128` (OFF, "Pods") no dice qué Pods son. Ningún otro Ariel de Open*Facts es español.
+  - **Don Limpio y Febreze: 0** (nada escaneado en España).
+  - Con la decisión R (códigos de supermercado) este portal sería el que más ganaría: las 261 listas están listas para atar.
+- **Revisión FP/FN sobre las 261 fichas** (`hg/portal_check.mjs`, `hg/tok_check.mjs`, categoría Hogar):
+  - **Falso positivo corregido — 147 4-terc-Octilfenol**: saltaba ×11 con "4-(1-methyl-1-phenylethyl)-N-[4-(1-methyl-1-
+    phenylethyl)phenyl]aniline" (antioxidante, CAS 10081-67-1, en suavizantes y perlas Lenor). **Causa**: el alias
+    "4-(1,1,3,3-tetramethylbutyl)phenol" lleva comas y la app trocea los alias por comas, así que deja un alias suelto "4-(1"
+    que casa con cualquier nombre químico que empiece así. Arreglo con el método de siempre: `excluyeSi:
+    ["4-(1-methyl-1-phenylethyl)"]` en la 147. Comprobado que el octilfenol de verdad sigue saltando (con su nombre y con el
+    químico con comas). Regresión: **0 cambios en las 7.182 fichas**. Va en el próximo build.
+  - **Probado y descartado**: reescribir esos alias sin comas. Con la 145 (bronopol, "2-bromo-2-nitropropane-1,3-diol") quitaba
+    el aviso de **10 fichas que sí llevan bronopol** (9 de Babaria y el Purifying Shampoo de Davines lo escriben con coma, y
+    lo pillaba el trozo "3-diol"): no se tocó. **Nota para Mariana**: hay más alias con comas que se trocean (BPS, BPA,
+    triclocarbán, galaxólido, resorcinol, benzofenonas 1 y 2, PPD, BIT, cashmeran, 2,4-D); los trozos de una cifra no hacen
+    nada (la app ignora los alias de menos de 2 letras) y los largos son específicos ("3-benzenediol", "2-benzisothiazolin-
+    3-one"…); en las 7.182 fichas y en los tres portales revisados, el único trozo que ha dado falsos positivos es "4-(1".
+  - **193 bien**: no salta en ninguna (todas las listas con perfume escriben "Parfum"); en el Fairy Maxi Poder natural 0 %
+    no salta ni la 5 ni la 193. **198 DDAC** ×5 con "Didecyldimonium Chloride" (Don Limpio): reconocida. MIT ×7, BIT ×62
+    (casi todo Fairy y Don Limpio), MCI 0. Etoxilados: 192 ×89 (SLES, MEA-Laureth Sulfate), OTROS ×171.
+- **Decisión U para Mariana — alias que faltan (no añadidos)**, nombres de P&G que ninguna regla reconoce:
+  - OTROS "Alcoholes etoxilados": **"Alcohols C9-11-branched and linear ethoxylated (EO=8-9)"** (×8; **ya está en 3 fichas de
+    Fairy del catálogo** y hoy no avisa: falso negativo), "Isotridecanol Ethoxylated" (×18), "Alcohols C13-15-branched and
+    linear butoxylated ethoxylated" (×6), "Alcohols C12-14 (even numbered) ethoxylated propoxylated (>2.5 moles EO/PO)",
+    **"PEI Ethoxylate"** (×48, polietilenimina etoxilada = la "aziridine homopolymer ethoxylated" de Unilever),
+    **"Sulfated ethoxylated hexamethylenediamine quaternized"** (×58, Ariel) y "Ethoxylated m-toluidine" (×42, colorante
+    polimérico de Ariel/Lenor). Todos caen con el alias de una palabra **"ethoxylated"** propuesto en la decisión T.
+  - Familia PEG-n (sumar a S y T): PEG-20 Stearate (×20), PEG-30 Stearate (×16), PEG-60 Hydrogenated Castor Oil (×16),
+    PEG-33 (×9), "PEG-n Methyl Ether" (×9) y "PEG-n Methyl Ether Dimethicone" (×3), PEG-2 Stearate, "PEG-180 / PEG-190 / PEG-200".
+  - Sin regla y sin propuesta: Amyl Salicylate (×15; alérgeno de fragancia nuevo de la UE, no está en la lista de alérgenos
+    de la app), Dimethylbenzyl Carbinyl Acetate, Isocyclocitral, Tetramethyl Acetyloctahydronaphthalenes (×77), Benzyl
+    Alcohol, Polyquaternium-10/33, fosfonatos, hipoclorito.
+
 ### Hogar · portal 2, Reckitt (rbeuroinfo.com) — cerrado 2026-10-03 (versión 2026-10-03p): 14 productos, 15 códigos
 - **El portal es una web de Salesforce** (Experience Cloud, Aura). Los datos salen de tres llamadas Apex sin login
   (`hg/rb/aura.js`; POST a `/s/sfsites/aura?…aura.ApexAction.execute=1` con el `aura.context` de la página):
@@ -1023,7 +1073,7 @@ Va después de lo que quede de la tercera cola (Uriage, Nuxe, Martiderm, Olaplex
 entra. Se cura **por portal**, no por marca, y se cierra cada portal antes de pasar al siguiente.
 1. ~~Unilever (whatsinourproducts.com): Skip, Mimosín, Cif, Domestos.~~ — **cerrado 2026-10-03** (versión 2026-10-03o): 1 producto, 1 código; **sin códigos de España en Open Products Facts** (ver su apartado y la decisión R)
 2. ~~Reckitt (rbeuroinfo.com): Finish, Vanish, Calgon, Cillit Bang, Harpic, Woolite, Air Wick.~~ — **cerrado 2026-10-03** (versión 2026-10-03p): 14 productos, 15 códigos (Finish 5/6, Air Wick 5/5, Cillit Bang 4/4); Vanish, Calgon y Woolite sin ninguno que se pueda atar; Harpic no está en el portal de España (ver su apartado, corrección de la 124 y decisión T)
-3. P&G (info-pg.com): Ariel, Lenor, Don Limpio, Ambi Pur, Febreze, y ampliar Fairy.
+3. ~~P&G (info-pg.com): Ariel, Lenor, Don Limpio, Ambi Pur, Febreze, y ampliar Fairy.~~ — **cerrado 2026-10-03** (versión 2026-10-03q): Fairy +2 códigos (Ultra Original); Ariel, Lenor, Don Limpio, Ambi Pur y Febreze **sin ningún código español** que se pueda atar (ver su apartado, corrección de la 147 y decisión U)
 4. SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.
 5. Henkel (web de cada marca): Wipp Express, Dixan, Vernel, Neutrex, Estrella, Bref, Somat, Mistol, Colon.
 6. Persán: Flota, Puntomatic, Tandem.
@@ -3301,10 +3351,10 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10449 códigos en 96 marcas: NYX 999 · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10451 códigos en 96 marcas: NYX 999 · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
-**SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
+**SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
 Carrefour 1. Ninguno de los 7182 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
