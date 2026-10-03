@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03s",
+ "version": "2026-10-03t",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68642,6 +68642,269 @@
       "8410046661707"
      ],
      "inci": "Aqua, C12-18 Pareth-7, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Citrate, Sodium Cocoate, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Hexyl Cinnamal, Linalool, Limonene, Colorante, Methylchloroisothiazolinone, Methylisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "frosch",
+   "nombre": "Frosch",
+   "productos": [
+    {
+     "nombre": "Frosch Antical Vinagre",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411650171057"
+     ],
+     "inci": "Aqua, Acetic Acid, Sodium Laureth Sulfate, Citric Acid, C12-14 Pareth-7, Ascorbic Acid, Colorante"
+    },
+    {
+     "nombre": "Frosch Antical Vinagre de Frambuesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175957153"
+     ],
+     "inci": "Aqua, Citric Acid, Lactic Acid, Sodium Laureth Sulfate, Monosodium Citrate, Xanthan Gum, Acetic Acid, PEG-4 Rapeseedamide, Parfum, Colorante"
+    },
+    {
+     "nombre": "Frosch Baby Detergente Líquido",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175913609"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, Sodium Cocoate, Sodium Olivate, Alcohol, Potassium Citrate, Sodium Laureth Sulfate, PEG-4 Rapeseedamide, Sodium Citrate, Glycine Soja Oil, Propylene Glycol, Parfum, Sodium Carboxymethyl Inulin, Protease, Amylase, Lipase, Chamomilla Recutita Extract, Cellulase, Mannanase"
+    },
+    {
+     "nombre": "Frosch Baby Quitamanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175524126"
+     ],
+     "inci": "Aqua, Glycereth-6 Cocoate, Alcohol, Sodium Laureth Sulfate, Sodium Olivate, Alcohols C12-16 Ethoxylated, Sodium Hydrogen Citrate, Xanthan Gum, Parfum, Protease, Amylase, Pectate Lyase, Mannanase"
+    },
+    {
+     "nombre": "Frosch Desengrasante Pomelo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175963956"
+     ],
+     "inci": "Aqua, Triethanolamine, Olive Oil Fatty Acid Triethanolamine salt, Caprylyl/Capryl Glucoside, Sunfloweroyl Methylglucamide, Sodium Olivate, Propylene Glycol, Sodium Caprylyl Sulfate, Tetrasodium Glutamate Diacetate, Copernicia Cerifera Wax, Parfum, Citrus Aurantium Dulcis Fruit Extract, Colorante"
+    },
+    {
+     "nombre": "Frosch Detergente Dermo-Sensible Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175952851"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, Sodium Laureth Sulfate, Alcohol, PEG-4 Rapeseedamide, Tetrasodium Glutamate Diacetate, Potassium Olivate, Deceth-4, Sodium Caprylyl Sulfate, Sodium Olivate, Monosodium Citrate, Propylene Glycol, Parfum, Sorbitol, Protease, Aloe Barbadensis Leaf Juice Powder, Amylase, Lipase, Cellulase, Pectate Lyase, Mannanase, Colorante"
+    },
+    {
+     "nombre": "Frosch Detergente Jabón Natural",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175952837"
+     ],
+     "inci": "Aqua, Alcohols C12-16 Ethoxylated, Sodium Laureth Sulfate, Alcohol, PEG-4 Rapeseedamide, Tetrasodium Glutamate Diacetate, Potassium Olivate, Deceth-4, Sodium Caprylyl Sulfate, Glycerin, Sodium Olivate, Monosodium Citrate, Propylene Glycol, Protease, Parfum, Disodium Distyrylbiphenyl Disulfonate, Amylase, Lipase, Cellulase, Pectate Lyase, Mannanase, Colorante"
+    },
+    {
+     "nombre": "Frosch Hogar Multiusos Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175192936"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Phenoxyisopropanol, PEG-4 Rapeseedamide, Sodium Chloride, Olive Oil Fatty Acid Triethanolamine salt, Methyl Diethanolamine, Tetrasodium Glutamate Diacetate, Parfum, Lavandula Angustifolia Flower Extract, Colorante"
+    },
+    {
+     "nombre": "Frosch Hogar Multiusos Neutro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175183088"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Sodium Benzoate, Sunfloweroyl Methylglucamide, Propylene Glycol, Parfum, Glycol Distearate, Colorante"
+    },
+    {
+     "nombre": "Frosch Lavavajillas Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175110596"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Sodium Chloride, Sunfloweroyl Methylglucamide, Sodium Benzoate, Propylene Glycol, Lactic Acid, Parfum, PEG-4 Rapeseedamide, Glycerin, Aloe Barbadensis Leaf Juice Powder, Colorante"
+    },
+    {
+     "nombre": "Frosch Lavavajillas Concentrado Romero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175950499",
+      "4009175973412"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sunfloweroyl Methylglucamide, Sodium Ethylhexyl Sulfate, Sodium Chloride, Propylene Glycol, Sodium Benzoate, Lactic Acid, Parfum, Rosmarinus Officinalis Extract, Colorante"
+    },
+    {
+     "nombre": "Frosch Lavavajillas Concentrado Vinagre de Frambuesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175937353"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sunfloweroyl Methylglucamide, Sodium Ethylhexyl Sulfate, Sodium Chloride, Propylene Glycol, Sodium Benzoate, Lactic Acid, Parfum, Tetrasodium Glutamate Diacetate, Colorante, Acetic Acid"
+    },
+    {
+     "nombre": "Frosch Lavavajillas Provitamina B5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175113702"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Lauryl Glucoside, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Sodium Benzoate, Sunfloweroyl Methylglucamide, Propylene Glycol, Lactic Acid, Panthenol, PEG-4 Rapeseedamide, Glycerin, Sodium Sulfate"
+    },
+    {
+     "nombre": "Frosch Lavavajillas a Máquina Gel Todo en 1 Limón Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175961433"
+     ],
+     "inci": "Aqua, Tetrasodium Glutamate Diacetate, Sodium Citrate, Glycerin, Polyoxirane-2 3-Dicarboxylic Acid Sodium Salt, Fatty Alcohol Alkoxylate, Propylene Glycol, Sunfloweroyl Methylglucamide, Citric Acid, Xanthan Gum, Protease, Parfum, Citrus Limon Fruit Extract, Amylase, Phenoxyethanol, Colorante"
+    },
+    {
+     "nombre": "Frosch Lavavajillas a mano Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175142016",
+      "4009175973405"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Sodium Benzoate, Sunfloweroyl Methylglucamide, Lauryl Glucoside, Propylene Glycol, Lactic Acid, Glycol Distearate, PEG-4 Rapeseedamide, Parfum, Colorante"
+    },
+    {
+     "nombre": "Frosch Limpiacristales Alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175969446"
+     ],
+     "inci": "Aqua, Alcohol, Propylene Glycol Butyl Ether, MEK, Sodium Laureth Sulfate, Colorante"
+    },
+    {
+     "nombre": "Frosch Pastillas Lavavajillas Bicarbonato de Sodio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175957146",
+      "4009175197801"
+     ],
+     "inci": "Trisodium Dicarboxymethyl Alaninate, Sodium Citrate, Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Carbonate, Acetic Acid Sodium Salt Trihydrate, PEG 400, TAED, Aqua, Ceteareth-10, Disodium Disilicate, Sodium Polyacrylate, Protease, Cellulose Gum, Polycarboxylate, Sodium Bicarbonate, Amylase, Colorante, Parfum"
+    },
+    {
+     "nombre": "Frosch Pastillas Lavavajillas Limón Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175969637"
+     ],
+     "inci": "Sodium Sulfate, Trisodium Dicarboxymethyl Alaninate, Sodium Citrate, Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Acetic Acid Sodium Salt Trihydrate, PEG 400, TAED, Aqua, Ceteareth-10, Disodium Disilicate, Sodium Polyacrylate, Parfum, Protease, Cellulose Gum, Polycarboxylate, Amylase, Colorante"
+    },
+    {
+     "nombre": "Frosch Quitamanchas Jabón Natural",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175969620"
+     ],
+     "inci": "Aqua, Alcohol, Glycereth-6 Cocoate, Sodium Laureth Sulfate, Sodium Olivate, C12-14 Pareth-7, Deceth-4, Xanthan Gum, Monosodium Citrate, Glycerin, Propylene Glycol, Parfum, Protease, Amylase, Phenoxyethanol, Mannanase"
+    },
+    {
+     "nombre": "Frosch Spray Lavavajillas Naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175972774"
+     ],
+     "inci": "Aqua, Olive Oil Fatty Acid Triethanolamine salt, Triethanolamine, Caprylyl/Capryl Glucoside, Sunfloweroyl Methylglucamide, Propylene Glycol, Sodium Caprylyl Sulfate, Tetrasodium Glutamate Diacetate, Parfum, Citrus Aurantium Dulcis Fruit Extract, Colorante"
+    },
+    {
+     "nombre": "Frosch Suavizante Concentrado Flor de Algodón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175938220"
+     ],
+     "inci": "Aqua, Dirapeseedoylethyl Hydroxyethylmonium Methosulfate & Dioleylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Lactic Acid, Calcium Chloride, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Gossypium Oil"
+    },
+    {
+     "nombre": "Frosch Suavizante Concentrado Flor de Hibisco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175972477"
+     ],
+     "inci": "Aqua, Dirapeseedoylethyl Hydroxyethylmonium Methosulfate & Dioleylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Hibiscus Sabdariffa Flower Extract, Calcium Chloride, Cellulase, Colorante"
+    },
+    {
+     "nombre": "Limpiador de baños Frosch Gel WC Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411650174072"
+     ],
+     "inci": "Aqua, Citric Acid, Monosodium Citrate, Sodium Laureth Sulfate, Xanthan Gum, Parfum, Tetrasodium Glutamate Diacetate, Colorante"
+    },
+    {
+     "nombre": "Limpiador de baños Frosch Gel WC Vinagre de Frambuesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175957139"
+     ],
+     "inci": "Aqua, Citric Acid, Lactic Acid, Sodium Laureth Sulfate, Xanthan Gum, Monosodium Citrate, Parfum, Acetic Acid, Tetrasodium Glutamate Diacetate, PEG-4 Rapeseedamide, Colorante"
+    },
+    {
+     "nombre": "Limpiador de cocinas Frosch Vitro Crema Mineral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175960115",
+      "4009175973122"
+     ],
+     "inci": "Aqua, Calcium Carbonate, PEG-4 Rapeseedamide, Triethanolamine, Alcohols C12-16 Ethoxylated, Phenoxyethanol, Xanthan Gum, Quartz, Bentonite, Parfum"
+    },
+    {
+     "nombre": "Limpiador de cocinas Frosch Vitro Crema Naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175960139",
+      "4009175973115"
+     ],
+     "inci": "Aqua, Calcium Carbonate, PEG-4 Rapeseedamide, Triethanolamine, C12-14 Pareth-3, Phenoxyethanol, Xanthan Gum, Quartz, Bentonite, Dipropylene Glycol, Parfum, Citrus Aurantium Dulcis Fruit Extract"
+    },
+    {
+     "nombre": "Limpiador de cocinas Frosch Vitrocerámica e Inducción Naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175944559"
+     ],
+     "inci": "Aqua, PPG-2 Methyl Ether, Ethanolamine, Fatty acids C14-18 and C16-18-unsatd. compds. with ethanolamine, Tetrasodium Glutamate Diacetate, Capryleth-4, Parfum"
+    },
+    {
+     "nombre": "Limpiador de muebles Frosch Madera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4009175972781"
+     ],
+     "inci": "Aqua, Caprylyl/Capryl Glucoside, Phenoxyethanol, Hydroxyethylcellulose, D-pentose et D-glucose oligomeric C8-C10-alkyl glycosides, Galactoarabinan, Olive Oil Poliglyceryl -6 Esters, Parfum, Linalool, Citrus Aurantium Dulcis Fruit Extract, Colorante"
     }
    ]
   }

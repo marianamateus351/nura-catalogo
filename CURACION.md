@@ -798,6 +798,36 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### Hogar · portal 7, Frosch (detvo.werner-mertz.de) y Ecover — cerrado 2026-10-03 (versión 2026-10-03t): 28 productos, 33 códigos
+- **Frosch tiene el mejor circuito de la cola**: cada ficha de frosch.es lleva el **EAN de cada formato** (`data-widget-ean` del
+  botón "Dónde comprar") y su "Ficha composición" enlaza a **detvo.werner-mertz.de**, que busca **por EAN**
+  (`search_api.php?ean=` → PDF por idioma). La ficha española lleva además el EAN impreso: **los 33 códigos están confirmados
+  en el propio PDF**. Extracción de las viñetas del PDF (`hg/fr/wpdf.py`); un nombre partido por el autor del PDF
+  ("PHENOXYISOPROPA NOL") corregido a mano, y una ficha que repite la lista dos veces se ha tomado una sola vez.
+- 36 EAN en frosch.es: **entran 33** (28 productos; mismo producto y misma lista = una entrada: Vitro Crema Mineral y Naranja
+  500 ml y 375+125 ml, Pastillas Bicarbonato 50 y 30 dosis, Lavavajillas Romero y Limón 750 y 500 ml). Cuando un EAN
+  devuelve dos fichas españolas (cambio de botella o de artículo), se ha comprobado que la lista es la misma; en todos los
+  que entran, lo es. **Fuera**: Baby Limpiador Biberones y Tetinas (4 fichas con **dos listas distintas**), Baby Suavizante y
+  Suavizante Almendra (sin ficha española).
+- **Nombres**: los de frosch.es, con delante el tipo de producto cuando la app lo clasificaba como cosmética ("Limpiador de
+  baños Frosch Gel WC…", "Limpiador de cocinas Frosch Vitro Crema…", "Limpiador de muebles Frosch Madera"). El "Bálsamo
+  Limón" queda como **"Frosch Lavavajillas a mano Limón"**: la palabra "bálsamo" hace que la app lo lea como producto de pelo
+  (`ES_PELO`) aunque diga "lavavajillas"; es el único Frosch con limón a mano, así que no se confunde.
+- **Ecover: fuera.** ecover.com/es y /es-es redirigen a la web del Reino Unido (fórmulas y EAN de allí); no hay web española,
+  ningún Ecover escaneado en España en Open*Facts, y desde 2017 es de SC Johnson, cuyo portal está bloqueado (portal 4).
+- **Revisión FP/FN (28 listas, categoría Hogar)**:
+  - **Falso positivo corregido — 180 Dietanolamina (DEA)**: saltaba con "Methyl Diethanolamine" (N-metildietanolamina, CAS
+    105-59-9; otra sustancia, amina terciaria) en Frosch Hogar Multiusos Lavanda. `excluyeSi: ["methyl diethanolamine",
+    "methyldiethanolamine", "n-methyldiethanolamine"]`; la DEA de verdad ("Diethanolamine", "DEA") sigue saltando, también
+    en la misma lista. Regresión: **0 cambios en las 7.190 fichas anteriores**. Va en el próximo build.
+  - Lo demás, correcto: 5 ×25, 192 ×17 (SLES), 38 ×13, 85 ×5, OTROS ×7. **193**: no salta en ninguna (todas las perfumadas
+    escriben "Parfum"); en las sin perfume (Antical Vinagre, Lavavajillas Provitamina B5…) no salta ni la 5 ni la 193.
+    Sin isotiazolinonas ni DDAC en Frosch. "Lavandula Angustifolia Flower Extract" no dispara la 211 a propósito (la 211 es
+    solo el aceite esencial).
+- **Decisión Y para Mariana — alias que faltan (no añadidos)**: "Alcohols, C12-16, ethoxylated" (×3; cae con el alias
+  "ethoxylated" de la T), "Fatty Alcohol Alkoxylate" (la duda de la T), y PEG-n: "PEG-4 Rapeseedamide" (×11) y "PEG-40
+  Hydrogenated Castor Oil".
+
 ### Hogar · portal 6, Persán (productos.persan.es) — cerrado 2026-10-03 (versión 2026-10-03s): 3 productos, 3 códigos
 - **El portal 648/2004 de Persán es `productos.persan.es`** (persan.es → "Información de productos", en un iframe). Se busca
   **por EAN o UFI exactos** (formulario con un `hash`; `hg/ps/pq.sh`) y devuelve la ficha o fichas de ese código, así que
@@ -1173,7 +1203,7 @@ entra. Se cura **por portal**, no por marca, y se cierra cada portal antes de pa
 4. ~~SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.~~ — **cerrado 2026-10-03 sin productos**: el portal y todas las webs del grupo están detrás de un control antibots de Vercel que rechaza el navegador; sin lista oficial no entra nada (ver su apartado)
 5. ~~Henkel (web de cada marca): Wipp Express, Dixan, Vernel, Neutrex, Estrella, Bref, Somat, Mistol, Colon.~~ — **cerrado 2026-10-03** (versión 2026-10-03r): 5 productos, 5 códigos (Wipp Express, Dixan, Vernel, Neutrex y Colon, que en España es de Reckitt); correcciones de la 117 y la 145 y decisión V (ver su apartado)
 6. ~~Persán: Flota, Puntomatic, Tandem.~~ — **cerrado 2026-10-03** (versión 2026-10-03s): 3 productos de Flota, 3 códigos; Puntomatic sin códigos, Tandem no está en el portal; corrección de la 80 y decisión X (ver su apartado)
-7. Frosch y Ecover.
+7. ~~Frosch y Ecover.~~ — **cerrado 2026-10-03** (versión 2026-10-03t): Frosch 28 productos, 33 códigos; Ecover fuera (sin mercado español verificable); corrección de la 180 y decisión Y (ver su apartado). **Cola de HOGAR terminada.**
 
 Reglas: solo productos que se venden en España; EAN de la ficha del portal, si no de la web de la marca o de Open Products
 Facts, anotando el origen; categoría Hogar en todas (ambientadores, velas e insecticidas también); variantes de perfume:
@@ -3388,6 +3418,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Finish · Air Wick · Cillit Bang (Reckitt) | webs de marca (`page-data.json`); portal rbeuroinfo.com (Salesforce, Apex) | casi nunca: nombre de la foto oficial (GTIN de Salsify) o `barcodeNumber`; OPF | sí, ficha 648/2004 del portal (con CAS; idioma `es`) | ver su apartado; regla de las dos fórmulas |
 | Wipp Express · Dixan · Vernel · Neutrex (Henkel) | no (las webs enlazan al portal) | no: OFF/OPF con foto | sí, PDF 648/2004 en mysds.henkel.com (OData, con CAS y perfume desglosado) | ver su apartado; Colon es de Reckitt |
 | Flota (Persán) | no | **sí: el portal busca por EAN** (candidatos de OFF/OPF) | sí, productos.persan.es (648/2004) | ver su apartado; un EAN con dos fichas = fuera |
+| Frosch (Werner & Mertz) | sí (frosch.es) | **sí, `data-widget-ean` por formato, y la ficha lo repite** | sí, PDF por EAN en detvo.werner-mertz.de | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
 | Lacer | laceroralhealth.com (web dental oficial) | no: C.N. por formato → EAN 847000+C.N.; `8430340…` por tiendas | sí | ver su apartado |
 | Oral-B (P&G) | oralb.es | sí | **no** (ni UK/DE/PT) | dos fuentes idénticas; ver su apartado |
@@ -3449,13 +3480,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10459 códigos en 102 marcas: NYX 999 · **Flota 3** · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10492 códigos en 103 marcas: NYX 999 · **Frosch 33** · **Flota 3** · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7190 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7218 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
