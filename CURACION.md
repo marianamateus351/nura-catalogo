@@ -798,6 +798,42 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### Hogar · portal 1, Unilever (wiop.unilever.es) — cerrado 2026-10-03 (versión 2026-10-03o): 1 producto, 1 código
+- **El portal español del Reglamento 648/2004 es `wiop.unilever.es`** ("What's in our products"; whatsinourproducts.com no
+  responde desde aquí). 101 fichas de Skip (28), Mimosín (47+), Cif (14) y Domestos (8); lista completa y ordenada con la
+  función de cada ingrediente (acordeón por ingrediente). **El portal no da EAN**: los números de la URL
+  (`-25337-64780176-300007258752`) son identificadores de fórmula, no códigos de barras (comprobado: casi ninguno valida como
+  EAN-8 y no están en Open*Facts). Las fichas con fechas en el título ("04/2023 - 04/2026") son **versiones de fórmula
+  caducadas** (todas terminan antes de octubre de 2026): fuera; entran solo las vigentes (sin fecha). Fuera también las
+  incompletas ("And Other Ingredients" en Cif Crema con Lejía; las de 1–2 ingredientes).
+- **Códigos**: las webs de marca no sirven (mimosin.es redirige a Facebook, cif.es no es de Unilever, skip.es da 503,
+  domestos.es no responde). **Open Products Facts no tiene ni un Skip, Mimosín, Cif o Domestos de España** (los que hay son
+  de Francia, Alemania, Italia, Argentina…); Open Food Facts y Open Beauty Facts tienen 4 escaneados en España: **Cif Crema
+  Blanco `8717163617694`** (OFF, envase multilingüe con nombre italiano "Bianco"; los alérgenos de su etiqueta —Citronellol,
+  Eucalyptus Globulus Oil, Hexyl Cinnamal, Linalool, Terpineol, Phenoxyethanol— son los de la ficha CIF CREMA BLANCO) →
+  **entra**, como "Limpiador multiusos en crema Cif Blanco" (categoría Hogar comprobada). Fuera: "Detergente skip todo en
+  uno" `8720181563898` y "Skip Detergente Pequeño" `8720181513718` (no dicen qué producto son: líquido, cápsulas, polvo…) y
+  Mimosín "Azul vital" `8000660310688` (OBF; el portal tiene dos fichas "Azul Vital" con listas distintas).
+- **Revisión FP/FN sobre las 101 fichas del portal** (`hg/portal_check.mjs`, categoría Hogar), aunque solo entre una: con los
+  nombres de Unilever **sí se reconocen** MIT (12), MCI (2), BIT (16), OIT (10), DDAC (3), cloruro de benzalconio (2),
+  bronopol, DMDM hidantoína, tolueno, Lilial, microplásticos, y los etoxilados (192 laureth ×27; OTROS "Alcoholes etoxilados"
+  ×32 por pareth/ceteareth/steareth). La 193 no salta en ninguna porque todas declaran "Parfum" (salta la 5). Cif Crema
+  Blanco: fragancia, fenoxietanol y alcoholes etoxilados (C9-11 Pareth-5). Regresión: 0 cambios en las 7.167 fichas.
+- **Decisión S para Mariana — alias que faltan (no añadidos)**, nombres que usa este portal y que ninguna regla reconoce:
+  - OTROS "Alcoholes etoxilados": "ethoxylated alcohols" (orden inverso al alias actual), "alcohol ethoxylate 7eo / 9eo"
+    (el alias "alcohol ethoxylate" no casa por el sufijo), "aziridine homopolymer ethoxylated" (polietilenimina
+    etoxilada, 15 fichas de Skip), y si se quiere ampliar la familia: **PEG-n** (PEG-4, PEG-75, PEG-180, PEG-4 laurate,
+    PEG-4 dilaurate, PEG-2 cocamine, PEG-2 hydrogenated tallow amine) y **Polysorbate 60** (19 fichas), mismo motivo (trazas
+    de 1,4-dioxano), solo en Hogar.
+  - 86 Cloruro de benzalconio: "alkyldimethyl ethyl benzyl ammonium chloride" (ADEBAC, el amonio cuaternario hermano).
+  - Sin regla y sin propuesta (no son disruptores ni la app los lista): fosfonatos (Sodium Diethylenetriamine Pentamethylene
+    Phosphonate), EDTA, enzimas (Amylase, Subtilisin), hipoclorito sódico, Polyquaternium-n, Styrene/Acrylates Copolymer
+    (regla 80 decidida), Tetramethyl Acetyloctahydronaphthalenes y Amyl Salicylate (componentes de perfume: la 5 ya avisa).
+- **Decisión R para Mariana — de dónde sacar los códigos de hogar**: con la regla de esta cola (portal → web de marca → Open
+  Products Facts), Unilever se queda en 1 producto de 71 fichas vigentes con lista. Las webs de supermercado (Carrefour,
+  Alcampo, Dia, Consum) sí publican el EAN de Skip, Mimosín, Cif y Domestos, y ya se usaron en KH-7. Si lo apruebas, se
+  atan por nombre exacto + formato y se reabre este portal. Si no, se queda así.
+
 ### Olaplex (es.olaplex.com) — cerrada 2026-10-03 (versión 2026-10-03n): 13 productos, 17 códigos — tercera cola, 14
 - **Lista: la tienda española** (Shopify, 71 fichas, 40 de ellas sets, kits, dúos y rutinas: fuera). La lista va tras "LISTA
   COMPLETA DE INGREDIENTES" / "FULL INGREDIENTS LIST", unas veces en la descripción y otras en datos de la página; se corta
@@ -914,7 +950,7 @@ envase europeo.
 Va después de lo que quede de la tercera cola (Uriage, Nuxe, Martiderm, Olaplex). Método de PRODUCTOS DE LIMPIEZA
 (Reglamento 648/2004, Anexo VII): la lista oficial sale del portal del fabricante, no del envase; sin lista oficial no
 entra. Se cura **por portal**, no por marca, y se cierra cada portal antes de pasar al siguiente.
-1. Unilever (whatsinourproducts.com): Skip, Mimosín, Cif, Domestos.
+1. ~~Unilever (whatsinourproducts.com): Skip, Mimosín, Cif, Domestos.~~ — **cerrado 2026-10-03** (versión 2026-10-03o): 1 producto, 1 código; **sin códigos de España en Open Products Facts** (ver su apartado y la decisión R)
 2. Reckitt (rbeuroinfo.com): Finish, Vanish, Calgon, Cillit Bang, Harpic, Woolite, Air Wick.
 3. P&G (info-pg.com): Ariel, Lenor, Don Limpio, Ambi Pur, Febreze, y ampliar Fairy.
 4. SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.
@@ -3193,13 +3229,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10433 códigos en 92 marcas: NYX 999 · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10434 códigos en 93 marcas: NYX 999 · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7167 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7168 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

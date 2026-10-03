@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03n",
+ "version": "2026-10-03o",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68372,6 +68372,21 @@
       "0850018802642"
      ],
      "inci": "Water (Aqua/Eau), Butylene Glycol, Glycerin, Hydroxyethylcellulose, Bis-Aminopropyl Diglycol Dimaleate, Palmitoyl Pentapeptide-83 Amide, Acetyl Tetrapeptide-3, Myristoyl Pentapeptide-17, Sodium Hyaluronate, Biotin, Panthenol, Avena Sativa (Oat) Kernel Extract, Pantethine, Aminomethyl Propanol, Rhizobian Gum, Dextran, Trifolium Pratense (Clover) Flower Extract, Citric Acid, Phenoxyethanol, Chlorphenesin, Potassium Sorbate, Sorbic Acid, Benzoic Acid, Sodium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "cif",
+   "nombre": "Cif",
+   "productos": [
+    {
+     "nombre": "Limpiador multiusos en crema Cif Blanco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8717163617694"
+     ],
+     "inci": "Aqua, Calcium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate, C9-11 Pareth-5, Phenoxyethanol, Sodium Oleate, Parfum, Acrylates Copolymer, Sodium Hydroxide, Linalool, Citronellol, Dimethicone, Hexyl Cinnamal, Eucalyptus Globulus Oil, Terpineol"
     }
    ]
   }
