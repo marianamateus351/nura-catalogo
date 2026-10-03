@@ -792,7 +792,7 @@ envase europeo.
 7. ~~Rituals (cuerpo, baño y perfumados)~~ — **cerrada 2026-10-03** (versión 2026-10-03g): 498 productos (23 de Hogar), 540 códigos; ver su apartado
 8. ~~Beauty of Joseon (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03h): 16 productos, 18 códigos (lista del envase UE/ROW); ver su apartado
 9. ~~COSRX (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03i): 71 productos, 92 códigos (listados del mercado UE de la tienda oficial); ver su apartado
-10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (24 de envases UE); ver su apartado
+10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (25 de envases UE, de tiendas y OBF); ver su apartado
 11. Uriage (dermocosmética)
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
