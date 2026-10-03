@@ -792,11 +792,51 @@ envase europeo.
 7. ~~Rituals (cuerpo, baño y perfumados)~~ — **cerrada 2026-10-03** (versión 2026-10-03g): 498 productos (23 de Hogar), 540 códigos; ver su apartado
 8. ~~Beauty of Joseon (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03h): 16 productos, 18 códigos (lista del envase UE/ROW); ver su apartado
 9. ~~COSRX (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03i): 71 productos, 92 códigos (listados del mercado UE de la tienda oficial); ver su apartado
-10. Anua (K-beauty)
+10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (24 de envases UE); ver su apartado
 11. Uriage (dermocosmética)
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Anua (anua.com) — cerrada 2026-10-03 (versión 2026-10-03j): 36 productos, 60 códigos — tercera cola, 10
+- **Fuente: la tienda oficial** (Shopify; anua.global y anua.us son la misma). anua.eu no responde desde aquí y no hay tienda
+  española. Envía a algunos países UE (Países Bajos, Bélgica, Irlanda, Suecia…), no a España. Como en COSRX, el **mercado
+  internacional (`localization=NL`) tiene sus propias fichas** (`-1`, `-copy`) y se cargan esas: lista de la pestaña
+  "Ingredients" y `barcode` del `.js`. Las listas del mercado NL y del de EE. UU. son **idénticas** en todos los productos (la
+  marca publica una sola fórmula por producto).
+- **El envase europeo lleva otro EAN.** Lo que se vende en España (Druni, Primor) y lo escaneado en Países Bajos (OBF) tiene
+  códigos propios (`88096407346…`–`8809640739…`, `8800307…`), distintos de los de la web. Y no siempre es la misma fórmula:
+  **Primor enseña listas antiguas** (p. ej. el Heartleaf 77 Soothing Toner original, `8809640734694`, con "Houttuynia Cordata
+  Extract" y sin los hialurónicos; Peach 77 Toner y Cream, Heartleaf 70 Lotion, LHA Peeling Gel, Quercetinol Foam, Nano
+  Retinol). Por eso un código de tienda **solo se ata cuando su lista es la de la web** (igual, mismo conjunto en otro orden,
+  o solo erratas/nombre común): Druni y Primor en BHA 2%, Heartleaf 70 Cream, Heartleaf 77 Pad, Heartleaf 80 Ampoule,
+  Niacinamide 10 + TXA 4, Peach 70 Serum, Peach 77 Milk, Rice Ceramide 7 Serum, PDRN Cream, PDRN Capsule Serum, las tres
+  mascarillas 70 y el polvo limpiador; con **lista traducida** del mismo número y orden de ingredientes (PDRN Toner 42, PDRN
+  Pad 46, PDRN Mist 76); o, si la tienda no da lista, por nombre exacto de la fórmula actual (Heartleaf 77 "+ Hyaluron"
+  `8809640736025`, Quercetinol Foam `8809640735622`, los dos limpiadores 8 Hyaluronic Acid, Rice 70 Milky Toner, la bruma
+  mini; el Azelaic Serum `8809640739019` por OBF Países Bajos, porque Druni le pone la lista de otro producto). **No se atan**
+  los códigos UE con lista distinta (Heartleaf 70 Lotion `8809640735998`/`8809640734724`, Peach 77 Toner `8809640735639` y
+  Cream `8809640735653`, LHA Peeling Gel `8809640735264`, Heartleaf 77 Toner antiguo `8809640734694`, Quercetinol antiguo
+  `8809640734748`) ni los de nombre ambiguo (aceites limpiadores: Primor llama "Pore Control" a uno con la lista del "Mild").
+- **Fuera**: **Nano Retinol 0.3 + Niacin Renewing Serum**, lista **cortada** en la web ("…Maltodextrin, Sacchar"), igual en
+  los dos mercados; sin código en ningún sitio: Azelaic 3 Cica Toner, Azelaic Cica Moisturizer (solo un código de Singapur en
+  OBF), los tres Barrier Reboot, Collagen Retinol Gua Sha Cream, los tres solares, TXA Booster Toner, parches PDRN de colágeno,
+  PDRN Cleansing Foam y PDRN Lip Serum; Capsule Serum Mask (código interno "SHOPIFY_BD_0044"); Rice 70 Intensive Moisturizing
+  Milk, Retinol Berry Eye Patch y los parches de granos (sin lista); productos que la web no tiene (Green Lemon Vita C Serum,
+  Heartleaf Silky Moisture Sun Cream, vendidos en Druni); sets, dúos, kits, minis de regalo.
+- **Limpieza**: las listas de la web están **copiadas por OCR de la etiqueta** y traen muchas erratas, corregidas: "(Rico)",
+  "GIycoI", "GI col", "Pentvle ne", "Polyquatemnium", "Beta-GIuc an", "(Comn)", "Ma itodextrin", "lsethionate",
+  "Soditum Lauroy|", "Hydroxysult aine", "Cros spolymer", "Hexaned: ol", "Disodiumn", "Benz oate", "Gard enia", "UImus",
+  "Hyaluron ate", "Sod jum", "Acetyl ated", "Pentaeryhrityl", "Dime thicone", "Lauroyi", "1,2-Hexanedio", ingredientes
+  pegados sin coma ("Butylene Glycol Propanediol", "Sodium Phytate Polyglyceryl-10 Stearate Ethylhexylglycerin"), puntos
+  en lugar de comas, y fuera porcentajes y ppm/ppb.
+- **Contraste con Open Beauty Facts**: 10 de los 60 códigos en OBF (9 escaneados en Países Bajos, 1 en Francia), ninguno con
+  lista; confirman que los códigos UE atados son los que se venden en Europa.
+- **Revisión FP/FN** (`revisa.mjs anua`): fragancia 5, D6 2, propilenglicol 1; embarazo 4 (salicílico del BHA 2%, LHA de
+  Peeling Gel y Quercetinol Foam, retinol del Eye Cream). Sin falsos positivos ni cambios en el detector. Regresión: 0 cambios
+  en las 6.843 fichas anteriores. Sin aviso, a propósito: agua y extracto de árbol del té (la 211 es solo el aceite) y
+  "Tris(Tetramethylhydroxypiperidinol) Citrate" (antioxidante Tinogard Q; la lista de vigilancia lo marca por "tris(", que
+  busca retardantes de llama).
 
 ### COSRX (cosrx.com) — cerrada 2026-10-03 (versión 2026-10-03i): 71 productos, 92 códigos — tercera cola, 9
 - **Fuente: la tienda oficial global** (Shopify, en inglés). cosrx.eu y cosrx.es son dominios aparcados de terceros; no hay
@@ -2953,6 +2993,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Rituals | sí (`/es-es/sitemap-es-es.xml`) | sí, `eanCode` en su buscador (Algolia `prd_products_b2cweb_es`) | sí, `productDetails.inci` (Hogar casi siempre sin lista) | ver su apartado |
 | Beauty of Joseon | Shopify global (`beautyofjoseon.com`, sin tienda UE) | sí, `barcode` en `.js` (EAN coreano, el mismo en la UE) | sí, dos listas: EE. UU. y UE/ROW ("AQUA…"): se usa la UE | ver su apartado |
 | COSRX | Shopify global (`cosrx.com`); el mercado UE (`localization=PT`) tiene sus propias fichas (`_cpnp`) | sí, `barcode` en `.js` (coreano); EAN UE en Druni/Primor/OBF | sí, por ficha ("Ingredient List" o pestaña INGREDIENTS) | ver su apartado |
+| Anua | Shopify (`anua.com`); mercado internacional (`localization=NL`) con fichas propias | sí, `barcode` en `.js` (envase coreano/EE. UU.); EAN UE en Druni/Primor/OBF, atados por lista | sí, pestaña "Ingredients" (OCR de etiqueta: erratas) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -3016,13 +3057,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10033 códigos en 87 marcas: NYX 999 · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10093 códigos en 88 marcas: NYX 999 · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 6843 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 6879 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

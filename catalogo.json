@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03i",
+ "version": "2026-10-03j",
  "marcas": [
   {
    "key": "larocheposay",
@@ -65350,6 +65350,360 @@
       "8809416471655"
      ],
      "inci": "Salix Alba (Willow) Bark Water, Butylene Glycol, Hydroxypropyl Cyclodextrin, Water, Pentylene Glycol, 1,2-Hexanediol, Betaine Salicylate, Arginine, Betaine, PEG-60 Hydrogenated Castor Oil, Allantoin, Panthenol, Ethylhexylglycerin, Sodium Hyaluronate, Carbomer, Cassia Obtusifolia Seed Extract, Menthyl Lactate, Mentha Haplocalix Extract"
+    }
+   ]
+  },
+  {
+   "key": "anua",
+   "nombre": "Anua",
+   "productos": [
+    {
+     "nombre": "Crema 3 Ceramide Panthenol Moisture Barrier Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640737251"
+     ],
+     "inci": "Water, Panthenol, Butylene Glycol, Propanediol, Caprylic/Capric Triglyceride, Glycerin, Cetyl Ethylhexanoate, Behenyl Alcohol, Octyldodecanol, Phenyl Trimethicone, Vinyl Dimethicone, 1,2-Hexanediol, Bis-Diglyceryl Polyacyladipate-2, Pentylene Glycol, Caprylyl Methicone, Centella Asiatica Extract, Polyglyceryl-3 Methylglucose Distearate, Betaine, C14-22 Alcohols, Ceramide NP, Phytosterols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Rice Bran Oil, C12-20 Alkyl Glucoside, Ammonium Acryloyldimethyltaurate/VP Copolymer, Glyceryl Stearate, Dimethiconol, Glyceryl Caprylate, Sodium Stearoyl Glutamate, Hydrogenated Lecithin, Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Sodium Phytate, Polyglyceryl-10 Stearate, Ethylhexylglycerin, Sodium Hyaluronate, Ethylhexyl Olivate, Dipropylene Glycol, Sodium Acrylates Copolymer, Polyglyceryl-4 Oleate, Linolenic Acid, Polyglyceryl-10 Laurate, Sphingolipids, Phosphatidylcholine, 4-Terpineol, Allantoin, Ectoin, Hyaluronic Acid, Squalane, Lecithin, Asiaticoside, Escin, Madecassic Acid, Asiatic Acid, Beta-Sitosterol, Tremella Fuciformis (Mushroom) Extract, Ceramide AP, Ceramide EOP, Glycine, Glutamic Acid, Serine, Alanine, Lysine, Arginine, Proline, Threonine"
+    },
+    {
+     "nombre": "Discos 8 Hyaluronic Acid Catechin Calming Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738111"
+     ],
+     "inci": "Water, Propanediol, Methylpropanediol, Glycereth-26, 1,2-Hexanediol, Trehalose, Hydroxyacetophenone, Diethoxyethyl Succinate, Niacinamide, Butylene Glycol, Hydroxyethyl Urea, Sodium Citrate, Glycerin, Coptis Japonica Root Extract, Citric Acid, Disodium EDTA, Methyl Diisopropyl Propionamide, Camellia Sinensis Catechins, Xanthan Gum, Panthenol, Caffeine, Dextrin, Theobroma Cacao (Cocoa) Seed Extract, Hydrolyzed Sodium Hyaluronate, Viola Mandshurica Flower Extract, Diospyros Kaki Leaf Extract, Laminaria Japonica Extract, Aloe Barbadensis Leaf Extract, Dioscorea Japonica Root Extract, Vitis Vinifera (Grape) Fruit Extract, Ulmus Davidiana Root Extract, Ethylhexylglycerin, Carthamus Tinctorius (Safflower) Flower Extract, Polygonum Cuspidatum Root Extract, Coffea Arabica (Coffee) Seed Extract, Zanthoxylum Piperitum Fruit Extract, Castanea Crenata (Chestnut) Shell Extract, Camellia Sinensis Leaf Extract, Ascorbic Acid, Sodium Hyaluronate, Centella Asiatica Extract, Tannic Acid, Hydroxypropyltrimonium Hyaluronate, Zinc Oxide, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Saponins, Triethoxycaprylylsilane, Hyaluronic Acid, Mineral Salts, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate"
+    },
+    {
+     "nombre": "Espuma limpiadora 8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640735561",
+      "8809640736100"
+     ],
+     "inci": "Water, Glycerin, Sodium Cocoyl Glycinate, Lauryl Hydroxysultaine, Coco-Glucoside, Sodium Lauroyl Glutamate, Quillaja Saponaria Bark Extract, Hydrolyzed Vegetable Protein, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Panthenol, Zinc PCA, Decyl Glucoside, Hectorite, Pentylene Glycol, Caprylyl Glycol, Hydroxypropyl Starch Phosphate, 1,2-Hexanediol, Betaine, Polyquaternium-67, Acrylates/C10-30 Alky1 Acryate Crosspolymer, Citric Acid, Sodium Chloride, Sodium Phytate, Sodium Cocoyl Isethionate, Maltodextrin"
+    },
+    {
+     "nombre": "Gel limpiador 8 Hyaluronic Acid Moisturizing Gentle Gel Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640735813",
+      "8809640736117"
+     ],
+     "inci": "Water, Coco-Betaine, Sodium Cocoyl Alaninate, Potassium Cocoyl Glycinate, Acrylates Copolymer, Glycerin, 1,2-Hexanediol, Propanediol, Polyglyceryl-4 Caprate, Caprylyl Glycol, Hydroxyacetophenone, Tromethamine, Glyceryl Glucoside, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Squalane, Ectoin, Citric Acid, Hydrolyzed Vegetable Protein, Maltodextrin, Hydrogenated Lecithin, Ceramide NP, Butylene Glycol, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Discos Azelaic 10 Hyaluron Redness Soothing Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738227"
+     ],
+     "inci": "Water, Butylene Glycol, Dipropylene Glycol, Propanediol, Glycerin, Betaine, Diglycerin, Methylpropanediol, Hydroxyethyl Urea, 1,2-Hexanediol, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, Panthenol, Melia Azadirachta Leaf Extract, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA, Melia Azadirachta Flower Extract, Allantoin, Sodium Polyacrylate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Dextrin, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Azelaic Acid, Bisabolol, Dipotassium Glycyrrhizate, Zea Mays (Corn) Kernel Extract, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside, Ceramide NP, Chlorella Vulgaris Extract, Melaleuca Alternifolia (Tea Tree) Leaf Water, Squalane, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Fructan, Pinus Pinaster Bark Extract, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Glucose, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Sérum Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640737190",
+      "8809640739019"
+     ],
+     "inci": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP"
+    },
+    {
+     "nombre": "Tónico BHA 2% Gentle Exfoliating Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734519",
+      "8809640735271"
+     ],
+     "inci": "Water, Dipropylene Glycol, 1,2-Hexanediol, Salicylic Acid, C12-14 Pareth-12, Octyldodeceth-16, Melaleuca Alternifolia (Tea Tree) Extract, Pentylene Glycol, Salix Alba (Willow) Bark Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Ulmus Davidiana Root Extract, Pinus Palustris Leaf Extract, Pueraria Lobata Root Extract, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Sodium Citrate, Citric Acid, Xanthan Gum, Disodium EDTA, Tocopherol, Ceramide NP, Butylene Glycol, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Potassium Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Loción Heartleaf 70 Daily Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640732799"
+     ],
+     "inci": "Houttuynia Cordata Extract, Glycerin, 1,2-Hexanediol, Methyl Trimethicone, Ethylhexyl Stearate, Butylene Glycol, Hydrogenated Poly(C6-14 Olefin), Polyglyceryl-3 Distearate, Fraxinus Rhynchophylla Extract, Ocimum Basilicum (Basil) Flower/Leaf/Stem Extract, Ulmus Davidiana Root Extract, Amaranthus Caudatus Seed Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Glyceryl Glucoside, Water, Glyceryl Stearate, Trehalose, Arginine, Carbomer, Glyceryl Stearate Citrate, Sodium Stearoyl Glutamate, Glucose, Disodium EDTA, Betaine, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Crema Heartleaf 70 Intense Calming Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640730696",
+      "8809640736018",
+      "8809640734670"
+     ],
+     "inci": "Houttuynia Cordata Extract, Cetearyl Alcohol, Glycerin, Cyclohexasiloxane, Butylene Glycol, 1,2-Hexanediol, Dicaprylyl Ether, Caprylic/capric Triglyceride, Hydrogenated Poly(C6-14 Olefin), Hydrogenated Polydecene, Glyceryl Stearate SE, Cetearyl Olivate, Sorbitan Olivate, Vegetable Oil, Panthenol, Hydrogenated Lecithin, Dipropylene Glycol, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/vp Copolymer, Cetearyl Glucoside, Cholesterol, Xanthan Gum, Adenosine, Ceramide NP, Glucose, Water, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Mascarilla en lámina Heartleaf 70 Soothing Collagen Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640737244",
+      "8809640739040"
+     ],
+     "inci": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, Butylene Glycol, Glycerin, Hydrogenated Polydecene, 1,2-Hexanediol, Acrylates Copolymer, Ceratonia Siliqua (Carob) Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Sucrose, Allantoin, Potassium Chloride, Cellulose Gum, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Aloe Barbadensis Leaf Extract, Gellan Gum, Caprylyl Glycol, Adenosine, Propanediol, Ethylhexylglycerin, Chromium Oxide Greens (CI 77288), Menthoxypropanediol, Menthyl Lactate, Sodium Phytate, Soluble Collagen, Sodium Hyaluronate, Houttuynia Cordata Extract, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Saccharomyces Ferment, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid"
+    },
+    {
+     "nombre": "Tónico Heartleaf 77 Soothing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640731433",
+      "8809640730221",
+      "8809640736025"
+     ],
+     "inci": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate"
+    },
+    {
+     "nombre": "Discos Heartleaf 77 Toner Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640730559",
+      "8809640734731"
+     ],
+     "inci": "Houttuynia Cordata Extract, Water, Gluconolactone, Propanediol, Tromethamine, Butylene Glycol, 1,2-Hexanediol, Betaine, Ammonium Acryloyldimethyltaurate/​VP Copolymer, Ulmus Davidiana Root Extract, Pueraria Lobata Root Extract, Pinus Palustris Leaf Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Camellia Sinensis Leaf Extract, Coix Lacryma-Jobi MA-Yuen Seed Extract, Portulaca Oleracea Extract, Centella Asiatica Extract, Madecassoside, Asiatic Acid, Asiaticoside, Madecassic Acid, Sodium Phytate"
+    },
+    {
+     "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640730283",
+      "8809640734717"
+     ],
+     "inci": "Houttuynia Cordata Extract, Butylene Glycol, Glycerin, 1,2-Hexanediol, Betaine, Cassia Obtusifolia Seed Extract, Panthenol, Hydroxyethyl Cellulose, Sodium Hyaluronate, Arginine, Carbomer, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Crema Heartleaf Centella Red Spot Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738197"
+     ],
+     "inci": "Water, Houttuynia Cordata Flower/Leaf/Stem Water, 1,2-Hexanediol, Glycerin, Butylene Glycol, 2,3-Butanediol, Panthenol, Dicaprylyl Carbonate, Tocopherol, Methyl Trimethicone, Niacinamide, Cetearyl Olivate, Sorbitan Olivate, Squalane, Pentylene Glycol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Madecassic Acid, Madecassoside, Asiaticoside, Asiatic Acid, Sorbitol, Cetyl Palmitate, Sorbitan Palmitate, Sucrose Polystearate, Cetearyl Alcohol, Olea Europaea (Olive) Oil Unsaponifiables, Diphenylsiloxy Phenyl Trimethicone, Stearyl Dimethicone, Hydrogenated Polyisobutene, Poly C10-30 Alkyl Acrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sorbitan Isostearate, Hydrogenated Olive Oil Decyl Esters, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Aminomethyl Propanediol, Glyceryl Stearate, Hydrogenated Lecithin, Ceramide NP, Ethylhexylglycerin, Cellulose, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Beta-Sitosterol, Macadamia Ternifolia Seed Oil, Phytosterols, Adenosine, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Phytate, Allantoin, Stearic Acid, Phytosphingosine, Cholesterol, Ceramide NG, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP"
+    },
+    {
+     "nombre": "Gel exfoliante Heartleaf LHA Moisture Peeling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640733666"
+     ],
+     "inci": "Water, Dipropylene Glycol, Cellulose, 1,2-Hexanediol, Arginine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propanediol, Allantoin, Carthamus Tinctorius (Safflower) Flower Extract, Dextrin, Polyglyceryl-10 Laurate, Gardenia Jasminoides Fruit Extract, Disodium EDTA, Theobroma Cacao (Cocoa) Extract, Glycerin, Houttuynia cordata Extract, Aloe Ferox Leaf Extract, Bioflavonoids, Sodium Hyaluronate, Caprylyl Glycol, Capryloyl Salicylic Acid, Brassica Oleracea Italica (Broccoli) Extract, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Agua limpiadora Heartleaf Low pH Deep Cleansing Water",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734854"
+     ],
+     "inci": "Water, Propanediol, Polyglyceryl-4 Caprate, 1,2-Hexanediol, Dipropylene Glycol, Houttuynia Cordata Extract, Panthenol, Ethylhexylglycerin, Citric Acid, Sodium Citrate, Squalane, Tocopherol"
+    },
+    {
+     "nombre": "Aceite limpiador Heartleaf Pore Cleansing Oil Mild",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640735028"
+     ],
+     "inci": "Ethylhexyl Stearate, Sorbeth-30 Tetraoleate, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Triethylhexanoin, Rosmarinus Officinalis (Rosemary) Leaf Oil, Helianthus Annuus (Sunflower) Seed Oil, Houttuynia Cordata Extract, Isododecane, Water, Sorbitan Sesquioleate, Tocopherol"
+    },
+    {
+     "nombre": "Aceite limpiador Heartleaf Pore Control Cleansing Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640732829"
+     ],
+     "inci": "Ethylhexyl Palmitate, Sorbeth-30 Tetraoleate, Sorbitan Sesquioleate, Caprylic/Capric Triglyceride, Butyl Avocadate, Fragrance, Helianthus Annuus (Sunflower) Seed Oil, Macadamia Ternifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Caprylyl Glycol, Ethylhexylglycerin, Curcuma Longa (Turmeric) Root Extract, Melia Azadirachta Flower Extract, Tocopherol, Melia Azadirachta Leaf Extract, Houttuynia Cordata Extract, Corallina Officinalis Extract, Melia Azadirachta Bark Extract, Moringa Oleifera Seed Oil, Ocimum Sanctum Leaf Extract"
+    },
+    {
+     "nombre": "Espuma limpiadora Heartleaf Quercetinol Pore Deep Cleansing Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640733642",
+      "8809640735622"
+     ],
+     "inci": "Houttuynia Cordata Flower/Leaf/Stem Water, Glycerin, Sodium Cocoyl Glycinate, Water, Sodium Lauroyl Glutamate, Disodium Cocoamphodiacetate, Coco-Glucoside, Decyl Glucoside, Hectorite, Sodium Chloride, 1,2-Hexanediol, Betaine Salicylate, Potassium Benzoate, Houttuynia Cordata Powder, Polyquaternium-67, Acrylates/C10-30 Alky1 Acrylate Crosspolymer, Butylene Glycol, Gardenia Florida Fruit Extract, Dextrin, Disodium EDTA, Eucalyptus Globulus Leaf Oil, Ethylhexyl glycerin, Sodium Acetate, Isopropyl Alcohol, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Pr imrose) Flower Extract, Pueraria Lobata Root Extract, Pentylene Glycol, Capryloyl Salicylic Acid, Tocopherol, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Quercetin"
+    },
+    {
+     "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734526",
+      "8809640735820"
+     ],
+     "inci": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum"
+    },
+    {
+     "nombre": "Discos Niacinamide 5 TXA Brightening Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738128"
+     ],
+     "inci": "Water, Butylene Glycol, Glycereth-26, Niacinamide, Glycerin, Hydroxyethyl Urea, 1,2-Hexanediol, Hydrolyzed Collagen, Terminalia Ferdinandiana Fruit Extract, Diethoxyethyl Succinate, Hydroxyacetophenone, Glycosyl Trehalose, Hydrogenated Starch Hydrolysate, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Glycereth-25 PCA Isostearate, Propanediol, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Zea Mays (Corn) Kernel Extract, Fructan, Glucose, Ethylhexylglycerin, Xanthan Gum, Adenosine, Coptis Japonica Root Extract, Collagen Extract, Sodium DNA, Disodium EDTA, Lecithin, Acetyl Glutamine, Bacillus/Soybean Ferment Extract, Caprylyl Glycol, Folic Acid, Hexapeptide-11, Oligopeptide-1, Oligopeptide-2, Oligopeptide-3"
+    },
+    {
+     "nombre": "Tónico PDRN 100 Hyaluronic Acid Booster Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800307371696"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Pentylene Glycol, Propanediol, Saccharum Officinarum (Sugarcane) Extract, Xylitylglucoside, Glycine Soja (Soybean) Seed Extract, Malachite Extract, Xylitol, Melia Azadirachta Leaf Extract, Cynanchum Atratum Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Althaea Rosea Flower Extract, Aloe Barbadensis Flower Extract, Hydrolyzed Hyaluronic Acid, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, 1,2-Hexanediol, Betaine, Hydroxyacetophenone, Panthenol, Ethylhexylglycerin, Anhydroxylitol, Allantoin, Sodium DNA, Dipropylene Glycol, Octanediol, Phosphatidylcholine, Tocopherol, Hyaluronic Acid/Hydrolyzed Collagen Crosspolymer, C12-13 Alketh-9, Dipotassium Phosphate, Acetyl Glutamine, Copper Tripeptide-1, Cellulose Gum, Disodium EDTA, Xanthan Gum"
+    },
+    {
+     "nombre": "Discos PDRN 100 Hyaluronic Acid Glow Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738241",
+      "8809640738456"
+     ],
+     "inci": "Water, Butylene Glycol, Glycereth-26, Niacinamide, Glycerin, Hydroxyethyl Urea, 1,2-Hexanediol, Hydrolyzed Collagen, Terminalia Ferdinandiana Fruit Extract, Diethoxyethyl Succinate, Hydroxyacetophenone, Glycosyl Trehalose, Hydrogenated Starch Hydrolysate, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Glycereth-25 PCA Isostearate, Propanediol, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Zea Mays (Corn) Kernel Extract, Fructan, Glucose, Ethylhexylglycerin, Xanthan Gum, Adenosine, Coptis Japonica Root Extract, Collagen Extract, Sodium DNA, Disodium EDTA, Lecithin, Acetyl Glutamine, Bacillus/Soybean Ferment Extract, Caprylyl Glycol, Folic Acid, Hexapeptide-11, Oligopeptide-1, Oligopeptide-2, Oligopeptide-3"
+    },
+    {
+     "nombre": "Bruma PDRN 100 Hyaluronic Acid Hydrating Capsule Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8800307373393",
+      "8800307373409"
+     ],
+     "inci": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate"
+    },
+    {
+     "nombre": "Crema PDRN Hyaluronic Acid 100 Moisturizing Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640738135",
+      "8800307371252"
+     ],
+     "inci": "Water, Squalane, Glycerin, Hydrolyzed Collagen, 1,2-Hexanediol, Methylpropanediol, Ethylhexylglycerin, Niacinamide, Butylene Glycol, Sodium DNA, Pentylene Glycol, PVM/MA Copolymer, Carbomer, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-13 Alketh-9, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Adenosine, Sodium Phytate, Aminomethyl Propanediol, Madecassoside, Asiaticoside, Centella Asiatica Leaf Extract"
+    },
+    {
+     "nombre": "Sérum PDRN Hyaluronic Acid Capsule 100 Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640736667",
+      "8809640738616"
+     ],
+     "inci": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol"
+    },
+    {
+     "nombre": "Mascarilla en lámina Peach 70 Niacin Brightening Collagen Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640737237",
+      "8809640739033"
+     ],
+     "inci": "Prunus Persica (Peach) Fruit Water, Water, Dipropylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Glycerin, Niacinamide, Lactobacillus Ferment, Acrylates Copolymer, Ceratonia Siliqua (Carob) Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Sucrose, Allantoin, Potassium Chloride, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Cellulose Gum, Gellan Gum, Caprylyl Glycol, Adenosine, Ethylhexylglycerin, Sodium Phytate, Soluble Collagen, Sodium Hyaluronate, Maltodextrin, Rubus Idaeus (Raspberry) Fruit Extract, Rubus Coreanus Fruit Extract, Prunus Persica (Peach) Flower Extract, Prunus Persica (Peach) Fruit Extract, Prunus Serrulata Flower Extract, Hydroxypropyltrimonium Hyaluronate, Betaine Salicylate, Sodium Citrate, Sodium Acetylated Hyaluronate, Citric Acid, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Cyanocobalamin, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Iron Oxides (CI 77491)"
+    },
+    {
+     "nombre": "Sérum Peach 70 Niacinamide Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640733550",
+      "8809640735288"
+     ],
+     "inci": "Prunus Persica (Peach) Fruit Extract, Glycerin, Niacinamide, Butylene Glycol, Diethoxyethyl Succinate, Water, 1,2-Hexanediol, Lactobacillus Ferment, Sodium Hyaluronate, Sphingomonas Ferment Extract, Alpha-Arbutin, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Carthamus Tinctorius (Safflower) Seed Oil, Salvia Hispanica Seed Oil, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Pentylene Glycol, Polyglyceryl-10 Laurate, Betaine Salicylate, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Panthenol, Polyglutamic Acid, Linoleic Acid, Linolenic Acid, Polyglyceryl-10 Oleate, Sucrose Palmitate, Cyanocobalamin, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Lactobionic Acid, Asiaticoside, Madecassic Acid, Asiatic Acid, Xanthan Gum, Fragrance(Parfum)"
+    },
+    {
+     "nombre": "Leche hidratante Peach 77 Niacin Conditioning Milk",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734342",
+      "8809640735646"
+     ],
+     "inci": "Prunus Persica (Peach) Fruit Water, Glycerin, Ethylhexyl Stearate, Dipropylene Glycol, Niacinamide, Methyl Trimethicone, 1,2-Hexanediol, Lactobacillus Ferment, Polyglyceryl-3 Distearate, Cetearyl Alcohol, Hydrogenated Poly(c6-14 Olefin), Prunus Persica (Peach) Fruit Extract, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Glyceryl Stearate, Water, Sodium Stearoyl Glutamate, Hydroxyacetophenone, Carbomer, Ethylhexylglycerin, Arginine, Glyceryl Stearate Citrate, Disodium EDTA, Adenosine, Methylpropanediol, Betaine Salicylate, Panthenol, Butylene Glycol, Galactomyces Ferment Filtrate, Cyanocobalamin, Ceramide NP, Saccharomyces Ferment Filtrate, Bifida Ferment Lysate, Tocopherol, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Fragrance"
+    },
+    {
+     "nombre": "Crema Peach 77 Niacin Enriched Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734373"
+     ],
+     "inci": "Prunus Persica (Peach) Fruit Water, Glycerin, Methylpropanediol, Niacinamide, 1,2-Hexanediol, Isododecane, Lactobacillus Ferment, Propanediol, Panthenol, Polyglyceryl-3 Methylglucose Distearate, Polymethylsilsesquioxane, Hydrogenated Polydecene, Coptis Japonica Root Extract, Prunus Persica (Peach) Fruit Extract, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Soluble Collagen, Jojoba Esters, Vinyl Dimethicone, Ammonium Acryloyldimethyltaurate/VP Copolymer, Water, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Tromethamine, Ethylhexylglycerin, Butylene Glycol, Adenosine, Disodium EDTA, Cyanocobalamin, Saccharomyces Ferment Filtrate, Tocopherol, Ceramide NP, Pectin, Maltodextrin, Hydrolyzed Vegetable Protein, Galactomyces Ferment Filtrate, Bifida Ferment Lysate, Fragrance"
+    },
+    {
+     "nombre": "Tónico Peach 77 Niacin Essence Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734359"
+     ],
+     "inci": "Prunus Persica (Peach) Fruit Water, 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)"
+    },
+    {
+     "nombre": "Contorno de ojos Retinol 0.1 Caffeine Revitalizing Eye Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734946"
+     ],
+     "inci": "Water, Propanediol, Dipropylene Glycol, Niacinamide, Glycerin, Limnanthes Alba (Meadowfoam) Seed Oil, Pentylene Glycol, Cyclohexasiloxane, Polyglyceryl-3 Methylglucose Distearate, Polyglyceryl-3 Distearate, 1,2-Hexanediol, Caffeine, Panthenol, Soluble Collagen, Squalane, Adenosine, Ceramide NP, Ceramide NG, Ceramide NS, Ceramide AP, Ceramide AS, Ceramide EOP, Hexapeptide-2, Copper Tripeptide-1, Acetyl Hexapeptide-8, Acetyl Dipeptide-1 Cetyl Ester, Retinol, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Hippophae Rhamnoides Oil, Macadamia Ternifolia Seed Oil, Chitosan, Butyrospermum Parkii (Shea) Butter, Hippophae Rhamnoides Fruit Oil, Pentaerythrityl Tetraethylhexanoate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Diglycerin, Polymethylsilsesquioxane, Tocopheryl Acetate, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Hydroxyacetophenone, Glyceryl Stearate Citrate, Caprylic/Capric Triglyceride, Sodium Phytate, Butylene Glycol, Trideceth-10, Hydrogenated Lecithin, Sorbitan Isostearate, Palmitic Acid, Stearic Acid, Brassica Campestris (Rapeseed) Sterols, Cholesterol, Polyglyceryl-10 Laurate, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Aluminum/Magnesium Hydroxide Stearate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Oleic Acid, Potassium Cetyl Phosphate, Tris(Tetramethylhydroxypiperidinol) Citrate, Octyldodecanol, Phytosterols, Sorbitan Laurate, Hydroxyethylcellulose, Phytosphingosine, Biotin, Cetearyl Alcohol, Xanthan Gum"
+    },
+    {
+     "nombre": "Mascarilla en lámina Rice 70 Glow Collagen Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640737220",
+      "8809640739026"
+     ],
+     "inci": "Oryza Sativa (Rice) Bran Water, Water, Dipropylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Glycerin, Niacinamide, Acrylates Copolymer, Ceratonia Siliqua (Carob) Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Oryza Sativa (Rice) Extract, Sucrose, Allantoin, Potassium Chloride, Oryza Sativa (Rice) Hull Powder, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Cellulose Gum, Gellan Gum, Caprylyl Glycol, Adenosine, Butylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Phytate, Iron Oxides (CI 77492), Soluble Collagen, Sodium Hyaluronate, Iron Oxides (CI 77491), Hydroxypropyltrimonium Hyaluronate, Phytosphingosine, Oryza Sativa (Rice) Seed Protein, Hydrolyzed Rice Protein, Ceramide NP, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate"
+    },
+    {
+     "nombre": "Tónico Rice 70 Glow Milky Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640735455",
+      "8809640738999"
+     ],
+     "inci": "Oryza Sativa (Rice) Bran Water, Butylene Glycol, Glycerin, Dipropylene Glycol, Niacinamide, Propanediol, Water, 1,2-Hexanediol, Methyl Gluceth-20, Panthenol, Betaine, Oryza Sativa (Rice) Extract, Hydroxyacetophenone, Diphenyl Dimethicone, Triethylhexanoin, Hydrogenated Lecithin, Adenosine, Ethylhexylglycerin, Carbomer, Tromethamine, Xanthan Gum, Glyceryl Acrylate/Acrylic Acid Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Dextrin, Hydrolyzed Rice Protein, Oryza Sativa (Rice) Seed Protein, Ceramide NP, Sodium Lauroyl Lactylate, Arbutin, Ascorbic Acid, Allantoin, Ceramide AP, Phytosphingosine, Cholesterol, Ceramide EOP"
+    },
+    {
+     "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640734861",
+      "8809640736131"
+     ],
+     "inci": "Oryza Sativa (Rice) Bran Water, Dipropylene Glycol, Glycerin, Methylpropanediol, Water, Butylene Glycol, Methyl Gluceth-10, Niacinamide, 1,2-Hexanediol, Panthenol, Hydroxyethyl Urea, Pentylene Glycol, Sodium Polyacrylate, Oryza Sativa (Rice) Extract, Caprylic/Capric Triglyceride, Carbomer, Hydrogenated Lecithin, Ethylhexylglycerin, Polyquaternium-51, Adenosine, Allantoin, Sodium Phytate, Xanthan Gum, Ceramide NP, Sodium Hyaluronate, Alpha-Arbutin, Angelica Keiskei Extract, Corchorus Olitorius Leaf Extract, Dioscorea Japonica Root Extract, Hibiscus Esculentus Fruit Extract, Nelumbo Nucifera Root Extract, Beta-Glucan, Tocopherol, Defatted Rice Bran Extract, Arbutin, Zinc Stearate, Defatted Rice Bran, Oryza Sativa (Rice) Bran, Hydrolyzed Rice Protein, Oryza Sativa (Rice) Seed Protein, Honey Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid"
+    },
+    {
+     "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809640735462",
+      "8809640736148"
+     ],
+     "inci": "Zea Mays (Corn) Starch, Kaolin (CI 77004), Sodium Bicarbonate, Sodium Cocoyl Isethionate, Sodium Lauroyl Glutamate, Citric Acid, Sodium Polyacrylate, Diglycerin, Allantoin, Water, Maltodextrin, Papain, Oryza Sativa (Rice) Powder, Oryza Sativa (Rice) Lees Extract, Oryza Sativa (Rice) Bran Water, Butylene Glycol, 1,2-Hexanediol, Ceramide NP, Ascorbic Acid, Alpha-Arbutin, Glucose, Oryza Sativa (Rice) Extract, Protease, Dipropylene Glycol, Glycerin, Tartaric Acid, Lactic Acid, Oryza Sativa (Rice) Seed Protein, Hydrolyzed Rice Protein, Caprylyl Glycol"
     }
    ]
   }
