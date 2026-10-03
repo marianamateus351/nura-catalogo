@@ -784,7 +784,7 @@ empezar una marca, va primero. Avisos de Mariana: en Durex y Control deben salta
 velas y ambientadores son Hogar; K-beauty: comprobar que el INCI de la web (en inglés) es el del
 envase europeo.
 1. ~~Durex (lubricantes, geles y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03b): 6 productos, 7 códigos; ver su apartado
-2. Control (lubricantes y preservativos)
+2. ~~Control (lubricantes y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03c): 3 productos, 3 códigos (solo las cremas publican INCI); ver su apartado
 3. Cumlaude Lab (higiene íntima)
 4. Chilly (higiene íntima)
 5. Saforelle (higiene íntima)
@@ -797,6 +797,24 @@ envase europeo.
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Control (control.es / control.it / control.pt) — cerrada 2026-10-03 (versión 2026-10-03c): 3 productos, 3 códigos — tercera cola, 2
+- Marca italiana (Artsana; códigos `8058664…` y `8411134…`). **control.es** es Shopify (47 fichas: 18 preservativos,
+  15 geles y lubricantes, 13 juguetes, 1 kit) con `barcode` por variante en `.js`; hay que ir despacio (verificación
+  anti-bots si se va rápido). Solo dos fichas traen lista y **están traducidas al castellano** ("glicerina, aceite de
+  Prunus Amygdalus Dulcis…"): no valen tal cual. **control.it** (mismo Shopify, mismos códigos) y **control.pt** (otra
+  tienda Shopify de la marca, 63 fichas) las dan **en INCI**.
+- **Entran** (las únicas con INCI en una web oficial): **Crema hidratante íntima V-Cream** 8058664146192 y **Crema
+  protectora de masaje** 8058664146185 (misma lista en IT y PT, mismo código que en la tienda española), y **Gel
+  refrescante íntimo Refresh & Go** 8058664146178 (solo en la tienda portuguesa). Fuera "Made in Italy" y el punto final.
+- **Fuera, sin lista en ninguna de las tres webs**: todos los **lubricantes y geles de masaje** (Tropical, Chocolate, 3 en
+  1, Ice Feel, Hot Passion, Ocean Spa, Thai Passion…: son producto sanitario CE 2797 y solo dicen "base de agua, sin
+  azúcar, sin parabenos") y todos los **preservativos**; juguetes y kits.
+- **Open Beauty Facts**: ninguno de los 3 códigos está.
+- **Revisión FP/FN** (`revisa.mjs control`): fragancia (5) en la crema de masaje y en Refresh & Go (Parfum),
+  propilenglicol (38) en V-Cream, salicilato de bencilo (184) en la crema de masaje. Sin falsos positivos. Ceteareth-12/-20
+  de la crema de masaje sin aviso: correcto por la decisión d) del 2026-09-21 (alcoholes etoxilados solo en Hogar).
+  Nonoxinol-9 (35): ningún producto Control lo lleva. Regresión: 0 cambios en las 5.166 fichas anteriores.
 
 ### Durex (durex.es) — cerrada 2026-10-03 (versión 2026-10-03b): 6 productos, 7 códigos — tercera cola, 1
 - **Fuente de la lista**: durex.es (Reckitt; sitemap `sitemap-0.xml`, 59 fichas de producto sin contar packs). Solo **13
@@ -2699,6 +2717,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Rare Beauty | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC `840122…`) | sí, bloque "Full Ingredients", con cabecera por tono cuando cambia | ver su apartado |
 | Medik8 | Shopify (`es.medik8.com`, `pt.medik8.com`) | sí, `barcode` por variante en `.js` (envase UE; el británico es otro código) | **traducida** en ES; en INCI ficha a ficha en nl/pt/de/fr/it.medik8.com (mismos códigos) | ver su apartado |
 | Durex | sí (`sitemap-0.xml`) | **no** (SKU internos): dosfarma + Atida | solo 13 fichas (lubricantes); preservativos sin lista | ver su apartado |
+| Control | Shopify (control.es/.it/.pt) | sí, `barcode` en `.js` | traducida en .es; INCI en .it/.pt, solo en las cremas | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2762,13 +2781,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7578 códigos en 80 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7581 códigos en 81 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5166 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5169 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

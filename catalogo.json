@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03b",
+ "version": "2026-10-03c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -49437,6 +49437,39 @@
       "8428076000090"
      ],
      "inci": "Dimethicone"
+    }
+   ]
+  },
+  {
+   "key": "control",
+   "nombre": "Control",
+   "productos": [
+    {
+     "nombre": "Crema hidratante íntima V-Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664146192"
+     ],
+     "inci": "Aqua (Water), Glyceryl Stearate, Dicaprylyl Carbonate, Myristyl Lactate, Dicaprylyl Ether, Glycerin, Almond/Borage/Linseed/Olive Acids/Glycerides, Cetearyl Alcohol, 1,2-Hexanediol, Hydrogenated Olive Oil Decyl Esters, Propanediol Dicaprylate, Aloe Barbadensis Leaf Juice, Betaine, Triethyl Citrate, Oryza Sativa Starch [Oryza Sativa (Rice) Starch], Xanthan Gum, Sodium Benzoate, Tocopheryl Acetate, Sodium Lauroyl Glutamate, Sodium Stearoyl Lactylate, Potassium Cetyl Phosphate, Benzoic Acid, Panthenol, Propylene Glycol, Bisabolol, Sodium Gluconate, Sodium Hyaluronate, Sodium Dehydroacetate, Lactic Acid, Tocopherol"
+    },
+    {
+     "nombre": "Crema protectora de masaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664146185"
+     ],
+     "inci": "Aqua (Water), Dicaprylyl Carbonate, Glycerin, Aloe Barbadensis Leaf Juice, Sodium Polyacrylate, Prunus Amygdalus Dulcis Oil [Prunus Amygdalus Dulcis (Sweet Almond) Oil], Cetearyl Isononanoate, Caprylyl Glycol, Betaine, Tocopheryl Acetate, Ceteareth-20, Cetearyl Alcohol, Inulin, Ethylhexylglycerin, Parfum (Fragrance), Glyceryl Stearate, Sodium Gluconate, Alpha-Glucan Oligosaccharide, Benzyl Salicylate, Cetyl Palmitate, Ceteareth-12, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel refrescante íntimo Refresh & Go",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664146178"
+     ],
+     "inci": "Aqua (Water), Aloe Barbadensis Leaf Juice, Glycerin, PEG-40 Hydrogenated Castor Oil, Propanediol, Benzyl Alcohol, Betaine, 1,2-Hexanediol, Polysorbate 20, Parfum (Fragrance), 2-Methyl 5-Cyclohexylpentanol, Sodium Benzoate, Lactic Acid, Sodium Gluconate, Thymus Vulgaris Flower/Leaf Oil [Thymus Vulgaris (Thyme) Flower/Leaf Oil], Bisabolol"
     }
    ]
   }
