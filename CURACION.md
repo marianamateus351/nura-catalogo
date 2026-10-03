@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, los `0840122…` de Rare Beauty y los `0818625…` de Medik8 (solo los de sus envases UE), que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone, Rare Beauty y Medik8). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, los `0840122…` de Rare Beauty y los `0818625…` de Medik8 (solo los de sus envases UE), los UPC `0850018…`/`0850045…`/`0850056…`/`0810177…` de Olaplex que venden Druni y Primor, que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone, Rare Beauty, Medik8 y Olaplex). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -796,7 +796,33 @@ envase europeo.
 11. ~~Uriage (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03k): 98 productos, 117 códigos; ver su apartado
 12. ~~Nuxe (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03l): 127 productos, 147 códigos; ver su apartado
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
-14. Olaplex (capilar)
+14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
+
+### Olaplex (es.olaplex.com) — cerrada 2026-10-03 (versión 2026-10-03n): 13 productos, 17 códigos — tercera cola, 14
+- **Lista: la tienda española** (Shopify, 71 fichas, 40 de ellas sets, kits, dúos y rutinas: fuera). La lista va tras "LISTA
+  COMPLETA DE INGREDIENTES" / "FULL INGREDIENTS LIST", unas veces en la descripción y otras en datos de la página; se corta
+  donde empieza el texto. **Sin lista INCI en la web española**: Nº.0, Nº.3PLUS, BrowBond y la bruma perfumada (ninguna),
+  Moisturize & Mend Leave-In (solo traducida al castellano: no vale), Nº.4CURL (lista cortada), Nº.5P (la ficha del
+  acondicionador trae la lista del champú, con Sodium C14-16 Olefin Sulfonate), Nº.4C 250 ml.
+- **Códigos**: la web solo da tres (`barcode`), así que salen de **Druni y Primor**. Son UPC de EE. UU. con un 0 delante
+  (`0850018…`, `0850045…`, `0850056…`, `0810177…`, `0896364…`), **los que lleva el envase que se vende en España** (entran
+  como excepción a la regla 3, igual que NYX, essie o The Ordinary). **Olaplex tiene varias generaciones de fórmula a la venta
+  a la vez** y la web solo publica la de 2025 (la de los colorantes CI 19140/CI 15985 en champús y acondicionadores, serie de
+  códigos `0810177…`): las tiendas enseñan, para los códigos anteriores, listas anteriores (Nº.4C con Pentasodium
+  Triphosphate, Nº.4P con Acid Violet 43, Nº.4 en castellano…). Por eso **se atan solo** los códigos con lista igual a la de la
+  web (Nº.6 y Nº.9 de Druni salvo erratas, Nº.7 Shine Mist de Primor), los de productos con una sola fórmula y nombre
+  inequívoco (Nº.4/Nº.5 Fine, Nº.5 Scalp Longevity, Nº.5CURL, Nº.10, mascarillas Weightless y Rich, Volumizing Blow Dry
+  Mist, LashBond) y el Nº.4 Strengthening Shampoo `0810177860303` de Druni (sin lista; serie de la reformulación).
+  **No se atan**: Nº.4 y Nº.5 Bond Maintenance de generaciones anteriores (`0896364002428`/`558`, `0850018802758`,
+  `0896364002435`/`565`, `0850018802659`), Nº.4C `0850018802765`, Nº.4P `0850018802239`/`0850045076061`/`8500188027728`,
+  Nº.7 Bonding Oil (Primor da la lista traducida), Nº.5 Fine `0850018802789`, la laca Shape Set (la web da dos listas
+  distintas según tamaño) y el **Nº.4D champú seco**: la web publica propelente HFC-152a y Druni, para el mismo código
+  `0850018802567`, Butane/Isobutane (fórmula de otro mercado).
+- **Contraste con Open Beauty Facts**: 1 de los 17 códigos en OBF (Nº.6, Suecia), lista casi igual.
+- **Revisión FP/FN** (`revisa.mjs olaplex`): fenoxietanol 13, fragancia 11, propilenglicol 5, etoxilados 3, lavanda 1
+  ("Lavandula Oil/Extract"), benzoato de bencilo 1, TBHQ 1; sulfitos 1. Sin falsos positivos ni cambios en el detector.
+  Regresión: 0 cambios en las 7.154 fichas anteriores. Sin aviso, a propósito: extracto de lavanda (la 211 es el aceite) y
+  Styrene/Butadiene Copolymer (regla 80 solo en Hogar).
 
 ### Martiderm (martiderm.com/es) — cerrada 2026-10-03 (versión 2026-10-03m): 50 productos, 59 códigos — tercera cola, 13
 - **Lista: la web española** (Drupal). El `sitemap.xml` es de 2020 y sus URL de producto dan 404; las fichas vivas salen de
@@ -3103,6 +3129,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Uriage | sí (`/ES/es/mapa-del-sitio.xml`) | **no**: Primor, Atida, Druni (atados por lista o nombre) | sí, bloque "INCI" (separadores mezclados, palabras partidas) | ver su apartado |
 | Nuxe | Shopify (`es.nuxe.com`); ~30 % del `products.json` da 404 en España | sí, `barcode` en `.js` | sí, pestaña "Ingredientes" (cortar antes de la FAQ) | ver su apartado |
 | Martiderm | sitemap de 2020 (404); fichas por los listados de gamas | **no**: Druni, Primor, Atida (por nombre) | sí, "Ingredientes" | ver su apartado |
+| Olaplex | Shopify (`es.olaplex.com`) | casi nunca (3): Druni, Primor (UPC con 0) | sí, "LISTA COMPLETA DE INGREDIENTES" (solo fórmula 2025) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -3166,13 +3193,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10416 códigos en 91 marcas: NYX 999 · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10433 códigos en 92 marcas: NYX 999 · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7154 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7167 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

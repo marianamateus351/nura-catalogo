@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03m",
+ "version": "2026-10-03n",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68245,6 +68245,133 @@
       "8437000435471"
      ],
      "inci": "Aqua/Water, Triethylhexanoin, HDI/Trimethylol Hexyllactone Crosspolymer, Ethoxydiglycol, Glycerin, Cyclopentasiloxane, Tocopheryl Acetate, Dipropylene Glycol, PEG-35 Castor Oil, Polyacrylate Crosspolymer-6, Sodium Hyaluronate, Bisabolol, Glyceryl Linoleate, Secale Cereale (Rye) Seed Extract, Boswellia Serrata Gum, Silica, Retinyl Palmitate, Commiphora Mukul Resin Extract, Tripleurospermum Maritimum Extract, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Citric Acid, Acetyl Octapeptide-3, Tocopherol, Sucrose Palmitate, Phenethyl Alcohol, Caprylyl Glycol, Pentylene Glycol, Caprylic/Capric Triglyceride, T-Butyl Alcohol, BHA, BHT, Triethanolamine, Parfum/Fragrance, Phenoxyethanol, Potassium Sorbate, Sorbic Acid"
+    }
+   ]
+  },
+  {
+   "key": "olaplex",
+   "nombre": "Olaplex",
+   "productos": [
+    {
+     "nombre": "Nº.4 Bond Maintenance Strengthening Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810177860303"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Hydroxysultaine, Potassium Cocoyl Glycinate, Disodium Cocoyl Glutamate, Potassium Cocoate, Sodium Lauroyl Sarcosinate, Sodium Methyl Isethionate, Glycereth-26, Decyl Glucoside, Bis-Aminopropyl Diglycol Dimaleate, Biotin, Sodium Hyaluronate, Panthenol, Tocopherol, Euterpe Oleracea Fruit Extract, Musa Sapientum (Banana) Fruit Extract, Arctium Lappa Root Extract, Punica Granatum Bark/Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Morinda Citrifolia Fruit Extract, Origanum Vulgare Leaf Extract, Helianthus Annuus (Sunflower) Seed Oil, Prunus Armeniaca (Apricot) Kernel Oil, Argania Spinosa Kernel Oil, Helianthus Annuus (Sunflower) Seed Extract, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Palmitoyl Myristyl Serinate, Polyquaternium-10, Polyquaternium-11, Guar Hydroxypropyltrimonium Chloride, Caprylyl Glycol, Amodimethicone, Divinyldimethicone/Dimethicone Copolymer, Sodium Cocoyl Glutamate, Glycol Distearate, Methyl Gluceth-20, Acrylates Copolymer, PEG-120 Methyl Glucose Dioleate, Cocamidopropylamine Oxide, Disodium Laureth Sulfosuccinate, Ethylhexylglycerin, Sodium Lauryl Sulfoacetate, C11-15 Alketh-7, Laureth-9, Trideceth-12, Glycerin, Laureth-10, C12-13 Alketh-23, C12-13 Alketh-3, Quaternium-95, Propanediol, PEG-8, PEG-8/Smdi Copolymer, Lauric Acid, Sodium Laurate, Sodium Polyacrylate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Trisodium Ethylenediamine Disuccinate, Sodium Sulfate, Acetic Acid, Benzoic Acid, Sodium Benzoate, Citric Acid, Potassium Sorbate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin, Sodium Chloride, Parfum/Fragrance, Citral, Citrus Aurantium Peel Oil, Hexyl Cinnamal, Limonene, Menthol, CI 19140/Yellow 5, CI 15985 (Yellow 6)"
+    },
+    {
+     "nombre": "Nº.4 Fine Bond Maintenance Volumizing Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850056933575",
+      "0850056933582"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Cocoyl Isethionate, Coco-Glucoside, Sodium Cocoyl Alaninate, Lauryl Glucoside, Propanediol, Glycerin, Cocamidopropyl Hydroxysultaine, Acrylates Copolymer, Bis-Aminopropyl Diglycol Dimaleate, Sodium Hyaluronate, Caesalpinia Spinosa Fruit Extract, Oryza Sativa (Rice) Bran Extract, Sarcosine, Panthenol, Hydrolyzed Quinoa, Tocopherol, Pisum Sativum (Pea) Seed Extract, Algin, Rosmarinus Officinalis (Rosemary) Leaf Extract, Helianthus Annuus (Sunflower) Sprout Extract, Guar Hydroxypropyltrimonium Chloride, Sodium Cocoate, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Helianthus Annuus (Sunflower) Extract, Polyimide-1, Polyquaternium-7, Sclerotium Gum, Cetrimonium Chloride, Ethylhexylglycerin, Sodium Isethionate, Cocamide MIPA, Polyquaternium-80, 1,2-Hexanediol, Propylene Glycol, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Tetrasodium Glutamate Diacetate, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Potassium Sorbate, Citric Acid, Benzyl Alcohol, Chlorphenesin, Sodium Hydroxide, Parfum/Fragrance, Citral, Citrus Aurantium Peel Oil, Hexyl Cinnamal, Limonene, Menthol, CI 19140/Yellow 5, CI 15985 (Yellow 6)"
+    },
+    {
+     "nombre": "Nº.5 Fine Bond Maintenance Volumizing Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810177860549",
+      "0850056933612"
+     ],
+     "inci": "Aqua/Water/Eau, Behentrimonium Chloride, Cetyl Alcohol, Propanediol, Glycerin, Polyquaternium-37, C13-15 Alkane, Bis-Aminopropyl Diglycol Dimaleate, Sodium Hyaluronate, Niacinamide, Hydrolyzed Quinoa, Pisum Sativum (Pea) Seed Extract, Caesalpinia Spinosa Fruit Extract, Sarcosine, Amaranthus Caudatus Seed Extract, Helianthus Annuus (Sunflower) Sprout Extract, Vitis Vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Seed Wax, Glycine Soja (Soybean) Seed Extract, Jojoba Esters, Castor Oil/Ipdi Copolymer, Tocopherol, Arginine, 1,2-Hexanediol, Lecithin, Dilinoleic Acid/Butanediol Copolymer, Coco-Caprylate/Caprate, Panthenol, Ethylhexylglycerin, Sclerotium Gum, Guar Hydroxypropyltrimonium Chloride, Polyester-11, Polyimide-1, Polyglycerin-3, Stearamidopropyl Dimethylamine, Propylene Glycol, Trisodium Ethylenediamine Disuccinate, Triheptanoin, Tetrasodium Glutamate Diacetate, Potassium Sorbate, Isopropyl Alcohol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Ethyl Lauroyl Arginate HCl, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin, Parfum/Fragrance, Citrus Aurantium Peel Oil, Menthol, Hexyl Cinnamal, Limonene, CI 19140/Yellow 5, CI 15985 (Yellow 6)"
+    },
+    {
+     "nombre": "Nº.5 Scalp Longevity Treatment",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850056933636"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Propanediol, C9-12 Alkane, Octyldodecanol, Bis-Aminopropyl Diglycol Dimaleate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Ceramide EOP, Ceramide NP, Ceramide AP, Arginine, Oryza Sativa (Rice) Bran Oil, Tasmannia Lanceolata Leaf Extract, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Magnolia Officinalis Bark Extract, Piper Nigrum (Pepper) Seed Extract, Pogostemon Cablin Leaf/Stem Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Leptospermum Scoparium Branch/Leaf Oil, Cholesterol, Hydrogenated Lecithin, Glycosphingolipids, Phytosphingosine, Glycine Soja (Soybean) Seed Extract, Hydrogenated Polydecene, Coco-Caprylate/Caprate, Tetraacetylphytosphingosine, Menthoxypropanediol, 1,2-Hexanediol, Cetearyl Alcohol, Glyceryl Stearate, Pentylene Glycol, Stearic Acid, Phenethyl Alcohol, Xanthan Gum, Ethylhexylglycerin, Sodium Acrylates Copolymer, Lecithin, Sodium Benzoate, Citric Acid, Phenoxyethanol, Chlorphenesin, Lavandula Oil/Extract, CI 19140/Yellow 5, CI 15985 (Yellow 6)"
+    },
+    {
+     "nombre": "Nº.5CURL Bond Shaper Hydrating Curl Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810177861010"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Behentrimonium Methosulfate, Hydrogenated Ethylhexyl Olivate, Brassicamidopropyl Dimethylamine, Cetrimonium Chloride, Polyquaternium-37, Hydroxypropyl Bis-Hydroxyethyldimonium Chloride, Hydrogenated Rapeseed Oil, Polyester-37, Cetyl Esters, Parfum, Phenoxyethanol, Stearyl Alcohol, Quaternium-87, Carthamus Tinctorius Oleosomes, Helianthus Annuus Extract, Lactic Acid, Ethyl Linoleate, Ethyl Oleate, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-10, Propylene Glycol, Hydrogenated Olive Oil Unsaponifiables, Styrene/Butadiene Copolymer, Ethylhexylglycerin, Chlorphenesin, Olus Oil, Jojoba Esters, Persea Gratissima Oil, Linum Usitatissimum Seed Powder, Helianthus Annuus Seed Wax, Hexyl Cinnamal, Limonene, Glycerin, Salvia Hispanica Herb Extract, Acacia Senegal Gum, Menthol, Citral, Propanediol, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Pentylene Glycol, Benzyl Alcohol, Mentha Piperita Oil, Citronellol, Carvone, Linalyl Acetate, Mentha Viridis Leaf Oil, Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate, Geranyl Acetate, Polyglycerin-3, Eucalyptus Globulus Oil, Benzyl Alcohol, Hydroxypropyltrimonium Hyaluronate, Camphor, Benzyl Benzoate, Beta-Caryophyllene, Geraniol, Xylitol, Caprylic Acid, Pinene, Panthenol, Rose Ketones, Anethole, Potassium Sorbate, Sorbitan Oleate Decylglucoside Crosspolymer, Sodium Benzoate, Pb-300, Anise Alcohol, Terpineol, Alpha-Terpinene, Sodium Chloride, Terpinolene, Tocopherol, Hydroxypropylcellulose, Coumarin, Phenethyl Alcohol, Benzaldehyde"
+    },
+    {
+     "nombre": "Nº.6 Bond Smoother",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850018802796"
+     ],
+     "inci": "Water (Aqua/Eau), Cetearyl Alcohol, Dimethicone, Isohexadecane, Coco-Caprylate, Neopentyl Glycol Diheptanoate, Behentrimonium Chloride, Isododecane, Phenyl Trimethicone, Propanediol, Fragrance (Parfum), Cetrimonium Chloride, Phenoxyethanol, Glyceryl Stearate, Isopropyl Alcohol, Hydroxyethylcellulose, Hydroxypropyl Guar, Sodium Stearoyl Lactylate, Hydroxypropyl Cyclodextrin, Hexyl Cinnamal, Limonene, Citral, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Disodium EDTA, Linalool, Citronellol, Iodopropynyl Butylcarbamate, Gigartina Stellata Extract, Chondrus Crispus (Carrageenan) Extract, Hydroxycitronellal, Etidronic Acid, Tocopherol, Geraniol, Potassium Sorbate, Helianthus Annuus (Sunflower) Seed Oil, Ascorbic Acid, Cocos Nucifera (Coconut) Oil, Phytantriol, Pseudozyma Epicola/Camellia Sinensis Seed Oil Ferment Extract Filtrate, Tocopheryl Acetate, Vitis Vinifera (Grape) Seed Oil, Aloe Barbadensis Leaf Juice, Panthenol, Bis-Aminopropyl Diglycol Dimaleate, Citric Acid, Sodium Benzoate"
+    },
+    {
+     "nombre": "Nº.7 Shine Serum Oil Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810177860297"
+     ],
+     "inci": "Isododecane, Aqua/Water/Eau, Propylene Glycol, Isohexadecane, Phenyl Trimethicone, Trisiloxane, Lactic Acid, Bis-Aminopropyl Diglycol Dimaleate, Citrullus Lanatus (Watermelon) Seed Oil, Aleurites Moluccanus Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Rosa Canina Fruit Extract, PCA, Arginine, Glycine, Alanine, Serine, Valine, Threonine, Histidine, Phenylalanine, Isoleucine, Proline, Aspartic Acid, Tocopherol, Zea Mays (Corn) Oil, Octyldodecanol, Sodium PCA, Octyldodecyl Xyloside, Sodium Lactate, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Parfum Fragrance, Carvone, Citrus Aurantium Peel Oil, Geranyl Acetate, Linalyl Acetate, Citral, Linalool, Citronellol, Hexyl Cinnamal, Limonene, Camphor, Menthol, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Eucalyptus Oil, Acetyl Cedrene"
+    },
+    {
+     "nombre": "Nº.9 Bond Protector Nourishing Hair Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850018802826"
+     ],
+     "inci": "Water (Aqua/Eau), Propanediol, Betaine, Quaternium-22, Bis-Aminopropyl Diglycol Dimaleate, Sodium Hyaluronate, Cetrimonium Chloride, Panthenol, Hydroxyethylcellulose, PVP, Guar Hydroxypropyltrimonium Chloride, Furcellaria Lumbricalis Extract, Pelvetia Canaliculata Extract, Xylitylglucoside, Polyquaternium-44, Anhydroxylitol, Maltitol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xylitol, Ethylhexylglycerin, Sodium Hydroxide, Sorbic Acid, Phenoxyethanol, Sodium Benzoate, Fragrance (Parfum), Citral, Citronellol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Nº.10 Bond Shaper Curl Defining Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850056933155"
+     ],
+     "inci": "Water (Aqua/Eau), Xylitylglucoside, Hydroxyethylcellulose, Anhydroxylitol, Bis-Aminopropyl Diglycol Dimaleate, Glycerin, Propanediol, Maltitol, Polyimide-1, Guar Hydroxypropyltrimonium Chloride, Hydroxypropyl Starch Phosphate, Caprylyl/Capryl Glucoside, Xylitol, Aspergillus Ferment, Acacia Senegal Gum, Ethylhexylglycerin, Cetyl Hydroxyethylcellulose, Polyquaternium-10, Glycolipids, Arginine, Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Sodium Cocoyl Glutamate, Olive Oil Polyglyceryl-6 Esters, Sodium Hydroxide, Citric Acid, Trisodium Ethylenediamine Disuccinate, Glyceryl Caprylate, Glyceryl Stearate, PG-Hydroxyethylcellulose Cocodimonium Chloride, Lactic Acid, Cetearyl Alcohol, Cocos Nucifera (Coconut) Fruit Juice, Cocos Nucifera Water, Glyceryl Undecylenate, Phospholipids, Polyglyceryl-10 Dioleate, Polyglyceryl-10 Oleate, Sodium Stearoyl Lactylate, Pelvetia Canaliculata Extract, Disodium Phosphate, Hydrated Silica, Silica Dimethyl Silylate, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Fragrance (Parfum), Limonene, Hexyl Cinnamal, Linalool, Citral, Citronellol"
+    },
+    {
+     "nombre": "Weightless Nourishing Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850056933889",
+      "0850056933896"
+     ],
+     "inci": "Aqua/Water/Eau, Cetyl Alcohol, Polyquaternium-37, Cetearyl Alcohol, Behentrimonium Chloride, Propanediol, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Stearamidopropyl Dimethylamine, Hydrogenated Ethylhexyl Olivate, Polyglyceryl-2 Stearate, Glycerin, Amodimethicone, Fragrance (Parfum), Glyceryl Stearate, Phenoxyethanol, Caprylic/Capric Triglyceride, Stearyl Alcohol, Isopropyl Alcohol, Polyquaternium-6, Quaternium-22, Guar Hydroxypropyltrimonium Chloride, Butyrospermum Parkii (Shea) Butter, C15-19 Alkane, Dimethicone, Panthenol, PPG-3 Benzyl Ether Myristate, Glucomannan, Hydrogenated Olive Oil Unsaponifiables, Polyimide-1, Cetyl Esters, Cocos Nucifera (Coconut) Oil, Pentylene Glycol, Chlorphenesin, Ethylhexylglycerin, Oryza Sativa (Rice) Bran Extract, Bis-Aminopropyl Diglycol Dimaleate, Rosa Canina Fruit Oil, Arginine, Lactic Acid, Sodium Lactate, Sorbitol, Citric Acid, Helianthus Annuus (Sunflower) Extract, Trisodium Ethylenediamine Disuccinate, Hexyl Cinnamal, Limonene, Momordica Cochinchinensis Seed Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Citral, Polyglutamic Acid, 1,2-Hexanediol, Caprylyl Glycol, Sodium Benzoate, Lactobacillus Ferment, Silica Dimethyl Silylate, Sodium Hyaluronate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Yellow 5 (CI 19140), Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Rich Hydration Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850056933919",
+      "0850056933926"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Alcohol, Dodecane, C10-18 Triglycerides, Behentrimonium Methosulfate, Propanediol, Behentrimonium Chloride, Helianthus Annuus (Sunflower) Seed Oil, Persea Gratissima (Avocado) Oil, Brassicamidopropyl Dimethylamine, Glycerin, Hydrogenated Rapeseed Oil, Myristyl Myristate, Carthamus Tinctorius (Safflower) Seed Oil, Brassica Glycerides, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Crambe Abyssinica Seed Oil, Dioctyldodecyl Dodecanedioate, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Propylheptyl Caprylate, Ethyl Oleate, Fragrance (Parfum), Styrene/Butadiene Copolymer, Phenoxyethanol, Quaternium-87, Isopropyl Alcohol, Lactic Acid, Guar Hydroxypropyltrimonium Chloride, Caprylic/Capric Triglyceride, Ceratonia Siliqua (Carob) Gum, Propylene Glycol, Maltodextrin, Chlorphenesin, Ethylhexylglycerin, Bis-Aminopropyl Diglycol Dimaleate, Sclerotium Gum, Arginine, Silybum Marianum Seed Extract, Succinic Acid, Trisodium Ethylenediamine Disuccinate, Hexyl Cinnamal, Limonene, Citral, Olea europaea (Olive) Leaf Extract, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Tocopherol, Sodium Benzoate, TBHQ, Sodium Hydroxide, Yellow 5 (CI 19140), Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Volumizing Blow Dry Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850045076221"
+     ],
+     "inci": "Water (Aqua/Eau), Phyllostachys Bambusoides Extract, Pisum Sativum (Pea) Peptide, Maltodextrin, Maltodextrin/VP Copolymer, PVP, Polysorbate 20, Fragrance (Parfum), Artocarpus Heterophyllus Fruit Extract, Sodium Benzoate, Bis-Aminopropyl Diglycol Dimaleate, Sodium Metabisulfite, Potassium Sorbate, Sodium Phytate, Leuconostoc/Radish Root Ferment Filtrate, Lactobacillus Ferment, Ethylhexylglycerin, Phenoxyethanol, Hexyl Cinnamal, Limonene, Citral, Linalool, Citronellol"
+    },
+    {
+     "nombre": "LashBond Building Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0850018802642"
+     ],
+     "inci": "Water (Aqua/Eau), Butylene Glycol, Glycerin, Hydroxyethylcellulose, Bis-Aminopropyl Diglycol Dimaleate, Palmitoyl Pentapeptide-83 Amide, Acetyl Tetrapeptide-3, Myristoyl Pentapeptide-17, Sodium Hyaluronate, Biotin, Panthenol, Avena Sativa (Oat) Kernel Extract, Pantethine, Aminomethyl Propanol, Rhizobian Gum, Dextran, Trifolium Pratense (Clover) Flower Extract, Citric Acid, Phenoxyethanol, Chlorphenesin, Potassium Sorbate, Sorbic Acid, Benzoic Acid, Sodium Benzoate"
     }
    ]
   }
