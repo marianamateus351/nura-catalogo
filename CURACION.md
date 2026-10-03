@@ -789,7 +789,7 @@ envase europeo.
 4. ~~Chilly (higiene íntima)~~ — **revisada 2026-10-03: NO ENTRA, la marca no publica INCI en ningún sitio oficial.** chilly-intimate.com/es (14 fichas: geles, sin aclarado, toallitas) y /it (22 fichas, también desodorantes íntimos y mascarillas) solo dan ingredientes destacados (mentol, ácido láctico, pH); ni lista ni código. Igual que en la segunda cola (2026-09-25). Sin versión nueva del catálogo (no cambia nada).
 5. ~~Saforelle (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03e): 5 productos, 6 códigos; ver su apartado
 6. ~~Kiko Milano (maquillaje)~~ — **cerrada 2026-10-03** (versión 2026-10-03f): 1054 productos, 1765 códigos; ver su apartado
-7. Rituals (cuerpo, baño y perfumados)
+7. ~~Rituals (cuerpo, baño y perfumados)~~ — **cerrada 2026-10-03** (versión 2026-10-03g): 498 productos (23 de Hogar), 540 códigos; ver su apartado
 8. Beauty of Joseon (K-beauty)
 9. COSRX (K-beauty)
 10. Anua (K-beauty)
@@ -797,6 +797,48 @@ envase europeo.
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Rituals (rituals.com/es-es) — cerrada 2026-10-03 (versión 2026-10-03g): 498 productos, 540 códigos (475 de cuidado personal y 23 de Hogar) — tercera cola, 7
+- **Fuente única, la web española** (Next.js): sitemap `/es-es/sitemap-es-es.xml`, 1.261 fichas. La lista sale del bloque
+  `productDetails → inci` de cada ficha (en ~100 fichas es una referencia `$NN` a otro trozo de la página, resuelta como en
+  essence). El **código** (`eanCode`, EAN-13 `8719134…`) y la categoría salen del **buscador de la propia web** (Algolia,
+  índice `prd_products_b2cweb_es`, la clave de solo-búsqueda que la página publica): 1.000 por listado y los 305 restantes por
+  identificador; las 1.261 fichas quedan con su registro.
+- **Fuera**: 133 cofres, sets, packs y calendarios de adviento (categoría "gifts"), 12 productos para perros, 130 textiles y
+  accesorios (albornoces, toallas, kimonos, bandejas, neceseres…), y **444 fichas sin lista INCI**: casi todas las velas,
+  barritas aromáticas, ambientadores de coche y recargas de Hogar solo dicen "See WARNING" (advertencias de peligro, sin
+  ingredientes). Fuera también 2 productos de cabello con un "Formula" suelto en medio de la lista (marcador de la web, lista
+  incompleta): Leave-in Conditioner y Detox Shampoo.
+- **Hogar (velas y ambientadores son Hogar, no cosmética)**: entran 23 con lista: detergentes, potenciadores de aroma para la
+  ropa, sprays para textiles, 3 velas y las toallitas de limpieza del interior del coche (Car Wipes: Isopropyl Alcohol,
+  Butoxyethanol…). Nombres elegidos para que la app los clasifique en Hogar sin tocar sus reglas ("Ambientador en spray para
+  textiles", "Limpiador multisuperficies para el coche en toallitas"); comprobado con `guessCategoria` en las 498: **0 mal
+  clasificadas**. Jabones y cremas de manos (que la web pone en "home") van como cuidado personal.
+- **Nombres**: tipo en castellano (de la web) + línea + nombre del producto ("Gel de ducha en espuma The Ritual of Sakura
+  Foaming Shower Gel"). Recargas y tamaños con la lista idéntica juntos (39 entradas con varios códigos). Cuando la web vende a
+  la vez dos códigos del mismo producto con **listas distintas** (fórmula nueva y antigua, o "densa"), van separados con la
+  descripción de la web o el código ("— código 8719134164909"); en maquillaje, con el tono.
+- Limpieza: escapes y saltos de línea, "INGREDIENTS"/nombre del producto delante de la lista, paletas por "Shade 1/2",
+  "+/- (MAY CONTAIN)" → "[+/- May Contain: …]", y erratas de la web: "etearyl", "Isoproyl", "Miristate", "Linanool",
+  "Isomethyl Ionon", "Parfume", "Pogostem Cablin", "Argania Spinoza", "Pomegranade", "Chromiun", "Subitilisin",
+  "Polyhydrostearic", "Dilinileate", "A22:E32" (resto de hoja de cálculo pegado a un ingrediente) y un ". t" al final de dos
+  perfumes. Las comas dentro de nombres químicos (detergentes: "1,2,3,4…-octahydro…") se dejan sin espacio.
+- **Contraste con Open Beauty Facts**: 52 de los 540 códigos en OBF, 10 con lista: 1 igual salvo el orden, 1 igual salvo
+  erratas de OCR; el resto difiere por texto de la etiqueta pegado a la lista ("based on ISO 16128 incl. water", "made in
+  Europe"), OCR, o fórmulas anteriores/otros mercados (gel de ducha Amsterdam fotografiado en Hong Kong, crema Mehr en
+  Alemania). Se deja la de la web.
+- **Revisión FP/FN** (`revisa.mjs rituals`): fragancia 430+, salicilato de bencilo 195, fenoxietanol 147, propilenglicol 88,
+  laureth/SLES 112, benzoato de bencilo 47, eugenol 41, isoeugenol 23, lavanda/árbol del té 18, aluminio 15 (antitranspirantes),
+  BIT 12 (detergentes y toallitas del coche, Hogar), microplásticos 7, octisalato 6, D5 3, PTFE 1 (paleta de sombras), aroma 6;
+  talco 8, embarazo 1 (ácido salicílico de una paleta). Sin falsos positivos. **Falso negativo arreglado en la app**:
+  "Lavandula Hybrida (Lavandin) Grosso Herb Oil" (aceite esencial) no saltaba en la 211: añadidos "lavandula hybrida
+  (lavandin) grosso herb oil", "lavandula hybrida grosso herb oil", "lavandula hybrida herb oil". Regresión: la marca, 0
+  cambios en las 6.258 fichas anteriores; el alias, 2 cambios, los dos previstos (Relax Serum y Roll On Serum de Jing).
+- **Decisión de criterio para Mariana (O) — sustancia nueva, no metida**: **Isoamyl p-Methoxycinnamate (amiloxato)**, filtro UV
+  de la misma familia que el octinoxato (regla 63). Hay estudios en células con actividad estrogénica débil, pero mucha menos
+  evidencia que para el octinoxato; está permitido en la UE hasta el 10 %. Aparece en 3 fichas de Rituals (solares Karma) y
+  en 1 de Babaria (Crema Facial Hidratante Rosa Mosqueta). Propuesta si se quiere: alias de la 63 o ficha propia
+  "Amiloxato", riesgo Emergente, texto en la línea del octinoxato pero diciendo que la evidencia es menor.
 
 ### Kiko Milano (kikocosmetics.com/es-es) — cerrada 2026-10-03 (versión 2026-10-03f): 1054 productos, 1765 códigos — tercera cola, 6
 - **Fuente única, la web española** (Next.js): sitemap `/es-es/sitemap.xml` (1.973 fichas de producto, una por tono). Cada
@@ -2831,6 +2873,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Cumlaude Lab | sí (`/es/sitemap.xml`) | **no** (SKU interno): Atida, atado por lista idéntica | sí, INCI con ";" | ver su apartado |
 | Saforelle | es.saforelle.com (4 fichas) + pt.saforelle.com (Shopify) | sí (`data-eans` en ES, `barcode` en PT) | ES casi siempre traducida; PT en INCI | ver su apartado |
 | Kiko Milano | sí (`/es-es/sitemap.xml`, una ficha por tono) | sí, `barcodes` en `__NEXT_DATA__` | sí, `ingredient_list` (de PDF: palabras partidas, hay que limpiar) | ver su apartado |
+| Rituals | sí (`/es-es/sitemap-es-es.xml`) | sí, `eanCode` en su buscador (Algolia `prd_products_b2cweb_es`) | sí, `productDetails.inci` (Hogar casi siempre sin lista) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2894,13 +2937,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-9383 códigos en 84 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+9923 códigos en 85 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 6258 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 6756 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
