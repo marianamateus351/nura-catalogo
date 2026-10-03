@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03r",
+ "version": "2026-10-03s",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68609,6 +68609,39 @@
       "8410104893408"
      ],
      "inci": "Glycerin, Alcohols C10-16 ethoxylated, Sodium Laureth Sulfate, Propylene Glycol, Aqua, Fatty acids C12-18 and C18-unsatd. reaction products with triethanolamine, Parfum, Triethanolamine, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Sulfite, Copolymer of 1-vinylimidazole and 1-vinyl-2-pyrrolidone, Subtilisin, Limonene, BHT, Alpha-Isomethyl ionone, Linalool, Mannanase endo-1 4-β-, Amylase, Colorante"
+    }
+   ]
+  },
+  {
+   "key": "flota",
+   "nombre": "Flota",
+   "productos": [
+    {
+     "nombre": "Lavavajillas a mano Flota Vajillas Active Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410046112070"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Methylisothiazolinone, Benzisothiazolinone, Colorante"
+    },
+    {
+     "nombre": "Detergente líquido Flota Active Plus Esencia para soñar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410046661486"
+     ],
+     "inci": "Aqua, C12-18 Pareth-7, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Citrate, Sodium Cocoate, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Sulfate, Colorante, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Detergente líquido Flota Bouquet",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410046661707"
+     ],
+     "inci": "Aqua, C12-18 Pareth-7, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Citrate, Sodium Cocoate, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Hexyl Cinnamal, Linalool, Limonene, Colorante, Methylchloroisothiazolinone, Methylisothiazolinone"
     }
    ]
   }
