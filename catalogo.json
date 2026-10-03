@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03q",
+ "version": "2026-10-03r",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68534,6 +68534,81 @@
       "8410104883157"
      ],
      "inci": "Aqua, Sodium hypochlorite, sodium carbonate, Lauramine oxide, Sodium hydroxide, Sodium Ethylhexyl Sulfate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "wippexpress",
+   "nombre": "Wipp Express",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas Wipp Express Power Caps Universal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436434690"
+     ],
+     "inci": "Benzenesulfonic Acid Mono-C10-13-Alkyl Derivs. Compds. With Ethanolamine, Alcohol Ethoxylate C12-18 7EO, Aqua, Glycerin, MEA-Cocoate, Propylene Glycol, Aziridine Homopolymer 20-21-EO, Amine Alkoxylate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Benceno C10-13-Alquil Derivados, 2-Aminoetanol Sal Con Ácido Sulfúrico, Sodium Gluconate, Disodium Distyrylbiphenyl Disulfonate, PEG-10, Phenethyl Acetate, Subtilisin, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Polypropylene Terephthalate, Peonile, Cyclohexyl Salicylate, 4-Methyl-3-Decen-5-Ol, Isotridecanol <=2 5 EO, Benzyl Acetone, Methylundecanal, Acetato De Hexilo, Geraniol, Hexahydro-Methanoindenyl Propionate, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Amyl Salicylate, Diphenyl Ether, Butanone Dodecylthio-Cyclohexenyl, 3 6-Dimethyl-3-Cyclohexene-1-Carbaldehyde, Linalyl Acetate, 4-Tert-Butylcyclohexyl Acetate, Methylbenzyl Acetate, Sa 57, Homogeranyl Nitrile, Salicilato De Hexilo, Perfume Remainder, Nerol, 2-T-Butylcyclohexyl Acetate, Ethyl 2-Methylvalerate, P-Cresyl Methylether, Dodecahydro-Tetramethylnaphthofuran, Phenethyl Alcohol, Methylheptanone, Pentamethyl Octahydroindenodioxane, 3-P-Cumenil-2-Metilpropionaldehído, Isobutyl Methyl Tetrahydropyranol, Tetrahidro-4-Metil-2-(2-Metilprop-1-Enil)Pirano, Amylase, Salicilato De 2-Metilbutilo, Terpineol, Camphor, Undecan-4-Ólido, Polymeric Colorant - Bright Yellow, Polymeric Colorant - Blue, Mannanase, Cellulase, Denatonium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "dixan",
+   "nombre": "Dixan",
+   "productos": [
+    {
+     "nombre": "Detergente líquido Dixan Gel Total+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436313100"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Fatty Acids C12-18 Sodium Salts, Sodium Citrate, Sodium Metaborate Anhydrous, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Dipropylene Glycol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Benzisothiazolinone, Hexyl Cinnamal, Phenethyl Acetate, Salicilato De 2-Metilbutilo, 3 5-Bis(2 4-Dimethyl-3-Cyclohexen-1-Yl)Dihydro-1H 3H 5H-Oxazolo[3 4-C]Oxazole, Peonile, Amylase alpha-, Lipase, Polymeric Colorant - Blue, Cellulase, Mannanase"
+    }
+   ]
+  },
+  {
+   "key": "vernel",
+   "nombre": "Vernel",
+   "productos": [
+    {
+     "nombre": "Suavizante concentrado Vernel Cielo Azul",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436441384"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, 2-T-Butylcyclohexyl Acetate, Phenethyl Alcohol, Hexahydro-Methanoindenyl Propionate, Isobornyl Acetate, Gamma-Undecalactone, Tetrahydrolinalool, 4-Methyl-3-Decen-5-Ol, Coumarin, Tetramethyl Acetyloctahydronaphthalenes, Acetato De Hexilo, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Salicilato De Hexilo, Alpha-Isomethyl Ionone, 3-Etoxi-4-Hidroxibenzaldehído, Citronellol, Methylundecanal, A-Terpinyl Acetate, Dodecanal, Amyl Salicylate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Benzyl Salicylate, Benzyl Acetate, Perfume Remainder, 4-Tert-Butylcyclohexyl Acetate, Blue Polymeric Colorant, CI 45100"
+    }
+   ]
+  },
+  {
+   "key": "neutrex",
+   "nombre": "Neutrex",
+   "productos": [
+    {
+     "nombre": "Lejía Neutrex Futura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410436420952"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Sodium 2-(2-Dodecyloxyethoxy)Ethyl Sulphate, Sodium Hydroxide, Ácido Silícico Sal De Sodio, CI 74160"
+    }
+   ]
+  },
+  {
+   "key": "colon",
+   "nombre": "Colon",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas Colon Powercaps Limpieza Higiénica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104893408"
+     ],
+     "inci": "Glycerin, Alcohols C10-16 ethoxylated, Sodium Laureth Sulfate, Propylene Glycol, Aqua, Fatty acids C12-18 and C18-unsatd. reaction products with triethanolamine, Parfum, Triethanolamine, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Sulfite, Copolymer of 1-vinylimidazole and 1-vinyl-2-pyrrolidone, Subtilisin, Limonene, BHT, Alpha-Isomethyl ionone, Linalool, Mannanase endo-1 4-β-, Amylase, Colorante"
     }
    ]
   }

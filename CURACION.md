@@ -798,6 +798,69 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### Hogar · portal 5, Henkel (mysds.henkel.com) — cerrado 2026-10-03 (versión 2026-10-03r): 5 productos, 5 códigos
+- **Las webs de marca no tienen la lista**: el enlace "Ingredientes" de wippexpress.es, somat.es, dixan.es… lleva a
+  **mysds.henkel.com** (SAP UI5 + OData). Apartado "Ingredients Reports (Laundry & Home Care)", app `YPSSW_INGUW`; búsqueda
+  `DocHeaderAllSet?$filter=substringof('*Marca*',ProductName) and Rvlid eq 'ES' and Laiso eq 'ES' and Appid eq 'YPSSW_INGUW'`
+  y el PDF en `DocContentAllSet(…Subid,Sbgvid='INGR_CU_ES',Laiso='ES',Intversion)/DocContentAllData/$value`. Sin login.
+- **España**: 128 fichas (Bref 38, Vernel 26, Somat 21, Neutrex 12, Wipp Express 10, Dixan 8, Micolor 6, Estrella 4, Conejo
+  2, Perlan 1). **Mistol y Colon no tienen ninguna**. Colon no es de Henkel: en España es de **Reckitt** y está en
+  rbeuroinfo.com (20 fichas); se ha curado desde ahí con el método de Reckitt.
+- **Las fichas de Henkel son las más completas de la cola**: tabla con ingrediente, CAS y función, y **el perfume desglosado
+  componente a componente** (Wipp Power Caps lleva 45 ingredientes de perfume); lo que no se desglosa sale como "Perfume
+  Remainder". Extracción por celdas del PDF (`hg/hk/hpdf.py`; las librerías de PDF del entorno están rotas): los cortes de
+  línea dentro de una celda van pegados ("PENTAMETHYLEN|E" → "PENTAMETHYLENE"), y los nombres con corchetes
+  ("2-[2-(DODECYLOXY)ETHOXY]ETHANOL") salen enteros. 7 fichas antiguas son de otro formato (una sola columna) y no se han
+  usado. Nombres en mayúsculas pasados a tipo título; comas internas fuera; "~" (marca de Henkel) fuera.
+- **Códigos**: ni el portal ni las webs de marca los dan. Open Food Facts y Open Products Facts, con foto del envase:
+  - **Entran**: Wipp Express Power Caps Universal (`8410436434690`, OFF; el envase no lleva variante y las otras tres sí
+    —Lavanda, Antimanchas, Antiolores—), Dixan Gel Total+ (`8410436313100`, OFF), Vernel Cielo Azul Concentrado
+    (`8410436441384`, OPF, envase español escaneado en Alemania; ficha V1.16 de julio de 2026 — la otra ficha con el mismo
+    nombre es una V1.0 de **2016** que aún lleva Lilial: versión caducada, como las fechadas de Unilever), Neutrex Futura
+    (`8410436420952`, OPF), y **Colon Powercaps** "Advanced, limpieza higiénica" (`8410104893408`, OPF; ficha Reckitt
+    "Colon Powercaps Limpieza Higiénica", la única que casa).
+  - **Fuera**: Dixan Total 3+1 (`8410436417914`; nombre de envase antiguo, ninguna ficha se llama así), Somat Mano
+    (`8410436318488`; la única ficha es "Somat Mano Eco" y el envase no dice Eco), Mistol (`8410436242677`,
+    `8410436166720`; sin ficha), Colon `8410104891459` (sin nombre ni foto). Bref, Somat, Estrella y Micolor: sin código
+    español en Open*Facts.
+- **Revisión FP/FN sobre las 120 fichas con tabla** (categoría Hogar):
+  - **Falsos positivos corregidos** (con `excluyeSi`; los alias no se tocan):
+    - **117 Dioxinas** saltaba ×2 con "2,4-dimethyl-4,4a,5,9b-tetrahydroindeno(1,2-d)-1,3-dioxin" (ingrediente de perfume,
+      Bref) por parecido con "dioxins": `excluyeSi: ["1,3-dioxin", "1 3-dioxin"]`.
+    - **145 Bronopol** saltaba ×4 con "Propano-1,3-diol" (1,3-propanodiol, disolvente; cápsulas Somat) por el trozo "3-diol" del alias
+      con coma: `excluyeSi: ["propano-1,3-diol", "propano-1 3-diol"]` (solo la forma española; el nombre químico del
+      bronopol lleva "propane" y sigue saltando, comprobado con y sin coma).
+    - Regresión de las dos: **0 cambios en las 7.187 fichas**. Van en el próximo build.
+  - **193 bien en lo perfumado**: salta en 48 fichas cuyo perfume va desglosado sin "Parfum"; la 5 salta en 48 por "Perfume
+    Remainder" o "Parfum". En las que no llevan perfume (Somat geles, Neutrex Futura, lejía Conejo, Vernel Delicado…) no
+    salta ninguna de las dos. **Ojo, decisión W para Mariana**: en las fichas de Henkel sin "Perfume Remainder" el perfume
+    está **entero declarado**, así que el texto de la 193 ("no divulgada, solo alérgenos") no es exacto para ellas: ¿se deja
+    (avisa de que lleva perfume) o se le cambia el texto para cuando la fragancia viene completa? No tocado.
+  - **194/146** (×2, "Methylchloroisothiazolinone And Methylisothiazolinone"), **195 BIT** ×16 y **204 OIT** ×3: reconocidas.
+    **198 DDAC**: ninguna ficha de Henkel lo lleva. Etoxilados: 192 ×17 y OTROS ×64 ("Alcohol Ethoxylate C12-18 7EO" casa con el
+    alias "alcohol ethoxylate").
+  - **Duda para Mariana (no tocado)**: la 191 Microplásticos salta ×3 con "Polypropylene Terephthalate" (polímero antisuciedad
+    de Wipp Power Caps, en el catálogo). Es un poliéster, pero en el detergente va disuelto/disperso; no está claro que sea un
+    microplástico en el sentido del Reglamento (UE) 2023/2055.
+- **Decisión V para Mariana — alias que faltan (no añadidos)**:
+  - 192 Tensioactivos etoxilados: **"Sodium 2-(2-dodecyloxyethoxy)ethyl sulphate"** (×5; es el SLES con su nombre químico;
+    está en **Neutrex Futura**, del catálogo, que hoy no avisa) y **"2-[2-(Dodecyloxy)ethoxy]ethanol"** (×8; es el
+    Laureth-2; está en **Dixan Gel Total+**, del catálogo).
+  - OTROS "Alcoholes etoxilados": "Aziridine Homopolymer 20-21-EO / 20-EO" (×8; polietilenimina etoxilada, ya en S/T/U),
+    "Amine Alkoxylate" (×8), "Isotridecanol <=2,5 EO", "Alpha-epoxide C10-alkyl reaction product with oxo alcohol C11
+    ethoxylated 22 EO", y PEG-10 (×10), PEG-8, PEG-80 (familia PEG-n).
+  - Sin regla y sin propuesta: Tetramethyl Acetyloctahydronaphthalenes (×54), Tetrahydrolinalool (×36), Amyl Salicylate (×26),
+    Methylbenzyl Acetate, Benzyl Acetone, enzimas, fosfonatos, metaborato sódico, hipoclorito.
+
+### Hogar · portal 4, SC Johnson — cerrado 2026-10-03 sin productos
+- **whatsinsidescjohnson.com**, scjohnson.com, glade.com y raid.es responden con "Vercel Security Checkpoint" (429). Con un
+  navegador de verdad (Chromium, TLS verificado) el control termina en "No se pudo verificar tu navegador · Código 21": es
+  un bloqueo antibots del propio sitio y **no se ha intentado saltar**. glade.es, mrmusculo.es y pato.es no existen o no
+  responden; pronto.es es una revista, no la marca. Method: methodhome.com es la tienda de EE. UU. (fórmulas de allí) y
+  methodproducts.co.uk la del Reino Unido; ninguna es lista española.
+- Open*Facts: ningún Glade, Mr Músculo, Pato ni Raid escaneado en España; un Pronto (`5000204011081`, "Spray revitaliza").
+- **Sin lista oficial no entra**: 0 productos. Si Mariana puede pedir a SC Johnson acceso o las fichas en PDF, se retoma.
+
 ### Hogar · portal 3, P&G (info-pg.com) — cerrado 2026-10-03 (versión 2026-10-03q): Fairy +2 códigos; el resto, 0
 - **Las listas están todas**: misma consulta a Contentful que con Fairy (`cf.py`; `hg/pg/raw.json`). España: Ariel 72 fichas
   (+3 Ariel Poderoso), Lenor 53, Don Limpio 20, Ambi Pur 93, Febreze 8, Fairy 63 → 261 fórmulas distintas con lista.
@@ -1074,8 +1137,8 @@ entra. Se cura **por portal**, no por marca, y se cierra cada portal antes de pa
 1. ~~Unilever (whatsinourproducts.com): Skip, Mimosín, Cif, Domestos.~~ — **cerrado 2026-10-03** (versión 2026-10-03o): 1 producto, 1 código; **sin códigos de España en Open Products Facts** (ver su apartado y la decisión R)
 2. ~~Reckitt (rbeuroinfo.com): Finish, Vanish, Calgon, Cillit Bang, Harpic, Woolite, Air Wick.~~ — **cerrado 2026-10-03** (versión 2026-10-03p): 14 productos, 15 códigos (Finish 5/6, Air Wick 5/5, Cillit Bang 4/4); Vanish, Calgon y Woolite sin ninguno que se pueda atar; Harpic no está en el portal de España (ver su apartado, corrección de la 124 y decisión T)
 3. ~~P&G (info-pg.com): Ariel, Lenor, Don Limpio, Ambi Pur, Febreze, y ampliar Fairy.~~ — **cerrado 2026-10-03** (versión 2026-10-03q): Fairy +2 códigos (Ultra Original); Ariel, Lenor, Don Limpio, Ambi Pur y Febreze **sin ningún código español** que se pueda atar (ver su apartado, corrección de la 147 y decisión U)
-4. SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.
-5. Henkel (web de cada marca): Wipp Express, Dixan, Vernel, Neutrex, Estrella, Bref, Somat, Mistol, Colon.
+4. ~~SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.~~ — **cerrado 2026-10-03 sin productos**: el portal y todas las webs del grupo están detrás de un control antibots de Vercel que rechaza el navegador; sin lista oficial no entra nada (ver su apartado)
+5. ~~Henkel (web de cada marca): Wipp Express, Dixan, Vernel, Neutrex, Estrella, Bref, Somat, Mistol, Colon.~~ — **cerrado 2026-10-03** (versión 2026-10-03r): 5 productos, 5 códigos (Wipp Express, Dixan, Vernel, Neutrex y Colon, que en España es de Reckitt); correcciones de la 117 y la 145 y decisión V (ver su apartado)
 6. Persán: Flota, Puntomatic, Tandem.
 7. Frosch y Ecover.
 
@@ -3290,6 +3353,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Finish · Air Wick · Cillit Bang (Reckitt) | webs de marca (`page-data.json`); portal rbeuroinfo.com (Salesforce, Apex) | casi nunca: nombre de la foto oficial (GTIN de Salsify) o `barcodeNumber`; OPF | sí, ficha 648/2004 del portal (con CAS; idioma `es`) | ver su apartado; regla de las dos fórmulas |
+| Wipp Express · Dixan · Vernel · Neutrex (Henkel) | no (las webs enlazan al portal) | no: OFF/OPF con foto | sí, PDF 648/2004 en mysds.henkel.com (OData, con CAS y perfume desglosado) | ver su apartado; Colon es de Reckitt |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
 | Lacer | laceroralhealth.com (web dental oficial) | no: C.N. por formato → EAN 847000+C.N.; `8430340…` por tiendas | sí | ver su apartado |
 | Oral-B (P&G) | oralb.es | sí | **no** (ni UK/DE/PT) | dos fuentes idénticas; ver su apartado |
@@ -3351,13 +3415,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10451 códigos en 96 marcas: NYX 999 · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10456 códigos en 101 marcas: NYX 999 · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7182 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7187 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
