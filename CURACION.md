@@ -794,9 +794,30 @@ envase europeo.
 9. ~~COSRX (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03i): 71 productos, 92 códigos (listados del mercado UE de la tienda oficial); ver su apartado
 10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (25 de envases UE, de tiendas y OBF); ver su apartado
 11. ~~Uriage (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03k): 98 productos, 117 códigos; ver su apartado
-12. Nuxe (dermocosmética)
+12. ~~Nuxe (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03l): 127 productos, 147 códigos; ver su apartado
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Nuxe (es.nuxe.com) — cerrada 2026-10-03 (versión 2026-10-03l): 127 productos, 147 códigos — tercera cola, 12
+- **Fuente única, la web española** (Shopify): `products.json` (417 fichas) y `barcode` del `.js` de cada una (EAN-13
+  `3264680…`). 126 fichas del `products.json` dan 404 en la tienda española (productos de otros mercados: "-en", "-uk"…):
+  fuera, no se venden aquí. La lista está en la pestaña "Ingredientes", tras el aviso "le invitamos a leer la lista de
+  ingredientes en su empaque…" y a veces tras "INGREDIENTS :"; se corta donde empieza el texto (FAQ, "¿Cómo elegir…?") y se
+  descartan las fichas en que lo que sigue no es una lista (programa de fidelidad).
+- **Fuera**: sets de Navidad, cofres, neceseres, dúos, rutinas, kits, "con funda y charms", bolsas, pulseras y accesorios;
+  la vela y el difusor Prodigieux (sin lista); fichas sin código.
+- **Entradas**: tamaños y recargas con la misma lista juntos (Gel limpiador nutritivo 400/750 ml/recarga, Agua micelar
+  calmante ×4, Super Serum 30/50, Huile Prodigieuse Florale ×3, Huile Prodigieuse Or y su roll-on, After-Sun 200/400…); los
+  tres tonos de la BB Cream en una entrada. Productos distintos con la misma lista en la web se quedan separados (SPF30 y
+  SPF50 de los aceites solares, Crema y Leche SPF30, brumas perfumadas y "aguas" de la misma fragancia).
+- **Categoría**: "Gel de Ducha Multiusos" y "Polvos Compactos Bronceadores Multiusos" caían en Hogar por "multiusos"; nombres
+  "Gel de ducha para rostro, cuerpo y cabello" y "Polvos compactos bronceadores para rostro y cuerpo" (comprobado con
+  `guessCategoria`: 0 mal clasificadas).
+- **Contraste con Open Beauty Facts**: 46 de los 147 códigos en OBF, 4 con lista: 2 iguales; el Aceite Solar Oro SPF50
+  (Grecia) es OCR ilegible y el Stick Labios (Francia) es la fórmula anterior (con Polyethylene). Se deja la web.
+- **Revisión FP/FN** (`revisa.mjs nuxe`): fragancia 121, fenoxietanol 11, isoeugenol 6, lavanda 4 ("Lavandula Oil/Extract",
+  alias decidido), propilenglicol 4, benzoato de bencilo 3, salicilato de bencilo 3, octisalato 1, Laureth-23 1. Sin falsos
+  positivos ni negativos ni cambios en el detector. Regresión: 0 cambios en las 6.977 fichas anteriores.
 
 ### Uriage (uriage.com/ES/es) — cerrada 2026-10-03 (versión 2026-10-03k): 98 productos, 117 códigos — tercera cola, 11
 - **Lista: la web española** (`/ES/es/mapa-del-sitio.xml`, 149 fichas, todas con bloque "INCI"). **La web no publica EAN.**
@@ -3051,6 +3072,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | COSRX | Shopify global (`cosrx.com`); el mercado UE (`localization=PT`) tiene sus propias fichas (`_cpnp`) | sí, `barcode` en `.js` (coreano); EAN UE en Druni/Primor/OBF | sí, por ficha ("Ingredient List" o pestaña INGREDIENTS) | ver su apartado |
 | Anua | Shopify (`anua.com`); mercado internacional (`localization=NL`) con fichas propias | sí, `barcode` en `.js` (envase coreano/EE. UU.); EAN UE en Druni/Primor/OBF, atados por lista | sí, pestaña "Ingredients" (OCR de etiqueta: erratas) | ver su apartado |
 | Uriage | sí (`/ES/es/mapa-del-sitio.xml`) | **no**: Primor, Atida, Druni (atados por lista o nombre) | sí, bloque "INCI" (separadores mezclados, palabras partidas) | ver su apartado |
+| Nuxe | Shopify (`es.nuxe.com`); ~30 % del `products.json` da 404 en España | sí, `barcode` en `.js` | sí, pestaña "Ingredientes" (cortar antes de la FAQ) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -3114,13 +3136,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10210 códigos en 89 marcas: NYX 999 · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10357 códigos en 90 marcas: NYX 999 · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 6977 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7104 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
