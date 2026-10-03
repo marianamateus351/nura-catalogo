@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03l",
+ "version": "2026-10-03m",
  "marcas": [
   {
    "key": "larocheposay",
@@ -67780,6 +67780,471 @@
       "3264680037412"
      ],
      "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Prunus Armeniaca (Apricot) Kernel Oil, Squalane, C10-18 Triglycerides, Glyceryl Stearate Citrate, Glycerin, Pentylene Glycol, Behenyl Alcohol, Ribose, Sodium Stearoyl Glutamate, Tocopherol, Chondrus Crispus/Carrageenan, Xanthan Gum, Citric Acid, Helianthus Annuus (Sunflower) Seed Oil, Caffeine, P-Anisic Acid, Sodium Dehydroacetate, Hydrogenated Vegetable Oil, Aloe Barbadensis Leaf Juice Powder, Sodium Hydroxide, Polygonum Fagopyrum (Buckwheat) Seed Extract"
+    }
+   ]
+  },
+  {
+   "key": "martiderm",
+   "nombre": "Martiderm",
+   "productos": [
+    {
+     "nombre": "Acniover Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942728"
+     ],
+     "inci": "Aqua/Water, Cyclopentasiloxane, Silica, Dibutyl Adipate, Niacinamide, Lactococcus Ferment Lysate, Propanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Glycerin, Lactitol, Xylitol, Lactic Acid, Copper Sulfate, Nelumbo Nucifera Flower Extract, Nymphaea Caerulea Flower Extract, Chlorella Vulgaris Extract, Citric Acid, Cyclohexasiloxane, Isoceteth-20, Benzophenone-4, PEG/PPG-18/18 Dimethicone, Dimethicone/Vinyl Dimethicone Crosspolymer, Disodium EDTA, Sodium Metabisulfite, Sodium Chloride, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalyl Acetate, Terpineol, Vanillin, Sodium Benzoate, Potassium Sorbate, CI 19140/Yellow 5"
+    },
+    {
+     "nombre": "Acniover Renovador Nocturno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178680"
+     ],
+     "inci": "Aqua/Water, Cyclopentasiloxane, Niacinamide, Caprylyl Methicone, Glycolic Acid, Propanediol, Mandelic Acid, Sodium Hydroxide, Salicylic Acid, PEG/PPG-18/18 Dimethicone, Magnesium Sulfate, Sodium Chloride, PEG-12 Dimethicone/PPG-20 Crosspolymer, Syringa Vulgaris (Lilac) Extract, Tocopherol, PEG-10 Dimethicone, Dextrin, Maltodextrin, Polydextrose, Disteardimonium Hectorite, Amylopectin, Sodium Metabisulfite, Ethylhexylglycerin, Disodium EDTA, Phenoxyethanol"
+    },
+    {
+     "nombre": "Acniover Spray Corporal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051485"
+     ],
+     "inci": "Aqua/Water, Niacinamide, Glycolic Acid, Sodium Hydroxide, Mandelic Acid, Salicylic Acid, Succinic Acid, PEG-40 Hydrogenated Castor Oil, Phytic Acid, Phenylpropanol, Dextrin, Polydextrose, Amylopectin, 1,2-Hexanediol, Benzyl Alcohol, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalyl Acetate"
+    },
+    {
+     "nombre": "Cremigel Acniover Cicavent",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051478"
+     ],
+     "inci": "Aqua/Water, Silica, Dimethicone, Niacinamide, Butylene Glycol, Propanediol, Dibutyl Adipate, Tranexamic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Asiaticoside, Asiatic Acid, Madecassic Acid, Citric Acid, Tocopherol, Isoceteth-20, Phenylpropanol, Dimethicone Crosspolymer, Caprylyl Glycol, Disodium EDTA, Benzyl Alcohol, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Rosa Centifolia Flower Extract, Hexamethylindanopyran, Linalyl Acetate"
+    },
+    {
+     "nombre": "Amatist Day Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051010"
+     ],
+     "inci": "Aqua/Water, Rosa Moschata Seed Oil, Glycerin, Propanediol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Squalane, Elaeis Guineensis (Palm) Oil, Gossypium Herbaceum (Cotton) Seed Oil, Bidens Pilosa Extract, Linum Usitatissimum (Linseed) Seed Oil, Diethylhexyl Syringylidenemalonate, Synthetic Fluorphlogopite, Amethyst Extract, CI 60725 (Violet 2), Sodium Hyaluronate, Tocopheryl Acetate, Glycine Soja (Soybean) Protein, Tocopherol, Glyceryl Stearate, Dibutyl Adipate, Polysorbate 60, Disodium EDTA, Ethylhexylglycerin, Sorbitan Isostearate, CI 77891 (Titanium Dioxide), Calcium Chloride, Sodium Hydroxide, Caprylic/Capric Triglyceride, Tin Oxide, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Geranyl Acetate, Isoeugenyl Acetate, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Amatist Sérum para pieles maduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051836"
+     ],
+     "inci": "Aqua/Water, Isohexadecane, Coco-Caprylate/Caprate, Propanediol, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Behenyl Alcohol, Dimethicone, Batyl Alcohol, Stearic Acid, Dibutyl Adipate, Arginine PCA, Elaeis Guineensis (Palm) Oil, Gossypium Herbaceum (Cotton) Seed Oil, Bidens Pilosa Extract, Linum Usitatissimum (Linseed) Seed Oil, Diethylhexyl Syringylidenemalonate, Sphingomonas Ferment Extract, Amethyst Extract, CI 60725 (Violet 2), Lecithin, Glycine Soja (Soybean) Protein, Tocopherol, Caprylic/Capric Triglyceride, Disodium EDTA, Ethylhexylglycerin, Calcium Chloride, Sodium Hydroxide, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Geranyl Acetate, Isoeugenyl Acetate, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Black Diamond Proteum Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942322"
+     ],
+     "inci": "Aqua/Water, Helianthus Annuus (Sunflower) Seed Oil, Cyclopentasiloxane, C12-13 Alkyl Lactate, HDI/Trimethylol Hexyllactone Crosspolymer, Niacinamide, Propanediol, Ascorbyl Glucoside, Panthenol, Phenyl Trimethicone, PEG-6 Stearate, Butylene Glycol, Glycerin, Dimethicone, Glycine Max (Soybean) Polypeptide, Tocopheryl Retinoate, Silica, Tocopherol, Acetyl Hexapeptide-51 Amide, Titanium Dioxide, Cyclohexasiloxane, Caprylic/Capric Triglyceride, Polyacrylate Crosspolymer-6, PEG/PPG-18/18 Dimethicone, Ceteth-20, Mica, Dimethicone/Vinyl Dimethicone Crosspolymer, Glyceryl Stearate, Steareth-20, Sodium Hydroxide, Xanthan Gum, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Linalyl Acetate, Geranyl Acetate, Terpineol, Rose Ketones, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol"
+    },
+    {
+     "nombre": "Black Diamond Sublime Expert Eye Contour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589050761"
+     ],
+     "inci": "Aqua/Water, Caprylyl Methicone, Caprylic/Capric Triglyceride, Propanediol, Glycerin, Sodium Potassium Aluminum Silicate, CI 77891 (Titanium Dioxide), Glyceryl Stearate, Dicaprylyl Ether, Ammonium Acryloyldimethyltaurate/VP Copolymer, PEG-12 Dimethicone/PPG-20 Crosspolymer, Mica, Caprylic/Capric/Myristic/Stearic Triglyceride, Glucosyl Hesperidin, Tocopheryl Acetate, Gleditsia Triacanthos Seed Extract, Silica, Sodium Hyaluronate, Glycine Max (Soybean) Polypeptide, Theobroma Cacao (Cocoa) Seed Extract, Acetyl Hexapeptide-8, Tocopherol, PEG-35 Castor Oil, Butylene Glycol, Disodium EDTA, Ethylhexylglycerin, Tin Oxide, Disodium Phosphate, Caprylyl Glycol, Sodium Hydroxide, Sodium Phosphate, Xanthan Gum, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Shot Collagen Lift",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589052161"
+     ],
+     "inci": "Aqua/Water, Glycerin, Propanediol, Dicaprylyl Ether, Butylene Glycol Dicaprylate/Dicaprate, Helianthus Annuus (Sunflower) Seed Oil, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Amodimethicone, Arginine, Hydrolyzed Collagen, Lupinus Albus Seed Extract, Tocopherol, Butylene Glycol, Disodium EDTA, Ethylhexylglycerin, Polysorbate 60, Sorbitan Isostearate, Dimethicone/Vinyl Dimethicone Crosspolymer, Pentylene Glycol, Sodium Hydroxide, Carbomer, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Linalyl Acetate, Geranyl Acetate, Phenoxyethanol, CI 16035 (Red 40)"
+    },
+    {
+     "nombre": "Pigment Zero DSP-Specific Body Areas despigmentante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589053410"
+     ],
+     "inci": "Aqua/Water, Niacinamide, Glycerin, Kojic Dipalmitate, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Silica, Pentylene Glycol, C14-22 Alcohols, Ascorbyl Glucoside, Butylene Glycol, Panthenol, Tranexamic Acid, Butyrospermum Parkii (Shea) Butter, Alpha-Glucan Oligosaccharide, Citronellyl Methylcrotonate, Dimethicone, Sodium Stearoyl Glutamate, Sphingomonas Ferment Extract, Allantoin, Tocopherol, C12-20 Alkyl Glucoside, Polyacrylate Crosspolymer-6, Glyceryl Caprylate, Sodium Hydroxide, Disodium EDTA"
+    },
+    {
+     "nombre": "Essentials Balancing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178239"
+     ],
+     "inci": "Aqua/Water, Bis-PEG-12 Dimethicone, Alcohol Denat., Niacinamide, PEG-20 Castor Oil, Sasa Quelpaertensis Extract, Zea Mays (Corn) Oil, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Calcium Pantothenate, Retinol, Gluconolactone, Spirulina Maxima Extract, Fucus Vesiculosus Extract, Laminaria Digitata Extract, Rosa Moschata Seed Oil, Ascophyllum Nodosum Extract, Porphyra Umbilicalis Extract, Calcium Gluconate, Glycerin, Salicylic Acid, Ascorbyl Glucoside, Calendula Officinalis Flower Extract, Glycine Soja (Soybean) Protein, Lactitol, Xylitol, Citric Acid, Salix Alba (Willow) Bark Extract, Inositol, Tocopheryl Acetate, Tocopherol, Biotin, Propanediol, Propylene Glycol, Disodium EDTA, Dextrin, Polydextrose, Amylopectin, PEG-40 Hydrogenated Castor Oil, Ethylhexylglycerin, Sodium Hydroxide, BHT, Parfum/Fragrance, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Essentials Blooming Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178246"
+     ],
+     "inci": "Aqua/Water, Dimethicone, Glycerin, Bis-PEG/PPG-14/14 Dimethicone, Niacinamide, PEG-12 Dimethicone, Polysilicone-11, Squalane, PEG-20 Castor Oil, Sasa Quelpaertensis Extract, Zea Mays (Corn) Oil, Retinol, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Calcium Pantothenate, Gluconolactone, Spirulina Maxima Extract, Fucus Vesiculosus Extract, Laminaria Digitata Extract, Rosa Moschata Seed Oil, Ascophyllum Nodosum Extract, Porphyra Umbilicalis Extract, Calcium Gluconate, Ascorbyl Glucoside, Allantoin, Calendula Officinalis Flower Extract, Lactitol, Xylitol, Iris Florentina Root Extract, Inositol, Glycine Soja (Soybean) Protein, Tocopheryl Acetate, Tocopherol, Biotin, Propanediol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propylene Glycol, Butylene Glycol, PEG/PPG-18/18 Dimethicone, Polyacrylate Crosspolymer-6, Disodium EDTA, Polysorbate 20, Ethylhexylglycerin, Polysorbate 60, Alcohol Denat., Sodium Hydroxide, Sorbitan Isostearate, Decyl Glucoside, Caprylyl Glycol, Hexylene Glycol, Calcium Chloride, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Essentials Desmaquillante de ojos bifásico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589050754"
+     ],
+     "inci": "Aqua/Water, Isohexadecane, Butylene Glycol, Arginine, Leontopodium Alpinum Flower/Leaf Extract, CI 61565/Green 6, Glycerin, Bisabolol, Lactitol, Xylitol, Citric Acid, Tocopherol, Sodium Chloride, Ethylhexylglycerin, Disodium EDTA, Phenoxyethanol, Cetrimonium Bromide"
+    },
+    {
+     "nombre": "Essentials Espuma micelar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942377"
+     ],
+     "inci": "Aqua/Water, Glycereth-26, Glycerin, Sodium Lauroyl Sarcosinate, Panthenol, Coco-Betaine, Caprylyl/Capryl Glucoside, Leontopodium Alpinum Flower/Leaf Extract, C12-13 Alkyl Lactate, Lactitol, Xylitol, Lactic Acid, Citric Acid, Tocopherol, Polyglyceryl-4 Caprylate/Caprate, Polyglyceryl-4 Laurate/Sebacate, PEG-120 Methyl Glucose Trioleate, Dicaprylyl Ether, Disodium EDTA, Ethylhexylglycerin, Propanediol, Parfum/Fragrance, Hexamethylindanopyran, Phenoxyethanol"
+    },
+    {
+     "nombre": "The Originals Moisturising Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942636"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Glycerin, Isopentyldiol, Propanediol, Betaine, 1,2-Hexanediol, Hydroxyacetophenone, Polyglyceryl-10 Laurate, Carbomer, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Saccharide Isomerate, Dipotassium Glycyrrhizate, Adenosine, Parfum/Fragrance, Phenoxyethanol, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Theanine, Ubiquinone, Ethylhexylglycerin, Ceramide 3, Milk Lipids, Citric Acid, Sodium Citrate, Glutathione, Sodium Acetylated Hyaluronate, Palmitoyl Tripeptide-5, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Sun Care Protector solar facial SPF 30 Active [D] Fluid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051744"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Polyglyceryl-10 Laurate, Propanediol, Ethylhexyl Salicylate, Sorbitan Oleate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Butyl Methoxydibenzoylmethane, Magnesium Aluminum Silicate, Tocopheryl Acetate, Arginine, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Coco-Glucoside, Cichorium Intybus (Chicory) Root Extract, Disodium Lauryl Sulfosuccinate, Citric Acid, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Titanium Dioxide, Butylene Glycol, Phenylpropanol, Disodium EDTA, 1,2-Hexanediol, Ethylhexylglycerin, Xanthan Gum, Parfum/Fragrance, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Care Protector solar facial SPF 50+ Active [D] Fluid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051713"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Silica, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Propanediol, Sorbitan Oleate, Polyglyceryl-4 Laurate/Succinate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Titanium Dioxide, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Tocopheryl Acetate, Arginine, Coco-Glucoside, Cichorium Intybus (Chicory) Root Extract, Disodium Lauryl Sulfosuccinate, Citric Acid, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Magnesium Aluminum Silicate, Butylene Glycol, Phenylpropanol, Disodium EDTA, 1,2-Hexanediol, Ethylhexylglycerin, Xanthan Gum, Parfum/Fragrance, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Care Protector solar facial SPF 50+ Active [D] Hydra Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589052505"
+     ],
+     "inci": "Aqua/Water, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, BisEthylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Propanediol, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Hydrogenated Dilinoleyl Alcohol, Arginine, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer, Polyglyceryl-4 Laurate, Microcrystalline Cellulose, Sphingomonas Ferment Extract, Sorbitan Laurate, Coco-Glucoside, Succinic Acid, Mentha Piperita (Peppermint) Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Cichorium Intybus (Chicory) Root Extract, Disodium Lauryl Sulfosuccinate, Cellulose Gum, Leuconostoc/Radish Root Ferment Filtrate, Tocopheryl Acetate, Theobroma Cacao (Cocoa) Seed Extract, Saccharide Isomerate, Tocopherol, Butylene Glycol, Sodium Hydroxide, Ethylhexylglycerin, Caprylyl Glycol, Phenylpropanol, Disodium EDTA, Parfum/Fragrance, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Care Protector solar corporal SPF 50+ Active [D] Body Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051768"
+     ],
+     "inci": "Aqua/Water, Dibutyl Adipate, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Ethylhexyl Triazone, Hydrogenated Dimer Dilinoleyl/Dimethylcarbonate Copolymer, Butyl Methoxydibenzoylmethane, Propanediol, Silica, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Titanium Dioxide, Ceteareth-12, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Tocopheryl Acetate, Arginine, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Sphingomonas Ferment Extract, Coco-Glucoside, Cichorium Intybus (Chicory) Root Extract, Disodium Lauryl Sulfosuccinate, Potassium Laurate, Citric Acid, Tocopherol, Butylene Glycol, Disodium EDTA, Ethylhexylglycerin, Parfum/Fragrance, Phenoxyethanol"
+    },
+    {
+     "nombre": "Sun Care After Sun Refreshing Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051799"
+     ],
+     "inci": "Aqua/Water, Dicaprylyl Ether, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Dimethicone, Biosaccharide Gum-2, Erythritol, Chondrus Crispus Powder, Benzoic Acid, Sodium PCA, Citric Acid, Tocopherol, Cetyl Alcohol, Glyceryl Stearate, PEG-75 Stearate, Carbomer, Ceteth-20, Steareth-20, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Sodium Hydroxide, Parfum/Fragrance, Phenoxyethanol, Sorbic Acid"
+    },
+    {
+     "nombre": "Pigment Zero DSP-Mask Mascarilla despigmentante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435235"
+     ],
+     "inci": "Kaolin, Aqua/Water, Ascorbyl Glucoside, Glycerin, Arbutin, Kojic Dipalmitate, Polyglyceryl-4 Laurate, Alcohol Denat., Salicylic Acid, Titanium Dioxide, Sorbitan Oleate, Sodium Hydroxide, Tranexamic Acid, Succinic Acid, Menthol, Citric Acid, Tocopherol, Aluminum Hydroxide, Propylene Glycol, Sodium Metabisulfite, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol"
+    },
+    {
+     "nombre": "Pigment Zero DSP-Bright Ampollas despigmentantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942278"
+     ],
+     "inci": "Aqua/Water, Ascorbyl Glucoside, HDI/Trimethylol Hexyllactone Crosspolymer, Bellis Perennis (Daisy) Flower Extract, Triethylhexanoin, Propanediol, Tranexamic Acid, Lepidium Sativum Sprout Extract, Hexylresorcinol, Parfum/Fragrance, Sodium Phytate, Glycerin, Lecithin, Ascorbic Acid, Silica, Soy Isoflavones, Melissa Officinalis Leaf Extract, Tocopherol, Sodium Hydroxide, Polyacrylate Crosspolymer-6, Polysorbate 80, Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Metabisulfite, Ethylhexylglycerin, Alcohol Denat., Phenethyl Alcohol, Disodium Phosphate, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Terpineol, Phenoxyethanol"
+    },
+    {
+     "nombre": "Pigment Zero DSP-Serum iluminador despigmentante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435563"
+     ],
+     "inci": "Aqua/Water, HDI/Trimethylol Hexyllactone Crosspolymer, Bellis Perennis (Daisy) Flower Extract, Triethylhexanoin, Propanediol, Lepidium Sativum Sprout Extract, Hexylresorcinol, Sodium Phytate, Glycerin, Lecithin, Silica, Soy Isoflavones, Melissa Officinalis Leaf Extract, Polyacrylate Crosspolymer-6, Polysorbate 80, Alcohol, Alcohol Denat., Phenethyl Alcohol, Disodium Phosphate, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Terpineol, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol"
+    },
+    {
+     "nombre": "Platinum Lip Supreme Balm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178611"
+     ],
+     "inci": "Hydrogenated Castor Oil/Sebacic Acid Copolymer, Hydrogenated Polyisobutene, Polybutene, Squalane, Phenyl Trimethicone, Aqua/Water, Isododecane, PEG-30 Dipolyhydroxystearate, Olea Europaea (Olive) Fruit Oil, Ethylene/Propylene/Styrene Copolymer, Isohexadecane, Menthyl Ethylamido Oxalate, Calcium Sodium Borosilicate, Butylene/Ethylene/Styrene Copolymer, Propylene Carbonate, Portulaca Pilosa Extract, Olea Europaea (Olive) Fruit Extract, CI 75470 (Carmine), Tripeptide-1, Palmitoyl Tripeptide-38, Glycine Soja (Soybean) Protein, Sodium Hyaluronate, Olea europaea (Olive) Leaf Extract, Tocopherol, Cetearyl Ethylhexanoate, Caprylyl Glycol, Disteardimonium Hectorite, Ethylhexylglycerin, CI 77891 (Titanium Dioxide), Sorbitan Isostearate, Calcium Chloride, Xanthan Gum, BHT, Sucrose Cocoate, Tin Oxide, Alcohol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance, Vanillin, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Platinum Ampollas Night Renew",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178024",
+      "8437000435587",
+      "8437000435594"
+     ],
+     "inci": "Aqua/Water, Propanediol, Glycolic Acid, Lactic Acid, Sodium Hydroxide, Sodium Hyaluronate, Citric Acid, Malic Acid, Tartaric Acid, Sodium DNA, Soluble Collagen, Isoceteth-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Citrate, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Terpineol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Shot Vitamin C Antiox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051065"
+     ],
+     "inci": "Dimethicone, Isohexadecane, Ascorbic Acid, Propylene Glycol, Isododecane, Polysilicone-11, Cetyl PEG/PPG-10/1 Dimethicone, Ethoxydiglycol, PEG-12 Dimethicone, Disteardimonium Hectorite, Acetyl Zingerone, Diethylhexyl Syringylidenemalonate, Propylene Carbonate, Ricinus Communis (Castor) Seed Oil, Zingiber Officinale (Ginger) Root Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Tocopherol, Titanium Dioxide, Dibutyl Adipate, Caprylyl Glycol, Mica, Ethylhexylglycerin, Caprylic/Capric Triglyceride, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Coumarin, Hexyl Cinnamal, Limonene, Citrus Aurantium Bergamia (Bergamot) Peel Oil, Linalyl Acetate, Juniperus Virginiana Oil, CI 15985 (Yellow 6 Aluminum Lake)"
+    },
+    {
+     "nombre": "The Originals Flash Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942759"
+     ],
+     "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Isohexadecane, Silica, Dimethicone, Pentylene Glycol, Phenyl Trimethicone, Glycerin, Polyglyceryl-4 Laurate, PEG/PPG-18/18 Dimethicone, Propanediol, Parfum/Fragrance, Succinic Acid, Vegetable Amino Acids, Sodium Lactate, Hyaluronic Acid, Silanetriol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Titanium Dioxide, Isoceteth-20, Mica, Butylene Glycol, Polyacrylate Crosspolymer-6, PVP, Glyceryl Caprylate, Carbomer, Polysorbate 20, Hexamethylindanopyran, Dimethyl Phenethyl Acetate, Phenoxyethanol, Sodium Benzoate"
+    },
+    {
+     "nombre": "The Originals Ampollas Flash",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435600",
+      "8437000435761"
+     ],
+     "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Isohexadecane, Silica, Dimethicone, Pentylene Glycol, Phenyl Trimethicone, Glycerin, Polyglyceryl-4 Laurate, PEG/PPG-18/18 Dimethicone, Propanediol, Parfum/Fragrance, Succinic Acid, Vegetable Amino Acids, Sodium Lactate, Hyaluronic Acid, Silanetriol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Titanium Dioxide, Isoceteth-20, Mica, Butylene Glycol, Polyacrylate Crosspolymer-6, PVP, Glyceryl Caprylate, Carbomer, Polysorbate 20, Hexamethylindanopyran, Dimethyl Phenethyl Acetate, Phenoxyethanol, Sodium Benzoate"
+    },
+    {
+     "nombre": "The Originals Ampollas Proteos Liposome",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435105",
+      "8437000435112"
+     ],
+     "inci": "Aqua/Water, Propylene Glycol, Glycerin, Glycine Soja (Soybean) Protein, Hamamelis Virginiana (Witch Hazel) Leaf Extract, PEG-40 Hydrogenated Castor Oil, Lecithin, Ascorbyl Palmitate, Tocopherol, Glyceryl Polyacrylate, Pentylene Glycol, Alcohol, Sodium Hydroxide, Potassium Phosphate, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Terpineol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "The Originals Proteos Screen SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437019178062"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Propylene Glycol, Ethylhexyl Methoxycinnamate, Polymethyl Methacrylate, PEG-8, Ethylhexyl Salicylate, Homosalate, Butyl Methoxydibenzoylmethane, Caprylyl Methicone, Dimethicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Potassium Aluminum Silicate, Silica, Ethylhexyl Triazone, Titanium Dioxide, PEG-12 Dimethicone/PPG-20 Crosspolymer, Lecithin, Tocopherol, Glycine Soja (Soybean) Oil, Glycine Soja (Soybean) Protein, Theobroma Cacao (Cocoa) Seed Extract, Hyaluronic Acid, Citric Acid, Silanetriol, Ascorbyl Palmitate, Sodium Lactate, Ascorbic Acid, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Phytic Acid, Beta-Sitosterol, Squalene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Disodium EDTA, Ethylhexylglycerin, Sodium Hydroxide, Hydrogenated Phosphatidylcholine, Lysolecithin, Xanthan Gum, Calcium Chloride, BHT, Parfum/Fragrance, Acetyl Cedrene, Linalyl Acetate, Pogostemon Cablin Oil, Phenoxyethanol, Sorbic Acid, Potassium Sorbate, Sodium Benzoate, CI 77891 (Titanium Dioxide)"
+    },
+    {
+     "nombre": "The Originals Proteos Screen SPF 50+ Clair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589054455"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Titanium Dioxide, Ethylhexyl Triazone, Butylene Glycol, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polyglyceryl-4 Laurate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Hydroxyacetophenone, Arginine, Succinic Acid, Sorbitan Laurate, Hydrogenated Dilinoleyl Alcohol, Sodium Stearoyl Glutamate, Glyceryl Behenate, Polyglyceryl-6 Octastearate, Cellulose Acetate, Coco-Glucoside, Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer, Pullulan, Magnesium Stearate, Propylene Glycol Stearate, Disodium Lauryl Sulfosuccinate, Lecithin, Tocopheryl Acetate, Citric Acid, Glycine Soja (Soybean) Oil, Glycine Soja (Soybean) Protein, Theobroma Cacao (Cocoa) Seed Extract, Hyaluronic Acid, Silanetriol, Tocopherol, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Phytic Acid, Beta-Sitosterol, Squalene, Propanediol, Xanthan Gum, Sclerotium Gum, Disodium EDTA, Hydrogenated Phosphatidylcholine, Lysolecithin, Calcium Chloride, Parfum/Fragrance, Acetyl Cedrene, Linalyl Acetate, Pogostemon Cablin Oil, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, CI 77891 (Titanium Dioxide), CI 77492 (Iron Oxides), CI 77491 (Iron Oxides), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "The Originals Proteos Screen SPF 50+ Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589054448"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide, Polyglyceryl-4 Laurate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Glyceryl Behenate, Hydroxyacetophenone, Polyglyceryl-6 Octastearate, Arginine, Succinic Acid, Sorbitan Laurate, Hydrogenated Dilinoleyl Alcohol, Sodium Stearoyl Glutamate, Coco-Glucoside, Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer, Disodium Lauryl Sulfosuccinate, Pullulan, Tocopheryl Acetate, Lecithin, Citric Acid, Glycine Soja (Soybean) Oil, Glycine Soja (Soybean) Protein, Theobroma Cacao (Cocoa) Seed Extract, Hyaluronic Acid, Silanetriol, Chlorella Vulgaris Extract, Tocopherol, Lactic Acid, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Phytic Acid, Beta-Sitosterol, Squalene, Magnesium Aluminum Silicate, Propanediol, Xanthan Gum, Disodium EDTA, Sclerotium Gum, Hydrogenated Phosphatidylcholine, Lysolecithin, Calcium Chloride, Parfum/Fragrance, Acetyl Cedrene, Linalyl Acetate, Pogostemon Cablin Oil, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Platinum Ampollas Photo Age HA+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435372",
+      "8437000435440"
+     ],
+     "inci": "Dimethicone, Aqua/Water, Propanediol, Ascorbyl Glucoside, Ascorbic Acid, Bifida Ferment Lysate, PEG-12 Dimethicone, Ethoxydiglycol, Sodium Hydroxide, Vaccinium Macrocarpon/Cranberry) Seed Oil, Butylene Glycol, Citronellyl Methylcrotonate, Hydrolyzed Sodium Hyaluronate, Glycerin, Glyceryl Linoleate, Retinyl Palmitate, Sodium Lactate, Sodium PCA, Glyceryl Oleate, Glycine Max (Soybean) Polypeptide, Glyceryl Linolenate, Fructose, Glycine, Inositol, Lactic Acid, Niacinamide, Urea, Dimethylmethoxy Chromanol, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Glycine Soja (Soybean) Oil, Sorbitan Oleate, Polysorbate 80, Glyceryl Palmitate, Ethylhexylglycerin, Sodium Metabisulfite, Glyceryl Stearate, Xanthan Gum, Parfum/Fragrance, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Dimethyl Phenethyl Acetate, Geranyl Acetate, Menthol, Vanillin, Rose Ketones, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Black Diamond Sérum Advanced Renew",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589053588"
+     ],
+     "inci": "Aqua/Water, Butylene Glycol, Lactobionic Acid, Glycerin, Coco-Caprylate/Caprate, Dimethicone, Glycolic Acid, Butylene Glycol Dicaprylate/Dicaprate, Pentylene Glycol, Polyglyceryl-4 Laurate, Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ectoin, Triethylhexanoin, Squalane, Succinic Acid, Sorbitan Laurate, Microcrystalline Cellulose, Pullulan, Sphingomonas Ferment Extract, Cellulose Gum, Pseudostellaria Heterophylla Extract, Glycine Max (Soybean) Polypeptide, Lecithin, Silica, Acetyl Hexapeptide-8, Xanthan Gum, Glyceryl Caprylate, Polysorbate 60, Sclerotium Gum, Disodium EDTA, Sorbitan Isostearate, Disodium Phosphate, Sodium Phosphate, Caprylyl Glycol, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Black Diamond Sérum Absolute Lift",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589052574"
+     ],
+     "inci": "Aqua/Water, Coco-Caprylate/Caprate, Dicaprylyl Ether, Glycerin, Propanediol, Potassium Cetyl Phosphate, Triethylhexanoin, Phenyl Trimethicone, Polyglyceryl-4 Laurate, Succinic Acid, Tetrapeptide-1, Vegetable Amino Acids, Glycine Max (Soybean) Polypeptide, Tocopherol, Acetyl Tetrapeptide-2, PVP, Polyacrylate Crosspolymer-6, Sclerotium Gum, Disodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate, Geranyl Acetate, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Black Diamond Sérum Ultimate Antiox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589052581"
+     ],
+     "inci": "Aqua/Water, Propanediol, Ascorbyl Glucoside, Dimethicone, Butylene Glycol, Glycerin, Tocopheryl Acetate, Potassium Hydroxide, PEG-35 Castor Oil, Trehalose, Microcrystalline Cellulose, Glutathione, Isomerized Linoleic Acid, Pullulan, Sphingomonas Ferment Extract, Tricholoma Matsutake Extract, Terminalia Ferdinandiana Fruit Extract, Hydrolyzed Sodium Hyaluronate, Cellulose Gum, Haematococcus Pluvialis Extract, Tetrasodium Glutamate Diacetate, Astaxanthin, Ergothioneine, Aspergillus Ferment, Phosphatidylcholine, Glycine Max (Soybean) Polypeptide, Lecithin, Silica, Citric Acid, Tocopherol, Phytic Acid, Beta-Sitosterol, Squalene, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Xanthan Gum, Propylene Glycol, Sclerotium Gum, Disodium EDTA, 1,2-Hexanediol, Potassium Chloride, Ethylhexylglycerin, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexamethylindanopyran, Acetyl Cedrene, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Flash Body Glow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589053397"
+     ],
+     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycerin, Panthenol, Paraffinum Liquidum/Mineral Oil, Caprylic/Capric Triglyceride, Dimethicone, Propanediol, Isododecane, Mica, Cetyl Alcohol, Butylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates/Ethylhexyl Acrylate Copolymer, Microcrystalline Cellulose, Propylene Carbonate, Sphingomonas Ferment Extract, Hydroxyproline, Cellulose Gum, Laureth-21, Aspartic Acid, Aminomethyl Propanol, Vegetable Amino Acids, Silanetriol, Tocopherol, Ethylhexyl Salicylate, Glyceryl Stearate, PVP, PEG-75 Stearate, Disteardimonium Hectorite, Ceteth-20, Steareth-20, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Tin Oxide, Caprylyl Glycol, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Amyl Salicylate, Phenoxyethanol, Sodium Benzoate, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides)"
+    },
+    {
+     "nombre": "Pigment Zero DSP-Crema Renovación despigmentante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435556"
+     ],
+     "inci": "Aqua/Water, Propanediol, HDI/Trimethylol Hexyllactone Crosspolymer, Bellis Perennis (Daisy) Flower Extract, Propylene Glycol Isoceteth-3 Acetate, Triethylhexanoin, C14-22 Alcohols, Isohexadecane, Glycolic Acid, Lactic Acid, Lepidium Sativum Sprout Extract, Polyacrylate Crosspolymer-6, Sodium Hydroxide, Hexylresorcinol, Parfum/Fragrance, Sodium Phytate, Citric Acid, Malic Acid, Tartaric Acid, Glycerin, Lecithin, Silica, Soy Isoflavones, Melissa Officinalis Leaf Extract, PEG-6 Stearate, Triethanolamine, C12-20 Alkyl Glucoside, Polysorbate 80, Alcohol, Ceteth-20, Glyceryl Stearate, Steareth-20, Disodium EDTA, Alcohol Denat., Phenethyl Alcohol, BHT, Disodium Phosphate, BHA, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Terpineol, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol"
+    },
+    {
+     "nombre": "Shot Hyaluronic Firm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051089"
+     ],
+     "inci": "Aqua/Water, Dimethicone, Glycerin, Propanediol, Hydrolyzed Sodium Hyaluronate, Polysorbate 20, Sphingomonas Ferment Extract, Amodimethicone, Sodium Acetylated Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Glycine Max (Soybean) Polypeptide, Tocopherol, Polyacrylate Crosspolymer-6, Disodium EDTA, Ethylhexylglycerin, Pentylene Glycol, Sodium Hydroxide, Dimethicone/Vinyl Dimethicone Crosspolymer, Carbomer, Xanthan Gum, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Linalyl Acetate, Geranyl Acetate, Dimethyl Phenethyl Acetate, Pinene, Phenoxyethanol, Potassium Sorbate, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Shot Arbutin Dark Spots",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589051157"
+     ],
+     "inci": "Aqua/Water, Arbutin, Dimethicone, Propanediol, Silica, Dibutyl Adipate, Ethoxydiglycol, PEG-8, Ammonium Acryloyldimethyltaurate/VP Copolymer, Glycyrrhetinic Acid, Diethylhexyl Syringylidenemalonate, Sodium Lactate, Tocopherol, Isoceteth-20, Phenylpropanol, Caprylyl Glycol, Dimethicone Crosspolymer, Disodium EDTA, Caprylic/Capric Triglyceride, Sodium Hydroxide, Benzyl Alcohol, Parfum/Fragrance, CI 16035 (Red 40), CI 19140/Yellow 5, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Black Diamond Epigence Expert Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589053465",
+      "8436589053502"
+     ],
+     "inci": "Aqua/Water, Dimethicone, Glycerin, Caprylic/Capric Triglyceride, Tribehenin PEG-20 Esters, Caprylic/Capric/Myristic/Stearic Triglyceride, Propylene Glycol Isoceteth-3 Acetate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetyl Alcohol, Ectoin, Pentylene Glycol, Heptapeptide-6, Tocopheryl Acetate, Glyceryl Linoleate, Glycine Max (Soybean) Polypeptide, Glyceryl Oleate, Retinyl Palmitate, Glyceryl Linolenate, Acetyl Hexapeptide-8, Tocopherol, Glycine Soja (Soybean) Oil, Dimethiconol, Mica, Xanthan Gum, Disodium EDTA, Polysorbate 60, Sorbitan Isostearate, Ethylhexylglycerin, Tin Oxide, Glyceryl Palmitate, Disodium Phosphate, Sodium Hydroxide, Caprylyl Glycol, Glyceryl Stearate, Sodium Phosphate, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Linalyl Acetate, Geranyl Acetate, Terpineol, Rose Ketones, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, CI 16035 (Red 40), CI 77891 (Titanium Dioxide)"
+    },
+    {
+     "nombre": "Black Diamond Epigence Expert Repair Night",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589053489",
+      "8436589053519"
+     ],
+     "inci": "Aqua/Water, Glycerin, Dicaprylyl Ether, Triethylhexanoin, Behenyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, Dicaprylyl Carbonate, Batyl Alcohol, Stearic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Glycyrrhetinic Acid, Tocopheryl Acetate, Heptapeptide-6, Lecithin, Glycine Max (Soybean) Polypeptide, Tocopherol, Acetyl Hexapeptide-8, Glyceryl Stearate, PEG-100 Stearate, Caprylyl Glycol, Caprylic/Capric Triglyceride, Disodium EDTA, Sodium Hydroxide, Disodium Phosphate, Sodium Phosphate, Xanthan Gum, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Linalyl Acetate, Geranyl Acetate, Terpineol, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, CI 16035 (Red 40)"
+    },
+    {
+     "nombre": "Black Diamond Ampollas Epigence Optima SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942919",
+      "8437015942902"
+     ],
+     "inci": "Aqua/Water, Cyclopentasiloxane, Octocrylene, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, Butyl Methoxydibenzoylmethane, PEG-30 Dipolyhydroxystearate, PEG-10 Dimethicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Titanium Dioxide, Butylene Glycol, Glycerin, Disteardimonium Hectorite, Dimethicone, Tocopheryl Acetate, Glycogen, Lecithin, Glycine Max (Soybean) Polypeptide, Glycine Soja (Soybean) Oil, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Citric Acid, Acetyl Hexapeptide-8, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Phytic Acid, Beta-Sitosterol, Squalene, Ethylhexyl Methoxycinnamate, Magnesium Sulfate, Sodium Chloride, Disodium EDTA, Glyceryl Stearate, Ethylhexylglycerin, Hydrogenated Phosphatidylcholine, Lysolecithin, Disodium Phosphate, Sodium Phosphate, Caprylyl Glycol, Xanthan Gum, BHT, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Acetyl Cedrene, Linalyl Acetate, Geranyl Acetate, Terpineol, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Skin Repair Arnika Gel Crema SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015942148"
+     ],
+     "inci": "Aqua/Water, Octocrylene, Ethylhexyl Methoxycinnamate, Propylene Glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Butyloctyl Salicylate, Panthenol, Ethoxydiglycol, Potassium Cetyl Phosphate, Tranexamic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Glycerin, Phytonadione Epoxide, Arginine, Coco-Glucoside, Disodium Lauryl Sulfosuccinate, AESCULUS HIPPOCASTANUM (HORSE CHESTNUT) EXTRACT, Arnica Montana Flower Extract, Vaccinium Myrtillus Leaf Extract, Boswellia Serrata Gum, Citric Acid, Tocopherol, Nicotiana Benthamiana Hexapeptide-40 Sh-Oligopeptide-1, Dipropylene Glycol, Dimethiconol, Disodium EDTA, Xanthan Gum, Ethylhexylglycerin, BHT, Phosphate Buffered Saline, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Rose Ketones, Phenoxyethanol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Skin Repair Calamina Plus Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435433"
+     ],
+     "inci": "Aqua/Water, Zinc Carbonate, Zinc Oxide, Oxidized Corn Oil, Propylene Glycol, C14-22 Alcohols, Cetyl Alcohol, Allantoin, Centella Asiatica Extract, Boswellia Serrata Gum, Dipropylene Glycol, C12-20 Alkyl Glucoside, Phenethyl Alcohol, Caprylyl Glycol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Skin Repair Cicra-Vass Crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437004614025"
+     ],
+     "inci": "Aqua/Water, Caprylic/Capric Triglyceride, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Panthenol, Rosa Moschata Seed Oil, Steareth-21, Dimethicone, Glyceryl Stearate, Steareth-2, Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Glycyrrhetinic Acid, Tocopheryl Acetate, Faex Extract/Yeast Extract, AESCULUS HIPPOCASTANUM (HORSE CHESTNUT) EXTRACT, Calendula Officinalis Flower Extract, Morus Alba Fruit Extract, Ruscus Aculeatus Root Extract, Allantoin, Chamomilla Recutita (Matricaria) Flower Water, Hamamelis virginiana (Witch Hazel) Leaf Water, Citric Acid, Hypericum Perforatum Flower Extract, Tocopherol, Alcohol Denat., Polyacrylate Crosspolymer-6, Magnesium Aluminum Silicate, Isopropyl Alcohol, Disodium EDTA, Xanthan Gum, BHT, Parfum/Fragrance, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Geraniol, Terpineol, Rose Ketones, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "The Originals Pro-Reg 15 Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435051"
+     ],
+     "inci": "Aqua/Water, C12-15 Alkyl Benzoate, Glycolic Acid, Lactic Acid, Sodium Hydroxide, Glycerin, Octyldodecanol, Oxidized Corn Oil, Silica, Lactococcus Ferment Lysate, Mandelic Acid, PEG-30 Dipolyhydroxystearate, Citric Acid, Polyacrylate-13, Octyldodecyl Xyloside, Polyacrylate Crosspolymer-6, Tartaric Acid, Malic Acid, Tocopheryl Acetate, Glyceryl Linoleate, Glyceryl Oleate, Glyceryl Linolenate, Tocopherol, Glycine Soja (Soybean) Oil, Stearyl Dimethicone, Polyisobutene, Magnesium Sulfate, Octadecene, Disodium EDTA, Polysorbate 20, Sorbitan Isostearate, Glyceryl Palmitate, Glyceryl Stearate, Sodium Chloride, Parfum/Fragrance, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Trimethylbenzenepropanol, Amyl Salicylate, Dimethyl Phenethyl Acetate, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "The Originals Ampollas Fórmula Nº10 HD Color Touch SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436589050532"
+     ],
+     "inci": "Aqua/Water, Dibutyl Adipate, Ethylhexyl Salicylate, Propanediol, Ascorbyl Glucoside, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, C12-13 Alkyl Lactate, Ethylhexyl Triazone, Dimethicone, Butyl Methoxydibenzoylmethane, Tocopheryl Acetate, Cetyl PEG/PPG-10/1 Dimethicone, Phenyl Trimethicone, Polyglyceryl-4 Laurate, Succinic Acid, Sorbitan Laurate, Acrylates/Ethylhexyl Acrylate Copolymer, Sphingomonas Ferment Extract, Microcrystalline Cellulose, Triethoxycaprylylsilane, Cellulose Gum, Laureth-21, Aminomethyl Propanol, Ascorbic Acid, Glycine Soja (Soybean) Protein, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Sodium Hydroxide, PEG/PPG-18/18 Dimethicone, Butylene Glycol, Disodium EDTA, Ethylhexylglycerin, Calcium Chloride, 1,2-Hexanediol, Biosaccharide Gum-4, Caprylyl Glycol, Parfum/Fragrance, Acetyl Cedrene, Linalyl Acetate, Pogostemon Cablin Oil, Phenoxyethanol, Potassium Sorbate, CI 77891 (Titanium Dioxide), CI 77492 (Iron Oxides), CI 77491 (Iron Oxides), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "The Originals Ampollas Proteos Hydra Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435013",
+      "8437000435020"
+     ],
+     "inci": "Propylene Glycol, Aqua/Water, Ascorbic Acid, Glycine Soja (Soybean) Protein, Polysorbate 80, Glyceryl Linoleate, Glyceryl Oleate, Glyceryl Linolenate, Tocopherol, Glycine Soja (Soybean) Oil, Glyceryl Palmitate, Glyceryl Stearate, Parfum/Fragrance, Hexamethylindanopyran, Dimethyl Phenethyl Acetate, Anethole, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Platinum Expression Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000435471"
+     ],
+     "inci": "Aqua/Water, Triethylhexanoin, HDI/Trimethylol Hexyllactone Crosspolymer, Ethoxydiglycol, Glycerin, Cyclopentasiloxane, Tocopheryl Acetate, Dipropylene Glycol, PEG-35 Castor Oil, Polyacrylate Crosspolymer-6, Sodium Hyaluronate, Bisabolol, Glyceryl Linoleate, Secale Cereale (Rye) Seed Extract, Boswellia Serrata Gum, Silica, Retinyl Palmitate, Commiphora Mukul Resin Extract, Tripleurospermum Maritimum Extract, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Citric Acid, Acetyl Octapeptide-3, Tocopherol, Sucrose Palmitate, Phenethyl Alcohol, Caprylyl Glycol, Pentylene Glycol, Caprylic/Capric Triglyceride, T-Butyl Alcohol, BHA, BHT, Triethanolamine, Parfum/Fragrance, Phenoxyethanol, Potassium Sorbate, Sorbic Acid"
     }
    ]
   }

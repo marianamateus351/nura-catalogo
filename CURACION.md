@@ -795,8 +795,37 @@ envase europeo.
 10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (25 de envases UE, de tiendas y OBF); ver su apartado
 11. ~~Uriage (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03k): 98 productos, 117 códigos; ver su apartado
 12. ~~Nuxe (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03l): 127 productos, 147 códigos; ver su apartado
-13. Martiderm (dermocosmética)
+13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. Olaplex (capilar)
+
+### Martiderm (martiderm.com/es) — cerrada 2026-10-03 (versión 2026-10-03m): 50 productos, 59 códigos — tercera cola, 13
+- **Lista: la web española** (Drupal). El `sitemap.xml` es de 2020 y sus URL de producto dan 404; las fichas vivas salen de
+  los listados de gamas y tipos (`/es/productos/...`, 91 fichas). Cada una trae "Ingredientes" (con el aviso de que la web
+  puede ir por delante del envase). **La web no publica EAN.** Fuera los 7 complementos alimenticios (cápsulas de Acniover,
+  Amatist, Sun Care, DSP-Antiox, Hair System ×2, Legvass y el DSP-Bright Elixir bebible), como en Cumlaude, y "Eye Correct"
+  (estuche día + noche, dos listas). Erratas: palabras partidas por guion de PDF ("Coco-Caprylate/Ca - prate", "So - dium"),
+  la ligadura "ffi" perdida ("Rosmarinus Ocinalis", "Calendula O cinalis") y "Aesculus, Hippocastanum".
+- **Códigos**: Druni (72 fichas), Primor (48) y Atida (139). Casi ninguna da lista, así que se atan **por nombre
+  inequívoco**, revisados uno a uno; cuando la tienda sí da lista y coincide (Desmaquillante bifásico, Proteos Hydra Plus,
+  salvo que la web añade los componentes del perfume) se anota. **No se atan** los de lista distinta (fórmula anterior):
+  Black Diamond Skin Complex Advanced `8437015942315` (con D5), Pigment Zero DSP-Cover `8437000435334` (Atida: con 4-MBC),
+  Amatist Night `8436589051027`, Proteos Hydra Plus SP; ni los de nombre dudoso (Proteos Screen "Color", Vital Age, Krono-Age,
+  Hydra Plus crema, Driosec: no están en la web). Sin código en ningún sitio: Acniover cremigel activo, gel purificante y
+  Restore, Hair System loción/ampollas/champús, Crema de manos, Legvass, Neck-Line, Redensactiv, DSP fps 50/booster/exo-melan…
+- **Contraste con Open Beauty Facts**: 1 de los 59 códigos en OBF, sin lista.
+- **Revisión FP/FN** (`revisa.mjs martiderm`): fragancia 44, fenoxietanol 38, **galaxólido 16** (Hexamethylindanopyran,
+  declarado dentro del perfume), propilenglicol 11, octisalato 9, BHT 8, D5 5, octinoxato 3, D6 2, Laureth-21 2, BHA 2,
+  octocrileno 2, benzofenona-4 1, homosalato 1, PMMA 1; sulfitos 5; embarazo 9 (retinol, Retinyl Palmitate y salicílico).
+  **Falso positivo corregido en la app (regla 38, propilenglicol)**: "Propylene Glycol Isoceteth-3 Acetate" (otro éster, como
+  el diheptanoato) disparaba la 38 → añadido a su `excluyeSi`. Regresión: 2 cambios, los dos previstos (Epigence Expert
+  Repair y DSP-Crema Renovación pierden la 38); la marca, 0 cambios en las 7.104 fichas anteriores. Sin aviso, a propósito:
+  copolímeros de estireno (regla 80 solo en Hogar).
+- **Decisión de criterio para Mariana (Q) — sustancia nueva, no metida**: **ácido kójico / Kojic Dipalmitate** (2 fichas:
+  DSP-Specific Body Areas y DSP-Mask). El ácido kójico está en la lista de la Comisión de posibles disruptores endocrinos en
+  cosmética que revisó el SCCS; su dictamen (SCCS/1637/21, 2022) lo da por seguro hasta el 1 % en cremas de cara y manos, con
+  efectos sobre el tiroides solo en animales a dosis orales altas. El dipalmitato es un éster liposoluble del que hay menos
+  datos. Propuesta si se quiere: ficha "Ácido kójico (y dipalmitato)", riesgo Emergente, texto: "en revisión como posible
+  disruptor; el SCCS lo considera seguro hasta el 1 % en cara y manos", alias "kojic acid, kojic dipalmitate, ácido kójico".
 
 ### Nuxe (es.nuxe.com) — cerrada 2026-10-03 (versión 2026-10-03l): 127 productos, 147 códigos — tercera cola, 12
 - **Fuente única, la web española** (Shopify): `products.json` (417 fichas) y `barcode` del `.js` de cada una (EAN-13
@@ -3073,6 +3102,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Anua | Shopify (`anua.com`); mercado internacional (`localization=NL`) con fichas propias | sí, `barcode` en `.js` (envase coreano/EE. UU.); EAN UE en Druni/Primor/OBF, atados por lista | sí, pestaña "Ingredients" (OCR de etiqueta: erratas) | ver su apartado |
 | Uriage | sí (`/ES/es/mapa-del-sitio.xml`) | **no**: Primor, Atida, Druni (atados por lista o nombre) | sí, bloque "INCI" (separadores mezclados, palabras partidas) | ver su apartado |
 | Nuxe | Shopify (`es.nuxe.com`); ~30 % del `products.json` da 404 en España | sí, `barcode` en `.js` | sí, pestaña "Ingredientes" (cortar antes de la FAQ) | ver su apartado |
+| Martiderm | sitemap de 2020 (404); fichas por los listados de gamas | **no**: Druni, Primor, Atida (por nombre) | sí, "Ingredientes" | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -3136,13 +3166,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10357 códigos en 90 marcas: NYX 999 · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10416 códigos en 91 marcas: NYX 999 · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7104 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7154 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
