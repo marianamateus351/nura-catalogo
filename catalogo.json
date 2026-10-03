@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03o",
+ "version": "2026-10-03p",
  "marcas": [
   {
    "key": "larocheposay",
@@ -68387,6 +68387,151 @@
       "8717163617694"
      ],
      "inci": "Aqua, Calcium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate, C9-11 Pareth-5, Phenoxyethanol, Sodium Oleate, Parfum, Acrylates Copolymer, Sodium Hydroxide, Linalool, Citronellol, Dimethicone, Hexyl Cinnamal, Eucalyptus Globulus Oil, Terpineol"
+    }
+   ]
+  },
+  {
+   "key": "finish",
+   "nombre": "Finish",
+   "productos": [
+    {
+     "nombre": "Pastillas para lavavajillas Finish Ultimate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104914110"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Alcohols C12-15-branched and linear ethoxylated propoxylated, Sodium Carbonate Peroxide, Tetrasodium Etidronate, TAED, 2-Propenoic acid polymer with 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonic acid sodium salt, Oxirane methyl- polymer with oxirane ether with 2 2-bis(hydroxymethyl-1 3-propanediol (4:1), Sodium Bicarbonate, Polycarboxylate sodium salt, Subtilisin, Sodium Acrylic Acid/MA Copolymer, Propylene Glycol, Parfum, Dimethicone, Amylase α-, Bis(N N' N''-trimethyl-1 4 7-triazacyclononane)-trioxo-dimanganese (IV) di(hexafluorophosphate)monohydrate, Colorante, Limonene, Linalool, Citronellol, Citrus Aurantium Peel Oil, Urea N N'-bis[3-(dimethylamino)propyl]- polymer with 1 1'-oxybis[2-chloroethane]"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Quantum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104915216"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Sodium Sulfate, Tetrasodium Etidronate, 2-Propenoic acid polymer with 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonic acid sodium salt, Ceteareth-25, Alcohols C12-15-branched and linear ethoxylated propoxylated, TAED, Sodium Acrylic Acid/MA Copolymer, Sodium Polyacrylate, Parfum, Dimethicone, Subtilisin, PEG-400, Colorante, Bis(N N' N''-trimethyl-1 4 7-triazacyclononane)-trioxo-dimanganese (IV) di(hexafluorophosphate)monohydrate, Limonene, Linalool, Citronellol, Citrus Aurantium Peel Oil, Amylase α-"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power All in 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104893057",
+      "8410104890339"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Fatty Alcohol Alkoxylate, Polyethylene glycol MW >4100, TAED, Tetrasodium Etidronate / Tetrasodium (1-hydroxythylidene) diphosphate, Polyethylene glycol MW <4100, Sodium Bicarbonate, Acrylic copolymers, Maleic copolymers, Cellulose, Polyvinyl Alcohol, Aqua, Citric Acid, Cellulose Gum, Sodium Acrylic Acid/MA Copolymer, Glycerin, Dimethicone, Calcium Stearate, Glyceryl Stearate, Propylene Glycol, Sodium Sulfate, Subtilisin, Titanium Dioxide, Magnesium Stearate, Kaolin, Amylase, Magnesium Sulfate, Sodium Thiosulfate, Sucrose, Talc, Colorante, Parfum"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power All in 1 Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104915261"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Fatty Alcohol Alkoxylate, Polyethylene glycol MW >4100, TAED, Tetrasodium Etidronate, Polyethylene glycol MW <4100, Sodium Bicarbonate, Acrylic copolymers, Maleic copolymers, Cellulose, Polyvinyl Alcohol, Aqua, Citric Acid, Cellulose Gum, Sodium Acrylic Acid/MA Copolymer, Glycerin, Dimethicone, Calcium Stearate, Glyceryl Stearate, Propylene Glycol, Sodium Sulfate, Subtilisin, Titanium Dioxide, Magnesium Stearate, Kaolin, Amylase, Magnesium Sulfate, Sodium Thiosulfate, Sucrose, Talc, Colorante, Parfum, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power Essential Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104914431"
+     ],
+     "inci": "Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Citrate, 2-propenoic acid homopolymer sodium salt sulfonated, Phosphonic acid (1-hydroxyethylidene)bis- tetrasodium salt, TAED, Sodium Bicarbonate, Polyethylene glycol MW <4100, Polyethylene glycol MW >4100, Fatty Alcohol Alkoxylate, Cellulose, Aqua, Sodium Acrylic Acid/MA Copolymer, Sodium Silicate, Citric Acid, Cellulose Gum, Sodium Sulfate, Dimethicone, Glycerin, Subtilisin, Magnesium Stearate, Polyvinyl Alcohol, Kaolin, Titanium Dioxide, Amylase, Colorante, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "airwick",
+   "nombre": "Air Wick",
+   "productos": [
+    {
+     "nombre": "Recambio de ambientador eléctrico Air Wick Flor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104017026"
+     ],
+     "inci": "Parfum, Linalool, Citronellol, Limonene, Alpha-Isomethyl Ionone, Citral, Cinnamyl Alcohol, Eugenol"
+    },
+    {
+     "nombre": "Recambio de ambientador eléctrico Air Wick Lirio de Luna y Satén de Seda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104017231"
+     ],
+     "inci": "Parfum, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citral, Limonene, Coumarin, Cinnamal, Isoeugenol"
+    },
+    {
+     "nombre": "Recambio de ambientador eléctrico Air Wick Flor de Cerezo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601217132086"
+     ],
+     "inci": "Parfum, Linalool, Benzyl Salicylate, Geraniol, Limonene, Citronellol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Ambientador automático Air Wick Freshmatic Oasis Turquesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104882891"
+     ],
+     "inci": "Butane, Alcohol, Propane, Parfum, Aqua, Linalool, T-butyl Alcohol, Limonene, Coumarin, Citral, Eugenol, Denatonium benzoate"
+    },
+    {
+     "nombre": "Ambientador automático Air Wick Freshmatic Delicias de Verano",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104882884"
+     ],
+     "inci": "Butane, Alcohol Denat., Propane, Parfum, t-Butyl Alcohol, Denatonium Benzoate, Tetrahydrolinalool"
+    }
+   ]
+  },
+  {
+   "key": "cillitbang",
+   "nombre": "Cillit Bang",
+   "productos": [
+    {
+     "nombre": "Limpiador de baños Cillit Bang Active Fresh Frescor Marino (colgador WC)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104895198"
+     ],
+     "inci": "Sodium Sulphate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium toluene sulphonate, Parfum, Sodium citrate, Colorante, Aqua, Alpha-Isomethyl Ionone, Eugenol, Coumarin, Benzyl Alcohol, Limonene"
+    },
+    {
+     "nombre": "Gel WC Cillit Bang Power Gel con lejía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104445119"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Myristamine Oxide, Sodium Hydroxide, Potassium Cocoate, Parfum"
+    },
+    {
+     "nombre": "Limpiador Cillit Bang Higiene Multiusos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3059940003609"
+     ],
+     "inci": "Aqua, Sodium hypochlorite, sodium carbonate, Lauramine oxide, Sodium hydroxide, Sodium Ethylhexyl Sulfate, Parfum"
+    },
+    {
+     "nombre": "Limpiador de baños Cillit Bang Suciedad y Manchas de Humedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104883157"
+     ],
+     "inci": "Aqua, Sodium hypochlorite, sodium carbonate, Lauramine oxide, Sodium hydroxide, Sodium Ethylhexyl Sulfate, Parfum"
     }
    ]
   }
