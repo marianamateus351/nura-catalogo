@@ -793,10 +793,66 @@ envase europeo.
 8. ~~Beauty of Joseon (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03h): 16 productos, 18 códigos (lista del envase UE/ROW); ver su apartado
 9. ~~COSRX (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03i): 71 productos, 92 códigos (listados del mercado UE de la tienda oficial); ver su apartado
 10. ~~Anua (K-beauty)~~ — **cerrada 2026-10-03** (versión 2026-10-03j): 36 productos, 60 códigos (25 de envases UE, de tiendas y OBF); ver su apartado
-11. Uriage (dermocosmética)
+11. ~~Uriage (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03k): 98 productos, 117 códigos; ver su apartado
 12. Nuxe (dermocosmética)
 13. Martiderm (dermocosmética)
 14. Olaplex (capilar)
+
+### Uriage (uriage.com/ES/es) — cerrada 2026-10-03 (versión 2026-10-03k): 98 productos, 117 códigos — tercera cola, 11
+- **Lista: la web española** (`/ES/es/mapa-del-sitio.xml`, 149 fichas, todas con bloque "INCI"). **La web no publica EAN.**
+  Las listas vienen con separadores mezclados (●, •, " - ", –, —), prefijos de referencia ("[43585-08] Ingredients :",
+  "ÖSSZETEVŐK:"), mayúsculas y palabras partidas por PDF ("Hydro Genated", "Gly- Cerin", "Dicaprylyl Carbo Nate"):
+  normalizadas y las palabras partidas unidas contra el vocabulario del catálogo; erratas: "GLYCERYLOL E AT E", "COCO -
+  GLUCOSIDE", "OCTYLDODECANOLv", "GLYCIN", "TOCOPHERYL ACETATE MANGANESE GLUCONATE" (falta una coma).
+- **Códigos de tiendas**: Primor (`gs1:gtin`, 120 fichas, muchas con lista), Atida (`gtin13`, 143 fichas; su "composición"
+  suele ser texto comercial) y Druni (8). Se atan **por lista igual a la de la web** (la nota de Primor "la lista de
+  ingredientes está sujeta a modificaciones…" pegada al último ingrediente se quita antes de comparar) o, si la tienda no da
+  lista, **por nombre inequívoco**. Revisados a mano los ~100 casos dudosos.
+- **No se atan** (lista de la tienda distinta, fórmula anterior): Gyn-Phy gel y geles de ducha surgras (con DMDM Hydantoin),
+  Hyséac Gel Limpiador (`3661434009990`/`9983`), Crema de Agua Rica `3661434004995`, Gel de Agua `3661434007835`, Bálsamo
+  labial, DS Hair Anticaspa, Roséliane Crema antirojeces y Fluido limpiador, Xémose Bruma SOS, Bébé leche hidratante,
+  Derm-Phy exfoliante `3661434034749`; ni los de nombre y lista cruzados: Primor "Crema Hidratante SPF50+"
+  `3661434009822` (lista de la Leche 200 ml) y "Leche Solar SPF50+" `3661434009846` (lista de la Crema), Roséliane CC Cream
+  SPF30 y SPF50+ de Primor (con la lista de otra), Primor Dépiderm Sérum (con la lista del agua limpiadora de bebé; el código
+  entra por Atida). Fuera sets, packs, dúos y toallitas.
+- **Fichas de la web sospechosas, fuera**: "1er Aceite limpiador" de bebé (misma lista que el 1er Champú), "Gyn-Phy bruma"
+  (con la lista de la crema lavante de bebé, según Primor), 1ª Crema lavante (Primor da otra lista) y "Xémose C8+ Crema
+  facial" (misma lista que el cuidado de párpados; Atida da para la crema facial la del cerato). Sin código en ningún sitio:
+  ~45 fichas (Age Lift noche piel nueva, fluido y contorno, Bariéderm-Cica spray, gel y manos, sticks, Bariésun aceite
+  SPF30, brumas, leche 200 ml, Dépiderm espuma y tratamiento intensivo, DS loción y champú queratorreductor, Gyn-8,
+  Kératosane, Pain surgras…).
+- **Fichas con la misma lista en la web** (y así entran, cada una con su nombre): Bariésun Crema mineral = 1ª Crema mineral
+  de bebé, Crema sin perfume = Leche niños, Crema SPF50+ = Leche 100 ml, Fluido antimanchas = Dépiderm Cuidado de día,
+  Fluido Mat = Hyséac Fluido SPF50+, Spray niños = Spray sin perfume, Agua termal = Agua termal de bebé. Cica Daily crema y
+  su recarga, una entrada con los dos códigos.
+- **Contraste con Open Beauty Facts**: 41 de los 117 códigos en OBF (Francia, Bélgica…), 3 con lista: 1ª Crema mineral y
+  Hyséac 3-Regul SPF30 iguales salvo OCR; Xémose bálsamo `3661434006968` con la fórmula anterior ("Baume Oléo-Apaisant",
+  C13-15 Alkane…); la web y Atida dan la actual (C8+).
+- **Revisión FP/FN** (`revisa.mjs uriage`): fragancia 51, propilenglicol 14, fenoxietanol 13, microplásticos 14 (PMMA 8,
+  Nylon-12 5, polietileno 1), etoxilados 17 (laureth sulfatos), BHT 6, octisalato 6, octinoxato 5, octocrileno 3, diazolidinil
+  urea 1 (Bariéderm Crema), D5, D6, PTFE (Hyséac Mat') y aluminio 1; talco 2 (Pruriced); embarazo 10 (Retinyl Palmitate de
+  Age Absolu/Age Lift y salicílico de Hyséac). Sin falsos positivos ni cambios en el detector. Regresión: 0 cambios en las
+  6.879 fichas anteriores. Sin aviso, a propósito: Styrene/Acrylates Copolymer (regla 80 solo en Hogar).
+
+### 2026-10-03 · Cola de HOGAR (pedida por Mariana el 2026-10-03)
+Va después de lo que quede de la tercera cola (Uriage, Nuxe, Martiderm, Olaplex). Método de PRODUCTOS DE LIMPIEZA
+(Reglamento 648/2004, Anexo VII): la lista oficial sale del portal del fabricante, no del envase; sin lista oficial no
+entra. Se cura **por portal**, no por marca, y se cierra cada portal antes de pasar al siguiente.
+1. Unilever (whatsinourproducts.com): Skip, Mimosín, Cif, Domestos.
+2. Reckitt (rbeuroinfo.com): Finish, Vanish, Calgon, Cillit Bang, Harpic, Woolite, Air Wick.
+3. P&G (info-pg.com): Ariel, Lenor, Don Limpio, Ambi Pur, Febreze, y ampliar Fairy.
+4. SC Johnson (whatsinsidescjohnson.com): Glade, Pronto, Mr Músculo, Pato, Raid, Method.
+5. Henkel (web de cada marca): Wipp Express, Dixan, Vernel, Neutrex, Estrella, Bref, Somat, Mistol, Colon.
+6. Persán: Flota, Puntomatic, Tandem.
+7. Frosch y Ecover.
+
+Reglas: solo productos que se venden en España; EAN de la ficha del portal, si no de la web de la marca o de Open Products
+Facts, anotando el origen; categoría Hogar en todas (ambientadores, velas e insecticidas también); variantes de perfume:
+una entrada por variante si la lista cambia (suele cambiar en los alérgenos). Revisión FP/FN al cerrar cada portal con
+regresión sobre el catálogo entero; vigilar la 193 (fragancia solo alérgenos: salta en lo perfumado, no en lo "sin
+perfume"), la 194 (isotiazolinonas), la 198 (DDAC) y los etoxilados, con los nombres de cada portal (no siempre INCI). Si un
+portal usa nombres que ninguna regla reconoce, **dejar escrita la lista de alias que faltan antes de añadirlos**. Al cerrar
+cada portal, versión nueva de catalogo.json y una línea: productos, códigos, reglas que saltan, correcciones.
 
 ### Anua (anua.com) — cerrada 2026-10-03 (versión 2026-10-03j): 36 productos, 60 códigos — tercera cola, 10
 - **Fuente: la tienda oficial** (Shopify; anua.global y anua.us son la misma). anua.eu no responde desde aquí y no hay tienda
@@ -2994,6 +3050,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Beauty of Joseon | Shopify global (`beautyofjoseon.com`, sin tienda UE) | sí, `barcode` en `.js` (EAN coreano, el mismo en la UE) | sí, dos listas: EE. UU. y UE/ROW ("AQUA…"): se usa la UE | ver su apartado |
 | COSRX | Shopify global (`cosrx.com`); el mercado UE (`localization=PT`) tiene sus propias fichas (`_cpnp`) | sí, `barcode` en `.js` (coreano); EAN UE en Druni/Primor/OBF | sí, por ficha ("Ingredient List" o pestaña INGREDIENTS) | ver su apartado |
 | Anua | Shopify (`anua.com`); mercado internacional (`localization=NL`) con fichas propias | sí, `barcode` en `.js` (envase coreano/EE. UU.); EAN UE en Druni/Primor/OBF, atados por lista | sí, pestaña "Ingredients" (OCR de etiqueta: erratas) | ver su apartado |
+| Uriage | sí (`/ES/es/mapa-del-sitio.xml`) | **no**: Primor, Atida, Druni (atados por lista o nombre) | sí, bloque "INCI" (separadores mezclados, palabras partidas) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -3057,13 +3114,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10093 códigos en 88 marcas: NYX 999 · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10210 códigos en 89 marcas: NYX 999 · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 6879 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 6977 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

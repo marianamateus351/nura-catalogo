@@ -1,5 +1,5 @@
 {
- "version": "2026-10-03j",
+ "version": "2026-10-03k",
  "marcas": [
   {
    "key": "larocheposay",
@@ -65704,6 +65704,913 @@
       "8809640736148"
      ],
      "inci": "Zea Mays (Corn) Starch, Kaolin (CI 77004), Sodium Bicarbonate, Sodium Cocoyl Isethionate, Sodium Lauroyl Glutamate, Citric Acid, Sodium Polyacrylate, Diglycerin, Allantoin, Water, Maltodextrin, Papain, Oryza Sativa (Rice) Powder, Oryza Sativa (Rice) Lees Extract, Oryza Sativa (Rice) Bran Water, Butylene Glycol, 1,2-Hexanediol, Ceramide NP, Ascorbic Acid, Alpha-Arbutin, Glucose, Oryza Sativa (Rice) Extract, Protease, Dipropylene Glycol, Glycerin, Tartaric Acid, Lactic Acid, Oryza Sativa (Rice) Seed Protein, Hydrolyzed Rice Protein, Caprylyl Glycol"
+    }
+   ]
+  },
+  {
+   "key": "uriage",
+   "nombre": "Uriage",
+   "productos": [
+    {
+     "nombre": "Bariésun Bruma termal autobronceadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434001499",
+      "3661434028151"
+     ],
+     "inci": "Aqua/Water/Eau, Butylene Glycol, Dihydroxyacetone, Glycerin, Phenoxyethanol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Parfum/Fragrance, Erythrulose, Citric Acid, Polyquaternium-51, Nitrogen"
+    },
+    {
+     "nombre": "Aceite desmaquillante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009433"
+     ],
+     "inci": "Paraffinum Liquidum/Mineral Oil, PEG-20 Glyceryl Triisostearate, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Parfum/Fragrance, Vaccinium Macrocarpon/Cranberry) Seed Oil"
+    },
+    {
+     "nombre": "Aceite limpiador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434034831"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Sodium Laureth Sulfate, Caprylyl/Capryl Glucoside, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Glutamate, Sodium Cocoamphoacetate, Parfum/Fragrance, Laureth-2, PEG/PPG-120/10 Trimethylolpropane Trioleate, Citric Acid, Sodium Benzoate, Sodium Chloride, Polyquaternium-10, Coco-Glucoside, Glyceryl Oleate, Sodium Acetate"
+    },
+    {
+     "nombre": "Age Absolu Crema rosa redensificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009181"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, C13-15 Alkane, Cetearyl Isononanoate, Butyrospermum Parkii (Shea) Butter, Diglycerin, Polysorbate 60, Tribehenin, Propanediol, Silica, Sorbitan Stearate, Glycerin, 1,2-Hexanediol, Cetyl Alcohol, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Polyacrylate, Hydroxyacetophenone, Potassium Cetyl Phosphate, Mica, Xanthan Gum, Parfum/Fragrance, Citric Acid, Caesalpinia Spinosa Fruit Extract, CI 77891 (Titanium Dioxide), Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Sodium Hyaluronate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, CI 14700/Red 4"
+    },
+    {
+     "nombre": "Age Absolu Mascarilla de noche redensificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009198"
+     ],
+     "inci": "Aqua/Water/Eau, Diglycerin, Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, 1,2-Hexanediol, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hyaluronate, Parfum/Fragrance, Caesalpinia Spinosa Fruit Extract, Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Sodium Hydroxide, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Punica Granatum Fruit Extract, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, CI 14700/Red 4"
+    },
+    {
+     "nombre": "Age Absolu Sérum micro-redensificante booster de colágeno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009976"
+     ],
+     "inci": "Aqua/Water/Eau, Propanediol, Glycerin, Betaine, Dicaprylyl Carbonate, Pentylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butyrospermum Parkii (Shea) Butter, Polyglycerin-3, Limnanthes Alba (Meadowfoam) Seed Oil, Castor Oil/Ipdi Copolymer, Helianthus Annuus (Sunflower) Seed Oil, Caesalpinia Spinosa Fruit Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Parfum/Fragrance, Carbomer, Sodium Hyaluronate, Ascorbyl Tetraisopalmitate, Sodium Hydroxide, Tocopheryl Acetate, Kappaphycus Alvarezii Extract, Trisodium Ethylenediamine Disuccinate, Butylene Glycol, Retinyl Palmitate, Lupinus Albus Seed Extract, Acacia Senegal Gum, Xanthan Gum, Tocopherol, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, CI 19140/Yellow 5, CI 17200 (Red 33), Spirulina Platensis Extract"
+    },
+    {
+     "nombre": "Age Lift Crema de noche revitalizante anti-arrugas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009228"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Dimethicone, Squalane, Propylheptyl Caprylate, Isododecane, Butyrospermum Parkii (Shea) Butter, Dicaprylyl Carbonate, Glycerin, Butylene Glycol, Diglycerin, Jojoba Esters, 1,2-Hexanediol, Cetyl Alcohol, Steareth-2, Steareth-21, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Retinyl Palmitate, Sodium Hyaluronate, Croton Lechleri Resin Extract, Tocopherol, Sodium Polyacrylate, Polyglycerin-3, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Parfum/Fragrance, Polyacrylate Crosspolymer-6, Chlorphenesin, o-CYMEN-5-OL, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Adenosine, Lecithin, Citric Acid, Theobroma Cacao (Cocoa) Seed Extract, t-BUTYL ALCOHOL, Lepidium Sativum Sprout Extract"
+    },
+    {
+     "nombre": "Agua micelar termal pieles mixtas a grasas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009365",
+      "3661434009341"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Glycerin, Polyaminopropyl Biguanide, Parfum/Fragrance, Pentylene Glycol, Citric Acid, Lens Esculenta (Lentil) Seed Extract, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate"
+    },
+    {
+     "nombre": "Agua micelar termal pieles sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009334",
+      "3661434009662",
+      "3661434009204"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Glycerin, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum/Fragrance, Prunus Armeniaca (Apricot) Fruit Extract, Citric Acid, Ascorbic Acid"
+    },
+    {
+     "nombre": "Bebé 1er Bálsamo óleo-calmante anti-prurito",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008139"
+     ],
+     "inci": "Aqua/Water/Eau, C13-15 Alkane, Hydrogenated Polydecene, Butyrospermum Parkii (Shea) Butter, Cetearyl Ethylhexanoate, Isononyl Isononanoate, Beheneth-25, Butylene Glycol, Glycerin, 1,2-Hexanediol, Shorea Stenoptera Seed Butter, Brassica Campestris (Rapeseed) Sterols, Chlorphenesin, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, o-CYMEN-5-OL, Tocopheryl Acetate, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Sodium Hydroxide, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides, Citric Acid"
+    },
+    {
+     "nombre": "Bariéderm-Cica Labios bálsamo protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005459"
+     ],
+     "inci": "Paraffinum Liquidum/Mineral Oil, Cera Microcristallina (Microcrystalline Wax), Paraffin, Hydrogenated Polydecene, Dimethicone, Triacontanyl PVP, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Glycerin, Squalane, Brassica Campestris (Rapeseed) Sterols, Tocopheryl Acetate, Synthetic Wax, Ethylene/Propylene Copolymer, Polyethylene, Polyquaternium-61, BHT"
+    },
+    {
+     "nombre": "Bariéderm-Cica Aceite dermatológico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434011955"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Squalane, Calophyllum Inophyllum Seed Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Bisabolol, Tocopheryl Acetate, Borage Seed Oil Aminopropanediol Amides"
+    },
+    {
+     "nombre": "Bariéderm-Cica Crema con Cu-Zn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004735"
+     ],
+     "inci": "Aqua/Water/Eau, Paraffinum Liquidum/Mineral Oil, Sodium Chloride, Zinc Oxide, Cetyl PEG/PPG-10/1 Dimethicone, Propylheptyl Caprylate, Butylene Glycol, Hydrogenated Polydecene, Panthenol, Glycerin, Dimethicone, Disteardimonium Hectorite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Methylpropanediol, Tocopheryl Acetate, Triacontanyl PVP, Copper Gluconate, Propanediol, Propylene Carbonate, Citric Acid, Glutamylamidoethyl Indole, Polyquaternium-61, Hyaluronic Acid, Silanetriol, Borage Seed Oil Aminopropanediol Amides"
+    },
+    {
+     "nombre": "Bariéderm Crema aislante reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434000508"
+     ],
+     "inci": "Aqua/Water/Eau, Hydrogenated Polydecene, Octyldodecanol, Cetyl PEG/PPG-10/1 Dimethicone, Butylene Glycol, Stearyl Dimethicone, Glycerin, PVP, Squalane, Magnesium Sulfate, Brassica Campestris (Rapeseed) Sterols, Dimethicone, Chlorphenesin, Diazolidinyl Urea, O-Cymen-5-Ol, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Aceite seco SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434018947"
+     ],
+     "inci": "Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Ether, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Parfum/Fragrance, Butyl Methoxydibenzoylmethane, Tocopheryl Acetate, Tocopherol, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Glycine Max (Soybean) Oil"
+    },
+    {
+     "nombre": "Bariésun Bálsamo reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028120",
+      "3661434028274"
+     ],
+     "inci": "Aqua/Water/Eau, Paraffinum Liquidum/Mineral Oil, Butyrospermum Parkii (Shea) Butter, Glycerin, Polysorbate 60, Sorbitan Stearate, Cetyl Palmitate, Glyceryl Stearate, Hydrogenated Polydecene, PEG-100 Stearate, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glucose, Parfum/Fragrance, Triethanolamine, Glycyrrhetinic Acid, Dimethicone, Tocopheryl Acetate, O-Cymen-5-Ol, Trehalose, Ascorbyl Tetraisopalmitate"
+    },
+    {
+     "nombre": "Bariésun Bruma seca SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434006500"
+     ],
+     "inci": "Butane, Aqua/Water/Eau, Dicaprylyl Ether, Octocrylene, Ethylhexyl Methoxycinnamate, Isobutane, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Nylon-12, Propane, PEG-30 Dipolyhydroxystearate, Cyclopentasiloxane, Cyclohexasiloxane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Sodium Chloride, Phenoxyethanol, Glucose, Chlorphenesin, Parfum/Fragrance, Tetrasodium EDTA, Citric Acid, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Ascorbyl Tetraisopalmitate, BHT, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bebé 1ª Crema mineral SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005725"
+     ],
+     "inci": "Dicaprylyl Carbonate, Aqua/Water/Eau, Titanium Dioxide [Nano], Zinc Oxide [Nano], Neopentyl Glycol Diheptanoate, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Butylene Glycol, Nylon-12, Polyglyceryl-3 Diisostearate, Stearic Acid, Alumina, Dimethicone, Glycerin, Octyldodecanol, Magnesium Sulfate, Cera Alba/Beeswax, Glucose, Triethoxycaprylylsilane, Xanthan Gum, Disteardimonium Hectorite, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Propylene Carbonate, Tocopherol, Ascorbyl Tetraisopalmitate, Citric Acid"
+    },
+    {
+     "nombre": "Bariésun Crema sin perfume SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028076"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylylcarbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Coco-Glucoside, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, O-Cymen-5-Ol, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Crema SPF50+ color dorado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008900",
+      "3661434027628"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], CI 77891 (Titanium Dioxide), Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Hydrogenated Palm Kernel Glycerides, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Triacontanyl PVP, CI 77492 (Iron Oxides), Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Hydrogenated Palm Glycerides, Glucose, CI 77491 (Iron Oxides), Xanthan Gum, Parfum/Fragrance, Coco-Glucoside, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Triethoxycaprylylsilane, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, CI 77499 (Iron Oxides), Trehalose, Propylene Glycol, Citric Acid, Sodium Hydroxide, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Fluido antimanchas SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008917"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Dimethicone, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, Ascorbyl Tetraisopalmitate, C20-22 Alcohols, Decyl Glucoside, Maltodextrin, Butylene Glycol, Glycyrrhetinic Acid, Glucose, Xanthan Gum, Coco-Glucoside, Sucrose Dilaurate, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Sodium Cocoyl Glutamate, Trehalose, Propylene Glycol, Pisum Sativum Extract (Pisum Sativum (Pea) Extract), Citric Acid, Sodium Hydroxide, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Fluido ultra-ligero SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009495",
+      "3661434027994"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Heptyl Undecylenate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, PEG-30 Dipolyhydroxystearate, Dimethicone, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, PEG-45/Dodecyl Glycol Copolymer, Sodium Chloride, Decyl Glucoside, Magnesium Sulfate, Glycerin, Glucose, Glyceryl Behenate, Benzoic Acid, Tetrasodium EDTA, Succinoglycan, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Citric Acid, Propylene Glycol, Xanthan Gum, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Crema SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028069"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Parfum/Fragrance, Coco-Glucoside, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Spray sin perfume SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028021"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Heptyl Undecylenate, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Benzoic Acid, Tetrasodium EDTA, Xanthan Gum, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Spray niños SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008399",
+      "3661434028014"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Heptyl Undecylenate, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Benzoic Acid, Tetrasodium EDTA, Xanthan Gum, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Stick mineral SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434014116"
+     ],
+     "inci": "Octyldodecanol, Titanium Dioxide [Nano], Synthetic Wax, Bis-Diglyceryl Polyacyladipate-2, Butylene Glycol Cocoate, Zinc Oxide [Nano], Cera Alba/Beeswax, CI 77891 (Titanium Dioxide), Hydrogenated Castor Oil, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Stearic Acid, Alumina, Aqua/Water/Eau, Mica, Ricinus Communis (Castor) Seed Oil, Tocopheryl Acetate, Butyrospermum Parkii (Shea) Butter, CI 77492 (Iron Oxides), Triethoxycaprylylsilane, CI 77491 (Iron Oxides), Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Cica Daily Crema reparadora concentrada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434011900",
+      "3661434011917"
+     ],
+     "inci": "Aqua/Water/Eau, Squalane, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Glyceryl Stearate, 1,2-Hexanediol, Pentaerythrityl Distearate, Glyceryl Behenate, Hydroxyacetophenone, Inulin, Potassium Cetyl Phosphate, Panthenol, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Xanthan Gum, Safflower Oil/Palm Oil Aminopropanediol Esters, Sodium Hyaluronate, Sodium Hydroxide, Centella Asiatica Leaf Extract, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Cica Daily Sérum reparador intenso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434011931"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Diglycerin, 1,2-Hexanediol, Inulin, Panthenol, Sodium Polyacryloyldimethyl Taurate, Xanthan Gum, Sodium Hyaluronate, Propanediol, Centella Asiatica Leaf Extract, Citric Acid, Zinc Gluconate, Glutamylamidoethyl Indole"
+    },
+    {
+     "nombre": "Toléderm Control Crema ligera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023507"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Ethylhexanoate, Squalane, Dicaprylyl Ether, Diglycerin, Glycerin, Polyglyceryl-6 Distearate, 1,2-Hexanediol, Jojoba Esters, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Potassium Cetyl Phosphate, Cetyl Alcohol, Polyglyceryl-3 Beeswax, Xanthan Gum, Tocopheryl Acetate, Sodium Hydroxide, Hydrolyzed Algin, Tocopherol"
+    },
+    {
+     "nombre": "Dépiderm Contorno de ojos corrector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009792"
+     ],
+     "inci": "Aqua/Water/Eau, Squalane, Glycerin, Maltodextrin, Sodium Polyacryloyldimethyl Taurate, 1,2-Hexanediol, Ascorbyl Glucoside, Sucrose Dilaurate, Dimethicone, Hydroxyacetophenone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Dextran Sulfate, Sodium Hydroxide, Niacinamide, Sodium Cocoyl Glutamate, Sodium Citrate, Mica, Dipotassium Glycyrrhizate, Tocopheryl Acetate, CI 77891 (Titanium Dioxide), Pisum Sativum Extract (Pisum Sativum (Pea) Extract), Biosaccharide Gum-1, Citric Acid"
+    },
+    {
+     "nombre": "DS Gel limpiador regulador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434000089"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Butylene Glycol, Decyl Glucoside, Sodium Chloride, Sodium Laureth-8 Sulfate, Zinc Coceth Sulfate, Sodium Lauroyl Glutamate, Sodium Methyl Cocoyl Taurate, Sodium Myristoyl Sarcosinate, Coco-Glucoside, Glyceryl Oleate, Lactic Acid, PEG-120 Methyl Glucose Dioleate, Piroctone Olamine, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Magnesium Laureth-8 Sulfate, Benzoic Acid, Copper Gluconate, Manganese Gluconate, Magnesium Oleth Sulfate, Coceth-3, Phytosphingosine, Asiaticoside, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Eau Thermale Crema de agua ligera SPF20",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005039"
+     ],
+     "inci": "Aqua/Water/Eau, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Dimethicone, Isononyl Isononanoate, Polymethyl Methacrylate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Squalane, Steareth-2, Steareth-21, Phenoxyethanol, Butylene Glycol, Parfum/Fragrance, Glycerin, Trehalose, Urea, Cetyl Alcohol, Chlorphenesin, Tetrasodium EDTA, Xylitylglucoside, Anhydroxylitol, Citric Acid, o-CYMEN-5-OL, Tocopheryl Acetate, Xanthan Gum, Pentylene Glycol, Serine, Polysorbate 60, Sorbitan Isostearate, Xylitol, Glucose, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, Ascorbyl Tetraisopalmitate, BHT, Potassium Phosphate"
+    },
+    {
+     "nombre": "Eau Thermale Leche sedosa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004704"
+     ],
+     "inci": "Aqua/Water/Eau, Ethylhexyl Palmitate, Paraffinum Liquidum/Mineral Oil, Glycerin, Dimethicone, Butyrospermum Parkii (Shea) Butter, Polysorbate 60, Butylene Glycol, 1,2-Hexanediol, Glyceryl Stearate, PEG-100 Stearate, Pentaerythrityl Distearate, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum/Fragrance, Chlorphenesin, Tocopheryl Acetate, o-CYMEN-5-OL, Sodium Hydroxide, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hyaluronate, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Eau Thermale Contorno de ojos de agua",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005015"
+     ],
+     "inci": "Aqua/Water/Eau, Butylene Glycol, Isononyl Isononanoate, Propanediol, 1,2-Hexanediol, Dimethicone, Polymethyl Methacrylate, Tromethamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Sodium Dextran Sulfate, Xylitylglucoside, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Anhydroxylitol, Isohexadecane, Glycerin, Trehalose, Urea, Xylitol, o-CYMEN-5-OL, Polysorbate 80, Glucose, Pentylene Glycol, Serine, Sorbitan Oleate, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, Potassium Phosphate"
+    },
+    {
+     "nombre": "Eau Thermale Crema de agua ligera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005008"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Isononanoate, Dimethicone, Butyrospermum Parkii (Shea) Butter, Squalane, Butylene Glycol, Diglycerin, Propanediol, Xylitylglucoside, 1,2-Hexanediol, Cetyl Alcohol, Anhydroxylitol, Polysorbate 60, Glycerin, Trehalose, Urea, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Xylitol, Chlorphenesin, Glucose, o-CYMEN-5-OL, Parfum/Fragrance, Pentylene Glycol, Serine, Sodium Hydroxide, Sorbitan Isostearate, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, t-BUTYL ALCOHOL, Potassium Phosphate"
+    },
+    {
+     "nombre": "Eau Thermale Crema de agua de manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005510"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Dimethicone, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Cetyl Alcohol, Cetearyl Isononanoate, Isononyl Isononanoate, Glyceryl Behenate, Potassium Cetyl Phosphate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Glyceryl Stearate, PEG-100 Stearate, Parfum/Fragrance, Chlorphenesin, Tocopheryl Acetate, o-CYMEN-5-OL, Xanthan Gum, Polysorbate 60, Sorbitan Isostearate, Sodium Hydroxide, Citric Acid"
+    },
+    {
+     "nombre": "Eau Thermale Esencia de agua iluminadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434012020"
+     ],
+     "inci": "Aqua/Water/Eau, Diglycerin, 1,2-Hexanediol, Albizia Julibrissin Bark Extract, Glycerin, Xylitylglucoside, Anhydroxylitol, Inulin, PEG-80 Glyceryl Cocoate, Xylitol, Sodium Hyaluronate, Calcium Gluconate, Glucose, Parfum/Fragrance, Xanthan Gum, Polyquaternium-51, Magnesium Gluconate, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Espuma de agua limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009419"
+     ],
+     "inci": "Aqua/Water/Eau, Decyl Glucoside, Glycerin, Sodium Cocoyl Glutamate, Propanediol, Sodium Methyl Cocoyl Taurate, Triethyl Citrate, Citric Acid, Parfum/Fragrance, Sodium Benzoate, Propylene Glycol, Coco-Glucoside, Glyceryl Oleate, Polyquaternium-10, Leontopodium Alpinum Flower/Leaf Extract, Tocopherol, Hydrogenated Vegetable Glycerides Citrate"
+    },
+    {
+     "nombre": "Gel desmaquillante refrescante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009426"
+     ],
+     "inci": "Aqua/Water/Eau, Poloxamer 184, Propanediol, Caprylyl/Capryl Glucoside, 1,2-Hexanediol, Triethyl Citrate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Parfum/Fragrance, Sodium Hydroxide, Glycerin, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid"
+    },
+    {
+     "nombre": "Hyséac Aceite purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010071"
+     ],
+     "inci": "Paraffinum Liquidum/Mineral Oil, Caprylic/Capric Triglyceride, PEG-20 Glyceryl Triisostearate, Di-C12-13 Alkyl Malate, Helianthus Annuus (Sunflower) Seed Oil, Nigella Sativa Seed Oil, Parfum/Fragrance, Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Hyséac Crema limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010002",
+      "3661434036644"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, PEG-80 Glyceryl Cocoate, Sodium Laureth Sulfate, Sodium Laureth-8 Sulfate, Sodium Chloride, Sodium Cocoamphoacetate, Sodium Methyl Cocoyl Taurate, Coco-Glucoside, Glyceryl Oleate, Glycine, Polysorbate 20, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Styrene/Acrylates Copolymer, Magnesium Laureth-8 Sulfate, Piroctone Olamine, Parfum/Fragrance, Citric Acid, PEG-120 Methyl Glucose Dioleate, Magnesium Oleth Sulfate, Brassica Campestris (Rapeseed) Sterols, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters"
+    },
+    {
+     "nombre": "Hyséac Mascarilla exfoliante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010019"
+     ],
+     "inci": "Aqua/Water/Eau, Kaolin, Di-C12-13 Alkyl Malate, Cellulose, Cetearyl Ethylhexanoate, Glycerin, Pentylene Glycol, Steareth-2, Steareth-21, Cetyl Alcohol, Malic Acid, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Sodium Hydroxide, Chlorphenesin, Parfum/Fragrance, Xanthan Gum, Polysorbate 80, o-CYMEN-5-OL, Sorbitan Oleate, CI 19140/Yellow 5, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Hyséac Mascarilla purificante peel-off",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010064"
+     ],
+     "inci": "Aqua/Water/Eau, Polyvinyl Alcohol, Alcohol, Di-C12-13 Alkyl Malate, Kaolin, Glycerin, Bentonite, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, 1,2-Hexanediol, Glyceryl Stearate, PEG-100 Stearate, Chlorphenesin, Xanthan Gum, Parfum/Fragrance, Pentylene Glycol, Lens Esculenta (Lentil) Seed Extract, Zinc Lactate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Hyséac Mat' Gel-crema matificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010033",
+      "3661434036651"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol, Glycerin, Diglycerin, Isododecane, Isodecyl Neopentanoate, Aluminum Starch Octenylsuccinate, Butylene Glycol, Polymethyl Methacrylate, PTFE, Cetearyl Isononanoate, Dimethicone, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Polyacrylate-13, Cetyl Alcohol, Parfum/Fragrance, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, Lens Esculenta (Lentil) Seed Extract, O-Cymen-5-Ol, Sodium Hydroxide, Polysorbate 20, Sorbitan Isostearate, Phenoxyethanol, Glycyrrhiza Inflata Root Extract, Ethylhexylglycerin, Tocopherol, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Hyséac Pasta SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010118"
+     ],
+     "inci": "Zinc Oxide, Oleic/Linoleic/Linolenic Polyglycerides, Aqua/Water/Eau, Illite, Talc, Tridecyl Trimellitate, Octyldodecanol, Cera Alba/Beeswax, Steareth-2, Sodium Shale Oil Sulfonate, Disteardimonium Hectorite, 1,2-Hexanediol, Propylene Carbonate, 4-Terpineol, Salicylic Acid"
+    },
+    {
+     "nombre": "Hyséac Sérum piel nueva booster anti-imperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010101"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Polyglyceryl-4 Caprate, 1,2-Hexanediol, Diglycerin, Glycolic Acid, Malic Acid, Lactic Acid, Propanediol, Sodium Hydroxide, Xanthan Gum, Butylene Glycol, Parfum/Fragrance, Phytosphingosine, Pentylene Glycol, Zinc Lactate, Asiaticoside, Sclerotium Gum, Algin, Achillea Millefolium Extract, Glycyrrhiza Inflata Root Extract, Rhamnose, Glucose, Glucuronic Acid"
+    },
+    {
+     "nombre": "Hyséac SOS Gel secante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010026"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol Denat., Glycolic Acid, Malic Acid, Hydroxypropyl Methylcellulose, Salix Alba (Willow) Bark Extract, Sodium Hydroxide, Arginine, Glycyrrhiza Inflata Root Extract"
+    },
+    {
+     "nombre": "Hyséac Tónico purificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010125",
+      "3661434034534"
+     ],
+     "inci": "Aqua/Water/Eau, Alcohol, Glycerin, Glycolic Acid, Malic Acid, Sodium Hydroxide, Lactic Acid, Glycine, PEG-40 Hydrogenated Castor Oil, Pentylene Glycol, Lens Esculenta (Lentil) Seed Extracts, Parfum/Fragrance, Sodium Benzoate"
+    },
+    {
+     "nombre": "Leche desmaquillante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009402"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Octyldodecanol, C13-15 Alkane, Glycerin, 1,2-Hexanediol, Polysorbate 60, Parfum/Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Sodium Polyacrylate, Tocopheryl Acetate, Sodium Hydroxide, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid"
+    },
+    {
+     "nombre": "Eau Thermale Mascarilla de agua de noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005503"
+     ],
+     "inci": "Aqua/Water/Eau, Butylene Glycol, Dimethicone, Glycerin, 1,2-Hexanediol, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xylitylglucoside, Trehalose, Urea, Anhydroxylitol, Chlorphenesin, Xylitol, o-CYMEN-5-OL, Pentylene Glycol, Serine, Parfum/Fragrance, Sodium Hyaluronate, Glucose, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Leontopodium Alpinum Flower/Leaf Extract, Potassium Phosphate, CI 42090 (Blue 1), Citric Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Bebé 1er Aceite limpiador calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008146"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Hydrogenated Starch Hydrolysate, Sodium Cocoamphoacetate, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Glutamate, Sodium Laureth Sulfate, Sodium Laureth-8 Sulfate, Ceteareth-60 Myristyl Glycol, Polysorbate 20, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Polyquaternium-10, Magnesium Laureth-8 Sulfate, PEG-75 Shea Butter Glycerides, Magnesium Oleth Sulfate, Isopropyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Tocopherol, Hydrogenated Vegetable Glycerides Citrate"
+    },
+    {
+     "nombre": "Roséliane Crema antirojeces SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023446"
+     ],
+     "inci": "Aqua/Water/Eau, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Dicaprylyl Carbonate, Dimethicone, Isononyl Isononanoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Polymethyl Methacrylate, Tapioca Starch, Steareth-2, Steareth-21, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Phenoxyethanol, Parfum/Fragrance, Cetyl Alcohol, Chlorphenesin, Brassica Campestris (Rapeseed) Sterols, o-CYMEN-5-OL, Tocopheryl Acetate, Xanthan Gum, Polysorbate 60, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Sorbitan Isostearate, Polymethylsilsesquioxane, Sorbitol, Citric Acid, Asiaticoside, Phytosphingosine, BHT, Panax Ginseng Root Extract, Maltodextrin, CI 14700/Red 4, Tocopherol, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Potassium Sorbate"
+    },
+    {
+     "nombre": "Roséliane Crema rica antirojeces",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023460"
+     ],
+     "inci": "Aqua/Water/Eau, Coco-Caprylate/Caprate, Butyrospermum Parkii (Shea) Butter, Glycerin, Cetearyl Isononanoate, Cetyl Alcohol, Caprylic/Capric Triglyceride, Squalane, Diglycerin, Dimethicone, Microcrystalline Cellulose, Propanediol, Steareth-21, 1,2-Hexanediol, Pentaerythrityl Distearate, Sodium Polyacrylate, Parfum/Fragrance, Steareth-2, CI 77891 (Titanium Dioxide), Chlorphenesin, Mica, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Xanthan Gum, o-CYMEN-5-OL, Maltodextrin, Asiaticoside, Asparagopsis Armata Extract, Panax Ginseng Root Extract, Polyglyceryl-10 Stearate, Sodium Benzoate, Potassium Sorbate, Ascophyllum Nodosum Extract, Triethyl Citrate, Polyglyceryl-6 Behenate, CI 77491 (Iron Oxides), Silica, Tocopherol, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Toléderm Control Crema rica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023514"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Ethylhexanoate, Squalane, Dicaprylyl Ether, Polyglyceryl-6 Distearate, Glycerin, Behenyl Alcohol, Glyceryl Stearate, 1,2-Hexanediol, Jojoba Esters, Hydroxyacetophenone, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetyl Alcohol, Polyglyceryl-3 Beeswax, Xanthan Gum, Tocopheryl Acetate, Sodium Hydroxide, Hydrolyzed Algin, Tocopherol"
+    },
+    {
+     "nombre": "Xémose C8+ Aceite limpiador calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434003370",
+      "3661434005923"
+     ],
+     "inci": "Aqua/Water/Eau, Sorbitol, Glycerin, Sodium Laureth Sulfate, Coco-Glucoside, Sodium Cocoamphoacetate, Sodium Methyl Cocoyl Taurate, Caprylyl Glycol, Citric Acid, Sodium Benzoate, Glyceryl Oleate, Polyquaternium-10, PEG-75 Shea Butter Glycerides, Safflower Oil/Palm Oil Aminopropanediol Esters, Polyglyceryl-10 Stearate, Tocopherol, Triethyl Citrate, Polyglyceryl-6 Behenate, Hydrogenated Vegetable Glycerides Citrate, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Xémose C8+ Cerato relipidizante anti-picor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004834"
+     ],
+     "inci": "Aqua/Water/Eau, Butyrospermum Parkii (Shea) Butter, Cetearyl Isononanoate, Polysorbate 60, Glycerin, Octyldodecanol, Propylheptyl Caprylate, Glyceryl Stearate, PEG-100 Stearate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Dimethicone, Isohexadecane, Chlorphenesin, Polysorbate 80, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Piroctone Olamine, Safflower Oil/Palm Oil Aminopropanediol Esters, Lactic Acid, Cetrimonium Bromide, o-CYMEN-5-OL, Sorbitan Oleate, Borage Seed Oil Aminopropanediol Amides, Polyglyceryl-10 Stearate, Asiaticoside, Phytosphingosine, Triethyl Citrate, Polyglyceryl-6 Behenate, Tocopherol, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Xémose C8+ Crema relipidizante anti-irritaciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004858"
+     ],
+     "inci": "Aqua/Water/Eau, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Octyldodecanol, Dicaprylyl Ether, Glycerin, Polysorbate 60, Behenyl Alcohol, Propanediol, Squalane, Glyceryl Stearate, PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Tocopheryl Acetate, Piroctone Olamine, Xanthan Gum, Cetrimonium Bromide, o-CYMEN-5-OL, Safflower Oil/Palm Oil Aminopropanediol Esters, Sodium Hydroxide, Borage Seed Oil Aminopropanediol Amides, Polyglyceryl-10 Stearate, Asiaticoside, Phytosphingosine, Triethyl Citrate, Tocopherol, Polyglyceryl-6 Behenate, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Lactic Acid, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Xémose C8+ Syndet limpiador suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005916"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Glycerin, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Sodium Methyl Cocoyl Taurate, Glycol Distearate, Polyacrylate Crosspolymer-6, Coco-Glucoside, Caprylyl Glycol, Sodium Benzoate, Glyceryl Oleate, Citric Acid, Glyceryl Stearate, Benzoic Acid, Safflower Oil/Palm Oil Aminopropanediol Esters, Polyglyceryl-10 Stearate, Triethyl Citrate, Polyglyceryl-6 Behenate, Tocopherol, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Lactic Acid, Hydrogenated Vegetable Glycerides Citrate, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Agua micelar termal pieles normales a secas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009372",
+      "3661434009396"
+     ],
+     "inci": "Aqua/Water/Eau, Polysorbate 20, Poloxamer 184, Glycerin, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum/Fragrance, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Citric Acid"
+    },
+    {
+     "nombre": "Bariésun 100 SPF50+ piel intolerante al sol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028175"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Octocrylene, Ethylhexyl Salicylate, Ethylhexyl Triazone, Polymethyl Methacrylate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Decyl Glucoside, C20-22 Alkyl Phosphate, C20-22 Alcohols, Phenoxyethanol, Potassium Cetyl Phosphate, Glycerin, Butylene Glycol, Glucose, Chlorphenesin, Tetrasodium EDTA, Xanthan Gum, Hydrogenated Polydecene, o-CYMEN-5-OL, Tocopheryl Acetate, Propylene Glycol, Trehalose, Citric Acid, Sodium Hydroxide, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Spray SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028038"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Heptyl Undecylenate, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Parfum/Fragrance, Benzoic Acid, Tetrasodium EDTA, Xanthan Gum, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "DS Emulsión reguladora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434000072"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Octyldodecanol, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Sodium Polyacrylate, Pentylene Glycol, Polysorbate 60, Piroctone Olamine, Xanthan Gum, 1,2-Hexanediol, Caprylyl Glycol, Dimethicone, Phytosphingosine, Citric Acid, Asiaticoside"
+    },
+    {
+     "nombre": "Kératosane 30 Gel-crema",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434000836"
+     ],
+     "inci": "Aqua/Water/Eau, Urea, Glycerin, Glycine, Paraffinum Liquidum/Mineral Oil, Squalane, Sorbitan Stearate, Algin, Polysorbate 60, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cholesterol, Sodium Dextran Sulfate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Roséliane CC Cream SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023484"
+     ],
+     "inci": "Aqua/Water/Eau, CI 77891 (Titanium Dioxide), Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Dimethicone, Polymethyl Methacrylate, C20-22 Alkyl Phosphate, C20-22 Alcohols, Hydrogenated Palm Kernel Glycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Propanediol, CI 77492 (Iron Oxides), Butylene Glycol, Phenoxyethanol, Decyl Glucoside, Triacontanyl PVP, Hydrogenated Palm Glycerides, Parfum/Fragrance, Chlorphenesin, Xanthan Gum, CI 77491 (Iron Oxides), Mica, Triethoxycaprylylsilane, Brassica Campestris (Rapeseed) Sterols, o-CYMEN-5-OL, Tocopheryl Acetate, Sodium Hydroxide, CI 77499 (Iron Oxides), Phytosphingosine, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Silica, Sorbitol, Asiaticoside, BHT, Maltodextrin, Asparagopsis Armata Extract, Panax Ginseng Root Extract, Tocopherol, Ascophyllum Nodosum Extract, Tin Oxide, Potassium Sorbate"
+    },
+    {
+     "nombre": "Xémose C8+ Bálsamo relipidizante anti-picor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434006968",
+      "3661434009952"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Butyrospermum Parkii (Shea) Butter, Triheptanoin, Tricaprylin, Cetearyl Ethylhexanoate, Beheneth-25, Glycerin, Propanediol, 1,2-Hexanediol, Shorea Stenoptera Seed Butter, Xanthan Gum, Chlorphenesin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Sodium Polyacrylate, Safflower Oil/Palm Oil Aminopropanediol Esters, Tocopheryl Acetate, o-CYMEN-5-OL, Sodium Hydroxide, Polyglyceryl-10 Stearate, Tocopherol, Asiaticoside, Phytosphingosine, Triethyl Citrate, Polyglyceryl-6 Behenate, Borage Seed Oil Aminopropanediol Amides, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Xémose C8+ Cuidado para párpados calmante y nutritivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434007903"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Butyrospermum Parkii (Shea) Butter, Cetearyl Isononanoate, Glycerin, Cetyl Alcohol, Propanediol, Steareth-2, Steareth-21, 1,2-Hexanediol, Glyceryl Behenate, Sodium Dextran Sulfate, Sodium Hyaluronate, Chlorphenesin, Polyacrylate-13, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Safflower Oil/Palm Oil Aminopropanediol Esters, Tocopheryl Acetate, Xanthan Gum, Polyisobutene, o-CYMEN-5-OL, Polysorbate 20, Sorbitan Isostearate, Sodium Hydroxide, Polyglyceryl-10 Stearate, Triethyl Citrate, Polyglyceryl-6 Behenate, Tocopherol, Behenic Acid, Ceramide NP, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide Ns, Ceramide EOP, Ceramide AP, Sodium Cetearyl Sulfate"
+    },
+    {
+     "nombre": "Xémose PSO Concentrado calmante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008955"
+     ],
+     "inci": "Aqua/Water/Eau, Octyldodecanol, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-2 Dipolyhydroxystearate, Dicaprylyl Carbonate, Dicaprylyl Ether, Glycerin, Jojoba Esters, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), 1,2-Hexanediol, Sodium Polyacrylate, Behenyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Glycine, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Xanthan Gum, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Safflower Oil/Palm Oil Aminopropanediol Esters, Glucosyl Hesperidin, Tocopherol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Bariésun Crema mineral SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434001437"
+     ],
+     "inci": "Dicaprylyl Carbonate, Aqua/Water/Eau, Titanium Dioxide [Nano], Zinc Oxide [Nano], Neopentyl Glycol Diheptanoate, PEG-30 Dipolyhydroxystearate, Sodium Chloride, Butylene Glycol, Nylon-12, Polyglyceryl-3 Diisostearate, Stearic Acid, Alumina, Dimethicone, Glycerin, Octyldodecanol, Magnesium Sulfate, Cera Alba/Beeswax, Glucose, Triethoxycaprylylsilane, Xanthan Gum, Disteardimonium Hectorite, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Propylene Carbonate, Tocopherol, Ascorbyl Tetraisopalmitate, Citric Acid"
+    },
+    {
+     "nombre": "Agua termal de Uriage",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434000522",
+      "3661434000539",
+      "3661434000515"
+     ],
+     "inci": "Aqua/Water/Eau, Nitrogen"
+    },
+    {
+     "nombre": "Age Lift Sérum intensivo reafirmante anti-arrugas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009273"
+     ],
+     "inci": "Aqua/Water/Eau, Propanediol, Lactic Acid, Isodecyl Neopentanoate, Polysorbate 60, Glycerin, Butylene Glycol, Sodium Hydroxide, Cetyl Alcohol, Limnanthes Alba (Meadowfoam) Seed Oil, Sorbitan Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Sodium Hyaluronate, Retinyl Palmitate, Croton Lechleri Resin Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Caesalpinia Spinosa Fruit Extract, CI 77891 (Titanium Dioxide), Chlorphenesin, Xanthan Gum, Parfum/Fragrance, Mica, o-CYMEN-5-OL, Kappaphycus Alvarezii Extract, Adenosine, Theobroma Cacao (Cocoa) Seed Extract, Tin Oxide"
+    },
+    {
+     "nombre": "Age Lift Crema de día reafirmante anti-arrugas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009242"
+     ],
+     "inci": "Aqua/Water/Eau, Dimethicone, Cetearyl Ethylhexanoate, Diglycerin, Butyrospermum Parkii (Shea) Butter, Hydrogenated Polydecene, Isononyl Isononanoate, Limnanthes Alba (Meadowfoam) Seed Oil, Squalane, Dicaprylyl Carbonate, Glycerin, Butylene Glycol, Jojoba Esters, 1,2-Hexanediol, Boron Nitride, Steareth-2, Steareth-21, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Retinyl Palmitate, Sodium Hyaluronate, Croton Lechleri Resin Extract, Tocopherol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetyl Alcohol, Polyglycerin-3, Parfum/Fragrance, Polyacrylate Crosspolymer-6, CI 77891 (Titanium Dioxide), Chlorphenesin, Caesalpinia Spinosa Fruit Extract, Mica, o-CYMEN-5-OL, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Polysorbate 60, Sorbitan Isostearate, Kappaphycus Alvarezii Extract, Adenosine, Theobroma Cacao (Cocoa) Seed Extract, Tin Oxide, t-BUTYL ALCOHOL, Citric Acid"
+    },
+    {
+     "nombre": "Age Absolu Contorno de ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023439"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, Cocoglycerides, Glycerin, Glyceryl Stearate SE, Silica, 1,2-Hexanediol, Cetyl Alcohol, Hydroxyacetophenone, Hydrogenated Rapeseed Oil, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Dextran Sulfate, Propanediol, Sodium Gluconate, Ethylhexyl Stearate, Sodium Hyaluronate, Sodium Hydroxide, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Caesalpinia Spinosa Fruit Extract, Tocopherol, Butylene Glycol, Xanthan Gum, Retinyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Kappaphycus Alvarezii Extract, Gentiana Lutea Root Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Spirulina Platensis Extract, Glycine Max (Soybean) Oil"
+    },
+    {
+     "nombre": "Bariésun Leche niños SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008351"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Coco-Glucoside, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Bariésun Stick labial SPF30+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434032738"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Hydrogenated Vegetable Oil, Oleic/Linoleic/Linolenic Polyglycerides, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Wheat Germ Glycerides, Butyrospermum Parkii (Shea) Butter, CI 77891 (Titanium Dioxide), Parfum/Fragrance, Bis-Diglyceryl Polyacyladipate-2, Octyldodecanol, Mineral Salts, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Oil, Ascorbyl Palmitate, Tocopherol"
+    },
+    {
+     "nombre": "Bebé 1ª Agua limpiadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008719"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Caprylyl/Capryl Glucoside, Polysorbate 20, Parfum/Fragrance, Hydroxyacetophenone, Ethyl Lauroyl Arginate Hcl, Citric Acid, Leontopodium Alpinum Flower/Leaf Extract"
+    },
+    {
+     "nombre": "Bebé 1ª Cold cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008603"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Squalane, Sodium Chloride, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Butylene Glycol, Cera Alba/Beeswax, Polyglyceryl-3 Diisostearate, Stearalkonium Bentonite, Magnesium Sulfate, Sodium Benzoate, Propanediol, Tocopheryl Acetate, Citric Acid, Leontopodium Alpinum Flower/Leaf Extract"
+    },
+    {
+     "nombre": "Bebé 1er Change crema de pañal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008597"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Zinc Oxide, Dicaprylyl Carbonate, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Butylene Glycol, Cera Alba/Beeswax, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Chloride, Stearalkonium Bentonite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Propanediol, Tocopheryl Acetate, Citric Acid, Tocopherol, Leontopodium Alpinum Flower/Leaf Extract"
+    },
+    {
+     "nombre": "Bebé 1er Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008627"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylyl/Capryl Glucoside, Sodium Cocoyl Alaninate, Glycerin, Triethyl Citrate, Sodium Cocoamphoacetate, Xanthan Gum, Parfum/Fragrance, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Xylitylglucoside, Anhydroxylitol, Xylitol, Hibiscus Sabdariffa Flower Extract, Glucose, Potassium Sorbate, Leontopodium Alpinum Flower/Leaf Extract, Tocopherol, Hydrogenated Vegetable Glycerides Citrate"
+    },
+    {
+     "nombre": "Cica Daily Gel-crema reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434011924"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Glycerin, Diglycerin, Squalane, 1,2-Hexanediol, Inulin, Sodium Polyacryloyldimethyl Taurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Xanthan Gum, Sodium Hyaluronate, Sodium Hydroxide, Copper Gluconate, Centella Asiatica Leaf Extract, Zinc Gluconate, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Crema exfoliante corporal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434006234"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Ethylhexyl Palmitate, Hydrated Silica, Butylene Glycol, Sodium Polyacrylate, 1,2-Hexanediol, Cetyl Alcohol, Steareth-2, Steareth-21, Parfum/Fragrance, Gluconolactone, Glyceryl Behenate, Glyceryl Stearate, PEG-100 Stearate, Xanthan Gum, Microcrystalline Cellulose, Chlorphenesin, Cellulose, o-CYMEN-5-OL, Alcohol, Leontopodium Alpinum Flower/Leaf Extract, CI 77510 (Ferric Ferrocyanide), Talc, Citric Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Dépiderm Cuidado de día antimanchas SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009778"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Dimethicone, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, Ascorbyl Tetraisopalmitate, C20-22 Alcohols, Decyl Glucoside, Maltodextrin, Butylene Glycol, Glycyrrhetinic Acid, Glucose, Xanthan Gum, Coco-Glucoside, Sucrose Dilaurate, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Sodium Cocoyl Glutamate, Trehalose, Propylene Glycol, Pisum Sativum Extract (Pisum Sativum (Pea) Extract), Citric Acid, Sodium Hydroxide, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
+    },
+    {
+     "nombre": "Dépiderm Sérum antimanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009754"
+     ],
+     "inci": "Aqua/Water/Eau, Propanediol, Butylene Glycol, Diglycerin, Glycerin, 1,2-Hexanediol, Ascorbyl Glucoside, 3-O-Ethyl Ascorbic Acid, Polysorbate 20, Sodium Citrate, Xanthan Gum, Sodium Hydroxide, Dipotassium Glycyrrhizate, Niacinamide, Maltodextrin, Citric Acid, Sucrose Dilaurate, Sodium Cocoyl Glutamate, Pisum Sativum Extract (Pisum Sativum (Pea) Extract)"
+    },
+    {
+     "nombre": "Desmaquillante de ojos bifásico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434003691"
+     ],
+     "inci": "Aqua/Water/Eau, Isohexadecane, 1,2-Hexanediol, Butylene Glycol, Centaurea Cyanus Flower Water, Caprylyl/Capryl Glucoside, Polyaminopropyl Biguanide, Citric Acid, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Desodorante Poder 3",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004575"
+     ],
+     "inci": "Aqua/Water/Eau, Aluminum Chlorohydrate, Butylene Glycol, Dimethicone, Steareth-2, Triethyl Citrate, Steareth-21, Propanediol, Parfum/Fragrance, Polyacrylate Crosspolymer-6, Tetrasodium EDTA, Bisabolol, Ethylhexylglycerin, Rhamnose, t-BUTYL ALCOHOL, Glucose, Glucuronic Acid"
+    },
+    {
+     "nombre": "Desodorante refrescante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434003110"
+     ],
+     "inci": "Butane, Isododecane, Isobutane, Propane, Potassium Alum, Dimethicone, Disteardimonium Hectorite, Parfum/Fragrance, Dimethiconol, Propylene Carbonate"
+    },
+    {
+     "nombre": "Desodorante suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434002687"
+     ],
+     "inci": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Neopentyl Glycol Diheptanoate, Steareth-2, C12-13 Alkyl Lactate, Parfum/Fragrance, Tapioca Starch, 1,2-Hexanediol, Propanediol, Triethyl Citrate, Steareth-21, Caprylyl Glycol, Ethylhexylglycerin, Piroctone Olamine, Polyacrylate-13, Polyisobutene, Bisabolol, Tocopheryl Acetate, Xanthan Gum, Citric Acid, Polymethylsilsesquioxane, Rhamnose, Polysorbate 20, Sorbitan Isostearate, Glucose, Glucuronic Acid"
+    },
+    {
+     "nombre": "DS Hair Champú equilibrante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009617",
+      "3661434011962"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Cocoyl Glutamate, Decyl Glucoside, Butylene Glycol, Parfum/Fragrance, Coco-Glucoside, Glyceryl Oleate, Polyquaternium-22, Sodium Benzoate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Citric Acid, Glycerin, Piroctone Olamine, Coconut Acid, Hibiscus Sabdariffa Flower Extract, Phytosphingosine, Alcohol, Leontopodium Alpinum Flower/Leaf Extract, Asiaticoside, Potassium Sorbate"
+    },
+    {
+     "nombre": "Eau Thermale Sérum booster H.A.",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009525"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Diglycerin, Sodium Lactate, Sodium Hyaluronate, Xylitylglucoside, 1,2-Hexanediol, Polysorbate 20, Anhydroxylitol, Citric Acid, Sodium Benzoate, Xylitol, Glucose, Parfum/Fragrance, Althaea Officinalis Flower Extract"
+    },
+    {
+     "nombre": "Hyséac 3-Regul+ Cuidado global anti-imperfecciones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009648",
+      "3661434010088"
+     ],
+     "inci": "Aqua/Water/Eau, Di-C12-13 Alkyl Malate, Polymethyl Methacrylate, Dicaprylyl Ether, Tapioca Starch, Glycolic Acid, Sodium Hydroxide, Diglycerin, Glycerin, Malic Acid, Steareth-2, Steareth-21, Lactic Acid, Pentaerythrityl Distearate, Butylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Jojoba Esters, Dimethicone, Glyceryl Stearate, Parfum/Fragrance, PEG-100 Stearate, Propanediol, Tocopheryl Acetate, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Piroctone Olamine, Xanthan Gum, Pentylene Glycol, Phytosphingosine, Lens Esculenta (Lentil) Seed Extract, Polymethylsilsesquioxane, Salicylic Acid, Zinc Lactate, Asiaticoside, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Glycyrrhiza Inflata Root Extract, Sodium Benzoate, Rhamnose, Glucose, Glucuronic Acid, Tocopherol"
+    },
+    {
+     "nombre": "Hyséac 3-Regul Cuidado global SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010095"
+     ],
+     "inci": "Aqua/Water/Eau, Ethylhexyl Methoxycinnamate, CI 77891 (Titanium Dioxide), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Octocrylene, Dicaprylyl Carbonate, Nylon-12, Steareth-2, Steareth-21, Dimethicone, Cetyl Alcohol, Hydrogenated Vegetable Oil, Butylene Glycol, Potassium Cetyl Phosphate, Tromethamine, Lactic Acid, Parfum/Fragrance, CI 77492 (Iron Oxides), Phenoxyethanol, Hydrogenated Palm Kernel Glycerides, Glyceryl Stearate, PEG-100 Stearate, CI 77491 (Iron Oxides), Chlorphenesin, Polyacrylate-13, Tetrasodium EDTA, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyisobutene, Hydrogenated Palm Glycerides, CI 77499 (Iron Oxides), o-CYMEN-5-OL, Salicylic Acid, Tocopheryl Acetate, Alumina, Triethoxycaprylylsilane, Propanediol, Polysorbate 20, Sorbitan Isostearate, Asiaticoside, Glycyrrhiza Inflata Root Extract, Phytosphingosine, BHT, Tocopherol, Rhamnose, Lens Esculenta (Lentil) Fruit Extract, Glucose, Glucuronic Acid, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Hyséac Fluido matificante SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434010057"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Nylon-12, C20-22 Alkyl Phosphate, Glycerin, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Dimethicone, Xanthan Gum, Chlorphenesin, Parfum/Fragrance, Triacontanyl PVP, Benzoic Acid, Tetrasodium EDTA, O-Cymen-5-Ol, Tocopheryl Acetate, Sodium Hydroxide, Propylene Glycol, Citric Acid, Glycyrrhiza Inflata Root Extract"
+    },
+    {
+     "nombre": "Hyséac Hydra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434004339"
+     ],
+     "inci": "Aqua/Water/Eau, Cetearyl Isononanoate, Polymethyl Methacrylate, Propylheptyl Caprylate, Squalane, Glycerin, Diglycerin, Steareth-2, Steareth-21, Butylene Glycol, Cetyl Alcohol, Dimethicone, Phenoxyethanol, Brassica Campestris (Rapeseed) Sterols, Glyceryl Stearate, PEG-100 Stearate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Parfum/Fragrance, Isohexadecane, Phytosphingosine, o-CYMEN-5-OL, Polysorbate 80, Tocopheryl Acetate, Tromethamine, Asiaticoside, Opuntia Ficus-Indica Stem Extract, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Biosaccharide Gum-1, Sorbitan Oleate, Disodium Phosphate"
+    },
+    {
+     "nombre": "Roséliane Sérum neutralizador de rojeces visibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434023422"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Diglycerin, Glycerin, Squalane, Propanediol, 1,2-Hexanediol, Niacinamide, Microcrystalline Cellulose, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Xanthan Gum, Chondrus Crispus Powder, Cellulose Gum, CI 77891 (Titanium Dioxide), Mica, Glycyrrhetinic Acid, Tocopheryl Acetate, Maltodextrin, Asiaticoside, Phytosphingosine, Panax Ginseng Root Extract, Ascophyllum Nodosum Extract, Glucosyl Hesperidin, Tocopherol, Silica, CI 19140/Yellow 5, CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Toléderm Control Contorno de ojos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434008481"
+     ],
+     "inci": "Aqua/Water/Eau, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Squalane, Microcrystalline Cellulose, Polyglyceryl-6 Distearate, Dicaprylyl Ether, 1,2-Hexanediol, Jojoba Esters, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Potassium Cetyl Phosphate, Sodium Hydroxide, Cetyl Alcohol, Polyglyceryl-3 Beeswax, Xanthan Gum, Tocopheryl Acetate, Hydrolyzed Algin, Tocopherol"
+    },
+    {
+     "nombre": "Toléderm Gel-leche desmaquillante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009440"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Squalane, 1,2-Hexanediol, Triethyl Citrate, Carbomer, Hydroxyacetophenone, Coco Glucoside, Sodium Hydroxide, Hydrolyzed Algin"
+    },
+    {
+     "nombre": "Bebé 1ª Agua termal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434005732"
+     ],
+     "inci": "Aqua/Water/Eau, Nitrogen"
+    },
+    {
+     "nombre": "Pruriced SOS cuidado calmante post-picaduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434009693"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Octyldodecanol, 1,2-Hexanediol, Calamine, Sodium Polyacryloyldimethyl Taurate, Aloe Barbadensis Leaf Extract, Oleyl Alcohol, Sodium Dextran Sulfate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Xanthan Gum, Zanthoxylum Bungeanum Fruit Extract, Sodium Hydroxide, Limonene"
+    },
+    {
+     "nombre": "Bariésun Leche SPF50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3661434028083"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/Dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Parfum/Fragrance, Coco-Glucoside, Benzoic Acid, Tetrasodium EDTA, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, o-CYMEN-5-OL, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51"
     }
    ]
   }
