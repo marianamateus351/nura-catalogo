@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone y los `0840122…` de Rare Beauty, que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone y Rare Beauty). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, los `0840122…` de Rare Beauty y los `0818625…` de Medik8 (solo los de sus envases UE), que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone, Rare Beauty y Medik8). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -774,6 +774,70 @@ datos → "Huecos del catálogo"): productos que la gente ya tiene metidos en su
 rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
+
+### Medik8 (es.medik8.com + tiendas UE de la marca) — abierta 2026-10-03 (versión 2026-10-03a): 48 productos, 58 códigos
+**Marca pedida por Mariana el 2026-10-03.** Dermocosmética británica (vitamina A, vitamina C, péptidos).
+- **Códigos: no son EAN británicos `50…`.** Medik8 usa el prefijo GS1 `818625` (UPC-A de 12 dígitos → EAN-13 con el
+  0 delante, `0818625…`), y **los envases del Reino Unido y los de la UE llevan códigos distintos**: Crystal Retinal 3
+  es `0818625024529` en medik8.com (Reino Unido) y en int.medik8.com, y `0818625027414` en es/pt/nl/de/fr/it.medik8.com
+  (las fotos de la tienda española dicen "ROW", envase del resto del mundo). **Entran solo los códigos UE**, los que se
+  escanean aquí (criterio de Mariana, decisión D): los de la **tienda española** (`es.medik8.com`, Shopify; `medik8.es`
+  redirige ahí) y los de la **portuguesa** (`pt.medik8.com`). Todos salen del `barcode` de la variante en
+  `/products/<handle>.js`; no ha hecho falta Druni, Primor ni farmacias (que además cargan los resultados por JavaScript).
+- **La tienda española traduce la lista al castellano** ("Agua, triglicérido caprílico/cáprico, glicerina…"): no vale tal
+  cual (regla de listas traducidas). Las otras tiendas UE de la marca (nl, pt, de, fr, it) **comparten los mismos códigos**
+  y unas veces publican la lista en INCI y otras traducida, ficha a ficha (la de NL de Niacinamide Peptides está en
+  neerlandés, la de DE pone "Aqua (Wasser)", "Ascorbinsäure"…). Método: para cada código, la lista de las cinco tiendas en
+  la ficha con ese mismo código; se quedan solo las que están en INCI (vocabulario del catálogo y palabras de otros
+  idiomas) y, de esas, las que tienen **el mismo número de ingredientes que la lista traducida de la ficha española**; si
+  quedan varias, la que más tiendas repiten. Resultado: 44 de 58 códigos con la misma lista en 2 a 4 tiendas; listas de
+  NL 49, DE 4, PT 3, IT 2. En 46 códigos el recuento coincide con la traducción española (en los otros 12 la ficha
+  española no trae lista: recargas y tamaños de viaje, que van en la ficha del producto).
+- Casos sueltos: **Niacinamide Peptides**: DE y FR dan otra versión (30 ingredientes); PT e IT, 33 como la española → PT.
+  **Total Moisture Daily Cleansing Gel**: ninguna tienda UE lo da en INCI; DE casi ("Aqua (Wasser)", "Oryza Sativa (Reis-)
+  Lees-Extrakt"); esos dos nombres se pasan al INCI de la lista británica, que es idéntica en lo demás (36 = 36 = la
+  española). **Press & Clear** principal en España `0818625027599` y en NL/PT `0818625028367` (dos códigos UE del mismo
+  producto): entran los dos con la recarga y el de viaje (misma lista). **Super C Ferulic** y **Exo-PDRN Prismatic+**: solo
+  DE en INCI; **r-Retinoate** y **Crystal Retinal**: solo NL; **Intelligent Retinol Smoothing Night Cream** y **Daily Refresh
+  Balancing Toner**: solo en la tienda portuguesa (no en la española), lista de PT.
+- **Tamaños juntos** cuando la lista es la misma: Advanced Pro-Collagen+ (tarro, recarga y viaje), Total Moisture Daily
+  Facial Cream (50 ml, recarga y viaje), Press & Clear (4 códigos), Press & Glow (3), Hydr8 B5 Intense (2). **Versiones
+  separadas**: Crystal Retinal 1, 3, 6, 10, 20 y 24; Crystal Retinal Ceramide Eye 3, 6 y 10 (la web da una lista por
+  concentración); C-Tetra, C-Tetra Luxe, C-Tetra Advanced y C-Tetra Cream. **C-Tetra Lipid no se vende en ninguna tienda
+  UE** de la marca (solo hay un código australiano en OBF, sin lista): no entra. Listas por partes: Balance Moisturiser &
+  Glycolic Acid Activator y H.E.O. Mask (crema · gel), cada parte con su nombre.
+- **Fuera**: 6 cofres/rutinas (Radiance Ritual, Nighttime Nourish, Retinal Recharge, Age-Defying Essentials, Rejuvenation
+  Routine, Firm Favourites), 4 muestras de lujo, tarjeta regalo y 3 accesorios (espátula, discos de bambú, exprimidor de
+  tubos). Lo que solo está en medik8.com/int.medik8.com (envase británico: Intelligent Retinol, Gentle Cleanse, Calmwise
+  Serum, Eyelift Peptides, Ultimate Recovery…) no entra.
+- Limpieza: fuera el punto final y la nota "*natural extracts" (r-Retinoate Intense: "Parfum*" → Parfum). **Erratas de la
+  web corregidas**: "Simmondsia Chinensis (Sunflower) Seed Oil" → (Jojoba) (Niacinamide Peptides; la jojoba no es girasol),
+  "Curcuma Longa (Tumeric)" → (Turmeric). Todas las palabras validadas contra el vocabulario: las nuevas son INCI reales
+  (péptidos como Acetyl Glycyl Beta-Alanine, Tetrapeptide-30, Copper Palmitoyl Heptapeptide-14; Teprenone,
+  Menaquinone-4, Caprooyl Sphingosine, Ceramide EOS, Artocarpus Lakoocha…). `check.py`: 0 sospechosas.
+- **Contraste con Open Beauty Facts**: ninguno de los 58 códigos está en Open Beauty, Food ni Products Facts; OBF solo
+  tiene un producto Medik8 (C-Tetra Lipid, código australiano, sin lista). Las listas quedan contrastadas entre tiendas
+  oficiales (arriba), no con etiquetas.
+- **Revisión FP/FN** (`revisa.mjs medik8`): las 48 en Cuidado personal. Sin falsos positivos: fenoxietanol 37, BHT 12,
+  propilenglicol 6, climbazol 6 (los Crystal Retinal: va en la fórmula), microplásticos 3 (Nylon-12, PMMA), fragancia 2
+  (r-Retinoate Intense y Advanced Day Ultimate Protect), etoxilados 2, D5 y D6 1 (C-Tetra), clorhexidina y árbol del té
+  1 (Clarifying Foam); "Embarazo" en
+  17, todos correctos (retinal, retinol, retinyl retinoate, ácido salicílico; el bakuchiol no salta); sulfitos 6.
+  **Falso negativo arreglado en la app**: "Lavandula Angustifolia (Lavender) **Herb** Oil" (aceite esencial) no saltaba en
+  la 211: añadidos "lavandula angustifolia (lavender) herb oil" y "lavandula angustifolia herb oil". El "Lavender Flower
+  Water" (hidrolato, no aceite esencial; Advanced Pro-Collagen+) sigue sin aviso, a propósito. **Regresión: la marca nueva, 0 cambios en las 5.112
+  fichas anteriores; el alias de lavanda, 2 cambios, los dos previstos** (Advanced Night Restore e Intelligent Retinol
+  Smoothing Night Cream ganan el aviso tranquilo de lavanda).
+- **Decisiones de criterio para Mariana (sin prisa; aplicada la opción conservadora salvo en K)**:
+  - **K. Crystal Retinal: la marca publica UNA sola lista para las seis concentraciones** (igual en las tiendas del Reino
+    Unido, internacional, NL y ES traducida). Siguiendo tu paso 3 van **seis entradas, una por concentración, cada una con
+    esa lista oficial**. Pero en INCIDecoder las concentraciones salen con listas distintas (versiones anteriores; algunas con
+    el colorante CI 14700): no se puede comprobar que hoy sean iguales. Los avisos (embarazo por el retinal, BHT,
+    climbazol) no cambiarían. Si prefieres no meterlas hasta tener la lista de cada envase, se quitan las seis.
+  - **L. Envases británicos.** Hoy solo entran los códigos UE. Si una usuaria escanea un Medik8 con código británico
+    (`08186250245…`, `08186250227…`, etc.; comprado en el Reino Unido o en una tienda que trae envase británico), no saldrá. Se
+    podrían añadir los códigos británicos de los productos con la lista idéntica a la UE; no se ha hecho por la decisión D.
+- Scripts: `m8/final.py` (listas por código en las 5 tiendas), `m8/out.py` (entradas) en el scratchpad.
 
 ### Rare Beauty (rarebeauty.com) — abierta 2026-09-30 (versión 2026-09-30f): 98 productos, 401 códigos
 **Marca pedida por Mariana el 2026-09-30.** Maquillaje de EE. UU. (Selena Gomez) que en España se vende en Sephora.
@@ -2576,6 +2640,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | MET (You Are The Princess) | Shopify (`/collections/met`) | sí, `barcode` por variante en `.js` | sí, bloque INGREDIENTES (transcrito, con erratas: validar) | ver su apartado |
 | Salt & Stone | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC) | sí, modal "Full Ingredients" por aroma | ver su apartado |
 | Rare Beauty | Shopify (`products.json`) | sí, `barcode` por variante en `/products/<handle>.js` (UPC `840122…`) | sí, bloque "Full Ingredients", con cabecera por tono cuando cambia | ver su apartado |
+| Medik8 | Shopify (`es.medik8.com`, `pt.medik8.com`) | sí, `barcode` por variante en `.js` (envase UE; el británico es otro código) | **traducida** en ES; en INCI ficha a ficha en nl/pt/de/fr/it.medik8.com (mismos códigos) | ver su apartado |
 | Caudalie | sí (`/sitemap.xml`, incompleto: sumar categorías) | sí, `gtin13` en el JSON-LD | sí, "Lista completa de ingredientes" en el JSON-LD | ver su apartado; la web puede ir por delante del envase |
 | KH-7 | — | no: Consum/Alcampo/Mercadona (UFI) | ficha 648/2004 en PDF en kh7.es | ver su apartado |
 | Bosque Verde (Mercadona) | — | API de Mercadona | ficha 648/2004 del fabricante (Francisco Aragón, SPB), contrastada con la etiqueta | ver su apartado |
@@ -2639,13 +2704,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-7513 códigos en 78 marcas: NYX 999 · **Rare Beauty 401** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+7571 códigos en 79 marcas: NYX 999 · **Rare Beauty 401** · **Medik8 58** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · Fairy 12 · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 5112 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 5160 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

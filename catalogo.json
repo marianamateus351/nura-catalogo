@@ -1,5 +1,5 @@
 {
- "version": "2026-09-30f",
+ "version": "2026-10-03a",
  "marcas": [
   {
    "key": "larocheposay",
@@ -48928,6 +48928,454 @@
       "0840122900228"
      ],
      "inci": "Dimethicone, Methyl Trimethicone, Dimethicone Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Polyglyceryl-2 Triisostearate, Isododecane, 1,2-Hexanediol, Disteardimonium Hectorite, Phenoxyethanol, PEG-10 Dimethicone, Tocopheryl Acetate, Propylene Carbonate, Fragrance/Parfum, Linalool, Helianthus Annuus (Sunflower) Seed Oil, Gardenia Florida Fruit Extract, Nelumbo Nucifera (Sacred Lotus) Flower Extract, Nymphaea Odorata Root Extract, [+/- May Contain/Peut Contenir: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491), Iron Oxides (CI 77499), Red 28 Lake (CI 45410), Red 27 (CI 45410), Red 7 Lake (CI 15850), Iron Oxides (CI 77492), Yellow 6 Lake (CI 15985), Yellow 5 Lake (CI 19140), Blue 1 Lake (CI 42090)]"
+    }
+   ]
+  },
+  {
+   "key": "medik8",
+   "nombre": "Medik8",
+   "productos": [
+    {
+     "nombre": "Crema de péptidos Advanced Pro-Collagen+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028428",
+      "0818625027803",
+      "0818625028138"
+     ],
+     "inci": "Aqua (Water), Squalane, Caprylic/Capric Triglyceride, Lavandula Angustifolia (Lavender) Flower Water, Glycerin, Dimethicone, Stearic Acid, Phytosteryl Oleate, C12-16 Alcohols, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Maltodextrin, Carnosine, Rosmarinus Officinalis (Rosemary) Water, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Ceramide NP, Linoleic Acid, Cetearyl Olivate, Palmitic Acid, Behenyl Alcohol, Tocopheryl Acetate, Collagen Amino Acids, Micrococcus Lysate, Hydrogenated Lecithin, Oligopeptide-1, Sorbitan Olivate, Helianthus Annuus (Sunflower) Sprout Extract, Xanthan Gum, Citric Acid Monohydrate, Sodium Hyaluronate, Ethylhexylglycerin, Sodium Gluconate, Sodium Polyglutamate, Acetyl Glucosamine, Hydroxyacetophenone, Phytosterols, Sodium Lauroyl Lactylate, Lecithin, Cholesterol, Ceteareth-25, Ceramide AP, Phytosphingosine, Carbomer, Cetyl Alcohol, Behenic Acid, Ceramide NS, Ceramide EOP, Ceramide EOS, Caprooyl Phytosphingosine, Caprooyl Sphingosine, Phenoxyethanol, Ascorbyl Palmitate, Tocopherol, Glyceryl Stearate, Glyceryl Oleate, Citric Acid"
+    },
+    {
+     "nombre": "Sérum antimanchas Oxy-R Peptides",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027728"
+     ],
+     "inci": "Aqua (Water), Butylene Glycol, Artocarpus Lakoocha Wood Extract, Hydroxyresveratrol, Gluconolactone, Acetyl Glycyl Beta-Alanine, Glycerin, Lactic Acid, Sodium Hyaluronate, Sodium Benzoate, Disodium EDTA, Tetrapeptide-30, Xanthan Gum, Sodium Metabisulfite, Calcium Gluconate"
+    },
+    {
+     "nombre": "Sérum de vitamina C y ácido ferúlico Super C Ferulic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027988"
+     ],
+     "inci": "Methoxymethylbutanol, 3-O-Ethyl Ascorbic Acid, Propylene Glycol, Butylene Glycol, Pentylene Glycol, Ferulic Acid, Tetrahydrodiferuloylmethane, Aqua (Water), Tocopheryl Acetate"
+    },
+    {
+     "nombre": "Tónico exfoliante con ácido salicílico Press & Clear",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625026448",
+      "0818625027599",
+      "0818625028374",
+      "0818625028367"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycereth-26, Salicylic Acid, Tranexamic Acid, Dimethyl Isosorbide, Cyclodextrin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Saccharomyces Ferment Filtrate, Lecithin, Oryza Sativa Lees Extract, Xanthan Gum, Ethylhexylglycerin, Butylene Glycol, Sclerotium Gum, 1,2-Hexanediol, Pullulan, Disodium EDTA, Sodium Hydroxide, Polyacrylate Crosspolymer-6, Phenoxyethanol, Buteth-3, Hydroxyacetophenone, Sodium Metabisulfite, Sodium Benzotriazolyl Butylphenol Sulfonate, Tributyl Citrate, Potassium Sorbate, Silica, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Sérum hidratante Hydr8 B5 Intense",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028169",
+      "0818625027520"
+     ],
+     "inci": "Aqua (Water), Panthenol, Glyceryl Glucoside, Propylene Glycol, Sodium Hyaluronate, Glycerin, Sodium PCA, Amelanchier Alnifolia (Saskatoon) Fruit Extract, Urea, Calcium Pantothenate, Trehalose, Taurine, Creatine, Diglycerin, Acetyl Glucosamine, Daucus Carota Sativa (Black Carrot) Juice, Glycine Soja (Soybean) Seed Extract, Lysine HCL, Alanine, Arginine, Histidine HCL, Biosaccharide Gum-1, Phenoxyethanol, Serine, Allantoin, Proline, Lactic Acid, Ethylhexylglycerin, Hydroxyacetophenone, Hydrolyzed Wheat Protein, Lysine, PCA, Sorbitol, Glutamic Acid, Threonine, Valine, Leucine, Glycine, Isoleucine, Phenylalanine, Potassium Sorbate, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Tónico exfoliante con PHA Press & Glow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028152",
+      "0818625027537",
+      "0818625027551"
+     ],
+     "inci": "Aqua (Water), Gluconolactone, Glycerin, Hydrolyzed Opuntia Ficus-Indica Flower Extract, Euterpe Oleracea Fruit Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice, Sodium Hydroxide, Sodium Citrate, Hydroxyacetophenone, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel limpiador Total Moisture Daily Cleansing Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028732"
+     ],
+     "inci": "Aqua (Water), Sodium Cocoyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Methylpropanediol, Coco-Glucoside, Propanediol, Saccharide Isomerate, Inulin, Oryza Sativa (Rice) Lees Extract, Sodium Cocoyl Collagen Amino Acids, Glycolipids, Glyceryl Oleate, Saccharomyces Ferment Filtrate, Sodium Cocoyl Glycinate, Polyacrylate Crosspolymer-6, Hydroxyacetophenone, Caprylyl Glycol, Sodium Gluconate, Sodium Chloride, Xanthan Gum, Tetrasodium Glutamate Diacetate, Cellulose, Sodium Benzoate, Sodium Citrate, Citric Acid, Fructose, Phenylpropanol, Sodium Metabisulfite, Butylene Glycol, 1,2-Hexanediol, Cellulose Gum, Tocopherol, Ethylhexylglycerin, Hydrogenated Vegetable Glycerides Citrate"
+    },
+    {
+     "nombre": "Sérum Exo-PDRN Prismatic+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028770"
+     ],
+     "inci": "Aqua (Water), Glycerin, Niacinamide, Lactobacillus Ferment, Centella Asiatica Leaf Extract, Lactobacillus Extracellular Vesicles, DNA, Punica Granatum Extract, Laminaria Digitata Extract, Oligopeptide-1, Disodium Adenosine Triphosphate, Sodium Hyaluronate, Lysine HCl, Proline, Histidine HCl, Arginine, Threonine, Serine, Valine, Alanine, Panthenol, Glutamic Acid, Leucine, Glycine, Taurine, Allantoin, Isoleucine, Phenylalanine, Polyacrylate Crosspolymer-6, Magnesium Aspartate, Butylene Glycol, Citric Acid, Calcium Pantothenate, Ethylhexylglycerin, 1,2-Hexanediol, Pentylene Glycol, Benzyl Alcohol, Caprylyl Glycol, Dehydroacetic Acid, Phenoxyethanol, Sodium Citrate"
+    },
+    {
+     "nombre": "Sérum de niacinamida y péptidos Clarity Peptides",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027995"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Caprylic/Capric Triglyceride, Acetyl Glucosamine, Glyceryl Stearate Citrate, Dimethicone, Zinc PCA, Glycerin, Polyglyceryl-3 Stearate, Crambe Abyssinica Seed Oil, Hydroxyacetophenone, Hydrogenated Lecithin, Behenyl Alcohol, Cetearyl Alcohol, Phenoxyethanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Disodium EDTA, Xanthan Gum, Cetyl Palmitate, Carnosine, Ethylhexylglycerin, Polysorbate 80, Palmitoyl Tetrapeptide-10, Sorbitan Stearate, Sodium Hyaluronate, Polysorbate 60, Sorbitan Isostearate, Sodium Benzoate, Citric Acid, Tocopherol, Butylene Glycol, 1,2-Hexanediol, Caprylhydroxamic Acid"
+    },
+    {
+     "nombre": "Sérum de niacinamida y péptidos Niacinamide Peptides",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028381"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Caprylic/Capric Triglyceride, Acetyl Glucosamine, Glyceryl Stearate Citrate, Polyglyceryl-3 Stearate, Dimethicone, Glycerin, Zinc PCA, Hydrogenated Lecithin, Sodium Hyaluronate, Palmitoyl Tetrapeptide-10, Crambe Abyssinica Seed Oil, Hydroxyacetophenone, Simmondsia Chinensis (Jojoba) Seed Oil, Disodium EDTA, Xanthan Gum, Cetyl Palmitate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopherol, Carnosine, Ethylhexylglycerin, Phenoxyethanol, Polysorbate 80, Sorbitan Stearate, Sodium Benzoate, Polysorbate 60, Sorbitan Isostearate, Citric Acid, Butylene Glycol, 1,2-Hexanediol, Caprylhydroxamic Acid"
+    },
+    {
+     "nombre": "Crema hidratante Total Moisture Daily Facial Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028145",
+      "0818625027698",
+      "0818625027704"
+     ],
+     "inci": "Aqua (Water), Glycerin, Dimethicone, Squalane, Caprylic/Capric Triglyceride, Bis-Peg-18 Methyl Ether Dimethyl Silane, Pentaerythrityl Tetraethylhexanoate, Propanediol, Arachidyl Alcohol, Cetearyl Alcohol, Inulin, Behenyl Alcohol, Phenoxyethanol, Arachidyl Glucoside, Tocopheryl Acetate, Caprylyl Glycol, Linoleic Acid, Saccharomyces Ferment Filtrate, Glyceryl Glucoside, Sodium Hyaluronate, Acetyl Heptapeptide-4, Linolenic Acid, Cetearyl Glucoside, Sodium Polyacryloyldimethyl Taurate, Diglycerin, Ceramide NP, Sodium PCA, Urea, Carbomer, Disodium EDTA, Hydrogenated Polydecene, Ethylhexylglycerin, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Lactic Acid, Lysine, PCA, Sorbitol, Butylene Glycol, 1,2-Hexanediol, Trideceth-10, Tocopherol, Hydrolyzed Wheat Protein, Allantoin, Oryza Sativa Lees Extract"
+    },
+    {
+     "nombre": "Sérum de vitamina C C-Tetra Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028121"
+     ],
+     "inci": "Aqua (Water), Tetrahexyldecyl Ascorbate, Isododecane, Propanediol, Acetyl Glucosamine, Squalane, Tocopherol, Acetyl Zingerone, Camellia Sinensis (Green Tea) Leaf Vesicles, Hydroxyacetophenone, Sodium Hyaluronate, Cellulose, Avena Sativa (Oat) Kernel Extract, Glycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Citrus Grandis (Grapefruit) Peel Oil, Sucrose Stearate, Tetrasodium Glutamate Diacetate, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Sodium Benzoate, Cellulose Gum, 1,2-Hexanediol, Polysorbate 60, Sorbitan Isostearate, Citric Acid, Phenoxyethanol, Citral, Linalool, Limonene"
+    },
+    {
+     "nombre": "Crema de noche Advanced Night Restore",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027452"
+     ],
+     "inci": "Aqua (Water), Squalane, Caprylic/Capric Triglyceride, Dimethicone, Glycerin, Stearic Acid, Phytosterols, Propylene Glycol, C12-16 Alcohols, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, Palmitic Acid, Ceramide NP, Cetearyl Olivate, Linoleic Acid, Behenyl Alcohol, Hydrogenated Lecithin, Tocopheryl Acetate, Sorbitan Olivate, Phenoxyethanol, Benzyl Alcohol, Amelanchier Alnifolia (Saskatoon) Fruit Extract, Ethylhexylglycerin, Acetyl Glucosamine, Citric Acid, Sorbitol, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Amara Flower Oil, Lavandula Angustifolia (Lavender) Herb Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Hylocereus Undatus (Dragon Fruit) Fruit Extract, Dehydroacetic Acid, Tremella Fuciformis (Snow Mushroom) Extract, Sodium Lauroyl Lactylate, Anthemis Nobilis (Chamomile) Flower Oil, Pogostemon Cablin (Patchouli) Leaf Oil, Vetiveria Zizanoides (Vetiver) Root Oil, Ascorbic Acid, Disodium EDTA, Ceramide AP, Ceteareth-25, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Cetyl Alcohol, Behenic Acid, Ceramide NS, Ferric Hexapeptide-35, Ceramide EOP, Ceramide EOS, Caprooyl Phytosphingosine, Caprooyl Sphingosine, Ascorbyl Palmitate, Tocopherol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Sérum de péptidos Liquid Peptides Advanced MP",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027513"
+     ],
+     "inci": "Aqua (Water), Glycerin, Dimethicone, Dimethyl Isosorbide, Butylene Glycol, Undecane, Arginine, Inulin, Microcrystalline Cellulose, Ceteareth-20, Tridecane, Tocopherol, Hydroxyacetophenone, Sodium Hyaluronate, Palmitoyl Tripeptide-38, Panthenol, Caprylic/Capric Triglyceride, Palmitoyl Tripeptide-5, Polyacrylate Crosspolymer-6, Palmitoyl Tripeptide-1, Pullulan, Tetrapeptide-21, Palmitoyl Tetrapeptide-10, Palmitoyl Tetrapeptide-7, Ammonium Polyacryloyldimethyl Taurate, Glyceryl Linoleate, Acetyl Hexapeptide-8, Pentapeptide-18, Oligopeptide-1, Arginine/Lysine Polypeptide, Sucrose Palmitate, Cetyl Palmitate, Phenoxyethanol, Ethylhexylglycerin, Carbomer, Copper Palmitoyl Heptapeptide-14, Heptapeptide-15 Palmitate, Benzotriazolyl Dodecyl P-Cresol, Polysorbate 80, Sorbitan Stearate, Polysorbate 20, Carnosine, Sodium Metabisulfite, Dunaliella Salina Extract, Helianthus Annuus (Sunflower) Seed Oil, Hydroxypropyl Cyclodextrin, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Benzoate, Hydrogenated Lecithin, Caprylyl Glycol, Pantolactone, Xanthan Gum, Disodium EDTA, T-Butyl Alcohol, Potassium Sorbate, Citric Acid, Glyceryl Caprylate, Lactic Acid/Glycolic Acid Copolymer, Polyvinyl Alcohol, Phenylpropanol"
+    },
+    {
+     "nombre": "Sérum de ojos r-Retinoate Day & Night Eye Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027766"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Isododecane, Cetearyl Alcohol, Glycerin, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Polylactic Acid, 1,2-Hexanediol, Sorbitan Olivate, Squalane, Sodium Hyaluronate, Caffeine, Cholesteryl Nonanoate, Retinyl Retinoate, Hydrolyzed Glycosaminoglycans, Illicium Verum Fruit Extract, Tetrahexyldecyl Ascorbate, Tocopheryl Acetate, Caprylhydroxamic Acid, Canola Oil, Glucosyl Hesperidin, Scutellaria Baicalensis Root Extract, Disodium EDTA, Vanilla Planifolia (Vanilla) Fruit Extract, Citric Acid, Theobromine"
+    },
+    {
+     "nombre": "Contorno de ojos con retinal Crystal Retinal Ceramide Eye 3",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027469"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Propanediol, Arachidyl Alcohol, Cetearyl Isononanoate, Glycerin, Isododecane, Squalane, Ethylhexyl Palmitate, Behenyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate, Microcrystalline Cellulose, PPG-12/SMDI Copolymer, Tocopheryl Acetate, Phytosterols, Phenoxyethanol, Arachidyl Glucoside, Dimethicone, Sodium Acrylates Copolymer, Tocopherol, Linoleic Acid, Ceramide NP, Cyclodextrin, Bisabolol, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Sodium Hyaluronate, Retinal, Pandanus Conoideus Fruit Oil, Daucus Carota Sativa (Carrot) Seed Oil, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Sodium Polyaspartate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Rubus Chamaemorus (Cloudberry) Seed Oil, Xanthan Gum, Ethylhexylglycerin, Cellulose, BHT, Sodium Hydroxide, Pentylene Glycol, Trihydroxystearin"
+    },
+    {
+     "nombre": "Contorno de ojos con retinal Crystal Retinal Ceramide Eye 6",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027476"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Propanediol, Arachidyl Alcohol, Cetearyl Isononanoate, Glycerin, Isododecane, Squalane, Ethylhexyl Palmitate, Behenyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate, Microcrystalline Cellulose, PPG-12/SMDI Copolymer, Tocopheryl Acetate, Phytosterols, Phenoxyethanol, Arachidyl Glucoside, Cyclodextrin, Dimethicone, Sodium Acrylates Copolymer, Tocopherol, Linoleic Acid, Ceramide NP, Bisabolol, Hydroxyacetophenone, Pandanus Conoideus Fruit Oil, Sodium Stearoyl Glutamate, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Cellulose, Sodium Hyaluronate, Retinal, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Lonicera Japonica (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Lonicera Caprifolium (Honeysuckle) Flower Extract, Sodium Polyaspartate, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, BHT, Rubus Chamaemorus (Cloudberry) Seed Oil, Pentylene Glycol, Sodium Hydroxide, Trihydroxystearin"
+    },
+    {
+     "nombre": "Contorno de ojos con retinal Crystal Retinal Ceramide Eye 10",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027483"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Propanediol, Arachidyl Alcohol, Cetearyl Isononanoate, Glycerin, Isododecane, Squalane, Ethylhexyl Palmitate, Behenyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate, Microcrystalline Cellulose, PPG-12/SMDI Copolymer, Tocopheryl Acetate, Cyclodextrin, Phytosterols, Phenoxyethanol, Arachidyl Glucoside, Dimethicone, Sodium Acrylates Copolymer, Tocopherol, Linoleic Acid, Pandanus Conoideus Fruit Oil, Ceramide NP, Bisabolol, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Cellulose, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Sodium Hyaluronate, Retinal, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Lonicera Japonica (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Lonicera Caprifolium (Honeysuckle) Flower Extract, Sodium Polyaspartate, Xanthan Gum, Disodium EDTA, Rubus Chamaemorus (Cloudberry) Seed Oil, Ethylhexylglycerin, BHT, Pentylene Glycol, Sodium Hydroxide, Trihydroxystearin"
+    },
+    {
+     "nombre": "Mascarilla hidratante de noche H.E.O. Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028077"
+     ],
+     "inci": "H.E.O. Mask Cream: Aqua (Water), Squalane, Dimethicone, Caprylic/Capric Triglyceride, Stearic Acid, Glyceryl Stearate, PPG-12/SMDI Copolymer, Behenyl Alcohol, Cetearyl Olivate, Phenoxyethanol, Linoleic Acid, Ceramide NP, C12-16 Alcohols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sorbitan Olivate, Xanthan Gum, Palmitic Acid, Sodium Hydroxide, Ethylhexylglycerin, Hydrogenated Lecithin, Lactic Acid, 1-Methylhydantoin-2-Imide, Acetyl Glucosamine, Polysorbate 60, Sorbitan Isostearate · H.E.O. Mask Gel: Aqua (Water), Glycerin, Saccharide Isomerate, Aloe Barbadensis (Aloe Vera) Leaf Juice, Glyceryl Glucoside, Urea, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butylene Glycol, Sodium Hyaluronate, Phenoxyethanol, Sodium Hydroxide, Ethylhexylglycerin, Allantoin, Sodium PCA, Citric Acid, Sodium Citrate, Crambe Maritima (Sea Kale) Leaf Extract, Maltodextrin, Potassium Sorbate, Sodium Benzoate, Hydrolyzed Gardenia Florida Extract"
+    },
+    {
+     "nombre": "Crema de día con SPF Advanced Day Ultimate Protect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027568"
+     ],
+     "inci": "Aqua (Water), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Glycerin, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Ethylhexyl Triazone, Capryloyl Glycerin/Sebacic Acid Copolymer, Isododecane, Vaccinium Myrtillus (Blueberry) Seed Oil, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Silica, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Potassium Cetyl Phosphate, Squalane, Phenoxyethanol, Hydroxyacetophenone, Inulin Lauryl Carbamate, Marrubium Vulgare Extract, Arginine, Sodium Hyaluronate, Lecithin, Xanthan Gum, Carnosine, Disodium EDTA, Coco-Glucoside, Citric Acid, Benzoic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Plankton Extract, Dehydroacetic Acid, Parfum, Disodium Lauryl Sulfosuccinate, Ethylhexylglycerin, Sodium Hydroxide, Limonene, Linalool, Citral"
+    },
+    {
+     "nombre": "Sérum de noche con ácido glicólico Sleep Glycolic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027971"
+     ],
+     "inci": "Aqua (Water), Glycolic Acid, Cyclodextrin, Caprylic/Capric Triglyceride, Dimethicone, Glyceryl Stearate, Sucrose Stearate, Sodium Hydroxide, Glycerin, Phenoxyethanol, Lespedeza Capitata Flower/Leaf/Stem Extract, Propanediol, Xanthan Gum, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Sérum de vitamina C C-Tetra Luxe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027575"
+     ],
+     "inci": "Squalane, Simmondsia Chinensis (Jojoba) Seed Oil, Tetrahexyldecyl Ascorbate, Dimethicone, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Citrus Grandis (Grapefruit) Peel Oil, Ethyl Linoleate, Passiflora Edulis (Passion Fruit) Seed Oil, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Panax Ginseng Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Prunus Armeniaca (Apricot) Kernel Oil, PPG-12/SMDI Copolymer, Limonene, Citral, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Limpiador calmante Calmwise Soothing Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027742"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Glycerin, Disodium Cocoamphodiacetate, Sodium Cocoamphoacetate, Coco-Glucoside, Decyl Glucoside, Brassica Oleracea Capitata (Cabbage) Leaf Extract, Menaquinone-4, Phenoxyethanol, Citrus Aurantium Dulcis (Orange) Peel Oil, Citric Acid, Ethylhexylglycerin, Sodium Benzoate, Benzyl Alcohol, Dehydroacetic Acid, Curcuma Longa (Turmeric) Root Extract, Sodium Bicarbonate, Caprylic/Capric Triglyceride, Yucca Vera Extract, Teprenone, Maltodextrin, Limonene, Citral, Linalool, CI 75810 (Chlorophyllin-Copper Complex)"
+    },
+    {
+     "nombre": "Limpiador exfoliante Surface Radiance Cleanse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027612"
+     ],
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Sodium Cocoamphoacetate, Cocamidopropyl Hydroxysultaine, Glycerin, Mandelic Acid, Salicylic Acid, Citrus Aurantium Dulcis (Orange) Peel Oil, Citric Acid, Citrus Aurantium Dulcis (Orange) Fruit Extract, Sodium Hydroxide, Rubus Idaeus (Raspberry) Fruit Extract, Yucca Schidigera Root Extract, Lactic Acid, Phenoxyethanol, Citrus Grandis (Grapefruit) Peel Oil, Maltodextrin, Disodium EDTA, Garcinia Mangostana (Mangosteen) Peel Extract, Ethylhexylglycerin, Citrus Aurantifolia (Lime) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Citrus Aurantium Amara (Bitter Orange) Peel Oil, Limonene, Linalool"
+    },
+    {
+     "nombre": "Sérum de vitamina C C-Tetra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027544"
+     ],
+     "inci": "Simmondsia Chinensis (Jojoba) Seed Oil, Cyclopentasiloxane, Cyclohexasiloxane, Tetrahexyldecyl Ascorbate, Citrus Grandis (Grapefruit) Peel Oil, Tocopheryl Acetate, PPG-12/SMDI Copolymer, Limonene, Citral, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Sérum r-Retinoate Intense",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027582"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Isododecane, Squalane, Cetearyl Alcohol, Dimethicone, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polylactic Acid, Cyclodextrin, PPG-12/SMDI Copolymer, Sorbitan Olivate, Titanium Dioxide, Eclipta Prostrata Extract, Phenethyl Alcohol, Melia Azadirachta Leaf Extract, Phenoxyethanol, Cholesteryl Nonanoate, Sodium Hyaluronate, Tocopheryl Acetate, Rubus Chamaemorus (Cloudberry) Seed Oil, Canola Oil, Xanthan Gum, Pentylene Glycol, Retinal, Retinyl Retinoate, Citric Acid, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Ceramide AP, Moringa Oleifera Seed Oil, Sodium Lauroyl Lactylate, Vanilla Planifolia (Vanilla) Fruit Extract, Ethylhexylglycerin, Linoleic Acid, Palmitic Acid, Ceramide NP, Daucus Carota Sativa (Carrot) Seed Oil, Disodium EDTA, Phytosterols, Lonicera Japonica (Honeysuckle) Flower Extract, 3-O-Ethyl Ascorbic Acid, Lonicera Caprifolium (Honeysuckle) Flower Extract, Sodium Polyaspartate, Phytosphingosine, Parfum, Copper Palmitoyl Heptapeptide-14, Heptapeptide-15 Palmitate, Ceramide EOP, Cholesterol, C12-16 Alcohols, Caprylyl Glycol, Carbomer, Hydrogenated Lecithin, Glyceryl Caprylate, Lactic Acid/Glycolic Acid Copolymer, Polyvinyl Alcohol, Phenylpropanol, BHT, Limonene, Linalool, Citral"
+    },
+    {
+     "nombre": "Espuma micelar Micellar Mousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028084"
+     ],
+     "inci": "Aqua (Water), Isopentyldiol, Sodium Lauroyl Methyl Isethionate, Sodium Cocoamphoacetate, Cocamidopropyl Hydroxysultaine, Phenoxyethanol, Glycerin, Olea Europaea (Olive) Fruit Oil, Citric Acid, Moringa Oleifera Seed Extract, Citrus Aurantium Dulcis (Orange) Peel Oil, Sodium Benzoate, Citrus Aurantium Dulcis (Orange) Fruit Extract, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Acacia Concinna Fruit Extract, Balanites Aegyptiaca Fruit Extract, Disodium EDTA, Citrus Grandis (Grapefruit) Peel Oil, Citrus Aurantifolia (Lime) Oil, Gypsophila Paniculata Root Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Citrus Aurantium Amara (Bitter Orange) Peel Oil, Disodium Phosphate, Limonene"
+    },
+    {
+     "nombre": "Sérum r-Retinoate Day & Night",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028114"
+     ],
+     "inci": "Aqua (Water), Tetrahexyldecyl Ascorbate, Heptyl Undecylenate, Caprylic/Capric Triglyceride, Methylpropanediol, Polylactic Acid, Cetearyl Olivate, Sodium Polyacryloyldimethyl Taurate, Cetearyl Isononanoate, Distarch Phosphate, Tocopheryl Acetate, Sorbitan Olivate, Hydrogenated Polydecene, Retinyl Retinoate, Glycerin, Caprylyl Glycol, Sodium Hyaluronate, Cholesteryl Nonanoate, Disodium EDTA, Hydroxyacetophenone, Canola Oil, Cetearyl Alcohol, Phenylpropanol, Vanilla Planifolia (Vanilla) Fruit Extract, 3-O-Ethyl Ascorbic Acid, Sodium Metabisulfite, BHT, Sodium Hydroxide, Trideceth-10"
+    },
+    {
+     "nombre": "Espuma limpiadora Clarifying Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027759"
+     ],
+     "inci": "Aqua (Water), Disodium PEG-12 Dimethicone Sulfosuccinate, Niacinamide, Polysorbate 20, Decyl Glucoside, Mandelic Acid, Benzyl Alcohol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Ethylhexylglycerin, Chlorhexidine Digluconate, Tocopherol, Limonene"
+    },
+    {
+     "nombre": "Crema hidratante y activador de ácido glicólico Balance Moisturiser & Glycolic Acid Activator",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027681"
+     ],
+     "inci": "Balance Moisturiser: Aqua (Water), Saccharide Isomerate, Polyacrylamide, Glycerin, C13-14 Isoparaffin, Alpha-Glucan Oligosaccharide, Cetearyl Isononanoate, Cocoglycerides, Dimethicone, Niacinamide, Nylon-12, Capryloyl Glycine, Hexylene Glycol, Phenoxyethanol, Sodium Benzoate, Ethyl Linoleate, Lauric Acid, Laureth-7, Sarcosine, Potassium Sorbate, Ethylhexylglycerin, Propylene Glycol, Glyceryl Polyacrylate, Cinnamomum Zeylanicum Bark Extract, Citrus Aurantium Dulcis (Orange) Peel Oil, Citric Acid, Sodium Citrate, Lactobacillus Extract Filtrate, 1,2-Hexanediol, Beta-Glucan, Caprylyl Glycol, Limonene, Linalool, Citral · Glycolic Acid Activator: Aqua (Water), Glycolic Acid, Sodium Hydroxide, Butylene Glycol, Polysorbate 20, 1,2-Hexanediol, Sodium Hyaluronate, Caprylhydroxamic Acid, Disodium EDTA"
+    },
+    {
+     "nombre": "Tratamiento localizado para granos Blemish SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027773"
+     ],
+     "inci": "Aqua (Water), Alcohol Denat., Isopentyldiol, Niacinamide, Azelaic Acid, Salicylic Acid, Octadecenedioic Acid, Polyacrylate Crosspolymer-6, Glycerin, Phenoxyethanol, Rosmarinus Officinalis (Rosemary) Leaf Oil, Ethylhexylglycerin, Limonene, Sodium Metabisulfite, Linalool"
+    },
+    {
+     "nombre": "Crema de día con vitamina C y SPF Daily Radiance Vitamin C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027490"
+     ],
+     "inci": "Aqua (Water), Tetrahexyldecyl Ascorbate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Dimethicone, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Cetearyl Alcohol, Glycerin, Coco-Glucoside, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Glucoside, Tocopheryl Acetate, Hydroxyacetophenone, Disodium EDTA, Benzoic Acid, Xanthan Gum, Citrus Grandis (Grapefruit) Peel Oil, Sodium Hydroxide, Dehydroacetic Acid, Sodium Hyaluronate, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pelargonium Graveolens (Geranium) Flower Oil, Ethylhexylglycerin, Limonene, Citronellol, Linalool, Geraniol, Citral"
+    },
+    {
+     "nombre": "Contorno de ojos de día con SPF Advanced Day Eye Protect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027650"
+     ],
+     "inci": "Aqua (Water), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Dicaprylyl Carbonate, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Caffeine, Sodium Polyacrylate, Phenoxyethanol, Butylene Glycol, Carnosine, Xanthan Gum, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Glucosyl Hesperidin, Moringa Oleifera Seed Extract, Disodium EDTA, Benzoic Acid, Ethylhexylglycerin, Disodium Phosphate, Theobroma Cacao (Cocoa) Seed Extract, Dehydroacetic Acid, Citric Acid, Ectoin, Dimethicone/Vinyl Dimethicone Crosspolymer, Polysilicone-11, Silica, Laureth-12"
+    },
+    {
+     "nombre": "Sérum hidratante Hydr8 B5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027667"
+     ],
+     "inci": "Aqua (Water), Panthenol, Sodium Hyaluronate, Calcium Pantothenate, Phenoxyethanol, Ethylhexylglycerin, Citric Acid"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028053"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 3",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027414"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 6",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027421"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 10",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027438"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 20",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027445"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de noche con retinal Crystal Retinal 24",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028060"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Isododecane, Cetearyl Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, PPG-12/SMDI Copolymer, Sorbitan Olivate, Tocopheryl Acetate, Titanium Dioxide, Eclipta Prostrata Extract, Cyclodextrin, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Melia Azadirachta Leaf Extract, Hydroxypropyl Methylcellulose, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Rubus Chamaemorus (Cloudberry) Seed Oil, Alumina, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Stearic Acid, Pentylene Glycol, Retinal, Moringa Oleifera Seed Oil, Sodium Polyaspartate, Climbazole, Disodium EDTA, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Dipteryx Odorata (Tonka) Bean Extract, Hydroxyacetophenone, Polysorbate 60, Sorbitan Isostearate, Vanilla Planifolia (Vanilla) Fruit Extract, Decylene Glycol, 1,2-Hexanediol, BHT, Coumarin"
+    },
+    {
+     "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027711"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Bakuchiol, Helianthus Annuus (Sunflower) Seed Oil, Plukenetia Volubilis Seed Oil, Centella Asiatica Leaf Extract, Krameria Triandra Root Extract, Tocopherol, Olea Europaea (Olive) Fruit Oil, Undecylenoyl Phenylalanine"
+    },
+    {
+     "nombre": "Sérum de péptidos Liquid Peptides",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027506"
+     ],
+     "inci": "Aqua (Water), Glycerin, Butylene Glycol, Inulin, Sodium Hyaluronate, Panthenol, Alpha-Glucan Oligosaccharide, Carnosine, Carbomer, Polysorbate 20, Caprylyl Glycol, Phenoxyethanol, Hydroxypropyl Cyclodextrin, Dunaliella Salina (Green Algae) Extract, Ethylhexylglycerin, Citric Acid, Palmitoyl Tripeptide-5, Sodium Benzoate, Acetyl Hexapeptide-8, Tetrapeptide-21, Pentapeptide-18, Palmitoyl Tripeptide-1, Pantolactone, Palmitoyl Tripeptide-38, Palmitoyl Tetrapeptide-7, Glyceryl Caprylate, Lactic Acid/Glycolic Acid Copolymer, Polyvinyl Alcohol, Phenylpropanol, Copper Palmitoyl Heptapeptide-14, Heptapeptide-15 Palmitate, Potassium Sorbate, Xanthan Gum"
+    },
+    {
+     "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027636"
+     ],
+     "inci": "Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sorbeth-30 Tetraoleate, C12-15 Alkyl Benzoate, Ethyl Linoleate, Pelargonium Graveolens (Geranium) Flower Oil, Moringa Oleifera Seed Oil, Tocopherol, Citrus Aurantium Dulcis (Orange) Peel Oil, Helianthus Annuus (Sunflower) Seed Oil, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Daucus Carota Sativa (Carrot) Seed Oil, Ascorbyl Palmitate, Limonene, Citronellol, Geraniol, Linalool, Citral"
+    },
+    {
+     "nombre": "Crema de vitamina C C-Tetra Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028008"
+     ],
+     "inci": "Aqua (Water), Heptyl Undecylenate, Caprylic/Capric Triglyceride, Tetrahexyldecyl Ascorbate, Methylpropanediol, Cetearyl Olivate, Cetearyl Isononanoate, Distarch Phosphate, Tocopheryl Acetate, Sodium Polyacrylate, Sorbitan Olivate, Sodium Hyaluronate, Caprylyl Glycol, Glycerin, Disodium EDTA, Phenylpropanol, Citrus Grandis (Grapefruit) Peel Oil, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pelargonium Graveolens (Geranium) Flower Oil, Sodium Hydroxide, Limonene, Citronellol, Linalool, Geraniol, Citral"
+    },
+    {
+     "nombre": "Contorno de ojos de noche Advanced Night Eye",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027629"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dimethicone, Stearic Acid, Glycerin, Cetearyl Alcohol, Nylon-12, Cetearyl Olivate, Propylene Glycol, C12-16 Alcohols, Sorbitan Olivate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Palmitic Acid, Caffeine, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Cera Microcristallina, Glyceryl Stearate, Phenoxyethanol, Hydrogenated Lecithin, Niacinamide, Squalane, Sodium Stearoyl Lactylate, Benzyl Alcohol, Amelanchier Alnifolia (Saskatoon) Fruit Extract, Sodium Hyaluronate, Arginine, Butylene Glycol, Ethylhexylglycerin, Tocopherol, Glucosyl Hesperidin, Sorbitol, Hylocereus Undatus (Dragon Fruit) Fruit Extract, Ferric Hexapeptide-35, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dehydroacetic Acid, Tremella Fuciformis (Snow Mushroom) Extract, Carbomer, Pogostemon Cablin (Patchouli) Leaf Oil, Ascorbic Acid, Polysorbate 20"
+    },
+    {
+     "nombre": "Crema de día con SPF Advanced Day Total Protect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027674"
+     ],
+     "inci": "Aqua (Water), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Glycerin, Potassium Cetyl Phosphate, Cetearyl Alcohol, Ethylhexyl Triazone, Ceteareth-6 Olivate, Dimethicone, Sodium Polyacrylate, Coco-Glucoside, Carnosine, Cetearyl Glucoside, Xanthan Gum, Phenoxyethanol, Sodium Hyaluronate, Tetrahexyldecyl Ascorbate, Moringa Oleifera Seed Extract, Ethylhexylglycerin, Disodium Phosphate, Citrus Limon Peel Oil, Citrus Grandis Peel Oil, Citrus Aurantium Bergamia Fruit Oil, Citrus Aurantium Dulcis Peel Oil Expressed, Hydroxyacetophenone, Citric Acid, Ectoin, Theobroma Cacao Seed Extract, Pelargonium Graveolens Flower Oil, Benzoic Acid, Citrus Nobilis Peel Oil, Pentylene Glycol, Citrus Aurantium Amara Leaf/Twig Oil, Cananga Odorata Flower Oil, Disodium EDTA, Pelargonium Graveolens Oil, Litsea Cubeba Fruit Oil, Dehydroacetic Acid, Superoxide Dismutase, Tromethamine, Juniperus Virginiana Wood Oil, Vetiveria Zizanoides Root Oil, Zingiber Officinale Root Extract, Boswellia Carterii Oil, Salvia Sclarea Oil, Acacia Decurrens Flower Extract, Phenethyl Alcohol, Butylene Glycol, Limonene, Citronellol, Linalool, Geraniol, Citral"
+    },
+    {
+     "nombre": "Crema de noche con retinol Intelligent Retinol Smoothing Night Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625027735"
+     ],
+     "inci": "Aqua (Water), Caprylic/Capric Triglyceride, Dimethicone, Methylpropanediol, Cetearyl Alcohol, Polymethyl Methacrylate, Glycerin, C12-16 Alcohols, Cetearyl Isononanoate, Distarch Phosphate, PPG-12/SMDI Copolymer, Stearic Acid, Tocopheryl Acetate, Propylene Glycol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Palmitic Acid, Cetearyl Olivate, Caprylyl Glycol, Tricaprylin, Behenyl Alcohol, Hydrogenated Lecithin, Sorbitan Olivate, Squalane, Hydroxyacetophenone, Retinol, Disodium EDTA, Arginine, Sodium Hyaluronate, Phenylpropanol, Citrus Aurantium Amara (Bitter Orange) Flower Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Sorbitol, Citrus Aurantium Dulcis (Orange) Peel Oil, Hylocereus Undatus (Dragon Fruit) Fruit Extract, Lavandula Angustifolia (Lavender) Herb Oil, Anthemis Nobilis (Chamomile) Flower Oil, Pogostemon Cablin (Patchouli) Leaf Oil, Vetiveria Zizanoides (Vetiver) Root Oil, BHT, Ascorbic Acid, Limonene, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Tónico equilibrante Daily Refresh Balancing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0818625028176"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Glycerin, Inulin, Alpha-Glucan Oligosaccharide, Allantoin, Butylene Glycol, Aloe Barbadensis (Aloe Vera) Leaf Juice, Phenoxyethanol, Anthemis Nobilis (Chamomile) Flower Water, Rosmarinus Officinalis (Rosemary) Water, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Beta-Glucan, Caprylyl Glycol"
     }
    ]
   }
