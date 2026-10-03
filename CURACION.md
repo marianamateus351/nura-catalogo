@@ -786,7 +786,7 @@ envase europeo.
 1. ~~Durex (lubricantes, geles y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03b): 6 productos, 7 códigos; ver su apartado
 2. ~~Control (lubricantes y preservativos)~~ — **cerrada 2026-10-03** (versión 2026-10-03c): 3 productos, 3 códigos (solo las cremas publican INCI); ver su apartado
 3. ~~Cumlaude Lab (higiene íntima)~~ — **cerrada 2026-10-03** (versión 2026-10-03d): 30 productos, 31 códigos; ver su apartado
-4. Chilly (higiene íntima)
+4. ~~Chilly (higiene íntima)~~ — **revisada 2026-10-03: NO ENTRA, la marca no publica INCI en ningún sitio oficial.** chilly-intimate.com/es (14 fichas: geles, sin aclarado, toallitas) y /it (22 fichas, también desodorantes íntimos y mascarillas) solo dan ingredientes destacados (mentol, ácido láctico, pH); ni lista ni código. Igual que en la segunda cola (2026-09-25). Sin versión nueva del catálogo (no cambia nada).
 5. Saforelle (higiene íntima)
 6. Kiko Milano (maquillaje)
 7. Rituals (cuerpo, baño y perfumados)
