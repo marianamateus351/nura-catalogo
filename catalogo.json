@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci14",
+ "version": "2026-10-04-eci15",
  "marcas": [
   {
    "key": "larocheposay",
@@ -10378,6 +10378,15 @@
       "3600542152945"
      ],
      "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Kaolin, Sodium Chloride, Glycerin, CI 19140, CI 42090, Sodium Benzoate, Sodium Hydroxide, Salicylic Acid, Limonene, Benzoic Acid, Linalool, Benzyl Salicylate, Benzyl Alcohol, Alpha-Isomethyl Ionone, Acrylates Copolymer, Citric Acid, Citrus Medica Vulgaris Fruit Extract, Hexylene Glycol, Hexyl Cinnamal, Parfum"
+    },
+    {
+     "nombre": "Acondicionador Nutri Rizos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600542552080"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Pistacia Vera Seed Oil, Amodimethicone, Behentrimonium Chloride, Sodium Chloride, Sodium Hydroxide, Coco-Betaine, Isopropyl Alcohol, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Tartaric Acid, Cetyl Esters, Sodium Benzoate, Phenoxyethanol, Linalool, Coumarin, Limonene, Parfum"
     }
    ]
   },
@@ -11760,6 +11769,15 @@
       "8720181848810"
      ],
      "inci": "Aqua, Cocamidopropyl Betaine, Sodium Hydroxypropyl Starch Phosphate, Lauric Acid, Sodium Lauroyl Glycinate, Sodium Lauroyl Isethionate, Sodium Chloride, Glycerin, Hydrogenated Soybean Oil, Parfum, Helianthus Annuus Seed Oil, Sodium Benzoate, Caprylyl Glycol, Sodium Hydroxide, Citric Acid, Sodium Isethionate, Stearic Acid, Palmitic Acid, Sodium Gluconate, Hydroxystearic Acid, Prunus Persica Kernel Oil, Caprylic Acid, Guar Hydroxypropyltrimonium Chloride, Capric Acid, Hydrogenated Vegetable Glycerides, Oryza Sativa Bran Extract, Oryza Sativa Germ Oil, Citrus Aurantium Peel Oil, Geraniol, Limonene, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante roll-on +Care Advanced Clean Comfort antitranspirante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59092582"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Glycerin, Helianthus Annuus Seed Oil, Steareth-2, Parfum, Calcium Chloride, Glycine, Steareth-20, Disodium EDTA, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Alpha-Isomethyl Ionone, Amyl Salicylate, Benzyl Alcohol, Citral, Citronellol, Coumarin, Hexyl Cinnamal, Juniperus Virginiana Oil, Limonene, Linalool, Pinene, Terpineol, Tetramethyl Acetyloctahydronaphthalenes"
     }
    ]
   },
@@ -71992,6 +72010,15 @@
       "8001841705750"
      ],
      "inci": "Vitis Vinifera Seed Oil, Macadamia Ternifolia Seed Oil, Oenothera Biennis Oil, Persea Gratissima Oil, Glycine Soja Oil, Simmondsia Chinensis Seed Oil, Camellia Oleifera Seed Oil, Prunus Amygdalus Oil, Argania Spinosa Kernel Oil, Parfum, Tocopherol, Mentha Piperita Oil, Linalool, Coumarin, Limonene, Citric Acid"
+    },
+    {
+     "nombre": "Desodorante en gel antitranspirante Arctic Ice",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7702018978106"
+     ],
+     "inci": "Aqua, Aluminum Zirconium Octachlorohydrex Gly, Alcohol Denat., Cyclopentasiloxane, Propylene Glycol, Dimethicone, Calcium Chloride, PEG/PPG-18/18 Dimethicone, Parfum, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Coumarin, Benzyl Benzoate, Eugenol"
     }
    ]
   },
@@ -74268,6 +74295,69 @@
       "8411126076251"
      ],
      "inci": "Aqua, Propylene Glycol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Stearamidopropyl Dimethylamine, Cetearyl Alcohol, Cetrimonium Chloride, Citric Acid, Dicaprylyl Carbonate, Hydroxyethylcellulose, Isopropyl Alcohol, Lauryl Glucoside, Panthenol, Parfum, Polyquaternium-37, Tocopheryl Acetate, Benzyl Alcohol, Phenoxyethanol, Basic Brown 17, Basic Red 51, CI 42520, HC Blue No. 16, Tetramethyl Acetyloctahydronaphthalenes"
+    }
+   ]
+  },
+  {
+   "key": "flor",
+   "nombre": "Flor",
+   "productos": [
+    {
+     "nombre": "Perfumador de ropa Flor Azul",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104910891"
+     ],
+     "inci": "Aqua, Fatty acids C16-18 (even numbered) and C18 unsatd. reaction products with triethanolamine di-Me sulfate-quaternized, Parfum, L(+)-Lactic Acid, Coumarin, Hexyl Cinnamal, Alpha-Isomethyl ionone, Eugenol, Citronellol, Geraniol, Calcium Chloride, Polydimethylsiloxane, Colorante"
+    },
+    {
+     "nombre": "Perfumador de ropa Flor Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104916008"
+     ],
+     "inci": "Aqua, Fatty acids C16-18 and C18-unsatd. reaction products with triethanolamine di-Me sulfate-quaternized, Parfum, L(+)-Lactic Acid, Linalool, Colorante, Citronellol, Coumarin, Alpha-Isomethyl ionone, Polydimethylsiloxane, Calcium Chloride"
+    }
+   ]
+  },
+  {
+   "key": "iqc",
+   "nombre": "IQC",
+   "productos": [
+    {
+     "nombre": "Alcohol de romero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413224860695"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Rosmarinus Officinalis Leaf Oil, Linalool, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "iroha",
+   "nombre": "Iroha",
+   "productos": [
+    {
+     "nombre": "Parches de ojos Antifatiga cafeína + vitamina C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436036437817"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol, Caffeine, Oryza Sativa Bran Extract, Schisandra Chinensis Fruit Extract, Coptis Chinensis Root Extract, Ginkgo Biloba Leaf Extract, Achillea Millefolium Extract, Arnica Montana Flower Extract, Artemisia Vulgaris Extract, Melaleuca Alternifolia Extract, Panthenol, Sodium Hyaluronate, Tocopherol, Sodium Ascorbyl Phosphate, 1, 2-Hexanediol, Propanediol, Polyglyceryl-10 Laurate, Hydroxyacetophenone, Arginine, Carbomer, Ethylhexylglycerin, Xanthan Gum, Aminobutyric Acid, Parfum"
+    },
+    {
+     "nombre": "Parches contorno de ojos Antiedad uva + aceite de rosa mosqueta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436036437824"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol, Vitis Vinifera Fruit Extract, 1, 2-Hexanediol, Sodium Hyaluronate, Rosa Canina Fruit Oil, Paullinia Cupana Fruit Extract, Collagen Extract, Arginine, Panthenol, Hydroxyacetophenone, Propanediol, Polyglyceryl-10 Laurate, Carbomer, Menadione, Ethylhexylglycerin, Aminobutyric Acid, Xanthan Gum, Sodium Phytate, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Polyglyceryl-10 Diisostearate, Parfum"
     }
    ]
   }
