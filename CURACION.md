@@ -798,6 +798,35 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### 2026-10-04 · Decisiones de Mariana sobre la cola de Hogar y pendientes (H–Y)
+Respuesta de Mariana (2026-10-04): "Usa las listas de supermercado, obvio, para el código. El punto es que sea información
+verdadera" (R); "sí a todo" en los alias (S–Y); "cambia a tus sugerencias" (W); sí a M, N, O, P, Q; "ok a todo" en H–L, y
+**"la L incluye los británicos porque compramos por la web"**.
+- **Detector (aplicado, va en el próximo build)**:
+  - OTROS "Alcoholes etoxilados" pasa a **"Alcoholes etoxilados y PEG (pareth, trideceth, PEG-n, polisorbatos…)"** (solo
+    Hogar, sin cambio en el índice). Alias nuevos: **"ethoxylated", "ethoxylate(s)"** (S, T, U, V, X, Y), **"alkoxylate(d)",
+    "alcoxylate(d)"** (Fatty Alcohol Alkoxylate y Amine Alkoxylate, como etoxilados), "aziridine homopolymer 20-21-eo / 20-eo",
+    **PEG-n** (PEG-1 a PEG-250 y los de peso molecular: PEG-400, PEG 400, PEG-90M…) y **polisorbatos** (20, 40, 60, 65, 80, 85).
+  - 192: nombres químicos del SLES y del laureth ("Sodium 2-(2-dodecyloxyethoxy)ethyl sulphate", "2-[2-(dodecyloxy)ethoxy]
+    ethanol", "…ethoxylated (< 2.5 EO) sulfates sodium salts").
+  - 194/146: "5-chloro-2-methyl-isothiazol-3(2H)-one", "2-methylisothiazol-3(2H)-one" (y las formas "-4-isothiazolin-3-one").
+  - 86: "alkyldimethyl ethyl benzyl ammonium chloride" (ADEBAC).
+  - 191: "polypropylene terephthalate" a `excluyeSi` (polímero antisuciedad disuelto, no microplástico).
+  - 193: nombre **"Fragancia (puede que solo se declaren los alérgenos)"** y texto nuevo: dice que muchas veces solo se
+    declaran los alérgenos y que algunos fabricantes sí publican el perfume entero.
+  - Fichas nuevas: **212 "Alquilfenoles etoxilados (nonoxinoles y octoxinoles)"** (M y N; Hogar, riesgo Medio; todos los
+    nonoxinoles menos el 9, que sigue en la 35, y los octoxinoles), **213 "Amiloxato"** (O; riesgo Emergente, ficha propia y
+    no alias del octinoxato), **214 "Ácido kójico (y dipalmitato)"** (Q; Emergente, con el dictamen del SCCS en el texto).
+  - P: la de OTROS RIESGOS "Cocamida DEA" pasa a **"Dietanolamidas (cocamida y lauramida DEA)"** con los alias de lauramida.
+  - Regresión sobre las 7.218 fichas: **48 cambios, todos buscados**: 38 de Hogar ganan "Alcoholes etoxilados y PEG" (Fairy ×3
+    por "Alcohols C9-11… ethoxylated", PEG-4 Rapeseedamide de Frosch ×7, PEG-7 Glyceryl Cocoate ×6, Fatty Alcohol
+    Alkoxylate de Finish ×4, polietilenimina etoxilada ×3…), amiloxato ×5 (Rituals ×3, Babaria, …), kójico ×2 (Martiderm),
+    dietanolamidas ×1 (COSRX Calming Foam), 192 ×1 (Neutrex Futura) y 191 −1 (Wipp Power Caps).
+- **H, I, J, K**: se quedan como estaban (opción conservadora; K mantiene las seis concentraciones de Crystal Retinal).
+- **L (Medik8)**: se añaden los códigos británicos de los productos con la misma lista que la UE (ver su apartado).
+- **R**: los EAN de Hogar pueden salir de las webs de supermercado (Carrefour, Alcampo, Dia, Consum…), atados por nombre
+  exacto + formato a **una sola** ficha del portal; si caben dos, no entra. Se reabren los portales (ver sus apartados).
+
 ### Hogar · portal 7, Frosch (detvo.werner-mertz.de) y Ecover — cerrado 2026-10-03 (versión 2026-10-03t): 28 productos, 33 códigos
 - **Frosch tiene el mejor circuito de la cola**: cada ficha de frosch.es lleva el **EAN de cada formato** (`data-widget-ean` del
   botón "Dónde comprar") y su "Ficha composición" enlaza a **detvo.werner-mertz.de**, que busca **por EAN**
