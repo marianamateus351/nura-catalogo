@@ -853,7 +853,8 @@ nuevos; regresión: 0 cambios en las 7304 fichas anteriores. Scripts en el scrat
    `lp_parse.limpia_inci` que L'Oréal Paris. Las lociones Ceramide Protect de 250 y 400 ml comparten lista y van en
    una entrada.
 6. ~~**Johnson's** (Kenvue)~~ — **cerrada** (versión 2026-10-04j): **8 productos, 14 códigos.**
-   - **Método nuevo, para que Mariana lo valide.** johnsonsbaby.es da los códigos de cada ficha (todos los tamaños) y
+   - **Método nuevo, aprobado por Mariana el 2026-10-04 ("Dale a Johnson").** Vale para cualquier marca que publique el
+     mismo número de fórmula en dos webs oficiales. johnsonsbaby.es da los códigos de cada ficha (todos los tamaños) y
      la lista **traducida al castellano** ("Agua, Betaína de cocamidopropilo…"), que no vale. Pero cada lista lleva
      el **número de fórmula del fabricante** (`[PR-0006412]`). johnsonsbaby.co.uk publica, con el mismo número, la
      **lista INCI oficial**.
@@ -868,7 +869,6 @@ nuevos; regresión: 0 cambios en las 7304 fichas anteriores. Scripts en el scrat
      - Gel de baño y aceite Dulces Sueños: la web británica no da la lista completa.
      - Crema del pañal, champú de camomila y bastoncillos: no están en la web británica.
      - Fichas españolas sin número de fórmula.
-   - Si Mariana no acepta el cruce por número de fórmula, la marca se queda vacía.
 
 ### 2026-10-04 · Decisión R: códigos de supermercado para Hogar (portales reabiertos)
 **De dónde salen los EAN.** Solo de tiendas que los publican sin saltarse nada: **Consum** (API pública
