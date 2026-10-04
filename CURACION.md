@@ -823,7 +823,7 @@ verdadera" (R); "sí a todo" en los alias (S–Y); "cambia a tus sugerencias" (W
     Alkoxylate de Finish ×4, polietilenimina etoxilada ×3…), amiloxato ×5 (Rituals ×3, Babaria, …), kójico ×2 (Martiderm),
     dietanolamidas ×1 (COSRX Calming Foam), 192 ×1 (Neutrex Futura) y 191 −1 (Wipp Power Caps).
 - **H, I, J, K**: se quedan como estaban (opción conservadora; K mantiene las seis concentraciones de Crystal Retinal).
-- **L (Medik8)**: se añaden los códigos británicos de los productos con la misma lista que la UE (ver su apartado).
+- **L (Medik8)**: hecho (versión 2026-10-04a, ver su apartado): 75 códigos británicos en entradas UE con lista idéntica y 17 entradas de envase británico.
 - **R**: los EAN de Hogar pueden salir de las webs de supermercado (Carrefour, Alcampo, Dia, Consum…), atados por nombre
   exacto + formato a **una sola** ficha del portal; si caben dos, no entra. Se reabren los portales (ver sus apartados).
 
@@ -1594,6 +1594,26 @@ cada portal, versión nueva de catalogo.json y una línea: productos, códigos, 
   concentración); C-Tetra, C-Tetra Luxe, C-Tetra Advanced y C-Tetra Cream. **C-Tetra Lipid no se vende en ninguna tienda
   UE** de la marca (solo hay un código australiano en OBF, sin lista): no entra. Listas por partes: Balance Moisturiser &
   Glycolic Acid Activator y H.E.O. Mask (crema · gel), cada parte con su nombre.
+- **2026-10-04 · Envases británicos (decisión L: "la L incluye los británicos porque compramos por la web")** — versión
+  2026-10-04a: **65 productos, 133 códigos** (antes 48 y 58). Fuente: la tienda británica `medik8.com` (Shopify, 88 fichas;
+  `products.json` + `.js` por ficha para el `barcode`, lista "Full List of Ingredients" de la página; `m8/uk.py`).
+  - **75 códigos británicos** van a la entrada europea cuya lista es **idéntica** (comparada ingrediente a ingrediente,
+    sin mayúsculas ni puntuación): 39 entradas, entre ellas las seis Crystal Retinal (cada código a su concentración) y las
+    tres Crystal Retinal Ceramide Eye, recargas y tamaños de viaje.
+  - **Fórmula británica distinta → entrada propia "(envase británico)"** con su lista: Advanced Pro-Collagen+ (la británica
+    lleva además Encapsulated Endonuclease y Polyglutamic Acid; `0818625027780`, recarga `0818625028183`), Niacinamide
+    Peptides (30 ingredientes, la versión que daban DE y FR), Press & Clear (otro sistema conservante; 3 códigos) y
+    Blemish SOS (21 ingredientes, con aceite de romero).
+  - **Productos que solo se venden en el Reino Unido** (antes fuera): Intelligent Retinol 3TR, 6TR y 10TR (listas
+    distintas entre sí, una entrada por concentración), Retinol 3TR, Gentle Cleanse (con el de viaje), Calmwise Serum,
+    Calmwise Colour Correct, Ultimate Recovery, Ultimate Recovery Bio-Cellulose Mask, Eyelift Peptides, Balance Moisturiser
+    (el envase suelto; en la UE solo está el dúo con el activador), Blemish Control Pads y Pore Cleanse Gel Intense.
+  - **Fuera**: cofres y minis (Moisture Minis, Nighttime Nourish…), Liquid Peptides Advanced MP (la "lista" británica es
+    una nota de ventas de Circana), r-Retinoate Intense y Day & Night, r-Retinoate Eye, Intelligent Retinol Eye TR y Calmwise
+    travel (sin lista en la ficha británica). El tamaño de viaje de Advanced Pro-Collagen+ (`0818625027803`) se vende con el
+    mismo código en las dos tiendas y cada una da una lista; se queda en la entrada europea.
+  - Regresión: 0 cambios en las 7.218 fichas anteriores. `check.py`: 0 sospechosas; clasificación: 65 de 65 en Cuidado
+    personal.
 - **Fuera**: 6 cofres/rutinas (Radiance Ritual, Nighttime Nourish, Retinal Recharge, Age-Defying Essentials, Rejuvenation
   Routine, Firm Favourites), 4 muestras de lujo, tarjeta regalo y 3 accesorios (espátula, discos de bambú, exprimidor de
   tubos). Lo que solo está en medik8.com/int.medik8.com (envase británico: Intelligent Retinol, Gentle Cleanse, Calmwise
@@ -3509,13 +3529,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10492 códigos en 103 marcas: NYX 999 · **Frosch 33** · **Flota 3** · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 58** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10567 códigos en 103 marcas: NYX 999 · **Frosch 33** · **Flota 3** · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7218 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7235 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
