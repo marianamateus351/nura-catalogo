@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-hh1",
+ "version": "2026-10-04-hogar-eci5",
  "marcas": [
   {
    "key": "larocheposay",
@@ -73378,6 +73378,658 @@
       "4027800325405"
      ],
      "inci": "Aqua, Ethylhexyl Palmitate, Glycerin, Caprylic/Capric Triglyceride, Sorbitan Stearate, Phenoxyethanol, Pentaerythrityl Distearate, Allantoin, Sodium Polyacrylate, Parfum, Sodium Stearoyl Glutamate, Benzoic Acid, Carbomer, Dehydroacetic Acid, Epilobium Angustifolium Flower/Leaf/Stem Extract, Citric Acid, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "nuncas",
+   "nombre": "Nuncas",
+   "productos": [
+    {
+     "nombre": "Fregasuelos Nuncas Suelos Perfumados Azahar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704409993"
+     ],
+     "inci": "Aqua, Trideceth-8, Parfum, Capryl Glucoside, Colorant, Sodium Coceth Sulfate, Linalool, Citrus Aurantium Peel Oil, Limonene, Terpineol, Linalyl Acetate, Geraniol, Citrus Aurantium Dulcis Flower Oil, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Siliconic Antifoam"
+    },
+    {
+     "nombre": "Fregasuelos Nuncas Suelos Perfumados Cítricos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704409962"
+     ],
+     "inci": "Aqua, Trideceth-8, Parfum, Colorant, Lauryl Glucoside, Limonene, Capryl Glucoside, Sodium Coceth Sulfate, Citral, Hexyl Cinnamal, Citronellol, Geraniol, Citric Acid, Sodium Hydroxide, Alpha-Isomethyl Ionone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Detergente Higienizante para Sofás y Alfombras Nuncas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704409665"
+     ],
+     "inci": "Aqua, Alcohol, Sodium Lauryl Sulfate, Sodium Bicarbonate, Methoxymethylbutanol, Sodium N-(2-Carboxyethyl)-N-(2-Ethylhexyl)-Beta-Alaninate, Phenoxyethanol, Tetrasodium Glutamate Diacetate, Parfum, Trideceth-8, Linalool"
+    },
+    {
+     "nombre": "Fregasuelos Nuncas Suelos Perfumados Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704409986"
+     ],
+     "inci": "Aqua, Trideceth-8, Parfum, Linalool, Lauryl Glucoside, Sodium C14-16 Olefin Sulfonate, Linalyl Acetate, Capryl Glucoside, Benzyl Salicylate, Eucalyptus Globulus Oil, Limonene, Camphor, Menthol, Beta-Caryophyllene, Pinene, Lavandula Oil/Extract, Citric Acid, Terpineol, Colorant, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Detergente neutro para parquet y laminados Nuncas Winto Parquet",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014296"
+     ],
+     "inci": "Aqua, Laureth-7, Sodium Citrate, Potassium Cocoate, Sodium Coceth Sulfate, Colorant, Parfum, Limonene, Citrus Aurantium Peel Oil, Xanthan Gum, Citrus Aurantium Flower Oil, Citral, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Detergente pH neutro para mármol Nuncas Winto Mármol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014272"
+     ],
+     "inci": "Aqua, Trideceth-9, Sodium C14-16 Olefin Sulfonate, Lauryl Glucoside, Capryl Glucoside, Parfum, Xanthan Gum, Hexamethylindanopyran, Citric Acid, Sodium Hydroxide, Methylchloroisothiazolinone, Methylisothiazolinone, Siliconic Antifoam, Colorant"
+    },
+    {
+     "nombre": "Detergente intensivo para gres Nuncas Winto Gres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704410296"
+     ],
+     "inci": "Aqua, Phosphoric Acid, PEG-2 Oleamine, Ethoxydiglycol, Amidosulphonic Acid, Methoxyisopropanol, Etidronic Acid, Sodium Cumenesulphonate, Parfum, Methanesulphonic Acid, Cetoleth-25, Trideceth-8, Disodium Ethylhexyl Iminodipropionate, Colorant"
+    },
+    {
+     "nombre": "Limpiador de muebles de madera lacada Nuncas Livax",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704406800"
+     ],
+     "inci": "Aqua, Alcohol, Butoxyethanol, Lauryl Glucoside, Capryl Glucoside, Ammonium Hydroxide, T-Butyl Alcohol, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Detergente en leche para muebles de piel Nuncas Luscom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704411811"
+     ],
+     "inci": "Aqua, N-Paraffin, Lanolin Oil, Copernicia Cerifera Cera, Cetoleth-25, Anionic Acrylic Polymer, Parfum, Alcohols C16-C18 Ethoxylated, Cetoleth-25, Trideceth-8, Potassium Hydroxide, Benzisothiazolinone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador de muebles de madera en leche Nuncas Livax",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704406855"
+     ],
+     "inci": "Aqua, Blend of Natural Triglycerides and Esters of Natural Fatty Acids, Glyceryl Oleate, Glyceryl Dioleate, Polysorbate-20, Dimethicone, Ceteareth-2, Anionic Acrylic Polymer, Sodium Bicarbonate, Parfum, Limonene, Benzisothiazolinone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Detergente antimanchas para terracota y piedra Nuncas Winto Terracota",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014258"
+     ],
+     "inci": "Aqua, Ethoxydiglycol, Glycereth-17 Cocoate, Alcohols C13-15 Branched and Linear Butoxylated Ethoxylated, Acrylates/Beheneth-25 Methacrylate Copolymer, Sodium Coceth Sulfate, Parfum, Ethanolamine, Methylchloroisothiazolinone, Methylisothiazolinone, Siliconic Antifoam, Colorant"
+    },
+    {
+     "nombre": "Fregasuelos para Robots Nuncas Desiderio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014883"
+     ],
+     "inci": "Aqua, Alcohols C13-15 Branched and Linear Butoxylated Ethoxylated, PEG-40 Hydrogenated Castor Oil, Parfum, Sodium C14-16 Olefin Sulfonate, Citronellol, Linalool, Colorant, Terpineol, Linalyl Acetate, Amyl Cinnamal, Acetyl Cedrene, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Siliconic Antifoam"
+    },
+    {
+     "nombre": "Limpiador de baños y cocinas Nuncas Winto Bel Mármol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014326"
+     ],
+     "inci": "Aqua, Copernicia Cerifera Cera, Propylene Glycol, Fluorinated Polymer, Didecyldimonium Chloride, Sodium Bicarbonate, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Limpiador de baños y cocinas Nuncas Winto Bel Gres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001704014357"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Lactic Acid, Lauryl Glucoside, Capryl Glucoside, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "sanicentro",
+   "nombre": "Sanicentro",
+   "productos": [
+    {
+     "nombre": "Limpiador Multisuperficies Desinfectante Sanicentro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931013208"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Alcoholes C12-13 Ramificados y Lineales Etoxilados (>5-10 EO), Butoxyethanol, Didecyldimonium Chloride, C9-11 Pareth-3, Parfum, PPG-2 Methyl Ether, Acetaldehyde"
+    },
+    {
+     "nombre": "Gel WC desinfectante Sanicentro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931011488",
+      "8410931011402"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Desatascador con lejía para baños Sanicentro Acción Turbo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931013673"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Potassium Hydroxide, Sodium Hydroxide, Myristamine Oxide, Sodium Xylene Sulfonate"
+    },
+    {
+     "nombre": "Limpiador con lejía para cocinas y baños Sanicentro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931011914"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Desatascador con lejía para cocinas Sanicentro Acción Turbo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931013666"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Hydroxide, Myristamine Oxide, Sodium Xylene Sulfonate"
+    },
+    {
+     "nombre": "Limpiador antimoho con lejía Sanicentro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931013918"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Lauramine Oxide, Alcano C6-C8 (Pares) Ácido 1-Sulfónico Sal de Sodio, Sodium Hydroxide, Isopropyl Alcohol, Phosphonobutanetricarboxylic Acid, Parfum, Alpha-Terpinene, Pinene"
+    },
+    {
+     "nombre": "Fregasuelos Desinfectante pH Neutro Sanicentro Aire Fresco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014199"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, Alcoholes C12-13 Ramificados y Lineales Etoxilados (>5-10 EO), Butoxyethanol, C9-11 Pareth-3, PPG-2 Methyl Ether, Parfum, Linalyl Acetate, Limonene, Linalool, Citral, Eucalyptus Globulus Oil, Masa de Reacción de Acetato de Alilo (2-Metilbutoxi) y Acetato de Alilo (3-Metilbutoxi), Ethyl Acetate"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Sanicentro Hogares con Mascotas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014182"
+     ],
+     "inci": "Aqua, Methoxyisopropanol, Benzalkonium Chloride, Didecyldimonium Chloride, C10-16 Alketh-2, Undeceth-40, Parfum, Alcohol, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Citrus Aurantium Peel Oil, Benzyl Salicylate, Citronellol, Geraniol, Coumarin, 2-Metoxipropanol, Methyl Salicylate"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Sanicentro Oxígeno Activo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014205"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Alcohol Graso Etoxilado (7 Mol EO), C10-16 Alketh-2, PEG-10 Castor Oil, Myristamine Oxide, Sodium Citrate, Etidronic Acid, Parfum, Sodium Hydroxide, Citral, Limonene, Linalool, Linalyl Acetate, Hexamethylindanopyran, Eucalyptus Globulus Oil, Ácido Fosfónico, Acetic Acid, Colorant"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Sanicentro Madera y Laminados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014212"
+     ],
+     "inci": "Aqua, PEG-10 Castor Oil, Alcohol Graso Etoxilado (9 Mol EO), Potassium Oleate, Sodium Laureth Sulfate, Parfum, Tetrasodium Glutamate Diacetate, Citrus Aurantium Peel Oil, Limonene, Citric Acid, Linalyl Acetate, Benzisothiazolinone, Methylisothiazolinone, Benzophenone, Colorant, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Fregasuelos Concentrado Sanicentro Renovador de Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014229"
+     ],
+     "inci": "Aqua, Caprylyl/Capryl Glucoside, Cera, Parfum, Propylene Glycol, Cetoleth-25, Geraniol, Linalool, Linalyl Acetate, Camphor, Benzisothiazolinone, Methylisothiazolinone, Colorant, Octylisothiazolinone, Benzisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "cloromax",
+   "nombre": "Cloro Max",
+   "productos": [
+    {
+     "nombre": "Lejía con Detergente Cloro Max Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931011709"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Lejía con Detergente Cloro Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931008792"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum, Limonene"
+    },
+    {
+     "nombre": "Lejía Cloro Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931009058"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite"
+    },
+    {
+     "nombre": "Quitamanchas eliminador de orina de mascotas sin lejía Cloro Max Free",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410931014137"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Alcoholes C12-13 Ramificados y Lineales Etoxilados (>5-10 EO), Propylene Glycol, Myristamine Oxide, Parfum, Etidronic Acid, Hexyl Cinnamal, Ácido Fosfónico, Acetic Acid"
+    }
+   ]
+  },
+  {
+   "key": "mayordomo",
+   "nombre": "Mayordomo",
+   "productos": [
+    {
+     "nombre": "Limpiador Multiusos Mayordomo Perfumado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433295062743"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Butoxyethanol, Parfum, Colorants, Alpha-Isomethyl Ionone, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Hexyl Cinnamal, Limonene, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "mistol",
+   "nombre": "Mistol",
+   "productos": [
+    {
+     "nombre": "Lavavajillas a mano concentrado Mistol Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498210089"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Chloride, Parfum, Citric Acid, Limonene, Diethylene Glycol, Benzisothiazolinone, Amylase, Subtilisin, Methylisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Lavavajillas a mano concentrado Mistol Ultra Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498210126"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Citric Acid, Limonene, Citrus Aurantium Peel Oil, Diethylene Glycol, Colorant, Benzisothiazolinone, Amylase, Subtilisin, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas a mano concentrado Mistol Ultra Plus formato ahorro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498250146"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Lauramine Oxide, Cocamidopropyl Betaine, Parfum, Citric Acid, Limonene, Citrus Aurantium Dulcis Oil, Colorant, Amylase, Subtilisin, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Mistol Todo en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498210034"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Acrylic Copolymer, Aqua, Modified Fatty Alcohol Polyglycolether, Sodium Silicate, TAED, Polycarboxylate, Tetrasodium Etidronate, Sodium Sulfate, 2-Propylheptanol Ethoxylated Propoxylated, Subtilisin, Sodium Chloride, Polyvinyl Alcohol, Colorant, Cellulose Gum, Benzotriazole, PEG, CI 77891, Parfum, Trideceth-8, Amylase, Avena Sativa Starch"
+    }
+   ]
+  },
+  {
+   "key": "tenn",
+   "nombre": "Tenn",
+   "productos": [
+    {
+     "nombre": "Limpiador multisuperficies con bioalcohol Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498220132"
+     ],
+     "inci": "Aqua, Alcohol, Sodium C10-13 Alkyl Benzenesulfonate, Phenoxyethanol, Laureth-10, Parfum, Sodium Citrate, Sodium Carbonate, Diethylene Glycol, Benzisothiazolinone, Colorant, Methylisothiazolinone, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de baños con bioalcohol Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498220101"
+     ],
+     "inci": "Aqua, Citric Acid, Caprylyl/Capryl Glucoside, Laureth-10, Parfum, Xanthan Gum, Sodium Citrate, Alcohol, Polieterpolifosfato, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Linalyl Acetate, Diethylene Glycol, Benzisothiazolinone, Colorant, Methylisothiazolinone, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador multisuperficies delicadas con bioalcohol Tenn Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498220095"
+     ],
+     "inci": "Aqua, Alcohol, Sodium C10-13 Alkyl Benzenesulfonate, Laureth-10, Phenoxyethanol, Parfum, Sodium Citrate, Hexamethylindanopyran, Diethylene Glycol, Hexyl Cinnamal, Benzisothiazolinone, Methylisothiazolinone, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de hornos Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498230346"
+     ],
+     "inci": "Aqua, Hidrocarburos Ricos en C3-4 Destilado del Petróleo (Gases de Petróleo), Sodium Hydroxide, Sodium Polyacrylate, Sodium Laureth Sulfate, Sodium p-Cumenesulphonate, Sodium Trideceth Sulfate"
+    },
+    {
+     "nombre": "Limpiador de muebles Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498230353"
+     ],
+     "inci": "Aqua, Hidrocarburos Ricos en C3-4 Destilado del Petróleo (Gases de Petróleo), Tetradecane, Hidrocarburos C7-C9 n-Alcanos Isoalcanos Cíclicos, Dimethicone, Paraffinum Liquidum, Sorbitan Oleate, Parfum, Sodium Benzoate, Sodium Nitrite, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Limpiacristales y multisuperficies Tenn Brillante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498220088"
+     ],
+     "inci": "Aqua, Hidrocarburos Ricos en C3-4 Destilado del Petróleo (Gases de Petróleo), Isopropyl Alcohol, Laureth-10, Ammonium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Limpiador de muebles y superficies de madera con bioalcohol Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498250269"
+     ],
+     "inci": "Aqua, Alcohol, Laureth-10, Parfum, Polieterpolifosfato, Sodium Hydroxide, Diethylene Glycol, Benzisothiazolinone, Methylisothiazolinone, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de cocinas para acero inoxidable Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240222"
+     ],
+     "inci": "Paraffinum Liquidum, Aqua, Hidrocarburos Ricos en C3-4 Destilado del Petróleo (Gases de Petróleo), Decane, Ethanolamine, Sorbitan Oleate, Parfum, Linalool"
+    },
+    {
+     "nombre": "Quitagrasas cítrico con bioalcohol Tenn",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498220149"
+     ],
+     "inci": "Aqua, Ethanolamine, Alcohol, Lauramine Oxide, Sodium Citrate, Parfum, Polieterpolifosfato, Diethanolamine, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador multisuperficies con bioalcohol Tenn Mascotas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498250276"
+     ],
+     "inci": "Aqua, Alcohol, Sodium C10-13 Alkyl Benzenesulfonate, Laureth-10, Phenoxyethanol, Parfum, Sodium Citrate, L-Beta-Pinene, Hexamethylindanopyran, Diethylene Glycol, Benzisothiazolinone, Methylisothiazolinone, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador abrillantador Tenn Superbrillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240116"
+     ],
+     "inci": "Hidrocarburos Ricos en C3-4 Destilado del Petróleo (Gases de Petróleo), Hidrocarburos C7-C9 n-Alcanos Isoalcanos Cíclicos, Dimethicone, Alcohol, Parfum, Limonene, Citrus Aurantium Peel Oil, Citral, Camphor, Eucalyptus Globulus Oil, Citrus Limon Peel Oil, Geraniol, Denatonium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "ladrogueria1919",
+   "nombre": "La Droguería 1919",
+   "productos": [
+    {
+     "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240079"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Glycerin, Lauryl Glucoside, Alcohol, Caprylyl/Capryl Glucoside, Lactic Acid, Sodium Chloride, Potassium Cocoate, Sodium Hydroxide, Isopropyl Alcohol, Butanone, Cocos Nucifera Oil, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Lavavajillas a mano con bicarbonato La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240062"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Glycerin, Alcohol, Lauryl Polyglucose, Caprylyl/Capryl Glucoside, Lactic Acid, Parfum, Limonene, Sodium Bicarbonate, Isopropyl Alcohol, MEK, Sodium Hydroxide, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Vinagre de limpieza limpiahogar La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240017"
+     ],
+     "inci": "Aqua, Acetum, Cocamidopropyl Betaine"
+    },
+    {
+     "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240000"
+     ],
+     "inci": "Aqua, Ácidos Grasos C12-18 Sales de Potasio, Glycerin, Potassium Hydroxide, Trisodium Dicarboxymethyl Alaninate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Espuma antical con vinagre y ácido cítrico La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240031"
+     ],
+     "inci": "Aqua, Acetum, Citric Acid, Caprylyl/Capryl Glucoside, Ácido Sulfúrico Mono-C12-16-Alquil Ésteres Sales de Sodio, Parfum"
+    },
+    {
+     "nombre": "Quitagrasas para la cocina La Droguería 1919",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410498240024"
+     ],
+     "inci": "Aqua, Potassium Linseedate, Caprylyl/Capryl Glucoside, Parfum, Glycerin, Limonene, Citric Acid, Trisodium Dicarboxymethyl Alaninate, Potassium Hydroxide, Citral, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "disiclin",
+   "nombre": "Disiclin",
+   "productos": [
+    {
+     "nombre": "Detergente líquido para ropa Disiclin Xpert Oxi Effect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335005980"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Dodecylbenzene Sulfonic Acid, Sodium Chloride, C12-14 Pareth-7, Cocamidopropyl Betaine, Potassium Cocoate, Sodium Citrate, Sodium Hydroxide, Parfum, Hydrogen Peroxide, Tetramethylolglycoluril, Sodium Diethylenetriamine Pentamethylene Phosphonate, Colorant, C12-14 Pareth, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Vinagre de limpieza multiusos Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335002538"
+     ],
+     "inci": "Aqua, Acetic Acid, Alcohol"
+    },
+    {
+     "nombre": "Vinagre de limpieza con detergente aroma limón Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004402"
+     ],
+     "inci": "Aqua, Acetic Acid, Caprylyl/Capryl Glucoside, Parfum, Alcohol, Citral, Limonene, Colorant"
+    },
+    {
+     "nombre": "Amoniaco con detergente Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335002293"
+     ],
+     "inci": "Aqua, Ammonia, Laureth-10, Parfum, Sodium Styrene/Acrylates Copolymer, Isopentane, Colorant"
+    },
+    {
+     "nombre": "Limpiador multiusos concentrado Disiclin Mascotas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335005416"
+     ],
+     "inci": "Aqua, Laureth-10, Parfum, Isopropyl Alcohol, Benzalkonium Chloride, Alcohol, Tetramethylolglycoluril, Butylphenyl Methylpropional, Citronellol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Methylchloroisothiazolinone/Methylisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Limpiador multiusos concentrado superperfumado Disiclin Gold",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335003634"
+     ],
+     "inci": "Aqua, Laureth-10, Parfum, Benzalkonium Chloride, Butylphenyl Methylpropional, Poliestireno Alquilatado, Alcohol, Isopropyl Alcohol, Linalool, Coumarin, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Tetramethylolglycoluril, Citral, Sodium Lauryl Sulfate, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador multiusos con vinagre en spray Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335002354"
+     ],
+     "inci": "Aqua, Acetic Acid, Alcohol"
+    },
+    {
+     "nombre": "Limpiador desinfectante Disiclin Active Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004945"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Parfum, Trisodium Dicarboxymethyl Alaninate, Benzalkonium Chloride, Lauramine Oxide, Citric Acid, Linalool, Alcohol, Amyl Salicylate, Lauryl Alcohol, Amyl Cinnamal, Sodium Hydroxide, Citronellol, Coumarin, Colorant"
+    },
+    {
+     "nombre": "Friegasuelos concentrado superperfumado Disiclin Silver",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004228"
+     ],
+     "inci": "Aqua, Laureth-10, Parfum, Isopropyl Alcohol, Benzalkonium Chloride, Benzyl Salicylate, Poliestireno Alquilatado, Alcohol, Tetramethylolglycoluril, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Sodium Lauryl Sulfate, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador desinfectante Disiclin Spring Floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004952"
+     ],
+     "inci": "Aqua, Parfum, Methoxymethylbutanol, Trisodium Dicarboxymethyl Alaninate, Benzalkonium Chloride, Lauramine Oxide, Citric Acid, Sodium Hydroxide, Alcohol, Terpineol, Hexamethylindanopyran, Camphor, Colorant"
+    },
+    {
+     "nombre": "Limpiador antical para baños con vinagre Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004983"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Acetic Acid, Caprylyl/Capryl Glucoside, Sodium Myristoyl Sarcosinate, Parfum, Alcohol, Tetramethylolglycoluril, Tetramethyl Acetyloctahydronaphthalenes, Colorant, Methylchloroisothiazolinone/Methylisothiazolinone, Masa de Reacción de cis-4-(Isopropil)ciclohexanometanol y trans-4-(Isopropil)ciclohexanometanol"
+    },
+    {
+     "nombre": "Limpiador multisuperficies concentrado Disiclin Citrón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335006888"
+     ],
+     "inci": "Aqua, Laureth-10, Parfum, Benzalkonium Chloride, Limonene, Citral, Poliestireno Alquilatado, Isopropyl Alcohol, Alcohol, Linalool, Hexyl Cinnamal, Tetramethylolglycoluril, Geraniol, Citronellol, Sodium Lauryl Sulfate, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador multiusos con vinagre y alcohol en spray Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335004549"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Acetic Acid, Caprylyl/Capryl Glucoside, Sodium Myristoyl Sarcosinate, Parfum, Alcohol, Tetramethylolglycoluril, Butylphenyl Methylpropional, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador de cocina con vinagre y bicarbonato Disiclin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335005584"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Butoxydiglycol, Sodium Carbonate, Caprylyl/Capryl Glucoside, Acetic Acid, Trisodium Dicarboxymethyl Alaninate, Sodium Bicarbonate, Tetramethylolglycoluril, Alcohol, Parfum, Citrus Aurantium Peel Oil, Citral, Limonene, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Perfumador de ropa Disiclin Oceanic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335005645"
+     ],
+     "inci": "Aqua, PEG-7 Glyceryl Cocoate, Parfum, PEG-40 Hydrogenated Castor Oil, Copolímero Ácido Acrílico Alquil Éster y Ácido Metacrílico, Poliestireno Alquilatado, Ethanolamine, Linalool, Tetramethylolglycoluril, Limonene, Alpha-Isomethyl Ionone, Sodium Lauryl Sulfate, Methyl Alcohol, Dimethicone, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Perfumador de ropa Disiclin Spring Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421335005676"
+     ],
+     "inci": "Aqua, PEG-7 Glyceryl Cocoate, Parfum, PEG-40 Hydrogenated Castor Oil, Copolímero Ácido Acrílico Alquil Éster y Ácido Metacrílico, Poliestireno Alquilatado, Ethanolamine, Linalool, Tetramethylolglycoluril, Geraniol, Alpha-Isomethyl Ionone, Sodium Lauryl Sulfate, Methyl Alcohol, Phenoxyethanol, Dimethicone, Methylchloroisothiazolinone/Methylisothiazolinone, Resorcinol"
     }
    ]
   }
