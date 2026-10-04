@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-hogar-eci4",
+ "version": "2026-10-04-eci04",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21173,7 +21173,8 @@
      "barcodes": [
       "8718951312432",
       "8718951553286",
-      "8718951579828"
+      "8718951579828",
+      "8718951312319"
      ],
      "inci": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Aroma, Sodium Lauryl Sulfate, Xanthan Gum, Potassium Hydroxide, Cellulose Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Sodium Fluoride, Sodium Saccharin, Benzyl Alcohol, Limonene, CI 74160"
     },
@@ -21203,6 +21204,123 @@
       "8718951724181"
      ],
      "inci": "Glycerin, Aqua, Hydrated Silica, PEG-12, Aroma, Potassium Hydroxide, Benzyl Alcohol, Xanthan Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Saccharin, Cellulose Gum, Anethole, Carvone, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Eucalyptus Globulus Oil, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes Triple Action (envase 8718951477957)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951477957"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Calcium Pyrophosphate, Tetrapotassium Pyrophosphate, Sodium Lauryl Sulfate, Aroma, PEG-12, Cellulose Gum, Sodium Fluoride, Sodium Saccharin, Anethole, Beta-Caryophyllene, Carvone, Limonene, Mentha Viridis Leaf Oil, Menthol, CI 74160, CI 74260"
+    },
+    {
+     "nombre": "Enjuague bucal Triple Action menta sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951178779"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Aroma, Cetylpyridinium Chloride, Potassium Sorbate, Sodium Fluoride, Sodium Saccharin, CI 42051"
+    },
+    {
+     "nombre": "Pasta de dientes Max Fresh Ultrafreeze menta fresca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951738478"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, Aroma, PEG-12, Cellulose Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Hydroxypropyl Methylcellulose, Anethole, Benzyl Alcohol, Limonene, Mentha Piperita Oil, Menthol, CI 42090, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Anti-Sarro + Blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951567580"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Glycerin, PEG-12, Pentasodium Triphosphate, Tetrapotassium Pyrophosphate, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Sodium Fluoride, Carrageenan, Sodium Saccharin, Anethole, Beta-Caryophyllene, Carvone, Limonene, Mentha Viridis Leaf Oil, Menthol"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Bluey sabor fresa 0-5 años",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951611528"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Xylitol, Lauryl Glucoside, Disodium Cocoyl Glutamate, Cellulose Gum, Benzyl Alcohol, Aroma, Sodium Fluoride, Stevia Rebaudiana Extract, Rebaudioside A, Maltodextrin, Menthol"
+    },
+    {
+     "nombre": "Enjuague bucal Plax Fresh & Protect menta suave sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951179042"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Aroma, Cetylpyridinium Chloride, Potassium Sorbate, Sodium Fluoride, Sodium Saccharin, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Pasta de dientes Max White Ultrafreeze menta cristalina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951737860"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Glycerin, PEG-12, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Tetrasodium Pyrophosphate, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Hydroxypropyl Methylcellulose, Anethole, Benzyl Alcohol, Carvone, Eucalyptus Globulus Oil, Limonene, Mentha Viridis Leaf Oil, Menthol, CI 74160, CI 74260"
+    },
+    {
+     "nombre": "Pasta de dientes Maximum Cavity Protection extra calcio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951559721"
+     ],
+     "inci": "Dicalcium Phosphate Dihydrate, Aqua, Glycerin, Arginine, Sodium Lauryl Sulfate, Cellulose Gum, Sodium Monofluorophosphate, Hydrated Silica, Aroma, Tetrasodium Pyrophosphate, Phosphoric Acid, Sodium Saccharin, Sucralose, Limonene"
+    },
+    {
+     "nombre": "Pasta de dientes Triple Acción Xtra Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951565128"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Calcium Pyrophosphate, Sodium Lauryl Sulfate, Aroma, PEG-12, Cellulose Gum, Sodium Fluoride, Sodium Saccharin, Commiphora Myrrha Resin Extract, Mentha Piperita Oil, Salvia Officinalis Oil, Chamomilla Recutita Flower Extract, Eucalyptus Globulus Leaf Oil, Limonene, CI 74260"
+    },
+    {
+     "nombre": "Sérum potenciador del blanqueamiento Max White Purple Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951724273"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, PEG-12, Aroma, Potassium Hydroxide, Benzyl Alcohol, Xanthan Gum, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Saccharin, Cellulose Gum, Eugenol, Limonene, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Enjuague bucal infantil Kids Minions menta suave sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951176874"
+     ],
+     "inci": "Aqua, Propylene Glycol, Polyglyceryl-4 Caprate, Glycerin, Levulinic Acid, Sodium Levulinate, Oleaminopropylamineth-3 HCl, Aroma, Sodium Fluoride, Sodium Saccharin, Sodium Citrate, Sodium Anisate, Menthol"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Harry Potter sabor menta suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951796447"
+     ],
+     "inci": "Calcium Carbonate, Aqua, Glycerin, Hydrated Silica, Arginine, Lauryl Glucoside, Disodium Cocoyl Glutamate, Sodium Monofluorophosphate, Xanthan Gum, Aroma, Benzyl Alcohol, Tetrasodium Pyrophosphate, Sodium Bicarbonate, Sodium Saccharin, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Anethole, Menthol, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Enjuague bucal Max White Purple Reveal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951592223"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Tetrapotassium Pyrophosphate, Polysorbate 20, Tetrasodium Pyrophosphate, Zinc Citrate, PVM/MA Copolymer, Aroma, Benzyl Alcohol, Sodium Fluoride, Sodium Saccharin, Anethole, Mentha Piperita Oil, Menthol, CI 17200, CI 42051"
     }
    ]
   },
@@ -71837,6 +71955,216 @@
       "3574660571783"
      ],
      "inci": "Aqua, Sorbitol, Aroma, Sucralose, Phosphoric Acid, Cetylpyridinium Chloride, Sodium Fluoride, Menthol, Disodium Phosphate, Benzyl Alcohol, CI 16035, CI 42053"
+    }
+   ]
+  },
+  {
+   "key": "palmolive",
+   "nombre": "Palmolive",
+   "productos": [
+    {
+     "nombre": "Jabón líquido de manos Naturals hidratante con leche y almendra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8003520012906"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Salicylate, Glycerin, Parfum, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Lactose, Whey Protein, Prunus Amygdalus Dulcis Seed Extract, Sine Adipe Lac, Prunus Amygdalus Dulcis Oil, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Jabón líquido de manos Naturals almendra recarga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8003520029133"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Salicylate, Glycerin, Parfum, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Prunus Amygdalus Dulcis Fruit Extract, Eugenia Caryophyllus Leaf Oil, Pelargonium Graveolens Leaf Oil, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla Naturals Delicate Care con leche y almendra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789698953"
+     ],
+     "inci": "Sodium Palmate, Sodium Oleate, Aqua, Glycerin, Sodium Laurate, Parfum, Sodium Chloride, Tetrasodium EDTA, Etidronic Acid, Tocopheryl Acetate, Disodium Distyrylbiphenyl Disulfonate, Prunus Amygdalus Dulcis Seed Extract, Sine Adipe Lac, Tocopherol, Chamomilla Recutita Flower Extract, Prunus Amygdalus Dulcis Oil, Alpha-Isomethyl Ionone, Citronellol, Coumarin, Eugenol, Hexyl Cinnamal, Linalool, CI 77891"
+    },
+    {
+     "nombre": "Jabón líquido de manos Naturals nutritivo leche y miel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8003520013026"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Salicylate, Glycerin, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Lactose, Whey Protein, Mel, Benzyl Benzoate, Benzyl Salicylate, Hexyl Cinnamal, CI 16255, CI 19140"
+    },
+    {
+     "nombre": "Gel de ducha cremoso Natural Balance Sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951603509"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Salicylate, Glycerin, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Prunus Amygdalus Dulcis Fruit Extract, Citrus Aurantifolia Oil, Citrus Paradisi Peel Oil, Benzyl Salicylate, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel de ducha Natural Balance Nutritivo Leche y Extracto de Miel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951400894"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Salicylate, Glycerin, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Mel, Prunus Amygdalus Dulcis Fruit Extract, Citrus Aurantium Dulcis Peel Oil, Benzyl Benzoate, Benzyl Salicylate, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel de ducha cremoso Natural Balance Oliva Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951603301"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Salicylate, Glycerin, Sodium Benzoate, Parfum, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Ficus Carica Fruit Extract, Olea Europaea Fruit Oil, Prunus Amygdalus Dulcis Fruit Extract, Citrus Aurantium Dulcis Peel Oil, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla Naturals Moisture Care con oliva y leche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789698922"
+     ],
+     "inci": "Sodium Palmate, Sodium Oleate, Aqua, Glycerin, Sodium Laurate, Parfum, Sodium Chloride, Tetrasodium EDTA, Etidronic Acid, Sine Adipe Lac, Olea Europaea Fruit Oil, Aloe Barbadensis Leaf Juice Powder, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Coumarin, Limonene, CI 47005, CI 61570, CI 77891"
+    },
+    {
+     "nombre": "Desodorante spray Tacto Puro Classic con extracto de leche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789411323"
+     ],
+     "inci": "Isobutane, Butane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Dimethicone, Parfum, Disteardimonium Hectorite, Propylene Carbonate, Dimethiconol, Lactose, Whey Protein, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Coumarin, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante roll-on Tacto Puro Classic con extracto de leche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789411569"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Caprylyl Glycol, Calcium Silicate, Sine Adipe Lac, Olea Europaea Fruit Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citral, Citronellol, Coumarin, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha cremoso Natural Balance Leche de Almendra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951603387"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Salicylate, Glycerin, Parfum, Sodium Benzoate, Glycol Distearate, Lauryl Hydroxysultaine, Citric Acid, Polyquaternium-7, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Glyceryl Oleate, Glyceryl Stearate, Prunus Amygdalus Dulcis Fruit Extract, Eugenia Caryophyllus Leaf Oil, Pelargonium Graveolens Leaf Oil, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha Relax con lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951430471"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Glycerin, Cocamidopropyl Betaine, Parfum, Lauryl Hydroxysultaine, Sodium Salicylate, Sodium Benzoate, Citric Acid, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, Benzophenone-4, PPG-2 Hydroxyethyl Cocamide, Elettaria Cardamomum Seed Extract, Cananga Odorata Flower Oil, Elettaria Cardamomum Seed Oil, Lavandula Angustifolia Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Thermal Spa Mineral Massage con sal marina y aloe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951427846"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Chloride, Parfum, Citric Acid, Hydrated Silica, Sodium Salicylate, Sodium Benzoate, Sodium Hydroxide, Tetrasodium EDTA, Maris Sal, Mentha Aquatica Leaf Extract, Aloe Barbadensis Leaf Juice Powder, Cananga Odorata Flower Oil, Hexyl Cinnamal, Linalool, CI 14720, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Natural Balance Coco y Leche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951400559"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Lauryl Hydroxysultaine, Sodium Salicylate, Sodium Benzoate, Glycol Distearate, Glycerin, Polyquaternium-7, Citric Acid, Coco-Glucoside, Tetrasodium EDTA, PEG-150 Pentaerythrityl Tetrastearate, Glyceryl Oleate, Glyceryl Stearate, PPG-2 Hydroxyethyl Cocamide, Prunus Amygdalus Dulcis Fruit Extract, Cocos Nucifera Fruit Extract, Citrus Aurantium Dulcis Peel Oil, Cymbopogon Nardus Oil, Benzyl Salicylate, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "chilly",
+   "nombre": "Chilly",
+   "productos": [
+    {
+     "nombre": "Gel íntimo Delicado piel sensible Anti-Odor pH 5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410032567"
+     ],
+     "inci": "Aqua, Glycerin, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, PEG-200 Hydrogenated Glyceryl Palmate, PEG-7 Glyceryl Cocoate, Hamamelis Virginiana Leaf Water, Aloe Barbadensis Leaf Extract, Parfum, Butylene Glycol, Pentylene Glycol, Glyceryl Oleate, Coco-Glucoside, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Sodium Gluconate, Sodium Benzoate, Citric Acid, Lactic Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Gel íntimo frescor natural duradero Anti-Odor pH 5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410032550"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, PEG-40 Hydrogenated Castor Oil, Menthol, Lactic Acid, Parfum, Sodium Benzoate, Sodium Hydroxide, Sodium Sulfate, Citric Acid, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel íntimo Protect defensa y protección Anti-Odor pH 5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410032574"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, PEG-40 Hydrogenated Castor Oil, Melaleuca Alternifolia Leaf Oil, Thymus Vulgaris Leaf Extract, Salvia Officinalis Leaf Extract, Lactic Acid, Parfum, Sodium Benzoate, Propylene Glycol, Sodium Hydroxide, Sodium Sulfate, Citric Acid, CI 42090"
+    },
+    {
+     "nombre": "Gel íntimo extra protección Anti-Odor pH 3.5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410033113"
+     ],
+     "inci": "Aqua, Glycerin, TEA Lauryl Sulfate, Ammonium Lauryl Sulfate, Citric Acid, Polysorbate 20, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, Hydroxyethylcellulose, Sodium Benzoate, Parfum, Sodium Citrate, Sodium Gluconate, Lactic Acid, Sodium Hydroxide, CI 42051, CI 19140"
+    },
+    {
+     "nombre": "Gel íntimo calmante Anti-Odor pH 5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410037623"
+     ],
+     "inci": "Aqua, Glycerin, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Coco-Glucoside, Glyceryl Oleate, PEG-200 Hydrogenated Glyceryl Palmate, PEG-7 Glyceryl Cocoate, Bisabolol, Parfum, Lactic Acid, Citric Acid, Sodium Gluconate, Sodium Benzoate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Gel íntimo frescor natural duradero Anti-Odor pH 5 formato viaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410032819"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citronellyl Methylcrotonate, 2-Methyl 5-Cyclohexylpentanol, PEG-40 Hydrogenated Castor Oil, Menthol, Lactic Acid, Parfum, Sodium Benzoate, Sodium Hydroxide, Sodium Sulfate, Citric Acid, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Mascarilla íntima hidratante pH 5.5 con vitamina B3 y ácido hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410039658"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Polyacrylate, Sorbitol, Ricinus Communis Seed Oil, Cellulose Gum, Triethylhexanoin, Niacinamide, Sodium Hyaluronate, Acorus Calamus Root Extract, Perilla Ocymoides Leaf Extract, 1, 2-Hexanediol, Allantoin, Butylene Glycol, Dipotassium Glycyrrhizate, Polyacrylic Acid, Tartaric Acid, Hydroxyacetophenone, Aluminum Glycinate, Disodium EDTA"
+    },
+    {
+     "nombre": "Mascarilla íntima refrescante pH 5.5 con vitamina E y mentol natural",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8002410039634"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Polyacrylate, Sorbitol, Ricinus Communis Seed Oil, Cellulose Gum, Triethylhexanoin, Menthol, Tocopheryl Acetate, Acorus Calamus Root Extract, Perilla Ocymoides Leaf Extract, 1, 2-Hexanediol, Allantoin, Butylene Glycol, Dipotassium Glycyrrhizate, Polyacrylic Acid, Tartaric Acid, Hydroxyacetophenone, Aluminum Glycinate, Disodium EDTA"
     }
    ]
   }
