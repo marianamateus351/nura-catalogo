@@ -798,6 +798,42 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### 2026-10-04 · Decisión R: códigos de supermercado para Hogar (portales reabiertos)
+**De dónde salen los EAN.** Solo de tiendas que los publican sin saltarse nada: **Consum** (API pública
+`tienda.consum.es/api/rest/V1.0/catalog/product?q=`, con EAN, nombre y fotos del envase) y **Mercadona** (API de la tienda,
+`products/<id>/` → `ean`). No sirven: Carrefour (403 de Akamai en búsqueda y fichas), Eroski (reCAPTCHA), Caprabo (403);
+Dia, Bonpreu y Alcampo no publican el EAN en la ficha (Bonpreu sí da la declaración de la etiqueta, pero sin código).
+**Cómo se ata** (criterio de Mariana: "el punto es que sea información verdadera"): se mira la **foto del envase** de cada
+código y solo entra si el nombre del envase (gama, variante, perfume, formato) casa con **una sola** ficha del portal; si caben
+dos o el envase no dice cuál es, fuera. Nombre de la tienda nunca basta solo (Consum abrevia y a veces se equivoca).
+- **Corrección de ayer — Wipp Express Power Caps Universal `8410436434690` fuera.** La foto de Consum enseña que ese código es
+  hoy el **Power Caps "Fragancia Floral"** (rosa); la foto de OFF en la que me basé era un envase anterior con el mismo
+  código. Henkel no tiene ficha "Floral" en España: el código sale del catálogo. La entrada Power Caps Universal sigue con
+  los dos envases azules que sí lo son (`8410436434577` 33 dosis, `8410436502818` 18 dosis).
+- **Henkel (versión 2026-10-04b): +38 códigos, 33 productos nuevos o ampliados; marcas nuevas Bref, Somat, Estrella,
+  Micolor y Conejo.**
+  - Entran: Dixan Trio-Caps Universal (24 y 34), Polvo Universal, Frescor, Adiós al Separar líquido; Wipp Higiene &
+    Antiolores, Limpio & Liso, Polvo, Power Caps Antiolores y Universal; Vernel concentrados Delicado, Cielo Azul (55 y 75,
+    a la ficha vigente de 2026), Fresh Control Explosión de Frescor (55 y 75), Aromaterapia Lirio (55 y 75), Magia de
+    Magnolia y Maldivas, y los perfumadores Selection Blue Jasmine y Cherry Blossom; Neutrex Oxy Color y Oxy Blanco Puro
+    (gel), lejías Neutrex y Frescor Verde; Bref Power Activ Pine (1, 2 y 3 unidades; uno de Mercadona), Lemon (2 y 3),
+    Hawaii, Lavender, Blue Auto Activ Flower, Gel Brillante Océano Ártico y Momentos de Relax Armonía; Somat Excellence Gel
+    5en1 Antigrasa y Anti-Olor, Power Gel All in 1 Lima y Limón y Limpiamáquinas 5en1; Estrella 2 en 1 (azul, limón,
+    pino); Micolor Colores Oscuros, Adiós al Separar y Colores Vivos; lejía Conejo y Conejo Frescor Floral.
+  - Fuera: Dixan líquido "4 en 1" (55, 72, 30 lavados; ninguna ficha se llama así), Dixan cápsulas Adiós al Separar (sin
+    ficha), Wipp líquido "Azul" (el envase no dice Universal), Wipp Floral, Bref Blue Activ+ (tres fichas Blue posibles),
+    Somat Excellence Lima Limón (el PDF de su ficha viene vacío), Somat "Total Gel 5en1" de Mercadona (no dice Excellence),
+    Neutrex Transpirex (ficha de 2010 en el formato antiguo), Estrella Multiusos Oxi Activo y Mistol (sin ficha).
+  - **Falso positivo corregido — OTROS RIESGOS "Naftaleno" (IARC 2B)**: saltaba con colorantes azoicos sulfonados cuyo
+    nombre químico lleva "naphthalene-2,7-disulphonate" / "naftaleno-2,7-disulfónico" (Bref ×3, Neutrex Oxy Color, Somat
+    Limpiamáquinas). `excluyeSi` += "naftaleno-", "naphthalene-" (el naftaleno de verdad va sin localizador y sigue
+    saltando). Regresión: 0 cambios en las 7.234 fichas anteriores; las 5 que cambian son de hoy. **Fallo de método
+    arreglado**: la revisión de portales no miraba OTROS RIESGOS; ahora sí (`hg/riesgos_check.mjs`). Repasados los 7
+    portales: solo sale Ethyl Acrylate ×2 (Reckitt), que está escrito tal cual.
+- **Persán (versión 2026-10-04c)**: el portal busca por EAN, así que los de Consum se confirman solos. Flota Esencia 42
+  lavados (`8410046661530`, misma ficha y lista que el de `…661486`) y **Flota en polvo para lavado a mano**
+  (`8410046611528`, nueva). Fuera: Puntomatic Pastillas `8410046500457` (el portal da dos fichas con listas distintas).
+
 ### 2026-10-04 · Decisiones de Mariana sobre la cola de Hogar y pendientes (H–Y)
 Respuesta de Mariana (2026-10-04): "Usa las listas de supermercado, obvio, para el código. El punto es que sea información
 verdadera" (R); "sí a todo" en los alias (S–Y); "cambia a tus sugerencias" (W); sí a M, N, O, P, Q; "ok a todo" en H–L, y
@@ -3529,13 +3565,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10567 códigos en 103 marcas: NYX 999 · **Frosch 33** · **Flota 3** · **Wipp Express 1** · **Dixan 1** · **Vernel 1** · **Neutrex 1** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10616 códigos en 108 marcas: NYX 999 · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 1** · **Finish 6** · **Air Wick 5** · **Cillit Bang 4** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7235 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7274 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
