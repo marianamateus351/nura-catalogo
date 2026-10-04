@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci00",
+ "version": "2026-10-04-hogar-eci3",
  "marcas": [
   {
    "key": "larocheposay",
@@ -11594,7 +11594,8 @@
      "exclude": [],
      "barcodes": [
       "8006540421499",
-      "8700216609708"
+      "8700216609708",
+      "8700216820134"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Triethanolamine, Sodium Cumenesulfonate, Alcohols C9-11-branched and linear ethoxylated (EO=8-9), PPG-17, Sodium Citrate, Parfum, Citric Acid, Alcohol, PEI/PEG/PPG Copolymer, Phenoxyethanol, Propylene Glycol, Linalool, Benzyl Salicylate, Magnesium Sulfate, Benzyl Benzoate, Hexyl Cinnamal, Citronellol, Sodium Sulfate, Dipropylene Glycol, Limonene, Methyl Alcohol, Sodium Chloride, Colorante, Benzisothiazolinone, Colorante, Sodium Hydroxide"
     },
@@ -11650,6 +11651,15 @@
       "8700216590860"
      ],
      "inci": "Aqua, UNDECETH-10, Lauramine Oxide, Propylene Glycol Butyl Ether, Dodecylbenzene Sulfonic Acid, Ethanolamine, Parfum, Sodium Hydroxide, Sodium Carbonate, Polyethylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Sulfuric Acid"
+    },
+    {
+     "nombre": "Poder 3 en 1 spray Limón (lavavajillas a mano y cocina)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216590976"
+     ],
+     "inci": "Aqua, UNDECETH-10, Lauramine Oxide, Propylene Glycol Butyl Ether, Dodecylbenzene Sulfonic Acid, Ethanolamine, Parfum, Sodium Hydroxide, Sodium Carbonate, Limonene, Polyethylene Glycol, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Dulcis Oil, Linalool, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Sulfuric Acid"
     }
    ]
   },
@@ -70005,6 +70015,25 @@
       "8006530286442"
      ],
      "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, MEA-Palm Kernelate, Aqua, Mea-Laureth Sulfate, Glycerin, C12-14 Pareth-n, Parfum, Dimonoethanolamine Etidronate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Palm Kernel Fatty Acid, PPG-6, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, Polyquaternium-10, Tetramethyl Acetyloctahydronaphthalenes, Disodium Distyrylbiphenyl Disulfonate, C12-16 Pareth-n, Anionic modified polyester, Phenylpropyl Ethyl Methicone, Isopropyl Myristate, Linalool, Magnesium Chloride, Potassium Sulfite, Hydrogenated Castor Oil, Protease, Sodium Formate, Alpha-Isomethyl Ionone, Sorbitol, Eucalyptus Globulus Leaf Extract, Terpineol, Ethanolamine, Citronellol, Polyethylene Glycol, Coumarin, Sodium Chloride, Ethoxylated m-toluidine, Limonene, Delta-Damascone, PEG Copolymer, Simethicone, Amylase, Hydroxycitronellal, Camphor, Isoeugenyl Acetate, Buciffol, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, PEG-N Methyl Ether, Polyvinyl alcohol, Ethylhexyl Stearate, Sodium Acetate, Colorante, Mannanase, Colorante, Xanthan gum, Colorante, Calcium Chloride, Dipropylene Glycol, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Hydroxide, Potassium Citrate monobasic"
+    },
+    {
+     "nombre": "Detergente en cápsulas Ariel Todo en 1 Pods Azahar y Amapola",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530336338"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, MEA-Palm Kernelate, Mea-Laureth Sulfate, Glycerin, C12-14 Pareth-n, Parfum, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, Palm Kernel Fatty Acid, Alpha-Glucan Hydroxypropyltrimonium Chloride, Dimonoethanolamine Etidronate, MEA-citrate, Etidronic Acid, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, Anionic modified polyester, Citric Acid, C12-16 Pareth-n, Hydrogenated Castor Oil, Phenylpropyl Ethyl Methicone, Isopropyl Myristate, Magnesium Chloride, Protease, Potassium Sulfite, Sorbitol, Sodium Formate, Citronellol, Ethanolamine, Tetramethyl Acetyloctahydronaphthalenes, Polyethylene Glycol, Eugenol, Delta-Damascone, Ethoxylated m-toluidine, Amylase, Disodium Distyrylbiphenyl Disulfonate, Alpha-Isomethyl Ionone, Simethicone, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, PEG-N Methyl Ether, Polyvinyl alcohol, Ethylhexyl Stearate, Colorante, Colorante, Lipase, Xanthan gum, Dipropylene Glycol, Calcium Chloride, Sodium C10-13 Alkyl Benzenesulfonate, Caprylyl Glycol, Sodium Chloride, Colorante, Sodium Hydroxide, Potassium Citrate monobasic"
+    },
+    {
+     "nombre": "Detergente en cápsulas Ariel Poderoso Frescor a Flores Silvestres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530189477",
+      "8006530189590"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, Mea-Laureth Sulfate, C12-14 Pareth-n, Glycerin, Dimonoethanolamine Etidronate, Parfum, MEA-Palm Kernelate, Co-polymer of PEG / Vinyl Acetate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Sorbitol, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Tetramethyl Acetyloctahydronaphthalenes, Anionic modified polyester, C12-16 Pareth-n, Palm Kernel Fatty Acid, Magnesium Chloride, Disodium Distyrylbiphenyl Disulfonate, Potassium Sulfite, Isopropyl Myristate, Linalool, Phenylpropyl Ethyl Methicone, Ethanolamine, Alpha-Isomethyl Ionone, Protease, Hydrogenated Castor Oil, Eucalyptus Globulus Leaf Extract, Sodium Formate, Terpineol, Tripropylene Glycol, Polyethylene Glycol, Citronellol, Coumarin, Ethoxylated m-toluidine, Phosphodiesterase, Limonene, Amylase, Delta-Damascone, Hydroxycitronellal, Camphor, Isoeugenyl Acetate, Buciffol, Simethicone, Sodium Chloride, Cellulase, Lipase, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, Mannanase, Polyvinyl alcohol, Ethylhexyl Stearate, Caprylyl Glycol, Colorante, Colorante, Xanthan gum, Calcium Chloride, PEG-N Methyl Ether, Dipropylene Glycol, Colorante, Sodium C10-13 Alkyl Benzenesulfonate, Colorante, Sodium Hydroxide, Potassium Citrate monobasic, Potassium Hydroxide"
     }
    ]
   },
@@ -70020,6 +70049,15 @@
       "8001090501165"
      ],
      "inci": "Aqua, Formic Acid, Deceth-n, Sodium Lauryl Sulfate, Sodium Formate, Monosodium Citrate, Xanthan Gum, Sodium Citrate, Parfum, Citric Acid, Hexyl Cinnamal, Alcohols C10-16, Citrate, Sodium Sulfate"
+    },
+    {
+     "nombre": "Limpiador multiusos para madera Don Limpio Limpieza + Cuidado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090501288"
+     ],
+     "inci": "Aqua, C10-16 Pareth, Sodium Carbonate, Parfum, Sodium C10-13 Alkyl Benzenesulfonate, Caprylyl/Capryl Glucoside, Sodium Citrate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Limonene, Linalool, Hexyl Cinnamal, Colorante, Sodium Sulfate, Propylene Glycol, Colorante"
     }
    ]
   },
@@ -71045,6 +71083,136 @@
       "8433329131704"
      ],
      "inci": "Aqua, Urea, Cetearyl Alcohol, Paraffinum Liquidum, Caprylyl Caprylate/Caprate, Sodium Lactate, Butyrospermum Parkii Butter, Tocopherol, Parfum, Sodium Polyacrylate, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Hydroxyacetophenone, Lactic Acid, Disodium EDTA, Caprylyl Glycol, Linalyl Acetate, Hexyl Cinnamal, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Citrus Aurantium Peel Oil, Citronellol, Geraniol, Coumarin, Sodium Hydroxide, Phenoxyethanol"
+    }
+   ]
+  },
+  {
+   "key": "lenor",
+   "nombre": "Lenor",
+   "productos": [
+    {
+     "nombre": "Perfumador de ropa en perlas Lenor Orquídea Dorada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216732482"
+     ],
+     "inci": "Polyethylene Glycol, Parfum, Aqua, Hexyl Cinnamal, Isopropyl Myristate, Linalool, Alpha-Isomethyl Ionone, Linalyl Acetate, Amyl Cinnamal, Vanillin, Coumarin, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Citronellol, Geraniol, Polyacrylate Crosspolymer-9, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Polyvinyl alcohol, Pogostemon Cablin Oil, Delta-Damascone, Terpinolene, Xanthan gum, BHT, Propylene Glycol, Colorante, Sodium Hydroxide, Colorante"
+    },
+    {
+     "nombre": "Perfumador de ropa en perlas Lenor Azahar y Amapola",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530411127"
+     ],
+     "inci": "Polyethylene Glycol, Parfum, Aqua, Isopropyl Myristate, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Linalyl Acetate, Citronellol, Coumarin, Alpha-Isomethyl Ionone, Limonene, Linalool, Hydroxycitronellal, Terpinolene, Polyacrylate Crosspolymer-9, Polyvinyl alcohol, Citral, Eucalyptus Globulus Leaf Extract, Eugenia Caryophyllus Leaf Oil, Delta-Damascone, Eugenol, BHT, Xanthan gum, Propylene Glycol, Colorante, Sodium Hydroxide, Colorante"
+    },
+    {
+     "nombre": "Suavizante concentrado Lenor Aire Fresco Frescor Alpino",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530037051",
+      "8006530619165"
+     ],
+     "inci": "Aqua, Distearoylethyl/Dipalmitoylethyl Dimonium Chloride, Parfum, Isopropyl Alcohol, Acrylic Polymer, Isopropyl Myristate, Cocos Nucifera Oil, Limonene, Chitosan Crosspolymer, Formic Acid, Hexyl Cinnamal, Citronellol, Linalool, Geraniol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Hydroxycitronellal, Coumarin, Hydrochloric Acid, Polyacrylate Crosspolymer-9, Monosodium Etidronate, Polyvinyl alcohol, Dimethicone, Xanthan gum, Trimethylsiloxysilicate/Dimethicone Crosspolymer, Glyceryl Stearate, PEG-20 Stearate, Disodium Phosphite, Sodium hydrogen phosphonate, Phosphorous acid sodium salt, Hydroxyethylcellulose"
+    },
+    {
+     "nombre": "Suavizante concentrado Lenor Aire Fresco Flores Silvestres",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530037150"
+     ],
+     "inci": "Aqua, Distearoylethyl/Dipalmitoylethyl Dimonium Chloride, Parfum, Isopropyl Alcohol, Acrylic Polymer, Acrylic Polymer, Isopropyl Myristate, Trimethylbenzenepropanol, Formic Acid, Chitosan Crosspolymer, Pogostemon Cablin Oil, Vanillin, Tetramethyl Acetyloctahydronaphthalenes, Hydrochloric Acid, Monosodium Etidronate, Polyacrylate Crosspolymer-9, Polyvinyl alcohol, Dimethicone, Xanthan gum, Trimethylsiloxysilicate/Dimethicone Crosspolymer, Glyceryl Stearate, PEG-20 Stearate, Disodium Phosphite, Sodium hydrogen phosphonate, Phosphorous acid sodium salt, Hydroxyethylcellulose, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "ambipur",
+   "nombre": "Ambi Pur",
+   "productos": [
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Tatami Japonés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015600450380"
+     ],
+     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Benzyl Alcohol, Ethyl 2 2-Dimethylhydrocinnamal, Benzyl Salicylate, Cyclamen Aldehyde, Dimethyl Heptenal, Ethyl Methylphenylglycidate, Amyl Cinnamal, Limonene, Pentamethylheptenone, 4-tert-Butylcyclohexyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Citronellol, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Citral, Methylundecanal, Eucalyptol, Lauraldehyde, cis-hex-3-en-1-yl Methyl Carbonate, Coumarin, Linalyl Acetate, Delta-Damascone, Eugenol, Alpha-Isomethyl Ionone, Methyl Octine Carbonate, Geraniol"
+    },
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Campos de Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216457897"
+     ],
+     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Linalyl Acetate, Eucalyptus Globulus Leaf Extract, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Dulcis Oil, Limonene, Benzaldehyde, Eugenol, Citronellol, Alpha-Isomethyl Ionone, Acetylcedrene, Camphor, Pogostemon Cablin Oil, Coumarin, Citral, Cedrus Atlantica Bark Oil, Eugenia Caryophyllus Leaf Oil, Benzyl Salicylate, Menthol, Beta-Caryophyllene, Benzyl Alcohol, Trans-Anethole, Geranyl Acetate, l-Limonene, Turpentine, Terpineol, Geraniol, Delta-Damascone, Pinene, Eucalyptus Globulus Leaf Extract, Citrus Ext."
+    },
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Aroma a Limpio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090761989"
+     ],
+     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Citronellol, Tetrahydrolinalool, Eucalyptus Globulus Leaf Extract, Methylundecanal, 4-tert-Butylcyclohexyl Acetate, Cyclamen Aldehyde, Ethyl 2 2-Dimethylhydrocinnamal, Eucalyptol, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Methylenedioxyphenyl Methylpropanal, Coumarin, Pentamethylheptenone, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Geraniol, Eugenol, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Lauraldehyde, Nerol, Delta-Damascone, Undecylenal, Dimethyl Heptenal, Limonene, Isoeugenol, Citral"
+    },
+    {
+     "nombre": "Ambientador de baño Ambi Pur Hierba Fresca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540194102"
+     ],
+     "inci": "Parfum, Linalool, Linalyl Acetate, 1 2 3 4 5 6 7 8-Octahydro-5 5-Dimethylnaphthalene-2-Carbaldehyde, Limonene, 3-(o-ethylphenyl)-2 2-Dimethylpropionaldehyde, Cyclamen Aldehyde, Delta-Damascone, Cyclooctenyl Methyl Carbonate, Ethyl Methylphenylglycidate, Trans-Anethole, Methylundecanal, Octahydro-4 7-Methano-1H-Indenecarbaldehyde, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Dimethyl Heptenal, Citral, Trimethylundecenal, Isocyclocitral, trans-2-Hexanal, Dimethylcyclohexenyl 3-butenyl ketone, 4 8-Dimethyl-4 9-decadienal, Heptamethyl Decahydroindenofuran, Methyl 2-Octynoate, Methyl Octine Carbonate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur Campos de Lavanda (recambio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015600435653"
+     ],
+     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Cyclamen Aldehyde, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Pentamethylheptenone, Citronellol, Acetylcedrene, Eucalyptol, Ethyl 2 2-Dimethylhydrocinnamal, Cedrol Methyl Ether, Coumarin, Methyl Dihydroxy-dimethylbenzoate, Delta-Damascone, Limonene"
+    },
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur Flores Elegantes (recambio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5410076326389"
+     ],
+     "inci": "Parfum, PPG-2 Methyl Ether, Linalool, 4-tert-Butylcyclohexyl Acetate, Citronellol, Cyclamen Aldehyde, Ethyl 2 2-Dimethylhydrocinnamal, Limonene, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Alpha-Isomethyl Ionone, Delta-Damascone, Ethyl Methylphenylglycidate, Citral, Eugenol, Isoeugenol, Heliotropine, Cyclohexanepropanol 2 2 6-trimethyl-alpha-propyl-, Geraniol, Rose Ketone-4"
+    },
+    {
+     "nombre": "Ambientador eléctrico Ambi Pur Tatami Japonés (recambio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015600435318"
+     ],
+     "inci": "PPG-3 Methyl Ether, Parfum, Amyl Cinnamal, 4-tert-Butylcyclohexyl Acetate, Citral, Linalool, Ethyl 2 2-Dimethylhydrocinnamal, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Methylundecanal, cis-hex-3-en-1-yl Methyl Carbonate, Eucalyptol, Dimethyl Heptenal, Limonene, Cyclamen Aldehyde, Delta-Damascone"
+    },
+    {
+     "nombre": "Ambientador de coche Ambi Pur Car Brisa Marina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015600641580"
+     ],
+     "inci": "Parfum, Linalool, Geraniol, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Dimethylbenzyl Carbinyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Limonene, beta-Pinene, Citrus Aurantium Dulcis Peel Cera, Eugenol, Citrus Limon (Lemon) Peel Oil, Lavandula Hybrida Oil, Isoeugenol, Pinene, Citral, Benzaldehyde"
+    },
+    {
+     "nombre": "Ambientador de coche Ambi Pur Car Flores Elegantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4015600641610"
+     ],
+     "inci": "Parfum, Linalool, Geranyl Acetate, Dimethylbenzyl Carbinyl Acetate, Delta-Damascone, 3-Methyl-5-(2 2 3-trimethyl-3-cyclopenten-1-yl)pent-4-en-2-ol, Coumarin, Citral, Methyl Salicylate, beta-Pinene, Alpha-Isomethyl Ionone, Benzaldehyde, Benzyl Alcohol"
     }
    ]
   }
