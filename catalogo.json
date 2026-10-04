@@ -10360,6 +10360,24 @@
       "5601036303148"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Glycerin, Coco-Betaine, Sodium Chloride, PPG-5-Ceteth-20, PEG-55 Propylene Glycol Oleate, PEG-7 Glyceryl Cocoate, Sodium Acetate, Sodium Hydroxide, Prunus Armeniaca Kernel Oil, Isopropyl Alcohol, Propylene Glycol, Citric Acid, Gossypium Herbaceum Extract, Maltodextrin, Polyquaternium-10, Polysorbate 20, Sodium Benzoate, Salicylic Acid, Parfum"
+    },
+    {
+     "nombre": "Original Remedies champú Nutrición Extrema Oliva Mítica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600542650182"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Olea Europaea Fruit Oil, Olea Europaea Leaf Extract, Triethyl Citrate, Sodium Hydroxide, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Benzoic Acid, Limonene, Benzyl Alcohol, Benzyl Salicylate, Parfum"
+    },
+    {
+     "nombre": "Original Remedies champú purificante Arcilla Suave & Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600542152945"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Kaolin, Sodium Chloride, Glycerin, CI 19140, CI 42090, Sodium Benzoate, Sodium Hydroxide, Salicylic Acid, Limonene, Benzoic Acid, Linalool, Benzyl Salicylate, Benzyl Alcohol, Alpha-Isomethyl Ionone, Acrylates Copolymer, Citric Acid, Citrus Medica Vulgaris Fruit Extract, Hexylene Glycol, Hexyl Cinnamal, Parfum"
     }
    ]
   },
@@ -73176,30 +73194,6 @@
       "8006530199728"
      ],
      "inci": "Aqua, Citric Acid, Sodium Citrate, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Sorbitan Caprylate, Disodium EDTA"
-    }
-   ]
-  },
-  {
-   "key": "originalremedies",
-   "nombre": "Original Remedies",
-   "productos": [
-    {
-     "nombre": "Champú Nutrición Extrema Oliva Mítica",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600542650182"
-     ],
-     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Olea Europaea Fruit Oil, Olea Europaea Leaf Extract, Triethyl Citrate, Sodium Hydroxide, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Benzoic Acid, Limonene, Benzyl Alcohol, Benzyl Salicylate, Parfum"
-    },
-    {
-     "nombre": "Champú purificante Arcilla Suave & Limón",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "3600542152945"
-     ],
-     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Kaolin, Sodium Chloride, Glycerin, CI 19140, CI 42090, Sodium Benzoate, Sodium Hydroxide, Salicylic Acid, Limonene, Benzoic Acid, Linalool, Benzyl Salicylate, Benzyl Alcohol, Alpha-Isomethyl Ionone, Acrylates Copolymer, Citric Acid, Citrus Medica Vulgaris Fruit Extract, Hexylene Glycol, Hexyl Cinnamal, Parfum"
     }
    ]
   }
