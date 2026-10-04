@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-hogar-eci5",
+ "version": "2026-10-04-eci13",
  "marcas": [
   {
    "key": "larocheposay",
@@ -24825,6 +24825,33 @@
       "8006530486231"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethiconol, Parfum, Menthol, Sodium Benzoate, Dimethicone, Sodium Salicylate, Caffeine, TEA-Dodecylbenzenesulfonate, Sodium Hydroxide, Limonene, Citrus Aurantium Peel Oil, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-10, Hexamethylindanopyran, Acetic Acid, Benzyl Alcohol, Glycerin, CI 19140, Propylene Glycol, Triethylene Glycol, Avena Sativa Kernel Extract, CI 42090"
+    },
+    {
+     "nombre": "Champú anticaspa Calmante con aloe y complejo de ceramidas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216613347"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Piroctone Olamine, Dimethiconol, Citric Acid, Cocamide MEA, Glycol Distearate, Sodium Chloride, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Parfum, Sodium Benzoate, Menthol, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Tetrasodium EDTA, Trideceth-10, Sodium Hydroxide, Hexyl Cinnamal, Hexamethylindanopyran, Butylene Glycol, Linalool, Hydroxycitronellal, Geraniol, Aloe Barbadensis Leaf Juice, Citronellol, Acetic Acid, Oryza Sativa Bran Extract, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol, CI 42090, CI 19140"
+    },
+    {
+     "nombre": "Champú anticaspa hidratante con aceite de coco y complejo de ceramidas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216613453"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Piroctone Olamine, Dimethiconol, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Sodium Chloride, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Tetrasodium EDTA, Trideceth-10, Sodium Hydroxide, Hexamethylindanopyran, Coumarin, Hexyl Cinnamal, Butylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Glycerin, Acetic Acid, Oryza Sativa Bran Extract, Cocos Nucifera Fruit Juice, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol, CI 42090, CI 19140, Lactic Acid"
+    },
+    {
+     "nombre": "Bálsamo calmante con aclarado para el cuero cabelludo con aloe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216613316"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Citric Acid, Glutamic Acid, Benzyl Alcohol, Phenoxyethanol, Parfum, Sodium Benzoate, Piroctone Olamine, Menthol, Hexyl Cinnamal, Butylene Glycol, Hexamethylindanopyran, Linalool, Hydroxycitronellal, Aloe Barbadensis Leaf Juice, Geraniol, Polysorbate 20, Citronellol, Oryza Sativa Bran Extract"
     }
    ]
   },
@@ -74030,6 +74057,93 @@
       "8421335005676"
      ],
      "inci": "Aqua, PEG-7 Glyceryl Cocoate, Parfum, PEG-40 Hydrogenated Castor Oil, Copolímero Ácido Acrílico Alquil Éster y Ácido Metacrílico, Poliestireno Alquilatado, Ethanolamine, Linalool, Tetramethylolglycoluril, Geraniol, Alpha-Isomethyl Ionone, Sodium Lauryl Sulfate, Methyl Alcohol, Phenoxyethanol, Dimethicone, Methylchloroisothiazolinone/Methylisothiazolinone, Resorcinol"
+    }
+   ]
+  },
+  {
+   "key": "shakeup",
+   "nombre": "Shakeup",
+   "productos": [
+    {
+     "nombre": "Limpiador facial exfoliante Face 4Ward",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060667140247"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Glucoside, Acrylates/Palmeth-25 Acrylate Copolymer, Salix Alba (Willow) Bark Extract, Xylitylglucoside, Sodium Benzoate, Vaccinium Myrtillus (Bilberry) Fruit Extract, Anhydroxylitol, Potassium Sorbate, Saccharum Officinarum (Sugar Cane) Extract, Xylitol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "denenes",
+   "nombre": "Denenes",
+   "productos": [
+    {
+     "nombre": "Gel-champú infantil Original con karité y petit grain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411061578742"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Sodium Cocoamphoacetate, Sodium Sheabutteramphoacetate, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Citrus Aurantium Amara Leaf Oil, Coco-Glucoside, Glyceryl Oleate, Lauryl Lactate, PEG-7 Glyceryl Cocoate, Sodium Gluconate, Lactic Acid, Parfum, Limonene, Linalool, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Colonia Original para bebé con petit grain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135370043"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Citrus Aurantium Amara Leaf Oil, Citral, Eugenol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel-champú Baby con caléndula",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135373310"
+     ],
+     "inci": "Aqua, Coco-Glucoside, Lauryl Hydroxysultaine, Glycerin, Hydrolyzed Sweet Almond Protein, Calendula Officinalis Flower Extract, Coco-Betaine, Sodium C14-16 Olefin Sulfonate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Glyceryl Oleate, Lactic Acid, Parfum, Sodium Benzoate, Potassium Sorbate, Sodium Chloride, Tetrasodium Glutamate Diacetate"
+    }
+   ]
+  },
+  {
+   "key": "lida",
+   "nombre": "Lida",
+   "productos": [
+    {
+     "nombre": "Jabón natural de glicerina vegetal Original en pastilla (pack 2)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135007284"
+     ],
+     "inci": "Cocos Nucifera, Sucrose, Dipropylene Glycol, Aqua, Glycerin, Sodium Hydroxide, Palmitic Acid, Stearic Acid, Lauryl Alcohol, Polyglyceryl-6, Aloe Barbadensis Leaf Juice, Parfum, Tetrasodium Etidronate, Potassium Sorbate, Sodium Benzoate, CI 15510, CI 19140, CI 17200, CI 61570"
+    }
+   ]
+  },
+  {
+   "key": "becasannature",
+   "nombre": "Becasan Nature",
+   "productos": [
+    {
+     "nombre": "Jabón de manos antioxidante Peonía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436592662326"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Cocamide MEA, Glycerin, Phenoxyethanol, Benzoic Acid, Benzyl Alcohol, Parfum, Disodium EDTA, Paeonia Suffruticosa Root Extract"
+    },
+    {
+     "nombre": "Jabón de manos hidratante Oliva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436592662319"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Cocamide MEA, Glycerin, Phenoxyethanol, Benzoic Acid, Benzyl Alcohol, Parfum, Disodium EDTA, Olea Europaea Fruit Extract"
     }
    ]
   }
