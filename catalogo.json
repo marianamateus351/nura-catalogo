@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci13",
+ "version": "2026-10-04-eci14",
  "marcas": [
   {
    "key": "larocheposay",
@@ -24666,6 +24666,24 @@
       "8006530422444"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Cocamide MEA, Glycol Distearate, Sodium Citrate, Parfum, Citric Acid, Sodium Benzoate, Glycerin, Stearyl Alcohol, Sodium Salicylate, Dimethiconol, Dimethicone, Cetyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Trihydroxystearin, Sodium Hydroxide, Panthenol, TEA-Dodecylbenzenesulfonate, Polyquaternium-6, Tetrasodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-10, Histidine, Vanillin, Linalool, Propylene Glycol, Triethylene Glycol, CI 19140"
+    },
+    {
+     "nombre": "Acondicionador Hydra Revitaliza",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216940207"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Methosulfate, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Parfum, Benzyl Alcohol, Dicetyldimonium Chloride, Oleic Acid, Isopropyl Alcohol, Sodium Benzoate, Polysorbate 20, Propylene Glycol, Disodium EDTA, Panthenol, Hexamethylindanopyran, Dimethyl Phenethyl Acetate, Histidine, Citric Acid, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, Hydroxycitronellal, Limonene, Rose Ketones, CI 17200"
+    },
+    {
+     "nombre": "Acondicionador Repara & Protege mini",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530400640"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Methosulfate, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Oleic Acid, Sodium Benzoate, Polysorbate 20, Hexamethylindanopyran, Disodium EDTA, Panthenol, Dimethyl Phenethyl Acetate, Histidine, Citric Acid, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, Hydroxycitronellal, Limonene, Rose Ketones"
     }
    ]
   },
@@ -74144,6 +74162,112 @@
       "8436592662319"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Cocamide MEA, Glycerin, Phenoxyethanol, Benzoic Acid, Benzyl Alcohol, Parfum, Disodium EDTA, Olea Europaea Fruit Extract"
+    }
+   ]
+  },
+  {
+   "key": "timotei",
+   "nombre": "Timotei",
+   "productos": [
+    {
+     "nombre": "Champú Iluminador para cabello rubio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5033871000577"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocos Nucifera (Coconut) Oil, Chamomilla Recutita (Matricaria) Flower Extract, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Maltodextrin, Amyl Cinnamal, Citrus Aurantium Peel Oil, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes, CI 19140, CI 15985"
+    },
+    {
+     "nombre": "Champú Fuerza y Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5033871000515",
+      "5033871000539"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Ricinus Communis (Castor) Seed Oil, Cocos Nucifera (Coconut) Oil, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, Polyquaternium-10, Disodium EDTA, Isopropyl Alcohol, Sodium Acetate, Hexyl Cinnamal, Limonene, Tetramethyl Acetyloctahydronaphthalenes"
+    }
+   ]
+  },
+  {
+   "key": "yacel",
+   "nombre": "Yacel",
+   "productos": [
+    {
+     "nombre": "Gel reductor intensivo Vientre Plano",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429449052265"
+     ],
+     "inci": "Aqua, Alcohol Denat., Caprylic/Capric Triglyceride, Isopropyl Myristate, Polyacrylamide, C13-14 Isoparaffin, Creatine, Ethylhexyl Olivate, Hydrolyzed Drosera Ramentacea Leaf, Caffeine, Asiatic Acid, Madecassic Acid, TEA-Hydroiodide, Ruscus Aculeatus Root Extract, Asiaticoside, Carnitine, Escin, Glaucine, Hedera Helix Leaf/Stem Extract, Tripeptide-1, Biotin, Glycerin, Laureth-7, Lecithin, Coco-Glucoside, Caprylyl Glycol, Butylene Glycol, Maltodextrin, Xanthan Gum, Hydrated Silica, Carrageenan, Alcohol, Parfum, Benzoic Acid, Benzyl Alcohol, Dehydroacetic Acid, Potassium Sorbate, Sodium Benzoate, Citric Acid, Sodium Citrate, Sodium Sulfate, Menthol, Triethanolamine, CI 16185"
+    },
+    {
+     "nombre": "Gel anticelulítico intensivo Cellublock",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429449052258"
+     ],
+     "inci": "Aqua, Alcohol Denat., Caprylic/Capric Triglyceride, Isopropyl Myristate, Polyacrylamide, Creatine, Ethylhexyl Olivate, Hydrolyzed Drosera Ramentacea Leaf, Caffeine, Phytosphingosine, TEA-Hydroiodide, Ruscus Aculeatus Root Extract, Carnitine, Escin, Hedera Helix Leaf/Stem Extract, Silybum Marianum Ethyl Ester, Tocopherol, Tripeptide-1, C13-14 Isoparaffin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glycerin, Laureth-7, Lecithin, Butylene Glycol, Maltodextrin, Caprylyl Glycol, Xanthan Gum, Hydrated Silica, Carrageenan, Parfum, Sodium Benzoate, Potassium Sorbate, Triethanolamine, Citric Acid, Lactic Acid, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexamethylindanopyran, Acetyl Cedrene, Hydroxycitronellal, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Geraniol, Pinene, Citral, Linalool, Terpineol, Hexyl Cinnamal, Benzyl Benzoate, Lavandula Oil/Extract, Eugenol, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel reductor intensivo Lipoescultor Noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429449052562"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Polyacrylamide, Isopropyl Myristate, C13-14 Isoparaffin, Prunus Cerasus Fruit Water, Creatine, Ethylhexyl Olivate, Saccharide Isomerate, Tocopherol, Menthone Glycerin Acetal, Propanediol, Laureth-7, Disodium Phosphate, Xanthan Gum, Sodium Phosphate, Glyceryl Caprylate, Parfum, Phenoxyethanol, Benzyl Alcohol, Potassium Sorbate, Linalyl Acetate, Vanillin, Eugenyl Acetate, Lactic Acid"
+    }
+   ]
+  },
+  {
+   "key": "got2b",
+   "nombre": "Got2b",
+   "productos": [
+    {
+     "nombre": "Pasta mate Beach Matt",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9000100417839"
+     ],
+     "inci": "Aqua, Glycerin, Rhus Verniciflua Peel Cera (Rhus Verniciflua Peel Wax), Glyceryl Stearate SE, Cera Carnauba (Copernicia Cerifera (Carnauba) Wax, Cire de Carnauba), Ricinus Communis (Castor) Seed Oil, Stearic Acid, Palmitic Acid, Sorbitol, Parfum, Benzyl Alcohol, Phenoxyethanol, Hydrogenated Castor Oil, Caprylyl Glycol, Ethylhexylglycerin, Caramel, Dehydroxanthan Gum, Charcoal Powder, Linalool, Geraniol"
+    }
+   ]
+  },
+  {
+   "key": "revlon",
+   "nombre": "Revlon",
+   "productos": [
+    {
+     "nombre": "Mascarilla potenciadora del color Colorstay Castaño",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411126076268"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Stearamidopropyl Dimethylamine, Cetearyl Alcohol, Cetrimonium Chloride, Citric Acid, Dicaprylyl Carbonate, Hydroxyethylcellulose, Isopropyl Alcohol, Lauryl Glucoside, Panthenol, Parfum, Polyquaternium-37, Tocopheryl Acetate, Benzyl Alcohol, Phenoxyethanol, Basic Brown 17, Basic Red 76, HC Blue No. 16, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mascarilla potenciadora del color Colorstay Rojo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411126076282"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Stearamidopropyl Dimethylamine, Cetearyl Alcohol, Cetrimonium Chloride, Citric Acid, Dicaprylyl Carbonate, Hydroxyethylcellulose, Isopropyl Alcohol, Lauryl Glucoside, Panthenol, Parfum, Polyquaternium-37, Tocopheryl Acetate, Benzyl Alcohol, Phenoxyethanol, Basic Red 51, Basic Yellow 87, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mascarilla potenciadora del color Colorstay Dorado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411126076251"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Stearamidopropyl Dimethylamine, Cetearyl Alcohol, Cetrimonium Chloride, Citric Acid, Dicaprylyl Carbonate, Hydroxyethylcellulose, Isopropyl Alcohol, Lauryl Glucoside, Panthenol, Parfum, Polyquaternium-37, Tocopheryl Acetate, Benzyl Alcohol, Phenoxyethanol, Basic Brown 17, Basic Red 51, CI 42520, HC Blue No. 16, Tetramethyl Acetyloctahydronaphthalenes"
     }
    ]
   }
