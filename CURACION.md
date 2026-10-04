@@ -908,6 +908,70 @@ mismo envase."** Cómo se aplica:
     vigilancia por "tris(", pero es un estabilizante de luz y no un organofosforado: no es falso negativo.
     Regresión: 0 cambios en las 7359 fichas anteriores.
 
+### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (en curso)
+Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
+
+**Cosmética.**
+- **Cómo se hace.** Agentes en paralelo leen las fotos con las condiciones de la decisión (`hg/eci/INSTRUCCIONES.md`).
+  Se aplica por tandas con `hg/eci/aplica_lote.py`, que:
+  - comprueba el dígito de control;
+  - quita los códigos que ya están en el catálogo;
+  - quita las listas con Lilial o HICC;
+  - junta en una entrada los envases con el mismo nombre y la misma lista.
+
+  En cada tanda pasan la regresión, la revisión FP/FN y la clasificación Hogar/Cuidado personal. Además se compara a
+  mano una muestra de lecturas con su foto.
+- **Reglas añadidas por el camino:**
+  - si la trasera no dice la variante, fuera;
+  - EAN-8 con 8 cifras;
+  - vale una imagen plana de la etiqueta de la misma ficha si el código se ve en la foto del envase;
+  - tintes con varios componentes, fuera.
+- **Aplicado hasta ahora (versiones 2026-10-04-eci00 a eci03):**
+  - **Veckia**, marca propia de El Corte Inglés: 34, marca nueva. Sus fotos son el arte plano de la etiqueta y se leen
+    perfectas.
+  - **Pantene** +29, **Dove** +20, **Nivea** y **H&S** 18.
+  - **Olay** 2 y **Listerine** 1, marcas nuevas.
+  - **Maybelline: 0**, porque ninguna ficha tiene foto trasera.
+
+**Hogar (decisión R, códigos de El Corte Inglés atados a una sola ficha de portal).**
+- **Cómo se hace.** Se mira la foto del envase y, cuando el nombre podría corresponder a varias fichas, se comprueba si
+  sus listas son idénticas. Si no lo son, fuera.
+- **Henkel +23:**
+  - Somat: anti-grasa y anti-olor (también en pack de 2), Deo Perls, limpia máquinas intensivo y abrillantador limón.
+  - Wipp: Limpio & Liso, Higiene & Antiolores (líquido y cápsulas) y polvo.
+  - Micolor: Adiós al Separar, Colores Vivos y Atrapa Color.
+  - Neutrex: Oxy Color y Oxy Blanco.
+  - Vernel: Delicado y Diamond Orchid.
+  - Bref: Gel Primavera.
+- **Reckitt +23:**
+  - Finish: Ultimate, Ultimate Fresh, Quantum, Power Gel Brillo & Protección y limpiamáquinas en pastillas.
+  - Air Wick: 8.
+  - Colon: Nenuco, Profesional, Polvo Activo, Vanish Advanced, Sensaciones, limpia lavadoras limón y Powercaps.
+  - Calgon: 2.
+- **P&G +17:**
+  - Lenor (marca nueva): Orquídea Dorada, Azahar y Amapola, Aire Fresco Frescor Alpino y Flores Silvestres.
+  - Ambi Pur (marca nueva): 9.
+  - Ariel: Azahar y Amapola y Poderoso Flores Silvestres.
+  - Fairy: Maxi Poder y Poder 3 en 1 limón.
+  - Don Limpio: Madera.
+- **Unilever +8:** Skip Ultimate Máxima Eficacia (líquido y cápsulas), polvo Limpieza Profunda y KH-7; Mimosín Azul
+  Vital y Bergamota; Cif crema limón.
+- **KH-7 +3, Frosch +2.**
+- **Fuera por dos fórmulas** (el portal tiene dos o más fichas con listas distintas para ese nombre):
+  - casi todo Ariel: Original, Oxi, Color, Sensaciones y cápsulas;
+  - Fairy Platinum y Todo en Uno;
+  - Cillit Bang entero;
+  - Finish Abrillantador, Ultimate Plus y Quantum Essential;
+  - las cápsulas Somat 4 en 1;
+  - Lenor Unstoppables y las Mimosín Caricias y Origins Rosas;
+  - Ambi Pur baño Aroma a Limpio, Atardecer y Sevilla.
+- **Fuera porque la foto no deja ver la variante o no casa con ninguna ficha:** Dixan Total 4+1, Wipp azul sin
+  apellido, Vanish Powerfoam y Ambi Pur Air Mist.
+- **Persán:** ninguno de los 706 códigos de Hogar de El Corte Inglés está en su buscador por código.
+- **Nota para Mariana:** el Lenor Orquídea Dorada lleva HICC (Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, "Lyral"),
+  prohibido en cosmética desde 2021 pero permitido en detergentes. Ninguna regla del detector lo reconoce. Es un alérgeno
+  potente, no un disruptor conocido, así que no se ha tocado: queda anotado por si se quiere añadir.
+
 ### 2026-10-04 · Decisión R: códigos de supermercado para Hogar (portales reabiertos)
 **De dónde salen los EAN.** Solo de tiendas que los publican sin saltarse nada: **Consum** (API pública
 `tienda.consum.es/api/rest/V1.0/catalog/product?q=`, con EAN, nombre y fotos del envase) y **Mercadona** (API de la tienda,
