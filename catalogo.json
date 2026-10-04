@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci06",
+ "version": "2026-10-04-eci07",
  "marcas": [
   {
    "key": "larocheposay",
@@ -14459,6 +14459,42 @@
       "3600524229085"
      ],
      "inci": "Isododecane, Oryza Sativa Cera, Cera Alba, Disteardimonium Hectorite, Dilinoleic Acid/Butanediol Copolymer, Aqua, Allyl Stearate/Va Copolymer, Dimer Dilinoleyl Dimer Dilinoleate, Alcohol Denat., Polyvinyl Laurate, VP/Eicosene Copolymer, Propylene Carbonate, Copernicia Cerifera Cera, Hydrogenated Jojoba Oil, Ethylenediamine/Stearyl Dimer Dilinoleate Copolymer, PEG-30 Glyceryl Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopherol, CI 77499"
+    },
+    {
+     "nombre": "Champú Color Vive protector del color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523277520"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Ascorbyl Glucoside, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Ethylhexyl Salicylate, Trideceth-10, Trideceth-3, Salicylic Acid, Limonene, Fumaric Acid, Linalool, Amodimethicone, Carbomer, Citric Acid, Hexylene Glycol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Champú Total Repair 5 reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600523277605"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Coco-Betaine, Sodium Benzoate, Sodium Hydroxide, Hydroxycitronellal, Sodium Lactate, Steareth-6, Phenoxyethanol, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Salicylic Acid, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Limonene, Fumaric Acid, Linalool, Amodimethicone, 2-Oleamido-1, 3-Octadecanediol, Carbomer, Citric Acid, Butylene Glycol, Hexylene Glycol, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Champú voluminizador Collagen Lifter",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524251246"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum, Cocamide MEA, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Lactate, Triethyl Citrate, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Dimethyl Phenethyl Acetate, Linalool, Benzyl Alcohol, Geranyl Acetate, Geraniol, Carbomer, Citric Acid, Butylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Glycerin"
+    },
+    {
+     "nombre": "Champú Color Vive protector del color (envase 3600524062545)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600524062545"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Dimethicone, Coco-Betaine, Sodium Chloride, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Cocamide MIPA, Cocos Nucifera Oil, Sodium Benzoate, Sodium Hydroxide, Paeonia Officinalis Flower Extract, Ethylhexyl Salicylate, Salicylic Acid, Fumaric Acid, Benzyl Alcohol, Benzyl Salicylate, Linalool, Alpha-Isomethyl Ionone, Carbomer, Geraniol, Citric Acid, Citronellol, Potassium Sorbate, Hexylene Glycol, Hexyl Cinnamal, Glycerin, Parfum"
     }
    ]
   },
@@ -71472,6 +71508,60 @@
       "3574661435367"
      ],
      "inci": "Aqua, Cocamidopropyl Betaine, PEG-80 Sorbitan Laurate, Glycerin, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Sodium Chloride, Decyl Glucoside, Phenoxyethanol, Sodium Methyl Cocoyl Taurate, Sodium Benzoate, Citric Acid, Coconut Acid, Parfum, Ethylhexylglycerin, Panthenol, Aloe Barbadensis Leaf Extract"
+    },
+    {
+     "nombre": "Gel de baño Dulces Sueños",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669908665"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, PEG-80 Sorbitan Laurate, PEG-150 Pentaerythrityl Tetrastearate, Sodium Chloride, PPG-2 Hydroxyethyl Cocamide, Decyl Glucoside, Phenoxyethanol, Sodium Methyl Cocoyl Taurate, Glycerin, Sodium Benzoate, Parfum, Coconut Acid, Citric Acid, Ethylhexylglycerin, Tocopherol"
+    },
+    {
+     "nombre": "Champú suave camomila",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661520476"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Citric Acid, PEG-80 Sorbitan Laurate, Sodium Chloride, Glycerin, Sodium Benzoate, Sodium Methyl Cocoyl Taurate, Coconut Acid, PEG-150 Distearate, Disodium EDTA, Parfum, Polyquaternium-10, Chamomilla Recutita Flower Extract, Phenoxyethanol"
+    },
+    {
+     "nombre": "Aceite corporal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669909099"
+     ],
+     "inci": "Paraffinum Liquidum, Isopropyl Palmitate, Parfum"
+    },
+    {
+     "nombre": "Acondicionador en spray No Más Tirones",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669909860"
+     ],
+     "inci": "Aqua, Amodimethicone, Distearyldimonium Chloride, Behentrimonium Chloride, Cetrimonium Chloride, Glycerin, Polysorbate 20, Trideceth-12, Isopropyl Alcohol, Citric Acid, Acetic Acid, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Loción corporal Dulces Sueños",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669908146"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Glyceryl Stearate, Cetyl Alcohol, Cetearyl Alcohol, Cocos Nucifera (Coconut) Oil, Dimethicone, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Polysorbate 20, p-Anisic Acid, Titanium Dioxide, Magnesium Aluminum Silicate, Carbomer, Xanthan Gum, Sodium Hydroxide, Potassium Bitartrate, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Aceite corporal Dulces Sueños",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669909259"
+     ],
+     "inci": "Paraffinum Liquidum, Isopropyl Palmitate, Parfum"
     }
    ]
   },
@@ -72511,6 +72601,108 @@
       "8700216607377"
      ],
      "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, Parfum, PPG-3 Myristyl Ether, Tetrasodium EDTA, Linalool, Limonene, Octadecyl Di-t-butyl-4-hydroxyhydrocinnamate, Coumarin, Geraniol, Citral, Citronellol, Eugenol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 42090"
+    }
+   ]
+  },
+  {
+   "key": "giorgi",
+   "nombre": "Giorgi",
+   "productos": [
+    {
+     "nombre": "Gel fijador Extrafuerte",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135005921"
+     ],
+     "inci": "Aqua, Alcohol Denat., VP/VA Copolymer, Glycerin, Acrylates/Steareth-20 Methacrylate Copolymer, Sorbitol, Triethanolamine, Panthenol, Niacinamide, PEG-60 Hydrogenated Castor Oil, Benzyl Alcohol, Chlorphenesin, Parfum, Benzyl Benzoate, Linalool, Citronellol, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Agua de peinado Perfect Fix",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135267015"
+     ],
+     "inci": "Aqua, Alcohol Denat., AMP-Acrylates/C1-2 Succinates/Hydroxyacrylates Copolymer, AMP-Acrylates/Beheneth-25 Methacrylate Copolymer, PEG-40 Hydrogenated Castor Oil, PEG/PPG-20/6 Dimethicone, Propylene Glycol, Parfum, Diazolidinyl Urea, Methylparaben, Propylparaben"
+    },
+    {
+     "nombre": "Gel fijador Control Total",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135006263"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., VP/VA Copolymer, Acrylates/Steareth-20 Methacrylate Copolymer, Propylene Glycol, Sorbitol, Triethanolamine, Niacinamide, Panthenol, Parfum, Chlorphenesin, PEG-60 Hydrogenated Castor Oil, Benzyl Alcohol, Benzyl Benzoate, Linalool, Citronellol, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Espuma Rizo Natural",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135006485"
+     ],
+     "inci": "Aqua, Isobutane, Propane, Polyquaternium-4, Propylene Glycol, Polyquaternium-68, Butane, Panthenol, Niacinamide, C10 Pareth-8, PEG-40 Hydrogenated Castor Oil, Cetrimonium Chloride, Chlorphenesin, Glycerin, Phenoxyethanol, Ethylhexylglycerin, Parfum, Amyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Linalool, Linalyl Acetate, Rose Ketones, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Gel fijador Efecto Mojado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135006256"
+     ],
+     "inci": "Aqua, Glycerin, Alcohol Denat., VP/VA Copolymer, Propylene Glycol, Sorbitol, Acrylates/Steareth-20 Methacrylate Copolymer, Triethanolamine, Panthenol, Niacinamide, PEG-60 Hydrogenated Castor Oil, Benzyl Alcohol, Chlorphenesin, Parfum, Benzyl Benzoate, Linalool, Citronellol, Alpha-Isomethyl Ionone"
+    }
+   ]
+  },
+  {
+   "key": "ciroa",
+   "nombre": "Ciroa",
+   "productos": [
+    {
+     "nombre": "Gel de baño Arándano y Miel de Manuka",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9361287002479"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Sodium Benzoate, Parfum, Citric Acid, Potassium Sorbate, Glycerin, Vaccinium Myrtillus (Bilberry) Fruit Extract, Honey Extract (Manuka), Sodium Sulfate, CI 45100, CI 42090, CI 47005"
+    },
+    {
+     "nombre": "Gel de baño Mango y Coco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9361287002523"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Sodium Benzoate, Citric Acid, Parfum, Potassium Sorbate, Glycerin, Cocos Nucifera (Coconut) Fruit Extract, Mangifera Indica (Mango) Fruit Extract, Sodium Sulfate, Limonene, CI 47005, CI 45100"
+    },
+    {
+     "nombre": "Gel de baño Fresa e Higo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9361287002585"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Sodium Benzoate, Citric Acid, Potassium Sorbate, Glycerin, Ficus Carica (Fig) Fruit Extract, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Sulfate, CI 45100, CI 47005, CI 42090"
+    },
+    {
+     "nombre": "Gel de baño Pepino y Manzana Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9361287002431"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Sodium Benzoate, Citric Acid, Potassium Sorbate, Glycerin, Pyrus Malus (Apple) Fruit Extract, Cucumis Sativus (Cucumber) Fruit Extract, Sodium Sulfate, Linalool, Limonene, CI 47005, CI 42090"
+    },
+    {
+     "nombre": "Gel de baño Frambuesa y Vainilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "9361287002493"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Sodium Benzoate, Citric Acid, Potassium Sorbate, Glycerin, Rubus Idaeus (Raspberry) Fruit Extract, Vanilla Planifolia (Vanilla) Fruit Extract, Sodium Sulfate, Geranyl Acetate, Limonene, CI 45100, CI 47005, CI 42090"
     }
    ]
   }
