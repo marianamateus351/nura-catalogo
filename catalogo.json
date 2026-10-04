@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci15",
+ "version": "2026-10-04-eci16",
  "marcas": [
   {
    "key": "larocheposay",
@@ -11919,6 +11919,15 @@
       "8411660170217"
      ],
      "inci": "Aqua, Butoxydiglycol, Alcohols C9-11 Ethoxylated, Ethanolamine, Parfum, Didecyldimonium Chloride, Isopropyl Alcohol, DL-Malic Acid"
+    },
+    {
+     "nombre": "Jabón de manos Anti Olores Persistentes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135011458"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Coco-Glucoside, Glyceryl Oleate, Disodium Lauryl Sulfosuccinate, Ethylhexylglycerin, Parfum, Hydroxymethoxyphenyl Decanone, Dipropylene Glycol, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Citric Acid, Potassium Sorbate, Tetrasodium Glutamate Diacetate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lactic Acid, Laureth-2, Sodium Chloride, Acetyl Cedrene, Alpha-Isomethyl Ionone, Beta-Caryophyllene, Carvone, Citral, Citrus Aurantium Flower Oil, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Linalool, Linalyl Acetate, Mentha Viridis Leaf Oil, Pinene, Pogostemon Cablin Oil, CI 19140, CI 15510"
     }
    ]
   },
@@ -24888,6 +24897,15 @@
       "8700216613316"
      ],
      "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Citric Acid, Glutamic Acid, Benzyl Alcohol, Phenoxyethanol, Parfum, Sodium Benzoate, Piroctone Olamine, Menthol, Hexyl Cinnamal, Butylene Glycol, Hexamethylindanopyran, Linalool, Hydroxycitronellal, Aloe Barbadensis Leaf Juice, Geraniol, Polysorbate 20, Citronellol, Oryza Sativa Bran Extract"
+    },
+    {
+     "nombre": "Champú anticaspa Men Ultra Total Care con minerales marinos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530486293"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Dimethiconol, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Parfum, Dimethicone, Sodium Benzoate, Limonene, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Citrus Aurantium Peel Oil, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Sodium Hydroxide, Trideceth-10, Hexamethylindanopyran, Benzyl Alcohol, Acetic Acid, Maris Sal, Glycerin, Propylene Glycol, Triethylene Glycol, CI 42090, CI 17200, Avena Sativa Kernel Extract"
     }
    ]
   },
@@ -72019,6 +72037,15 @@
       "7702018978106"
      ],
      "inci": "Aqua, Aluminum Zirconium Octachlorohydrex Gly, Alcohol Denat., Cyclopentasiloxane, Propylene Glycol, Dimethicone, Calcium Chloride, PEG/PPG-18/18 Dimethicone, Parfum, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Coumarin, Benzyl Benzoate, Eugenol"
+    },
+    {
+     "nombre": "Crema de afeitado corporal + limpiador 2 en 1 Labs Body + Intimate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530278645"
+     ],
+     "inci": "Aqua, Palmitic Acid, Stearic Acid, Glycerin, Coconut Acid, Potassium Hydroxide, Triethanolamine, Parfum, Benzyl Alcohol, Sodium Hydroxide, Hydroxypropyl Methylcellulose, Menthol, Limonene, Benzyl Salicylate, Aloe Barbadensis Leaf Juice Powder, Sodium Chloride, Mentha Piperita Oil, Glyoxal"
     }
    ]
   },
@@ -74358,6 +74385,135 @@
       "8436036437824"
      ],
      "inci": "Aqua, Glycerin, Butylene Glycol, Vitis Vinifera Fruit Extract, 1, 2-Hexanediol, Sodium Hyaluronate, Rosa Canina Fruit Oil, Paullinia Cupana Fruit Extract, Collagen Extract, Arginine, Panthenol, Hydroxyacetophenone, Propanediol, Polyglyceryl-10 Laurate, Carbomer, Menadione, Ethylhexylglycerin, Aminobutyric Acid, Xanthan Gum, Sodium Phytate, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Polyglyceryl-10 Diisostearate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "brushbaby",
+   "nombre": "Brush Baby",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes infantil Applemint con xilitol 0-3 años",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060178100587"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Xylitol, Glycerin, Sodium Monofluorophosphate, Cellulose Gum, Cocamidopropyl Betaine, PEG-40 Hydrogenated Castor Oil, Aroma, Sodium Saccharin, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Strawberry con xilitol +3 años",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060178102918"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Xylitol, Glycerin, Sodium Monofluorophosphate, Aroma, Cellulose Gum, PEG-40 Hydrogenated Castor Oil, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "henodepravia",
+   "nombre": "Heno de Pravia",
+   "productos": [
+    {
+     "nombre": "Jabón natural en pastilla Original (pack 2)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410225556237"
+     ],
+     "inci": "Sodium Palmate, Aqua, Sodium Palm Kernelate, Glycerin, Parfum, Sodium Chloride, Linalool, Coumarin, CI 77492, Etidronic Acid, CI 77007, Tetrasodium EDTA, Eugenol, Citronellol, Geraniol, CI 77499, Acacia Senegal Gum, Cinnamyl Alcohol, Methylpropanediol, Limonene, Caprylyl Glycol, Phenylpropanol, Xanthan Gum"
+    }
+   ]
+  },
+  {
+   "key": "salustar",
+   "nombre": "Salustar",
+   "productos": [
+    {
+     "nombre": "Toallitas húmedas para bebé Baby Zero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410800069992"
+     ],
+     "inci": "Aqua, Glyceryl Stearate, Glycerin, Aloe Barbadensis Leaf Juice, Calendula Officinalis Extract, Chamomilla Recutita Flower Extract, Allantoin, Hydrolyzed Milk Protein, Hydroxyethyl Urea, Zea Mays (Corn) Starch, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Parfum, Tetrasodium EDTA, Benzyl Alcohol, Benzoic Acid, Sorbic Acid, Sodium Benzoate, Potassium Sorbate, Dehydroacetic Acid"
+    }
+   ]
+  },
+  {
+   "key": "williams",
+   "nombre": "Williams",
+   "productos": [
+    {
+     "nombre": "Desodorante en stick Expert Sensitive 48h con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181542435"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Glycerin, Propylene Glycol, Stearic Acid, Parfum, Sodium Hydroxide, Styrene/Acrylates Copolymer, Sodium Lauryl Sulfate, Trideceth-7, Disodium Lauryl Phenyl Ether Disulfonate, Aloe Barbadensis Leaf Juice, Maltodextrin, Citric Acid, Potassium Sorbate, Sodium Benzoate, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "vagisil",
+   "nombre": "Vagisil",
+   "productos": [
+    {
+     "nombre": "Gel de higiene íntima diaria Odor Block",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413853749002"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Cocamidopropyl Betaine, Glycerin, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Calendula Officinalis Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Salicylic Acid, Citric Acid, Disodium EDTA, Polyquaternium-10, Lactic Acid, Propylene Glycol, Sodium Benzoate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "thefruitcompany",
+   "nombre": "The Fruit Company",
+   "productos": [
+    {
+     "nombre": "Aceite labial Fresa Nata con vitamina E y aceite de jojoba",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436559718103"
+     ],
+     "inci": "Ethylhexyl Palmitate, Tridecyl Trimellitate, Caprylic/Capric Triglyceride, Ethylene/Propylene/Styrene Copolymer, Silica Dimethyl Silylate, Parfum, Jojoba Esters, Caprylyl Glycol, Ethylhexylglycerin, Tocopheryl Acetate, CI 77499, CI 15850"
+    }
+   ]
+  },
+  {
+   "key": "s3",
+   "nombre": "S3",
+   "productos": [
+    {
+     "nombre": "Agua de colonia Classic Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437014661880"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Ethylhexyl Salicylate, Tris(Tetramethylhydroxypiperidinol) Citrate, Limonene, Linalyl Acetate, Linalool, Pinene, Citral, Citrus Limon Peel Oil, Citrus Aurantium Peel Oil, Geranyl Acetate, Eucalyptus Globulus Oil, Camphor, Geraniol, Hexyl Cinnamal, Lavandula Oil/Extract, Terpineol, Hydroxycitronellal, Carvone, Beta-Caryophyllene, CI 19140, CI 17200"
+    }
+   ]
+  },
+  {
+   "key": "gotasdeoro",
+   "nombre": "Gotas de Oro",
+   "productos": [
+    {
+     "nombre": "Agua de colonia fresca Sport",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047149010"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Citral, Geraniol, Linalool, Limonene"
     }
    ]
   }
