@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci11",
+ "version": "2026-10-04-eci12",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21591,6 +21591,51 @@
       "8718951536135"
      ],
      "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Zinc Lactate, Aroma, Cetylpyridinium Chloride, Potassium Sorbate, Sodium Fluoride, Lactic Acid, Menthol, Sodium Saccharin, Sucralose, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Max White Purple Reveal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951607712"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-12, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Potassium Hydroxide, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Hydroxypropyl Methylcellulose, Eugenol, CI 17200, CI 42090, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Max White Ultra Active Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951505599"
+     ],
+     "inci": "Poloxamer 105, Calcium Pyrophosphate, PEG-8, PEG/PPG-116/66 Copolymer, PVP, Silica, Tetrasodium Pyrophosphate, Aroma, Potassium Caroate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Disodium Pyrophosphate, Sodium Saccharin, Cocamidopropyl Betaine, Sucralose, Magnesium Carbonate, Eugenol"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Max White Expert Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951713871"
+     ],
+     "inci": "Glycerin, Propylene Glycol, Calcium Pyrophosphate, PEG/PPG-116/66 Copolymer, PVP, PEG-12, Pentasodium Triphosphate, Sodium Lauryl Sulfate, Silica, Aroma, Sodium Monofluorophosphate, Disodium Pyrophosphate, Sodium Saccharin, Hydrogen Peroxide, Anethole, Eucalyptus Globulus Oil, Limonene, Menthol, Pinene"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Max White Ultra Blanqueamiento Profundo Efecto Instantáneo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951772168"
+     ],
+     "inci": "Poloxamer 105, Calcium Pyrophosphate, PEG/PPG-116/66 Copolymer, PEG-8, Propylene Glycol, Silica, Tetrasodium Pyrophosphate, Aroma, Potassium Caroate, Sodium Lauryl Sulfate, Sodium Stearate, Sodium Monofluorophosphate, Disodium Pyrophosphate, Sodium Saccharin, Cocamidopropyl Betaine, Magnesium Carbonate, Benzyl Alcohol, Camphor, Eugenol, Mentha Piperita Oil, Menthol, Methyl Salicylate, CI 42090, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Max White Manchas de Café, Té y Vino",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951777682"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-12, Tetrapotassium Pyrophosphate, Sodium Lauryl Sulfate, Aroma, Potassium Hydroxide, Cellulose Gum, Phosphoric Acid, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Xanthan Gum, Anethole, Benzyl Alcohol, Beta-Caryophyllene, Carvone, Eugenol, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, CI 74160"
     }
    ]
   },
@@ -40988,6 +41033,43 @@
       "8720181061769"
      ],
      "inci": "Petrolatum, Parfum, Sodium Chloride, Sodium Sulfate, Linalool, CI 77891, CI 73360"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Serum Burst Lotion Dewy Radiance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181800771",
+      "8721317739330"
+     ],
+     "inci": "Aqua, Dimethicone, Isohexadecane, Glycerin, Niacinamide, Carbomer, Phenoxyethanol, Parfum, Methylparaben, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Cystine, Glycine, Sodium PCA, Petrolatum, Sodium Hyaluronate, Glutathione, Citronellol, Citrus Aurantium Peel Oil, Dimethyl Phenethyl Acetate, Geranyl Acetate, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Rose Ketone, CI 77891"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Serum Burst Lotion Flawless Tone",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8721317739354"
+     ],
+     "inci": "Aqua, Ethylhexyl Methoxycinnamate, Niacinamide, Glycerin, Triethanolamine, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Butyl Methoxydibenzoylmethane, Undecane, Parfum, Methylparaben, Tridecane, Propylparaben, Styrene/Acrylates Copolymer, Disodium EDTA, Coco-Glucoside, Glycine, Cystine, Potassium Hydroxide, Sodium PCA, BHT, Petrolatum, Citric Acid, Benzoic Acid, Sodium Hyaluronate, Glutathione, Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Geraniol, Geranyl Acetate, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Pinene, Terpineol"
+    },
+    {
+     "nombre": "Sérum corporal Gluta-Hya Serum Burst Lotion Overnight Radiance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8721317739378"
+     ],
+     "inci": "Aqua, Dimethicone, Glycerin, Isohexadecane, Niacinamide, Carbomer, Phenoxyethanol, Methylparaben, Parfum, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Cystine, Glycine, Sodium PCA, Hydrolyzed Collagen, Sodium Hyaluronate, Glutathione, Petrolatum, Alpha-Isomethyl Ionone, Citronellol, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, CI 77891"
+    },
+    {
+     "nombre": "Bálsamo labial Lip Therapy Rosy Lips",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181979040"
+     ],
+     "inci": "Petrolatum, Parfum, BHT, Tocopherol, Tocopheryl Acetate, Benzaldehyde, Linalool, Rose Flower Oil/Extract, CI 19140, CI 73360"
     }
    ]
   },
@@ -41108,6 +41190,42 @@
       "8720181539404"
      ],
      "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Lactic Acid, Stearamidopropyl Dimethylamine, Behentrimonium Chloride, Parfum, Sodium Benzoate, Dipropylene Glycol, Sodium Chloride, Trideceth-5, Disodium EDTA, Arginine, PEG-7 Glyceryl Cocoate, Ceramide NG, Cocos Nucifera Oil, Macadamia Integrifolia/Tetraphylla Seed Oil, Lysine HCl, Citric Acid, Carbomer, Xanthan Gum, Potassium Sorbate, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, CI 17200, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Champú Cuidado Clásico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181435324"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, Polyquaternium-10, Disodium EDTA, Arginine, Lysine HCl, Panthenol, Niacinamide, Ascorbic Acid, Tocopheryl Acetate, Biotin, Ceramide NG, PPG-6, Sodium Hydroxide, Hexyl Cinnamal, Limonene, Linalool, CI 61570"
+    },
+    {
+     "nombre": "Champú Hidrata y Purifica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8710847974410"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Glycerin, Carbomer, Glycol Distearate, Citric Acid, Disodium EDTA, Cocamide MEA, Polyquaternium-10, Kaolin, Hydrolyzed Hyaluronic Acid, Arginine, Lysine HCl, Ceramide NG, Sodium Hydroxide, PPG-6, Benzyl Alcohol, Benzyl Salicylate, Geraniol, Limonene"
+    },
+    {
+     "nombre": "Champú Liso Keratina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8710522632666"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Dimethiconol, Parfum, Sodium Benzoate, Glycol Distearate, Citric Acid, Carbomer, Guar Hydroxypropyltrimonium Chloride, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Disodium EDTA, Cocamide MEA, PEG-45M, Phenoxyethanol, Lysine HCl, Arginine, Ceramide NG, Hydrolyzed Keratin, PPG-6, Sodium Hydroxide, Mica, Benzyl Alcohol, Geraniol, Hexyl Cinnamal, Limonene, Linalool, CI 77891"
+    },
+    {
+     "nombre": "Spray protector de calor Repara y Fortalece",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181624346"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Benzoate, Propylene Glycol, PVP, Parfum, Amodimethicone, Polysorbate 20, Cetrimonium Chloride, Lactic Acid, Disodium EDTA, Triethanolamine, Trideceth-12, Dimethyl Palmitamine, Acetic Acid, Hydrolyzed Keratin, Silk Amino Acids, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, Citronellol, Citrus Aurantium Peel Oil, Dimethyl Phenethyl Acetate, Geraniol, Geranyl Acetate, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Terpineol, Tetramethyl Acetyloctahydronaphthalenes"
     }
    ]
   },
@@ -73194,6 +73312,72 @@
       "8006530199728"
      ],
      "inci": "Aqua, Citric Acid, Sodium Citrate, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Sorbitan Caprylate, Disodium EDTA"
+    }
+   ]
+  },
+  {
+   "key": "lepetitmarseillais",
+   "nombre": "Le Petit Marseillais",
+   "productos": [
+    {
+     "nombre": "Gel de ducha y baño Extra Suave Flor de Azahar Bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661639109"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Citrus Aurantium Amara Flower Extract, Glycol Distearate, Hydroxypropyl Methylcellulose, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel de ducha y baño Extra Suave Leche de Almendra Dulce Bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661653594"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Prunus Amygdalus Dulcis Fruit Extract, Glycol Distearate, Hydroxypropyl Methylcellulose, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Gel de ducha y baño Extra Suave Leche de Vainilla Bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661700557"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Vanilla Planifolia Fruit Extract, Zea Mays Starch, Levulinic Acid, Sodium Levulinate, Glycol Distearate, Hydroxypropyl Methylcellulose, Xanthan Gum, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Parfum, Coumarin"
+    },
+    {
+     "nombre": "Gel de ducha y baño Extra Suave Melocotón Blanco y Nectarina Bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661701288"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Prunus Persica Fruit Extract, Prunus Persica Nectarina Fruit Extract, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene"
+    },
+    {
+     "nombre": "Gel de ducha hidratante Alta Tolerancia Aloe Vera Bio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661655031"
+     ],
+     "inci": "Aqua, Coco-Glucoside, Glycerin, Sodium Cocoyl Glutamate, Citric Acid, Sodium Benzoate, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Chondrus Crispus Powder, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "wilkinsonsword",
+   "nombre": "Wilkinson Sword",
+   "productos": [
+    {
+     "nombre": "Loción after shave Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4027800325405"
+     ],
+     "inci": "Aqua, Ethylhexyl Palmitate, Glycerin, Caprylic/Capric Triglyceride, Sorbitan Stearate, Phenoxyethanol, Pentaerythrityl Distearate, Allantoin, Sodium Polyacrylate, Parfum, Sodium Stearoyl Glutamate, Benzoic Acid, Carbomer, Dehydroacetic Acid, Epilobium Angustifolium Flower/Leaf/Stem Extract, Citric Acid, Sodium Hydroxide"
     }
    ]
   }
