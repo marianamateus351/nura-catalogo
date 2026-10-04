@@ -798,6 +798,78 @@ envase europeo.
 13. ~~Martiderm (dermocosmética)~~ — **cerrada 2026-10-03** (versión 2026-10-03m): 50 productos, 59 códigos; ver su apartado
 14. ~~Olaplex (capilar)~~ — **cerrada 2026-10-03** (versión 2026-10-03n): 13 productos, 17 códigos; ver su apartado. **Tercera cola terminada.**
 
+### 2026-10-04 · Cuarta cola, "grupo 1" (pedida por Mariana el 2026-10-04): Axe, Signal, Gillette, La Toja, Mixa, Johnson's
+Marcas de súper y droguería que no estaban, por las vías que ya funcionaban. Resultado: **5 marcas nuevas,
+55 productos, 63 códigos** (versiones 2026-10-04g a 2026-10-04k). Revisión FP/FN sin falsos positivos ni negativos
+nuevos; regresión: 0 cambios en las 7304 fichas anteriores. Scripts en el scratchpad, carpeta `g1/`.
+1. ~~**Axe** (Unilever)~~ — **cerrada** (versión 2026-10-04g): **28 productos, 29 códigos.** `axe.com/es`, misma
+   plataforma y método que Dove y Rexona (listado paginado `productlist-5aa48564d5~N`, 35 fichas, código y lista de
+   la misma variante en `data-productvariants`; `g1/ul.py`, `g1/gen_axe.py`). EAN-8 de Unilever (`59…`) auténticos,
+   como en Dove. Contraste con la etiqueta de OBF del mismo código (13 con lista):
+   - Entran por OBF, porque la web no trae lista: bodyspray Black Vanilla 150 ml y geles de ducha Black y Dark
+     Temptation, con etiqueta limpia y el mismo código.
+   - Gel de ducha Apollo: la etiqueta de OBF es la fórmula vieja con Lilial, que no se puede vender desde 2022, así
+     que vale la lista de la web.
+   - **Fuera:**
+     - Bodyspray Black Remixed BZRP: lista cortada en la web.
+     - Black Vanilla 35 ml y EDT Dark Temptation: sin lista.
+     - Dark Temptation 35 ml: la web da otra fórmula y la etiqueta de España de ese código da la del de 150 ml.
+     - Ice Chill 35 ml: misma lista que el Dark Temptation 35 ml.
+     - Emerald Geranium: misma lista que Blue Lavender, que sí confirma su etiqueta; regla de Rexona.
+2. ~~**Signal** (Unilever)~~ — **cerrada** (versión 2026-10-04h): **3 productos, 3 códigos.** `signal.es` tiene 12
+   fichas y ninguna lista en texto. Para 2 códigos publica la **foto oficial de la etiqueta de ingredientes** en
+   `assets.unileversolutions.com` (se toma la más reciente): Protección Anticaries 75 ml 8413300284803 y
+   Blanqueador Bicarbonato 75 ml 8413300330760. Además, el Infantil 0-6 años fresa 8720181501814 entra por la
+   etiqueta de OBF del mismo código (envase con texto en castellano).
+   - **Fuera:**
+     - Los 100 ml de Anticaries 3014230002090: es un código francés y la etiqueta de OBF da otra fórmula, sin
+       anetol ni aceites de menta, así que no se puede dar por hecho que los tamaños comparten lista.
+     - El de 100 ml del Bicarbonato, por lo mismo.
+     - Integral 8 y Junior: sin lista en ningún sitio.
+     - Cepillos.
+3. ~~**Gillette** (P&G)~~ — **cerrada** (versión 2026-10-04k): **3 productos, 3 códigos.** gillette.es (y .fr, .de,
+   .it, .pt) da el código de cada variante pero **ninguna lista**, igual que Oral-B. Por eso se usa el método de
+   Oral-B: dos listas idénticas e independientes, una con el código en la misma ficha (Arenal, dosfarma) y otra de
+   incidecoder. Entran:
+   - Gel de afeitar Fusion con aceite de almendras 7702018617074 (Arenal = incidecoder).
+   - King C. gel limpiador barba y rostro 8001841705637 (dosfarma = Arenal = incidecoder).
+   - King C. aceite para barba 8001841705750 (Arenal = incidecoder).
+
+   **Fuera:**
+   - Bálsamo King C.: Arenal y el pack de dosfarma dan una lista; incidecoder da otra, con Cetearyl Alcohol y sin
+     alcohol isopropílico.
+   - Series gel refrescante 8006540765210: Arenal da la lista del de té verde con el código del de eucalipto, y
+     dosfarma una lista en orden alfabético.
+   - Classic Original y Classic Sensitive: la misma lista en los dos.
+   - Labs: las listas no coinciden.
+   - Gama SKIN y el resto: una sola fuente o ninguna.
+   - Desodorantes: listas traducidas o una sola fuente.
+4. ~~**La Toja** (Henkel)~~ — **revisada: NO ENTRA.** latoja.com tiene 13 fichas sin código, y la lista va agrupada
+   por origen ("Origen vegetal: …") con un "6 % restante" sin nombrar: no es la lista completa. Henkel no la
+   publica en otro sitio (mysds es solo para detergentes). Mismo caso que Syoss. Sin versión nueva.
+5. ~~**Mixa** (L'Oréal)~~ — **cerrada** (versión 2026-10-04i): **13 productos, 14 códigos.** mixa.es no es de la
+   marca (es una web checa). Mixa se lanzó a la vez en España y Portugal, y **mixa.pt** tiene en cada ficha el
+   `gtin13` del JSON-LD y la lista oficial en formato L'Oréal (con F.I.L.); se limpia con el mismo
+   `lp_parse.limpia_inci` que L'Oréal Paris. Las lociones Ceramide Protect de 250 y 400 ml comparten lista y van en
+   una entrada.
+6. ~~**Johnson's** (Kenvue)~~ — **cerrada** (versión 2026-10-04j): **8 productos, 14 códigos.**
+   - **Método nuevo, para que Mariana lo valide.** johnsonsbaby.es da los códigos de cada ficha (todos los tamaños) y
+     la lista **traducida al castellano** ("Agua, Betaína de cocamidopropilo…"), que no vale. Pero cada lista lleva
+     el **número de fórmula del fabricante** (`[PR-0006412]`). johnsonsbaby.co.uk publica, con el mismo número, la
+     **lista INCI oficial**.
+   - Solo entra si las dos cosas cuadran: el mismo número de fórmula, y la traducción española que coincide
+     ingrediente a ingrediente, y en el mismo orden, con la lista británica. Las listas son de la marca y el código
+     es de la ficha española.
+   - Entran: champú clásico (5 códigos), champú Dulces Sueños (2), loción suave (2), baño de burbujas, Top-to-Toe 3
+     en 1, Comfort Touch loción, crema de peinado Rizos Definidos y polvos de talco de almidón de maíz.
+   - **Fuera:**
+     - Loción Dulces Sueños: la ficha española lleva el número de la Comfort Touch y otra lista distinta. Es la
+       prueba de que el número solo no basta.
+     - Gel de baño y aceite Dulces Sueños: la web británica no da la lista completa.
+     - Crema del pañal, champú de camomila y bastoncillos: no están en la web británica.
+     - Fichas españolas sin número de fórmula.
+   - Si Mariana no acepta el cruce por número de fórmula, la marca se queda vacía.
+
 ### 2026-10-04 · Decisión R: códigos de supermercado para Hogar (portales reabiertos)
 **De dónde salen los EAN.** Solo de tiendas que los publican sin saltarse nada: **Consum** (API pública
 `tienda.consum.es/api/rest/V1.0/catalog/product?q=`, con EAN, nombre y fotos del envase) y **Mercadona** (API de la tienda,
@@ -3598,13 +3670,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10655 códigos en 114 marcas: NYX 999 · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10718 códigos en 119 marcas: NYX 999 · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 18** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7304 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7359 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).

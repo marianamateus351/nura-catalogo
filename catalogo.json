@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04f",
+ "version": "2026-10-04k",
  "marcas": [
   {
    "key": "larocheposay",
@@ -69822,6 +69822,539 @@
       "8720181707063"
      ],
      "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Formic Acid, Linalool, Amyl Salicylate, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
+    }
+   ]
+  },
+  {
+   "key": "axe",
+   "nombre": "Axe",
+   "productos": [
+    {
+     "nombre": "Aftershave Dark Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181343476"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Glycerin, PEG-40 Hydrogenated Castor Oil, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Antitranspirante en aerosol Dark Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181058004"
+     ],
+     "inci": "Butane, Isobutane, Propane, PPG-14 Butyl Ether, Aluminum Sesquichlorohydrate, Cyclopentasiloxane, Parfum, Glycine, Helianthus Annuus Seed Oil, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Calcium Chloride, Octyldodecanol, BHT, Propylene Carbonate, Dimethiconol, Benzyl Benzoate, Coumarin, Limonene, Linalool"
+    },
+    {
+     "nombre": "Antitranspirante en aerosol Gold",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181058028"
+     ],
+     "inci": "Butane, Isobutane, Propane, Cyclopentasiloxane, PPG-14 Butyl Ether, Aluminum Sesquichlorohydrate, Parfum, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Glycine, Calcium Chloride, Octyldodecanol, BHT, Helianthus Annuus Seed Oil, Propylene Carbonate, Dimethiconol, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Eugenol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Antitranspirante en aerosol Ice Chill",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181058042"
+     ],
+     "inci": "Butane, Isobutane, Propane, PPG-14 Butyl Ether, Aluminum Sesquichlorohydrate, Cyclopentasiloxane, Parfum, Glycine, Helianthus Annuus Seed Oil, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Calcium Chloride, Octyldodecanol, BHT, Propylene Carbonate, Dimethiconol, Citral, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Africa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181131059"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Ethylhexylglycerin, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Apollo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181031625"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Citral, Citronellol, Coumarin, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Aqua Bergamot",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181297571",
+      "59097006"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Alpha-Isomethyl Ionone, Citral, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181029233"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Alpha-Isomethyl Ionone, Benzyl Benzoate, Citral, Citronellol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Black Vanilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181418389"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Alpha-Isomethyl Ionone, Benzyl Benzoate, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Blue Lavender",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181297618"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Alpha-Isomethyl Ionone, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Copper Santal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181297656"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Cinnamyl Alcohol, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Dark Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181029363"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Amyl Cinnamal, Citral, Citronellol, Coumarin, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Gold Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181030222"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Alpha-Isomethyl Ionone, Citral, Coumarin, Geraniol, Isoeugenol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Ice Chill",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181027758"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Citral, Citronellol, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Leather & Cookies",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181029325"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Alpha-Isomethyl Ionone, Cinnamal, Coumarin, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Marine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181173936"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray Pure Coconut",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181297700"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Citral, Citronellol, Coumarin, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante bodyspray You",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181027390"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Zinc Neodecanoate, Isopropyl Myristate, Alpha-Isomethyl Ionone, Citral, Citronellol, Coumarin, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante roll-on Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59084082"
+     ],
+     "inci": "Alcohol Denat., Aqua, Aluminum Sesquichlorohydrate, Parfum, Hydroxypropylcellulose, Calcium Chloride, Glycine, Silica, Benzyl Benzoate, Citronellol, Limonene"
+    },
+    {
+     "nombre": "Desodorante roll-on Dark Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59084099"
+     ],
+     "inci": "Alcohol Denat., Aqua, Aluminum Sesquichlorohydrate, Parfum, Hydroxypropylcellulose, Calcium Chloride, Glycine, Silica, Coumarin, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante roll-on Epic Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59092292"
+     ],
+     "inci": "Alcohol Denat., Aqua, Aluminum Sesquichlorohydrate, Parfum, Hydroxypropylcellulose, Calcium Chloride, Glycine, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Coumarin, Eugenol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Eau de Toilette Mojito & Cedarwood",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59083023"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Citral, Eugenol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha Apollo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8711700796712"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum, Sodium Chloride, Sodium Benzoate, Citric Acid, PPG-6, Menthol, Lactic Acid, Disodium EDTA, Lippia Citriodora Flower/Leaf/Stem Water, Saccharide Isomerate, Hexyl Cinnamal, Limonene, Linalool, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Black",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8710447284117"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, Lactic Acid, Disodium EDTA, PPG-6, Saccharide Isomerate, Alpha-Isomethyl Ionone, Limonene, Linalool, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Black Remixed by Bizarrap",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181431166"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, Citric Acid, Lactic Acid, Disodium EDTA, PPG-6, Saccharide Isomerate, Alpha-Isomethyl Ionone, Limonene, Linalool, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Dark Temptation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8710447284094"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, Lactic Acid, Disodium EDTA, PPG-6, Saccharide Isomerate, Geraniol, Limonene, Linalool, CI 17200, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Ice Chill",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8717163648667"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Citric Acid, PPG-6, Menthol, Lactic Acid, Disodium EDTA, Lippia Citriodora Flower/Leaf/Stem Water, Saccharide Isomerate, Benzyl Salicylate, Limonene, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Leather & Cookies",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8710447438497"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, Citric Acid, Lactic Acid, Disodium EDTA, PPG-6, Saccharide Isomerate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, CI 19140, CI 42090"
+    }
+   ]
+  },
+  {
+   "key": "signal",
+   "nombre": "Signal",
+   "productos": [
+    {
+     "nombre": "Dentífrico Protección Anticaries",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413300284803"
+     ],
+     "inci": "Aqua, Calcium Carbonate, Hydrated Silica, Hydrogenated Starch Hydrolysate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Aroma, Cellulose Gum, Benzyl Alcohol, Trisodium Phosphate, Sodium Saccharin, Mica, Potassium Citrate, Anethole, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, CI 73360"
+    },
+    {
+     "nombre": "Dentífrico Blanqueador Bicarbonato",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413300330760"
+     ],
+     "inci": "Aqua, Calcium Carbonate, Hydrated Silica, Hydrogenated Starch Hydrolysate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Aroma, Sodium Bicarbonate, Potassium Citrate, Cellulose Gum, Benzyl Alcohol, Trisodium Phosphate, Sodium Saccharin, Anethole, Mentha Piperita Oil, Menthol"
+    },
+    {
+     "nombre": "Dentífrico Infantil 0-6 años sabor fresa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181501814"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Cellulose Gum, Aroma, Decyl Glucoside, Sodium Saccharin, Sodium Fluoride, Sodium Monofluorophosphate"
+    }
+   ]
+  },
+  {
+   "key": "mixa",
+   "nombre": "Mixa",
+   "productos": [
+    {
+     "nombre": "Aceite antiestrías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551166223"
+     ],
+     "inci": "Caprylic/Capric Triglyceride, Octyldodecanol, Isocetyl Stearate, Hexyldecanol, Hexyldecyl Laurate, Prunus Amygdalus Dulcis Oil, Citric Acid, Olea Europaea Fruit Oil, Tocopherol"
+    },
+    {
+     "nombre": "Bálsamo reparador multiusos Cica Plus para piel seca y fragilizada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551183404"
+     ],
+     "inci": "Aqua, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter, Panthenol, Aluminum Starch Octenylsuccinate, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Pentylene Glycol, Trihydroxystearin, Squalane, Zinc Gluconate, Manganese Gluconate, Silica, Aluminum Hydroxide, Magnesium Sulfate, Copper Gluconate, Hydroxyacetophenone, Capryloyl Glycine, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetylated Glycol Stearate, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Benzoate, CI 77891"
+    },
+    {
+     "nombre": "Crema hidratante antimanchas Niacinamide Bright para piel seca y apagada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551164489"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Isopropyl Palmitate, Niacinamide, Propanediol, Cetyl Alcohol, Myristyl Myristate, Zea Mays Starch, Ascorbyl Glucoside, Caprylyl Glycol, Carbomer, Citric Acid, Hydroxyacetophenone, Polyglyceryl-3 Methylglucose Distearate, Salicylic Acid, Sodium Hydroxide, Tocopherol, Parfum"
+    },
+    {
+     "nombre": "Crema hidratante calmante Panthenol Comfort para piel con tendencia atópica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153148"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Isopropyl Palmitate, Propanediol, Cetyl Alcohol, Myristyl Myristate, Panthenol, Zea Mays Starch, Niacinamide, Caprylyl Glycol, Carbomer, Citric Acid, Hydroxyacetophenone, Polyglyceryl-3 Methylglucose Distearate, Sodium Hydroxide, Tocopherol"
+    },
+    {
+     "nombre": "Crema hidratante fortalecedora Ceramide Protect para piel muy seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153179"
+     ],
+     "inci": "Aqua, Glycerin, Butyrospermum Parkii Butter, Isopropyl Palmitate, Propanediol, Cetyl Alcohol, Myristyl Myristate, Zea Mays Starch, Caprylyl Glycol, Carbomer, Citric Acid, Hydroxyacetophenone, Hydroxypalmitoyl Sphinganine, 2-Oleamido-1,3-Octadecanediol, Polyglyceryl-3 Methylglucose Distearate, Sodium Hydroxide, Squalane, Tocopherol"
+    },
+    {
+     "nombre": "Crema hidratante reparadora Urea Cica Repair+ para piel seca, áspera e irregular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153117"
+     ],
+     "inci": "Aqua, Urea, Glycerin, Dimethicone, Paraffinum Liquidum, Propylene Glycol, Butyrospermum Parkii Butter, Cetearyl Alcohol, Alcohol Denat., Zea Mays Starch, Helianthus Annuus Seed Oil, Glyceryl Stearate, PEG-100 Stearate, Glycine, Hydroxyethylpiperazine Ethane Sulfonic Acid, Sodium Hydroxide, Sodium Lactate, Tetrasodium Glutamate Diacetate, Niacinamide, Panthenol, Tocopherol, Tocopheryl Acetate, Caprylyl Glycol, Carbomer, Citric Acid, Xanthan Gum, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Crema multiusos Panthenol Comfort para piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551158280"
+     ],
+     "inci": "Aqua, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter, Panthenol, Butylene Glycol, Aluminum Starch Octenylsuccinate, Propanediol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Acetylated Glycol Stearate, Aluminum Hydroxide, Chlorhexidine Digluconate, CI 77891, Citric Acid, Copper Gluconate, Disodium EDTA, Magnesium Sulfate, Manganese Gluconate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Polyglyceryl-4 Isostearate, Silica, Sodium Benzoate, Tocopherol, Zinc Gluconate"
+    },
+    {
+     "nombre": "Loción corporal Ceramide Protect para piel seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153261",
+      "3600551158211"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Glyceryl Stearate, Dimethicone, PEG-40 Stearate, Prunus Amygdalus Dulcis Oil, Caprylyl Glycol, Chlorhexidine Digluconate, Citric Acid, Glycine Soja Oil, Hydroxypalmitoyl Sphinganine, 2-Oleamido-1,3-Octadecanediol, Sorbitan Tristearate, Tocopherol"
+    },
+    {
+     "nombre": "Loción corporal Panthenol Comfort para piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153230"
+     ],
+     "inci": "Aqua, Glycerin, Petrolatum, Paraffinum Liquidum, Niacinamide, Glyceryl Stearate, Cetyl Alcohol, PEG-40 Stearate, Butyrospermum Parkii Butter, Cetyl Palmitate, Dimethicone, Ascorbyl Palmitate, Chlorhexidine Digluconate, Citric Acid, Coriandrum Sativum Seed Oil, Echium Plantagineum Seed Oil, Glycine Soja Oil, Myristyl Alcohol, Panthenol, Prunus Armeniaca Kernel Oil, Ribes Nigrum Seed Oil, Sorbitan Tristearate, Stearyl Alcohol, Tocopherol"
+    },
+    {
+     "nombre": "Loción corporal Urea Cica Repair+ para piel muy seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551153209"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Urea, Propylene Glycol, Butyrospermum Parkii Butter, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Glycine, Hydroxyethylpiperazine Ethane Sulfonic Acid, Sodium Hydroxide, Sodium Lactate, Tetrasodium Glutamate Diacetate, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Xanthan Gum, Chlorhexidine Digluconate, Parfum"
+    },
+    {
+     "nombre": "Loción corporal iluminadora Niacinamide Bright para piel seca y apagada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551164540"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Glyceryl Stearate, Niacinamide, Dimethicone, PEG-40 Stearate, Prunus Amygdalus Dulcis Oil, Ascorbyl Glucoside, Caprylyl Glycol, Chlorhexidine Digluconate, Glycine Soja Oil, Salicylic Acid, Sodium Hydroxide, Sorbitan Tristearate, Tocopherol, Parfum"
+    },
+    {
+     "nombre": "Loción hidratante iluminadora autobronceado gradual",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551194776"
+     ],
+     "inci": "Aqua, Dimethicone, Sorbitol, Glycerin, C12-15 Alkyl Benzoate, Stearyl Alcohol, Alcohol Denat., Dihydroxyacetone, Glyceryl Stearate, Ceteareth-15, PEG-100 Stearate, Haematococcus Pluvialis Extract, Tocopherol, Butyrospermum Parkii Butter, Prunus Armeniaca Kernel Oil, Caprylic/Capric Triglyceride, Caprylyl Glycol, CI 77891, Glycine Soja Oil, Hydroxyacetophenone, Isohexadecane, Polysorbate-80, Sodium Polyacryloyldimethyl Taurate, Sorbitan Oleate, Synthetic Fluorphlogopite, Dimethiconol, CI 15985, Parfum"
+    },
+    {
+     "nombre": "Pomada reparadora SOS 10 en 1 Cica Repair+ para piel seca o agrietada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600551181363"
+     ],
+     "inci": "Glycerin, Aqua, Propylene Glycol, Cetearyl Alcohol, Glyceryl Stearate, Pentylene Glycol, Butyrospermum Parkii Butter, Glyceryl Stearate SE, Dimethicone, Urea, Allantoin, Caprylyl Glycol, Citric Acid, Glycine, Hydroxyacetophenone, Sodium Hydroxide, Sodium Polyacrylate, Tetrasodium Glutamate Diacetate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "johnsons",
+   "nombre": "Johnson's",
+   "productos": [
+    {
+     "nombre": "Baby baño de burbujas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661837895"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, PEG-80 Sorbitan Laurate, PEG-150 Pentaerythrityl Tetrastearate, Sodium Chloride, PPG-2 Hydroxyethyl Cocamide, Decyl Glucoside, Phenoxyethanol, Sodium Methyl Cocoyl Taurate, Sodium Benzoate, Parfum, Citric Acid, Coconut Acid, Tocopheryl Acetate, Ethylhexylglycerin, Methyl Benzoate, Tocopherol"
+    },
+    {
+     "nombre": "Baby champú Dulces Sueños",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574669907675",
+      "3574669907705"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Citric Acid, PEG-80 Sorbitan Laurate, Sodium Chloride, Glycerin, Sodium Benzoate, Sodium Methyl Cocoyl Taurate, Coconut Acid, PEG-150 Distearate, Parfum, Disodium EDTA, Polyquaternium-10"
+    },
+    {
+     "nombre": "Baby champú clásico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661520469",
+      "3574669907392",
+      "3574669907750",
+      "3574669907880",
+      "3574669907934"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, PEG-80 Sorbitan Laurate, Sodium Chloride, Citric Acid, Glycerin, Sodium Benzoate, Sodium Methyl Cocoyl Taurate, Coconut Acid, PEG-150 Distearate, Parfum, Disodium EDTA, Polyquaternium-10, Panthenol, Aloe Barbadensis Leaf Extract, Phenoxyethanol"
+    },
+    {
+     "nombre": "Baby loción suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661428079",
+      "3574661877495"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Phenoxyethanol, Potassium Cetyl Phosphate, Carbomer, Parfum, Caprylyl Glycol, Cocos Nucifera Oil, Panthenol, Sodium Hydroxide, Aloe Barbadensis Leaf Extract, Benzoic Acid, Methyl Benzoate"
+    },
+    {
+     "nombre": "Comfort Touch loción cara y cuerpo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661428055"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Dimethicone, Phenoxyethanol, Gossypium Herbaceum (Cotton), Cetearyl Olivate, Sorbitan Olivate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum, Sodium Hydroxide, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexylglycerin, Tropolone, Tocopherol"
+    },
+    {
+     "nombre": "Crema de peinado para niños Rizos Definidos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661891323"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Hydroxyethylcellulose, Isopropyl Palmitate, Distearyldimonium Chloride, Cetyl Esters, Sodium Benzoate, Behentrimonium Chloride, Isopropyl Alcohol, Citric Acid, Parfum, Butyrospermum Parkii Butter, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Polvos de talco (almidón de maíz)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661727523"
+     ],
+     "inci": "Zea Mays (Corn) Starch, Tricalcium Phosphate, Parfum, Citronellol, Benzyl Benzoate, Alpha-Isomethyl Ionone, Benzyl Cinnamate"
+    },
+    {
+     "nombre": "Top-to-Toe gel y champú 3 en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661435367"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, PEG-80 Sorbitan Laurate, Glycerin, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Sodium Chloride, Decyl Glucoside, Phenoxyethanol, Sodium Methyl Cocoyl Taurate, Sodium Benzoate, Citric Acid, Coconut Acid, Parfum, Ethylhexylglycerin, Panthenol, Aloe Barbadensis Leaf Extract"
+    }
+   ]
+  },
+  {
+   "key": "gillette",
+   "nombre": "Gillette",
+   "productos": [
+    {
+     "nombre": "Gel de afeitar Fusion con aceite de almendras (piel sensible)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7702018617074"
+     ],
+     "inci": "Aqua, Palmitic Acid, Triethanolamine, Isopentane, Glyceryl Oleate, Stearic Acid, Glycerin, Isobutane, Sorbitol, Parfum, Hydroxyethylcellulose, PEG-45M, Menthol, Linalool, Limonene, PVM/MA Copolymer, Glyceryl Acrylate/Acrylic Acid Copolymer, Prunus Amygdalus Dulcis Oil, Silica, Tocopherol, Lecithin, Ascorbyl Palmitate, Hydrogenated Palm Glycerides Citrate, CI 42053, CI 42090"
+    },
+    {
+     "nombre": "King C. Gillette gel limpiador para barba y rostro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841705637"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Sodium Citrate, Sodium Xylenesulfonate, Sodium Chloride, Stearyl Alcohol, Glycerin, Glycol Distearate, Parfum, Cetyl Alcohol, Dimethiconol, Citric Acid, Sodium Benzoate, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Sodium Hydroxide, Menthol, TEA-Dodecylbenzenesulfonate, Polyquaternium-6, Trihydroxystearin, Trideceth-10, Histidine, Linalool, Coumarin, Limonene, Magnesium Nitrate, Argania Spinosa Kernel Oil, Persea Gratissima Oil, Propylene Glycol, Methylchloroisothiazolinone, Magnesium Chloride, Triethylene Glycol, Methylisothiazolinone, Cocos Nucifera Fruit Extract, Orchis Mascula Flower Extract, Zea Mays Silk Extract"
+    },
+    {
+     "nombre": "King C. Gillette aceite para barba",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841705750"
+     ],
+     "inci": "Vitis Vinifera Seed Oil, Macadamia Ternifolia Seed Oil, Oenothera Biennis Oil, Persea Gratissima Oil, Glycine Soja Oil, Simmondsia Chinensis Seed Oil, Camellia Oleifera Seed Oil, Prunus Amygdalus Oil, Argania Spinosa Kernel Oil, Parfum, Tocopherol, Mentha Piperita Oil, Linalool, Coumarin, Limonene, Citric Acid"
     }
    ]
   }
