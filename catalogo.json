@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci03",
+ "version": "2026-10-04-hogar-eci4",
  "marcas": [
   {
    "key": "larocheposay",
@@ -41360,7 +41360,8 @@
      "exclude": [],
      "barcodes": [
       "8420822130389",
-      "8420822130396"
+      "8420822130396",
+      "8420822135278"
      ],
      "inci": "Aqua, C12-14 Pareth-7, Methoxyisopropanol, Fatty Alcohol Ethoxylated 8 mol EO, Ethanolamine, Sodium Polyacrylate, Acrylates/Steareth-30 Methacrylate Copolymer"
     },
@@ -41369,7 +41370,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8420822131027"
+      "8420822131027",
+      "8420822131034"
      ],
      "inci": "Aqua, C12-14 Pareth-7, Methoxyisopropanol, Fatty Alcohol Ethoxylated 8 mol EO, Ethanolamine, Sodium Polyacrylate, Parfum, Acrylates/Steareth-30 Methacrylate Copolymer, Citral, Terpineol, Linalool, Camphor, Aceites Esenciales"
     },
@@ -41379,7 +41381,8 @@
      "exclude": [],
      "barcodes": [
       "8420822132260",
-      "8420822132277"
+      "8420822132277",
+      "8420822104342"
      ],
      "inci": "Aqua, C12-14 Pareth-7, PEG-7 Glyceryl Cocoate, Sodium Dodecylbenzene Sulfonate, Methoxyisopropanol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Alcohol graso etoxilado 5 mol EO, Productos de reacción de monoetanolamina y ácido bórico (1:3), Propylene Glycol, Calcium Chloride, Parfum, Subtilisin, Subtilisin, Glycerin, Amilasa α-, Methylchloroisothiazolinone/Methylisothiazolinone, Phenoxyethanol, Benzisothiazolinone, Methyl Nonyl Ketone"
     },
@@ -69208,6 +69211,15 @@
       "8717163617694"
      ],
      "inci": "Aqua, Calcium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate, C9-11 Pareth-5, Phenoxyethanol, Sodium Oleate, Parfum, Acrylates Copolymer, Sodium Hydroxide, Linalool, Citronellol, Dimethicone, Hexyl Cinnamal, Eucalyptus Globulus Oil, Terpineol"
+    },
+    {
+     "nombre": "Limpiador multiusos en crema Cif Cleanboost Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8717163617687"
+     ],
+     "inci": "Aqua, Calcium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate, C9-11 Pareth-5, Phenoxyethanol, Sodium Oleate, Parfum, Acrylates Copolymer, Limonene, Citrus Aurantium Peel Oil, Sodium Hydroxide, Linalool, Geraniol, Dimethicone, Ci 47005"
     }
    ]
   },
@@ -70018,7 +70030,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4009175192936"
+      "4009175192936",
+      "4009175966452"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Phenoxyisopropanol, PEG-4 Rapeseedamide, Sodium Chloride, Olive Oil Fatty Acid Triethanolamine salt, Methyl Diethanolamine, Tetrasodium Glutamate Diacetate, Parfum, Lavandula Angustifolia Flower Extract, Colorante"
     },
@@ -70027,7 +70040,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4009175183088"
+      "4009175183088",
+      "4009175966469"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Sodium Benzoate, Sunfloweroyl Methylglucamide, Propylene Glycol, Parfum, Glycol Distearate, Colorante"
     },
@@ -70610,7 +70624,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8720181438226"
+      "8720181438226",
+      "8720181417962"
      ],
      "inci": "Aqua, Laureth-7, Linear Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Fatty acids C14-18 and C16-18-unsatd. sodium salts, Parfum, Disodium Distyrylbiphenyl Disulfonate, Glycerin, Propylene Glycol, Sorbitol, Butoxydiglycol, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Subtilisin, Peptides salts sugars from fermentation (process), Lipase, Methylisothiazolinone, Octylisothiazolinone, Amylase, Toluene, Disubstituted Alaninamide, Ci 50325, Sodium Sulfate, Polymeric Blue Colourant, Mannanase, Cellulose Gum"
     },
@@ -70622,6 +70637,33 @@
       "8720181563898"
      ],
      "inci": "Glycerin, MEA-C10-13 Alkyl Benzenesulfonate, C12-18 Pareth-7, Sodium Laureth Sulfate, MEA-Cocoate, Propylene Glycol, Aqua, Parfum, Polypropylene Terephthalate/Polyoxyethylene terephthalate, Propanediol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Aminoethyl Sulfate, Linear Alkyl Benzene, Disodium Distyrylbiphenyl Disulfonate, Ethanolamine, Potassium Sulfite, Subtilisin, Citronellol, Citrus Aurantium Peel Oil, Limonene, Styrene/Acrylates Copolymer, Geraniol, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Polymeric Violet Colourant, Terpineol, Hydroxycitronellal, Sorbitol, Calcium Chloride, Polymeric Blue Colourant, Amylase, Sodium Lauryl Sulfate, Peptides salts sugars from fermentation (process), Polymeric Red Colourant, Mannanase"
+    },
+    {
+     "nombre": "Detergente en cápsulas Skip Ultimate Máxima Eficacia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181751943"
+     ],
+     "inci": "Laureth-7, MEA-Hydrogenated Cocoate, MEA-Dodecylbenzenesulfonate, Glycerin, Aqua, Propylene Glycol, Polypropylene Terephthalate/Polyoxyethylene terephthalate, Parfum, Tripropylene tetramine ethoxylated modified, Propanediol, Potassium Sulfite, Sodium Diethylenetriamine Pentamethylene Phosphonate, MEA-Sulfate, Sodium Chloride, Alpha-Isomethyl Ionone, Subtilisin, Tetramethyl Acetyloctahydronaphthalenes, Glycol, Styrene/Acrylates Copolymer, Sorbitol, Disodium Distyrylbiphenyl Disulfonate, Polyoxymethylene Melamine Urea, Rose Ketones, Amylase, Peptides salts sugars from fermentation (process), Ceteareth-80, Polymeric Blue Colourant, Ethylene/MA Copolymer, Calcium Chloride, Cellulase, Tamarindus Indica Seed Gum, Polymeric Red Colourant, Sodium Lauryl Sulfate, Mannanase, Urea, Ethanolamine, Tetrasodium EDTA, Polymeric Pink Colourant, Dipropylene Glycol"
+    },
+    {
+     "nombre": "Detergente en polvo Skip Limpieza Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181408687"
+     ],
+     "inci": "Sodium Sulphates, Sodium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate Peroxide, Sodium Silicate, Zeolite, Sodium Bicarbonate, Alcohol ethoxylate 9Eo, Fatty acids C14-18 and C16-18-unsatd. sodium salts, TAED, Parfum, Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Sodium Sulfate, Dimethicone, Aqua, Disodium Anilinomorpholinotriazinylaminostilbenesulfonate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Subtilisin, Calcium Carbonate, Cellulose, Peptides salts sugars from fermentation (process), Bentonite, Dextrin, Kaolin, Imidazolidinone, Sodium Chloride, Polyoxymethylene Melamine, PEG-75, Xanthan Gum, Ci 45100, Ci 61585, Ci 12490"
+    },
+    {
+     "nombre": "Detergente líquido Skip Ultimate con poder KH-7",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181417993"
+     ],
+     "inci": "Aqua, Laureth-7, Linear Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Fatty acids C14-18 and C16-18-unsatd. sodium salts, Parfum, Disodium Distyrylbiphenyl Disulfonate, Glycerin, Propylene Glycol, Sorbitol, Butoxydiglycol, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Subtilisin, Peptides salts sugars from fermentation (process), Lipase, Methylisothiazolinone, Octylisothiazolinone, Amylase, Toluene, Disubstituted Alaninamide, Ci 50325, Sodium Sulfate, Polymeric Blue Colourant, Mannanase, Cellulose Gum"
     }
    ]
   },
@@ -70634,7 +70676,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8720181478550"
+      "8720181478550",
+      "8720181478512"
      ],
      "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Lactic Acid, Sodium Benzoate, Linalool, Quaternised hydrolyzed wheat protein/silicone copolymer, Amyl Salicylate, Coumarin, Hydrochloric Acid, Citronellol, Alpha-Isomethyl Ionone, Alcohol Denat., Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
     },
@@ -70652,7 +70695,9 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8720181707063"
+      "8720181707063",
+      "8720181707100",
+      "8720181778780"
      ],
      "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Formic Acid, Linalool, Amyl Salicylate, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
     }
