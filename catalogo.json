@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-hogar-eci2",
+ "version": "2026-10-04-eci00",
  "marcas": [
   {
    "key": "larocheposay",
@@ -70733,6 +70733,318 @@
       "8008970061399"
      ],
      "inci": "Aqua, Ethylhexyl Palmitate, Cetearyl Alcohol, Glyceryl Stearate, Betaine, Glycerin, Isopropyl Myristate, Hydrogenated Polydecene, Glyceryl Stearate Citrate, Sorbitol, Myristyl Myristate, Diethylhexyl Carbonate, Parfum, Prunus Amygdalus Dulcis Oil, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Propanediol, Dimethicone, Pentylene Glycol, Dicaprylyl Ether, Carbomer, Sodium PCA, Tetrasodium Glutamate Diacetate, Dimethicone/Vinyl Dimethicone Crosspolymer, Tocopheryl Acetate, Triethanolamine, Citric Acid, Ethylhexylglycerin, Phenoxyethanol, Linalyl Acetate, Hexadecanolactone, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Linalool, Geraniol, Cinnamyl Alcohol, Vanillin"
+    }
+   ]
+  },
+  {
+   "key": "veckia",
+   "nombre": "Veckia",
+   "productos": [
+    {
+     "nombre": "Jabón de manos Hidratante piel seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136464"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Sodium Benzoate, Laureth-2, Sodium Sulfate, Glyceryl Oleate, Citric Acid, Parfum, Glycol Distearate, Lauryl Methyl Gluceth-10 Hydroxypropyldimonium Chloride, Potassium Sorbate, Styrene/Acrylates Copolymer, Laureth-4, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Citronellol, Hexamethylindanopyran, Geraniol, Sodium Lauryl Sulfate, CI 17200"
+    },
+    {
+     "nombre": "Gel de ducha Almendras y Miel pH neutro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136532"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, TEA-Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide DEA, Glycerin, Prunus Amygdalus Dulcis Seed Extract, Prunus Amygdalus Dulcis Oil, Mel Extract, Sine Adipe Lac, Sodium Benzoate, Decyl Glucoside, Laureth-2, Sodium Sulfate, Parfum, Styrene/Acrylates Copolymer, Triethanolamine, PEG-120 Methyl Glucose Trioleate, Citric Acid, Potassium Sorbate, Glycol Distearate, TEA-Sulfate, Cocamide MEA, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Hexyl Cinnamal, Propanediol, Hexamethylindanopyran, Polyquaternium-39, Citrus Aurantium Peel Oil, Limonene, Sodium Lauryl Sulfate, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Pentylene Glycol, Trideceth-9, Gluconolactone, Phenoxyethanol, Decylene Glycol, 1, 2-Hexanediol, Calcium Gluconate, CI 19140, CI 16035"
+    },
+    {
+     "nombre": "Gel de ducha Aloe Vera y Soja pH neutro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136525"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Decyl Glucoside, Aloe Barbadensis Leaf Juice, Hydrolyzed Soy Protein, Polyquaternium-7, Sodium Sulfate, Laureth-2, Cocamide DEA, Parfum, Citric Acid, PEG-120 Methyl Glucose Trioleate, Potassium Sorbate, Glycol Distearate, Laureth-4, Glycerin, Propanediol, Benzyl Salicylate, Hexyl Cinnamal, Terpineol, Linalool, Benzoic Acid, Sorbic Acid, Sodium Benzoate, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Jabón de manos Almendras y Miel nutritivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136457"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Prunus Amygdalus Dulcis Oil, Lauryl Methyl Gluceth-10 Hydroxypropyldimonium Chloride, Styrene/Acrylates Copolymer, Laureth-2, Laureth-4, Sodium Sulfate, Glycol Distearate, Glyceryl Oleate, Parfum, Hexyl Cinnamal, Limonene, Citric Acid, Sodium Benzoate, Potassium Sorbate, Sodium Lauryl Sulfate, CI 19140, CI 15985"
+    },
+    {
+     "nombre": "Gel de ducha Avena pH neutro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136518"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, TEA-Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Avena Sativa Kernel Extract, Cocamide DEA, Sodium Benzoate, Decyl Glucoside, Parfum, Laureth-2, Sodium Sulfate, Citric Acid, Styrene/Acrylates Copolymer, Triethanolamine, PEG-120 Methyl Glucose Trioleate, Potassium Sorbate, TEA-Sulfate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Linalyl Acetate, Citronellol, Propanediol, Polyquaternium-39, Alpha-Isomethyl Ionone, Linalool, Sodium Lauryl Sulfate, CI 19140, CI 17200"
+    },
+    {
+     "nombre": "Gel de ducha Dermoprotector pH neutro con glicerina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136549"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, TEA-Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Cocamide DEA, Sodium Benzoate, Decyl Glucoside, Parfum, Citric Acid, Laureth-2, Sodium Sulfate, Styrene/Acrylates Copolymer, Triethanolamine, PEG-120 Methyl Glucose Trioleate, Potassium Sorbate, TEA-Sulfate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Propanediol, Polyquaternium-39, Sodium Lauryl Sulfate, Sodium PCA, Terpineol"
+    },
+    {
+     "nombre": "Gel de ducha Albaricoque con glicerina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136563"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, TEA-Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide DEA, Glycerin, Sodium Benzoate, Decyl Glucoside, Citric Acid, Parfum, Laureth-2, Sodium Sulfate, Triethanolamine, PEG-120 Methyl Glucose Trioleate, Potassium Sorbate, TEA-Sulfate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Linalool, Propanediol, Polyquaternium-39, CI 15985, CI 16035, CI 19140"
+    },
+    {
+     "nombre": "Jabón de manos Bubble",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136471"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Sodium Benzoate, Laureth-2, Sodium Sulfate, Parfum, Citric Acid, Lauryl Methyl Gluceth-10 Hydroxypropyldimonium Chloride, Potassium Sorbate, Benzaldehyde, CI 16035"
+    },
+    {
+     "nombre": "Gel de ducha Sales Minerales pH neutro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136501"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Niacinamide, Parfum, Sodium Benzoate, Citric Acid, Sodium Sulfate, Laureth-2, Disodium Cocoamphodiacetate, PEG-7 Glyceryl Cocoate, Potassium Sorbate, Polyquaternium-7, Sodium Glycolate, Amyl Salicylate, Eugenol, Citronellol, Eugenia Caryophyllus Oil, Coumarin, CI 16035, CI 15985, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Jabón de manos con glicerina (higiene de manos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329128193"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Chlorhexidine Digluconate, Sodium Benzoate, Parfum, Laureth-2, Sodium Sulfate, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Citric Acid, Potassium Sorbate, Hexamethylindanopyran, Amyl Salicylate"
+    },
+    {
+     "nombre": "Gel íntimo con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329158442"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Coco-Glucoside, PEG-7 Glyceryl Cocoate, Allantoin, Triticum Vulgare Germ Extract, Aloe Barbadensis Leaf Extract, Citric Acid, Propylene Glycol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Jabón de manos Cocina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329136495"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Lime Oil, Sodium Benzoate, Sodium Sulfate, Laureth-2, Parfum, Citric Acid, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Potassium Sorbate, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de manos hidroalcohólico con aloe vera y glicerina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329128186"
+     ],
+     "inci": "Alcohol Denat., Aqua, Glycerin, Propylene Glycol, Aloe Barbadensis Leaf Extract, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum, Aminomethyl Propanol, Pinene, Citral, Citric Acid, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes piel seca y sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329152808"
+     ],
+     "inci": "Aqua, Potassium Sorbate, Sorbitan Caprylate, Propanediol, Benzoic Acid, Sodium Benzoate, Sodium Dehydroacetate, Allantoin, Rosa Damascena Flower Water, Citric Acid, Parfum, Olus Oil, Glycerin, Polyglyceryl-2 Dipolyhydroxystearate, Lauryl Glucoside, Glyceryl Oleate, Dicaprylyl Carbonate, Tocopheryl Acetate, Xanthan Gum, Hydroxyacetophenone"
+    },
+    {
+     "nombre": "Toallitas íntimas con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329109949"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil, Glycerin, Gluconolactone, PEG-7 Glyceryl Cocoate, Parfum, Potassium Sorbate, Sodium Benzoate, Aloe Barbadensis Leaf Juice, Calcium Gluconate, Sodium Sulfite, Citric Acid"
+    },
+    {
+     "nombre": "Loción corporal hidratante con aloe vera y centella asiática",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131681"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Cetearyl Alcohol, Dimethicone, Aloe Barbadensis Leaf Extract, Crambe Abyssinica Seed Oil Phytosterol Esters, Centella Asiatica Extract, Tocopheryl Acetate, Phenoxyethanol, Ceteareth-33, Parfum, Sodium Hydroxide, Benzoic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Dehydroacetic Acid, Citric Acid, Potassium Sorbate, Sodium Benzoate, Terpineol, Geranyl Acetate, Trimethylcyclopentenyl Methylisopentenol, Vanillin"
+    },
+    {
+     "nombre": "Toallitas refrescantes con vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329134781"
+     ],
+     "inci": "Aqua, Propylene Glycol, Gluconolactone, Sodium Benzoate, Calcium Gluconate, PEG-40 Hydrogenated Castor Oil, PEG-75 Lanolin, Potassium Sorbate, Parfum, Tocopheryl Acetate, Disodium Cocoamphodiacetate, Citric Acid, Disodium EDTA"
+    },
+    {
+     "nombre": "Champú Fuerza y Vitalidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329096751"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Sodium Lauryl Sulfate, Betaine, Sodium Benzoate, Parfum, Laureth-2, Sodium Sulfate, Polyquaternium-22, Styrene/Acrylates Copolymer, Guar Hydroxypropyltrimonium Chloride, Glycol Distearate, Citric Acid, Tetrasodium EDTA, Potassium Sorbate, Laureth-4, Propylene Glycol, Hexyl Cinnamal, Linalool, Hydrolyzed Ceratonia Siliqua Seed Extract, Citronellol, Zea Mays Starch, PEG-40 Hydrogenated Castor Oil, Trideceth-9, Sodium Carbonate, Sodium Hydroxide, Lactic Acid, Argania Spinosa Kernel Oil, Polyquaternium-7"
+    },
+    {
+     "nombre": "Crema de pies reparadora de grietas con urea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142274"
+     ],
+     "inci": "Aqua, Urea, Dimethicone, Octyldodecyl Myristate, Petrolatum, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate, Tocopheryl Acetate, Panthenol, PEG-75 Stearate, Phenoxyethanol, Bisabolol, Ceteth-20, Steareth-20, Parfum, Imidazolidinyl Urea, Methylparaben, Lactic Acid, Propylparaben, Disodium EDTA, Farnesol, Ethylparaben, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Hexamethylindanopyran, Citrus Aurantium Peel Oil, Citric Acid, Hexyl Cinnamal, Linalyl Acetate, Linalool, Citrus Limon Peel Oil, Benzyl Salicylate, Pinene, Coumarin, Mentha Viridis Leaf Oil, Geraniol, Acetyl Cedrene, Carvone, Lavandula Oil/Extract"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes piel mixta/normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329152815"
+     ],
+     "inci": "Aqua, Glycerin, PEG-8 Caprylic/Capric Glycerides, Phenoxyethanol, Parfum, Charcoal Powder, Sodium Benzoate, PEG-40 Glyceryl Cocoate, Sodium Coceth Sulfate, Propylene Glycol, Sodium Dehydroacetate, Tocopheryl Acetate, Disodium EDTA, Cucumis Sativus (Cucumber) Fruit Extract, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Champú anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329132022"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Betaine, Sodium Lauryl Sulfate, Cocamide DEA, Dimethiconol, Piroctone Olamine, Sodium Benzoate, Zinc Coceth Sulfate, Sodium Sulfate, Laureth-2, Parfum, Glycol Distearate, Styrene/Acrylates Copolymer, Tetrasodium EDTA, Guar Hydroxypropyltrimonium Chloride, Potassium Sorbate, Glycerin, Laureth-4, Citric Acid, Linalool, Hexyl Cinnamal, TEA-Dodecylbenzenesulfonate, Sodium Carbonate, Phenoxyethanol, Sodium Hydroxide, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Crema de manos nutritiva con manteca de karité y aceite de coco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131780"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Cocos Nucifera Oil, Butyrospermum Parkii Butter, Tocopheryl Acetate, Sodium Cetearyl Sulfate, Stearic Acid, Palmitic Acid, Phenoxyethanol, Parfum, Methylparaben, Sodium Hydroxide, Propylparaben, Beta-Caryophyllene, Acetyl Cedrene, Ethylparaben, Linalyl Acetate, Linalool, Hexamethylindanopyran, Terpineol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Geraniol, Cananga Odorata Oil/Extract, Isoeugenol, Cinnamyl Alcohol, Geranyl Acetate"
+    },
+    {
+     "nombre": "Champú Natural con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329122986"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Sodium Chloride, Betaine, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Coco-Glucoside, Aloe Barbadensis Leaf Juice, Sodium Benzoate, Sodium Levulinate, Citric Acid, Parfum, Tetrasodium Glutamate Diacetate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema corporal con aceite de oliva para pieles muy secas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131643"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate, Cetearyl Alcohol, Cyclopentasiloxane, Butyrospermum Parkii Butter, Ceteth-20, Stearyl Alcohol, Stearic Acid, Phenoxyethanol, Hydrogenated Ethylhexyl Olivate, Carbomer, Dimethicone, Steareth-25, Palmitic Acid, Xanthan Gum, Imidazolidinyl Urea, Sodium Hydroxide, Parfum, Methylparaben, Propylparaben, Disodium EDTA, Ethylparaben, Tocopheryl Acetate, Hydrogenated Olive Oil Unsaponifiables, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Hexyl Cinnamal, Benzyl Salicylate, Terpineol, Citrus Aurantium Peel Oil, Limonene, Linalyl Acetate, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Dimethyl Phenethyl Acetate, Geranyl Acetate"
+    },
+    {
+     "nombre": "Mascarilla Fuerza y Vitalidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329096836"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Butyrospermum Parkii Butter, Bis(C13-15 Alkoxy) PG-Amodimethicone, Betaine, Phenoxyethanol, Polyquaternium-22, Parfum, Isopropyl Alcohol, Glycerin, Argania Spinosa Kernel Oil, C14-15 Alcohols, Disodium EDTA, Benzoic Acid, Dehydroacetic Acid, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Hydrolyzed Ceratonia Siliqua Seed Extract, Zea Mays Starch, Isotridecyl Alcohol, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Linalool, Citronellol"
+    },
+    {
+     "nombre": "Crema de pies hidratante antisequedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142281"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum, Dimethicone, Triceteareth-4 Phosphate, Glycol Stearate, PEG-2 Stearate, Phenoxyethanol, Parfum, Imidazolidinyl Urea, Titanium Dioxide, Methylparaben, Allantoin, Propylparaben, Disodium EDTA, Ethylparaben, Lactic Acid, Triethoxycaprylylsilane, Limonene, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Coumarin, Geraniol"
+    },
+    {
+     "nombre": "Crema de manos Paradise Rosa de India",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131797"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Butyrospermum Parkii Butter, Dimethicone, Prunus Amygdalus Dulcis Oil, Allantoin, Rosa Moschata Seed Oil, Tocopheryl Acetate, Zea Mays Oil, Aesculus Hippocastanum Seed Extract, Calcium Pantothenate, Inositol, Retinol, Biotin, Phenoxyethanol, Parfum, PEG-20 Castor Oil, Benzoic Acid, Propylene Glycol, Alcohol Denat., Dehydroacetic Acid, Limonene, Hexyl Cinnamal, Linalyl Acetate, Citrus Aurantium Peel Oil, Myristyl Alcohol, Stearyl Alcohol, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Tocopherol, Acetyl Cedrene, Citrus Limon Peel Oil, Citronellol, Anethole, Coumarin, Cinnamyl Alcohol, Benzyl Cinnamate, Geraniol, Geranyl Acetate, Trimethylbenzenepropanol, Terpineol, Pinene, Dimethyl Phenethyl Acetate, Rose Ketones, Sodium Methylparaben, Sodium Chloride, Ascorbyl Palmitate, CI 17200, CI 16035"
+    },
+    {
+     "nombre": "Loción corporal hidratante con aceite de argán y vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131711"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Cetearyl Alcohol, Dimethicone, Argania Spinosa Kernel Oil, Phenoxyethanol, Ceteareth-33, Parfum, Benzoic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Sodium Hydroxide, Dehydroacetic Acid, Alpha-Isomethyl Ionone, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Vanillin, Linalyl Acetate"
+    },
+    {
+     "nombre": "Gel pies y piernas cansadas refrescante revitalizante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142298"
+     ],
+     "inci": "Aqua, Alcohol Denat., Propylene Glycol, Menthol, Butylene Glycol, Carbomer, Triethanolamine, Cyclopentasiloxane, Parfum, Decyl Glucoside, Laminaria Digitata Extract, Paullinia Cupana Seed Extract, Imidazolidinyl Urea, Centella Asiatica Extract, Benzyl Salicylate, Citric Acid, Tetramethyl Acetyloctahydronaphthalenes, Hydroxycitronellal, Linalool, Linalyl Acetate, Potassium Sorbate, Hexamethylindanopyran, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Eugenol, Disodium EDTA, Sodium Benzoate"
+    },
+    {
+     "nombre": "Manteca corporal con aceite de argán y de nueces de macadamia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131650"
+     ],
+     "inci": "Aqua, Butyrospermum Parkii Butter, Sodium Acrylates Copolymer, Macadamia Ternifolia Seed Oil, Argania Spinosa Kernel Oil, Parfum, Phenethyl Alcohol, Caprylyl Glycol, Lecithin, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Vanillin, Linalyl Acetate"
+    },
+    {
+     "nombre": "Crema de manos hidratante con aloe vera y urea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131773"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Caprylic/Capric Triglyceride, Urea, Glycerin, Cetearyl Alcohol, Glyceryl Stearate, Allantoin, Aloe Barbadensis Leaf Extract, Centella Asiatica Extract, Hamamelis Virginiana Leaf Extract, Cananga Odorata Oil/Extract, Cyclopentasiloxane, Phenoxyethanol, Ceteth-20, Stearyl Alcohol, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Steareth-25, Parfum, Dimethiconol, Benzoic Acid, Propylene Glycol, Sodium Hydroxide, Dehydroacetic Acid, Linalool, Terpineol, Citronellol, Linalyl Acetate, Geraniol, Cinnamyl Alcohol, Hydroxycitronellal, Citric Acid, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción corporal nutritiva con aceite de almendras dulces y manteca de karité",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131698"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Steareth-2, Steareth-21, Butyrospermum Parkii Butter, Cetearyl Alcohol, Dimethicone, Prunus Amygdalus Dulcis Oil, Tocopheryl Acetate, Phenoxyethanol, Sodium Hydroxide, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Dehydroacetic Acid, Linalool, Limonene, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Citronellol, Coumarin, Linalyl Acetate, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Eucalyptus Globulus Oil, Pinene, Geranyl Acetate"
+    },
+    {
+     "nombre": "Loción corporal reafirmante con coenzima Q10 y vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131728"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii Butter, Tocopheryl Acetate, Squalane, Ubiquinone, Phenoxyethanol, Dimethicone, Parfum, Sodium Polyacrylate, Sodium Stearoyl Glutamate, Citric Acid, Hydroxyacetophenone, Disodium EDTA, Caprylyl Glycol, Benzyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Hexyl Cinnamal, Linalyl Acetate, Geraniol, Citrus Limon Peel Oil, Pogostemon Cablin Oil, Limonene, Alpha-Isomethyl Ionone, Tocopheryl Acetate, Citronellol, Cinnamyl Alcohol, Pinene, Vanillin, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Loción corporal hidratante con urea y manteca de karité",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329131704"
+     ],
+     "inci": "Aqua, Urea, Cetearyl Alcohol, Paraffinum Liquidum, Caprylyl Caprylate/Caprate, Sodium Lactate, Butyrospermum Parkii Butter, Tocopherol, Parfum, Sodium Polyacrylate, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Hydroxyacetophenone, Lactic Acid, Disodium EDTA, Caprylyl Glycol, Linalyl Acetate, Hexyl Cinnamal, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Citrus Aurantium Peel Oil, Citronellol, Geraniol, Coumarin, Sodium Hydroxide, Phenoxyethanol"
     }
    ]
   }
