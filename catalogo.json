@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci10",
+ "version": "2026-10-04-eci11",
  "marcas": [
   {
    "key": "larocheposay",
@@ -15877,6 +15877,69 @@
       "8718951811119"
      ],
      "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Taurine, Lactic Acid, Arginine, Sodium Benzoate, Hydroxyacetophenone, Inulin, Parfum, Niacinamide, Sodium Metabisulfite, Bisabolol, Sodium PCA, Sodium Gluconate, Butyloctanol, Poloxamer 124, Glycine"
+    },
+    {
+     "nombre": "Gel de ducha Neutro Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951687226"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Lactic Acid, Sodium Benzoate, Parfum, Poloxamer 124, Caprylyl Glycol, Sodium Metabisulfite"
+    },
+    {
+     "nombre": "Gel de ducha Neutro Hidratante recambio eco pack",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951686885"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Lactic Acid, Sodium Benzoate, Parfum, Poloxamer 124, Caprylyl Glycol, Sodium Metabisulfite"
+    },
+    {
+     "nombre": "Gel de ducha Neutro Hidratación Delicada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951687035"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Lactic Acid, Sodium Benzoate, Poloxamer 124, Caprylyl Glycol, Sodium Metabisulfite"
+    },
+    {
+     "nombre": "Gel de ducha Neutro Family Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951687004"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Glycerin, Sodium C14-16 Olefin Sulfonate, Lactic Acid, Sodium Benzoate, Parfum, Poloxamer 124, Caprylyl Glycol, Sodium Metabisulfite"
+    },
+    {
+     "nombre": "Gel de ducha Neutro Nutritivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951686977"
+     ],
+     "inci": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Lactic Acid, Sodium Benzoate, Parfum, Poloxamer 124, Glyceryl Oleate, Caprylyl Glycol, Sodium Metabisulfite"
+    },
+    {
+     "nombre": "Desodorante en stick Dermo Protector 24h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789913919"
+     ],
+     "inci": "Propylene Glycol, Aqua, Sodium Stearate, Parfum, Sodium Chloride, Stearyl Alcohol, Tetrasodium EDTA"
+    },
+    {
+     "nombre": "Desodorante roll-on Men Zero% Respect & Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463837"
+     ],
+     "inci": "Aqua, Steareth-2, Glycerin, PPG-15 Stearyl Ether, Steareth-21, Parfum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate, Ethylhexylglycerin"
     }
    ]
   },
@@ -73079,6 +73142,64 @@
       "8425190174522"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Citric Acid, Aloe Barbadensis Leaf Juice, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Amyl Salicylate, CI 42090, CI 47005"
+    }
+   ]
+  },
+  {
+   "key": "dodot",
+   "nombre": "Dodot",
+   "productos": [
+    {
+     "nombre": "Toallitas húmedas Sensitive limpia y protege",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410108123402"
+     ],
+     "inci": "Aqua, Citric Acid, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Sorbitan Caprylate, Sodium Citrate, Disodium EDTA, Isoamyl Laurate, Xanthan Gum"
+    },
+    {
+     "nombre": "Toallitas húmedas Sensitive sin perfume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410108122535"
+     ],
+     "inci": "Aqua, Citric Acid, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Sorbitan Caprylate, Sodium Citrate, Disodium EDTA, Isoamyl Laurate, Xanthan Gum"
+    },
+    {
+     "nombre": "Toallitas húmedas 99% agua",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530199773",
+      "8006530199728"
+     ],
+     "inci": "Aqua, Citric Acid, Sodium Citrate, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Sorbitan Caprylate, Disodium EDTA"
+    }
+   ]
+  },
+  {
+   "key": "originalremedies",
+   "nombre": "Original Remedies",
+   "productos": [
+    {
+     "nombre": "Champú Nutrición Extrema Oliva Mítica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600542650182"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Olea Europaea Fruit Oil, Olea Europaea Leaf Extract, Triethyl Citrate, Sodium Hydroxide, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Benzoic Acid, Limonene, Benzyl Alcohol, Benzyl Salicylate, Parfum"
+    },
+    {
+     "nombre": "Champú purificante Arcilla Suave & Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3600542152945"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Kaolin, Sodium Chloride, Glycerin, CI 19140, CI 42090, Sodium Benzoate, Sodium Hydroxide, Salicylic Acid, Limonene, Benzoic Acid, Linalool, Benzyl Salicylate, Benzyl Alcohol, Alpha-Isomethyl Ionone, Acrylates Copolymer, Citric Acid, Citrus Medica Vulgaris Fruit Extract, Hexylene Glycol, Hexyl Cinnamal, Parfum"
     }
    ]
   }
