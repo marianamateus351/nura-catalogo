@@ -908,6 +908,37 @@ mismo envase."** Cómo se aplica:
     vigilancia por "tris(", pero es un estabilizante de luz y no un organofosforado: no es falso negativo.
     Regresión: 0 cambios en las 7359 fichas anteriores.
 
+### 2026-10-04 · Auditoría de Reckitt: etiqueta del envase frente al portal (pedida por Mariana)
+Lo de Flor hizo pensar que el portal de Reckitt (rbeuroinfo.com) puede ir por detrás del envase. Se han revisado los
+códigos de Reckitt que entraron por nombre (decisión R): **68 en el catálogo, 44 con foto de El Corte Inglés legible**.
+Las fotos de Consum son de 300 px y no se leen.
+- **Cómo:** en cada foto se lee la declaración de ingredientes y la frase "Contiene …" de la etiqueta de peligro, y se
+  comparan los nombres concretos (alérgenos, conservantes, enzimas) con la lista del catálogo (`hg/audit/`).
+- **Criterio:**
+  - En **detergentes y lavavajillas** (648/2004 obliga a declarar los alérgenos por encima del 0,01 % y todos los
+    conservantes), cualquier diferencia en un sentido o en otro deja fuera la lista.
+  - En **ambientadores**, la etiqueta solo nombra lo que pasa del 0,1 % (CLP). Solo cuenta lo que la etiqueta nombra y el
+    catálogo no tiene. Que al catálogo le "sobren" alérgenos no lo contradice.
+- **Resultado:** 21 códigos contradicen la lista.
+  - **Colon:** "NUEVA FÓRMULA" sin Amyl Salicylate ni OTNE en Gel Activo, Vanish Advanced y Sensaciones; en Profesional,
+    además, falta Linalool; Polvo Activo declara Linalool; las Powercaps Nenuco y Vanish declaran Benzisothiazolinone.
+  - **Finish:** Ultimate Fresh declara Benzyl Benzoate y Geraniol, y su envase lleva el código 8410104914110, que estaba
+    puesto como "Ultimate"; Quantum Limón; el ambientador Lima & Limón.
+  - **Air Wick:** recambios Flor, Campo de Lavanda, Flor de Cerezo & Frambuesa, Lirio de Luna y Fruta de la Pasión
+    (Delta-Damascone en vez de Alpha); Essential Mist Lavanda; Decosphere Magnolia.
+  - **Cillit Bang Limpiacristales:** el catálogo trae CMIT/MIT y la etiqueta no declara ningún conservante.
+  - **Calgon Pastillas 4en1:** el catálogo trae 2-Benzylideneoctanal y la etiqueta no.
+- **Quitados: 26 códigos** (versión 2026-10-04-rb-audit): esos 21 y los 5 que compartían ficha con ellos sin foto propia
+  (Colon Vanish Advanced, Gel Activo y Powercaps Vanish de Consum, Lirio de Luna y Calgon pastillas de 15). En Finish
+  Ultimate y Quantum solo salen los códigos que fallan, porque los otros sí coinciden.
+- **Se quedan:**
+  - 11 COINCIDE.
+  - 5 ambientadores que solo tienen alérgenos "de más" en el catálogo.
+  - 8 sin declaración legible.
+  - 18 sin foto que se pueda leer (Consum o web): Freshmatic, Finish Power All in 1 y Essential, Colon Gel Nenuco y
+    Powercaps Limpieza Higiénica, Cillit Bang WC…
+- **Pendiente de Mariana:** con casi la mitad de los comprobados fallando, esos 26 sin comprobar tienen bastante riesgo.
+
 ### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (cerrada)
 Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
 
