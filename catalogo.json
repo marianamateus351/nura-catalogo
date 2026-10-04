@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci09",
+ "version": "2026-10-04-eci08",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21438,6 +21438,78 @@
       "8718951592223"
      ],
      "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Tetrapotassium Pyrophosphate, Polysorbate 20, Tetrasodium Pyrophosphate, Zinc Citrate, PVM/MA Copolymer, Aroma, Benzyl Alcohol, Sodium Fluoride, Sodium Saccharin, Anethole, Mentha Piperita Oil, Menthol, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Pasta de dientes Prevención Activa + Limpieza Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951471481"
+     ],
+     "inci": "Hydrated Silica, Aqua, Glycerin, Sorbitol, Aroma, Sodium Lauryl Sulfate, Calcium Pyrophosphate, Tetrasodium Pyrophosphate, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Sodium Saccharin, Xanthan Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sucralose, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Prevención Activa + Cuidado de Encías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951630147"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Sorbitol, Calcium Pyrophosphate, Sodium Methyl Cocoyl Taurate, Tetrasodium Pyrophosphate, Aroma, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Sodium Fluoride, Benzyl Alcohol, Eugenol, CI 73360"
+    },
+    {
+     "nombre": "Pasta de dientes Anti-Placa Expert menta fresca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951649019"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Aqua, Sodium Methyl Cocoyl Taurate, Arginine, Aroma, Zinc Oxide, Cocamidopropyl Betaine, Cellulose Gum, Benzyl Alcohol, Tetrasodium Pyrophosphate, Zinc Citrate, Sodium Saccharin, Xanthan Gum, Sodium Fluoride, Anethole, Beta-Caryophyllene, Carvone, Eugenol, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 73360, CI 74160, CI 74260, CI 77492"
+    },
+    {
+     "nombre": "Pasta de dientes infantil 7-12 años menta suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951434912"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Sorbitol, Calcium Pyrophosphate, Sodium Lauryl Sulfate, Tetrasodium Pyrophosphate, Aroma, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Sodium Fluoride, Benzyl Alcohol, Eugenol"
+    },
+    {
+     "nombre": "Pasta de dientes Prevención Activa Esmalte Sano",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951471542"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Sorbitol, Sodium Methyl Cocoyl Taurate, Calcium Pyrophosphate, Aroma, Tetrasodium Pyrophosphate, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Sodium Fluoride"
+    },
+    {
+     "nombre": "Pasta de dientes Anti-Placa Expert blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951649071"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Aqua, Sodium Methyl Cocoyl Taurate, Arginine, Aroma, Zinc Oxide, Cocamidopropyl Betaine, Cellulose Gum, Benzyl Alcohol, Tetrasodium Pyrophosphate, Zinc Citrate, Sodium Saccharin, Xanthan Gum, Sodium Fluoride, Anethole, Beta-Caryophyllene, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Anti-Desgaste Dental",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951771123"
+     ],
+     "inci": "Glycerin, Aqua, Hydrated Silica, Sorbitol, Calcium Pyrophosphate, Aroma, Tetrasodium Pyrophosphate, Sodium Lauryl Sulfate, Cellulose Gum, Potassium Nitrate, Stannous Fluoride, Xanthan Gum, Sodium Saccharin, Cocamidopropyl Betaine, Sodium Fluoride, Anethole, Benzyl Alcohol, Beta-Caryophyllene, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, Pinene"
+    },
+    {
+     "nombre": "Enjuague bucal Encías Sanas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951536135"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Zinc Lactate, Aroma, Cetylpyridinium Chloride, Potassium Sorbate, Sodium Fluoride, Lactic Acid, Menthol, Sodium Saccharin, Sucralose, CI 17200, CI 42051"
     }
    ]
   },
@@ -21998,6 +22070,33 @@
       "8718114202402"
      ],
      "inci": "Cyclopentasiloxane, Aluminum Zirconium Tetrachlorohydrex GLY, Dimethicone, Cera Microcristallina, Paraffin, Parfum, Silica, Dimethicone Crosspolymer, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Caprylic/Capric Triglyceride, Hydrated Silica, Gelatin Crosspolymer, Aqua, Sodium Benzoate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante roll-on Advanced Protection Tropical",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59095569"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Steareth-2, PPG-15 Stearyl Ether, Steareth-20, Parfum, Calcium Chloride, Glycine, Disodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Hexyl Cinnamal, Limonene"
+    },
+    {
+     "nombre": "Desodorante roll-on Advanced Protection Invisible Aqua",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59095552"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Glycerin, Steareth-2, PPG-15 Stearyl Ether, Parfum, Calcium Chloride, Glycine, Steareth-20, Disodium EDTA, Caprylic/Capric Triglyceride, BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citral, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Desodorante roll-on Advanced Protection Cotton Dry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59095545"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Steareth-2, PPG-15 Stearyl Ether, Steareth-20, Parfum, Calcium Chloride, Glycine, Disodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
     }
    ]
   },
@@ -72787,6 +72886,93 @@
       "5037156285376"
      ],
      "inci": "Aqua, Alcohol Denat., Polyquaternium-16, Polysorbate 20, Polyquaternium-68, Parfum, Panthenol, Ethylhexylglycerin, Cetrimonium Chloride, Hydrolyzed Rice Protein, Glycerin, Alcohol, Lecithin, Tocopherol, Caffeine, Hyaluronic Acid, Tocopheryl Acetate, Biotin, Phenoxyethanol, Sodium Benzoate, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "pardo",
+   "nombre": "Pardo",
+   "productos": [
+    {
+     "nombre": "Jabón líquido de glicerina con aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874001591"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Cocamide DEA, Sodium Chloride, Aloe Barbadensis Leaf Juice, Sodium Lactate, Lactic Acid, Parfum, Disodium EDTA, Limonene, Linalool, Hexyl Cinnamal, Citral, Diethylhexyl Syringylidene Malonate, Caprylic/Capric Triglyceride, Benzyl Alcohol, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Potassium Sorbate, CI 19140, CI 16255, CI 42090"
+    },
+    {
+     "nombre": "Jabón de manos hidratante con extracto de naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003175"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Parfum, Sodium Chloride, PEG-7 Glyceryl Cocoate, Sodium Citrate, Disodium EDTA, Citric Acid, Limonene, Citrus Aurantium Peel Oil, Hexyl Cinnamal, Linalool, Triethylene Glycol, Terpineol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral, Propylene Glycol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Methylchloroisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Potassium Sorbate, Sodium Benzoate, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Jabón de manos hidratante con extracto de rosas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003199"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Parfum, PEG-7 Glyceryl Cocoate, Sodium Citrate, Disodium EDTA, Citric Acid, Propylene Glycol, Triethylene Glycol, Benzyl Alcohol, Geraniol, Rosa Rugosa (Rose) Flower Extract, Methylchloroisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Potassium Sorbate, Sodium Benzoate, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Jabón de manos hidratante con extracto de oliva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003151"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Parfum, Sodium Chloride, PEG-7 Glyceryl Cocoate, Sodium Citrate, Disodium EDTA, Citric Acid, Linalyl Acetate, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Triethylene Glycol, Benzyl Alcohol, Propylene Glycol, Olea Europaea (Olive) Leaf Extract, Methylchloroisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Potassium Sorbate, Sodium Benzoate, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Gel de ducha con extracto de rosas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003182"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Parfum, PEG-7 Glyceryl Cocoate, Sodium Citrate, Disodium EDTA, Citric Acid, Propylene Glycol, Triethylene Glycol, Benzyl Alcohol, Geraniol, Rosa Rugosa (Rose) Flower Extract, Methylchloroisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Potassium Sorbate, Sodium Benzoate, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Gel de ducha con extracto de oliva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003144"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Parfum, Sodium Chloride, PEG-7 Glyceryl Cocoate, Sodium Citrate, Disodium EDTA, Citric Acid, Linalyl Acetate, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Triethylene Glycol, Benzyl Alcohol, Propylene Glycol, Olea Europaea (Olive) Leaf Extract, Methylchloroisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Potassium Sorbate, Sodium Benzoate, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Jabón de tocador con extracto de naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003113"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Parfum, Sodium Chloride, Trisodium HEDTA, Limonene, Citrus Aurantium Peel Oil, Hexyl Cinnamal, Linalool, Terpineol, Alpha-Isomethyl Ionone, Citral, Tetramethyl Acetyloctahydronaphthalenes, Citronellol, BHT, Citrus Aurantium Dulcis (Orange) Fruit Extract, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Jabón de tocador con extracto de rosas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003137"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Parfum, Sodium Chloride, Trisodium HEDTA, BHT, Propylene Glycol, Geraniol, Rosa Rugosa (Rose) Flower Extract, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Jabón de tocador con extracto de oliva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410874003120"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Parfum, Sodium Chloride, Trisodium HEDTA, Linalyl Acetate, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Limonene, BHT, Geraniol, Olea Europaea (Olive) Leaf Extract, Potassium Sorbate, Sodium Benzoate"
     }
    ]
   }
