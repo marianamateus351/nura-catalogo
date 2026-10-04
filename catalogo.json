@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04k",
+ "version": "2026-10-04m",
  "marcas": [
   {
    "key": "larocheposay",
@@ -21381,7 +21381,53 @@
   {
    "key": "institutoespanol",
    "nombre": "Instituto Español",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Champú suave Pieles Atópicas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047108321"
+     ],
+     "inci": "Aqua, Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Cocamidopropylamine Oxide, PEG-90 Glyceryl Isostearate, Laureth-2, Parfum, Plukenetia Volubilis Seed Oil, Tocopherol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Polyglyceryl-4 Cocoate, Polyglyceryl-6 Ricinoleate, Lactic Acid, Phenoxyethanol, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Crema corporal Pieles Atópicas cuidado integral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047108260"
+     ],
+     "inci": "Aqua, Paraffinum Liquidum, Cetyl Alcohol, Propylene Glycol, Dimethicone, Cetearyl Alcohol, Cetearyl Ethylhexanoate, Isopropyl Myristate, Caprylic/Capric Triglyceride, PEG-8 Distearate, Glyceryl Stearate, Phenoxyethanol, PEG-100 Stearate, Parfum, Triethanolamine, Caprylyl Glycol, Carbomer, Imidazolidinyl Urea, Allantoin, Helianthus Annuus Seed Oil, Hydrogenated Microcrystalline Wax, Plukenetia Volubilis Seed Oil, Glucose, Tetrasodium EDTA, Xanthan Gum, Ethylhexylglycerin, Borago Officinalis Extract, Rosmarinus Officinalis Leaf Extract, Carrageenan, Tocopherol, BHT, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Crema de manos antimanchas Manos Perfectas con rosa mosqueta SPF 20",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047101568"
+     ],
+     "inci": "Aqua, Homosalate, Octocrylene, Niacinamide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Glyceryl Stearate, Cetearyl Alcohol, Potassium Cetyl Phosphate, Dibutyl Adipate, PEG-100 Stearate, Plukenetia Volubilis Seed Oil, Rosa Moschata Seed Oil, Olus Oil, Hydroxyethyl Urea, Tocopherol, PEG-8 Distearate, Phenoxyethanol, Caprylyl Glycol, Triethanolamine, Parfum, Allantoin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Crema de manos ultra reparadora Manos Perfectas con pantenol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047101551"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Ethylhexanoate, Cetyl Alcohol, Cetearyl Alcohol, Panthenol, Dimethicone, PEG-8 Distearate, Hydroxyethyl Urea, Phenoxyethanol, Caprylyl Glycol, Glycerin, Sapindus Mukorossi Fruit Extract, Caesalpinia Spinosa Gum, Butyrospermum Parkii Butter, Potassium Cetyl Phosphate, Ethylhexylglycerin, Glyceryl Stearate, PEG-100 Stearate, Palmitic Acid, Stearic Acid, Allantoin, Tetrasodium Glutamate Diacetate, Parfum, Alpha-Isomethyl Ionone, Citronellol, Coumarin, Geraniol, Linalool"
+    },
+    {
+     "nombre": "Gel de baño Pieles Atópicas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411047108109"
+     ],
+     "inci": "Aqua, Disodium Cocoamphodiacetate, PEG-7 Glyceryl Cocoate, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Chloride, Disodium Lauroamphodiacetate, Sodium Lauryl Sulfate, Hexylene Glycol, Citric Acid, Propylene Glycol, PEG-55 Propylene Glycol Oleate, Phenoxyethanol, Parfum, Caprylyl Glycol, PPG-15 Stearyl Ether, PEG-40 Hydrogenated Castor Oil, Xylityl Glucoside, Tocopheryl Acetate, Anhydroxylitol, Plukenetia Volubilis Seed Oil, Xylitol, Tocopherol, Glucose, BHT"
+    }
+   ]
   },
   {
    "key": "sensodyne",
@@ -70355,6 +70401,129 @@
       "8001841705750"
      ],
      "inci": "Vitis Vinifera Seed Oil, Macadamia Ternifolia Seed Oil, Oenothera Biennis Oil, Persea Gratissima Oil, Glycine Soja Oil, Simmondsia Chinensis Seed Oil, Camellia Oleifera Seed Oil, Prunus Amygdalus Oil, Argania Spinosa Kernel Oil, Parfum, Tocopherol, Mentha Piperita Oil, Linalool, Coumarin, Limonene, Citric Acid"
+    }
+   ]
+  },
+  {
+   "key": "naturalhoney",
+   "nombre": "Natural Honey",
+   "productos": [
+    {
+     "nombre": "Agua de colonia Frescor de Colonia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970062594"
+     ],
+     "inci": "Alcohol Denat., Aqua, Parfum, Beta-Caryophyllene, Camphor, Citral, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Eucalyptus Globulus Oil, Geraniol, Geranyl Acetate, Hexamethylindanopyran, Hydroxycitronellal, Lavandula Oil/Extract, Limonene, Linalool, Linalyl Acetate, Menthol, Pinene, Terpineol, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha DermaCare hidratante con extracto de almendra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061252"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Prunus Amygdalus Dulcis Seed Extract, Sorbitol, Glycerin, Sodium PCA, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Hydrogenated Palm Glycerides Citrate, Polyquaternium-7, Tocopherol, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Lactate, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Sodium Benzoate, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Limonene, Linalyl Acetate"
+    },
+    {
+     "nombre": "Gel de ducha DermaCare nutritivo con miel y manteca de karité",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061276"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Butyrospermum Parkii Butter Extract, Honey, Sorbitol, Glycerin, Sodium PCA, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Hydrogenated Palm Glycerides Citrate, Polyquaternium-7, Tocopherol, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Lactate, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Sodium Benzoate, Amyl Cinnamal, Benzyl Salicylate, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, CI 15510, CI 19140"
+    },
+    {
+     "nombre": "Gel de ducha Good Feelings Romantic Garden",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970064666"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Dendrobium Nobile Extract, Polianthes Tuberosa Flower Extract, Sorbitol, Glycerin, Sodium PCA, Polyquaternium-7, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Tocopherol, Cocamide MEA, Laureth-10, Benzotriazolyl Dodecyl p-Cresol, Alcohol, Tris(Tetramethylhydroxypiperidinol) Citrate, Hydrogenated Palm Glycerides Citrate, Tetrasodium Glutamate Diacetate, Sodium Lactate, Lactic Acid, Citric Acid, Formic Acid, Phenoxyethanol, Sodium Benzoate, Amyl Salicylate, Coumarin, Hexyl Cinnamal, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, CI 14720, CI 15510, CI 42051"
+    },
+    {
+     "nombre": "Gel de ducha Good Feelings Sweet Crush (vainilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970064673"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Vanilla Planifolia Fruit Extract, Sorbitol, Glycerin, Sodium PCA, Polyquaternium-7, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Tocopherol, Cocamide MEA, Laureth-10, Benzotriazolyl Dodecyl p-Cresol, Alcohol, Tris(Tetramethylhydroxypiperidinol) Citrate, Hydrogenated Palm Glycerides Citrate, Tetrasodium Glutamate Diacetate, Sodium Lactate, Lactic Acid, Citric Acid, Formic Acid, Ethylhexylglycerin, Phenoxyethanol, Sodium Benzoate, Coumarin, Hexamethylindanopyran, Vanillin, CI 15510, CI 19140"
+    },
+    {
+     "nombre": "Gel de ducha Good Feelings Tropical Desire (papaya y lichi)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970064680"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Carica Papaya Fruit Extract, Litchi Chinensis Fruit Extract, Sorbitol, Glycerin, Sodium PCA, Polyquaternium-7, Tocopherol, Glyceryl Oleate, Coco-Glucoside, Glycol Distearate, Cocamide MEA, Laureth-10, Benzotriazolyl Dodecyl p-Cresol, Alcohol, Tris(Tetramethylhydroxypiperidinol) Citrate, Hydrogenated Palm Glycerides Citrate, Tetrasodium Glutamate Diacetate, Sodium Lactate, Lactic Acid, Citric Acid, Formic Acid, Phenoxyethanol, Sodium Benzoate, Dimethyl Phenethyl Acetate, CI 14720, CI 15510"
+    },
+    {
+     "nombre": "Gel de ducha Sensations Amazonia castaña de Brasil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061344"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sorbitol, Glycerin, Sodium PCA, Bertholletia Excelsa Seed Extract, Coco-Glucoside, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Polyquaternium-7, Tocopherol, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Lactate, Methylchloroisothiazolinone, Methylisothiazolinone, Phenoxyethanol, Sodium Benzoate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Limonene, Tetramethyl Acetyloctahydronaphthalenes, CI 14720, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha Sensations Argán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061306"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Argania Spinosa Extract, Sorbitol, Glycerin, Sodium PCA, Coco-Glucoside, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Polyquaternium-7, Tocopherol, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Lactate, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Sodium Benzoate, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, CI 19140, CI 15510"
+    },
+    {
+     "nombre": "Gel de ducha Sensations Coco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061313"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Cocos Nucifera Fruit Extract, Sorbitol, Glycerin, Sodium PCA, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Hydrogenated Palm Glycerides Citrate, Polyquaternium-7, Tocopherol, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Lactic Acid, Sodium Lactate, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Sodium Benzoate, Benzyl Alcohol, Benzyl Salicylate, Coumarin"
+    },
+    {
+     "nombre": "Gel de ducha Sensations Monoi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061375"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Coconut Oil Glycereth-8 Esters, Gardenia Tahitensis Flower Extract, Sorbitol, Glycerin, Sodium PCA, Tocopherol, Polyquaternium-7, Coco-Glucoside, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Magnesium Nitrate, Magnesium Chloride, Tetrasodium Glutamate Diacetate, Sodium Lactate, Lactic Acid, Citric Acid, Phenoxyethanol, Sodium Benzoate, Methylisothiazolinone, Methylchloroisothiazolinone, CI 15510, CI 19140"
+    },
+    {
+     "nombre": "Loción corporal Cuidado Total nutritivo intenso con miel y manteca de karité",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061436"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Myristyl Myristate, Isopropyl Palmitate, Oleyl Erucate, Prunus Amygdalus Dulcis Oil, Sorbitol, Parfum, Honey, Macadamia Integrifolia Seed Oil, Olea Europaea Fruit Oil, Butyrospermum Parkii Butter, Tocopheryl Acetate, Dimethicone, Sorbitan Stearate, Steareth-21, Pentylene Glycol, Carbomer, Tetrasodium Glutamate Diacetate, Triethanolamine, Ethylhexylglycerin, Phenoxyethanol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Eugenol, Geraniol, Geranyl Acetate, Hexyl Cinnamal, Hydroxycitronellal, Isoeugenol, Limonene, Linalool, Linalyl Acetate, Terpineol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Loción corporal Skin Expert Colágeno",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061382"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Isopropyl Palmitate, Glycerin, Cetearyl Isononanoate, Oleyl Erucate, Sorbitol, Pentylene Glycol, Steareth-21, Parfum, Dimethicone, Sodium Hyaluronate, Prunus Amygdalus Dulcis Oil, Collagen Amino Acids, Trehalose, Sorbitan Stearate, Carbomer, Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Fructose, Citric Acid, Urea, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Allantoin, Glucose, Sodium Hydroxide, Triethanolamine, Ethylhexylglycerin, Phenoxyethanol, Hexadecanolactone, Rose Ketones, Geranyl Acetate, Citrus Limon Peel Oil, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Limonene, Citrus Aurantium Peel Oil, Linalyl Acetate"
+    },
+    {
+     "nombre": "Loción corporal Skin Expert Hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8008970061399"
+     ],
+     "inci": "Aqua, Ethylhexyl Palmitate, Cetearyl Alcohol, Glyceryl Stearate, Betaine, Glycerin, Isopropyl Myristate, Hydrogenated Polydecene, Glyceryl Stearate Citrate, Sorbitol, Myristyl Myristate, Diethylhexyl Carbonate, Parfum, Prunus Amygdalus Dulcis Oil, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Propanediol, Dimethicone, Pentylene Glycol, Dicaprylyl Ether, Carbomer, Sodium PCA, Tetrasodium Glutamate Diacetate, Dimethicone/Vinyl Dimethicone Crosspolymer, Tocopheryl Acetate, Triethanolamine, Citric Acid, Ethylhexylglycerin, Phenoxyethanol, Linalyl Acetate, Hexadecanolactone, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Linalool, Geraniol, Cinnamyl Alcohol, Vanillin"
     }
    ]
   }

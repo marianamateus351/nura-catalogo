@@ -870,6 +870,44 @@ nuevos; regresión: 0 cambios en las 7304 fichas anteriores. Scripts en el scrat
      - Crema del pañal, champú de camomila y bastoncillos: no están en la web británica.
      - Fichas españolas sin número de fórmula.
 
+### 2026-10-04 · Decisión de Mariana: la foto trasera del súper de El Corte Inglés vale como fuente
+**"En la foto trasera, si logramos leer los ingredientes, es una fuente correcta para sacar los ingredientes de ese
+mismo envase."** Cómo se aplica:
+- **Qué se usa.** Cada ficha de `elcorteingles.es/supermercado/` da el código de barras (`/supermarketStore/<EAN>`) y
+  las fotos del envase en `cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA0x/…____N__1200x1200.jpg`; muchas de 2400 px. Se
+  abre la foto de la **parte de atrás** y se transcribe la lista.
+- **Condiciones:**
+  - **El código impreso en la foto manda.** Si coincide con el de la ficha, la lista va a ese código. Si no
+    coincide, por ser un envase nuevo o de promoción, la lista va al código **de la foto**, que es el del envase
+    fotografiado, y no al de la ficha.
+  - **Se lee entero y sin dudas.** Si un nombre no se lee, o la lista da la vuelta al envase y la foto la corta
+    (roll-on, botellas redondas), fuera.
+  - Se respeta la lista tal cual: duplicados incluidos, "Aqua (Water)" pasa a "Aqua" y "Parfum (Fragrance)" a "Parfum".
+- **Hogar no:** la etiqueta de un detergente no lleva la lista completa (648/2004). Para Hogar la web solo sirve como
+  fuente de códigos, cruzados con el portal del fabricante (decisión R).
+- **Barrido (2026-10-04):** 3395 productos en perfumería, higiene, bebé y droguería, todos con código.
+  - 486 ya estaban en Nura.
+  - 1346 son cosmética o higiene que falta: 804 de 163 marcas nuevas y 542 de 59 marcas que ya teníamos.
+  - 706 son de Hogar.
+  - 857 no llevan lista: comida infantil, pañales y utensilios.
+  - Inventario producto a producto: `ECI_lo_que_no_tenemos.csv` en el scratchpad (`hg/eci/`). Scripts: `crawl.py`,
+    `compare.py`, `clasifica.py`, `fotos.py`.
+- **Prueba (versiones 2026-10-04l y m):**
+  - **Instituto Español: 5 de 24.** 16 fichas solo tienen la foto delantera; los dos roll-on tienen la lista
+    cortada por la curva; el Cremoso de 950 ml tiene la letra ilegible. Entran gel, champú y crema Pieles Atópicas,
+    y las cremas de manos Manos Perfectas pantenol y antimanchas SPF 20. Es la primera vez que la marca tiene
+    productos: su web sigue tras Cloudflare.
+  - **Natural Honey: 13 de 16, marca nueva.** Hoy la distribuye Brandcare/Sodalis, ya no Instituto Español. Dos
+    van al código de la foto:
+    - Gel Amazonia: la ficha da 8411126047367, un código antiguo; la foto, 8008970061344.
+    - Loción Nutritiva Intensa: la ficha da 8008970062600; la foto es el envase de promoción 330 + 70 ml,
+      8008970061436.
+
+    Fuera, por tener solo la foto delantera: AdvancedCare Elixir, aceite Oil&Go y desodorante.
+  - Revisión FP/FN: sin falsos positivos. "Tris(tetramethylhydroxypiperidinol) citrate" sale en la lista de
+    vigilancia por "tris(", pero es un estabilizante de luz y no un organofosforado: no es falso negativo.
+    Regresión: 0 cambios en las 7359 fichas anteriores.
+
 ### 2026-10-04 · Decisión R: códigos de supermercado para Hogar (portales reabiertos)
 **De dónde salen los EAN.** Solo de tiendas que los publican sin saltarse nada: **Consum** (API pública
 `tienda.consum.es/api/rest/V1.0/catalog/product?q=`, con EAN, nombre y fotos del envase) y **Mercadona** (API de la tienda,
@@ -3670,13 +3708,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10718 códigos en 119 marcas: NYX 999 · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10736 códigos en 120 marcas: NYX 999 · **Natural Honey 13** · **Instituto Español 5** · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 18** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7359 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7377 productos está sin INCI (las compresas y tampones llevan la composición del fabricante).
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
