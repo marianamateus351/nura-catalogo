@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci08",
+ "version": "2026-10-04-eci10",
  "marcas": [
   {
    "key": "larocheposay",
@@ -41347,6 +41347,24 @@
       "8001841811765"
      ],
      "inci": "Glycerin, Hydrated Silica, Sodium Hexametaphosphate, Aqua, Sodium Gluconate, Aroma, Sodium Lauryl Sulfate, Trisodium Phosphate, Stannous Fluoride, Carrageenan, Sodium Saccharin, PVP, Stannous Chloride, Xanthan Gum, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Chloride, Sodium Hydroxide, CI 74160, Sodium Benzoate, Methyl Salicylate, Menthol, Mentha Viridis Leaf Oil, Eugenol, Eugenia Caryophyllus Oil, Cinnamal, Carvone, Anethole"
+    },
+    {
+     "nombre": "Pasta de dientes Pro-Expert Sensibilidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841812007"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Sodium Lauryl Sulfate, Sodium Gluconate, Carrageenan, Aroma, Sodium Citrate, Xanthan Gum, Zinc Citrate, Stannous Fluoride, Sodium Hydroxide, Stannous Chloride, Sodium Saccharin, Sodium Fluoride, Sucralose, Glycerin, Citric Acid, CI 42090, Sodium Benzoate, Potassium Sorbate, Menthol, Limonene, Anethole"
+    },
+    {
+     "nombre": "Pasta de dientes Advanced Prevención del Sarro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216675321"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Sodium Hexametaphosphate, Propylene Glycol, PEG-6, Aqua, Zinc Lactate, Trisodium Phosphate, Sodium Lauryl Sulfate, Aroma, Sodium Gluconate, Stannous Fluoride, Sodium Saccharin, Xanthan Gum, PVP, Carrageenan, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Chloride, Sodium Hydroxide, Sodium Benzoate, CI 42090, Menthol, Anethole"
     }
    ]
   },
@@ -71375,6 +71393,33 @@
       "8710447438497"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, Citric Acid, Lactic Acid, Disodium EDTA, PPG-6, Saccharide Isomerate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Desodorante bodyspray Marshmallow Smoke edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181808128"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Zinc Neodecanoate, Parfum, Isopropyl Myristate, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Coumarin, Dimethyl Phenethyl Acetate, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate, Pinene, Pogostemon Cablin Oil, Tetramethyl Acetyloctahydronaphthalenes, Vanillin"
+    },
+    {
+     "nombre": "Desodorante en stick Marshmallow Smoke edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59006343"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, C12-15 Alkyl Benzoate, Parfum, Disodium EDTA, BHT, Simethicone, Acetyl Cedrene, Benzyl Alcohol, Benzyl Salicylate, Camphor, Citronellol, Citrus Limon Peel Oil, Coumarin, Lavandula Oil/Extract, Limonene, Linalool, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, CI 42053"
+    },
+    {
+     "nombre": "Desodorante en stick Black Vanilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "59004660"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, C12-15 Alkyl Benzoate, Parfum, Disodium EDTA, BHT, Simethicone, Alpha-Isomethyl Ionone, Beta-Caryophyllene, Camphor, Citral, Citronellol, Citrus Aurantium Peel Oil, Coumarin, Eugenol, Geraniol, Geranyl Acetate, Lavandula Oil/Extract, Limonene, Linalool, Linalyl Acetate, Mentha Piperita Oil, Menthol, Pinene, Pogostemon Cablin Oil, Rose Ketone, Terpineol, Terpinolene, Tetramethyl Acetyloctahydronaphthalenes, CI 42053"
     }
    ]
   },
@@ -72973,6 +73018,67 @@
       "8410874003120"
      ],
      "inci": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Parfum, Sodium Chloride, Trisodium HEDTA, Linalyl Acetate, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Limonene, BHT, Geraniol, Olea Europaea (Olive) Leaf Extract, Potassium Sorbate, Sodium Benzoate"
+    }
+   ]
+  },
+  {
+   "key": "moussel",
+   "nombre": "Moussel",
+   "productos": [
+    {
+     "nombre": "Gel de ducha Classique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174508",
+      "8425190174416"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Lactic Acid, Citric Acid, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Lavandula Oil/Extract, Citronellol, Limonene, Geraniol, Pogostemon Cablin Oil, Camphor, Terpineol, Eucalyptus Globulus Oil, Alpha-Isomethyl Ionone, CI 15985, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Gel de ducha Classique formato familiar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174478"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Lactic Acid, Citric Acid, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Lavandula Oil/Extract, Citronellol, Limonene, Geraniol, Pogostemon Cablin Oil, Camphor, Terpineol, Eucalyptus Globulus Oil, Alpha-Isomethyl Ionone, CI 15985, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Jabón de manos Classique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174447"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Sodium Benzoate, Lactic Acid, Citric Acid, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Lavandula Oil/Extract, Citronellol, Limonene, Geraniol, Pogostemon Cablin Oil, Camphor, Terpineol, Eucalyptus Globulus Oil, Alpha-Isomethyl Ionone, CI 15985, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Gel de ducha Douche Crème dermo hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174515"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Diglycerin, Parfum, Sodium PCA, Citric Acid, Lactic Acid, Sodium Benzoate, Glycol Distearate, Laureth-4, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Lavandula Oil/Extract, Citronellol, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Gel de ducha relajante Lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174546"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, Citric Acid, Tetrasodium EDTA, Geraniol, Terpineol, Linalool, Eucalyptus Globulus Oil, Hexyl Cinnamal, Camphor, CI 17200, CI 42090"
+    },
+    {
+     "nombre": "Gel de ducha purificante Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8425190174522"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Citric Acid, Aloe Barbadensis Leaf Juice, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Amyl Salicylate, CI 42090, CI 47005"
     }
    ]
   }
