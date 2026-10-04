@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci01",
+ "version": "2026-10-04-eci03",
  "marcas": [
   {
    "key": "larocheposay",
@@ -24266,6 +24266,105 @@
       "8700216266451"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Dimethiconol, Menthol, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Tetrasodium EDTA, Sodium Hydroxide, Trideceth-10, Glycerin, Hexyl Cinnamal, Linalool, Niacinamide, Panthenol, Tocopheryl Acetate, Acetic Acid, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Champú anticaspa Classic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540750667"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Glycol Distearate, Sodium Citrate, Parfum, Piroctone Olamine, Sodium Benzoate, Dimethiconol, Citric Acid, Sodium Salicylate, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Hexyl Cinnamal, Linalool, Tetrasodium EDTA, Sodium Hydroxide, TEA-Dodecylbenzenesulfonate, Trideceth-10, Niacinamide, Panthenol, Tocopheryl Acetate, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Champú anticaspa Citrus Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540750704"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Glycol Distearate, Sodium Citrate, Parfum, Piroctone Olamine, Dimethiconol, Citric Acid, Menthol, Sodium Salicylate, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Tetrasodium EDTA, Sodium Hydroxide, TEA-Dodecylbenzenesulfonate, Trideceth-10, Niacinamide, Hexyl Cinnamal, Limonene, Benzyl Salicylate, Propylene Glycol, Panthenol, Tocopheryl Acetate, Citrus Limon Fruit Extract, CI 19140, Benzyl Alcohol, Triethylene Glycol, CI 42090"
+    },
+    {
+     "nombre": "Champú anticaspa Nutre & Cuida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530215534"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Dimethiconol, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Limonene, Trideceth-10, Sodium Hydroxide, Hexamethylindanopyran, Citrus Aurantium Peel Oil, Linalool, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Hydroxycitronellal, Linalyl Acetate, Acetic Acid, Benzyl Alcohol, Glycerin, Propylene Glycol, Triethylene Glycol, Avena Sativa Kernel Extract"
+    },
+    {
+     "nombre": "Champú anticaspa Apple Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530215589"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Dimethiconol, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Sodium Hydroxide, Trideceth-10, Hexamethylindanopyran, Hexyl Cinnamal, Acetic Acid, Glycerin, CI 19140, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol, CI 42090, Avena Sativa Kernel Extract"
+    },
+    {
+     "nombre": "Champú anticaspa Prevención Caída con cafeína",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540748701"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Glycol Distearate, Caffeine, Sodium Citrate, Parfum, Piroctone Olamine, Dimethiconol, Citric Acid, Sodium Salicylate, Sodium Benzoate, Menthol, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Tetrasodium EDTA, Sodium Hydroxide, TEA-Dodecylbenzenesulfonate, Limonene, Trideceth-10, Niacinamide, Linalool, Panthenol, Tocopheryl Acetate, CI 19140, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090"
+    },
+    {
+     "nombre": "Champú anticaspa y acondicionador 2 en 1 Classic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216265492"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Dimethiconol, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Hexyl Cinnamal, Linalool, Tetrasodium EDTA, Trideceth-10, Sodium Hydroxide, Glycerin, Niacinamide, Panthenol, Tocopheryl Acetate, Acetic Acid, Benzyl Alcohol, Triethylene Glycol, Propylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Champú anticaspa Limpieza Profunda Frescor Intenso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540671351"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamide MEA, Cocamidopropyl Betaine, Sodium Chloride, Sodium Citrate, Parfum, Piroctone Olamine, Citric Acid, Glycerin, Sodium Salicylate, Sodium Benzoate, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Hexyl Cinnamal, Linalool, Limonene, Propylene Glycol, Maris Sal, Melissa Officinalis Leaf Extract, CI 42090, CI 17200, CI 19140"
+    },
+    {
+     "nombre": "Champú y acondicionador anticaspa 2 en 1 Menthol Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216653763"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Dimethiconol, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Menthol, Sodium Chloride, Parfum, Dimethicone, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Sodium Salicylate, Tetrasodium EDTA, Trideceth-10, Hexyl Cinnamal, Sodium Hydroxide, Linalool, Hexamethylindanopyran, Linalyl Acetate, Histidine, Acetic Acid, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Champú y acondicionador anticaspa 2 en 1 Citrus Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216653893"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Dimethiconol, Guar Hydroxypropyltrimonium Chloride, Menthol, Dimethicone, Sodium Benzoate, Limonene, Parfum, Sodium Salicylate, TEA-Dodecylbenzenesulfonate, Tetrasodium EDTA, Linalool, Sodium Hydroxide, Citrus Aurantium Peel Oil, Trideceth-10, Citrus Limon Peel Oil, Citronellol, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Pinene, Histidine, Acetic Acid, CI 19140, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol, CI 42090"
+    },
+    {
+     "nombre": "Champú anticaspa 2 en 1 Suave & Sedoso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530057561"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Dimethiconol, Sodium Citrate, Dimethicone, Citric Acid, Parfum, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, TEA-Dodecylbenzenesulfonate, Sodium Benzoate, Trideceth-10, Sodium Salicylate, Tetrasodium EDTA, Hexamethylindanopyran, Hexyl Cinnamal, Sodium Hydroxide, Limonene, Terpineol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Citronellol, Linalool, Histidine, Benzyl Alcohol, Propylene Glycol, Triethylene Glycol"
+    },
+    {
+     "nombre": "Champú anticaspa Men Ultra Anticaída con cafeína",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530486231"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Sodium Citrate, Citric Acid, Cocamide MEA, Glycol Distearate, Piroctone Olamine, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Dimethiconol, Parfum, Menthol, Sodium Benzoate, Dimethicone, Sodium Salicylate, Caffeine, TEA-Dodecylbenzenesulfonate, Sodium Hydroxide, Limonene, Citrus Aurantium Peel Oil, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-10, Hexamethylindanopyran, Acetic Acid, Benzyl Alcohol, Glycerin, CI 19140, Propylene Glycol, Triethylene Glycol, Avena Sativa Kernel Extract, CI 42090"
     }
    ]
   },
@@ -71678,6 +71777,21 @@
       "8006530159654"
      ],
      "inci": "Aqua, Octocrylene, Homosalate, Dimethicone, Ethylhexyl Salicylate, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Glycerin, Lauroyl Lysine, Trehalose, Niacinamide, 3-O-Ethyl Ascorbic Acid, Panthenol, Caprylyl Glycol, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Tin Oxide, 1, 2-Hexanediol, Silica, Phenoxyethanol, Sodium Benzoate, Limonene, Parfum, Linalool, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Citronellol, Hexamethylindanopyran, Menthol, Tetramethyl Acetyloctahydronaphthalenes, Pinene, CI 77891, Mica"
+    }
+   ]
+  },
+  {
+   "key": "listerine",
+   "nombre": "Listerine",
+   "productos": [
+    {
+     "nombre": "Enjuague bucal infantil Kids frutos rojos sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574660571783"
+     ],
+     "inci": "Aqua, Sorbitol, Aroma, Sucralose, Phosphoric Acid, Cetylpyridinium Chloride, Sodium Fluoride, Menthol, Disodium Phosphate, Benzyl Alcohol, CI 16035, CI 42053"
     }
    ]
   }
