@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04d",
+ "version": "2026-10-04f",
  "marcas": [
   {
    "key": "larocheposay",
@@ -11593,7 +11593,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8006540421499"
+      "8006540421499",
+      "8700216609708"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Triethanolamine, Sodium Cumenesulfonate, Alcohols C9-11-branched and linear ethoxylated (EO=8-9), PPG-17, Sodium Citrate, Parfum, Citric Acid, Alcohol, PEI/PEG/PPG Copolymer, Phenoxyethanol, Propylene Glycol, Linalool, Benzyl Salicylate, Magnesium Sulfate, Benzyl Benzoate, Hexyl Cinnamal, Citronellol, Sodium Sulfate, Dipropylene Glycol, Limonene, Methyl Alcohol, Sodium Chloride, Colorante, Benzisothiazolinone, Colorante, Sodium Hydroxide"
     },
@@ -11616,7 +11617,8 @@
       "5410076752409",
       "4015600444877",
       "4015400917304",
-      "4015400591337"
+      "4015400591337",
+      "4084500183087"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, PPG-17, Sodium Chloride, PEI/PEG/PPG Copolymer, Parfum, Sodium Hydroxide, Phenoxyethanol, Alcohol, Linalool, Propylene Glycol, Magnesium Sulfate, Hexyl Cinnamal, Geraniol, Dipropylene Glycol, Methyl Alcohol, Benzisothiazolinone, Colorante, Methylisothiazolinone, Colorante"
     },
@@ -11625,7 +11627,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8700216601146"
+      "8700216601146",
+      "8006540614259"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Cumenesulfonate, Alcohol, PPG-17, Sodium Citrate, PEI/PEG/PPG Copolymer, Parfum, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Phenoxyethanol, Propylene Glycol, 4-Methylcyclohexane-1 3-diamine, Hexyl Cinnamal, Linalool, Magnesium Sulfate, 2-Methylcyclohexane-1 3-diamine, Dipropylene Glycol, Sodium Sulfate, Sodium Chloride, Benzisothiazolinone, Colorante, Colorante"
     },
@@ -11638,6 +11641,15 @@
       "8001841105932"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Cumenesulfonate, Alcohol, PPG-17, Sodium Citrate, Parfum, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, PEI/PEG/PPG Copolymer, Phenoxyethanol, 4-Methylcyclohexane-1 3-diamine, Hexyl Cinnamal, Linalool, Magnesium Sulfate, 2-Methylcyclohexane-1 3-diamine, Dipropylene Glycol, Sodium Sulfate, Sodium Chloride, Benzisothiazolinone, Colorante, Colorante"
+    },
+    {
+     "nombre": "Poder 3 en 1 spray Fresh (lavavajillas a mano y cocina)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216590860"
+     ],
+     "inci": "Aqua, UNDECETH-10, Lauramine Oxide, Propylene Glycol Butyl Ether, Dodecylbenzene Sulfonic Acid, Ethanolamine, Parfum, Sodium Hydroxide, Sodium Carbonate, Polyethylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Sulfuric Acid"
     }
    ]
   },
@@ -69705,6 +69717,111 @@
       "3141360050001"
      ],
      "inci": "Aqua, Citric Acid, 2-Propenoic acid telomere with sodium sulphite sodium salt, Sodium Hydroxide, Xanthan Gum, Sodium Benzoate, Parfum, Colorante"
+    }
+   ]
+  },
+  {
+   "key": "ariel",
+   "nombre": "Ariel",
+   "productos": [
+    {
+     "nombre": "Detergente líquido Ariel Total",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530095969"
+     ],
+     "inci": "Aqua, Sodium C10-13 Alkyl Benzenesulfonate, C15 Pareth-n, Sodium Citrate, Sodium Palm Kernelate, Sodium Laureth Sulfate, MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Sodium Cumenesulfonate, Pei Ethoxylate, Parfum, Co-polymer of PEG / Vinyl Acetate, C12-14 Pareth-n, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Sodium Diethylenetriamine Pentamethylene Phosphonate, Hydrogenated Castor Oil, Anionic modified polyester, Sodium Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Disodium Distyrylbiphenyl Disulfonate, Isopropyl Myristate, Glycerin, Sorbitol, Tetramethyl Acetyloctahydronaphthalenes, Protease, Sodium Formate, Limonene, Dipropylene Glycol, C12-16 Pareth-n, Citrus Aurantium Dulcis Oil, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Polyethylene glycol, Tripropylene Glycol, Ethanol 2-Amino Sulfate, Linalyl Acetate, Palm Kernel Fatty Acid, Benzisothiazolinone, Colorante, Calcium Chloride, Ethanolamine, Sodium Hydroxide, BHT, 4-(1-methyl-1-phenylethyl)-N-[4-(1-methyl-1-phenylethyl)phenyl]aniline, Amylase, Sodium Chloride, Phosphodiesterase, Polyacrylate Crosspolymer-9, Cellulase, Polyvinyl alcohol, Mannanase, Dimethicone, Dmso, Colorante, Diethylene Glycol, Xanthan gum, Hydroxyethylcellulose, Treated Amorphous Silica, Glycol, Steareth-2, Caprylyl Glycol, PEG-30 Stearate"
+    },
+    {
+     "nombre": "Detergente en cápsulas Ariel Poderoso para colores y blancos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530453721"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, Mea-Laureth Sulfate, C12-14 Pareth-n, Glycerin, Parfum, MEA-Palm Kernelate, Dimonoethanolamine Etidronate, Co-polymer of PEG / Vinyl Acetate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Sorbitol, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Anionic modified polyester, C12-16 Pareth-n, Palm Kernel Fatty Acid, Magnesium Chloride, Potassium Sulfite, Isopropyl Myristate, Phenylpropyl Ethyl Methicone, Tetramethyl Acetyloctahydronaphthalenes, Ethanolamine, Protease, Hydrogenated Castor Oil, Sodium Formate, Geraniol, Tripropylene Glycol, Polyethylene Glycol, Amyl Salicylate, Delta-Damascone, Ethoxylated m-toluidine, Citronellol, Phosphodiesterase, Amylase, Disodium Distyrylbiphenyl Disulfonate, Simethicone, Cellulase, Lipase, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, Mannanase, Polyvinyl alcohol, Ethylhexyl Stearate, Caprylyl Glycol, Colorante, Colorante, Xanthan gum, Calcium Chloride, PEG-N Methyl Ether, Sodium Chloride, Dipropylene Glycol, Colorante, Sodium C10-13 Alkyl Benzenesulfonate, Colorante, Sodium Hydroxide, Potassium Citrate monobasic, Potassium Hydroxide"
+    },
+    {
+     "nombre": "Detergente en cápsulas Ariel Todo en 1 Pods Frescor Floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530286442"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, MEA-Palm Kernelate, Aqua, Mea-Laureth Sulfate, Glycerin, C12-14 Pareth-n, Parfum, Dimonoethanolamine Etidronate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Palm Kernel Fatty Acid, PPG-6, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, Polyquaternium-10, Tetramethyl Acetyloctahydronaphthalenes, Disodium Distyrylbiphenyl Disulfonate, C12-16 Pareth-n, Anionic modified polyester, Phenylpropyl Ethyl Methicone, Isopropyl Myristate, Linalool, Magnesium Chloride, Potassium Sulfite, Hydrogenated Castor Oil, Protease, Sodium Formate, Alpha-Isomethyl Ionone, Sorbitol, Eucalyptus Globulus Leaf Extract, Terpineol, Ethanolamine, Citronellol, Polyethylene Glycol, Coumarin, Sodium Chloride, Ethoxylated m-toluidine, Limonene, Delta-Damascone, PEG Copolymer, Simethicone, Amylase, Hydroxycitronellal, Camphor, Isoeugenyl Acetate, Buciffol, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, PEG-N Methyl Ether, Polyvinyl alcohol, Ethylhexyl Stearate, Sodium Acetate, Colorante, Mannanase, Colorante, Xanthan gum, Colorante, Calcium Chloride, Dipropylene Glycol, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Hydroxide, Potassium Citrate monobasic"
+    }
+   ]
+  },
+  {
+   "key": "donlimpio",
+   "nombre": "Don Limpio",
+   "productos": [
+    {
+     "nombre": "Limpiador de baños Don Limpio Baño",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090501165"
+     ],
+     "inci": "Aqua, Formic Acid, Deceth-n, Sodium Lauryl Sulfate, Sodium Formate, Monosodium Citrate, Xanthan Gum, Sodium Citrate, Parfum, Citric Acid, Hexyl Cinnamal, Alcohols C10-16, Citrate, Sodium Sulfate"
+    }
+   ]
+  },
+  {
+   "key": "skip",
+   "nombre": "Skip",
+   "productos": [
+    {
+     "nombre": "Detergente líquido Skip Ultimate Máxima Eficacia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181438226"
+     ],
+     "inci": "Aqua, Laureth-7, Linear Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Fatty acids C14-18 and C16-18-unsatd. sodium salts, Parfum, Disodium Distyrylbiphenyl Disulfonate, Glycerin, Propylene Glycol, Sorbitol, Butoxydiglycol, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Subtilisin, Peptides salts sugars from fermentation (process), Lipase, Methylisothiazolinone, Octylisothiazolinone, Amylase, Toluene, Disubstituted Alaninamide, Ci 50325, Sodium Sulfate, Polymeric Blue Colourant, Mannanase, Cellulose Gum"
+    },
+    {
+     "nombre": "Detergente en cápsulas Skip Todo en 1 Limpieza Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181563898"
+     ],
+     "inci": "Glycerin, MEA-C10-13 Alkyl Benzenesulfonate, C12-18 Pareth-7, Sodium Laureth Sulfate, MEA-Cocoate, Propylene Glycol, Aqua, Parfum, Polypropylene Terephthalate/Polyoxyethylene terephthalate, Propanediol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Aminoethyl Sulfate, Linear Alkyl Benzene, Disodium Distyrylbiphenyl Disulfonate, Ethanolamine, Potassium Sulfite, Subtilisin, Citronellol, Citrus Aurantium Peel Oil, Limonene, Styrene/Acrylates Copolymer, Geraniol, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Polymeric Violet Colourant, Terpineol, Hydroxycitronellal, Sorbitol, Calcium Chloride, Polymeric Blue Colourant, Amylase, Sodium Lauryl Sulfate, Peptides salts sugars from fermentation (process), Polymeric Red Colourant, Mannanase"
+    }
+   ]
+  },
+  {
+   "key": "mimosin",
+   "nombre": "Mimosín",
+   "productos": [
+    {
+     "nombre": "Suavizante concentrado Mimosín Origins Bergamota Salvaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181478550"
+     ],
+     "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Lactic Acid, Sodium Benzoate, Linalool, Quaternised hydrolyzed wheat protein/silicone copolymer, Amyl Salicylate, Coumarin, Hydrochloric Acid, Citronellol, Alpha-Isomethyl Ionone, Alcohol Denat., Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
+    },
+    {
+     "nombre": "Suavizante concentrado Mimosín Fresh Frescor Floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181707087"
+     ],
+     "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Sodium Benzoate, Hexyl Cinnamal, Limonene, Benzyl Salicylate, Hydrochloric Acid, Methoxypolyoxymethylene Melamine, Imidazolidinone, Dimethicone, Etidronic Acid, Acrylamide/Sodium Acrylate Copolymer, Acrylates Copolymer, Polymeric Yellow Colourant, Calcium Chloride, Sodium Acetate, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica, Polymeric Pink Colourant"
+    },
+    {
+     "nombre": "Suavizante concentrado Mimosín Fresh Azul Vital",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8720181707063"
+     ],
+     "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Formic Acid, Linalool, Amyl Salicylate, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
     }
    ]
   }

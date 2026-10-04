@@ -844,6 +844,25 @@ dos o el envase no dice cuál es, fuera. Nombre de la tienda nunca basta solo (C
     rosa (dos cada uno); Cillit Bang Cal y Suciedad y Quitagrasas "nueva fórmula". Fuera por envase ambiguo: Finish
     Ultimate 44, Quantum 40 y 60 y Ultimate Plus 30 (el envase lleva "Fresh" y hay fichas con y sin Fresh). Fuera por ficha
     vacía: Air Wick "nube perfumada" (Explosión Cítrica y Lavanda) y Finish Abrillantador Essential (Mercadona).
+- **P&G (versión 2026-10-04e): +8 códigos; marcas nuevas Ariel y Don Limpio.** P&G guarda varias generaciones de ficha con
+  el mismo nombre y listas distintas, así que entra poco. Entran: Ariel Líquido Total (el envase dice "fórmula mejorada";
+  una sola ficha "Total" de líquido; el mismo EAN en Consum y Mercadona), Ariel Poderoso para colores y blancos, Ariel Todo
+  en 1 Pods Frescor Floral (Mercadona); Fairy Ultra Poder Más Rápido, Maxi Poder y Ultra Original (Mercadona, envase "dura
+  más") a sus entradas de septiembre, y Fairy Poder 3 en 1 spray Fresh (nueva); Don Limpio Baño líquido. Fuera por varias
+  listas: Ariel Líquido Original, Pods Original y Pods Total, Polvo Original; Fairy pastillas Platinum Plus, Original All in
+  One, Todo en Uno Fresh Naranja; Don Limpio Baño en pistola. Fuera por envase sin ficha o ambiguo: Ariel Platinum (líquido
+  y cápsulas), Fairy Ultra+ Naranja y Poder 3 en 1 de Mercadona (otro EAN que el Fresh y sin variante en el envase), Don
+  Limpio Suelos (el envase no dice el aroma).
+- **Unilever (versión 2026-10-04f): +5 códigos; marcas nuevas Skip y Mimosín.** Solo fichas vigentes (sin fecha). Entran:
+  Skip Líquido Ultimate Máxima Eficacia (la ficha "Ultimate KH7" tiene la misma lista), Skip Cápsulas Todo en 1 Limpieza
+  Profunda; Mimosín Origins Bergamota Salvaje, Fresh Frescor Floral y **Fresh Azul Vital** (el 3 de octubre quedó fuera
+  porque había dos fichas "Azul Vital": la otra es la fechada, ya caducada, y el envase de Consum dice "Fresh"). Fuera: Skip
+  Líquido Limpieza Profunda (no hay ficha vigente de líquido con ese nombre), Skip Ciclos Cortos (la ficha es "Ropa
+  Blanca" y el envase no lo dice), Mimosín Caricias y Origins Rosas Silvestres (dos o tres listas), Domestos Gel Original
+  (su ficha "Higiene Total Original" caducó en julio de 2026).
+- **Lo que no se ha podido**: Lenor, Ambi Pur, Febreze, Woolite, Harpic, Mistol, Puntomatic y SC Johnson siguen sin ningún
+  código: Consum y Mercadona no los venden o no tienen ficha que case, y las tiendas que sí los venden (Carrefour, Eroski)
+  bloquean el acceso automático.
 - **Persán (versión 2026-10-04c)**: el portal busca por EAN, así que los de Consum se confirman solos. Flota Esencia 42
   lavados (`8410046661530`, misma ficha y lista que el de `…661486`) y **Flota en polvo para lavado a mano**
   (`8410046611528`, nueva). Fuera: Puntomatic Pastillas `8410046500457` (el portal da dos fichas con listas distintas).
@@ -3579,13 +3598,13 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   marcas de AC Marca.
 
 ## Estado (2026-09-25)
-10642 códigos en 110 marcas: NYX 999 · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+10655 códigos en 114 marcas: NYX 999 · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
-**SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 14** · Freshly 11 ·
+**SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 18** · Freshly 11 ·
 **Sesderma 11** · Aussie 10 · Herbal Essences 9 · Biretix 8 · Head & Shoulders 6 · Sanytol 5 · Eroski 5 ·
 Heliocare 5 · **Endocare 4** · **Cosmia 115** · **Mustela 58** · **Tampax 33** · **Evax 9** · **Ausonia 5** · **Lactacyd 1** · **Nenuco 3** · Elmex 2 · Sol de Janeiro 1 · Sensodyne 1 · Niyok 1 · Philip Martin's 1 · Natulim 1 ·
-Carrefour 1. Ninguno de los 7294 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
+Carrefour 1. Ninguno de los 7304 productos está sin INCI (las compresas y tampones llevan la composición del fabricante). Instituto Español sigue vacía.
 ISDIN ampliada de 25 a 68 códigos con EAN de Douglas/SkinLovers cruzados con isdin.com (ver su apartado).
 Asevi cerrada con 167 códigos (135 fichas): primera marca de limpieza entera desde el fabricante (ver su apartado).
 Eroski: la tienda da INCI pero no EAN; se llena con los códigos de "Buscados" (ver su apartado).
