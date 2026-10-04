@@ -22,7 +22,7 @@ Mismo contenido, formato JS de una línea por producto.
    NO se mete en el catálogo: el catálogo existe para poner los ingredientes, así que una
    entrada sin ellos no aporta nada. Si de una marca solo se consiguen los códigos, esa marca
    se queda fuera hasta que haya de dónde sacar el INCI.
-3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, los `0840122…` de Rare Beauty y los `0818625…` de Medik8 (solo los de sus envases UE), los UPC `0850018…`/`0850045…`/`0850056…`/`0810177…` de Olaplex que venden Druni y Primor, que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone, Rare Beauty, Medik8 y Olaplex). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
+3. Fuera: códigos de EE.UU. (0…; salvo los UPC-A `0800897…` de NYX, los `0095008…`/`0884486…`/`0080079…` del essie enamel clásico los `0769915…` de The Ordinary y los `0711221…`/`0850063…`/`0662652…`/`0850073…` de Salt & Stone, los `0840122…` de Rare Beauty, los `0810175…`/`0850055…` de Rhode y los `0818625…` de Medik8 (solo los de sus envases UE), los UPC `0850018…`/`0850045…`/`0850056…`/`0810177…` de Olaplex que venden Druni y Primor, que son los envases de España, ver NYX, Essie, The Ordinary, Salt & Stone, Rare Beauty, Rhode, Medik8 y Olaplex). **Criterio de Mariana (2026-09-25): solo entran los códigos que una consumidora escanea en una tienda o farmacia de España o Portugal**; un código de otro país que no está en los envases de aquí no se pone), Brasil (789…), Turquía (869…), México (750…), EAN-8 raros (salvo los EAN-8 auténticos de Unilever, ver Dove),
    nombres genéricos ("Vichy", "Cicalfate" sin "+", "Hyaluron-filler" sin decir cuál…),
    productos descatalogados, medicamentos. **El maquillaje SÍ interesa.**
 4. Nombre en español (con el nombre EN/FR entre paréntesis si ayuda). Un mismo producto en
@@ -908,7 +908,7 @@ mismo envase."** Cómo se aplica:
     vigilancia por "tris(", pero es un estabilizante de luz y no un organofosforado: no es falso negativo.
     Regresión: 0 cambios en las 7359 fichas anteriores.
 
-### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (en curso)
+### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (cerrada)
 Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
 
 **Cosmética.**
@@ -932,6 +932,28 @@ Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
   - **Pantene** +29, **Dove** +20, **Nivea** y **H&S** 18.
   - **Olay** 2 y **Listerine** 1, marcas nuevas.
   - **Maybelline: 0**, porque ninguna ficha tiene foto trasera.
+- **Resto de tandas (eci04 a eci16; la 17 no dio nada):**
+  - eci04: Colgate +14, Palmolive 14 y Chilly 8.
+  - eci05: Herbal Essences 5, OGX 6 y Old Spice 14.
+  - eci06: Lactovit y Sanex +9.
+  - eci07: Johnson's, Giorgi 5, Ciroa 5; Elvive va dentro de L'Oréal Paris.
+  - eci08: Colgate Total, Pardo 9 y Rexona roll-on 4.
+  - eci09: Control 1, Chicco 4 y John Frieda 3.
+  - eci10: Oral-B, Moussel y Axe +3.
+  - eci11: Dodot y Sanex; Original Remedies va dentro de Garnier.
+  - eci12: Le Petit Marseillais 5 y Wilkinson Sword 1 (nuevas); Vaseline +5, TRESemmé +4 y Colgate +5.
+  - eci13: Denenes 3, Becasan Nature 2, Shakeup 1 y Lida 1 (nuevas); H&S Derma X Pro +3 dentro de Head & Shoulders.
+  - eci14: Timotei 3 códigos, Yacel 3, Revlon 3 y Got2b 1 (nuevas); Pantene +2.
+  - eci15: Iroha 2 e IQC 1 (nuevas); Garnier Fructis, Dove Men y Gillette +1.
+  - eci16: Brush Baby 2, y Heno de Pravia, Salustar, Williams, Vagisil, The Fruit Company, S3 y Gotas de Oro 1 cada
+    una (nuevas); Sanytol, Gillette y H&S +1.
+  - eci17: 0 de 192. Casi todas las fichas tienen una sola foto (la delantera).
+- **Lo que más deja fuera:** fichas con una sola foto, listas que dan la vuelta al bote, letra al límite (Gliss, Sanex,
+  Intea), tintes de varios componentes, sets y productos sin código visible en la foto (Kukident, Iteritalia). Las
+  toallitas de El Corte Inglés quedaron fuera porque el código solo sale en la imagen plana, no en la foto del envase.
+- **Ojo a los códigos de la foto:** en muchas fichas el código impreso en la trasera no es el de la ficha (Le Petit
+  Marseillais, Colgate, Denenes, Heno de Pravia, Gillette Arctic Ice…). La lista va al código de la foto, como dice la
+  decisión.
 
 **Hogar (decisión R, códigos de El Corte Inglés atados a una sola ficha de portal).**
 - **Cómo se hace.** Se mira la foto del envase y, cuando el nombre podría corresponder a varias fichas, se comprueba si
@@ -968,6 +990,33 @@ Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
 - **Fuera porque la foto no deja ver la variante o no casa con ninguna ficha:** Dixan Total 4+1, Wipp azul sin
   apellido, Vanish Powerfoam y Ambi Pur Air Mist.
 - **Persán:** ninguno de los 706 códigos de Hogar de El Corte Inglés está en su buscador por código.
+- **Portales por EAN (a partir de los códigos de El Corte Inglés):**
+  - **Nuncas 14**, con el TSV en español de nuncas.com. Cuando hay varias revisiones se toma la última. Algunos términos
+    vienen en italiano en la propia ficha española ("Gomma xantanica" → Xanthan Gum, "Cera carnauba" → Copernicia
+    Cerifera Cera…). Fuera: el kit Tende (dos productos), las ceras Livax ("no sujeto al 648/2004") y el fregasuelos de
+    robot azahar (solo está en el TSV italiano).
+  - **Sanicentro 11 (12 códigos) y Cloro Max 4**, con quicesa.com. Fuera: el desinfectante de frutas y verduras, porque
+    la ficha solo da el principio activo.
+  - **Mayordomo 1**: los ambientadores no tienen ficha.
+  - **Mistol 4, Tenn 11 y La Droguería 1919 6**, con quimicasoro.com (buscador por EAN). Fuera: Mistol Balsam, porque la
+    ficha de ese EAN es "Derma Plus", sin vitamina E.
+  - **Disiclin 16**, con la referencia del fabricante, que son las cifras del propio EAN.
+  - Los nombres químicos con comas dentro se han pasado a su INCI (Lauramine Oxide, Limonene…). Si no hay uno seguro, se
+    dejan en castellano sin las comas.
+- **Portales por nombre:**
+  - **Flor 2** (Reckitt, rbeuroinfo.com): perfumador de ropa Azul y Lavanda. **Hallazgo:** los suavizantes Flor con
+    código `8447713…` son de Reckitt, pero los alérgenos de su etiqueta no cuadran con la ficha del portal (Azul y
+    Orquídea Blanca llevan OTNE y Amyl Salicylate, Nenuco lleva Camphor y Pinene, y Mediterráneo no lleva Lilial). El
+    portal va por detrás de la fórmula del envase nuevo, así que **todos los `8447713…` quedan fuera**. El perfumador
+    Azul se comprobó alérgeno a alérgeno con su etiqueta. Las toallitas Elixir para secadora quedan fuera porque hay
+    dos fichas posibles.
+  - **HG 8**, con las hojas IDS 648/2004 de hg.eu. La ficha de producto liga el EAN con el número de artículo
+    (gtin13 ↔ mpn), y la IDS lleva ese mismo número, así que el enlace es por código y no por nombre. Se toma la versión
+    más alta de cada una. Los nombres neerlandeses de la IDS del limpiador de hornos se han pasado a INCI
+    ("natriumpalmitaat" → Sodium Palmitate, "natrium-(9Z,12Z)-octadeca-9,12-dienoaat" → Sodium Linoleate). Las cápsulas
+    para cafeteras Nespresso no tienen IDS.
+- **Clasificador de la app:** "desatascador" pasa a la lista de palabras de Hogar (`STRONG_HOME`), porque el
+  desatascador de HG salía como cuidado personal.
 - **Nota para Mariana:** el Lenor Orquídea Dorada lleva HICC (Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, "Lyral"),
   prohibido en cosmética desde 2021 pero permitido en detergentes. Ninguna regla del detector lo reconoce. Es un alérgeno
   potente, no un disruptor conocido, así que no se ha tocado: queda anotado por si se quiere añadir.
@@ -3295,7 +3344,37 @@ española, es.davines.com**.
   partiendo cada palabra desconocida en dos que ya existen en el resto del catálogo.
 Scripts: `dv/es/crawl.py`, `dv/es/gen.py` (y los de la web internacional en `dv/`).
 
+### Rhode (rhodeskin.com) — abierta 2026-10-04 (versión 2026-10-04-rhode): 64 productos, 77 códigos
+Pedida por Mariana. Mismo método que Rare Beauty:
+- **Fuente:** la tienda Shopify de la marca. `products.json` da 114 fichas; el UPC de cada variante sale de
+  `/products/<handle>.js` y la lista completa de la ficha ("Full ingredients list"; en los Pocket Blush, de la pestaña
+  "ingredients").
+- **España:** no hay web en castellano, pero sí mercado `/en-es` (precios en euros). Sus 76 fichas tienen **la misma lista
+  y los mismos códigos** que las de EE. UU. Sephora España vende la marca; sus fichas dan 403 (Akamai) y no se ha
+  insistido.
+- **Códigos:** UPC-A `0810175…`/`0850055…` guardados como EAN-13 con un 0 delante. Entran como excepción a la regla 3,
+  igual que Rare Beauty, porque son los códigos que la marca vende a España.
+- **Fuera:** 39 sets, kits, dúos, fundas y merch; los 5 Spotwear ("Hydrocolloid" no es una lista INCI, y son parches,
+  como en CeraVe o Anua); 4 códigos antiguos que solo salen en Open Beauty Facts (Singapur).
+- **Agrupación:** tamaños big/little juntos y tonos con la lista idéntica juntos. Listas con los mismos ingredientes en
+  otro orden van separadas (regla H de Rare Beauty).
+- **Nombres:** tipo de producto + gama + tono, siguiendo a Sephora España cuando la hay. "Iluminador multiusos Highlight
+  Milk" pasó a "Iluminador líquido Highlight Milk", porque "multiusos" lo clasificaba como Hogar.
+- **FP/FN:** polietileno (microplástico) ×12, fragancia ×10, fenoxietanol ×19 y benzoato de bencilo ×3, todos reales.
+  Los copolímeros de estireno (ethylene/propylene/styrene, butylene/ethylene/styrene) no tienen regla, igual que en el
+  resto del catálogo.
+
 ### Haruharu Wonder (haruharuwonder.com) — abierta 2026-09-24: 29 productos, 40 códigos (de 45 fichas)
+- **Revisión 2026-10-04 (pedida por Mariana):**
+  - La web no tiene productos nuevos desde el 24-09; solo ha añadido una bolsa.
+  - Los 3 productos que quedaron fuera siguen igual: los dos protectores solares tienen la lista estropeada por OCR y la
+    crema sin perfume solo trae texto de marketing. Sus fotos tampoco traen la lista, y los otros dominios de la marca
+    (.co.kr, .eu) no responden desde aquí.
+  - Los nombres pasan a "tipo + gama", sin tamaño, como el resto ("Tónico Black Rice Hyaluronic Toner", "Bálsamo labial
+    con color Rose PDRN Peptide Glowy Balm Ruby Red"…).
+  - FP/FN: aceite de lavanda ×4, fragancia ×3, metacrilato (microplástico) en el Sun Shield y embarazo en los dos
+    retinoides; todo correcto. El extracto de árbol de té del bálsamo desmaquillante no es el aceite esencial, así que
+    no da aviso, y está bien.
 Marca coreana (códigos `8809532…`, prefijo 880 de Corea: vale, como Erborian). La web es la
 tienda Shopify de la marca y basta sola (misma regla que Nivea o Cocunat):
 - **EAN por tamaño** en `/products/<handle>.js` (`variants[].barcode`) y en el JSON-LD
@@ -3771,8 +3850,8 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-09-25)
-10736 códigos en 120 marcas: NYX 999 · **Natural Honey 13** · **Instituto Español 5** · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-10-04)
+11277 códigos en 167 marcas (7857 productos). Nuevas el 04-10: **Rhode 77** · **HG 8** · **Flor 2** · **Nuncas 14** · **Sanicentro 12** · **Cloro Max 4** · **Mayordomo 1** · **Mistol 4** · **Tenn 11** · **La Droguería 1919 6** · **Disiclin 16** · las marcas de las tandas de El Corte Inglés (ver su apartado). Recuento anterior: NYX 999 · **Natural Honey 13** · **Instituto Español 5** · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 18** · Freshly 11 ·
