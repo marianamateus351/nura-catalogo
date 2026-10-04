@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-rb-audit2",
+ "version": "2026-10-04-hogar-audit",
  "marcas": [
   {
    "key": "larocheposay",
@@ -11810,7 +11810,6 @@
      "exclude": [],
      "barcodes": [
       "8006540421499",
-      "8700216609708",
       "8700216820134"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Triethanolamine, Sodium Cumenesulfonate, Alcohols C9-11-branched and linear ethoxylated (EO=8-9), PPG-17, Sodium Citrate, Parfum, Citric Acid, Alcohol, PEI/PEG/PPG Copolymer, Phenoxyethanol, Propylene Glycol, Linalool, Benzyl Salicylate, Magnesium Sulfate, Benzyl Benzoate, Hexyl Cinnamal, Citronellol, Sodium Sulfate, Dipropylene Glycol, Limonene, Methyl Alcohol, Sodium Chloride, Colorante, Benzisothiazolinone, Colorante, Sodium Hydroxide"
@@ -11833,9 +11832,7 @@
       "4084500617421",
       "5410076752409",
       "4015600444877",
-      "4015400917304",
-      "4015400591337",
-      "4084500183087"
+      "4015400917304"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, PPG-17, Sodium Chloride, PEI/PEG/PPG Copolymer, Parfum, Sodium Hydroxide, Phenoxyethanol, Alcohol, Linalool, Propylene Glycol, Magnesium Sulfate, Hexyl Cinnamal, Geraniol, Dipropylene Glycol, Methyl Alcohol, Benzisothiazolinone, Colorante, Methylisothiazolinone, Colorante"
     },
@@ -11844,8 +11841,7 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8700216601146",
-      "8006540614259"
+      "8700216601146"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Cumenesulfonate, Alcohol, PPG-17, Sodium Citrate, PEI/PEG/PPG Copolymer, Parfum, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Phenoxyethanol, Propylene Glycol, 4-Methylcyclohexane-1 3-diamine, Hexyl Cinnamal, Linalool, Magnesium Sulfate, 2-Methylcyclohexane-1 3-diamine, Dipropylene Glycol, Sodium Sulfate, Sodium Chloride, Benzisothiazolinone, Colorante, Colorante"
     },
@@ -11858,15 +11854,6 @@
       "8001841105932"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Lauramine Oxide, Sodium Cumenesulfonate, Alcohol, PPG-17, Sodium Citrate, Parfum, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, PEI/PEG/PPG Copolymer, Phenoxyethanol, 4-Methylcyclohexane-1 3-diamine, Hexyl Cinnamal, Linalool, Magnesium Sulfate, 2-Methylcyclohexane-1 3-diamine, Dipropylene Glycol, Sodium Sulfate, Sodium Chloride, Benzisothiazolinone, Colorante, Colorante"
-    },
-    {
-     "nombre": "Poder 3 en 1 spray Fresh (lavavajillas a mano y cocina)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8700216590860"
-     ],
-     "inci": "Aqua, UNDECETH-10, Lauramine Oxide, Propylene Glycol Butyl Ether, Dodecylbenzene Sulfonic Acid, Ethanolamine, Parfum, Sodium Hydroxide, Sodium Carbonate, Polyethylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Sulfuric Acid"
     },
     {
      "nombre": "Poder 3 en 1 spray Limón (lavavajillas a mano y cocina)",
@@ -42049,8 +42036,7 @@
      "exclude": [],
      "barcodes": [
       "8420822132260",
-      "8420822132277",
-      "8420822104342"
+      "8420822132277"
      ],
      "inci": "Aqua, C12-14 Pareth-7, PEG-7 Glyceryl Cocoate, Sodium Dodecylbenzene Sulfonate, Methoxyisopropanol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Alcohol graso etoxilado 5 mol EO, Productos de reacción de monoetanolamina y ácido bórico (1:3), Propylene Glycol, Calcium Chloride, Parfum, Subtilisin, Subtilisin, Glycerin, Amilasa α-, Methylchloroisothiazolinone/Methylisothiazolinone, Phenoxyethanol, Benzisothiazolinone, Methyl Nonyl Ketone"
     },
@@ -69956,7 +69942,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8410104926090"
+      "8410104926090",
+      "8410104915216"
      ],
      "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Sodium Sulfate, Tetrasodium Etidronate, 2-Propenoic acid polymer with 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonic acid sodium salt, Ceteareth-25, Alcohols C12-15-branched and linear ethoxylated propoxylated, TAED, Sodium Acrylic Acid/MA Copolymer, Sodium Polyacrylate, Parfum, Dimethicone, Subtilisin, PEG-400, Colorante, Bis(N N' N''-trimethyl-1 4 7-triazacyclononane)-trioxo-dimanganese (IV) di(hexafluorophosphate)monohydrate, Limonene, Linalool, Citronellol, Citrus Aurantium Peel Oil, Amylase α-"
     },
@@ -69977,6 +69964,34 @@
       "8410104889111"
      ],
      "inci": "Sodium Carbonate, Sodium Citrate, Fatty Alcohol Alkoxylate, 2- propenoic acid homopolymer sodium salt sulfonated, Sodium Sulfate, Aqua, Dimethicone, Subtilisin, Sodium Chloride, Propylene Glycol, Polyvinyl Alcohol, Titanium Dioxide, Sodium Silicate, Limonene, Colorante, Parfum"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power All in 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104893057",
+      "8410104890339"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Fatty Alcohol Alkoxylate, Polyethylene glycol MW >4100, TAED, Tetrasodium Etidronate / Tetrasodium (1-hydroxythylidene) diphosphate, Polyethylene glycol MW <4100, Sodium Bicarbonate, Acrylic copolymers, Maleic copolymers, Cellulose, Polyvinyl Alcohol, Aqua, Citric Acid, Cellulose Gum, Sodium Acrylic Acid/MA Copolymer, Glycerin, Dimethicone, Calcium Stearate, Glyceryl Stearate, Propylene Glycol, Sodium Sulfate, Subtilisin, Titanium Dioxide, Magnesium Stearate, Kaolin, Amylase, Magnesium Sulfate, Sodium Thiosulfate, Sucrose, Talc, Colorante, Parfum"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power All in 1 Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104915261"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Fatty Alcohol Alkoxylate, Polyethylene glycol MW >4100, TAED, Tetrasodium Etidronate, Polyethylene glycol MW <4100, Sodium Bicarbonate, Acrylic copolymers, Maleic copolymers, Cellulose, Polyvinyl Alcohol, Aqua, Citric Acid, Cellulose Gum, Sodium Acrylic Acid/MA Copolymer, Glycerin, Dimethicone, Calcium Stearate, Glyceryl Stearate, Propylene Glycol, Sodium Sulfate, Subtilisin, Titanium Dioxide, Magnesium Stearate, Kaolin, Amylase, Magnesium Sulfate, Sodium Thiosulfate, Sucrose, Talc, Colorante, Parfum, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Pastillas para lavavajillas Finish Power Essential Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104914431"
+     ],
+     "inci": "Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Citrate, 2-propenoic acid homopolymer sodium salt sulfonated, Phosphonic acid (1-hydroxyethylidene)bis- tetrasodium salt, TAED, Sodium Bicarbonate, Polyethylene glycol MW <4100, Polyethylene glycol MW >4100, Fatty Alcohol Alkoxylate, Cellulose, Aqua, Sodium Acrylic Acid/MA Copolymer, Sodium Silicate, Citric Acid, Cellulose Gum, Sodium Sulfate, Dimethicone, Glycerin, Subtilisin, Magnesium Stearate, Polyvinyl Alcohol, Kaolin, Titanium Dioxide, Amylase, Colorante, Parfum"
     }
    ]
   },
@@ -69989,7 +70004,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8410104156640"
+      "8410104156640",
+      "8410104882884"
      ],
      "inci": "Butane, Alcohol Denat., Propane, Parfum, t-Butyl Alcohol, Denatonium Benzoate, Tetrahydrolinalool"
     },
@@ -70029,6 +70045,33 @@
       "8410104926670"
      ],
      "inci": "Aqua, Alcohol, Parfum, Linalool, Linalyl acetate, Citral, Citrus Aurantium Bergamia Peel Oil, d-Limonene, Citrus Limon Peel Oil, Geranyl acetate, Tetramethyl acetyloctahydronaphthalenes, Benzyl salicylate"
+    },
+    {
+     "nombre": "Recambio de ambientador eléctrico Air Wick Lirio de Luna y Satén de Seda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104017231"
+     ],
+     "inci": "Parfum, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citral, Limonene, Coumarin, Cinnamal, Isoeugenol"
+    },
+    {
+     "nombre": "Recambio de ambientador eléctrico Air Wick Flor de Cerezo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601217132086"
+     ],
+     "inci": "Parfum, Linalool, Benzyl Salicylate, Geraniol, Limonene, Citronellol, Alpha-Isomethyl Ionone, Citral"
+    },
+    {
+     "nombre": "Ambientador automático Air Wick Freshmatic Oasis Turquesa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104882891"
+     ],
+     "inci": "Butane, Alcohol, Propane, Parfum, Aqua, Linalool, T-butyl Alcohol, Limonene, Coumarin, Citral, Eugenol, Denatonium benzoate"
     }
    ]
   },
@@ -70044,6 +70087,33 @@
       "3059940003609"
      ],
      "inci": "Aqua, Sodium hypochlorite, sodium carbonate, Lauramine oxide, Sodium hydroxide, Sodium Ethylhexyl Sulfate, Parfum"
+    },
+    {
+     "nombre": "Limpiador de baños Cillit Bang Active Fresh Frescor Marino (colgador WC)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104895198"
+     ],
+     "inci": "Sodium Sulphate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium toluene sulphonate, Parfum, Sodium citrate, Colorante, Aqua, Alpha-Isomethyl Ionone, Eugenol, Coumarin, Benzyl Alcohol, Limonene"
+    },
+    {
+     "nombre": "Gel WC Cillit Bang Power Gel con lejía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104445119"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Myristamine Oxide, Sodium Hydroxide, Potassium Cocoate, Parfum"
+    },
+    {
+     "nombre": "Limpiador de baños Cillit Bang Suciedad y Manchas de Humedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104883157"
+     ],
+     "inci": "Aqua, Sodium hypochlorite, sodium carbonate, Lauramine oxide, Sodium hydroxide, Sodium Ethylhexyl Sulfate, Parfum"
     }
    ]
   },
@@ -70052,33 +70122,10 @@
    "nombre": "Wipp Express",
    "productos": [
     {
-     "nombre": "Detergente líquido Wipp Express Higiene & Antiolores",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436499149",
-      "8410436499262",
-      "8410436511100"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Fatty Acids C12-18 Sodium Salts, Sodium Citrate, Sodium Metaborate Anhydrous, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Laureth-2, Sodium Sulfate, Subtilisin, Phenethyl Acetate, Disodium Distyrylbiphenyl Disulfonate, Methyl Beta-Naphthyl Ether, Phenethyl Alcohol, Benzyl Acetone, Acetato De Hexilo, 4-Tert-Butylcyclohexyl Acetate, Salicilato De Hexilo, Benzisothiazolinone, 2-T-Butylcyclohexyl Acetate, Methylundecanal, Cyclohexyl Salicylate, 4-Methyl-3-Decen-5-Ol, Gamma-Undecalactone, Peonile, Citronellol, Oxacyclohexadec-12-En-2-One, Dihydro Methyldecyl Oxazole, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Butanone Dodecylthio-Cyclohexenyl, 2-Cyclohexylethyl Acetate, Geraniol, Diphenyl Ether, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Polymeric Colorant - Cyan, Amylase alpha-, Lipase, Cellulase, Mannanase"
-    },
-    {
-     "nombre": "Detergente líquido Wipp Express Limpio & Liso",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436499200",
-      "8410436499231",
-      "8410436511346"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Sodium Citrate, Hidróxido De (Carboximetil)Dimetil-3-[(1-Oxooctil)Amino]Propilamonio, Fatty Acids C12-18 Sodium Salts, Hidróxido De (Carboximetil)Dimetil-3-[(1-Oxodecil)Amino]Propilamonio, Propylene Glycol, Sodium Metaborate Anhydrous, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Sodium Sulfate, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Phenethyl Acetate, Methyl Beta-Naphthyl Ether, Benzisothiazolinone, Phenethyl Alcohol, Benzyl Acetone, Acetato De Hexilo, 4-Tert-Butylcyclohexyl Acetate, Salicilato De Hexilo, 2-T-Butylcyclohexyl Acetate, Methylundecanal, Cyclohexyl Salicylate, 4-Methyl-3-Decen-5-Ol, Undecan-4-Ólido, Peonile, Citronellol, Oxacyclohexadec-12-En-2-One, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Butanone Dodecylthio-Cyclohexenyl, Dihydro Methyldecyl Oxazole, 2-Cyclohexylethyl Acetate, Geraniol, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Diphenyl Ether, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Polymeric Colorant - Cyan, Amylase alpha-, Lipase, Mannanase, Acetilglucosaminidasa ß-, Cellulase"
-    },
-    {
      "nombre": "Detergente en polvo Wipp Express",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8410436465861",
       "8410436447324"
      ],
      "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Silicic Acid Sodium Salt, Sodium Polyacrylate, Aqua, Alcohols C13-15-Bran. And Lin. 7EO, Tetrasodium Etidronate, Cellulose Gum, Starch, Dipropylene Glycol, Sodium Chloride, Disodium 4 4'-Bis[(4-Anilino-6-Morpholino-1 3 5-Triazin-2-Yl)Amino]Stilbene-2 2'-Disulphonate, Subtilisin, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Sa 57, CI 77891, Amylase, Cinc, CI 74160, Acetilglucosaminidasa ß-, CI 77491, Mannanase, Cellulase"
@@ -70092,16 +70139,6 @@
       "8410436456647"
      ],
      "inci": "Benzenesulfonic Acid Mono-C10-13-Alkyl Derivs. Compds. With Ethanolamine, Alcohol Ethoxylate C12-18 7EO, Aqua, Glycerin, MEA-Cocoate, Propylene Glycol, Amine Alkoxylate, Aziridine Homopolymer 20-21-EO, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Benceno C10-13-Alquil Derivados, 2-Aminoetanol Sal Con Ácido Sulfúrico, Sodium Gluconate, PEG-10, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Peonile, Phenethyl Acetate, Subtilisin, Phenethyl Alcohol, Acetato De Hexilo, Benzyl Acetone, 4-Methyl-3-Decen-5-Ol, Methylundecanal, 4-Tert-Butylcyclohexyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Salicilato De Hexilo, Citronellol, Dihydro Methyldecyl Oxazole, Geraniol, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Perfume Remainder, Linalool, Hexyl Cinnamal, Amyl Salicylate, Eugenol, Diphenyl Ether, Methylbenzyl Acetate, Butanone Dodecylthio-Cyclohexenyl, Linalyl Acetate, Salicilato De 2-Metilbutilo, Dodecahydro-Tetramethylnaphthofuran, 3-P-Cumenil-2-Metilpropionaldehído, Homogeranyl Nitrile, Ethyl 2-Methylvalerate, 2 6-Dimetilhept-5-Enal, Amylase, Undecanal, Tetrahidro-4-Metil-2-(2-Metilprop-1-Enil)Pirano, Methylheptanone, Polymeric Colorant - Bright Yellow, Polymeric Colorant - Blue, Mannanase, Polymeric Colorant - Red, Cellulase, Denatonium Benzoate"
-    },
-    {
-     "nombre": "Detergente en cápsulas Wipp Express Power Caps Universal",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436434577",
-      "8410436502818"
-     ],
-     "inci": "Benzenesulfonic Acid Mono-C10-13-Alkyl Derivs. Compds. With Ethanolamine, Alcohol Ethoxylate C12-18 7EO, Aqua, Glycerin, MEA-Cocoate, Propylene Glycol, Aziridine Homopolymer 20-21-EO, Amine Alkoxylate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Benceno C10-13-Alquil Derivados, 2-Aminoetanol Sal Con Ácido Sulfúrico, Sodium Gluconate, Disodium Distyrylbiphenyl Disulfonate, PEG-10, Phenethyl Acetate, Subtilisin, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Polypropylene Terephthalate, Peonile, Cyclohexyl Salicylate, 4-Methyl-3-Decen-5-Ol, Isotridecanol <=2 5 EO, Benzyl Acetone, Methylundecanal, Acetato De Hexilo, Geraniol, Hexahydro-Methanoindenyl Propionate, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Amyl Salicylate, Diphenyl Ether, Butanone Dodecylthio-Cyclohexenyl, 3 6-Dimethyl-3-Cyclohexene-1-Carbaldehyde, Linalyl Acetate, 4-Tert-Butylcyclohexyl Acetate, Methylbenzyl Acetate, Sa 57, Homogeranyl Nitrile, Salicilato De Hexilo, Perfume Remainder, Nerol, 2-T-Butylcyclohexyl Acetate, Ethyl 2-Methylvalerate, P-Cresyl Methylether, Dodecahydro-Tetramethylnaphthofuran, Phenethyl Alcohol, Methylheptanone, Pentamethyl Octahydroindenodioxane, 3-P-Cumenil-2-Metilpropionaldehído, Isobutyl Methyl Tetrahydropyranol, Tetrahidro-4-Metil-2-(2-Metilprop-1-Enil)Pirano, Amylase, Salicilato De 2-Metilbutilo, Terpineol, Camphor, Undecan-4-Ólido, Polymeric Colorant - Bright Yellow, Polymeric Colorant - Blue, Mannanase, Cellulase, Denatonium Benzoate"
     }
    ]
   },
@@ -70110,50 +70147,13 @@
    "nombre": "Dixan",
    "productos": [
     {
-     "nombre": "Detergente líquido Dixan Gel Total+",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436313100"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Fatty Acids C12-18 Sodium Salts, Sodium Citrate, Sodium Metaborate Anhydrous, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Dipropylene Glycol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Benzisothiazolinone, Hexyl Cinnamal, Phenethyl Acetate, Salicilato De 2-Metilbutilo, 3 5-Bis(2 4-Dimethyl-3-Cyclohexen-1-Yl)Dihydro-1H 3H 5H-Oxazolo[3 4-C]Oxazole, Peonile, Amylase alpha-, Lipase, Polymeric Colorant - Blue, Cellulase, Mannanase"
-    },
-    {
      "nombre": "Detergente en cápsulas Dixan Trio-Caps Universal",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8410436452908",
       "8410436435017"
      ],
      "inci": "Benzenesulfonic Acid Mono-C10-13-Alkyl Derivs. Compds. With Ethanolamine, Alcohol Ethoxylate C12-18 7EO, Aqua, Glycerin, MEA-Cocoate, Propylene Glycol, Amine Alkoxylate, Aziridine Homopolymer 20-21-EO, Benceno C10-13-Alquil Derivados, 2-Aminoetanol Sal Con Ácido Sulfúrico, Sodium Gluconate, PEG-10, Disodium Distyrylbiphenyl Disulfonate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Subtilisin, 2-T-Butylcyclohexyl Acetate, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Isobornyl Acetate, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, 4-Tert-Butylcyclohexyl Acetate, Amyl Salicylate, Phenethyl Alcohol, Hexahydro-Methanoindenyl Propionate, Citronellol, Salicilato De Hexilo, Undecan-4-Ólido, Sa 57, Phenethyl Acetate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Methylundecanal, Acetato De Bencilo, Limonene, Salicilato De 2-Metilbutilo, 3-P-Cumenil-2-Metilpropionaldehído, Acetato De Hexilo, Diphenyl Ether, Peonile, Isononyl Acetate, 4-Methyl-3-Decen-5-Ol, Geraniol, Beta-Ionone, Perfume Remainder, Butanone Dodecylthio-Cyclohexenyl, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Benzyl Acetone, Linalool, Amylase, 2-Cyclohexylethyl Acetate, Oxacyclohexadec-12-En-2-One, Undecanal, Eucalyptol, Isobutyl Methyl Tetrahydropyranol, Trimethylbenzenepropanol, Polyoxyalk. Substituted Chromophore, Mannanase, Polymeric Colorant - Blue, Denatonium Benzoate, Polymeric Colorant - Red"
-    },
-    {
-     "nombre": "Detergente en polvo Dixan Universal",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436466424"
-     ],
-     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Silicic Acid Sodium Salt, Sodium Polyacrylate, Alcohols C13-15-Bran. And Lin. 7EO, Aqua, Cellulose Gum, Tetrasodium Etidronate, Starch, Sodium Chloride, Sodium Hydroxide, Disodium 4 4'-Bis[(4-Anilino-6-Morpholino-1 3 5-Triazin-2-Yl)Amino]Stilbene-2 2'-Disulphonate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Amyl Salicylate, Subtilisin, CI 77891, CI 74160, CI 77491, Cinc, Lipase, Amylase, Cellulase"
-    },
-    {
-     "nombre": "Detergente líquido Dixan Frescor",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436468275"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Fatty Acids C12-18 Sodium Salts, Glycerin, Sodium Citrate, Sodium Metaborate Anhydrous, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Dipropylene Glycol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Salicilato De Hexilo, Tetramethyl Acetyloctahydronaphthalenes, Dihydro Methyldecyl Oxazole, Cyclohexyl Salicylate, Disodium Distyrylbiphenyl Disulfonate, 2-T-Butylcyclohexyl Acetate, Undecan-4-Ólido, Isobutyl Methyl Tetrahydropyranol, Benzisothiazolinone, Butanone Dodecylthio-Cyclohexenyl, Oxacyclohexadec-12-En-2-One, Phenethyl Acetate, Subtilisin, Polymeric Colorant - Cyan, Amylase alpha-, Cellulase"
-    },
-    {
-     "nombre": "Detergente líquido Dixan Adiós al Separar",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436448314"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Fatty Acids C12-18 Sodium Salts, Sodium Citrate, Propylene Glycol, Sodium Metaborate Anhydrous, Cp 1-Vinylimidazole-1-Vinylpyrrolidone, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Dipropylene Glycol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Amyl Salicylate, Subtilisin, Tetramethyl Acetyloctahydronaphthalenes, Benzisothiazolinone, Hexyl Cinnamal, Phenethyl Acetate, Sa 57, Peonile, Amylase alpha-, Lipase, Mannanase, Polyoxyalk. Substituted Chromophore, Cellulase"
     }
    ]
   },
@@ -70161,17 +70161,6 @@
    "key": "vernel",
    "nombre": "Vernel",
    "productos": [
-    {
-     "nombre": "Suavizante concentrado Vernel Cielo Azul",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436441384",
-      "8410436498647",
-      "8410436498524"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, 2-T-Butylcyclohexyl Acetate, Phenethyl Alcohol, Hexahydro-Methanoindenyl Propionate, Isobornyl Acetate, Gamma-Undecalactone, Tetrahydrolinalool, 4-Methyl-3-Decen-5-Ol, Coumarin, Tetramethyl Acetyloctahydronaphthalenes, Acetato De Hexilo, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Salicilato De Hexilo, Alpha-Isomethyl Ionone, 3-Etoxi-4-Hidroxibenzaldehído, Citronellol, Methylundecanal, A-Terpinyl Acetate, Dodecanal, Amyl Salicylate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Benzyl Salicylate, Benzyl Acetate, Perfume Remainder, 4-Tert-Butylcyclohexyl Acetate, Blue Polymeric Colorant, CI 45100"
-    },
     {
      "nombre": "Suavizante concentrado Vernel Delicado",
      "include": [],
@@ -70181,62 +70170,6 @@
       "8410436500487"
      ],
      "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Dipropylene Glycol, Anisaldehyde, Phenylisohexanol, Ethylene Brassylate, 2 6-Dimetiloct-7-En-2-Ol, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Undecan-4-Ólido, Ethyl Trimethylcyclopentene Butenol, Verdyl Acetate"
-    },
-    {
-     "nombre": "Suavizante concentrado Vernel Aromaterapia Lirio Irresistible",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436499118",
-      "8410436498814"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, 4-Tert-Butylcyclohexyl Acetate, Tetrahydrolinalool, Salicilato De Hexilo, 2-T-Butylcyclohexyl Acetate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Hexahydro-Methanoindenyl Propionate, Terpineol, Coumarin, Acetato De Bencilo, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, 2 6-Dimetiloct-7-En-2-Ol, Terpineol Acetate, Ethyl Trimethylcyclopentene Butenol, Methylundecanal, Geraniol, 4-Methyl-3-Decen-5-Ol, Gamma-Decalactone, Cyclobutanate, Ethylene Brassylate"
-    },
-    {
-     "nombre": "Suavizante concentrado Vernel Fresh Control Explosión de Frescor",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436499026",
-      "8410436499057"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, 2 6-Dimetiloct-7-En-2-Ol, Linalool, Citronellol, 4-Tert-Butylcyclohexyl Acetate, Geraniol, Tetramethyl Acetyloctahydronaphthalenes, 2-Sec-Butylcyclohexanone, Ethyl Linalool, Hexyl Cinnamal, Hexahydro-Methanoindenyl Propionate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Peonile, Isobutyl Methyl Tetrahydropyranol, Benzyl Salicylate, Nerol, 2-T-Butylcyclohexyl Acetate, Salicilato De Hexilo, Terpineol"
-    },
-    {
-     "nombre": "Perfumador de ropa Vernel Selection Blue Jasmine",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436495448"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Starch Acid Hydrolyzed, Isopropyl Alcohol, Phenoxyethanol, 2 6-Dimetiloct-7-En-2-Ol, Amyl Salicylate, Undecan-4-Ólido, 2-T-Butylcyclohexyl Acetate, 3-Etoxi-4-Hidroxibenzaldehído, Geraniol, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, 4-Tert-Butylcyclohexyl Acetate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Ethyl Trimethylcyclopentene Butenol, Verdyl Acetate, 3-(4-Isobutyl-2-Methylphenyl)Propanal, Coumarin, Salicilato De 2-Metilbutilo, Alpha-Isomethyl Ionone, Acetato De Hexilo, Acetato De Bencilo, Limonene, Methyl Beta-Naphthyl Ether, Tetramethyl Acetyloctahydronaphthalenes, Anisaldehyde, Ethylene Brassylate, Cis-4-(Isopropil)Ciclohexanometanol, Oxacyclohexadec-12-En-2-One, 3-P-Cumenil-2-Metilpropionaldehído, Methyl Alpha-Ionone Isomers, Verdyl Acetate, 3-Ciclohexilpropionato De Alilo, Methylundecanal, Cedryl Acetate, Ethyl 2-Methylbutyrate, Salicilato De Hexilo, Rose Ketones, Gamma-Nonalactone, Gamma-Decalactone, Methylcyclohexenylpropyl-Cyclopentanone, Dimethyl Phenethyl Butyrate, Tetrahydrolinalool, Beta-Ionone, Pentamethylcyclopent-3-Ene-Butanol, Allyl Caproate, (3-Metilbutoxi)Acetato De Alilo, Ethyl Cinnamate, Fructalate"
-    },
-    {
-     "nombre": "Perfumador de ropa Vernel Selection Cherry Blossom",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436495479"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Starch Acid Hydrolyzed, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Isopropyl Alcohol, Ethylene Brassylate, 2-T-Butylcyclohexyl Acetate, 3-Etoxi-4-Hidroxibenzaldehído, Isobutyl Methyl Tetrahydropyranol, Salicilato De Hexilo, Ethyl Trimethylcyclopentene Butenol, Linalyl Acetate, Coumarin, Ethyl Linalool, Tetrahydrolinalool, 3 7-Dimethyloctan-3-Yl Acetate, 3-P-Cumenil-2-Metilpropionaldehído, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Verdyl Acetate, 4-Tert-Butylcyclohexyl Acetate, Methyl Beta-Naphthyl Ether, Pentamethylcyclopent-3-Ene-Butanol, Alpha-Isomethyl Ionone, Citrato De Trietilo, Peonile, 3-Ciclohexilpropionato De Alilo, Rose Ketones, Verdyl Acetate, Ethyl 2-Methylbutyrate, Methyl Alpha-Ionone Isomers, Acetato De Hexilo, 2 6-Dimetiloct-7-En-2-Ol, [3R-(3alpha 3Aß 6ß 7ß 8Aalpha)]-Octahidro-3 6 8 8-Tetrametil-6-Metoxi-1H-3A 7-Metanoazuleno, Ethyl Hydroxypyrone, Phenethyl Alcohol, Undecan-4-Ólido, Acetato De Bencilo, Methylcyclohexenylpropyl-Cyclopentanone, Allyl Caproate, Gamma-Decalactone, Methoxyhydratropaldehyde, 2-Acetonaphthone, Phenylisohexanol, Acetato De Nopilo, Gamma-Nonalactone, Isobutirato De 2-Fenoxietilo, Octahydrocoumarin, Anisaldehyde, Dimethyl-4-Isoheptenal Dimethyl Acetal, Fructalate"
-    },
-    {
-     "nombre": "Suavizante concentrado Vernel Aromaterapia Magia de Magnolia",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436498180"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, 4-Tert-Butylcyclohexyl Acetate, Hexyl Cinnamal, Tetrahydrolinalool, 2 6-Dimetiloct-7-En-2-Ol, Anisaldehyde, 3-Etoxi-4-Hidroxibenzaldehído, Tetramethyl Acetyloctahydronaphthalenes, Oxacyclohexadec-12-En-2-One, Coumarin, 2-T-Butylcyclohexyl Acetate, Verdyl Acetate, Ethyl Hydroxypyrone, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Alpha-Isomethyl Ionone, Cis-3-Hexenyl Salicylate, Peonile, Beta-Ionone, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Ethyl Trimethylcyclopentene Butenol, Octan-4-Ólido, Citronellol, Methyl Beta-Naphthyl Ether, Methyl Alpha-Ionone Isomers"
-    },
-    {
-     "nombre": "Suavizante concentrado Vernel Aromaterapia Maldivas Relajantes",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436498371"
-     ],
-     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Dipropylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Oxacyclohexadec-12-En-2-One, Anisaldehyde, Gamma-Nonalactone, Vanillin, Coumarin, 2-T-Butylcyclohexyl Acetate, 3-Etoxi-4-Hidroxibenzaldehído, Raspberry Ketone, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Octan-4-Ólido, Ethyl Hydroxypyrone, Methylundecanal, Tetrahydroisoocimenol, Hexyl Cinnamal, 4-Methyl-3-Decen-5-Ol, 4-Tert-Butylcyclohexyl Acetate, Limonene, Tetrahydrolinalool, Allyl Caproate"
     },
     {
      "nombre": "Perfumador de ropa Vernel Selection Diamond Orchid",
@@ -70442,8 +70375,7 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "4009175183088",
-      "4009175966469"
+      "4009175183088"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Sodium Benzoate, Sunfloweroyl Methylglucamide, Propylene Glycol, Parfum, Glycol Distearate, Colorante"
     },
@@ -70630,17 +70562,6 @@
    "nombre": "Bref",
    "productos": [
     {
-     "nombre": "Limpiador de baños Bref Power Activ Pine (colgador WC)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8015100563067",
-      "8015100570164",
-      "8015100565351"
-     ],
-     "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium C14-16 Olefin Sulfonate, Ceteareth-25, Aqua, 2 6-Dimetiloct-7-En-2-Ol, Sodium Carbonate, Sodium Citrate, Sodium Chloride, Isoborneol, Isobornyl Acetate, Sodium Citrate, Dipropylene Glycol, Benceno C10-13-Alquil Derivados, Antitack Agent (Silicate), Terpineol, Verdyl Acetate, Acrylic Polymer, Tetrahydrolinalool, Tetramethyl Acetyloctahydronaphthalenes, Methylundecanal, Dodecanal, Camphor, Pinene, Cis-2-Tert-Butylcyclohexyl Acetate, Eucalyptol, Decanal, Cuminaldehyde, Caprylyl Alcohol, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Thymol, 2-Metil-1 3-Dioxolano-2-Acetato De Etilo, (1S-Endo)-1 7 7-Trimetilbiciclo[2.2.1]Heptan-2-Ol, Coumarin, Fenchyl Acetate, Alpha-Isomethyl Ionone, Cinc, Polymeric Colorant - Blue, Octahydro-Tetramethyl-Methano-1-Naphthol, Dl-Borneol, CI 74160, CI 21108"
-    },
-    {
      "nombre": "Limpiador de baños Bref Blue Auto Activ Flower (colgador WC)",
      "include": [],
      "exclude": [],
@@ -70660,24 +70581,6 @@
      "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium C14-16 Olefin Sulfonate, Ceteareth-25, Aqua, Dipropylene Glycol, Sodium Carbonate, Sodium Citrate, Sodium Chloride, 2-T-Butylcyclohexyl Acetate, Decanal, Sodium Citrate, Hexahydro-Methanoindenyl Propionate, Citronellyl Nitrile, Antitack Agent (Silicate), Benceno C10-13-Alquil Derivados, Undecan-4-Ólido, Gamma-Decalactone, Acrylic Polymer, Homogeranyl Nitrile, Acetato De Hexilo, Octanal, Dimethyl-3-Cyclohexene-1-Carbaldehyde, 2 6-Dimetilhept-5-Enal, Ethyl 2-Methylbutyrate, Citrato De Trietilo, Pinene, Terpinolene, 2-Acetonaphthone, Methylundecanal, Nonanal, Butanone Dodecylthio-Cyclohexenyl, Citral, Cineole, Limonene, Cinc, Polymeric Colorant - Blue, 3-Phenylbutyraldehyde, Parfum, Eucalyptol, Polymeric Colorant - Bright Yellow"
     },
     {
-     "nombre": "Limpiador de baños Bref Power Activ Hawaii (colgador WC)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436464444"
-     ],
-     "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium C14-16 Olefin Sulfonate, Ceteareth-25, Aqua, Sodium Carbonate, Cis-2-Tert-Butylcyclohexyl Acetate, Sodium Citrate, 2 6-Dimetiloct-7-En-2-Ol, Sodium Chloride, Dipropylene Glycol, Sodium Citrate, Benceno C10-13-Alquil Derivados, Antitack Agent (Silicate), Isobutirato De 2-Fenoxietilo, Undecan-4-Ólido, Verdyl Acetate, Acetato De Bencilo, Aqueous Solution Of Acrylic Polymer, 2-T-Butylcyclohexyl Acetate, Ethyl Heptanoate, Alpha-Isomethyl Ionone, Acetato De Hexilo, 3-Ciclohexilpropionato De Alilo, Gamma-Decalactone, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, 2-Metil-1 3-Dioxolano-2-Acetato De Etilo, 2-Butenoato De 1 3-Dimetilbutilo, Allyl Cyclohexyloxyacetate, Gamma-Nonalactone, Methylbenzyl Acetate, Ethyl Hexanoate, Decanal, Alpha-Methyl-Alpha-Ionone, Ethyl 2 2-Dimethylhydrocinnamal, Cinc, 4-Methyl-3-Decen-5-Ol, Isobornyl Acetate, Alpha-Methyl-Beta-Ionone, 3-(O-Ethylphenyl)-2 2-Dimethylpropionaldehyde, Dimethylcyclohexenyl 3-Butenyl Ketone, CI 45100, CI 21108, Ácido 5-(Benzoilamino)-4-Hidroxi-3-[[1-Sulfo-6-[[2-(Sulfooxi)Etil]Sulfonil]-2-Naftil]Azo]Naftaleno-2 7-Disulfónico Sal De Sodio, CI 74160"
-    },
-    {
-     "nombre": "Limpiador de baños Bref Gel Brillante Océano Ártico (colgador WC)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436395151"
-     ],
-     "inci": "Aqua, Ceteareth-25, Glycerin, PPG-3 Methyl Ether, Phenethyl Alcohol, Acetato De Bencilo, Cyclohexyldimethylpropanol, Tetrahydrolinalool, Linalyl Acetate, Linalool, Undecan-4-Ólido, Methylbenzyl Acetate, Ionone, Phenylisohexanol, Pr(2S)-2-(1 1-Dimepropoxy)-Propenoate, Citronellol, Amyl Salicylate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Gamma-Decalactone, 4-Methyl-3-Decen-5-Ol, Citronellyl Acetate, Geraniol, 3-P-Cumenil-2-Metilpropionaldehído, Alpha-Isomethyl Ionone, Ethyl Linalool, (3-Metilbutoxi)Acetato De Alilo, alpha-Metil-1 3-Benzodioxol-5-Propionaldehído, Gamma-Nonalactone, Oxacyclohexadec-12-En-2-One, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Diethyl Malonate, Nerol, Ethyl Trimethylcyclopentene Butenol, Decanal, Methyl Alpha-Ionone Isomers, Methyl Anthranilate, Ethyl Phenethyl Acetal, Homogeranyl Nitrile, Acetato De 2-Metoxi-4-Prop-1-Enilfenilo, 2 6-Dimetilhept-5-Enal, Nonanal, Citrato De Trietilo, CI 74160, Denatonium Benzoate"
-    },
-    {
      "nombre": "Limpiador de baños Bref Power Activ Lavender (colgador WC)",
      "include": [],
      "exclude": [],
@@ -70685,24 +70588,6 @@
       "8015100570980"
      ],
      "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium C14-16 Olefin Sulfonate, Ceteareth-25, Aqua, Sodium Carbonate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Sodium Citrate, Sodium Chloride, Diphenyl Ether, Sodium Citrate, Dipropylene Glycol, Benceno C10-13-Alquil Derivados, Antitack Agent (Silicate), Isononyl Acetate, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, 2-T-Butylcyclohexyl Acetate, Isoborneol, Tetrahydrolinalool, Isoamyl Salicylate, Isobornyl Acetate, 6-Methyl-5-Hepten-2-One, (1S-Endo)-1 7 7-Trimetilbiciclo[2.2.1]Heptan-2-Ol, Acrylic Polymer, Thymol, Coumarin, Eucalyptol, Parfum, Hexahydro-Methanoindenyl Propionate, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Limonene, Citrathal, 3-Ciclohexilpropionato De Alilo, Allyl Cyclohexyloxyacetate, Hexyl Methyl Ketone, Ethyl Methylbutyl Ketoxime, Acetato De Hexilo, Polymeric Colorant - Blue, Octahydro-Tetramethyl-Methano-1-Naphthol, Cinc, Acetofenona, Linalool, Linalyl Acetate, Dodecahydro-Tetramethylnaphthofuran, Ácido 5-(Benzoilamino)-4-Hidroxi-3-[[1-Sulfo-6-[[2-(Sulfooxi)Etil]Sulfonil]-2-Naftil]Azo]Naftaleno-2 7-Disulfónico Sal De Sodio"
-    },
-    {
-     "nombre": "Limpiador de baños Bref Momentos de Relax Armonía (colgador WC)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436452793"
-     ],
-     "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium C14-16 Olefin Sulfonate, Ceteareth-25, Sodium Carbonate, Dipropylene Glycol, Aqua, Sodium Citrate, Sodium Chloride, Phenethyl Alcohol, 2 6-Dimetiloct-7-En-2-Ol, Antitack Agent (Silicate), CI 77891, Acetato De Bencilo, Verdyl Acetate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Terpineol, Acetato De Hexilo, Anisaldehyde, Beta-Ionone, Tetrahydrolinalool, Linalool, Isobutyl Methyl Tetrahydropyranol, Hexyl Cinnamal, 4-Tert-Butylcyclohexyl Acetate, 2-T-Butylcyclohexyl Acetate, 4-Methyl-3-Decen-5-Ol, Methylbenzyl Acetate, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, (3-Metilbutoxi)Acetato De Alilo, Tetramethyl Acetyloctahydronaphthalenes, Citronellol, Allyl Heptanoate, Methyl Beta-Naphthyl Ether, Undecan-4-Ólido, 3-P-Cumenil-2-Metilpropionaldehído, Diphenyl Ether, Eucalyptol, Piperonal, Ethyl 2-Methylvalerate, Isoamyl Butyrate, Limonene, 2-Acetonaphthone, Terpineol Acetate, 3-Ciclohexilpropionato De Alilo, Phenylacetaldehyde Dimethyl Acetal, Cinc, Methylundecanal, Ethyl 2 2-Dimethylhydrocinnamal, Tetrahidro-4-Metil-2-(2-Metilprop-1-Enil)Pirano, Florhydral, 4-Tert-Butyldihydrocinnamaldehyde, Homogeranyl Nitrile, Disodium 5-Amino-4-Hydroxy-3-(Phenylazo)Naphthalene-2 7-Disulphonate"
-    },
-    {
-     "nombre": "Limpiador de baños Bref Gel Brillante Frescor de Primavera (colgador WC)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436429092"
-     ],
-     "inci": "Aqua, Ceteareth-25, Glycerin, Phenethyl Alcohol, Dipropylene Glycol, Isobutyl Methyl Tetrahydropyranol, Ethylene Brassylate, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Pentadecan-15-Ólido, Dimethyl Phenethyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, 2 4-Dimethyl-4 4A 5 9B-Tetrahydroindeno(1 2-D)-1 3-Dioxin, Methyl Benzodioxepinone, Diethyl Malonate, Undecan-4-Ólido, Oxacyclohexadec-12-En-2-One, Raspberry Ketone, Parfum, Alpha-Cedrene, Tetrahidro-4-Metil-2-(2-Metilprop-1-Enil)Pirano, Acetato De Hexilo, Gamma-Decalactone, 5 12-Dihidro-2 9-Dimetilquino[2 3-B]Acridina-7 14-Diona, Denatonium Benzoate, 5 12-Dihidroquino[2 3-B]Acridina-7 14-Diona"
     }
    ]
   },
@@ -70760,15 +70645,6 @@
      "inci": "Ethylene Va Copolymer, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Miristato De Isopropilo, Decanal, Ethyl 2-Methylbutyrate, Acetato De Hexilo, 2 6 6-Trimetoxi-2-Viniltetrahidropirano, Methylbenzyl Acetate, 2-Metilbutirato De Isopropilo, Raspberry Ketone, Octanal, Undecan-4-Ólido, Nonanal, 2-Sec-Butylcyclohexanone, Vinyl Acetate, Cis-3-Hexenyl Acetate, Undecanal, Citral, Methylundecanal, Dodecanal, Undec-10-Enal, (E)-Dodec-2-En-1-Al, Eucalyptol, Limonene, Pentadecan-15-Ólido, Perfume Remainder, 3-Hexenol, Beta-Ionone, Trans-Mentona, Citrato De Trietilo, Terpinolene, Carvone, Cineole, Ethyl Hydroxypyrone, 3-Hidroxi-2-(3-Hidroxi-2-Quinolil)-1H-Inden-1-Ona"
     },
     {
-     "nombre": "Abrillantador para lavavajillas Somat Duo Power Experts limón",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "9000101369236"
-     ],
-     "inci": "Aqua, C12-14 Pareth-12, Alcohols C13-15 12.6-EO/2.1-Buo, Citric Acid, Formic Acid, PEG-10, Zinc Acetate, CI 47005, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Decanal"
-    },
-    {
      "nombre": "Limpiamáquinas para lavavajillas Somat Intensivo (líquido)",
      "include": [],
      "exclude": [],
@@ -70782,105 +70658,17 @@
   {
    "key": "estrella",
    "nombre": "Estrella",
-   "productos": [
-    {
-     "nombre": "Lejía con detergente Estrella 2 en 1 Limón",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436419604"
-     ],
-     "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Sodium 2-(2-Dodecyloxyethoxy)Ethyl Sulphate, Sodium Carbonate, Sodium Chlorate, Ácido Silícico Sal De Sodio, Isobornyl Acetate, Eucalyptol"
-    },
-    {
-     "nombre": "Lejía con detergente Estrella 2 en 1 Pino",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436419635"
-     ],
-     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Sodium 2-(2-Dodecyloxyethoxy)Ethyl Sulphate, Sodium Hydroxide, Ácido Silícico Sal De Sodio, Perfume Remainder"
-    },
-    {
-     "nombre": "Lejía con detergente Estrella 2 en 1",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436419574"
-     ],
-     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Sodium 2-(2-Dodecyloxyethoxy)Ethyl Sulphate, Sodium Hydroxide, Ácido Silícico Sal De Sodio, Perfume Remainder, 2 6-Dimetiloct-7-En-2-Ol"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "micolor",
    "nombre": "Micolor",
-   "productos": [
-    {
-     "nombre": "Detergente líquido Micolor Colores Oscuros",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436423175"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Citrate, Fatty Acids C12-18 Sodium Salts, Glycerin, Sodium Metaborate Anhydrous, Propylene Glycol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Dipropylene Glycol, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Cp 1-Vinylimidazole-1-Vinylpyrrolidone, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Phenethyl Acetate, Benzisothiazolinone, Salicilato De 2-Metilbutilo, Sa 57, Peonile, Diphenyl Ether, Geraniol, Acetato De Hexilo, Citronellol, Amylase alpha-, 3-[[4-Amino-9 10-Dihidro-3-[2-(2-Metoxietoxi)Etoxi]-9 10-Dioxo-1-Antril]Amino]-2 4 6-Trimetilbencenosulfonato De Sodio, Cellulase, Mannanase"
-    },
-    {
-     "nombre": "Detergente líquido Micolor Adiós al Separar",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436422468",
-      "8410436448284",
-      "8410436450119"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Glycerin, Fatty Acids C12-18 Sodium Salts, Cp 1-Vinylimidazole-1-Vinylpyrrolidone, Sodium Citrate, Sodium Metaborate Anhydrous, Propylene Glycol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Dipropylene Glycol, Laureth-2, Sodium Sulfate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Phenethyl Acetate, Benzisothiazolinone, Subtilisin, Salicilato De 2-Metilbutilo, 3 5-Bis(2 4-Dimethyl-3-Cyclohexen-1-Yl)Dihydro-1H 3H 5H-Oxazolo[3 4-C]Oxazole, Peonile, Diphenyl Ether, Geraniol, Acetato De Hexilo, Citronellol, Amylase alpha-, Hidrogeno[4-[4-(Dietilamino)-5'-Hidroxi-2' 4'-Disulfonatobencidriliden]Ciclohexa-2 5-Dien-1-Iliden]Dietilamonio Sal De Monosodio, Mannanase"
-    },
-    {
-     "nombre": "Detergente líquido Micolor Colores Vivos",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436452199",
-      "8410436447829",
-      "8410436447201"
-     ],
-     "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Citrate, Fatty Acids C12-18 Sodium Salts, Glycerin, Sodium Metaborate Anhydrous, Propylene Glycol, Sodium Diethylenetriamine Pentamethylene Phosphonate, 2-[2-(Dodecyloxy)Ethoxy]Ethanol, Sodium Sulfate, Dipropylene Glycol, Cp 1-Vinylimidazole-1-Vinylpyrrolidone, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Undecan-4-Ólido, Benzisothiazolinone, Citronellol, Methylundecanal, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, 2-T-Butylcyclohexyl Acetate, Acetato De Bencilo, Beta-Ionone, Hexahydro-Methanoindenyl Propionate, Amylase alpha-, Polymer Dyestuff Yellow Lp, Cellulase, Mannanase, Hidrogeno[4-[4-(Dietilamino)-5'-Hidroxi-2' 4'-Disulfonatobencidriliden]Ciclohexa-2 5-Dien-1-Iliden]Dietilamonio Sal De Monosodio"
-    },
-    {
-     "nombre": "Toallitas atrapacolor para la colada Micolor Atrapa Color",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436480161"
-     ],
-     "inci": "Pasta Celulosa, Celulosa Regenerada, Aqua, Synthetic Binder, Wet Strength Additive, Perfume Remainder, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Salicilato De 2-Isopropoxietilo, Isobutyl Methyl Tetrahydropyranol, Pentamethylcyclopent-3-Ene-Butanol, Beta-Ionone, [3R-(3A 3Aß 6ß 7ß 8Aa)]-Octahidro-3 6 8 8-Tetrametil-6-Metoxi-1H-3A 7-Metanoazuleno"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "conejo",
    "nombre": "Conejo",
-   "productos": [
-    {
-     "nombre": "Lejía Conejo",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436392693"
-     ],
-     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride"
-    },
-    {
-     "nombre": "Lejía Conejo Frescor Floral",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8410436392754"
-     ],
-     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Sodium Hydroxide, Ácido Silícico Sal De Sodio, Amines C12-14-Alkyldimethyl N-Oxides, Perfume Remainder"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "vanish",
@@ -70924,130 +70712,17 @@
   {
    "key": "ariel",
    "nombre": "Ariel",
-   "productos": [
-    {
-     "nombre": "Detergente líquido Ariel Total",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530095969"
-     ],
-     "inci": "Aqua, Sodium C10-13 Alkyl Benzenesulfonate, C15 Pareth-n, Sodium Citrate, Sodium Palm Kernelate, Sodium Laureth Sulfate, MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Sodium Cumenesulfonate, Pei Ethoxylate, Parfum, Co-polymer of PEG / Vinyl Acetate, C12-14 Pareth-n, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Sodium Diethylenetriamine Pentamethylene Phosphonate, Hydrogenated Castor Oil, Anionic modified polyester, Sodium Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Disodium Distyrylbiphenyl Disulfonate, Isopropyl Myristate, Glycerin, Sorbitol, Tetramethyl Acetyloctahydronaphthalenes, Protease, Sodium Formate, Limonene, Dipropylene Glycol, C12-16 Pareth-n, Citrus Aurantium Dulcis Oil, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Polyethylene glycol, Tripropylene Glycol, Ethanol 2-Amino Sulfate, Linalyl Acetate, Palm Kernel Fatty Acid, Benzisothiazolinone, Colorante, Calcium Chloride, Ethanolamine, Sodium Hydroxide, BHT, 4-(1-methyl-1-phenylethyl)-N-[4-(1-methyl-1-phenylethyl)phenyl]aniline, Amylase, Sodium Chloride, Phosphodiesterase, Polyacrylate Crosspolymer-9, Cellulase, Polyvinyl alcohol, Mannanase, Dimethicone, Dmso, Colorante, Diethylene Glycol, Xanthan gum, Hydroxyethylcellulose, Treated Amorphous Silica, Glycol, Steareth-2, Caprylyl Glycol, PEG-30 Stearate"
-    },
-    {
-     "nombre": "Detergente en cápsulas Ariel Poderoso para colores y blancos",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530453721"
-     ],
-     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, Mea-Laureth Sulfate, C12-14 Pareth-n, Glycerin, Parfum, MEA-Palm Kernelate, Dimonoethanolamine Etidronate, Co-polymer of PEG / Vinyl Acetate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Sorbitol, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Anionic modified polyester, C12-16 Pareth-n, Palm Kernel Fatty Acid, Magnesium Chloride, Potassium Sulfite, Isopropyl Myristate, Phenylpropyl Ethyl Methicone, Tetramethyl Acetyloctahydronaphthalenes, Ethanolamine, Protease, Hydrogenated Castor Oil, Sodium Formate, Geraniol, Tripropylene Glycol, Polyethylene Glycol, Amyl Salicylate, Delta-Damascone, Ethoxylated m-toluidine, Citronellol, Phosphodiesterase, Amylase, Disodium Distyrylbiphenyl Disulfonate, Simethicone, Cellulase, Lipase, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, Mannanase, Polyvinyl alcohol, Ethylhexyl Stearate, Caprylyl Glycol, Colorante, Colorante, Xanthan gum, Calcium Chloride, PEG-N Methyl Ether, Sodium Chloride, Dipropylene Glycol, Colorante, Sodium C10-13 Alkyl Benzenesulfonate, Colorante, Sodium Hydroxide, Potassium Citrate monobasic, Potassium Hydroxide"
-    },
-    {
-     "nombre": "Detergente en cápsulas Ariel Todo en 1 Pods Frescor Floral",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530286442"
-     ],
-     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, MEA-Palm Kernelate, Aqua, Mea-Laureth Sulfate, Glycerin, C12-14 Pareth-n, Parfum, Dimonoethanolamine Etidronate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Palm Kernel Fatty Acid, PPG-6, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, Polyquaternium-10, Tetramethyl Acetyloctahydronaphthalenes, Disodium Distyrylbiphenyl Disulfonate, C12-16 Pareth-n, Anionic modified polyester, Phenylpropyl Ethyl Methicone, Isopropyl Myristate, Linalool, Magnesium Chloride, Potassium Sulfite, Hydrogenated Castor Oil, Protease, Sodium Formate, Alpha-Isomethyl Ionone, Sorbitol, Eucalyptus Globulus Leaf Extract, Terpineol, Ethanolamine, Citronellol, Polyethylene Glycol, Coumarin, Sodium Chloride, Ethoxylated m-toluidine, Limonene, Delta-Damascone, PEG Copolymer, Simethicone, Amylase, Hydroxycitronellal, Camphor, Isoeugenyl Acetate, Buciffol, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, PEG-N Methyl Ether, Polyvinyl alcohol, Ethylhexyl Stearate, Sodium Acetate, Colorante, Mannanase, Colorante, Xanthan gum, Colorante, Calcium Chloride, Dipropylene Glycol, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Hydroxide, Potassium Citrate monobasic"
-    },
-    {
-     "nombre": "Detergente en cápsulas Ariel Todo en 1 Pods Azahar y Amapola",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530336338"
-     ],
-     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, MEA-Palm Kernelate, Mea-Laureth Sulfate, Glycerin, C12-14 Pareth-n, Parfum, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, Palm Kernel Fatty Acid, Alpha-Glucan Hydroxypropyltrimonium Chloride, Dimonoethanolamine Etidronate, MEA-citrate, Etidronic Acid, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, Anionic modified polyester, Citric Acid, C12-16 Pareth-n, Hydrogenated Castor Oil, Phenylpropyl Ethyl Methicone, Isopropyl Myristate, Magnesium Chloride, Protease, Potassium Sulfite, Sorbitol, Sodium Formate, Citronellol, Ethanolamine, Tetramethyl Acetyloctahydronaphthalenes, Polyethylene Glycol, Eugenol, Delta-Damascone, Ethoxylated m-toluidine, Amylase, Disodium Distyrylbiphenyl Disulfonate, Alpha-Isomethyl Ionone, Simethicone, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, PEG-N Methyl Ether, Polyvinyl alcohol, Ethylhexyl Stearate, Colorante, Colorante, Lipase, Xanthan gum, Dipropylene Glycol, Calcium Chloride, Sodium C10-13 Alkyl Benzenesulfonate, Caprylyl Glycol, Sodium Chloride, Colorante, Sodium Hydroxide, Potassium Citrate monobasic"
-    },
-    {
-     "nombre": "Detergente en cápsulas Ariel Poderoso Frescor a Flores Silvestres",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530189477",
-      "8006530189590"
-     ],
-     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Propylene Glycol, Aqua, Mea-Laureth Sulfate, C12-14 Pareth-n, Glycerin, Dimonoethanolamine Etidronate, Parfum, MEA-Palm Kernelate, Co-polymer of PEG / Vinyl Acetate, Sulfated Ethoxylated Hexamethylenediamine Quaternized, Pei Ethoxylate, MEA-citrate, Sorbitol, MEA-Palm Kernelate, Ethanol 2-Amino Sulfate, PEG/PPG-10/2 Propylheptyl Ether, Tetramethyl Acetyloctahydronaphthalenes, Anionic modified polyester, C12-16 Pareth-n, Palm Kernel Fatty Acid, Magnesium Chloride, Disodium Distyrylbiphenyl Disulfonate, Potassium Sulfite, Isopropyl Myristate, Linalool, Phenylpropyl Ethyl Methicone, Ethanolamine, Alpha-Isomethyl Ionone, Protease, Hydrogenated Castor Oil, Eucalyptus Globulus Leaf Extract, Sodium Formate, Terpineol, Tripropylene Glycol, Polyethylene Glycol, Citronellol, Coumarin, Ethoxylated m-toluidine, Phosphodiesterase, Limonene, Amylase, Delta-Damascone, Hydroxycitronellal, Camphor, Isoeugenyl Acetate, Buciffol, Simethicone, Sodium Chloride, Cellulase, Lipase, Trimethylsiloxysilicate, Polyacrylate Crosspolymer-9, Mannanase, Polyvinyl alcohol, Ethylhexyl Stearate, Caprylyl Glycol, Colorante, Colorante, Xanthan gum, Calcium Chloride, PEG-N Methyl Ether, Dipropylene Glycol, Colorante, Sodium C10-13 Alkyl Benzenesulfonate, Colorante, Sodium Hydroxide, Potassium Citrate monobasic, Potassium Hydroxide"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "donlimpio",
    "nombre": "Don Limpio",
-   "productos": [
-    {
-     "nombre": "Limpiador de baños Don Limpio Baño",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8001090501165"
-     ],
-     "inci": "Aqua, Formic Acid, Deceth-n, Sodium Lauryl Sulfate, Sodium Formate, Monosodium Citrate, Xanthan Gum, Sodium Citrate, Parfum, Citric Acid, Hexyl Cinnamal, Alcohols C10-16, Citrate, Sodium Sulfate"
-    },
-    {
-     "nombre": "Limpiador multiusos para madera Don Limpio Limpieza + Cuidado",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8001090501288"
-     ],
-     "inci": "Aqua, C10-16 Pareth, Sodium Carbonate, Parfum, Sodium C10-13 Alkyl Benzenesulfonate, Caprylyl/Capryl Glucoside, Sodium Citrate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Limonene, Linalool, Hexyl Cinnamal, Colorante, Sodium Sulfate, Propylene Glycol, Colorante"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "skip",
    "nombre": "Skip",
-   "productos": [
-    {
-     "nombre": "Detergente líquido Skip Ultimate Máxima Eficacia",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181438226",
-      "8720181417962"
-     ],
-     "inci": "Aqua, Laureth-7, Linear Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Fatty acids C14-18 and C16-18-unsatd. sodium salts, Parfum, Disodium Distyrylbiphenyl Disulfonate, Glycerin, Propylene Glycol, Sorbitol, Butoxydiglycol, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Subtilisin, Peptides salts sugars from fermentation (process), Lipase, Methylisothiazolinone, Octylisothiazolinone, Amylase, Toluene, Disubstituted Alaninamide, Ci 50325, Sodium Sulfate, Polymeric Blue Colourant, Mannanase, Cellulose Gum"
-    },
-    {
-     "nombre": "Detergente en cápsulas Skip Todo en 1 Limpieza Profunda",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181563898"
-     ],
-     "inci": "Glycerin, MEA-C10-13 Alkyl Benzenesulfonate, C12-18 Pareth-7, Sodium Laureth Sulfate, MEA-Cocoate, Propylene Glycol, Aqua, Parfum, Polypropylene Terephthalate/Polyoxyethylene terephthalate, Propanediol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Aminoethyl Sulfate, Linear Alkyl Benzene, Disodium Distyrylbiphenyl Disulfonate, Ethanolamine, Potassium Sulfite, Subtilisin, Citronellol, Citrus Aurantium Peel Oil, Limonene, Styrene/Acrylates Copolymer, Geraniol, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Polymeric Violet Colourant, Terpineol, Hydroxycitronellal, Sorbitol, Calcium Chloride, Polymeric Blue Colourant, Amylase, Sodium Lauryl Sulfate, Peptides salts sugars from fermentation (process), Polymeric Red Colourant, Mannanase"
-    },
-    {
-     "nombre": "Detergente en cápsulas Skip Ultimate Máxima Eficacia",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181751943"
-     ],
-     "inci": "Laureth-7, MEA-Hydrogenated Cocoate, MEA-Dodecylbenzenesulfonate, Glycerin, Aqua, Propylene Glycol, Polypropylene Terephthalate/Polyoxyethylene terephthalate, Parfum, Tripropylene tetramine ethoxylated modified, Propanediol, Potassium Sulfite, Sodium Diethylenetriamine Pentamethylene Phosphonate, MEA-Sulfate, Sodium Chloride, Alpha-Isomethyl Ionone, Subtilisin, Tetramethyl Acetyloctahydronaphthalenes, Glycol, Styrene/Acrylates Copolymer, Sorbitol, Disodium Distyrylbiphenyl Disulfonate, Polyoxymethylene Melamine Urea, Rose Ketones, Amylase, Peptides salts sugars from fermentation (process), Ceteareth-80, Polymeric Blue Colourant, Ethylene/MA Copolymer, Calcium Chloride, Cellulase, Tamarindus Indica Seed Gum, Polymeric Red Colourant, Sodium Lauryl Sulfate, Mannanase, Urea, Ethanolamine, Tetrasodium EDTA, Polymeric Pink Colourant, Dipropylene Glycol"
-    },
-    {
-     "nombre": "Detergente en polvo Skip Limpieza Profunda",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181408687"
-     ],
-     "inci": "Sodium Sulphates, Sodium Carbonate, Sodium Dodecylbenzenesulfonate, Sodium Carbonate Peroxide, Sodium Silicate, Zeolite, Sodium Bicarbonate, Alcohol ethoxylate 9Eo, Fatty acids C14-18 and C16-18-unsatd. sodium salts, TAED, Parfum, Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Sodium Sulfate, Dimethicone, Aqua, Disodium Anilinomorpholinotriazinylaminostilbenesulfonate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Subtilisin, Calcium Carbonate, Cellulose, Peptides salts sugars from fermentation (process), Bentonite, Dextrin, Kaolin, Imidazolidinone, Sodium Chloride, Polyoxymethylene Melamine, PEG-75, Xanthan Gum, Ci 45100, Ci 61585, Ci 12490"
-    },
-    {
-     "nombre": "Detergente líquido Skip Ultimate con poder KH-7",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181417993"
-     ],
-     "inci": "Aqua, Laureth-7, Linear Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Fatty acids C14-18 and C16-18-unsatd. sodium salts, Parfum, Disodium Distyrylbiphenyl Disulfonate, Glycerin, Propylene Glycol, Sorbitol, Butoxydiglycol, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Subtilisin, Peptides salts sugars from fermentation (process), Lipase, Methylisothiazolinone, Octylisothiazolinone, Amylase, Toluene, Disubstituted Alaninamide, Ci 50325, Sodium Sulfate, Polymeric Blue Colourant, Mannanase, Cellulose Gum"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "mimosin",
@@ -71062,26 +70737,6 @@
       "8720181478512"
      ],
      "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Lactic Acid, Sodium Benzoate, Linalool, Quaternised hydrolyzed wheat protein/silicone copolymer, Amyl Salicylate, Coumarin, Hydrochloric Acid, Citronellol, Alpha-Isomethyl Ionone, Alcohol Denat., Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
-    },
-    {
-     "nombre": "Suavizante concentrado Mimosín Fresh Frescor Floral",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181707087"
-     ],
-     "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Sodium Benzoate, Hexyl Cinnamal, Limonene, Benzyl Salicylate, Hydrochloric Acid, Methoxypolyoxymethylene Melamine, Imidazolidinone, Dimethicone, Etidronic Acid, Acrylamide/Sodium Acrylate Copolymer, Acrylates Copolymer, Polymeric Yellow Colourant, Calcium Chloride, Sodium Acetate, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica, Polymeric Pink Colourant"
-    },
-    {
-     "nombre": "Suavizante concentrado Mimosín Fresh Azul Vital",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8720181707063",
-      "8720181707100",
-      "8720181778780"
-     ],
-     "inci": "Aqua, Dipalmoylethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Formic Acid, Linalool, Amyl Salicylate, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Dimethicone, Etidronic Acid, Calcium Chloride, Glyceryl Stearate, Polysorbate 60, Cellulose Gum, Silica"
     }
    ]
   },
@@ -72157,34 +71812,6 @@
    "nombre": "Lenor",
    "productos": [
     {
-     "nombre": "Perfumador de ropa en perlas Lenor Orquídea Dorada",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8700216732482"
-     ],
-     "inci": "Polyethylene Glycol, Parfum, Aqua, Hexyl Cinnamal, Isopropyl Myristate, Linalool, Alpha-Isomethyl Ionone, Linalyl Acetate, Amyl Cinnamal, Vanillin, Coumarin, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Citronellol, Geraniol, Polyacrylate Crosspolymer-9, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Polyvinyl alcohol, Pogostemon Cablin Oil, Delta-Damascone, Terpinolene, Xanthan gum, BHT, Propylene Glycol, Colorante, Sodium Hydroxide, Colorante"
-    },
-    {
-     "nombre": "Perfumador de ropa en perlas Lenor Azahar y Amapola",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530411127"
-     ],
-     "inci": "Polyethylene Glycol, Parfum, Aqua, Isopropyl Myristate, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Linalyl Acetate, Citronellol, Coumarin, Alpha-Isomethyl Ionone, Limonene, Linalool, Hydroxycitronellal, Terpinolene, Polyacrylate Crosspolymer-9, Polyvinyl alcohol, Citral, Eucalyptus Globulus Leaf Extract, Eugenia Caryophyllus Leaf Oil, Delta-Damascone, Eugenol, BHT, Xanthan gum, Propylene Glycol, Colorante, Sodium Hydroxide, Colorante"
-    },
-    {
-     "nombre": "Suavizante concentrado Lenor Aire Fresco Frescor Alpino",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006530037051",
-      "8006530619165"
-     ],
-     "inci": "Aqua, Distearoylethyl/Dipalmitoylethyl Dimonium Chloride, Parfum, Isopropyl Alcohol, Acrylic Polymer, Isopropyl Myristate, Cocos Nucifera Oil, Limonene, Chitosan Crosspolymer, Formic Acid, Hexyl Cinnamal, Citronellol, Linalool, Geraniol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Hydroxycitronellal, Coumarin, Hydrochloric Acid, Polyacrylate Crosspolymer-9, Monosodium Etidronate, Polyvinyl alcohol, Dimethicone, Xanthan gum, Trimethylsiloxysilicate/Dimethicone Crosspolymer, Glyceryl Stearate, PEG-20 Stearate, Disodium Phosphite, Sodium hydrogen phosphonate, Phosphorous acid sodium salt, Hydroxyethylcellulose"
-    },
-    {
      "nombre": "Suavizante concentrado Lenor Aire Fresco Flores Silvestres",
      "include": [],
      "exclude": [],
@@ -72198,89 +71825,7 @@
   {
    "key": "ambipur",
    "nombre": "Ambi Pur",
-   "productos": [
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Tatami Japonés",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "4015600450380"
-     ],
-     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Benzyl Alcohol, Ethyl 2 2-Dimethylhydrocinnamal, Benzyl Salicylate, Cyclamen Aldehyde, Dimethyl Heptenal, Ethyl Methylphenylglycidate, Amyl Cinnamal, Limonene, Pentamethylheptenone, 4-tert-Butylcyclohexyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Citronellol, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Citral, Methylundecanal, Eucalyptol, Lauraldehyde, cis-hex-3-en-1-yl Methyl Carbonate, Coumarin, Linalyl Acetate, Delta-Damascone, Eugenol, Alpha-Isomethyl Ionone, Methyl Octine Carbonate, Geraniol"
-    },
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Campos de Lavanda",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8700216457897"
-     ],
-     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Linalyl Acetate, Eucalyptus Globulus Leaf Extract, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Dulcis Oil, Limonene, Benzaldehyde, Eugenol, Citronellol, Alpha-Isomethyl Ionone, Acetylcedrene, Camphor, Pogostemon Cablin Oil, Coumarin, Citral, Cedrus Atlantica Bark Oil, Eugenia Caryophyllus Leaf Oil, Benzyl Salicylate, Menthol, Beta-Caryophyllene, Benzyl Alcohol, Trans-Anethole, Geranyl Acetate, l-Limonene, Turpentine, Terpineol, Geraniol, Delta-Damascone, Pinene, Eucalyptus Globulus Leaf Extract, Citrus Ext."
-    },
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur 3Volution Aroma a Limpio",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8001090761989"
-     ],
-     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Citronellol, Tetrahydrolinalool, Eucalyptus Globulus Leaf Extract, Methylundecanal, 4-tert-Butylcyclohexyl Acetate, Cyclamen Aldehyde, Ethyl 2 2-Dimethylhydrocinnamal, Eucalyptol, Tetramethyl Acetyloctahydronaphthalenes, Alpha-Isomethyl Ionone, Methylenedioxyphenyl Methylpropanal, Coumarin, Pentamethylheptenone, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Geraniol, Eugenol, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Lauraldehyde, Nerol, Delta-Damascone, Undecylenal, Dimethyl Heptenal, Limonene, Isoeugenol, Citral"
-    },
-    {
-     "nombre": "Ambientador de baño Ambi Pur Hierba Fresca",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "8006540194102"
-     ],
-     "inci": "Parfum, Linalool, Linalyl Acetate, 1 2 3 4 5 6 7 8-Octahydro-5 5-Dimethylnaphthalene-2-Carbaldehyde, Limonene, 3-(o-ethylphenyl)-2 2-Dimethylpropionaldehyde, Cyclamen Aldehyde, Delta-Damascone, Cyclooctenyl Methyl Carbonate, Ethyl Methylphenylglycidate, Trans-Anethole, Methylundecanal, Octahydro-4 7-Methano-1H-Indenecarbaldehyde, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Dimethyl-3-Cyclohexene-1-Carbaldehyde, Dimethyl Heptenal, Citral, Trimethylundecenal, Isocyclocitral, trans-2-Hexanal, Dimethylcyclohexenyl 3-butenyl ketone, 4 8-Dimethyl-4 9-decadienal, Heptamethyl Decahydroindenofuran, Methyl 2-Octynoate, Methyl Octine Carbonate, Benzyl Alcohol"
-    },
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur Campos de Lavanda (recambio)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "4015600435653"
-     ],
-     "inci": "Parfum, PPG-2 Methyl Ether, PPG-3 Methyl Ether, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Cyclamen Aldehyde, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Pentamethylheptenone, Citronellol, Acetylcedrene, Eucalyptol, Ethyl 2 2-Dimethylhydrocinnamal, Cedrol Methyl Ether, Coumarin, Methyl Dihydroxy-dimethylbenzoate, Delta-Damascone, Limonene"
-    },
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur Flores Elegantes (recambio)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "5410076326389"
-     ],
-     "inci": "Parfum, PPG-2 Methyl Ether, Linalool, 4-tert-Butylcyclohexyl Acetate, Citronellol, Cyclamen Aldehyde, Ethyl 2 2-Dimethylhydrocinnamal, Limonene, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Alpha-Isomethyl Ionone, Delta-Damascone, Ethyl Methylphenylglycidate, Citral, Eugenol, Isoeugenol, Heliotropine, Cyclohexanepropanol 2 2 6-trimethyl-alpha-propyl-, Geraniol, Rose Ketone-4"
-    },
-    {
-     "nombre": "Ambientador eléctrico Ambi Pur Tatami Japonés (recambio)",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "4015600435318"
-     ],
-     "inci": "PPG-3 Methyl Ether, Parfum, Amyl Cinnamal, 4-tert-Butylcyclohexyl Acetate, Citral, Linalool, Ethyl 2 2-Dimethylhydrocinnamal, 2 4-Dimethyl-3-Cyclohexene Carboxaldehyde, Methylundecanal, cis-hex-3-en-1-yl Methyl Carbonate, Eucalyptol, Dimethyl Heptenal, Limonene, Cyclamen Aldehyde, Delta-Damascone"
-    },
-    {
-     "nombre": "Ambientador de coche Ambi Pur Car Brisa Marina",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "4015600641580"
-     ],
-     "inci": "Parfum, Linalool, Geraniol, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Dimethylbenzyl Carbinyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Limonene, beta-Pinene, Citrus Aurantium Dulcis Peel Cera, Eugenol, Citrus Limon (Lemon) Peel Oil, Lavandula Hybrida Oil, Isoeugenol, Pinene, Citral, Benzaldehyde"
-    },
-    {
-     "nombre": "Ambientador de coche Ambi Pur Car Flores Elegantes",
-     "include": [],
-     "exclude": [],
-     "barcodes": [
-      "4015600641610"
-     ],
-     "inci": "Parfum, Linalool, Geranyl Acetate, Dimethylbenzyl Carbinyl Acetate, Delta-Damascone, 3-Methyl-5-(2 2 3-trimethyl-3-cyclopenten-1-yl)pent-4-en-2-ol, Coumarin, Citral, Methyl Salicylate, beta-Pinene, Alpha-Isomethyl Ionone, Benzaldehyde, Benzyl Alcohol"
-    }
-   ]
+   "productos": []
   },
   {
    "key": "olay",

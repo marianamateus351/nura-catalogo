@@ -941,6 +941,43 @@ Las fotos de Consum son de 300 px y no se leen.
   (versión 2026-10-04-rb-audit2) y el perfumador Flor Lavanda, que había entrado solo por el nombre. De Reckitt por nombre
   quedan **16 códigos, todos comprobados con su etiqueta**. La misma revisión se pasa al resto de Hogar atado por nombre
   (Henkel, P&G, Unilever, KH-7).
+- **Precisión de Mariana (2026-10-04): "si la info está validada directamente del fabricante, no quites".** Se lee así:
+  cuando es el fabricante quien liga el código al producto (su portal o su web dan el EAN), el código se queda, salvo que la
+  etiqueta de ese mismo envase lo contradiga.
+  - Vuelven 12 códigos de Reckitt cuyo EAN sale de la web de la marca (finish.es, airwick.es, cillitbang.es) y que se habían
+    quitado solo por no tener foto legible (versión 2026-10-04-rb-audit3): Finish Quantum, Power All in 1 (2), Power All in 1
+    Limón y Power Essential Limón; Air Wick Lirio de Luna (recambio), Flor de Cerezo y Freshmatic Oasis Turquesa y Delicias de
+    Verano; Cillit Bang colgador WC, Power Gel WC y Manchas de Humedad.
+  - No vuelven 8410104914110 (su envase es Ultimate Fresh, con otros alérgenos) ni el recambio Air Wick Flor 8410104017026:
+    los contradice su propia etiqueta.
+
+### 2026-10-04 · Auditoría de Henkel, P&G, Unilever, KH-7 y Frosch (decisión R)
+Misma revisión que en Reckitt, sobre los **122 códigos atados por nombre** (Consum/Mercadona, El Corte Inglés y fotos de Open
+Food Facts). Ninguno está ligado por el fabricante. Persán, Frosch (portal), Nuncas, Quicesa, Químicas Oro, Disiclin y HG van
+por EAN del fabricante y no entran en la revisión. Se comprobaron 102 con foto legible (El Corte Inglés, Mercadona a tamaño
+grande u Open Food Facts); los otros 20 solo tienen foto de Consum (300 px).
+- **Resultado:** 34 COINCIDE, 39 NO COINCIDE y 29 ILEGIBLE.
+- **Fallos típicos:** fórmulas "nueva" o "novedad" con otros alérgenos:
+  - Lenor Aire Fresco, con 12 sustancias que el portal no trae;
+  - Ariel Pods;
+  - Skip cápsulas y Ultimate;
+  - Mimosín Azul Vital, con Sodium Benzoate en vez de Formic Acid;
+  - Wipp Express Limpio & Liso e Higiene, con MIT, Linalool y Hexyl Cinnamal;
+  - Vernel Lirio, Maldivas y Cielo Azul;
+  - Bref Pine sin Limonene;
+  - Dixan Gel Total+ y Micolor con MIT sin declarar en el catálogo;
+  - KH-7 Sin Manchas, que es otra fórmula con peróxido de hidrógeno.
+- **Criterio sobre la ampliación de alérgenos (Reglamento 2023/1545):** si lo único que "sobra" en el catálogo son alérgenos de
+  la lista ampliada, la ficha se queda. Los envases tienen plazo hasta 2026-2028 para declararlos, así que no prueba que la
+  lista esté mal (Fairy Poder 3 en 1, Wipp Power Caps, Bref Blue Activ Floral y Power Activ Lavender, Dixan Trio-Caps, Somat
+  Deo Perls).
+- **Quitados: 84 códigos** (versión 2026-10-04-hogar-audit): todos los NO COINCIDE (salvo los de la lista ampliada), todos los
+  ILEGIBLE, los 20 de Consum y 2 que coinciden pero con la foto de otro código (Fairy Ultra 4084500183087, Somat
+  abrillantador 9000101369236).
+  - Se quedan **38**.
+  - Ariel, Skip, Don Limpio, Ambi Pur, Micolor, Estrella y Conejo quedan sin productos.
+  - Vernel pasa de 9 fichas a 2, Bref de 8 a 3 y Dixan de 5 a 1.
+
 
 ### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (cerrada)
 Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
