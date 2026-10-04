@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci07",
+ "version": "2026-10-04-eci09",
  "marcas": [
   {
    "key": "larocheposay",
@@ -50602,6 +50602,15 @@
       "8058664146178"
      ],
      "inci": "Aqua (Water), Aloe Barbadensis Leaf Juice, Glycerin, PEG-40 Hydrogenated Castor Oil, Propanediol, Benzyl Alcohol, Betaine, 1,2-Hexanediol, Polysorbate 20, Parfum (Fragrance), 2-Methyl 5-Cyclohexylpentanol, Sodium Benzoate, Lactic Acid, Sodium Gluconate, Thymus Vulgaris Flower/Leaf Oil [Thymus Vulgaris (Thyme) Flower/Leaf Oil], Bisabolol"
+    },
+    {
+     "nombre": "Lubricante íntimo Lub Gel Aloe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664168224"
+     ],
+     "inci": "Aqua, Glycerin, Aloe Barbadensis Leaf Juice, Hydroxyethylcellulose, Carbomer, Sodium Benzoate, Aroma, Potassium Sorbate, Disodium EDTA, Sodium Hydroxide"
     }
    ]
   },
@@ -72703,6 +72712,81 @@
       "9361287002493"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Sodium Benzoate, Citric Acid, Potassium Sorbate, Glycerin, Rubus Idaeus (Raspberry) Fruit Extract, Vanilla Planifolia (Vanilla) Fruit Extract, Sodium Sulfate, Geranyl Acetate, Limonene, CI 45100, CI 47005, CI 42090"
+    }
+   ]
+  },
+  {
+   "key": "chicco",
+   "nombre": "Chicco",
+   "productos": [
+    {
+     "nombre": "Champú y gel de baño Baby Moments",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664138425"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Phenoxyethanol, Parfum, Decyl Glucoside, 1, 2-Hexanediol, PEG-7 Glyceryl Cocoate, Benzoic Acid, Laureth-2, Sodium Gluconate, Coco-Glucoside, Glyceryl Oleate, Calendula Officinalis Extract (Calendula Officinalis Flower Extract), Polyquaternium-7, Lactic Acid"
+    },
+    {
+     "nombre": "Champú sin lágrimas Baby Moments",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664138388"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Phenoxyethanol, Parfum, Decyl Glucoside, 1, 2-Hexanediol, PEG-7 Glyceryl Cocoate, Benzoic Acid, Laureth-2, Sodium Gluconate, Coco-Glucoside, Glyceryl Oleate, Calendula Officinalis Extract (Calendula Officinalis Flower Extract), Polyquaternium-7, Lactic Acid"
+    },
+    {
+     "nombre": "Gel de baño sin lágrimas Baby Moments Protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664138333"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Phenoxyethanol, Decyl Glucoside, Parfum, 1, 2-Hexanediol, PEG-7 Glyceryl Cocoate, Benzoic Acid, Laureth-2, Sodium Gluconate, Calendula Officinalis Extract (Calendula Officinalis Flower Extract), Coco-Glucoside, Glyceryl Oleate, Lactic Acid"
+    },
+    {
+     "nombre": "Crema corporal fluida Baby Moments",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8058664138463"
+     ],
+     "inci": "Aqua, Diethylhexyl Carbonate, Glycerin, Ethylhexyl Stearate, Glyceryl Stearate, PEG-100 Stearate, Panthenol, Prunus Amygdalus Dulcis Oil [Prunus Amygdalus Dulcis (Sweet Almond) Oil], Propylene Glycol, Caprylyl Glycol, Tocopheryl Acetate, Parfum, Ethylhexylglycerin, Acrylates/Vinyl Isodecanoate Crosspolymer, Shorea Stenoptera Seed Butter, Prunus Amygdalus Dulcis Fruit Extract [Prunus Amygdalus Dulcis (Sweet Almond) Fruit Extract], Magnesium Aluminum Silicate, Xanthan Gum, Citric Acid, Sodium Hydroxide, Sodium Gluconate"
+    }
+   ]
+  },
+  {
+   "key": "johnfrieda",
+   "nombre": "John Frieda",
+   "productos": [
+    {
+     "nombre": "Champú aclarante Go Blonder",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5037156227352"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Glycol Distearate, Lactic Acid, Betaine, Cetyl Alcohol, Sodium Chloride, Propanediol, Parfum, Dimethyl Isosorbide, Cocamidopropyl Betaine, Cocamide MEA, Sodium Hydroxide, Benzyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Isopentyldiol, Glycine, Citrus Aurantium Dulcis Peel Oil, Citrus Limon Peel Oil, Malic Acid, PPG-9, Panthenol, Succinic Acid, Acid Yellow 3, Acid Orange 7, Acid Violet 43, Sodium Benzoate, Methylchloroisothiazolinone, Methylisothiazolinone, Limonene"
+    },
+    {
+     "nombre": "Acondicionador aclarante Go Blonder",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5037156227369"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Dimethicone, Dipropylene Glycol, Parfum, Propanediol, Phenyl Trimethicone, Isopropyl Palmitate, Dimethyl Isosorbide, Stearyl Alcohol, Panthenol, Disodium EDTA, Sodium Hydroxide, Isopentyldiol, Glycine, Citrus Aurantium Dulcis Peel Oil, Citrus Limon Peel Oil, Glycerin, Malic Acid, Succinic Acid, Benzoic Acid, Limonene, CI 47005"
+    },
+    {
+     "nombre": "Spray densificador PROfiller+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5037156285376"
+     ],
+     "inci": "Aqua, Alcohol Denat., Polyquaternium-16, Polysorbate 20, Polyquaternium-68, Parfum, Panthenol, Ethylhexylglycerin, Cetrimonium Chloride, Hydrolyzed Rice Protein, Glycerin, Alcohol, Lecithin, Tocopherol, Caffeine, Hyaluronic Acid, Tocopheryl Acetate, Biotin, Phenoxyethanol, Sodium Benzoate, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
     }
    ]
   }
