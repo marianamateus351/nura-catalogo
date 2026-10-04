@@ -937,7 +937,10 @@ Las fotos de Consum son de 300 px y no se leen.
   - 8 sin declaración legible.
   - 18 sin foto que se pueda leer (Consum o web): Freshmatic, Finish Power All in 1 y Essential, Colon Gel Nenuco y
     Powercaps Limpieza Higiénica, Cillit Bang WC…
-- **Pendiente de Mariana:** con casi la mitad de los comprobados fallando, esos 26 sin comprobar tienen bastante riesgo.
+- **Decisión de Mariana (2026-10-04): "si hay cosas mal no las vamos a poner".** Salen también los 26 sin comprobar
+  (versión 2026-10-04-rb-audit2) y el perfumador Flor Lavanda, que había entrado solo por el nombre. De Reckitt por nombre
+  quedan **16 códigos, todos comprobados con su etiqueta**. La misma revisión se pasa al resto de Hogar atado por nombre
+  (Henkel, P&G, Unilever, KH-7).
 
 ### 2026-10-04 · El Corte Inglés: cosmética por foto trasera y Hogar por decisión R (cerrada)
 Mariana pidió seguir marca a marca con la foto trasera y, después, Hogar.
