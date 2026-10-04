@@ -1,5 +1,5 @@
 {
- "version": "2026-10-04-eci04",
+ "version": "2026-10-04-eci06",
  "marcas": [
   {
    "key": "larocheposay",
@@ -15760,6 +15760,87 @@
       "8718951594548"
      ],
      "inci": "Aqua, Glycerin, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Inulin, Sodium Benzoate, Castoryl Maleate, Lactic Acid, Hydroxyacetophenone, Glyceryl Oleate, Glycol Distearate, Polyquaternium-7, Sucrose Cocoate, Sodium Gluconate, Coco-Glucoside, Sodium Hydroxide, Sodium Pyruvate, Zinc Sulfate, Glyceryl Stearate"
+    },
+    {
+     "nombre": "Desodorante roll-on Dermo Extra Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463899"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Caprylyl Glycol, Calcium Silicate, Zinc Oxide"
+    },
+    {
+     "nombre": "Desodorante roll-on Dermo Invisible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463295"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Caprylyl Glycol, Calcium Silicate"
+    },
+    {
+     "nombre": "Jabón de manos Biome Protect Protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951487956"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Inulin, Sodium Benzoate, Lactic Acid, Parfum, Hydroxyacetophenone, Sodium Pyruvate, Glycol Distearate, Sodium Gluconate, Sodium PCA, Polyquaternium-7, Poloxamer 124, Butyloctanol, Coco-Glucoside, Zinc Sulfate, Glyceryl Oleate, Glyceryl Stearate"
+    },
+    {
+     "nombre": "Desodorante roll-on Zero% Invisible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951463639"
+     ],
+     "inci": "Aqua, Steareth-2, Glycerin, PPG-15 Stearyl Ether, Steareth-21, Parfum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Desodorante roll-on Dermo Total Protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951598591"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Caprylyl Glycol, Calcium Silicate, Caprylic/Capric Triglyceride, Cocoglycerides"
+    },
+    {
+     "nombre": "Desodorante roll-on Dermo+ Extra Control XXL",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951728707"
+     ],
+     "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Ethylhexylglycerin, Aluminum Sesquichlorohydrate"
+    },
+    {
+     "nombre": "Gel de ducha Derma Therapy Anti-sequedad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951811058"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Taurine, Lactic Acid, Arginine, Sodium Benzoate, Hydroxyacetophenone, Inulin, Parfum, Sodium Metabisulfite, Bisabolol, Glycol Distearate, Sodium PCA, Polyquaternium-7, Sodium Gluconate, Coco-Glucoside, Butyloctanol, Poloxamer 124, Glycine, Glyceryl Oleate, Glyceryl Stearate, Hyaluronic Acid"
+    },
+    {
+     "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951811089"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Glycerin, Sodium C14-16 Olefin Sulfonate, Taurine, Lactic Acid, Arginine, Sodium Benzoate, Hydroxyacetophenone, Inulin, Sodium Metabisulfite, Bisabolol, Sodium PCA, Sodium Gluconate, Triticum Vulgare Germ Oil, Butyloctanol, Poloxamer 124, Glycine"
+    },
+    {
+     "nombre": "Gel de ducha Derma Therapy con Niacinamida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951811119"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Taurine, Lactic Acid, Arginine, Sodium Benzoate, Hydroxyacetophenone, Inulin, Parfum, Niacinamide, Sodium Metabisulfite, Bisabolol, Sodium PCA, Sodium Gluconate, Butyloctanol, Poloxamer 124, Glycine"
     }
    ]
   },
@@ -24570,6 +24651,42 @@
       "8006540084557"
      ],
      "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Glycerin, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Sodium Chloride, Parfum, Benzyl Alcohol, Citric Acid, Disodium EDTA, Phenoxyethanol, Benzyl Benzoate, Hexyl Cinnamal, Histidine, Butylene Glycol, Alpha-Isomethyl Ionone, Magnesium Nitrate, Aloe Barbadensis Leaf Juice, Argania Spinosa Kernel Oil, Alcohol Denat, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Ecklonia Radiata Extract"
+    },
+    {
+     "nombre": "Acondicionador Suavidad aroma a rosas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216209984"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Polysorbate 20, Citric Acid, Histidine, Hexyl Cinnamal, Geraniol, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Acondicionador Fortificante Aloe",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216210430"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Parfum, Isopropyl Alcohol, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Polysorbate 20, Citric Acid, Limonene, Histidine, Aloe Barbadensis Leaf Juice, Hydroxycitronellal, Geraniol, Alpha-Isomethyl Ionone, Linalool, Citronellol, Citral"
+    },
+    {
+     "nombre": "Mascarilla capilar Petal Soft aroma a rosa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216200547"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Glutamic Acid, Parfum, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Disodium EDTA, Polysorbate 20, Histidine, Hexyl Cinnamal, CI 17200"
+    },
+    {
+     "nombre": "Aceite capilar Reparación Profunda Aceite de Argán de Marruecos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530075664"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Argania Spinosa Kernel Oil, Parfum, Hexamethylindanopyran, Benzyl Benzoate, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Linalyl Acetate, Limonene, Alpha-Isomethyl Ionone, Coumarin, Vanillin, Citrus Limon Peel Oil, Pinene, Trimethylcyclopentenyl Methylisopentenol, Eugenol, Benzyl Alcohol, Cinnamomum Zeylanicum Bark Oil"
     }
    ]
   },
@@ -43190,6 +43307,43 @@
       "8410190244948"
      ],
      "inci": "Dipropylene Glycol, Aqua (Water), Propylene Glycol, Glycerin, Palmitic Acid, Stearic Acid, Parfum (Fragrance), Hydrolyzed Milk Protein, Calcium Lactate, Tocopheryl Acetate, Ethylhexylglycerin, Farnesol, Octenidine HCl, Glycine, Isotridecyl Alcohol Ethoxylated, PEG-40 Hydrogenated Castor Oil, Sodium Citrate, Sodium Dodecylbenzenesulfonate, Sodium Hydroxide, Sodium Lactate, Styrene/Acrylate Copolymer, Phenoxyethanol, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Geraniol, Amyl Salicylate, Benzaldehyde, Hexamethylindanopyran, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, Pinene, Rose Ketones"
+    },
+    {
+     "nombre": "Gel de ducha Nutritivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135007147",
+      "8411135007178"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Glycerin, Milk Extract, Propylene Glycol, Polyquaternium-39, Parfum, Glycol Distearate, Lactic Acid, C12-13 Alkyl Lactate, Hydrogenated Castor Oil, Tetrasodium Glutamate Diacetate, Sodium Benzoate, Potassium Sorbate, Glyceryl Oleate, Sodium Hydroxide, Citric Acid, Hexyl Cinnamal, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Amyl Salicylate, Limonene, Geraniol, Linalyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Gel de ducha Lactourea reparador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135008304"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Urea, Coco-Glucoside, Glycerin, Milk Extract, Propylene Glycol, Helianthus Annuus Seed Oil, Polyquaternium-39, Potassium Lactate, Tocopherol, Lactic Acid, Parfum, Glycol Distearate, Propanediol, Lecithin, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Tetrasodium Glutamate Diacetate, C12-13 Alkyl Lactate, Hydrogenated Castor Oil, Sodium Hydroxide, Citric Acid, Hexamethylindanopyran, Linalyl Acetate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Leche corporal Lactourea reparadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135354777"
+     ],
+     "inci": "Aqua, Glycerin, Paraffinum Liquidum (Mineral Oil), Cetearyl Alcohol, Glyceryl Stearate, Cetyl Palmitate, Potassium Lactate, Urea, Cetearyl Ethylhexanoate, PEG-100 Stearate, Dimethicone, Stearic Acid, Palmitic Acid, Milk Extract, Propylene Glycol, Potassium Sorbate, Sodium Benzoate, Tocopheryl Acetate, Lactic Acid, Carbomer, Phenoxyethanol, Caprylyl Glycol, Propanediol, Lecithin, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Sodium Hydroxide, Disodium EDTA, Parfum, Alpha-Isomethyl Ionone, Vanillin, Geraniol, Coumarin, Citral, Citronellol, Limonene, Hexyl Cinnamal, Citrus Sinensis Peel Oil, Linalool, Linalyl Acetate, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Desodorante en spray Activit Protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411135352681"
+     ],
+     "inci": "Isobutane, Propane, Aqua, Aluminum Chlorohydrate, Dicaprylyl Ether, Parfum, Caprylic/Capric Triglyceride, Milk Extract, Lactobacillus Ferment, Isopropyl Myristate, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, PPG-14 Butyl Ether, Propylene Glycol, Propanediol, Butane, Capryloyl Glycerin/Sebacic Acid Copolymer, Glycine, Calcium Chloride, 1, 2-Hexanediol, Sodium Chloride, 2-Methyl 5-Cyclohexylpentanol, Shorea Robusta Resin, Octyldodecanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Hexamethylindanopyran, Limonene, Citrus Limon Peel Oil, Linalyl Acetate, Coumarin, Citrus Aurantium Peel Oil, Dimethyl Phenethyl Acetate, Citronellol, Pinene, Tetramethyl Acetyloctahydronaphthalenes"
     }
    ]
   },
@@ -72165,6 +72319,198 @@
       "8002410039634"
      ],
      "inci": "Aqua, Glycerin, Sodium Polyacrylate, Sorbitol, Ricinus Communis Seed Oil, Cellulose Gum, Triethylhexanoin, Menthol, Tocopheryl Acetate, Acorus Calamus Root Extract, Perilla Ocymoides Leaf Extract, 1, 2-Hexanediol, Allantoin, Butylene Glycol, Dipotassium Glycyrrhizate, Polyacrylic Acid, Tartaric Acid, Hydroxyacetophenone, Aluminum Glycinate, Disodium EDTA"
+    }
+   ]
+  },
+  {
+   "key": "ogx",
+   "nombre": "Ogx",
+   "productos": [
+    {
+     "nombre": "Acondicionador renovador Aceite de Argán de Marruecos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0022796976123"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Argania Spinosa Kernel Oil, Dimethicone, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Coco-Caprylate/Caprate, Steareth-20, Isopropyl Alcohol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Acondicionador nutritivo Leche de Coco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0022796970060"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Cocos Nucifera (Coconut) Fruit Extract, Hydrolyzed Milk Protein, Dimethicone, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Coco-Caprylate/Caprate, Steareth-20, Isopropyl Alcohol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Leuconostoc/Radish Root Ferment Filtrate, Parfum"
+    },
+    {
+     "nombre": "Champú alisador Brazilian Keratin Smooth",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0022796976017"
+     ],
+     "inci": "Aqua, Sodium Methyl Cocoyl Taurate, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Hydrolyzed Keratin, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Coco-Glucoside, Amodimethicone, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Coconut Acid, Disodium Tetrapropenyl Succinate, Glycol Distearate, PEG-150 Distearate, Hexylene Glycol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Benzoic Acid, Phenoxyethanol, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Champú Bond Protein Repair repara y protege",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661818450"
+     ],
+     "inci": "Aqua, Sodium Methyl Cocoyl Taurate, Decyl Glucoside, Cocamidopropyl Betaine, Parfum, Sodium Chloride, PEG-150 Distearate, Triticum Vulgare Protein, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Tocopheryl Acetate, Panthenol, Glycerin, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Coco-Glucoside, Amodimethicone, Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, Caprylyl Glycol, Coconut Acid, Disodium Tetrapropenyl Succinate, Glycol Distearate, 1, 2-Hexanediol, Hexylene Glycol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Benzoic Acid, Tartaric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Acondicionador Bond Protein Repair repara y protege",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3574661818467"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Parfum, Triticum Vulgare Protein, Hydroxypropylgluconamide, Hydroxypropylammonium Gluconate, Panthenol, Tocopheryl Acetate, Dimethicone, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Coco-Caprylate/Caprate, Caprylyl Glycol, Steareth-20, Isopropyl Alcohol, 1, 2-Hexanediol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Tartaric Acid, Benzoic Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Acondicionador alisador Brazilian Keratin Smooth",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0022796976024"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Hydrolyzed Keratin, Dimethicone, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Coco-Caprylate/Caprate, Steareth-20, Isopropyl Alcohol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Phenoxyethanol, Potassium Sorbate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "oldspice",
+   "nombre": "Old Spice",
+   "productos": [
+    {
+     "nombre": "Desodorante en stick Captain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090970497"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, Parfum, PPG-3 Myristyl Ether, Tetrasodium EDTA, Linalool, Hexyl Cinnamal, Octadecyl Di-t-butyl-4-hydroxyhydrocinnamate, Citronellol, Limonene, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 42090"
+    },
+    {
+     "nombre": "Desodorante en stick Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5000174003451"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, PPG-3 Myristyl Ether, Parfum, Tetrasodium EDTA, Limonene, Linalool, Eugenol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Cinnamyl Alcohol, Citral, Benzyl Benzoate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 60725, CI 61565"
+    },
+    {
+     "nombre": "Desodorante en stick Deep Sea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001841283944"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, PPG-3 Myristyl Ether, Parfum, Tetrasodium EDTA, Linalool, Hexyl Cinnamal, Octadecyl Di-t-butyl-4-hydroxyhydrocinnamate, Limonene, Coumarin, Geraniol, Citronellol, Citral, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 61565"
+    },
+    {
+     "nombre": "Gel de ducha y champú Captain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540838914"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Benzyl Alcohol, Sodium Benzoate, Sodium Citrate, Sodium Xylenesulfonate, Sodium Salicylate, Citric Acid, Linalool, Disodium EDTA, Sodium Hydroxide, Hexyl Cinnamal, Citronellol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Desodorante en spray Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090592927"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Methyl Cyclodextrin, Aqua, Parfum, Limonene, Linalool, Eugenol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Cinnamyl Alcohol, Citral, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Gel de ducha y champú 3 en 1 Captain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540818824"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Benzyl Alcohol, Sodium Benzoate, Sodium Citrate, Sodium Xylenesulfonate, Sodium Salicylate, Citric Acid, Linalool, Disodium EDTA, Sodium Hydroxide, Hexyl Cinnamal, Citronellol, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Desodorante en stick Night Panther",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540424186"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, PPG-3 Myristyl Ether, Parfum, Tetrasodium EDTA, Linalool, Hexyl Cinnamal, Octadecyl Di-t-butyl-4-hydroxyhydrocinnamate, Limonene, Benzyl Alcohol, Geraniol, Coumarin, Citronellol, Citral, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 42090"
+    },
+    {
+     "nombre": "Desodorante en stick Rock Tomorrowland con bergamota",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216203883"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, PPG-3 Myristyl Ether, Parfum, Tetrasodium EDTA, Limonene, Hexyl Cinnamal, Linalool, Coumarin, Citral, Citronellol, Geraniol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 61565"
+    },
+    {
+     "nombre": "Desodorante en spray Captain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090962935"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Methyl Cyclodextrin, Aqua, Linalool, Hexyl Cinnamal, Citronellol"
+    },
+    {
+     "nombre": "Desodorante en spray Deep Sea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006540786307"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Linalool, Hexyl Cinnamal, Limonene, Coumarin, Geraniol, Citronellol, Citral"
+    },
+    {
+     "nombre": "Gel de ducha y champú 3 en 1 Captain (envase 8006530139403)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8006530139403"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Benzyl Alcohol, Parfum, Sodium Benzoate, Sodium Citrate, Sodium Xylenesulfonate, Tetramethyl Acetyloctahydronaphthalenes, Sodium Salicylate, Citric Acid, Linalool, Disodium EDTA, Sodium Hydroxide, Hexyl Cinnamal, Citronellol, Eucalyptus Globulus Oil, Linalyl Acetate, CI 42090, CI 17200"
+    },
+    {
+     "nombre": "Gel de ducha y champú 3 en 1 Epic Legend",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216611046"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Chloride, Sodium Benzoate, Sodium Citrate, Benzyl Alcohol, Sodium Xylenesulfonate, Sodium Salicylate, Citric Acid, Linalool, Disodium EDTA, Limonene, Sodium Hydroxide, Coumarin, CI 42090"
+    },
+    {
+     "nombre": "Desodorante en spray Epic Legend",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216687843"
+     ],
+     "inci": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Linalool, Limonene, Piroctone Olamine, Coumarin, Geraniol, Citral, Citronellol, Isoeugenol, Eugenol"
+    },
+    {
+     "nombre": "Desodorante en stick Epic Legend",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8700216607377"
+     ],
+     "inci": "Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, Parfum, PPG-3 Myristyl Ether, Tetrasodium EDTA, Linalool, Limonene, Octadecyl Di-t-butyl-4-hydroxyhydrocinnamate, Coumarin, Geraniol, Citral, Citronellol, Eugenol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 42090"
     }
    ]
   }
