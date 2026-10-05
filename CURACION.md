@@ -775,6 +775,25 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria — PENDIENTE: identificar la marca y curarla entera
+Escaneado sin resultado y, acto seguido, la usuaria tecleó la lista (en Revisar, 05-10). Mariana la
+aprueba a mano con el nombre "Mousse Crème Éclat"; cuando el catálogo traiga la marca, Novedades la
+sustituye (la clave es el código, así que saldrá como "sustituye aportación manual").
+
+- **Código**: 3473311525109, dígito de control válido, prefijo 347 = Francia. No está en el catálogo
+  (167 marcas) ni en CURACION. La sesión que escribe esto no tiene salida a internet: **identificar
+  la marca** buscando el código en Open Beauty Facts y en un buscador, y confirmar que el producto es
+  la "Mousse Crème Éclat" (limpiador espumoso de peonía, ginkgo y pomelo).
+- **Lista tecleada por la usuaria** (coincide con una fórmula real de limpiador espumoso; falta
+  contrastarla con la oficial): Water/Eau (Aqua), Coco-Glucoside, Glycerin, Cocamidopropyl Betaine,
+  Betaine, PEG-7 Glyceryl Cocoate, Butylene Glycol, Panthenol, Paeonia Officinalis Flower Extract,
+  Ginkgo Biloba Leaf Extract, Citrus Grandis (Grapefruit) Fruit Extract, Sodium Chloride, Citric
+  Acid, Disodium EDTA, Sodium Hydroxide, Fragrance (Parfum), Phenoxyethanol, Potassium Sorbate,
+  Sodium Benzoate. (El "IL#TA" final era el lote leído por el OCR; fuera.)
+- **Qué hacer**: (1) identificar la marca; (2) si su web publica el INCI completo, curarla ENTERA con
+  revisión de falsos positivos y negativos, como las demás; (3) contrastar esta lista con la oficial
+  y anotar diferencias; (4) versión nueva de catalogo.json para que salga en Novedades y tachar aquí.
+
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
