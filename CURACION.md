@@ -775,7 +775,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria — PENDIENTE: identificar la marca y curarla entera
+### ~~2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria~~ — resuelto (versión 2026-10-05-sisley): Sisley, marca entera
 Escaneado sin resultado y, acto seguido, la usuaria tecleó la lista (en Revisar, 05-10). Mariana la
 aprueba a mano con el nombre "Mousse Crème Éclat"; cuando el catálogo traiga la marca, Novedades la
 sustituye (la clave es el código, así que saldrá como "sustituye aportación manual").
@@ -793,6 +793,22 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Qué hacer**: (1) identificar la marca; (2) si su web publica el INCI completo, curarla ENTERA con
   revisión de falsos positivos y negativos, como las demás; (3) contrastar esta lista con la oficial
   y anotar diferencias; (4) versión nueva de catalogo.json para que salga en Novedades y tachar aquí.
+
+**Resultado (2026-10-05):**
+- **Web oficial:** sisley-paris.com está entera tras el desafío de Cloudflare, así que no se ha podido ver si
+  publica el INCI. La marca se cura por la vía de Kérastase y Erborian: Douglas España contrastada con incidecoder.
+- **Marca:** **Sisley Paris**. El prefijo `3473311` es el de Sisley, y el producto es su espuma limpiadora Mousse Crème
+  Éclat de 125 ml. No está en Open Beauty Facts; el buscador y Douglas España lo confirman.
+- **Lista de la usuaria frente a la oficial:** **idénticas**, los 19 ingredientes en el mismo orden: Water/Eau (Aqua),
+  Coco-Glucoside, Glycerin, Cocamidopropyl Betaine, Betaine, PEG-7 Glyceryl Cocoate, Butylene Glycol, Panthenol, Paeonia
+  Officinalis Flower Extract, Ginkgo Biloba Leaf Extract, Citrus Grandis (Grapefruit) Fruit Extract, Sodium Chloride,
+  Citric Acid, Disodium EDTA, Sodium Hydroxide, Fragrance (Parfum), Phenoxyethanol, Potassium Sorbate, Sodium Benzoate.
+  - El "IL#TA" con que termina su lista no es un ingrediente: es el código de lista que Sisley imprime en la caja
+    (Douglas lo da como "IL#1A"). Se quita.
+  - Douglas escribe "PEG-7GLYCERYL COCOATE" sin espacio: es una errata de Douglas, no una diferencia.
+  - Incidecoder no tiene este producto; la segunda fuente es la caja de la usuaria.
+- **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
+- El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
@@ -3434,6 +3450,63 @@ española, es.davines.com**.
   partiendo cada palabra desconocida en dos que ya existen en el resto del catálogo.
 Scripts: `dv/es/crawl.py`, `dv/es/gen.py` (y los de la web internacional en `dv/`).
 
+### Sisley (Sisley Paris) — abierta 2026-10-05 (versión 2026-10-05-sisley): 63 productos, 162 códigos (de 504 en Douglas)
+Pedida por una usuaria (Mousse Crème Éclat, ver PEDIDOS 2026-10-05).
+- **La web de la marca no se puede usar.** sisley-paris.com (es-ES y el resto de países, sitemaps incluidos) sirve el
+  desafío interactivo de Cloudflare; solo responde `robots.txt`. No se sabe si las fichas publican el INCI y no se ha
+  intentado saltar la protección.
+- **Misma vía que Kérastase y Erborian: Douglas + incidecoder.**
+  - Douglas España: las páginas de marca `douglas.es/es/b/sisley/b0415?page=N` (5 páginas, 200 productos base; la
+    búsqueda de la API ignora `currentPage`). `/api/v2/products/<base>?fields=FULL` da las variantes, y
+    `/api/v2/products/<variante>` el `ean` y los `ingredients`: **504 variantes**, todas con EAN `3473311…` y 486 con
+    lista.
+  - Incidecoder: 167 fichas de la marca (`/brands/sisley?offset=N`).
+- **Ruido de Douglas, que se limpia antes de comparar:**
+  - el código de lista de Sisley ("IL#1A") y, detrás, el aviso "las listas se actualizan… lea la caja" (en español,
+    francés o alemán);
+  - prefijos de marketing ("Ingredientes activos… INCI:") y códigos de tono ("#0C #0W…");
+  - el bloque "MAY CONTAIN [+/- …]" de los tonos;
+  - erratas como "PEG-7GLYCERYL" o "CIRE D'AABEILLE".
+- **No entran:**
+  - **Listas traducidas a máquina al castellano** ("BUTILENGLICOL", "ACEITE DE CAMELIA OLEIFERA SEED"): La Crème 230,
+    Masque Givre au Tilleul y otras.
+  - **Descripciones** en lugar de lista (Les Phyto-Ombres, Ombre Éclat…) y 18 variantes sin lista (pinceles, cepillos,
+    algunos solares y bálsamos).
+  - **Varias listas por grupos de tonos** ("N° 1, 2, 3…: …"): Phyto-Lip Balm, Phyto-Blush Twist, Phyto-Rouge…; y
+    Phyto-Sourcils Design, que trae la lista del lápiz y la del iluminador.
+  - **Diferencias reales con incidecoder:**
+    - Crème Contour des Yeux et Lèvres (Ceteareth-33 frente a -22);
+    - cambios de orden en Baume aux Trois Huiles, Exfoliating Enzyme, el Super Soin Solaire Teinté y los Hair Rituel
+      Volumateur y Démêlante;
+    - ingredientes distintos en Cream Mask, Crème pour le Cou y Color Perfecting.
+  - Sets y estuches (Cofre dúo desmaquillante…).
+  - Todo lo demás que incidecoder no tiene, o tiene con otra fórmula (perfumes, Phyto-Rouge, gran parte del maquillaje).
+- **Entran:**
+  - **146 variantes con la lista idéntica en las dos fuentes**.
+  - **16 de bases, correctores, polvos, máscaras y Velvet Sleeping Mask**, donde solo cambia el formato:
+    - el bloque de colorantes "+/-";
+    - nombres comunes entre paréntesis que incidecoder no pone, como "Cucumis Sativus (Cucumber)";
+    - erratas de Douglas.
+  - Todos los tonos de una base comparten lista (el cuerpo y el mismo "+/-"), así que van en una entrada con todos sus
+    códigos: Phyto-Teint Perfection 28, Nude 21, Sisleÿa Le Teint 15, Ultra Éclat 13, Phyto-Cernes Éclat 9…
+- **Lista guardada:** la de incidecoder, que viene limpia y en tipo título, con Aqua y Parfum normalizados. En
+  Phyto-Teint Perfection se usa la de Douglas, porque incidecoder acorta dos nombres ("Lauryl PEG-10
+  Tris(Trimethylsiloxy)silylethyl Dimethicone"). Los colorantes "+/-" van al final.
+- **Nombres:** tipo en castellano + nombre de la gama ("Espuma limpiadora Mousse Crème Éclat", "Base de maquillaje
+  Phyto-Teint Nude", "Crema antiedad Sisleÿa L'Intégral Anti-Âge"), sin tamaño. Los tamaños y recambios con la misma
+  lista van juntos.
+- **Revisión FP/FN:** todo correcto. Las 63 fichas son de cuidado personal; la regresión da 0 cambios.
+  - fenoxietanol ×45, fragancia ×32, eugenol ×16 y aceite de lavanda ×16;
+  - parabenos (metil, etil, propil y butil) solo en Phyto-Teint Éclat Compact y Eau Florale, y las dos fuentes
+    coinciden;
+  - clorhexidina, octoxinol-13 y propilenglicol, los tres en Eau Florale, que es una fórmula antigua;
+  - talco (IARC 2A) en tres productos de polvo o base;
+  - octocrileno en los dos solares;
+  - nylon-12 y PMMA (microplásticos) en máscaras y polvos;
+  - el dipropilenglicol no dispara la regla del propilenglicol, y está bien;
+  - el extracto de flor de lavanda no es el aceite esencial y no da aviso, igual que con el árbol de té.
+Scripts: `mce/` (`dg_base.json`, `dg/`, `dg_db.json`, `ic_db.json`, `match.py`, `build.py`, `apply_sisley.json`).
+
 ### Rhode (rhodeskin.com) — abierta 2026-10-04 (versión 2026-10-04-rhode): 64 productos, 77 códigos
 Pedida por Mariana. Mismo método que Rare Beauty:
 - **Fuente:** la tienda Shopify de la marca. `products.json` da 114 fichas; el UPC de cada variante sale de
@@ -3940,8 +4013,8 @@ normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con 
   Si algún día dice que sí, Sanytol se retoma desde ahí y el mismo portal cubre el resto de
   marcas de AC Marca.
 
-## Estado (2026-10-04)
-11277 códigos en 167 marcas (7857 productos). Nuevas el 04-10: **Rhode 77** · **HG 8** · **Flor 2** · **Nuncas 14** · **Sanicentro 12** · **Cloro Max 4** · **Mayordomo 1** · **Mistol 4** · **Tenn 11** · **La Droguería 1919 6** · **Disiclin 16** · las marcas de las tandas de El Corte Inglés (ver su apartado). Recuento anterior: NYX 999 · **Natural Honey 13** · **Instituto Español 5** · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
+## Estado (2026-10-05)
+11314 códigos en 168 marcas. Nueva el 05-10: **Sisley 162** (pedido de una usuaria). Nuevas el 04-10: **Rhode 77** · **HG 8** · **Flor 2** · **Nuncas 14** · **Sanicentro 12** · **Cloro Max 4** · **Mayordomo 1** · **Mistol 4** · **Tenn 11** · **La Droguería 1919 6** · **Disiclin 16** · las marcas de las tandas de El Corte Inglés (ver su apartado). Recuento anterior: NYX 999 · **Natural Honey 13** · **Instituto Español 5** · **Axe 29** · **Mixa 14** · **Johnson's 14** · **Signal 3** · **Gillette 3** · **Ariel 3** · **Don Limpio 1** · **Skip 2** · **Mimosín 3** · **Vanish 3** · **Calgon 2** · **Bref 10** · **Somat 4** · **Estrella 3** · **Micolor 3** · **Conejo 2** · **Frosch 33** · **Flota 5** · **Wipp Express 6** · **Dixan 6** · **Vernel 12** · **Neutrex 5** · **Colon 6** · **Finish 10** · **Air Wick 15** · **Cillit Bang 6** · **Cif 1** · **Olaplex 17** · **Martiderm 59** · **Nuxe 147** · **Uriage 117** · **Anua 60** · **COSRX 92** · **Beauty of Joseon 18** · **Rare Beauty 401** · **Medik8 133** · **Durex 7** · **Control 3** · **Cumlaude Lab 31** · **Saforelle 6** · **Kiko Milano 1765** · **Rituals 540** · **Manucurist 278** · **SVR 109** · **Cetaphil 17** · **MET 169** · **Salt & Stone 40** · **Caudalie 77** · **The Ordinary 26** · **Babaria 139** · **Lactovit 22** · **Byphasse 9** · **Bosque Verde 16** · **KH-7 10** · **Lacer 68** · **Oral-B 7** · **essence 740** · **Catrice 677** · **Vaseline 29** · **Gliss 29** · **TRESemmé 18** · L'Oréal Paris 520 · Maybelline 455 · Nivea 235 ·
 Garnier 234 · Asevi 167 · Avène 162 · LRP 160 · Eucerin 137 · Essie 125 · Vichy 111 · **Davines 189** · **Klorane 105** · CeraVe 74 ·
 **ISDIN 68** · **A-Derma 64** · **Ducray 59** · Kérastase 59 · Neutrogena 56 · **Bioderma 50** · Cocunat 39 · Erborian 30 · Cien 29 · Dove 28 ·
 **SkinCeuticals 21** · **Haruharu Wonder 40** · **Consum 19** · Pantene 18 · Deliplus 16 · Colgate 16 · Sanex 15 · Rexona 14 · **Fairy 18** · Freshly 11 ·
