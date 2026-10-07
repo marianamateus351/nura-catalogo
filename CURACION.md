@@ -3904,8 +3904,10 @@ primeras opciones".
 
 **Condiciones para entrar (las dos) — corregido el 2026-10-07 por Mariana:**
 1. Cero detecciones con el detector de la app sobre la lista oficial del catálogo: ni
-   disruptores (INGREDIENTS) ni "otros riesgos" (matchOtrosRiesgos). Los "otros a tener en
-   cuenta" (matchOtros) no excluyen.
+   disruptores (INGREDIENTS), ni "otros riesgos" (matchOtrosRiesgos), **ni "otros a tener en
+   cuenta" (matchOtros)**. Corregido por Mariana el 2026-10-07: "no basta que sean riesgo bajo,
+   tienen que estar realmente limpios". Un producto recomendado no puede enseñar ningún aviso en
+   su ficha. Salieron 6: sulfitos en 5 y alcoholes etoxilados en las pastillas de Natulim.
 2. Categoría Cuidado personal u Hogar. Alimentación todavía no.
 
 **El enlace a Amazon NO es condición de entrada, es un extra.** Un producto entra por ser
@@ -3960,7 +3962,8 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
 node herramientas/alternativas/limpios.mjs > herramientas/alternativas/limpios.json   # condiciones 1 y 3
 python3 herramientas/alternativas/fechas.py                                          # fechaLista por código
-python3 herramientas/alternativas/genera.py <versión>                                # cruza con la condición 2
+python3 herramientas/alternativas/genera.py <versión>                                # escribe alternativas.json
+node herramientas/alternativas/verifica.mjs                                          # todo tiene que salir 0
 ```
 - `limpios.mjs` usa las mismas funciones que la ficha de producto de la app: `guessCategoria(nombre + marca)`,
   `dedupeIngredients(matchIngredients(inci))` y `matchOtrosRiesgos(inci)`. Los "otros a tener en cuenta" no

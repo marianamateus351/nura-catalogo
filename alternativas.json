@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07b",
+ "version": "2026-10-07c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -351,12 +351,6 @@
        "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
        "marca": "Medik8",
        "barcode": "0818625027636",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Gel limpiador Total Moisture Daily Cleansing Gel",
-       "marca": "Medik8",
-       "barcode": "0818625028732",
        "fechaLista": "03-10-2026"
       },
       {
@@ -913,13 +907,6 @@
        "amazon": "https://www.amazon.es/dp/B09ZYB8S31"
       },
       {
-       "nombre": "Sérum The Vitamin C 13 Serum",
-       "marca": "COSRX",
-       "barcode": "8809598455238",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0BS8M8Q5L"
-      },
-      {
        "nombre": "Keracnyl Sérum regulador antiimperfecciones",
        "marca": "Ducray",
        "barcode": "3282770399264",
@@ -1022,12 +1009,6 @@
        "barcode": "3337875693820",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B086MF1VNX"
-      },
-      {
-       "nombre": "Sérum antimanchas Oxy-R Peptides",
-       "marca": "Medik8",
-       "barcode": "0818625027728",
-       "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
@@ -1571,18 +1552,6 @@
        "barcode": "3504105033637",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B07YQ6NDSM"
-      },
-      {
-       "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
-       "marca": "Sanex",
-       "barcode": "8718951811089",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Gel de ducha Neutro Hidratación Delicada",
-       "marca": "Sanex",
-       "barcode": "8718951687035",
-       "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
@@ -3047,12 +3016,6 @@
        "marca": "La Droguería 1919",
        "barcode": "8410498240079",
        "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Eco Pastillas Lavavajillas Máquina 6 en 1 (30 pastillas)",
-       "marca": "Natulim",
-       "barcode": "8436617752667",
-       "fechaLista": "16-09-2026"
       }
      ]
     },

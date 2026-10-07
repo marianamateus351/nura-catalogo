@@ -1890,24 +1890,6 @@
    ]
   },
   {
-   "marcaKey": "sanex",
-   "marca": "Sanex",
-   "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8718951811089"
-   ]
-  },
-  {
-   "marcaKey": "sanex",
-   "marca": "Sanex",
-   "nombre": "Gel de ducha Neutro Hidratación Delicada",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8718951687035"
-   ]
-  },
-  {
    "marcaKey": "nyx",
    "marca": "NYX Professional Makeup",
    "nombre": "Blade & Shade Eyebrow Pencil · 01 Ash Blonde",
@@ -2495,15 +2477,6 @@
    ]
   },
   {
-   "marcaKey": "natulim",
-   "marca": "Natulim",
-   "nombre": "Eco Pastillas Lavavajillas Máquina 6 en 1 (30 pastillas)",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8436617752667"
-   ]
-  },
-  {
    "marcaKey": "erborian",
    "marca": "Erborian",
    "nombre": "Centella Red Serum 30 ml",
@@ -2568,15 +2541,6 @@
    "categoria": "Hogar",
    "barcodes": [
     "8411582265305"
-   ]
-  },
-  {
-   "marcaKey": "asevi",
-   "marca": "Asevi",
-   "nombre": "Limpiador de Juntas 0,5 L (envase de Rumanía)",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8411582268306"
    ]
   },
   {
@@ -8074,27 +8038,6 @@
    ]
   },
   {
-   "marcaKey": "kh7",
-   "marca": "KH-7",
-   "nombre": "Quitagrasas (pistola y recambio 780 ml)",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8420822130389",
-    "8420822130396",
-    "8420822135278"
-   ]
-  },
-  {
-   "marcaKey": "kh7",
-   "marca": "KH-7",
-   "nombre": "Quitagrasas Cítrico 780 ml",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8420822131027",
-    "8420822131034"
-   ]
-  },
-  {
    "marcaKey": "byphasse",
    "marca": "Byphasse",
    "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
@@ -8747,15 +8690,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662263331511"
-   ]
-  },
-  {
-   "marcaKey": "manucurist",
-   "marca": "Manucurist",
-   "nombre": "Semipermanente Green Flash™ Pink Sand",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3662263511074"
    ]
   },
   {
@@ -10054,26 +9988,6 @@
     "0840122902437",
     "0840122902444",
     "0840122902451"
-   ]
-  },
-  {
-   "marcaKey": "medik8",
-   "marca": "Medik8",
-   "nombre": "Sérum antimanchas Oxy-R Peptides",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "0818625027728",
-    "0818625025144"
-   ]
-  },
-  {
-   "marcaKey": "medik8",
-   "marca": "Medik8",
-   "nombre": "Gel limpiador Total Moisture Daily Cleansing Gel",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "0818625028732",
-    "0818625028619"
    ]
   },
   {
@@ -13763,15 +13677,6 @@
   {
    "marcaKey": "cosrx",
    "marca": "COSRX",
-   "nombre": "Gel exfoliante Low pH Goodnight Soft Peeling Gel",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809598453364"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
    "nombre": "Loción Oil-Free Ultra-Moisturizing Lotion with Birch Sap",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -13844,16 +13749,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8809598454958"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Sérum The Vitamin C 13 Serum",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809598455238",
-    "8809598455474"
    ]
   },
   {
@@ -14475,15 +14370,6 @@
   {
    "marcaKey": "somat",
    "marca": "Somat",
-   "nombre": "Limpiamáquinas Somat 5en1 lavavajillas lleno",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8410436370059"
-   ]
-  },
-  {
-   "marcaKey": "somat",
-   "marca": "Somat",
    "nombre": "Limpiamáquinas para lavavajillas Somat Intensivo (líquido)",
    "categoria": "Hogar",
    "barcodes": [
@@ -14978,15 +14864,6 @@
    "categoria": "Hogar",
    "barcodes": [
     "8711577004637"
-   ]
-  },
-  {
-   "marcaKey": "hg",
-   "marca": "HG",
-   "nombre": "Limpiador de juntas HG",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8711577194529"
    ]
   },
   {
