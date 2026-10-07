@@ -4015,6 +4015,18 @@ python3 herramientas/alternativas/genera.py <versión>                          
   `out_dir`), se ejecuta `python3 herramientas/alternativas/desde_revision.py <dir>/productos`, que escribe
   `amazon_verificados.json`, y después `genera.py`.
 
+**Enlaces automáticos (decisión de Mariana del 2026-10-07: los pone Claude, no se revisan a mano).**
+- **Cómo se buscan:** para cada producto limpio, solo con el buscador web restringido a amazon.es; nunca se entra en
+  Amazon. Se toma la ficha principal del producto exacto (misma gama, tipo y tono) y se descartan packs, fichas de
+  otro producto y fichas de importación.
+- **Dónde quedan:** `herramientas/alternativas/amazon_auto.json` guarda los enlaces que se usan. Los dudosos van a
+  `amazon_auto_dudosos.json` y **no se enlazan**: tono que el título no dice, posible fórmula anterior o gama
+  deducida.
+- **Versión 2026-10-07b:** 253 de 472 productos buscados; 156 con ficha, de los que 134 llevan enlace y 22 son
+  dudosos.
+  - Los otros 219 quedan en `amazon_pendientes.json`, porque se agotó el cupo de 200 búsquedas por turno.
+  - Muchos labiales y bases de Catrice y essence no tienen ficha por tono en Amazon.es: salen sin botón.
+
 **Marcas con tienda en Amazon.es** (la página guarda el detalle):
 - **2026-10-07**, primera pasada con el criterio anterior ("¿quién vende?"):
   - Avène y A-Derma: venden terceros (farmacias);

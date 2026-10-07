@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07a",
+ "version": "2026-10-07b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -32,43 +32,50 @@
        "nombre": "Agua micelar dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146578",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09J8XHY24"
       },
       {
        "nombre": "Biology AC Gel espumoso limpiador purificante",
        "marca": "A-Derma",
        "barcode": "3282770153002",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BWMG2LMR"
       },
       {
        "nombre": "Biology Espuma limpiadora dermatológica hidraprotectora",
        "marca": "A-Derma",
        "barcode": "3282770154085",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BZGJTCXF"
       },
       {
        "nombre": "Leche desmaquillante dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146530",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09J8WFQYH"
       },
       {
        "nombre": "Aceite limpiador Heartleaf Pore Cleansing Oil Mild",
        "marca": "Anua",
        "barcode": "8809640735028",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX8X7LVM"
       },
       {
        "nombre": "Agua limpiadora Heartleaf Low pH Deep Cleansing Water",
        "marca": "Anua",
        "barcode": "8809640734854",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DKT1V8FC"
       },
       {
        "nombre": "Espuma limpiadora 8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser",
        "marca": "Anua",
        "barcode": "8809640735561",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D1G6XY5G"
       },
       {
        "nombre": "Gel limpiador 8 Hyaluronic Acid Moisturizing Gentle Gel Cleanser",
@@ -80,7 +87,8 @@
        "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
        "marca": "Anua",
        "barcode": "8809640735462",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D59WLP96"
       },
       {
        "nombre": "Aceite limpiador relipidizante",
@@ -92,13 +100,15 @@
        "nombre": "Desmaquillante de ojos intenso",
        "marca": "Avène",
        "barcode": "3282770073126",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07D1PB329"
       },
       {
        "nombre": "Desmaquillante suave de ojos",
        "marca": "Avène",
        "barcode": "3282779051378",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B002D48R6A"
       },
       {
        "nombre": "Gel limpiador purificante",
@@ -110,7 +120,8 @@
        "nombre": "HYDRA Crema limpiadora calmante",
        "marca": "Avène",
        "barcode": "3282770390476",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07K22MWLJ"
       },
       {
        "nombre": "Loción limpiadora gelificada",
@@ -122,43 +133,50 @@
        "nombre": "NUTRITION Gel limpiador",
        "marca": "Avène",
        "barcode": "3282770155105",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CSD5TSL5"
       },
       {
        "nombre": "XeraCalm A.D Aceite Limpiador Relipidizante",
        "marca": "Avène",
        "barcode": "3282770389883",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00EYOHGPU"
       },
       {
        "nombre": "XeraCalm A.D..Aceite limpiador relipidizante",
        "marca": "Avène",
        "barcode": "3282770146844",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00EYOHGPU"
       },
       {
        "nombre": "XERACALM AD Aceite Limpiador Relipidizante",
        "marca": "Avène",
        "barcode": "3282771000299",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00EYOHGPU"
       },
       {
        "nombre": "Aceite limpiador Ginseng Cleansing Oil",
        "marca": "Beauty of Joseon",
        "barcode": "8809968130130",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B45M89LX"
       },
       {
        "nombre": "Bálsamo limpiador Radiance Cleansing Balm",
        "marca": "Beauty of Joseon",
        "barcode": "8809606851663",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B3R661JP"
       },
       {
        "nombre": "Gel limpiador Green Plum Refreshing Cleanser",
        "marca": "Beauty of Joseon",
        "barcode": "8809738314678",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09N919SS5"
       },
       {
        "nombre": "Sensibio Aceite Micelar Desmaquillante 300 ml",
@@ -182,19 +200,22 @@
        "nombre": "Agua Micelar Hidratante",
        "marca": "CeraVe",
        "barcode": "3337875597203",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07HB7G4JP"
       },
       {
        "nombre": "Limpiador en Aceite Espumoso Hidratante",
        "marca": "CeraVe",
        "barcode": "3337875773447",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09CCJD53W"
       },
       {
        "nombre": "Loción Limpiadora",
        "marca": "Cetaphil",
        "barcode": "3499320014113",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0052EC0AW"
       },
       {
        "nombre": "Desmaquillante bifásico de ojos Cien 100 ml",
@@ -266,7 +287,8 @@
        "nombre": "Gel limpiador Black Rice Triple AHA Gentle Cleansing Gel sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221783",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CKVL9PGY"
       },
       {
        "nombre": "Agua Micelar 3-en-1",
@@ -302,19 +324,22 @@
        "nombre": "Agua Micelar Oil Infused",
        "marca": "La Roche-Posay",
        "barcode": "3337875725897",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08HMVTHYN"
       },
       {
        "nombre": "Desmaquillante de Maquillaje de Ojos Waterproof",
        "marca": "La Roche-Posay",
        "barcode": "3433422401907",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B000V3MGFS"
       },
       {
        "nombre": "Toleriane Dermolimpiador",
        "marca": "La Roche-Posay",
        "barcode": "3337872411830",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B000IOBEG2"
       },
       {
        "nombre": "Toleriane Gel Espumoso Doble Limpiador Hidratante Purificante",
@@ -338,7 +363,8 @@
        "nombre": "Toallitas limpiadoras compostables sin perfume 60 unidades.",
        "marca": "Mustela",
        "barcode": "3504105041595",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CRHL51T9"
       },
       {
        "nombre": "Ultra Gentle Gel Limpiador de Uso Diario",
@@ -410,31 +436,36 @@
        "nombre": "Crema hidratante ligera dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146646",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09J8VRMVR"
       },
       {
        "nombre": "Crema rica dermatológica hidratante",
        "marca": "A-Derma",
        "barcode": "3282770146615",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09J8WSQG7"
       },
       {
        "nombre": "Dermalibour+ CICA-Crema reparadora purificante",
        "marca": "A-Derma",
        "barcode": "3282770141962",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B091BJ13BC"
       },
       {
        "nombre": "Epitheliale A.H Ultra Repair Crema reparadora antimarcas",
        "marca": "A-Derma",
        "barcode": "3282770398632",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0D5BP9Y3B"
       },
       {
        "nombre": "Exomega Control Crema de noche emoliente reparadora",
        "marca": "A-Derma",
        "barcode": "3282770397673",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DLWQSX5X"
       },
       {
        "nombre": "Exomega Control Gel-crema calmante",
@@ -446,49 +477,57 @@
        "nombre": "Aqua Gel-Crema Regeneradora Celular",
        "marca": "Avène",
        "barcode": "3282770400731",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CNKMFVK4"
       },
       {
        "nombre": "Control Crema calmante reparadora de Cosmética estéril®",
        "marca": "Avène",
        "barcode": "3282770138801",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08XYV3YGB"
       },
       {
        "nombre": "Crema Regeneradora Celular",
        "marca": "Avène",
        "barcode": "3282770400700",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BT3LMB2D"
       },
       {
        "nombre": "Hydra-10 Crema Hidratante",
        "marca": "Avène",
        "barcode": "3282770388336",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0B49VSS46"
       },
       {
        "nombre": "Hydra-10 Fluido Hidratante",
        "marca": "Avène",
        "barcode": "3282770388299",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0B47CY8PQ"
       },
       {
        "nombre": "Crema hidratante Dynasty Cream",
        "marca": "Beauty of Joseon",
        "barcode": "8809525249565",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08WJQ3XJD"
       },
       {
        "nombre": "Sensibio Defensive Crema Activa Calmante",
        "marca": "Bioderma",
        "barcode": "3701129804445",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09BRJQYHN"
       },
       {
        "nombre": "Crema Hidratante Intensiva",
        "marca": "CeraVe",
        "barcode": "3337875923903",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0FHQ1Z14S"
       },
       {
        "nombre": "Gel crema Hydrium Green Tea Aqua Soothing Gel Cream",
@@ -500,13 +539,15 @@
        "nombre": "Dexyane MeD Crema reparadora calmante",
        "marca": "Ducray",
        "barcode": "3282770148138",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B01M6ZHI4D"
       },
       {
        "nombre": "Kelual DS Crema calmante",
        "marca": "Ducray",
        "barcode": "3282770392371",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07N8VJSHW"
       },
       {
        "nombre": "Anti-Redness Crema Calmante",
@@ -524,7 +565,8 @@
        "nombre": "Ultra-Sensitive Crema Calmante para Piel Seca",
        "marca": "Eucerin",
        "barcode": "4005800108129",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00O26WYOS"
       },
       {
        "nombre": "Crema hidratante Black Rice 5 Ceramide Barrier Moisturizing Cream sin perfume",
@@ -584,13 +626,15 @@
        "nombre": "Cicastela crema reparadora 40ml",
        "marca": "Mustela",
        "barcode": "3504105032937",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07S4BMVPK"
       },
       {
        "nombre": "Crema facial emoliente Stelatopia 40ml",
        "marca": "Mustela",
        "barcode": "3504105031572",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07HCC21ZG"
       },
       {
        "nombre": "Crema facial hidratante confort con Schisandra BIO 40ml",
@@ -668,7 +712,8 @@
        "nombre": "Biology Sérum 3 en 1",
        "marca": "A-Derma",
        "barcode": "3282770389333",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BWNDXTL2"
       },
       {
        "nombre": "Biology Sérum de vitamina C estabilizada",
@@ -686,55 +731,64 @@
        "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
        "marca": "Anua",
        "barcode": "8809640730283",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08CMVXQ9W"
       },
       {
        "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
        "marca": "Anua",
        "barcode": "8809640734526",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DL92QM79"
       },
       {
        "nombre": "Sérum PDRN Hyaluronic Acid Capsule 100 Serum",
        "marca": "Anua",
        "barcode": "8809640736667",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DSVF8HGZ"
       },
       {
        "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
        "marca": "Anua",
        "barcode": "8809640734861",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DKRY4HLQ"
       },
       {
        "nombre": "Tónico PDRN 100 Hyaluronic Acid Booster Toner",
        "marca": "Anua",
        "barcode": "8800307371696",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FK9ZDKCK"
       },
       {
        "nombre": "Comedomed Sérum intensivo",
        "marca": "Avène",
        "barcode": "3282770401448",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GJ13ZK2T"
       },
       {
        "nombre": "Sérum concentrado voluminizador",
        "marca": "Avène",
        "barcode": "3282770153101",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BNLZ4FFZ"
       },
       {
        "nombre": "Sérum exfoliante AHA",
        "marca": "Avène",
        "barcode": "3282770390469",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CH9FNGCN"
       },
       {
        "nombre": "Sérum reparador intenso",
        "marca": "Avène",
        "barcode": "3282770393620",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CMR74JMG"
       },
       {
        "nombre": "Sérum tensor - Solución de hexapéptidos 10%",
@@ -746,25 +800,29 @@
        "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
        "marca": "Beauty of Joseon",
        "barcode": "8809738312728",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09DLFCB69"
       },
       {
        "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
        "marca": "Beauty of Joseon",
        "barcode": "8809657114960",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B086VKZZZY"
       },
       {
        "nombre": "Sérum Light On Serum: Centella + Vita C",
        "marca": "Beauty of Joseon",
        "barcode": "8809875906477",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CD7PWYQN"
       },
       {
        "nombre": "Sérum Revive Serum: Ginseng + Snail Mucin",
        "marca": "Beauty of Joseon",
        "barcode": "8809738316139",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B3R1R2DG"
       },
       {
        "nombre": "Max It Up Lip Booster Extreme (tono 030 Ice Ice Baby)",
@@ -782,25 +840,29 @@
        "nombre": "Max It Up Lip Booster Extreme (tono 050 Beam Me Away)",
        "marca": "Catrice",
        "barcode": "4059729445780",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLZFMVY"
       },
       {
        "nombre": "Sérum corrector Instant Bright",
        "marca": "Catrice",
        "barcode": "4059729488343",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DPB8ST1Y"
       },
       {
        "nombre": "Curl Booster",
        "marca": "Cocunat",
        "barcode": "8436570020810",
-       "fechaLista": "23-09-2026"
+       "fechaLista": "23-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09YJ3XCN2"
       },
       {
        "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
        "marca": "COSRX",
        "barcode": "8800311121423",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FT7YLV43"
       },
       {
        "nombre": "Sérum Advanced The Vitamin C 23 Serum",
@@ -812,43 +874,50 @@
        "nombre": "Sérum Full Fit Propolis Light Ampoule",
        "marca": "COSRX",
        "barcode": "8809598450820",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07ZGJQZ8G"
       },
       {
        "nombre": "Sérum Hydrium Triple Hyaluronic Moisture Ampoule",
        "marca": "COSRX",
        "barcode": "8809598450653",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B091SR63VV"
       },
       {
        "nombre": "Sérum The 6 Peptide Skin Booster Serum",
        "marca": "COSRX",
        "barcode": "8800311122611",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CCJ3SRB9"
       },
       {
        "nombre": "Sérum The Blue Peptide Bakuchiol Plump Glow Serum",
        "marca": "COSRX",
        "barcode": "8800311121225",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0GWPQ7FS4"
       },
       {
        "nombre": "Sérum The Hyaluronic Acid 3 Serum",
        "marca": "COSRX",
        "barcode": "8809598454668",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09ZYCVH8N"
       },
       {
        "nombre": "Sérum The Niacinamide 15 Serum",
        "marca": "COSRX",
        "barcode": "8809598454958",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09ZYB8S31"
       },
       {
        "nombre": "Sérum The Vitamin C 13 Serum",
        "marca": "COSRX",
        "barcode": "8809598455238",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BS8M8Q5L"
       },
       {
        "nombre": "Keracnyl Sérum regulador antiimperfecciones",
@@ -944,13 +1013,15 @@
        "nombre": "Hyalu B5 Sérum de ojos",
        "marca": "La Roche-Posay",
        "barcode": "3337875806923",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BSVPTKL4"
       },
       {
        "nombre": "Toleriane Ultra Dermallergo Serum",
        "marca": "La Roche-Posay",
        "barcode": "3337875693820",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B086MF1VNX"
       },
       {
        "nombre": "Sérum antimanchas Oxy-R Peptides",
@@ -1034,7 +1105,8 @@
        "nombre": "Crema reparadora multiprotectora SPF 50+",
        "marca": "Avène",
        "barcode": "3282770394467",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0D31NYQ91"
       },
       {
        "nombre": "Crema reparadora protectora SPF 50+",
@@ -1046,7 +1118,8 @@
        "nombre": "Crema SPF 50+ sin perfume",
        "marca": "Avène",
        "barcode": "3282770149494",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R7LXTNF"
       },
       {
        "nombre": "Fluido antiedad SPF50",
@@ -1058,7 +1131,8 @@
        "nombre": "Fluido Antiimperfecciones SPF50",
        "marca": "Avène",
        "barcode": "3282770397437",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DZW8MWQT"
       },
       {
        "nombre": "Fluido Antimanchas SPF50+",
@@ -1070,7 +1144,8 @@
        "nombre": "Fluido mineral con color SPF 50+ (ref. 388381)",
        "marca": "Avène",
        "barcode": "3282770388381",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C44J8XNN"
       },
       {
        "nombre": "Fluido mineral SPF 50+ (ref. 148671)",
@@ -1088,43 +1163,50 @@
        "nombre": "Intense Protect SPF 50+ Fluido",
        "marca": "Avène",
        "barcode": "3282770141214",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08YR2CD11"
       },
       {
        "nombre": "Intense Protect SPF50+",
        "marca": "Avène",
        "barcode": "3282770395938",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08YR2CD11"
       },
       {
        "nombre": "Reflexe Solar 50+",
        "marca": "Avène",
        "barcode": "3282770388961",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B079YJ7ZXX"
       },
       {
        "nombre": "SPF 50+ concentrado hidratante protector",
        "marca": "Avène",
        "barcode": "3282770395235",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DWPCRGH1"
       },
       {
        "nombre": "Ultra Fluido Invisible SPF50",
        "marca": "Avène",
        "barcode": "3282770397376",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0D9P3VJNG"
       },
       {
        "nombre": "Ultra Fluido Mat Perfect SPF 50+",
        "marca": "Avène",
        "barcode": "3282770392692",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CVFFHC4S"
       },
       {
        "nombre": "Ultra Fluido Oil Control SPF50",
        "marca": "Avène",
        "barcode": "3282770397680",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0FGK5KQJF"
       },
       {
        "nombre": "Ultra Serum SPF50+ Activa La Luminosidad",
@@ -1136,31 +1218,36 @@
        "nombre": "Ultra Serum SPF50+ Hidrata De Forma Duradera",
        "marca": "Avène",
        "barcode": "3282771000534",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GMY7P7XB"
       },
       {
        "nombre": "Ultra Serum SPF50+ Rellena Al Instante",
        "marca": "Avène",
        "barcode": "3282771000558",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GMXGMX8F"
       },
       {
        "nombre": "Ultra Stick SPF50",
        "marca": "Avène",
        "barcode": "3282771000916",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GR6C6FPS"
       },
       {
        "nombre": "Photoderm Pediatrics Mineral SPF50+",
        "marca": "Bioderma",
        "barcode": "3701129807309",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BZX2YQ5T"
       },
       {
        "nombre": "Photoderm Pediatrics Spray SPF50+",
        "marca": "Bioderma",
        "barcode": "3701129807316",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BZX26VF5"
       },
       {
        "nombre": "Fluido de Muy Alta Protección SPF50+",
@@ -1172,19 +1259,22 @@
        "nombre": "Stick Solar Invisible de Alta Protección SPF50",
        "marca": "Caudalie",
        "barcode": "3522930005391",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX5CPLG6"
       },
       {
        "nombre": "PRO Redness Control Hidratante SPF 30",
        "marca": "Cetaphil",
        "barcode": "3499320009942",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B082Y83G6Y"
       },
       {
        "nombre": "Protector solar Ultra-Light Invisible Sunscreen SPF 50+",
        "marca": "COSRX",
        "barcode": "8809598456242",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CYS776TR"
       },
       {
        "nombre": "Melascreen Crema protectora antimanchas SPF50+",
@@ -1196,7 +1286,8 @@
        "nombre": "Super BB Concealer SPF 25 (Clair, Nude, Doré, Caramel, Chocolat) 10 ml",
        "marca": "Erborian",
        "barcode": "8809255788150",
-       "fechaLista": "16-09-2026"
+       "fechaLista": "16-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CQP8J8QC"
       },
       {
        "nombre": "Anti-Redness Crema Correctora Día FPS30",
@@ -1214,7 +1305,8 @@
        "nombre": "Sun Face Sensitive Protect Cream FPS 50+",
        "marca": "Eucerin",
        "barcode": "4005800125560",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B012BD3370"
       },
       {
        "nombre": "Delial Kids Sensitive Advanced Roll-On con Color FPS 50+",
@@ -1232,7 +1324,8 @@
        "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50",
        "marca": "ISDIN",
        "barcode": "8429420280878",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CWB3L66Q"
       },
       {
        "nombre": "Protector solar Sun Protection Invisible Stick Spf",
@@ -1244,67 +1337,78 @@
        "nombre": "Anthelios Dermo-Pediatrics Loción Wet Skin SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875845489",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C3WP74H2"
       },
       {
        "nombre": "Anthelios Family Spray SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875799348",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09WHXRY5H"
       },
       {
        "nombre": "Anthelios Leche Hidratante SPF50+ Eco-sostenible",
        "marca": "La Roche-Posay",
        "barcode": "3337875847353",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BW9DNT9W"
       },
       {
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Fluido Invisible SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875886307",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX245CRL"
       },
       {
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Loción Hidratante SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875888851",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX26YRQ3"
       },
       {
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Spray Invisible SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875886055",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX26NBS7"
       },
       {
        "nombre": "Anthelios UVMune 400 Fluido Antimanchas SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875917407",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DSLCT63K"
       },
       {
        "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
        "marca": "Mustela",
        "barcode": "3504105036768",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09WW4PWZM"
       },
       {
        "nombre": "Leche solar muy alta protección SPF 50+ 100ml",
        "marca": "Mustela",
        "barcode": "3504105036775",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09WW1HQM7"
       },
       {
        "nombre": "Spray solar alta protección SPF 50 200ml",
        "marca": "Mustela",
        "barcode": "3504105036751",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09WW1S94R"
       },
       {
        "nombre": "Stick solar alta protección SPF 50 Stick 9ml",
        "marca": "Mustela",
        "barcode": "3504105037772",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DKWPYJ6H"
       },
       {
        "nombre": "Hydro Boost Fluido Hidratante SPF50",
@@ -1394,31 +1498,36 @@
        "nombre": "Pure shampoo",
        "marca": "Cocunat",
        "barcode": "8436570021077",
-       "fechaLista": "23-09-2026"
+       "fechaLista": "23-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BZS1G4J4"
       },
       {
        "nombre": "Rich Shampoo",
        "marca": "Cocunat",
        "barcode": "8436570020872",
-       "fechaLista": "23-09-2026"
+       "fechaLista": "23-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BXBDZLDK"
       },
       {
        "nombre": "Anaphase+ Champú anticaída y crecimiento",
        "marca": "Ducray",
        "barcode": "3282770398168",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B01N10Z0L2"
       },
       {
        "nombre": "Champú mousse recién nacido 150ml",
        "marca": "Mustela",
        "barcode": "3504105034382",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0845Y8VWJ"
       },
       {
        "nombre": "Champú mousse Stelatopia 150ml",
        "marca": "Mustela",
        "barcode": "3504105030544",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B075TWS319"
       },
       {
        "nombre": "Gel-Champú cuerpo y cabello - Certificado BIO 400ml",
@@ -1460,7 +1569,8 @@
        "nombre": "Gel de baño Stelatopia con Girasol BIO 200 ml / 500 ml",
        "marca": "Mustela",
        "barcode": "3504105033637",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07YQ6NDSM"
       },
       {
        "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
@@ -1508,7 +1618,8 @@
        "nombre": "Rich conditioner",
        "marca": "Cocunat",
        "barcode": "8436570020889",
-       "fechaLista": "23-09-2026"
+       "fechaLista": "23-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BXF6H9SH"
       },
       {
        "nombre": "Acondicionador a la Centaurea BIO",
@@ -1586,7 +1697,8 @@
        "nombre": "Base de maquillaje en crema compacta 1.4 Dorado",
        "marca": "Avène",
        "barcode": "3282770146066",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DP7PP4XT"
       },
       {
        "nombre": "Base de maquillaje luminosa similar a la piel",
@@ -1598,7 +1710,8 @@
        "nombre": "CC Cream Vinocrush tono 2",
        "marca": "Caudalie",
        "barcode": "3522930004103",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CWJCY2TT"
       },
       {
        "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 10)",
@@ -1670,13 +1783,15 @@
        "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 20, 50, 90, 100, 115, 120, 155, 165, 168, 170, 175, 178, 180, 185)",
        "marca": "essence",
        "barcode": "4059729583659",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GJPYRR7M"
       },
       {
        "nombre": "stay ALL DAY 16h base de maquillaje de larga duración",
        "marca": "essence",
        "barcode": "4059729308160",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08YFD6P6Z"
       },
       {
        "nombre": "Base de maquillaje en barra Just Cavalli X Kiko Milano Sun-Drape Stick Foundation Spf50",
@@ -1730,13 +1845,15 @@
        "nombre": "Bálsamo Labial DERMALIBOUR+ CICA-Reparador",
        "marca": "A-Derma",
        "barcode": "3282770143683",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09VCK2S55"
       },
       {
        "nombre": "Cicalfate+ Bálsamo labial reparador",
        "marca": "Avène",
        "barcode": "3282770399936",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07H827D59"
       },
       {
        "nombre": "Cicabio Lip Repair Bálsamo Labial Reparador",
@@ -1832,7 +1949,8 @@
        "nombre": "Barra de labios líquida Endless Matte (tonos 120 Candlelight Kiss, 130 So What)",
        "marca": "Catrice",
        "barcode": "4059729489807",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0FGJY4DB3"
       },
       {
        "nombre": "Barra de labios Scandalous Matte (tono 120 Flame To Fame)",
@@ -1844,7 +1962,8 @@
        "nombre": "Barra de labios Scandalous Matte (tonos 010 Plain Truth, 050 Sucker For Love, 060 Good Intentions, 100 Muse Of Inspiration)",
        "marca": "Catrice",
        "barcode": "4059729402103",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BFP56YTG"
       },
       {
        "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
@@ -1988,13 +2107,15 @@
        "nombre": "Bálsamo labial brillante Peptide Bliss (tono 020 Blissberry)",
        "marca": "Catrice",
        "barcode": "4059729591524",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0G44DYWG8"
       },
       {
        "nombre": "Bálsamo labial brillante Peptide Bliss (tono 030 Dew Not Disturb)",
        "marca": "Catrice",
        "barcode": "4059729591531",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0G44DYWGT"
       },
       {
        "nombre": "Bálsamo labial brillante Peptide Bliss (tono 040 Toffee Touched)",
@@ -2048,31 +2169,36 @@
        "nombre": "Lip Booster labial Plump It Up (tono 010)",
        "marca": "Catrice",
        "barcode": "4059729401427",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BGHTMZYY"
       },
       {
        "nombre": "Lip Booster labial Plump It Up (tono 020 No Fake Love)",
        "marca": "Catrice",
        "barcode": "4059729401465",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BGHGB27P"
       },
       {
        "nombre": "Lip Booster labial Plump It Up (tono 040 Prove Me Wrong)",
        "marca": "Catrice",
        "barcode": "4059729401540",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BGHKF63P"
       },
       {
        "nombre": "Lip Booster labial Plump It Up (tono 060 Real Talk)",
        "marca": "Catrice",
        "barcode": "4059729401625",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BGHJQ7M4"
       },
       {
        "nombre": "Lip Booster labial Plump It Up (tono 070 Fake It Till You Make It)",
        "marca": "Catrice",
        "barcode": "4059729401663",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BGHJM6BR"
       },
       {
        "nombre": "Lip Booster labial Plump It Up (tono 090 Potentially Scandalous)",
@@ -2156,7 +2282,8 @@
        "nombre": "extreme shine brillo de labios voluminizador (tono 101 Milky Way)",
        "marca": "essence",
        "barcode": "4059729302892",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B092R1XSMD"
       },
       {
        "nombre": "extreme shine brillo de labios voluminizador (tono 102 Sweet Dreams)",
@@ -2168,7 +2295,8 @@
        "nombre": "extreme shine brillo de labios voluminizador (tono 103 Pretty in Pink)",
        "marca": "essence",
        "barcode": "4059729302915",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B092R23XWQ"
       },
       {
        "nombre": "extreme shine brillo de labios voluminizador (tono 105 Flower Blossom)",
@@ -2180,7 +2308,8 @@
        "nombre": "extreme shine brillo de labios voluminizador (tono 11 Power of nude)",
        "marca": "essence",
        "barcode": "4059729407870",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BBGQHFXN"
       },
       {
        "nombre": "extreme shine brillo de labios voluminizador (tono 12 Dazzling Apricot)",
@@ -2270,7 +2399,8 @@
        "nombre": "Barra de labios líquida Lasting Matte Veil Liquid Lip Colour · 17",
        "marca": "Kiko Milano",
        "barcode": "8059385026121",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DM23N1FQ"
       },
       {
        "nombre": "Barra de labios líquida Matte Diaries Unlimited Double Touch Limited Edition",
@@ -2294,7 +2424,8 @@
        "nombre": "Barra de labios líquida Unlimited Double Touch · 101",
        "marca": "Kiko Milano",
        "barcode": "8059385019420",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B077P2HXZ4"
       },
       {
        "nombre": "Barra de labios líquida Unlimited Double Touch · 104",
@@ -2858,19 +2989,22 @@
        "nombre": "Lubricante de silicona Perfect Connection",
        "marca": "Durex",
        "barcode": "8428076000014",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08BJNT2PN"
       },
       {
        "nombre": "Lubricante Naturals extra sensitivo con aloe vera",
        "marca": "Durex",
        "barcode": "8410104892333",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B083FW8Q7P"
       },
       {
        "nombre": "Lubricante Naturals hidratante",
        "marca": "Durex",
        "barcode": "8410104892258",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B083FW2PSF"
       }
      ]
     }
