@@ -3812,7 +3812,9 @@ con Fairy. Candidatos si alguien los pide: lavavajillas a mano, tiras de deterge
   multisuperficies (lista sí, pero sin EAN: solo se venden en packs de recargas); quitamanchas en pasta (sin EAN).
 - **Detector:** "Alcohol Ethoxysulfate / alcohol etoxisulfato" no se reconocía como tensioactivo etoxilado (falso
   negativo). Alias añadido en las dos reglas (192 y "Alcoholes etoxilados y PEG"). Regresión: 0 cambios en las
-  7.837 fichas anteriores. También la categoría: "potenciador de lavado", "polvo blanqueador", "percarbonato",
+  7.837 fichas anteriores. **Después (Mariana, 2026-10-07): el laureth y los etoxisulfatos salen del grupo de
+  disruptores y pasan a "otros a tener en cuenta"**, porque no tienen efecto hormonal (el aviso es por el 1,4-dioxano);
+  cambian de grupo 835 fichas y alternativas.json no cambia. También la categoría: "potenciador de lavado", "polvo blanqueador", "percarbonato",
   "cristales de soda", "sal de acedera", "ácido cítrico limpiador" y "Tierras de Sommières" pasan a Hogar.
 - **Revisión FP/FN:** limpios el gel Clean&Calm (sin fragancia), Oxi Clean, Oxi White, ácido cítrico, Tierras de
   Sommières, percarbonato, cristales de soda y sal de acedera. Con perfume: los champús Sunrise, Detox y Fenix, el
