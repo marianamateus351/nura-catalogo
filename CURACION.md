@@ -4102,6 +4102,30 @@ cuántos llevan enlace de Amazon):
 navegador, que Chromium no abra conexiones propias: cada petición la hace Node con la CA del proxy
 verificada (`page.route` + `fetch` + `route.fulfill`). Así se ha probado Amazon el 2026-10-07.
 
+## PENDIENTE 2026-10-07 · Polímeros de purpurina y "film formers" en la regla 191 (decisión con la norma delante)
+Pedido de Mariana tras revisar los 304 Kiko de Alternativas. La regla 191 (microplásticos) nombra
+polietileno, PET, nylon, PMMA, poliestireno, PBT… pero **no** los polímeros típicos de la purpurina
+ni los formadores de película de labiales y máscaras. Hay que decidir, con el Reglamento (UE)
+2023/2055 (restricción de micropartículas de polímero sintético) y las definiciones de ECHA delante,
+cuáles son micropartículas sólidas añadidas a propósito (entran en 191) y cuáles son líquidos,
+disoluciones o películas (no son microplástico y NO entran). Recuento en el catálogo de hoy y
+cuántos de esos productos están ahora en Alternativas:
+
+| Ingrediente | En catálogo | En Alternativas | Qué es | Propuesta a valorar |
+|---|---|---|---|---|
+| Cellulose Acetate | 35 | 19 (Kiko 8, essence 4, Essie 2, Catrice 2) | Base de purpurina (partícula sólida). Celulosa modificada: no es "polímero natural" sin más; la UE la trata como polímero sintético salvo que acredite biodegradabilidad | **Entra en 191** si no hay prueba de biodegradabilidad en la ficha |
+| Hydrogenated Styrene/Isoprene Copolymer | 127 | 60 (Rare Beauty 18, Kiko 17, essence 13, Catrice 12) | Espesante/film former disuelto en aceite (labiales, glosses). No es partícula | **No entra** (no es microplástico) |
+| Hydrogenated Styrene/Butadiene Copolymer | 45 | 3 | Igual: film former disuelto | **No entra** |
+| Polybutene | 347 | 158 | Polímero líquido (glosses, lápices). No es partícula | **No entra** |
+| Polyurethane-11/-33/-35 | 42 | 2 | Según uso: en purpurina es partícula sólida; en máscaras es película | Mirar producto a producto; en purpurina, entra |
+| Polyethylene Terephthalate | 27 | 0 | Purpurina clásica | Ya está en 191 (por eso 0 en Alternativas) |
+| Calcium Sodium Borosilicate / Glass Beads | 482 / 17 | 121 / 10 | Vidrio, no plástico | **No entra** |
+| Acrylates Copolymer | 651 | 231 (Catrice 71, Manucurist 67, essence 61) | Normalmente film former en disolución (esmaltes, máscaras); en algunos polvos puede ser partícula | **No entra por defecto**; solo si la ficha indica polvo/partícula |
+
+Al decidir: aplicar en la app con la regresión del catálogo entero, anotar aquí qué entra y por qué,
+regenerar `alternativas.json` (los que caigan salen solos de la pestaña, sin build) y decirle a
+Mariana cuántos productos salen por marca.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
