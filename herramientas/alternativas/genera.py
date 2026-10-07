@@ -28,7 +28,7 @@ def enlace_limpio(u):
 def ddmmaaaa(iso): y, m, d = iso.split('-'); return f'{d}-{m}-{y}'
 por = {}
 for p in limpios:
-    k, _ = tipo_de(p['nombre'], p['categoria'])
+    k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
     bc = p['barcodes'][0]
     e = {'nombre': p['nombre'], 'marca': p['marca'], 'barcode': bc}
@@ -55,7 +55,10 @@ for ckey, cnom in CATEGORIAS:
     # Orden de presentación: el de demanda que dio Mariana; los demás tipos detrás.
     ORDEN = ['desodorante', 'limpiador-facial', 'crema-facial', 'serum', 'protector-solar', 'champu', 'gel-ducha',
              'pasta-dientes', 'higiene-intima', 'acondicionador', 'crema-corporal', 'base-maquillaje', 'labial', 'lubricante',
-             'detergente', 'suavizante', 'lavavajillas', 'multiusos', 'ambientador']
+             'contorno-ojos', 'tonico', 'exfoliante', 'mascarilla-facial', 'emoliente', 'granos', 'crema-manos',
+             'capilar', 'autobronceador', 'mascara-pestanas', 'ojos-cejas', 'colorete', 'esmalte',
+             'detergente', 'suavizante', 'lavavajillas', 'multiusos', 'limpiador-cocina-bano', 'lejia', 'desatascador',
+             'ambientador']
     for key, label, _, _ in sorted(TIPOS[cnom], key=lambda t: ORDEN.index(t[0]) if t[0] in ORDEN else 99):
         prods = sorted(por.get((cnom, key), []), key=lambda e: (e['marca'].lower(), e['nombre'].lower()))
         if prods: tipos.append({'key': key, 'nombre': label, 'productos': prods})

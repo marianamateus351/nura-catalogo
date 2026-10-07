@@ -3943,11 +3943,15 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
   ] }
 ```
 - **Claves de tipo** (la app clasifica el producto escaneado por su nombre con estas mismas
-  claves, para enlazar su ficha con la lista): `desodorante`, `limpiador-facial`,
-  `crema-facial`, `serum`, `protector-solar`, `champu`, `acondicionador`, `gel-ducha`,
-  `crema-corporal`, `pasta-dientes`, `higiene-intima`, `lubricante`, `base-maquillaje`,
-  `labial` (Cuidado personal); `detergente`, `suavizante`, `lavavajillas`, `multiusos`,
-  `ambientador` (Hogar). Un tipo nuevo necesita avisar para añadir su regla en la app.
+  claves y las mismas reglas, para enlazar su ficha con la lista):
+  - Cuidado personal: `desodorante`, `limpiador-facial`, `crema-facial`, `serum`, `protector-solar`, `champu`,
+    `acondicionador`, `gel-ducha`, `crema-corporal`, `pasta-dientes`, `higiene-intima`, `lubricante`,
+    `base-maquillaje`, `labial`, y desde la versión 2026-10-07d `contorno-ojos`, `tonico`, `exfoliante`,
+    `mascarilla-facial`, `emoliente`, `granos`, `crema-manos`, `capilar`, `autobronceador`, `mascara-pestanas`,
+    `ojos-cejas`, `colorete`, `esmalte`.
+  - Hogar: `detergente`, `suavizante`, `lavavajillas`, `multiusos`, `ambientador`, y desde la 2026-10-07d
+    `limpiador-cocina-bano`, `lejia`, `desatascador`.
+  - Un tipo nuevo o una regla cambiada se pasa a la app con `exporta_js.py` (ver abajo).
 - `amazon` SIN etiqueta de afiliado: la pone la app. Sin `amazon` el producto se enseña
   igual, sin botón.
 - `fechaLista`: fecha de la versión del catálogo en que entró o se revisó esa lista.
@@ -3956,7 +3960,7 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: **alternativas.json versión 2026-10-07a**, 472 productos (enlaces de Amazon, en revisión)
+### Estado 2026-10-07: **alternativas.json versión 2026-10-07d**, 1.524 productos de 66 marcas, 132 con enlace de Amazon
 **Generador** (`herramientas/alternativas/`, se rehace cuando cambie el catálogo o el detector):
 ```
 python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
@@ -3966,46 +3970,60 @@ python3 herramientas/alternativas/genera.py <versión>                          
 node herramientas/alternativas/verifica.mjs                                          # todo tiene que salir 0
 ```
 - `limpios.mjs` usa las mismas funciones que la ficha de producto de la app: `guessCategoria(nombre + marca)`,
-  `dedupeIngredients(matchIngredients(inci))` y `matchOtrosRiesgos(inci)`. Los "otros a tener en cuenta" no
-  excluyen.
+  `dedupeIngredients(matchIngredients(inci))`, `matchOtrosRiesgos(inci)` y `matchOtros(inci)`. Cualquier aviso de
+  los tres grupos deja el producto fuera (condición 1).
 - `fechas.py`: la fecha de la primera versión de `catalogo.json` en que ese código aparece con su lista actual
   (historial de git; si la lista cambia, la fecha se reinicia). La app la recibe como DD-MM-AAAA.
-- `genera.py` solo mete un producto si tiene en `amazon_verificados.json` una entrada
-  `{"<código>": {"amazon": "https://www.amazon.es/dp/…", "vendedor": "<nombre visto>", "oficial": true,
-  "formato": "50 ml", "visto": "AAAA-MM-DD"}}`. **Sin ninguna entrada verificada no escribe
-  alternativas.json**, y así la app sigue diciendo "Estamos preparando las primeras opciones" en vez de
-  enseñar listas vacías. `imagen` sale de `fotos/<código>.jpg` si existe; si no, se omite.
+- `genera.py` mete todos los productos limpios que tienen tipo. El enlace sale de `amazon_verificados.json` (revisado
+  a mano, manda) o, si no, de `amazon_auto.json`; sin enlace, el producto entra igual. `imagen` sale de
+  `fotos/<código>.jpg` si existe; si no, se omite.
+- `verifica.mjs` vuelve a pasar el detector por cada producto de alternativas.json: los tres contadores tienen que
+  dar 0 antes de subir.
 
 **Reglas de clasificación por nombre** (`herramientas/alternativas/tipos.py`, con las claves del contrato):
 - Se aplican al nombre sin tildes y en minúsculas. Cada tipo tiene una expresión que casa y otra que excluye, y
   gana la primera regla que encaja, en este orden:
-  - Cuidado personal: lubricante → higiene íntima → pasta de dientes → desodorante → labial → base de
-    maquillaje → protector solar → champú → acondicionador → gel de ducha → crema corporal → limpiador facial →
-    sérum → crema facial.
-  - Hogar: suavizante → lavavajillas → detergente → multiusos → ambientador.
+  - Cuidado personal: lubricante → higiene íntima → pasta de dientes → desodorante → esmalte → máscara de
+    pestañas → ojos y cejas → labial → colorete → base de maquillaje → protector solar → champú → acondicionador
+    → capilar → gel de ducha → crema de manos → autobronceador → anti-granos → crema corporal → contorno de ojos
+    → limpiador facial → exfoliante → mascarilla facial → tónico → sérum → crema facial → emoliente.
+  - Hogar: suavizante → lavavajillas → detergente → multiusos → lejía → desatascador → limpiador de cocina y
+    baño → ambientador.
+  - Si el nombre no dice nada, cuenta la marca cuando solo hace un tipo (`MARCA_TIPO`: Manucurist, uñas).
 - El orden resuelve los casos dobles:
   - "Bálsamo labial SPF" es labial, y una base con SPF es base de maquillaje.
   - "Gel íntimo" es higiene íntima, no gel de ducha.
+  - "Sérum de ojos" es contorno de ojos, "Sérum exfoliante" es exfoliante y "Lip Booster" es labial, no sérum.
+  - "Máscara de cejas" es ojos y cejas, no máscara de pestañas ("brown", el tono, no cuenta como "brow").
+  - Las mascarillas de Klorane al mango y al cupuaçu son capilares (llevan behenamidopropyl dimethylamine, de
+    acondicionador), no faciales.
+  - Los sprays secantes de Avène y A-Derma son reparadores (emoliente), no anti-granos; el gel secante de
+    Hyséac sí es anti-granos.
   - El "Limpión lavadoras" y el abrillantador o la sal del lavavajillas no son ni detergente ni lavavajillas.
-- **Un nombre ambiguo se queda sin tipo.** Por ejemplo, "Crema" sin decir si es de cara o de cuerpo, o
-  "Toleriane Dermallergo Crema". Mejor fuera que en el tipo equivocado.
+- **Un nombre ambiguo se queda sin tipo.** Por ejemplo, "Crema para piel sensible" sin decir si es de cara o de
+  cuerpo, los nombres de fantasía de Cocunat ("The Cure", "Savior") o las toallitas. Mejor fuera que en el tipo
+  equivocado. En la versión 2026-10-07d quedan 65 de 1.589 sin tipo.
+- **La app usa las mismas reglas.** `python3 herramientas/alternativas/exporta_js.py` imprime la tabla en JS y se
+  pega en `src/services/alternativas.js` de la app, entre `// TIPOS (generado` y `// fin TIPOS`. Comprobado el
+  2026-10-07: la app y `tipos.py` dan el mismo tipo a los 1.589 productos limpios (los 65 sin tipo aquí, en la app
+  pueden caer en la tabla amplia de respaldo, que solo sirve para nombres de fuera del catálogo).
 
-**Condiciones 1 y 3 (catálogo 2026-10-05-sisley):** 1.602 productos con código y cero detecciones, de los que
-**472 tienen tipo**, de 50 marcas.
-
-| Tipo | Productos | Tipo | Productos |
-|---|---|---|---|
-| Labiales | 186 | Geles de ducha | 7 |
-| Limpiadores faciales | 62 | Champús | 7 |
-| Protectores solares | 60 | Acondicionadores | 6 |
-| Sérums | 59 | Lubricantes | 4 |
-| Cremas faciales | 42 | Cremas corporales | 3 |
-| Bases de maquillaje | 26 | Desodorantes | 2 (Caudalie Vinofresh, Niyok) |
-| Higiene íntima | 1 (Saforelle) | Hogar: multiusos 3, lavavajillas 2, detergente 1, suavizante 1, ambientador 0 | |
-
+**Recuento 2026-10-07d** (catálogo 2026-10-05-sisley, 1.589 productos limpios, 1.524 con tipo; entre paréntesis,
+cuántos llevan enlace de Amazon):
+- **Cuidado personal:**
+  - desodorantes 2 (0), limpiadores faciales 66 (25), cremas faciales 68 (18), sérums y aceites faciales 62 (20);
+  - protectores solares 58 (32), champús 7 (5), geles de ducha 6 (1), higiene íntima 5 (0);
+  - acondicionadores y mascarillas capilares 9 (1), cremas y aceites corporales 17 (0);
+  - bases, correctores y polvos 67 (6), labiales 272 (17), lubricantes 4 (3);
+  - contornos de ojos 35 (1), tónicos, esencias y brumas 31 (1), exfoliantes 10 (1), mascarillas faciales 15 (0);
+  - bálsamos y cremas reparadoras 53 (0), anti-granos 9 (0), cremas de manos y pies 4 (0);
+  - tratamientos capilares 12 (1), autobronceadores 2 (0);
+  - máscaras de pestañas 26 (0), sombras, lápices de ojos y cejas 259 (0), coloretes, bronceadores e iluminadores
+    107 (0), esmaltes y cuidado de uñas 299 (0).
+- **Hogar:** detergentes 1, suavizantes 1, lavavajillas 1, multiusos 4, limpiadores de cocina y baño 5, lejías 3,
+  desatascadores 3, ambientadores 1 (ninguno con enlace todavía).
 - **Pastas de dientes: 0.** Todas llevan "Aroma" (regla 188, aroma no divulgado).
-- **Desodorantes: 2.** Casi todos llevan perfume o alguno de los avisos de siempre.
-- **Ambientadores: 0** limpios.
+- Los tipos salen primero en el orden de demanda que dio Mariana y después los nuevos.
 
 **Enlaces de Amazon: se comprueban a mano** en la página
 [Tiendas oficiales en Amazon](https://claude.ai/artifact/Viv5kabTFc4yfvbbgG4xN8), con el criterio de arriba
@@ -4037,15 +4055,6 @@ node herramientas/alternativas/verifica.mjs                                     
 
   Las cuatro están en Amazon y cuentan como "sí" con el criterio nuevo. Faltan los enlaces de sus productos.
 - Las otras 46 marcas con productos limpios están sin revisar.
-
-**Recuento 2026-10-07a (los 472 sin enlace todavía):**
-- **Cuidado personal:**
-  - desodorantes 2, limpiadores faciales 62, cremas faciales 42, sérums 59;
-  - protectores solares 60, champús 7, geles de ducha 7, higiene íntima 1;
-  - acondicionadores 6, cremas corporales 3, bases de maquillaje 26, labiales 186, lubricantes 4.
-- **Hogar:** detergentes 1, suavizantes 1, lavavajillas 2, multiusos 3.
-- **Sin ningún producto:** pastas de dientes y ambientadores.
-- Los tipos salen en el orden de demanda que dio Mariana.
 
 **Ojo (seguridad):** la receta de "Navegador headless" de aquí abajo lanza Chromium con
 `--ignore-certificate-errors`, que **desactiva la verificación TLS**. No se debe usar. Si hace falta un
