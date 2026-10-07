@@ -3940,6 +3940,78 @@ primeras opciones".
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
+### Estado 2026-10-07: generador listo; **alternativas.json todavía no existe** (falta la condición 2)
+**Generador** (`herramientas/alternativas/`, se rehace cuando cambie el catálogo o el detector):
+```
+python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
+node herramientas/alternativas/limpios.mjs > herramientas/alternativas/limpios.json   # condiciones 1 y 3
+python3 herramientas/alternativas/fechas.py                                          # fechaLista por código
+python3 herramientas/alternativas/genera.py <versión>                                # cruza con la condición 2
+```
+- `limpios.mjs` usa las mismas funciones que la ficha de producto de la app: `guessCategoria(nombre + marca)`,
+  `dedupeIngredients(matchIngredients(inci))` y `matchOtrosRiesgos(inci)`. Los "otros a tener en cuenta" no
+  excluyen.
+- `fechas.py`: la fecha de la primera versión de `catalogo.json` en que ese código aparece con su lista actual
+  (historial de git; si la lista cambia, la fecha se reinicia). La app la recibe como DD-MM-AAAA.
+- `genera.py` solo mete un producto si tiene en `amazon_verificados.json` una entrada
+  `{"<código>": {"amazon": "https://www.amazon.es/dp/…", "vendedor": "<nombre visto>", "oficial": true,
+  "formato": "50 ml", "visto": "AAAA-MM-DD"}}`. **Sin ninguna entrada verificada no escribe
+  alternativas.json**, y así la app sigue diciendo "Estamos preparando las primeras opciones" en vez de
+  enseñar listas vacías. `imagen` sale de `fotos/<código>.jpg` si existe; si no, se omite.
+
+**Reglas de clasificación por nombre** (`herramientas/alternativas/tipos.py`, con las claves del contrato):
+- Se aplican al nombre sin tildes y en minúsculas. Cada tipo tiene una expresión que casa y otra que excluye, y
+  gana la primera regla que encaja, en este orden:
+  - Cuidado personal: lubricante → higiene íntima → pasta de dientes → desodorante → labial → base de
+    maquillaje → protector solar → champú → acondicionador → gel de ducha → crema corporal → limpiador facial →
+    sérum → crema facial.
+  - Hogar: suavizante → lavavajillas → detergente → multiusos → ambientador.
+- El orden resuelve los casos dobles:
+  - "Bálsamo labial SPF" es labial, y una base con SPF es base de maquillaje.
+  - "Gel íntimo" es higiene íntima, no gel de ducha.
+  - El "Limpión lavadoras" y el abrillantador o la sal del lavavajillas no son ni detergente ni lavavajillas.
+- **Un nombre ambiguo se queda sin tipo.** Por ejemplo, "Crema" sin decir si es de cara o de cuerpo, o
+  "Toleriane Dermallergo Crema". Mejor fuera que en el tipo equivocado.
+
+**Condiciones 1 y 3 (catálogo 2026-10-05-sisley):** 1.602 productos con código y cero detecciones, de los que
+**472 tienen tipo**, de 50 marcas.
+
+| Tipo | Productos | Tipo | Productos |
+|---|---|---|---|
+| Labiales | 186 | Geles de ducha | 7 |
+| Limpiadores faciales | 62 | Champús | 7 |
+| Protectores solares | 60 | Acondicionadores | 6 |
+| Sérums | 59 | Lubricantes | 4 |
+| Cremas faciales | 42 | Cremas corporales | 3 |
+| Bases de maquillaje | 26 | Desodorantes | 2 (Caudalie Vinofresh, Niyok) |
+| Higiene íntima | 1 (Saforelle) | Hogar: multiusos 3, lavavajillas 2, detergente 1, suavizante 1, ambientador 0 | |
+
+- **Pastas de dientes: 0.** Todas llevan "Aroma" (regla 188, aroma no divulgado).
+- **Desodorantes: 2.** Casi todos llevan perfume o alguno de los avisos de siempre.
+- **Ambientadores: 0** limpios.
+
+**Condición 2 (tienda oficial en Amazon.es): sin hacer, y qué marcas la tienen: sin comprobar.** Desde esta
+máquina no se puede:
+- La sesión sale con IP de EE. UU. y Amazon.es enseña "Enviar a Estados Unidos". Sin dirección española no
+  pinta la caja de compra: no hay vendedor ni oferta, y `merchantID` llega vacío, tanto con curl como con
+  Chromium.
+- Cambiar la dirección exige llamar a servicios internos de Amazon con su token anti-CSRF.
+- Las condiciones de uso de Amazon prohíben la extracción automatizada. No se ha seguido por ahí.
+
+**La vía buena es la Product Advertising API 5.0 de Amazon Afiliados** (con las claves de la cuenta de
+afiliada de Mariana: Access Key, Secret Key y Partner Tag). `GetItems`/`SearchItems` devuelven:
+- `Offers.Listings.MerchantInfo.Name`, que es el vendedor;
+- `Images.Primary`, la imagen;
+- `ItemInfo.Title`, `ByLineInfo.Brand` y `DetailPageURL`, el enlace.
+
+Es lo que exige el programa y da la condición 2 sin raspar páginas. Alternativa a mano: comprobar marca a marca
+en Amazon.es (son 50 marcas) y apuntar el enlace y el vendedor en `amazon_verificados.json`.
+
+**Ojo (seguridad):** la receta de "Navegador headless" de aquí abajo lanza Chromium con
+`--ignore-certificate-errors`, que **desactiva la verificación TLS**. No se debe usar. Si hace falta un
+navegador, que Chromium no abra conexiones propias: cada petición la hace Node con la CA del proxy
+verificada (`page.route` + `fetch` + `route.fulfill`). Así se ha probado Amazon el 2026-10-07.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
