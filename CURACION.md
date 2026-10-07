@@ -3797,6 +3797,28 @@ ingredientes?" (un nombre por párrafo, con el nombre técnico entre paréntesis
 Se traduce al nombre INCI/inglés habitual (Sodium Percarbonate, TAED, Subtilisin…) como se hizo
 con Fairy. Candidatos si alguien los pide: lavavajillas a mano, tiras de detergente, quitamanchas.
 
+**Ampliada el 2026-10-07 (versión 2026-10-07-natulim, pedido de Mariana): 19 productos, 26 códigos.**
+- **EAN:** ahora sí vienen en `/products/<slug>.json` (campo `barcode` de cada variante, `8436617…`). Las variantes
+  "Kit" o "pack" sin EAN (SKU de 6 cifras) no entran.
+- **Listas:** la FAQ de cada ficha. Oxi Clean, Oxi White, ácido cítrico, Tierras de Sommières y lavavajillas a mano
+  dan la lista "INCI" del Reglamento 648/2004; la gama Kēr (champús, geles, jabón de manos) da el INCI de cada
+  variante en "¿Cuáles son los ingredientes de cada producto?". Percarbonato, cristales de soda y sal de acedera:
+  la ficha dice "solo contiene…" un único componente. Las Eco-Tiras dan la lista en castellano con nombres
+  comunes; se pasó al inglés habitual ("alcohol etoxisulfato" → Alcohol Ethoxysulfate) y la Floral y la Lavanda
+  llevan además Parfum (la ficha lo dice).
+- **Oxi Clean y Oxi White tienen la misma lista** en la web. Se guarda así, porque es lo que publica la marca.
+- **No entran:** friegasuelos, perlas perfumadas y bicarbonato (sin lista de ingredientes); limpia lavadoras y
+  limpia lavavajillas (solo dan "3 ingredientes activos"); antical, desengrasante, limpiacristales y
+  multisuperficies (lista sí, pero sin EAN: solo se venden en packs de recargas); quitamanchas en pasta (sin EAN).
+- **Detector:** "Alcohol Ethoxysulfate / alcohol etoxisulfato" no se reconocía como tensioactivo etoxilado (falso
+  negativo). Alias añadido en las dos reglas (192 y "Alcoholes etoxilados y PEG"). Regresión: 0 cambios en las
+  7.837 fichas anteriores. También la categoría: "potenciador de lavado", "polvo blanqueador", "percarbonato",
+  "cristales de soda", "sal de acedera", "ácido cítrico limpiador" y "Tierras de Sommières" pasan a Hogar.
+- **Revisión FP/FN:** limpios el gel Clean&Calm (sin fragancia), Oxi Clean, Oxi White, ácido cítrico, Tierras de
+  Sommières, percarbonato, cristales de soda y sal de acedera. Con perfume: los champús Sunrise, Detox y Fenix, el
+  gel Radiance, el jabón Cloud, el lavavajillas a mano y las Eco-Tiras Floral y Lavanda. Las Eco-Tiras sin
+  fragancia y las de bebés llevan alcohol etoxisulfato. Sin falsos positivos.
+
 ### Carrefour (marca blanca) — abierta 2026-09-16: 1 producto, 1 código (pedido por una usuaria en Francia)
 carrefour.fr (Datadome) y carrefour.es (Cloudflare) devuelven 403 a todo. La única fuente es la
 etiqueta: OBF tiene fotos por código y, en este caso, dos generaciones bajo el mismo EAN. Se
@@ -3914,6 +3936,11 @@ primeras opciones".
 como alternativa limpia aunque el detector no lo marque: salen las 3 lejías (Neutrex ×2, Cloro Max) y los 2
 desatascadores con lejía de Sanicentro. Lo hace `genera.py` mirando la lista de `catalogo.json`. El desatascador de
 HG (sosa cáustica, sin lejía) sigue.
+**Y lo corrosivo o tóxico (Mariana, 2026-10-07: "los desatascadores tienen productos peligrosos? si sí, sácalos").**
+Salen todos los desatascadores y cualquier producto con un ácido o una base fuerte entre sus dos primeros
+ingredientes (sosa o potasa cáustica, ácido clorhídrico, sulfúrico, fosfórico, nítrico, sulfámico) o con ácido
+oxálico: el desatascador y el limpiahornos de HG, el desincrustante y el limpiador de paellas de Asevi, y la sal de
+acedera de Natulim. La sosa o la potasa al final de la lista (ajuste de pH, jabón saponificado) no cuenta.
 
 **El enlace a Amazon NO es condición de entrada, es un extra.** Un producto entra por ser
 limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando hay enlace.
@@ -3954,8 +3981,10 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
     `base-maquillaje`, `labial`, y desde la versión 2026-10-07d `contorno-ojos`, `tonico`, `exfoliante`,
     `mascarilla-facial`, `emoliente`, `granos`, `crema-manos`, `capilar`, `autobronceador`, `mascara-pestanas`,
     `ojos-cejas`, `colorete`, `esmalte`.
-  - Hogar: `detergente`, `suavizante`, `lavavajillas`, `multiusos`, `ambientador`, y desde la 2026-10-07d
-    `limpiador-cocina-bano`, `lejia`, `desatascador`.
+  - Hogar: `detergente`, `suavizante`, `lavavajillas`, `multiusos`, `ambientador`, desde la 2026-10-07d
+    `limpiador-cocina-bano`, `lejia`, `desatascador` (estas dos sin productos: fuera por peligrosas), y desde la
+    2026-10-07g `aditivo-colada` (quitamanchas y aditivos para la colada) y `basicos-limpieza` (ácido cítrico,
+    cristales de soda…).
   - Un tipo nuevo o una regla cambiada se pasa a la app con `exporta_js.py` (ver abajo).
 - `amazon` SIN etiqueta de afiliado: la pone la app. Sin `amazon` el producto se enseña
   igual, sin botón.
@@ -3965,7 +3994,9 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: **alternativas.json versión 2026-10-07f**, 1519 productos, 227 con enlace de Amazon
+### Estado 2026-10-07: **alternativas.json versión 2026-10-07g**, 1.522 productos, 228 con enlace de Amazon
+(07g: fuera lo corrosivo o tóxico de Hogar; entra Natulim: gel Clean&Calm, Oxi Clean, Oxi White, percarbonato, Tierras
+de Sommières, cristales de soda y ácido cítrico, este con enlace.)
 (07e: fuera la lejía. 07e y 07f: +95 enlaces de 184 productos buscados (lotes d0-d3); 54 dudosos sin enlace. Quedan 239 por
 buscar en `amazon_pendientes.json`, sobre todo de los tipos nuevos; Kiko, Manucurist, Rhode y las marcas blancas de súper no se
 buscan porque Amazon.es no las vende directamente. El recuento por tipo de abajo es el de la 07d.)
@@ -3996,7 +4027,7 @@ node herramientas/alternativas/verifica.mjs                                     
     → capilar → gel de ducha → crema de manos → autobronceador → anti-granos → crema corporal → contorno de ojos
     → limpiador facial → exfoliante → mascarilla facial → tónico → sérum → crema facial → emoliente.
   - Hogar: suavizante → lavavajillas → detergente → multiusos → lejía → desatascador → limpiador de cocina y
-    baño → ambientador.
+    baño → aditivos para la colada → básicos de limpieza → ambientador.
   - Si el nombre no dice nada, cuenta la marca cuando solo hace un tipo (`MARCA_TIPO`: Manucurist, uñas).
 - El orden resuelve los casos dobles:
   - "Bálsamo labial SPF" es labial, y una base con SPF es base de maquillaje.

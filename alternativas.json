@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07f",
+ "version": "2026-10-07g",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1831,6 +1831,12 @@
        "barcode": "3504105033637",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B07YQ6NDSM"
+      },
+      {
+       "nombre": "Gel de ducha sin fragancia Clean&Calm (Kēr)",
+       "marca": "Natulim",
+       "barcode": "8436617754388",
+       "fechaLista": "07-10-2026"
       },
       {
        "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
@@ -9496,27 +9502,9 @@
      "nombre": "Limpiadores de cocina y baño",
      "productos": [
       {
-       "nombre": "Desincrustante 0,5 L (envase de Rumanía)",
-       "marca": "Asevi",
-       "barcode": "8411582266302",
-       "fechaLista": "21-09-2026"
-      },
-      {
-       "nombre": "Limpiador Paellas y Calderos 500 ml",
-       "marca": "Asevi",
-       "barcode": "8411582265305",
-       "fechaLista": "21-09-2026"
-      },
-      {
        "nombre": "Limpiador de cocinas para acero inoxidable HG",
        "marca": "HG",
        "barcode": "8711577070175",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Limpiador de hornos y asadores HG",
-       "marca": "HG",
-       "barcode": "8711577004637",
        "fechaLista": "04-10-2026"
       },
       {
@@ -9528,14 +9516,51 @@
      ]
     },
     {
-     "key": "desatascador",
-     "nombre": "Desatascadores",
+     "key": "aditivo-colada",
+     "nombre": "Quitamanchas y aditivos para la colada",
      "productos": [
       {
-       "nombre": "Desatascador potente HG",
-       "marca": "HG",
-       "barcode": "8711577194505",
-       "fechaLista": "04-10-2026"
+       "nombre": "Oxi Clean potenciador de lavado",
+       "marca": "Natulim",
+       "barcode": "8436617752025",
+       "fechaLista": "07-10-2026"
+      },
+      {
+       "nombre": "Oxi White polvo blanqueador",
+       "marca": "Natulim",
+       "barcode": "8436617752049",
+       "fechaLista": "07-10-2026"
+      },
+      {
+       "nombre": "Percarbonato de sodio (recarga)",
+       "marca": "Natulim",
+       "barcode": "8436617753442",
+       "fechaLista": "07-10-2026"
+      },
+      {
+       "nombre": "Quitamanchas en seco Tierras de Sommières",
+       "marca": "Natulim",
+       "barcode": "8436617752292",
+       "fechaLista": "07-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "basicos-limpieza",
+     "nombre": "Básicos de limpieza (ácido cítrico, cristales de soda…)",
+     "productos": [
+      {
+       "nombre": "Cristales de soda (recarga)",
+       "marca": "Natulim",
+       "barcode": "8436617753459",
+       "fechaLista": "07-10-2026"
+      },
+      {
+       "nombre": "Ácido cítrico limpiador",
+       "marca": "Natulim",
+       "barcode": "8436617752308",
+       "fechaLista": "07-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D9PGYWKC"
       }
      ]
     },
