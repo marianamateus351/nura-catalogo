@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07g",
+ "version": "2026-10-07h",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2156,13 +2156,6 @@
        "barcode": "4059729488343",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DPB8ST1Y"
-      },
-      {
-       "nombre": "CC Cream Vinocrush tono 2",
-       "marca": "Caudalie",
-       "barcode": "3522930004103",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CWJCY2TT"
       },
       {
        "nombre": "Super BB Concealer SPF 25 (Clair, Nude, Doré, Caramel, Chocolat) 10 ml",
@@ -6358,48 +6351,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981460",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 04",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981484",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 05",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981491",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 08",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981521",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 09",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981538",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 10",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981545",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos compacta Glitter Shower Eyeshadow · 12",
-       "marca": "Kiko Milano",
-       "barcode": "8025272981569",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Sombra de ojos compacta Holiday Wonderlights Metallic Magnitude Eyeshadow",
        "marca": "Kiko Milano",
        "barcode": "8059385027937",
@@ -6523,12 +6474,6 @@
        "nombre": "Sombra de ojos en barra Freestyle Rainbow Eyeshadow Stick · 07",
        "marca": "Kiko Milano",
        "barcode": "8059385064741",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos en crema Days In Bloom Metamorphic Eyeshadow",
-       "marca": "Kiko Milano",
-       "barcode": "8059385020938",
        "fechaLista": "03-10-2026"
       },
       {

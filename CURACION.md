@@ -4102,7 +4102,7 @@ cuántos llevan enlace de Amazon):
 navegador, que Chromium no abra conexiones propias: cada petición la hace Node con la CA del proxy
 verificada (`page.route` + `fetch` + `route.fulfill`). Así se ha probado Amazon el 2026-10-07.
 
-## PENDIENTE 2026-10-07 · Polímeros de purpurina y "film formers" en la regla 191 (decisión con la norma delante)
+## DECIDIDO 2026-10-07 · Polímeros de purpurina y "film formers" en la regla 191 (antes PENDIENTE; decisión abajo)
 Pedido de Mariana tras revisar los 304 Kiko de Alternativas. La regla 191 (microplásticos) nombra
 polietileno, PET, nylon, PMMA, poliestireno, PBT… pero **no** los polímeros típicos de la purpurina
 ni los formadores de película de labiales y máscaras. Hay que decidir, con el Reglamento (UE)
@@ -4125,6 +4125,53 @@ cuántos de esos productos están ahora en Alternativas:
 Al decidir: aplicar en la app con la regresión del catálogo entero, anotar aquí qué entra y por qué,
 regenerar `alternativas.json` (los que caigan salen solos de la pestaña, sin build) y decirle a
 Mariana cuántos productos salen por marca.
+
+### Decisión (2026-10-07, con el texto de la entrada 78 del anexo XVII de REACH delante, EUR-Lex, CELEX 32023R2055)
+**La norma, en lo que importa aquí:**
+- **Micropartícula de polímero sintético:** polímero **sólido** contenido en partículas (al menos el 1 % de su peso) **o
+  que forma un recubrimiento superficial continuo sobre partículas**, con partículas de 5 mm o menos (fibras: 15 mm
+  o menos y largo/diámetro > 3).
+- **«Sólido»:** lo que no es líquido ni gas. Líquido es lo que tiene punto de fusión de 20 °C o menos.
+- **Quedan fuera de la definición:**
+  - a) polímeros naturales **no modificados químicamente**;
+  - b) degradables, probado según el apéndice 15;
+  - c) solubles a más de 2 g/L, probado según el apéndice 16;
+  - d) **sin átomos de carbono**.
+- **Apartado 5.b:** no se prohíben las que «se modifiquen de manera permanente durante el uso final previsto», que
+  es el caso de los **formadores de película**: la partícula deja de existir al aplicarse.
+- **Fechas:** labiales, uñas y maquillaje desde el 17-10-2035; productos que se aclaran desde 2027; las
+  microesferas exfoliantes ya están prohibidas.
+- **Criterio de Nura:** entra en la regla 191 lo que es micropartícula sólida en el producto tal como se vende. No
+  entra lo que la norma no considera micropartícula (líquidos, disueltos, vidrio) ni los formadores de película.
+
+| Ingrediente | Decisión | Por qué |
+|---|---|---|
+| Cellulose Acetate | **Entra** | Celulosa químicamente modificada: no le vale la exclusión a). Es insoluble en agua y ninguna ficha prueba que sea degradable (la de Kiko Glitter Shower no dice nada). En el catálogo es siempre partícula sólida: purpurina (Kiko Glitter Shower, primer ingrediente), bolitas exfoliantes (Avène, Babaria, Rituals, Bioderma) y microcápsulas de color de las CC y los solares (va con estearato de magnesio: Nivea, Caudalie, SVR, Martiderm). |
+| Cellulose Acetate **Butyrate / Propionate** | **No entra** | La tabla los contaba dentro de los 35 de "Cellulose Acetate". En realidad son 15 esmaltes (essence, Essie, Catrice, Maybelline, Manucurist) donde el polímero está disuelto en el disolvente y forma película al secar (5.b). Se tapan con `excluyeSi` para que el alias de acetato no los coja. |
+| Hydrogenated Styrene/Isoprene Copolymer · Hydrogenated Styrene/Butadiene Copolymer | **No entra** | Elastómeros disueltos en el aceite al que gelifican (labiales, glosses): no hay «partícula con límites físicos definidos». |
+| Polybutene | **No entra** | Líquido viscoso, con punto de fusión por debajo de 20 °C: no es «sólido». |
+| Polyurethane-11 · Polyurethane-33 | **Entra** | En las 21 fichas del catálogo van siempre con purpurina o pigmentos de efecto (PET, borosilicatos, aluminio, estaño). Son la lámina de la purpurina o su recubrimiento continuo (letra a de la definición). Hoy no cambian ninguna ficha: todas ya estaban marcadas por el PET u otro alias. Quedan para las que lleguen. |
+| Polyurethane-35 (y -34, -1, -2, -61) | **No entra** | Dispersiones al agua que forman película en máscaras, lápices de labios tattoo y esmaltes al agua (5.b). El "polyurethane film" de los parches de COSRX es una lámina, no una micropartícula. |
+| Polyethylene Terephthalate | Ya estaba | Purpurina clásica. |
+| Calcium Sodium Borosilicate · Calcium Aluminum Borosilicate · Glass Beads · Synthetic Fluorphlogopite | **No entra** | Vidrio y mica sintética, sin carbono: exclusión d). Si llevaran un recubrimiento de polímero, la lista lo nombraría (PU-11/-33, acrylates con PET) y ya saltaría por ese ingrediente. |
+| Acrylates Copolymer | **No entra** | En el catálogo, 339 fichas lo llevan disuelto en disolvente (esmaltes) y 156 en dispersión acuosa que forma película (máscaras, eyeliners, peel-off): 5.b. En las 3 purpurinas donde aparece es el recubrimiento del PET, que ya salta. No hay ningún polvo donde sea la única partícula de polímero. Si un día una ficha dice que es partícula (microesferas), se marca ese producto. |
+
+**Aplicado en la app** (`src/data/ingredients.js`, regla 191):
+- Alias nuevos: `cellulose acetate`, `acetato de celulosa`, `polyurethane-11`, `polyurethane-33`.
+- `excluyeSi` nuevos: `cellulose acetate butyrate`, `cellulose acetate propionate`.
+- Texto de la ficha al día con el criterio.
+
+**Regresión sobre el catálogo entero:** cambian 18 de las 7.855 fichas, todas por el acetato de celulosa y todas
+porque ganan "Microplásticos"; nada inesperado:
+- Kiko: 9 (8 Glitter Shower y la sombra en crema Days In Bloom Metamorphic);
+- Nivea: 2;
+- una de cada una de Avène, Babaria, Bioderma, Caudalie, Martiderm, Rituals y SVR.
+
+**alternativas.json 2026-10-07h:** salen 9 de 1.522 (quedan 1.513):
+- **Kiko Milano 8:** Glitter Shower Eyeshadow tonos 02, 04, 05, 08, 09, 10 y 12, y la sombra en crema Days In Bloom Metamorphic;
+- **Caudalie 1:** CC Cream Vinocrush tono 2.
+
+Solo la CC Cream de Caudalie tenía enlace de Amazon: quedan 227 enlaces.
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
