@@ -14,6 +14,11 @@ fechas = json.load(open(f'{A}/fechas.json'))
 ver = json.load(open(f'{A}/amazon_verificados.json')) if os.path.exists(f'{A}/amazon_verificados.json') else {}
 fotos = set(os.listdir(f'{R}/fotos')) if os.path.isdir(f'{R}/fotos') else set()
 FOTO_URL = 'https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/'
+import re
+def enlace_limpio(u):
+    # Enlace directo y sin etiqueta: la etiqueta de afiliada (marianamateus-21) la pone la app.
+    m = re.search(r'/(?:dp|gp/product)/([A-Z0-9]{10})', u or '')
+    return f'https://www.amazon.es/dp/{m.group(1)}' if m else None
 def ddmmaaaa(iso): y, m, d = iso.split('-'); return f'{d}-{m}-{y}'
 por = {}
 for p in limpios:
@@ -21,11 +26,11 @@ for p in limpios:
     if not k: continue
     for bc in p['barcodes']:
         v = ver.get(bc)
-        if not (v and v.get('oficial') and v.get('amazon') and v.get('vendedor')): continue
+        if not (v and v.get('oficial') and enlace_limpio(v.get('amazon')) and v.get('vendedor')): continue
         e = {'nombre': p['nombre'], 'marca': p['marca'], 'formato': v.get('formato', ''), 'barcode': bc}
         if f'{bc}.jpg' in fotos: e['imagen'] = FOTO_URL + f'{bc}.jpg'
         if bc in fechas: e['fechaLista'] = ddmmaaaa(fechas[bc])
-        e['amazon'] = v['amazon']; e['vendedor'] = v['vendedor']
+        e['amazon'] = enlace_limpio(v['amazon']); e['vendedor'] = v['vendedor']
         por.setdefault((p['categoria'], k), []).append(e)
         break                                     # un enlace por producto (el primer código verificado)
 if not por:
