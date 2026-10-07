@@ -3909,10 +3909,20 @@ primeras opciones".
 2. Categoría Cuidado personal u Hogar. Alimentación todavía no.
 
 **El enlace a Amazon NO es condición de entrada, es un extra.** Un producto entra por ser
-limpio, tenga o no Amazon. El campo `amazon` solo se rellena si en Amazon.es lo vende la
-TIENDA OFICIAL de la marca ("Vendido por <marca>" o tienda de marca verificada): con
-terceros, el campo se deja vacío aunque el producto esté en Amazon. La app enseña el
-botón "Ver en Amazon" solo cuando hay enlace.
+limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando hay enlace.
+
+**Qué enlace (criterio de Mariana del 2026-10-07, sustituye a "solo la tienda oficial"):**
+- Siempre la **ficha concreta del producto** (`https://www.amazon.es/dp/<ASIN>`), **nunca una búsqueda**.
+  En las búsquedas Amazon cuela anuncios de otras marcas: buscando Avène sale Neutrogena.
+- La ficha tiene que colgar de la **tienda de la marca** ("Visita la tienda de <marca>" bajo el título),
+  que es la que la marca controla y la que mejor esquiva los falsos.
+- La oferta principal ("Vendido por") la tienen que vender **la marca, Amazon o una farmacia o vendedor de
+  confianza**. Si es otro vendedor, no se enlaza.
+- El enlace va a la ficha, no a un vendedor, y la oferta principal puede cambiar. Por eso la app pone bajo el
+  botón, en letra muy pequeña: "Comprueba siempre que compras a Amazon, a la marca o a una farmacia o
+  vendedor de confianza".
+- `vendedor` guarda quién vendía al comprobarlo: el nombre si se apuntó y, si no, "Amazon", "<marca>" o
+  "Farmacia o vendedor de confianza".
 
 **Estructura (la app la lee tal cual; claves en minúsculas):**
 ```json
@@ -3944,7 +3954,7 @@ botón "Ver en Amazon" solo cuando hay enlace.
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: generador listo; **alternativas.json todavía no existe** (falta la condición 2)
+### Estado 2026-10-07: **alternativas.json versión 2026-10-07a**, 472 productos (enlaces de Amazon, en revisión)
 **Generador** (`herramientas/alternativas/`, se rehace cuando cambie el catálogo o el detector):
 ```
 python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
@@ -3994,22 +4004,33 @@ python3 herramientas/alternativas/genera.py <versión>                          
 - **Desodorantes: 2.** Casi todos llevan perfume o alguno de los avisos de siempre.
 - **Ambientadores: 0** limpios.
 
-**Condición 2 (tienda oficial en Amazon.es): sin hacer, y qué marcas la tienen: sin comprobar.** Desde esta
-máquina no se puede:
-- La sesión sale con IP de EE. UU. y Amazon.es enseña "Enviar a Estados Unidos". Sin dirección española no
-  pinta la caja de compra: no hay vendedor ni oferta, y `merchantID` llega vacío, tanto con curl como con
-  Chromium.
-- Cambiar la dirección exige llamar a servicios internos de Amazon con su token anti-CSRF.
-- Las condiciones de uso de Amazon prohíben la extracción automatizada. No se ha seguido por ahí.
+**Enlaces de Amazon: se comprueban a mano** en la página
+[Tiendas oficiales en Amazon](https://claude.ai/artifact/Viv5kabTFc4yfvbbgG4xN8), con el criterio de arriba
+(ficha de la tienda de marca y vendedor de confianza).
+- **Por qué a mano:** desde esta máquina no se puede. La IP es de EE. UU., así que Amazon.es no enseña la caja de
+  compra, y raspar sus páginas va contra sus condiciones. La API de afiliados (Creators API, que sustituye a la
+  Product Advertising API) exige 10 ventas en los últimos 30 días, y la cuenta aún no las tiene. Cuando las tenga,
+  esto se puede automatizar.
+- **Cómo pasa a alternativas.json:** se exporta la colección `productos` de la página (ArtifactData `list` con
+  `out_dir`), se ejecuta `python3 herramientas/alternativas/desde_revision.py <dir>/productos`, que escribe
+  `amazon_verificados.json`, y después `genera.py`.
 
-**La vía buena es la Product Advertising API 5.0 de Amazon Afiliados** (con las claves de la cuenta de
-afiliada de Mariana: Access Key, Secret Key y Partner Tag). `GetItems`/`SearchItems` devuelven:
-- `Offers.Listings.MerchantInfo.Name`, que es el vendedor;
-- `Images.Primary`, la imagen;
-- `ItemInfo.Title`, `ByLineInfo.Brand` y `DetailPageURL`, el enlace.
+**Marcas con tienda en Amazon.es** (la página guarda el detalle):
+- **2026-10-07**, primera pasada con el criterio anterior ("¿quién vende?"):
+  - Avène y A-Derma: venden terceros (farmacias);
+  - La Roche-Posay y Mustela: vende Amazon.
 
-Es lo que exige el programa y da la condición 2 sin raspar páginas. Alternativa a mano: comprobar marca a marca
-en Amazon.es (son 50 marcas) y apuntar el enlace y el vendedor en `amazon_verificados.json`.
+  Las cuatro están en Amazon y cuentan como "sí" con el criterio nuevo. Faltan los enlaces de sus productos.
+- Las otras 46 marcas con productos limpios están sin revisar.
+
+**Recuento 2026-10-07a (los 472 sin enlace todavía):**
+- **Cuidado personal:**
+  - desodorantes 2, limpiadores faciales 62, cremas faciales 42, sérums 59;
+  - protectores solares 60, champús 7, geles de ducha 7, higiene íntima 1;
+  - acondicionadores 6, cremas corporales 3, bases de maquillaje 26, labiales 186, lubricantes 4.
+- **Hogar:** detergentes 1, suavizantes 1, lavavajillas 2, multiusos 3.
+- **Sin ningún producto:** pastas de dientes y ambientadores.
+- Los tipos salen en el orden de demanda que dio Mariana.
 
 **Ojo (seguridad):** la receta de "Navegador headless" de aquí abajo lanza Chromium con
 `--ignore-certificate-errors`, que **desactiva la verificación TLS**. No se debe usar. Si hace falta un

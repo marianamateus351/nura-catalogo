@@ -1,0 +1,2952 @@
+{
+ "version": "2026-10-07a",
+ "categorias": [
+  {
+   "key": "cuidado-personal",
+   "nombre": "Cuidado personal",
+   "tipos": [
+    {
+     "key": "desodorante",
+     "nombre": "Desodorantes",
+     "productos": [
+      {
+       "nombre": "Desodorante Stick Natural Vinofresh",
+       "marca": "Caudalie",
+       "barcode": "3522930003304",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
+       "marca": "Niyok",
+       "barcode": "4260664930099",
+       "imagen": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg",
+       "fechaLista": "14-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "limpiador-facial",
+     "nombre": "Limpiadores faciales",
+     "productos": [
+      {
+       "nombre": "Agua micelar dermatológica",
+       "marca": "A-Derma",
+       "barcode": "3282770146578",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Biology AC Gel espumoso limpiador purificante",
+       "marca": "A-Derma",
+       "barcode": "3282770153002",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Biology Espuma limpiadora dermatológica hidraprotectora",
+       "marca": "A-Derma",
+       "barcode": "3282770154085",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Leche desmaquillante dermatológica",
+       "marca": "A-Derma",
+       "barcode": "3282770146530",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Aceite limpiador Heartleaf Pore Cleansing Oil Mild",
+       "marca": "Anua",
+       "barcode": "8809640735028",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Agua limpiadora Heartleaf Low pH Deep Cleansing Water",
+       "marca": "Anua",
+       "barcode": "8809640734854",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora 8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser",
+       "marca": "Anua",
+       "barcode": "8809640735561",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador 8 Hyaluronic Acid Moisturizing Gentle Gel Cleanser",
+       "marca": "Anua",
+       "barcode": "8809640735813",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
+       "marca": "Anua",
+       "barcode": "8809640735462",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Aceite limpiador relipidizante",
+       "marca": "Avène",
+       "barcode": "3282770391855",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos intenso",
+       "marca": "Avène",
+       "barcode": "3282770073126",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante suave de ojos",
+       "marca": "Avène",
+       "barcode": "3282779051378",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Gel limpiador purificante",
+       "marca": "Avène",
+       "barcode": "3282770150261",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "HYDRA Crema limpiadora calmante",
+       "marca": "Avène",
+       "barcode": "3282770390476",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Loción limpiadora gelificada",
+       "marca": "Avène",
+       "barcode": "3282770142280",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "NUTRITION Gel limpiador",
+       "marca": "Avène",
+       "barcode": "3282770155105",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "XeraCalm A.D Aceite Limpiador Relipidizante",
+       "marca": "Avène",
+       "barcode": "3282770389883",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "XeraCalm A.D..Aceite limpiador relipidizante",
+       "marca": "Avène",
+       "barcode": "3282770146844",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "XERACALM AD Aceite Limpiador Relipidizante",
+       "marca": "Avène",
+       "barcode": "3282771000299",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Aceite limpiador Ginseng Cleansing Oil",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809968130130",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo limpiador Radiance Cleansing Balm",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809606851663",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador Green Plum Refreshing Cleanser",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809738314678",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sensibio Aceite Micelar Desmaquillante 300 ml",
+       "marca": "Bioderma",
+       "barcode": "3701129817919",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Sensibio AR+ Gel Micelar 250 ml",
+       "marca": "Bioderma",
+       "barcode": "3701129812488",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
+       "marca": "Byphasse",
+       "barcode": "8436097094424",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Agua Micelar Hidratante",
+       "marca": "CeraVe",
+       "barcode": "3337875597203",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Limpiador en Aceite Espumoso Hidratante",
+       "marca": "CeraVe",
+       "barcode": "3337875773447",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Loción Limpiadora",
+       "marca": "Cetaphil",
+       "barcode": "3499320014113",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante bifásico de ojos Cien 100 ml",
+       "marca": "Cien (Lidl)",
+       "barcode": "4056489447061",
+       "fechaLista": "12-09-2026"
+      },
+      {
+       "nombre": "Agua micelar desmaquillante, para pieles secas y sensibles COSMIA Sensitive 500 ml",
+       "marca": "Cosmia",
+       "barcode": "3245678599716",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos con pro-vitamina B5, para pieles sensibles 150 ml",
+       "marca": "Cosmia",
+       "barcode": "3245678599655",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Limpiador Red Rice Inositol Pore Clarifying Deep Cleanser",
+       "marca": "COSRX",
+       "barcode": "8800311121768",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Hydractive Solución Micelar 100 ml",
+       "marca": "Endocare",
+       "barcode": "8436574360868",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Anti-Pigment Gel Limpiador",
+       "marca": "Eucerin",
+       "barcode": "4005800346408",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
+       "marca": "Garnier",
+       "barcode": "3600541358485",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de Ojos 2 en 1",
+       "marca": "Garnier",
+       "barcode": "3600541361249",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Aceite limpiador Black Rice Moisture Cleansing Oil sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221349",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Bálsamo desmaquillante Centella Sunflower Makeup-Melting Cleansing Balm",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221936",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel limpiador Black Rice Moisture 5.5 Soft Cleansing Gel sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221356",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel limpiador Black Rice Triple AHA Gentle Cleansing Gel sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221783",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Agua Micelar 3-en-1",
+       "marca": "Klorane",
+       "barcode": "3282770390292",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante De Ojos",
+       "marca": "Klorane",
+       "barcode": "3282770204223",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos waterproof",
+       "marca": "Klorane",
+       "barcode": "3282770204247",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Jabón sólido limpiador a la Caléndula BIO",
+       "marca": "Klorane",
+       "barcode": "3282770389708",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Agua micelar pieles normales y secas",
+       "marca": "L'Oréal Paris",
+       "barcode": "3600523330133",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Agua Micelar Oil Infused",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875725897",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de Maquillaje de Ojos Waterproof",
+       "marca": "La Roche-Posay",
+       "barcode": "3433422401907",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Toleriane Dermolimpiador",
+       "marca": "La Roche-Posay",
+       "barcode": "3337872411830",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Toleriane Gel Espumoso Doble Limpiador Hidratante Purificante",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875545822",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
+       "marca": "Medik8",
+       "barcode": "0818625027636",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador Total Moisture Daily Cleansing Gel",
+       "marca": "Medik8",
+       "barcode": "0818625028732",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Toallitas limpiadoras compostables sin perfume 60 unidades.",
+       "marca": "Mustela",
+       "barcode": "3504105041595",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Ultra Gentle Gel Limpiador de Uso Diario",
+       "marca": "Neutrogena",
+       "barcode": "3574661870397",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Aceite delicado desmaquillante",
+       "marca": "Nuxe",
+       "barcode": "3264680043475",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Desmaquillante Waterproof Ojos y Labios - BIFÁSICO",
+       "marca": "Nuxe",
+       "barcode": "3264680047572",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Pineapple Refresh",
+       "marca": "Rhode",
+       "barcode": "0850055527034",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Desmaquillante Skincare Eye Make-Up Remover",
+       "marca": "Rituals",
+       "barcode": "8719134213300",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Skincare 3-In-1 Micellar Water",
+       "marca": "Rituals",
+       "barcode": "8719134213331",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Glucoside Foaming Cleanser 150 ml",
+       "marca": "The Ordinary",
+       "barcode": "0769915232042",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos bifásico",
+       "marca": "Uriage",
+       "barcode": "3661434003691",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Toléderm Gel-leche desmaquillante",
+       "marca": "Uriage",
+       "barcode": "3661434009440",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Pureté Thermale Agua Micelar 3 en 1",
+       "marca": "Vichy",
+       "barcode": "3337875674942",
+       "fechaLista": "09-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "crema-facial",
+     "nombre": "Cremas faciales",
+     "productos": [
+      {
+       "nombre": "Crema hidratante ligera dermatológica",
+       "marca": "A-Derma",
+       "barcode": "3282770146646",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Crema rica dermatológica hidratante",
+       "marca": "A-Derma",
+       "barcode": "3282770146615",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Dermalibour+ CICA-Crema reparadora purificante",
+       "marca": "A-Derma",
+       "barcode": "3282770141962",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Epitheliale A.H Ultra Repair Crema reparadora antimarcas",
+       "marca": "A-Derma",
+       "barcode": "3282770398632",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Exomega Control Crema de noche emoliente reparadora",
+       "marca": "A-Derma",
+       "barcode": "3282770397673",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Exomega Control Gel-crema calmante",
+       "marca": "A-Derma",
+       "barcode": "3282770401172",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Aqua Gel-Crema Regeneradora Celular",
+       "marca": "Avène",
+       "barcode": "3282770400731",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Control Crema calmante reparadora de Cosmética estéril®",
+       "marca": "Avène",
+       "barcode": "3282770138801",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema Regeneradora Celular",
+       "marca": "Avène",
+       "barcode": "3282770400700",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Hydra-10 Crema Hidratante",
+       "marca": "Avène",
+       "barcode": "3282770388336",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Hydra-10 Fluido Hidratante",
+       "marca": "Avène",
+       "barcode": "3282770388299",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema hidratante Dynasty Cream",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809525249565",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sensibio Defensive Crema Activa Calmante",
+       "marca": "Bioderma",
+       "barcode": "3701129804445",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema Hidratante Intensiva",
+       "marca": "CeraVe",
+       "barcode": "3337875923903",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Gel crema Hydrium Green Tea Aqua Soothing Gel Cream",
+       "marca": "COSRX",
+       "barcode": "8809598450622",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Dexyane MeD Crema reparadora calmante",
+       "marca": "Ducray",
+       "barcode": "3282770148138",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Kelual DS Crema calmante",
+       "marca": "Ducray",
+       "barcode": "3282770392371",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Anti-Redness Crema Calmante",
+       "marca": "Eucerin",
+       "barcode": "4005800107863",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra-Sensitive Crema Calmante para Piel Normal a Mixta",
+       "marca": "Eucerin",
+       "barcode": "4005800108044",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra-Sensitive Crema Calmante para Piel Seca",
+       "marca": "Eucerin",
+       "barcode": "4005800108129",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema hidratante Black Rice 5 Ceramide Barrier Moisturizing Cream sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532222247",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel-crema Centella 5% Niacinamide Radiance Gel Cream sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221998",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Hidratante facial Power Shake Cool Crystal Stick",
+       "marca": "Kiko Milano",
+       "barcode": "8059385033839",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Hidratante facial Power Shake Dreamy Glow Eye Patches",
+       "marca": "Kiko Milano",
+       "barcode": "8059385033822",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Hidratante facial Power Shake Energ-Eyes Contour Cream",
+       "marca": "Kiko Milano",
+       "barcode": "8059385033341",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante a la Caléndula BIO",
+       "marca": "Klorane",
+       "barcode": "3282770391107",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
+       "marca": "Klorane",
+       "barcode": "3282770395853",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Crema hidratante calmante Panthenol Comfort para piel con tendencia atópica",
+       "marca": "Mixa",
+       "barcode": "3600551153148",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante fortalecedora Ceramide Protect para piel muy seca",
+       "marca": "Mixa",
+       "barcode": "3600551153179",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Cicastela crema reparadora 40ml",
+       "marca": "Mustela",
+       "barcode": "3504105032937",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Crema facial emoliente Stelatopia 40ml",
+       "marca": "Mustela",
+       "barcode": "3504105031572",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Crema facial hidratante confort con Schisandra BIO 40ml",
+       "marca": "Mustela",
+       "barcode": "3504105036430",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Hydro Boost Crema Gel Hidratante",
+       "marca": "Neutrogena",
+       "barcode": "3574661309743",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "After Sun Sensitive Gel Crema",
+       "marca": "Nivea",
+       "barcode": "4005900692474",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
+       "marca": "Rhode",
+       "barcode": "0810175611105",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Crema calmante para piel sensible Soin Apaisant Peaux Sensibles",
+       "marca": "Sisley",
+       "barcode": "3473311270009",
+       "fechaLista": "05-10-2026"
+      },
+      {
+       "nombre": "Cica Daily Crema reparadora concentrada",
+       "marca": "Uriage",
+       "barcode": "3661434011900",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Cica Daily Gel-crema reparador",
+       "marca": "Uriage",
+       "barcode": "3661434011924",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Toléderm Control Crema ligera",
+       "marca": "Uriage",
+       "barcode": "3661434023507",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Toléderm Control Crema rica",
+       "marca": "Uriage",
+       "barcode": "3661434023514",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Liftactiv Collagen Specialist 16 Crema de Día",
+       "marca": "Vichy",
+       "barcode": "3337875607254",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Liftactiv Collagen Specialist 16 Crema de Noche",
+       "marca": "Vichy",
+       "barcode": "3337875722520",
+       "fechaLista": "09-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "serum",
+     "nombre": "Sérums",
+     "productos": [
+      {
+       "nombre": "Biology Sérum 3 en 1",
+       "marca": "A-Derma",
+       "barcode": "3282770389333",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Biology Sérum de vitamina C estabilizada",
+       "marca": "A-Derma",
+       "barcode": "3282770393224",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Exomega Control Sérum ultracalmante",
+       "marca": "A-Derma",
+       "barcode": "3282771002040",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
+       "marca": "Anua",
+       "barcode": "8809640730283",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
+       "marca": "Anua",
+       "barcode": "8809640734526",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum PDRN Hyaluronic Acid Capsule 100 Serum",
+       "marca": "Anua",
+       "barcode": "8809640736667",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
+       "marca": "Anua",
+       "barcode": "8809640734861",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Tónico PDRN 100 Hyaluronic Acid Booster Toner",
+       "marca": "Anua",
+       "barcode": "8800307371696",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Comedomed Sérum intensivo",
+       "marca": "Avène",
+       "barcode": "3282770401448",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum concentrado voluminizador",
+       "marca": "Avène",
+       "barcode": "3282770153101",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum exfoliante AHA",
+       "marca": "Avène",
+       "barcode": "3282770390469",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum reparador intenso",
+       "marca": "Avène",
+       "barcode": "3282770393620",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum tensor - Solución de hexapéptidos 10%",
+       "marca": "Avène",
+       "barcode": "3282770400861",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809738312728",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809657114960",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Light On Serum: Centella + Vita C",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809875906477",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Revive Serum: Ginseng + Snail Mucin",
+       "marca": "Beauty of Joseon",
+       "barcode": "8809738316139",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Max It Up Lip Booster Extreme (tono 030 Ice Ice Baby)",
+       "marca": "Catrice",
+       "barcode": "4059729419576",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Max It Up Lip Booster Extreme (tono 040 Glow On Me)",
+       "marca": "Catrice",
+       "barcode": "4059729419583",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Max It Up Lip Booster Extreme (tono 050 Beam Me Away)",
+       "marca": "Catrice",
+       "barcode": "4059729445780",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Sérum corrector Instant Bright",
+       "marca": "Catrice",
+       "barcode": "4059729488343",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Curl Booster",
+       "marca": "Cocunat",
+       "barcode": "8436570020810",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
+       "marca": "COSRX",
+       "barcode": "8800311121423",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Advanced The Vitamin C 23 Serum",
+       "marca": "COSRX",
+       "barcode": "8809598454651",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Full Fit Propolis Light Ampoule",
+       "marca": "COSRX",
+       "barcode": "8809598450820",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Hydrium Triple Hyaluronic Moisture Ampoule",
+       "marca": "COSRX",
+       "barcode": "8809598450653",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum The 6 Peptide Skin Booster Serum",
+       "marca": "COSRX",
+       "barcode": "8800311122611",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum The Blue Peptide Bakuchiol Plump Glow Serum",
+       "marca": "COSRX",
+       "barcode": "8800311121225",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum The Hyaluronic Acid 3 Serum",
+       "marca": "COSRX",
+       "barcode": "8809598454668",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum The Niacinamide 15 Serum",
+       "marca": "COSRX",
+       "barcode": "8809598454958",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum The Vitamin C 13 Serum",
+       "marca": "COSRX",
+       "barcode": "8809598455238",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Keracnyl Sérum regulador antiimperfecciones",
+       "marca": "Ducray",
+       "barcode": "3282770399264",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Melascreen Sérum luminosidad antimanchas",
+       "marca": "Ducray",
+       "barcode": "3282770389593",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Centella Red Serum 30 ml",
+       "marca": "Erborian",
+       "barcode": "8809255789652",
+       "fechaLista": "16-09-2026"
+      },
+      {
+       "nombre": "Hyaluron-Filler Sérum Reafirmante",
+       "marca": "Eucerin",
+       "barcode": "4006000188096",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ampolla Black Rice Botanical 2GF Wonderful Ampoule",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221479",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Bruma sérum Black Rice Probiotics Barrier 2% NAD+ Serum Mist",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532222520",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum calmante Rose PDRN Soothing Serum",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532222445",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum en gel Centella 4% TXA Gel Serum sin perfume",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221813",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum exfoliante Centella 3% PHA Gentle Liquid Exfoliating Serum",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532221646",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Aftersun After Sun Cryo Serum Stick",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059105",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Cica-Sérum al Cupuaçu BIO",
+       "marca": "Klorane",
+       "barcode": "3282770150643",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
+       "marca": "Klorane",
+       "barcode": "3282771000428",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
+       "marca": "Klorane",
+       "barcode": "3282770399394",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum concentrado hidrorrellenador",
+       "marca": "Klorane",
+       "barcode": "3282770395686",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Age Perfect Golden Age Serum Anti-Manchas de la edad [Niacinamida]",
+       "marca": "L'Oréal Paris",
+       "barcode": "3600524055097",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Hyalu B5 Sérum de ojos",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875806923",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Toleriane Ultra Dermallergo Serum",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875693820",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sérum antimanchas Oxy-R Peptides",
+       "marca": "Medik8",
+       "barcode": "0818625027728",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
+       "marca": "Medik8",
+       "barcode": "0818625027711",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum de vitamina C C-Tetra Luxe",
+       "marca": "Medik8",
+       "barcode": "0818625027575",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Sérum Iluminador Ojos",
+       "marca": "Nuxe",
+       "barcode": "3264680045295",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Cica Daily Sérum reparador intenso",
+       "marca": "Uriage",
+       "barcode": "3661434011931",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Dépiderm Sérum antimanchas",
+       "marca": "Uriage",
+       "barcode": "3661434009754",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Roséliane Sérum neutralizador de rojeces visibles",
+       "marca": "Uriage",
+       "barcode": "3661434023422",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Liftactiv Collagen Specialist 16 Sérum",
+       "marca": "Vichy",
+       "barcode": "3337875912600",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Liftactiv Collagen Specialist 16 Sérum de Ojos",
+       "marca": "Vichy",
+       "barcode": "3337875943932",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Liftactiv Pigment Specialist B3 Sérum Antimanchas",
+       "marca": "Vichy",
+       "barcode": "3337875734905",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Minéral 89 Sérum Hidratante y Rellenador Diario",
+       "marca": "Vichy",
+       "barcode": "3337875543248",
+       "fechaLista": "09-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "protector-solar",
+     "nombre": "Protectores solares",
+     "productos": [
+      {
+       "nombre": "Comedomed+ Fluido intensivo antiimperfecciones SPF30",
+       "marca": "Avène",
+       "barcode": "3282771001432",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema reparadora multiprotectora SPF 50+",
+       "marca": "Avène",
+       "barcode": "3282770394467",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema reparadora protectora SPF 50+",
+       "marca": "Avène",
+       "barcode": "3282771001463",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema SPF 50+ sin perfume",
+       "marca": "Avène",
+       "barcode": "3282770149494",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido antiedad SPF50",
+       "marca": "Avène",
+       "barcode": "3282770396300",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido Antiimperfecciones SPF50",
+       "marca": "Avène",
+       "barcode": "3282770397437",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido Antimanchas SPF50+",
+       "marca": "Avène",
+       "barcode": "3282770397451",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido mineral con color SPF 50+ (ref. 388381)",
+       "marca": "Avène",
+       "barcode": "3282770388381",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido mineral SPF 50+ (ref. 148671)",
+       "marca": "Avène",
+       "barcode": "3282770148671",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "HYALURON ACTIV UV - Fluido triple eficacia antiedad SPF50",
+       "marca": "Avène",
+       "barcode": "3282771001586",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Intense Protect SPF 50+ Fluido",
+       "marca": "Avène",
+       "barcode": "3282770141214",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Intense Protect SPF50+",
+       "marca": "Avène",
+       "barcode": "3282770395938",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Reflexe Solar 50+",
+       "marca": "Avène",
+       "barcode": "3282770388961",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "SPF 50+ concentrado hidratante protector",
+       "marca": "Avène",
+       "barcode": "3282770395235",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Fluido Invisible SPF50",
+       "marca": "Avène",
+       "barcode": "3282770397376",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Fluido Mat Perfect SPF 50+",
+       "marca": "Avène",
+       "barcode": "3282770392692",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Fluido Oil Control SPF50",
+       "marca": "Avène",
+       "barcode": "3282770397680",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Serum SPF50+ Activa La Luminosidad",
+       "marca": "Avène",
+       "barcode": "3282771000572",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Serum SPF50+ Hidrata De Forma Duradera",
+       "marca": "Avène",
+       "barcode": "3282771000534",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Serum SPF50+ Rellena Al Instante",
+       "marca": "Avène",
+       "barcode": "3282771000558",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Ultra Stick SPF50",
+       "marca": "Avène",
+       "barcode": "3282771000916",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Photoderm Pediatrics Mineral SPF50+",
+       "marca": "Bioderma",
+       "barcode": "3701129807309",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Photoderm Pediatrics Spray SPF50+",
+       "marca": "Bioderma",
+       "barcode": "3701129807316",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido de Muy Alta Protección SPF50+",
+       "marca": "Caudalie",
+       "barcode": "3522930005339",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Stick Solar Invisible de Alta Protección SPF50",
+       "marca": "Caudalie",
+       "barcode": "3522930005391",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "PRO Redness Control Hidratante SPF 30",
+       "marca": "Cetaphil",
+       "barcode": "3499320009942",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Protector solar Ultra-Light Invisible Sunscreen SPF 50+",
+       "marca": "COSRX",
+       "barcode": "8809598456242",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Melascreen Crema protectora antimanchas SPF50+",
+       "marca": "Ducray",
+       "barcode": "3282770389296",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Super BB Concealer SPF 25 (Clair, Nude, Doré, Caramel, Chocolat) 10 ml",
+       "marca": "Erborian",
+       "barcode": "8809255788150",
+       "fechaLista": "16-09-2026"
+      },
+      {
+       "nombre": "Anti-Redness Crema Correctora Día FPS30",
+       "marca": "Eucerin",
+       "barcode": "4005800107832",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sun Face Photoaging Control Fluid FPS 50+",
+       "marca": "Eucerin",
+       "barcode": "4005800145193",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sun Face Sensitive Protect Cream FPS 50+",
+       "marca": "Eucerin",
+       "barcode": "4005800125560",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Delial Kids Sensitive Advanced Roll-On con Color FPS 50+",
+       "marca": "Garnier",
+       "barcode": "3600542656115",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Protector solar cara y cuerpo Black Bamboo Top-to-Toe SPF Veil SPF 50+",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532222438",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50",
+       "marca": "ISDIN",
+       "barcode": "8429420280878",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Protector solar Sun Protection Invisible Stick Spf",
+       "marca": "Kiko Milano",
+       "barcode": "8059385023991",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Anthelios Dermo-Pediatrics Loción Wet Skin SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875845489",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios Family Spray SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875799348",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios Leche Hidratante SPF50+ Eco-sostenible",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875847353",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Fluido Invisible SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875886307",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Loción Hidratante SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875888851",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Spray Invisible SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875886055",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Anthelios UVMune 400 Fluido Antimanchas SPF50+",
+       "marca": "La Roche-Posay",
+       "barcode": "3337875917407",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
+       "marca": "Mustela",
+       "barcode": "3504105036768",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Leche solar muy alta protección SPF 50+ 100ml",
+       "marca": "Mustela",
+       "barcode": "3504105036775",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Spray solar alta protección SPF 50 200ml",
+       "marca": "Mustela",
+       "barcode": "3504105036751",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Stick solar alta protección SPF 50 Stick 9ml",
+       "marca": "Mustela",
+       "barcode": "3504105037772",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Hydro Boost Fluido Hidratante SPF50",
+       "marca": "Neutrogena",
+       "barcode": "3574661801612",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Babies & Kids Sensitive Loción Solar SPF 50+",
+       "marca": "Nivea",
+       "barcode": "4005900133045",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Babies & Kids Sensitive Spray Solar SPF 50+",
+       "marca": "Nivea",
+       "barcode": "4006000236988",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Kids Protección UV Diaria Rostro y Cuerpo SPF 50+",
+       "marca": "Nivea",
+       "barcode": "4006000232287",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Protección Facial UV Sensitive Transpirable SPF 50+",
+       "marca": "Nivea",
+       "barcode": "4006000220277",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sensitive Antialergias Solares Loción Solar",
+       "marca": "Nivea",
+       "barcode": "4005900613264",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Sensitive Protección Inmediata Spray Solar SPF 50+",
+       "marca": "Nivea",
+       "barcode": "4005900908841",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "SENSIFINE AR Creme SPF50+",
+       "marca": "SVR",
+       "barcode": "3662361002542",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "SUN SECURE Easy Stick SPF50+",
+       "marca": "SVR",
+       "barcode": "3662361004041",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "SUN SECURE Fluide Photo-Age SPF50+",
+       "marca": "SVR",
+       "barcode": "3662361004065",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
+       "marca": "SVR",
+       "barcode": "3662361003198",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Bariésun Stick mineral SPF50+",
+       "marca": "Uriage",
+       "barcode": "3661434014116",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Liftactiv Pigment Specialist B3 Contorno de Ojos SPF50+",
+       "marca": "Vichy",
+       "barcode": "3337875918534",
+       "fechaLista": "09-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "champu",
+     "nombre": "Champús",
+     "productos": [
+      {
+       "nombre": "Pure shampoo",
+       "marca": "Cocunat",
+       "barcode": "8436570021077",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Rich Shampoo",
+       "marca": "Cocunat",
+       "barcode": "8436570020872",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Anaphase+ Champú anticaída y crecimiento",
+       "marca": "Ducray",
+       "barcode": "3282770398168",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Champú mousse recién nacido 150ml",
+       "marca": "Mustela",
+       "barcode": "3504105034382",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Champú mousse Stelatopia 150ml",
+       "marca": "Mustela",
+       "barcode": "3504105030544",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Gel-Champú cuerpo y cabello - Certificado BIO 400ml",
+       "marca": "Mustela",
+       "barcode": "3504105037956",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Refill Gel-champú certificado BIO 400ml",
+       "marca": "Mustela",
+       "barcode": "3504105038724",
+       "fechaLista": "25-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "gel-ducha",
+     "nombre": "Geles de ducha",
+     "productos": [
+      {
+       "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
+       "marca": "Eucerin",
+       "barcode": "4005800346057",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema de ducha - Flor de Frangipani",
+       "marca": "Klorane",
+       "barcode": "3282770143799",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel de baño confort con Schisandra BIO 300ml",
+       "marca": "Mustela",
+       "barcode": "3504105035709",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Gel de baño Stelatopia con Girasol BIO 200 ml / 500 ml",
+       "marca": "Mustela",
+       "barcode": "3504105033637",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
+       "marca": "Sanex",
+       "barcode": "8718951811089",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha Neutro Hidratación Delicada",
+       "marca": "Sanex",
+       "barcode": "8718951687035",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
+       "marca": "Sanex",
+       "barcode": "8718951594548",
+       "fechaLista": "10-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "higiene-intima",
+     "nombre": "Higiene íntima",
+     "productos": [
+      {
+       "nombre": "Pastilla de higiene íntima Essential",
+       "marca": "Saforelle",
+       "barcode": "3700399102800",
+       "fechaLista": "03-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "acondicionador",
+     "nombre": "Acondicionadores",
+     "productos": [
+      {
+       "nombre": "Pure Conditioner",
+       "marca": "Cocunat",
+       "barcode": "8436570021084",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Rich conditioner",
+       "marca": "Cocunat",
+       "barcode": "8436570020889",
+       "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Acondicionador a la Centaurea BIO",
+       "marca": "Klorane",
+       "barcode": "3282770145120",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Acondicionador al Mango",
+       "marca": "Klorane",
+       "barcode": "3282770140972",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
+       "marca": "Klorane",
+       "barcode": "3282770397598",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "CRECIMIENTO Acondicionador acelerador del crecimiento",
+       "marca": "Klorane",
+       "barcode": "3282771000503",
+       "fechaLista": "24-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "crema-corporal",
+     "nombre": "Cremas corporales",
+     "productos": [
+      {
+       "nombre": "Loción corporal - Flor de cupuaçu",
+       "marca": "Klorane",
+       "barcode": "3282770113198",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Leche corporal hidratante confort con schisandra BIO 200ml",
+       "marca": "Mustela",
+       "barcode": "3504105036454",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
+       "marca": "Neutrogena",
+       "barcode": "3574661785868",
+       "fechaLista": "10-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "base-maquillaje",
+     "nombre": "Bases de maquillaje",
+     "productos": [
+      {
+       "nombre": "Base de maquillaje en crema compacta 1.1 Naturel",
+       "marca": "Avène",
+       "barcode": "3282770146110",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema compacta 1.2 Arena",
+       "marca": "Avène",
+       "barcode": "3282770146097",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema compacta 1.3 Miel",
+       "marca": "Avène",
+       "barcode": "3282770146073",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema compacta 1.4 Dorado",
+       "marca": "Avène",
+       "barcode": "3282770146066",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje luminosa similar a la piel",
+       "marca": "Catrice",
+       "barcode": "4059729587428",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "CC Cream Vinocrush tono 2",
+       "marca": "Caudalie",
+       "barcode": "3522930004103",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 10)",
+       "marca": "essence",
+       "barcode": "4059729517173",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 30)",
+       "marca": "essence",
+       "barcode": "4059729517210",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 60)",
+       "marca": "essence",
+       "barcode": "4059729517272",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 120, 160, 170, 180, 190, 200, 201, 202, 203, 230, 240)",
+       "marca": "essence",
+       "barcode": "4059729517395",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 131, 141)",
+       "marca": "essence",
+       "barcode": "4059729548672",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 20, 40, 70, 90, 100, 110, 130, 140, 150)",
+       "marca": "essence",
+       "barcode": "4059729517197",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 210, 220)",
+       "marca": "essence",
+       "barcode": "4059729517579",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400)",
+       "marca": "essence",
+       "barcode": "4059729517654",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 50, 80)",
+       "marca": "essence",
+       "barcode": "4059729517258",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tono 158)",
+       "marca": "essence",
+       "barcode": "4059729583925",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 195, 205, 210, 215, 230, 245, 265, 310, 330)",
+       "marca": "essence",
+       "barcode": "4059729583758",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 20, 50, 90, 100, 115, 120, 155, 165, 168, 170, 175, 178, 180, 185)",
+       "marca": "essence",
+       "barcode": "4059729583659",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "stay ALL DAY 16h base de maquillaje de larga duración",
+       "marca": "essence",
+       "barcode": "4059729308160",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en barra Just Cavalli X Kiko Milano Sun-Drape Stick Foundation Spf50",
+       "marca": "Kiko Milano",
+       "barcode": "8059385058627",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 01, 04, 09, 10, 11 y 1 tono más",
+       "marca": "Kiko Milano",
+       "barcode": "8059385032450",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 02, 05, 06, 07",
+       "marca": "Kiko Milano",
+       "barcode": "8059385032382",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 03",
+       "marca": "Kiko Milano",
+       "barcode": "8059385032399",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 08",
+       "marca": "Kiko Milano",
+       "barcode": "8059385032443",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje fluida Holiday Wonderlights Silky Glow Foundation & Concealer",
+       "marca": "Kiko Milano",
+       "barcode": "8059385027876",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
+       "marca": "Vichy",
+       "barcode": "3337871316624",
+       "fechaLista": "09-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "labial",
+     "nombre": "Labiales",
+     "productos": [
+      {
+       "nombre": "Bálsamo Labial DERMALIBOUR+ CICA-Reparador",
+       "marca": "A-Derma",
+       "barcode": "3282770143683",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Cicalfate+ Bálsamo labial reparador",
+       "marca": "Avène",
+       "barcode": "3282770399936",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Cicabio Lip Repair Bálsamo Labial Reparador",
+       "marca": "Bioderma",
+       "barcode": "3701129812426",
+       "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Aceite labial Shine Supreme (tono 020 Peach Please)",
+       "marca": "Catrice",
+       "barcode": "4059729620781",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Aceite labial Shine Supreme (tono 030 Berry Shot)",
+       "marca": "Catrice",
+       "barcode": "4059729620804",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Aceite labial Shine Supreme (tono 040 Cherry Lush)",
+       "marca": "Catrice",
+       "barcode": "4059729620828",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Aceite labial Shine Supreme (tono 050 Sweet Treat)",
+       "marca": "Catrice",
+       "barcode": "4059729620842",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 030 Truly Yours)",
+       "marca": "Catrice",
+       "barcode": "4059729489609",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 040 Wifey)",
+       "marca": "Catrice",
+       "barcode": "4059729489623",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 050 Kiss Me Quick)",
+       "marca": "Catrice",
+       "barcode": "4059729489647",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 060 Red Flag)",
+       "marca": "Catrice",
+       "barcode": "4059729489661",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 070 Ciao Adios)",
+       "marca": "Catrice",
+       "barcode": "4059729489685",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 080 Love Potion)",
+       "marca": "Catrice",
+       "barcode": "4059729489708",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 090 No Broken Hearts)",
+       "marca": "Catrice",
+       "barcode": "4059729489722",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 100 Coffee Date?)",
+       "marca": "Catrice",
+       "barcode": "4059729489746",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tono 110 Pralines and Flowers)",
+       "marca": "Catrice",
+       "barcode": "4059729489784",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tonos 010 Get Undressed, 020 Lovely Nude)",
+       "marca": "Catrice",
+       "barcode": "4059729489562",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Endless Matte (tonos 120 Candlelight Kiss, 130 So What)",
+       "marca": "Catrice",
+       "barcode": "4059729489807",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios Scandalous Matte (tono 120 Flame To Fame)",
+       "marca": "Catrice",
+       "barcode": "4059729419781",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Barra de labios Scandalous Matte (tonos 010 Plain Truth, 050 Sucker For Love, 060 Good Intentions, 100 Muse Of Inspiration)",
+       "marca": "Catrice",
+       "barcode": "4059729402103",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
+       "marca": "Catrice",
+       "barcode": "4059729588975",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Blur-Real Barra de labios (tono 060 Blurred Icon)",
+       "marca": "Catrice",
+       "barcode": "4059729594624",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Blur-Real Barra de labios (tonos 020 Taupe Tension, 030 Whisper Nude, 040 Muted Romance)",
+       "marca": "Catrice",
+       "barcode": "4059729588487",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 020 Glow For It)",
+       "marca": "Catrice",
+       "barcode": "4059729541062",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 030 Too Glam To Give A Damn)",
+       "marca": "Catrice",
+       "barcode": "4059729541086",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 040 No Shade, Just Sparkle)",
+       "marca": "Catrice",
+       "barcode": "4059729541109",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 050 Glitterally Perfect)",
+       "marca": "Catrice",
+       "barcode": "4059729541482",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 020 Fairytale Filter)",
+       "marca": "Catrice",
+       "barcode": "4059729588562",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 030 Miss Behave)",
+       "marca": "Catrice",
+       "barcode": "4059729588586",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 040 Drama Certified)",
+       "marca": "Catrice",
+       "barcode": "4059729588609",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 060 Too Juicy To Care)",
+       "marca": "Catrice",
+       "barcode": "4059729588647",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 070 Golden Hour Flex)",
+       "marca": "Catrice",
+       "barcode": "4059729588661",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 080 The Sugarcoated Truth)",
+       "marca": "Catrice",
+       "barcode": "4059729588685",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tono 090 Say Less, Serve More)",
+       "marca": "Catrice",
+       "barcode": "4059729588708",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Filler Supreme (tonos 050 Nude, Not Rude, 100 Cinnamon Glazed)",
+       "marca": "Catrice",
+       "barcode": "4059729588623",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tono 010 Gloss Therapy)",
+       "marca": "Catrice",
+       "barcode": "4059729541284",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tono 040 Pout Of Office)",
+       "marca": "Catrice",
+       "barcode": "4059729541345",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tono 050 The Glossfather)",
+       "marca": "Catrice",
+       "barcode": "4059729541369",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tonos 020 Same Gloss, Different Day, 030 Gloss Over It)",
+       "marca": "Catrice",
+       "barcode": "4059729541307",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo de aceite labial Bare Touch (tono 020 Feelin' Pretty)",
+       "marca": "Catrice",
+       "barcode": "4059729621245",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo de aceite labial Bare Touch (tono 030 Bubbly Friday)",
+       "marca": "Catrice",
+       "barcode": "4059729621269",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo de aceite labial Bare Touch (tono 040 Kiss Me Wild)",
+       "marca": "Catrice",
+       "barcode": "4059729621283",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo de aceite labial Bare Touch (tono 050 Blushin' Hard)",
+       "marca": "Catrice",
+       "barcode": "4059729630438",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 020 Blissberry)",
+       "marca": "Catrice",
+       "barcode": "4059729591524",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 030 Dew Not Disturb)",
+       "marca": "Catrice",
+       "barcode": "4059729591531",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 040 Toffee Touched)",
+       "marca": "Catrice",
+       "barcode": "4059729591548",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 050 Glazed \\u0026 Gorgeous)",
+       "marca": "Catrice",
+       "barcode": "4059729591555",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 010 Everyday 24/7)",
+       "marca": "Catrice",
+       "barcode": "4059729445377",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 020 Feelin' Pretty)",
+       "marca": "Catrice",
+       "barcode": "4059729445391",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 030 Bubbly Friday)",
+       "marca": "Catrice",
+       "barcode": "4059729445414",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 040 Hot Take)",
+       "marca": "Catrice",
+       "barcode": "4059729445438",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 050 Wild Rebel)",
+       "marca": "Catrice",
+       "barcode": "4059729445452",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Care In Colours (tono 060 Half Baked Cookies)",
+       "marca": "Catrice",
+       "barcode": "4059729489937",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 010)",
+       "marca": "Catrice",
+       "barcode": "4059729401427",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 020 No Fake Love)",
+       "marca": "Catrice",
+       "barcode": "4059729401465",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 040 Prove Me Wrong)",
+       "marca": "Catrice",
+       "barcode": "4059729401540",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 060 Real Talk)",
+       "marca": "Catrice",
+       "barcode": "4059729401625",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 070 Fake It Till You Make It)",
+       "marca": "Catrice",
+       "barcode": "4059729401663",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 090 Potentially Scandalous)",
+       "marca": "Catrice",
+       "barcode": "4059729401748",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lip Booster labial Plump It Up (tono 110 Selflove And Glitter)",
+       "marca": "Catrice",
+       "barcode": "4059729515872",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz labial Creamy Nudes (tono 020 Daytime Nude)",
+       "marca": "Catrice",
+       "barcode": "4059729489883",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz labial Creamy Nudes (tono 030 Salted Caramel)",
+       "marca": "Catrice",
+       "barcode": "4059729489890",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz labial Creamy Nudes (tonos 010 Mocha Me Happy, 040 Cinnamon Spice)",
+       "marca": "Catrice",
+       "barcode": "4059729489876",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz labial mate Intense Matte (tono 020 Coral Vibes)",
+       "marca": "Catrice",
+       "barcode": "4059729401229",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz labial mate Intense Matte (tono 060 Mocha Me Happy)",
+       "marca": "Catrice",
+       "barcode": "4059729401380",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Ictyane Bálsamo labial reparador",
+       "marca": "Ducray",
+       "barcode": "3282770401943",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Keracnyl Repair Bálsamo labial nutritivo reparador",
+       "marca": "Ducray",
+       "barcode": "3282770395716",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 02 Sour Cherry)",
+       "marca": "essence",
+       "barcode": "4059729593665",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 04 Blossom Peach)",
+       "marca": "essence",
+       "barcode": "4059729593672",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Brillo de labios voluminizador JUICY BOMB (tonos 05 Soft Apricot, 08 Pure Raspberry)",
+       "marca": "essence",
+       "barcode": "4059729593689",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 08 Gold Dust)",
+       "marca": "essence",
+       "barcode": "4059729302878",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 101 Milky Way)",
+       "marca": "essence",
+       "barcode": "4059729302892",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 102 Sweet Dreams)",
+       "marca": "essence",
+       "barcode": "4059729302908",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 103 Pretty in Pink)",
+       "marca": "essence",
+       "barcode": "4059729302915",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 105 Flower Blossom)",
+       "marca": "essence",
+       "barcode": "4059729302939",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 11 Power of nude)",
+       "marca": "essence",
+       "barcode": "4059729407870",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 12 Dazzling Apricot)",
+       "marca": "essence",
+       "barcode": "4059729466501",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 13 Glazed Berry)",
+       "marca": "essence",
+       "barcode": "4059729491381",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 19 Frosted Fairy)",
+       "marca": "essence",
+       "barcode": "4059729585080",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "extreme shine brillo de labios voluminizador (tono 20 Peach Please)",
+       "marca": "essence",
+       "barcode": "4059729585097",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "gel nail colour esmalte de uñas (tono 01 gloss 'N ROLL)",
+       "marca": "essence",
+       "barcode": "4059729348722",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Petal Pink",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532223183",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Ruby Red",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532223190",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Rose PDRN Peptide Glowy Balm Glossy Clear",
+       "marca": "Haruharu Wonder",
+       "barcode": "8809532222513",
+       "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Barra de labios Candy Crush™ Ultra-Shimmer Lipstick · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385023151",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385045900",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 05, 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385045948",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Gloss Supreme Color Glaze Lip Lacquer",
+       "marca": "Kiko Milano",
+       "barcode": "8059385024752",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Hug Couture Lip Puff Velvet Lip Mousse",
+       "marca": "Kiko Milano",
+       "barcode": "8059385046860",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Lasting Matte Veil Liquid Lip Colour · 01, 02, 03, 04, 05 y 11 tonos más",
+       "marca": "Kiko Milano",
+       "barcode": "8059385002279",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Lasting Matte Veil Liquid Lip Colour · 17",
+       "marca": "Kiko Milano",
+       "barcode": "8059385026121",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Matte Diaries Unlimited Double Touch Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059556",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Metal Liquid Lip Colour",
+       "marca": "Kiko Milano",
+       "barcode": "8025272639873",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Snow-Kissed Holiday All That Matte-rs Lip Tint",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039985",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 101",
+       "marca": "Kiko Milano",
+       "barcode": "8059385019420",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 104",
+       "marca": "Kiko Milano",
+       "barcode": "8059385019451",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 108, 110, 113, 118",
+       "marca": "Kiko Milano",
+       "barcode": "8059385019703",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 111",
+       "marca": "Kiko Milano",
+       "barcode": "8059385019482",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 129",
+       "marca": "Kiko Milano",
+       "barcode": "8059385019734",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 154 - Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021232",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 156 - Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021256",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Unlimited Double Touch · 157 - Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021263",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios líquida Vinyl Lock Lip Lacquer",
+       "marca": "Kiko Milano",
+       "barcode": "8059385045016",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Magnetic Nights Ombre Lips Demi Matte Lipstick",
+       "marca": "Kiko Milano",
+       "barcode": "8059385027111",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059341",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 02, 04",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059372",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 03",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059365",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 05, 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059396",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios One Magic Touch Lip Stylo",
+       "marca": "Kiko Milano",
+       "barcode": "8059385035017",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Secret Lip Oil Core Stick · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385037325",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Unlimited Double Touch · 102, 105, 106",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039770",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Unlimited Double Touch · 112",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039848",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Unlimited Double Touch · 120, 121",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039879",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Unlimited Double Touch · 122, 123, 131",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039886",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje fluida Gloss Supreme Bare Skin Foundation · 01, 06, 07",
+       "marca": "Kiko Milano",
+       "barcode": "8059385024943",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje fluida Gloss Supreme Bare Skin Foundation · 08",
+       "marca": "Kiko Milano",
+       "barcode": "8059385024967",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lip Gloss · 47 - Limited edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021706",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lip Gloss · 48 - Limited edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021713",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lip Gloss · 49 - Limited edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021720",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lip Gloss · 50 - Limited edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021737",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lip Gloss · 51 - Limited edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385021744",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8025272603874",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 02, 07, 10, 11, 12 y 8 tonos más",
+       "marca": "Kiko Milano",
+       "barcode": "8059385035482",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 03, 04, 05, 06, 09 y 5 tonos más",
+       "marca": "Kiko Milano",
+       "barcode": "8025272604055",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 08",
+       "marca": "Kiko Milano",
+       "barcode": "8025272603942",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 31, 32, 33, 34, 35",
+       "marca": "Kiko Milano",
+       "barcode": "8059385035635",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 41 - Online Only, 43 - Online Only, 44 - Online Only, 45 - Online Only",
+       "marca": "Kiko Milano",
+       "barcode": "8059385005027",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Lipgloss · 42 - Online Only, 46 - Online Only",
+       "marca": "Kiko Milano",
+       "barcode": "8059385005010",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 01, 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385037127",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 03, 04, 05, 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385037141",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Candy Crush™ Sparkle Lip Gloss",
+       "marca": "Kiko Milano",
+       "barcode": "8059385023236",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061160",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061177",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 03, 05",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061207",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 04",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061191",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061214",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 07",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061221",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 08",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061238",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 09",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061245",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 10",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061252",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 11, 12",
+       "marca": "Kiko Milano",
+       "barcode": "8059385061276",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Smart Fusion Creamy Lip Crayon",
+       "marca": "Kiko Milano",
+       "barcode": "8025272926256",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 04",
+       "marca": "Kiko Milano",
+       "barcode": "8059385009599",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385009612",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039305",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039312",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 04",
+       "marca": "Kiko Milano",
+       "barcode": "8059385039336",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Flirt Alert 3D Hydra Lip Gloss Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385045535",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Golden Oasis Lips & Cheeks Tint",
+       "marca": "Kiko Milano",
+       "barcode": "8059385030630",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Just Cavalli X Kiko Milano 3D Hydra Lip Gloss Rebel Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385058528",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385030807",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385030814",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 03",
+       "marca": "Kiko Milano",
+       "barcode": "8059385030821",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385036656",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385036663",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 03",
+       "marca": "Kiko Milano",
+       "barcode": "8059385036670",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios Threads of Time Unlimited Double Touch Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385047928",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Candy Crush™ Luminous Lip Balm",
+       "marca": "Kiko Milano",
+       "barcode": "8059385023120",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Coloured Balm · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385049458",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Coloured Balm · 04",
+       "marca": "Kiko Milano",
+       "barcode": "8059385049465",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Coloured Balm · 06",
+       "marca": "Kiko Milano",
+       "barcode": "8059385049472",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Flirt Alert Kiss Me Softly Peptide Lip Balm",
+       "marca": "Kiko Milano",
+       "barcode": "8059385045795",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Protector solar Sun Protection Lip Balm Spf",
+       "marca": "Kiko Milano",
+       "barcode": "8059385024721",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 01",
+       "marca": "Kiko Milano",
+       "barcode": "8059385035802",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 02",
+       "marca": "Kiko Milano",
+       "barcode": "8059385035819",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Tratamiento labial Just Cavalli X Kiko Milano Wild Beats  Solid Lip Oil",
+       "marca": "Kiko Milano",
+       "barcode": "8059385059150",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Tratamiento labial Kissable Drop Lip Balm",
+       "marca": "Kiko Milano",
+       "barcode": "8059385049441",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Tratamiento labial Kissable Smoothing Lip Scrub",
+       "marca": "Kiko Milano",
+       "barcode": "8059385046600",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Tratamiento labial Threads of Time 3D Hydra Lip Oil Limited Edition",
+       "marca": "Kiko Milano",
+       "barcode": "8059385046006",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
+       "marca": "L'Oréal Paris",
+       "barcode": "3600524172718",
+       "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Esmalte Green™ Gloss",
+       "marca": "Manucurist",
+       "barcode": "3662263321055",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint Espresso",
+       "marca": "Rhode",
+       "barcode": "0810175610429",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint PBJ",
+       "marca": "Rhode",
+       "barcode": "0850055527287",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint Raspberry Jelly",
+       "marca": "Rhode",
+       "barcode": "0810175610412",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint Ribbon",
+       "marca": "Rhode",
+       "barcode": "0810175611501",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint Salty Tan",
+       "marca": "Rhode",
+       "barcode": "0810175611556",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Peptide Lip Tint Toast",
+       "marca": "Rhode",
+       "barcode": "0810175611518",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Peptide Lip Treatment Strawberry Glaze",
+       "marca": "Rhode",
+       "barcode": "0810175610382",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Peptide Lip Treatment Unscented",
+       "marca": "Rhode",
+       "barcode": "0810175610344",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Fortune Balms · Repair",
+       "marca": "Rituals",
+       "barcode": "8719134176957",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Lip Care Advanced Lip Balm · Repair",
+       "marca": "Rituals",
+       "barcode": "8719134211764",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Pintalabios Lipstick",
+       "marca": "Rituals",
+       "barcode": "8719134150063",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Pintalabios Make-Up Collection Lipstick · Dusky Rose",
+       "marca": "Rituals",
+       "barcode": "8719134216073",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Pintalabios Make-Up Collection Lipstick · Soft Mocha",
+       "marca": "Rituals",
+       "barcode": "8719134216066",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Squalane + Amino Acids Lip Balm 15 ml",
+       "marca": "The Ordinary",
+       "barcode": "0769915233476",
+       "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Lip Therapy Original 20 g",
+       "marca": "Vaseline",
+       "barcode": "5099802150117",
+       "fechaLista": "25-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "lubricante",
+     "nombre": "Lubricantes",
+     "productos": [
+      {
+       "nombre": "Gel lubricante íntimo Naturals",
+       "marca": "Durex",
+       "barcode": "8410104881832",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Lubricante de silicona Perfect Connection",
+       "marca": "Durex",
+       "barcode": "8428076000014",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Lubricante Naturals extra sensitivo con aloe vera",
+       "marca": "Durex",
+       "barcode": "8410104892333",
+       "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Lubricante Naturals hidratante",
+       "marca": "Durex",
+       "barcode": "8410104892258",
+       "fechaLista": "03-10-2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "hogar",
+   "nombre": "Hogar",
+   "tipos": [
+    {
+     "key": "detergente",
+     "nombre": "Detergentes para la ropa",
+     "productos": [
+      {
+       "nombre": "Detergente en polvo Wipp Express",
+       "marca": "Wipp Express",
+       "barcode": "8410436447324",
+       "fechaLista": "04-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "suavizante",
+     "nombre": "Suavizantes",
+     "productos": [
+      {
+       "nombre": "Suavizante concentrado Vernel Delicado",
+       "marca": "Vernel",
+       "barcode": "8410436498555",
+       "fechaLista": "04-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "lavavajillas",
+     "nombre": "Lavavajillas",
+     "productos": [
+      {
+       "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
+       "marca": "La Droguería 1919",
+       "barcode": "8410498240079",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Eco Pastillas Lavavajillas Máquina 6 en 1 (30 pastillas)",
+       "marca": "Natulim",
+       "barcode": "8436617752667",
+       "fechaLista": "16-09-2026"
+      }
+     ]
+    },
+    {
+     "key": "multiusos",
+     "nombre": "Multiusos",
+     "productos": [
+      {
+       "nombre": "Limpiador multiusos con vinagre en spray Disiclin",
+       "marca": "Disiclin",
+       "barcode": "8421335002354",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Vinagre de limpieza multiusos Disiclin",
+       "marca": "Disiclin",
+       "barcode": "8421335002538",
+       "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
+       "marca": "La Droguería 1919",
+       "barcode": "8410498240000",
+       "fechaLista": "04-10-2026"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

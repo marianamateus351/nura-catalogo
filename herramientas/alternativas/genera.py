@@ -1,10 +1,11 @@
 """Genera alternativas.json (contrato con la app, CURACION.md "ALTERNATIVAS LIMPIAS").
-Entra un producto solo si cumple LAS TRES condiciones:
-  1 y 3: está en limpios.json (cero disruptores y cero "otros riesgos"; Cuidado personal u Hogar) y tiene tipo;
-  2: tiene en amazon_verificados.json una entrada con enlace directo de Amazon.es y el vendedor visto, y ese
-     vendedor es la tienda oficial de la marca (lo decide quien verifica: campo "oficial": true).
-Sin entradas verificadas NO se escribe alternativas.json (la app enseña "Estamos preparando las primeras opciones").
-Uso: node limpios.mjs > limpios.json && python3 fechas.py && python3 genera.py <version>"""
+Entran TODOS los productos de limpios.json con tipo (cero disruptores y cero "otros riesgos";
+Cuidado personal u Hogar). Amazon NO es condición de entrada.
+Los campos `amazon` y `vendedor` solo se ponen si amazon_verificados.json trae, para ese código,
+la FICHA concreta del producto (amazon.es/dp/<ASIN>, de la tienda de la marca; nunca una búsqueda)
+y la persona que la revisó marcó que la venden la marca, Amazon o una farmacia o vendedor de
+confianza ("fiable": true). Criterio de Mariana del 2026-10-07.
+Uso: node limpios.mjs > limpios.json && python3 fechas.py && python3 genera.py <versión>"""
 import json, os, sys, datetime
 sys.path.insert(0, os.path.dirname(__file__))
 from tipos import TIPOS, CATEGORIAS, tipo_de
@@ -24,25 +25,30 @@ por = {}
 for p in limpios:
     k, _ = tipo_de(p['nombre'], p['categoria'])
     if not k: continue
-    for bc in p['barcodes']:
-        v = ver.get(bc)
-        if not (v and v.get('oficial') and enlace_limpio(v.get('amazon')) and v.get('vendedor')): continue
-        e = {'nombre': p['nombre'], 'marca': p['marca'], 'formato': v.get('formato', ''), 'barcode': bc}
-        if f'{bc}.jpg' in fotos: e['imagen'] = FOTO_URL + f'{bc}.jpg'
-        if bc in fechas: e['fechaLista'] = ddmmaaaa(fechas[bc])
-        e['amazon'] = enlace_limpio(v['amazon']); e['vendedor'] = v['vendedor']
-        por.setdefault((p['categoria'], k), []).append(e)
-        break                                     # un enlace por producto (el primer código verificado)
-if not por:
-    print('Ningún producto verificado en Amazon.es: no se escribe alternativas.json'); sys.exit(0)
+    bc = p['barcodes'][0]
+    e = {'nombre': p['nombre'], 'marca': p['marca'], 'barcode': bc}
+    if f'{bc}.jpg' in fotos: e['imagen'] = FOTO_URL + f'{bc}.jpg'
+    if bc in fechas: e['fechaLista'] = ddmmaaaa(fechas[bc])
+    for c in p['barcodes']:                      # el primer código con ficha comprobada
+        v = ver.get(c) or {}
+        if (v.get('fiable') or v.get('oficial')) and enlace_limpio(v.get('amazon')) and v.get('vendedor'):
+            e['barcode'] = c
+            if v.get('formato'): e['formato'] = v['formato']
+            e['amazon'] = enlace_limpio(v['amazon']); e['vendedor'] = v['vendedor']
+            break
+    por.setdefault((p['categoria'], k), []).append(e)
 version = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
 out = {'version': version, 'categorias': []}
 for ckey, cnom in CATEGORIAS:
     tipos = []
-    for key, label, _, _ in TIPOS[cnom]:
+    # Orden de presentación: el de demanda que dio Mariana; los demás tipos detrás.
+    ORDEN = ['desodorante', 'limpiador-facial', 'crema-facial', 'serum', 'protector-solar', 'champu', 'gel-ducha',
+             'pasta-dientes', 'higiene-intima', 'acondicionador', 'crema-corporal', 'base-maquillaje', 'labial', 'lubricante',
+             'detergente', 'suavizante', 'lavavajillas', 'multiusos', 'ambientador']
+    for key, label, _, _ in sorted(TIPOS[cnom], key=lambda t: ORDEN.index(t[0]) if t[0] in ORDEN else 99):
         prods = sorted(por.get((cnom, key), []), key=lambda e: (e['marca'].lower(), e['nombre'].lower()))
         if prods: tipos.append({'key': key, 'nombre': label, 'productos': prods})
     if tipos: out['categorias'].append({'key': ckey, 'nombre': cnom, 'tipos': tipos})
 json.dump(out, open(f'{R}/alternativas.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 for c in out['categorias']:
-    for t in c['tipos']: print(f"{c['nombre']} · {t['nombre']}: {len(t['productos'])}")
+    for t in c['tipos']: print(f"{c['nombre']} · {t['nombre']}: {len(t['productos'])} ({sum(1 for p in t['productos'] if p.get('amazon'))} con enlace)")
