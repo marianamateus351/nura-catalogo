@@ -3902,13 +3902,17 @@ repo en `alternativas.json` (junto a `catalogo.json`, con versión propia); la a
 línea y no la calcula. Hasta que exista el archivo, la app enseña "Estamos preparando las
 primeras opciones".
 
-**Condiciones para entrar (las tres):**
+**Condiciones para entrar (las dos) — corregido el 2026-10-07 por Mariana:**
 1. Cero detecciones con el detector de la app sobre la lista oficial del catálogo: ni
    disruptores (INGREDIENTS) ni "otros riesgos" (matchOtrosRiesgos). Los "otros a tener en
    cuenta" (matchOtros) no excluyen.
-2. En Amazon.es lo vende la TIENDA OFICIAL de la marca ("Vendido por <marca>" o tienda de
-   marca verificada). Terceros, fuera. Se guarda el enlace directo y el vendedor visto.
-3. Categoría Cuidado personal u Hogar. Alimentación todavía no.
+2. Categoría Cuidado personal u Hogar. Alimentación todavía no.
+
+**El enlace a Amazon NO es condición de entrada, es un extra.** Un producto entra por ser
+limpio, tenga o no Amazon. El campo `amazon` solo se rellena si en Amazon.es lo vende la
+TIENDA OFICIAL de la marca ("Vendido por <marca>" o tienda de marca verificada): con
+terceros, el campo se deja vacío aunque el producto esté en Amazon. La app enseña el
+botón "Ver en Amazon" solo cuando hay enlace.
 
 **Estructura (la app la lee tal cual; claves en minúsculas):**
 ```json
@@ -3932,8 +3936,8 @@ primeras opciones".
   `crema-corporal`, `pasta-dientes`, `higiene-intima`, `lubricante`, `base-maquillaje`,
   `labial` (Cuidado personal); `detergente`, `suavizante`, `lavavajillas`, `multiusos`,
   `ambientador` (Hogar). Un tipo nuevo necesita avisar para añadir su regla en la app.
-- `amazon` SIN etiqueta de afiliado: la pone la app. Sin `amazon` el producto no se enseña
-  con botón; mejor no incluirlo.
+- `amazon` SIN etiqueta de afiliado: la pone la app. Sin `amazon` el producto se enseña
+  igual, sin botón.
 - `fechaLista`: fecha de la versión del catálogo en que entró o se revisó esa lista.
 - `imagen`: la del catálogo si la hay; si no, se omite (la app pone iniciales).
 - Orden dentro de cada tipo: por marca y nombre. Sin rankings.
