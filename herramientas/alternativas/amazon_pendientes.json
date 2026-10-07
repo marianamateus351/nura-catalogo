@@ -1,1535 +1,1436 @@
 [
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385019734",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 129",
-  "tipo": "Labiales"
+  "marca": "Caudalie",
+  "barcode": "3522930004554",
+  "nombre": "El Contorno de Ojos",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385045016",
-  "nombre": "Barra de labios líquida Vinyl Lock Lip Lacquer",
-  "tipo": "Labiales"
+  "marca": "Caudalie",
+  "barcode": "3522930003298",
+  "nombre": "Tratamiento de Ojos Iluminador Nacinamida + Cafeína",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059365",
-  "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 03",
-  "tipo": "Labiales"
+  "marca": "Caudalie",
+  "barcode": "3522930005773",
+  "nombre": "Tratamiento Lifting Ojos Resveratrol-Lift",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039770",
-  "nombre": "Barra de labios Unlimited Double Touch · 102, 105, 106",
-  "tipo": "Labiales"
+  "marca": "Caudalie",
+  "barcode": "3522930002963",
+  "nombre": "Tratamiento Lifting Ojos Resveratrol-Lift (antigua colección)",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385058627",
-  "nombre": "Base de maquillaje en barra Just Cavalli X Kiko Milano Sun-Drape Stick Foundation Spf50",
-  "tipo": "Bases de maquillaje"
+  "marca": "Ducray",
+  "barcode": "3282770394115",
+  "nombre": "Dexyane MeD Palpebral (ref. 394115)",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385032443",
-  "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 08",
-  "tipo": "Bases de maquillaje"
+  "marca": "Ducray",
+  "barcode": "3282770389234",
+  "nombre": "Melascreen Contorno de ojos antimanchas",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021706",
-  "nombre": "Brillo de labios 3D Hydra Lip Gloss · 47 - Limited edition",
-  "tipo": "Labiales"
+  "marca": "Erborian",
+  "barcode": "8809255788358",
+  "nombre": "Skin Therapy Eye Contorno de Ojos 15 ml",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021744",
-  "nombre": "Brillo de labios 3D Hydra Lip Gloss · 51 - Limited edition",
-  "tipo": "Labiales"
+  "marca": "Freshly Cosmetics",
+  "barcode": "8437015930190",
+  "nombre": "Hyper-Concentrate (contorno de ojos para ojeras y arrugas) 15 ml",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8025272603942",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 08",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385037127",
-  "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 01, 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061177",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061221",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 07",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061276",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 11, 12",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039305",
-  "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385030630",
-  "nombre": "Brillo de labios Golden Oasis Lips & Cheeks Tint",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385030821",
-  "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 03",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385047928",
-  "nombre": "Brillo de labios Threads of Time Unlimited Double Touch Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385049472",
-  "nombre": "Bálsamo labial con color Coloured Balm · 06",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385035819",
-  "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385046006",
-  "nombre": "Tratamiento labial Threads of Time 3D Hydra Lip Oil Limited Edition",
-  "tipo": "Labiales"
+  "marca": "Haruharu Wonder",
+  "barcode": "8809532221523",
+  "nombre": "Contorno de ojos Black Rice Bakuchiol Eye Cream sin perfume",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770389708",
-  "nombre": "Jabón sólido limpiador a la Caléndula BIO",
-  "tipo": "Limpiadores faciales"
+  "barcode": "3282770396850",
+  "nombre": "Parches de ojos alisadores hidro-gel al Aciano BIO & Ácido hialurónico",
+  "tipo": "contorno-ojos"
  },
  {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282771000428",
-  "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770145120",
-  "nombre": "Acondicionador a la Centaurea BIO",
-  "tipo": "Acondicionadores"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770113198",
-  "nombre": "Loción corporal - Flor de cupuaçu",
-  "tipo": "Cremas corporales"
- },
- {
-  "marca": "L'Oréal Paris",
-  "marcaKey": "lorealparis",
-  "barcode": "3600524055097",
-  "nombre": "Age Perfect Golden Age Serum Anti-Manchas de la edad [Niacinamida]",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Medik8",
-  "marcaKey": "medik8",
-  "barcode": "0818625028732",
-  "nombre": "Gel limpiador Total Moisture Daily Cleansing Gel",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Mixa",
-  "marcaKey": "mixa",
-  "barcode": "3600551153148",
-  "nombre": "Crema hidratante calmante Panthenol Comfort para piel con tendencia atópica",
-  "tipo": "Cremas faciales"
+  "marca": "La Roche-Posay",
+  "barcode": "3337875757515",
+  "nombre": "Toleriane Dermallergo Contorno de Ojos",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Neutrogena",
-  "marcaKey": "neutrogena",
-  "barcode": "3574661309743",
-  "nombre": "Hydro Boost Crema Gel Hidratante",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4005900133045",
-  "nombre": "Babies & Kids Sensitive Loción Solar SPF 50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4005900613264",
-  "nombre": "Sensitive Antialergias Solares Loción Solar",
-  "tipo": "Protectores solares"
+  "barcode": "3574661352565",
+  "nombre": "Hydro Boost Contorno de Ojos Anti-Fatiga",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Nuxe",
-  "marcaKey": "nuxe",
-  "barcode": "3264680047572",
-  "nombre": "Desmaquillante Waterproof Ojos y Labios - BIFÁSICO",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175610429",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint Espresso",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175611556",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint Salty Tan",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134213300",
-  "nombre": "Desmaquillante Skincare Eye Make-Up Remover",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134150063",
-  "nombre": "Pintalabios Lipstick",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Sanex",
-  "marcaKey": "sanex",
-  "barcode": "8718951811089",
-  "nombre": "Aceite de ducha Derma Therapy Anti-irritante y Anti-picor",
-  "tipo": "Geles de ducha"
- },
- {
-  "marca": "SVR",
-  "marcaKey": "svr",
-  "barcode": "3662361002542",
-  "nombre": "SENSIFINE AR Creme SPF50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "The Ordinary",
-  "marcaKey": "theordinary",
-  "barcode": "0769915232042",
-  "nombre": "Glucoside Foaming Cleanser 150 ml",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434011900",
-  "nombre": "Cica Daily Crema reparadora concentrada",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434011931",
-  "nombre": "Cica Daily Sérum reparador intenso",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Vaseline",
-  "marcaKey": "vaseline",
-  "barcode": "5099802150117",
-  "nombre": "Bálsamo labial Lip Therapy Original 20 g",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875722520",
-  "nombre": "Liftactiv Collagen Specialist 16 Crema de Noche",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875543248",
-  "nombre": "Minéral 89 Sérum Hidratante y Rellenador Diario",
-  "tipo": "Sérums"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729302878",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 08 Gold Dust)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729302939",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 105 Flower Blossom)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729585080",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 19 Frosted Fairy)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800346408",
-  "nombre": "Anti-Pigment Gel Limpiador",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4006000188096",
-  "nombre": "Hyaluron-Filler Sérum Reafirmante",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800346057",
-  "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
-  "tipo": "Geles de ducha"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221349",
-  "nombre": "Aceite limpiador Black Rice Moisture Cleansing Oil sin perfume",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532222247",
-  "nombre": "Crema hidratante Black Rice 5 Ceramide Barrier Moisturizing Cream sin perfume",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532222445",
-  "nombre": "Sérum calmante Rose PDRN Soothing Serum",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532223183",
-  "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Petal Pink",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385033839",
-  "nombre": "Hidratante facial Power Shake Cool Crystal Stick",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385023991",
-  "nombre": "Protector solar Sun Protection Invisible Stick Spf",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385024752",
-  "nombre": "Barra de labios líquida Gloss Supreme Color Glaze Lip Lacquer",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059556",
-  "nombre": "Barra de labios líquida Matte Diaries Unlimited Double Touch Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385019451",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 104",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021232",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 154 - Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385027111",
-  "nombre": "Barra de labios Magnetic Nights Ombre Lips Demi Matte Lipstick",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059396",
-  "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 05, 06",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039848",
-  "nombre": "Barra de labios Unlimited Double Touch · 112",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385032450",
-  "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 01, 04, 09, 10, 11 y 1 tono más",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385024943",
-  "nombre": "Base de maquillaje fluida Gloss Supreme Bare Skin Foundation · 01, 06, 07",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021713",
-  "nombre": "Brillo de labios 3D Hydra Lip Gloss · 48 - Limited edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8025272603874",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385035635",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 31, 32, 33, 34, 35",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385037141",
-  "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 03, 04, 05, 06",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061207",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 03, 05",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061238",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 08",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8025272926256",
-  "nombre": "Brillo de labios en lápiz Smart Fusion Creamy Lip Crayon",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039312",
-  "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385058528",
-  "nombre": "Brillo de labios Just Cavalli X Kiko Milano 3D Hydra Lip Gloss Rebel Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385036656",
-  "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385023120",
-  "nombre": "Bálsamo labial con color Candy Crush™ Luminous Lip Balm",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385045795",
-  "nombre": "Bálsamo labial con color Flirt Alert Kiss Me Softly Peptide Lip Balm",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059150",
-  "nombre": "Tratamiento labial Just Cavalli X Kiko Milano Wild Beats  Solid Lip Oil",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770390292",
-  "nombre": "Agua Micelar 3-en-1",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770391107",
-  "nombre": "Crema hidratante a la Caléndula BIO",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770399394",
-  "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770140972",
-  "nombre": "Acondicionador al Mango",
-  "tipo": "Acondicionadores"
- },
- {
-  "marca": "La Droguería 1919",
-  "marcaKey": "ladrogueria1919",
-  "barcode": "8410498240079",
-  "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
-  "tipo": "Lavavajillas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "marcaKey": "lorealparis",
-  "barcode": "3600524172718",
-  "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Medik8",
-  "marcaKey": "medik8",
-  "barcode": "0818625027728",
-  "nombre": "Sérum antimanchas Oxy-R Peptides",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Mixa",
-  "marcaKey": "mixa",
-  "barcode": "3600551153179",
-  "nombre": "Crema hidratante fortalecedora Ceramide Protect para piel muy seca",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Neutrogena",
-  "marcaKey": "neutrogena",
-  "barcode": "3574661801612",
-  "nombre": "Hydro Boost Fluido Hidratante SPF50",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4006000236988",
-  "nombre": "Babies & Kids Sensitive Spray Solar SPF 50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4005900908841",
-  "nombre": "Sensitive Protección Inmediata Spray Solar SPF 50+",
-  "tipo": "Protectores solares"
+  "barcode": "3264680037412",
+  "nombre": "Eye Flash - Tratamiento Contorno de Ojos Hidratante Anti-fatiga, Con certificación Bio",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Nuxe",
-  "marcaKey": "nuxe",
+  "barcode": "3264680046582",
+  "nombre": "Stick Antifatiga para el Contorno de Ojos",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Nuxe",
   "barcode": "3264680045295",
   "nombre": "Sérum Iluminador Ojos",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0850055527287",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint PBJ",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175611518",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint Toast",
-  "tipo": "Labiales"
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134213331",
-  "nombre": "Limpiador facial Skincare 3-In-1 Micellar Water",
-  "tipo": "Limpiadores faciales"
+  "barcode": "8719134200461",
+  "nombre": "Crema contorno de ojos Skincare Anti-Fatigue Eye Concentrate",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134216073",
-  "nombre": "Pintalabios Make-Up Collection Lipstick · Dusky Rose",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Sanex",
-  "marcaKey": "sanex",
-  "barcode": "8718951687035",
-  "nombre": "Gel de ducha Neutro Hidratación Delicada",
-  "tipo": "Geles de ducha"
+  "barcode": "8719134200409",
+  "nombre": "Crema contorno de ojos Skincare Multifective Eye Cream",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "SVR",
-  "marcaKey": "svr",
-  "barcode": "3662361004041",
-  "nombre": "SUN SECURE Easy Stick SPF50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "The Ordinary",
-  "marcaKey": "theordinary",
-  "barcode": "0769915233476",
-  "nombre": "Squalane + Amino Acids Lip Balm 15 ml",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434011924",
-  "nombre": "Cica Daily Gel-crema reparador",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434009754",
-  "nombre": "Dépiderm Sérum antimanchas",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Vernel",
-  "marcaKey": "vernel",
-  "barcode": "8410436498555",
-  "nombre": "Suavizante concentrado Vernel Delicado",
-  "tipo": "Suavizantes"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875912600",
-  "nombre": "Liftactiv Collagen Specialist 16 Sérum",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875918534",
-  "nombre": "Liftactiv Pigment Specialist B3 Contorno de Ojos SPF50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729517173",
-  "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 10)",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729548672",
-  "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 131, 141)",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729517258",
-  "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 50, 80)",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729585097",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 20 Peach Please)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800107863",
-  "nombre": "Anti-Redness Crema Calmante",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800107832",
-  "nombre": "Anti-Redness Crema Correctora Día FPS30",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Garnier",
-  "marcaKey": "garnier",
-  "barcode": "3600541358485",
-  "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221936",
-  "nombre": "Bálsamo desmaquillante Centella Sunflower Makeup-Melting Cleansing Balm",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221998",
-  "nombre": "Gel-crema Centella 5% Niacinamide Radiance Gel Cream sin perfume",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221813",
-  "nombre": "Sérum en gel Centella 4% TXA Gel Serum sin perfume",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532223190",
-  "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Ruby Red",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385033822",
-  "nombre": "Hidratante facial Power Shake Dreamy Glow Eye Patches",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385023151",
-  "nombre": "Barra de labios Candy Crush™ Ultra-Shimmer Lipstick · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385046860",
-  "nombre": "Barra de labios líquida Hug Couture Lip Puff Velvet Lip Mousse",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8025272639873",
-  "nombre": "Barra de labios líquida Metal Liquid Lip Colour",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385019703",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 108, 110, 113, 118",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021256",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 156 - Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059341",
-  "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385035017",
-  "nombre": "Barra de labios One Magic Touch Lip Stylo",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039879",
-  "nombre": "Barra de labios Unlimited Double Touch · 120, 121",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385032382",
-  "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 02, 05, 06, 07",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385024967",
-  "nombre": "Base de maquillaje fluida Gloss Supreme Bare Skin Foundation · 08",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021720",
-  "nombre": "Brillo de labios 3D Hydra Lip Gloss · 49 - Limited edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385035482",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 02, 07, 10, 11, 12 y 8 tonos más",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385005027",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 41 - Online Only, 43 - Online Only, 44 - Online Only, 45 - Online Only",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385023236",
-  "nombre": "Brillo de labios Candy Crush™ Sparkle Lip Gloss",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061191",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 04",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061245",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 09",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385009599",
-  "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 04",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039336",
-  "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 04",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385030807",
-  "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385036663",
-  "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385049458",
-  "nombre": "Bálsamo labial con color Coloured Balm · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385024721",
-  "nombre": "Protector solar Sun Protection Lip Balm Spf",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385049441",
-  "nombre": "Tratamiento labial Kissable Drop Lip Balm",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770204223",
-  "nombre": "Desmaquillante De Ojos",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770395853",
-  "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770395686",
-  "nombre": "Sérum concentrado hidrorrellenador",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770397598",
-  "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
-  "tipo": "Acondicionadores"
- },
- {
-  "marca": "La Droguería 1919",
-  "marcaKey": "ladrogueria1919",
-  "barcode": "8410498240000",
-  "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
-  "tipo": "Multiusos"
- },
- {
-  "marca": "Manucurist",
-  "marcaKey": "manucurist",
-  "barcode": "3662263321055",
-  "nombre": "Esmalte Green™ Gloss",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Medik8",
-  "marcaKey": "medik8",
-  "barcode": "0818625027711",
-  "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Natulim",
-  "marcaKey": "natulim",
-  "barcode": "8436617752667",
-  "nombre": "Eco Pastillas Lavavajillas Máquina 6 en 1 (30 pastillas)",
-  "tipo": "Lavavajillas"
- },
- {
-  "marca": "Neutrogena",
-  "marcaKey": "neutrogena",
-  "barcode": "3574661785868",
-  "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
-  "tipo": "Cremas corporales"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4006000232287",
-  "nombre": "Kids Protección UV Diaria Rostro y Cuerpo SPF 50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Niyok",
-  "marcaKey": "niyok",
-  "barcode": "4260664930099",
-  "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
-  "tipo": "Desodorantes"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0850055527034",
-  "nombre": "Limpiador facial Pineapple Refresh",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175610412",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint Raspberry Jelly",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175610382",
-  "nombre": "Bálsamo labial Peptide Lip Treatment Strawberry Glaze",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134176957",
-  "nombre": "Bálsamo labial Fortune Balms · Repair",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134216066",
-  "nombre": "Pintalabios Make-Up Collection Lipstick · Soft Mocha",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Sanex",
-  "marcaKey": "sanex",
-  "barcode": "8718951594548",
-  "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
-  "tipo": "Geles de ducha"
- },
- {
-  "marca": "SVR",
-  "marcaKey": "svr",
-  "barcode": "3662361004065",
-  "nombre": "SUN SECURE Fluide Photo-Age SPF50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434003691",
-  "nombre": "Desmaquillante de ojos bifásico",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434023507",
-  "nombre": "Toléderm Control Crema ligera",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434023422",
-  "nombre": "Roséliane Sérum neutralizador de rojeces visibles",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875674942",
-  "nombre": "Pureté Thermale Agua Micelar 3 en 1",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875943932",
-  "nombre": "Liftactiv Collagen Specialist 16 Sérum de Ojos",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337871316624",
-  "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729593672",
-  "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 04 Blossom Peach)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729302908",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 102 Sweet Dreams)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729466501",
-  "nombre": "extreme shine brillo de labios voluminizador (tono 12 Dazzling Apricot)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "essence",
-  "marcaKey": "essence",
-  "barcode": "4059729348722",
-  "nombre": "gel nail colour esmalte de uñas (tono 01 gloss 'N ROLL)",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800108044",
-  "nombre": "Ultra-Sensitive Crema Calmante para Piel Normal a Mixta",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Eucerin",
-  "marcaKey": "eucerin",
-  "barcode": "4005800145193",
-  "nombre": "Sun Face Photoaging Control Fluid FPS 50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Garnier",
-  "marcaKey": "garnier",
-  "barcode": "3600541361249",
-  "nombre": "Desmaquillante de Ojos 2 en 1",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221356",
-  "nombre": "Gel limpiador Black Rice Moisture 5.5 Soft Cleansing Gel sin perfume",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221479",
-  "nombre": "Ampolla Black Rice Botanical 2GF Wonderful Ampoule",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532221646",
-  "nombre": "Sérum exfoliante Centella 3% PHA Gentle Liquid Exfoliating Serum",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Haruharu Wonder",
-  "marcaKey": "haruharu",
-  "barcode": "8809532222513",
-  "nombre": "Bálsamo labial Rose PDRN Peptide Glowy Balm Glossy Clear",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385033341",
-  "nombre": "Hidratante facial Power Shake Energ-Eyes Contour Cream",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385045900",
-  "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385002279",
-  "nombre": "Barra de labios líquida Lasting Matte Veil Liquid Lip Colour · 01, 02, 03, 04, 05 y 11 tonos más",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039985",
-  "nombre": "Barra de labios líquida Snow-Kissed Holiday All That Matte-rs Lip Tint",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385019482",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 111",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021263",
-  "nombre": "Barra de labios líquida Unlimited Double Touch · 157 - Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385059372",
-  "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 02, 04",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385037325",
-  "nombre": "Barra de labios Secret Lip Oil Core Stick · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385039886",
-  "nombre": "Barra de labios Unlimited Double Touch · 122, 123, 131",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385032399",
-  "nombre": "Base de maquillaje en crema Skin Lover Refining Face Powder Foundation · 03",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385027876",
-  "nombre": "Base de maquillaje fluida Holiday Wonderlights Silky Glow Foundation & Concealer",
-  "tipo": "Bases de maquillaje"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385021737",
-  "nombre": "Brillo de labios 3D Hydra Lip Gloss · 50 - Limited edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8025272604055",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 03, 04, 05, 06, 09 y 5 tonos más",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385005010",
-  "nombre": "Brillo de labios 3D Hydra Lipgloss · 42 - Online Only, 46 - Online Only",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061160",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061214",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 06",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385061252",
-  "nombre": "Brillo de labios en crema Club K By Kiko Milano Gloss Boss Lipgloss · 10",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385009612",
-  "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 06",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385045535",
-  "nombre": "Brillo de labios Flirt Alert 3D Hydra Lip Gloss Limited Edition",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385030814",
-  "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 02",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385036670",
-  "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 03",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385049465",
-  "nombre": "Bálsamo labial con color Coloured Balm · 04",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385035802",
-  "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 01",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Kiko Milano",
-  "marcaKey": "kiko",
-  "barcode": "8059385046600",
-  "nombre": "Tratamiento labial Kissable Smoothing Lip Scrub",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770204247",
-  "nombre": "Desmaquillante de ojos waterproof",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770150643",
-  "nombre": "Cica-Sérum al Cupuaçu BIO",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282770143799",
-  "nombre": "Crema de ducha - Flor de Frangipani",
-  "tipo": "Geles de ducha"
- },
- {
-  "marca": "Klorane",
-  "marcaKey": "klorane",
-  "barcode": "3282771000503",
-  "nombre": "CRECIMIENTO Acondicionador acelerador del crecimiento",
-  "tipo": "Acondicionadores"
- },
- {
-  "marca": "L'Oréal Paris",
-  "marcaKey": "lorealparis",
-  "barcode": "3600523330133",
-  "nombre": "Agua micelar pieles normales y secas",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Medik8",
-  "marcaKey": "medik8",
-  "barcode": "0818625027636",
-  "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Medik8",
-  "marcaKey": "medik8",
-  "barcode": "0818625027575",
-  "nombre": "Sérum de vitamina C C-Tetra Luxe",
-  "tipo": "Sérums"
- },
- {
-  "marca": "Neutrogena",
-  "marcaKey": "neutrogena",
-  "barcode": "3574661870397",
-  "nombre": "Ultra Gentle Gel Limpiador de Uso Diario",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4005900692474",
-  "nombre": "After Sun Sensitive Gel Crema",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Nivea",
-  "marcaKey": "nivea",
-  "barcode": "4006000220277",
-  "nombre": "Protección Facial UV Sensitive Transpirable SPF 50+",
-  "tipo": "Protectores solares"
- },
- {
-  "marca": "Nuxe",
-  "marcaKey": "nuxe",
-  "barcode": "3264680043475",
-  "nombre": "Aceite delicado desmaquillante",
-  "tipo": "Limpiadores faciales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175611105",
-  "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
-  "tipo": "Cremas faciales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175611501",
-  "nombre": "Bálsamo labial con color Peptide Lip Tint Ribbon",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rhode",
-  "marcaKey": "rhode",
-  "barcode": "0810175610344",
-  "nombre": "Bálsamo labial Peptide Lip Treatment Unscented",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Rituals",
-  "marcaKey": "rituals",
-  "barcode": "8719134211764",
-  "nombre": "Bálsamo labial Lip Care Advanced Lip Balm · Repair",
-  "tipo": "Labiales"
- },
- {
-  "marca": "Saforelle",
-  "marcaKey": "saforelle",
-  "barcode": "3700399102800",
-  "nombre": "Pastilla de higiene íntima Essential",
-  "tipo": "Higiene íntima"
+  "barcode": "3662361003327",
+  "nombre": "PALPEBRAL Baume",
+  "tipo": "contorno-ojos"
  },
  {
   "marca": "Sisley",
-  "marcaKey": "sisley",
-  "barcode": "3473311270009",
-  "nombre": "Crema calmante para piel sensible Soin Apaisant Peaux Sensibles",
-  "tipo": "Cremas faciales"
+  "barcode": "3473311540805",
+  "nombre": "Contorno de ojos antiedad Supremÿa La Nuit Yeux",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434009792",
+  "nombre": "Dépiderm Contorno de ojos corrector",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434008481",
+  "nombre": "Toléderm Control Contorno de ojos",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434007903",
+  "nombre": "Xémose C8+ Cuidado para párpados calmante y nutritivo",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Vichy",
+  "barcode": "3337875943932",
+  "nombre": "Liftactiv Collagen Specialist 16 Sérum de Ojos",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Vichy",
+  "barcode": "3337871323332",
+  "nombre": "Liftactiv Hyaluronic Specialist H.A. Cuidado de Ojos",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Vichy",
+  "barcode": "3337875596763",
+  "nombre": "Minéral 89 Gel Ojos",
+  "tipo": "contorno-ojos"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8800307373393",
+  "nombre": "Bruma PDRN 100 Hyaluronic Acid Hydrating Capsule Mist",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640738111",
+  "nombre": "Discos 8 Hyaluronic Acid Catechin Calming Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640738227",
+  "nombre": "Discos Azelaic 10 Hyaluron Redness Soothing Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640730559",
+  "nombre": "Discos Heartleaf 77 Toner Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640738128",
+  "nombre": "Discos Niacinamide 5 TXA Brightening Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640738241",
+  "nombre": "Discos PDRN 100 Hyaluronic Acid Glow Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640731433",
+  "nombre": "Tónico Heartleaf 77 Soothing Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640735455",
+  "nombre": "Tónico Rice 70 Glow Milky Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282779003131",
+  "nombre": "Agua termal de Avène Spray",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Beauty of Joseon",
+  "barcode": "8809738310960",
+  "nombre": "Esencia Ginseng Essence Water",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311123069",
+  "nombre": "Bruma The Blue Peptide Bakuchiol Hydra Plump Boosting Mist",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311120822",
+  "nombre": "Bruma The Ceramide Skin Barrier Moisturizing Mist",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311121560",
+  "nombre": "Discos One Step Original Peptide Collagen Lifting Glow Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311121584",
+  "nombre": "Discos One Step Original Tone Clarifying Moisture Pad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598452053",
+  "nombre": "Esencia Advanced Snail Radiance Dual Essence",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416471310",
+  "nombre": "Esencia Galactomyces 95 Tone Balancing Essence",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311121416",
+  "nombre": "Tónico 5 PDRN B5 Vital Soothing Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416470030",
+  "nombre": "Tónico AHA/BHA Clarifying Treatment Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416470085",
+  "nombre": "Tónico Centella Water Alcohol-Free Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598450899",
+  "nombre": "Tónico Full Fit Propolis Synergy Toner",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598450967",
+  "nombre": "Tónico Refresh ABC Daily Toner (AHA BHA Vitamin C)",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930003205",
+  "nombre": "Agua de uva",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930004011",
+  "nombre": "Esencia con Ácido Glicólico Luminosidad",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930003144",
+  "nombre": "Loción Tónica Hidratante con Hidrolato de Rosa Biológica",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Cumlaude Lab",
+  "barcode": "8428749854906",
+  "nombre": "Bruma hidratante Hydra Spray",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Haruharu Wonder",
+  "barcode": "8809532221967",
+  "nombre": "Esencia Black Rice Probiotics Barrier Essence sin perfume",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Haruharu Wonder",
+  "barcode": "8809532221462",
+  "nombre": "Tónico Black Rice Hyaluronic Toner sin alcohol ni perfume",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434000522",
+  "nombre": "Agua termal de Uriage",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434005732",
+  "nombre": "Bebé 1ª Agua termal",
+  "tipo": "tonico"
+ },
+ {
+  "marca": "Beauty of Joseon",
+  "barcode": "8809738312872",
+  "nombre": "Gel exfoliante Apricot Blossom Peeling Gel",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416470054",
+  "nombre": "Exfoliante líquido BHA Blackhead Power Liquid",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416470047",
+  "nombre": "Tónico exfoliante AHA 7 Whitehead Power Liquid",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416471655",
+  "nombre": "Tónico exfoliante Two in One Poreless Power Liquid",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930004059",
+  "nombre": "Exfoliante Crushed Cabernet con Miel",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "Cocunat",
+  "barcode": "8436570022906",
+  "nombre": "Velvet Scrub",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "Haruharu Wonder",
+  "barcode": "8809532221646",
+  "nombre": "Sérum exfoliante Centella 3% PHA Gentle Liquid Exfoliating Serum",
+  "tipo": "exfoliante"
  },
  {
   "marca": "SVR",
-  "marcaKey": "svr",
-  "barcode": "3662361003198",
-  "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
-  "tipo": "Protectores solares"
+  "barcode": "3662361004201",
+  "nombre": "XERIAL Gommage",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3401360238091",
+  "nombre": "XERIAL Peel",
+  "tipo": "exfoliante"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640737244",
+  "nombre": "Mascarilla en lámina Heartleaf 70 Soothing Collagen Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640737237",
+  "nombre": "Mascarilla en lámina Peach 70 Niacin Brightening Collagen Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "Anua",
+  "barcode": "8809640737220",
+  "nombre": "Mascarilla en lámina Rice 70 Glow Collagen Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "Beauty of Joseon",
+  "barcode": "8809738316986",
+  "nombre": "Mascarilla de poros Red Bean Refreshing Pore Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "Beauty of Joseon",
+  "barcode": "8809968130246",
+  "nombre": "Mascarilla facial Ground Rice and Honey Glow Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598457058",
+  "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598457249",
+  "nombre": "Mascarilla de hidrogel The Alpha-Arbutin Discoloration Care Hydrogel Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598457232",
+  "nombre": "Mascarilla de hidrogel The Peptide Collagen Lifting Glow Hydrogel Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598452336",
+  "nombre": "Mascarilla de noche Full Fit Propolis Honey Overnight Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416470726",
+  "nombre": "Mascarilla de noche Ultimate Nourishing Rice Overnight Spa Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598453258",
+  "nombre": "Mascarilla en lámina Full Fit Propolis Nourishing Magnet Sheet Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8800311120679",
+  "nombre": "Mascarilla PDRN Exosome Skinplaning Glaze Mask",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361000968",
+  "nombre": "[B3] Masque Hydra Intensif",
+  "tipo": "mascarilla-facial"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770390995",
+  "nombre": "Dermalibour+ Crema aislante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770393712",
+  "nombre": "Epitheliale A.H Bálsamo-parche reparador",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770149814",
+  "nombre": "Exomega Allergo - Bálsamo Emoliente Antirrascado De Cosmética Estéril",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770149715",
+  "nombre": "Exomega Control Bálsamo emoliente antiirritación",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770149685",
+  "nombre": "Exomega Control Crema emoliente antirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770149746",
+  "nombre": "Exomega Control Leche emoliente antiirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770149784",
+  "nombre": "Exomega Control Spray emoliente antirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770139181",
+  "nombre": "Spray emoliente antirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770104783",
+  "nombre": "Spray secante y calmante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282771000985",
+  "nombre": "Cicalfate+ Gel remodelante de cicatrices",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770138856",
+  "nombre": "Control Bálsamo calmante reparador de Cosmética estéril®",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770148763",
+  "nombre": "Hidratante reparadora posquirúrgica y postatuaje",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770155099",
+  "nombre": "Nutrition Bálsamo Hidratante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770205633",
+  "nombre": "Spray secante reparador",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282779405485",
+  "nombre": "XeraCalm A.D Bálsamo Relipidizante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770399523",
+  "nombre": "XERACALM AD - Bálsamo relipidizante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770399561",
+  "nombre": "XERACALM AD - Crema relipidizante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Bioderma",
+  "barcode": "3701129802052",
+  "nombre": "Atoderm Intensive Baume",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Bioderma",
+  "barcode": "3701129802076",
+  "nombre": "Atoderm Intensive Baume",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "CeraVe",
+  "barcode": "3337875849326",
+  "nombre": "Bálsamo Reparador Avanzado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Ducray",
+  "barcode": "3282770203929",
+  "nombre": "Bálsamo emoliente antirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Ducray",
+  "barcode": "3282770203950",
+  "nombre": "Crema emoliente antirrascado",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Ducray",
+  "barcode": "3282770203196",
+  "nombre": "Dexyane Crema barrera aislante",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Eucerin",
+  "barcode": "4005900577276",
+  "nombre": "Aquaphor",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Eucerin",
+  "barcode": "4005800275838",
+  "nombre": "Aquaphor Pomada en Spray Corporal",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Eucerin",
+  "barcode": "4005800019876",
+  "nombre": "Aquaphor Pomada Reparadora",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282770391176",
+  "nombre": "Crema para el cambio de pañal a la Caléndula BIO",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282770200058",
+  "nombre": "Spray para el cambio de pañal Eryteal 3 en 1",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337872418730",
+  "nombre": "Cicaplast Baume B5+",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337875586269",
+  "nombre": "Cicaplast Gel B5",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337875930116",
+  "nombre": "Lipikar Baume AP+ Max",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337875696548",
+  "nombre": "Lipikar Baume Light AP+M",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mixa",
+  "barcode": "3600551183404",
+  "nombre": "Bálsamo reparador multiusos Cica Plus para piel seca y fragilizada",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105034481",
+  "nombre": "Bálsamo lactancia - Certificado BIO 30ml",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105044855",
+  "nombre": "Bálsamo Universal Certificado BIO con 3 Extractos de Aguacate 75ml tubo de aluminio",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105025786",
+  "nombre": "Crema bálsamo 1 2 3 50ml / 100ml / 150 ml",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105039844",
+  "nombre": "Crema relipidizante Stelatopia + 150ml / 300ml",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105034412",
+  "nombre": "Cuidado Costra láctea 40ml",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Mustela",
+  "barcode": "3504105033231",
+  "nombre": "Linimento 400ml",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Neutrogena",
+  "barcode": "3574661032436",
+  "nombre": "Fórmula Noruega Reparación Intensa Bálsamo Cica",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3401060287450",
+  "nombre": "CICAVIT DM+ Cicatrices",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361000388",
+  "nombre": "CICAVIT+ SOS Grattage",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361001248",
+  "nombre": "SENSIFINE Nutri-Baume",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361001927",
+  "nombre": "TOPIALYSE Baume Protect+",
+  "tipo": "emoliente"
  },
  {
   "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434009440",
-  "nombre": "Toléderm Gel-leche desmaquillante",
-  "tipo": "Limpiadores faciales"
+  "barcode": "3661434011955",
+  "nombre": "Bariéderm-Cica Aceite dermatológico",
+  "tipo": "emoliente"
  },
  {
   "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434023514",
-  "nombre": "Toléderm Control Crema rica",
-  "tipo": "Cremas faciales"
+  "barcode": "3661434004735",
+  "nombre": "Bariéderm-Cica Crema con Cu-Zn",
+  "tipo": "emoliente"
  },
  {
   "marca": "Uriage",
-  "marcaKey": "uriage",
-  "barcode": "3661434014116",
-  "nombre": "Bariésun Stick mineral SPF50+",
-  "tipo": "Protectores solares"
+  "barcode": "3661434008139",
+  "nombre": "Bebé 1er Bálsamo óleo-calmante anti-prurito",
+  "tipo": "emoliente"
  },
  {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875607254",
-  "nombre": "Liftactiv Collagen Specialist 16 Crema de Día",
-  "tipo": "Cremas faciales"
+  "marca": "Uriage",
+  "barcode": "3661434008597",
+  "nombre": "Bebé 1er Change crema de pañal",
+  "tipo": "emoliente"
  },
  {
-  "marca": "Vichy",
-  "marcaKey": "vichy",
-  "barcode": "3337875734905",
-  "nombre": "Liftactiv Pigment Specialist B3 Sérum Antimanchas",
-  "tipo": "Sérums"
+  "marca": "Uriage",
+  "barcode": "3661434008603",
+  "nombre": "Bebé 1ª Cold cream",
+  "tipo": "emoliente"
  },
  {
-  "marca": "Wipp Express",
-  "marcaKey": "wippexpress",
-  "barcode": "8410436447324",
-  "nombre": "Detergente en polvo Wipp Express",
-  "tipo": "Detergentes para la ropa"
+  "marca": "Uriage",
+  "barcode": "3661434006968",
+  "nombre": "Xémose C8+ Bálsamo relipidizante anti-picor",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434004834",
+  "nombre": "Xémose C8+ Cerato relipidizante anti-picor",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434004858",
+  "nombre": "Xémose C8+ Crema relipidizante anti-irritaciones",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "Vaseline",
+  "barcode": "42182627",
+  "nombre": "Vaselina Original (Protecting Jelly)",
+  "tipo": "emoliente"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809598450981",
+  "nombre": "Parches para granos AC Collection Acne Patch",
+  "tipo": "granos"
+ },
+ {
+  "marca": "COSRX",
+  "barcode": "8809416471396",
+  "nombre": "Parches para granos Clear Fit Master Patch",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Erborian",
+  "barcode": "8809255787481",
+  "nombre": "Centella SOS Patch 9 ml",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Garnier",
+  "barcode": "3600542573139",
+  "nombre": "SkinActive Pimple Patch Invisible 8h Parche para Granitos",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Garnier",
+  "barcode": "3600542659116",
+  "nombre": "SkinActive PureActive 8H Pimple Patch Ultra 22 parches",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Garnier",
+  "barcode": "3600542154666",
+  "nombre": "SkinActive Tiras Anti-Puntos Negros",
+  "tipo": "granos"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337875924887",
+  "nombre": "Effaclar Duo+M Parches Anti-granos",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Nuxe",
+  "barcode": "3264680047626",
+  "nombre": "Corrector de imperfecciones",
+  "tipo": "granos"
+ },
+ {
+  "marca": "Uriage",
+  "barcode": "3661434010026",
+  "nombre": "Hyséac SOS Gel secante",
+  "tipo": "granos"
+ },
+ {
+  "marca": "A-Derma",
+  "barcode": "3282770154276",
+  "nombre": "Crema hidratante para manos y uñas",
+  "tipo": "crema-manos"
+ },
+ {
+  "marca": "Neutrogena",
+  "barcode": "8002110383709",
+  "nombre": "Fórmula Noruega Crema de Manos Concentrada Sin Perfume",
+  "tipo": "crema-manos"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361001682",
+  "nombre": "CICAVIT+ Creme mains",
+  "tipo": "crema-manos"
+ },
+ {
+  "marca": "Cocunat",
+  "barcode": "8436570023590",
+  "nombre": "Instant Root Color",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Davines",
+  "barcode": "8004608275381",
+  "nombre": "ENERGIZING Seasonal Superactive (sérum capilar) 100 ml",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Davines",
+  "barcode": "8004608275374",
+  "nombre": "ENERGIZING Superactive (sérum capilar) 100 ml",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Davines",
+  "barcode": "8004608237518",
+  "nombre": "This is a Texturizing Dust (polvo texturizante) 8 g",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Ducray",
+  "barcode": "3282770202274",
+  "nombre": "Kelual Emulsión contra las escamas del cuero cabelludo y el rostro",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Ducray",
+  "barcode": "3282770153255",
+  "nombre": "Neoptide Expert Loción anticaída y anclaje del cabello",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Garnier",
+  "barcode": "3600542657037",
+  "nombre": "Crema Definidora Sin Aclarado Fructis Método Rizos",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282770141030",
+  "nombre": "Aceite al Mango - Nutrición - Cabello seco",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282770397635",
+  "nombre": "ANTICAÍDA Tratamiento Fortificante Intensivo",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282771000428",
+  "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Klorane",
+  "barcode": "3282770141023",
+  "nombre": "Crema sin aclarado al Mango",
+  "tipo": "capilar"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930004042",
+  "nombre": "Gotas Solares Autobronceadoras",
+  "tipo": "autobronceador"
+ },
+ {
+  "marca": "Garnier",
+  "barcode": "3600542512848",
+  "nombre": "Delial Natural Bronzer Gotas Faciales Autobronceadoras con Ácido hialurónico y Agua de",
+  "tipo": "autobronceador"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282779420884",
+  "nombre": "Máscara de alta tolerancia Negro",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770207224",
+  "nombre": "Máscara de pestañas de alta definición Negro",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "30188358",
+  "nombre": "Big Deal Máscara Latex Black (Waterproof )",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524196615",
+  "nombre": "Telescopic (Waterproof)",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "30148079",
+  "nombre": "Volume Million Lashes Máscara de Pestañas Efecto Volumen Balm Brown",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524229085",
+  "nombre": "Waterproof Extensionist",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337875632652",
+  "nombre": "Toleriane Máscara Volumen",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531702304",
+  "nombre": "Colossal Bubble Waterproof Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30144187",
+  "nombre": "Lash Sensational Firework Waterproof Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531143657",
+  "nombre": "Lash Sensational Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531143558",
+  "nombre": "Lash Sensational Máscara de pestañas",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30167223",
+  "nombre": "Lash Sensational Sky High Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30152748",
+  "nombre": "The Colossal Curl Bounce Waterproof Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531604752",
+  "nombre": "The Falsies Lash Lift Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30163799",
+  "nombre": "The Falsies Surreal Extensions Máscara Waterproof Máscara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134204209",
+  "nombre": "Máscara de pestañas Make-Up Collection Volume Mascara",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "SVR",
+  "barcode": "3662361001828",
+  "nombre": "PALPEBRAL Máscara Protect",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Avène",
+  "barcode": "3282770207255",
+  "nombre": "Lápiz de ojos alta definición negro",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729393470",
+  "nombre": "All In One Brow Perfector",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4251232217605",
+  "nombre": "Inside Eye Khol Kajal lápiz de ojos",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729547125",
+  "nombre": "La sombra de ojos en barra Drunk'n Diamonds",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729619631",
+  "nombre": "Sombra de ojos líquida con colorete para ojos",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524253547",
+  "nombre": "Blur Filler Delineador Difuminado Mate",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524253554",
+  "nombre": "Blur Filler Delineador Difuminado Mate 485 NUDE ESPRESSO",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524253608",
+  "nombre": "Blur Filler Delineador Difuminado Mate 530 BORDEAUX BISOUS",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524253561",
+  "nombre": "Blur Filler Delineador Difuminado Mate 535 BROWN CARAMEL",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600524253530",
+  "nombre": "Blur Filler Delineador Difuminado Mate 601 Worth It",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "L'Oréal Paris",
+  "barcode": "3600522203094",
+  "nombre": "Infallible 12H Definer Lápiz de Cejas",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "La Roche-Posay",
+  "barcode": "3337872420641",
+  "nombre": "Toleriane Lápiz de cejas",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531672645",
+  "nombre": "Color Tattoo Stix Sombra de ojos",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "3600531579432",
+  "nombre": "Express Brow Ultra Slim Maquillaje de cejas",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30150157",
+  "nombre": "Tattoo Brow 36H Maquillaje de cejas",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122905841",
+  "nombre": "Lápiz de cejas Brow Harmony Precision Pencil",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122909023",
+  "nombre": "Paleta de sombras de ojos Essential Neutrals",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122906190",
+  "nombre": "Sombra de ojos en barra All of the Above Weightless Eyeshadow Stick",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122902413",
+  "nombre": "Sombra de ojos líquida Stay Vulnerable Liquid Eyeshadow",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134216127",
+  "nombre": "Gel para cejas Make-Up Collection Brow Fixing Gel",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134216196",
+  "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Palette (3 g) — código 8719134216196",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Sisley",
+  "barcode": "3473311875013",
+  "nombre": "Gel de cejas Phyto-Sourcils Perfect",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729255389",
+  "nombre": "SUPERLAST 24h lápiz pomada para cejas resistente al agua",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729419255",
+  "nombre": "Bronceador de crema Melted Sun",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729539878",
+  "nombre": "Iluminador Under Eye Brightener Liquid",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Caudalie",
+  "barcode": "3522930004134",
+  "nombre": "Polvos Bronceadores Larga Duración",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122909290",
+  "nombre": "Colorete en crema Soft Pinch Matte Bouncy Blush",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122907234",
+  "nombre": "Contorno líquido Soft Pinch Liquid Contour",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122905414",
+  "nombre": "Iluminador en polvo Positive Light Silky Touch Highlighter",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122900082",
+  "nombre": "Iluminador líquido Positive Light Liquid Luminizer",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Rare Beauty",
+  "barcode": "0840122908958",
+  "nombre": "Polvos bronceadores Warm Wishes Soft Matte Powder Bronzer",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729542533",
+  "nombre": "Iluminador en barra BABY GOT GLOW",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729490124",
+  "nombre": "Top coat Cosmic Gold",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Catrice",
+  "barcode": "4059729490117",
+  "nombre": "Top Coat Prisma Illusion",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Essie",
+  "barcode": "30149397",
+  "nombre": "Essie Top Coat Brillo",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Essie",
+  "barcode": "3600531663414",
+  "nombre": "Essie Top Coat Stay Longer",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Maybelline New York",
+  "barcode": "30145092",
+  "nombre": "Fast Gel Esmalte de uñas",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134189605",
+  "nombre": "Esmalte de uñas Nail Polish (6 ml) — código 8719134189605",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134189612",
+  "nombre": "Esmalte de uñas Nail Polish (6 ml) — código 8719134189612",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134216226",
+  "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Top Coat",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729543189",
+  "nombre": "barniz de uñas Fairy SHIMMER",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729543158",
+  "nombre": "esmalte de uñas fairy CLOUD",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729543233",
+  "nombre": "esmalte de uñas Fairy NUDE",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729543172",
+  "nombre": "esmalte de uñas Fairy PINK",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729543165",
+  "nombre": "esmalte de uñas Fairy ROSE",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729422323",
+  "nombre": "Esmalte de uñas sheer beauty MANICURE french",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729518972",
+  "nombre": "Miniesmalte de uñas BIRTHDAY FUN",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729518965",
+  "nombre": "Miniesmalte de uñas CRAZY CRACKING",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729585356",
+  "nombre": "Miniesmalte de uñas LOVE YOU",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729519023",
+  "nombre": "Miniesmalte de uñas MAGIC MAGNETIC",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729518996",
+  "nombre": "Miniesmalte de uñas MERMAID GLITTER",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "essence",
+  "barcode": "4059729593818",
+  "nombre": "Miniesmalte de uñas PEARLY GLAZE",
+  "tipo": "esmalte"
+ },
+ {
+  "marca": "Vernel",
+  "barcode": "8410436498555",
+  "nombre": "Suavizante concentrado Vernel Delicado",
+  "tipo": "suavizante"
+ },
+ {
+  "marca": "La Droguería 1919",
+  "barcode": "8410498240079",
+  "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
+  "tipo": "lavavajillas"
+ },
+ {
+  "marca": "La Droguería 1919",
+  "barcode": "8410498240000",
+  "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
+  "tipo": "multiusos"
+ },
+ {
+  "marca": "La Droguería 1919",
+  "barcode": "8410498240017",
+  "nombre": "Vinagre de limpieza limpiahogar La Droguería 1919",
+  "tipo": "multiusos"
+ },
+ {
+  "marca": "Asevi",
+  "barcode": "8411582266302",
+  "nombre": "Desincrustante 0,5 L (envase de Rumanía)",
+  "tipo": "limpiador-cocina-bano"
+ },
+ {
+  "marca": "Asevi",
+  "barcode": "8411582265305",
+  "nombre": "Limpiador Paellas y Calderos 500 ml",
+  "tipo": "limpiador-cocina-bano"
+ },
+ {
+  "marca": "HG",
+  "barcode": "8711577070175",
+  "nombre": "Limpiador de cocinas para acero inoxidable HG",
+  "tipo": "limpiador-cocina-bano"
+ },
+ {
+  "marca": "HG",
+  "barcode": "8711577004637",
+  "nombre": "Limpiador de hornos y asadores HG",
+  "tipo": "limpiador-cocina-bano"
+ },
+ {
+  "marca": "Nuncas",
+  "barcode": "8001704014357",
+  "nombre": "Limpiador de baños y cocinas Nuncas Winto Bel Gres",
+  "tipo": "limpiador-cocina-bano"
+ },
+ {
+  "marca": "Cloro Max",
+  "barcode": "8410931009058",
+  "nombre": "Lejía Cloro Max",
+  "tipo": "lejia"
+ },
+ {
+  "marca": "Neutrex",
+  "barcode": "8410436420921",
+  "nombre": "Lejía Neutrex",
+  "tipo": "lejia"
+ },
+ {
+  "marca": "Neutrex",
+  "barcode": "8410436420952",
+  "nombre": "Lejía Neutrex Futura",
+  "tipo": "lejia"
+ },
+ {
+  "marca": "HG",
+  "barcode": "8711577194505",
+  "nombre": "Desatascador potente HG",
+  "tipo": "desatascador"
+ },
+ {
+  "marca": "Sanicentro",
+  "barcode": "8410931013673",
+  "nombre": "Desatascador con lejía para baños Sanicentro Acción Turbo",
+  "tipo": "desatascador"
+ },
+ {
+  "marca": "Sanicentro",
+  "barcode": "8410931013666",
+  "nombre": "Desatascador con lejía para cocinas Sanicentro Acción Turbo",
+  "tipo": "desatascador"
+ },
+ {
+  "marca": "Rituals",
+  "barcode": "8719134115499",
+  "nombre": "Vela aromática de lujo Private Collection Medium Precious Amber Scented Candle",
+  "tipo": "ambientador"
  }
 ]

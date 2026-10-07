@@ -3965,8 +3965,10 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: **alternativas.json versión 2026-10-07e**, 1.519 productos, 155 con enlace de Amazon
-(2026-10-07e: fuera la lejía; +23 enlaces, entre ellos el desodorante de Niyok. El recuento por tipo de abajo es el de la 07d.)
+### Estado 2026-10-07: **alternativas.json versión 2026-10-07f**, 1519 productos, 227 con enlace de Amazon
+(07e: fuera la lejía. 07f: +95 enlaces de 184 productos buscados (lotes d0-d3); 42 dudosos sin enlace. Quedan 239 por
+buscar en , los tipos nuevos; Kiko, Manucurist, Rhode y las marcas blancas de súper no se
+buscan porque Amazon.es no las vende directamente. El recuento por tipo de abajo es el de la 07d.)
 **Generador** (`herramientas/alternativas/`, se rehace cuando cambie el catálogo o el detector):
 ```
 python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
