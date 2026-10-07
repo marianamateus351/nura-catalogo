@@ -44,6 +44,8 @@ TIPOS = {
   ('lejia', 'Lejías', r'lejia', r'desatasc'),
   ('desatascador', 'Desatascadores', r'desatasc', r''),
   ('limpiador-cocina-bano', 'Limpiadores de cocina y baño', r'limpiador[^,]*(cocina|bano|horno|acero|paella|vitro|gres)|desincrust', r'lavavajillas|lavadora'),
+  ('aditivo-colada', 'Quitamanchas y aditivos para la colada', r'quitamanchas|potenciador de lavado|blanqueador|percarbonato|tierras de sommieres|oxi (clean|white)', r'lavavajillas'),
+  ('basicos-limpieza', 'Básicos de limpieza (ácido cítrico, cristales de soda…)', r'acido citrico|cristales de soda|bicarbonato|sal de acedera', r''),
   ('ambientador', 'Ambientadores', r'ambientador|perfumador de (ambiente|hogar)|difusor|mikado|vela perfumada|vela aromatica|scented candle|air freshener', r'ropa'),
  ],
 }

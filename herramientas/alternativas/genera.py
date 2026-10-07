@@ -31,9 +31,21 @@ def ddmmaaaa(iso): y, m, d = iso.split('-'); return f'{d}-{m}-{y}'
 cat = json.load(open(f'{R}/catalogo.json'))
 INCI = {b: q.get('inci', '') for m in cat['marcas'] for q in m['productos'] for b in q.get('barcodes', [])}
 FUERA = re.compile(r'hypochlorite|hipoclorito', re.I)
+# Fuera también lo corrosivo (Mariana, 2026-10-07: "los desatascadores tienen productos peligrosos? si sí,
+# sácalos"): todos los desatascadores, y cualquier producto con un ácido o una base fuerte entre sus dos
+# primeros ingredientes, que es cuando va a concentración de producto corrosivo (sosa del limpiahornos,
+# salfumán del desincrustante, fosfórico del limpiador de paellas, ácido oxálico de la sal de acedera, que es tóxico). La sosa o la potasa al final de la
+# lista, para ajustar el pH o saponificar el jabón, no cuenta.
+CORROSIVO = re.compile(r'sodium hydroxide|potassium hydroxide|hydrochloric acid|sulfuric acid|sulphuric acid|'
+                       r'phosphoric acid|nitric acid|sulfamic acid|oxalic acid|hidroxido|clorhidrico|sulfurico|fosforico|oxalico', re.I)
+TIPOS_FUERA = {'desatascador'}
+def peligroso(b):
+    inci = INCI.get(b, '')
+    return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
 por = {}
 for p in limpios:
-    if any(FUERA.search(INCI.get(b, '')) for b in p['barcodes']): continue
+    if any(peligroso(b) for b in p['barcodes']): continue
+    if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] in TIPOS_FUERA: continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
     bc = p['barcodes'][0]
@@ -63,7 +75,7 @@ for ckey, cnom in CATEGORIAS:
              'pasta-dientes', 'higiene-intima', 'acondicionador', 'crema-corporal', 'base-maquillaje', 'labial', 'lubricante',
              'contorno-ojos', 'tonico', 'exfoliante', 'mascarilla-facial', 'emoliente', 'granos', 'crema-manos',
              'capilar', 'autobronceador', 'mascara-pestanas', 'ojos-cejas', 'colorete', 'esmalte',
-             'detergente', 'suavizante', 'lavavajillas', 'multiusos', 'limpiador-cocina-bano', 'lejia', 'desatascador',
+             'detergente', 'suavizante', 'lavavajillas', 'multiusos', 'limpiador-cocina-bano', 'aditivo-colada', 'basicos-limpieza', 'lejia', 'desatascador',
              'ambientador']
     for key, label, _, _ in sorted(TIPOS[cnom], key=lambda t: ORDEN.index(t[0]) if t[0] in ORDEN else 99):
         prods = sorted(por.get((cnom, key), []), key=lambda e: (e['marca'].lower(), e['nombre'].lower()))

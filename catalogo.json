@@ -1,5 +1,5 @@
 {
- "version": "2026-10-05-sisley",
+ "version": "2026-10-07-natulim",
  "marcas": [
   {
    "key": "larocheposay",
@@ -22292,6 +22292,172 @@
       "8436617752667"
      ],
      "inci": "Sodium Carbonate, Sodium Citrate, Sodium Percarbonate, Aqua, Modified Fatty Alcohol Polyglycolether, TAED, Polyepoxysuccinic Acid Sodium Salt, Itaconic Acid Copolymer, Sodium Sulfate, Modified Polyvinyl Alcohol, PEG-90, Subtilisin, Cellulose, Kaolin, Bismuth Citrate, Cellulose Gum, Dextrin, Calcium Carbonate, Alpha-Amylase, Magnesium Sulfate, Sodium Thiosulfate, Polyethylene Glycol, Sucrose"
+    },
+    {
+     "nombre": "Gel de ducha sin fragancia Clean&Calm (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617754388",
+      "8436617753015"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Coco-Betaine, Propanediol, Potassium Sorbate, Sodium Benzoate, Citric Acid, Chamomilla Recutita Flower Extract, Calendula Officinalis Flower Extract, Agastache Mexicana Flower/Leaf/Stem Extract"
+    },
+    {
+     "nombre": "Gel de ducha hidratante Radiance (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617753008"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Aloe Barbadensis Leaf Juice, Glycerin, Coco-Betaine, Parfum, Potassium Sorbate, Sodium Benzoate, Citric Acid, Pentylene Glycol, Amylopectin, Centella Asiatica Extract, Lithothamnion Calcareum Extract, Lactic Acid, Xanthan Gum, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú cabello normal Sunrise (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617754395",
+      "8436617752964"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Coco-Betaine, Polyglyceryl-3 Betainate Acetate, Parfum, Inulin, Betaine, Potassium Sorbate, Sodium Benzoate, Citric Acid, Zea Mays Starch, Cystoseira Compressa Extract, Benzyl Alcohol, Gluconolactone, Actinidia Chinensis Fruit Water, Carica Papaya Fruit Extract, Pyrus Malus Fruit Extract, Rubus Idaeus Fruit Extract, Cucumis Sativus Fruit Extract, Fragaria Ananassa Fruit Extract, Prunus Persica Fruit Extract, Dehydroacetic Acid, Calcium Gluconate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú cabello graso Detox (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617754418",
+      "8436617752971"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Coco-Betaine, Polyglyceryl-3 Betainate Acetate, Parfum, Inulin, Betaine, Potassium Sorbate, Sodium Benzoate, Citric Acid, Zinc PCA, Zea Mays Starch, Cystoseira Compressa Extract, Benzyl Alcohol, Gluconolactone, Rosmarinus Officinalis Leaf Extract, Chamomilla Recutita Flower Extract, Calendula Officinalis Flower Extract, Arnica Montana Flower Extract, Lamium Album Extract, Arctium Majus Root Extract, Salvia Officinalis Leaf Extract, Hedera Helix Leaf Extract, Pinus Sylvestris Bud Extract, Nasturtium Officinale Extract, Citrus Limon Peel Extract, Tropaeolum Majus Flower Extract, Dehydroacetic Acid, Calcium Gluconate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú reparación total Fenix (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617752988"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Coco-Betaine, Polyglyceryl-3 Betainate Acetate, Parfum, Inulin, Betaine, Potassium Sorbate, Sodium Benzoate, Citric Acid, Spirulina Maxima Extract, Porphyra Umbilicalis Extract, Caesalpinia Spinosa Gum, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Jabón de manos Cloud (Kēr)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617754425",
+      "8436617752995"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Glycerin, Coco-Betaine, Parfum, Potassium Sorbate, Aloe Barbadensis Leaf Juice, Sodium Benzoate, Citric Acid, Gossypium Herbaceum Seed Extract, Tetramethyl Acetyloctahydronaphthalenes, Limonene"
+    },
+    {
+     "nombre": "Lavavajillas a mano en polvo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617750786"
+     ],
+     "inci": "Sodium Bicarbonate, Sodium Lauryl Sulfate, Citric Acid, Trisodium Dicarboxymethyl Alaninate, Aqua, Limonene, Cocamidopropyl Betaine, Citral, p-Mentha-1,4-diene, beta-Pinene, alpha-Pinene, Linalool, Geraniol, Parfum"
+    },
+    {
+     "nombre": "Oxi Clean potenciador de lavado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617752025"
+     ],
+     "inci": "Sodium Carbonate, Sodium Percarbonate, Sodium Sulfate, Sodium Citrate, Sodium Lauryl Sulfate, Amylase, Lipase, Subtilisin, Sodium Chloride"
+    },
+    {
+     "nombre": "Oxi White polvo blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617752049"
+     ],
+     "inci": "Sodium Carbonate, Sodium Percarbonate, Sodium Sulfate, Sodium Citrate, Sodium Lauryl Sulfate, Amylase, Lipase, Subtilisin, Sodium Chloride"
+    },
+    {
+     "nombre": "Eco-Tiras de detergente sin fragancia (40 lavados)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617750045"
+     ],
+     "inci": "Polyvinyl Alcohol, Glycerin, Betaine, Sodium Bicarbonate, Sodium Citrate, Sodium Lauryl Sulfate, Sodium Alpha-Olefin Sulfonate, Alcohol Ethoxysulfate, Kaolin, Starch"
+    },
+    {
+     "nombre": "Eco-Tiras de detergente Floral (40 lavados)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617750021"
+     ],
+     "inci": "Polyvinyl Alcohol, Glycerin, Betaine, Sodium Bicarbonate, Sodium Citrate, Sodium Lauryl Sulfate, Sodium Alpha-Olefin Sulfonate, Alcohol Ethoxysulfate, Kaolin, Starch, Parfum"
+    },
+    {
+     "nombre": "Eco-Tiras de detergente Lavanda (40 lavados)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617750038"
+     ],
+     "inci": "Polyvinyl Alcohol, Glycerin, Betaine, Sodium Bicarbonate, Sodium Citrate, Sodium Lauryl Sulfate, Sodium Alpha-Olefin Sulfonate, Alcohol Ethoxysulfate, Kaolin, Starch, Parfum"
+    },
+    {
+     "nombre": "Eco-Tiras de detergente especial bebés (40 lavados)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617753657"
+     ],
+     "inci": "Polyvinyl Alcohol, Glycerin, Betaine, Sodium Bicarbonate, Sodium Citrate, Sodium Lauryl Sulfate, Sodium Alpha-Olefin Sulfonate, Alcohol Ethoxysulfate, Kaolin, Starch"
+    },
+    {
+     "nombre": "Ácido cítrico limpiador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617752308"
+     ],
+     "inci": "Citric Acid"
+    },
+    {
+     "nombre": "Quitamanchas en seco Tierras de Sommières",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617752292"
+     ],
+     "inci": "Sepiolite"
+    },
+    {
+     "nombre": "Percarbonato de sodio (recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617753442"
+     ],
+     "inci": "Sodium Percarbonate"
+    },
+    {
+     "nombre": "Cristales de soda (recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617753459"
+     ],
+     "inci": "Sodium Carbonate"
+    },
+    {
+     "nombre": "Sal de acedera (recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436617753466"
+     ],
+     "inci": "Oxalic Acid"
     }
    ]
   },
