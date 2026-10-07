@@ -3895,6 +3895,51 @@ sitemap pero las fichas dan 403; kerastase.pt da 500. Misma vía que Erborian: *
 Scripts: `ks/dg_base.txt`, `ks/dgb/` y `ks/dg/` (API de Douglas), `ks/ic/` (incidecoder),
 `ks/dg_match2.json` (contraste), `kerastase_merged.json`.
 
+## ALTERNATIVAS LIMPIAS (alternativas.json) — contrato con la app (2026-10-07)
+Decisión de Mariana: la app enseña, por tipo de producto, los productos del catálogo que
+cumplen LAS TRES condiciones, con enlace de afiliada de Amazon. La lista la genera ESTE
+repo en `alternativas.json` (junto a `catalogo.json`, con versión propia); la app la lee en
+línea y no la calcula. Hasta que exista el archivo, la app enseña "Estamos preparando las
+primeras opciones".
+
+**Condiciones para entrar (las tres):**
+1. Cero detecciones con el detector de la app sobre la lista oficial del catálogo: ni
+   disruptores (INGREDIENTS) ni "otros riesgos" (matchOtrosRiesgos). Los "otros a tener en
+   cuenta" (matchOtros) no excluyen.
+2. En Amazon.es lo vende la TIENDA OFICIAL de la marca ("Vendido por <marca>" o tienda de
+   marca verificada). Terceros, fuera. Se guarda el enlace directo y el vendedor visto.
+3. Categoría Cuidado personal u Hogar. Alimentación todavía no.
+
+**Estructura (la app la lee tal cual; claves en minúsculas):**
+```json
+{ "version": "2026-10-08a",
+  "categorias": [
+    { "key": "cuidado-personal", "nombre": "Cuidado personal",
+      "tipos": [
+        { "key": "desodorante", "nombre": "Desodorantes",
+          "productos": [
+            { "nombre": "Fresh Natural 0% Aluminio roll-on", "marca": "Nivea", "formato": "roll-on 50 ml",
+              "barcode": "4005808…", "imagen": "https://…", "fechaLista": "25-09-2026",
+              "amazon": "https://www.amazon.es/dp/B0…", "vendedor": "Nivea" }
+          ] }
+      ] },
+    { "key": "hogar", "nombre": "Hogar", "tipos": [ … ] }
+  ] }
+```
+- **Claves de tipo** (la app clasifica el producto escaneado por su nombre con estas mismas
+  claves, para enlazar su ficha con la lista): `desodorante`, `limpiador-facial`,
+  `crema-facial`, `serum`, `protector-solar`, `champu`, `acondicionador`, `gel-ducha`,
+  `crema-corporal`, `pasta-dientes`, `higiene-intima`, `lubricante`, `base-maquillaje`,
+  `labial` (Cuidado personal); `detergente`, `suavizante`, `lavavajillas`, `multiusos`,
+  `ambientador` (Hogar). Un tipo nuevo necesita avisar para añadir su regla en la app.
+- `amazon` SIN etiqueta de afiliado: la pone la app. Sin `amazon` el producto no se enseña
+  con botón; mejor no incluirlo.
+- `fechaLista`: fecha de la versión del catálogo en que entró o se revisó esa lista.
+- `imagen`: la del catálogo si la hay; si no, se omite (la app pone iniciales).
+- Orden dentro de cada tipo: por marca y nombre. Sin rankings.
+- Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
+  entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
