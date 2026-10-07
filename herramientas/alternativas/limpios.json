@@ -1,5 +1,5 @@
 {
- "version": "2026-10-05-sisley",
+ "version": "2026-10-07-natulim",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -2474,6 +2474,79 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4260664930099"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Gel de ducha sin fragancia Clean&Calm (Kēr)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436617754388",
+    "8436617753015"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Oxi Clean potenciador de lavado",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617752025"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Oxi White polvo blanqueador",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617752049"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Ácido cítrico limpiador",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617752308"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Quitamanchas en seco Tierras de Sommières",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617752292"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Percarbonato de sodio (recarga)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617753442"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Cristales de soda (recarga)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617753459"
+   ]
+  },
+  {
+   "marcaKey": "natulim",
+   "marca": "Natulim",
+   "nombre": "Sal de acedera (recarga)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8436617753466"
    ]
   },
   {
