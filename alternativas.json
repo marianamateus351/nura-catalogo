@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07d",
+ "version": "2026-10-07e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -20,7 +20,8 @@
        "marca": "Niyok",
        "barcode": "4260664930099",
        "imagen": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg",
-       "fechaLista": "14-09-2026"
+       "fechaLista": "14-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08B3BWZYC"
       }
      ]
     },
@@ -269,7 +270,8 @@
        "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
        "marca": "Garnier",
        "barcode": "3600541358485",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00X9U0N5K"
       },
       {
        "nombre": "Desmaquillante de Ojos 2 en 1",
@@ -293,7 +295,8 @@
        "nombre": "Gel limpiador Black Rice Moisture 5.5 Soft Cleansing Gel sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221356",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08W2HG4WP"
       },
       {
        "nombre": "Gel limpiador Black Rice Triple AHA Gentle Cleansing Gel sin perfume",
@@ -405,7 +408,8 @@
        "nombre": "PALPEBRAL Démaquillant",
        "marca": "SVR",
        "barcode": "3662361001316",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B086QLH5FN"
       },
       {
        "nombre": "SEBIACLEAR Creme Lavante",
@@ -429,7 +433,8 @@
        "nombre": "Glucoside Foaming Cleanser 150 ml",
        "marca": "The Ordinary",
        "barcode": "0769915232042",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BYQ45N7W"
       },
       {
        "nombre": "Desmaquillante de ojos bifásico",
@@ -459,7 +464,8 @@
        "nombre": "Biology AC Cuidado matificante antiimperfecciones",
        "marca": "A-Derma",
        "barcode": "3282770388916",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BWLWGXQK"
       },
       {
        "nombre": "Biology AC Fluido antiimperfecciones antimarcas",
@@ -524,7 +530,8 @@
        "nombre": "Crema PDRN Hyaluronic Acid 100 Moisturizing Cream",
        "marca": "Anua",
        "barcode": "8809640738135",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DWFLY18Y"
       },
       {
        "nombre": "Loción Heartleaf 70 Daily Lotion",
@@ -672,7 +679,8 @@
        "nombre": "Ultra-Sensitive Crema Calmante para Piel Normal a Mixta",
        "marca": "Eucerin",
        "barcode": "4005800108044",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00OOSZ8EC"
       },
       {
        "nombre": "Ultra-Sensitive Crema Calmante para Piel Seca",
@@ -733,7 +741,8 @@
        "nombre": "Toleriane Dermallergo Noche",
        "marca": "La Roche-Posay",
        "barcode": "3337875800853",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09XJWJM44"
       },
       {
        "nombre": "Toleriane Sensitive Fluido",
@@ -807,7 +816,8 @@
        "nombre": "CICAVIT+ Crème HPPI",
        "marca": "SVR",
        "barcode": "3662361004645",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
       },
       {
        "nombre": "SENSIFINE Aqua-Gel",
@@ -957,7 +967,8 @@
        "nombre": "concentrado para rojeces instaladas",
        "marca": "Avène",
        "barcode": "3282770392920",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0D33VK9Z8"
       },
       {
        "nombre": "Sérum concentrado voluminizador",
@@ -1150,7 +1161,8 @@
        "nombre": "Toleriane Rosaliac AR Concentrado",
        "marca": "La Roche-Posay",
        "barcode": "3337875807043",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BXVFPV9B"
       },
       {
        "nombre": "Toleriane Ultra Dermallergo Serum",
@@ -1205,7 +1217,8 @@
        "nombre": "Ascorbyl Glucoside Solution 12% 30 ml",
        "marca": "The Ordinary",
        "barcode": "0769915195668",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BSS7LZWW"
       },
       {
        "nombre": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F 30 ml",
@@ -1253,7 +1266,8 @@
        "nombre": "Roséliane Sérum neutralizador de rojeces visibles",
        "marca": "Uriage",
        "barcode": "3661434023422",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DSCGWVLH"
       },
       {
        "nombre": "Liftactiv Collagen Specialist 16 Sérum",
@@ -1277,7 +1291,8 @@
        "nombre": "Minéral 89 Sérum Hidratante y Rellenador Diario",
        "marca": "Vichy",
        "barcode": "3337875543248",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B06XC5PQGL"
       }
      ]
     },
@@ -1603,7 +1618,8 @@
        "nombre": "Babies & Kids Sensitive Spray Solar SPF 50+",
        "marca": "Nivea",
        "barcode": "4006000236988",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DVT2T4RN"
       },
       {
        "nombre": "Kids Protección UV Diaria Rostro y Cuerpo SPF 50+",
@@ -1627,7 +1643,8 @@
        "nombre": "Sensitive Protección Inmediata Spray Solar SPF 50+",
        "marca": "Nivea",
        "barcode": "4005900908841",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09T3XGBP7"
       },
       {
        "nombre": "SENSIFINE AR Creme SPF50+",
@@ -1651,7 +1668,8 @@
        "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
        "marca": "SVR",
        "barcode": "3662361003198",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CYH4T6RM"
       },
       {
        "nombre": "Bariésun Stick mineral SPF50+",
@@ -1820,7 +1838,8 @@
        "nombre": "Acondicionador a la Centaurea BIO",
        "marca": "Klorane",
        "barcode": "3282770145120",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B094RKSVHX"
       },
       {
        "nombre": "Acondicionador al Mango",
@@ -1958,7 +1977,8 @@
        "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
        "marca": "Neutrogena",
        "barcode": "3574661785868",
-       "fechaLista": "10-09-2026"
+       "fechaLista": "10-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00GHNYPY6"
       },
       {
        "nombre": "After Sun Sensitive Gel Crema",
@@ -3841,7 +3861,8 @@
        "nombre": "Cicaplast Labios (Baume Lèvres)",
        "marca": "La Roche-Posay",
        "barcode": "30106659",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00O15LSGK"
       },
       {
        "nombre": "Color Sensational Perfilador de labios",
@@ -4021,7 +4042,8 @@
        "nombre": "CICAVIT+ Lèvres",
        "marca": "SVR",
        "barcode": "3662361001255",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08JGKZ34S"
       },
       {
        "nombre": "Squalane + Amino Acids Lip Balm 15 ml",
@@ -4084,7 +4106,8 @@
        "nombre": "Hyaluron Activ B3 cuidado de ojos triple corrección",
        "marca": "Avène",
        "barcode": "3282770394313",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BNM1J1VR"
       },
       {
        "nombre": "Tratamiento calmante para el contorno de los ojos",
@@ -9433,30 +9456,6 @@
      ]
     },
     {
-     "key": "lejia",
-     "nombre": "Lejías",
-     "productos": [
-      {
-       "nombre": "Lejía Cloro Max",
-       "marca": "Cloro Max",
-       "barcode": "8410931009058",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Lejía Neutrex",
-       "marca": "Neutrex",
-       "barcode": "8410436420921",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Lejía Neutrex Futura",
-       "marca": "Neutrex",
-       "barcode": "8410436420952",
-       "fechaLista": "03-10-2026"
-      }
-     ]
-    },
-    {
      "key": "desatascador",
      "nombre": "Desatascadores",
      "productos": [
@@ -9464,18 +9463,6 @@
        "nombre": "Desatascador potente HG",
        "marca": "HG",
        "barcode": "8711577194505",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Desatascador con lejía para baños Sanicentro Acción Turbo",
-       "marca": "Sanicentro",
-       "barcode": "8410931013673",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Desatascador con lejía para cocinas Sanicentro Acción Turbo",
-       "marca": "Sanicentro",
-       "barcode": "8410931013666",
        "fechaLista": "04-10-2026"
       }
      ]

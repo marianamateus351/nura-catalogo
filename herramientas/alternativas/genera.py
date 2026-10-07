@@ -26,8 +26,14 @@ def enlace_limpio(u):
     m = re.search(r'/(?:dp|gp/product)/([A-Z0-9]{10})', u or '')
     return f'https://www.amazon.es/dp/{m.group(1)}' if m else None
 def ddmmaaaa(iso): y, m, d = iso.split('-'); return f'{d}-{m}-{y}'
+# Fuera por decisión de Mariana (2026-10-07): la lejía (hipoclorito sódico) no se enseña como alternativa
+# limpia aunque el detector no la marque. Sale todo lo que la lleve en su lista: lejías y desatascadores con lejía.
+cat = json.load(open(f'{R}/catalogo.json'))
+INCI = {b: q.get('inci', '') for m in cat['marcas'] for q in m['productos'] for b in q.get('barcodes', [])}
+FUERA = re.compile(r'hypochlorite|hipoclorito', re.I)
 por = {}
 for p in limpios:
+    if any(FUERA.search(INCI.get(b, '')) for b in p['barcodes']): continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
     bc = p['barcodes'][0]

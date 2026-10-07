@@ -3910,6 +3910,11 @@ primeras opciones".
    su ficha. Salieron 6: sulfitos en 5 y alcoholes etoxilados en las pastillas de Natulim.
 2. Categoría Cuidado personal u Hogar. Alimentación todavía no.
 
+**Fuera por decisión de Mariana (2026-10-07): la lejía.** Nada que lleve hipoclorito sódico en su lista se enseña
+como alternativa limpia aunque el detector no lo marque: salen las 3 lejías (Neutrex ×2, Cloro Max) y los 2
+desatascadores con lejía de Sanicentro. Lo hace `genera.py` mirando la lista de `catalogo.json`. El desatascador de
+HG (sosa cáustica, sin lejía) sigue.
+
 **El enlace a Amazon NO es condición de entrada, es un extra.** Un producto entra por ser
 limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando hay enlace.
 
@@ -3960,7 +3965,8 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: **alternativas.json versión 2026-10-07d**, 1.524 productos de 66 marcas, 132 con enlace de Amazon
+### Estado 2026-10-07: **alternativas.json versión 2026-10-07e**, 1.519 productos, 155 con enlace de Amazon
+(2026-10-07e: fuera la lejía; +23 enlaces, entre ellos el desodorante de Niyok. El recuento por tipo de abajo es el de la 07d.)
 **Generador** (`herramientas/alternativas/`, se rehace cuando cambie el catálogo o el detector):
 ```
 python3 herramientas/alternativas/gen_products.py ../nura-firebase   # copia ESM del detector de la app
