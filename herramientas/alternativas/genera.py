@@ -1,7 +1,9 @@
 """Genera alternativas.json (contrato con la app, CURACION.md "ALTERNATIVAS LIMPIAS").
 Entran TODOS los productos de limpios.json con tipo (cero disruptores y cero "otros riesgos";
 Cuidado personal u Hogar). Amazon NO es condición de entrada.
-Los campos `amazon` y `vendedor` solo se ponen si amazon_verificados.json trae, para ese código,
+`amazon` sale de amazon_auto.json (ficha encontrada por Claude con el buscador, decisión de Mariana del
+2026-10-07) o, si alguien la revisó a mano, de amazon_verificados.json, que manda. Los campos `amazon` y
+`vendedor` de amazon_verificados.json se ponen si trae, para ese código,
 la FICHA concreta del producto (amazon.es/dp/<ASIN>, de la tienda de la marca; nunca una búsqueda)
 y la persona que la revisó marcó que la venden la marca, Amazon o una farmacia o vendedor de
 confianza ("fiable": true). Criterio de Mariana del 2026-10-07.
@@ -13,6 +15,9 @@ A = os.path.dirname(os.path.abspath(__file__)); R = os.path.abspath(os.path.join
 limpios = json.load(open(f'{A}/limpios.json'))['productos']
 fechas = json.load(open(f'{A}/fechas.json'))
 ver = json.load(open(f'{A}/amazon_verificados.json')) if os.path.exists(f'{A}/amazon_verificados.json') else {}
+# Fichas encontradas por Claude con el buscador (decisión de Mariana del 2026-10-07: enlaces automáticos,
+# sin revisión a mano). {código: {"url": "https://www.amazon.es/dp/<ASIN>", "titulo": "…"}}
+auto = json.load(open(f'{A}/amazon_auto.json')) if os.path.exists(f'{A}/amazon_auto.json') else {}
 fotos = set(os.listdir(f'{R}/fotos')) if os.path.isdir(f'{R}/fotos') else set()
 FOTO_URL = 'https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/'
 import re
@@ -36,6 +41,12 @@ for p in limpios:
             if v.get('formato'): e['formato'] = v['formato']
             e['amazon'] = enlace_limpio(v['amazon']); e['vendedor'] = v['vendedor']
             break
+    else:
+        for c in p['barcodes']:                  # si nadie la ha revisado, la ficha automática
+            a = auto.get(c) or {}
+            if enlace_limpio(a.get('url')):
+                e['barcode'] = c; e['amazon'] = enlace_limpio(a['url'])
+                break
     por.setdefault((p['categoria'], k), []).append(e)
 version = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
 out = {'version': version, 'categorias': []}
