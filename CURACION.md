@@ -4173,6 +4173,43 @@ porque ganan "Microplásticos"; nada inesperado:
 
 Solo la CC Cream de Caudalie tenía enlace de Amazon: quedan 227 enlaces.
 
+### Redken (redken.eu/es-es) — cerrada 2026-10-08 (versión 2026-10-08-redken): 42 productos, 62 códigos
+Siguiente de la cola (Mariana pidió "una marca más" el 2026-10-08). L'Oréal Professionnel, capilar de peluquería.
+- **Web:** `redken.es` redirige a `redken.eu/es-es`, sin protección anti-bot; `redken.com` está tras Cloudflare y no se
+  usa. El `sitemap.xml` español da 216 URL, de ellas 116 fichas (`/es-es/productos/<sección>/<gama>/<producto>`).
+  Descargadas en serie, con 1 s de pausa.
+- **Código:** el de la cabecera de la ficha (`product-description__headers--sku`, igual que todos los `product-id` de
+  las pestañas). Son UPC `884486…` (L'Oréal EE. UU., ya admitido en la regla 3 por essie: es el código de los
+  envases que se venden aquí y la web española lo publica) con un 0 delante, o EAN `3474…`. Uno es `8433726…`
+  (Quick Blowout), tal como lo da la web.
+- **¡Ojo con el JSON-LD!** El bloque `Product` de cada página es de **otro** producto (sale el Tratamiento intensivo
+  Acidic Bonding o la descripción del aceite de argán con el código de la All-In Mask). No se usa ni para el código
+  ni para la lista.
+- **Lista:** la pestaña INGREDIENTES (`tab-id="4"`, `data-ioplist`), quitando el aviso "Tenga en cuenta…/Las listas de
+  los ingredientes…", el texto de marketing que algunas fichas ponen delante (Moisture Restore), el código de
+  fórmula delante (`1218490RK33 - INGREDIENTS:`) y los códigos `(F.I.L. …)` y `(D…/…)` del final.
+  - Erratas de la web corregidas: "SODIUM MATTIFYING BENZOATE" → Sodium Benzoate (Powder Grip); "DILAURYL,
+    THIODIPROPIONATE" → Dilauryl Thiodipropionate; "PARFUM / FRAGRANCE LAURETH-7" → dos ingredientes (Anti-Snap).
+  - Pasadas a tipo título, como Kérastase ("Aqua/Water/Eau", "Silica Silylate [nano]").
+- **Tamaños con la misma lista, juntos** (300 ml, 500 ml y 1 L). La web da el **mismo código** a la versión de
+  1000 ml de salón y a la de tienda del champú y el acondicionador Acidic Grow: queda un código por producto.
+- **No entran:**
+  - las 11 fichas sin lista (Extreme Length, Extreme Mask y Strength Builder, Brews, Scalp Relief, Root Lifter,
+    Volume Boost, oxidante Pro-oxide 40 vol.);
+  - la coloración de salón: tintes (Chromatics, Color Gels, City Beats, Blonde Idol, Tono sobre tono), los
+    oxidantes y el Acidic Color Gloss "tratamiento gloss profesional", que lleva peróxido de hidrógeno;
+  - las páginas de gama de la sección "backbar", que no son fichas.
+- **Revisión FP/FN:**
+  - 41 de 42 con fragancia no divulgada. También salen fenoxietanol (29), propilenglicol (17), ácido salicílico
+    (13, todos con Salicylic Acid en la lista), etoxilados (12: laureth, trideceth, steareth), benzoato y salicilato
+    de bencilo, clorhexidina (6) y D5 (2).
+  - Sin falsos positivos ni negativos. El EDTA, el TEA y los colorantes CI se tratan igual que en el resto del catálogo.
+  - Limpio: el polvo texturizante **Powder Grip 03** (sílice, agua, glicerina, alcohol, VP/VA, conservantes suaves).
+- **Regresión:** 0 cambios en las 7.855 fichas anteriores.
+- **Alternativas 2026-10-08a:** entra la Powder Grip 03 en "Tratamientos capilares". Para eso, la regla de
+  base de maquillaje ya no coge "powder" cuando el nombre habla de pelo o es "texturizante"; la app usa la misma
+  regla (`exporta_js.py`).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4246,7 +4283,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Cien (Lidl) | API lidl.es / lidl.de | sí | solo lidl.de, y solo lo que vende online (4 solares) | OBF con criba de erratas por vocabulario + lidl.de (ver su apartado) |
 | Kérastase | — (Cloudflare interactivo en .es/.fr/.uk/.it) | sí, en la API de Douglas (`ean` por variante) | sí en la API de Douglas (`ingredients`, con artefactos del feed de L'Oréal), contrastada con incidecoder | ver su apartado |
 | Erborian | — (DataDome en todas las webs de la marca) | sí: **EAN en la URL** de farmaelglobo y farmacianautic (69 códigos) y en la API de Douglas | sí en farmacianautic (`INCI`) y Douglas, pero Nautic copia listas entre fichas: solo con incidecoder/Douglas idéntico | ver su apartado |
-| Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | **no** (SKU interno) | sí, lista completa en la FAQ de la ficha | código del escaneo; ver su apartado |
+| Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | sí desde 2026-10-07, `barcode` en `/products/<slug>.json` | sí, lista completa en la FAQ de la ficha | ver su apartado |
+| Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
 | Elmex | sí (`sitemap.xml`; 5 fichas ES, ~40 FR) | en `upc`/`data-ean` de algunas fichas FR; ninguna ES | sí, en `activeIngredients` por GraphQL (`/graphql/execute.json/astra/productpath;path=`), explicativa; el campo `ingredients` es un texto por defecto | ver su apartado |
 | Rexona | no (solo home); listado paginado por id de componente (25 fichas) | sí (en la URL y en `data-productvariants`) | sí en las 25, pero 3 con Lilial y 3 pares de aromas con lista repetida | vía Dove; contraste con etiqueta OBF y con rexona.com/pt; ver su apartado |
@@ -4315,4 +4353,4 @@ Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefou
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
 Kérastase cerrada con 59 códigos vía Douglas + incidecoder (ver su apartado).
-Siguientes de la cola: Redken y Cosmia (Alcampo).
+Cola: Redken cerrada el 2026-10-08 (42 productos, 62 códigos) y Cosmia ya estaba cerrada. Candidatas siguientes: Sensodyne y Elmex enteras (dentífricos, hoy 0 en Alternativas).

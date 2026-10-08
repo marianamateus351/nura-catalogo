@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07-natulim",
+ "version": "2026-10-08-redken",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14905,6 +14905,15 @@
     "3473311875020",
     "3473311875037",
     "3473311875044"
+   ]
+  },
+  {
+   "marcaKey": "redken",
+   "marca": "Redken",
+   "nombre": "Polvo texturizante Powder Grip 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3474637124274"
    ]
   }
  ]

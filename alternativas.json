@@ -1,5 +1,5 @@
 {
- "version": "2026-10-07h",
+ "version": "2026-10-08a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -5227,6 +5227,12 @@
        "marca": "Klorane",
        "barcode": "3282770141023",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Polvo texturizante Powder Grip 03",
+       "marca": "Redken",
+       "barcode": "3474637124274",
+       "fechaLista": "08-10-2026"
       }
      ]
     },
