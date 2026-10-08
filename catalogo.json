@@ -1,5 +1,5 @@
 {
- "version": "2026-10-08-redken",
+ "version": "2026-10-08-sensodyne",
  "marcas": [
   {
    "key": "larocheposay",
@@ -22078,6 +22078,33 @@
       "5054563107510"
      ],
      "inci": "Glycerin, PEG-8, Hydrated Silica, Pentasodium Triphosphate, Aroma, Sodium Lauryl Sulfate, Carbomer, Stannous Fluoride, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Diaria 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5054563103260"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Potassium Nitrate, Aroma, Xanthan Gum, Cocamidopropyl Betaine, Menthol, Sodium Methyl Cocoyl Taurate, Sodium Saccharin, Sodium Fluoride, Mentha Piperita Oil, Anethole, Sodium Hydroxide, Mentha Viridis Leaf Oil, Carvone, Limonene, Beta-Caryophyllene, CI 42090, CI 19140"
+    },
+    {
+     "nombre": "Pasta de dientes Blanqueante 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5054563101846"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Glycerin, Pentasodium Triphosphate, Potassium Nitrate, PEG-6, Alumina, Aroma, Sodium Methyl Cocoyl Taurate, Xanthan Gum, Cocamidopropyl Betaine, Menthol, Sodium Hydroxide, Sodium Saccharin, Sodium Fluoride, Carvone, Mentha Piperita Oil, Mentha Viridis Leaf Oil, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes Blanqueante Sensibilidad & Encías 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5054563109743"
+     ],
+     "inci": "Glycerin, PEG-8, Hydrated Silica, Pentasodium Triphosphate, Aroma, Sodium Lauryl Sulfate, Carbomer, Stannous Fluoride, Cocamidopropyl Betaine, Silica, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Limonene, Mentha Piperita Oil, Mentha Viridis Leaf Oil, Menthol, Methyl Salicylate, CI 42090"
     }
    ]
   },

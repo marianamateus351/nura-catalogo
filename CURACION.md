@@ -4210,6 +4210,44 @@ Siguiente de la cola (Mariana pidió "una marca más" el 2026-10-08). L'Oréal P
   base de maquillaje ya no coge "powder" cuando el nombre habla de pelo o es "texturizante"; la app usa la misma
   regla (`exporta_js.py`).
 
+### Sensodyne (sensodyne.com/es-es) — ampliada 2026-10-08 (versión 2026-10-08-sensodyne): 4 productos, 4 códigos
+Pedida en la cola ("Sensodyne y Elmex enteras", Mariana, 2026-10-08). Haleon.
+- **Web:** `sensodyne.com/es-es/sitemap.xml` (sin protección). 10 fichas con "Ingredientes": 9 pastas y el colutorio Cool
+  Mint. Los cepillos no son cosméticos. **La web no da códigos.**
+- **Códigos:** de la API de **Consum** (`tienda.consum.es/api/rest/V1.0/catalog/product?q=sensodyne`: EAN, nombre y
+  fotos) y de la de **Mercadona** (categoría 186, "Higiene bucal"), emparejados por nombre. Las fotos del envase
+  solo se usan para confirmar la identidad, nunca para transcribir.
+- **Entran:**
+  - **Protección Diaria** 5054563103260: Consum, y su foto del reverso es el envase ES/PT "Protección Diária".
+  - **Blanqueante** 5054563101846: Consum y Mercadona. El reverso del envase de Mercadona trae la misma lista que la
+    ficha "Blanqueante Superior" de la web y este código; envase ES/PT.
+  - **Blanqueante Sensibilidad & Encías** 5054563109743: Consum y Open Beauty Facts España. OBF tiene la lista
+    antigua, con Titanium Dioxide; manda la de la web.
+  - La **Sensibilidad & Encías** 5054563107510 ya estaba y su lista sigue igual que la de la web.
+- **Fuera:**
+  - **Clinical White:** en tienda hay dos variantes, "Anti-manchas" 5054563204134 y "Fortalecedor del esmalte"
+    5054563204387, y la web las junta en una sola ficha con una única lista; no se sabe de cuál es.
+  - **Colutorio Cool Mint:** el único código español, 8431890077230 de dosfarma, viene con una lista sin el mentol,
+    los aceites de menta ni el anetol de la oficial. Criterio de Durex: si no coincide, no entra.
+  - **Multi Protection Plus, MPP Blanqueante Avanzado, Limpieza Refrescante y Protección Encías:** tienen lista
+    oficial pero no hay código español en Consum, Mercadona, dosfarma ni OBF.
+  - **Repair & Protect, Anticaries + Sensibilidad, Clinical Limpieza Profunda y la línea de farmacia Expert Protect:**
+    están en las tiendas, pero la web española no publica su lista.
+- **Detector:** las tres nuevas dan solo "Aroma no divulgado", igual que la que ya estaba (todas las pastas llevan
+  Aroma). Sin falsos positivos ni negativos: el PEG-6/PEG-8 solo cuenta en Hogar y el CI 19140 solo en
+  Alimentación, como en el resto del catálogo.
+- **Regresión:** 0 cambios. **Alternativas:** ninguna entra; sigue sin haber pastas de dientes limpias.
+
+**Elmex enteras: NO se ha podido (2026-10-08).** elmex.es (y elmex.fr) responden "Access Denied" de Akamai a cualquier
+petición normal. La primera vez (2026-09-15) se pasó con `dvcurl.sh`, un curl que imita las cabeceras de Chrome
+para que Akamai no lo bloquee. **Eso es saltarse una protección anti-bot y no se debe hacer.** Elmex se queda con
+sus 2 productos hasta que haya una vía limpia: etiquetas de las usuarias, u OBF con dos fuentes iguales. Consum y
+Mercadona no venden elmex.
+
+**Ojo (anti-bot):** `dvcurl.sh` aparece como método en los apartados de Dove, Sanex, Colgate, Elmex y otros. Igual que
+el `--ignore-certificate-errors` del navegador headless, **no se usa más**. Si una web corta una petición normal (403
+de Akamai, desafío de Cloudflare o DataDome), se busca otra fuente o la marca se queda como está.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4299,7 +4337,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Colgate | sí (`sitemap.xml`, 50 fichas; `dvcurl.sh` en serie) | **no** (`itemId` interno) | sí, en `<meta name="ingredientList">` (28 fichas, con alérgenos del aroma) | códigos de OBF solo por lista idéntica (sin alérgenos); ver su apartado |
 | Essie | sí (`sitemap.xml`, 253 fichas, una por tono) | sí, `product-id` del acordeón de ingredientes (EAN-8 `30…`, `3600…` y UPC `0…`) | sí, en el acordeón (141 fichas; 10 traducidas; misma lista por gama) | plantilla antigua de L'Oréal, sin JSON-LD; ver su apartado |
 | Maybelline | sí (758 URL, solo 113 fichas) + enlaces de categoría | sí (`gtin13` + `data-variant-ean` por tono en la misma ficha) | sí, una lista por ficha con "puede contener" | scripts de L'Oréal Paris; ver su apartado |
-| Sensodyne | no se ha rastreado: un producto pedido por una usuaria | código UK `5054563…` | sí, en sensodyne.com/es-es (lista oficial) | marca con gama: candidata a curar entera |
+| Sensodyne | sí (`sensodyne.com/es-es/sitemap.xml`, 10 fichas con lista) | **no**: Consum y Mercadona (API), por nombre y foto del envase | sí, "Ingredientes" en la ficha | ver su apartado (2026-10-08) |
 | Instituto Español | **no**: Cloudflare interactivo (curl y Playwright) | — | — | creada vacía; ver PEDIDOS POR LAS USUARIAS |
 | Sol de Janeiro | no se ha rastreado: un solo producto pedido por una usuaria | UPC de EE. UU. `0810912…` | sí, en soldejaneiro.com (lista vigente) | ver PEDIDOS POR LAS USUARIAS |
 | Freshly Cosmetics | sí (`sitemap_products_ES.xml`, 118 fichas) | **no** | sí, botones `more-information-ingredients-pdp` (64 fichas) | EAN por Douglas, emparejado por lista idéntica; ver su apartado |
@@ -4353,4 +4391,4 @@ Pedidos del 16-09: 4 de 6 curados (Sanex y Fairy como huecos; Natulim y Carrefou
 nuevas); el Neutrogena francés descatalogado, fuera; Vicks a la espera de decisión.
 Portal REACH de AC Marca: Mariana ha pedido la cuenta (15-09); cuando llegue, Sanytol entera.
 Kérastase cerrada con 59 códigos vía Douglas + incidecoder (ver su apartado).
-Cola: Redken cerrada el 2026-10-08 (42 productos, 62 códigos) y Cosmia ya estaba cerrada. Candidatas siguientes: Sensodyne y Elmex enteras (dentífricos, hoy 0 en Alternativas).
+Cola: Redken cerrada el 2026-10-08 (42 productos, 62 códigos) y Cosmia ya estaba cerrada. Sensodyne ampliada el 2026-10-08 (4 productos); Elmex no se puede (Akamai, ver su nota).
