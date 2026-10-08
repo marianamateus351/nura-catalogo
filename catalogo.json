@@ -1,5 +1,5 @@
 {
- "version": "2026-10-08-sensodyne",
+ "version": "2026-10-08-inkey",
  "marcas": [
   {
    "key": "larocheposay",
@@ -75660,6 +75660,301 @@
       "3474636930579"
      ],
      "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Lauryl, Glucoside, Cetyl Alcohol, Glycol Sterate, Cocamidoprpoyl Betaine, Sodium Chloride, PPG-5-Ceteth-20, Parfum/Fragrance, Sodium Benzoate, Pentasoidum Pentetate, Limonene, Citric Acid, Salicylic Acid, Steric Acid, Saccharum Officinarum Extract/Sugar Cane Extract, Aminomethyl Propanol, Hexyl Cinnamal, Hydropyltrimo-Num Hydrolyzed Wheat Protein, Linalool, Butylphenyl Methylropional, Citrus Medica Limonum Peel Extract/Lemon Peel Extract, Pyrus Sinesis Exrtact/Camella Sinesis Leaf Extract, Sodium Hydroxide"
+    }
+   ]
+  },
+  {
+   "key": "theinkeylist",
+   "nombre": "The INKEY List",
+   "productos": [
+    {
+     "nombre": "Sérum 15% Vitamin C + EGF",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821903"
+     ],
+     "inci": "Aqua (Water/Eau), Ascorbyl Glucoside, Sodium Hydroxide, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Benzyl Alcohol, Butylene Glycol, Xanthan Gum, Ethylhexylglycerin, Sodium Metabisulfite, Dehydroacetic Acid, Phytic Acid, Oligopeptide-1"
+    },
+    {
+     "nombre": "Sérum exfoliante Beta Hydroxy Acid (BHA)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821149"
+     ],
+     "inci": "Water (Aqua / Eau), Propanediol, Betaine, Salicylic Acid, Sodium Hyaluronate, Zinc PCA, Phenoxyethanol, Hydroxyethylcellulose, Maltodextrin, Sodium Hydroxide, Ethylhexylglycerin, Biosaccharide Gum-1, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Crema hidratante Bio-Active Ceramide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879825574"
+     ],
+     "inci": "Water (Aqua/Eau), Glycerin, Butyrospermum Parkii (Shea) Butter, C12-15 Alkyl Benzoate, Propanediol, Polysilicone-11, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Pentaerythrityl Tetraisostearate, Cetearyl Olivate, Sorbitan Olivate, Cetyl Alcohol, Phenoxyethanol, Ceramide NP, Polyacrylate-13, Hydrogenated Polyisobutene, Ethylhexylglycerin, Polyglyceryl-10 Laurate, Ethylhexyl Palmitate, Laureth-12, Sorbitan Isostearate, HDI/Trimethylol Hexyllactone Crosspolymer, Polymethylsilsesquioxane, Citric Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Crema hidratante antiimperfecciones Blemish Clearing con 2% NovoRetin",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879825116"
+     ],
+     "inci": "Aqua (Water), Glycerin, Octyldodecanol, Caprylic/Capric Triglyceride, Sodium Ascorbyl Phosphate, Sulfur, Arachidyl Alcohol, Pentaerythrityl Distearate, Squalane, Glyceryl Stearate SE, Citronellyl Methylcrotonate, Behenyl Alcohol, Acacia Senegal Gum, Arachidyl Glucoside, Phenoxyethanol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Panthenol, Xanthan Gum, Benzyl Alcohol, Citric Acid, Retinol, Sodium Hyaluronate, Ethylhexylglycerin, Pentylene Glycol, Sodium Metabisulfite, Pistacia Lentiscus (Mastic) Gum, Dehydroacetic Acid, Lecithin, Glucose, Tocopherol, Glyceryl Caprylate"
+    },
+    {
+     "nombre": "Contorno de ojos Brighten-i",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821743"
+     ],
+     "inci": "Water (Aqua / Eau), Dimethicone, Coco-Caprylate/Caprate, Glycerin, Caprylic/Capric Triglyceride, Glyceryl Stearate, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Punica Granatum (Pomegranate) Seed Oil, Ethylhexyl Palmitate, Mica, Phenoxyethanol, Cetearyl Alcohol, Sodium Stearoyl Lactylate, Benzyl Alcohol, Polysilicone-11, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Gluconate, Ethylhexylglycerin, Silica, Dehydroacetic Acid, Diglucosyl Gallic Acid, Sodium Hydroxide, Trihydroxystearin, Tin Oxide, Sodium Hyaluronate, Glucomannan, CI 77891 (Titanium Dioxide)"
+    },
+    {
+     "nombre": "Contorno de ojos Caffeine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820807"
+     ],
+     "inci": "Water (Aqua / Eau), Glycerin, Dicaprylyl Carbonate, Propanediol, Polyglyceryl-6 Distearate, Cetyl Alcohol, Glyceryl Behenate, Phenoxyethanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Jojoba Esters, Albizia Julibrissin Bark Extract, Squalane, Caffeine, Polyglyceryl-3 Beeswax, Phospholipids, Ethylhexylglycerin, Xanthan Gum, Glycine Soja (Soybean) Oil, Polysorbate 60, Sodium Phytate, Glycolipids, Sorbitan Isostearate, Butylene Glycol, Citric Acid, Glycine Soja (Soybean) Sterols, Leuconostoc/Radish Root Ferment Filtrate, Hyaluronic Acid, Sodium Benzoate, Tocopherol, Carbomer, Darutoside, Sodium Lactate, Polysorbate 20, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1"
+    },
+    {
+     "nombre": "Tratamiento para el cuero cabelludo Caffeine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820395"
+     ],
+     "inci": "Water (Aqua /Eau), Betaine, Caffeine, Panthenol, Phenoxyethanol, Glycerin, Xanthan Gum, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate, Lactic Acid, Sodium Metabisulfite, Glycine, Larix Europaea Wood Extract, Camellia Sinensis (Tea) Extract, Zinc Chloride"
+    },
+    {
+     "nombre": "Sérum 20% Niacinamide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879824089"
+     ],
+     "inci": "Aqua (Water), Niacinamide, Butylene Glycol, Squalane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Phenoxyethanol, Benzyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Zinc PCA, Polysorbate 60, Ethylhexylglycerin, Dehydroacetic Acid, Sorbitan Isostearate, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Limpiador facial Fulvic Acid 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060422299319"
+     ],
+     "inci": "Aqua (Water), Coco-Glucoside, Glycerin, Butylene Glycol, Xanthan Gum, Phenoxyethanol, Benzyl Alcohol, Aloe Barbadensis Leaf Juice, Caprylic/Capric Triglyceride, Peat, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Cocoamphoacetate, Helianthus Annuus (Sunflower) Seed Oil, Lauryl Glucoside, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Dehydroacetic Acid, Sodium Cocoyl Glutamate, Sodium Lauryl Glucose Carboxylate, Trisodium Ethylenediamine Disuccinate, Terminalia Ferdinandiana Fruit Extract, Potassium Sorbate"
+    },
+    {
+     "nombre": "Stick exfoliante corporal Glycolic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879826410"
+     ],
+     "inci": "Octyldodecanol, Coco-Caprylate/Caprate, Butyrospermum Parkii (Shea) Butter, Helianthus Annuus (Sunflower) Seed Wax, Glycolic Acid, Ozokerite, Cetearyl Alcohol, Water (Aqua/Eau), PEG-100 Stearate, Glyceryl Stearate, Simmondsia Chinensis (Jojoba) Seed Oil, Salicylic Acid, Cocamidopropyl Dimethylamine, Ascorbyl Palmitate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil"
+    },
+    {
+     "nombre": "Exfoliante para el cuero cabelludo Glycolic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820326"
+     ],
+     "inci": "Water (Aqua/Eau), Glycolic Acid, Propanediol, Hydrogenated Castor Oil, PEG-40 Hydrogenated Castor Oil, Betaine, Glycerin, Sodium Hydroxide, Polyquaternium-10, Phenoxyethanol, Benzyl Alcohol, Alpha-Glucan Oligosaccharide, Citronellyl Methylcrotonate, Panthenol, Ethylhexylglycerin, Dehydroacetic Acid, Mannitol, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Tetraselmis Suecica Extract, Lactic Acid, Potassium Benzoate"
+    },
+    {
+     "nombre": "Tónico exfoliante Glycolic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060422297827"
+     ],
+     "inci": "Aqua (Water/ Eau), Glycolic Acid, Propanediol, Hamamelis Virginiana (Witch Hazel) Water, Sodium Hydroxide, Butylene Glycol, Phenoxyethanol, Alcohol, PPG-26-Buteth-26, Betaine, PEG-40 Hydrogenated Castor Oil, Boerhavia Diffusa Root Extract, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Sérum Hyaluronic Acid (30 ml y 100 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820548",
+      "5060879824829"
+     ],
+     "inci": "Water (Aqua/Eau), Propanediol, Sodium Hyaluronate, Glycerin, Butylene Glycol, Phenoxyethanol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Leuconostoc/Radish Root Ferment Filtrate, Hyaluronic Acid, Carbomer, Sodium Lactate, Polysorbate 20, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1"
+    },
+    {
+     "nombre": "Parches para granos Hydrocolloid Invisible Pimple Patches",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879827301"
+     ],
+     "inci": "Styrene/Isoprene Copolymer, Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Polyisobutene, Salicylic Acid, Succinic Acid, Ectoin"
+    },
+    {
+     "nombre": "Sérum 10% Niacinamide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821484"
+     ],
+     "inci": "Water (Aqua / Eau), Niacinamide, Glycerin, Propanediol, Butylene Glycol, Phenoxyethanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydroxyethylcellulose, Phospholipids, Squalane, Xanthan Gum, Glycine Soja (Soybean) Oil, Allantoin, Sodium Phytate, Polysorbate 60, Panthenol, Glycolipids, Leuconostoc/Radish Root Ferment Filtrate, Sorbitan Isostearate, Glycine Soja (Soybean) Sterols, Citric Acid, Hyaluronic Acid, Disodium Phosphate, Sodium Phosphate"
+    },
+    {
+     "nombre": "Crema hidratante Omega Water Cream 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879823204"
+     ],
+     "inci": "Water (Aqua / Eau), Dicaprylyl Carbonate, Glycerin, Niacinamide, Propanediol, Betaine, Polyglyceryl-4 Isostearate, Coco-Caprylate/Caprate, Magnesium Sulfate, Glycosphingolipids, Glycolipids, Sodium Benzoate, Disteardimonium Hectorite, Oleic Acid, Potassium Sorbate, Citric Acid, Polyglycerin-3"
+    },
+    {
+     "nombre": "Crema hidratante Peptide Moisturizer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879822061"
+     ],
+     "inci": "Aqua (Water/Eau), Caprylic/Capric Triglyceride, Glycerin, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Glyceryl Stearate SE, Betaine, Butylene Glycol, Phenoxyethanol, Benzyl Alcohol, Carbomer, Butyrospermum Parkii (Shea) Butter, Sodium Stearoyl Glutamate, Sodium Hydroxide, Ethylhexyl-glycerin, Sodium Gluconate, Tocopheryl Acetate, Dehydroacetic Acid, Hydrogenated Lecithin, Phenethyl Alcohol, Acetyl Hexapeptide-37, Maltodextrin, Pentapeptide-48"
+    },
+    {
+     "nombre": "Crema corporal PHA Body Water Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879826489"
+     ],
+     "inci": "Water (Aqua/Eau), C15-19 Alkane, Gluconolactone, Polyacrylate Crosspolymer-6, Phenoxyethanol, Glycerol Stearate, Candelilla/Jojoba/Rich Bran Polyglyceryl-3 Esters, Cetearyl Alcohol, Sodium Stearoyl Lactylate, Benzyl Alcohol, Sodium Hydroxide, Ethylhexylglycerin, Dehydroacetic Acid"
+    },
+    {
+     "nombre": "Tónico exfoliante PHA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060422297988"
+     ],
+     "inci": "Water (Aqua / Eau), Propanediol, Gluconolactone, Niacinamide, Pentylene Glycol, Glycerin, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Ppg-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexylglycerin, Citric Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Sérum 10% Azelaic Acid para rojeces",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879824119"
+     ],
+     "inci": "Aqua (Water), Azelaic Acid, Propanediol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Acacia Senegal Gum, Xanthan Gum, Allantoin, Glycerin, Ethylhexylglycerin, Polysorbate 60, Sorbitan Isostearate, Maltodextrin, Sodium Hydroxide, Hydrolyzed Gardenia Florida Extract, Gardenia Florida Fruit Extract, Polylysine"
+    },
+    {
+     "nombre": "Contorno de ojos Retinol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821828"
+     ],
+     "inci": "Water (Aqua / Eau), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Pentaerythrityl Distearate, Shea Butter Ethyl Esters, Cetearyl Olivate, Phenoxyethanol, Benzyl Alcohol, Sorbitan Olivate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Copernicia Cerifera Cera, Propanediol, Glycogen, Sodium Gluconate, Retinol, Polysorbate 20, Ethylhexylglycerin, Dehydroacetic Acid, Citric Acid, Helianthus Annuus Seed Oil, 1,2-Hexanediol, Caprylyl Glycol, Disodium Cocoamphodiacetate, Tocopherol, Xanthan Gum, Ethyl Ferulate, Humulus Lupulus Extract"
+    },
+    {
+     "nombre": "Sérum Retinol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820708"
+     ],
+     "inci": "Water (Aqua / Eau), Glycerin, Butylene Glycol, Propanediol, Dicaprylyl Carbonate, Retinyl Acetate, Dimethicone, Phenoxyethanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylyl Glycol, Phospholipids, Squalane, Glycine Soja (Soybean) Oil, Carbomer, Polysorbate 60, Tocopheryl Acetate, Glycolipids, Sodium Hydroxide, Sodium Phytate, Sorbitan Isostearate, Glycine Soja (Soybean) Sterols, Tetrahexyldecyl Ascorbate, Leuconostoc/Radish Root Ferment Filtrate, Hyaluronic Acid, Sodium Lactate, Tocopherol, Polysorbate 20, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1"
+    },
+    {
+     "nombre": "Tratamiento exfoliante para el cuero cabelludo Salicylic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820364"
+     ],
+     "inci": "Water (Aqua /Eau), Propanediol, Salicylic Acid, Betaine, Panthenol, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Polyquaternium-37, Hexylene Glycol, Capryloyl Glycine, Citronellyl Methylcrotonate, Sodium Hydroxide, Ethylhexylglycerin, Xylitylglucoside, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Tratamiento anti-granos Succinic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060422299210"
+     ],
+     "inci": "Water (Aqua/Eau), Caprylic/Capric Triglyceride, Glyceryl Stearate SE, Stearic Acid, Cetearyl Alcohol, Colloidal Sulfur, Glycerin, Succinic Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Salicylic Acid, Phenoxyethanol, Squalane, Benzyl Alcohol, Sodium Hyaluronate, Polysorbate 60, Ethylhexylglycerin, Sodium Hydroxide, Dehydroacetic Acid, Malachite Extract, Sorbitan Isostearate, Trisodium Ethylenediamine Disuccinate, CI 75810 (Chlorophyllin-Copper Complex)"
+    },
+    {
+     "nombre": "Sérum Tranexamic Acid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821583"
+     ],
+     "inci": "Aqua (Water/ Eau), Butylene Glycol, Glycerin, Ascorbyl Glucoside, Tranexamic Acid, Euterpe Oleracea Fruit Extract, 1-Methylhydanto- in-2-Imide, Sodium Acrylates Copolymer, Phenoxyethanol, Carbomer, Sodium Hydroxide, Cetearyl Olivate, Benzyl Alcohol, Sorbitan Olivate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Lecithin, Squalane, Ethylhexylglycerin, Sodium Gluconate, Polysorbate 60, Dehydroacetic Acid, Lactobacillus Ferment, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879826755"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Hydroxystearic/Linolenic/Oleic Polyglycerides, Glyceryl Rosinate, Theobroma Grandiflorum Seed Butter, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Candelilla Cera, Mangifera Indica (Mango) Seed Butter, Orbignya Oleifera (Babassu) Seed Oil, Squalane, Cetearyl Ethylhexanoate, Hydrogenated Olive Oil, Salvia Hispanica (Chia) Seed Oil, Caprylic/Capric Triglyceride, Glyceryl Behenate, Olea Europaea (Olive) Oil Unsaponifiables, Tribehenin, Mica, Sorbitan Isostearate, Tocopherol, Portulaca Pilosa Extract, Trihydroxystearin, Helianthus Annuus (Sunflower) Seed Oil, Sucrose Cocoate, Brassica Alba Sprout Extract, Sodium Hyaluronate, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-38, Glucomannan, CI 77491 (Iron Oxides)"
+    },
+    {
+     "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Mocha Brown",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879826724"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Hydroxystearic/Linolenic/Oleic Polyglycerides, Glyceryl Rosinate, Theobroma Grandiflorum Seed Butter, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Candelilla Cera, Mangifera Indica (Mango) Seed Butter, Orbignya Oleifera (Babassu) Seed Oil, Squalane, Cetearyl Ethylhexanoate, Hydrogenated Olive Oil, Salvia Hispanica (Chia) Seed Oil, Caprylic/Capric Triglyceride, Glyceryl Behenate, Olea Europaea (Olive) Oil Unsaponifiables, Tribehenin, Synthetic Fluorphlogopite, Sorbitan Isostearate, Tocopherol, Portulaca Pilosa Extract, Trihydroxystearin, Helianthus Annuus (Sunflower) Seed Oil, Isononyl Isononanoate, Sucrose Cocoate, Brassica Alba Sprout Extract, Tin Oxide, Sodium Hyaluronate, Palmitoyl Tripeptide-1, Isopropyl Myristate, Palmitoyl Tripeptide-38, Talc, Isopropyl Titanium Triisostearate, Stearalkonium Hectorite, Glucomannan, Polyhydroxystearic Acid, Propylene Carbonate, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 42090 (Blue 1), CI 15850 (Red 7), CI 77499 (Iron Oxides)"
+    },
+    {
+     "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Pink",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879826762"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Hydroxystearic/Linolenic/Oleic Polyglycerides, Glyceryl Rosinate, Theobroma Grandiflorum Seed Butter, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Candelilla Cera, Mangifera Indica (Mango) Seed Butter, Orbignya Oleifera (Babassu) Seed Oil, Squalane, Cetearyl Ethylhexanoate, Hydrogenated Olive Oil, Salvia Hispanica (Chia) Seed Oil, Caprylic/Capric Triglyceride, Glyceryl Behenate, Olea Europaea (Olive) Oil Unsaponifiables, Tribehenin, Sorbitan Isostearate, Isononyl Isononanoate, Tocopherol, Portulaca Pilosa Extract, Trihydroxystearin, Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Myristate, Sucrose Cocoate, Brassica Alba Sprout Extract, Isopropyl Titanium Triisostearate, Sodium Hyaluronate, Palmitoyl Tripeptide-1, Polyhydroxystearic Acid, Stearalkonium Hectorite, Palmitoyl Tripeptide-38, Propylene Carbonate, Glucomannan, CI 45410 (Red 28)"
+    },
+    {
+     "nombre": "Bálsamo labial Tripeptide Plumping Lip Balm (transparente)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879825772"
+     ],
+     "inci": "Ricinus Communis (Castor) Seed Oil, Hydroxystearic/Linolenic/Oleic Polyglycerides, Glyceryl Rosinate, Theobroma Grandiflorum (Cupuaçu) Seed Butter, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Candelilla Cera, Mangifera Indica (Mango) Seed Butter, Orbignya Oleifera (Babassu) Seed Oil, Squalane, Cetearyl Ethylhexanoate, Hydrogenated Olive Oil, Salvia Hispanica (Chia) Seed Oil, Caprylic/Capric Triglyceride, Glyceryl Behenate, Olea Europaea (Olive) Oil Unsaponifiables, Tribehenin, Sorbitan Isostearate, Tocopherol, Portulaca Pilosa Extract, Trihydroxystearin, Helianthus Annuus (Sunflower) Seed Oil, Sucrose Cocoate, Brassica Alba Sprout Extract, Sodium Hyaluronate, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-38, Glucomannan"
+    },
+    {
+     "nombre": "Crema hidratante Vitamin B, C and E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879821989"
+     ],
+     "inci": "Water (Aqua/Eau), Glycerin, Glyceryl Stearate SE, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cocos Nucifera (Coconut) Oil, Stearic Acid, Phenoxyethanol, Benzyl Alcohol, Carbomer, Sodium Hydroxide, Niacinamide, Panthenol, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Tocopheryl Acetate, Ethylhexylglycerin, Dehydroacetic Acid, Lecithin, Trisodium Ethylenediamine Disuccinate, Ascorbyl Palmitate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil"
+    },
+    {
+     "nombre": "Sérum 30% Vitamin C",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879820760"
+     ],
+     "inci": "Dimethicone, Ascorbic Acid, Polysilicone-11, PEG-10 Dimethicone"
+    },
+    {
+     "nombre": "Protector solar Dewy Sunscreen SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060879825284"
+     ],
+     "inci": "Water (Aqua / Eau), Octocrylene, Glycerin, Ethylhexyl Salicylate, Coco-Caprylate/Caprate, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Triheptanoin, Saccharomyces Ferment, Cetearyl Alcohol, Glyceryl Stearate SE, Tromethamine, Glyceryl Caprylate, Propanediol, C9-12 Alkane, Dilinoleic Acid/Butanediol Copolymer, Sodium Stearoyl Glutamate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone, Squalane, Hectorite, Lauroyl Lysine, Hydroxyethylcellulose, Caprylhydroxamic Acid, Dimethiconol, Polysorbate 60, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oryza Sativa (Purple Rice) Hull Extract, Castor Oil/IPDI Copolymer, Phenoxyethanol, Polyglutamic Acid, Sorbitan Isostearate, Camellia Sinensis (Purple Tea) Leaf Extract, Ipomoea Batatas (Purple Sweet Potato) Root Extract, Hydroxyacetophenone, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol, Lactobacillus Ferment Lysate, Saccharomyces Lysate"
     }
    ]
   }
