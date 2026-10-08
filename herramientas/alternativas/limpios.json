@@ -1,5 +1,5 @@
 {
- "version": "2026-10-08-sensodyne",
+ "version": "2026-10-08-inkey",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14914,6 +14914,60 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3474637124274"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Crema hidratante Omega Water Cream 50 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060879823204"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Tónico exfoliante PHA",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060422297988"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060879826755"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Pink",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060879826762"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Bálsamo labial Tripeptide Plumping Lip Balm (transparente)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060879825772"
+   ]
+  },
+  {
+   "marcaKey": "theinkeylist",
+   "marca": "The INKEY List",
+   "nombre": "Sérum 30% Vitamin C",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060879820760"
    ]
   }
  ]

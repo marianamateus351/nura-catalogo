@@ -4248,6 +4248,38 @@ Mercadona no venden elmex.
 el `--ignore-certificate-errors` del navegador headless, **no se usa más**. Si una web corta una petición normal (403
 de Akamai, desafío de Cloudflare o DataDome), se busca otra fuente o la marca se queda como está.
 
+### The INKEY List (eu.theinkeylist.com) — cerrada 2026-10-08 (versión 2026-10-08-inkey): 32 productos, 33 códigos
+Marca elegida por Claude cuando se acabó la cola ("siguiente marca", Mariana, 2026-10-08), para sumar productos sin
+perfume a Alternativas. Se vende en España en Sephora, Primor y Druni.
+- **Antes, Byly (desodorantes):** se miró y **no entra**. byly.com (WooCommerce, 9 desodorantes) no publica la lista
+  de ingredientes ni en la ficha ni en su API. byly.es tiene un certificado que no es suyo y no se usa.
+- **Tienda:** Shopify. `products.json` (129 entradas, de las que 58 son productos sueltos y el resto packs, dúos,
+  regalos y muestras) y `/products/<handle>.js` para el código (`barcode` por variante).
+- **Códigos: los del envase europeo.** Como en Medik8, la tienda británica y la estadounidense dan un código y la
+  europea otro: el Hyaluronic Acid Serum 30 ml es 5060879820524 en uk./www. y **5060879820548** en eu. (SKU `…CE` frente
+  a `…CM`). Entran solo los de eu.theinkeylist.com, los de los envases que se venden aquí.
+- **Lista:** el acordeón "Ingredients" de la ficha europea, después de las descripciones de los activos y antes de
+  las FAQs. Se coge el párrafo con forma de lista (muchas comas y ingredientes cortos) y sus continuaciones.
+  - El Succinic Acid Treatment viene partido en tres párrafos y se junta.
+  - Al Blemish Clearing se le quita el título "Developed with Dermatologists", que la página pega detrás.
+  - Erratas de la web corregidas: "Ocytyldodecanol" → Octyldodecanol (Body Stick); "Trisodium, Ethylenediamine
+    Disuccinate" → sin la coma (Glycolic Acid Toner); "Peg-10" → PEG-10.
+- **Tamaños con la misma lista, juntos:** Hyaluronic Acid Serum de 30 ml y de 100 ml.
+- **No entran:**
+  - productos con lista pero **sin código europeo** en la tienda: Retinal 0.2 %, Starter Retinol, Polyglutamic
+    Acid, Ectoin, Exosome, Ceramide Eye Cream y Neck Stick, 360° Clearing Serum, Milk Cleanser, Oat Cleansing Balm,
+    Hydro-surge Mist, Hyaluronic 60 ml, Omega 100 ml y el Salicylic Cleanser mini;
+  - packs, dúos, regalos, muestras y accesorios.
+- **Revisión FP/FN:** fenoxietanol (22), ácido salicílico (5), sulfitos (3, todos con Sodium Metabisulfite), retinol y
+  retinil (3), talco (1 bálsamo de color) y etoxilados (1, laureth). Todos están de verdad en la lista. El octocrileno
+  y los filtros del Dewy Sunscreen saltan como los de cualquier solar. Sin falsos positivos ni negativos.
+- **Limpios (cero avisos):** la crema Omega Water Cream 50 ml, el tónico PHA, el sérum 30 % Vitamin C (dimeticona,
+  ácido ascórbico, siliconas) y tres bálsamos labiales Tripeptide Plumping: el transparente y los de color Berry y
+  Pink. El Mocha Brown lleva talco.
+- **Regresión:** 0 cambios en las 7.900 fichas anteriores.
+- **Alternativas 2026-10-08c:** entran los 6 limpios (1.514 → 1.520): Omega Water Cream (cremas faciales), 30 % Vitamin C
+  (sérums), tónico PHA (exfoliantes) y los tres bálsamos (labiales).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4322,6 +4354,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Kérastase | — (Cloudflare interactivo en .es/.fr/.uk/.it) | sí, en la API de Douglas (`ean` por variante) | sí en la API de Douglas (`ingredients`, con artefactos del feed de L'Oréal), contrastada con incidecoder | ver su apartado |
 | Erborian | — (DataDome en todas las webs de la marca) | sí: **EAN en la URL** de farmaelglobo y farmacianautic (69 códigos) y en la API de Douglas | sí en farmacianautic (`INCI`) y Douglas, pero Nautic copia listas entre fichas: solo con incidecoder/Douglas idéntico | ver su apartado |
 | Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | sí desde 2026-10-07, `barcode` en `/products/<slug>.json` | sí, lista completa en la FAQ de la ficha | ver su apartado |
+| The INKEY List | Shopify (`eu.theinkeylist.com/products.json`) | sí, `barcode` en `.js` (**solo la tienda eu.**: el código UE es otro que el británico) | sí, acordeón "Ingredients" de la ficha | ver su apartado |
+| Byly | WooCommerce (`/wp-json/wc/store/v1/products`, 9 desodorantes) | no | **no** | no entra (sin INCI) |
 | Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
 | Elmex | sí (`sitemap.xml`; 5 fichas ES, ~40 FR) | en `upc`/`data-ean` de algunas fichas FR; ninguna ES | sí, en `activeIngredients` por GraphQL (`/graphql/execute.json/astra/productpath;path=`), explicativa; el campo `ingredients` es un texto por defecto | ver su apartado |

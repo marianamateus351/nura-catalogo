@@ -1,5 +1,5 @@
 {
- "version": "2026-10-08b",
+ "version": "2026-10-08c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -882,6 +882,12 @@
        "amazon": "https://www.amazon.es/dp/B096L1DPP7"
       },
       {
+       "nombre": "Crema hidratante Omega Water Cream 50 ml",
+       "marca": "The INKEY List",
+       "barcode": "5060879823204",
+       "fechaLista": "08-10-2026"
+      },
+      {
        "nombre": "Cica Daily Crema reparadora concentrada",
        "marca": "Uriage",
        "barcode": "3661434011900",
@@ -1243,6 +1249,12 @@
        "marca": "SVR",
        "barcode": "3662361001224",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Sérum 30% Vitamin C",
+       "marca": "The INKEY List",
+       "barcode": "5060879820760",
+       "fechaLista": "08-10-2026"
       },
       {
        "nombre": "100% Organic Cold Pressed Moroccan Argan Oil 30 ml",
@@ -4114,6 +4126,24 @@
        "amazon": "https://www.amazon.es/dp/B08JGKZ34S"
       },
       {
+       "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
+       "marca": "The INKEY List",
+       "barcode": "5060879826755",
+       "fechaLista": "08-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Pink",
+       "marca": "The INKEY List",
+       "barcode": "5060879826762",
+       "fechaLista": "08-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Tripeptide Plumping Lip Balm (transparente)",
+       "marca": "The INKEY List",
+       "barcode": "5060879825772",
+       "fechaLista": "08-10-2026"
+      },
+      {
        "nombre": "Squalane + Amino Acids Lip Balm 15 ml",
        "marca": "The Ordinary",
        "barcode": "0769915233476",
@@ -4638,6 +4668,12 @@
        "marca": "SVR",
        "barcode": "3401360238091",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Tónico exfoliante PHA",
+       "marca": "The INKEY List",
+       "barcode": "5060422297988",
+       "fechaLista": "08-10-2026"
       }
      ]
     },
