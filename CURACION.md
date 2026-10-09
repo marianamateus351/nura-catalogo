@@ -775,6 +775,16 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-09 · 8480024554093, escaneo sin nombre — PENDIENTE: identificar y, si es cosmética con INCI oficial, curar la marca
+De la pestaña "Buscados" (foto de Mariana del 09-10), 1 escaneo, dígito de control válido. Prefijo
+**8480024 = GS1 España, bloque antiguo (848002x) de una empresa grande**; no coincide con ningún
+prefijo de las marcas del catálogo (Mercadona 8480000, Eroski 8480010, Consum 8414807, Veckia/ECI
+8433329). La sesión que escribe esto no tiene internet: identificarlo en Open Beauty/Food/Products
+Facts y en un buscador. Si es cosmética o hogar con lista oficial, hacer la ficha y valorar abrir
+la marca entera (con revisión FP/FN); si es alimentación o no se identifica, anotarlo aquí y Mariana
+lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre de Asevi, resuelto el
+18-09 como "no entra": Mariana puede quitarlo.)
+
 ### ~~2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria~~ — resuelto (versión 2026-10-05-sisley): Sisley, marca entera
 Escaneado sin resultado y, acto seguido, la usuaria tecleó la lista (en Revisar, 05-10). Mariana la
 aprueba a mano con el nombre "Mousse Crème Éclat"; cuando el catálogo traiga la marca, Novedades la
