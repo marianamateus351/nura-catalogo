@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09c",
+ "version": "2026-10-09d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -9721,6 +9721,18 @@
        "marca": "Natulim",
        "barcode": "8436617752292",
        "fechaLista": "07-10-2026"
+      },
+      {
+       "nombre": "Toallitas atrapa color x20 Selex",
+       "marca": "Selex",
+       "barcode": "8480024293473",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Toallitas atrapa color x20 Spar",
+       "marca": "Spar",
+       "barcode": "8480013516019",
+       "fechaLista": "09-10-2026"
       }
      ]
     },

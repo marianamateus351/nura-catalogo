@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-mercadona",
+ "version": "2026-10-09-incasa",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15291,6 +15291,24 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8402001049149"
+   ]
+  },
+  {
+   "marcaKey": "spar",
+   "marca": "Spar",
+   "nombre": "Toallitas atrapa color x20 Spar",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480013516019"
+   ]
+  },
+  {
+   "marcaKey": "selex",
+   "marca": "Selex",
+   "nombre": "Toallitas atrapa color x20 Selex",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480024293473"
    ]
   }
  ]

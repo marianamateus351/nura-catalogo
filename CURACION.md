@@ -786,7 +786,7 @@ la marca entera (con revisión FP/FN); si es alimentación o no se identifica, a
 lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre de Asevi, resuelto el
 18-09 como "no entra": Mariana puede quitarlo.)
 
-### 2026-10-09 (tarde) · Buscados: 4068263062797 y 4068263071508 — ALDI (Lacura / Dentitex), **no entran: sin fuente**
+### 2026-10-09 (tarde) · Buscados: 4068263062797 y 4068263071508 — ALDI. **Actualización: 4068263062797 RESUELTO** (Tandil detergente en tiras, por la ficha de Incasa que encontró Mariana; ver "Incasa"). 4068263071508 sigue sin fuente
 Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de la pestaña ya estaban cerrados:
 8411582242320 (vinagre de limpieza de Asevi, 2026-09-18) y 8480024554093 (champú Crowe, hoy).
 - **No están** en Open Beauty, Food ni Products Facts, ni en Consum. El buscador no los conoce y go-upc respondió 429
@@ -4070,8 +4070,9 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-09: **alternativas.json versión 2026-10-09c**, 1.552 productos, 227 con enlace de Amazon
-(09b: +30 de Mercadona, ver su apartado. 09c: fuera Deonat, el alumbre cuenta como compuesto de aluminio.)
+### Estado 2026-10-09: **alternativas.json versión 2026-10-09d**, 1.554 productos, 227 con enlace de Amazon
+(09b: +30 de Mercadona, ver su apartado. 09c: fuera Deonat, el alumbre cuenta como compuesto de aluminio. 09d: +2 toallitas
+atrapacolor de Incasa.)
 (08 y 09: regla 191, Redken, Sensodyne, The INKEY List y Clinique; el detalle, en el apartado de cada marca. Los 6 limpios de INKEY y los 3
 de Clinique se suman a `amazon_pendientes.json`, que pasa a 248.)
 (07g: fuera lo corrosivo o tóxico de Hogar; entra Natulim: gel Clean&Calm, Oxi Clean, Oxi White, percarbonato, Tierras
@@ -4489,6 +4490,63 @@ Pedido de Mariana ("especialmente supermercados españoles, que creo que es lo q
 Scripts: `merca/` (`dl/`, `img/`, `lotes/`, `out/`, `INSTRUCCIONES.md`, `recorte.sh`, `aplica.py`, `vocab.py`, `errata.py`,
 `construye.py`, `detecta.mjs`, `hojas/` para revisar el tipo de foto).
 
+### Incasa (incasa.es, fabricante de marca blanca) — 2026-10-09 (versión 2026-10-09-incasa): 167 productos, 175 códigos, todo Hogar
+**La encontró Mariana** buscando el 4068263062797 de Buscados: es el **detergente en tiras Tandil de ALDI**, y su
+fabricante, **Incasa (Industrias Català, S.A., Sant Vicenç dels Horts / Sta. Margarida i els Monjos)**, publica una
+"Ficha de información de producto" por código, con marca, uso, EAN y composición completa (nombre y CAS de cada
+ingrediente).
+- **De dónde:**
+  - El mapa del sitio (`portfolio-sitemap.xml` y `portfolio-sitemap2.xml`) lista **532 fichas** `/portfolio-item/<EAN>/`;
+    cada una enlaza su PDF en `wp-content/uploads/AAAA/MM/<EAN>-<códigos>-<AAMM>.pdf`.
+  - **250 de los 547 PDF piden contraseña para abrirse: no se tocan.** El resto se lee con pdfplumber.
+  - La composición sale fila a fila de la tabla (nombre | CAS). Se quitan el pie con los códigos internos y la cabecera.
+- **Qué marcas:** Incasa fabrica limpieza de marca blanca para media España y Portugal. Entran solo los códigos de
+  envase español o portugués (`84…`, `560…`), más los de ALDI y Lidl cuya ficha está en castellano. Quedan fuera las
+  fichas de Francia, Reino Unido, Irlanda, Alemania, Países Bajos y Europa del Este.
+- **Fuera:**
+  - **8 códigos con varias fichas de lista distinta:** perlas Tandil violeta, Ultra desinfectante textil, detergente
+    ropa negra (8411174004152), spray vitro Eroski, y Selex/Plus Max Marsella, Frescura Azul y Colonia. Son versiones
+    o reformulaciones y no se sabe cuál lleva el envase.
+  - **3 fichas cuyo código no es el del archivo** (por ejemplo, una ficha Spar con el EAN de Selex dentro).
+  - **1 ficha sin nombre legible.**
+  - **Percarbonato blanqueante Plus Max (8480024615114):** la ficha pone "Aqua" con el CAS 15630-89-4, que es el del
+    percarbonato sódico. Nombre y CAS no casan: ficha no fiable.
+- **Nombres:** el nombre de la ficha en castellano, sin la repetición en portugués, catalán u otros idiomas, en frase y
+  con la marca al final ("Detergente líquido concentrado lavanda 3l Consum"). Una errata del fabricante corregida:
+  "polyglycoelther" pasa a "polyglycol ether" (tabletas antical Consum).
+- **Marcas** (27; Consum y Eroski ya existían): Consum 30, Selex 25, Spar 20, Eroski 14, Continente 9, Plus Max 8,
+  Tandil (ALDI) 10, Lidl 3 y Doussy (Lidl) 6, El Corte Inglés 7, Porsi 5, Unide 5, Family 5, Mimidu 3, Ecolimp 4,
+  Condis 3, Bonpreu, BM, Covirán, Clarel, Mical (2 cada una), Apta, Auchan, Coaliment, R-50, Hogarel y Vivó.
+- **Arreglos del detector (regresión sobre las 8.369 fichas anteriores: 3 cambios, los tres aciertos):**
+  - **Fallo del separador de ingredientes pegados:** convertía "isothiazol-3(2H)-one" en "3(2, H)", así que la MIT y la
+    MCI escritas con su nombre químico ("Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and
+    2-Methylisothiazol-3(2H)-one…", 18 fichas de Incasa) no daban aviso. Ahora "2H" seguido de guion o paréntesis no
+    se separa.
+  - **Alias nuevos:**
+    - MIT y MCI: "2-methyl-2H-isothiazol-3-one" y "5-chloro-2-methyl-2H-isothiazol-3-one" ("Reaction mass of…"),
+      más la errata "Methylchlorothiazolinone".
+    - Etoxilados (Hogar): "polyglycol ether", "fatty alcohol polyglycol ether". Esto saca 3 falsos negativos que ya
+      estaban en el catálogo: Somat Excellence Gel 5en1 Antigrasa y Anti-Olor y Somat Power Gel Lima y Limón llevan
+      "Modified Fatty Alcohol Polyglycol Ether".
+  - **Regla 191:** "Polyester Copolymer" y "polyester in aqueous solution" de detergente son el polímero
+    antirredeposición (soluble), igual que los "soil release polymer" ya excluidos.
+  - **Detección de Hogar por nombre** (`STRONG_HOME`): perlas de perfume y pérolas perfumadas, perfumador para la
+    ropa/roupa, tira-nódoas, abrilhantador, limpiador WC, power caps, toallitas atrapacolor y antitransferencia,
+    netejador, lavavajillas, spray plancha fácil, limpia duchas, eliminador de olores, limpia máquinas, máquina da
+    loiça y Tandil. "multius" se probó y se quitó, porque metía en Hogar la "Varilla Multiuso" de Catrice.
+- **Revisión FP/FN:** las 167 son de Hogar.
+  - Lo que más sale: perfume (≈150), BIT 77, MIT 72 (+24 por nombre químico), alcoholes etoxilados 85, laureth 55,
+    fenoxietanol 26, bronopol 22, propilenglicol 20, BHT 10, DDAC 8, eugenol 8 y cloruro de benzalconio 4.
+  - Fosfonatos y EDTA no tienen regla (igual que en el resto del catálogo).
+  - El gel con lejía de Eroski queda fuera de Alternativas por el hipoclorito, como todas las lejías.
+- **Limpios (cero avisos): 2**, las toallitas atrapacolor x20 de Spar y Selex (agua y un polímero catiónico). **Alternativas
+  2026-10-09d: entran las dos (1.551 → 1.553)** en "Quitamanchas y aditivos para la colada". El tipo ahora reconoce
+  "atrapacolor" y "antitransferencia" (`tipos.py` y la tabla de la app).
+- **Buscados:** 4068263062797 **resuelto** (Tandil detergente en tiras: SLS, PVA, etoxilados, proteasa, perfume y
+  alérgenos, galaxólido). El 4068263071508 no está entre las fichas de Incasa.
+Scripts: `incasa/` (`items.txt`, `pdfs.txt`, `mapa.txt`, `pdf/`, `tabla.py`, `columnas.py`, `campos.py`, `pais.py`,
+`comp2.py`, `filas.py`, `construye.py`, `limpia.py`, `final.py`).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4567,6 +4625,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Crowe (marca propia de IFA: Froiz, Gadis, masymas) | — (no hay web de marca) | código de IFA `8480024…`, en el listado de INCI Beauty | **no oficial**: INCI Beauty (tras Cloudflare); tiendas con captcha | solo etiqueta (OBF o aportación manual); ver PEDIDOS 2026-10-09 |
 | Clinique | — (Akamai en clinique.es) | sí, en la API de Douglas (`ean` por variante; UPC de Estée Lauder `0020714…`/`0192333…`) | sí en la API de Douglas, contrastada con incidecoder (ahora inkeedecoder.com) | solo listas idénticas; ver su apartado |
 | Mercadona (Deliplus y el resto de su cuidado personal) | API de la tienda (`/api/categories/`, `/api/products/<id>/`) | sí (`ean`), pero manda el código impreso en la foto | **sí, en la foto de la etiqueta** (`photos[].zoom`, 3600 px); el recuadro de texto OCR del maquillaje no vale | ver su apartado (2026-10-09) |
+| Incasa (fabricante: Consum, Selex, Spar, Eroski, ALDI, Lidl, Continente…) | `portfolio-sitemap*.xml` (532 fichas por EAN) | sí, en la ficha | sí, composición completa con CAS (PDF; 250 con contraseña, no se abren) | solo Hogar; ver su apartado (2026-10-09) |
 | Byly | WooCommerce (`/wp-json/wc/store/v1/products`, 9 desodorantes) | no | **no** | no entra (sin INCI) |
 | Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
