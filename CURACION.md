@@ -814,8 +814,9 @@ lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre d
 - **Mariana miró la ficha de INCI Beauty (2026-10-09):** está **incompleta a propósito**. Va en orden alfabético y
   tiene 9 ingredientes ocultos con asteriscos ("para obtener la composición exacta, utilice nuestras
   aplicaciones"), así que no sirve ni como segunda fuente. Gadis y Froiz no venden Crowe online. Lo visible ya trae
-  Parfum, Linalool, Sodium Laureth Sulfate y Laureth-2/-4: tendría avisos en cualquier caso. **Propuesta: quitarlo
-  de la pestaña de Buscados**; si se vuelve a escanear reaparecerá solo.
+  Parfum, Linalool, Sodium Laureth Sulfate y Laureth-2/-4: tendría avisos en cualquier caso.
+- **Decisión de Mariana (2026-10-09): se queda en Buscados**, porque lo escaneó una usuaria que lo usa. Se espera su
+  aportación con "Añadir ingredientes" (foto de la etiqueta), que Mariana aprueba en Revisar.
 
 ### ~~2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria~~ — resuelto (versión 2026-10-05-sisley): Sisley, marca entera
 Escaneado sin resultado y, acto seguido, la usuaria tecleó la lista (en Revisar, 05-10). Mariana la
