@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-aldi",
+ "version": "2026-10-09-incasa",
  "marcas": [
   {
    "key": "larocheposay",
@@ -17818,6 +17818,124 @@
       "8480010181579"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Disodium Cocoamphodiacetate, Glycerin, Sodium Chloride, Glyceryl Oleate, Coco-Glucoside, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Parfum, Citric Acid, Polyquaternium-10, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Gel limpiador con lejía cocina y baño 1,5 l Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010149982"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Laureth 2-Sulfate, Sodium Hydroxide, Parfum, Lauramine Oxide, Modified Phosphonate, Colorant, Limonene"
+    },
+    {
+     "nombre": "Lavavajillas máquina todo en 1 Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010194500"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Choride, TETRASODIUM ETIDRONATE, SODIUM POLYACRYLATE, TetraAcetyl Ethylene Diamine (TAED), Polyethilenglicol, Ceteareth-25, Bentonite, Acrylic / Sulphonic Acid Copolymer, Sodium Silicate, DIMETHICONE, Subtilisin, Parfum"
+    },
+    {
+     "nombre": "Detergente cápsulas Corazón de Marsella Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010205886"
+     ],
+     "inci": "Aqua, Glycerin, Dodecylbenzene Sulphonic Acid, Ethoxylated Alcohol, Propylene Glycol, MEA-Cocoate, Hydrogenated Starch Hydrolysate, MEA-Citrate, Alcohol, Parfum, Acrylate Copolymer, Polyester Copolymer, Modified phosphonate, BHT, Potsssium Sulfite, Substilisin, Amylase, Citronellol"
+    },
+    {
+     "nombre": "Detergente cápsulas tricámara Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010205893"
+     ],
+     "inci": "Ethoxylated Alcohols, MEA-C10-13 ALKYL BENZENESULFONATE, propylene glycol, MEA Cocoate, MEA -Lauryl Sulphate, Syrups, corn, hydrogenated, Glycerol, alcohol, Glicereth cocoate, LACTAMIDE MEA, Polyester innaqueous solution, Ethanolamine, Styrene/Acrylates Copolymer, Perfumes, Modified phosphonate, Disodium distyrylbiphenyl disulfonate, Subtilisin, 2,6-di-tert-butyl-p-cresol, Potassium sulphite, Amylase, Dye, Celulasa, Mannanase, Lipase"
+    },
+    {
+     "nombre": "Detergente líquido regular eco Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206838"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glicereth-6 Cocoato, Ethoxylated Alcohol, Sodium cocoate, Glycerin, Hydrogenated Starch Hydrolysate, Sodium citrate, Phenoxyethanol, Sodium Formate, Parfum, Modified Polycarboxylate, Modified Phosphonates, Ethylpyridine Oxide Homopolymer, Subtilisine, Amylase, Dimethicone"
+    },
+    {
+     "nombre": "Limpiador wc ecolabel Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206845"
+     ],
+     "inci": "Aqua, Citric Acid, Lactic Acid, Capryl/Decyl Glucoside, Trisodium Dicarboxymethyl Alaninate, Xanthan Gum, Parfum, Dye"
+    },
+    {
+     "nombre": "Limpiador multisuperficies ecolabel Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206852"
+     ],
+     "inci": "Aqua, Glycereth cocoate, Sodium laureth sulfate, Carbonato de sodio, Potassium cocoate, Citric acid, Caprylyl/ Capryl Glucoside, Phenoxiethanol, Glucamide, Sodium Hydroxide, Fosfonato modificado, Perfumes"
+    },
+    {
+     "nombre": "Lavavajillas mano ecolabel Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206876"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Alkyl sulfate, Cocamidopropyl Betaine, Urea, Lactic acid, Glycereth-6 Cocoate, Sodium Chloride, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "ECO Lavavajillas máquina cápsulas Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206883",
+      "8480010296747"
+     ],
+     "inci": "Aqua, Tetrasodium Glutamate Diacetate, Propylene Glycol, Glycerin, Sodium Citrate, Citric Acid, Ethoxylated Alcohol, Sodium Carboxymethyl Inulin, Xanthan Gum, Subtilisin, Amylase, Colorante amarillo, Colorante azul"
+    },
+    {
+     "nombre": "Limpiacristales y multiusos Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010216387"
+     ],
+     "inci": "Aqua, Methoxyisopropanol, Propylene glycol Butyl Ether, Ethanolamine, Lauramine Oxide, Propylene glycol, Parfum, Tetrapotassium pyrophosphate, Acryllic Co-polymer, Benzisothiazolinone, Methylisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Limpiador multiusos pino bioalcohol Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010216608"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylate, Alcohol, Trisodium citrate, Parfum, Sodium carbonate, Diethylhexyl sodium Sulfosucciante, Dye, Methylisothiazolinone, Benzisothiazolinone, Isopropyl Alcohol, Dimethicone, Dye"
+    },
+    {
+     "nombre": "Gel todo en 1 lavavajillas máquina Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010291407"
+     ],
+     "inci": "Aqua, Trisodium dicarboxymethyl alaninate, Fatty alcohol alkoxylate, Terpolymer of acrylic acid, Etidronic acid, Sodium Formate, Xanthan Gum, Citric acid, Parfum, Subtilisin, Sodium sulfite, Amylase, Dye, Methylisothiazolinone, Benzisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Abrillantador Eroski",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480010206029"
+     ],
+     "inci": "Aqua, Sodium Cumene Sulfonate, Ethoxylated Alcohol, Polycarboxylate, Citric Acid, Methylchloroisothiazolinone + Methylisothiazolinone"
     }
    ]
   },
@@ -28279,6 +28397,252 @@
       "8414807547170"
      ],
      "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Didecyldimonium Chloride, Acido L-(+)-lactico, Alcohol, Citronellol, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Geraniol, Linalool, Hexyl Cinnamal, Limonene, Methyl Alcohol, Colorante, Phenoxyethanol, Resorcinol"
+    },
+    {
+     "nombre": "Detergente líquido frescor 2,6l Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549341",
+      "8414807549631"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, TEA cocoate, Sodium Cocoate, Sodium Formate, Phenoxyethanol, Sodium Chloride, Parfum, Acrylic Polymer, Parfum, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Subtilisine, Amylase, Lipase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone, Colorante azul, Colorante rosa"
+    },
+    {
+     "nombre": "Detergente líquido concentrado color Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549358"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Tea-Cococate, Sodium Chloride, Sodium Formate, Phenoxyethanol, Parfum, Modified phopshonate, Modified phopshonate, Substilisine, Amylase, Acrylic Polymer, Dry, Lipase, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dry"
+    },
+    {
+     "nombre": "Detergente líquido concentrado prendas delicadas Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549365"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Allkylbenzenesulfonate, Sodium Chloride, Phenoxyethanol, Ethoxylated Alcohol, Sodium Cocoate, Parfum, Styrene/Acrylate Copolymer, Tetrasodium EDTA, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dry"
+    },
+    {
+     "nombre": "Detergente líquido concentrado prendas oscuras Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549372"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Tea-Cococate, Sodium Cumene Sulfonate, Phenoxyethanol, Parfum, Styrene/Acrylate Copolymer, Ethylpyridine Oxide Homopolymer, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Cellulase, Linalool"
+    },
+    {
+     "nombre": "Detergente líquido concentrado a mano Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549389"
+     ],
+     "inci": "Aqua, MEA Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, MEA Cocoate, Glycerin, Sodium Formate, Phenoxyethanol, Sodium Chloride, Parfum, Modified phosphonate, Stylbene Derivative Brightener, Subtilisine, Amylase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone, Colorante azul, Coloranteamarillo"
+    },
+    {
+     "nombre": "Detergente líquido marsella 2l Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807549624"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, TEA cocoate, Sodium Cocoate, Sodium Formate, Phenoxyethanol, Sodium Chloride, Acrylic Polymer, Parfum, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Subtilisine, Amylase, Lipase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone"
+    },
+    {
+     "nombre": "Limpiahogar multiusos con alcohol pino Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807553997"
+     ],
+     "inci": "Aqua, Alcohol, Ethoxylated Alcohol, Parfum, Citric Acid, Sodium Carbonate, Sodium Hydroxide, Docusate Sodium, Benzisothiazolinone, Methylisothiazolinone, Colorante, Dimethicone"
+    },
+    {
+     "nombre": "Limpiahogar brillo Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807554000"
+     ],
+     "inci": "Aqua, Sodium Carbonate, Trisodium Dicarboxymethyl Alaninate, Optimized surfactant-nanosilica blend, Polyetherpolyphosphate, Alkyl Polyglucoside, Citric Acid, Parfum, Benzisothiazolinone, Methylisothiazolinone, Colorant, Linalool"
+    },
+    {
+     "nombre": "Limpiahogar ph neutro aire fresco Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807554017"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Carbonate, Parfum, Citric Acid, Sal de dode, Sodium Cocoate, Modified Phosphonate, Benzisothiazolinone, Methylisothiazolinone, Colorante, Dimethicone"
+    },
+    {
+     "nombre": "Detergente líquido rosa de mosqueta Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807554406"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, TEA cocoate, Sodium Cocoate, Sodium Formate, Sodium Chloride, Acrylic Polymer, Phenoxyethanol, Parfum, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Subtilisine, Amylase, Lipase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone"
+    },
+    {
+     "nombre": "Detergente líquido lavanda Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807554413"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, TEA cocoate, Sodium Cocoate, Sodium Formate, Phenoxyethanol, Sodium Chloride, Acrylic Polymer, Parfum, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Subtilisine, Amylase, Lipase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone"
+    },
+    {
+     "nombre": "Toallitas desinfectantes multisuperficies Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807554901"
+     ],
+     "inci": "MMB, Didecyldimethylammonium chloride, Ethanolamine, CAPRYLETH-9 CARBOXYLIC ACID, Trisodium dicarboxymethyl alaninate, Isopropyl alcohol, Alcohols ethoxylated, Alcohols ethoxylated, Perfumes, HEXETH-4 CARBOXYLIC ACID, Hydrochloric acid"
+    },
+    {
+     "nombre": "Power caps active ropa blanca y de color Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807557759"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylated, Dodecylbenzene Sulfonic Acid, Propylene Glycol, Fatty acids, Ethanolamine, Glycereth cocoate, Polyethyleneimine Ethoxylated, Disodium Distyrylbiphenyl Disulfonate, Citric Acid, Parfum, Modified Phosphonate, Stylbene Derivative, Polyalkylglycoside, Potassium Sulfite, Subtilisine, Cellulase, Mannanase, Polymeric Dyes"
+    },
+    {
+     "nombre": "Power caps color protege los colores Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807557766"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylated, Dodecylbenzene Sulfonic Acid, Propylene Glycol, Fatty acids, Ethanolamine, Glycereth cocoate, Polyethyleneimine Ethoxylated, Disodium Distyrylbiphenyl Disulfonate, Citric Acid, Parfum, Aliphatic polyamine derivative, Modified Phosphonate, Stylbene Derivative, Polyalkylglycoside, Potassium Sulfite, Subtilisine, Cellulase, Mannanase, Benzyl Salicylate, Citronellol, Geraniol, Polymeric Dyes"
+    },
+    {
+     "nombre": "Power caps essence efecto suavizante Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807557773"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Dodecylbenzene sulphonic acid, Propylene Glycol, Fatty acids, Ethanolamine, MEA-Lauryl Sulfate, Glycereth cocoate, Isooctadecanoic acid, reaction products with tetraethylenepentamine, Polyethyleneimine Ethoxylated, Parfum, Citric Acid, Modified phosphonate, Stylbene Derivative, Disodium Distyrylbiphenyl Disulfonate, Polyalkylglycoside, Potassium Sulfite, Substilisine, Amylase, Lipase, Cellulase, Mannanase, Alpha Isomethyl-ionone, Linalool, Polymeric Dyes"
+    },
+    {
+     "nombre": "Tabletas antical lavadora Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807558589"
+     ],
+     "inci": "Sodium Hydrogencarbonate, Citric Acid, Sodium sulfate, Sodium Carbonate, Copolymer, Fatty alcohol polyglycol ether, 1-Hydroxyethylidene (1,1-Diphosphoric Acid), Zeolitas, Silicic acid, Colorant"
+    },
+    {
+     "nombre": "Limpia cristales y multiusos Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807559296"
+     ],
+     "inci": "Aqua, Alcohol, Capryloyl/ caproyl Methyl Glucamide, Parfum, Ammonium Hydroxide, Diethylhexyl Sodium Sulfosuccinate, Acrylic Polymer, Propylene Glycol, Benzisothiazolinone, Methylisothiazolinone, Dry"
+    },
+    {
+     "nombre": "Multiusos con alcohol Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807559319"
+     ],
+     "inci": "Aqua, Alcohol, Parfum, Methylchloroisothiazolinone + Methylisothiazolinone, Dry"
+    },
+    {
+     "nombre": "Toallitas antitransferencia color para lavadoras Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807561558"
+     ],
+     "inci": "Benzalkonium chloride, Adipic acid/epoxypropyl diethylenetriamine copolymer, Polyvinylpolypyrrolidone, Sodium hydroxide, Poly(oxy-1,2-ethanediyl), .alpha.-(2-propylheptyl)-.omega.-hydroxy-), Modified polydimethylsiloxane, 2-(2-butoxyethoxy)ethanol, Isotridecanol, ethoxylated (nEO 5-6), Alpha-octadecyl-omega-hydroxypoly( oxyethylene), Acetic acid"
+    },
+    {
+     "nombre": "Detergente líquido concentrado prendas delicadas Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562340"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Allkylbenzenesulfonate, Sodium Chloride, Phenoxyethanol, Ethoxylated Alcohol, Sodium Cocoate, Parfum, Styrene/Acrylate Copolymer, Tetrasodium EDTA, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dry, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Detergente líquido prendas oscuras concentrado Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562357"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Tea-Cocoate, Sodium Cumene Sulfonate, Phenoxyethanol, Parfum, Acrylate Copolymer, PVP, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Cellulase, Amyl Salicylate, Terpineol, Linalool"
+    },
+    {
+     "nombre": "Detergente líquido frescor azul Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562562",
+      "8414807562685"
+     ],
+     "inci": "Aqua, Dodecylbenzene Sulphonic Acid, Ethoxylated Alcohols, Acrylic Polymer, Fatty acid, Sodium Hydroxide, Sodium Formate, Triethanolamine, Acrylic Polymer Emulsion, Phenoxyethanol, Parfum, Modified phosphonate, Stylbene Derivative Brightener, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Blue dye, Pink dye, Lipase, Methylisothiazolinone, Benzisothiazolinone, Mannanase, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Detergente líquido concentrado marsella Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562579",
+      "8414807562678"
+     ],
+     "inci": "Aqua, Sodium Alkyl Benzenesulfonate, Ethoxylated Alcohols, Acrylic Polymer, Sodium Cocoate, Sodium Formate, Triethanolamine, Acrylic Polymer Emulsion, Phenoxyethanol, Parfum, Modified phosphonates, Modified phosphonates, Stylbene Derivative Brightener, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Lipase, Methylisothiazolinone, Benzisothiazolinone, Mannanase, Terpineol"
+    },
+    {
+     "nombre": "Detergente líquido concentrado rosa mosqueta 3l Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562586"
+     ],
+     "inci": "Aqua, SODIUM C10-13 ALKYL BENZENESULFONATE, Ethoxylated Alcohols, Acrylic Polymer, Sodium Cocoate, Sodium Formate, Triethanolamine, Acrylic Polymer Emulsion, Phenoxyethanol, Parfum, Modified phosphonate, Stylbene Derivative Brightener, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Lipase, Methylisothiazolinone, Benzisothiazolinone, Mannanase"
+    },
+    {
+     "nombre": "Detergente líquido concentrado lavanda 3l Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562609"
+     ],
+     "inci": "Aqua, Sodium C10-13 Alkyl Benzenesulfonate, Ethoxylated Alcohols, Acrylic Polymer, Sodium Cocoate, Sodium Formate, Acrylic Polymer Emulsion, Phenoxyethanol, Triethanolamine, Modified phosphonate, Stylbene Derivative Brightener, Parfum, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Lipase, Methylisothiazolinone, Benzisothiazolinone, Mannanase"
+    },
+    {
+     "nombre": "Detergente líquido concentrado color Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807563095"
+     ],
+     "inci": "Aqua, MEA Alkyl Benzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Mea-Cococate, Sodium Formate, Phenoxyethanol, PVP, Acrylic Polymer Emulsion, Parfum, Modified phopshonate, Modified phopshonate, Substilisine, Amylase, Dry, Mannanase, Cellulase, Methylisothiazolinone, Dimethicone, Benzisothiazolinone, Dry"
+    },
+    {
+     "nombre": "Friegasuelos limón 1,5l Consum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807800923"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylate, Sodium Allkylbenzenesulfonate, Trisodium citrate, Sodium Carbonate, Parfum, Sodium Cocoate, 2-Bromo-2-Nitropropane-1,3-Diol + Methilchloroisothiazolinone + Methilisothiazolinone, Colorant, Simethicone"
     }
    ]
   },
@@ -80266,6 +80630,1303 @@
       "4068263046582"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Urea, Glycerin, Cocamidopropyl Betaine, Decyl Glucoside, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "tandil",
+   "nombre": "Tandil (ALDI)",
+   "productos": [
+    {
+     "nombre": "Perlas de perfume Pure Fresh XXL Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "2004060043050"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Parfum Caps, Polycarboxylate in aqueous solution, Silicone dioxide, Polymeric Dye, Propylene Glycol, Alpha-Isomethyl Ionene, Benzyl Salicylate, Citronellol, Geraniol, Linalool, Limonene"
+    },
+    {
+     "nombre": "Perlas de perfume para la ropa floral Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "2024000041458"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polycarboxylate in aqueous solution, Silicone dioxide, Polymeric Dye, Alpha-Isomehtyl ionone, Limonene, Linalool, Geraniol, Citronellol"
+    },
+    {
+     "nombre": "Perlas de perfume vainilla Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "2034000041457"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polymeric Dye, Hexyl Cinnamal, Linalool, Benzyl salicylate, Eugenol, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Detergente líquido Marsella Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "24005722"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Cocoate, Sodium Formate, Acrylic Polymer, Sodium Chloride, Parfum, Acrylic Polymer Emulsion, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Lipase, Lipase, Mannanase, Orange Dye, Yellow Dye"
+    },
+    {
+     "nombre": "Perlas de perfume Blue Freshness Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068261037988"
+     ],
+     "inci": "Urea, Bentonite, Parfum, Caps Parfum, Dye, Propylene Glycol, Eugenol, Hexyl Cinnamal, Linalool, Citronellol, Amyl salicylate, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Perlas de perfume colonia XXL Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068263040931"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Polymeric Dye, Polymeric Dye, Citral, Hydroxycitronellal, Linalool, Limonene"
+    },
+    {
+     "nombre": "Detergente en tiras para la ropa Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068263062797"
+     ],
+     "inci": "Edible corn starch, Sodium lauryl sulfate, Polyvinyl alcohol, Water, Poly(oxy-1,2-ethanedi yl).alpha.-(2-propylhe ptyl)- .omega.-hydroxy, Glycerin, Trisodium citrate dihydrate, Silicone, Peg-10 dimethicone, Protease, Saponins, Parfum, Citronellol, Geraniol, Hexyl Cinnamal, Linalool, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Perlas de perfume Blue Freshness Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068706358890"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polymeric Dye, Eugenol, Hexyl Cinnamal, Linalool, Citronellol"
+    },
+    {
+     "nombre": "Perlas de perfume Pink Blossom Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068706358906"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polymeric Dye, Geraniol, Citronellol, Linalool, Alpha-Isomethyl Ionone, Limonene"
+    },
+    {
+     "nombre": "Perlas de perfume Gold Tandil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068706358913"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polymeric Dye, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Eugenol"
+    }
+   ]
+  },
+  {
+   "key": "lidl",
+   "nombre": "Lidl",
+   "productos": [
+    {
+     "nombre": "Perlas de perfume rosa- floral Lidl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619208155"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Polymeric Dye, Polymeric Dye, Tetramethyl Acetyloctahydronaphtalenes, Linalyl acetate, Amyl salicylate, Linalool, Citronellol"
+    },
+    {
+     "nombre": "Perlas de perfume frescor azul Lidl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619208162"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Polymeric Dye, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphtalenes, Alpha-isomethyl ionone, Terpineol, Limonene"
+    },
+    {
+     "nombre": "Perlas de perfume colonia Lidl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619286283"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Dye, Citral, Linalool, Hydroxycitronellal, Linalyl Acetate, Menthol, Citrus Limon Peel Oil, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "doussy",
+   "nombre": "Doussy (Lidl)",
+   "productos": [
+    {
+     "nombre": "Perfumador liquido para la ropa baunilha Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619286344"
+     ],
+     "inci": "Aqua, Parfum, Ttrideceth-9, Acrylate Copolymer, PEG-40 Hydrogenated Castor Oil, Caps parfum, Trisodium citrate, Methylisothiazolinone, Benzisothiazolinone, Hexyl Cinnamal, Citronellol, Coumarin, Geraniol, Amyl Cinnamal, Geranyl Acetate, Citrus Aurantium Peel Oil, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Isoeugenyl acetate, Acetylcedrene, Terpineol, Linalool"
+    },
+    {
+     "nombre": "Perfumador liquido para la ropa floral Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619286351"
+     ],
+     "inci": "Aqua, Parfum, Ttrideceth-9, Acrylate Copolymer, PEG-40 Hydrogenated Castor Oil, Caps parfum, Trisodium citrate, Methylisothiazolinone, Benzisothiazolinone, Hexyl Cinnamal, Citronellol, Coumarin, Geraniol, Hexamethylindanopyran, Geranyl Acetate, Eucalyptus Hlobulus oil, Lavandula Oil / Extract, Dimethyl Phenethyl Acetate, Pogostemon Cablin oil, Citrus Aurantium Peel Oil, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Rose Ketones, Alpha-Isomethyl ioneone, Eugenol, Terpineol, Linalool"
+    },
+    {
+     "nombre": "Perfumador liquido para la ropa azul Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619286368"
+     ],
+     "inci": "Aqua, Parfum, Ttrideceth-9, Acrylate Copolymer, PEG-40 Hydrogenated Castor Oil, Caps parfum, Trisodium citrate, Methylisothiazolinone, Benzisothiazolinone, Alpha-Isomethyl ionone, Citronellol, Coumarin, Eugenol, Hexyl Cinnamal, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Rose Ketones"
+    },
+    {
+     "nombre": "Perfumador liquido para la ropa rosa Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619286375"
+     ],
+     "inci": "Aqua, Parfum, Ttrideceth-9, Acrylate Copolymer, PEG-40 Hydrogenated Castor Oil, Caps parfum, Trisodium citrate, Methylisothiazolinone, Benzisothiazolinone, Linalyl Acetate, Citronellol, Coumarin, Amyl Salicylate, Citrus Aurantium Peel Oil, Limonene, Tetramethyl Acetyloctahydronaphthalenes, Linalool"
+    },
+    {
+     "nombre": "Suavizante concentrado azul Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619287990"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallowamidoethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl alcohol, Caps parfum, Acrylic Polymer Emulsion, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Dye, Citric acid, Hexyl Cinnamal, Alpha-Isomethyl ionone, Tetramethyl Acetyloctahydronaphthalenes, Juniperus Virginiana oil, Terpineol"
+    },
+    {
+     "nombre": "Suavizante concentrado talco Doussy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619288003"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallowamidoethyl Hydroxyethylmonium Methosulfate, Parfum, Isopropyl alcohol, Caps parfum, Acrylic Polymer Emulsion, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Dye, Citric acid, Geraniol, Linalool, Citronellol"
+    }
+   ]
+  },
+  {
+   "key": "continente",
+   "nombre": "Continente",
+   "productos": [
+    {
+     "nombre": "Oxi power roupa branca tira nodoas po Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312605874"
+     ],
+     "inci": "SODIUM CARBONATE PEROXIDE, SODIUM CARBONATE, SODIUM SULFATE, TETRAACETYL ETHYLENE DIAMINE, SODIUM CITRATE, ALCOHOLS ETHOXYLATED, SODIUM C12-18 FATTY ALCOHOL SULFATE, MODIFIED PHOSPHONATE, CELLULOSE, SUBTILISIN, STILBENE DERIVATIVE BRIGHTENER, Parfum, SIMETHICONE, LIPASE, AMYLASE, MANNANASE, CELLULASE, PECTATE LYPASE"
+    },
+    {
+     "nombre": "Oxi power tira nodoas po Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312605881"
+     ],
+     "inci": "SODIUM CARBONATE PEROXIDE, SODIUM CARBONATE, SODIUM SULFATE, TETRAACETYL ETHYLENE DIAMINE, SODIUM CITRATE, ALCOHOLS ETHOXYLATED, SODIUM C12-18 FATTY ALCOHOL SULFATE, MODIFIED PHOSPHONATE, CELLULOSE, SUBTILISIN, Parfum, SIMETHICONE, STILBENE DERIVATIVE BRIGHTENER, LIPASE, AMYLASE, MANNANASE, CELLULASE, PECTATE LYPASE"
+    },
+    {
+     "nombre": "Abrilhantador Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312606390"
+     ],
+     "inci": "Aqua, Etoxylated Alcohol, Phenoxyethanol, Modified Polycarboxylate, Sodium Cumene Sulfonate, Citric Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Abrilhantador limão Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312607984"
+     ],
+     "inci": "Aqua, Etoxylated Alcohol, Phenoxyethanol, Acrylic Polymer, Modified Polycarboxylate, Sodium Cumene Sulfonate, Citric Acid, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Detergente gel máquina da loiça all in one Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312608325"
+     ],
+     "inci": "Aqua, Sodium Citrate, Trisodium Dicarboxymethyl Alaninate, Fatty Ethoxylated Alcohol, Etidronic Acid, Xanthan Gum, Hydrogenated starch Hydrolystate, Sodium Formate, Citric Acid, Parfum, Policarboxylate, Sodium Sulfite, Subtilisine, Amylases, Benzisothiazolinone + Methylisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Violet Delight Perfumador de Roupa Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312608851"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil,Trideceth-9, Parfum, Sodium Hydroxide, Benzisothiazolinone, Methylisothiazolinone, Polymer, Benzyl Alcohol, Hexyl Cinnamal, Limonene, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Abrilhantador para máquina da loiça Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312620914"
+     ],
+     "inci": "Aqua, Sodium Cumene Sulfonate, Ethoxylated alcohols, Sodium MA/Diisobutylene copolymer, Sodium Cumene Sulfonate, Polycarboxylates, Phenoxyethanol, Potassium Sorbate, Citric Acid"
+    },
+    {
+     "nombre": "Detergente em gel all in one para máquina da loiça lima Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312623397"
+     ],
+     "inci": "Aqua, Sodium citrate, Trisodium dicarboxymethyl alaninate, Alcohols ethoxylated propoxylated, Terpolymer of acrylic acid, Etidronic acid, Sorbitol, Sodium Formate, Citric acid, Xanthan Gum, Parfum, Subtilisin, Amylase, Sodium sulfite, Methylisothiazolinone, Dye, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Protect desinfectante roupa Continente",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312607991"
+     ],
+     "inci": "Aqua, Didecyldimethylammonium chloride, Benzalkonium Chloride, Trisodium Dicarboxymethyl Alaninate, Methoxymethylbutanol, Parfum, Ethoxylated Alcohols, Ethanolamine"
+    }
+   ]
+  },
+  {
+   "key": "porsi",
+   "nombre": "Porsi",
+   "productos": [
+    {
+     "nombre": "Toalhitas multissuperficies desinfectante Porsi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260316984"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Carboxylic Acid / Capryleth-9 Carboxylic Acid + Hexeth-4 Carboxylic Acid, Didecyldimethylammonium chloride, Ethanolamine, Trisodium Dicarboxymethyl Alaninate, Parfum, Ethoxylated Alcohols, Hydrochloric Acid"
+    },
+    {
+     "nombre": "Spray multiusos desinfectante Porsi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260316991"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Ethanolamine, Didecyldimethylammonium chloride, Carboxylic Acid / Capryleth-9 Carboxylic Acid + Hexeth-4 Carboxylic Acid, Trisodium Dicarboxymethyl Alaninate, Parfum, Hydrochloric Acid, Ethoxylated Alcohols"
+    },
+    {
+     "nombre": "Lava tudo multiusos desinfectante Porsi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260317004"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Ethanolamine, Didecyldimethylammonium chloride, Carboxylic Acid / Capryleth-9 Carboxylic Acid + Hexeth-4 Carboxylic Acid, Trisodium Dicarboxymethyl Alaninate, Parfum, Hydrochloric Acid, Ethoxylated Alcohols"
+    },
+    {
+     "nombre": "Detergente máquina loiça tudo em 1 Porsi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260326303"
+     ],
+     "inci": "Aqua, Tetrasodium Glutamate Diacetate, Glycerin, MEA- citrate, Sodium citrate, Fatty Alcohol Ethoxylated, Acrylic terpolymer, Etidronic Acid, Phenoxyethanol, Xanthan gum, Parfum, Ethoxylated Alcohols, Potassium sulphite, Subtilisine, Zinc sulphate, Amylase, Benzisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Detergente roupa líquido concentrado ecológico Porsi",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260312764"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycereth-6 Cocoate, Propylene Glycol, Trisodium Citrate, Sodium Cocoate, Ethoxylated Alcohol, Lauryl Glucoside, Sodium Formate, Modified Polycarboxylate, Parfum, Modified Phosphonate, Phenoxyethanol, Stylbene Derivative Brightener, Styrene /Acrylate Copolymer, Substilisine, Amylase, Dimethicone, Benzisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "apta",
+   "nombre": "Apta",
+   "productos": [
+    {
+     "nombre": "Pérolas perfumadas colónia Apta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5604260346806"
+     ],
+     "inci": "Urea técnica, Bentonite, Parfum, Polymeric Dye, Polymeric Dye, Citral, Hydroxycitronellal, Linalool, Limonene, Linalyl acetate, Menthol, Citrus aurantium peel oil, Citrus limon peel oil"
+    }
+   ]
+  },
+  {
+   "key": "mimidu",
+   "nombre": "Mimidu",
+   "productos": [
+    {
+     "nombre": "Lavavajillas ultra concentrado Mimidu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174001472"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Sodium Alkyl Sulfonate, Urea, Cocamidopropyl Betaine, Parfum, Dyes, Bronopol, Reaction mass of 2-methyl-2H-isothiazol-3-one and 5-chloro-2-methyl-2H-isothiazol-3-one"
+    },
+    {
+     "nombre": "Suavizante concentrado talco Mimidu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174002592"
+     ],
+     "inci": "Aqua, Dihydrogenated tallow hydroxyethylmoniummethosulfate, Isopropyl Alcohol, Parfums, Citric Acid, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Benzyl Salicylate, Linalool"
+    },
+    {
+     "nombre": "Detergente para ropa jabón tradicional Mimidu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174003551"
+     ],
+     "inci": "Aqua, Sodium Alkylbenzene Sulfonate, Sodium laureth sulfate, Sodium chloride, Ethoxylated Alcohols, Potassium cocoate, Perfumes, Acrylate Copolymer, Dimethicone, Dye, Methylisothiazolinone, Benzisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "ecolimp",
+   "nombre": "Ecolimp",
+   "productos": [
+    {
+     "nombre": "Limpiahogar multisuperficies Ecolimp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174002875"
+     ],
+     "inci": "Aqua, Glycereth cocoate, Sodium laureth sulfate, Carbonato de sodio, Potassium cocoate, Citric acid, Caprylyl/ Capryl Glucoside, Phenoxiethanol, Glucamide, Sodium Hydroxide, Fosfonato modificado, Perfumes, Aqua, Glycereth cocoate., Sodium laureth sulfate, Carbonato de sodio, Fatty acids, coco, potassium salts, Citric acid, Alkyl polyglycoside C8-10, Phenoxiethanol, 1-Deoxi-1-(metil-(C8-10-(numeración par)- alcanoil)amino)-D-Glucitol, Sodium Hydroxide, Fosfonato modificado, Dye, Perfumes"
+    },
+    {
+     "nombre": "Lavavajillas concentrado Ecolimp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174002912"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Alkyl sulfate, Cocamidopropyl Betaine, Urea, Lactic acid, Glycereth-6 Cocoate, Sodium Chloride, Sodium Hydroxide, Parfum, Essential Oil"
+    },
+    {
+     "nombre": "Lavavajillas todo en uno Ecolimp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174003070"
+     ],
+     "inci": "Aqua, Trisodium Decarboymethyl Alaninate, Propyleneglycol, Sodium Citrate, Polyacrylic Acid Sodium Salt, Fatty Alcohol Alkoxylate, Phenoxyethanol, Etidronic Acid, Sodium Hydorxide, Xanthan Gum, Subtilisin, Amylase"
+    },
+    {
+     "nombre": "Gel limpiador wc Ecolimp",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174003728"
+     ],
+     "inci": "Aqua, Citric Acid, Lactic Acid, Caprylyl / Decyl Glucoside, Trisodium Dicarboxymethyl Alaninate, Xanthan Gum, 2-Bromo-2-Nitropropane-1,3-Diol + Methylchloroisothiazolinone + Methylisothiazolinone, Parfum, Dye"
+    }
+   ]
+  },
+  {
+   "key": "auchan",
+   "nombre": "Auchan",
+   "productos": [
+    {
+     "nombre": "Desinfectante limpiador multiusos 750 ml Auchan",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174004091"
+     ],
+     "inci": "Aqua, MMB, Didecyldimethylammonium chloride, Ethanolamine, CAPRYLETH-9 CARBOXYLIC ACID, Trisodium dicarboxymethyl alaninate, Alcohols ethoxylated, Parfum, Isopropyl alcohol, HEXETH-4 CARBOXYLIC ACID, Hydrochloric acid"
+    }
+   ]
+  },
+  {
+   "key": "mical",
+   "nombre": "Mical",
+   "productos": [
+    {
+     "nombre": "Friegasuelos pino Mical",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413080011408"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, SODIUM LAURETH SULFATE, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Dye, Citrus Aurantium Dulcis Peel Oil, Camphor, Limonene, Eucalyptus Globulus Leaf Oil, Pinene, Terpinolene, Terpineol, Turpentine"
+    },
+    {
+     "nombre": "Friegasuelos Limón Mical",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413080011415"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, SODIUM LAURETH SULFATE, Parfum, Bronopol, Dye, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Citrus Aurantium Dulcis Peel Oil, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "coaliment",
+   "nombre": "Coaliment",
+   "productos": [
+    {
+     "nombre": "Perfumador de ropa azul Coaliment",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413176934079"
+     ],
+     "inci": "Aqua, Tridiceth-9, Parfum, PEG-40 Hydrogenated castor oil, Polymer, Benzisothiazolinone, Methylisothiazolinone, Dye, Hexyl Cinnamal, Alpha-Isomethyl ionone, Benzyl Salicylate, Amyl Salicylate, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Coumarin, Citronellol, Eugenol"
+    }
+   ]
+  },
+  {
+   "key": "r50",
+   "nombre": "R-50",
+   "productos": [
+    {
+     "nombre": "Friegasuelos flor de cerezo R-50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413281716010"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, BHT, Dye"
+    }
+   ]
+  },
+  {
+   "key": "bonpreu",
+   "nombre": "Bonpreu",
+   "productos": [
+    {
+     "nombre": "Detergent frescor blava Bonpreu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422410003426"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Cocoate, Sodium Formate, Sodium Chloride, Acrylic Polymer, Parfum, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Styrene/Acrylate Copolymer, Subtilisine, Amylase, Benzisothiazolinone, Methylisothiazolinone, Dimethicone, Colorant"
+    },
+    {
+     "nombre": "Netejador multiús Bonpreu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422410577552"
+     ],
+     "inci": "Aqua, Alcohol, Capryloyl/ caproyl Methyl Glucamide, Parfum, Docusate Sodium, Acrylic Polymer, Propylene Glycol, Benzisothiazolinone, Methylisothiazolinone, Simethicone, Methylglycine N,N-diacetic acid, trisodium Salt, Colorant"
+    }
+   ]
+  },
+  {
+   "key": "bm",
+   "nombre": "BM",
+   "productos": [
+    {
+     "nombre": "Detergente líquido para ropa Marsella BM",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422414023109"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium chloride, Fatty acid, Ethoxylated Alcohol, Sodium Formate, Acrylic Polymer Emulsion, Modified phosphonate, Parfum, Sodium Hydroxide, Modified phosphonate, Stylbene Derivative Brightener, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Mannanase, Methylisothiazolinone, Benzisothiazolinone, Lipase, Dye, Terpineol"
+    },
+    {
+     "nombre": "Detergente ropa líquido blanco color universal BM",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422414023116"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Laureth Sulfate, Ethoxylated Alcohol, Fatty acid, Sodium bicarbonate, Sodium Formate, Triethanolamine, Sodium Hydroxide, Modified phosphonate, Tetrasodium glutamate diacetate, Parfum, Acrylic Polymer Emulsion, Modified phosphonate, Stylbene Derivative Brightener, Diethanolamine, Acrylate Copolymer, Amylase, Subtilisin, Mannanase, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Lipase, Dye, Sodium chloride"
+    }
+   ]
+  },
+  {
+   "key": "coviran",
+   "nombre": "Covirán",
+   "productos": [
+    {
+     "nombre": "Perfumador líquido para la ropa azul Covirán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422823670963"
+     ],
+     "inci": "Aqua, Tridiceth-9, Parfum, Castor Oil Hydrogenated Ethoxylated, Polymer, Benzisothiazolinone, Methylisothiazolinone, Dye, Hexyl Cinnamal, Alpha-Isomethyl ionone, Benzyl Salicylate, Coumarin, Citronellol, Eugenol"
+    },
+    {
+     "nombre": "Perfumador líquido para la ropa rosa Covirán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8422823670970"
+     ],
+     "inci": "Aqua, Tridiceth-9, Parfum, Castor Oil Hydrogenated Ethoxylated, Caps parfum, Polymer, Benzisothiazolinone, Methylisothiazolinone, Dye, Hexyl Cinnamal, Geraniol, Linalool, Coumarin, Citronellol, Limonene"
+    }
+   ]
+  },
+  {
+   "key": "unide",
+   "nombre": "Unide",
+   "productos": [
+    {
+     "nombre": "Friegasuelos limón Unide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8423086018318"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohols, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Dye, Dye, Methylchloroisothiazolinone + Methylisothiazolinone, Dimethicone, Limonene, Citral"
+    },
+    {
+     "nombre": "Friegasuelos concentrado citrico Unide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8423086021004"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylate, Sodium Laureth Sulfate, Parfum, Citric Acid, Stirene/Acrylate Polymer, Bronopol, Methylisothiazolinone + Methylchlorothiazolinone, Dyes, Dimethicone, Citral, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Friegasuelos concentrado floral Unide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8423086021011"
+     ],
+     "inci": "Aqua, Alcohol Ethoxylate, Sodium Laureth Sulfate, Parfum, Citric Acid, Stirene/Acrylate Polymer, Bronopol, Methylisothiazolinone + Methylchlorothiazolinone, Dyes, Dimethicone, Linalool, Citronellol"
+    },
+    {
+     "nombre": "Suavizante concentrado floral Unide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8423086023039"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallowoylethyl Hydroxyethylammonium methosulfate and Ditallowoylethyl Hydroxyethylammonium methosulfate, Isopropyl alcohol, Parfum, Magnesium Chloride, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dry, Citric acid, Benzyl salicylate"
+    },
+    {
+     "nombre": "Detergente en cápsulas al jabón de Marsella Unide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8423086023374"
+     ],
+     "inci": "Aqua, Glycerin, Dodecylbenzene Sulphonic Acid, Ethoxylated Alcohol, Propylene Glycol, MEA-Cocoate, Hydrogenated Starch Hydrolysate, MEA-Citrate, Alcohol, Parfum, Acrylate Copolymer, Polyester Copolymer, Modified phosphonate, BHT, Potsssium Sulfite, Substilisin, Amylase, Citronellol"
+    }
+   ]
+  },
+  {
+   "key": "condis",
+   "nombre": "Condis",
+   "productos": [
+    {
+     "nombre": "Friegasuelos limón Condis",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426765484312"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos pino Condis",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426765499736"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos spa Condis",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426765499743"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    }
+   ]
+  },
+  {
+   "key": "elcorteingles",
+   "nombre": "El Corte Inglés",
+   "productos": [
+    {
+     "nombre": "Detergente líquido perfumado en cápsulas El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329139373"
+     ],
+     "inci": "Aqua, Mea-lauryl sulfate, Glycerides, coco mono- and di- , ethoxylated, Fatty acids, Ethanolamine, Glycerin, Alcohol, Modified phosphonate, Parfum, Sodium formate, Polypropylene Terephthalate, Stilbene derivative, Subtilisin, Amylase, Dye, Propylene glycol"
+    },
+    {
+     "nombre": "Detergente líquido para ropa negra El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329141468"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Ethoxylated Alcohol, Sodium Cocoate, Triethanolamine, Sodium Formate, Sodium Chloride, Parfum, Stirene / Acrylate Polymer, Polynyl pyrdine N-oxide, Modified Phoshonate, Benzisothiazolinone, Methylisothiazolinone, Cellulase, Dimethicone, Linalool"
+    },
+    {
+     "nombre": "Gel lavavajillas máquina todo en 1 El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329141611"
+     ],
+     "inci": "Aqua, Sodium citrate, Acrylic polymer, Fattyl alcohol ethoxylated, Modified phosphonate, Sodium Hydroxide, Xanthan Gum, Perfumes, Substilisine, Sodium Sulfite, Amylase, Benzisothiazolinone, Methylisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Pastillas lavavajillas Todo en 1 El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142809",
+      "8433329170598"
+     ],
+     "inci": "SODIUM POLYACRYLATE, BENTONITE, SODIUM CARBONATE, SODIUM CITRATE, PEG/PPG-5/2 PROPYLHEPTYL ETHER, PPG-6 C9-11 PARETH-5, PENTASODIUM TRIPHOSPHATE, SODIUM CARBONATE PEROXIDE, CETEARETH-25, SORBITOL, SODIUM CHLORIDE, COPOLYMER, DIMETHICONE, SODIUM SULFATE, TAED, TRISODIUM DICARBOXYMETHYL ALANINATE, SUBTILISIN, SODIUM SILICATE, POLYETHYLENE GLYCOL, ALPHA-AMYLASES, TETRASODIUM ETIDRONATE, DYES, BENZOTRIAZOLE"
+    },
+    {
+     "nombre": "Pastillas lava vajillas El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142816"
+     ],
+     "inci": "Sodium Carbonate, Sodium Citrate, Sodium Carbonate Peroxide, Sodium Sulphate, Sodium Chloride, SODIUM POLYACRYLATE, Polyethilenglicol, Sodium Silicate, Bentonite, Tetraacetyl Ethylene Diamine (TAED), C8-C14 Alcohol Alkoxilated, PENTASODIUM TRIPHOSPHATE, TETRASODIUM ETIDRONATE, PPG-6 C9-11 PARETH-5, Acrylic / Sulphonic Acid Copolymer, Cetareth-25, TRISODIUM DICARBOXYMETHYL ALANINATE, DIMETHICONE, Protease, Amylase, Dye"
+    },
+    {
+     "nombre": "Detergente lavavajillas en cápsulas El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329142823"
+     ],
+     "inci": "Aqua, Tetrasodium Glutamate Diacetate, Glycerin, MEA- citrate, Sodium citrate, Fatty Alcohol Ethoxylated, Acrylic terpolymer, Etidronic Acid, Phenoxyethanol, Xanthan gum, Parfum, Ethoxylated Alcohols, Potassium sulphite, Subtilisine, Zinc sulphate, Amylase, Benzisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Detergente lavar a mano líquido El Corte Inglés",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8433329150811"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, TEA Cocoate, Sodium Formate, Sodium Chloride, Triethanolamine, Parfum, Modified phosphonate, Modified phosphonate, Stylbene Derivative Brightener, Subtilisine, Benzisothiazolinone, Methylisothiazolinone, Dimethicone, Colorante"
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "nombre": "Family",
+   "productos": [
+    {
+     "nombre": "Friegasuelos lavanda Family",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8435465836697"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos limón Family",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8435465836703"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos spa Family",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8435465836710"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Styrene/acrylates copolymer, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Friegasuelos flor de cerezo Family",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8435465836727"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, BHT, Dye"
+    },
+    {
+     "nombre": "Friegasuelos pino Family",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8435465836734"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Camphor, Limonene, Terpinolene, Terpineol"
+    }
+   ]
+  },
+  {
+   "key": "spar",
+   "nombre": "Spar",
+   "productos": [
+    {
+     "nombre": "Quitamanchas Oxi activo Blanco Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013513056"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Carbonate Peroxide, Silicic acid, sodium salt, TAED, Ethoxylated Alcohols, Modified phosphonate, Disodium Distryrylbiphenyl disulfonate, Parfum, Dimethicone, Subtilisin"
+    },
+    {
+     "nombre": "Detergente líquido colonia Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514220"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoate, Modified phosphonate, TEA Cocoate, Parfum, Triethanolamine, Styrene/Acrylate Copolymer, Stilbene Derivative Brightener, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Detergente líquido marsella Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514251"
+     ],
+     "inci": "Aqua, Ácido bencenosulfónico, C10-13-alquil derivados, sales de sodio, Ethoxylated Alcohols, Sodium laureth sulfate, Sodium Cocoate, Sodium chloride, Triethanolamine, Perfumes, Acrylate Copolymer, Modified phosphonate, Stylbene Derivative Brightener, Dimethicone, Methylisothiazolinone, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Detergente líquido ropa blanca y color Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514268",
+      "8480013514329"
+     ],
+     "inci": "Aqua, Sal de dode, Ethoxylated Alcohols, Sodium laureth sulfate, Fatty acid, Sodium Hydroxide, Sodium Formate, Triethanolamine, Acrylic Polymer Emulsion, Parfum, Sodium chloride, Acrylate Copolymer, Modified phosphonate, Stylbene Derivative Brightener, Amylase, Subtilisin, Methylisothiazolinone, Benzisothiazolinone, Dimethicone, Dye"
+    },
+    {
+     "nombre": "Detergente líquido ropa color 3l Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514275"
+     ],
+     "inci": "Aqua, SODIUM C10-13 ALKYL BENZENESULFONATE, Ethoxylated Alcohols, Sodium laureth sulfate, TEA Cocoate, Sodium Hydroxide, Sodium Formate, Parfum, Sodium chloride, Modified phosphonate, PVNO/ Poly Vinyl Pyridine-N-oxide, Dye, Subtilisin, Amylase, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Cellulase"
+    },
+    {
+     "nombre": "Cápsulas acción 3 en 1 power caps Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514282"
+     ],
+     "inci": "Aqua, Glycerin, MEA-Dode, Ethoxylated Alcohols, MEA Cocoate, Ethanolamine, Propylene glycol, Syrups, corn, hydrogenated, Alcohol, Polypropylene terephthalate, Parfum, STYRENE + ACRYLATE COPOLYMER, Modified phosphonate, BHT, Potassium Sulphite, Subtilisin, Amylase, Dye"
+    },
+    {
+     "nombre": "Detergente líquido aloe vera Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013514305"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoate, Modified phosphonate, TEA Cocoate, Parfum, Triethanolamine, Styrene/Acrylate Copolymer, Stilbene Derivative Brightener, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Toallitas atrapa color x20 Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013516019"
+     ],
+     "inci": "Aqua, Polyalkylene amine (Cationic polymer)"
+    },
+    {
+     "nombre": "Spray plancha fácil Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013516026"
+     ],
+     "inci": "Aqua, Alcohol, Perfumes, Diquaternary polydimethylsiloxane, Benzisothiazolinone, Methylisothiazolinone, Sodium Bicarbonate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Spray limpia duchas Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013520290"
+     ],
+     "inci": "Aqua, Citric Acid, Alcohol, Lactic Acid, Caprylyl/ Capryl Glucoside, Propylene Glycol Butyl Ether, Parfum, Sodium Hydroxide, Acrylic Polymer"
+    },
+    {
+     "nombre": "Friegasuelos limón Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013520856"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Dye, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Citrus Aurantium Dulcis Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Friegasuelos pino Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013520863"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Dye, Citrus Aurantium Dulcis Peel Oil, Camphor, Limonene, Eucalyptus Globulus Leaf Oil, Pinene, Terpinolene, Terpineol, Turpentine"
+    },
+    {
+     "nombre": "Friegasuelos flor de cerezo Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013520870"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, BHT, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos spa Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013520887"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Styrene Acrylates Copolymers, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Lavavajillas concentrado aloe vera Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013541271"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado manzana Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013541288"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado ultra Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013541295"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado higiene Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013541301"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Eliminador de olores ropa & tejidos Spar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480013613015"
+     ],
+     "inci": "Aqua, Soyethyl Morpholinium Ethosulfate, Parfum, Benzalkonium chloride, Didecyldimethylammonium chloride, Isopropyl alcohol, Trideceth-9, PEG-40 Hydrogenated Castor Oil"
+    }
+   ]
+  },
+  {
+   "key": "hogarel",
+   "nombre": "Hogarel",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas 3 en 1 Hogarel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017268419"
+     ],
+     "inci": "Aqua, Propylene glycol, Glycerin, Sorbitol, Ethanolamine, MEA – Lauryl Sulphate, Dodecylbenzene Sulphonic Acid, Ethoxylated Alcohol, Glycereth cocoate, Potassium sulfite, Fatty acid, Citric Acid, Polypropylene Terephthalate, Disodium Distyrylbiphenyl disulfonate, BHT, Alcohol, Subtilisin, Amylase, Mannanase, Cellulase, Lipase, Modified phosphonate, Styrene/Acrylates Copolymer, Perfumes, Dye"
+    }
+   ]
+  },
+  {
+   "key": "clarel",
+   "nombre": "Clarel",
+   "productos": [
+    {
+     "nombre": "Lavavajillas mega ultra concentrado Clarel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017310262"
+     ],
+     "inci": "Aqua, Sodium Laureth sulfate, Lauramine Oxide, Cocamidopropyl betaine, Alcohol, Sodium Cumene Sulfonate, Tetrasodium glutamate diacetate, Alcohols ethoxylated, Alcohols ethoxylated, Phenoxyethanol, Citric Acid, Parfum, Dye, Benzisothiazolinone, Yellow dye"
+    },
+    {
+     "nombre": "Gel lavavajillas maquina todo en 1 Clarel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017311054"
+     ],
+     "inci": "Aqua, Sodium Citrate, Trisodium Dicarboxymethyl alaninate, Fatty Alcohol Ethoxylated, Acrylic Terpolymer, Etidronic Acid, Hydrogenated Starch Hydrolysate, Citric Acid, Sodium Formate, Xanthan Gum, Parfum, Substilisin, Amylase, Sodium Sulfite, Methylisothiazolinone, Blue Dye, Benzisothiazolinone, Dye, Hexyl Cinnamal"
+    }
+   ]
+  },
+  {
+   "key": "selex",
+   "nombre": "Selex",
+   "productos": [
+    {
+     "nombre": "Detergente líquido marsella Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241627",
+      "8480024241665"
+     ],
+     "inci": "Aqua, Ácido bencenosulfónico, C10-13-alquil derivados, sales de sodio, Ethoxylated Alcohols, Sodium laureth sulfate, Sodium Cocoate, Sodium chloride, Triethanolamine, Perfumes, Acrylate Copolymer, Modified phosphonate, Stylbene Derivative Brightener, Dimethicone, Methylisothiazolinone, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Detergente líquido colonia Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241634"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoate, Modified phosphonate, TEA Cocoate, Parfum, Triethanolamine, Styrene/Acrylate Copolymer, Stilbene Derivative Brightener, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Detergente ropa blanca y color en cápsulas Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241641"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohols, Dodecylbenzene Sulphonic Acid, Glycerin, Fatty acid, Ethanolamine, Propylene glycol, Syrups, corn, hydrogenated, Alcohol, Polyester in aqueous solution, Citric acid, Parfum, Modified phosphonate, Disodium Distyrylbiphenyl disulfonate, 2,6-DI-TERT-BUTYL-P-CRESOL, Potassium Sulphite, Subtilisin, Amylase, Dye, Dye, Cellulalse, Lipase, Mannanase, Dye"
+    },
+    {
+     "nombre": "Detergente líquido ropa blanca y color Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241672",
+      "8480024241757"
+     ],
+     "inci": "Aqua, Sal de dode, Ethoxylated Alcohols, Sodium laureth sulfate, Fatty acid, Sodium Hydroxide, Sodium Formate, Triethanolamine, Acrylic Polymer Emulsion, Parfum, Sodium chloride, Acrylate Copolymer, Modified phosphonate, Stylbene Derivative Brightener, Amylase, Subtilisin, Methylisothiazolinone, Benzisothiazolinone, Dimethicone, Dye"
+    },
+    {
+     "nombre": "Detergente líquido ropa color 3l Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241689"
+     ],
+     "inci": "Aqua, SODIUM C10-13 ALKYL BENZENESULFONATE, Ethoxylated Alcohols, Sodium laureth sulfate, TEA Cocoate, Sodium Hydroxide, Sodium Formate, Parfum, Sodium chloride, Modified phosphonate, PVNO/ Poly Vinyl Pyridine-N-oxide, Dye, Subtilisin, Amylase, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Cellulase"
+    },
+    {
+     "nombre": "Cápsulas acción 3 en 1 power caps Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241696"
+     ],
+     "inci": "Aqua, Glycerin, MEA-Dode, Ethoxylated Alcohols, MEA Cocoate, Ethanolamine, Propylene glycol, Syrups, corn, hydrogenated, Alcohol, Polypropylene terephthalate, Parfum, STYRENE + ACRYLATE COPOLYMER, Modified phosphonate, BHT, Potassium Sulphite, Subtilisin, Amylase, Dye"
+    },
+    {
+     "nombre": "Detergente líquido prendas negras y oscuras Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241702"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Cocoate, Sodium Chloride, Sodium Formate, Parfum, Triethanolamine, Styrene/Acrylate Copolymer, Modified phosphonate, Ethylpyridine Oxide Homopolymer, Amylase, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Cellulase, Linalool"
+    },
+    {
+     "nombre": "Detergente líquido aloe vera Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241719"
+     ],
+     "inci": "Aqua, Sodium Allkylbenzenesulfonate, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoate, Modified phosphonate, TEA Cocoate, Parfum, Triethanolamine, Styrene/Acrylate Copolymer, Stilbene Derivative Brightener, Dimethicone, Benzisothiazolinone, Methylisothiazolinone, Dye"
+    },
+    {
+     "nombre": "Quitamanchas Oxi activo Color Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241726"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Carbonate Peroxide, Silicic acid, sodium salt, TAED, Ethoxylated Alcohols, Modified phosphonate, Subtilisin, Parfum, Dimethicone"
+    },
+    {
+     "nombre": "Quitamanchas Oxi activo Blanco Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241733"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Carbonate Peroxide, Silicic acid, sodium salt, TAED, Ethoxylated Alcohols, Modified phosphonate, Disodium Distryrylbiphenyl disulfonate, Parfum, Dimethicone, Subtilisin"
+    },
+    {
+     "nombre": "Spray plancha fácil Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241917"
+     ],
+     "inci": "Aqua, Alcohol, Perfumes, Diquaternary polydimethylsiloxane, Benzisothiazolinone, Methylisothiazolinone, Sodium Bicarbonate, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Eliminador de olores ropa & tejidos Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241962"
+     ],
+     "inci": "Aqua, Soyethyl Morpholinium Ethosulfate, Parfum, Benzalkonium chloride, Didecyldimethylammonium chloride, Isopropyl alcohol, Trideceth-9, PEG-40 Hydrogenated Castor Oil"
+    },
+    {
+     "nombre": "Spray limpia duchas Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024241979"
+     ],
+     "inci": "Aqua, Citric Acid, Alcohol, Lactic Acid, Caprylyl/ Capryl Glucoside, Propylene Glycol Butyl Ether, Parfum, Sodium Hydroxide, Acrylic Polymer"
+    },
+    {
+     "nombre": "Limpia máquinas 2 en 1 Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024242112"
+     ],
+     "inci": "Aqua, Citric Acid, Alcohols, C12-18, ethoxylated and propoxylated, Sodium Citrate, Sodium p-cumenesulphonate, Perfum, Benzisothiazolinone, Propylene Glycol, Dye, Sodium hydroxide, Propyl Gallate"
+    },
+    {
+     "nombre": "Lavavajillas concentrado aloe vera Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024250032"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado manzana Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024250049"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado ultra Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024250056"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado limón Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024250063"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado higiene Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024250070"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Friegasuelos limón Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024252241"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Dye, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Citrus Aurantium Dulcis Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Friegasuelos pino Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024252258"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye"
+    },
+    {
+     "nombre": "Friegasuelos spa Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024252272"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohol, Sodium Alkyl Benzenesulfonate, Parfum, Styrene Acrylates Copolymers, Bronopol, Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-Methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate, Dye, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Linalool, Geraniol"
+    },
+    {
+     "nombre": "Toallitas atrapa color x20 Selex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024293473"
+     ],
+     "inci": "Aqua, Polyalkylene amine (Cationic polymer)"
+    }
+   ]
+  },
+  {
+   "key": "vivo",
+   "nombre": "Vivó",
+   "productos": [
+    {
+     "nombre": "Detergente líquido marsella Vivó",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024355096"
+     ],
+     "inci": "Aqua, Ácido bencenosulfónico, C10-13-alquil derivados, sales de sodio, Ethoxylated Alcohols, Sodium laureth sulfate, Sodium Cocoate, Sodium chloride, Triethanolamine, Perfumes, Acrylate Copolymer, Modified phosphonate, Stylbene Derivative Brightener, Dimethicone, Methylisothiazolinone, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado ultra Vivó",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024370839"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ethoxylated Alcohols, Sodium Hydroxide, Sodium Cumene Sulfonate, Perfumes, Sodium Chloride, Dye, Benzisothiazolinone, Methylisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "plusmax",
+   "nombre": "Plus Max",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas 3 en 1 blanca y color Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615022"
+     ],
+     "inci": "Aqua, Ethoxylated alcohol, Dodecylbenzene Sulphonic Acid, Propylene glycol, Fatty acid, Ethanolamine, MEA-Lauryl Sulphate, Glycerol, Alcohol, Sorbitol, Lactic Acid, Perfumes, Phosphonates, Disodium distyrylbiphenyl disulfonate, Subtilisins, BHT, Potassium sulphite, Amylase, Lipase, Cellulase, Mannanase, Stryerene + Acrylate Copolymer, Dye"
+    },
+    {
+     "nombre": "Quitamanchas Oxi- Activo Blanco Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615039"
+     ],
+     "inci": "Sodium Carbonate Peroxide, Sodium Carbonate, Sodium Sulfate, TAED, Sodium Lauryl Sulfate, Ethoxylated Alcohol, Parfum, Disodium Distryrylbiphenyl disulfonate, Subtilisin, Alpha-amylase, Lipase, Mannanase, Tetrasodium Etidronate"
+    },
+    {
+     "nombre": "Detergente ropa líquido ropa delicada Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615077"
+     ],
+     "inci": "Aqua, Sodium laureth sulfate, Ethoxylated Alcohols, Sodium Cocoate, Parfum, Sodium Chloride, Acrylate copolymer, Modified phosphonate, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Dye, Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Detergente ropa líquido blanco y color universal Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615084"
+     ],
+     "inci": "Aqua, Dodecylbenzene Sulphonic Acid, Ethoxylated Alcohol, Sodium Laureth Sulfate, Sodium Cocoate, Sodium bicarbonate, Sodium chloride, Sodium Hydroxide, Sodium Formate, Triethanolamine, Tetrasodium glutamate diacetate, Parfum, Modified phosphonate, Stylbene Derivative Brightener, Acrylate Copolymer, Amylase, Subtilisin, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Lipase, Dye, Mannanase"
+    },
+    {
+     "nombre": "Detergente ropa líquido para prendas oscuras Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615091"
+     ],
+     "inci": "Aqua, Ethoxylated Alcohols, Sodium dodecylbenzene sulfonate, Sodium laureth sulfate, Sodium Cocoate, Sodium Formate, Sodium Chloride, Parfum, Acrylic Polymer Emulsion, Acrylate copolymer, Modified phosphonate, PVP, Amylase, Substilisin, Dimethicone, Methylisothiazolinone, Benzisothiazolinone, Cellulase, Amyl Salicylate, Linalool, Hexyl Cinnamal, Terpineol"
+    },
+    {
+     "nombre": "Detergente bebé pieles sensibles Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615107"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Ethoxylated Alcohol, Sodium Cocoate, Cocamidopropyl Betaine, Phenoxyethanol, Lauryl Glucoside, Caprylyl / Capryl Glucoside, Sodium Chloride, Parfum, Tetrasodium Glutamate Diacetate, Pearling agent, Acrylate Copolymer, Dimethicone"
+    },
+    {
+     "nombre": "Quitamanchas Oxi- Activo Color Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615138"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Carbonate Peroxide, Sodium Lauryl Sulfate, TAED, Ethoxylated Alcohol, Parfum, Subtilisina"
+    },
+    {
+     "nombre": "Detergente Capsulas Tricamara Marsella Plus Max",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480024615244"
+     ],
+     "inci": "Aqua, Ethoxylated alcohol, Dodecylbenzene Sulphonic Acid, Propylene glycol, Fatty acid, Ethanolamine, MEA-Lauryl Sulphate, Glycerol, Alcohol, Sorbitol, Lactic Acid, Perfumes, Phosphonates, Disodium distyrylbiphenyl disulfonate, Subtilisins, BHT, Potassium sulphite, Amylase, Lipase, Cellulase, Mannanase, Stryerene + Acrylate Copolymer, Dye, Terpineol"
     }
    ]
   }
