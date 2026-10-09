@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-clinique",
+ "version": "2026-10-09-mercadona",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -1478,6 +1478,277 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8480000416858"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Aceite corporal rosa mosqueta Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000468314"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Aceite de Ricino Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001013881"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 15 perla rosada",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000422934"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 155 burdeos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001052354"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001052361"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 158 tierra claro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001052378"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 18 suave peonia",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000422941"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 22 granate sublime",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000422965"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 39 dulce fresa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001032899"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas alto brillo Deliplus 76 rosa medio",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001013713"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas base brillo Deliplus 67",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001051296"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000416926"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000230218"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo Compacto 24H Long Lasting Deliplus · 02 beige rosado, 03 dorado",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001015687",
+    "8402001015694"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001015700"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo Compacto 24H Long Lasting Deliplus 05 bronceado",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001022593"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo compacto Sol Deliplus claro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001051562"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo compacto matificante efecto seda Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001040986"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 100 beige claro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001031786"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 200 beige rosado",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001031793"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 250 marrón medio",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001040979"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Polvo suelto translúcido Deliplus ácido hialurónico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001050619"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Pomada del pañal sin perfume Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000793447"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Prebase de maquillaje Hydra Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001040832"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Quitaesmalte acetona pura Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000796332"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Stick de árnica Cata Pum Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001012044"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001050930"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Tratamiento para uñas endurecedor Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001028014"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000422866"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Vaselina hidratante Deliplus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480000777492"
    ]
   },
   {
@@ -15002,6 +15273,33 @@
     "0020714462765",
     "0020714859459",
     "0020714462727"
+   ]
+  },
+  {
+   "marcaKey": "benfix",
+   "marca": "Benfix",
+   "nombre": "Crema adhesiva para prótesis dentales Benfix sin sabor",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8413647036707"
+   ]
+  },
+  {
+   "marcaKey": "deonat",
+   "marca": "Deonat",
+   "nombre": "Desodorante piedra de alumbre mineral Deonat",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8850567010033"
+   ]
+  },
+  {
+   "marcaKey": "facialclean",
+   "marca": "Facial Clean",
+   "nombre": "Desmaquillador de ojos y labios Bifásico Waterproof Facial Clean",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001049149"
    ]
   }
  ]

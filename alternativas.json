@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09",
+ "version": "2026-10-09b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -14,6 +14,12 @@
        "marca": "Caudalie",
        "barcode": "3522930003304",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Desodorante piedra de alumbre mineral Deonat",
+       "marca": "Deonat",
+       "barcode": "8850567010033",
+       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
@@ -267,6 +273,12 @@
        "barcode": "4005800346408",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DV9RFP1P"
+      },
+      {
+       "nombre": "Desmaquillador de ojos y labios Bifásico Waterproof Facial Clean",
+       "marca": "Facial Clean",
+       "barcode": "8402001049149",
+       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
@@ -1996,6 +2008,12 @@
        "amazon": "https://www.amazon.es/dp/B0CDXTHHP9"
       },
       {
+       "nombre": "Aceite corporal rosa mosqueta Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8480000468314",
+       "fechaLista": "09-10-2026"
+      },
+      {
        "nombre": "AtopiControl Hidroloción Calmante para piel atopica",
        "marca": "Eucerin",
        "barcode": "4005800350603",
@@ -2168,6 +2186,66 @@
        "barcode": "4059729488343",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DPB8ST1Y"
+      },
+      {
+       "nombre": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
+       "marca": "Deliplus",
+       "barcode": "8402001015700",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo Compacto 24H Long Lasting Deliplus 05 bronceado",
+       "marca": "Deliplus",
+       "barcode": "8402001022593",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo Compacto 24H Long Lasting Deliplus · 02 beige rosado, 03 dorado",
+       "marca": "Deliplus",
+       "barcode": "8402001015687",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo compacto matificante efecto seda Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8402001040986",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 100 beige claro",
+       "marca": "Deliplus",
+       "barcode": "8402001031786",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 200 beige rosado",
+       "marca": "Deliplus",
+       "barcode": "8402001031793",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo compacto perfeccionador efecto seda Deliplus 250 marrón medio",
+       "marca": "Deliplus",
+       "barcode": "8402001040979",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo compacto Sol Deliplus claro",
+       "marca": "Deliplus",
+       "barcode": "8402001051562",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Polvo suelto translúcido Deliplus ácido hialurónico",
+       "marca": "Deliplus",
+       "barcode": "8402001050619",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Prebase de maquillaje Hydra Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8402001040832",
+       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Super BB Concealer SPF 25 (Clair, Nude, Doré, Caramel, Chocolat) 10 ml",
@@ -4908,6 +4986,18 @@
        "marca": "CeraVe",
        "barcode": "3337875849326",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Pomada del pañal sin perfume Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8480000793447",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Vaselina hidratante Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8480000777492",
+       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Bálsamo emoliente antirrascado",
@@ -8079,10 +8169,100 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Laca de uñas alto brillo Deliplus 15 perla rosada",
+       "marca": "Deliplus",
+       "barcode": "8480000422934",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 155 burdeos",
+       "marca": "Deliplus",
+       "barcode": "8402001052354",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
+       "marca": "Deliplus",
+       "barcode": "8402001052361",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 158 tierra claro",
+       "marca": "Deliplus",
+       "barcode": "8402001052378",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 18 suave peonia",
+       "marca": "Deliplus",
+       "barcode": "8480000422941",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 22 granate sublime",
+       "marca": "Deliplus",
+       "barcode": "8480000422965",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 39 dulce fresa",
+       "marca": "Deliplus",
+       "barcode": "8402001032899",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas alto brillo Deliplus 76 rosa medio",
+       "marca": "Deliplus",
+       "barcode": "8402001013713",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas base brillo Deliplus 67",
+       "marca": "Deliplus",
+       "barcode": "8402001051296",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
+       "marca": "Deliplus",
+       "barcode": "8480000416926",
+       "fechaLista": "09-10-2026"
+      },
+      {
        "nombre": "Laca de uñas manicura francesa Deliplus 03 rosa",
        "marca": "Deliplus",
        "barcode": "8480000416858",
        "fechaLista": "11-09-2026"
+      },
+      {
+       "nombre": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+       "marca": "Deliplus",
+       "barcode": "8480000230218",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Quitaesmalte acetona pura Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8480000796332",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
+       "marca": "Deliplus",
+       "barcode": "8402001050930",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Tratamiento para uñas endurecedor Deliplus",
+       "marca": "Deliplus",
+       "barcode": "8402001028014",
+       "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
+       "marca": "Deliplus",
+       "barcode": "8480000422866",
+       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "barniz de uñas Fairy SHIMMER",

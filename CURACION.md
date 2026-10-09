@@ -200,6 +200,7 @@ tiene 2 códigos. Por la regla 2-bis la marca se queda vacía; si alguna vez int
 sería incidecoder producto a producto.
 
 ### Deliplus (Mercadona) — CERRADA hasta donde llega OBF (2026-09-10)
+**Ampliada el 2026-10-09 con la foto de la etiqueta de tienda.mercadona.es: 246 productos. Ver "Mercadona (tienda.mercadona.es)".**
 Resultado: **15 productos y 15 códigos**, de 532 códigos de Deliplus en Open Beauty Facts.
 Lo que se comprobó, por orden:
 1. **tienda.mercadona.es** — la API JSON funciona sin código postal (`?lang=es&wh=vlc1`):
@@ -4039,7 +4040,8 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-09: **alternativas.json versión 2026-10-09**, 1.523 productos, 227 con enlace de Amazon
+### Estado 2026-10-09: **alternativas.json versión 2026-10-09b**, 1.553 productos, 227 con enlace de Amazon
+(09b: +30 de Mercadona, ver su apartado.)
 (08 y 09: regla 191, Redken, Sensodyne, The INKEY List y Clinique; el detalle, en el apartado de cada marca. Los 6 limpios de INKEY y los 3
 de Clinique se suman a `amazon_pendientes.json`, que pasa a 248.)
 (07g: fuera lo corrosivo o tóxico de Hogar; entra Natulim: gel Clean&Calm, Oxi Clean, Oxi White, percarbonato, Tierras
@@ -4379,6 +4381,79 @@ Inglés, Primor y Sephora.
   en `amazon_pendientes.json`.
 Scripts: `clinique/` (`dl/`, `ic/`, `ic_extrae.py`, `match.py`, `build.py`, `detecta.mjs`, `cual.mjs`).
 
+### Mercadona (tienda.mercadona.es) — cuidado personal por foto de la etiqueta, 2026-10-09 (versión 2026-10-09-mercadona): 363 productos, 371 códigos
+Pedido de Mariana ("especialmente supermercados españoles, que creo que es lo que escanea la gente"). Deliplus pasa de
+16 a 246 productos y entran 35 marcas nuevas.
+- **Fuente.** La API de la tienda (`/api/categories/<id>/` y `/api/products/<id>/`, sin código postal) da el EAN, el
+  nombre oficial y las fotos (`photos[].zoom`, a 3600 px). Casi siempre es el **arte plano de la etiqueta** (delantera y
+  trasera), con la lista y el código de barras impresos en la misma imagen.
+- **Regla aplicada:** la de la foto trasera de El Corte Inglés (decisión del 2026-10-04: "si logramos leer los
+  ingredientes, es una fuente correcta"), con las mismas condiciones. Hasta ahora este documento decía que de una foto de
+  Mercadona no se transcribe, pero eso era anterior a la decisión. Condiciones:
+  - el código de barras tiene que verse en la foto, y si no coincide con el de la ficha, manda el de la foto;
+  - la lista se lee entera y sin dudas;
+  - fuera los kits con varias listas, la trasera que no dice la variante y las listas con Lilial o HICC.
+- **Embudo:**
+  - 731 fichas en 20 categorías de cuidado personal; 45 ya estaban en Nura y 118 son utensilios sin lista (cuchillas,
+    compresas, cepillos…).
+  - Se leyeron **568** en 17 lotes en paralelo (`INSTRUCCIONES.md`).
+  - Resultado de la lectura: 462 listas completas, 49 sin código visible, 35 sin lista (biocidas, protegeslips,
+    utensilios), 17 kits o lotes, 2 ilegibles, 2 cortadas y 1 sin variante.
+  - Quedan **371 códigos** tras quitar:
+    - 9 cuyo código de foto ya estaba en Nura;
+    - **82 de maquillaje con texto pasado por OCR** (ver abajo).
+- **Ojo, el recuadro de texto de parte del maquillaje Deliplus no es la etiqueta.** En correctores, bases Long Lasting e
+  Hydra, sticks multiusos, pintalabios, máscaras, sombras, lápices y Color Balm, la foto es la pegatina del código más
+  un recuadro (gris o blanco) con la lista **escrita a máquina a partir de un OCR**. Se nota en los nombres deformados:
+  - "Hyrirogenated Ethythexyi Dlivate";
+  - "Magnesiaan Sudiate";
+  - "Alanisum Hydroxide";
+  - "Trimetinylsiloxysilicate";
+  - "HDTrimethylol".
+
+  No son erratas de imprenta y no se corrigen. Quedan fuera los 27 que las tienen y los otros 55 con el mismo tipo de
+  recuadro aunque no se haya visto ninguna, porque su texto no es fiable (`ocr_fuera.json`). La etiqueta real de esos
+  productos queda bajo una solapa: solo se podrá con la foto del envase.
+- **Erratas sueltas corregidas** (una sola, inequívoca, en una etiqueta real, como en INKEY y Sisley):
+  - Beta-Sistosterol → Beta-Sitosterol (14726);
+  - Hydrolized → Hydrolyzed Keratin (35639);
+  - Cellulosa → Cellulose Gum (Benfix crema adhesiva);
+  - "Limonene Coumarin" → con coma (Shine Éclat).
+
+  También se cambian los separadores "·", "•", ";" o "." por comas, "Cl 77891" pasa a CI 77891, y los códigos de fórmula
+  ([PI…], [PR-…], F.I.L.) se quitan de la lista.
+- **Código de la foto distinto del de la ficha: 44 casos.**
+  - Casi todos son el mismo producto con el envase nuevo: Sanex Dermo+ y Zero%, H&S 330 ml, Pantene Repara & Protege,
+    perfumes My Soul, Como Tú y Shine, toallitas y desodorantes Deliplus.
+  - "Sun Med FPS 50+": las fotos son del **spray solar Deliplus FPS 50+**, que entra con su nombre y su marca.
+  - **8436614131144 queda resuelto:** es el **gel de ducha hidratante Natural Honey Derma Care**. Estaba descartado desde
+    el 2026-09-14 por no poder identificarse, y la foto de Mercadona lo enseña impreso en el envase con su lista.
+  - Dos UPC de envases que se venden aquí (Eco Style 0830372000434, Montagne Jeunesse 0083800070817) entran como código
+    del envase español (excepción a la regla 3, como los de Clinique).
+- **Marcas:**
+  - Se usan los nombres con que vende Mercadona: Deliplus, Facial Clean, Oil Free, K-Skin, Anti Ox, Khanya, Como Tú, My
+    Soul, Shine, Aqua Royale, 9.60, Monogotas, Misty Wood, Soplo, Vuela, Gesto…
+  - H&S va en Head & Shoulders, Elnett en L'Oréal Paris, y Sanex Men y Rexona Men en Sanex y Rexona.
+  - Los tonos de la base Hydra (6) y del polvo 24H (2) comparten trasera y van en una entrada.
+  - **La Toja**, que no entró en 2026-10-04 porque su web agrupa la lista, entra ahora con la etiqueta (gel de baño).
+- **Revisión FP/FN:** todos los avisos están de verdad en la lista y no hay falsos negativos.
+  - Lo más frecuente: perfume (274), fenoxietanol (109), galaxólido (83), BHT (62), propilenglicol (60), salicilato de
+    bencilo (59), eugenol y laureth (35), aroma en dentífricos (31), lavanda (24), aluminio en desodorantes (18).
+  - Triclosán en el desodorante Tulipán Negro; MIT/MCI en uno; clorhexidina en un colutorio.
+  - El papel higiénico húmedo Bosque Verde sale como Hogar porque la marca está marcada como de limpieza.
+- **Limpios (cero avisos): 33.**
+- **Regresión:** el detector no cambia; 0 cambios en las fichas anteriores.
+- **Alternativas 2026-10-09b:** entran 30 (1.522 → 1.552), 28 de Deliplus: 15 esmaltes y tratamientos de uñas, 10 polvos y
+  bases, la pomada del pañal sin perfume, la vaselina, el aceite corporal de rosa mosqueta, el desmaquillador bifásico
+  Facial Clean y la piedra de alumbre Deonat (desodorantes). El aceite de ricino, el stick de árnica y la crema adhesiva
+  Benfix no tienen tipo y no salen. Sin enlace de Amazon: Amazon.es no vende Deliplus.
+  - Arreglo de tipos (`tipos.py` y la tabla de la app): "desmaquillador" cuenta como limpiador facial y no como labial.
+  - **Pregunta abierta para Mariana:** la piedra de alumbre (Potassium Alum) no da aviso de "Compuestos de aluminio",
+    igual que los dos Sanex Mineral Protect que ya estaban. La regla solo nombra las sales de antitranspirante
+    (clorhidrato, circonio, cloruro).
+Scripts: `merca/` (`dl/`, `img/`, `lotes/`, `out/`, `INSTRUCCIONES.md`, `recorte.sh`, `aplica.py`, `vocab.py`, `errata.py`,
+`construye.py`, `detecta.mjs`, `hojas/` para revisar el tipo de foto).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4456,6 +4531,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | The INKEY List | Shopify (`eu.theinkeylist.com/products.json`) | sí, `barcode` en `.js` (**solo la tienda eu.**: el código UE es otro que el británico) | sí, acordeón "Ingredients" de la ficha | ver su apartado |
 | Crowe (marca propia de IFA: Froiz, Gadis, masymas) | — (no hay web de marca) | código de IFA `8480024…`, en el listado de INCI Beauty | **no oficial**: INCI Beauty (tras Cloudflare); tiendas con captcha | solo etiqueta (OBF o aportación manual); ver PEDIDOS 2026-10-09 |
 | Clinique | — (Akamai en clinique.es) | sí, en la API de Douglas (`ean` por variante; UPC de Estée Lauder `0020714…`/`0192333…`) | sí en la API de Douglas, contrastada con incidecoder (ahora inkeedecoder.com) | solo listas idénticas; ver su apartado |
+| Mercadona (Deliplus y el resto de su cuidado personal) | API de la tienda (`/api/categories/`, `/api/products/<id>/`) | sí (`ean`), pero manda el código impreso en la foto | **sí, en la foto de la etiqueta** (`photos[].zoom`, 3600 px); el recuadro de texto OCR del maquillaje no vale | ver su apartado (2026-10-09) |
 | Byly | WooCommerce (`/wp-json/wc/store/v1/products`, 9 desodorantes) | no | **no** | no entra (sin INCI) |
 | Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
