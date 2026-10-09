@@ -4746,5 +4746,5 @@ Cola: Redken cerrada el 2026-10-08 (42 productos, 62 códigos) y Cosmia ya estab
 - **Regresión (8.538 fichas): 3 cambios, los tres aciertos:** Asevi Abrillantador Lavavajillas 156 lavados, Asevi
   Lavavajillas Máquina Gel Power 36 lavados y Cloro Max Free quitamanchas de orina. Ninguno estaba en Alternativas, así
   que `alternativas.json` no cambia. Necesita build para verse en la app (es el detector).
-- Asevi queda así: 135 productos, 131 con aviso. Sin ningún aviso, 3: Desincrustante (agua, ácido clorhídrico y colorante),
+- Asevi queda así: 135 productos, 132 con aviso. Sin ningún aviso, 3: Desincrustante (agua, ácido clorhídrico y colorante),
   Limpiador Paellas y Calderos y Limpión Lavadoras (cloruro sódico, fosfato trisódico y carbonato).
