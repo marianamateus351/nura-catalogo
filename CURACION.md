@@ -842,6 +842,17 @@ Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de 
     Barbadensis Leaf Juice*, Hydrolyzed Wheat Protein, Sodium Hyaluronate, Citric Acid, Parfum**, Sodium Benzoate.
   - **No entra: Lacura Nature loción corporal té verde y bergamota.** La lista está cortada por los bordes y tapada por
     un círculo, y no se ve el código.
+- **Fotos de aldi.es (pista de Mariana, 2026-10-09):** la foto principal de algunas fichas es la trasera entera. Se leyeron
+  las 263 fichas de cuidado personal (`aldi/`, 11 lotes; scene7 limita el tamaño, así que el zoom se pide recortado al
+  servidor con `crop=`).
+  - **Solo 2 traen lista y código:** el gel de baño formato familiar Lacura Body 1000 ml (EAN-8 24027236, versión
+    2026-10-09-aldi3; fabricante Iberfrasa) y el champú familiar Lacura Hair (24027243, que ya había entrado).
+  - **10 enseñan el GTIN en el lateral, pero la lista se pierde por la curva del bote:** desodorantes Lacura Body y Men
+    (4047247813…) y jabones de manos Lacura Body (4070757263…). Ninguno está en Open Beauty Facts.
+  - **El resto son solo delanteras.**
+- **inkeedecoder (antes incidecoder):** 88 productos Lacura con lista, pero sin código y casi todos de envases alemanes
+  o británicos. Es una sola fuente de terceros, así que no basta para que entren. Sirve para contrastar cuando llegue
+  una foto con código.
 - **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
   la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
 

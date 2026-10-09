@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-aldi2",
+ "version": "2026-10-09-aldi3",
  "marcas": [
   {
    "key": "larocheposay",
@@ -80639,6 +80639,15 @@
       "24027243"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Aloe Barbadensis Leaf Extract, Parfum, Laureth-2, Sodium Sulfate, Citric Acid, Potassium Sorbate, Glycol Distearate, Sodium Benzoate, Laureth-4, Limonene, Linalool"
+    },
+    {
+     "nombre": "Gel de baño formato familiar con proteínas de leche Lacura Body 1000 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "24027236"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Hydrolyzed Milk Protein, Glycol Distearate, Citric Acid, Disodium EDTA, Sodium Benzoate, Potassium Sorbate, Parfum, Hexyl Cinnamal"
     }
    ]
   },
