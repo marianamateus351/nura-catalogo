@@ -786,7 +786,7 @@ la marca entera (con revisión FP/FN); si es alimentación o no se identifica, a
 lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre de Asevi, resuelto el
 18-09 como "no entra": Mariana puede quitarlo.)
 
-### 2026-10-09 (tarde) · Buscados: 4068263062797 y 4068263071508 — ALDI. **Actualización: 4068263062797 RESUELTO** (Tandil detergente en tiras, por la ficha de Incasa que encontró Mariana; ver "Incasa"). 4068263071508 sigue sin fuente
+### 2026-10-09 (tarde) · Buscados: 4068263062797 y 4068263071508 — ALDI. **Actualización: 4068263062797 RESUELTO** (Tandil detergente en tiras, por la ficha de Incasa que encontró Mariana; ver "Incasa"). 4068263071508 identificado (Lacura Champú Detox purificante, cabello graso), sin lista oficial
 Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de la pestaña ya estaban cerrados:
 8411582242320 (vinagre de limpieza de Asevi, 2026-09-18) y 8480024554093 (champú Crowe, hoy).
 - **No están** en Open Beauty, Food ni Products Facts, ni en Consum. El buscador no los conoce y go-upc respondió 429
@@ -813,6 +813,12 @@ Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de 
     código: fuera.
   - **Única vía real para el resto: fotos de la etiqueta trasera en tienda** (código + lista en la misma foto), de Mariana
     o de las usuarias con "Añadir ingredientes". Se transcriben con la misma regla que El Corte Inglés y Mercadona.
+- **4068263071508 identificado (Mariana, 2026-10-09):** es el **champú Detox purificante Lacura para cabello graso** (ALDI).
+  INCI Beauty lo tiene con foto en tienda de España (13-07-2026), pero la lista es la de siempre en esa web: orden
+  alfabético y 4 ingredientes tapados con asteriscos. No es la lista oficial ni está completa, así que **no entra**.
+  Lo que sí se ve (SLES, cocamide DEA, perfume…) ya daría avisos, pero no se publica una ficha a medias. No está entre
+  las fichas de Incasa (ni entre los PDF con contraseña). **Se queda en Buscados**, a la espera de la foto de la
+  etiqueta trasera (código y lista en la misma foto) por "Añadir ingredientes" o de Mariana en tienda.
 - **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
   la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
 
