@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-incasa",
+ "version": "2026-10-09-aldi2",
  "marcas": [
   {
    "key": "larocheposay",
@@ -80630,6 +80630,15 @@
       "4068263046582"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Urea, Glycerin, Cocamidopropyl Betaine, Decyl Glucoside, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Linalool"
+    },
+    {
+     "nombre": "Champú familiar aloe vera Lacura Hair 1000 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "24027243"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Aloe Barbadensis Leaf Extract, Parfum, Laureth-2, Sodium Sulfate, Citric Acid, Potassium Sorbate, Glycol Distearate, Sodium Benzoate, Laureth-4, Limonene, Linalool"
     }
    ]
   },

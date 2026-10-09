@@ -830,6 +830,18 @@ Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de 
     Coco-Glucoside, Sodium Chloride, Citric Acid, Betaine, Hydrolyzed Wheat Protein, Persea Gratissima Fruit Extract*,
     Tocopherol, Glyceryl Oleate, Glycerin, Hydrogenated Palm Glycerides Citrate, Parfum**, Sodium Benzoate.
     Open Beauty Facts tiene el acondicionador de la misma gama (24006026), pero no el champú.
+- **Más fotos de Instagram (cuenta cuidarse_es_vida, 2026-10-09):**
+  - **Entra: Lacura Hair Champú familiar aloe vera 1000 ml, EAN-8 24027243.** El código ("EAN: 24027243") y la lista
+    se leen enteros en la misma foto, con el dígito de control correcto. Fabricante: Perseida Belleza S.L. (Jerez de los
+    Caballeros, Badajoz). Versión 2026-10-09-aldi2. Avisos: perfume y laureth.
+  - **No entra: Lacura Nature acondicionador y mascarilla hidratante (coco y aloe).** La lista se lee entera, pero del
+    código solo se ve "…826?040856" (un rótulo y el dedo tapan el principio y una cifra). Con el prefijo de ALDI
+    España sería 4068263040856 y el dígito de control cuadra, pero la regla pide leerlo entero en la foto, no
+    completarlo. Lista anotada: Aqua, Cetearyl Alcohol, Glycerin, Malus Domestica Fruit Water*, Cocos Nucifera Oil*,
+    Glyceryl Stearate Citrate, Betaine, Helianthus Annuus Hybrid Oil, Polyglyceryl-3 Betainate Acetate, Aloe
+    Barbadensis Leaf Juice*, Hydrolyzed Wheat Protein, Sodium Hyaluronate, Citric Acid, Parfum**, Sodium Benzoate.
+  - **No entra: Lacura Nature loción corporal té verde y bergamota.** La lista está cortada por los bordes y tapada por
+    un círculo, y no se ve el código.
 - **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
   la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
 
