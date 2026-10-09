@@ -797,6 +797,22 @@ Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de 
   concreto.
 - **aldi.es no da ni código ni lista:** las fichas (Next.js, 2.769 en `sitemaps/.aldi-nord-sitemap-products.xml`) solo
   traen nombre, precio y la foto delantera (scene7).
+- **Búsqueda a fondo de una vía para ALDI (pedida por Mariana, "intenta buscar una forma de catalogar Aldi"):**
+  - **aldi.es:** 2.769 fichas en el mapa del sitio, 301 de cuidado personal (Lacura 114, Tandil 32, Dentitex 22, Lacura
+    Nature 16…). Ninguna trae código ni lista. Las fotos (scene7, `s7g10.scene7.com/is/image/aldinord/…`) son solo la
+    delantera o vistas del envase; ninguna es la trasera. Lo mismo en aldi-nord.de, aldi.pt, aldi.fr, aldi.nl, aldi.pl,
+    aldi.dk y aldi.be (todas con la misma plataforma de ALDI Nord).
+  - **ALDI Süd** (aldi-sued.de, aldi.it, hofer.at, aldi-suisse.ch, aldi.co.uk, aldi.ie): 403 de la protección contra bots.
+    No se fuerza.
+  - **Fabricantes en la etiqueta:** Swiss Consumer Goods / Mibelle (cremas Lacura Nature) e Iberfrasa (geles). No
+    publican fichas de marca blanca.
+  - **Open Beauty Facts:** cuatro códigos 4068263… de España. **Entra uno: el gel de ducha Lacura Body Zero eco-recarga
+    XXL 1.500 ml (4068263046582)**, porque la foto de la etiqueta trae la lista entera y el "GTIN: 4068263046582" impreso
+    en el mismo envase (regla de la foto trasera). Marca nueva "Lacura (ALDI)", versión 2026-10-09-aldi. Avisos:
+    perfume y laureth. La crema antiedad Lacura Nature (4068263040788) tiene lista legible pero ninguna foto enseña su
+    código: fuera.
+  - **Única vía real para el resto: fotos de la etiqueta trasera en tienda** (código + lista en la misma foto), de Mariana
+    o de las usuarias con "Añadir ingredientes". Se transcriben con la misma regla que El Corte Inglés y Mercadona.
 - **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
   la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
 

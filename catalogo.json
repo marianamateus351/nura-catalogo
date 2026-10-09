@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-mercadona",
+ "version": "2026-10-09-aldi",
  "marcas": [
   {
    "key": "larocheposay",
@@ -80251,6 +80251,21 @@
       "8480000157058"
      ],
      "inci": "Alcohol Denat., Aqua, Parfum, Limonene, Linalool, BHT, Citral, Citronellol"
+    }
+   ]
+  },
+  {
+   "key": "lacura",
+   "nombre": "Lacura (ALDI)",
+   "productos": [
+    {
+     "nombre": "Gel de ducha Zero pH neutro Lacura Body eco-recarga XXL 1500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068263046582"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Urea, Glycerin, Cocamidopropyl Betaine, Decyl Glucoside, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Linalool"
     }
    ]
   }
