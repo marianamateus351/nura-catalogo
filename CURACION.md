@@ -786,6 +786,20 @@ la marca entera (con revisión FP/FN); si es alimentación o no se identifica, a
 lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre de Asevi, resuelto el
 18-09 como "no entra": Mariana puede quitarlo.)
 
+### 2026-10-09 (tarde) · Buscados: 4068263062797 y 4068263071508 — ALDI (Lacura / Dentitex), **no entran: sin fuente**
+Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de la pestaña ya estaban cerrados:
+8411582242320 (vinagre de limpieza de Asevi, 2026-09-18) y 8480024554093 (champú Crowe, hoy).
+- **No están** en Open Beauty, Food ni Products Facts, ni en Consum. El buscador no los conoce y go-upc respondió 429
+  (no se insiste).
+- **Prefijo 4068263 = ALDI.** Open Beauty Facts tiene otros cuatro códigos 4068263…, todos vendidos en España y todos
+  de marcas propias de ALDI: crema antiedad Lacura Nature, champú hidratante Lacura Nature, dentífrico Dentitex Nature
+  y gel de ducha Lacura Body Zero. Los dos códigos pedidos son cosmética de ALDI, pero no se sabe qué producto
+  concreto.
+- **aldi.es no da ni código ni lista:** las fichas (Next.js, 2.769 en `sitemaps/.aldi-nord-sitemap-products.xml`) solo
+  traen nombre, precio y la foto delantera (scene7).
+- **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
+  la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
+
 ### ~~2026-10-09 · 8480024554093 — escaneado sin resultado~~ — cerrado 2026-10-09: identificado (Crowe, champú Repair), **no entra: sin lista oficial**
 - **Qué es:** **Crowe Champú Repair "Repara & Protege", cabello seco y dañado.** Crowe es la marca propia de cosmética
   del **grupo IFA**, la central de compras de supermercados regionales (Froiz, Gadis, masymas…). El prefijo `8480024`
