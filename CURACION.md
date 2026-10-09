@@ -785,6 +785,33 @@ la marca entera (con revisión FP/FN); si es alimentación o no se identifica, a
 lo quita de la pestaña. (El 8411582242320 que sigue en Buscados es el vinagre de Asevi, resuelto el
 18-09 como "no entra": Mariana puede quitarlo.)
 
+### ~~2026-10-09 · 8480024554093 — escaneado sin resultado~~ — cerrado 2026-10-09: identificado (Crowe, champú Repair), **no entra: sin lista oficial**
+- **Qué es:** **Crowe Champú Repair "Repara & Protege", cabello seco y dañado.** Crowe es la marca propia de cosmética
+  del **grupo IFA**, la central de compras de supermercados regionales (Froiz, Gadis, masymas…). El prefijo `8480024`
+  es de IFA y lo usa también para alimentación (en Open Products Facts hay unas patatas fritas con ese prefijo).
+  Dígito de control válido.
+- **Cómo se identificó:**
+  - No está en Open Beauty, Food ni Products Facts, y el buscador no da nada con el código exacto.
+  - En Open Beauty Facts, los códigos vecinos `84800245…` son de Crowe: body milk, solares, mascarilla y el gel de
+    piernas cansadas de Dia.
+  - El **listado de marca de INCI Beauty** (`incibeauty.com/brand/crowe`, 7 páginas, 163 productos, sin desafío)
+    enlaza `produit/8480024554093` con el nombre "Crowe Champú Repair Repara & Protege Cabello Seco y Dañado". Sus
+    vecinos son el acondicionador Repair 8480024554086, la mascarilla Repara y Protege 8480024554079 y los champús
+    Classic, Detox, Gold y Familiar (8480024554000-…055).
+- **Por qué no entra (regla 2-bis: sin INCI oficial completo no entra):**
+  - Crowe **no tiene web propia**.
+  - La ficha de INCI Beauty con la lista está tras el desafío de Cloudflare y no se salta. Además es una base de
+    terceros, no la fuente oficial.
+  - La tienda online de Froiz (`froiz.epreselec.com`) responde 405 con captcha.
+  - gadisline.com no tiene buscador accesible.
+  - supermercadosmasymas.com da un certificado que no se puede verificar, y no se fuerza.
+  - Dia no tiene Crowe en su buscador.
+- **Marca entera:** no se puede abrir por lo mismo: no hay ninguna fuente oficial de listas. Las únicas vías son
+  fotos legibles de etiqueta en OBF o la aportación manual de la usuaria (como el Mousse Crème Éclat de Sisley).
+  Si la usuaria teclea la lista, se aprueba a mano.
+- **No es alimentación:** es un champú. Mariana decide si lo quita de la pestaña o lo deja a la espera de una
+  etiqueta.
+
 ### ~~2026-10-05 · 3473311525109 "mousse creme eclat" — aportación manual de una usuaria~~ — resuelto (versión 2026-10-05-sisley): Sisley, marca entera
 Escaneado sin resultado y, acto seguido, la usuaria tecleó la lista (en Revisar, 05-10). Mariana la
 aprueba a mano con el nombre "Mousse Crème Éclat"; cuando el catálogo traiga la marca, Novedades la
@@ -4365,6 +4392,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Erborian | — (DataDome en todas las webs de la marca) | sí: **EAN en la URL** de farmaelglobo y farmacianautic (69 códigos) y en la API de Douglas | sí en farmacianautic (`INCI`) y Douglas, pero Nautic copia listas entre fichas: solo con incidecoder/Douglas idéntico | ver su apartado |
 | Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | sí desde 2026-10-07, `barcode` en `/products/<slug>.json` | sí, lista completa en la FAQ de la ficha | ver su apartado |
 | The INKEY List | Shopify (`eu.theinkeylist.com/products.json`) | sí, `barcode` en `.js` (**solo la tienda eu.**: el código UE es otro que el británico) | sí, acordeón "Ingredients" de la ficha | ver su apartado |
+| Crowe (marca propia de IFA: Froiz, Gadis, masymas) | — (no hay web de marca) | código de IFA `8480024…`, en el listado de INCI Beauty | **no oficial**: INCI Beauty (tras Cloudflare); tiendas con captcha | solo etiqueta (OBF o aportación manual); ver PEDIDOS 2026-10-09 |
 | Byly | WooCommerce (`/wp-json/wc/store/v1/products`, 9 desodorantes) | no | **no** | no entra (sin INCI) |
 | Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
