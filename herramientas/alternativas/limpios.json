@@ -1,5 +1,5 @@
 {
- "version": "2026-10-08-inkey",
+ "version": "2026-10-09-clinique",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14968,6 +14968,40 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5060879820760"
+   ]
+  },
+  {
+   "marcaKey": "clinique",
+   "marca": "Clinique",
+   "nombre": "Eyeliner Quickliner For Eyes Intense · 07 - Ivy, 09 - Ebony, 03 - Chocolate, 05 - Charcoal",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0192333100950",
+    "0192333100974",
+    "0192333100912",
+    "0192333100936"
+   ]
+  },
+  {
+   "marcaKey": "clinique",
+   "marca": "Clinique",
+   "nombre": "Aceite de labios y mejillas Pop Lip + Cheek Oil · Black Honey, 44 - Pink Honey, 33 - Nude Honey",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0192333261538",
+    "0192333300848",
+    "0192333300817"
+   ]
+  },
+  {
+   "marcaKey": "clinique",
+   "marca": "Clinique",
+   "nombre": "Tónico exfoliante Clarifying Lotion 2",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0020714462765",
+    "0020714859459",
+    "0020714462727"
    ]
   }
  ]

@@ -4039,7 +4039,9 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-07: **alternativas.json versión 2026-10-07g**, 1.522 productos, 228 con enlace de Amazon
+### Estado 2026-10-09: **alternativas.json versión 2026-10-09**, 1.523 productos, 227 con enlace de Amazon
+(08 y 09: regla 191, Redken, Sensodyne, The INKEY List y Clinique; el detalle, en el apartado de cada marca. Los 6 limpios de INKEY y los 3
+de Clinique se suman a `amazon_pendientes.json`, que pasa a 248.)
 (07g: fuera lo corrosivo o tóxico de Hogar; entra Natulim: gel Clean&Calm, Oxi Clean, Oxi White, percarbonato, Tierras
 de Sommières, cristales de soda y ácido cítrico, este con enlace.)
 (07e: fuera la lejía. 07e y 07f: +95 enlaces de 184 productos buscados (lotes d0-d3); 54 dudosos sin enlace. Quedan 239 por
@@ -4323,6 +4325,60 @@ perfume a Alternativas. Se vende en España en Sephora, Primor y Druni.
 - **Alternativas 2026-10-08c:** entran los 6 limpios (1.514 → 1.520): Omega Water Cream (cremas faciales), 30 % Vitamin C
   (sérums), tónico PHA (exfoliantes) y los tres bálsamos (labiales).
 
+### Clinique (Estée Lauder) — cerrada 2026-10-09 (versión 2026-10-09-clinique): 73 productos, 221 códigos (de 525 en Douglas)
+Marca elegida por Claude ("vamos curando las marcas", Mariana, 2026-10-09): muy buscada, se vende en Douglas, El Corte
+Inglés, Primor y Sephora.
+- **La web de la marca no se puede usar.** clinique.es está detrás de Akamai (bloquea curl con un agente normal). No se
+  ha intentado saltar la protección.
+- **Misma vía que Sisley, Kérastase y Erborian: Douglas + incidecoder.**
+  - Douglas España: páginas de marca y `/api/v2/products/<código>?fields=FULL` por variante (`ean`, `ingredients`,
+    `categories`, `baseProduct`): **525 variantes**.
+  - Incidecoder: 374 fichas de la marca (`/brands/clinique?offset=N`). **Ojo:** incidecoder.com redirige ahora (301) a
+    inkeedecoder.com; es el mismo servicio (las imágenes siguen en `incidecoder-assets`) y la lista sale igual, de
+    `#showmore-section-ingredlist-short`. Hay que quitar el "[more]" y los espacios de ancho cero que pega dentro.
+- **Códigos (excepción a la regla 3):** Clinique es de Estée Lauder (EE.UU.) y sus envases europeos llevan el UPC de la
+  casa, `0020714…` y `0192333…` (el UPC-A de 12 cifras con un 0 delante). Son los que publica Douglas España para lo
+  que vende aquí, y la app convierte el UPC escaneado de 12 cifras a esos 13.
+- **Ruido de Douglas, que se limpia antes de comparar:** el prefijo "Ingredients:", el código de lista `<ILN…>`, el
+  aviso en castellano ("Tenga en cuenta que la información sobre seguridad puede cambiar…"), el bloque de colorantes
+  "[+/- …]" / "may contain" (los colorantes sí se comparan) y las grafías del agua ("Water\Aqua\Eau",
+  "Water Aqua Eau"…). "1,2-Hexanediol" no se parte por la coma.
+- **No entran (304 variantes):**
+  - **205 con lista distinta de la de incidecoder, o que incidecoder no tiene** (otra fórmula, normalmente la
+    estadounidense o una anterior);
+  - **44 sin lista** (brochas, sets, estuches, algunas variantes);
+  - **29 en formato estadounidense** (Drug Facts, con porcentajes de los filtros: no es el INCI del envase europeo);
+  - **20 con la lista traducida al castellano**;
+  - **6 con la lista copiada de otro producto:** SuperDefense SPF 25 (dos fórmulas con la misma lista, 4 variantes),
+    la "SPF 30 sin aceite" (casa con otra crema) y la "SPF 40" de cuerpo (casa con el SPF 50 facial).
+- **Entran 221 variantes** con la lista idéntica en las dos fuentes (7 de ellas solo cambian las comas). Los tonos y
+  tamaños con la misma lista van en una entrada: Even Better Clinical Serum Foundation 20 códigos, Eye Shadow 16,
+  Superbalanced 14, Even Better Clinical Vitamin Makeup 12, Even Better Concealer 12…
+- **Lista guardada:** la de incidecoder (tipo título, limpia).
+- **Nombres:** tipo en castellano + nombre de la gama + tonos ("Base de maquillaje Superbalanced Makeup Foundation ·
+  Cn60 - Linen, 28 - Light…", "Tónico exfoliante Clarifying Lotion 2"), sin tamaño. El tipo sale de la categoría de
+  Douglas y, cuando no cuadra, del nombre (los Clarifying Lotion y Twice A Day Exfoliator son tónicos; el Deep
+  Comfort Body Wash, gel de ducha; el Pop Lip + Cheek Oil, aceite de labios y mejillas).
+- **Revisión FP/FN:** todos los avisos están de verdad en la lista. Sin falsos positivos ni negativos.
+  - fenoxietanol ×58, microplásticos ×22 (polietileno 10, nylon-6/-12/-66 8, PMMA y methyl methacrylate crosspolymer 5, polipropileno 1), BHT ×18,
+    ácido salicílico ×14, etoxilados ×14 (laureth-2/-4/-7/-21/-23 y sodium laureth sulfate), talco ×6,
+    benzofenona-4 ×4, etilhexil metoxicinamato ×4, hydroxypinacolone retinoate ×4 (regla del retinol), negro de humo
+    ×3, PTFE ×2, octisalato ×2, D5 ×2, D6 ×1, sulfitos ×1, cloruro de benzalconio ×1 (Do-Over Peel);
+  - los tres perfumes (Happy, Happy Heart, Happy for Men) dan fragancia no divulgada, más isoeugenol o salicilato de
+    bencilo;
+  - sin aviso, y es lo esperado: avobenzona, los alérgenos de perfume (limoneno, linalool, citral…: solo se avisan en
+    Hogar), los copolímeros de acrilatos (fuera de la regla 191 por la decisión del 2026-10-07).
+  - **Ojo, polyester-5** (High Impact High-fi Full Volume Mascara, que ya da aviso por nylon-6): no salta porque el alias "polyester" es exacto y no casa con
+    "polyester-5". Es un sulfopoliéster dispersable en agua que forma película en máscaras, así que por el mismo
+    criterio 5.b que el Acrylates Copolymer tampoco sería microplástico. No estaba en la tabla de la decisión; queda anotado aquí.
+- **Limpios (cero avisos):** el tónico Clarifying Lotion 2, el eyeliner Quickliner For Eyes Intense (4 tonos) y el
+  Pop Lip + Cheek Oil (3 tonos).
+- **Regresión:** el detector no cambia; 0 cambios en las fichas anteriores.
+- **Alternativas 2026-10-09:** entran los 3 limpios (1.520 → 1.523): Clarifying Lotion 2 (exfoliantes), Quickliner For
+  Eyes Intense (sombras, lápices de ojos y cejas) y Pop Lip + Cheek Oil (labiales). Sin enlace de Amazon todavía: quedan
+  en `amazon_pendientes.json`.
+Scripts: `clinique/` (`dl/`, `ic/`, `ic_extrae.py`, `match.py`, `build.py`, `detecta.mjs`, `cual.mjs`).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
@@ -4399,6 +4455,7 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Natulim | sí (Shopify `sitemap_products_1.xml`, ~40) | sí desde 2026-10-07, `barcode` en `/products/<slug>.json` | sí, lista completa en la FAQ de la ficha | ver su apartado |
 | The INKEY List | Shopify (`eu.theinkeylist.com/products.json`) | sí, `barcode` en `.js` (**solo la tienda eu.**: el código UE es otro que el británico) | sí, acordeón "Ingredients" de la ficha | ver su apartado |
 | Crowe (marca propia de IFA: Froiz, Gadis, masymas) | — (no hay web de marca) | código de IFA `8480024…`, en el listado de INCI Beauty | **no oficial**: INCI Beauty (tras Cloudflare); tiendas con captcha | solo etiqueta (OBF o aportación manual); ver PEDIDOS 2026-10-09 |
+| Clinique | — (Akamai en clinique.es) | sí, en la API de Douglas (`ean` por variante; UPC de Estée Lauder `0020714…`/`0192333…`) | sí en la API de Douglas, contrastada con incidecoder (ahora inkeedecoder.com) | solo listas idénticas; ver su apartado |
 | Byly | WooCommerce (`/wp-json/wc/store/v1/products`, 9 desodorantes) | no | **no** | no entra (sin INCI) |
 | Redken | sí (`redken.eu/es-es/sitemap.xml`; redken.com tras Cloudflare) | sí, cabecera de la ficha (`headers--sku`; UPC `884486…` o EAN `3474…`) | sí, pestaña INGREDIENTES (`data-ioplist`) | **el JSON-LD es de otro producto: no usar**; ver su apartado |
 | Carrefour | — (403 en .fr y .es) | — | — | solo etiqueta de OBF por código; ver su apartado |
