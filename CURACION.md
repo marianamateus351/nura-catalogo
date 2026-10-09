@@ -819,6 +819,17 @@ Foto de Mariana de la pestaña "Buscados", 1 escaneo cada uno. Los otros dos de 
   Lo que sí se ve (SLES, cocamide DEA, perfume…) ya daría avisos, pero no se publica una ficha a medias. No está entre
   las fichas de Incasa (ni entre los PDF con contraseña). **Se queda en Buscados**, a la espera de la foto de la
   etiqueta trasera (código y lista en la misma foto) por "Añadir ingredientes" o de Mariana en tienda.
+- **Listas de ALDI esperando código (fotos de Instagram que pasó Mariana, 2026-10-09).** Son listas legibles del
+  envase español, pero en ninguna foto se ve el código de barras, así que **no entran** hasta tener una foto con lista y
+  código juntos:
+  - Lacura Nature Champú Cuidado Clásico (almendra): Aqua, Aloe Barbadensis Leaf Juice*, Sodium Coco-Sulfate,
+    Coco-Glucoside, Glycerin, Lauryl Glucoside, Lactic Acid, Malus Domestica Fruit Water*, Glyceryl Oleate, Glycerin*,
+    PCA Glyceryl Oleate, Arginine, Prunus Amygdalus Dulcis Seed Extract*, Sodium Citrate, Sodium Chloride, Levulinic
+    Acid, Hydrogenated Palm Glycerides Citrate, Tocopherol, Parfum**, Sodium Levulinate.
+  - Biocura (marca anterior a Lacura Nature) Champú Reparador y Brillo (aguacate): Aqua, Sodium Coco-Sulfate,
+    Coco-Glucoside, Sodium Chloride, Citric Acid, Betaine, Hydrolyzed Wheat Protein, Persea Gratissima Fruit Extract*,
+    Tocopherol, Glyceryl Oleate, Glycerin, Hydrogenated Palm Glycerides Citrate, Parfum**, Sodium Benzoate.
+    Open Beauty Facts tiene el acondicionador de la misma gama (24006026), pero no el champú.
 - **Decisión: se quedan en Buscados**, como Crowe, a la espera de que la usuaria use "Añadir ingredientes" con la foto de
   la etiqueta, o de que alguien suba la ficha a Open Beauty Facts. ALDI no se puede abrir como marca por la misma razón.
 
