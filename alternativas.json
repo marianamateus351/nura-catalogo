@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09b",
+ "version": "2026-10-09c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -14,12 +14,6 @@
        "marca": "Caudalie",
        "barcode": "3522930003304",
        "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Desodorante piedra de alumbre mineral Deonat",
-       "marca": "Deonat",
-       "barcode": "8850567010033",
-       "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",

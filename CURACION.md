@@ -4040,8 +4040,8 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-09: **alternativas.json versión 2026-10-09b**, 1.553 productos, 227 con enlace de Amazon
-(09b: +30 de Mercadona, ver su apartado.)
+### Estado 2026-10-09: **alternativas.json versión 2026-10-09c**, 1.552 productos, 227 con enlace de Amazon
+(09b: +30 de Mercadona, ver su apartado. 09c: fuera Deonat, el alumbre cuenta como compuesto de aluminio.)
 (08 y 09: regla 191, Redken, Sensodyne, The INKEY List y Clinique; el detalle, en el apartado de cada marca. Los 6 limpios de INKEY y los 3
 de Clinique se suman a `amazon_pendientes.json`, que pasa a 248.)
 (07g: fuera lo corrosivo o tóxico de Hogar; entra Natulim: gel Clean&Calm, Oxi Clean, Oxi White, percarbonato, Tierras
@@ -4445,12 +4445,17 @@ Pedido de Mariana ("especialmente supermercados españoles, que creo que es lo q
 - **Regresión:** el detector no cambia; 0 cambios en las fichas anteriores.
 - **Alternativas 2026-10-09b:** entran 30 (1.522 → 1.552), 28 de Deliplus: 15 esmaltes y tratamientos de uñas, 10 polvos y
   bases, la pomada del pañal sin perfume, la vaselina, el aceite corporal de rosa mosqueta, el desmaquillador bifásico
-  Facial Clean y la piedra de alumbre Deonat (desodorantes). El aceite de ricino, el stick de árnica y la crema adhesiva
+  Facial Clean y la piedra de alumbre Deonat (desodorantes; sale en la 09c, ver abajo). El aceite de ricino, el stick de árnica y la crema adhesiva
   Benfix no tienen tipo y no salen. Sin enlace de Amazon: Amazon.es no vende Deliplus.
   - Arreglo de tipos (`tipos.py` y la tabla de la app): "desmaquillador" cuenta como limpiador facial y no como labial.
-  - **Pregunta abierta para Mariana:** la piedra de alumbre (Potassium Alum) no da aviso de "Compuestos de aluminio",
-    igual que los dos Sanex Mineral Protect que ya estaban. La regla solo nombra las sales de antitranspirante
-    (clorhidrato, circonio, cloruro).
+  - **DECIDIDO (Mariana, 2026-10-09): el alumbre cuenta como compuesto de aluminio.** La piedra de alumbre (Potassium Alum,
+    sulfato de aluminio y potasio) es una sal de aluminio. La regla 14 suma los alias Potassium/Ammonium Alum, Alumbre,
+    Potassium/Ammonium Aluminum (Aluminium) Sulfate y "sulfato de aluminio y potasio". No se usa "Alum" a secas, por la
+    búsqueda aproximada. Regresión sobre 8.368 fichas: 5 cambios, los 5 con alumbre (Sanex Mineral Protect roll-on,
+    roll-on antimanchas y spray; Uriage desodorante refrescante; Deonat). Ningún falso positivo: "Sodium Potassium
+    Aluminum Silicate" no salta. **Alternativas 2026-10-09c: sale Deonat (1.552 → 1.551).** La pestaña lo refleja sin
+    build porque la app lee `alternativas.json` en línea. El aviso en la ficha del producto necesita build, porque el
+    detector va dentro de la app.
 Scripts: `merca/` (`dl/`, `img/`, `lotes/`, `out/`, `INSTRUCCIONES.md`, `recorte.sh`, `aplica.py`, `vocab.py`, `errata.py`,
 `construye.py`, `detecta.mjs`, `hojas/` para revisar el tipo de foto).
 
