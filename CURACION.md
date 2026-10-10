@@ -776,7 +776,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-10-10 · W5 (limpieza de Lidl) — marca nueva pedida por Mariana, con fotos de etiqueta — PENDIENTE
+### 2026-10-10 · W5 (limpieza de Lidl) — marca nueva pedida por Mariana, con fotos de etiqueta — ABIERTA (1 producto; el resto, por fotos)
 Mariana fotografió en un Lidl el **W5 Friegasuelos Flor de Cerezo 1,5 L**, EAN **4056489871378**
 (prefijo 4056489, el mismo de Cien/Lidl). Fabricante: Iberfrasa S.L., Pol. Ind. Alto Losar,
 Quintanar de la Orden (Toledo). UFI SPU3-F0G3-F009-XXDV. Método de PRODUCTOS DE LIMPIEZA
@@ -796,6 +796,29 @@ transcrita tal cual:
   web (Lidl suele enlazarla desde lidl.es o lidl-info); si no la hay, la gama se cura con fotos de
   etiqueta como esta, producto a producto. Comprobar en Open Products Facts qué códigos W5 existen.
   Revisión FP/FN al cerrar y versión nueva de catalogo.json.
+- **Hecho (versión 2026-10-10-w5):** marca nueva `w5` ("W5 (Lidl)") con el Friegasuelos Flor de Cerezo 1,5 L
+  (4056489871378), lista tal cual el Anexo VII de la etiqueta: "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %,
+  Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone" (la frase "Contiene masa de reacción de 5-cloro-2-metil-2H-
+  isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1)" es la advertencia CLP de esas mismas dos sustancias, no un ingrediente
+  más). Categoría Hogar; avisos: fragancia, MIT y MCI. Cero falsos positivos.
+- **Falso negativo arreglado al probarla:** el detector no reconocía la MIT y la MCI con su nombre químico en español, como
+  sale en las advertencias CLP de las etiquetas de limpieza. Alias nuevos: "metilisotiazolinona", "2-metil-2H-isotiazol-3-ona",
+  "2-metilisotiazol-3(2H)-ona", "metilcloroisotiazolinona", "5-cloro-2-metil-2H-isotiazol-3-ona" y
+  "5-cloro-2-metilisotiazol-3(2H)-ona". Regresión sobre las 9.084 fichas: 0 cambios. Necesita build para verse en la app.
+- **Búsqueda de la hoja de ingredientes (648/2004, Anexo VII D):**
+  - **Lidl** tiene un buscador oficial por EAN, `detergents.lidl-info.com/index.php?cc=es&ean=<EAN>` (lo citan sus páginas de
+    atención al cliente de Reino Unido e Irlanda). La portada carga, pero **toda búsqueda devuelve 504** (el servidor de origen no
+    contesta: 35 s y error de Akamai, con cualquier código y país, en cinco intentos el 2026-10-10). No es un bloqueo: hay que
+    reintentarlo otro día. Es la vía buena para toda la gama si vuelve.
+  - **Iberfrasa** (fabricante del friegasuelos) no tiene web con fichas.
+  - **detergentdata.com** (SPB Global, Cheste, Valencia, fabricante de parte de W5) publica 42 fichas W5 con código, país y,
+    en 11, la lista en PDF; **ninguna es de España** (Alemania, Países Bajos, Bélgica, Francia, Reino Unido, Báltico, Grecia,
+    Chequia; Portugal solo en tres sin lista). Mismo EAN = mismo producto en toda Europa, así que servirían si un día aparecen en
+    España, pero hoy no se meten: no hay ningún W5 español entre ellas.
+  - **Open Products Facts / Open Food Facts:** 62 códigos W5, solo dos de España (20017194 "Ultraconcentrado" y 4056489871330
+    "w5 multiusos"), ambos sin lista ni foto trasera.
+  - **Conclusión:** de momento W5 España se cura **por fotos de etiqueta** (como esta), producto a producto, hasta que el
+    buscador de Lidl funcione.
 
 ### 2026-10-09 · 8480024554093, escaneo sin nombre — PENDIENTE: identificar y, si es cosmética con INCI oficial, curar la marca
 De la pestaña "Buscados" (foto de Mariana del 09-10), 1 escaneo, dígito de control válido. Prefijo

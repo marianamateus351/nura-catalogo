@@ -1,5 +1,5 @@
 {
- "version": "2026-10-10-consumdia2",
+ "version": "2026-10-10-w5",
  "marcas": [
   {
    "key": "larocheposay",
@@ -87240,6 +87240,21 @@
       "8436581949230"
      ],
      "inci": "Alcohol Denat., Aqua, Parfum, Hexamethylindanopyran (Galaxolide), Tetramethyl Acetyloctahydronaphthalenes (Otne), Linalool, Ethylhexyl Methoxycinnamate, Benzyl Salicylate, Hydroxycitronellal, Vanillin, Linalyl Acetate, Coumarin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, BHT, Trimethylcyclopentenyl Methylisopentenol, Benzyl Alcohol, Limonene, Geraniol, Pinene, Cananga Odorata Oil/Extract (Ylang Ylang), Rose Ketones, Beta-Caryophyllene, Benzaldehyde, Dimethyl Phenethyl Acetate, Geranyl Acetate, Citral, Benzyl Benzoate, Methyl Salicylate, Disodium EDTA, Blue 1 (CI 42090), Red 33 (CI 17200), Yellow 5 (CI 19140)"
+    }
+   ]
+  },
+  {
+   "key": "w5",
+   "nombre": "W5 (Lidl)",
+   "productos": [
+    {
+     "nombre": "Friegasuelos Flor de Cerezo W5 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489871378"
+     ],
+     "inci": "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %, Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone"
     }
    ]
   }
