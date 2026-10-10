@@ -4792,3 +4792,16 @@ si en **la misma foto** se ven la lista entera y el código).
   micelar Garnier, parches Iroha, crema de pañal Johnson's…). Lo que más sale: perfume 471, propilenglicol 153, fenoxietanol 144,
   laureth y etoxisulfatos 108+, salicilato de bencilo 93, galaxólido 84, aroma 42+, MIT y MCI 33, BHT 33, octisalato 31, DEA 28, D5 26.
 - Scripts y lecturas: `scratchpad` de la sesión (`lect/`, `super2/aplica.py`, `construye.py`, `une.py`, `fix.json`).
+
+### Fotos de Mariana en tienda (2026-10-10, versión 2026-10-10-consumdia2): +2
+
+- **Entran** (lista y código en la misma foto, leídos con zoom; el código lo confirma el lector automático):
+  - Natural Honey Gel de ducha Sensations Té Verde 650 ml, **8008970061320** (estaba en Buscados).
+  - Laiseven Gel de baño Bodylovers Kiwi, **8411322244683** (el tamaño no se ve en la foto).
+- **Ya estaban y su lista coincide con la foto:** Nivea Body Milk Nutritivo 400 ml (4006000086118), Natural Honey DermaCare
+  hidratante (8008970061252) y Sensations Coco (8008970061313), La Toja Sales Minerales (8410436463034) y Aloe Vera
+  (8410436463355), Cutex quitaesmalte extrahidratante (8432225092874; aquí se corrigió "Huile MinÉRale").
+- **No entran:** Sanytol toallitas desinfectantes compostables eucalipto (3045206312257): biocida con composición resumida
+  (ácido láctico 0,86 %, < 5 % tensioactivos anfóteros y no iónicos, perfumes); la FIC de sanytol.fr de toallitas eucalipto es
+  otra fórmula (DDAC y etanol). Babaria crema cara y escote SPF50+ Rosa Mosqueta 75 ml (8410412000703): ni lista ni código en
+  babaria.es; hace falta la trasera.
