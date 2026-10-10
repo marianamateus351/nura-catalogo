@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09-incasa",
+ "version": "2026-10-10-consumdia",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -327,15 +327,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3337875736763"
-   ]
-  },
-  {
-   "marcaKey": "isdin",
-   "marca": "ISDIN",
-   "nombre": "Babynaturals Primeros Dientes Gel 30 ml",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8429420181113"
    ]
   },
   {
@@ -1472,6 +1463,15 @@
    ]
   },
   {
+   "marcaKey": "garnier",
+   "marca": "Garnier",
+   "nombre": "Agua Micelar Mini 1 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600542081160"
+   ]
+  },
+  {
    "marcaKey": "deliplus",
    "marca": "Deliplus",
    "nombre": "Laca de uñas manicura francesa Deliplus 03 rosa",
@@ -1975,6 +1975,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3600524229085"
+   ]
+  },
+  {
+   "marcaKey": "lorealparis",
+   "marca": "L'Oréal Paris",
+   "nombre": "Mascarilla Hidrogel Iluminadora Revitalift 1 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600524259679"
    ]
   },
   {
@@ -2863,15 +2872,6 @@
   {
    "marcaKey": "asevi",
    "marca": "Asevi",
-   "nombre": "Abrillantador Lavavajillas 156 lavados",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8411582201648"
-   ]
-  },
-  {
-   "marcaKey": "asevi",
-   "marca": "Asevi",
    "nombre": "Desincrustante 0,5 L (envase de Rumanía)",
    "categoria": "Hogar",
    "barcodes": [
@@ -3146,6 +3146,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8436570020858"
+   ]
+  },
+  {
+   "marcaKey": "consum",
+   "marca": "Consum",
+   "nombre": "Toallitas Infantiles Aqua 99% 60 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8414807560568"
    ]
   },
   {
@@ -4394,51 +4403,6 @@
   {
    "marcaKey": "catrice",
    "marca": "Catrice",
-   "nombre": "Aceite labial Shine Supreme (tono 020 Peach Please)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729620781"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Aceite labial Shine Supreme (tono 030 Berry Shot)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729620804"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Aceite labial Shine Supreme (tono 040 Cherry Lush)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729620828"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Aceite labial Shine Supreme (tono 050 Sweet Treat)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729620842"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Aceite para labios Shine Supreme",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729630360"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
    "nombre": "All In One Brow Perfector",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -4490,128 +4454,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4059729589408"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tonos 010 Get Undressed, 020 Lovely Nude)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489562",
-    "4059729489586"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 030 Truly Yours)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489609"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 040 Wifey)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489623"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 050 Kiss Me Quick)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489647"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 060 Red Flag)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489661"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 070 Ciao Adios)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489685"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 080 Love Potion)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489708"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 090 No Broken Hearts)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489722"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 100 Coffee Date?)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489746"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tono 110 Pralines and Flowers)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489784"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios líquida Endless Matte (tonos 120 Candlelight Kiss, 130 So What)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489807",
-    "4059729503985"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios Scandalous Matte (tonos 010 Plain Truth, 050 Sucker For Love, 060 Good Intentions, 100 Muse Of Inspiration)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729402103",
-    "4059729402264",
-    "4059729402301",
-    "4059729402462"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Barra de labios Scandalous Matte (tono 120 Flame To Fame)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729419781"
    ]
   },
   {
@@ -4697,115 +4539,6 @@
   {
    "marcaKey": "catrice",
    "marca": "Catrice",
-   "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 020 Glow For It)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729541062"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 030 Too Glam To Give A Damn)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729541086"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 040 No Shade, Just Sparkle)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729541109"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 050 Glitterally Perfect)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729541482"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 020 Fairytale Filter)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588562"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 030 Miss Behave)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588586"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 040 Drama Certified)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588609"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tonos 050 Nude, Not Rude, 100 Cinnamon Glazed)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588623",
-    "4059729588722"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 060 Too Juicy To Care)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588647"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 070 Golden Hour Flex)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588661"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 080 The Sugarcoated Truth)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588685"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Brillo de labios Filler Supreme (tono 090 Say Less, Serve More)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588708"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
    "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tono 010 Gloss Therapy)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -4847,78 +4580,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4059729419255"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo de aceite labial Bare Touch (tono 020 Feelin' Pretty)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729621245"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo de aceite labial Bare Touch (tono 030 Bubbly Friday)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729621269"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo de aceite labial Bare Touch (tono 040 Kiss Me Wild)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729621283"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo de aceite labial Bare Touch (tono 050 Blushin' Hard)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729630438"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo labial brillante Peptide Bliss (tono 020 Blissberry)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729591524"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo labial brillante Peptide Bliss (tono 030 Dew Not Disturb)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729591531"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo labial brillante Peptide Bliss (tono 040 Toffee Touched)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729591548"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Bálsamo labial brillante Peptide Bliss (tono 050 Glazed \\u0026 Gorgeous)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729591555"
    ]
   },
   {
@@ -5834,69 +5495,6 @@
   {
    "marcaKey": "catrice",
    "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 010)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401427"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 020 No Fake Love)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401465"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 040 Prove Me Wrong)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401540"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 060 Real Talk)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401625"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 070 Fake It Till You Make It)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401663"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 090 Potentially Scandalous)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729401748"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Lip Booster labial Plump It Up (tono 110 Selflove And Glitter)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729515872"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
    "nombre": "Lápiz de ojos con efecto Jewel Glide (tono 020 Amber Glow)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -6039,105 +5637,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4059729587220"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Max It Up Lip Booster Extreme (tono 030 Ice Ice Baby)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729419576"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Max It Up Lip Booster Extreme (tono 040 Glow On Me)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729419583"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Max It Up Lip Booster Extreme (tono 050 Beam Me Away)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729445780"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Multi stick Blushin' Charm (tono 010 Pink Sweetheart)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729514899"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Multi stick Blushin' Charm (tono 020 Coral Cutie)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729514912"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Multi stick Blushin' Charm (tono 040 Sparkle Lover)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729514936"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Multi stick Blushin' Charm (tono 050 Radiant Honey)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729514950"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Multi stick Blushin' Charm (tono 030 Ruby Darling)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729514974"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 010 Stunning Strawberry)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729488657"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 030 Absolute Apricot)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489029"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 040 Peach Passion)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729489043"
    ]
   },
   {
@@ -6399,34 +5898,6 @@
   {
    "marcaKey": "catrice",
    "marca": "Catrice",
-   "nombre": "Sculpt & Charm Contour Stick (tonos 020 Stone, 030 Clay)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729588043",
-    "4059729588067"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Sculpt & Charm Contour Stick (tono 050 Espresso)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729594525"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
-   "nombre": "Sculpt & Charm Contour Stick (tono 040 Mocha)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729594532"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
    "nombre": "Slim'Matic Ultra Precise perfilador de cejas resistente al agua (tono 040 Cool Brown)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -6607,28 +6078,6 @@
   {
    "marcaKey": "catrice",
    "marca": "Catrice",
-   "nombre": "Sérum corrector Instant Bright",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729488343",
-    "4059729488367",
-    "4059729488381",
-    "4059729488404",
-    "4059729488428",
-    "4059729488442",
-    "4059729488466",
-    "4059729488480",
-    "4059729488503",
-    "4059729488527",
-    "4059729488541",
-    "4059729488558",
-    "4059729488572",
-    "4059729488596"
-   ]
-  },
-  {
-   "marcaKey": "catrice",
-   "marca": "Catrice",
    "nombre": "Tinción de delineador de labios Precision Ink (tonos 020 Never Yours, 040 Always Mine)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -6759,123 +6208,6 @@
   {
    "marcaKey": "essence",
    "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 10)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517173"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 20, 40, 70, 90, 100, 110, 130, 140, 150)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517197",
-    "4059729517234",
-    "4059729517296",
-    "4059729517333",
-    "4059729517357",
-    "4059729517371",
-    "4059729517418",
-    "4059729517432",
-    "4059729517456"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 30)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517210"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 50, 80)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517258",
-    "4059729517319"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 60)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517272"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 120, 160, 170, 180, 190, 200, 201, 202, 203, 230, 240)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517395",
-    "4059729517470",
-    "4059729517494",
-    "4059729517517",
-    "4059729517531",
-    "4059729517555",
-    "4059729517616",
-    "4059729517630",
-    "4059729521408",
-    "4059729521415",
-    "4059729521422"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 210, 220)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517579",
-    "4059729517593"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729517654",
-    "4059729517678",
-    "4059729517692",
-    "4059729517715",
-    "4059729517739",
-    "4059729517753",
-    "4059729517777",
-    "4059729517791",
-    "4059729517814",
-    "4059729517838",
-    "4059729517852",
-    "4059729517876",
-    "4059729517890",
-    "4059729517913",
-    "4059729517937",
-    "4059729517968"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 131, 141)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729548672",
-    "4059729548689"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
    "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 20, 50, 90, 100, 115, 120, 155, 165, 168, 170, 175, 178, 180, 185)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -6919,34 +6251,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4059729583925"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 02 Sour Cherry)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729593665"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 04 Blossom Peach)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729593672"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "Brillo de labios voluminizador JUICY BOMB (tonos 05 Soft Apricot, 08 Pure Raspberry)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729593689",
-    "4059729593702"
    ]
   },
   {
@@ -7349,96 +6653,6 @@
   {
    "marcaKey": "essence",
    "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 08 Gold Dust)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729302878"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 101 Milky Way)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729302892"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 102 Sweet Dreams)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729302908"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 103 Pretty in Pink)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729302915"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 105 Flower Blossom)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729302939"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 11 Power of nude)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729407870"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 12 Dazzling Apricot)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729466501"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 13 Glazed Berry)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729491381"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 19 Frosted Fairy)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729585080"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "extreme shine brillo de labios voluminizador (tono 20 Peach Please)",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729585097"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
    "nombre": "EYELINER GEL STAY & PLAY (tono 02 But First Espresso)",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -7830,15 +7044,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4059729543226"
-   ]
-  },
-  {
-   "marcaKey": "essence",
-   "marca": "essence",
-   "nombre": "Iluminador en barra BABY GOT GLOW",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "4059729542533"
    ]
   },
   {
@@ -11006,33 +10211,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385039305"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385039312"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 04",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385039336"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Barra de labios líquida Unlimited Double Touch · 129",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -11192,26 +10370,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385065205"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios One Magic Touch Lip Stylo",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385035017",
-    "8059385035024",
-    "8059385035031",
-    "8059385035079",
-    "8059385035062",
-    "8059385035093",
-    "8059385035055",
-    "8059385035116",
-    "8059385035048",
-    "8059385035086",
-    "8059385035000",
-    "8059385035109"
    ]
   },
   {
@@ -11401,28 +10559,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 03, 04, 05, 06",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385037141",
-    "8059385037165",
-    "8059385037172",
-    "8059385037158"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 01, 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385037127",
-    "8059385037134"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Brillo de labios 3D Hydra Lip Gloss · 47 - Limited edition",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -11463,15 +10599,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385021744"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Secret Lip Oil Core Stick · 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385037325"
    ]
   },
   {
@@ -12069,33 +11196,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385030814"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 03",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385030821"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385030807"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Sombra de ojos fluida Lumiverse My Holo Crush Liquid Eyeshadow",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12123,60 +11223,10 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Barra de labios líquida Gloss Supreme Color Glaze Lip Lacquer",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385024752",
-    "8059385024790",
-    "8059385024813",
-    "8059385024769"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Hidratante facial Power Shake Energ-Eyes Contour Cream",
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385033341"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 02, 04",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059372",
-    "8059385059358"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059341"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 05, 06",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059396",
-    "8059385059389"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 03",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059365"
    ]
   },
   {
@@ -12204,28 +11254,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385043470"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Polvos cocidos Radiant Fusion Baked Powder · 01, 06",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385005072",
-    "8059385005126"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Polvos cocidos Radiant Fusion Baked Powder · 02, 03, 04, 05",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385028484",
-    "8059385028453",
-    "8059385028477",
-    "8059385028460"
    ]
   },
   {
@@ -12263,42 +11291,6 @@
    "barcodes": [
     "8059385046105",
     "8059385046112"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385036663"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 03",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385036670"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385036656"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Magnetic Nights Ombre Lips Demi Matte Lipstick",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385027111"
    ]
   },
   {
@@ -12435,15 +11427,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385058047"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Bronceador fluido Just Cavalli X Kiko Milano Lumicanvas Skin Enhancer Spf30",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385058573"
    ]
   },
   {
@@ -12615,25 +11598,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 05, 06",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385045948",
-    "8059385045955"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385045900"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Polvos sueltos Unlimited Long Lasting Matte Loose Powder · 09",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12751,15 +11715,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Tratamiento labial Threads of Time 3D Hydra Lip Oil Limited Edition",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385046006"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Paleta de coloretes Flirt Alert Strike A Match Blush & Glow Palette",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12782,25 +11737,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385059747"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Polvos bronceadores compactos Lumiverse Matchy Matchy Sculpt&Bronze · 02, 03",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385035345",
-    "8059385035352"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Polvos bronceadores compactos Lumiverse Matchy Matchy Sculpt&Bronze · 01",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385035338"
    ]
   },
   {
@@ -12892,15 +11828,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Bálsamo labial con color Flirt Alert Kiss Me Softly Peptide Lip Balm",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385045795"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Brillo de labios Golden Oasis Lips & Cheeks Tint",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12923,26 +11850,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385030333"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios líquida Hug Couture Lip Puff Velvet Lip Mousse",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385046860",
-    "8059385046853",
-    "8059385046846"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Fijador de maquillaje Matte Diaries Timeless Invisible Liquid Mattifier",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059969"
    ]
   },
   {
@@ -12993,15 +11900,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Polvos compactos Snow-Kissed Holiday My Setting Duo Face Powder",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385040301"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Paleta de iluminadores Just Cavalli X Kiko Milano Light-Up The Party",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -13035,33 +11933,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Bálsamo labial con color Coloured Balm · 04",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385049465"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Bálsamo labial con color Coloured Balm · 06",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385049472"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Bálsamo labial con color Coloured Balm · 02",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385049458"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Lápiz de cejas automático Micro Precision Eyebrow Pencil",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -13084,33 +11955,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385040400"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Flirt Alert 3D Hydra Lip Gloss Limited Edition",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385045535"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Barra de labios líquida Snow-Kissed Holiday All That Matte-rs Lip Tint",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385039985"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Base de maquillaje fluida Holiday Wonderlights Silky Glow Foundation & Concealer",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385027876"
    ]
   },
   {
@@ -13162,15 +12006,6 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Tratamiento labial Kissable Smoothing Lip Scrub",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385046600"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Sombra de ojos compacta Hue Ready? Water Eyeshadow Eye'M An Artist Edition",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -13198,28 +12033,10 @@
   {
    "marcaKey": "kiko",
    "marca": "Kiko Milano",
-   "nombre": "Brillo de labios Threads of Time Unlimited Double Touch Limited Edition",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385047928"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
    "nombre": "Máscara de cejas Magnetic Nights Gravity-Proof Eyebrow Serum & Mascara",
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385025780"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Tratamiento labial Kissable Drop Lip Balm",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385049441"
    ]
   },
   {
@@ -13247,15 +12064,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8059385059105"
-   ]
-  },
-  {
-   "marcaKey": "kiko",
-   "marca": "Kiko Milano",
-   "nombre": "Tratamiento labial Just Cavalli X Kiko Milano Wild Beats  Solid Lip Oil",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8059385059150"
    ]
   },
   {
@@ -14676,6 +13484,15 @@
    ]
   },
   {
+   "marcaKey": "johnsons",
+   "marca": "Johnson's",
+   "nombre": "Crema protectora de pañal Johnson's baby 100 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3574661660912"
+   ]
+  },
+  {
    "marcaKey": "chilly",
    "marca": "Chilly",
    "nombre": "Mascarilla íntima hidratante pH 5.5 con vitamina B3 y ácido hialurónico",
@@ -14719,6 +13536,15 @@
    "barcodes": [
     "8006530199773",
     "8006530199728"
+   ]
+  },
+  {
+   "marcaKey": "dodot",
+   "marca": "Dodot",
+   "nombre": "Toallitas Pure Aqua Cuidado Total 48 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8006540836224"
    ]
   },
   {
@@ -14809,6 +13635,33 @@
    "categoria": "Hogar",
    "barcodes": [
     "8421335002354"
+   ]
+  },
+  {
+   "marcaKey": "iroha",
+   "marca": "Iroha",
+   "nombre": "Parches para el contorno de ojos antiarrugas Iroha nature 2 unidades",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436036436414"
+   ]
+  },
+  {
+   "marcaKey": "salustar",
+   "marca": "Salustar",
+   "nombre": "Toallitas Agua Micelar 20 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8410800066885"
+   ]
+  },
+  {
+   "marcaKey": "salustar",
+   "marca": "Salustar",
+   "nombre": "Toallitas Húmedas Bebé Ecológicas 60 U",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8410800068667"
    ]
   },
   {
@@ -15086,15 +13939,6 @@
   {
    "marcaKey": "rhode",
    "marca": "Rhode",
-   "nombre": "Bálsamo labial Peptide Lip Treatment Strawberry Glaze",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "0810175610382"
-   ]
-  },
-  {
-   "marcaKey": "rhode",
-   "marca": "Rhode",
    "nombre": "Bálsamo labial Peptide Lip Treatment Unscented",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -15309,6 +14153,33 @@
    "categoria": "Hogar",
    "barcodes": [
     "8480024293473"
+   ]
+  },
+  {
+   "marcaKey": "diaimaqe",
+   "marca": "Dia Imaqe",
+   "nombre": "Ampollas faciales vitamina C y ácido tranexámico Dia Imaqe 7 x 2 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480017242594"
+   ]
+  },
+  {
+   "marcaKey": "feelfree",
+   "marca": "Feel Free",
+   "nombre": "Feel Free Desmaquillante bifásico de ojos Special waterproof 100 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437017753506"
+   ]
+  },
+  {
+   "marcaKey": "kyrey",
+   "marca": "Kyrey",
+   "nombre": "Gel Refrescante Pies y Piernas 125 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8414807540126"
    ]
   }
  ]
