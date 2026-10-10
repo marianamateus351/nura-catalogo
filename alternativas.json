@@ -1,5 +1,5 @@
 {
- "version": "2026-10-09d",
+ "version": "2026-10-10",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -273,6 +273,18 @@
        "marca": "Facial Clean",
        "barcode": "8402001049149",
        "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Feel Free Desmaquillante bifásico de ojos Special waterproof 100 ml",
+       "marca": "Feel Free",
+       "barcode": "8437017753506",
+       "fechaLista": "10-10-2026"
+      },
+      {
+       "nombre": "Agua Micelar Mini 1 U",
+       "marca": "Garnier",
+       "barcode": "3600542081160",
+       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
@@ -1128,6 +1140,12 @@
        "barcode": "8809598454958",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09ZYB8S31"
+      },
+      {
+       "nombre": "Ampollas faciales vitamina C y ácido tranexámico Dia Imaqe 7 x 2 ml",
+       "marca": "Dia Imaqe",
+       "barcode": "8480017242594",
+       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Keracnyl Sérum regulador antiimperfecciones",
@@ -2175,13 +2193,6 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Sérum corrector Instant Bright",
-       "marca": "Catrice",
-       "barcode": "4059729488343",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0DPB8ST1Y"
-      },
-      {
        "nombre": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
        "marca": "Deliplus",
        "barcode": "8402001015700",
@@ -2247,60 +2258,6 @@
        "barcode": "8809255788150",
        "fechaLista": "16-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CQP8J8QC"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 10)",
-       "marca": "essence",
-       "barcode": "4059729517173",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 30)",
-       "marca": "essence",
-       "barcode": "4059729517210",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tono 60)",
-       "marca": "essence",
-       "barcode": "4059729517272",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 120, 160, 170, 180, 190, 200, 201, 202, 203, 230, 240)",
-       "marca": "essence",
-       "barcode": "4059729517395",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 131, 141)",
-       "marca": "essence",
-       "barcode": "4059729548672",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 20, 40, 70, 90, 100, 110, 130, 140, 150)",
-       "marca": "essence",
-       "barcode": "4059729517197",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 210, 220)",
-       "marca": "essence",
-       "barcode": "4059729517579",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400)",
-       "marca": "essence",
-       "barcode": "4059729517654",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "BASE DE MAQUILLAJE EN BARRA (tonos 50, 80)",
-       "marca": "essence",
-       "barcode": "4059729517258",
-       "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tono 158)",
@@ -2371,45 +2328,15 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Base de maquillaje fluida Holiday Wonderlights Silky Glow Foundation & Concealer",
-       "marca": "Kiko Milano",
-       "barcode": "8059385027876",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Fijador de maquillaje Matte Diaries Timeless Invisible Liquid Mattifier",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059969",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Polvos cocidos Dreamphoria Glow Up Beautifier Highlighting Face Powder",
        "marca": "Kiko Milano",
        "barcode": "8059385030333",
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Polvos cocidos Radiant Fusion Baked Powder · 01, 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385005072",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Polvos cocidos Radiant Fusion Baked Powder · 02, 03, 04, 05",
-       "marca": "Kiko Milano",
-       "barcode": "8059385028484",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Polvos compactos Matte Diaries Timeless Invisible Mattifier",
        "marca": "Kiko Milano",
        "barcode": "8059385059334",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Polvos compactos Snow-Kissed Holiday My Setting Duo Face Powder",
-       "marca": "Kiko Milano",
-       "barcode": "8059385040301",
        "fechaLista": "03-10-2026"
       },
       {
@@ -2596,116 +2523,6 @@
        "fechaLista": "09-09-2026"
       },
       {
-       "nombre": "Aceite labial Shine Supreme (tono 020 Peach Please)",
-       "marca": "Catrice",
-       "barcode": "4059729620781",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Aceite labial Shine Supreme (tono 030 Berry Shot)",
-       "marca": "Catrice",
-       "barcode": "4059729620804",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Aceite labial Shine Supreme (tono 040 Cherry Lush)",
-       "marca": "Catrice",
-       "barcode": "4059729620828",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Aceite labial Shine Supreme (tono 050 Sweet Treat)",
-       "marca": "Catrice",
-       "barcode": "4059729620842",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Aceite para labios Shine Supreme",
-       "marca": "Catrice",
-       "barcode": "4059729630360",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 030 Truly Yours)",
-       "marca": "Catrice",
-       "barcode": "4059729489609",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 040 Wifey)",
-       "marca": "Catrice",
-       "barcode": "4059729489623",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 050 Kiss Me Quick)",
-       "marca": "Catrice",
-       "barcode": "4059729489647",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 060 Red Flag)",
-       "marca": "Catrice",
-       "barcode": "4059729489661",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 070 Ciao Adios)",
-       "marca": "Catrice",
-       "barcode": "4059729489685",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 080 Love Potion)",
-       "marca": "Catrice",
-       "barcode": "4059729489708",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 090 No Broken Hearts)",
-       "marca": "Catrice",
-       "barcode": "4059729489722",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 100 Coffee Date?)",
-       "marca": "Catrice",
-       "barcode": "4059729489746",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tono 110 Pralines and Flowers)",
-       "marca": "Catrice",
-       "barcode": "4059729489784",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tonos 010 Get Undressed, 020 Lovely Nude)",
-       "marca": "Catrice",
-       "barcode": "4059729489562",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Endless Matte (tonos 120 Candlelight Kiss, 130 So What)",
-       "marca": "Catrice",
-       "barcode": "4059729489807",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0FGJY4DB3"
-      },
-      {
-       "nombre": "Barra de labios Scandalous Matte (tono 120 Flame To Fame)",
-       "marca": "Catrice",
-       "barcode": "4059729419781",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Barra de labios Scandalous Matte (tonos 010 Plain Truth, 050 Sucker For Love, 060 Good Intentions, 100 Muse Of Inspiration)",
-       "marca": "Catrice",
-       "barcode": "4059729402103",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BFP56YTG"
-      },
-      {
        "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
        "marca": "Catrice",
        "barcode": "4059729588975",
@@ -2721,78 +2538,6 @@
        "nombre": "Blur-Real Barra de labios (tonos 020 Taupe Tension, 030 Whisper Nude, 040 Muted Romance)",
        "marca": "Catrice",
        "barcode": "4059729588487",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 020 Glow For It)",
-       "marca": "Catrice",
-       "barcode": "4059729541062",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 030 Too Glam To Give A Damn)",
-       "marca": "Catrice",
-       "barcode": "4059729541086",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 040 No Shade, Just Sparkle)",
-       "marca": "Catrice",
-       "barcode": "4059729541109",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Diamond Glaze Gloss Stick (tono 050 Glitterally Perfect)",
-       "marca": "Catrice",
-       "barcode": "4059729541482",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 020 Fairytale Filter)",
-       "marca": "Catrice",
-       "barcode": "4059729588562",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 030 Miss Behave)",
-       "marca": "Catrice",
-       "barcode": "4059729588586",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 040 Drama Certified)",
-       "marca": "Catrice",
-       "barcode": "4059729588609",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 060 Too Juicy To Care)",
-       "marca": "Catrice",
-       "barcode": "4059729588647",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 070 Golden Hour Flex)",
-       "marca": "Catrice",
-       "barcode": "4059729588661",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 080 The Sugarcoated Truth)",
-       "marca": "Catrice",
-       "barcode": "4059729588685",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tono 090 Say Less, Serve More)",
-       "marca": "Catrice",
-       "barcode": "4059729588708",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios Filler Supreme (tonos 050 Nude, Not Rude, 100 Cinnamon Glazed)",
-       "marca": "Catrice",
-       "barcode": "4059729588623",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2817,56 +2562,6 @@
        "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tonos 020 Same Gloss, Different Day, 030 Gloss Over It)",
        "marca": "Catrice",
        "barcode": "4059729541307",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo de aceite labial Bare Touch (tono 020 Feelin' Pretty)",
-       "marca": "Catrice",
-       "barcode": "4059729621245",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo de aceite labial Bare Touch (tono 030 Bubbly Friday)",
-       "marca": "Catrice",
-       "barcode": "4059729621269",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo de aceite labial Bare Touch (tono 040 Kiss Me Wild)",
-       "marca": "Catrice",
-       "barcode": "4059729621283",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo de aceite labial Bare Touch (tono 050 Blushin' Hard)",
-       "marca": "Catrice",
-       "barcode": "4059729630438",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 020 Blissberry)",
-       "marca": "Catrice",
-       "barcode": "4059729591524",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0G44DYWG8"
-      },
-      {
-       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 030 Dew Not Disturb)",
-       "marca": "Catrice",
-       "barcode": "4059729591531",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0G44DYWGT"
-      },
-      {
-       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 040 Toffee Touched)",
-       "marca": "Catrice",
-       "barcode": "4059729591548",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bálsamo labial brillante Peptide Bliss (tono 050 Glazed \\u0026 Gorgeous)",
-       "marca": "Catrice",
-       "barcode": "4059729591555",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2906,53 +2601,6 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Lip Booster labial Plump It Up (tono 010)",
-       "marca": "Catrice",
-       "barcode": "4059729401427",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BGHTMZYY"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 020 No Fake Love)",
-       "marca": "Catrice",
-       "barcode": "4059729401465",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BGHGB27P"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 040 Prove Me Wrong)",
-       "marca": "Catrice",
-       "barcode": "4059729401540",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BGHKF63P"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 060 Real Talk)",
-       "marca": "Catrice",
-       "barcode": "4059729401625",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BGHJQ7M4"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 070 Fake It Till You Make It)",
-       "marca": "Catrice",
-       "barcode": "4059729401663",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BGHJM6BR"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 090 Potentially Scandalous)",
-       "marca": "Catrice",
-       "barcode": "4059729401748",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Lip Booster labial Plump It Up (tono 110 Selflove And Glitter)",
-       "marca": "Catrice",
-       "barcode": "4059729515872",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "Lápiz labial Creamy Nudes (tono 020 Daytime Nude)",
        "marca": "Catrice",
        "barcode": "4059729489883",
@@ -2981,25 +2629,6 @@
        "marca": "Catrice",
        "barcode": "4059729401380",
        "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Max It Up Lip Booster Extreme (tono 030 Ice Ice Baby)",
-       "marca": "Catrice",
-       "barcode": "4059729419576",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Max It Up Lip Booster Extreme (tono 040 Glow On Me)",
-       "marca": "Catrice",
-       "barcode": "4059729419583",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Max It Up Lip Booster Extreme (tono 050 Beam Me Away)",
-       "marca": "Catrice",
-       "barcode": "4059729445780",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CPLZFMVY"
       },
       {
        "nombre": "Perfilador de labios de larga duración Gel Glide (tono 020 Drip The Drama)",
@@ -3152,87 +2781,6 @@
        "fechaLista": "24-09-2026"
       },
       {
-       "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 02 Sour Cherry)",
-       "marca": "essence",
-       "barcode": "4059729593665",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios voluminizador JUICY BOMB (tono 04 Blossom Peach)",
-       "marca": "essence",
-       "barcode": "4059729593672",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Brillo de labios voluminizador JUICY BOMB (tonos 05 Soft Apricot, 08 Pure Raspberry)",
-       "marca": "essence",
-       "barcode": "4059729593689",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 08 Gold Dust)",
-       "marca": "essence",
-       "barcode": "4059729302878",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 101 Milky Way)",
-       "marca": "essence",
-       "barcode": "4059729302892",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B092R1XSMD"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 102 Sweet Dreams)",
-       "marca": "essence",
-       "barcode": "4059729302908",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 103 Pretty in Pink)",
-       "marca": "essence",
-       "barcode": "4059729302915",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B092R23XWQ"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 105 Flower Blossom)",
-       "marca": "essence",
-       "barcode": "4059729302939",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 11 Power of nude)",
-       "marca": "essence",
-       "barcode": "4059729407870",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BBGQHFXN"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 12 Dazzling Apricot)",
-       "marca": "essence",
-       "barcode": "4059729466501",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 13 Glazed Berry)",
-       "marca": "essence",
-       "barcode": "4059729491381",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 19 Frosted Fairy)",
-       "marca": "essence",
-       "barcode": "4059729585080",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "extreme shine brillo de labios voluminizador (tono 20 Peach Please)",
-       "marca": "essence",
-       "barcode": "4059729585097",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "LÁPIZ DE LABIOS POUTline soft glide (tono 02 Pinky Promise)",
        "marca": "essence",
        "barcode": "4059729585202",
@@ -3294,30 +2842,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385045900",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Flirt Alert Heartstopper Shiny Lipstick · 05, 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385045948",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Gloss Supreme Color Glaze Lip Lacquer",
-       "marca": "Kiko Milano",
-       "barcode": "8059385024752",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Hug Couture Lip Puff Velvet Lip Mousse",
-       "marca": "Kiko Milano",
-       "barcode": "8059385046860",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Barra de labios líquida Lasting Matte Veil Liquid Lip Colour · 01, 02, 03, 04, 05 y 11 tonos más",
        "marca": "Kiko Milano",
        "barcode": "8059385002279",
@@ -3340,12 +2864,6 @@
        "nombre": "Barra de labios líquida Metal Liquid Lip Colour",
        "marca": "Kiko Milano",
        "barcode": "8025272639873",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Snow-Kissed Holiday All That Matte-rs Lip Tint",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039985",
        "fechaLista": "03-10-2026"
       },
       {
@@ -3401,48 +2919,6 @@
        "nombre": "Barra de labios líquida Vinyl Lock Lip Lacquer",
        "marca": "Kiko Milano",
        "barcode": "8059385045016",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Magnetic Nights Ombre Lips Demi Matte Lipstick",
-       "marca": "Kiko Milano",
-       "barcode": "8059385027111",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059341",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 02, 04",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059372",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 03",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059365",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Matte Diaries Matte-À-Porter Lipstick · 05, 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059396",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios One Magic Touch Lip Stylo",
-       "marca": "Kiko Milano",
-       "barcode": "8059385035017",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Secret Lip Oil Core Stick · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385037325",
        "fechaLista": "03-10-2026"
       },
       {
@@ -3554,18 +3030,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 01, 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385037127",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios 3D Hydra Xtreme Lipgloss · 03, 04, 05, 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385037141",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Brillo de labios Candy Crush™ Sparkle Lip Gloss",
        "marca": "Kiko Milano",
        "barcode": "8059385023236",
@@ -3650,30 +3114,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039305",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039312",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios en lápiz Snow-Kissed Holiday Twist N' Shine Lipgloss · 04",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039336",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Flirt Alert 3D Hydra Lip Gloss Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385045535",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Brillo de labios Golden Oasis Lips & Cheeks Tint",
        "marca": "Kiko Milano",
        "barcode": "8059385030630",
@@ -3686,75 +3126,9 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385030807",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385030814",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Kind by Kiko Hydra Lip Oil · 03",
-       "marca": "Kiko Milano",
-       "barcode": "8059385030821",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385036656",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385036663",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Lumiverse My Holo Crush Lipgloss&Coat · 03",
-       "marca": "Kiko Milano",
-       "barcode": "8059385036670",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios Threads of Time Unlimited Double Touch Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385047928",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Bálsamo labial con color Candy Crush™ Luminous Lip Balm",
        "marca": "Kiko Milano",
        "barcode": "8059385023120",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Coloured Balm · 02",
-       "marca": "Kiko Milano",
-       "barcode": "8059385049458",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Coloured Balm · 04",
-       "marca": "Kiko Milano",
-       "barcode": "8059385049465",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Coloured Balm · 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385049472",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Flirt Alert Kiss Me Softly Peptide Lip Balm",
-       "marca": "Kiko Milano",
-       "barcode": "8059385045795",
        "fechaLista": "03-10-2026"
       },
       {
@@ -3986,30 +3360,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Tratamiento labial Just Cavalli X Kiko Milano Wild Beats  Solid Lip Oil",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059150",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Tratamiento labial Kissable Drop Lip Balm",
-       "marca": "Kiko Milano",
-       "barcode": "8059385049441",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Tratamiento labial Kissable Smoothing Lip Scrub",
-       "marca": "Kiko Milano",
-       "barcode": "8059385046600",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Tratamiento labial Threads of Time 3D Hydra Lip Oil Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385046006",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
        "marca": "L'Oréal Paris",
        "barcode": "3600524172718",
@@ -4140,12 +3490,6 @@
        "nombre": "Bálsamo labial con color Peptide Lip Tint Toast",
        "marca": "Rhode",
        "barcode": "0810175611518",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial Peptide Lip Treatment Strawberry Glaze",
-       "marca": "Rhode",
-       "barcode": "0810175610382",
        "fechaLista": "04-10-2026"
       },
       {
@@ -4359,6 +3703,12 @@
        "marca": "Haruharu Wonder",
        "barcode": "8809532221523",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Parches para el contorno de ojos antiarrugas Iroha nature 2 unidades",
+       "marca": "Iroha",
+       "barcode": "8436036436414",
+       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Hidratante facial Power Shake Dreamy Glow Eye Patches",
@@ -4844,6 +4194,12 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Mascarilla Hidrogel Iluminadora Revitalift 1 U",
+       "marca": "L'Oréal Paris",
+       "barcode": "3600524259679",
+       "fechaLista": "10-10-2026"
+      },
+      {
        "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
        "marca": "Rhode",
        "barcode": "0810175611105",
@@ -5028,6 +4384,12 @@
        "marca": "Eucerin",
        "barcode": "4005800019876",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema protectora de pañal Johnson's baby 100 ml",
+       "marca": "Johnson's",
+       "barcode": "3574661660912",
+       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Crema para el cambio de pañal a la Caléndula BIO",
@@ -5268,6 +4630,12 @@
        "marca": "Eroski",
        "barcode": "8480010207170",
        "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Gel Refrescante Pies y Piernas 125 ml",
+       "marca": "Kyrey",
+       "barcode": "8414807540126",
+       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Fórmula Noruega Crema de Manos Concentrada Sin Perfume",
@@ -7113,72 +6481,6 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Multi stick Blushin' Charm (tono 010 Pink Sweetheart)",
-       "marca": "Catrice",
-       "barcode": "4059729514899",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Multi stick Blushin' Charm (tono 020 Coral Cutie)",
-       "marca": "Catrice",
-       "barcode": "4059729514912",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Multi stick Blushin' Charm (tono 030 Ruby Darling)",
-       "marca": "Catrice",
-       "barcode": "4059729514974",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Multi stick Blushin' Charm (tono 040 Sparkle Lover)",
-       "marca": "Catrice",
-       "barcode": "4059729514936",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Multi stick Blushin' Charm (tono 050 Radiant Honey)",
-       "marca": "Catrice",
-       "barcode": "4059729514950",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 010 Stunning Strawberry)",
-       "marca": "Catrice",
-       "barcode": "4059729488657",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 030 Absolute Apricot)",
-       "marca": "Catrice",
-       "barcode": "4059729489029",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Paleta de colorete en polvo y en crema Blush Affair (tono 040 Peach Passion)",
-       "marca": "Catrice",
-       "barcode": "4059729489043",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Sculpt & Charm Contour Stick (tono 040 Mocha)",
-       "marca": "Catrice",
-       "barcode": "4059729594532",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Sculpt & Charm Contour Stick (tono 050 Espresso)",
-       "marca": "Catrice",
-       "barcode": "4059729594525",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Sculpt & Charm Contour Stick (tonos 020 Stone, 030 Clay)",
-       "marca": "Catrice",
-       "barcode": "4059729588043",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "Soft Blur Colorete en Polvo (tono 020 Coral Cloud)",
        "marca": "Catrice",
        "barcode": "4059729587268",
@@ -7233,12 +6535,6 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Iluminador en barra BABY GOT GLOW",
-       "marca": "essence",
-       "barcode": "4059729542533",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "Iluminador JELLY JEWELS glitter stick (tono 02 Diamond Dust)",
        "marca": "essence",
        "barcode": "4059729561435",
@@ -7249,12 +6545,6 @@
        "marca": "essence",
        "barcode": "4059729561442",
        "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Bronceador fluido Just Cavalli X Kiko Milano Lumicanvas Skin Enhancer Spf30",
-       "marca": "Kiko Milano",
-       "barcode": "8059385058573",
-       "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Bronceador fluido Snow-Kissed Holiday Bounce & Blend Bronzer",
@@ -7374,18 +6664,6 @@
        "nombre": "Polvos bronceadores compactos Kind by Kiko Silky Touch Powder Bronzer",
        "marca": "Kiko Milano",
        "barcode": "8059385031101",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Polvos bronceadores compactos Lumiverse Matchy Matchy Sculpt&Bronze · 01",
-       "marca": "Kiko Milano",
-       "barcode": "8059385035338",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Polvos bronceadores compactos Lumiverse Matchy Matchy Sculpt&Bronze · 02, 03",
-       "marca": "Kiko Milano",
-       "barcode": "8059385035345",
        "fechaLista": "03-10-2026"
       },
       {

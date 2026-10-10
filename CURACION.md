@@ -4110,7 +4110,10 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
-### Estado 2026-10-09: **alternativas.json versión 2026-10-09d**, 1.554 productos, 227 con enlace de Amazon
+### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
+(10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
+essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
+(09d: 1.554 productos, 227 con enlace.)
 (09b: +30 de Mercadona, ver su apartado. 09c: fuera Deonat, el alumbre cuenta como compuesto de aluminio. 09d: +2 toallitas
 atrapacolor de Incasa.)
 (08 y 09: regla 191, Redken, Sensodyne, The INKEY List y Clinique; el detalle, en el apartado de cada marca. Los 6 limpios de INKEY y los 3
@@ -4692,6 +4695,8 @@ y se añade todo lo que traiga EAN + INCI. Open*Facts queda solo para la foto y 
 | Biretix (Cantabria Labs) | sí (`sitemap.xml` de cantabrialabs.es, 15 fichas) | **no** (solo CN); EAN en la API de Douglas ES y en el JSON de SkinLovers | **no** (solo activos); INCI en incidecoder, SkinLovers y shop-apotheke, más etiqueta OBF | dos fuentes idénticas o nada; ver su apartado |
 | Asevi | sí (WP REST `productoean`, 203 fichas) tras reto JavaScript (SiteGuarding → Playwright, cookie `_I_`) | **sí**, en cada ficha (`acf.codigo_ean`) | sí, lista completa Anexo VII en PDF por EAN (`/fichas/listado_ingredientes/<EAN>.pdf`; dos formatos de PDF) | **cerrada, 167 códigos**; ver su apartado |
 | Consum (marca blanca) | portal de Asevi (22 fichas `CONSUM …`) | **sí** (`acf.codigo_ean`) | sí, PDF Anexo VII por EAN | igual que Asevi; ver su apartado |
+| Consum (Kyrey, Consum Kids y el resto de su cuidado personal) | API `tienda.consum.es/api/rest/V1.0/catalog/product?categories=2814` (1.776 fichas) | sí (`ean`), pero manda el código impreso en la foto | **sí, en la foto de la etiqueta** (`media[]`, cambiar `300x300` por `1600x1600`) | ver "Consum y Dia" (2026-10-10) |
+| Dia (Dia Imaqe y el resto de su cuidado personal) | API `dia.es/api/v1/plp-back/l1/all/L<l1>/reduced?category_id=L<l2>&page=N` (la paginación miente: parar cuando una página no trae nada nuevo) | **no**: solo en la foto | **sí, en las fotos reales del envase** (`/product_images/<id>/<id>_TRA_<n>_ES.jpg`, 2400 px; dos imágenes de relleno a descartar por md5) | ver "Consum y Dia" (2026-10-10) |
 | Deliplus | API tienda.mercadona.es (646 fichas) | **sí** (EAN-13) | **no** (solo en la foto) | Mercadona valida el código; el INCI, de OBF solo si la lista está completa y limpia |
 
 Para Bioderma, Sesderma y SkinCeuticals sigue haciendo falta otra vía (renderizar la ficha
@@ -4748,3 +4753,42 @@ Cola: Redken cerrada el 2026-10-08 (42 productos, 62 códigos) y Cosmia ya estab
   que `alternativas.json` no cambia. Necesita build para verse en la app (es el detector).
 - Asevi queda así: 135 productos, 132 con aviso. Sin ningún aviso, 3: Desincrustante (agua, ácido clorhídrico y colorante),
   Limpiador Paellas y Calderos y Limpión Lavadoras (cloruro sódico, fosfato trisódico y carbonato).
+
+### Consum y Dia (2026-10-10, versión 2026-10-10-consumdia): 544 productos y 583 códigos por la foto de la etiqueta
+
+Petición de Mariana: "Más marcas de supermercados". Mismo método que Mercadona (decisión de 2026-10-04: la foto trasera vale
+si en **la misma foto** se ven la lista entera y el código).
+- **De dónde:** la tienda online de **Consum** (API pública, 1.776 fichas de cuidado personal e higiene infantil) y la de
+  **Dia** (623 fichas de higiene, cabello, parafarmacia y bebé). Fuera desde el principio: lo que ya estaba en el catálogo
+  (387 en Consum; en Dia, 109 por el código descodificado en sus fotos) y los tintes (kits con varias listas).
+- **Código:** un lector automático (zxing-cpp) descodifica las barras de cada foto. En Dia, cuya web no da el código, sirve
+  también para quitar lo que ya teníamos antes de leer. Cuando el lector y las cifras impresas no coinciden manda lo impreso
+  (el lector se equivocó en tres envases curvos: jabón de manos Dermo de Kyrey, gel Hidrogenesse y un desodorante). Todos los
+  códigos que no confirmó el lector o que no coinciden con la ficha de la tienda se miraron a mano en la foto.
+- **Lectura:** por lotes de 30, con zoom sobre el bloque de la lista; las erratas impresas en la propia etiqueta se dejan
+  tal cual ("Xathan Gum", "Tepineol", "Arnica Monana", "Potasium Sorbate"…).
+- **Recuento:** Consum, 874 leídos: 374 con lista y código en la misma foto, 350 sin lista en las fotos (casi todos los
+  perfumes Caravan y el maquillaje Revlon), 103 con la lista y el código en fotos distintas, 35 cortadas, 8 ilegibles,
+  4 kits. Dia, 513 leídos: 258 válidos, 158 sin lista, 66 sin código en la misma foto, 12 cortadas, 8 ilegibles,
+  5 sin variante, 4 kits y 2 recuadros de texto de la tienda.
+- **Fuera además** (conservador):
+  - 12 productos cuya tienda enseña **dos versiones distintas de la lista** con el mismo código (no se sabe cuál es la vigente).
+  - 6 con Lilial o HICC (envase antiguo).
+  - El champú Elvive Glycolic Gloss, cuyo código impreso es el del acondicionador.
+  - La bomba de baño Color Therapy (la ficha vende tres colores y la foto es la trasera de uno).
+  - El dentífrico de 2.500 ppm registrado en la AEMPS.
+  - El agua oxigenada de Kyrey (antiséptico, no cosmético).
+  - Los productos sanitarios (marcado CE).
+- **Nombre:** el de la tienda; cuando el código de la foto no es el de la ficha (otro tamaño u otra versión del envase), el
+  nombre sale de la etiqueta (Bella Aurora, Feel Free, Victorio & Lucchino, Nelly 75 ml…).
+- **Marcas:** 57 nuevas, entre ellas Kyrey (Consum, 69 lecturas), Dia Imaqe (114), Gio Giovanni, Nattúru Pharma, Feel Free,
+  Bella Aurora, Victorio & Lucchino, Syoss, Vitarelle, Schwarzkopf, Caravan, Carmex y Veet; 48 ampliadas (Consum Kids va en
+  "Consum"; Elvive, Elnett y Excellence en L'Oréal Paris; Fructis y Original Remedies en Garnier).
+- **Detector:** "Aroma (Flavor)" se tomaba como aroma divulgado por llevar paréntesis, y no avisaba. Ahora el paréntesis que
+  solo traduce la palabra (Flavor, Flavour, Arôme, Aroma) no cuenta como divulgación. Regresión sobre las 8.538 fichas
+  anteriores: 211 cambios, todos el mismo aviso nuevo y correcto ("Aroma (Flavor)" 201, "Flavor (Aroma)" 8, "Aroma (Flavour)" 4),
+  casi todos labiales de Catrice, Kiko y essence. Necesita build para verse en la app; Alternativas ya lo aplica (ver Estado).
+- **Revisión FP/FN de lo nuevo:** 13 de 555 sin avisos (toallitas de agua, ampollas de Dia Imaqe, desmaquillante Feel Free,
+  micelar Garnier, parches Iroha, crema de pañal Johnson's…). Lo que más sale: perfume 471, propilenglicol 153, fenoxietanol 144,
+  laureth y etoxisulfatos 108+, salicilato de bencilo 93, galaxólido 84, aroma 42+, MIT y MCI 33, BHT 33, octisalato 31, DEA 28, D5 26.
+- Scripts y lecturas: `scratchpad` de la sesión (`lect/`, `super2/aplica.py`, `construye.py`, `une.py`, `fix.json`).
