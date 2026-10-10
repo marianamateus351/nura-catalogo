@@ -776,6 +776,27 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-10 · W5 (limpieza de Lidl) — marca nueva pedida por Mariana, con fotos de etiqueta — PENDIENTE
+Mariana fotografió en un Lidl el **W5 Friegasuelos Flor de Cerezo 1,5 L**, EAN **4056489871378**
+(prefijo 4056489, el mismo de Cien/Lidl). Fabricante: Iberfrasa S.L., Pol. Ind. Alto Losar,
+Quintanar de la Orden (Toledo). UFI SPU3-F0G3-F009-XXDV. Método de PRODUCTOS DE LIMPIEZA
+(Reglamento 648/2004, Anexo VII); la etiqueta ya trae la declaración completa del Anexo VII,
+transcrita tal cual:
+
+> Composición: Inferior al 5 %: tensioactivos aniónicos, tensioactivos no iónicos. Otros: Perfumes y
+> agentes conservantes (METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE). Contiene masa de
+> reacción de 5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1). Puede
+> provocar una reacción alérgica.
+
+- **Esta ficha entra ya** con la etiqueta como fuente (decisión de Mariana del 2026-10-04: la foto
+  trasera vale). Categoría Hogar, nombre "Friegasuelos Flor de Cerezo". Deben saltar la 193
+  (fragancia, declarada como "Perfumes"), la 194 (MCI) y la 146 (MIT), también por el nombre químico
+  "isotiazol-3-ona" que ya reconoce el detector desde el 09-10.
+- **Abrir W5 entera**: buscar la hoja de ingredientes del 648/2004 que Lidl o Iberfrasa publiquen en
+  web (Lidl suele enlazarla desde lidl.es o lidl-info); si no la hay, la gama se cura con fotos de
+  etiqueta como esta, producto a producto. Comprobar en Open Products Facts qué códigos W5 existen.
+  Revisión FP/FN al cerrar y versión nueva de catalogo.json.
+
 ### 2026-10-09 · 8480024554093, escaneo sin nombre — PENDIENTE: identificar y, si es cosmética con INCI oficial, curar la marca
 De la pestaña "Buscados" (foto de Mariana del 09-10), 1 escaneo, dígito de control válido. Prefijo
 **8480024 = GS1 España, bloque antiguo (848002x) de una empresa grande**; no coincide con ningún
