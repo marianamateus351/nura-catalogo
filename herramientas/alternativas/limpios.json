@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-moroccanoil",
+ "version": "2026-10-12-lorealpro",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15259,6 +15259,51 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "7290014344396"
+   ]
+  },
+  {
+   "marcaKey": "lorealprofessionnel",
+   "marca": "L'Oréal Professionnel",
+   "nombre": "Laca Extra Fuerte Infinium",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3474636476633"
+   ]
+  },
+  {
+   "marcaKey": "lorealprofessionnel",
+   "marca": "L'Oréal Professionnel",
+   "nombre": "Laca Fuerte Infinium",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3474636476602"
+   ]
+  },
+  {
+   "marcaKey": "lorealprofessionnel",
+   "marca": "L'Oréal Professionnel",
+   "nombre": "Laca Suave Infinium",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3474636471706"
+   ]
+  },
+  {
+   "marcaKey": "lorealprofessionnel",
+   "marca": "L'Oréal Professionnel",
+   "nombre": "Polvo Volume Dust Tecni.Art",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "30162853"
+   ]
+  },
+  {
+   "marcaKey": "lorealprofessionnel",
+   "marca": "L'Oréal Professionnel",
+   "nombre": "Volume Savage Spray Texturizante Tecni.Art",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "30166899"
    ]
   }
  ]
