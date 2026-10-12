@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-lorealpro",
+ "version": "2026-10-12-wella",
  "marcas": [
   {
    "key": "larocheposay",
@@ -90883,6 +90883,628 @@
       "3474636974368"
      ],
      "inci": "Aqua, Cocos Nucifera Oil, Amodimethicone, Polyquaternium-37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Tocopherol, Sodium Hydroxide, Dimethicone PEG-7 Phosphate, PPG-1 Trideceth-6, Trideceth-6, Behentrimonium Chloride, Xylose, Lactic Acid, Ethylhexylglycerin, Linalool, Acrylates/Stearyl Methacrylate Copolymer, Hexamethylindanopyran, Sorbitan Oleate, Isopropyl Alcohol, Cetrimonium Chloride, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Linalyl Acetate, Citric Acid, Resveratrol, Benzyl Alcohol, Citrus Limon Peel Oil, Carvone, Limonene, Pinene, EDTA, Benzaldehyde, Coumarin, Vanillin, Rose Ketones, Sodium Benzoate, Potassium Sorbate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "wella",
+   "nombre": "Wella Professionals",
+   "productos": [
+    {
+     "nombre": "Color Motion+ Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666315874"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Behenamidopropyl Dimethylamine, Quaternium-80, Propylene Glycol, Glutamic Acid, Panthenol, Phenoxyethanol, Parfum, Octocrylene, Ethylhexyl Methoxycinnamate, Methylparaben, Propylparaben, Citric Acid, EDTA, Sodium Chloride, Glyoxylic Acid, Histidine, Linalool, Limonene, Geraniol, Polyquaternium-7, Camellia Oleifera Seed Oil, Sodium Benzoate"
+    },
+    {
+     "nombre": "Color Motion+ Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666337562"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Parfum, Polyquaternium-10, Panthenol, Sodium Benzoate, Tocopheryl Acetate, Salicylic Acid, Citric Acid, Disodium EDTA, Trisodium Ethylenediamine Disuccinate, Methylparaben, Histidine, Glyoxylic Acid, Linalool, Limonene, Geraniol, Citronellol, Sodium Chloride, Sodium Citrate"
+    },
+    {
+     "nombre": "Color Motion+ Structure Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666316147"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Bis-Hydroxy/Methoxy Amodimethicone, Behentrimonium Chloride, Cetyl Alcohol, Parfum, Panthenol, Malic Acid, Isopropyl Alcohol, Phenoxyethanol, Octocrylene, Ethylhexyl Methoxycinnamate, Aminomethyl Propanol, Methylparaben, Propylparaben, Disodium EDTA, Linalool, Limonene, Geraniol, Citronellol, Histidine, Citric Acid, Trimethylsiloxysilicate, Persea Gratissima (Avocado) Oil"
+    },
+    {
+     "nombre": "EIMI Stay Firm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070018081346"
+     ],
+     "inci": "Alcohol Denat., Hydrofluorocarbon 152A, Water, Dimethyl Ether, Octylacrylamide/Acrylates/ Butylaminoethyl Methacrylate Copolymer, Aminomethyl Propanol, Fragrance, PEG-12 Dimethicone, Panthenol, Ethylhexyl Methoxycinnamate"
+    },
+    {
+     "nombre": "EIMI Glam Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666314365"
+     ],
+     "inci": "Butane, Disiloxane, Cyclopentasiloxane, Isobutane, Alcohol Denat., Dimethicone, Propane, Parfum, Panthenol, Hexyl Cinnamal, Linalool, Ethylhexyl Methoxycinnamate, Limonene, Aqua, Citronellol"
+    },
+    {
+     "nombre": "EIMI Curl Shaper",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666213163"
+     ],
+     "inci": "Aqua, Dimethicone, VP/VA Copolymer, Propylene Glycol, Aminomethyl Propanol, Carbomer, Alcohol Denat., Ethyl Ester Of Pvm/Ma Copolymer, Polyquaternium-4, PEG-40 Hydrogenated Castor Oil, Benzyl Alcohol, Parfum, Panthenol, Simmondsia Chinensis (Jojoba) Seed Oil, Methylparaben, Tocopheryl Acetate, Hydroxyethylcellulose, Disodium EDTA, Linalool, Hexyl Cinnamal, Limonene, Geraniol, Citronellol, Citric Acid, Cetearyl Nonanoate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Bran Extract, Triticum Vulgare (Wheat) Germ Oil, Linoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "EIMI Soft Twirl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666212869"
+     ],
+     "inci": "Aqua, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Glycerin, Alcohol Denat., Phenoxyethanol, Polyquaternium-10, Caprylyl Glycol, Parfum, PVP, Cocamidopropyl Hydroxysultaine, Panthenol, Amp-Acrylates/ Allyl Methacrylate Copolymer, Simmondsia Chinensis (Jojoba) Seed Oil, Polyquaternium-72, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Linalool, Hexyl Cinnamal, Limonene, Citric Acid, Geraniol, Citronellol, Sodium Hydroxide, Cetearyl Nonanoate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Germ Oil, Triticum Vulgare (Wheat) Bran Extract, Nlinoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "EIMI Flowing Form",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070018078353"
+     ],
+     "inci": "Aqua, PVP, Polyquaternium-37, Propylene Glycol Dicaprylate/ Dicaprate, Behentrimonium Chloride, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Polyquaternium-4, Parfum, Phenoxyethanol, Cetearyl Alcohol, Panthenol, Ppg-1 Trideceth-6, Glyoxylic Acid, Disodium EDTA, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, PEG-20 Stearate, Ethylhexyl Methoxycinnamate, Cetyl Alcohol, Sorbitan Oleate"
+    },
+    {
+     "nombre": "EIMI Perfect Me",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070018078698"
+     ],
+     "inci": "Aqua, Isohexadecane, Isopropyl Palmitate, Dimethicone, Polyacrylamide, Stearyl Alcohol, C13-14 Isoparaffin, Sodium Benzoate, Phenoxyethanol, Benzyl Alcohol, Steareth-21, Panthenol, Parfum, PEG-23M, Steareth-2, Laureth-7, Disodium EDTA"
+    },
+    {
+     "nombre": "EIMI Thermal Image",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070018078414"
+     ],
+     "inci": "Alcohol Denat., Aqua, Isododecane, Disiloxane, Glycerin, Vp/Va Copolymer, Panthenol, Polyquaternium-16, Dimethicone, Parfum, Lactic Acid, Ethylhexyl Methoxycinnamate, Dimethiconol, Sodium Hydroxide, Violet 2"
+    },
+    {
+     "nombre": "EIMI Ocean Spritz",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666898940"
+     ],
+     "inci": "Aqua, Alcohol Denat., Sodium Chloride, Magnesium Sulfate, Sorbitol, PEG-40 Hydrogenated Castor Oil, Panthenol, PVP, Parfum, Citric Acid"
+    },
+    {
+     "nombre": "EIMI Pearl Styler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610589473"
+     ],
+     "inci": "Aqua, Sorbitol, Aminomethyl Propanol, Carbomer, Va/Crotonates Copolymer, Benzyl Alcohol, Panthenol, Methylparaben, Parfum, PEG-40 Hydrogenated Castor Oil, Disodium EDTA, Mica, Titanium Dioxide"
+    },
+    {
+     "nombre": "EIMI Rugged Texture",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070018078513"
+     ],
+     "inci": "Aqua, Ceresin, Petrolatum, Octylacrylamide/Acrylates/ Butylaminoethyl Methacrylate Copolymer, Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, PVP, Cetyl Alcohol, Cetearyl Alcohol, Ceteareth-25, Alcohol Denat., Mineral Oil/Huile Minérale, Dicaprylyl Maleate, Phenoxyethanol, Aminomethyl Propanol, Parfum, Carbomer, Panthenol, Methylparaben, Propylparaben, Ethylhexyl Methoxycinnamate, Disodium EDTA, Iron Oxides, Mica, Titanium Dioxide"
+    },
+    {
+     "nombre": "EIMI Sculpt Force",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610532684"
+     ],
+     "inci": "Aqua, VP/VA Copolymer, Acrylates/Ceteth-20 Itaconate Copolymer, Propylene Glycol, Aminomethyl Propanol, PEG-40 Hydrogenated Castor Oil, Benzyl Alcohol, Panthenol, Parfum, Methylparaben, Disodium EDTA, Sodium Lauryl Sulfate, CI 47005, CI 42054"
+    },
+    {
+     "nombre": "EIMI Body Crafter",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610589572"
+     ],
+     "inci": "Aqua, Hydrolyzed Corn Starch, Propylene Glycol, VP/VA Copolymer, PVP, Sorbitol, Panthenol, Methylparaben, Ceteareth-20, PEG-40 Hydrogenated Castor Oil, Carbomer, Benzyl Alcohol, Parfum, Aminomethyl Propanol, Disodium EDTA, Limonene, Linalool, Benzyl Salicylate, Citronellol, Laurtrimonium Chloride, Hydroxycitronellal, CI 15510, CI 17200"
+    },
+    {
+     "nombre": "EIMI Dry Me",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610532745"
+     ],
+     "inci": "Alcohol Denat., Butane, Propane, Isobutane, Tapioca Starch, Water, Silica, Polymethylsilsesquioxane, Fragrance"
+    },
+    {
+     "nombre": "EIMI Extra Volume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610532509"
+     ],
+     "inci": "Water, Isobutane, Propane, Polyquaternium-11, Phenoxyethanol, Panthenol, Laureth-4, Fragrance, Disodium EDTA, Methylparaben, Cetrimonium Chloride"
+    },
+    {
+     "nombre": "EIMI Perfect Setting",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610589220"
+     ],
+     "inci": "Aqua, Alcohol Denat., VP/VA Copolymer, Panthenol, PEG-40 Hydrogenated Castor Oil, Parfum, Cetrimonium Chloride, Isopropyl Alcohol, Linalool, Hexyl Cinnamal, Geraniol, Limonene, Citronellol, Alpha-Isomethyl Ionone, CI 42090"
+    },
+    {
+     "nombre": "EIMI Sugar Lift",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610589626"
+     ],
+     "inci": "Aqua, Hydrolyzed Corn Starch, Propylene Glycol, VP/VA Copolymer, PVP, Sorbitol, Panthenol, Methylparaben, Ceteareth-20, PEG-40 Hydrogenated Castor Oil, Carbomer, Parfum, Benzyl Alcohol, Aminomethyl Propanol, Disodium EDTA, Orange 4, Red 33"
+    },
+    {
+     "nombre": "Elements Acondicionador Renovador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666622804"
+     ],
+     "inci": "Aqua, Hydrogenated Ethylhexyl Olivate, Behentrimonium Chloride, Hydroxypropyl Starch Phosphate, Cetyl Alcohol, Stearyl Alcohol, Phenoxyethanol, Parfum, Isopropyl Alcohol, Sodium Benzoate, Hydrogenated Olive Oil Unsaponifiables, Tocopheryl Acetate, Citric Acid, Ethylhexylglycerin, Aloe Barbadensis Leaf Juice, Tocopherol, Potassium Sorbate, Sodium Sulfite"
+    },
+    {
+     "nombre": "Elements Renewing Leave-in Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666218106"
+     ],
+     "inci": "Aqua, Alcohol Denat., Cetyl Alcohol, Hydrogenated Ethylhexyl Olivate, Cetrimonium Chloride, Parfum, Tocopheryl Acetate, Hydrogenated Olive Oil Unsaponifiables, Citric Acid, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite"
+    },
+    {
+     "nombre": "Elements Mascarilla Renovadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666035536"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Hydrogenated Ethylhexyl Olivate, Cetyl Alcohol, Behentrimonium Chloride, Parfum, Phenoxyethanol, Isopropyl Alcohol, Sodium Benzoate, Hydrogenated Olive Oil Unsaponifiables, Tocopheryl Acetate, Citric Acid, Ethylhexylglycerin, Aloe Barbadensis Leaf Juice, Tocopherol, Potassium Sorbate, Sodium Sulfite"
+    },
+    {
+     "nombre": "Elements Champú Renovador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666337852"
+     ],
+     "inci": "Aqua, Sodium Cocoyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Methyl Oleoyl Taurate, Sodium Lauroyl Sarcosinate, Parfum, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Citric Acid, Tocopheryl Acetate, Disodium EDTA, Sodium Cocoate, Polyquaternium-10, Ethylhexylglycerin, Aloe Barbadensis Leaf Juice, Tocopherol, Potassium Sorbate, Sodium Citrate, Sodium Sulfite"
+    },
+    {
+     "nombre": "Fusion Acondicionador de Reparación Intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666315713"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Parfum, Isopropyl Alcohol, Phenoxyethanol, Methylparaben, Propylparaben, Disodium EDTA, Propylene Glycol, Quaternium-80, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Limonene, Citric Acid, Alpha-Isomethyl Ionone, Alanine, Glycine, Histidine, Silk Amino Acids, Sodium Benzoate"
+    },
+    {
+     "nombre": "Fusion Mascarilla de Reparación Intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666316208"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Quaternium-80, Propylene Glycol, Parfum, Isopropyl Alcohol, Phenoxyethanol, Methylparaben, Propylparaben, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Limonene, Citric Acid, Alanine, Glycine, Alpha-Isomethyl Ionone, Histidine, Silk Amino Acids, Sodium Benzoate"
+    },
+    {
+     "nombre": "Fusion Champú de Reparación Intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666582962"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Glycol Distearate, Cocamide MEA, Parfum, Panthenol, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Amodimethicone, Citric Acid, Polyquaternium-10, Salicylic Acid, Tetrasodium EDTA, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Glycerin, Methylparaben, Tetramethyl Acetyloctahydronaphthalenes, Sodium Hydroxide, Hexamethylindanopyran, Trideceth-12, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Limonene, AlphaIsomethyl Ionone, Hydrochloric Acid, Cetrimonium Chloride, Alanine, Glycine, Histidine, Silk Amino Acids, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Blonde Recharge Acondicionador Cool",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339009"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-3 Distearate, Sodium Chloride, Parfum, Panthenol, Sodium Benzoate, Citric Acid, Methylparaben, Tocopheryl Acetate, Propylparaben, Acid Violet 43, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Polyquaternium-10, Benzoic Acid, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citronellol, Geraniol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Invigo Blonde Recharge Champú Cool",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339030"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-3 Distearate, Sodium Chloride, Parfum, Panthenol, Sodium Benzoate, Citric Acid, Methylparaben, Tocopheryl Acetate, Propylparaben, Acid Violet 43, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Polyquaternium-10, Benzoic Acid, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citronellol, Geraniol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Champú Protector del Color para Cabello Grueso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339238"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Glycol Distearate, Cocamide MEA, Parfum, Panthenol, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Amodimethicone, Citric Acid, Glycerin, Tocopheryl Acetate, Salicylic Acid, Tetrasodium EDTA, Sodium Chloride, Limonene, Trisodium Ethylenediamine Disuccinate, Methylparaben, Glyoxylic Acid, Sodium Hydroxide, Trideceth-12, Linalool, Hexyl Cinnamal, Hydrochloric Acid, Cetrimonium Chloride, Microcitrus Australasica Fruit Extract, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Champú Protector del Color para Cabello Fino & Normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339221"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Glycol Distearate, Cocamide MEA, Parfum, Panthenol, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Amodimethicone, Citric Acid, Glycerin, Tocopheryl Acetate, Salicylic Acid, Tetrasodium EDTA, Sodium Chloride, Limonene, Trisodium Ethylenediamine Disuccinate, Methylparaben, Glyoxylic Acid, Sodium Hydroxide, Trideceth-12, Linalool, Hexyl Cinnamal, Hydrochloric Acid, Cetrimonium Chloride, Microcitrus Australasica Fruit Extract, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Brilliance Miracle BB Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339191"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetearyl Alcohol, Cyclopentasiloxane, Cyclohexasiloxane, Behentrimonium Chloride, Parfum, Panthenol, Quaternium-80, Methylparaben, Tocopheryl Acetate, Ethylhexyl Methoxycinnamate, Propylparaben, Isopropyl Alcohol, Glycerin, Limonene, Glyoxylic Acid, Sodium Hydroxide, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Microcitrus Australasica Fruit Extract"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Acondicionador para un Color Intenso para Cabello Grueso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339252"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Distearyldimonium Chloride, Parfum, Phenoxyethanol, Hydroxyethylcellulose, Glyceryl Stearate, Oleyl Alcohol, Methylparaben, Tocopheryl Acetate, PEG-2M, Polysorbate 60, Propylparaben, Propylene Glycol, Quaternium-80, Citric Acid, Limonene, EDTA, Glycerin, Linalool, Hexyl Cinnamal, Histidine, Silica, Microcitrus Australasica Fruit Extract, BHT"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Mascarilla para un Color Intenso para Cabello Grueso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339337"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Behenamidopropyl Dimethylamine, Parfum, Glutamic Acid, Phenoxyethanol, Propylene Glycol, Quaternium-80, Methylparaben, Tocopheryl Acetate, Propylparaben, Limonene, Citric Acid, EDTA, Glycerin, Sodium Chloride, Linalool, Hexyl Cinnamal, Histidine, Microcitrus Australasica Fruit Extract"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Acondicionador para un Color Intenso para Cabello Fino & Normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339245"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Distearyldimonium Chloride, Parfum, Phenoxyethanol, Hydroxyethylcellulose, Glyceryl Stearate, Oleyl Alcohol, Methylparaben, Tocopheryl Acetate, PEG-2M, Polysorbate 60, Propylparaben, Propylene Glycol, Quaternium-80, Citric Acid, Limonene, EDTA, Glycerin, Linalool, Hexyl Cinnamal, Histidine, Silica, Microcitrus Australasica Fruit Extract, BHT"
+    },
+    {
+     "nombre": "Invigo Color Brilliance Mascarilla para un Color Intenso para Cabello Fino & Normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585741"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Behenamidopropyl Dimethylamine, Parfum, Glutamic Acid, Phenoxyethanol, Propylene Glycol, Quaternium-80, Methylparaben, Tocopheryl Acetate, Propylparaben, Limonene, Citric Acid, EDTA, Glycerin, Sodium Chloride, Linalool, Hexyl Cinnamal, Histidine, Microcitrus Australasica Fruit Extract"
+    },
+    {
+     "nombre": "Invigo Nutri-Enrich Acondicionador de Nutrición Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585550"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Panthenol, Parfum, Phenoxyethanol, Dicetyldimonium Chloride, Glutamic Acid, Tocopheryl Acetate, Methylparaben, Glycerin, Propylparaben, Propylene Glycol, EDTA, Oleic Acid, Quaternium-80, Sodium Chloride, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Lycium Barbarum Fruit Extract, Citric Acid, Sodium Benzoate, Lactic Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Invigo Nutri-Enrich Mascarilla de Nutrición Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585598"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Panthenol, Parfum, Phenoxyethanol, Dicetyldimonium Chloride, Glutamic Acid, Tocopheryl Acetate, Methylparaben, Glycerin, Propylparaben, Propylene Glycol, EDTA, Oleic Acid, Quaternium-80, Sodium Chloride, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Lycium Barbarum Fruit Extract, Citric Acid, Sodium Benzoate, Lactic Acid, Potassium Sorbate"
+    },
+    {
+     "nombre": "Invigo Nutri-Enrich Champú de Nutrición Profunda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585765"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Dimethicone, Cocamide MEA, Parfum, Sodium Benzoate, Panthenol, Citric Acid, Sodium Chloride, Salicylic Acid, Glycerin, Glycerin, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Methylparaben, Guar Hydroxypropyltrimonium Chloride, Limonene, Sodium Hydroxide, Benzyl Salicylate, Hexyl Cinnamal, Hydrochloric Acid, Linalool, Lycium Barbarum Fruit Extract, Oleic Acid, Lactic Acid, Potassium Sorbate, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Nutri-Enrich Crema de Control del Encrespamiento",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666339146"
+     ],
+     "inci": "Aqua, Dimethicone, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Panthenol, Parfum, Distearyldimonium Chloride, Hydroxyethylcellulose, Phenoxyethanol, Benzyl Alcohol, Stearyl Alcohol, PEG-2M, Cetearyl Alcohol, Tocopheryl Acetate, Glycerin, Methylparaben, Glyceryl Stearate, Propylparaben, Oleyl Alcohol, Polysorbate 60, Lysine HCl, Citric Acid, Oleic Acid, EDTA, Limonene, Benzyl Salicylate, Hexyl Cinnamal, Silica, Lycium Barbarum Fruit Extract, Linalool, Citronellol, Alpha-Isomethyl Ionone, Sodium Benzoate, Citral, Disodium Phosphate, Geraniol, Lactic Acid, Coumarin, Potassium Sorbate, Sodium Phosphate, BHT"
+    },
+    {
+     "nombre": "Invigo Nutri-Enrich Wonder Balm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610643946"
+     ],
+     "inci": "Aqua, Glycerin, PVP, Guar Hydroxypropyltrimonium Chloride, Simmondsia Chinensis (Jojoba) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Hydroxyethylcellulose, Cetearyl Alcohol, Panthenol, Methyl Gluceth-20, Cetyl Alcohol, Parfum, Hydrolyzed Wheat Protein, Polysorbate 60, Imidazolidinyl Urea, Methylparaben, Tocopheryl Acetate, Amodimethicone, Disodium EDTA, Propylparaben, Olea Europaea (Olive) Fruit Oil, Orbignya Oleifera Seed Oil, Oenothera Biennis (Evening Primrose) Seed Extract, Stearalkonium Chloride, Sesamum Indicum (Sesame) Seed Oil, Oleic Acid, Ethylhexyl Methoxycinnamate, Propylene Glycol, Limonene, Tetrasodium EDTA, Benzyl Salicylate, Oryza Sativa (Rice) Bran Oil, Hexyl Cinnamal, Citric Acid, Alcohol Denat., Lycium Barbarum Fruit Extract, Camellia Sinensis Leaf Extract, Linalool, Potassium Sorbate, Disodium Phosphate, Phenoxyethanol, Sodium Benzoate, Citronellol, Alpha-Isomethyl Ionone, Citral, Lactic Acid, Geraniol, Coumarin, Salix Alba (Willow) Bark Extract, Sodium Phosphate, Tocopherol, Ascorbyl Palmitate, Ethylparaben, Butylparaben, BHT"
+    },
+    {
+     "nombre": "Invigo Balance Purifying Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585246"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethicone, Glycol Distearate, Cocamide MEA, Parfum, Panthenol, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Amodimethicone, Citric Acid, Polyquaternium-10, Salicylic Acid, Glycerin, Tetrasodium EDTA, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Methylparaben, Sodium Hydroxide, Trideceth-12, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Hydrochloric Acid, Cetrimonium Chloride, Glycine, Alanine, Histidine, Silk Amino Acids, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Scalp Balance Sensitive Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585284"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Glycol Distearate, Sodium Citrate, Cocamide MEA, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Dimethicone, Sodium Benzoate, Sodium Chloride, Allantoin, Salicylic Acid, Glycerin, Tetrasodium EDTA, Guar Hydroxypropyltrimonium Chloride, Methylparaben, Benzyl Alcohol, Hydrochloric Acid, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone"
+    },
+    {
+     "nombre": "INVIGO Balance Senso Calm Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585314"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Glycol Distearate, Sodium Citrate, Cocamide MEA, Sodium Xylenesulfonate, Cocamidopropyl Betaine, Dimethicone, Sodium Benzoate, Sodium Chloride, Allantoin, Salicylic Acid, Glycerin, Tetrasodium EDTA, Guar Hydroxypropyltrimonium Chloride, Methylparaben, Benzyl Alcohol, Hydrochloric Acid, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone"
+    },
+    {
+     "nombre": "INVIGO Volume Boost Champú Voluminizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585444"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Benzoate, Cocamide MEA, Citric Acid, Sodium Chloride, Salicylic Acid, Tetrasodium EDTA, Glycerin, Methylparaben, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Polysorbate 80, Propylene Glycol, Guar Hydroxypropyltrimonium Chloride, Polyimide-1, Sodium Hydroxide, Hexyl Cinnamal, Linalool, Limonene, Citronellol, Gossypium Herbaceum (Cotton) Seed Oil, Phenoxyethanol, Decylene Glycol, Tocopheryl Acetate, 1,2-Hexanediol, Tocopherol, Sodium Citrate, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Invigo Volume Boost Crystal Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666585475"
+     ],
+     "inci": "Aqua, PEG-60 Hydrogenated Castor Oil, Polyquaternium-37, Alcohol Denat., PEG-12 Dimethicone, Panthenol, Polysorbate 20, Phenoxyethanol, Parfum, Citric Acid, Polyquaternium-7, Sodium Citrate, Polyimide-1, Benzophenone-4, Ethylhexylglycerin, Disodium EDTA, Polysorbate 80, Isopropyl Alcohol, Trisodium Ethylenediamine Disuccinate, Hexyl Cinnamal, Linalool, Glycerin, Limonene, Citronellol, Sodium Hydroxide, Sodium Benzoate, Gossypium Herbaceum (Cotton) Seed Oil, Tetrasodium EDTA, Decylene Glycol, Tocopherol, 1,2-Hexanediol"
+    },
+    {
+     "nombre": "Nutricurls Curlixir Bálsamo Definidor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666211770"
+     ],
+     "inci": "Aqua, Glycerin, PVP, Guar Hydroxypropyltrimonium Chloride, Carthamus Tinctorius (Safflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxyethylcellulose, Cetearyl Alcohol, Parfum, Cetyl Alcohol, Methyl Gluceth-20, Hydrolyzed Wheat Protein, Panthenol, Imidazolidinyl Urea, Polysorbate 60, Methylparaben, Amodimethicone, Propylparaben, Olea Europaea (Olive) Fruit Oil, Orbignya Oleifera Seed Oil, Oenothera Biennis (Evening Primrose) Seed Extract, Disodium EDTA, Stearalkonium Chloride, Sesamum Indicum (Sesame) Seed Oil, Propylene Glycol, Linalool, Hexyl Cinnamal, Tetrasodium EDTA, Limonene, Geraniol, Oryza Sativa (Rice) Bran Oil, Citronellol, Citric Acid, Alcohol Denat., Camellia Sinensis Leaf Extract, Salix Alba (Willow) Bark Extract, Potassium Sorbate, Phenoxyethanol, Cetearyl Nonanoate, Ascorbyl Palmitate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Bran Extract, Triticum Vulgare (Wheat) Germ Oil, Linoleic Acid, Tocopherol, Ethylparaben, Butylparaben, Camellia Oleifera Seed Oil"
+    },
+    {
+     "nombre": "Nutricurls Mascarilla Deep Treatment para Ondas y Rizos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666244266"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Parfum, Benzyl Alcohol, Phenoxyethanol, Isopropyl Alcohol, Propylene Glycol, Quaternium-80, Methylparaben, Propylparaben, Disodium EDTA, Panthenol, Linalool, Hexyl Cinnamal, Limonene, Geraniol, Citronellol, Simmondsia Chinensis (Jojoba) Seed Oil, Cetearyl Nonanoate, Citric Acid, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Germ Oil, Triticum Vulgare Bran Extract, Linoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Nutricurls Acondicionador Desenredante para Ondas y Rizos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666224848"
+     ],
+     "inci": "Aqua, Behentrimonium Chloride, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Isopropyl Alcohol, Amodimethicone, Panthenol, Propylene Glycol, Quaternium-80, Sodium Benzoate, Parfum, Phenoxyethanol, Citric Acid, Disodium EDTA, Trideceth-12, Linalool, Hexyl Cinnamal, Limonene, Geraniol, Citronellol, Cetrimonium Chloride, Simmondsia Chinensis (Jojoba) Seed Oil, Cetearyl Nonanoate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Bran Extract, Triticum Vulgare (Wheat) Germ Oil, Linoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Nutricurls Champú Micelar para Rizos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666717951"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Lauroyl Glutamate, Sodium Chloride, Sodium Benzoate, Citric Acid, PEG-4 Distearyl Ether, Amodimethicone, PEG-90 Glyceryl Isostearate, Polyquaternium-10, Distearyl Ether, Guar Hydroxypropyltrimonium Chloride, Glycerin, Polyquaternium-6, Panthenol, Propylene Glycol, PEG-90M, Dicaprylyl Ether, Linalool, Hexyl Cinnamal, Laureth-2, Limonene, Geraniol, Citronellol, Simmondsia Chinensis (Jojoba) Seed Oil, Silica, Cetearyl Nonanoate, Calcium Carbonate (CI 77220), Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Germ Oil, Triticum Vulgare (Wheat) Bran Extract, Linoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Nutricurls Milky Waves Spray Suavizante para el cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666211794"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetearyl Alcohol, Simmondsia Chinensis (Jojoba) Seed Oil, Behentrimonium Chloride, Parfum, Panthenol, Quaternium-80, Methylparaben, Propylparaben, Isopropyl Alcohol, Linalool, Hexyl Cinnamal, Limonene, Geraniol, Citronellol, Citric Acid, Sodium Hydroxide, Cetearyl Nonanoate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Bran Extract, Triticum Vulgare (Wheat) Germ Oil, Linoleic Acid, Camellia Oleifera Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Nutricurls Champú para Ondas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666583549"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium Methyl Oleoyl Taurate, Sodium Lauroyl Sarcosinate, Parfum, Phenoxyethanol, Sodium Benzoate, Polyquaternium-10, PEG-40 Hydrogenated Castor Oil, Citric Acid, Disodium EDTA, Panthenol, Ethylhexylglycerin, Linalool, Hexyl Cinnamal, Limonene, Geraniol, Citronellol, Sodium Acetate, Sodium Chloride, Simmondsia Chinensis (Jojoba) Seed Oil, Cetearyl Nonanoate, Ethylhexyl Isononanoate, Triticum Vulgare (Wheat) Bran Extract, Triticum Vulgare (Wheat) Germ Oil, Linoleic Acid, Tocopherol, Camellia Oleifera Seed Oil, Sodium Citrate"
+    },
+    {
+     "nombre": "Oil Reflections Aceite Ligero Revelador del Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666326115"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Dimethicone, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum, Tocopheryl Acetate, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Coumarin, Camellia Oleifera Seed Oil, Limonene, Citronellol, Farnesol, Geraniol"
+    },
+    {
+     "nombre": "Oil Reflections Acondicionador Realzador Instantáneo del Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8005610531335"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Isopropyl Alcohol, Parfum, Bis-Aminopropyl Dimethicone, Benzyl Alcohol, Phenoxyethanol, Methylparaben, Tocopheryl Acetate, Propylparaben, Disodium EDTA, Hexyl Cinnamal, Propylene Glycol, Linalool, Alpha-Isomethyl Ionone, Camellia Sinensis Leaf Extract, Macadamia Ternifolia Seed Oil, Camelia Oleifera Seed Oil"
+    },
+    {
+     "nombre": "Oil Reflections Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666102740"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Panthenol, Isopropyl Alcohol, Parfum, Benzyl Alcohol, Phenoxyethanol, PEG-2M, Methylparaben, Tocopheryl Acetate, Propylparaben, Disodium EDTA, Hexyl Cinnamal, Propylene Glycol, Linalool, Alpha-Isomethyl Ionone, Silica, Citric Acid, Camellia Sinensis Leaf Extract, Macadamia Ternifolia Seed Oil, Camellia Oleifera Seed Oil, BHT"
+    },
+    {
+     "nombre": "Oil Reflections Champú Revelador del Brillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666583242"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum, Panthenol, Sodium Chloride, Sodium Benzoate, Citric Acid, Hydroxypropyl Methylcellulose, Allantoin, Salicylic Acid, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Methylparaben, Sodium Hydroxide, Hexyl Cinnamal, Propylene Glycol, Linalool, Alpha-Isomethyl Ionone, Camellia Sinensis Leaf Extract, Sodium Citrate, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Oil Reflections Aceite Realzador del Brillo y Suavidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666326658"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Alcohol Denat., Parfum, Tocopheryl Acetate, Hexyl Cinnamal, Linalool, Limonene, Cocos Nucifera (Coconut) Oil, Macadamia Ternifolia Seed Oil, Persea Gratissima (Avocado) Oil, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Champú Sin Sulfatos Ultimate Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068359149784"
+     ],
+     "inci": "Water, Sodium Cocoyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Methyl Oleoyl Taurate, Sodium Lauroyl Sarcosinate, Parfum, Panthenol, Sodium Benzoate, Sodium Chloride, Polyquaternium-10, Citric Acid, Allantoin, Glycine, Sodium Citrate, Sodium Cocoate, Trisodium Ethylenediamine Disuccinate, EDTA, Glyceryl Oleate, Aloe Barbadensis Leaf Juice, Tetramethyl Acetyloctahydronaphthalenes, Malic Acid, Linalool, Limonene, Hydroxycitronellal, Vanillin, Linalyl Acetate, Histidine, Coumarin, Citrus Aurantium Peel Oil, Oleic Acid, Squalane, Ascorbic Acid, Potassium Sorbate, Sodium Sulfite, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Sodium Xylenesulfonate"
+    },
+    {
+     "nombre": "Ultimate Repair Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666336169"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Malic Acid, Paraffinum Liquidum/ Mineral Oil/ Huile Minerale, Isopropyl Myristate, Ceteareth-25, Cetrimonium Chloride, Sodium Hydroxide, Phenoxyethanol, Glyceryl Oleate, Isopropyl Alcohol, Parfum, Coco-Glucoside, Behentrimonium Chloride, Amodimethicone, Tocopheryl Acetate, Polyquaternium-37, Squalane, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Oleic Acid, Ethylhexylglycerin, Propylene Glycol Dicaprylate/Dicaprate, Linalool, Citric Acid, Trideceth-12, PPG-1 Trideceth-6, Citronellol, Histidine, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Sodium Benzoate, Tocopherol, EDTA, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate"
+    },
+    {
+     "nombre": "Ultimate Repair Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666599533"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Propylene Glycol, Quaternium-80, Phenoxyethanol, Parfum, Isopropyl Alcohol, Malic Acid, Aminomethyl Propanol, Glyceryl Oleate, Tocopheryl Acetate, Oleic Acid, Squalane, Linalool, Citronellol, Citric Acid, Histidine, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Ultimate Repair Miracle Hair Rescue",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666580012",
+      "4064666580050"
+     ],
+     "inci": "Aqua, Propylene Glycol, Behentrimonium Chloride, Amodimethicone, Quaternium-80, Cetrimonium Chloride, Isopropyl Alcohol, Panthenol, Parfum, Malic Acid, Glyceryl Oleate, Methylparaben, Tocopheryl Acetate, Trideceth-12, Squalane, Sodium Hydroxide, Disodium EDTA, Phenoxyethanol, Oleic Acid, Linalool, Histidine, Citronellol, Citric Acid, Geraniol, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Ultimate Repair Sérum Nocturno 95 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666939773",
+      "4064666939728"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Propylene Glycol, Quaternium-80, Phenoxyethanol, Parfum, Isopropyl Alcohol, Malic Acid, Aminomethyl Propanol, Glyceryl Oleate, Tocopheryl Acetate, Oleic Acid, Squalane, Linalool, Citronellol, Citric Acid, Histidine, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Ultimate Repair Protective Leave-In",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666580098"
+     ],
+     "inci": "Aqua, Isohexadecane, Isopropyl Palmitate, Dimethicone, Polyacrylamide, C13-14 Isoparaffin, Parfum, Stearyl Alcohol, Benzyl Alcohol, Phenoxyethanol, Sodium Benzoate, Steareth-21, Panthenol, Malic Acid, Glyceryl Oleate, Tocopheryl Acetate, PEG-23M, Steareth-2, Sodium Hydroxide, Laureth-7, Oleic Acid, Squalane, Linalool, Disodium EDTA, Citronellol, Histidine, Silica, Ethylhexyl Methoxycinnamate, Citric Acid, Geraniol, BHT, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "Ultimate Repair Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666579924"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Dimethicone, Cocamide MEA, Parfum, Panthenol, Sodium Benzoate, Malic Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Chloride, Salicylic Acid, Tocopheryl Acetate, Citric Acid, Sodium Hydroxide, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Glycerin, Methylparaben, Histidine, Linalool, Citronellol, Hydrochloric Acid, Oleic Acid, Squalane, Glyceryl Oleate, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Sodium Citrate, Methylisothiazolinone, Sodium Xylenesulfonate, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "ULTIMATE SMOOTH Acondicionador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666945286"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Cetyl Alcohol, Phenoxyethanol, Stearamidopropyl Dimethylamine, Panthenol, Parfum, Dicetyldimonium Chloride, Glutamic Acid, Glyceryl Oleate, Tocopheryl Acetate, Propylene Glycol, EDTA, Oleic Acid, Squalane, Malic Acid, Quaternium-80, Sodium Chloride, Limonene, Aminomethyl Propanol, Linalool, Histidine, Citric Acid, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "ULTIMATE SMOOTH Mascarilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666906935"
+     ],
+     "inci": "Aqua, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Phenoxyethanol, Betaine, Parfum, Panthenol, Isopropyl Alcohol, Propylene Glycol, Quaternium-80, Valine, Glyceryl Oleate, Tocopheryl Acetate, Oleic Acid, Squalane, Malic Acid, Limonene, Linalool, Aminomethyl Propanol, Histidine, Citric Acid, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "ULTIMATE SMOOTH Miracle Oil Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666906171",
+      "4064666906133"
+     ],
+     "inci": "Dimethicone, Dimethiconol, Alcohol Denat., Parfum, Tocopheryl Acetate, Glyceryl Oleate, Malic Acid, Limonene, Linalool, Oleic Acid, Squalane, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate"
+    },
+    {
+     "nombre": "ULTIMATE SMOOTH Champú",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4064666906102"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Phenoxyethanol, Sodium Xylenesulfonate, Panthenol, Sodium Benzoate, Parfum, Polyquaternium-10, Citric Acid, Trisodium Ethylenediamine Disuccinate, Glyceryl Oleate, Glycerin, Malic Acid, Aminomethyl Propanol, Limonene, Linalool, Histidine, Oleic Acid, Squalane, Lecithin, Ascorbyl Palmitate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Sodium Chloride, Sodium Citrate"
+    },
+    {
+     "nombre": "ULTIMATE SMOOTH 24/7 Silky Milk",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068359158434",
+      "4068359158458"
+     ],
+     "inci": "Aqua, Propylene Glycol, Cetearyl Alcohol, Coco-Caprylate/Caprate, Betaine, Dimethicone, Quaternium-91, Amodimethicone, 1,2-Hexanediol, Bis(C13-15 Alkoxy) PG-Amodimethicone, Glyceryl Stearate, Panthenol, Caprylyl Glycol, Sclerocarya Birrea Seed Oil, Myristyl Myristate, Parfum, C11-15 Alketh-7, Glycerin, Laureth-9, Trideceth-12, Behentrimonium Chloride, Glyceryl Oleate Citrate, Oleic Acid, Laureth-23, C14-15 Alcohols, Disodium EDTA, Malic Acid, Tromethamine, Caprylic/Capric Triglyceride, Butylene Glycol, Laureth-4, Polyquaternium-10, Benzyl Alcohol, Limonene, Linalool, Citrus Aurantium Peel Oil, Linoleic Acid, Squalane, Tocopheryl Acetate, Palmitic Acid, Salicylic Acid, Stearic Acid, Glycine, Ethylhexylglycerin, Serine, Glutamic Acid, Sorbic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Myristic Acid, Proline, Threonine, Valine, Isoleucine, Arachidic Acid, Histidine, Cysteine, Methionine, Citric Acid"
     }
    ]
   }

@@ -1297,6 +1297,29 @@ una tienda española vende con el mismo EAN y la misma lista.
   alias "ammonium persulfate, potassium persulfate, sodium persulfate, persulfato amónico, persulfato potásico, persulfato
   sódico", con nota de que son decolorantes de uso profesional. Si dices que sí, entran los Blond Studio (el que comparte
   EAN con otro, no) con el aviso; necesita build.
+- ~~**Wella Professionals**~~ — **68 productos, 72 códigos** (versión 2026-10-12-wella).
+  - **Fuente: la web oficial española** `wella.com/professional/es-ES` (sitemap es-ES, 118 fichas de producto). Código: el
+    del botón "Dónde comprar" de la ficha (`ProductInfo… data-mm-ids`; los demás EAN de la página son de productos
+    relacionados). Lista: sección "Ingredientes" tras el aviso de la ICCS; la web antepone el activo de la gama ("Complejo
+    Nourish-In", "Caviar de lima", "Ingredientes principales: AHA, Omega-9…") y se corta en el primer ingrediente real
+    (Aqua/Water/Eau, Water, Alcohol Denat., Cyclopentasiloxane, Butane…), y al final en "Beneficios" o "Modo de uso".
+    Mayúsculas a mayúsculas iniciales; "Aqua/Water/Eau" → Aqua, "Parfum/Fragrance" → Parfum; ";" → ","; erratas
+    "Olymethylsilsesquioxane" y "Phenoxyethamol". Minis de 30 ml con la misma lista, en la entrada del tamaño grande.
+  - **EIMI con UPC de 12 cifras** (`070018…`, de Wella EE. UU.): son los códigos que publica la propia web española para
+    esos envases; se guardan como EAN-13 con un 0 delante, igual que NYX.
+  - **Fuera**: Ultimate Color acondicionador, Miracle Leave-in Mask (y su mini) y Shine Spray (sin lista en la web); EIMI
+    Shape Me (la web da "…fragrance components like Limonene & Linalool": no es una lista INCI); Invigo Volume Boost Uplifting
+    Hair Mist (lista corrupta en la web, con "Tocopherol.lycol, Tocopherol, 1,2-Hexanediol" repetido); fichas de gama sin
+    producto. OBF tiene 24 fichas Wella, ninguna con un código de estas: sin contraste.
+  - **Falso positivo de categoría (corregido en el dato, sin tocar el detector)**: "Nutricurls Milky Waves Spray
+    Suavizante" salía como **Hogar** porque "suavizante" está en las palabras fuertes de limpieza y el nombre no dice
+    "cabello" (la excepción ES_PELO no conoce "rizos/ondas/curls/waves"). Se llama ahora "… Spray Suavizante para el
+    cabello". Propuesta para el próximo build (no hecha): añadir `rizo|onda|curl|wave|peinad|styling` a ES_PELO.
+  - **Revisión FP/FN**: fragancia ×66 (todas las que llevan perfume; las 2 sin aviso, Scalp Balance Sensitive Shampoo y
+    Senso Calm Mask, no lo llevan), metilparabeno ×39, fenoxietanol ×36, propilenglicol ×31, propilparabeno ×21, SLES y
+    laureth ×19, salicilato de bencilo ×13, ácido salicílico ×12, octinoxato ×10, MIT ×8 y MCI ×8, BHT ×6, sulfitos ×5,
+    D5 ×4, octocrileno ×2, butil y etilparabeno ×2, imidazolidinil urea ×2, D6, HHCB y benzofenona-4 ×1. Todo está en las
+    listas. 0 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.462 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
