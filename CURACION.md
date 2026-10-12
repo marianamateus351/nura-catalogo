@@ -1101,7 +1101,9 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
   fichas anteriores; 0 correcciones del detector.
 
 **Bloque 3 (coreanas, segunda ola), 2026-10-12:**
-- ~~**SKIN1004**~~ — **66 productos, 109 códigos** (versión 2026-10-12-skin1004).
+- ~~**SKIN1004**~~ — **65 productos, 108 códigos** (versión 2026-10-12-skin1004; corregida en 2026-10-12-isntree: fuera el
+  Tone Brightening Capsule Cream `8809576261615`, porque Primor (mismo EAN) y Druni (EAN UE `8809913834090`) enseñan las dos
+  una lista distinta de la web y nadie confirma la de la web; mismo criterio que en Isntree).
   - **Fuente: la tienda oficial global** `www.skin1004.com` (Shopify). skin1004.es **no es de la marca**: es una "guía
     independiente" que manda a comprar a Tedin. La tienda global tiene **mercado España** en su selector, y con él
     (`/localization`, country_code=ES) el catálogo es el mismo: 107 fichas. Lista: bloque "FULL INGREDIENTS" de cada ficha
@@ -1140,6 +1142,30 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
     geranio, rosa), así que sin aviso de perfume, como en el resto; el Aluminum Hydroxide del protector no es la regla de
     antitranspirantes; el polisorbato es regla solo de Hogar. 45 de 66 limpios. **0 correcciones del detector.**
     Regresión: **0 cambios** en las 9.153 fichas anteriores.
+- ~~**Isntree**~~ — **45 productos, 47 códigos** (versión 2026-10-12-isntree).
+  - **Fuente: la tienda oficial global** `isntree-global.com` (Shopify `isntree.myshopify.com`, enlazada con el Instagram
+    oficial @isntree; envía a Portugal y al resto de la UE, no a España). isntree.com es la tienda coreana (Cafe24, en
+    coreano) e isntree.eu un dominio aparcado. 60 fichas: "Full Ingredients" de la ficha y `barcode` del `.js`
+    (EAN coreanos `8809…`/`8806…`). Listas en mayúsculas (GIM PDRN Firming Cream) pasadas a mayúsculas iniciales; erratas:
+    coma que faltaba en los parches ("Bulb Extract, 1,2-Hexanediol") y "1,2- Hexanediol".
+  - **Contraste con el envase europeo**: ni Druni ni Primor venden Isntree, y Open Beauty Facts no tiene ninguno. Sí
+    **Lookfantastic.es** (7 fichas, `barcode` + pestaña de ingredientes): **mismo EAN y misma lista** en Aqua Gel Cream,
+    Low-pH Cleansing Foam (solo cambia "Fig" en el nombre del higo) y Watery Sun Gel. **Fuera por lista distinta con el
+    mismo EAN**: Hyaluronic Acid Moist Cream `8809686383559` (en Lookfantastic, otra fórmula: sin Cyclohexasiloxane ni
+    Hydrogenated Polydecene, con Phytosqualane) y Hyaluronic Acid Water Essence `8809626566431` (sin Tocopherol). El Airy
+    Sun Stick de Lookfantastic no está en la web: fuera. Los demás productos no tienen contraste en ninguna tienda española.
+  - **Fuera**: los 5 sets y rutinas (además, la web les pone el código de uno de sus productos: Aqua Gel Cream, Deep Sleep
+    Mask, Zinc Cooling Pad y Green Tea Cleanser; esos códigos se quedan en el producto suelto, que es su serie); el pack de 4
+    Daily Sun Gel y el de 4 Plum Peptide Gel Mask (entra la unidad); **Fresh Sun Serum**, porque la web le pone la lista
+    del Daily Sun Gel; Onion Newpair Ampoule Plus (sin lista); Onion Newpair Gel Cream Plus y Yam Root Barrier Cream (la
+    ficha no da `.js`, sin código).
+  - Tónico Hyaluronic Acid 200 y 400 ml y Powder Wash 15 g y 1 g×25, misma lista: una entrada con los dos códigos.
+  - **Revisión FP/FN**: saltan homosalato ×2 y octisalato ×2 (Daily y Watery Sun Gel), D5 ×2 (TW-Real Eye Cream, Watery Sun
+    Gel), D6 ×1 (Natural Sun Cream), aceite de árbol del té ×2 (Mugwort Cleansing Balm y Oil), lavanda ×1 (Zinc Cooling
+    Pad, Lavender Oil), retinol ×2, ácido salicílico ×2, propilenglicol ×1, PMMA ×1. No saltan, y es lo correcto, los
+    extractos (Tea Tree Leaf Extract, Lavender Flower Extract: la regla es solo para el aceite esencial). Ninguna lista
+    lleva perfume. 35 de 45 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.218 fichas
+    anteriores (aparte de la ficha de SKIN1004 quitada a propósito).
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
