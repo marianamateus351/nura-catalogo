@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12i",
+ "version": "2026-10-12j",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1454,6 +1454,12 @@
        "marca": "Haruharu Wonder",
        "barcode": "8809532221813",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Sérum Green Tea Enzyme Vitamin C Brightening Serum",
+       "marca": "Innisfree",
+       "barcode": "8809843683591",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla C-Niacin Toning Ampoule",
@@ -4455,6 +4461,12 @@
        "marca": "Haruharu Wonder",
        "barcode": "8809532221462",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Discos Green Tea Enzyme Vitamin C Brightening Toner Pads",
+       "marca": "Innisfree",
+       "barcode": "8809843699813",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Discos Onion Newpair Clear Pad",

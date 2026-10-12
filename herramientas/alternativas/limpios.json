@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-torriden",
+ "version": "2026-10-12-innisfree",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15230,6 +15230,26 @@
    "barcodes": [
     "8809784602194",
     "8809784602187"
+   ]
+  },
+  {
+   "marcaKey": "innisfree",
+   "marca": "Innisfree",
+   "nombre": "Sérum Green Tea Enzyme Vitamin C Brightening Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809843683591",
+    "8800294996544"
+   ]
+  },
+  {
+   "marcaKey": "innisfree",
+   "marca": "Innisfree",
+   "nombre": "Discos Green Tea Enzyme Vitamin C Brightening Toner Pads",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809843699813",
+    "8800294990535"
    ]
   }
  ]
