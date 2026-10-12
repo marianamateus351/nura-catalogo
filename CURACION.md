@@ -1269,6 +1269,34 @@ una tienda española vende con el mismo EAN y la misma lista.
     octinoxato ×3, octisalato ×3, oxibenzona ×2, laureth/sulfosuccinato ×4, nylon-12 ×1, metacrilato ×1. Todo está en las
     listas. Ninguna lista con perfume se escapa sin aviso. 1 de 101 limpio (Aceite de Argán Puro). **0 correcciones del
     detector.** Regresión: **0 cambios** en las 9.291 fichas anteriores.
+- ~~**L'Oréal Professionnel**~~ — **70 productos, 124 códigos** (versión 2026-10-12-lorealpro).
+  - **Fuente: la web oficial española** `lorealprofessionnel.es` (sitemap, 141 fichas de producto). Igual que L'Oréal Paris:
+    JSON-LD `Product` con `gtin13` y `additionalProperty "Ingredients"` ("1239932 B - INGREDIENTS: …" hasta "(F.I.L. …)"),
+    sinónimos con barra se queda el primero ("Aqua / Water / Eau" → Aqua, "CI 77499 / Iron Oxides" → CI 77499), mayúsculas
+    a mayúsculas iniciales. Los **tamaños y recargas** de cada ficha salen de su selector (`{"EAN": …, "altText": "… 500
+    ml"}`): misma lista, una entrada con todos los códigos (EAN-8 `30…` de L'Oréal incluidos, como en L'Oréal Paris).
+    Se dejan fuera dos variantes cuyo nombre no es el del producto de la ficha (el acondicionador "Molecular 500 ml" en la
+    ficha del Absolut Repair normal y la "Mascarilla Mini 50 ml" en la del sin aclarado).
+  - **Fuera**: coloración (Majirel, Inoa, Dia Light, Dia Color: la web no da lista), Steampod (planchas y su sérum, sin
+    lista), 9 tratamientos sin lista en la web (Absolut Repair Molecular pretratamiento, Curl Expression champú gel,
+    estimulador y acelerador de secado, Metal Detox acondicionador y pretratamiento, Pro Longer mascarilla y concentrado,
+    Tecni.Art Liss Control) y **los 4 decolorantes Blond Studio** (ver decisión W; además dos comparten el EAN `30163690`).
+  - **Revisión FP/FN**: fragancia ×61, fenoxietanol ×45, salicilato de bencilo ×25, propilenglicol ×20, ácido salicílico
+    ×16, clorhexidina ×16 (digluconato y diclorhidrato, en acondicionadores y mascarillas: está), laureth/SLES ×18, HHCB
+    ×10, isoeugenol ×7, benzoato de bencilo ×3, lavanda ×2, metilparabeno ×2, BHT, eugenol, octisalato, sulfitos y
+    polietileno ×1. Todo está en las listas; ninguna con perfume sin aviso. Salen limpias las tres lacas Infinium (sin
+    perfume en la lista), Volume Dust y Volume Savage. **0 correcciones del detector.** Regresión: **0 cambios** en las
+    9.392 fichas anteriores.
+- **Decisión W para Mariana — persulfatos (no añadido)**: los decolorantes en polvo (Blond Studio y los de cualquier
+  marca) llevan **Ammonium Persulfate y Potassium Persulfate** (a veces Sodium Persulfate). Hoy el detector no tiene regla y
+  saldrían "limpios", así que no se han metido. Evidencia: el reglamento CLP los clasifica como **sensibilizantes
+  respiratorios y cutáneos**; la ANSES (Francia) los señala como la **segunda causa de asma ocupacional por químicos**
+  (tras los amonios cuaternarios) y recomienda reducir al mínimo la exposición de profesionales y público; una revisión
+  sistemática de 2022 (Int Arch Occup Environ Health) los da como causa principal de rinitis y asma ocupacional en
+  peluqueras. Propuesta: regla nueva en "Otros riesgos", "Persulfatos (sensibilizantes respiratorios y de la piel)",
+  alias "ammonium persulfate, potassium persulfate, sodium persulfate, persulfato amónico, persulfato potásico, persulfato
+  sódico", con nota de que son decolorantes de uso profesional. Si dices que sí, entran los Blond Studio (el que comparte
+  EAN con otro, no) con el aviso; necesita build.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

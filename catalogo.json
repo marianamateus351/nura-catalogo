@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-moroccanoil",
+ "version": "2026-10-12-lorealpro",
  "marcas": [
   {
    "key": "larocheposay",
@@ -90193,6 +90193,696 @@
       "7290113140042"
      ],
      "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Parfum, Guar Hydroxypropyltrimonium Chloride, Argania Spinosa (Argan) Kernel Oil, PEG-40 Hydrogenated Castor Oil, Acrylates Copolymer, PEG-150 Distearate, Glycol Stearate, Hydroxyacetophenone, Algin, Glycerin, Chitosan, Trideceth-9, C12-13 Pareth-9, C11-15 Pareth-7, C12-16 Pareth-9, Silica Dimethyl Silylate, Isopropyl Alcohol, Trideceth-12, Citric Acid, Coconut Acid, Cocamidopropyl Dimethylamine, Caprylyl Glycol, Cetrimonium Chloride, Sodium Glycolate, Acid Violet 43 (CI 60730), Trimethylsiloxyamodimethicone, Caprylic/Capric Triglyceride, Phenoxyethanol, Chlorphenesin, Potassium Sorbate, Sodium Benzoate, Alpha-Isomethylionone, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "lorealprofessionnel",
+   "nombre": "L'Oréal Professionnel",
+   "productos": [
+    {
+     "nombre": "Aceite multibeneficios 10 en 1 para cabello dañado Absolut Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636977369"
+     ],
+     "inci": "Isododecane, Dimethicone, Dimethiconol, Linalool, Triticum Vulgare Germ Oil, Oryza Sativa Bran Oil, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Carvone, Limonene, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Pinene, Citrus Aurantium Bergamia Peel Oil, Citral, Vanillin, Parfum"
+    },
+    {
+     "nombre": "Acondicionador reconstructor para cabello seco Absolut Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976089",
+      "3474636975471"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Dicetyldimonium Chloride, Dimethicone, Cetyl Esters, Isopropyl Alcohol, Sodium Benzoate, Amodimethicone, Linalool, Trideceth-10, Tartaric Acid, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Chlorhexidine Digluconate, Linalyl Acetate, Carvone, Citrus Aurantium Peel Oil, Limonene, PEG-100 Stearate, Steareth-6, Trideceth-3, Phenoxyethanol, Oleic Acid, Pinene, CI 19140, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Acetic Acid, Trisodium Hedta, CI 17200, Parfum"
+    },
+    {
+     "nombre": "Mascarilla reparadora y fortalecedora para cabello seco Absolut Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974252",
+      "3474636975440"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Candelilla Cera, Amodimethicone, Cetyl Esters, Isopropyl Alcohol, Glycerin, Phenoxyethanol, Trideceth-6, Linalool, Lactic Acid, Hexyl Cinnamal, Chlorhexidine Digluconate, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Carvone, Citrus Aurantium Peel Oil, Limonene, Sodium Hydroxide, Oleic Acid, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, CI 19140, CI 15985, Parfum"
+    },
+    {
+     "nombre": "Mascarilla dorada Absolut Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636975310",
+      "3474636975181"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Mica, Behentrimonium Chloride, Amodimethicone, CI 77891, Phenoxyethanol, Isopropyl Alcohol, Hydroxyethylcellulose, CI 77491, Propylene Glycol, PEG-150/Decyl Alcohol/SMDI Copolymer, Linalool, Trideceth-6, Hexyl Cinnamal, Chlorhexidine Digluconate, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Carvone, Citrus Aurantium Peel Oil, Limonene, Citric Acid, Cetrimonium Chloride, Oleic Acid, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Parfum"
+    },
+    {
+     "nombre": "Aceite bifásico profesional para todo tipo de cabello dañado Absolut Repair Molecular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637292423",
+      "3474637292447"
+     ],
+     "inci": "Isododecane, Dimethicone, Aqua, Glycerin, Dimethiconol, Citric Acid, Sodium Hydroxide, Polyquaternium-6, Phenoxyethanol, Tetramethyl Acetyloctahydronaphthalenes, Juniperus Virginiana Oil, Linalool, Acetyl Cedrene, Glycine, Arginine, Serine, Glutamic Acid, Trimethylcyclopentenyl Methylisopentenol, Helianthus Annuus Seed Oil, Benzyl Benzoate, Tyrosine, Alpha-Isomethyl Ionone, Benzyl Alcohol, Coumarin, CI 40800, Tetrasodium EDTA, CI 60725, Parfum"
+    },
+    {
+     "nombre": "Champú reparador molecular sin tensioactivos sulfatados para cabello dañado Absolut Repair Molecular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637153526",
+      "3474637153557",
+      "3474637242220",
+      "3474637153571"
+     ],
+     "inci": "Aqua, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycol Distearate, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Glycerin, Parfum, Decyl Glucoside, Cocamidopropyl Betaine, PPG-5-Ceteth-20, Coco-Betaine, Divinyldimethicone/Dimethicone Copolymer, Amodimethicone, Citric Acid, Sodium Hydroxide, Polyquaternium-7, Carbomer, Polyquaternium-10, Sodium Benzoate, Sodium Chloride, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Arginine, Salicylic Acid, Benzoic Acid, Tetramethyl Acetyloctahydronaphthalenes, Polysorbate 21, Trideceth-6, Linalool, C12-13 Alketh-23, C12-13 Alketh-3, Juniperus Virginiana Oil, Acetyl Cedrene, Glycine, Serine, Tyrosine, Cetrimonium Chloride, Glutamic Acid, Phenoxyethanol"
+    },
+    {
+     "nombre": "Mascarilla sin aclarado reparadora molecular profunda para cabello dañado Absolut Repair Molecular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637153489"
+     ],
+     "inci": "Aqua, Isopropyl Myristate, Dimethicone, Amodimethicone, Triethanolamine, Phenoxyethanol, Carbomer, Potato Starch Modified, Polyquaternium-4, Hydroxypropyl Guar, Behentrimonium Chloride, Arginine, Trideceth-6, Tetramethyl Acetyloctahydronaphthalenes, Isopropyl Alcohol, Cetrimonium Chloride, Linalool, Glycine, Serine, Tyrosine, Citric Acid, Glutamic Acid, Juniperus Virginiana Oil, Acetyl Cedrene, Trimethylcyclopentenyl Methylisopentenol, Coumarin, Linalyl Acetate, Benzyl Alcohol, Benzyl Benzoate, Alpha-Isomethyl Ionone, Parfum"
+    },
+    {
+     "nombre": "Mascarilla para cabello dañado Absolut Repair Molecular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637217884",
+      "3474637217907"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Distarch Phosphate, Quaternium-87, Dimethicone, Behentrimonium Chloride, Propylene Glycol, Phenoxyethanol, PEG-150/Decyl Alcohol/SMDI Copolymer, Amodimethicone, Isopropyl Alcohol, Trideceth-10, Tetramethyl Acetyloctahydronaphthalenes, Chlorhexidine Digluconate, PEG-100 Stearate, Steareth-6, Juniperus Virginiana Oil, Linalool, Trideceth-3, Acetyl Cedrene, Glycine, Arginine, Serine, Tyrosine, Citric Acid, Glutamic Acid, Acetic Acid, Parfum"
+    },
+    {
+     "nombre": "Sérum con aclarado reparador molecular profundo para cabello dañado Absolut Repair Molecular",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637153502"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Glycine, Citric Acid, Parfum, PEG-40 Hydrogenated Castor Oil, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Cetrimonium Chloride, Polysorbate 20, Polysorbate 80, Phenoxyethanol, Sodium Hydroxide, Glutamic Acid, Quaternium-80, Arginine, Hydroxypropyl Guar, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Serine, Juniperus Virginiana Oil, Linalool, Acetyl Cedrene, Tyrosine"
+    },
+    {
+     "nombre": "Ampollas contra la pérdida capilar Aminexil Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637109523",
+      "3474637109509"
+     ],
+     "inci": "Aqua, Alcohol Denat., Diaminopyrimidine Oxide, Aminomethyl Propanol, Calcium Pantothenate, PEG-40 Hydrogenated Castor Oil, Safflower Glucoside, Hexamethylindanopyran, Pyridoxine Hcl, Niacinamide, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Tocopherol, Sodium Citrate, Parfum"
+    },
+    {
+     "nombre": "Sérum activador contra la pérdida capilar Aminexil Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637106331"
+     ],
+     "inci": "Aqua, Alcohol Denat., Diaminopyrimidine Oxide, PEG-40 Hydrogenated Castor Oil, Triethanolamine, Carbomer, Menthol, Mentha Piperita Oil, Carvone, Limonene, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Polyquaternium-11, Linalool, Acetyl Cedrene, Neohesperidin Dihydrochalcone, 2-Oleamido-1, 3-Octadecanediol, Safflower Glucoside, Citrus Limon Peel Oil, Pinene, Beta-Caryophyllene, Mentha Viridis Leaf Oil, Terpineol, Lavandula Oil/Extract, Hexadecanolactone, Citronellol, Hydroxycitronellal, Tocopherol, Sodium Citrate, Parfum"
+    },
+    {
+     "nombre": "Acondicionador restaurador e iluminador para cabello rubio Blondifier",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976003"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Cocos Nucifera Oil, Isopropyl Alcohol, Benzoic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Benzyl Salicylate, Benzyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Linalool, Citrus Aurantium Peel Oil, Limonene, Sodium Hydroxide, Hydroxycitronellal, Citronellol, 2-Oleamido-1, 3-Octadecanediol, Tocopherol, Terpineol, Euterpe Oleracea Fruit Extract, Alpha-Isomethyl Ionone, Maltodextrin, Parfum"
+    },
+    {
+     "nombre": "Champú iluminador y restaurador para cabello rubio Blondifier",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974375",
+      "3474636975891"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Laureth-5 Carboxylic Acid, Amodimethicone, Sodium Benzoate, Cocamide Mipa, Sodium Hydroxide, Citric Acid, Hexylene Glycol, Polyquaternium-7, PEG-55 Propylene Glycol Oleate, Propylene Glycol, PEG-60 Hydrogenated Castor Oil, Salicylic Acid, Tocopheryl Acetate, Panthenol, Linalool, Hexamethylindanopyran, Linalyl Acetate, 2-Oleamido-1, 3-Octadecanediol, Magnesium Sulfate, Benzyl Alcohol, Euterpe Oleracea Fruit Extract, Maltodextrin, CI 19140, CI 14700, Parfum"
+    },
+    {
+     "nombre": "Mascarilla restauradora e iluminadora para cabello rubio Blondifier",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976027"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Hydroxypropyl Starch Phosphate, Glycerin, Candelilla Cera, Propylene Glycol, Cocamidopropyl Betaine, Sclerotium Gum, Isopropyl Alcohol, Phenoxyethanol, Sodium Chloride, Benzyl Salicylate, Benzyl Alcohol, Chlorhexidine Digluconate, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Linalool, Citrus Aurantium Peel Oil, Limonene, Hydroxycitronellal, Citronellol, Terpineol, Alpha-Isomethyl Ionone, 2-Oleamido-1, 3-Octadecanediol, Tocopherol, Euterpe Oleracea Fruit Extract, Benzaldehyde, Pinene, Maltodextrin, Parfum"
+    },
+    {
+     "nombre": "Crema definidora de rizos en gel Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637069155"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Isopropyl Myristate, Hydroxypropyl Guar, Bis-Diglyceryl Polyacyladipate-2, Cetearyl Glucoside, Sodium Benzoate, Cocos Nucifera Oil, Caprylyl Glycol, Butyrospermum Parkii Butter, Sclerotium Gum, Tetramethyl Acetyloctahydronaphthalenes, Citric Acid, Hydroxyethyl Urea, Carvone, Limonene, Citrus Aurantium Peel Oil, Benzyl Salicylate, Benzyl Alcohol, Parfum"
+    },
+    {
+     "nombre": "Agua Reanimadora de rizos Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637076498"
+     ],
+     "inci": "Aqua, Glycerin, Glucose, Sorbitol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Sodium Hydroxide, Caprylyl Glycol, Pectin, Carrageenan, Sucrose, Tetramethyl Acetyloctahydronaphthalenes, Hydroxyethyl Urea, Carvone, Limonene, Citrus Aurantium Peel Oil, Benzyl Salicylate, Benzyl Alcohol, Cocos Nucifera Fruit Extract, Xanthan Gum, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Hidratante intensivo de larga duración Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637069124"
+     ],
+     "inci": "Aqua, Aminopropyl Triethoxysilane, Isopropyl Myristate, Lactic Acid, Glycerin, Cetearyl Alcohol, Polyquaternium-37, Amodimethicone, Polyquaternium-6, Propylene Glycol Dicaprylate/Dicaprate, Dimethicone, Hydroxypropyl Guar, Phenoxyethanol, Trideceth-5, Lauryl Glucoside, Steareth-20, VP/VA Copolymer, PPG-1 Trideceth-6, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-10, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Chlorhexidine Digluconate, Acetic Acid, Citric Acid, Hydroxyethyl Urea, Carvone, Limonene, Citrus Aurantium Peel Oil, Benzyl Salicylate, EDTA, Benzyl Alcohol, Tetrasodium EDTA, Parfum"
+    },
+    {
+     "nombre": "Mascarilla hidratante Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637069230",
+      "3474637069179"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dimethicone, Glycerin, Behentrimonium Chloride, Amodimethicone, Cetrimonium Chloride, Phenoxyethanol, Isopropyl Alcohol, Sodium Laureth Sulfate, Tetramethyl Acetyloctahydronaphthalenes, Lactic Acid, Hydroxyethyl Urea, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Mascarilla hidratante intensiva para cabello rizado Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637069216",
+      "3474637069117"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Amodimethicone, Potato Starch Modified, Cetyl Esters, Isopropyl Alcohol, Phenoxyethanol, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-6, Chlorhexidine Digluconate, Hydroxyethyl Urea, Cetrimonium Chloride, Parfum"
+    },
+    {
+     "nombre": "Crema en mousse 10 en 1 para cabello rizado Curl Expression",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637109738"
+     ],
+     "inci": "Aqua, Isobutane, Cetearyl Alcohol, Butane, Glycerin, Propane, Polysorbate 20, Behentrimonium Chloride, Phenoxyethanol, Cetyl Esters, Isopropyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Ethylhexylglycerin, Sodium Citrate, Hydroxyethyl Urea, Carvone, Limonene, Citrus Aurantium Peel Oil, Benzyl Salicylate, Benzyl Alcohol, Tocopherol, Parfum"
+    },
+    {
+     "nombre": "Laca Extra Fuerte Infinium",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636476633"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, VA/Crotonates/Vinyl Neodecanoate Copolymer, Aqua, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Laca Fuerte Infinium",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636476602"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, VA/Crotonates/Vinyl Neodecanoate Copolymer, Aqua, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Laca Suave Infinium",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636471706"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, VA/Crotonates/Vinyl Neodecanoate Copolymer, Aqua, Aminomethyl Propanol"
+    },
+    {
+     "nombre": "Champú profesional sin tensioactivos sulfatados para una suavidad duradera y control del encrespamiento y del volumen Keratin Alpha Sleek",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637335755",
+      "3474637335731",
+      "3474637335717"
+     ],
+     "inci": "Aqua, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycol Distearate, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Glycerin, Parfum, Decyl Glucoside, Cocamidopropyl Betaine, Coco-Betaine, PPG-5-Ceteth-20, Divinyldimethicone/Dimethicone Copolymer, Amodimethicone, Sodium Hydroxide, Citric Acid, Polyquaternium-7, Carbomer, Polyquaternium-10, Sodium Benzoate, Sodium Chloride, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Salicylic Acid, Benzoic Acid, Tetramethyl Acetyloctahydronaphthalenes, Polysorbate 21, Linalyl Acetate, Carvone, Citrus Limon Peel Oil, Trideceth-6, Limonene, Coumarin, Linalool, Citrus Aurantium Bergamia Peel Oil, Butylene Glycol, C12-13 Alketh-23, C12-13 Alketh-3, Pinene, Cetrimonium Chloride, Juniperus Virginiana Oil, Phenoxyethanol, Sodium Lactate, Taurine, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7"
+    },
+    {
+     "nombre": "Mascarilla capilar profesional para una suavidad duradera, control del frizz y del volumen Keratin Alpha Sleek",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637335694",
+      "3474637335656"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Citric Acid, Cetyl Esters, Glycerin, Glycine, Isopropyl Alcohol, Aminopropyl Dimethicone, Potassium Hydroxide, Isododecane, Phenoxyethanol, Bis(C13-15 Alkoxy) PG-Amodimethicone, Butyrospermum Parkii Butter, Steareth-100, Propylene Glycol, Hydroxypropyl Guar, PEG-150/Decyl Alcohol/SMDI Copolymer, Tetramethyl Acetyloctahydronaphthalenes, Polyquaternium-37, Linalyl Acetate, Propylene Glycol Dicaprylate/Dicaprate, Chlorhexidine Digluconate, Carvone, Citrus Limon Peel Oil, Limonene, Coumarin, Linalool, Citrus Aurantium Bergamia Peel Oil, Butylene Glycol, PPG-1 Trideceth-6, Pinene, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, Carbomer, Sodium Lactate, Taurine, Polysorbate 20, EDTA, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Parfum"
+    },
+    {
+     "nombre": "Mirror Sleek Serum para una suavidad duradera, control del frizz y del volumen Keratin Alpha Sleek",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637335618"
+     ],
+     "inci": "Dimethicone, Bis-(Morpholinomethyl C1-4 Dialkoxysiloxy) Dimethicone, Bis-Cetearyl Amodimethicone, Parfum, Linalool, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Smooth Transformer Tratamiento anti-frizz profesional para todo tipo de cabello Keratin Alpha Sleek",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637335533"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocos Nucifera Oil, Behentrimonium Chloride, Isononyl Isononanoate, Cetyl Esters, Parfum, Ethanolamine, Isopropyl Alcohol, Cysteine, Dimethicone, Hydroxyethylcellulose, Phenoxyethanol, Sodium Metabisulfite, Amodimethicone, Ascorbic Acid, Trideceth-10, Trisodium Ethylenediamine Disuccinate, PEG-100 Stearate, Rose Ketones, Steareth-6, Taurine, Trideceth-3, Glycerin, Butylene Glycol, Disodium Phosphate, Acetic Acid, Polysorbate 60, Sodium Phosphate, Carbomer, Sodium Lactate, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7"
+    },
+    {
+     "nombre": "Aceite perfeccionador de brillo para cabello rebelde Liss Unlimited",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974320"
+     ],
+     "inci": "Isododecane, Caprylic/Capric Triglyceride, Dimethicone, Dicaprylyl Ether, Dimethiconol, Trimethylsiloxysilicate, Oenothera Biennis Oil, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Limonene, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Linalyl Acetate, Benzaldehyde, Tocopherol, Pinene, Alpha-Isomethyl Ionone, Isoeugenyl Acetate, Linalool, Isoeugenol, Vanillin, Citral, Parfum"
+    },
+    {
+     "nombre": "Champú para cabello rebelde Liss Unlimited",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974399",
+      "3474636975860",
+      "3474636975655"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Cocoamphodiacetate, Glycol Distearate, Polyquaternium-10, PPG-5-Ceteth-20, Sodium Chloride, Citric Acid, Sodium Benzoate, Sodium Hydroxide, Coco-Betaine, Carbomer, Salicylic Acid, Hexyl Cinnamal, Arginine, Glutamic Acid, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Limonene, Benzyl Alcohol, Benzyl Salicylate, Serine, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Citronellol, Oenothera Biennis Oil, Citrus Aurantium Peel Oil, Linalyl Acetate, 2-Oleamido-1, 3-Octadecanediol, Phenoxyethanol, Parfum"
+    },
+    {
+     "nombre": "Mascarilla para cabello rebelde Liss Unlimited",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636975983",
+      "3474636975624"
+     ],
+     "inci": "Aqua, Glycerin, Sorbitol, Propylene Glycol, Cetearyl Alcohol, Behentrimonium Chloride, Olea Europaea Fruit Oil, PEG-180, Dimethicone, Cetyl Esters, Isopropyl Alcohol, Phenoxyethanol, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Mica, Aminopropyl Dimethicone, Oenothera Biennis Oil, Hydroxyethylcellulose, Citric Acid, CI 77891, Hexyl Cinnamal, Arginine, Glutamic Acid, Tetramethyl Acetyloctahydronaphthalenes, Chlorhexidine Digluconate, Carvone, Limonene, Benzyl Alcohol, Benzyl Salicylate, Serine, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Citronellol, Potassium Hydroxide, Citrus Aurantium Peel Oil, Linalyl Acetate, Dilauryl Thiodipropionate, 2-Oleamido-1, 3-Octadecanediol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Parfum"
+    },
+    {
+     "nombre": "Aceite concentrado protector anti-rotura Metal Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637270117",
+      "3474637090609"
+     ],
+     "inci": "Isododecane, Aqua, Dipropylene Glycol, Dimethicone, Alcohol Denat., Dimethiconol, Glycerin, PEG-14 Dimethicone, Hydroxyethyl Urea, Phenoxyethanol, PEG-60 Hydrogenated Castor Oil, Carvone, Limonene, Citrus Aurantium Peel Oil, Polyacrylamide, C13-14 Isoalkane, Propylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexyl Cinnamal, Linalool, Laureth-7, Caramel, Pinene, Citral, Glycine, Geraniol, Geranyl Acetate, Lemongrass Oil, Beta-Caryophyllene, Coumarin, Pogostemon Cablin Oil, Alpha-Terpinene, CI 19140, Polyquaternium-7, Trimethylcyclopentenyl Methylisopentenol, CI 15985, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Champú en crema limpiadora sin tensioactivos sulfatados Metal Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30158078",
+      "3474637053604",
+      "30163720",
+      "3474637242213",
+      "30160668"
+     ],
+     "inci": "Aqua, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, Glycol Distearate, Sodium Lauryl Sulfoacetate, Sodium Lauroyl Sarcosinate, Glycerin, Parfum, PPG-5-Ceteth-20, Decyl Glucoside, Cocamidopropyl Betaine, Coco-Betaine, Divinyldimethicone/Dimethicone Copolymer, Amodimethicone, Citric Acid, Sodium Hydroxide, Polyquaternium-7, Carbomer, Polyquaternium-10, Sodium Benzoate, Carvone, Sodium Chloride, Limonene, Citrus Aurantium Peel Oil, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Salicylic Acid, Benzoic Acid, Polysorbate 21, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexyl Cinnamal, Linalool, Trideceth-6, Pinene, C12-13 Alketh-23, C12-13 Alketh-3, Citral, Geraniol, Glycine, Tocopherol, Cetrimonium Chloride, Phenoxyethanol"
+    },
+    {
+     "nombre": "Crema Leave in anti-rotura con protección térmica Metal Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30161153"
+     ],
+     "inci": "Aqua, Butylene Glycol, Aminopropyl Dimethicone, Isododecane, Isononyl Isononanoate, Glycine, PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether, Caprylyl Glycol, Undecane, Sclerotium Gum, Tridecane, Tocopherol, Ethylhexyl Salicylate, Carvone, Limonene, Citrus Aurantium Peel Oil, Sodium Citrate, Citric Acid, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexyl Cinnamal, Linalool, Pinene, Citral, Geraniol, Geranyl Acetate, Lemongrass Oil, Beta-Caryophyllene, Coumarin, Pogostemon Cablin Oil, Potassium Laurate, Polyquaternium-7, Alpha-Terpinene, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Mascarilla profesional anti-rotura, para todo tipo de cabello Metal Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30160606",
+      "3474637257651",
+      "30163478"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Parfum, Isopropyl Alcohol, Trideceth-6, Phenoxyethanol, Carvone, Limonene, Citrus Aurantium Peel Oil, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexyl Cinnamal, Linalool, Pinene, Chlorhexidine Dihydrochloride, Citral, Geraniol, Glycine, Tocopherol, Polyquaternium-7, Sodium Benzoate"
+    },
+    {
+     "nombre": "Tratamiento pre-champú con relleno antiporosidad Metal Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637199708"
+     ],
+     "inci": "Aqua, Laureth-5 Carboxylic Acid, Aminopropyl Triethoxysilane, Cocamidopropyl Betaine, Sodium Chloride, PEG-150 Distearate, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Polyquaternium-67, Lactic Acid, Laureth-4, Sodium Hydroxide, Caprylyl Glycol, Carvone, Limonene, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Hexyl Cinnamal, Linalool, Pinene, Citral, Geraniol, Polyquaternium-7, Sodium Benzoate, Parfum"
+    },
+    {
+     "nombre": "Acondicionador para cabello largo con puntas afinadas, rotas y abiertas Pro Longer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976102",
+      "3474636975167",
+      "3474636975457"
+     ],
+     "inci": "Aqua, Hydroxypropyl Starch Phosphate, Quaternium-87, Stearyl Alcohol, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Phenoxyethanol, Isopropyl Alcohol, Candelilla Cera, Methylparaben, Trideceth-5, Glycerin, Arginine, Panthenol, Trideceth-10, Lactic Acid, Benzyl Salicylate, Chlorhexidine Dihydrochloride, Benzyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Linalool, Citrus Aurantium Peel Oil, Limonene, 2-Oleamido-1, 3-Octadecanediol, Aminopropyl Triethoxysilane, Acetic Acid, Hydroxycitronellal, Citronellol, Polyquaternium-6, Tetrasodium EDTA, Parfum"
+    },
+    {
+     "nombre": "Champú renovador para cabello largo con puntas afinadas Pro Longer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974412",
+      "3474636975846",
+      "3474636975600",
+      "3474637090661"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Carbomer, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Glycerin, Salicylic Acid, Glycol Distearate, Arginine, Panthenol, Mica, Benzyl Salicylate, Benzyl Alcohol, PEG-100 Stearate, Tetramethyl Acetyloctahydronaphthalenes, Steareth-6, Carvone, Linalool, Citrus Aurantium Peel Oil, Limonene, Coco-Betaine, Trideceth-3, CI 77891, Phenoxyethanol, Hydroxycitronellal, Citronellol, Terpineol, Alpha-Isomethyl Ionone, Aminopropyl Triethoxysilane, Benzaldehyde, Pinene, Fumaric Acid, Polyquaternium-6, Acetic Acid, Tetrasodium EDTA, Parfum"
+    },
+    {
+     "nombre": "Crema renovadora leave-in para cabello con puntas afinadas Pro Longer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636977307"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cetyl Esters, Amodimethicone, Behentrimonium Methosulfate, Phenoxyethanol, Bis-Diglyceryl Polyacyladipate-2, Arginine, Panthenol, Lactic Acid, Behentrimonium Chloride, Trideceth-6, Benzyl Salicylate, Benzyl Alcohol, Tetramethyl Acetyloctahydronaphthalenes, Isopropyl Alcohol, Carvone, Linalool, Citrus Aurantium Peel Oil, Serine, Cetrimonium Chloride, Limonene, Aminopropyl Triethoxysilane, Hydroxycitronellal, Citronellol, Terpineol, Alpha-Isomethyl Ionone, Polyquaternium-6, Benzaldehyde, Pinene, Dimethyl Phenethyl Acetate, Geranyl Acetate, Citric Acid, Cananga Odorata Oil/Extract, Rose Ketones, Tetrasodium EDTA, Parfum"
+    },
+    {
+     "nombre": "Arcilla purificadora profunda 2-In-1 Scalp Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637090524",
+      "3474637090562"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Kaolin, Cocamidopropyl Betaine, Montmorillonite, Citric Acid, Sodium Citrate, Hexylene Glycol, Acrylates Copolymer, Sodium Chloride, Sodium Hydroxide, Sodium Benzoate, Caprylyl Glycol, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Menthol, Polyquaternium-10, Salicylic Acid, Carvone, Limonene, Citrus Aurantium Peel Oil, Niacinamide, Linalool, Linalyl Acetate, Hydrogenated Starch Hydrolysate, Citrus Limon Peel Oil, Pogostemon Cablin Oil, Pinene, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Trimethylbenzenepropanol, Geraniol, Charcoal Powder, Aphanizomenon Flosaquae Extract, Polyglycerin-10, Polyglyceryl-10 Myristate, Polyglyceryl-10 Stearate, Phenoxyethanol, Potassium Sorbate, Sodium Dehydroacetate, CI 77499, Parfum"
+    },
+    {
+     "nombre": "Champú anticaspa Scalp Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637109370",
+      "3474637109394",
+      "3474637109424"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Glycol Distearate, Glycerin, Sodium Chloride, PPG-5-Ceteth-20, Citric Acid, Sodium Benzoate, Sodium Hydroxide, Piroctone Olamine, Octyldodecanol, Carbomer, Salicylic Acid, Guar Hydroxypropyltrimonium Chloride, PEG-55 Propylene Glycol Oleate, Propylene Glycol, Menthoxypropanediol, Hexamethylindanopyran, Linalool, Anethole, Carvone, Limonene, Citrus Limon Peel Oil, Benzyl Alcohol, Fumaric Acid, CI 42090, Parfum"
+    },
+    {
+     "nombre": "Champú Dermo Purificador Antigrasa Scalp Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637106454",
+      "3474637106430",
+      "3474637106416"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lactic Acid, Sodium Hydroxide, Salicylic Acid, Triethyl Citrate, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Decyl Glucoside, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Brassicamidopropyl Dimethylamine, Menthol, Glyceryl Oleate, Carvone, Limonene, Citric Acid, Citrus Aurantium Peel Oil, Niacinamide, Sodium Bicarbonate, Linalool, Linalyl Acetate, Citrus Limon Peel Oil, Pogostemon Cablin Oil, Pinene, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Trimethylbenzenepropanol, Geraniol, Lecithin, Tocopherol, Ascorbyl Palmitate, Hydrogenated Palm Glycerides Citrate, Parfum"
+    },
+    {
+     "nombre": "Champú anti-malestar Scalp Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637090487",
+      "3474637090500",
+      "3474637242152",
+      "3474637090517"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Citric Acid, Cocamidopropyl Betaine, Sodium Hydroxide, Propylene Glycol, Sodium Chloride, Sodium Benzoate, Hexylene Glycol, Polyquaternium-10, Carvone, Salicylic Acid, Limonene, Citrus Aurantium Peel Oil, Linalool, Niacinamide, Linalyl Acetate, Hydrogenated Starch Hydrolysate, Citrus Limon Peel Oil, Pogostemon Cablin Oil, Pinene, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Trimethylbenzenepropanol, Geraniol, Benzyl Alcohol, Aphanizomenon Flosaquae Extract, Phenoxyethanol, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Tratamiento antimolestias para cuero cabelludo sensible Scalp Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637090579"
+     ],
+     "inci": "Aqua, Hydroxypropyl Starch Phosphate, Glycerin, Quaternium-87, Cetearyl Alcohol, Behentrimonium Chloride, Propylene Glycol, Caprylyl Glycol, Phenoxyethanol, Candelilla Cera, Isopropyl Alcohol, Carvone, Limonene, Citrus Aurantium Peel Oil, Linalool, Linalyl Acetate, Niacinamide, Hydrogenated Starch Hydrolysate, Citrus Limon Peel Oil, Menthol, Pogostemon Cablin Oil, Pinene, Hexyl Cinnamal, Citronellol, Alpha-Isomethyl Ionone, Trimethylbenzenepropanol, Geraniol, Benzyl Alcohol, Aphanizomenon Flosaquae Extract, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Champú densificante y purificante Serioxyl Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637106393",
+      "3474637106379",
+      "3474637106355"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Hexylene Glycol, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Alcohol Denat., Polyquaternium-30, Salicylic Acid, Menthol, Benzoic Acid, Magnesium Sulfate, Polysorbate 21, CI 42090"
+    },
+    {
+     "nombre": "Sérum activador de densidad capilar Serioxyl Advanced",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637106348"
+     ],
+     "inci": "Alcohol Denat., Aqua, Diethyllutidinate, Resveratrol, Ethyl Ester Of Pvm/Ma Copolymer, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Geraniol, Citronellol, Benzyl Salicylate, Benzyl Alcohol, Linalyl Acetate, Carvone, Limonene, Geranyl Acetate, Citrus Aurantium Peel Oil, Parfum"
+    },
+    {
+     "nombre": "Acondicionador para cabello gris Silver",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976126"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cocamidopropyl Betaine, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Sclerotium Gum, Phenoxyethanol, Isopropyl Alcohol, Parfum, Sodium Chloride, Ethanolamine, Citric Acid, CI 60730, Benzyl Salicylate, Hexyl Cinnamal, Trideceth-6, Linalool, Benzyl Alcohol, Linalyl Acetate, Amyl Cinnamal, Chlorhexidine Digluconate, Carvone, Limonene, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Cetrimonium Chloride, Magnesium Acetate, Benzaldehyde, Citronellol"
+    },
+    {
+     "nombre": "Champú para cabello gris Silver",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974108",
+      "3474636974290",
+      "3474636975563"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Glycol Distearate, Cocamide Mipa, Dimethicone, Sodium Benzoate, Sodium Hydroxide, Citric Acid, Hexylene Glycol, CI 60730, Salicylic Acid, Carbomer, Benzyl Salicylate, Benzyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Carvone, Limonene, Magnesium Acetate, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal, Aspartic Acid, Glycine, Arginine, Glutamic Acid, Phenoxyethanol, Fumaric Acid, Parfum"
+    },
+    {
+     "nombre": "Bouncy & Tender Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30157729"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, VP/VA Copolymer, Glycerin, Dimethicone, Amodimethicone, Cetyl Esters, Hydroxyethylcellulose, Phenoxyethanol, Citric Acid, Polyquaternium-4, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Polyquaternium-37, Trideceth-6, Propylene Glycol Dicaprylate/Dicaprate, Behentrimonium Chloride, Chlorhexidine Digluconate, Guar Hydroxypropyltrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Cetrimonium Chloride, PPG-1 Trideceth-6, Isopropyl Alcohol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Hydroxycitronellal, Acrylates/Stearyl Methacrylate Copolymer, Linalool, Sorbitan Oleate, Geraniol, Citral, Carvone, Limonene, Disodium Phosphate, Polysorbate 60, Citronellol, Coumarin, Pinene, Benzaldehyde, Cananga Odorata Oil/Extract, Fumaric Acid, Isoeugenol, Pogostemon Cablin Oil, Sodium Phosphate, EDTA, Parfum"
+    },
+    {
+     "nombre": "Volume Extra Full Espuma de cabello Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30165120"
+     ],
+     "inci": "Aqua, Propylene Glycol, Isobutane, Acrylates Copolymer, Butane, Aminomethyl Propanol, Propane, VP/Acrylates/Lauryl Methacrylate Copolymer, Triacetin, Phenoxyethanol, Alcohol Denat., PEG-40 Hydrogenated Castor Oil, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Amodimethicone, Caprylyl Glycol, Polysorbate 20, Tetramethyl Acetyloctahydronaphthalenes, Polysorbate 80, Trideceth-6, Benzyl Salicylate, Sodium Lauryl Sulfate, Alpha-Isomethyl Ionone, Benzyl Alcohol, 2-Oleamido-1, 3-Octadecanediol, Hydroxycitronellal, Cetrimonium Chloride, Linalool, Geraniol, Citral, Carvone, Limonene, Citronellol, Coumarin, Pinene, Benzaldehyde, Cananga Odorata Oil/Extract, Isoeugenol, Pogostemon Cablin Oil, Vanillin, Parfum"
+    },
+    {
+     "nombre": "Volume Rooft Lift Espuma de cabello Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30160262"
+     ],
+     "inci": "Aqua, Dimethyl Ether, Alcohol Denat., Isobutane, Polyquaternium-11, Butyl Ester Of Pvm/Ma Copolymer, Triethanolamine, Amodimethicone, Polyquaternium-4, Polysorbate 20, Hydroxypropyl Guar, Cetrimonium Chloride, Trideceth-15, Trideceth-3, Linalool, Benzyl Salicylate, Benzyl Benzoate, Benzyl Alcohol, Phenoxyethanol, Citronellol, Limonene, Acetic Acid, Parfum"
+    },
+    {
+     "nombre": "Gel Fix Max Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30165519"
+     ],
+     "inci": "Aqua, Alcohol Denat., Amp-Acrylates/Allyl Methacrylate Copolymer, Sorbitol, Aminomethyl Propanol, Carbomer, PEG-40 Hydrogenated Castor Oil, Hydroxypropyl Guar, Phenoxyethanol, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Hydroxycitronellal, Linalool, Geraniol, Carvone, Citral, Limonene, Citronellol, Coumarin, Pinene, Benzaldehyde, Cananga Odorata Oil/Extract, Isoeugenol, Pogostemon Cablin Oil, Vanillin, Parfum"
+    },
+    {
+     "nombre": "Gel Flex Web Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30165366"
+     ],
+     "inci": "Aqua, Glycerin, Butylene Glycol, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, PVP, Dimethicone, Phenoxyethanol, PEG-150 Pentaerythrityl Tetrastearate, Chlorphenesin, Hydroxypropyl Guar, Sodium Benzoate, PEG-90M, Tetramethyl Acetyloctahydronaphthalenes, Chlorhexidine Dihydrochloride, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Hydroxycitronellal, Linalool, Geraniol, Silica, Carvone, Citral, Limonene, Citronellol, Coumarin, Pinene, Benzaldehyde, Cananga Odorata Oil/Extract, Isoeugenol, Pogostemon Cablin Oil, Vanillin, BHT, Parfum"
+    },
+    {
+     "nombre": "Pasta Flex Depolish Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30159884"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil, Dimethicone, Petrolatum, Stearyl Alcohol, C20-40 Alkyl Stearate, PPG-5-Ceteth-20, Tribehenin, VP/VA Copolymer, Butylene Glycol, PEG-150 Pentaerythrityl Tetrastearate, Phenoxyethanol, Cellulose Gum, Sorbic Acid, Sodium Benzoate, Linalool, Limonene, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Citral, Alpha-Isomethyl Ionone, Hydroxycitronellal, Geraniol, Parfum"
+    },
+    {
+     "nombre": "Polvo Volume Dust Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30162853"
+     ],
+     "inci": "Silica Silylate [Nano], Aqua, Glycerin, Alcohol Denat., VP/VA Copolymer, Citric Acid, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Beach Waves Spray de cabello Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637277765"
+     ],
+     "inci": "Alcohol Denat., Glycerin, VA/Crotonates/Vinyl Neodecanoate Copolymer, Aqua, Propylene Glycol, Aminomethyl Propanol, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Hydroxycitronellal, Sodium Chloride, Linalool, Geraniol, Citral, Carvone, Limonene, Citronellol, Coumarin, Pinene, Benzaldehyde, Cananga Odorata Oil/Extract, Isoeugenol, Pogostemon Cablin Oil, Vanillin, Geranyl Acetate, Citrus Aurantium Peel Oil, Parfum"
+    },
+    {
+     "nombre": "Fix Anti Frizz Spray Fijador Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30162822"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Acrylates/T-Butylacrylamide Copolymer, Aqua, Aminomethyl Propanol, Benzyl Alcohol, Benzyl Salicylate, Carvone, Citral, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Hydroxycitronellal, Lavandula Oil/Extract, Limonene, Linalool, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Parfum"
+    },
+    {
+     "nombre": "Fix Design Spray Fijador Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30160002"
+     ],
+     "inci": "Alcohol Denat., VA/Crotonates/Vinyl Neodecanoate Copolymer, Aminomethyl Propanol, PEG/PPG-4/12 Dimethicone, Linalool, Hexyl Cinnamal, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Carvone, Citrus Aurantium Peel Oil, Limonene, Hexamethylindanopyran, Geraniol, Citronellol, Benzyl Alcohol, Coumarin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum"
+    },
+    {
+     "nombre": "Pli Shaper Spray Termo-Fijador Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30160255"
+     ],
+     "inci": "Aqua, Alcohol Denat., VA/Crotonates Copolymer, Isopropyl Alcohol, Aminomethyl Propanol, VP/VA Copolymer, Cetrimonium Chloride, PEG-40 Hydrogenated Castor Oil, Hexamethylindanopyran, Linalool, Benzyl Salicylate, Benzyl Alcohol, Amyl Cinnamal, Hexyl Cinnamal, Hydroxycitronellal, Citronellol, Amyl Salicylate, Alpha-Isomethyl Ionone, Carvone, Geraniol, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Geranyl Acetate, Benzaldehyde, Eugenol, Anethole, Vanillin, Isoeugenol, Parfum"
+    },
+    {
+     "nombre": "Volume Savage Spray Texturizante Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30166899"
+     ],
+     "inci": "Butane, Alcohol Denat., Calcium Carbonate, Polyvinylcaprolactam, Disteardimonium Hectorite, Dimethicone, Dimethiconol, Aqua"
+    },
+    {
+     "nombre": "Champú Seco Volume Refresh Tecni.Art",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "30157743"
+     ],
+     "inci": "Isobutane, Oryza Sativa Starch, Calcium Carbonate, Isopropyl Myristate, Disteardimonium Hectorite, Linalool, Linalyl Acetate, Benzyl Salicylate, Carvone, Limonene, Benzyl Alcohol, Acetyl Cedrene, Cetrimonium Chloride, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Alpha-Isomethyl Ionone, Pinene, Benzaldehyde, Citral, Geraniol, Citrus Limon Peel Oil, Parfum"
+    },
+    {
+     "nombre": "Acondicionador para cabello coloreado Vitamino Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636975693",
+      "3474636975365",
+      "3474636975358"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Amodimethicone, Isopropyl Alcohol, Benzoic Acid, Niacinamide, Trideceth-6, Linalool, Potassium Hydroxide, Hexamethylindanopyran, Linalyl Acetate, Cetrimonium Chloride, Resveratrol, Benzyl Alcohol, Citrus Limon Peel Oil, Parfum"
+    },
+    {
+     "nombre": "Champú Color Radiance para cabello coloreado Vitamino Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636975501",
+      "3474636975945",
+      "3474637242190",
+      "3474636975976",
+      "3474637090845"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Carbomer, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Glycerin, Salicylic Acid, Glycol Distearate, Niacinamide, Mica, Linalool, PEG-100 Stearate, Hexamethylindanopyran, Steareth-6, Coco-Betaine, Trideceth-3, CI 77891, Phenoxyethanol, Linalyl Acetate, Resveratrol, Benzyl Alcohol, Fumaric Acid, Acetic Acid, Parfum"
+    },
+    {
+     "nombre": "Mascarilla para cabello coloreado Vitamino Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636976041",
+      "3474636975686"
+     ],
+     "inci": "Aqua, Hydroxypropyl Starch Phosphate, Quaternium-87, Stearyl Alcohol, Behentrimonium Chloride, Propylene Glycol, Amodimethicone, Phenoxyethanol, Isopropyl Alcohol, Candelilla Cera, Methylparaben, Trideceth-5, Glycerin, Niacinamide, Trideceth-10, Linalool, Chlorhexidine Dihydrochloride, Hexamethylindanopyran, 2-Oleamido-1, 3-Octadecanediol, Resveratrol, Acetic Acid, Linalyl Acetate, CI 17200, CI 19140, Parfum"
+    },
+    {
+     "nombre": "Acondicionador intensivo para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637269029",
+      "3474637292560",
+      "3474637269005",
+      "3474637268985"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Citric Acid, Behentrimonium Chloride, Cetyl Esters, Glycerin, Glycine, Potassium Hydroxide, Isopropyl Alcohol, Aminopropyl Dimethicone, Phenoxyethanol, Isododecane, Bis(C13-15 Alkoxy) PG-Amodimethicone, Butyrospermum Parkii Butter, Steareth-100, Propylene Glycol, Hydroxypropyl Guar, PEG-150/Decyl Alcohol/SMDI Copolymer, Ferulic Acid, Glycolic Acid, Polyquaternium-37, Carvone, Limonene, Propylene Glycol Dicaprylate/Dicaprate, Chlorhexidine Digluconate, Geraniol, Hexyl Cinnamal, Dimethyl Phenethyl Acetate, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Citrus Aurantium Peel Oil, PPG-1 Trideceth-6, Pinene, Vanillin, Acrylates/Stearyl Methacrylate Copolymer, Sorbitan Oleate, EDTA, Parfum"
+    },
+    {
+     "nombre": "Champú neutralizador azul para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637268268"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, CI 60730, Amodimethicone, Carbomer, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Glycerin, Salicylic Acid, CI 42090, Glycol Distearate, Mica, Carvone, Limonene, PEG-100 Stearate, Geraniol, Hexyl Cinnamal, Steareth-6, Basic Brown 17, Dimethyl Phenethyl Acetate, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Coco-Betaine, Trideceth-3, CI 77891, Citrus Aurantium Peel Oil, Phenoxyethanol, Pinene, Vanillin, Fumaric Acid, Acetic Acid, Basic Red 51"
+    },
+    {
+     "nombre": "Champú neutralizador morado para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637268398"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Carbomer, CI 60730, Guar Hydroxypropyltrimonium Chloride, Trideceth-10, Glycerin, Salicylic Acid, Glycol Distearate, Mica, Carvone, Limonene, PEG-100 Stearate, Geraniol, Hexyl Cinnamal, CI 45100, Steareth-6, Dimethyl Phenethyl Acetate, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Coco-Betaine, Trideceth-3, CI 77891, Citrus Aurantium Peel Oil, Phenoxyethanol, Pinene, Sodium Sulfate, Vanillin, Fumaric Acid, Acetic Acid"
+    },
+    {
+     "nombre": "Champú neutralizador verde para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637268213"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Dimethicone, Parfum, Citric Acid, Hexylene Glycol, Sodium Benzoate, Sodium Hydroxide, Amodimethicone, Carbomer, Guar Hydroxypropyltrimonium Chloride, CI 60730, Trideceth-10, Glycerin, Salicylic Acid, Glycol Distearate, Mica, Carvone, CI 61570, Limonene, CI 42090, CI 47005, PEG-100 Stearate, Geraniol, Hexyl Cinnamal, Steareth-6, Dimethyl Phenethyl Acetate, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Coco-Betaine, Trideceth-3, CI 77891, Citrus Aurantium Peel Oil, Phenoxyethanol, Pinene, Vanillin, Fumaric Acid, Acetic Acid"
+    },
+    {
+     "nombre": "Glass shine sérum para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637268442",
+      "3474637268428"
+     ],
+     "inci": "Dimethicone, Bis-(Morpholinomethyl C1-4 Dialkoxysiloxy) Dimethicone, Bis-Cetearyl Amodimethicone, Hexyl Cinnamal, Citronellol, Linalyl Acetate, Geraniol, Pogostemon Cablin Oil, Linalool, Citrus Limon Peel Oil, Carvone, Limonene, Pinene, Benzyl Alcohol, Rose Ketones, Vanillin, Parfum"
+    },
+    {
+     "nombre": "Mascarilla con aclarado para cabello coloreado Vitamino Color Spectrum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637268466",
+      "3474637268183"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Isopropyl Myristate, Cetyl Esters, Amodimethicone, Phenoxyethanol, Isopropyl Alcohol, Coco-Betaine, Carvone, Limonene, Geraniol, Hexyl Cinnamal, Dimethyl Phenethyl Acetate, Linalool, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, Sodium Chloride, Citrus Aurantium Peel Oil, Citric Acid, Pinene, Ferulic Acid, Vanillin, Glycolic Acid, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Tratamiento 10 en 1 perfeccionador multiusos para cabello coloreado Vitamino Color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636974368"
+     ],
+     "inci": "Aqua, Cocos Nucifera Oil, Amodimethicone, Polyquaternium-37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Tocopherol, Sodium Hydroxide, Dimethicone PEG-7 Phosphate, PPG-1 Trideceth-6, Trideceth-6, Behentrimonium Chloride, Xylose, Lactic Acid, Ethylhexylglycerin, Linalool, Acrylates/Stearyl Methacrylate Copolymer, Hexamethylindanopyran, Sorbitan Oleate, Isopropyl Alcohol, Cetrimonium Chloride, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Linalyl Acetate, Citric Acid, Resveratrol, Benzyl Alcohol, Citrus Limon Peel Oil, Carvone, Limonene, Pinene, EDTA, Benzaldehyde, Coumarin, Vanillin, Rose Ketones, Sodium Benzoate, Potassium Sorbate, Parfum"
     }
    ]
   }
