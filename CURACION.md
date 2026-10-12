@@ -1050,6 +1050,13 @@ Estado (se va rellenando):
   3770018642406), que en la web ya son la gama nueva "efficace 48h" con otra lista (y, probablemente, otros códigos que nadie ha subido
   a OBF); dentífrico Blancheur Naturelle (3760368741584: la web añade mentol, carvona, menta y anetol); Gel Crème (3760368740952: otra
   fórmula). Los roll-on y las recargas actuales no tienen código en ninguna fuente. Regresión: 0 cambios. Sin cambios en el detector.
+- ~~**Wild**~~ — 2026-10-12: **NO ENTRA** (0 productos). wearewild.com/es no publica lista completa por producto: da una lista
+  genérica por gama en nombres comunes y acabada en "plus fragrance" (stick: "Tapioca Starch, Baking Soda (not in the sensitive range),
+  Sunflower Seed Wax… plus fragrance"; gel: "Water, Cocamidopropyl Betaine, Sarkosyl… plus fragrance"), sin los alérgenos de cada
+  aroma; el roll-on antitranspirante lleva Aluminium Sesquichlorohydrate. Tampoco publica códigos. OBF tiene 7 recambios con lista
+  transcrita de la etiqueta (5060968411565, 5065003990708, 5060968410247, 5060968410742, 5065003990692, 5061103351715, 5065003990524),
+  todos de envases de Reino Unido, Bélgica, Países Bajos o Polonia: si Mariana quiere, se curan por foto de etiqueta (lista y código en
+  la misma foto), como Mercadona; con la regla de esta cola (fuente oficial) no entran.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
