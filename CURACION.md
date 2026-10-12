@@ -1403,6 +1403,18 @@ peróxido). Alternativas: 1.557.
   (`3600524268503`, la lista oficial no pone Parfum pero lleva Alpha-Isomethyl Ionone y Hexyl Cinnamal), SKIN1004 Centella
   Cream (aceites de lavanda y naranja + Hexyl Cinnamal) y Tahe Serum capilar Nature (que estaba apartado a mano y vuelve a
   `genera.py` sin excepción). Ningún producto con persulfatos estaba en el catálogo antes. 0 cambios no buscados.
+
+**Enlaces de Amazon, tanda del 2026-10-12 (Alternativas 2026-10-12r): de 213 a 301 productos con enlace.**
+- Mariana vio productos nuevos de Alternativas sin enlace que sí están en Amazon: desde el 07-10 no se había buscado
+  ninguno de los que fueron entrando. Mismo método de la decisión del 07-10: solo el buscador restringido a amazon.es
+  (8 agentes en paralelo), nunca se abre Amazon; ficha del producto exacto (otro tamaño vale), sin packs ni importación.
+- Se buscaron 179 de los 369 productos que no son maquillaje: **88 ok** (a `amazon_auto.json`), **36 dudosos** (a
+  `amazon_auto_dudosos.json`, no se enlazan; dos pasados a dudoso en la revisión: Delial gotas faciales, ficha en onzas,
+  y Ben & Anna Persian Lime, el catálogo es el recambio con estuche) y **55 sin ficha** (nuevo `amazon_sin_ficha.json`,
+  para no repetirlos).
+- El buscador tiene un cupo de **200 búsquedas por turno** compartido entre todos los agentes; se agotó a mitad. La cola
+  entera queda en `amazon_pendientes.json` (todos los productos de Alternativas sin enlace y sin buscar, maquillaje
+  incluido) y se sigue por turnos.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

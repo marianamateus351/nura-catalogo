@@ -388,5 +388,185 @@
   "url": "https://www.amazon.es/dp/B0D3771R93",
   "titulo": "Natulim Stain Remover (350g)",
   "nota": "la URL dice Tierras de Sommières pero el título habla de un quitamanchas de 350 g (el de pasta); no se puede confirmar"
+ },
+ "3282770388886": {
+  "url": "https://www.amazon.es/dp/B075RRF32K",
+  "titulo": "A-Derma A Derma Phys-Ac Perfect Fluid 40ml - 40ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: Es el Phys-AC Perfect (nombre antiguo, antecesor del Biology AC Perfect fluido antimarcas): puede ser otra fórmula. También sale 'Biology Ac Anti-Blemish Mattifying Care Global 40ml' (B0BWLWGXQK), que parece otro producto de la gama (Global)."
+ },
+ "3282770154276": {
+  "url": "https://www.amazon.es/dp/B0052EM1Q0",
+  "titulo": "Aderma Intense Reapair Crema de Manos Calmante - 50 ml",
+  "nota": "DUDOSO: Única crema de manos A-Derma que sale (también buscando el código); es la 'Intense Repair' calmante, ficha antigua; no se confirma que sea la 'crema hidratante para manos y uñas' actual."
+ },
+ "3282770393712": {
+  "url": "https://www.amazon.es/dp/B0D5BP9Y3B",
+  "titulo": "Aderma Epitheliale Ultra Repair Anti-Marking Repair Cream 40ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: La URL dice 'Bálsamo-Reparador-Grietas' y el resumen la describe como bálsamo-parche, pero el título dice 'Cream' (podría confundirse con la crema Epitheliale A.H Ultra)."
+ },
+ "3282770149715": {
+  "url": "https://www.amazon.es/dp/B06Y1LBJT2",
+  "titulo": "A-derma Exomega Control Emollient Body Balm Anti-Scratch Atopic Skin, 400 ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: Ficha antigua (2017) del bálsamo Exomega Control; la gama se reformuló ('anti-irritación'), puede ser la fórmula anterior. También existe 'Exomega Emollient Balm 200 ml' (B076J1Y4BQ), igual de antigua."
+ },
+ "3282770149746": {
+  "url": "https://www.amazon.es/dp/B07693V3MW",
+  "titulo": "Aderma Exomega Control Emoliente Loción 400ml",
+  "nota": "DUDOSO: La 'leche' se vende como 'loción/lait' 400 ml; ficha antigua, puede ser la fórmula anterior a la reformulación (antirrascado)."
+ },
+ "3282770149784": {
+  "url": "https://www.amazon.es/dp/B08P48XX23",
+  "titulo": "A-Derma Exomega Control",
+  "nota": "DUDOSO: Título genérico; el buscador la describe como spray emoliente antiprurito 200 ml pero con datos incoherentes (forma 'crema', texto de 'colonia'). No se ve si es la fórmula actual o la antigua (ver también 3282770139181)."
+ },
+ "3282770139181": {
+  "url": "https://www.amazon.es/dp/B08P48XX23",
+  "titulo": "A-Derma Exomega Control",
+  "nota": "DUDOSO: Misma ficha genérica que 3282770149784 (spray Exomega Control); no se puede distinguir cuál de los dos sprays (código antiguo/nuevo) es, y los datos de la ficha son incoherentes."
+ },
+ "3282770104783": {
+  "url": "https://www.amazon.es/dp/B00D3HW9EW",
+  "titulo": "ADERMA CYTELIUM LOCION 100 ML ATOMIZADOR : Amazon.es: Belleza",
+  "nota": "DUDOSO: Se asume que es Cytelium (el nombre del catálogo no trae la gama); la ficha es la loción secante en atomizador, nombre antiguo. Hay otra ficha 'A-DERMA Cytelium Spray Bei Nässenden Hautirritationen, 100 ml' (B07D3FHKKQ) con título en alemán."
+ },
+ "8809640738241": {
+  "url": "https://www.amazon.es/dp/B0DWWD875N",
+  "titulo": "ANUA Pdrn 100 Hyaluronic Acid Brightening Pads, Facial Care That Gives Volume and Brightness, Ideal for Daily Skin Care (180 ml, 60 Pads) Blue : Amazon.es: Beauty",
+  "nota": "DUDOSO: Salió de pasada al buscar la bruma PDRN; el título dice 'Brightening Pads', no 'Glow Pad': probablemente el mismo producto con otra traducción, sin confirmar. No se hizo búsqueda propia (se agotó el cupo)."
+ },
+ "4260491222282": {
+  "url": "https://www.amazon.es/dp/B0792CRX3N",
+  "titulo": "Ben&Anna Natural Soda Deodorant - 100% Aluminum, Cruelty Free, Vegan, NATRUE Certified, with Organic Shea Butter and Baking Soda, Made in Germany, Pink Grapefruit, 60g : Amazon.es: Beauty",
+  "nota": "DUDOSO: Mismo aroma, pero el título no dice papertube: es el formato antiguo de 60 g (la ficha lo marca como aerosol y no disponible). La ficha del papertube 40 g solo sale como 'comprados juntos', sin ASIN."
+ },
+ "4260491226273": {
+  "url": "https://www.amazon.es/dp/B09M3X1M8L",
+  "titulo": "Ben Anna Natural Deodorant Stick Persian Lime Paper Tube 40g : Amazon.es: Beauty",
+  "nota": "DUDOSO: revisión: el catálogo es el recambio con estuche y la ficha es el stick papertube"
+ },
+ "3522930005773": {
+  "url": "https://www.amazon.es/dp/B0DFM4X463",
+  "titulo": "Caudalie Resveratrol-Lift Firming Eye Gel Cream, Eye Cream with Retinol Alternative for Wrinkles 15ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: Es la versión actual del contorno de ojos Resveratrol-Lift (gel-crema, 2024), pero el título no dice 'Tratamiento Lifting Ojos' y la búsqueda por código no la confirmó."
+ },
+ "3522930002963": {
+  "url": "https://www.amazon.es/dp/B014XL3KX0",
+  "titulo": "Caudalie Resveratrol Lift Eye - Bálsamo Lifting para Ojos 15ml : Amazon.es: Belleza",
+  "nota": "DUDOSO: Antigua colección: puede ser este bálsamo o la 'Crema para el Contorno de Ojos Resveratrol Lift 15 ml' (B0CHJXBZWB); la búsqueda por código no dio la ficha, no se sabe cuál corresponde a esta fórmula."
+ },
+ "8436570023590": {
+  "url": "https://www.amazon.es/dp/B0DTQ9M96J",
+  "titulo": "COCUNAT Instant Root Covers Gray and Roots Dark Blonde Mineral Powders",
+  "nota": "DUDOSO: Es Instant Root, pero en tono Rubio Oscuro; el producto del catálogo no indica tono (hay también Castaño Claro y Castaño Oscuro)."
+ },
+ "8436570022906": {
+  "url": "https://www.amazon.es/dp/B0C6TKCKXR",
+  "titulo": "COCUNAT",
+  "nota": "DUDOSO: El título del buscador es solo 'COCUNAT'; la URL es 'Exfoliante corporal Himalaya circulación' y la descripción coincide con Velvet Scrub (sal del Himalaya, 200 ml), pero el título no lo confirma. Aparecía como no disponible."
+ },
+ "8428749854906": {
+  "url": "https://www.amazon.es/dp/B08WKG4CNR",
+  "titulo": "Cumlaude Lab - Hydra Spray, 360º Intimate Moisturizing Mist, with Hyaluronic Acid, Aloe Vera and Allantoin, Hydrates, Soothes, Refreshes and Protects the Intimate External Area - 75 ml : Amazon.es: Health & Household",
+  "nota": "DUDOSO: Es Cumlaude Lab Hydra Spray, pero es bruma hidratante ÍNTIMA; en el catálogo está como tipo 'tonico'. Revisar si el tipo del catálogo es un error."
+ },
+ "3600542081160": {
+  "url": "https://www.amazon.es/dp/B078HYWLG7",
+  "titulo": "Garnier Skin Active - Classic Micellar Water All in One, Normal Skin, Travel Format, 100 ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: Formato viaje 100 ml de la micelar clásica; el nombre 'Agua Micelar Mini' no dice qué variante (clásica, sensible, aceite...) es"
+ },
+ "3600542512848": {
+  "url": "https://www.amazon.es/dp/B0C1D2QQ6C",
+  "titulo": "Garnier Delial Natural Bronzer Self Tanning Face Drops, 1 fl oz",
+  "nota": "DUDOSO: revisión: ficha en onzas, posible importación"
+ },
+ "3600542573139": {
+  "url": "https://www.amazon.es/dp/B0DGQQTYQL",
+  "titulo": "Garnier PureActive Pimple Invisible Patches, Face and Body Grains, 44 Pcs",
+  "nota": "DUDOSO: Parches invisibles PureActive 8h, pero de 44 unidades en dos tamaños; no está claro si es el mismo formato o un pack (también existe ficha 'Set of 2 x 22')"
+ },
+ "8711577070175": {
+  "url": "https://www.amazon.es/dp/B00OPXYQOY",
+  "titulo": "HG Cleaner for Stainless Steel, Polishes and Protects, Kitchen Utensils and Metal Surfaces, Prevents the Recurrence of Dirt",
+  "nota": "DUDOSO: HG tiene varios limpiadores de acero inoxidable (3 en 1, limpieza rápida en spray B00CWZQR44, protector); no se confirma cuál corresponde al código"
+ },
+ "8436036436414": {
+  "url": "https://www.amazon.es/dp/B09RN3G8CY",
+  "titulo": "Iroha Nature - Anti-aging Eye Patches |Niacinamide, Caffeine and Peptides |Reduction Wrinkles, Fine Lines, Bags and Dark Circles|Hydration with Hyaluronic Acid |Vegan and 100% Biodegradable : Amazon.es: Beauty",
+  "nota": "DUDOSO: Parches antiarrugas de Iroha (gama niacinamida/cafeína/péptidos), pero el título no dice el número de unidades (el catálogo pone 2 unidades; también hay envase de 5 pares) ni confirma que sea la misma gama"
+ },
+ "8059385027623": {
+  "url": "https://www.amazon.es/dp/B07NBMP513",
+  "titulo": "KIKO MILANO - Mascarilla purificadora facial de tela purificadora con carbón vegetal : Amazon.es: Beauty",
+  "nota": "DUDOSO: El título no dice 'Purifying Face Mask'; es la mascarilla de tela purificadora con carbón de Kiko, probablemente la misma, pero no se puede confirmar (también existe la Black Clay Mask purificante, B07XVFS349)."
+ },
+ "3282770397635": {
+  "url": "https://www.amazon.es/dp/B09C32QLW1",
+  "titulo": "Eucerin Hair Quinine Anti-Hair Loss Serum : Amazon.es: Beauty",
+  "nota": "DUDOSO: Ficha de 2021 del sérum anticaída a la quinina de Klorane (título mal atribuido a Eucerin); el 'Tratamiento Fortificante Intensivo' actual puede ser una reformulación. El buscador cita el título 'Strengthening Anti-fall Treatment Serum - With Quinine - 100 ml' pero sin URL."
+ },
+ "3282770141030": {
+  "url": "https://www.amazon.es/dp/B0078UMGU2",
+  "titulo": "KLORANE Aceite de Mango. 125 Ml.",
+  "nota": "DUDOSO: Ficha antigua (125 ml) del aceite de mango de Klorane; puede ser la fórmula anterior al producto actual."
+ },
+ "3282770141023": {
+  "url": "https://www.amazon.es/dp/B00O9PDXS8",
+  "titulo": "Klorane Crema de Día con Mantequilla de Mango - 125 ml",
+  "nota": "DUDOSO: Ficha antigua de la crema sin aclarado de mango (nombre 'Crema de Día'); puede ser la fórmula anterior."
+ },
+ "3282770389708": {
+  "url": "https://www.amazon.es/dp/B0CNTNVZWZ",
+  "titulo": "Klorane brand soap ideal for unisex adult : Amazon.es: Baby Products",
+  "nota": "DUDOSO: El buscador indica modelo 'BÉBÉ BIO solid cleaner 100 g', pero el título no menciona caléndula ni la gama; no se puede confirmar que sea este producto."
+ },
+ "3504105038724": {
+  "url": "https://www.amazon.es/dp/B07YQ6P7PR",
+  "titulo": "MUSTELA Gel Shampoo Bio 400ml Dosing Valve, Black, 400ml (Pack of 1) : Amazon.es: Baby Products",
+  "nota": "DUDOSO: Es el frasco de 400 ml con válvula del gel-champú BIO, no la recarga (refill). No apareció ficha propia de la recarga; existe también B0BGT4WBVD (gel lavante BIO vegano 400 ml, versión más nueva, puede ser otra fórmula)."
+ },
+ "8436617754388": {
+  "url": "https://www.amazon.es/dp/B0GQ5HHV2R",
+  "titulo": "Natulim Kēr Radiance Shower Gel - Moisturizing Body Gel for Daily Use - Gentle Cleansing, With Aloe Vera and Centella Asiatica, Light Fragrance - Leaves Skin Soft and Fresh - 330 ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: Es la ficha de la variante Radiance (con fragancia ligera); según el buscador Clean&Calm aparece como opción de estilo en esa ficha, pero no hay ficha propia de Clean&Calm sin fragancia."
+ },
+ "8436617752025": {
+  "url": "https://www.amazon.es/dp/B0CQMMQB5P",
+  "titulo": "Natulim Oxi White - ECO Whitening Powder - Whitening Effect - 500 g",
+  "nota": "DUDOSO: La URL dice 'Natulim-Oxi-Clean-Quitamanchas-Potenciador' pero el título es 'Oxi White' (blanqueador); hay otra ficha Oxi White B0FLH9GJ9R. No queda claro si es el Oxi Clean potenciador."
+ },
+ "8721008476322": {
+  "url": "https://www.amazon.es/dp/B0DX724DN8",
+  "titulo": "Nuud Deodorant Bâton",
+  "nota": "DUDOSO: Ficha del stick Nuud con varios aromas (Lime x Bergamot es uno de ellos según el buscador), pero el título no indica el aroma."
+ },
+ "8721008476339": {
+  "url": "https://www.amazon.es/dp/B0DX724DN8",
+  "titulo": "Nuud Deodorant Bâton",
+  "nota": "DUDOSO: Ficha del stick Nuud con varios aromas (Rosemary x Geranium es uno de ellos según el buscador), pero el título no indica el aroma; la otra ficha B0DX722FFW es la de Orange & Ginger."
+ },
+ "8809576260496": {
+  "url": "https://www.amazon.es/dp/B085339QGZ",
+  "titulo": "SKIN1004 Madagascar Centella Watergel Sheet Ampoule Mask 25ml 5Pack, K-Beauty : Amazon.es: Beauty",
+  "nota": "DUDOSO: Única ficha encontrada es '5Pack' (caja de 5 mascarillas). Puede ser la caja estándar de venta o un pack; no sale ficha de unidad suelta."
+ },
+ "8809576261691": {
+  "url": "https://www.amazon.es/dp/B0B96ZV584",
+  "titulo": "SKIN1004 Magadascar Centella Tea-Trica Spot Cover Patch [22ea x 5] : Amazon.es: Belleza",
+  "nota": "DUDOSO: '[22ea x 5]' puede ser un pack de 5 cajas de 22 parches; además el buscador la da como no disponible. No salió ficha de una sola caja con URL."
+ },
+ "8809576261738": {
+  "url": "https://www.amazon.es/dp/B0BTRWBVTH",
+  "titulo": "SKIN1004 Madagascar Centella Probio-Cica Essense Toner cartridge 210 ml : Amazon.es: Beauty",
+  "nota": "DUDOSO: El título dice 'cartridge' (¿recambio?); visto en resultados de otras búsquedas, la búsqueda propia no se pudo hacer por el límite."
+ },
+ "8809504741660": {
+  "url": "https://www.amazon.es/dp/B08TBJ45XJ",
+  "titulo": "TORRIDEN DIVE-IN niedermolekularer Hyaluron Tagescreme Gesicht 80 ml",
+  "nota": "DUDOSO: Parece la DIVE-IN Cream de 80 ml (no la Soothing Cream de 100 ml), pero el título está en alemán: puede ser ficha de importación."
+ },
+ "8809784602194": {
+  "url": "https://www.amazon.es/dp/B0D66KN764",
+  "titulo": "Torriden Cellmazing - Mascarilla con vitamina C para blanquear y revitalizar, con vitamina C y niacinamida, K-Beauty cuidado facial para piel radiante, 26 ml, paquete de 10 unidades : Amazon.es: Belleza",
+  "nota": "DUDOSO: Es la mascarilla correcta, pero la ficha es la caja de 10 unidades: comprobar si es el formato de venta normal o cuenta como pack."
  }
 }
