@@ -1075,6 +1075,30 @@ Estado (se va rellenando):
 
 **Bloque 1 (desodorantes) cerrado el 2026-10-12**: entran Nuud (2), Ben & Anna (63) y Respire (2); Wild, Corpore Sano, Fussy y
 Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 15.
+
+**Bloque 2 (hogar), 2026-10-12** — 1 producto, 1 código (versión 2026-10-12-puntomatic):
+- ~~**Glade, Pronto, Mr Músculo, Pato, Raid (SC Johnson)**~~ — **NO ENTRAN**, igual que el 2026-10-03: whatsinsidescjohnson.com,
+  scjohnson.com/es-es y raid.es siguen detrás del "Vercel Security Checkpoint" (429, también con el lector web), que es un control
+  antibots y no se salta; mrmusculo.es y pato.es no conectan (502 en el túnel). Sin hoja 648/2004 alcanzable, 0 productos.
+- ~~**Puntomatic (Persán)**~~ — **1 producto, 1 código**. Códigos: Consum (`ean` de su API) y Dia (foto trasera del envase, leída
+  y comprobada a ojo), los dos únicos Puntomatic de las dos tiendas; Open*Facts sigue sin ninguno. Listas: portal 648/2004 de
+  Persán (`c4/pm/pq.sh`, búsqueda por EAN exacto).
+  - **Entra**: Detergente en cápsulas Fusión Floral (`8410046501355`): una sola ficha (UFI NV6A-F8VU-D00T-WWQV). Saltan
+    fragancia (Parfum, va perfumado), propilenglicol y etoxilados (Sodium Laureth Sulfate; C12-18 Pareth-7). No saltan, y es
+    lo correcto: Styrene/Acrylates Copolymer (excluido de la 80 desde el 2026-10-03) ni isotiazolinonas (no lleva).
+  - **Fuera**: Pastillas Blanco Puro (`8410046500457`): el portal da **dos fichas con listas distintas** para el mismo EAN (una
+    con UFI XA03-G0Y0-S00U-3JWN, Terpineol y aceite de eucalipto; otra antigua con Linalool, Hexyl Cinnamal y PEG). La foto de
+    Dia no enseña el UFI, así que no se puede saber cuál es: fuera, como el lavavajillas Flota de octubre. (La etiqueta no
+    declara alérgenos, lo que apunta a la ficha con UFI, pero no es seguro.)
+  - No se ha recorrido el buscador probando códigos al azar (sería forzar el portal): solo códigos vistos en tiendas.
+- ~~**Ecover**~~ — **NO ENTRA por ahora**. Las listas oficiales completas están en uk.ecover.com y fr.ecover.com (con UFI), pero
+  no hay web española y ningún código español: no está en Consum ni Dia, Open*Facts no tiene ninguno escaneado en España o
+  Portugal (sus 36 son de otros países) y El Corte Inglés responde ahora "Access Denied" (Akamai) al buscador. Si Mariana
+  fotografía un envase de aquí con el código y el UFI, se ata a la ficha de la web.
+- ~~**Method**~~ — **NO ENTRA**. methodhome.com (EE. UU.) y methodproducts.co.uk (Reino Unido); method.es no existe; ni Consum,
+  ni Dia, ni Open*Facts con envase de España o Portugal.
+- Revisión FP/FN: la ficha nueva, revisada a mano (arriba). Regresión sobre el catálogo entero: **0 cambios** en las 9.152
+  fichas anteriores; 0 correcciones del detector.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-respire",
+ "version": "2026-10-12-puntomatic",
  "marcas": [
   {
    "key": "larocheposay",
@@ -87882,6 +87882,21 @@
       "3760368742550"
      ],
      "inci": "Aqua (water), Propanediol, Caprylyl/capryl glucoside, Erythritol, Glycerin, Sodium PCA, Salicylic acid, Coco-glucoside, Decyl glucoside, Xanthan gum, Chlorella vulgaris (chlorella) extract, Sodium hydroxide, Sodium benzoate, Citric acid, Lactic acid, Parfum (fragrance), Tetramethyl Acetyloctahydronaphthalenes, CI 19140 (yellow 5), CI 42090 (blue 1)"
+    }
+   ]
+  },
+  {
+   "key": "puntomatic",
+   "nombre": "Puntomatic",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas Puntomatic Fusión Floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410046501355"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Aqua, Sodium Laureth Sulfate, Propylene Glycol, MEA-Cocoate, Parfum, Polypropylene Terephthalate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Ethanolamine, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Styrene/Acrylates Copolymer, Potassium Sulfite, Colorante, Limonene, Amylase, Mannanase"
     }
    ]
   }
