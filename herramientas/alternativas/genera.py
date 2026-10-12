@@ -42,6 +42,10 @@ TIPOS_FUERA = {'desatascador'}
 def peligroso(b):
     inci = INCI.get(b, '')
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
+# Limpios para el detector pero con dudas que decide Mariana (CURACION, decisión X): fuera de Alternativas hasta entonces.
+PENDIENTE_DECISION = {
+    '8426827724820',  # Tahe Serum capilar Nature: alérgenos de perfume sintético (Hexyl Cinnamal, Alpha-Isomethyl Ionone) sin "Parfum" en la lista
+}
 # Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
 HASTA_BUILD = {
@@ -51,6 +55,7 @@ por = {}
 for p in limpios:
     if any(peligroso(b) for b in p['barcodes']): continue
     if any(b in HASTA_BUILD for b in p['barcodes']): continue
+    if any(b in PENDIENTE_DECISION for b in p['barcodes']): continue
     if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] in TIPOS_FUERA: continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue

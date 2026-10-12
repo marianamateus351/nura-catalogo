@@ -1327,6 +1327,33 @@ una tienda española vende con el mismo EAN y la misma lista.
   que aparecen en el buscador (`8429525…`) son de anuncios de eBay, Superdrug y comparadores franceses, casi todos de
   gamas antiguas (Gold Oil, Treat Naturtech): atarlos por nombre a las listas actuales no es seguro. Vía posible: foto del
   envase con el código, o una tienda de peluquería española que publique EAN y nombre exacto.
+- ~~**Tahe**~~ — **259 productos, 346 códigos** (versión 2026-10-12-tahe).
+  - **Fuente: la web oficial** `tahecosmetics.com/es-es` (tahe.es redirige ahí; tahe.com da un certificado que no valida y
+    no se fuerza). Sitemap de productos (403 URL, OpenCart). Lista: bloque "INGREDIENTS:" de la ficha, hasta "Fórmula
+    transparente" (la explicación en castellano que la web pone detrás), "También te puede interesar" u "Opiniones". Código:
+    el EAN de cada tamaño (`<span title="Ean: 8426827…">`). Tamaños con la misma lista, una entrada.
+    "Aqua (Water)" → Aqua y "Parfum (Fragrance)" → Parfum.
+  - **Fuera**: packs, kits y programas (la web les pone los EAN de sus componentes: 38 códigos repetidos, todos en packs),
+    coloración y tintes (Organic Care, correctores: la web avisa de que los pigmentos cambian por tono y no los da),
+    accesorios (peines, capas, bols, secadores, bolsas, camisetas), 24 fichas sin lista, 20 sin código y **8 fichas con
+    varias listas en una** (una por variante sin decir qué EAN es cuál: Advanced Barber spray mate, Lipomit crema de manos,
+    Infusion A+B Gold y Gold Radiance, lacas Flexible Fix y Clean Fixative, Laser System loción, Intense tónico termal).
+  - **Revisión FP/FN**: fragancia ×224, fenoxietanol ×157, propilenglicol ×109, HHCB ×86, salicilato de bencilo ×47,
+    laureth/SLES ×64, cocamida DEA ×12, eugenol ×10, MCI ×8 y MIT ×7, octinoxato ×8, D5 ×12, BHT ×7, benzoato de bencilo
+    ×7, ácido salicílico ×7, lavanda ×6 y árbol del té ×4 (aceites), octocrileno ×6, benzofenona-4 ×6, octisalato ×5,
+    sulfitos ×4, metacrilato de etilo ×3, retinal ×2, PMMA ×2, climbazol, octoxinol-12, tioglicolato, metil y
+    propilparabeno ×1. Todo está en las listas. "Gel Hidroalcohólico higienizante de manos DermoProtect" sale como Hogar
+    ("higienizante" es palabra fuerte de limpieza): es un biocida de manos, se deja así. 8 de 259 limpios.
+  - **Un limpio dudoso, fuera de Alternativas hasta que decidas (decisión X)**: el **Serum capilar Nature**
+    (`8426827724820`) no lleva "Parfum" en la lista pero sí Hexyl Cinnamal, Alpha-Isomethyl Ionone, Citral, Limonene y
+    Linalool. Los dos primeros son de perfume sintético (no salen de los cítricos que declara), así que lleva perfume sin
+    nombrarlo. Hoy en Alternativas no hay ningún producto así (comprobado: 0 de 1.549). Queda en `genera.py`,
+    `PENDIENTE_DECISION`. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.530 fichas anteriores.
+- **Decisión X para Mariana — alérgenos de perfume sin "Parfum" (no añadido)**: propuesta de que el detector dé el aviso de
+  fragancia cuando una lista sin Parfum/Fragrance/Aroma lleve alérgenos que solo vienen de perfume sintético (Hexyl
+  Cinnamal, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Amyl Cinnamal, Hydroxycitronellal, Isoeugenol, Benzyl
+  Cinnamate…), y no cuando son los de un aceite esencial declarado (Limonene, Linalool, Citral, Geraniol…, como hoy).
+  Necesitaría build. Mientras, cada caso así que salga limpio se aparta de Alternativas a mano.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
