@@ -1,5 +1,5 @@
 {
- "version": "2026-10-10-consumdia",
+ "version": "2026-10-12-nuud",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14180,6 +14180,24 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8414807540126"
+   ]
+  },
+  {
+   "marcaKey": "nuud",
+   "marca": "Nuud",
+   "nombre": "Desodorante stick Rosemary x Geranium",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8721008476339"
+   ]
+  },
+  {
+   "marcaKey": "nuud",
+   "marca": "Nuud",
+   "nombre": "Desodorante stick Lime x Bergamot",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8721008476322"
    ]
   }
  ]
