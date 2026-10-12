@@ -968,6 +968,42 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
 - El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
+### 2026-10-11 · Cuarta cola de marcas (pedida por Mariana el 2026-10-11)
+(No confundir con la "Cuarta cola, grupo 1" del 2026-10-04, ya cerrada.) Orden de trabajo: primero los bloques 1, 2 y 5
+(los que más cambian lo que ve la gente), luego 3, 4, 6, 7, 8, 9 y 10. Una marca cada vez, cerrada antes de la siguiente;
+lo que salga en Buscados o en Huecos del catálogo va siempre antes. Se tacha al cerrar cada marca.
+
+Reglas de esta cola (las de siempre, recordadas por Mariana):
+- Fuente oficial: web de la marca (tienda española si la hay). Solo con INCI completo; en limpieza, la hoja del 648/2004 del
+  portal del fabricante. Sin lista oficial no entra, y se le dice a Mariana.
+- Códigos: `gtin` de la web o, si no lo publica, tiendas que lo publiquen (Druni, Primor, Sephora, farmacias, Amazon) u Open
+  Beauty Facts, anotando la fuente. Contraste con etiquetas de OBF del mismo código.
+- Tamaños y recargas con la misma lista: una entrada con todos los códigos. Tonos: una entrada por producto salvo que la lista
+  cambie. Variantes de concentración: productos distintos. Fuera sets, cofres y minis en pack.
+- Avisos por bloque: desodorantes (aluminio, alumbre, triclosán y fragancia solo cuando toca; lo "sin perfume", limpio de
+  verdad); hogar (193 solo en lo perfumado; isotiazolinonas, DDAC y etoxilados con los nombres de cada portal); coreanas (INCI de
+  la web = envase europeo).
+- Al cerrar cada marca: revisión FP/FN con regresión sobre el catálogo entero (cero cambios no intencionados; correcciones con
+  excluyeSi o soloExacto, nunca quitando el ingrediente; sustancias nuevas, con evidencia y decisión escrita para Mariana antes
+  de meterlas), versión nueva de catalogo.json, alternativas.json regenerado, y una línea con productos, códigos, reglas que saltan
+  y correcciones. Si se toca el detector, se avisa aparte (necesita build).
+
+0. Antes que nada: Buscados y Huecos del catálogo (lo que haya en la app en cada momento).
+1. DESODORANTES: Nuud · Ben & Anna · Respire · Wild · Corpore Sano · Fussy · Secret.
+2. HOGAR, portal de SC Johnson (whatsinsidescjohnson.com): Glade · Pronto · Mr Músculo · Pato · Raid. Después Method · Ecover ·
+   Puntomatic (Persán).
+5. COREANAS, segunda ola: Skin1004 · Isntree · Round Lab · Torriden · Laneige · Innisfree · Tirtir.
+3. PELUQUERÍA PROFESIONAL: Moroccanoil · L'Oréal Professionnel · Wella · Montibello · Tahe · Valquer.
+4. MAQUILLAJE DE PERFUMERÍA: Sephora Collection · Fenty Beauty · Charlotte Tilbury · Huda Beauty · MAC · Benefit · Clarins ·
+   Lancôme · Estée Lauder · Kiehl's.
+6. NATURAL Y ORGÁNICO: Weleda · Dr. Hauschka · Lush · The Body Shop · L'Occitane · Yves Rocher · Kneipp.
+7. FARMACIA: Rilastil · Lierac · Filorga · Piz Buin · Hawaiian Tropic · Ecran · Bioré.
+8. SALUD ÍNTIMA Y MENSTRUAL: Saugella · Intimina · Enna · Organyc · Cottons.
+9. DENTAL: Vitis · Kin · Gum.
+10. MARCAS BLANCAS: ampliar Carrefour y Eroski desde las listas de sus webs, como Consum y Dia (decisión R).
+
+Estado (se va rellenando):
+
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
