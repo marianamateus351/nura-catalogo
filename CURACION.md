@@ -1377,6 +1377,10 @@ una tienda española vende con el mismo EAN y la misma lista.
 **Bloque de peluquería cerrado el 2026-10-12**: entran Moroccanoil (101), L'Oréal Professionnel (70), Wella (68), Tahe (259)
 y Valquer (293): 791 productos. Montibello no entra (listas sin códigos). Decisiones abiertas: W (persulfatos) y X
 (alérgenos de perfume sin Parfum).
+Corrección en Alternativas (2026-10-12p): el "Oxidante en crema 10 vol (3%)" de Valquer salía como sérum facial (el tipo
+se deduce del nombre y el agua oxigenada no va la segunda en su lista, así que no lo paraba el filtro de corrosivos).
+`genera.py` aparta ahora por nombre los oxidantes de coloración (oxidante, agua oxigenada, revelador, developer,
+peróxido). Alternativas: 1.557.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
