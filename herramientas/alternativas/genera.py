@@ -45,10 +45,9 @@ NOMBRE_FUERA = re.compile(r'oxidante|agua oxigenada|revelador|developer|peróxid
 def peligroso(b):
     inci = INCI.get(b, '')
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
-# Limpios para el detector pero con dudas que decide Mariana (CURACION, decisión X): fuera de Alternativas hasta entonces.
-PENDIENTE_DECISION = {
-    '8426827724820',  # Tahe Serum capilar Nature: alérgenos de perfume sintético (Hexyl Cinnamal, Alpha-Isomethyl Ionone) sin "Parfum" en la lista
-}
+# Limpios para el detector pero con dudas que decide Mariana: fuera de Alternativas hasta entonces. (El Serum capilar
+# Nature de Tahe estuvo aquí hasta la decisión X, 2026-10-12: ahora lo marca el detector, ficha 215.)
+PENDIENTE_DECISION = set()
 # Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
 HASTA_BUILD = {
