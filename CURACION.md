@@ -1320,6 +1320,13 @@ una tienda española vende con el mismo EAN y la misma lista.
     laureth ×19, salicilato de bencilo ×13, ácido salicílico ×12, octinoxato ×10, MIT ×8 y MCI ×8, BHT ×6, sulfitos ×5,
     D5 ×4, octocrileno ×2, butil y etilparabeno ×2, imidazolidinil urea ×2, D6, HHCB y benzofenona-4 ×1. Todo está en las
     listas. 0 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.462 fichas anteriores.
+- ~~**Montibello**~~ — 2026-10-12: **NO ENTRA por ahora** (0 productos). Las **listas oficiales están**:
+  hair.montibello.com y skincare.montibello.com (WordPress/WooCommerce, ~470 URL de producto) dan "Ver todos los
+  ingredientes" completo en cada ficha. Pero **ningún código**: ni en la ficha ni en la API de la tienda (las variantes
+  llevan referencias internas, "MLSSM1"). Druni, Primor y Lookfantastic no la venden; OBF tiene 1 ficha sin lista. Los EAN
+  que aparecen en el buscador (`8429525…`) son de anuncios de eBay, Superdrug y comparadores franceses, casi todos de
+  gamas antiguas (Gold Oil, Treat Naturtech): atarlos por nombre a las listas actuales no es seguro. Vía posible: foto del
+  envase con el código, o una tienda de peluquería española que publique EAN y nombre exacto.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
