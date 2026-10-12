@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-roundlab",
+ "version": "2026-10-12-torriden",
  "marcas": [
   {
    "key": "larocheposay",
@@ -89042,6 +89042,122 @@
       "8809624726370"
      ],
      "inci": "Water, Propanediol, Butylene Glycol, 1,2-Hexanediol, Glycerin, Glycine Max (Soybean) Seed Extract(11,700ppm), Ceramide NP, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Dipropylene Glycol, Panthenol, Pentylene Glycol, Diphenyl Dimethicone, Triethylhexanoin, Caprylyl Glycol, Hydrogenated Lecithin, Ethylhexylglycerin, Adenosine, Tromethamine, Caprylic/Capric Triglyceride, Dextrin, Dipotassium Glycyrrhizate, Carbomer, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Extract"
+    }
+   ]
+  },
+  {
+   "key": "torriden",
+   "nombre": "Torriden",
+   "productos": [
+    {
+     "nombre": "Sérum CELLMAZING Brightening Ampoule",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784602002"
+     ],
+     "inci": "Water, Propanediol, Glycerin, Niacinamide, 3-O-Ethyl Ascorbic Acid, 1,2-Hexanediol, Isopropyl Myristate, Betaine, Erythritol, Adenosine, Allantoin, Tocopherol, Panthenol, Ascorbic Acid, Sodium Ascorbyl Phosphate, Ascorbyl Glucoside, Ascorbyl Palmitate, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Corallina Officinalis Extract, Ecklonia Cava Extract, Codium Tomentosum Extract, Gelidium Cartilagineum Extract, Hizikia Fusiforme Extract, Octyldodecanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Disodium EDTA, Methylpropanediol, Ferulic Acid, Ocimum Sanctum Leaf Extract, Butylene Glycol, Hydrogenated Lecithin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Curcuma Longa (Turmeric) Root Extract"
+    },
+    {
+     "nombre": "Sérum CELLMAZING Pore Perfecting Ampoule",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784603467"
+     ],
+     "inci": "Water, Glycerin, Propanediol, Butylene Glycol, Dipropylene Glycol, Niacinamide, 1,2-Hexanediol, Methylpropanediol, Collagen, Collagen Amino Acids, Collagen Extract, Soluble Collagen, Hydrolyzed Collagen, Hexapeptide-2, Palmitoyl Tripeptide-5, Panthenol, Sodium Hyaluronate, Adenosine, Arginine, Xylitol, Hydroxyethylcellulose, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Beta-Glucan, Biotin, Capryloyl Salicylic Acid, Gluconolactone, Tocopherol"
+    },
+    {
+     "nombre": "Espuma limpiadora DIVE IN Cleansing Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784600404"
+     ],
+     "inci": "Water, Glycerin, Sodium Cocoyl Glycinate, Sodium Lauroyl Glutamate, Sodium Hyaluronate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Panthenol, Allantoin, Trehalose, Tocopherol, Hamamelis Virginiana (Witch Hazel) Extract, Camellia Sinensis Leaf Extract, Chamomilla Recutita (Matricaria) Extract, Butylene Glycol, Dipropylene Glycol, Hydroxypropyl Starch Phosphate, Glyceryl Stearate SE, Potassium Benzoate, Sodium Chloride, Polyquaternium-67, Sodium Acetate, 1,2-Hexanediol, Citric Acid, Ethylhexylglycerin, Disodium EDTA, Malachite Extract"
+    },
+    {
+     "nombre": "Sérum DIVE IN Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809504741653"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Allantoin, Trehalose, Betaine, Propanediol, Portulaca Oleracea Extract, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Madecassoside, Madecassic Acid, Ceramide NP, Beta-Glucan, Malachite Extract, Cholesterol, Pentylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Polyglyceryl-10 Laurate, Xanthan Gum, Tromethamine, Carbomer, Ethylhexylglycerin, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract"
+    },
+    {
+     "nombre": "Crema DIVE IN Soothing Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784600183",
+      "8809784601661"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Hydrogenated Didecene, Allantoin, Trehalose, Hamamelis Virginiana (Witch Hazel) Extract, Panthenol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, 2,3-Butanediol, Cetearyl Alcohol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Pentylene Glycol, Sorbitan Isostearate, Caprylic/Capric Triglyceride, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Salvia Sclarea (Clary) Extract, Lavandula Angustifolia (Lavender) Flower Extract, Hyacinthus Orientalis (Hyacinth) Extract, Chamomilla Recutita (Matricaria) Flower Extract, Centaurea Cyanus Flower Extract, Borago Officinalis Extract, Disodium EDTA, Carbomer, Tromethamine, Xanthan Gum, Glutathione, Malachite Extract, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Tónico DIVE IN Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809504743237"
+     ],
+     "inci": "Water, Butylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Glycerin, Betaine, Allantoin, Panthenol, Portulaca Oleracea Extract, Trehalose, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Sodium Acetylated Hyaluronate, 2,3-Butanediol, Pentylene Glycol, Malachite Extract, Disodium EDTA, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Crema DIVE IN Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809504741660"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, C14-22 Alcohols, Glyceryl Stearate, Ethylhexyl Palmitate, Cetearyl Alcohol, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Ternifolia Seed Oil, Argania Spinosa Kernel Oil, Trehalose, Sh-Oligopeptide-1, Allantoin, Propanediol, Betaine, Beta-Glucan, Ceramide NP, Portulaca Oleracea Extract, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Morus Nigra Fruit Extract, Lycium Chinense Fruit Extract, Fragaria Chiloensis (Strawberry) Fruit Extract, Berberis Vulgaris Root Extract, Madecassoside, Madecassic Acid, Cetearyl Olivate, Sorbitan Olivate, Malachite Extract, Pentylene Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, C12-20 Alkyl Glucoside, Polyglyceryl-10 Myristate, Glyceryl Acrylate/Acrylic Acid Copolymer, Xanthan Gum, Arginine, Carbomer, Tromethamine, Ethylhexylglycerin, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract"
+    },
+    {
+     "nombre": "Esencia DIVE IN Skin Booster",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809504742018"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Malachite Extract, Ceramide NP, Phytosphingosine, Allantoin, Panthenol, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Trehalose, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Anthemis Nobilis Flower Extract, Glycereth-26, Pentylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, C14-22 Alcohols, C12-20 Alkyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Tromethamine, Disodium EDTA, Ethylhexylglycerin, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract"
+    },
+    {
+     "nombre": "Sérum BALANCEFUL Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784600978"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Dipropylene Glycol, 1,2-Hexanediol, Glycereth-26, Panthenol, Centella Asiatica Extract, Madecassic Acid, Asiaticoside, Asiatic Acid, Madecassoside, Allantoin, Swertia Japonica Extract, Nymphaea Caerulea Flower Extract, Lactobacillus Ferment, Althaea Rosea Flower Extract, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Betaine, Capryloyl Salicylic Acid, Dipeptide-2, Dipotassium Glycyrrhizate, Pentylene Glycol, Sodium Stearoyl Glutamate, Propanediol, Isopentyldiol, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Caproic Acid, Polyglyceryl-4 Oleate, Sodium Surfactin, Carbomer, Xanthan Gum, Tromethamine, Sodium Acetate, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Disodium EDTA, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Discos DIVE IN Multi Pad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809657119446"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Dipropylene Glycol, 1,2-Hexanediol, Propanediol, Allantoin, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Panthenol, Aloe Ferox Leaf Extract, Salix Alba (Willow) Bark Extract, Melaleuca Alternifolia (Tea Tree) Extract, Betaine, Ceramide NP, Hamamelis Virginiana (Witch Hazel) Water, Pyrus Malus (Apple) Fruit Water, Althaea Rosea Flower Extract, Gluconolactone, Sodium Citrate, Caprylyl Glycol, Polyglyceryl-10 Laurate, Hydrogenated Lecithin, Sodium Carboxymethyl Beta-Glucan, Benzyl Glycol, Hydrolyzed Glycosaminoglycans, Pentylene Glycol, Octanediol, Polyglutamic Acid, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Caffeine, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Dipotassium Glycyrrhizate, Citric Acid, Disodium EDTA, Ethylhexylglycerin, Malachite Extract, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract"
+    },
+    {
+     "nombre": "Gel limpiador BALANCEFUL Cleansing Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784600824"
+     ],
+     "inci": "Water, Glycerin, Sodium Cocoyl Alaninate, Lauryl Glucoside, Lauryl Hydroxysultaine, Coco-Betaine, Disodium Cocoamphodiacetate, Centella Asiatica Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Panthenol, Capryloyl Salicylic Acid, Ceramide NP, Allantoin, Hamamelis Virginiana (Witch Hazel) Extract, Althaea Rosea Flower Extract, Nymphaea Caerulea Flower Extract, Swertia Japonica Extract, Lactobacillus Ferment, Glycine Soja (Soybean) Seed Extract, Quillaja Saponaria Bark Extract, Aloe Ferox Leaf Extract, Butylene Glycol, Pentylene Glycol, Hexylene Glycol, Coco-Glucoside, Sodium Chloride, Sodium Cocoyl Isethionate, Caprylyl Glycol, Caprylic/Capric Triglyceride, Octanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydrogenated Lecithin, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Dipotassium Glycyrrhizate, Citric Acid, 1,2-Hexanediol, Rosmarinus Officinalis (Rosemary) Leaf Oil, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Mascarilla CELLMAZING Brightening Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809784602194",
+      "8809784602187"
+     ],
+     "inci": "Water, Glycerin, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Glycereth-26, Panthenol, 3-O-Ethyl Ascorbic Acid, Adenosine, Allantoin, Tocopherol, Glutathione, Ascorbyl Glucoside, Ascorbyl Palmitate, Ascorbic Acid, Ascorbyl Tetraisopalmitate, Tripeptide-1, Hydrolyzed Hyaluronic Acid, Ceramide NP, Caprylic/Capric Triglyceride, Octyldodecanol, C14-22 Alcohols, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Tromethamine, Glyceryl Acrylate/Acrylic Acid Copolymer, C12-20 Alkyl Glucoside, PVM/MA Copolymer, Hydrogenated Lecithin, Disodium EDTA, Polyglyceryl-10 Myristate, Pentylene Glycol, Isopentyldiol, 2,3-Butanediol, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-4 Oleate, Sodium Stearoyl Glutamate, Arginine, Carbomer, Proline, Glucose, Xanthan Gum"
     }
    ]
   }

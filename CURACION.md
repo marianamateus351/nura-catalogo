@@ -1188,6 +1188,23 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
   - **Revisión FP/FN**: salta solo D6 (Cyclohexasiloxane) en el Birch Serum, que también está en la lista de la tienda.
     El aceite de manzanilla del Dokdo Cleanser no tiene regla (la 211 es lavanda y árbol del té). Sin perfume en ninguna.
     9 de 10 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.263 fichas anteriores.
+- ~~**Torriden**~~ — **12 productos, 14 códigos** (versión 2026-10-12-torriden).
+  - **Fuente**: `torriden.us` (Shopify `torriden.myshopify.com`, la tienda de la marca para EE. UU., sin selector de países;
+    torriden.eu redirige a ella; torriden.com es la coreana; torriden.es es un dominio aparcado). 71 fichas: lista de la
+    ficha y `barcode` del `.js`. Misma regla que Round Lab: entra lo que **Druni o Primor** (las dos venden Torriden, con lista
+    en inglés) enseñan **con el mismo EAN y la misma lista** (solo erratas, comas que faltan o nombres: "Macadamia
+    Integrifolia" por Ternifolia, "Witch Hazel Extract" por Leaf Extract).
+  - **Entran**: DIVE IN Serum, Toner, Cream, Soothing Cream (tarro y tubo), Skin Booster, Multi Pad y Cleansing Foam;
+    CELLMAZING Brightening Ampoule, Pore Perfecting Ampoule y Brightening Mask (+ el EAN UE `8809784602187` de Druni y Primor,
+    misma lista); BALANCEFUL Serum y Cleansing Gel.
+  - **Fuera**: DIVE IN Cleansing Water (las tiendas sin Sodium Hyaluronate Crosspolymer ni Potassium Hyaluronate) y Cleansing
+    Oil (las tiendas añaden Linalyl Acetate, Pinene y Alpha-Terpinene); DIVE IN Mask (la web da un código de Amazon,
+    X002…, y la tienda otra lista); Solid In Lip Essence (lista distinta); Balanceful Cream y Mask (las tiendas no dan lista);
+    los protectores Dive In de Druni y Primor (envase UE que no está en la web); el resto de la web sin tienda española;
+    variantes "Duo Set", kits, regalos y fichas de Amazon.
+  - **Revisión FP/FN**: salta solo el ácido salicílico (Capryloyl Salicylic Acid) ×3. Los aceites (bergamota, romero,
+    jojoba, macadamia, argán) no tienen regla y ninguna lista lleva perfume. 9 de 12 limpios. **0 correcciones del
+    detector.** Regresión: **0 cambios** en las 9.273 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
