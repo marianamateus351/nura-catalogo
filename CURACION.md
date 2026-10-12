@@ -1381,6 +1381,28 @@ Corrección en Alternativas (2026-10-12p): el "Oxidante en crema 10 vol (3%)" de
 se deduce del nombre y el agua oxigenada no va la segunda en su lista, así que no lo paraba el filtro de corrosivos).
 `genera.py` aparta ahora por nombre los oxidantes de coloración (oxidante, agua oxigenada, revelador, developer,
 peróxido). Alternativas: 1.557.
+
+**Decisiones W y X aprobadas por Mariana (2026-10-12: "si a otros riesgos" / "de acuerdo") y hechas** (versión
+2026-10-12-decisiones-wx; **necesita build**):
+- **W — Persulfatos**: regla nueva en "Otros riesgos" (`ingredients.js`, OTROS_RIESGOS), "Persulfatos (decolorantes)",
+  severidad media, etiqueta "Sensibilizante respiratorio y de la piel", solo Cuidado personal; alias ammonium, potassium y
+  sodium persulfate/persulphate y sus nombres en castellano. Fuente: CLP (Resp. Sens. 1 · Skin Sens. 1) y ANSES. Entran los
+  decolorantes apartados: Blond Studio Platinium Plus y Polvo 9 tonos Bonder Inside (L'Oréal Professionnel; los otros dos
+  siguen fuera porque comparten el EAN `30163690`) y Decoblue V-Plex, Decoblue y Decolorante capilar sin amoniaco (Valquer;
+  el último se llamaba "Decolorante SIN amoniaco" y salía como Hogar por "amoniaco": ahora lleva "capilar"). 5 productos,
+  6 códigos, todos con el aviso.
+- **X — Alérgenos de perfume sintético sin "Parfum"**: ficha nueva 215, "Fragancia sin declarar (alérgenos de perfume
+  sintético)", solo Cuidado personal (la 193, que salta con cualquier alérgeno, sigue siendo solo de Hogar). Salta cuando
+  la lista no tiene Parfum/Fragrance/Aroma, no declara origen natural ni "sin ftalatos", y lleva un alérgeno que **no
+  sale de aceites esenciales**: Hexyl Cinnamal, Amyl Cinnamal, Amylcinnamyl Alcohol, Alpha-Isomethyl Ionone, Butylphenyl
+  Methylpropional, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde y Methyl 2-Octynoate. Se quedaron
+  fuera de la lista, a propósito, los que también traen algunos aceites naturales (Isoeugenol, Benzyl Cinnamate, Benzyl
+  Salicylate, Coumarin, Cinnamal): con ellos no se puede saber si hay perfume añadido. Sin categoría conocida se enseña
+  solo la 193, para no repetir el aviso.
+- **Regresión sobre las 10.082 fichas: 3 cambios, los tres buscados** (ganan la 215): L'Oréal Paris Shirt Protect Roll-on
+  (`3600524268503`, la lista oficial no pone Parfum pero lleva Alpha-Isomethyl Ionone y Hexyl Cinnamal), SKIN1004 Centella
+  Cream (aceites de lavanda y naranja + Hexyl Cinnamal) y Tahe Serum capilar Nature (que estaba apartado a mano y vuelve a
+  `genera.py` sin excepción). Ningún producto con persulfatos estaba en el catálogo antes. 0 cambios no buscados.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

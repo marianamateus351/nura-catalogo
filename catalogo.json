@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-valquer",
+ "version": "2026-10-12-decisiones-wx",
  "marcas": [
   {
    "key": "larocheposay",
@@ -90883,6 +90883,24 @@
       "3474636974368"
      ],
      "inci": "Aqua, Cocos Nucifera Oil, Amodimethicone, Polyquaternium-37, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Tocopherol, Sodium Hydroxide, Dimethicone PEG-7 Phosphate, PPG-1 Trideceth-6, Trideceth-6, Behentrimonium Chloride, Xylose, Lactic Acid, Ethylhexylglycerin, Linalool, Acrylates/Stearyl Methacrylate Copolymer, Hexamethylindanopyran, Sorbitan Oleate, Isopropyl Alcohol, Cetrimonium Chloride, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Linalyl Acetate, Citric Acid, Resveratrol, Benzyl Alcohol, Citrus Limon Peel Oil, Carvone, Limonene, Pinene, EDTA, Benzaldehyde, Coumarin, Vanillin, Rose Ketones, Sodium Benzoate, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Decolorante Platinium Plus Blond Studio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474636979158"
+     ],
+     "inci": "Potassium Persulfate, Isopropyl Myristate, Sodium Silicate, Ammonium Persulfate, Sodium Metasilicate, Sodium Lauryl Sulfate, Sodium Carboxymethyl Starch, Cera Alba, Magnesium Stearate, CI 77891, Xanthan Gum, CI 77007, Alcohol, Silica [Nano], 2-Oleamido-1, 3-Octadecanediol, Paraffinum Liquidum, EDTA"
+    },
+    {
+     "nombre": "Polvo Decolorante 9 tonos Bonder Inside Blond Studio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3474637016364"
+     ],
+     "inci": "Potassium Persulfate, Sodium Silicate, Ammonium Persulfate, Magnesium Carbonate Hydroxide, Sodium Metasilicate, Sodium Stearate, Citric Acid, Paraffinum Liquidum, Glycine, Sodium Lauryl Sulfate, CI 77007, Hydroxyethylcellulose, Silica [Nano], Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Aqua"
     }
    ]
   },
@@ -96617,6 +96635,34 @@
       "8420212001121"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Benzyl Alcohol, Glycerin, Hydrolyzed Soy Protein, Parfum, Polyquaternium-7, Sodium Benzoate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Benzoic Acid, Sodium Hydroxide, Sorbic Acid, Hydroxypropyltrimonium Corn/Wheat/Soy Amino Acids, Citric Acid, Biotin, Magnesium Nitrate, Methylchloroisothiazolinone, Leuconostoc/Radish Root Ferment Filtrate, Magnesium Chloride, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Decoblue Vplex Tecnology Polvos decolorantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420212342170",
+      "8420212342187"
+     ],
+     "inci": "Potassium Persulfate, Ammonium Persulfate, Sodium Silicate, Magnesium Carbonate Hydroxide, Cyamopsis Tetragonoloba Gum, Polyamino Sugar Condensate, Sodium Metasilicate, Sodium Stearate, CI 77007, Disodium EDTA, Disodium Lauryl Sulfosuccinate, Magnesium Oxide, Magnesium Stearate, Paraffinum Liquidum, Trisodium Phosphate, Xanthan Gum, Aqua, Cystine Bis-PG-Propyl Silanetriol, Alcohol, Ethylhexylglycerin, Phenoxyethanol"
+    },
+    {
+     "nombre": "Decoblue Polvos decolorantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420212384576"
+     ],
+     "inci": "Potassium Persulfate, Ammonium Persulfate, Sodium Silicate, Magnesium Carbonate Hydroxide, Cyamopsis Tetragonoloba Gum, Sodium Metasilicate, Sodium Stearate, CI 77007, Cyclodextrin, Disodium EDTA, Disodium Lauryl Sulfosuccinate, Hydrolyzed Wheat Protein, Kaolin, Magnesium Oxide, Paraffinum Liquidum, Xanthan Gum"
+    },
+    {
+     "nombre": "Decolorante capilar sin amoniaco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8420212342286"
+     ],
+     "inci": "Potassium Persulfate, Sodium Silicate, Cyamopsis Tetragonoloba Gum, Magnesium Carbonate, Sodium Persulfate, Sodium Stearate, CI 77007, Hydrolyzed Silk, Paraffinum Liquidum, Parfum, Polyquaternium-10, Silica, Sodium Lauryl Sulfate, Tetrasodium EDTA"
     }
    ]
   }
