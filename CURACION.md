@@ -1068,6 +1068,13 @@ Estado (se va rellenando):
   enseñan ingredientes destacados en nombre común ("Sunflower Wax, Caprylic Triglyceride, Magnesium Hydroxide, Coconut Oil, Sodium
   Bicarbonate, Probiotic, Shea Butter, Tapioca Starch"), sin perfume ni alérgenos. Ninguna variante tiene código (barcode vacío en
   products.json). OBF tiene 1 recambio con lista de etiqueta (5065010483057, Tropic Tonic, Reino Unido): vía foto si Mariana quiere.
+- ~~**Secret**~~ — 2026-10-12: **NO ENTRA** (0 productos). Es marca de P&G para EE. UU., Canadá y México; no se vende en España ni
+  Portugal: Druni, Primor y Promofarma no la tienen (Druni responde 406 al buscador; Primor y el buscador web, nada), y lo que aparece
+  en "Amazon" es Amazon México. secret.com publica sus listas, pero con UPC de EE. UU., y por el criterio de Mariana (2026-09-25) solo
+  entran códigos que se escanean en tiendas de España o Portugal.
+
+**Bloque 1 (desodorantes) cerrado el 2026-10-12**: entran Nuud (2), Ben & Anna (63) y Respire (2); Wild, Corpore Sano, Fussy y
+Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 15.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
