@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12e",
+ "version": "2026-10-12f",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -509,6 +509,36 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Aceite limpiador Centella Light Cleansing Oil",
+       "marca": "SKIN1004",
+       "barcode": "8809576261226",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora Centella Ampoule Foam",
+       "marca": "SKIN1004",
+       "barcode": "8809576261219",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora Poremizing Deep Cleansing Foam",
+       "marca": "SKIN1004",
+       "barcode": "8809576261653",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora Tone Brightening Cleansing Gel Foam",
+       "marca": "SKIN1004",
+       "barcode": "8809576261189",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Leche limpiadora Hyalu-Cica Gentle Cleansing Milk",
+       "marca": "SKIN1004",
+       "barcode": "8809913832850",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "PALPEBRAL Démaquillant",
        "marca": "SVR",
        "barcode": "3662361001316",
@@ -938,6 +968,54 @@
        "fechaLista": "05-10-2026"
       },
       {
+       "nombre": "Crema Azulene Peptide 5 Soothing Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809913836384",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Hyalu-Cica Moisture Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809576261493",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema NAD 0.1 Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809913835790",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema PDRN 1.5 Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809560630601",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Poremizing Light Gel Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809576261646",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Probio-Cica Enrich Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809913830245",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Tone Brightening Capsule Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809576261615",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Emulsión facial Hyalu-Teca Glass Skin Milk",
+       "marca": "SKIN1004",
+       "barcode": "8809913834861",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "CICAVIT+ Crème HPPI",
        "marca": "SVR",
        "barcode": "3662361004645",
@@ -1339,6 +1417,72 @@
        "marca": "MET",
        "barcode": "8445984016296",
        "fechaLista": "29-09-2026"
+      },
+      {
+       "nombre": "Ampolla Azelaic Acid 10 Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913834670",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Centella Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809576260663",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Centella Teca Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913834557",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Hyalu-Cica First Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809576261486",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Hyalu-Teca Plumping Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913834847",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Matrixyl 10 Boosting Shot Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913832508",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Niacinamide 10 Boosting Shot Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913832492",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Poremizing Fresh Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809576261875",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Probio-Cica Intensive Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809576261752",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Tone Brightening Capsule Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809576261417",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Hyalu-Cica Blue Serum",
+       "marca": "SKIN1004",
+       "barcode": "8809576261059",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "[B3] Ampoule Hydra",
@@ -1814,6 +1958,36 @@
        "barcode": "4005900908841",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09T3XGBP7"
+      },
+      {
+       "nombre": "Protector solar Centella Air-Fit Suncream Light",
+       "marca": "SKIN1004",
+       "barcode": "8809576261608",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Protector solar Hyalu-Cica Water-Fit Sun Serum",
+       "marca": "SKIN1004",
+       "barcode": "8809913830061",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Protector solar Probio-Cica Glow Sun Ampoule",
+       "marca": "SKIN1004",
+       "barcode": "8809913830573",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Protector solar Tea-Trica Soothing Sun Milk",
+       "marca": "SKIN1004",
+       "barcode": "8809913830610",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Protector solar Tone Brightening Tone-Up Sunscreen",
+       "marca": "SKIN1004",
+       "barcode": "8809576261622",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "SENSIFINE AR Creme SPF50+",
@@ -2549,6 +2723,12 @@
        "marca": "Rare Beauty",
        "barcode": "0840122909139",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Polvo Vitamin C 96 Powder",
+       "marca": "SKIN1004",
+       "barcode": "8809913837053",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
@@ -3880,6 +4060,12 @@
        "fechaLista": "05-10-2026"
       },
       {
+       "nombre": "Contorno de ojos Probio-Cica Bakuchiol Eye Cream",
+       "marca": "SKIN1004",
+       "barcode": "8809913830177",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "PALPEBRAL Baume",
        "marca": "SVR",
        "barcode": "3662361003327",
@@ -4103,6 +4289,48 @@
        "fechaLista": "24-09-2026"
       },
       {
+       "nombre": "Bruma facial Hyalu-Cica Cloudy Mist",
+       "marca": "SKIN1004",
+       "barcode": "8809913830191",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Discos Centella Quick Calming Pad",
+       "marca": "SKIN1004",
+       "barcode": "8809576261387",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Discos Hyalu-Cica Jelly-Fit Ampoule Pad",
+       "marca": "SKIN1004",
+       "barcode": "8809913833031",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Discos Poremizing Clear Ampoule Pad",
+       "marca": "SKIN1004",
+       "barcode": "8809560630571",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Centella Toning Toner",
+       "marca": "SKIN1004",
+       "barcode": "8809576261196",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Probio-Cica Essence Toner",
+       "marca": "SKIN1004",
+       "barcode": "8809576261738",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Tone Brightening Boosting Toner",
+       "marca": "SKIN1004",
+       "barcode": "8809576261165",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Agua termal de Uriage",
        "marca": "Uriage",
        "barcode": "3661434000522",
@@ -4288,6 +4516,42 @@
        "marca": "Rhode",
        "barcode": "0810175611105",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Centella Watergel Sheet Ampoule Mask",
+       "marca": "SKIN1004",
+       "barcode": "8809576260496",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla de noche Hyalu-Cica Sleeping Pack",
+       "marca": "SKIN1004",
+       "barcode": "8809576261004",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla en stick Poremizing Quick Clay Stick Mask",
+       "marca": "SKIN1004",
+       "barcode": "8809913830085",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Hyalu-Cica Hydrating Mask",
+       "marca": "SKIN1004",
+       "barcode": "8809913832034",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Poremizing Glow Wrapping Mask",
+       "marca": "SKIN1004",
+       "barcode": "8809560630540",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Probio-Cica Nourishing Mask",
+       "marca": "SKIN1004",
+       "barcode": "8809913832003",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "[B3] Masque Hydra Intensif",
@@ -4690,6 +4954,12 @@
        "marca": "Nuxe",
        "barcode": "3264680047626",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Parches Tea-Trica Spot Cover Patch",
+       "marca": "SKIN1004",
+       "barcode": "8809576261691",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Hyséac SOS Gel secante",

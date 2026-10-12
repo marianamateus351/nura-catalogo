@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-puntomatic",
+ "version": "2026-10-12-skin1004",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14318,6 +14318,444 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4260491222220"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Polvo Vitamin C 96 Powder",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913837053"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema NAD 0.1 Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913835790"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Bruma facial Hyalu-Cica Cloudy Mist",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830191"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema Azulene Peptide 5 Soothing Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913836384"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema PDRN 1.5 Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809560630601"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla Poremizing Glow Wrapping Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809560630540"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Discos Poremizing Clear Ampoule Pad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809560630571"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Azelaic Acid 10 Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913834670",
+    "8809913834687"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Emulsión facial Hyalu-Teca Glass Skin Milk",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913834861"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Hyalu-Teca Plumping Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913834847"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Centella Teca Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913834557"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Leche limpiadora Hyalu-Cica Gentle Cleansing Milk",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913832850"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Discos Hyalu-Cica Jelly-Fit Ampoule Pad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913833031"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Matrixyl 10 Boosting Shot Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913832508"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Niacinamide 10 Boosting Shot Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913832492"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla Probio-Cica Nourishing Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913832003",
+    "8809913833178"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla Hyalu-Cica Hydrating Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913832034",
+    "8809913833093"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Protector solar Probio-Cica Glow Sun Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830573"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Protector solar Tea-Trica Soothing Sun Milk",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830610"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla en stick Poremizing Quick Clay Stick Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830085"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Discos Centella Quick Calming Pad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261387"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema Probio-Cica Enrich Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830245",
+    "8809576261769"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Probio-Cica Intensive Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261752",
+    "8809913830146",
+    "8809913830634",
+    "8809913830849",
+    "8809913831280"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Tónico Probio-Cica Essence Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261738"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Contorno de ojos Probio-Cica Bakuchiol Eye Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830177",
+    "8809913830474"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Protector solar Hyalu-Cica Water-Fit Sun Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809913830061",
+    "8809576261592",
+    "8809913830603"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Espuma limpiadora Poremizing Deep Cleansing Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261653"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema Poremizing Light Gel Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261646"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema Hyalu-Cica Moisture Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261493",
+    "8809913833543",
+    "8809913834076"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Hyalu-Cica First Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261486",
+    "8809913830139"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Crema Tone Brightening Capsule Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261615"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Protector solar Tone Brightening Tone-Up Sunscreen",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261622"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Parches Tea-Trica Spot Cover Patch",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261691",
+    "8809913831143"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Poremizing Fresh Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261875",
+    "8809913830115",
+    "8809576261462"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Protector solar Centella Air-Fit Suncream Light",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261608"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Centella Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576260663",
+    "8809576260601",
+    "8809576260618",
+    "8809913830795"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Ampolla Tone Brightening Capsule Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261417",
+    "8809913830627",
+    "8809576261172"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Tónico Tone Brightening Boosting Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261165"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Espuma limpiadora Tone Brightening Cleansing Gel Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261189"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla de noche Hyalu-Cica Sleeping Pack",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261004",
+    "8809576260724",
+    "8809913835448",
+    "8809913835431"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Sérum Hyalu-Cica Blue Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261059",
+    "8809576260717",
+    "8809913831099"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Mascarilla Centella Watergel Sheet Ampoule Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576260496"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Tónico Centella Toning Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261196",
+    "8809576261141",
+    "8809576261158",
+    "8809913830825"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Espuma limpiadora Centella Ampoule Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261219",
+    "8809576261127",
+    "8809913830818"
+   ]
+  },
+  {
+   "marcaKey": "skin1004",
+   "marca": "SKIN1004",
+   "nombre": "Aceite limpiador Centella Light Cleansing Oil",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809576261226",
+    "8809576261110"
    ]
   }
  ]
