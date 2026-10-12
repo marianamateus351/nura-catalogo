@@ -1017,6 +1017,28 @@ Estado (se va rellenando):
   pero es la fórmula anterior (sin ricino ni aceites hidrogenados). **PENDIENTE de Mariana:** ¿entra la crema con la lista oficial
   en nombres comunes? Saldría limpia. OBF solo tiene 8720726380423 (crema 20 ml, sin lista). Regresión: 0 cambios. Sin cambios
   en el detector.
+- ~~**Ben & Anna**~~ — cerrada 2026-10-12 (versión 2026-10-12-benanna): **63 productos, 69 códigos**; 13 sin avisos, **12 de ellos
+  desodorantes** (Papertube Persian Lime 40 g y 25 g con sus refills, Pink Grapefruit, Mint no —eugenol—, Coco Mania, Green Fusion,
+  Aloe Vera sin perfume, Sensitive Lemon & Lime, Highland Breeze y Cherry Blossom, Deocremes Persian Lime, Pink Grapefruit y Vanilla
+  Orchid, PolyPotato) más el Lipbalm Pure. Fuente: ben-anna.de (Shopify; INCI en el acordeón "Inhaltsstoffe", EAN = SKU y `gtin`
+  del JSON-LD). Solo códigos propios 4260491…: la tienda vende también Just Love, Greens of Cyprus y Beauty Made Easy (fuera).
+  - **Reglas que saltan:** fragancia (pasta de dientes y cosmética con "Parfum/Aroma (Fragrance)" sin origen declarado), fenoxietanol 9,
+    eugenol 4, galaxólido 4, propilenglicol 3, salicilato y benzoato de bencilo, isoeugenol, etoxilados (Laureth-7/-10 y SLES en las
+    Capsule Cream), lavanda en el Kinderdeo blau. Sin aluminio, alumbre ni triclosán en ningún desodorante (llevan bicarbonato o
+    hidróxido de magnesio).
+  - **Perfume natural declarado:** sus desodorantes ponen "Parfum**" con la nota "**From Natural Essential Oils"; se conserva la nota en
+    la lista (como en las 121 fichas del catálogo que ya la llevan) y el detector no lo cuenta como fragancia oculta. Los dos Kinderdeo no
+    traen esa nota en la web: sí saltan.
+  - **Correcciones (12, todas erratas evidentes de la web):** "Euge- Nol" → Eugenol; "Limone." → Limonene; "Oryza, Sativa" y "Euphorbia,
+    Cerifera" (lipbalms) sin la coma; "Seed Buter", "Cocamidoproppyl", "Theobroma Ccacao"; coma que faltaba tras "Aroma (Fragrance)";
+    "Citrus Paradisipeel"; "Mays Starch" → "Zea Mays Starch" (Highland Breeze); "esssential" → "essential" (nota de PolyPotato).
+  - **Fuera:** Zahnpasta Tube Black mit Fluorid (4260491223012: "Extract" suelto, falta el nombre); Hair & Body Mist Night y Love (la web
+    da la misma lista a los dos aromas); sets, cofres, calendario, Geschenkbox, mixes y accesorios; Badesalz 3er Mix.
+  - Mismas listas juntas: Badesalz Kornblume 60 g y 300 g; Rose 60 g y 300 g; Persian Lime papertube 40 g, 25 g, refill y case; Love Me
+    refill y case. OBF: 10 de los códigos, sin lista útil o coincidente (OCR).
+  - **Detector (necesita build):** la regla de perfume natural declarado reconoce también la nota en alemán ("aus natürlichen ätherischen
+    Ölen"). Regresión: 0 cambios. Hasta que salga el build, el Cherry Blossom (4260491222954) queda fuera de Alternativas
+    (`HASTA_BUILD` en genera.py), porque la app instalada aún le pondría el aviso.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

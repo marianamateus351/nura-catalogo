@@ -42,9 +42,15 @@ TIPOS_FUERA = {'desatascador'}
 def peligroso(b):
     inci = INCI.get(b, '')
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
+# Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
+# así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
+HASTA_BUILD = {
+    '4260491222954',  # Ben & Anna Deo Sensitive Cherry Blossom: nota "aus natürlichen ätherischen Ölen" (detector 2026-10-12)
+}
 por = {}
 for p in limpios:
     if any(peligroso(b) for b in p['barcodes']): continue
+    if any(b in HASTA_BUILD for b in p['barcodes']): continue
     if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] in TIPOS_FUERA: continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
