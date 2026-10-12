@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-wella",
+ "version": "2026-10-12-tahe",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15304,6 +15304,79 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "30166899"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Protector solar mineral facial con color",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827436860"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Contorno de ojos Exoradiance Intense Exosomes",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827811186"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Loción limpiadora - Clean Laser System",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827425369"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Serum capilar Nature",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827724820"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Bond Booster Nº1 Oleo & Control",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827482232",
+    "8426827481624"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Protector compacto solar mineral facial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827436884"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Tratamiento reestructurante de la fibra capilar Protein Treatment Magic Rizos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827723526"
+   ]
+  },
+  {
+   "marcaKey": "tahe",
+   "marca": "Tahe",
+   "nombre": "Shine Nº2 - Revelador de brillo TNC",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8426827670356"
    ]
   }
  ]

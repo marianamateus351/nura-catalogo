@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12m",
+ "version": "2026-10-12n",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -607,6 +607,12 @@
        "barcode": "3401360084063",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B01D7VEVMG"
+      },
+      {
+       "nombre": "Loción limpiadora - Clean Laser System",
+       "marca": "Tahe",
+       "barcode": "8426827425369",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Glucoside Foaming Cleanser 150 ml",
@@ -1653,6 +1659,12 @@
        "fechaLista": "30-09-2026"
       },
       {
+       "nombre": "Bond Booster Nº1 Oleo & Control",
+       "marca": "Tahe",
+       "barcode": "8426827482232",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Sérum 30% Vitamin C",
        "marca": "The INKEY List",
        "barcode": "5060879820760",
@@ -2189,6 +2201,12 @@
        "barcode": "3662361003198",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CYH4T6RM"
+      },
+      {
+       "nombre": "Protector solar mineral facial con color",
+       "marca": "Tahe",
+       "barcode": "8426827436860",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Bariésun Stick mineral SPF50+",
@@ -4246,6 +4264,12 @@
        "fechaLista": "30-09-2026"
       },
       {
+       "nombre": "Contorno de ojos Exoradiance Intense Exosomes",
+       "marca": "Tahe",
+       "barcode": "8426827811186",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Dépiderm Contorno de ojos corrector",
        "marca": "Uriage",
        "barcode": "3661434009792",
@@ -5411,6 +5435,12 @@
        "marca": "Redken",
        "barcode": "3474637124274",
        "fechaLista": "08-10-2026"
+      },
+      {
+       "nombre": "Tratamiento reestructurante de la fibra capilar Protein Treatment Magic Rizos",
+       "marca": "Tahe",
+       "barcode": "8426827723526",
+       "fechaLista": "12-10-2026"
       }
      ]
     },
