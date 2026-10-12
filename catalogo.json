@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-isntree",
+ "version": "2026-10-12-roundlab",
  "marcas": [
   {
    "key": "larocheposay",
@@ -88944,6 +88944,104 @@
       "8809236798093"
      ],
      "inci": "Aloe Barbadensis Leaf Juice, Water, Butylene Glycol, Glycerin, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Hyaluronate, Betaine, Trehalose, Punica Granatum Fruit Extract, Ficus Carica (Fig) Fruit Extract, Morus Alba Fruit Extract, Luffa Cylindrica Fruit Extract, Ginkgo Biloba Nut Extract, Aloe Barbadensis Leaf Extract, Hydrolyzed Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Raspberry Ketone, Polyglutamic Acid, Methylpropanediol, Allantoin, Panthenol, Arginine, Benzyl Glycol, Hydroxyacetophenone, Ethylhexylglycerin, Caprylyl Glycol, Citric Acid, Dipropylene Glycol, Dipotassium Glycyrrhizate, Carbomer, 1,2-Hexanediol"
+    }
+   ]
+  },
+  {
+   "key": "roundlab",
+   "nombre": "Round Lab",
+   "productos": [
+    {
+     "nombre": "Limpiador facial 1025 Dokdo Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738608364"
+     ],
+     "inci": "Water, Sodium Cocoyl Isethionate, Glycerin, Sodium Methyl Cocoyl Taurate, Coco-Betaine, Potassium Cocoyl Glycinate, Potassium Benzoate, Sodium Chloride, Polyquaternium-67, Potassium Cocoate, Citric Acid, Fructooligosaccharides, Saccharide Hydrolysate, Disodium EDTA, Pullulan, 1,2-Hexanediol, Allantoin, Panthenol, Sea Water, Sodium Acetate, Butylene Glycol, Chamomilla Recutita (Matricaria) Flower Oil, Caprylic/Capric Triglyceride, Beta-Glucan, Phosphatidylcholine, Hyaluronic Acid, Ethylhexylglycerin, Ceramide NP, Glycine, Hydrolyzed Hyaluronic Acid, Glutamic Acid, Serine, Sodium Hyaluronate, Lysine, Alanine, Arginine, Threonine, Proline"
+    },
+    {
+     "nombre": "Crema 1025 Dokdo Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738600245"
+     ],
+     "inci": "Water, Glycerin, Caprylic/Capric Triglyceride, Dipropylene Glycol, Hydrogenated Poly(C6-14 Olefin), Cetearyl Alcohol, Methyl Trimethicone, 1,2-Hexanediol, Caprylyl Methicone, Phenyl Trimethicone, C12-16 Alcohols, Butyrospermum Parkii (Shea) Butter, Sea Water, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Glyceryl Stearate SE, Ceramide AP, Ceramide AS, Ceramide EOP, Ceramide NP, Ceramide NS, Polymethylsilsesquioxane, Palmitic Acid, Cetearyl Glucoside, Cetearyl Olivate, Sorbitan Olivate, Hydrogenated Lecithin, Copernicia Cerifera (Carnauba) Wax, Stearic Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexylglycerin, Glyceryl Caprylate, Allantoin, Panthenol, Butylene Glycol, Beta-Glucan, Cholesterol, Phytosphingosine, Disodium EDTA"
+    },
+    {
+     "nombre": "Emulsión facial 1025 Dokdo Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809657114779"
+     ],
+     "inci": "Water, Glycerin, Macadamia Integrifolia Seed Oil, 1,2-Hexanediol, Pentylene Glycol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sea Water, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Panthenol, Squalane, Butylene Glycol, Polyglyceryl-3 Methylglucose Distearate, Glyceryl Stearate, Hydrogenated Polydecene, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Jojoba Esters, Caprylyl Glycol, Tromethamine, Sodium Phytate, Tocopherol, Sodium Carboxymethyl Beta-Glucan, Ethylhexylglycerin, Cetearyl Alcohol, Carbomer"
+    },
+    {
+     "nombre": "Tónico 1025 Dokdo Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809657115387",
+      "8809657114731",
+      "8809657114748"
+     ],
+     "inci": "Water, Butylene Glycol, Glycerin, Pentylene Glycol, Propanediol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sea Water, 1,2-Hexanediol, Protease, Betaine, Panthenol, Ethylhexylglycerin, Allantoin, Xanthan Gum, Disodium EDTA"
+    },
+    {
+     "nombre": "Mascarilla de noche 1025 Dokdo Sleeping Pack",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809657115639"
+     ],
+     "inci": "Water, Glycerin, Butylene Glycol, C13-16 Isoparaffin, C12-14 Isoparaffin, 1,2-Hexanediol, Panthenol, Sea Water, Trichosanthes Kirilowii Root Extract, Hydrogenated Polydecene, Pentylene Glycol, Vinyl Dimethicone, Caprylyl Methicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Lactobionic Acid, Polymethylsilsesquioxane, Tromethamine, Dipotassium Glycyrrhizate, Glyceryl Acrylate/Acrylic Acid Copolymer, Ethylhexylglycerin, Xanthan Gum, Disodium EDTA"
+    },
+    {
+     "nombre": "Sérum Birch Moisturizing Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809782553009"
+     ],
+     "inci": "Water, Methylpropanediol, Glycerin, 1,2-Hexanediol, Polyglycerin-3, Caprylic/Capric Triglyceride, Betula Platyphylla Japonica Juice(10,000ppm), Sodium Hyaluronate, Glyceryl Glucoside, Hydrolyzed Hyaluronic Acid, Butylene Glycol, Hyaluronic Acid, Ascorbic Acid, Beta-Glucan, Dipotassium Glycyrrhizate, Hydrogenated Lecithin, Ethylhexylglycerin, Eclipta Prostrata Leaf Extract, Laminaria Japonica Extract, Avena Sativa (Oat) Kernel Extract, Cynara Scolymus (Artichoke) Leaf Extract, Pteris Multifida Extract, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Cyclohexasiloxane, Dipropylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Fructooligosaccharides, Carbomer, Disodium EDTA, Polyquaternium-51, Tromethamine, Tocopherol"
+    },
+    {
+     "nombre": "Tónico Birch Moisturizing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809738600214"
+     ],
+     "inci": "Water, Glycerin, Propanediol, Glycereth-26, Pentylene Glycol, Betula Platyphylla Japonica Juice(10,000ppm), 1,2-Hexanediol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Hyaluronic Acid, Panthenol, Tromethamine, Dipotassium Glycyrrhizate, Glyceryl Caprylate, Glyceryl Glucoside, Butylene Glycol, Ascorbic Acid, Carbomer, Xanthan Gum, Disodium EDTA"
+    },
+    {
+     "nombre": "Mascarilla Birch Moisturizing Sheet Mask (10 unidades)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809624723157"
+     ],
+     "inci": "Water, Glycerin, Methylpropanediol, Betula Platyphylla Japonica Juice(9,900ppm), Althaea Rosea Flower Extract, Propanediol, Hydroxyacetophenone, Tromethamine, Sodium Hyaluronate, Allantoin, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Butylene Glycol, Caprylyl Glycol, Ethylhexylglycerin, 1,2-Hexanediol, Dipotassium Glycyrrhizate, Glyceryl Caprylate, Carbomer, Caffeine, Xanthan Gum, Disodium EDTA"
+    },
+    {
+     "nombre": "Crema Soybean Nourishing Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809624726417"
+     ],
+     "inci": "Water, Glycerin, Ethylhexyl Stearate, Hydrogenated Polyisobutene, Polyglyceryl-3 Distearate, Diisostearyl Malate, Caprylic/Capric Triglyceride, Butylene Glycol, Vinyl Dimethicone, Hydrogenated Coco-Glycerides, 1,2-Hexanediol, Glycine Max (Soybean) Seed Extract(10,000ppm), Ceramide NP, Melia Azadirachta Flower Extract, Melia Azadirachta Leaf Extract, Panthenol, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Glyceryl Stearate, Pentylene Glycol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Boron Nitride, Palmitic Acid, Hydroxyacetophenone, Stearic Acid, Glyceryl Stearate Citrate, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Hydrogenated Lecithin, Adenosine, Tromethamine, Sorbitan Isostearate, Dextrin, Cetearyl Alcohol, Xanthan Gum, Carbomer, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Extract"
+    },
+    {
+     "nombre": "Tónico Soybean Nourishing Toner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8809624726370"
+     ],
+     "inci": "Water, Propanediol, Butylene Glycol, 1,2-Hexanediol, Glycerin, Glycine Max (Soybean) Seed Extract(11,700ppm), Ceramide NP, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Dipropylene Glycol, Panthenol, Pentylene Glycol, Diphenyl Dimethicone, Triethylhexanoin, Caprylyl Glycol, Hydrogenated Lecithin, Ethylhexylglycerin, Adenosine, Tromethamine, Caprylic/Capric Triglyceride, Dextrin, Dipotassium Glycyrrhizate, Carbomer, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Extract"
     }
    ]
   }

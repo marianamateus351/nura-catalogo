@@ -1166,6 +1166,28 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
     extractos (Tea Tree Leaf Extract, Lavender Flower Extract: la regla es solo para el aceite esencial). Ninguna lista
     lleva perfume. 35 de 45 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.218 fichas
     anteriores (aparte de la ficha de SKIN1004 quitada a propósito).
+- ~~**Round Lab**~~ — **10 productos, 12 códigos** (versión 2026-10-12-roundlab).
+  - **Fuente**: `roundlab.com` es la **tienda oficial de EE. UU.** ("Round Lab U.S. Official Shop", Shopify
+    `hello-3c71.myshopify.com`), sin selector de países; roundlab.co.kr es la coreana (en coreano) y roundlab.eu responde
+    403 (no se fuerza). Las listas de la web están **transcritas con errores de OCR** ("Methy|propanediol",
+    "XylityIglucoside", "Hydroxypro pyltrimonium") y sus protectores son fórmulas de EE. UU. ("UVLock SPF 45 Broad Spectrum").
+  - **Regla aplicada (la de COSRX para lo que solo está en el listado de EE. UU.)**: entra solo el producto que una tienda
+    española vende **con el mismo EAN y la misma lista** (Lookfantastic.es en inglés; Druni y Primor traducidas, con el
+    mismo número y orden de ingredientes). Entran: 1025 Dokdo Cleanser (las tres tiendas), Cream (Lookfantastic idéntica,
+    Druni), Lotion (Druni), Toner 100/200/500 ml (Primor; Lookfantastic añade Tocopherol y cambia el orden), Sleeping Pack
+    (Lookfantastic, solo "Maris Aqua"); Birch Moisturizing Serum (Lookfantastic, solo nombres comunes; Druni), Toner (Druni;
+    Lookfantastic mismo conjunto en otro orden) y Sheet Mask caja de 10 (Lookfantastic; la unidad no tiene código);
+    Soybean Nourishing Cream (Lookfantastic idéntica) y Toner (Lookfantastic, "Black Bean Extract" por Glycine Max).
+  - **Erratas de la web corregidas** con las tiendas: "Glycine" → **Glycerin** en Birch Toner y Sheet Mask (Druni y
+    Lookfantastic dicen glicerina/Glycerin, y el resto de la lista es igual), "Disostearyl" → Diisostearyl Malate.
+  - **Fuera por lista distinta en la tienda**: Birch Juice Cream `8809738600221` (Druni y Lookfantastic sin Melia
+    Azadirachta Flower Extract), Mugwort Cream `8809738605721` (Druni 43 ingredientes, la web 42), 1025 Dokdo Cleansing Oil
+    `8809738605677` (Lookfantastic con 4 más). Fuera también Mugwort Toner (Lookfantastic le pone la lista de otro
+    producto) y todo lo que no vende ninguna tienda española con lista (unos 60 productos de la web, sets y bundles aparte).
+    El protector Birch Tree de Primor y Lookfantastic (`8809782551814`) es el envase UE, que no está en la web: fuera.
+  - **Revisión FP/FN**: salta solo D6 (Cyclohexasiloxane) en el Birch Serum, que también está en la lista de la tienda.
+    El aceite de manzanilla del Dokdo Cleanser no tiene regla (la 211 es lavanda y árbol del té). Sin perfume en ninguna.
+    9 de 10 limpios. **0 correcciones del detector.** Regresión: **0 cambios** en las 9.263 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
