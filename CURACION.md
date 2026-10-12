@@ -1233,6 +1233,17 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
     ácido salicílico ×1 (Volcanic). PEG-32, PEG-100 Stearate, Sorbeth-30 Tetraoleate y PPG-13-Decyltetradeceth-24 sin aviso:
     la regla de etoxilados/PEG es solo de Hogar, como en todo el catálogo. 2 de 6 limpios. **0 correcciones del
     detector.** Regresión: **0 cambios** en las 9.285 fichas anteriores.
+- ~~**Tirtir**~~ — 2026-10-12: **NO ENTRA por ahora** (0 productos). La web oficial `tirtir.global` es la tienda de EE. UU.
+  (Shopify `tirtirus.myshopify.com`; tirtir.co.kr la coreana; tirtir.com un dominio en venta): 131 fichas, 68 con código y
+  **solo una con lista**, la del Mask Fit Red Cushion en la ficha de Amazon y solo para el tono 21N. En España solo Primor
+  vende Tirtir (Mask Fit Red Cushion y su mini, 11 códigos por tonos) y **sin lista**; Druni y Lookfantastic no la tienen.
+  Sin lista por tono ni contraste con el envase europeo, no entra. Vía posible: foto de la etiqueta de cada tono.
+
+**Bloque 3 (coreanas, segunda ola) cerrado el 2026-10-12**: entran SKIN1004 (65), Isntree (45), Round Lab (10), Torriden
+(12) e Innisfree (6): 138 productos. Laneige y Tirtir no entran (sin lista del envase europeo). Criterio común: si la web
+oficial vende en Europa (mercado España o UE en la propia tienda), su lista con su código, salvo que una tienda española
+enseñe otra lista con el mismo EAN y ninguna otra confirme la de la web; si la web es solo de EE. UU., solo entra lo que
+una tienda española vende con el mismo EAN y la misma lista.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
