@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12g",
+ "version": "2026-10-12h",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -545,6 +545,12 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Limpiador facial 1025 Dokdo Cleanser",
+       "marca": "Round Lab",
+       "barcode": "8809738608364",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Aceite limpiador Centella Light Cleansing Oil",
        "marca": "SKIN1004",
        "barcode": "8809576261226",
@@ -1020,6 +1026,24 @@
        "barcode": "3574661309743",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B01M4LCLK3"
+      },
+      {
+       "nombre": "Crema 1025 Dokdo Cream",
+       "marca": "Round Lab",
+       "barcode": "8809738600245",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Soybean Nourishing Cream",
+       "marca": "Round Lab",
+       "barcode": "8809624726417",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Emulsión facial 1025 Dokdo Lotion",
+       "marca": "Round Lab",
+       "barcode": "8809657114779",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Crema calmante para piel sensible Soin Apaisant Peaux Sensibles",
@@ -4445,6 +4469,24 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Tónico 1025 Dokdo Toner",
+       "marca": "Round Lab",
+       "barcode": "8809657115387",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Birch Moisturizing Toner",
+       "marca": "Round Lab",
+       "barcode": "8809738600214",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Soybean Nourishing Toner",
+       "marca": "Round Lab",
+       "barcode": "8809624726370",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Bruma facial Hyalu-Cica Cloudy Mist",
        "marca": "SKIN1004",
        "barcode": "8809913830191",
@@ -4702,6 +4744,18 @@
        "marca": "Rhode",
        "barcode": "0810175611105",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Birch Moisturizing Sheet Mask (10 unidades)",
+       "marca": "Round Lab",
+       "barcode": "8809624723157",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla de noche 1025 Dokdo Sleeping Pack",
+       "marca": "Round Lab",
+       "barcode": "8809657115639",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Mascarilla Centella Watergel Sheet Ampoule Mask",

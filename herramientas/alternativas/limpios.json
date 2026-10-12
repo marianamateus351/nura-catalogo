@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-isntree",
+ "version": "2026-10-12-roundlab",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15064,6 +15064,89 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8809236798093"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Limpiador facial 1025 Dokdo Cleanser",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809738608364"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Crema 1025 Dokdo Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809738600245"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Emulsión facial 1025 Dokdo Lotion",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809657114779"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Tónico 1025 Dokdo Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809657115387",
+    "8809657114731",
+    "8809657114748"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Mascarilla de noche 1025 Dokdo Sleeping Pack",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809657115639"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Tónico Birch Moisturizing Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809738600214"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Mascarilla Birch Moisturizing Sheet Mask (10 unidades)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809624723157"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Crema Soybean Nourishing Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809624726417"
+   ]
+  },
+  {
+   "marcaKey": "roundlab",
+   "marca": "Round Lab",
+   "nombre": "Tónico Soybean Nourishing Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809624726370"
    ]
   }
  ]
