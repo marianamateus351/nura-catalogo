@@ -1004,6 +1004,19 @@ Reglas de esta cola (las de siempre, recordadas por Mariana):
 
 Estado (se va rellenando):
 
+- ~~**Nuud**~~ — cerrada 2026-10-12 (versión 2026-10-12-nuud): **2 productos, 2 códigos**, 0 avisos (los dos limpios, entran en
+  Alternativas como desodorantes). Fuente: nuudcare.com (Shopify; INCI en la ficha y EAN en la propia página). Entran los sticks
+  Rosemary x Geranium (8721008476339) y Lime x Bergamot (8721008476322). Los alérgenos que llevan (citral, linalool, geraniol…)
+  salen de los aceites esenciales declarados: el detector trata ese perfume natural desglosado como divulgado (criterio de
+  siempre), así que no salta la fragancia, y no hay aluminio, alumbre ni triclosán. **Fuera:** el stick Orange x Ginger (la web
+  enseña la lista del Rosemary x Geranium, con Pelargonium y Rosmarinus: lista de otro producto); The Stick sin perfume
+  (8721008476186: la web da nombres genéricos, "plant-based wax", "plant-based emollient", no una lista); la **crema** (Starter
+  15 ml 8721249990007, Smarter 40 ml 8721249990014, Family 8721249990021): la web oficial da la lista **completa pero en nombres
+  comunes en inglés** ("Sunflower Seed Oil, Castor Seed Oil, Zinc Oxide, Strawberry Seed Oil, Hydrogenated Rapeseed Oil,
+  Hydrogenated Palm Oil, Arrowroot Root Powder, Candelilla Wax, Tocopherol, Silver"), no en INCI; la de Ecco Verde sí está en INCI
+  pero es la fórmula anterior (sin ricino ni aceites hidrogenados). **PENDIENTE de Mariana:** ¿entra la crema con la lista oficial
+  en nombres comunes? Saldría limpia. OBF solo tiene 8720726380423 (crema 20 ml, sin lista). Regresión: 0 cambios. Sin cambios
+  en el detector.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

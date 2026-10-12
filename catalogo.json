@@ -1,5 +1,5 @@
 {
- "version": "2026-10-10-w5",
+ "version": "2026-10-12-nuud",
  "marcas": [
   {
    "key": "larocheposay",
@@ -87255,6 +87255,30 @@
       "4056489871378"
      ],
      "inci": "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %, Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone"
+    }
+   ]
+  },
+  {
+   "key": "nuud",
+   "nombre": "Nuud",
+   "productos": [
+    {
+     "nombre": "Desodorante stick Rosemary x Geranium",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8721008476339"
+     ],
+     "inci": "Cocos Nucifera (Coconut) Oil, Zea Mays (Corn) Starch, Myrica Pubescens Fruit Wax, Helianthus Annuus (Sunflower) Seed Wax, Olea Europaea (Olive) Fruit Oil, Triethyl Citrate, Cetyl Esters, Coco-Caprylate/Caprate, Glyceryl Caprylate, Macadamia Seed Oil Polyglyceryl-6 Esters Behenate, Sodium Caproyl/Lauroyl Lactylate, Pelargonium Graveolens Flower Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Tocopherol, Citronellol, Zinc Oxide, Helianthus Annuus (Sunflower) Seed Oil, Pinene, Silver, Caprylic/Capric Triglyceride, Camphor, Geraniol, Linalool, Beta-Caryophyllene, Limonene, Terpineol, Polyhydroxystearic Acid, Citral"
+    },
+    {
+     "nombre": "Desodorante stick Lime x Bergamot",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8721008476322"
+     ],
+     "inci": "Cocos Nucifera (Coconut) Oil, Zea Mays (Corn) Starch, Myrica Pubescens Fruit Wax, Helianthus Annuus (Sunflower) Seed Wax, Olea Europaea (Olive) Fruit Oil, Triethyl Citrate, Cetyl Esters, Coco-Caprylate/Caprate, Glyceryl Caprylate, Macadamia Seed Oil Polyglyceryl-6 Esters Behenate, Sodium Caproyl/Lauroyl Lactylate, Citrus Aurantifolia (Lime) Peel Oil, Limonene, Citrus Aurantium Bergamia (Bergamot) Peel Oil, Tocopherol, Zinc Oxide, Helianthus Annuus (Sunflower) Seed Oil, Linalyl Acetate, Terpinolene, Silver, Caprylic/Capric Triglyceride, Linalool, Pinene, Terpineol, Alpha-Terpinene, Citral, Polyhydroxystearic Acid"
     }
    ]
   }
