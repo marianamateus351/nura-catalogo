@@ -1354,6 +1354,29 @@ una tienda española vende con el mismo EAN y la misma lista.
   Cinnamal, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Amyl Cinnamal, Hydroxycitronellal, Isoeugenol, Benzyl
   Cinnamate…), y no cuando son los de un aceite esencial declarado (Limonene, Linalool, Citral, Geraniol…, como hoy).
   Necesitaría build. Mientras, cada caso así que salga limpio se aparta de Alternativas a mano.
+- ~~**Valquer**~~ — **293 productos, 338 códigos** (versión 2026-10-12-valquer).
+  - **Fuente: la tienda oficial** `valquer.com` (Shopify `valquer-laboratorios.myshopify.com`, española). 423 fichas: lista
+    del bloque "Ingredientes +" (hasta "🔎 Descubre más… Cosmile Europe" o "Información Técnica") y `barcode` de cada
+    tamaño en el `.js`. Mayúsculas a mayúsculas iniciales. Los dos "Agua Oxigenada 20 vol (6 %)" (75 ml y otro formato, misma
+    lista) en una entrada.
+  - **Fuera**: 118 packs, sets, kits y regalos (llevan varias listas); 4 fichas con varias listas (Valquer Shake, crema con
+    retinal + sérum, SBS Divinity Effect); 2 sin código; las botellas vacías del Valquer Shake ("producto protegido por
+    patente" en vez de lista); **los 3 decolorantes con persulfatos** (Decoblue, Decoblue V-Plex, Decolorante sin amoniaco),
+    a la espera de la decisión W, como los de L'Oréal Professionnel.
+  - **Tintes**: los V-Plex llevan p-fenilendiamina y resorcinol en su propia lista (la crema de color sola; el oxidante es
+    otro producto con su código), así que entran: salta PPD ×57 y resorcinol ×61.
+  - **Revisión FP/FN**: fragancia ×274, fenoxietanol ×178, propilenglicol ×166, HHCB ×98, laureth/SLES ×99, sulfitos ×79,
+    resorcinol ×61, PPD ×57, salicilato de bencilo ×53, BHT ×47, cocamida DEA ×21, MIT ×21 y MCI ×21, benzoato de bencilo
+    ×21, octinoxato ×13, eugenol ×10, D5 ×9, oxibenzona ×7, octocrileno ×6, tioglicólico ×4, benzofenona-4 ×4, octisalato
+    ×3, lavanda y árbol del té ×4, isoeugenol ×2, retinol/retinyl ×3, negro de humo, acetato de celulosa y ácido salicílico
+    ×1. Todo está en las listas. Limpios 11: aguas oxigenadas y oxidantes en crema (sin perfume; `genera.py` ya aparta lo
+    corrosivo de Alternativas), aceites puros (rosa mosqueta, Método Curly), exfoliante Aqua-gel y líquido para vendas
+    frías. Ninguno con alérgenos de perfume sin Parfum (decisión X). **0 correcciones del detector.** Regresión: **0
+    cambios** en las 9.789 fichas anteriores.
+
+**Bloque de peluquería cerrado el 2026-10-12**: entran Moroccanoil (101), L'Oréal Professionnel (70), Wella (68), Tahe (259)
+y Valquer (293): 791 productos. Montibello no entra (listas sin códigos). Decisiones abiertas: W (persulfatos) y X
+(alérgenos de perfume sin Parfum).
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
