@@ -1244,6 +1244,31 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
 oficial vende en Europa (mercado España o UE en la propia tienda), su lista con su código, salvo que una tienda española
 enseñe otra lista con el mismo EAN y ninguna otra confirme la de la web; si la web es solo de EE. UU., solo entra lo que
 una tienda española vende con el mismo EAN y la misma lista.
+
+**Bloque de peluquería profesional, 2026-10-12** (Mariana: "Sigue con peluquería, empezando por Moroccanoil"):
+- ~~**Moroccanoil**~~ — **101 productos, 157 códigos** (versión 2026-10-12-moroccanoil).
+  - **Fuente: la tienda oficial española** `es.moroccanoil.com` (Shopify de la filial europea, `moil-de.myshopify.com`;
+    moroccanoil.com es la de EE. UU. y eu.moroccanoil.com la internacional). 163 fichas: lista del bloque "INGREDIENTES"
+    (o "Ingredients") de cada ficha y `barcode` de cada tamaño en el `.js` (EAN `7290…`, Israel). Tamaños con la misma
+    lista, una entrada con todos los códigos.
+  - **Limpieza de listas**: se quita el código de fórmula que la web pega al final ("… VANILLIN. MOT02"), el aviso
+    "Disclaimer…" y el texto de uso; "ALLERGENS:" se une a la lista; mayúsculas pasadas a mayúsculas iniciales;
+    "Water/Aqua(/Eau)" → Aqua y "Parfum/Fragrance", "Fragrance/Perfume", "Fragrance (Perfume)", "Parfume" → Parfum.
+    Erratas: "PERFUM" → Parfum (Treatment Purple), "TETRAMETHYL, ACETYLOCTAHYDRONAPHTHALENES" y "ACETYLOCTA-
+    HYDRONAPHTHALENES" juntados.
+  - **Fuera**: sets, dúos, kits de viaje y de descubrimiento, bundles, muestras, adornos navideños y regalos; "Refrescar,
+    nutrir, ¡y listo!" (kit: la lista lleva "Moroccanoil Treatment: …" de varios productos); las fichas "be-an-original"
+    (sin `.js`); Hair & Body Fragrance Mist genérica (sin lista); Body Lotion Soleil de Tanger 10 ml (sin código);
+    cepillos y toallas.
+  - **Contraste con OBF**: 7 fichas de la marca; solo 2 con lista y del mismo código (Hydrating Shampoo de México y Moisture
+    Repair Shampoo del Reino Unido), transcritas con mucho ruido de OCR y mezcladas con el texto francés: no contradicen la
+    web, pero no sirven para comparar línea a línea.
+  - **Revisión FP/FN**: fragancia ×98 (todas las que llevan Parfum), fenoxietanol ×75, propilenglicol ×13, galaxólido (HHCB)
+    ×13, eugenol ×10, salicilato de bencilo ×8, benzofenona-4 ×6, BHT ×5, ácido salicílico ×4, DDAC ×4 (Didecyldimonium
+    Chloride, está en los acondicionadores), benzoato de bencilo ×4, D5 ×6 (también "Cyclomethicone"), D6 ×1, lavanda ×3,
+    octinoxato ×3, octisalato ×3, oxibenzona ×2, laureth/sulfosuccinato ×4, nylon-12 ×1, metacrilato ×1. Todo está en las
+    listas. Ninguna lista con perfume se escapa sin aviso. 1 de 101 limpio (Aceite de Argán Puro). **0 correcciones del
+    detector.** Regresión: **0 cambios** en las 9.291 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
