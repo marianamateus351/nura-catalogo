@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12h",
+ "version": "2026-10-12i",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -616,6 +616,12 @@
        "amazon": "https://www.amazon.es/dp/B0BYQ45N7W"
       },
       {
+       "nombre": "Espuma limpiadora DIVE IN Cleansing Foam",
+       "marca": "Torriden",
+       "barcode": "8809784600404",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Desmaquillante de ojos bifásico",
        "marca": "Uriage",
        "barcode": "3661434003691",
@@ -1138,6 +1144,18 @@
        "marca": "The INKEY List",
        "barcode": "5060879823204",
        "fechaLista": "08-10-2026"
+      },
+      {
+       "nombre": "Crema DIVE IN Cream",
+       "marca": "Torriden",
+       "barcode": "8809504741660",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema DIVE IN Soothing Cream",
+       "marca": "Torriden",
+       "barcode": "8809784600183",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Cica Daily Crema reparadora concentrada",
@@ -1686,6 +1704,18 @@
        "barcode": "0769915236460",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FYJ4WQ5J"
+      },
+      {
+       "nombre": "Sérum CELLMAZING Brightening Ampoule",
+       "marca": "Torriden",
+       "barcode": "8809784602002",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum DIVE IN Serum",
+       "marca": "Torriden",
+       "barcode": "8809504741653",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Cica Daily Sérum reparador intenso",
@@ -4529,6 +4559,24 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Discos DIVE IN Multi Pad",
+       "marca": "Torriden",
+       "barcode": "8809657119446",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Esencia DIVE IN Skin Booster",
+       "marca": "Torriden",
+       "barcode": "8809504742018",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico DIVE IN Toner",
+       "marca": "Torriden",
+       "barcode": "8809504743237",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Agua termal de Uriage",
        "marca": "Uriage",
        "barcode": "3661434000522",
@@ -4798,6 +4846,12 @@
        "marca": "SVR",
        "barcode": "3662361000968",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Mascarilla CELLMAZING Brightening Mask",
+       "marca": "Torriden",
+       "barcode": "8809784602194",
+       "fechaLista": "12-10-2026"
       }
      ]
     },

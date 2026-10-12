@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-roundlab",
+ "version": "2026-10-12-torriden",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15147,6 +15147,89 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8809624726370"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Sérum CELLMAZING Brightening Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809784602002"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Espuma limpiadora DIVE IN Cleansing Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809784600404"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Sérum DIVE IN Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809504741653"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Crema DIVE IN Soothing Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809784600183",
+    "8809784601661"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Tónico DIVE IN Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809504743237"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Crema DIVE IN Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809504741660"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Esencia DIVE IN Skin Booster",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809504742018"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Discos DIVE IN Multi Pad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809657119446"
+   ]
+  },
+  {
+   "marcaKey": "torriden",
+   "marca": "Torriden",
+   "nombre": "Mascarilla CELLMAZING Brightening Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809784602194",
+    "8809784602187"
    ]
   }
  ]
