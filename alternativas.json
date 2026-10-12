@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12a",
+ "version": "2026-10-12b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -9,6 +9,48 @@
      "key": "desodorante",
      "nombre": "Desodorantes",
      "productos": [
+      {
+       "nombre": "Deo Papertube Aloe Vera",
+       "marca": "Ben & Anna",
+       "barcode": "4260491224422",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Coco Mania",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222213",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Green Fusion",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222220",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Pink Grapefruit",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222282",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Sensitive Highland Breeze 40 g",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222947",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Sensitive Lemon & Lime 40 g",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222930",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deostick Refill \"Persian Lime\" / Refill Case und Deostick Refill \"Persian Lime\" / Papertube Persian Lime 25gr / Deo Papertube Persian Lime",
+       "marca": "Ben & Anna",
+       "barcode": "4260491226273",
+       "fechaLista": "12-10-2026"
+      },
       {
        "nombre": "Desodorante Stick Natural Vinofresh",
        "marca": "Caudalie",

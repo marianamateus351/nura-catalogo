@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-nuud",
+ "version": "2026-10-12-benanna",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14198,6 +14198,126 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8721008476322"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deostick Refill \"Persian Lime\" / Refill Case und Deostick Refill \"Persian Lime\" / Papertube Persian Lime 25gr / Deo Papertube Persian Lime",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491226273",
+    "4260491226266",
+    "4260491223715",
+    "4260491222275"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deocreme Pink Grapefruit",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491220899"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Aloe Vera",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491224422"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "PolyPotato Deocreme - Green Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491223364"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Natural Lipbalm Pure",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491223463"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deocreme Vanilla Orchid",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491220882"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Sensitive Lemon & Lime 40 g",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222930"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Sensitive Cherry Blossom 40 g",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222954"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Sensitive Highland Breeze 40 g",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222947"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deocreme Persian Lime",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491220875"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Pink Grapefruit",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222282"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Coco Mania",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222213"
+   ]
+  },
+  {
+   "marcaKey": "benanna",
+   "marca": "Ben & Anna",
+   "nombre": "Deo Papertube Green Fusion",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4260491222220"
    ]
   }
  ]
