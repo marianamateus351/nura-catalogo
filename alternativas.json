@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12n",
+ "version": "2026-10-12o",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1753,6 +1753,18 @@
        "barcode": "3661434023422",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DSCGWVLH"
+      },
+      {
+       "nombre": "Oxidante en crema 10 vol (3%)",
+       "marca": "Valquer",
+       "barcode": "8420212384125",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum aceite rosa mosqueta 100% puro",
+       "marca": "Valquer",
+       "barcode": "8420212103610",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Liftactiv Collagen Specialist 16 Sérum",
@@ -4702,6 +4714,12 @@
        "marca": "The INKEY List",
        "barcode": "5060422297988",
        "fechaLista": "08-10-2026"
+      },
+      {
+       "nombre": "Exfoliante facial Aqua-gel",
+       "marca": "Valquer",
+       "barcode": "8420212121713",
+       "fechaLista": "12-10-2026"
       }
      ]
     },
@@ -5440,6 +5458,12 @@
        "nombre": "Tratamiento reestructurante de la fibra capilar Protein Treatment Magic Rizos",
        "marca": "Tahe",
        "barcode": "8426827723526",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Método Curly (especial rizos)",
+       "marca": "Valquer",
+       "barcode": "8420212334540",
        "fechaLista": "12-10-2026"
       }
      ]

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-tahe",
+ "version": "2026-10-12-valquer",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15377,6 +15377,110 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8426827670356"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Agua Oxigenada 30 vol (9%)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384323"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Oxidante en crema 10 vol (3%)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384125"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Agua Oxigenada 20 vol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384224",
+    "8420212384286",
+    "8420212384279"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Oxidante en Crema 40 vol (12 %)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384422"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Exfoliante facial Aqua-gel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212121713"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Agua Oxigenada 10 vol (3 %)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384187",
+    "8420212384170"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Agua Oxigenada 40 vol (12 %)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384484",
+    "8420212384477"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Agua Oxigenada 30 vol (9 %)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212384385",
+    "8420212384378"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Sérum aceite rosa mosqueta 100% puro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212103610"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Sérum Método Curly (especial rizos)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212334540"
+   ]
+  },
+  {
+   "marcaKey": "valquer",
+   "marca": "Valquer",
+   "nombre": "Líquido para Vendas Frías Reafirmante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8420212113572"
    ]
   }
  ]
