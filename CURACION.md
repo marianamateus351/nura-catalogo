@@ -1215,6 +1215,24 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
   - Sin ninguna fuente que diga qué lista lleva el envase europeo, no se puede cumplir el aviso de Mariana para coreanas;
     además la web repite listas entre productos (Cream Skin Refiner con la del Mist; Water Bank Eye Cream con la del Essence
     Toner), así que atar por nombre no es seguro. Vía posible: foto de la etiqueta de un envase de Primor o Sephora.
+- ~~**Innisfree**~~ — **6 productos, 10 códigos** (versión 2026-10-12-innisfree).
+  - **Fuente**: `us.innisfree.com` (Shopify `amorepacificus.myshopify.com`, la tienda oficial de EE. UU.; innisfree.com
+    redirige ahí). innisfree.es **no es la marca** (es una editorial); innisfree.eu, int., uk. y global. están tras
+    "Just a moment…" (Cloudflare) o aparcados: no se fuerzan. 97 fichas, 41 con lista y 54 con código.
+  - **En España** solo la vende **Lookfantastic.es** (18 fichas); Druni y Primor no la tienen y OBF no tiene ninguna
+    escaneada en España. Regla de Round Lab: entra lo que Lookfantastic vende **con el mismo EAN y la misma lista**:
+    Green Tea Amino Acid Cleansing Foam y Cleansing Oil, Green Tea Ceramide Milk (160 ml, 90 ml y recarga), Green Tea Enzyme
+    Vitamin C Brightening Serum (30 y 50 ml) y Toner Pads (60 y 20), Volcanic BHA Pore Cleansing Foam (todas idénticas
+    salvo "Water/Aqua/Eau").
+  - Lección de extracción: la web cierra cada lista con "For informational purposes only…" pegado al último ingrediente; al
+    principio se perdía el último (Acorus Calamus, Ferulic Acid…). Corregido antes de comparar.
+  - **Fuera**: Cherry Blossom Glow Jam Cleanser `8809843682259` (Lookfantastic, otra lista), las mascarillas Energy (lista
+    de otro sabor), los productos de Lookfantastic que no están en la web (Jelly Cream, Mineral Sunscreen, Retinol Salicylic
+    Serum, Hyaluronic Toner, Seed Hyaluronic Cream, Bright-Eye Serum y Clay Mask, con otros EAN), sets y tríos.
+  - **Revisión FP/FN**: fragancia ×3 (las dos espumas y el aceite llevan Parfum), propilenglicol ×1 (Ceramide Milk),
+    ácido salicílico ×1 (Volcanic). PEG-32, PEG-100 Stearate, Sorbeth-30 Tetraoleate y PPG-13-Decyltetradeceth-24 sin aviso:
+    la regla de etoxilados/PEG es solo de Hogar, como en todo el catálogo. 2 de 6 limpios. **0 correcciones del
+    detector.** Regresión: **0 cambios** en las 9.285 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
