@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-innisfree",
+ "version": "2026-10-12-moroccanoil",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15250,6 +15250,15 @@
    "barcodes": [
     "8809843699813",
     "8800294990535"
+   ]
+  },
+  {
+   "marcaKey": "moroccanoil",
+   "marca": "Moroccanoil",
+   "nombre": "Aceite de Argán Puro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "7290014344396"
    ]
   }
  ]
