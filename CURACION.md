@@ -1039,6 +1039,8 @@ Estado (se va rellenando):
   - **Detector (necesita build):** la regla de perfume natural declarado reconoce también la nota en alemán ("aus natürlichen ätherischen
     Ölen"). Regresión: 0 cambios. Hasta que salga el build, el Cherry Blossom (4260491222954) queda fuera de Alternativas
     (`HASTA_BUILD` en genera.py), porque la app instalada aún le pondría el aviso.
+  - **Tipos de Alternativas:** "Deocreme"/"Deostick" cuentan como desodorante y "Lipbalm" como labial (`tipos.py` y la tabla de la
+    app): entran las 3 Deocremes, PolyPotato y el Lipbalm Pure. Alternativas 2026-10-12c: 1.450 productos; **desodorantes 2 → 15**.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de

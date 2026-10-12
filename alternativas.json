@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12b",
+ "version": "2026-10-12c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -46,9 +46,33 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Deocreme Persian Lime",
+       "marca": "Ben & Anna",
+       "barcode": "4260491220875",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deocreme Pink Grapefruit",
+       "marca": "Ben & Anna",
+       "barcode": "4260491220899",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deocreme Vanilla Orchid",
+       "marca": "Ben & Anna",
+       "barcode": "4260491220882",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Deostick Refill \"Persian Lime\" / Refill Case und Deostick Refill \"Persian Lime\" / Papertube Persian Lime 25gr / Deo Papertube Persian Lime",
        "marca": "Ben & Anna",
        "barcode": "4260491226273",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "PolyPotato Deocreme - Green Balance",
+       "marca": "Ben & Anna",
+       "barcode": "4260491223364",
        "fechaLista": "12-10-2026"
       },
       {
@@ -2569,6 +2593,12 @@
        "barcode": "3282770399936",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07H827D59"
+      },
+      {
+       "nombre": "Natural Lipbalm Pure",
+       "marca": "Ben & Anna",
+       "barcode": "4260491223463",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Cicabio Lip Repair Bálsamo Labial Reparador",
