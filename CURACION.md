@@ -1057,6 +1057,12 @@ Estado (se va rellenando):
   transcrita de la etiqueta (5060968411565, 5065003990708, 5060968410247, 5060968410742, 5065003990692, 5061103351715, 5065003990524),
   todos de envases de Reino Unido, Bélgica, Países Bajos o Polonia: si Mariana quiere, se curan por foto de etiqueta (lista y código en
   la misma foto), como Mercadona; con la regla de esta cola (fuente oficial) no entran.
+- ~~**Corpore Sano**~~ — 2026-10-12: **NO ENTRA por ahora** (0 productos). La web oficial no es accesible desde aquí:
+  corporesano.es corta la conexión y responde 503; corporesano.com da un certificado que no valida (no se desactiva la
+  comprobación); corporesanocosmetics.com redirige a csnatural.co.uk, que el proxy del entorno bloquea por política. Fuera de la
+  web solo hay listas de tiendas extranjeras (Watsons Singapur: espray de alumbre y aloe "Aqua, Potassium Alum, 1,3-Propanediol,
+  Xanthan Gum, Phenoxyethanol"), una sola fuente y no oficial, y OBF tiene 2 productos de la marca, ninguno desodorante. Reintentar
+  corporesano.es otro día.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
