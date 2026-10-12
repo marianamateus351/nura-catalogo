@@ -1099,6 +1099,47 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
   ni Dia, ni Open*Facts con envase de España o Portugal.
 - Revisión FP/FN: la ficha nueva, revisada a mano (arriba). Regresión sobre el catálogo entero: **0 cambios** en las 9.152
   fichas anteriores; 0 correcciones del detector.
+
+**Bloque 3 (coreanas, segunda ola), 2026-10-12:**
+- ~~**SKIN1004**~~ — **66 productos, 109 códigos** (versión 2026-10-12-skin1004).
+  - **Fuente: la tienda oficial global** `www.skin1004.com` (Shopify). skin1004.es **no es de la marca**: es una "guía
+    independiente" que manda a comprar a Tedin. La tienda global tiene **mercado España** en su selector, y con él
+    (`/localization`, country_code=ES) el catálogo es el mismo: 107 fichas. Lista: bloque "FULL INGREDIENTS" de cada ficha
+    (en inglés, "Water, …"); código: `barcode` de cada variante en `/products/<handle>.js` (EAN coreanos `8809…`).
+  - **Contraste con el envase europeo** (aviso de Mariana para coreanas):
+    - **Primor** (`gs1:gtin` + pestaña Ingredientes): vende 9 productos **con el mismo EAN de la web y la lista idéntica**
+      (Centella Teca Ampoule, Cream y Toner, Hyalu-Teca Firming Cream, Hyalu-Cica First Ampoule y Hydrating Mask, Probio-Cica
+      Nourishing Mask, Tea-Trica Relief Ampoule, Tone Brightening Glow Mask; en algunos solo cambian las ppm anotadas).
+      En otros 5 enseña **listas antiguas o cruzadas**, traducidas y con el extracto de centella en cabeza (77 %, 60 %, 41 %):
+      Tone Brightening Capsule Ampoule, Capsule Cream y Cleansing Gel Foam, y las cremas Centella y Soothing (Primor tiene
+      intercambiadas sus listas). **Se deja la web**, como en COSRX: Druni, más reciente, da para la Capsule Ampoule y el
+      Cleansing Gel Foam el mismo conjunto que la web.
+    - **Druni** (`gtin13` + `itemprop="ingredients"`, 62 fichas): vende sobre todo **envases UE con EAN propio**
+      (`88099138…`) y lista "Aqua(Water), …". Esos EAN **se atan al producto de la web cuando la lista de Druni es la misma**
+      (idéntica, mismo conjunto en otro orden, o solo erratas/ppm/nombre: "Titanium Oxide", "Kaolin (CI 77004)",
+      "Centella Asiatica Leaf" por "…Leaf Water"): 20 códigos UE en 16 productos (Hyalu-Cica Moisture Cream, Blue Serum,
+      Brightening Toner y Sleeping Pack, Centella Ampoule, Ampoule Foam, Toning Toner y Cream, Air-Fit Suncream Plus, Tea-Trica
+      BHA Foam y Spot Cover Patch, Probio-Cica Bakuchiol Eye Cream, Intensive Ampoule y Nourishing Mask, Hydrating y Glow
+      Mask). Primor confirma además 2 EAN UE del Intensive Ampoule.
+    - **No se atan** los EAN UE con lista distinta de la web: Air-Fit Suncream Light `8809913831204` y Silky-Fit Sun Stick
+      20 g `8809913834083` (sin Tocopherol en Druni), Light Cleansing Oil `8809913830481` y su mini `8809913831150` (sin
+      Limonene ni Linalool, o con otra lista), Soothing Cream `8809913831303`, Capsule Cream `8809913834090`, Probio-Cica
+      Essence Toner `8809913831273`, Tea-Trica Purifying Toner `8809913831136`, Quick Calming Pad `8809913831174`; ni los
+      que Druni enseña con la lista de otro producto o sin lista (Poremizing Fresh Ampoule UE, varias ampollas y mascarillas
+      `88099138354…`/`88099138331…`, el Zombie Pack).
+    - Open Beauty Facts: solo 2 códigos de la marca, ninguno escaneado en la UE.
+  - **Fuera**: sets, dúos, kits de viaje y de ampollas, el Sunsational Kit, los regalos (neceser, bojagi, llavero) y las
+    cajas de 5 mascarillas y los "Twin Pack" (se queda el código de la unidad); sin código: Tone Brightening Aurora Mist.
+  - **Nombres**: tipo en castellano + nombre de la web ("Ampolla Centella Teca Ampoule"). Tamaños con la misma lista, una
+    entrada con todos los códigos.
+  - **Revisión FP/FN**: saltan aceite de árbol del té ×7 (Leaf Oil; el "Leaf Water" no, a propósito), ácido salicílico ×10
+    (con el capriloil salicílico, como en el resto del catálogo), ácido kójico ×2, D5 ×2 y D6 ×1 (Centella Soothing Cream y
+    Air-Fit Suncream Plus), PMMA/metacrilato ×2 (stick solar), retinol ×1, eugenol ×1 (Tea-Trica Spot Cream), lavanda ×1,
+    Laureth-7 ×1. Todo está en las listas. Revisado que no faltan avisos: ninguna lista lleva perfume; los alérgenos
+    (Linalool, Geraniol, Limonene, Hexyl Cinnamal) vienen de aceites esenciales declarados (lavanda, naranja, bergamota,
+    geranio, rosa), así que sin aviso de perfume, como en el resto; el Aluminum Hydroxide del protector no es la regla de
+    antitranspirantes; el polisorbato es regla solo de Hogar. 45 de 66 limpios. **0 correcciones del detector.**
+    Regresión: **0 cambios** en las 9.153 fichas anteriores.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
