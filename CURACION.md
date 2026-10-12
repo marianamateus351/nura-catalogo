@@ -1205,6 +1205,16 @@ Secret no entran (motivos arriba). Desodorantes limpios en Alternativas: de 2 a 
   - **Revisión FP/FN**: salta solo el ácido salicílico (Capryloyl Salicylic Acid) ×3. Los aceites (bergamota, romero,
     jojoba, macadamia, argán) no tienen regla y ninguna lista lleva perfume. 9 de 12 limpios. **0 correcciones del
     detector.** Regresión: **0 cambios** en las 9.273 fichas anteriores.
+- ~~**Laneige**~~ — 2026-10-12: **NO ENTRA por ahora** (0 productos).
+  - Web oficial: `int.laneige.com` ("Laneige International", Shopify `laneige-international.myshopify.com`, para Asia:
+    Singapur, Malasia, Tailandia…) publica la lista de cada producto ("WATER / AQUA / EAU, …"), pero **ningún código**
+    (`barcode` vacío). us.laneige.com es la de EE. UU.; laneige.com, la coreana; no hay tienda europea ni española.
+  - En España: **Primor** vende 16 (Lip Sleeping Mask por sabores, Lip Glowy Balm, Water Bank, Cica Sleeping Mask) con
+    código, pero **sin lista**; Druni y Lookfantastic no la tienen; Sephora y Notino responden 403. Open Beauty Facts: 6
+    fichas, ninguna con lista de un envase europeo.
+  - Sin ninguna fuente que diga qué lista lleva el envase europeo, no se puede cumplir el aviso de Mariana para coreanas;
+    además la web repite listas entre productos (Cream Skin Refiner con la del Mist; Water Bank Eye Cream con la del Essence
+    Toner), así que atar por nombre no es seguro. Vía posible: foto de la etiqueta de un envase de Primor o Sephora.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
