@@ -1063,6 +1063,11 @@ Estado (se va rellenando):
   web solo hay listas de tiendas extranjeras (Watsons Singapur: espray de alumbre y aloe "Aqua, Potassium Alum, 1,3-Propanediol,
   Xanthan Gum, Phenoxyethanol"), una sola fuente y no oficial, y OBF tiene 2 productos de la marca, ninguno desodorante. Reintentar
   corporesano.es otro día.
+- ~~**Fussy**~~ — 2026-10-12: **NO ENTRA** (0 productos). getfussy.com (Shopify, tienda de Reino Unido; getfussy.es es un dominio
+  aparcado) no publica lista completa por producto ni por aroma: la página "Ingredients" y las fichas (también renderizadas) solo
+  enseñan ingredientes destacados en nombre común ("Sunflower Wax, Caprylic Triglyceride, Magnesium Hydroxide, Coconut Oil, Sodium
+  Bicarbonate, Probiotic, Shea Butter, Tapioca Starch"), sin perfume ni alérgenos. Ninguna variante tiene código (barcode vacío en
+  products.json). OBF tiene 1 recambio con lista de etiqueta (5065010483057, Tropic Tonic, Reino Unido): vía foto si Mariana quiere.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
