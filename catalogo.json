@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-benanna",
+ "version": "2026-10-12-respire",
  "marcas": [
   {
    "key": "larocheposay",
@@ -87858,6 +87858,30 @@
       "4260491220516"
      ],
      "inci": "Aqua (Water), Hydrated Silica, Sorbitol/Hydrogenated Starch Hydrolysate, Xylitol, Tricalcium Phosphate, Ananas Sativus (Pineapple) Fruit Extract, Lauryl Glucoside, Glycerin, Aroma (Fragrance), Xanthan Gum, Salvia Officinalis (Sage) Leaf Water, Citric Acid, Chamomilla Recutita (Camomile) Flower Extract, Aloe Barbadensis Leaf Juice, Hippophae Rhamnoides (Sea Buckthorn) Fruit Extract, Mentha Arvensis (Peppermint) Leaf Oil, Limonene, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate"
+    }
+   ]
+  },
+  {
+   "key": "respire",
+   "nombre": "Respire",
+   "productos": [
+    {
+     "nombre": "Déodorant stick Fleur de Coton certifié bio 50 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3760368740730"
+     ],
+     "inci": "Helianthus annuus seed oil, Coco-caprylate/caprate, Magnesium oxide, Stearyl alcohol, Microcrystalline cellulose, Triethyl citrate, Hydrogenated castor oil, Parfum, Xylityl sesquicaprylate, Anhydroxylitol, Tocopherol, Eugenol, Geraniol"
+    },
+    {
+     "nombre": "Gel Nettoyant Purifiant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3760368742550"
+     ],
+     "inci": "Aqua (water), Propanediol, Caprylyl/capryl glucoside, Erythritol, Glycerin, Sodium PCA, Salicylic acid, Coco-glucoside, Decyl glucoside, Xanthan gum, Chlorella vulgaris (chlorella) extract, Sodium hydroxide, Sodium benzoate, Citric acid, Lactic acid, Parfum (fragrance), Tetramethyl Acetyloctahydronaphthalenes, CI 19140 (yellow 5), CI 42090 (blue 1)"
     }
    ]
   }

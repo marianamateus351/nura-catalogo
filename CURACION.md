@@ -1041,6 +1041,15 @@ Estado (se va rellenando):
     (`HASTA_BUILD` en genera.py), porque la app instalada aún le pondría el aviso.
   - **Tipos de Alternativas:** "Deocreme"/"Deostick" cuentan como desodorante y "Lipbalm" como labial (`tipos.py` y la tabla de la
     app): entran las 3 Deocremes, PolyPotato y el Lipbalm Pure. Alternativas 2026-10-12c: 1.450 productos; **desodorantes 2 → 15**.
+- ~~**Respire**~~ — cerrada 2026-10-12 (versión 2026-10-12-respire): **2 productos, 2 códigos**; reglas: fragancia (los dos), eugenol
+  (stick) y ácido salicílico (gel); ninguno limpio. Fuente: respire.co (Shopify; la "LISTE INCI" solo aparece al renderizar con el
+  navegador, sin ninguna protección de por medio). La web **no publica códigos**: salen de OBF, y solo entra el código cuya etiqueta
+  coincide con la lista oficial de hoy: Déodorant stick Fleur de Coton certifié bio 50 g (3760368740730) y Gel Nettoyant Purifiant
+  (3760368742550). **Fuera por fórmula cambiada** (la etiqueta de OBF no es la lista actual de la web): sticks Douceur Monoï
+  (3760368740747), Menthe Eucalyptus (3760368740754), Rose Pivoine (3760368741577) y mini Fleur de Coton 20 g (3760368741621 y
+  3770018642406), que en la web ya son la gama nueva "efficace 48h" con otra lista (y, probablemente, otros códigos que nadie ha subido
+  a OBF); dentífrico Blancheur Naturelle (3760368741584: la web añade mentol, carvona, menta y anetol); Gel Crème (3760368740952: otra
+  fórmula). Los roll-on y las recargas actuales no tienen código en ninguna fuente. Regresión: 0 cambios. Sin cambios en el detector.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
