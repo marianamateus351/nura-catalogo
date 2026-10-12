@@ -39,6 +39,9 @@ FUERA = re.compile(r'hypochlorite|hipoclorito', re.I)
 CORROSIVO = re.compile(r'sodium hydroxide|potassium hydroxide|hydrochloric acid|sulfuric acid|sulphuric acid|'
                        r'phosphoric acid|nitric acid|sulfamic acid|oxalic acid|hidroxido|clorhidrico|sulfurico|fosforico|oxalico', re.I)
 TIPOS_FUERA = {'desatascador'}
+# Oxidantes de coloración (agua oxigenada, reveladores): no son una alternativa a nada y el tipo por nombre los
+# confundía con sérums o cremas ("Oxidante en crema 10 vol", Valquer, 2026-10-12).
+NOMBRE_FUERA = re.compile(r'oxidante|agua oxigenada|revelador|developer|peróxido|peroxido', re.I)
 def peligroso(b):
     inci = INCI.get(b, '')
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
@@ -56,6 +59,7 @@ for p in limpios:
     if any(peligroso(b) for b in p['barcodes']): continue
     if any(b in HASTA_BUILD for b in p['barcodes']): continue
     if any(b in PENDIENTE_DECISION for b in p['barcodes']): continue
+    if NOMBRE_FUERA.search(p['nombre']): continue
     if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] in TIPOS_FUERA: continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
