@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-valquer",
+ "version": "2026-10-12-decisiones-wx",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15331,15 +15331,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8426827425369"
-   ]
-  },
-  {
-   "marcaKey": "tahe",
-   "marca": "Tahe",
-   "nombre": "Serum capilar Nature",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8426827724820"
    ]
   },
   {
