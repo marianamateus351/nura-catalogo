@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12f",
+ "version": "2026-10-12g",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -405,6 +405,42 @@
        "barcode": "8809532221783",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CKVL9PGY"
+      },
+      {
+       "nombre": "Leche limpiadora Yam Root Vegan Milk Cleanser",
+       "marca": "Isntree",
+       "barcode": "8809800940125",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Green Tea Fresh Cleanser",
+       "marca": "Isntree",
+       "barcode": "8809738592236",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Hyaluronic Acid Low-pH Cleansing Foam",
+       "marca": "Isntree",
+       "barcode": "8809686389391",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Onion NewPair Cleansing Foam",
+       "marca": "Isntree",
+       "barcode": "8809783322659",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Limpiador facial Yam Root Vegan pH-Balancing Cleanser",
+       "marca": "Isntree",
+       "barcode": "8809800942402",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Polvo limpiador Mugwort Calming Powder Wash",
+       "marca": "Isntree",
+       "barcode": "8809800940217",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Agua Micelar 3-en-1",
@@ -857,6 +893,30 @@
        "fechaLista": "24-09-2026"
       },
       {
+       "nombre": "Crema GIM PDRN Hydro Firming Cream",
+       "marca": "Isntree",
+       "barcode": "8809800942471",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Hyaluronic Acid Aqua Gel Cream",
+       "marca": "Isntree",
+       "barcode": "8809686383566",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Crema Ultra-Low Molecular Hyaluronic Acid Zinc Aqua Cream",
+       "marca": "Isntree",
+       "barcode": "8809800941429",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Emulsión facial Green Tea Fresh Emulsion",
+       "marca": "Isntree",
+       "barcode": "8809541190254",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Hidratante facial Power Shake Cool Crystal Stick",
        "marca": "Kiko Milano",
        "barcode": "8059385033839",
@@ -1001,12 +1061,6 @@
        "nombre": "Crema Probio-Cica Enrich Cream",
        "marca": "SKIN1004",
        "barcode": "8809913830245",
-       "fechaLista": "12-10-2026"
-      },
-      {
-       "nombre": "Crema Tone Brightening Capsule Cream",
-       "marca": "SKIN1004",
-       "barcode": "8809576261615",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1358,6 +1412,60 @@
        "marca": "Haruharu Wonder",
        "barcode": "8809532221813",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Ampolla C-Niacin Toning Ampoule",
+       "marca": "Isntree",
+       "barcode": "8809187049350",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla GIM PDRN Hydro Bouncy Ampoule",
+       "marca": "Isntree",
+       "barcode": "8809800941917",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Onion Newpair Booster 2000s",
+       "marca": "Isntree",
+       "barcode": "8809800941634",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla Plum Peptide Booster 2000s",
+       "marca": "Isntree",
+       "barcode": "8809800941597",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Ampolla TW-Real Bifida Ampoule",
+       "marca": "Isntree",
+       "barcode": "8806135245765",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Green Tea Fresh Serum",
+       "marca": "Isntree",
+       "barcode": "8809738322154",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Hyper Niacinamide 20 Serum",
+       "marca": "Isntree",
+       "barcode": "8809800940774",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Hyper Vitamin C 23 Serum",
+       "marca": "Isntree",
+       "barcode": "8809800940781",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Sérum Ultra-Low Molecular Hyaluronic Acid Serum",
+       "marca": "Isntree",
+       "barcode": "8809800940644",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Cica-Sérum al Cupuaçu BIO",
@@ -1827,6 +1935,12 @@
        "barcode": "8429420280878",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CWB3L66Q"
+      },
+      {
+       "nombre": "Protector solar Onion Newpair Purple Tone Up Sun Cream",
+       "marca": "Isntree",
+       "barcode": "8809800942006",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Protector solar Sun Protection Invisible Stick Spf",
@@ -4289,6 +4403,48 @@
        "fechaLista": "24-09-2026"
       },
       {
+       "nombre": "Discos Onion Newpair Clear Pad",
+       "marca": "Isntree",
+       "barcode": "8809800940460",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Green Tea Fresh Toner",
+       "marca": "Isntree",
+       "barcode": "8809541190421",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Hyaluronic Acid Toner",
+       "marca": "Isntree",
+       "barcode": "8809540517540",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Hyaluronic Acid Toner Plus",
+       "marca": "Isntree",
+       "barcode": "8809540517557",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Onion Newpair Essence Toner",
+       "marca": "Isntree",
+       "barcode": "8809783322642",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Ultra-Low Molecular Hyaluronic Acid Toner",
+       "marca": "Isntree",
+       "barcode": "8809800940637",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico Yam Root Vegan Barrier Milk Toner",
+       "marca": "Isntree",
+       "barcode": "8809800942419",
+       "fechaLista": "12-10-2026"
+      },
+      {
        "nombre": "Bruma facial Hyalu-Cica Cloudy Mist",
        "marca": "SKIN1004",
        "barcode": "8809913830191",
@@ -4498,6 +4654,36 @@
        "marca": "COSRX",
        "barcode": "8800311120679",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Mascarilla de noche GIM PDRN Deep Sleep Mask",
+       "marca": "Isntree",
+       "barcode": "8809800941924",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Mugwort Calming Clay Mask",
+       "marca": "Isntree",
+       "barcode": "8809800940200",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Onion Newpair Soothing Mask",
+       "marca": "Isntree",
+       "barcode": "8809800941542",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Plum Peptide Plumping Gel Mask",
+       "marca": "Isntree",
+       "barcode": "8809800941887",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla Ultra-Low Molecular Hyaluronic Acid Mask",
+       "marca": "Isntree",
+       "barcode": "8809800940675",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Mascarilla facial Purifying Face Mask",
@@ -4942,6 +5128,18 @@
        "marca": "Garnier",
        "barcode": "3600542154666",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Parches Onion Newpair Spot Patch Basic",
+       "marca": "Isntree",
+       "barcode": "8809800940736",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Parches Onion Newpair Spot Patch Skin Fit",
+       "marca": "Isntree",
+       "barcode": "8809800940729",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Effaclar Duo+M Parches Anti-granos",

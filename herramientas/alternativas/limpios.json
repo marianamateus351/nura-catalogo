@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-skin1004",
+ "version": "2026-10-12-isntree",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14607,15 +14607,6 @@
   {
    "marcaKey": "skin1004",
    "marca": "SKIN1004",
-   "nombre": "Crema Tone Brightening Capsule Cream",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809576261615"
-   ]
-  },
-  {
-   "marcaKey": "skin1004",
-   "marca": "SKIN1004",
    "nombre": "Protector solar Tone Brightening Tone-Up Sunscreen",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -14756,6 +14747,323 @@
    "barcodes": [
     "8809576261226",
     "8809576261110"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Limpiador facial Yam Root Vegan pH-Balancing Cleanser",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800942402"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Yam Root Vegan Barrier Milk Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800942419"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Protector solar Onion Newpair Purple Tone Up Sun Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800942006"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Crema GIM PDRN Hydro Firming Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800942471"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Ampolla GIM PDRN Hydro Bouncy Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941917"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Mascarilla de noche GIM PDRN Deep Sleep Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941924"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Mascarilla Plum Peptide Plumping Gel Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941887"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Mascarilla Onion Newpair Soothing Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941542"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Ampolla Plum Peptide Booster 2000s",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941597"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Crema Ultra-Low Molecular Hyaluronic Acid Zinc Aqua Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941429"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Ampolla Onion Newpair Booster 2000s",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800941634"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Sérum Hyper Vitamin C 23 Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940781"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Sérum Hyper Niacinamide 20 Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940774"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Parches Onion Newpair Spot Patch Skin Fit",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940729"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Parches Onion Newpair Spot Patch Basic",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940736"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Leche limpiadora Yam Root Vegan Milk Cleanser",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940125"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Limpiador facial Onion NewPair Cleansing Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809783322659"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Ultra-Low Molecular Hyaluronic Acid Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940637"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Mascarilla Ultra-Low Molecular Hyaluronic Acid Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940675"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Sérum Ultra-Low Molecular Hyaluronic Acid Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940644"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Onion Newpair Essence Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809783322642"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Ampolla TW-Real Bifida Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8806135245765"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Discos Onion Newpair Clear Pad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940460"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Polvo limpiador Mugwort Calming Powder Wash",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940217",
+    "8809800940163"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Mascarilla Mugwort Calming Clay Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809800940200"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Hyaluronic Acid Toner Plus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809540517557"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Hyaluronic Acid Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809540517540",
+    "8809540517533"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Limpiador facial Hyaluronic Acid Low-pH Cleansing Foam",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809686389391"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Crema Hyaluronic Acid Aqua Gel Cream",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809686383566"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Sérum Green Tea Fresh Serum",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809738322154"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Emulsión facial Green Tea Fresh Emulsion",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809541190254"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Tónico Green Tea Fresh Toner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809541190421"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Limpiador facial Green Tea Fresh Cleanser",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809738592236"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Ampolla C-Niacin Toning Ampoule",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809187049350"
+   ]
+  },
+  {
+   "marcaKey": "isntree",
+   "marca": "Isntree",
+   "nombre": "Gel calmante Aloe Soothing Gel Moisture Type",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8809236798093"
    ]
   }
  ]
