@@ -1,5 +1,5 @@
 {
- "version": "2026-10-13a",
+ "version": "2026-10-13b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -19,7 +19,8 @@
        "nombre": "Deo Papertube Coco Mania",
        "marca": "Ben & Anna",
        "barcode": "4260491222213",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09M3WQ9CX"
       },
       {
        "nombre": "Deo Papertube Green Fusion",
@@ -347,7 +348,8 @@
        "nombre": "Hydractive Solución Micelar 100 ml",
        "marca": "Endocare",
        "barcode": "8436574360868",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07ZJT3ZNJ"
       },
       {
        "nombre": "Anti-Pigment Gel Limpiador",
@@ -420,7 +422,8 @@
        "nombre": "Leche limpiadora Yam Root Vegan Milk Cleanser",
        "marca": "Isntree",
        "barcode": "8809800940125",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09Y5GSG45"
       },
       {
        "nombre": "Limpiador facial Green Tea Fresh Cleanser",
@@ -558,13 +561,15 @@
        "nombre": "Limpiador facial 1025 Dokdo Cleanser",
        "marca": "Round Lab",
        "barcode": "8809738608364",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08FMCMGN6"
       },
       {
        "nombre": "Aceite limpiador Centella Light Cleansing Oil",
        "marca": "SKIN1004",
        "barcode": "8809576261226",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CZTT9JXV"
       },
       {
        "nombre": "Espuma limpiadora Centella Ampoule Foam",
@@ -936,7 +941,8 @@
        "nombre": "Crema Hyaluronic Acid Aqua Gel Cream",
        "marca": "Isntree",
        "barcode": "8809686383566",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08BP5X1YZ"
       },
       {
        "nombre": "Crema Ultra-Low Molecular Hyaluronic Acid Zinc Aqua Cream",
@@ -1060,13 +1066,15 @@
        "nombre": "Crema 1025 Dokdo Cream",
        "marca": "Round Lab",
        "barcode": "8809738600245",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08FM81QBZ"
       },
       {
        "nombre": "Crema Soybean Nourishing Cream",
        "marca": "Round Lab",
        "barcode": "8809624726417",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09CM8D3DY"
       },
       {
        "nombre": "Emulsión facial 1025 Dokdo Lotion",
@@ -1531,7 +1539,8 @@
        "nombre": "Sérum Hyper Niacinamide 20 Serum",
        "marca": "Isntree",
        "barcode": "8809800940774",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0C3QNCWQK"
       },
       {
        "nombre": "Sérum Hyper Vitamin C 23 Serum",
@@ -1615,7 +1624,8 @@
        "nombre": "Ampolla Centella Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576260663",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B06Y15D1LH"
       },
       {
        "nombre": "Ampolla Centella Teca Ampoule",
@@ -1645,13 +1655,15 @@
        "nombre": "Ampolla Niacinamide 10 Boosting Shot Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913832492",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FDXXJT66"
       },
       {
        "nombre": "Ampolla Poremizing Fresh Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576261875",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B1JRGGLF"
       },
       {
        "nombre": "Ampolla Probio-Cica Intensive Ampoule",
@@ -1790,7 +1802,8 @@
        "nombre": "Sérum aceite rosa mosqueta 100% puro",
        "marca": "Valquer",
        "barcode": "8420212103610",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00YSDSPPW"
       },
       {
        "nombre": "Liftactiv Collagen Specialist 16 Sérum",
@@ -4180,19 +4193,22 @@
        "nombre": "Dexyane MeD Palpebral (ref. 394115)",
        "marca": "Ducray",
        "barcode": "3282770394115",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07XQNL4XZ"
       },
       {
        "nombre": "Melascreen Contorno de ojos antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389234",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C31S953N"
       },
       {
        "nombre": "Skin Therapy Eye Contorno de Ojos 15 ml",
        "marca": "Erborian",
        "barcode": "8809255788358",
-       "fechaLista": "16-09-2026"
+       "fechaLista": "16-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F3BBYT3L"
       },
       {
        "nombre": "Hyper-Concentrate (contorno de ojos para ojeras y arrugas) 15 ml",
@@ -4251,7 +4267,8 @@
        "nombre": "Toleriane Dermallergo Contorno de Ojos",
        "marca": "La Roche-Posay",
        "barcode": "3337875757515",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09DPFXM6C"
       },
       {
        "nombre": "Hydro Boost Contorno de Ojos Anti-Fatiga",
@@ -4300,7 +4317,8 @@
        "nombre": "Contorno de ojos antiedad Supremÿa La Nuit Yeux",
        "marca": "Sisley",
        "barcode": "3473311540805",
-       "fechaLista": "05-10-2026"
+       "fechaLista": "05-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00EEK4XN2"
       },
       {
        "nombre": "Contorno de ojos Probio-Cica Bakuchiol Eye Cream",
@@ -4325,13 +4343,15 @@
        "nombre": "Dépiderm Contorno de ojos corrector",
        "marca": "Uriage",
        "barcode": "3661434009792",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B008OF567K"
       },
       {
        "nombre": "Toléderm Control Contorno de ojos",
        "marca": "Uriage",
        "barcode": "3661434008481",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08TRKBH7J"
       },
       {
        "nombre": "Xémose C8+ Cuidado para párpados calmante y nutritivo",
@@ -4355,7 +4375,8 @@
        "nombre": "Minéral 89 Gel Ojos",
        "marca": "Vichy",
        "barcode": "3337875596763",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07Q4PY2DQ"
       }
      ]
     },
@@ -4379,19 +4400,22 @@
        "nombre": "Discos Azelaic 10 Hyaluron Redness Soothing Pad",
        "marca": "Anua",
        "barcode": "8809640738227",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DWX7M5YX"
       },
       {
        "nombre": "Discos Heartleaf 77 Toner Pad",
        "marca": "Anua",
        "barcode": "8809640730559",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08JLMRTZS"
       },
       {
        "nombre": "Discos Niacinamide 5 TXA Brightening Pad",
        "marca": "Anua",
        "barcode": "8809640738128",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DWXCGGHT"
       },
       {
        "nombre": "Discos PDRN 100 Hyaluronic Acid Glow Pad",
@@ -4403,7 +4427,8 @@
        "nombre": "Tónico Heartleaf 77 Soothing Toner",
        "marca": "Anua",
        "barcode": "8809640731433",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08CMS8P67"
       },
       {
        "nombre": "Tónico PDRN 100 Hyaluronic Acid Booster Toner",
@@ -4416,25 +4441,29 @@
        "nombre": "Tónico Rice 70 Glow Milky Toner",
        "marca": "Anua",
        "barcode": "8809640735455",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D54F8XYK"
       },
       {
        "nombre": "Agua termal de Avène Spray",
        "marca": "Avène",
        "barcode": "3282779003131",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07B7DT52Z"
       },
       {
        "nombre": "Esencia Ginseng Essence Water",
        "marca": "Beauty of Joseon",
        "barcode": "8809738310960",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08RLZ28QK"
       },
       {
        "nombre": "Agua de uva",
        "marca": "Caudalie",
        "barcode": "3522930003205",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0979FV64F"
       },
       {
        "nombre": "Esencia con Ácido Glicólico Luminosidad",
@@ -4509,7 +4538,8 @@
        "nombre": "Tónico Full Fit Propolis Synergy Toner",
        "marca": "COSRX",
        "barcode": "8809598450899",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B089SCWPJR"
       },
       {
        "nombre": "Tónico Refresh ABC Daily Toner (AHA BHA Vitamin C)",
@@ -4599,19 +4629,22 @@
        "nombre": "Tónico 1025 Dokdo Toner",
        "marca": "Round Lab",
        "barcode": "8809657115387",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08FM5BTF6"
       },
       {
        "nombre": "Tónico Birch Moisturizing Toner",
        "marca": "Round Lab",
        "barcode": "8809738600214",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B093WJRD1C"
       },
       {
        "nombre": "Tónico Soybean Nourishing Toner",
        "marca": "Round Lab",
        "barcode": "8809624726370",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B085KTBJTY"
       },
       {
        "nombre": "Bruma facial Hyalu-Cica Cloudy Mist",
@@ -4710,7 +4743,8 @@
        "nombre": "Gel exfoliante Apricot Blossom Peeling Gel",
        "marca": "Beauty of Joseon",
        "barcode": "8809738312872",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09KH1NN7B"
       },
       {
        "nombre": "Exfoliante Crushed Cabernet con Miel",
@@ -4742,13 +4776,15 @@
        "nombre": "Tónico exfoliante AHA 7 Whitehead Power Liquid",
        "marca": "COSRX",
        "barcode": "8809416470047",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00OZ9WOD8"
       },
       {
        "nombre": "Tónico exfoliante Two in One Poreless Power Liquid",
        "marca": "COSRX",
        "barcode": "8809416471655",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07BNCMR54"
       },
       {
        "nombre": "Sérum exfoliante Centella 3% PHA Gentle Liquid Exfoliating Serum",
@@ -4767,7 +4803,8 @@
        "nombre": "XERIAL Peel",
        "marca": "SVR",
        "barcode": "3401360238091",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B071CGTP7B"
       },
       {
        "nombre": "Tónico exfoliante PHA",
@@ -4780,7 +4817,8 @@
        "nombre": "Exfoliante facial Aqua-gel",
        "marca": "Valquer",
        "barcode": "8420212121713",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BHJKRP11"
       }
      ]
     },
@@ -4810,13 +4848,15 @@
        "nombre": "Mascarilla de poros Red Bean Refreshing Pore Mask",
        "marca": "Beauty of Joseon",
        "barcode": "8809738316986",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BJPKX14D"
       },
       {
        "nombre": "Mascarilla facial Ground Rice and Honey Glow Mask",
        "marca": "Beauty of Joseon",
        "barcode": "8809968130246",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D4517144"
       },
       {
        "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
@@ -4840,13 +4880,15 @@
        "nombre": "Mascarilla de noche Full Fit Propolis Honey Overnight Mask",
        "marca": "COSRX",
        "barcode": "8809598452336",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08N3ZGYS8"
       },
       {
        "nombre": "Mascarilla de noche Ultimate Nourishing Rice Overnight Spa Mask",
        "marca": "COSRX",
        "barcode": "8809416470726",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01N13W31F"
       },
       {
        "nombre": "Mascarilla en lámina Full Fit Propolis Nourishing Magnet Sheet Mask",
@@ -4871,7 +4913,8 @@
        "nombre": "Mascarilla Mugwort Calming Clay Mask",
        "marca": "Isntree",
        "barcode": "8809800940200",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07KQYWBP7"
       },
       {
        "nombre": "Mascarilla Onion Newpair Soothing Mask",
@@ -4913,7 +4956,8 @@
        "nombre": "Mascarilla Birch Moisturizing Sheet Mask (10 unidades)",
        "marca": "Round Lab",
        "barcode": "8809624723157",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08WLPCW4S"
       },
       {
        "nombre": "Mascarilla de noche 1025 Dokdo Sleeping Pack",
@@ -5045,19 +5089,22 @@
        "nombre": "Control Bálsamo calmante reparador de Cosmética estéril®",
        "marca": "Avène",
        "barcode": "3282770138856",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08XYVMRP7"
       },
       {
        "nombre": "Hidratante reparadora posquirúrgica y postatuaje",
        "marca": "Avène",
        "barcode": "3282770148763",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07XG1PLJF"
       },
       {
        "nombre": "Nutrition Bálsamo Hidratante",
        "marca": "Avène",
        "barcode": "3282770155099",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C31QG66C"
       },
       {
        "nombre": "Spray secante reparador",
@@ -5069,19 +5116,22 @@
        "nombre": "XeraCalm A.D Bálsamo Relipidizante",
        "marca": "Avène",
        "barcode": "3282779405485",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00EYOHIO4"
       },
       {
        "nombre": "XERACALM AD - Bálsamo relipidizante",
        "marca": "Avène",
        "barcode": "3282770399523",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GSCYZKHK"
       },
       {
        "nombre": "XERACALM AD - Crema relipidizante",
        "marca": "Avène",
        "barcode": "3282770399561",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00EYOHJZ2"
       },
       {
        "nombre": "Atoderm Intensive Baume",
@@ -5120,13 +5170,15 @@
        "nombre": "Bálsamo emoliente antirrascado",
        "marca": "Ducray",
        "barcode": "3282770203929",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07XDRT1T3"
       },
       {
        "nombre": "Crema emoliente antirrascado",
        "marca": "Ducray",
        "barcode": "3282770203950",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "24-09-2026",
+       "amazon": "https://www.amazon.es/dp/B081RBXW4X"
       },
       {
        "nombre": "Dexyane Crema barrera aislante",
@@ -5144,13 +5196,15 @@
        "nombre": "Aquaphor Pomada en Spray Corporal",
        "marca": "Eucerin",
        "barcode": "4005800275838",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08HM7CYJF"
       },
       {
        "nombre": "Aquaphor Pomada Reparadora",
        "marca": "Eucerin",
        "barcode": "4005800019876",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0095KJA98"
       },
       {
        "nombre": "Crema protectora de pañal Johnson's baby 100 ml",
@@ -5175,31 +5229,36 @@
        "nombre": "Cicaplast Baume B5+",
        "marca": "La Roche-Posay",
        "barcode": "3337872418730",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00ST2GSRK"
       },
       {
        "nombre": "Cicaplast Gel B5",
        "marca": "La Roche-Posay",
        "barcode": "3337875586269",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B077YNHBSL"
       },
       {
        "nombre": "Lipikar Baume AP+ Max",
        "marca": "La Roche-Posay",
        "barcode": "3337875930116",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0G6BHRNMX"
       },
       {
        "nombre": "Lipikar Baume Light AP+M",
        "marca": "La Roche-Posay",
        "barcode": "3337875696548",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0FSRVPY96"
       },
       {
        "nombre": "Bálsamo reparador multiusos Cica Plus para piel seca y fragilizada",
        "marca": "Mixa",
        "barcode": "3600551183404",
-       "fechaLista": "04-10-2026"
+       "fechaLista": "04-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0GJTCYPJH"
       },
       {
        "nombre": "Bálsamo lactancia - Certificado BIO 30ml",
@@ -5259,13 +5318,15 @@
        "nombre": "CICAVIT+ SOS Grattage",
        "marca": "SVR",
        "barcode": "3662361000388",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07D5GBXCM"
       },
       {
        "nombre": "SENSIFINE Nutri-Baume",
        "marca": "SVR",
        "barcode": "3662361001248",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B086R92L5H"
       },
       {
        "nombre": "TOPIALYSE Baume Protect+",
@@ -5304,19 +5365,22 @@
        "nombre": "Bebé 1ª Cold cream",
        "marca": "Uriage",
        "barcode": "3661434008603",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09MKR9QNS"
       },
       {
        "nombre": "Xémose C8+ Bálsamo relipidizante anti-picor",
        "marca": "Uriage",
        "barcode": "3661434006968",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07JDLL4LP"
       },
       {
        "nombre": "Xémose C8+ Cerato relipidizante anti-picor",
        "marca": "Uriage",
        "barcode": "3661434004834",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01AZR8T28"
       },
       {
        "nombre": "Xémose C8+ Crema relipidizante anti-irritaciones",
@@ -5328,7 +5392,8 @@
        "nombre": "Vaselina Original (Protecting Jelly)",
        "marca": "Vaseline",
        "barcode": "42182627",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B003BR5OG4"
       }
      ]
     },
@@ -5346,13 +5411,15 @@
        "nombre": "Parches para granos Clear Fit Master Patch",
        "marca": "COSRX",
        "barcode": "8809416471396",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08TMQ9H2G"
       },
       {
        "nombre": "Centella SOS Patch 9 ml",
        "marca": "Erborian",
        "barcode": "8809255787481",
-       "fechaLista": "16-09-2026"
+       "fechaLista": "16-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CKYZZMC7"
       },
       {
        "nombre": "SkinActive Pimple Patch Invisible 8h Parche para Granitos",
@@ -5389,7 +5456,8 @@
        "nombre": "Effaclar Duo+M Parches Anti-granos",
        "marca": "La Roche-Posay",
        "barcode": "3337875924887",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DLWYZ98W"
       },
       {
        "nombre": "Corrector de imperfecciones",
@@ -5407,7 +5475,8 @@
        "nombre": "Hyséac SOS Gel secante",
        "marca": "Uriage",
        "barcode": "3661434010026",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DG2ZSYFP"
       }
      ]
     },
@@ -5444,7 +5513,8 @@
        "nombre": "CICAVIT+ Creme mains",
        "marca": "SVR",
        "barcode": "3662361001682",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09FKQ7CN1"
       }
      ]
     },
@@ -5538,7 +5608,8 @@
        "nombre": "Polvo texturizante Powder Grip 03",
        "marca": "Redken",
        "barcode": "3474637124274",
-       "fechaLista": "08-10-2026"
+       "fechaLista": "08-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B8P1T517"
       },
       {
        "nombre": "Tratamiento reestructurante de la fibra capilar Protein Treatment Magic Rizos",
@@ -5551,7 +5622,8 @@
        "nombre": "Sérum Método Curly (especial rizos)",
        "marca": "Valquer",
        "barcode": "8420212334540",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "12-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09Q6DBCNT"
       }
      ]
     },
@@ -9728,7 +9800,8 @@
        "nombre": "Suavizante concentrado Vernel Delicado",
        "marca": "Vernel",
        "barcode": "8410436498555",
-       "fechaLista": "04-10-2026"
+       "fechaLista": "04-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00X9UPM1U"
       }
      ]
     },
@@ -9740,7 +9813,8 @@
        "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
        "marca": "La Droguería 1919",
        "barcode": "8410498240079",
-       "fechaLista": "04-10-2026"
+       "fechaLista": "04-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DG2Z4HXG"
       }
      ]
     },

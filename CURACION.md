@@ -1432,6 +1432,17 @@ peróxido). Alternativas: 1.557.
   empezando por Sephora Collection, natural y orgánico, farmacia, íntima y menstrual, dental, marcas blancas de Carrefour y
   Eroski) → reintentar las webs que no respondían (Corpore Sano, Lidl para W5).
 - **Firestore rules**: lo publica Mariana desde el iPad.
+
+**Enlaces de Amazon, segunda tanda (2026-10-13, Alternativas 2026-10-13b): de 301 a 375 productos con enlace.**
+- Los 190 de piel, pelo y hogar que quedaban, en 4 agentes con cupo repartido (48 búsquedas cada uno): **74 ok**, **34
+  dudosos** y **82 sin ficha**. Ya no queda ninguno de piel, pelo y hogar sin buscar.
+- Pasados a dudoso en la revisión: las marcas blancas de supermercado (Deliplus, Dia Imaqe, Eroski, Facial Clean, Feel
+  Free, Cosmia, Natulim: en Amazon las vende un revendedor, no la marca, y no cumple el punto 5), SVR Palpebral Baume (la
+  ficha dice "Palpecal") y el Bálsamo Universal BIO de Mustela (la ficha no dice BIO).
+- **Pregunta para Mariana**: las mascarillas Anua de colágeno (Heartleaf, Peach, Rice) solo están en caja de 4, y la
+  COSRX Glass Glow Hydrogel en caja de 3; la marca no parece venderlas sueltas. Hoy están como dudosas (sin botón) porque
+  las cajas de varias unidades no se enlazan.
+- Quedan **910 de maquillaje** en `amazon_pendientes.json`.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
