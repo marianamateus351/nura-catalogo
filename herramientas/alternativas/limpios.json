@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12-decisiones-wx",
+ "version": "2026-10-13-nuudcrema",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14198,6 +14198,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8721008476322"
+   ]
+  },
+  {
+   "marcaKey": "nuud",
+   "marca": "Nuud",
+   "nombre": "Crema desodorante nuud Starter Pack 15 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8721249990007"
    ]
   },
   {

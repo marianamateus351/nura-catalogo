@@ -1,5 +1,5 @@
 {
- "version": "2026-10-12r",
+ "version": "2026-10-13a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -90,6 +90,12 @@
        "imagen": "https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/4260664930099.jpg",
        "fechaLista": "14-09-2026",
        "amazon": "https://www.amazon.es/dp/B08B3BWZYC"
+      },
+      {
+       "nombre": "Crema desodorante nuud Starter Pack 15 ml",
+       "marca": "Nuud",
+       "barcode": "8721249990007",
+       "fechaLista": "13-10-2026"
       },
       {
        "nombre": "Desodorante stick Lime x Bergamot",
