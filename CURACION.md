@@ -4629,6 +4629,16 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
+## ÍNDICE DE NOMBRES (indice.json) — contrato con la app (2026-10-13)
+La búsqueda manual de la app ("Buscar o añadir") descargaba la colección entera de aportaciones
+(11.500 fichas) en la primera búsqueda de cada sesión: por eso iba lenta. Ahora busca en
+`indice.json`, un archivo pequeño (~800 KB) con solo nombre, marca, código y foto de cada producto
+del catálogo. **Se regenera con cada versión de `catalogo.json`**, con
+`node herramientas/indice.mjs` desde la raíz, y se sube junto a él. Estructura:
+`{ "version": "<la de catalogo.json>", "items": [ { "n": nombre, "m": marca, "c": código, "i": foto? } ] }`.
+Las aportaciones aprobadas a mano que no están en el catálogo no salen en este índice; la app las
+busca aparte por nombre exacto en Firestore.
+
 ### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
 (10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
 essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
