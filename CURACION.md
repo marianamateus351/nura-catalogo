@@ -637,6 +637,44 @@ el cómo de cada emparejamiento) → `sanex_merged.json`.
 Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredientes de Sanex**
 (se miraron 42 fichas de gel de ducha, solo dan fabricante y dirección). No volver por ahí.
 
+**Hueco 2026-10-13 · gama íntima (versión 2026-10-13-sanexintima): +1 producto, +1 código.** Una usuaria aportó el
+*Intimate Care Sensitive* `8718951617568` y Mariana lo aprobó a mano. Sanex no tenía nada de higiene íntima.
+- **sanex.es no tiene gama íntima**: su sitemap (149 URL) solo trae gel de ducha, desodorante, antitranspirante y jabón
+  de manos, y la página de productos tampoco enlaza nada más. Ese día sanex.es respondía a un `curl` normal, sin Akamai.
+  Se miraron también los sitemaps de sanex.co.uk, .fr, .nl, .dk y sanex.ch. .pt y .pl redirigen a colgatepalmolive; .it
+  y .se cortaron la conexión. **Solo sanex.dk tiene gama íntima, y es un único producto**: *Dermo Intimate Hygiene
+  Sensitive* (`/products/intimate/sensitive`), sin EAN.
+- **Lista del código `8718951617568`**: Druni (ficha con `gtin13` = ese código, 250 ml) y Que Choisir ("Intimate care
+  sensitive – Intimate wash", actualizada el 06-02-2025) dan **la misma lista de 12 ingredientes en el mismo orden**:
+  Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Sodium Lactate, Lactic Acid, Parfum, Poloxamer 124,
+  Sodium Benzoate, Sodium Pyruvate, Caprylyl Glycol, Camellia Sinensis Leaf Extract, Chamomilla Recutita Flower Extract.
+  Son dos fuentes independientes e idénticas, y la etiqueta la aprobó Mariana: entra. El texto de la aportación está en
+  Firestore y no se ha podido leer desde aquí. Si difiere de esta lista, hay que revisarlo.
+- **Diferencias con la lista oficial (sanex.dk)**: es otra fórmula, la de base sulfatada.
+  - Comunes (7): Aqua, Cocamidopropyl Betaine, Lactic Acid, Parfum, Sodium Benzoate y los extractos de té verde y
+    manzanilla.
+  - Solo en la danesa (11): Sodium Laureth Sulfate, Sodium Chloride, Glycol Distearate, Cocamide MEA, Sodium
+    Salicylate, Citric Acid, Coco-Glucoside, Tetrasodium EDTA, Polyquaternium-7, Glyceryl Oleate y Glyceryl Stearate.
+  - Solo en la española (5): Sodium C14-16 Olefin Sulfonate, Sodium Lactate, Poloxamer 124, Sodium Pyruvate y
+    Caprylyl Glycol.
+  - Además, la web danesa repite "Sodium Benzoate" dos veces (errata).
+  - La danesa se parece a la francesa antigua de Que Choisir ("Dermo Active 3", 2018: SLES, Styrene/Acrylates
+    Copolymer, Polyquaternium-10, Laureth-4), pero tampoco es igual.
+  - Para el detector, la única diferencia es que la danesa también daría "Tensioactivos etoxilados" (por el SLES).
+  - **La ficha danesa no entra**: no tiene código (no aparece en tiendas danesas ni en OBF) y no es la fórmula
+    española.
+- **Revisión de falsos positivos y negativos**:
+  - Sale solo "Fragancia no divulgada (parfum)", y es correcto.
+  - Categoría: Cuidado personal.
+  - Sin falsos negativos:
+    - El Poloxamer 124 es un copolímero etoxilado, pero en cosmética los PEG y poloxámeros no se marcan (la entrada
+      de PEG es solo de Hogar; en cuidado personal solo laureth y etoxisulfatos). Es el mismo criterio que en el resto
+      del catálogo.
+    - El Sodium Benzoate y el Caprylyl Glycol no se marcan en ningún producto.
+    - El olefin sulfonato no es etoxilado.
+  - Regresión sobre 10.088 fichas: 0 cambios, más 1 ficha nueva.
+  - No entra en Alternativas, porque lleva perfume.
+
 ### NYX Professional Makeup (nyxcosmetics.es) — cerrada 2026-09-10: 542 productos, 999 códigos (de 219 fichas vivas)
 **No es la plataforma de L'Oréal Paris/Maybelline**: nyxcosmetics.es va sobre Salesforce Commerce
 Cloud (URLs `…/NYX_007.html`, `dwsid`, `demandware.store`) y detrás de un **desafío interactivo
