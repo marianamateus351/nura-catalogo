@@ -1,5 +1,5 @@
 {
- "version": "2026-10-13-sanexintima",
+ "version": "2026-10-13-sanex2",
  "marcas": [
   {
    "key": "larocheposay",
@@ -18336,7 +18336,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8714789968599"
+      "8714789968599",
+      "8718951731448"
      ],
      "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Aluminum Sesquichlorohydrate, Lactose, Whey Protein"
     },
@@ -18354,7 +18355,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8718951463530"
+      "8718951463530",
+      "8718951728585"
      ],
      "inci": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Calcium Silicate, Aluminum Sesquichlorohydrate"
     },
@@ -18372,7 +18374,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8718951599758"
+      "8718951599758",
+      "8718951254183"
      ],
      "inci": "Propylene Glycol, Aqua, Sodium Stearate, Parfum, Sodium Chloride, Stearyl Alcohol, Tetrasodium EDTA"
     },
@@ -18408,7 +18411,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8718951463868"
+      "8718951463868",
+      "8718951732674"
      ],
      "inci": "Aqua, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Potassium Alum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate"
     },
@@ -18727,6 +18731,87 @@
       "8718951617568"
      ],
      "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Sodium Lactate, Lactic Acid, Parfum, Poloxamer 124, Sodium Benzoate, Sodium Pyruvate, Caprylyl Glycol, Camellia Sinensis Leaf Extract, Chamomilla Recutita Flower Extract"
+    },
+    {
+     "nombre": "Gel de ducha para niños Cuidado Experto (cuerpo y pelo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951595514"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Parfum, Sodium Benzoate, Inulin, Lactic Acid, Hydroxyacetophenone, Polyquaternium-7, Sodium Pyruvate, Glycol Distearate, Sodium PCA, Sodium Gluconate, Poloxamer 124, Butyloctanol, Coco-Glucoside, Zinc Sulfate, Glyceryl Oleate, Glyceryl Stearate"
+    },
+    {
+     "nombre": "Gel de baño Cuidado Experto + Micellar Equilibrante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951586864"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Sodium Benzoate, Inulin, Parfum, Lactic Acid, Hydroxyacetophenone, Sodium Pyruvate, Sodium PCA, Glyceryl Oleate, Sodium Gluconate, Poloxamer 124, Butyloctanol, Sodium Metabisulfite, Triticum Vulgare Germ Oil, Zinc Sulfate, CI 18965, CI 42090, CI 45100"
+    },
+    {
+     "nombre": "Desodorante corporal en crema Sensitive 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951793026"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Triethyl Citrate, Stearyl Alcohol, Cocoglycerides, Isopropyl Palmitate, Coco-Caprylate, Ceteareth-20, Diethylhexyl Carbonate, Parfum, Sodium Benzoate, Butyloctanol, Lactic Acid, Dipalmitoylethyl Dimonium Chloride, Caprylyl Glycol, Glyceryl Oleate, Hydrolyzed Jojoba Esters, Mandelic Acid, Inulin"
+    },
+    {
+     "nombre": "Desodorante corporal en spray Sensitive 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951791718"
+     ],
+     "inci": "Isobutane, Butane, Propane, Dimethicone, Isododecane, Isopropyl Palmitate, PPG-14 Butyl Ether, Parfum, Linum Usitatissimum Seed Oil, Aloe Barbadensis Leaf Juice, Ethylhexylglycerin, Disteardimonium Hectorite, Dimethiconol, Lactose, Propylene Carbonate, Whey Protein"
+    },
+    {
+     "nombre": "Desodorante corporal en crema Fresh Defence 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951792784"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Triethyl Citrate, Stearyl Alcohol, Cocoglycerides, Isopropyl Palmitate, Coco-Caprylate, Parfum, Ceteareth-20, Diethylhexyl Carbonate, Sodium Benzoate, Butyloctanol, Lactic Acid, Dipalmitoylethyl Dimonium Chloride, Caprylyl Glycol, Glyceryl Oleate, Hydrolyzed Jojoba Esters, Mandelic Acid, Inulin"
+    },
+    {
+     "nombre": "Desodorante corporal en spray Fresh Defence 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951791831"
+     ],
+     "inci": "Isobutane, Butane, Propane, Dimethicone, Isododecane, Isopropyl Palmitate, PPG-14 Butyl Ether, Parfum, Linum Usitatissimum Seed Oil, Aloe Barbadensis Leaf Juice, Ethylhexylglycerin, Disteardimonium Hectorite, Dimethiconol, Propylene Carbonate"
+    },
+    {
+     "nombre": "Desodorante corporal en crema Total Freshness 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951792999"
+     ],
+     "inci": "Aqua, Glycerin, Cetearyl Alcohol, Cetyl Alcohol, Triethyl Citrate, Stearyl Alcohol, Cocoglycerides, Isopropyl Palmitate, Coco-Caprylate, Ceteareth-20, Parfum, Diethylhexyl Carbonate, Sodium Benzoate, Butyloctanol, Lactic Acid, Dipalmitoylethyl Dimonium Chloride, Caprylyl Glycol, Glyceryl Oleate, Hydrolyzed Jojoba Esters, Mandelic Acid, Inulin"
+    },
+    {
+     "nombre": "Desodorante corporal en spray Total Freshness 72h",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951791749"
+     ],
+     "inci": "Isobutane, Butane, Propane, Dimethicone, Isododecane, Isopropyl Palmitate, PPG-14 Butyl Ether, Parfum, Linum Usitatissimum Seed Oil, Aloe Barbadensis Leaf Juice, Ethylhexylglycerin, Disteardimonium Hectorite, Dimethiconol, Propylene Carbonate"
+    },
+    {
+     "nombre": "Desodorante roll-on Mineral Protect piedra de alumbre para piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951732704"
+     ],
+     "inci": "Aqua, PPG-15 Stearyl Ether, Steareth-2, Glycerin, Steareth-21, Parfum, Potassium Alum, Lactic Acid, Sodium Lactate, Caprylyl Glycol, Sodium Benzoate, Calcium Silicate"
     }
    ]
   },

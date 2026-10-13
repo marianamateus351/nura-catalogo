@@ -675,6 +675,75 @@ Dato ya comprobado y que ahorra tiempo: **la tienda de Eroski NO trae ingredient
   - Regresión sobre 10.088 fichas: 0 cambios, más 1 ficha nueva.
   - No entra en Alternativas, porque lleva perfume.
 
+**Reapertura 2026-10-13 con códigos de tiendas (versión 2026-10-13-sanex2): +9 productos, +13 códigos.** Mariana preguntó si
+había más Sanex que meter. Se reabre con su regla nueva: los códigos pueden venir de tiendas online, unidos por nombre a la
+lista oficial.
+- **Fuentes**
+  - sanex.es: 52 fichas vivas, todas con tabla de ingredientes.
+  - Akamai bloquea un User-Agent de navegador, pero deja pasar un `curl` normal (sin disfrazar nada), en serie con 1,5 s
+    de pausa.
+  - Códigos de Druni (53 fichas de Sanex, `gtin13` + lista) y de Primor (42 enlaces; algunas fichas traen varios
+    códigos sin decir de qué formato es cada uno).
+  - Scripts: `sxtools/parse_web.py`, `cruza.py`, `compara.py`, `addcodes.py`.
+- **Criterio** (el de la marca y el de Rexona): entra un código si su nombre y formato coinciden con una ficha de
+  sanex.es y nada contradice la lista. La tienda debe dar la misma lista (o el mismo conjunto en otro orden), o no dar
+  ninguna y que la lista de la ficha no esté repetida en otra fragancia. **La web repite listas entre fragancias**
+  (12 parejas o grupos): una lista repetida solo vale si otra fuente la confirma para ese código.
+- **Entran como fichas nuevas (9)**:
+  - Con lista de Druni idéntica a la web:
+    - Gel de ducha para niños Cuidado Experto `8718951595514`.
+    - Crema Sensitive 72h `8718951793026`.
+    - Sprays Fresh Defence 72h `8718951791831` y Total Freshness 72h `8718951791749`. La web repite su lista, pero
+      Druni la confirma para los dos códigos.
+  - Crema Total Freshness 72h `8718951792999`: mismo conjunto en otro orden; se usa la de la web.
+  - Roll-on Mineral Protect piel sensible `8718951732704`: Primor da el mismo conjunto. La web repite su lista con la
+    del antimanchas, que ya estaba confirmada por etiqueta.
+  - Sin lista en la tienda y con lista única en la web: Micellar Equilibrante `8718951586864`, spray Sensitive 72h
+    `8718951791718` y crema Fresh Defence 72h `8718951792784`. La de la crema es el mismo conjunto que las otras dos
+    cremas, confirmadas por Druni.
+- **Códigos añadidos a fichas que ya estaban (4)**:
+  - `8718951731448`, roll-on Dermo+ Sensitive XXL: Druni da la misma lista que la ficha y que la etiqueta del
+    `8718951731332`.
+  - `8718951728585`, roll-on Men Invisible.
+  - `8718951254183`, stick Dermo Protector.
+  - `8718951732674`, roll-on antimanchas Mineral Protect.
+- **Fuera y por qué**
+  - **La tienda contradice la web**:
+    - Natural piel seca `8718951594609`: Druni añade Urea.
+    - Dermo+ Total Protection roll-on `8718951731639`: Druni da aceites y la web aloe, alantoína y sesquiclorhidrato.
+    - Men Fresh Protect roll-on `8718951729742`: la web copia la lista del Dermo+ Sensitive, con lactosa y suero de
+      leche, y Druni no la trae.
+    - Men Active Control stick `8714789828558`: web, Druni y Primor dan tres listas distintas.
+    - Natur Protect spray antimanchas `8718951465121`: Primor da la fórmula antigua con Cyclomethicone. Por eso también
+      queda fuera el de piel normal, `8718951465091`, sin lista.
+    - Zero% roll-on `8718951735224` y `8718951298231`: Primor da Ethylhexylglycerin y no Dimethicone.
+  - **Lista de la web repetida en otra fragancia y sin lista para el código**: Dermo+ Invisible spray `8718951465244`,
+    Men Active Control spray `8718951464940` y Men Invisible spray `8718951465213`. Ojo: la ficha que ya estaba de Men
+    Invisible spray (`8718951068469`, de septiembre, por nombre) tiene ese mismo riesgo.
+  - **Nombre dudoso**:
+    - Druni "Mineral Protect roll-on piedra de alumbre" `8718951315754`: la descripción es la del Natur Protect bambú.
+    - "Experto+ Sensitive" `8718951586802`: en la ficha de la web el título dice "piel seca" y la descripción, "piel
+      sensible".
+  - **Sin ficha oficial**:
+    - Active Freshness spray y roll-on (`8718951564398`, `8718951731608`).
+    - Barra `7509546689951` (México).
+    - Men Active Protect 3en1 `8718951592131`.
+    - Gel rejuvenecedor 12h `8718951721463`.
+  - **Códigos de Primor sin formato identificable** (talla o pack): `8718951728646`, `8718951731301`,
+    `8718951731417`, `8718951731837`, `8718951246799`.
+  - **Neutro SIN hidratante** `8718951591059`: solo lo da Primor, y las listas Neutro de la web no son fiables.
+  - **Gama íntima: Primor tiene otro código, "Intimate Care piel sensible" `8718951120839`**, pero su lista solo trae 4
+    ingredientes (Aloe Barbadensis Leaf Water, Sodium Benzoate, Potassium Sorbate, Citric Acid). Está incompleta y no
+    entra; hace falta una foto de la etiqueta.
+- **Revisión de falsos positivos y negativos**:
+  - Sale la fragancia en los 9.
+  - En el Micellar salen los sulfitos (Sodium Metabisulfite), y es correcto.
+  - En el Mineral Protect sale el aluminio (Potassium Alum), igual que en los otros Mineral Protect.
+  - El Ceteareth-20 de las cremas no se marca: en cuidado personal solo se marcan laureth y etoxisulfatos.
+  - Sin correcciones.
+  - Regresión sobre 10.089 fichas: 0 cambios de resultado, 9 fichas nuevas y 4 que solo ganan un código.
+  - Ninguna entra en Alternativas, porque todas llevan perfume.
+
 ### NYX Professional Makeup (nyxcosmetics.es) — cerrada 2026-09-10: 542 productos, 999 códigos (de 219 fichas vivas)
 **No es la plataforma de L'Oréal Paris/Maybelline**: nyxcosmetics.es va sobre Salesforce Commerce
 Cloud (URLs `…/NYX_007.html`, `dwsid`, `demandware.store`) y detrás de un **desafío interactivo
