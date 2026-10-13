@@ -4742,7 +4742,9 @@ La búsqueda manual de la app ("Buscar o añadir") descargaba la colección ente
 `indice.json`, un archivo pequeño (~800 KB) con solo nombre, marca, código y foto de cada producto
 del catálogo. **Se regenera con cada versión de `catalogo.json`**, con
 `node herramientas/indice.mjs` desde la raíz, y se sube junto a él. Estructura:
-`{ "version": "<la de catalogo.json>", "items": [ { "n": nombre, "m": marca, "c": código, "i": foto? } ] }`.
+`{ "version": "<la de catalogo.json>", "items": [ { "n": nombre, "m": marca, "k": clave de marca, "c": primer código, "cs": [todos los códigos, solo si hay más de uno], "i": foto? } ] }`.
+Desde el 2026-10-13 el panel de administración también calcula las **Novedades** con este índice (códigos
+del catálogo que no están en la base), así que `cs` tiene que llevar TODOS los códigos del producto.
 Las aportaciones aprobadas a mano que no están en el catálogo no salen en este índice; la app las
 busca aparte por nombre exacto en Firestore.
 
