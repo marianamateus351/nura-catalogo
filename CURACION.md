@@ -1014,8 +1014,9 @@ Estado (se va rellenando):
   15 ml 8721249990007, Smarter 40 ml 8721249990014, Family 8721249990021): la web oficial da la lista **completa pero en nombres
   comunes en inglés** ("Sunflower Seed Oil, Castor Seed Oil, Zinc Oxide, Strawberry Seed Oil, Hydrogenated Rapeseed Oil,
   Hydrogenated Palm Oil, Arrowroot Root Powder, Candelilla Wax, Tocopherol, Silver"), no en INCI; la de Ecco Verde sí está en INCI
-  pero es la fórmula anterior (sin ricino ni aceites hidrogenados). **PENDIENTE de Mariana:** ¿entra la crema con la lista oficial
-  en nombres comunes? Saldría limpia. OBF solo tiene 8720726380423 (crema 20 ml, sin lista). Regresión: 0 cambios. Sin cambios
+  pero es la fórmula anterior (sin ricino ni aceites hidrogenados). **Decisión de Mariana (2026-10-13): entra** ("desde que el
+  detector identifique los ingredientes, no pasa nada"): versión 2026-10-13-nuudcrema, Starter 15 ml `8721249990007` con la
+  lista oficial en nombres comunes; el Smarter (2×20 ml) y el Family (4×20 ml) son packs y quedan fuera. Sale limpia. OBF solo tiene 8720726380423 (crema 20 ml, sin lista). Regresión: 0 cambios. Sin cambios
   en el detector.
 - ~~**Ben & Anna**~~ — cerrada 2026-10-12 (versión 2026-10-12-benanna): **63 productos, 69 códigos**; 13 sin avisos, **12 de ellos
   desodorantes** (Papertube Persian Lime 40 g y 25 g con sus refills, Pink Grapefruit, Mint no —eugenol—, Coco Mania, Green Fusion,
@@ -1415,6 +1416,22 @@ peróxido). Alternativas: 1.557.
 - El buscador tiene un cupo de **200 búsquedas por turno** compartido entre todos los agentes; se agotó a mitad. La cola
   entera queda en `amazon_pendientes.json` (todos los productos de Alternativas sin enlace y sin buscar, maquillaje
   incluido) y se sigue por turnos.
+
+**Respuestas de Mariana del 2026-10-13** (antes de lanzar el build, para juntar cambios):
+- **Rizos/ondas como pelo (hecho, va en el build)**: `products.js`, en guessCategoria la excepción del pelo (ES_PELO) reconoce
+  también "rizo", "ondas", "curl" y "wave", salvo que el nombre hable de ropa/colada/laundry/fabric (un suavizante de ropa "Ondas
+  del mar" sigue siendo Hogar). Con la categoría por texto y sin base conocida, "suavizante/softener" con palabra de pelo
+  tampoco cuenta como Hogar. Regresión: 0 cambios en el catálogo (el spray Nutricurls ya se había renombrado).
+- **Crema de Nuud**: entra (arriba).
+- **Wild**: Mariana lo tiene en casa y el envase no trae la lista de ingredientes: no hay foto posible. Sigue fuera.
+- **Ecover y Montibello**: "sin código español no pasa nada desde que se vendan online", porque la gente los compra. Se
+  reabren: listas oficiales + códigos de tiendas online que los vendan (europeas incluidas), atados por nombre exacto.
+  Fussy, Laneige y Tirtir siguen como están.
+- **Puntomatic Pastillas Blanco Puro**: sin forma de saber cuál de las dos listas es, no se hace nada.
+- **Orden de trabajo**: enlaces de Amazon (seguir con los 1.100 pendientes) → cola de marcas (maquillaje de perfumería
+  empezando por Sephora Collection, natural y orgánico, farmacia, íntima y menstrual, dental, marcas blancas de Carrefour y
+  Eroski) → reintentar las webs que no respondían (Corpore Sano, Lidl para W5).
+- **Firestore rules**: lo publica Mariana desde el iPad.
 ### 2026-10-03 · Tercera cola de marcas (pedida por Mariana el 2026-10-03)
 De una en una, cerrando cada marca (revisión FP/FN + regresión + versión nueva de catalogo.json)
 antes de empezar la siguiente. Si aparece algo en "Huecos del catálogo" o en Buscados antes de
