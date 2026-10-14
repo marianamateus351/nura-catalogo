@@ -1,5 +1,5 @@
 {
- "version": "2026-10-13-sanex2",
+ "version": "2026-10-14-cantu",
  "marcas": [
   {
    "key": "larocheposay",
@@ -96766,6 +96766,635 @@
       "8420212342286"
      ],
      "inci": "Potassium Persulfate, Sodium Silicate, Cyamopsis Tetragonoloba Gum, Magnesium Carbonate, Sodium Persulfate, Sodium Stearate, CI 77007, Hydrolyzed Silk, Paraffinum Liquidum, Parfum, Polyquaternium-10, Silica, Sodium Lauryl Sulfate, Tetrasodium EDTA"
+    }
+   ]
+  },
+  {
+   "key": "cantu",
+   "nombre": "Cantu",
+   "productos": [
+    {
+     "nombre": "Ultra Moisture Nourishing Curl Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006946307"
+     ],
+     "inci": "Water (Aqua/Eau), Glycerin, Cetearyl Alcohol, Hydrogenated Ethylhexyl Olivate, Polysorbate 60, Carthamus Tinctorius (Safflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Elaeis Oleifera (Batana) Kernel Oil, Persea Gratissima (Avocado) Oil, Ricinus Communis (Jamaican Black Castor) Seed Oil, Panthenol (Vitamin B5), Silk Amino Acids, Hydrolyzed Wheat Protein/PVP Crosspolymer, Lactobacillus Ferment, Potassium Sorbate, Hydrogenated Olive Oil Unsaponifiables, Ethylhexylglycerin, Cetrimonium Chloride, Fragrance (Parfum), Phenoxyethanol, Hydroxyethylcellulose, Methyl Gluceth-20, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Rose Ketones, Linalool, Benzaldehyde, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Coumarin"
+    },
+    {
+     "nombre": "Ultra Moisture Nourishing Mask",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006946284"
+     ],
+     "inci": "Water (Aqua/Eau), Cetearyl Alcohol, Canola Oil, Cetyl Alcohol, Brassicamidopropyl Dimethylamine, Propanediol, Glycerin, Butyrospermum Parkii (Shea) Butter, Elaeis Oleifera (Batana) Kernel Oil, Ricinus Communis (Jamaican Black Castor) Seed Oil, Panthenol (Vitamin B5), Olea Europaea (Olive) Fruit Oil, Fragrance (Parfum), Phenoxyethanol, Capryloyl Glycerin/Sebacic Acid Copolymer, Lactic Acid, Ethylhexylglycerin, Diheptyl Succinate, Trisodium Ethylenediamine Disuccinate, Caramel, Rose Ketones, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Benzaldehyde, Limonene, Coumarin"
+    },
+    {
+     "nombre": "Ultra Moisture Nourishing Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006946277"
+     ],
+     "inci": "Water (Aqua/Eau), Sodium C14-16 Olefin Sulfonate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Elaeis Oleifera (Batana) Kernel Oil, Ricinus Communis (Jamaican Black Castor) Seed Oil, Panthenol (Vitamin B5), Tocopherol (Vitamin E), Glycol Distearate, PEG-120 Methyl Glucose Dioleate, Guar Hydroxypropyltrimonium Chloride, PEG-150 Distearate, Sodium Sulfate, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate, Benzoic Acid, Fumaric Acid, Sodium Ferrocyanide, Sodium Hydroxide, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Coumarin, Benzaldehyde, Pinene, Rose Ketones"
+    },
+    {
+     "nombre": "Ultra Moisture Nourishing Leave-In Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006946291"
+     ],
+     "inci": "Water (Aqua/Eau), Cetearyl Alcohol, Glycerin, Ricinus Communis (Jamaican Black Castor) Seed Oil, Behentrimonium Methosulfate, Cocos Nucifera (Coconut) Oil, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Butyrospermum Parkii (Shea) Butter, Aloe Barbadensis Leaf Juice (Decolorized), Elaeis Oleifera (Batana) Kernel Oil, Panthenol (Vitamin B5), Sodium Hyaluronate (Hyaluronic Acid), Citric Acid, Fragrance (Parfum), Phenoxyethanol, Glyceryl Stearate, PEG-100 Stearate, Hydroxyethylcellulose, Disodium EDTA, Disodium Phosphate, Polyquaternium-10, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Sodium Sulfite, Cetrimonium Chloride, Sodium Phosphate, Rose Ketones, Linalool, Benzaldehyde, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Coumarin, Pinene, Terpinolene"
+    },
+    {
+     "nombre": "Anti-Shedding Styling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019258"
+     ],
+     "inci": "Aqua (Water), Carbomer, Polysorbate 20, Vp/Va Copolymer, Parfum (Fragrance), Honey (Mel, Miel), Butyrospermum Parkii (Shea) Butter, Aminomethyl Propanol, Phenoxyethanol, Benzoic Acid, Ethylhexylglycerin, Glycereth-2 Cocoate, Glycerin, Disodium EDTA, CI 14700 (Red 4), CI 15510 (Orange 4)"
+    },
+    {
+     "nombre": "Argan Oil Leave-in Conditioning Repair Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015175"
+     ],
+     "inci": "Water (Aqua, Eau), Canola Oil, Cetearyl Alcohol, Glycerin, Behentrimonium Methosulfate, Butyrospermum Parkii (Shea) Butter, Argania Spinosa (Argan) Kernel Oil, Thiamine (Vitamin B1), Riboflavin (Vitamin B2), Niacin (Vitamin B3), Pantothenic Acid (Vitamin B5), Pyroxidine HCL (Vitamin B6), Folic Acid (Vitamin B9), Cyanocobalamin (Vitamin B12), Biotin (Vitamin B7), Olea Europaea (Olive) Fruit Oil, Panthenol, Fragrance (Parfum), Citrus Aurantium Dulcis (Orange) Peel Oil, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Aloe Barbadensis (Aloe) Leaf Extract (Decolorized), Achillea Millefolium (Yarrow) Extract, Actinidia Chinensis (Kiwi) Fruit Extract, Leuconostoc/Radish Root Ferment Filtrate, Hydrogenated Olive Oil Unsaponifiables, Cetrimonium Chloride, Phenoxyethanol, Ethylhexylglycerin, Polyquaternium-10, Sodium Chloride, Disodium EDTA, Citric Acid, Pentaerythrityl Tetracaprylate/Tetracaprate, Hydrogenated Ethylhexyl Olivate , Sodium Benzoate, Sodium Sulfite, Potassium Sorbate, Sodium Hyaluronate, Benzyl Alcohol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Avocado Hydrating Curling Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019906"
+     ],
+     "inci": "Aqua (Water), Glycerin, Cetearyl Alcohol, Canola Oil, Persea Gratissima (Avocado) Oil, Butyrospermum Parkii (Shea) Butter, Ceteareth-20, Glycol Distearate, Petrolatum, Parfum (Fragrance), Ceteth-20, PEG-75, Polyquaternium-10, Phenoxyethanol, Ethylhexylglycerin, Linalool, Hexyl Cinnamal, Lactic Acid, Sodium Phytate, Benzyl Salicylate, Tetrasodium Glutamate Diacetate, Geraniol, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Ascorbyl Palmitate, Tocopherol, Benzyl Alcohol, Citric Acid, Argania Spinosa (Argan) Kernel Oil, Cocos Nucifera (Coconut) Oil, Daucus Carota Sativa (Carrot) Seed Oil, Glycine Soja (Soybean) Oil, Macadamia Integrifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Seed Butter, Mangifera Indica (Mango) Seed Oil, Melia Azadirachta (Neem) Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice, Silk Amino Acids, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Leaf Extract, Lonicera Caprifolium (Honeysuckle) Extract, Vitis Vinifera (Grape) Seed Extract, Potassium Sorbate, Sodium Benzoate, Hydrolyzed Silk"
+    },
+    {
+     "nombre": "Rosemary & Mint Scalp & Hair Oil (59 ml y 95 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942439",
+      "0810006944495"
+     ],
+     "inci": "Glycine Soja (Soybean) Oil, Ricinus Communis (Castor) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Mentha Piperita (Peppermint) Flower/Leaf/Stem Oil, Eucalyptus Globulus Leaf Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Biotin (Vitamin B7), Oryza Sativa (Rice) Bran Oil, Persea Gratissima (Avocado) Oil, Tocopheryl Acetate (Vitamin E), Linum Usitatissimum (Linseed) Seed Oil (Flaxseed), Butyrospermum Parkii (Shea) Butter, Helianthus Annuus (Sunflower) Seed Oil, Equisetum Arvense (Horsetail) Leaf Extract, Urtica Dioica (Nettle) Leaf Extract, Arctium Lappa (Burdock) Root Extract, Tocopherol (Vitamin E), Ascorbic Acid (Vitamin C), Benzyl Nicotinate, Menthol, Retinyl Palmitate"
+    },
+    {
+     "nombre": "Braiding & Twisting Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943771"
+     ],
+     "inci": "Aqua/Water, Ceteareth-25, Glycerin, Oleth-5, PEG-25 Hydrogenated Castor Oil, Sclerocarya Birrea (Marula) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Tocopheryl Acetate (Vitamin E), Althaea Officinalis (Marshmallow) Root Extract, Ricinus Communis (Castor) Seed Oil, Hydrolyzed Quinoa, Ethylhexylglycerin, Citric Acid, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Parfum (Fragrance), Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Avocado Hydrating Hair Milk",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942453"
+     ],
+     "inci": "Aqua (Water), Glycerin, Canola Oil, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Glycol Stearate, Cetyl Alcohol, Persea Gratissima (Avocado) Oil, Linum Usitatissimum (Linseed) Seed Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera (Coconut) Oil, Tocopheryl Acetate (Vitamin E), Mel (Honey), Distearoylethyl Dimonium Chloride, Polyquaternium-11, Glyceryl Stearate, PEG-100 Stearate, Ethylhexylglycerin, Panthenol (Vitamin B5), Silk Amino Acids, Citric Acid, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Benzyl Alcohol, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Avocado Hydrating Mousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942460"
+     ],
+     "inci": "Aqua (Water), PEG-25 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Persea Gratissima (Avocado) Oil, Linum Usitatissimum (Linseed) Seed Oil, Tocopheryl Acetate (Vitamin E), Butyrospermum Parkii (Shea) Butter, Mel (Honey), Parfum (Fragrance), Polyquaternium-11, Cocamidopropyl Betaine, Cetrimonium Chloride, Ethylhexylglycerin, Polyquaternium-55, Panthenol (Vitamin B5), Citric Acid, Silk Amino Acids, Sodium Chloride, Phenoxyethanol, Sodium Glycolate, Sodium Benzoate, C12-18 Fatty Acids, Cocamidopropyl Dimethylamine, Caprylyl Glycol, Potassium Sorbate, Benzyl Alcohol, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Mens Hair & Beard Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016905"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Ricinus Communis (Castor) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Melaleuca Alternifolia (TEA Tree) Leaf Oil, Cannabis Sativa (Hemp) Seed Oil, Caffeine, Coumarin, Linalool, Benzyl Benzoate, Hexyl Cinnamal, Limonene"
+    },
+    {
+     "nombre": "Weightless Protect + Shine Gloss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006945171"
+     ],
+     "inci": "DIMETHICONE, ISOPROPYL PALMITATE, DIMETHICONOL, ISODODECANE, C13-15 ALKANE, AGAVE TEQUILANA LEAF EXTRACT, LINUM USITATISSIMUM (LINSEED/FLAXSEED) SEED OIL, COCOS NUCIFERA (COCONUT) OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, TOCOPHEROL (VITAMIN E), CAMELLIA SINENSIS (GREEN TEA) EXTRACT, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, ARGANIA SPINOSA KERNEL OIL, CITRUS AURANTIUM AMARA LEAF/TWIG OIL, FRAGRANCE (PARFUM), MENTHA SPICATA LEAF/STEM OIL, BENZYL ALCOHOL, HEXYL CINNAMAL, LINALOOL, GERANIOL, CITRONELLOL, LIMONENE.Organic"
+    },
+    {
+     "nombre": "Weightless Smooth + Curl Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006944655"
+     ],
+     "inci": "WATER (AQUA, EAU), ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, VP/VA COPOLYMER, CETEARETH-20, FRAGRANCE (PARFUM), BUTYROSPERMUM PARKII (SHEA) BUTTER, COCOS NUCIFERA (COCONUT) OIL, SQUALANE, ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), AGAVE TEQUILANA LEAF EXTRACT, ARGANIA SPINOSA KERNEL OIL, LIMNANTHES ALBA (MEADOWFOAM) SEED OIL, LINUM USITATISSIMUM (LINSEED/FLAXSEED) SEED OIL, MACADAMIA TERNIFOLIA SEED OIL, ORYZA SATIVA (RICE) BRAN OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, TOCOPHEROL (VITAMIN E), GLYCINE SOJA (SOYBEAN) OIL, HYDROLYZED SOY PROTEIN, SERENOA SERRULATA (SAW PALMETTO) FRUIT EXTRACT, CAMELLIA SINENSIS (GREEN TEA) LEAF EXTRACT, CITRUS AURANTIUM AMARA LEAF/TWIG OIL, MENTHA SPICATA LEAF/STEM OIL, CITRIC ACID, POLYGLYCERYL-10 LAURATE, POLYGLYCERIN-10, SODIUM ASCORBYL PHOSPHATE, ETHYLHEXYLGLYCERIN, PHENOXYETHANOL, ACRYLAMIDE/SODIUM ACRYLOYLDIMETHYLTAURATE COPOLYMER, C15-19 ALKANE, SORBITAN OLEATE, GLYCERIN, POTASSIUM SORBATE, SODIUM BENZOATE, SODIUM SULFITE, BENZYL ALCOHOL, HEXYL CINNAMAL, LINALOOL, GERANIOL, CITRONELLOL, LIMONENE.Organic"
+    },
+    {
+     "nombre": "Weightless Smooth + Hold Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006945195"
+     ],
+     "inci": "WATER (AQUA, EAU), ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), HYDROXYETHYLCELLULOSE, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCOS NUCIFERA (COCONUT) OIL, AGAVE TEQUILANA LEAF EXTRACT, ARGANIA SPINOSA KERNEL OIL, LIMNANTHES ALBA (MEADOWFOAM) SEED OIL, LINUM USITATISSIMUM (LINSEED/FLAXSEED) SEED OIL, MACADAMIA TERNIFOLIA SEED OIL, ORYZA SATIVA (RICE) BRAN OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, TOCOPHEROL (VITAMIN E), SERENOA SERRULATA (SAW PALMETTO) FRUIT EXTRACT, CAMELLIA SINENSIS (GREEN TEA) LEAF EXTRACT, GLYCERIN, SODIUM ASCORBYL PHOSPHATE, FRAGRANCE (PARFUM), GLYCINE SOJA (SOYBEAN) OIL, HYDROLYZED SOY PROTEIN, LACTIC ACID, POTASSIUM HYDROXIDE, GLUCONOLACTONE, CALCIUM GLUCONATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, PHENOXYETHANOL, SODIUM PHYTATE, MALTODEXTRIN/VP COPOLYMER, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, POTASSIUM SORBATE, SODIUM BENZOATE, MENTHA SPICATA LEAF/STEM OIL, CITRUS AURANTIUM AMARA LEAF/TWIG OIL, PVP, CITRIC ACID, ETHYLHEXYLGLYCERIN, SODIUM SULFITE, BENZYL ALCOHOL, HEXYL CINNAMAL, LINALOOL, GERANIOL, CITRONELLOL.Organic"
+    },
+    {
+     "nombre": "Weightless Smoothing Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006944624"
+     ],
+     "inci": "WATER (AQUA, EAU), CETEARYL ALCOHOL, LINUM USITATISSIMUM (LINSEED/FLAXSEED) SEED OIL, GLYCERIN, CETYL ALCOHOL, GLYCINE SOJA (SOYBEAN) OIL, C13-15 ALKANE, DISTEAROYLETHYL DIMONIUM CHLORIDE, STEARAMIDOPROPYL DIMETHYLAMINE, BUTYROSPERMUM PARKII (SHEA) BUTTER, GLYCOL STEARATE, AGAVE TEQUILANA LEAF EXTRACT, ALTHAEA OFFICINALIS (MARSHMALLOW) ROOT EXTRACT, SQUALANE, MACADAMIA TERNIFOLIA SEED OIL, COCOS NUCIFERA (COCONUT) OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, SERENOA SERRULATA (SAW PALMETTO) FRUIT EXTRACT, CAMELLIA SINENSIS (GREEN TEA) LEAF EXTRACT, TOCOPHERYL ACETATE (VITAMIN E), ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), ARGANIA SPINOSA KERNEL OIL, LIMNANTHES ALBA (MEADOWFOAM) SEED OIL, ORYZA SATIVA (RICE) BRAN OIL, MENTHA SPICATA LEAF/STEM OIL, FRAGRANCE (PARFUM), POTASSIUM SORBATE, LACTIC ACID, CITRIC ACID, SODIUM PHYTATE, POLYQUATERNIUM-10, ETHYLHEXYLGLYCERIN, SODIUM ASCORBYL PHOSPHATE, SODIUM CHLORIDE, HYDROLYZED SOY PROTEIN, PHENOXYETHANOL, BENZYL ALCOHOL, SODIUM BENZOATE, SODIUM SULFITE, HEXYL CINNAMAL, LINALOOL, GERANIOL, CITRONELLOL.Organic"
+    },
+    {
+     "nombre": "Weightless Smoothing Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006944617"
+     ],
+     "inci": "WATER (AQUA, EAU), SODIUM C14-16 OLEFIN SULFONATE, COCAMIDOPROPYL BETAINE, COCAMIDE DIPA, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, AGAVE TEQUILANA LEAF EXTRACT, SQUALANE, LIMNANTHES ALBA (MEADOWFOAM) SEED OIL, MACADAMIA TERNIFOLIA SEED OIL, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCOS NUCIFERA (COCONUT) OIL, LINUM USITATISSIMUM (LINSEED/FLAXSEED) SEED OIL, SERENOA SERRULATA (SAW PALMETTO) FRUIT EXTRACT, CAMELLIA SINENSIS (GREEN TEA) LEAF EXTRACT, HYALURONIC ACID, ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), ARGANIA SPINOSA KERNEL OIL, ORYZA SATIVA (RICE) BRAN OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, TOCOPHEROL (VITAMIN E), MENTHA SPICATA LEAF/STEM OIL, GLYCINE SOJA (SOYBEAN) OIL, POLYQUATERNIUM-7, POLYQUATERNIUM-10, ETHYLHEXYLGLYCERIN, POTASSIUM SORBATE, SODIUM BENZOATE, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, HYDROLYZED SOY PROTEIN, FRAGRANCE (PARFUM), SODIUM CHLORIDE, SODIUM ASCORBYL PHOSPHATE, CITRIC ACID, PHENOXYETHANOL, BENZYL ALCOHOL, SODIUM SULFITE, HEXYL CINNAMAL, LINALOOL, GERANIOL, CITRONELLOL.Organic"
+    },
+    {
+     "nombre": "Shea Butter Cleansing Cream Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943450"
+     ],
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Cocamide DIPA, Glycerin, Acrylates Copolymer, Phenoxyethanol, PEG-150 Distearate, Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Polyester-37, Sodium Hydroxide, Glycol Distearate, Panthenol (Vitamin B5), Guar Hydroxypropyltrimonium Chloride, Ethylhexylglycerin, Disodium EDTA, Steareth-4, Polyquaternium-39, Sodium Benzoate, Citric Acid, Polysorbate 20, Sodium Chloride, Tocopherol (Vitamin E), Benzyl Benzoate, Coumarin"
+    },
+    {
+     "nombre": "Cocoa Butter Raw Blend",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006940602"
+     ],
+     "inci": "Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter"
+    },
+    {
+     "nombre": "Coconut Oil Shine & Hold Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010064"
+     ],
+     "inci": "Water (Aqua, Eau), Glycerin, PEG-40 Hydrogenated Castor Oil, Fragrance (Parfum), Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Aloe Barbadensis (Aloe) Leaf Extract (Decolorized), Ricinus Communis (Castor) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Fruit Extract, Thiamine HCL (Vitamin B1), Riboflavin (Vitamin B2), Niacin (Vitamin B3), Pantothenic Acid (Vitamin B5), Pyridoxine HCL (Vitamin B6), Biotin (Vitamin B7), Folic Acid (Vitamin B9), Cyanocobalamin (Vitamin B12), Tocopherol (Vitamin E), Lonicera Japonica (Honeysuckle) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Vitis Vinifera (Grape) Seed Extract, Urtica Dioica (Nettle) Extract, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mangifera Indica (Mango) Seed Butter, Argania Spinosa Kernel Oil, Vitis Vinifera (Grape) Seed Oil, Melia Azadirachta (Neem) Seed Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Ternifolia Seed Oil, Mangifera Indica (Mango) Seed Oil, PEG-60, Citric Acid, Polyquaternium-10, Leuconostoc/Radish Root Ferment Filtrate, Vp/Va Copolymer, Laurtrimonium Chloride, Phenoxyethanol, Canola Oil, Hydrogenated Castor Oil, Castor Oil Propanediol Esters, Glycine Soja (Soybean) Oil, Ethylhexylglycerin, Potassium Sorbate, Phenethyl Alcohol, Caprylyl Glycol, Sodium Sulfite, Sodium Bisulfite, Sodium Benzoate, Benzyl Benzoate, Benzyl Salicylate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Coil Calm Detangler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015342"
+     ],
+     "inci": "Aqua (Water), Glycerin, Polyquaternium-37, Cetrimonium Chloride, Cetearyl Alcohol, Phenoxyethanol, Propylene Glycol Dicaprylate/Dicaprate, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Ceteareth-20, Trideceth-12, Panthenol, Trideceth-6, Ethylhexylglycerin, Polyester-11, C11-15-Isoalkanes, Sodium Chloride, Benzyl Benzoate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Conditioning Creamy Hair Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010019"
+     ],
+     "inci": "Aqua (Water), Glycerin, Canola Oil, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Cetyl Alcohol, Distearoylethyl Dimonium Chloride, Glycol Stearate, Polyquaternium-11, Ethylhexylglycerin, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Argania Spinosa (Argan) Kernel Oil, Cocos Nucifera (Coconut) Oil, Daucus Carota Sativa (Carrot) Seed Oil, Glycine Soja (Soybean) Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Oil, Mangifera Indica (Mango) Seed Butter , Melia Azadirachta (Neem) Seed Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice, Hydrolyzed Silk, Lonicera Caprifolium (Honeysuckle) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Silk Amino Acids, Urtica Dioica (Nettle) Extract, Vitis Vinifera (Grape) Seed Extract, Citric Acid, Benzyl Benzoate, Benzyl Salicylate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Conditioning Detangler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943795"
+     ],
+     "inci": "Aqua/Water, Glycerin, Sclerocarya Birrea (Marula) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Cocos Nucifera (Coconut) Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Tocopheryl Acetate (Vitamin E), Hydrolyzed Quinoa, Lavandula Angustifolia (Lavender) Flower Oil, Parfum/Fragrance, Cetearyl Alcohol, Cetyl Alcohol, Phenoxyethanol, Stearalkonium Chloride, Benzoic Acid, Guar Hydroxypropyltrimonium Chloride, Ethylhexylglycerin, Glycereth-2 Cocoate, Stearyl Alcohol, Panthenol (Vitamin B), Citric Acid, Potassium Sorbate, Sodium Benzoate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Curl Stretcher Rinse-Out Styler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513017469"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Canola Oil, Sorbitan Stearate, Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Glycerin, Dicetyldimonium Chloride, Olea Europaea Fruit Oil, Phenoxyethanol, Virola Sebifera Nu"
+    },
+    {
+     "nombre": "Daily Oil Drops",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943740"
+     ],
+     "inci": "Carthamus Tinctorius (Safflower) Seed Oil, Isopropyl Palmitate, Persea Gratissima (Avocado) Oil, Parfum (Fragrance), Mentha Piperita (Peppermint) Oil, Melaleuca Alternifolia (TEA Tree) Oil, Sclerocarya Birrea (Marula) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Menthol, Tocopherol (Vitamin E), Tocopheryl Acetate (Vitamin E), Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Ricinus Communis (Castor) Seed Oil, Lavandula Angustifolia (Lavender) Flower Oil, Oryza Sativa (Rice) Bran Extract, Caprylic / Capric Triglycerides Aqua/Water, Urtica Dioica (Nettle) Extract, Equisetum Arvense (Horsetail) Extract, Sodium Benzoate, Citric Acid, Potassium Sorbate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Deep Nourishing Hair & Scalp Masque with Rhassoul Clay",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019104"
+     ],
+     "inci": "Aqua (Water), Canola Oil, Glycerin, Cetearyl Alcohol, Cera Alba (Beeswax), Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Moroccan Lava Clay (Rhassoul), Polyquaternium-10, Glycol Stearate, Cetyl Alcohol, Kaolin, Bentonite, Phenoxyethanol, Ethylhexylglycerin, Acetic Acid, Aloe Barbadensis (Aloe Vera) Leaf Juice, Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis Seed (Jojoba) Oil, Olea Europaea Fruit (Olive) Oil, Mangifera Indica (Mango) Seed Butter, Argania Spinosa Kernel (Argan) Oil, Melia Azadirachta (Neem) Seed Oil, Daucus Carota Sativa Seed (Carrot) Oil, Macadamia Ternifolia Seed (Macadamia) Oil, Glycine Soja (Soyabean) Oil, Vitis Vinifera Seed (Grape) Oil, Mangifera Indica (Mango) Seed Oil, Benzyl benzoate, Coumarin, Hexyl cinnamal"
+    },
+    {
+     "nombre": "Deep Treatment Hair Masque (y formato 50 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010040",
+      "0817513016325"
+     ],
+     "inci": "Aqua (Water), Canola Oil, Glycerin, Cetearyl Alcohol, Parfum (Fragrance), Cera Alba (Beeswax), Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter, Ceteareth-20, Glycol Stearate, Polyquaternium-10, Phenoxyethanol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Ascorbyl Palmitate, Tocopherol, Citric Acid, Daucus Carota Sativa (Carrot) Seed Oil, Glycine Soja (Soybean) Oil, Argania Spinosa (Argan) Kernel Oil, Mangifera Indica (Mango) Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cocos Nucifera (Coconut) Oil, Macadamia Ternifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Vitis Vinifera (Grape) Seed Oil, Melia Azadirachta (Neem) Seed Oil, Mangifera Indica (Mango) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Silk Amino Acids, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Lonicera Caprifolium (Honeysuckle) Extract, Vitis Vinifera (Grape) Seed Extract, Potassium Sorbate, Sodium Benzoate, Hydrolyzed Silk, Imidazolidinyl Urea, Benzyl Benzoate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Extra Hold Edge Stay Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015694"
+     ],
+     "inci": "Water (Aqua/Eau), Ceteareth-25, PEG-7 Glyceryl Cocoate, PEG-40 Hydrogenated Castor Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Theobroma Cacao (Cocoa) Seed Butter, Panthenol, Simmondsia Chinensis (Jojoba) Seed Oil, Caramel, Biotin (Vitamin B7), Cyanocobalamin (Vitamin B12), Folic Acid (Vitamin B9), Niacin (Vitamin B3), Pantothenic Acid (Vitamin B5), Pyridoxine HCL (Vitamin B6), Riboflavin (Vitamin B2), Thiamine HCL (Vitamin B1), Ethylhexylglycerin, Glycereth-2 Cocoate, Silk Amino Acids, Leuconostoc/Radish Root Ferment Filtrate, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Fragrance (Parfum), Benzyl Benzoate, Benzoic Acid, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019937"
+     ],
+     "inci": "Aqua (Water), Stearyl Alcohol, Cetyl Alcohol, Vitis Vinifera (Grape) Seed Oil, Stearamidopropyl Dimethylamine, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Neopentyl Glycol Diheptanoate, Phenoxyethanol, Ethylhexylglycerin, Lactic Acid, Isododecane, Polyester-11, Disodium EDTA, Panthenol, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Curl Activator Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019968"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propanediol, Cetearyl Alcohol, Vitis Vinifera (Grape) Seed Oil, Butyrospermum Parkii (Shea) Butter, Polyquaternium-11, Stearyl Alcohol, Cetyl Alcohol, Parfum (Fragrance), Behentrimonium Methosulfate, Phenoxyethanol, Polysorbate 60, Polyquaternium-10, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Fruit Oil, Ethylhexylglycerin, Silk Amino Acids, Canola Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice, Hydrolyzed Silk, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Vitis Vinifera (Grape) Seed Extract, Urtica Dioica Leaf (Nettle) Extract, Lonicera Caprifolium (Honeysuckle) Extract, Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Mangifera Indica (Mango) Seed Butter, Argania Spinosa (Argan) Kernel Oil, Melia Azadirachta (Neem) Seed Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Seed Oil, Citronellol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Curling Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019951"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Glycerin, Canola Oil, Vitis Vinifera (Grape) Seed Oil, Ceteth-20, Butyrospermum Parkii (Shea) Butter, Glycol Stearate, Petrolatum, Parfum (Fragrance), Polyethylene Glycol (PEG), Polyquaternium-10, Phenoxyethanol, Ethylhexylglycerin, Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mangifera Indica (Mango) Seed Butter, Argania Spinosa (Argan) Kernel Oil, Melia Azadirachta (Neem) Seed Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Seed Oil, Glycine Soja (Soybean) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice, Hydrolyzed Silk, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Vitis Vinifera (Grape) Seed Extract, Urtica Dioica Leaf (Nettle) Extract, Silk Amino Acids, Lonicera Caprifolium (Honeysuckle) Extract, Citronellol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Deep Treatment Masque",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006940008"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Glycerin, Canola Oil, Vitis Vinifera (Grape) Seed Oil, Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Glycol Stearate, Polyquaternium-10, Parfum (Fragrance), Phenoxyethanol, Ethylhexylglycerin, Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mangifera Indica (Mango) Seed Butter, Argania Spinosa (Argan) Kernel Oil, Daucus Carota (Carrot) Sativa Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Seed Oil, Glycine Soja (Soybean) Oil, Melia Azadirachta (Neem) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice, Hydrolyzed Silk, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica Leaf (Nettle) Extract, Silk Amino Acids, Lonicera Caprifolium (Honeysuckle) Extract, Vitis Vinifera (Grape) Seed Extract, Citronellol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Repair Leave in Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019944"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Canola Oil, Vitis Vinifera (Grape) Seed Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Dicetyldimonium Chloride, Behentrimonium Methosulfate, Dimethicone, Isopropyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Polyquaternium-10, Sodium Chloride, Disodium EDTA, Citric Acid, Olea Europaea (Olive) Fruit Oil, Trisodium Hedta, Cyclopentasiloxane, Cyclohexasiloxane, Dimethicone PEG-8 Meadowfoamate, Polyquaternium-37, Propylene Glycol Dicaprylate/Dicaprate, PPG-1 Trideceth-6, Panthenol, Hydrolyzed Wheat Protein Pg-Propyl Silanetriol, Hydrolyzed Wheat Protein, Pentaerythrityl Tetracaprylate/Tetracaprate, Silk Amino Acids, Hydrolyzed Collagen (Peptone), Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica Leaf (Nettle) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice, Achillea Millefolium (Yarrow) Extract, Propylene Glycol, Hydroxyethylcellulose, Sodium Hyaluronate, Actinidia Chinensis (Kiwi) Extract, Sodium Ferrocyanide, Citronellol, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019920"
+     ],
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Cocamide DIPA, Acrylates Copolymer, Glycerin, Parfum (Fragrance), Glycol Distearate, Phenoxyethanol, Sodium Chloride, PEG-150 Distearate, Polyester-37, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Panthenol, Vitis Vinifera (Grape) Seed Oil, Ethylhexylglycerin, Sodium Glycolate, Sodium Benzoate, Sodium Hydroxide, Polyquaternium-39, C12-18 Fatty Acids, Cocamidopropyl Dimethylamine, Steareth-4, Butyrospermum Parkii (Shea) Butter, Polysorbate 20, Citric Acid, Sodium Ferrocyanide, Linalool"
+    },
+    {
+     "nombre": "Grapeseed Strengthening Styling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019982"
+     ],
+     "inci": "Aqua (Water), Polysorbate 20, Carbomer, Aminomethyl Propanol, Glycerin, Vp/Va Copolymer, Phenoxyethanol, Benzoic Acid, Disodium EDTA, Ethylhexylglycerin, Glycereth-2 Cocoate, Parfum (Fragrance), Vitis Vinifera (Grape) Seed Oil, Butyrospermum Parkii (Shea) Butter, Linalool, CI 60730, CI 17200"
+    },
+    {
+     "nombre": "Grow Strong Strengthening Treatment",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0856017000041"
+     ],
+     "inci": "Aqua (Water), Butyrospermum Parkii (Shea) Butter, Glycerin, Cetearyl Alcohol, Lanolin, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Phenoxyethanol, Parfum (Fragrance), Glyceryl Stearate, PEG-100 Stearate, Carbomer, Glycine Soja (Soybean) Oil, Ricinus Communis (Castor) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Petrolatum, Sorbitan Stearate, Panthenol (Vitamin B5), Ethylhexylglycerin, Sodium Hydroxide, Benzyl Salicylate, Coumarin, Limonene, Hexyl Cinnamal, Linalool, Citral"
+    },
+    {
+     "nombre": "Guava & Ginger Protein Hair Masque",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942491"
+     ],
+     "inci": "Aqua (Water), Canola Oil, Cetearyl Alcohol, Glycerin, Butyrospermum Parkii (Shea) Butter, Glycol Stearate, Polysorbate 60, Psidium Guajava Fruit Extract (Guava), Zingiber Officinale (Ginger) Root Extract, Oryza Sativa (Rice) Bran Water, Hydrolyzed Rice Protein, Oryza Sativa (Rice) Bran Extract, Oryza Sativa (Rice) Bran Oil, Curcuma Longa (Turmeric) Root Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Parfum (Fragrance), Menthol, Urtica Dioica Leaf Extract, Propylene Glycol, Dehydroacetic Acid, Cera Alba (Beeswax), PPG-1 Trideceth-6, Propylene Glycol Dicaprylate/Dicaprate, Polyquaternium-37, Polyquaternium-10, Stearalkonium Chloride, Phenoxyethanol, Stearyl Alcohol, Sodium Benzoate, Potassium Sorbate, Benzyl Alcohol, Citronellol, Citral, Linalool"
+    },
+    {
+     "nombre": "Guava Scalp Exfoliating Pre-Cleansing Treatment",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942484"
+     ],
+     "inci": "Aqua/Water, Glycerin, Xanthan Gum, Cocamidopropyl Betaine, Hydrated Silica, Psidium Guajava (Guava) Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Acetic Acid (Apple Cider Vinegar), Curcuma Longa (Turmeric) Root Oil, Melaleuca Alternifolia (TEA Tree) Oil, Mentha Piperita (Peppermint) Oil, Salicylic Acid, Dehydroacetic Acid, PEG-7 Glyceryl Cocoate, Propylene Glycol, Polysorbate 20, Cocamidopropyl Dimethylamine, Parfum/Fragrance, Ricinus Communis (Castor) Seed Oil, Sodium Chloride, Benzyl Alcohol, Citronellol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Guava Scalp Nourishing Treatment Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942514"
+     ],
+     "inci": "Glycine Soja (Soybean) Oil, Isopropyl Palmitate, Parfum/Fragrance, Psidium Guajava (Guava) Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Daucus Carota Sativa (Carrot) Seed Oil, Oryza Sativa (Rice) Bran Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Helianthus Annuus (Sunflower) Extract, Tocopherol (Vitamin E), Menthol, Persea Gratissima (Avocado) Oil, Ricinus Communis (Castor) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Urtica Dioica (Nettle) Extract, Equisetum Arvense (Horsetail) Extract, Glycerin, Propylene Glycol, Mentha Piperita (Peppermint) Oil, Aqua/Water, Citral, Citronellol, Linalool"
+    },
+    {
+     "nombre": "Guava Scalp Relief Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943900"
+     ],
+     "inci": "Aqua (Water), Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Psidium Guajava Fruit Extract, Zingiber Officinale (Ginger) Root Extract, Menthol, Acetic Acid (Apple Cidar Vinegar), Simmondsia Chinensis (Jojoba) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Lavandula Angustifolia (Lavender) Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Parfum (Fragrance), Phenoxyethanol, Neopentyl Glycol Diheptanoate, Isododecane, Lactic Acid, Cetrimonium Chloride, Capryloyl Glycerin/Sebacic Acid Copolymer, Diheptyl Succinate, Ethylhexylglycerin, Polyester-11, Panthenol, Disodium EDTA, Arachidyl Alcohol, Glycerin, Soy Amino Acids, Potassium Sorbate, Sodium Benzoate, Citronellol, Linalool, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Guava Style and Strengthen Cream Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006944068"
+     ],
+     "inci": "Aqua (Water), Glycerin, Polyquaternium-37, Parfum (Fragrance), Psidium Guajava (Guava) Fruit Extract, Zingiber Officinale (Ginger) Root Extract, Butyrospermum Parkii (Shea) Butter, Hydrolyzed Pea Protein, Hydrolyzed Rice Protein, Hydrolyzed Quinoa, Tocopheryl Acetate (Vitamin E), Ricinus Communis (Castor) Seed Oil, Pectin, Phenoxyethanol, Vp/Va Copolymer, Ethylhexylglycerin, Butylene Glycol, Potassium Sorbate, Benzyl Alcohol, Sodium Benzoate, Citric Acid, Citral, Citronellol, Linalool"
+    },
+    {
+     "nombre": "Hair Bath & Cleanser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943757"
+     ],
+     "inci": "Aqua/Water, Decyl Glucoside, Sorbitol, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Sclerocarya Birrea (Marula) Seed Oil, Acetic Acid (Apple Cider Vinegar), Melaleuca Alternifolia (TEA Tree) Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Lavandula Angustifolia (Lavender) Flower Oil, Glycerin, Tocopheryl Acetate (Vitamin E), Panthenol (Vitamin B5), Hydrolyzed Quinoa, Propanediol, Phenoxyethanol, Hydroxyethylcellulose, Cetrimonium Chloride, Parfum/Fragrance, Ethylhexylglycerin, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Citric Acid, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Linalool, Coumarin"
+    },
+    {
+     "nombre": "Hair Dressing Pomade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0874211002685"
+     ],
+     "inci": "Petrolatum, Butyrospermum Parkii (Shea) Butter, Paraffin, Parfum (Fragrance), Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Hair Freshener",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943764"
+     ],
+     "inci": "Aqua/Water, Glycerin, PEG-7 Glyceryl Cocoate, Polysorbate 20, Parfum (Fragrance), Dipropylene Glycol, Zinc Ricinoleate, Trisodium Dicarboxymethyl Alaninate, Sclerocarya Birrea (Marula) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Acetic Acid (Apple Cider Vinegar), Melaleuca Alternifolia (TEA Tree) Oil, Panthenol (Vitamin B5), Lavandula Angustifolia (Lavender) Flower Oil, Tocopheryl Acetate (Vitamin E), Phenoxyethanol, Hydrolized Corn Starch, Cocamidopropyl Betaine, Ethylhexylglycerin, Citric Acid, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Kids Conditioning Detangler",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015441"
+     ],
+     "inci": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Mel (Honey) Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyquaternium-37, Parfum (Fragrance), Aminopropyl Dimethicone, Ethylhexylglycerin, Polyester-11, Disodium EDTA, Cetrimonium Chloride, Trideceth-12, Laureth-23, Panthenol, Sodium Benzoate, Laureth-4, Decane, Citric Acid, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Kids Curling Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015434"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Canola Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Ceteareth-20, Glycol Stearate, Petrolatum, Cocos Nucifera (Coconut) Oil, Mel (Honey) Extract, Phenoxyethanol, PEG-75, Ceteth-20, Parfum (Fragrance), Polyquaternium-10, Ethylhexylglycerin, Tetrasodium EDTA, Citric Acid, BHT, Benzyl Benzoate, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Kids Nourishing Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015472"
+     ],
+     "inci": "Aqua (Water), Cetyl Alcohol, Stearyl Alcohol, Glycerin, Stearamidopropyl Dimethylamine, Glyceryl Stearate, Phenoxyethanol, Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Lactic Acid, Isostearyl Neopentanoate, Polyester-11, Isohexadecane, Ethylhexylglycerin, Benzyl Benzoate, Disodium EDTA, Benzyl Salicylate, Linalool, Hexyl Cinnamal, Panthenol, Geraniol, Honey Extract"
+    },
+    {
+     "nombre": "Kids Styling Custard",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015458"
+     ],
+     "inci": "Aqua (Water), Polyquaternium-37, Phenoxyethanol, Parfum (Fragrance), Corn Starch Modified, Ethylhexylglycerin, PVP, Panthenol, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Glycerin, Mel Extract (Honey), Benzyl benzoate, Benzyl salicylate, Citronellol, Geraniol, Hexyl cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Kids Tear-free Nourishing Shampoo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015465"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Methyl Oleoyl Taurate, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Lauryl Glucoside, Parfum (Fragrance), Polyquaternium-7, Citric Acid, Benzyl Benzoate, Benzyl Salicylate, Magnesium Nitrate, Linalool, Sodium Benzoate, Methylchloroisothiazolinone, Glycerin, Honey Extract, Methylisothiazolinone, Magnesium Chloride, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol"
+    },
+    {
+     "nombre": "Leave-In Conditioning Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010132"
+     ],
+     "inci": "Aqua (Water), Canola Oil, Cetyl Stearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Ceteareth-20, Glycerin, Phenoxyethanol, Parfum (Fragrance), Lactic Acid, Polyquaternium 4, Ethylhexylglycerin, Panthenol, Vitis Vinifera (Grape) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Melia Azadirachta (Neem) Seed Oil, Mangifera Indica (Mango) Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Glycine Soja (Soybean) Oil, Cocos Nucifera (Coconut) Oil, Argania Spinosa (Argan) Kernel Oil, Aloe Barbadensis (Aloe) Leaf Powder (Decolorized), Mangifera Indica (Mango) Seed Butter, Hydrolyzed Silk, Saccharum Officinarum (Sugar Cane) Extract, Pyrus Malus (Apple) Fruit Extract, Citrus Medica Limonum (Lemon) Fruit Extract, Camellia Sinensis Leaf Extract, Benzyl Alcohol, Serenoa Serrulata Fruit Extract, Camellia Oleifera Seed Extract, Arctium Lappa Root Extract, Sodium Benzoate, Potassium Sorbate, Benzyl Benzoate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Leave-In Conditioning Repair Cream salon size (709g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015526"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Canola Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Dicetyldimonium Chloride, Parfum (Fragrance), Behentrimonium Methosulfate, Olea Europaea (Olive) Fruit Oil, Capryloyl Glycerin/Sebacic Acid Copolymer, Propylene Glycol, Diheptyl Succinate, Phenoxyethanol, Ethylhexylglycerin, Polyquaternium-10, Sodium Chloride, Disodium EDTA, Citric Acid, Propylene Glycol Dicaprylate/Dicaprate, PPG-1 Trideceth-6, Panthenol, Pentaerythrityl Tetracaprylate/Tetracaprate, Citrus Aurantium Dulcis (Orange) Peel Oil, Hydroxyethylcellulose, Sodium Hyaluronate, Aloe Barbadensis (Aloe) Leaf Juice (Decolorized), Polyquaternium-37, Hydrolyzed Collagen, Hydrolyzed Wheat Protein Pg-Propyl Silanetriol, Hydrolyzed Wheat Protein, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Achillea Millefolium (Yarrow) Extract, Actinidia Chinensis (Kiwi) Fruit Extract, Silk Amino Acids, Lactobacillus Ferment, Benzyl Alcohol, Potassium Sorbate, Sodium Benzoate, Sodium Ferrocyanide, Sodium Sulfite, Benzyl Salicylate, Citral, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Mango Butter Raw Blend",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006940619"
+     ],
+     "inci": "Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Mangifera Indica (Mango) Seed Butter"
+    },
+    {
+     "nombre": "Mens Hair & Body Wash",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016769"
+     ],
+     "inci": "Aqua (Water), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Chloride, Glycol Distearate, Butyrospermum Parkii (Shea) Butter, Cannabis Sativa (Hemp) Seed Oil, Mentha Piperita (Peppermint) Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Caffeine, Salix Alba (Willow) Bark Extract, Menthol, Phenoxyethanol, Fragrance (Parfum), Laureth-4, Lauryl Lactate, Polyquaternium-10, Glyceryl Stearate, PEG-120 Methyl Glucose Dioleate, PEG-150 Distearate, Citric Acid, Ethylhexylglycerin, Sodium Benzoate, Menthyl Lactate, Glycerin , Serenoa Serrulata Fruit Extract, Camellia Oleifera Extract, Arctium Lappa Root Extract, Benzyl Benzoate, Limonene, Linalool"
+    },
+    {
+     "nombre": "Mens Leave-in / Rinse Out Conditioner",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016776"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Canola Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Caffeine, Cannabis Sativa (Hemp) Seed Oil, Olea Europaea (Olive) Fruit Oil, Arctium Lappa (Burdock) Root Extract, Serenoa Serrulata (Saw Palmetto) Fruit Extract, Camellia Sinensis Leaf Extract, Argania Spinosa (Argan) Kernel Oil, Cocos Nucifera (Coconut) Oil, Daucus Carota Sativa (Carrot) Seed Oil, Glycine Soja (Soybean) Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Oil, Mangifera Indica (Mango) Seed Butter, Melia Azadirachta (Neem) Seed Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Parfum (Fragrance), Dicetyldimonium Chloride, Behentrimonium Methosulfate, Capryloyl Glycerin/Sebacic Acid Copolymer, Propylene Glycol, Diheptyl Succinate, Ethylhexylglycerin, Phenoxyethanol, Polyquaternium-10, Sodium Chloride, Disodium EDTA, Citric Acid, Sodium Hydroxide, Sodium Ferrocyanide, Benzyl Benzoate, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Mens Cream Pomade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016783"
+     ],
+     "inci": "Aqua (Water), Polyquaternium-37, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Caffeine, Cannabis Sativa (Hemp) Seed Oil, Panthenol (Vitamin B5), Moringa Oleifera Seed Oil, Adansonia Digitata (Baobab) Oil, Aleurites Moluccanus (Kukui Nut) Seed Oil, Phyllanthus Emblica (Amla) Fruit Extract, Arctium Lappa (Burdock) Root Extract, Camellia Oleifera (Green TEA) Leaf Extract, Honey Extract, Hydrolyzed Quinoa, Tocopherol (Vitamin E), Propylene Glycol Dicaprylate/Dicaprate, Phenoxyethanol, Parfum (Fragrance), PPG-1 Trideceth-6, Ethylhexylglycerin, Corn Starch Modified, Citric Acid, Glycerin, Benzyl Alcohol, Potassium Sorbate, Sodium Benzoate, Benzyl Benzoate, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Micellar Water Pre-Conditioning Booster for low porosity hair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006942620"
+     ],
+     "inci": "Aqua (Water), Glycerin, Sorbitol, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera Fruit Juice, Cocos Nucifera (Coconut) Liquid Endosperm, Sodium Lauroyl Methyl Isethionate, Lauryl Glucoside, Cocamidopropyl Betaine, Sodium Methyl Oleoyl Taurate, Coco-Glucoside, Dehydroacetic Acid, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Cetrimonium Chloride, Polyquaternium-10, Fragrance (Parfum), Hydroxyethylcellulose, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Potassium Sorbate, Polysorbate 60, Disodium Phosphate, Sodium Phosphate, Benzyl Alcohol, Benzyl Benzoate"
+    },
+    {
+     "nombre": "Moisture Retention Styling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019265"
+     ],
+     "inci": "Aqua (Water), Carbomer, Polysorbate 20, Vp/Va Copolymer, Parfum (Fragrance), Linum Usitatissimum (Linseed) Oil (Flaxseed), Olea Europaea (Olive) Fruit Oil, Butyrospermum Parkii (Shea) Butter, Aminomethyl Propanol, Phenoxyethanol, Benzoic Acid, Ethylhexylglycerin, Glycereth-2 Cocoate, Glycerin, Disodium EDTA, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Alpha-Isomethyl Ionone, CI 19140 (Yellow 5), CI 42090 (Blue 1)"
+    },
+    {
+     "nombre": "Moisturizing Curl Activator Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010002"
+     ],
+     "inci": "Aqua (Water), Glycerin, Propanediol, Cetearyl Alcohol, Stearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Polyquaternium-10, Cetyl Alcohol, Cocos Nucifera (Coconut) Oil, Biotin (Vitamin B7), Folic Acid (Vitamin B9), Niacin (Vitamin B3), Pantothenic Acid (Vitamin B5), Cyanocobalamin (Vitamin B12), Pyridoxine (Vitamin B6), Riboflavin (Vitamin B2), Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Argania Spinosa (Argan) Kernel Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Integrifolia Seed Oil, Mangifera Indica (Mango) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera (Grape) Seed Extract, Aloe Barbadensis (Aloe) Leaf Juice, Lonicera Caprifolium (Honeysuckle) Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Hydrolyzed Silk , Persea Gratissima (Avocado) Oil, Behentrimonium Methosulfate, Phenoxyethanol, Polysorbate-60, Polyquaternium-11, Benzyl Benzoate , Polyquaternium-39, Cetrimonium Chloride, Ethylhexylglycerin, Coumarin, Silk Amino Acids, Hexyl Cinnamal, Leuconostoc/Radish Root Ferment Filtrate, Potassium Sorbate, Sodium Benzoate, Citric Acid, Caprylyl Glycol, Tocopherol, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Moisturizing Twist & Lock Gel salon size 453g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016578"
+     ],
+     "inci": "Aqua (Water), PVP, Parfum (Fragrance), Butyrospemum Parkii (Shea) Butter, Polyquaternium-37, Phenoxyethanol, Ethylhexylglycerin, Canola Oil, Glycine Soja (Soybean) Oil, Cocos Nucifera (Coconut) Oil, Argania Spinosa (Argan) Kernel Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Oil, Mangifera Indica (Mango) Seed Butter , Melia Azadirachta (Neem) Seed Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Cocos Nucifera (Coconut) Fruit Extract, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, PEG-60 Hydrogenated Castor Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice, Hydrolyzed Silk , Lonicera Caprifolium (Honeysuckle) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Silk Amino Acids, Urtica Dioica (Nettle) Extract, Vitis Vinifera (Grape) Seed Extract, Benzyl Benzoate, Benzyl Salicylate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Moisturizing Twist, Loc & Curl Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513010057"
+     ],
+     "inci": "Aqua (Water), PVP, Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Polyquaternium-37, Phenoxyethanol, Ethylhexylglycerin, Canola Oil, Glycine Soja (Soybean) Oil, Cocos Nucifera (Coconut) Oil, Argania Spinosa (Argan) Kernel Oil, Daucus Carota Sativa (Carrot) Seed Oil, Macadamia Ternifolia (Macadamia) Seed Oil, Mangifera Indica (Mango) Oil, Mangifera Indica (Mango) Seed Butter, Melia Azadirachta (Neem) Seed Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Cocos Nucifera (Coconut) Fruit Extract, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, PEG-60 Hydrogenated Castor Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice (Decolorized), Hydrolyzed Silk, Lonicera Caprifolium (Honeysuckle) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Silk Amino Acids, Urtica Dioica (Nettle) Extract, Vitis Vinifera (Grape) Seed Extract, Benzyl Benzoate, Benzyl Salicylate, Coumarin, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Restore & Replenish Leave-in Masque with Charcoal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019111"
+     ],
+     "inci": "Aqua (Water), Cetearyl Alcohol, Cetyl Alcohol, Glycerin, Glyceryl Stearate, Stearamidopropyl Dimethylamine, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Aloe Barbadensis (Aloe Vera) Leaf Juice, Butyrospermum Parkii (Shea) Butter, Amodimethicone, Polyquaternium-55, Parfum (Fragrance), Cyamopsis Tetragonoloba (Guar) Gum, Panthenol, Sodium Chloride, Potassium Citrate, Sodium Phytate, Ethylhexylglycerin, Polyquaternium-10, Hydrogenated Palm Oil, Argania Spinosa Kernel (Argan) Oil, Polyquaternium-7, Trideceth-12, Quaternium-75, Polyquaternium-11, Cetrimonium Chloride, Charcoal Activated, Sodium Benzoate, Citric Acid, Benzyl benzoate, Coumarin, Hexyl cinnamal"
+    },
+    {
+     "nombre": "Set & Refresh Foam",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006943788"
+     ],
+     "inci": "Aqua/Water, Decyl Glucoside, Hydrolyzed Corn Starch, Cocamidopropyl Betaine, PEG-7 Gyceryl Cocate, PVP, Aloe Barbadensis Leaf Juice, Sclerocarya Birrea (Marula) Seed Oil, Panthenol (Vitamin B5), Tocopheryl Acetate (Vitamin E), Acetic Acid (Apple Cider Vinegar), Althaea Officinalis (Marshmallow) Root Extract, Hydrolyzed Quinoa, Phenoxyethanol, Parfum/Fragrance, Cetrimonium Chloride, Ethylhexylglycerin, Citric Acid, Glycerin, Hexyl Cinnamal, Linalool, Coumarin, Limonene, Citronellol"
+    },
+    {
+     "nombre": "Skin Therapy Shea Butter Body Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006940558"
+     ],
+     "inci": "Aqua (Water), Glycerin, Cetyl Alcohol, Cetearyl Alcohol, Glycine Soja (Soybean) Oil, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Ceteareth-20, Phenoxyethanol, Cocos Nucifera (Coconut) Fruit Extract, Carbomer (NOS), Dimethicone, Potassium Sorbate, Ethylhexylglycerin, Hydrolyzed Jojoba Esters, Sodium Hydroxide, Tetrasodium EDTA, Benzophenone-4, Sodium Chloride, Theobroma Cacao (Cocoa) Seed Butter, Tocopheryl Acetate, Aloe Barbadensis (Aloe Vera) Leaf Extract, Sodium Ascorbyl Phosphate, Citric Acid, Sodium Benzoate, Sodium Sulfite, Citronellol, Coumarin, Hexyl cinnamal, Limonene, Linalool, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Smoothing Leave-in Conditioning Lotion",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513016219"
+     ],
+     "inci": "Aqua (Water), Glycerin, Cetyl Alcohol, Glyceryl Stearate, Stearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Distearoylethyl Dimonium Chloride, Phenoxyethanol, Parfum (Fragrance), Cetrimonium Chloride, Cetearyl Alcohol, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Capryloyl Glycerin/Sebacic Acid Copolymer, Diheptyl Succinate, Guar Hydroxypropyltrimonium Chloride, Sodium Phytate, Ethylhexylglycerin, Citric Acid, Arachidyl Alcohol, Panthenol, Lonicera Japonica (Honeysuckle) Flower Extract, Macrocystis Pyrifera (Kelp) Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Benzyl Salicylate, Citral, Coumarin, Hexyl Cinnamal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Strengthening Styling Gel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513019272"
+     ],
+     "inci": "Aqua (Water), Carbomer, Polysorbate 20, Vp/Va Copolymer, Parfum (Fragrance), Ricinus Communis (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter, Aminomethyl Propanol, Phenoxyethanol, Benzoic Acid, Ethylhexylglycerin, Glycereth-2 Cocoate, Glycerin, Disodium EDTA, Hydrolyzed Soy Protein, Benzyl Alcohol, Potassium Sorbate, Sodium Benzoate, Limonene"
+    },
+    {
+     "nombre": "Tea Tree & Jojoba Hair & Scalp Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0856017000089"
+     ],
+     "inci": "Petrolatum, Canola Oil, Butyrospermum Parkii (Shea) Butter, Isopropyl Palmitate, Phenoxyethanol, Parfum (Fragrance), Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Melaleuca Alternifolia (TEA Tree) Leaf Oil, Benzyl Salicylate, Coumarin, Linalool, Hexyl Cinnamal, Limonene"
+    },
+    {
+     "nombre": "Thermal Shield Heat Protectant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015588"
+     ],
+     "inci": "Aqua (Water), Alcohol, Polysorbate 20, Parfum (Fragrance), Vp/Va Copolymer, Sodium Methoxy PEG-16 Maleate/Styrene Sulfonate Copolymer, Phenoxyethanol, Potassium Sorbate, Sodium Bisulfite, Laurtrimonium Chloride, Butyrospermum Parkii (Shea) Butter, Citral, Benzyl Salicylate, Coumarin, Linalool, Benzyl Benzoate, Hexyl Cinnamal, Limonene"
+    },
+    {
+     "nombre": "Ultra Moisture Nourishing Hair Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0810006946383"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Elaeis Oleifera (Batana) Fruit Oil, Glycine Soja (Soybean) Oil, Parfum (Fragrance), Ricinus Communis (Castor) Seed Oil, Tocopherol (Vitamin E), Linalool, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Benzaldehyde, Rose Ketones"
+    },
+    {
+     "nombre": "Shea Butter Wave Whip Curling Mousse",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0817513015700"
+     ],
+     "inci": "Aqua (Water), PEG-25 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Phenoxyethanol, Parfum (Fragrance), Cetrimonium Chloride, Panthenol, Polyquaternium-11, Polyquaternium-55, Citric Acid, Sodium Hydroxide, Caprylyl Glycol, Butyrospermum Parkii (Shea) Butter, Benzyl Alcohol, Benzyl Benzoate, Coumarin, Hexyl Cinnamal"
     }
    ]
   }

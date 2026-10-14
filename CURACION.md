@@ -5228,6 +5228,87 @@ ingrediente).
 Scripts: `incasa/` (`items.txt`, `pdfs.txt`, `mapa.txt`, `pdf/`, `tabla.py`, `columnas.py`, `campos.py`, `pais.py`,
 `comp2.py`, `filas.py`, `construye.py`, `limpia.py`, `final.py`).
 
+### Cantu (cantubeauty.co.uk, PDC Brands) — cerrada 2026-10-14 (versión 2026-10-14-cantu): 69 productos, 71 códigos
+Marca nueva pedida por Mariana: cuidado del pelo rizado, que se vende en Primor, Druni, Amazon y supermercados. Llegó con
+un hueco: una usuaria aportó el **Shea Butter Wave Whip Curling Mousse `0817513015700`** y Mariana lo aprobó a mano.
+- **Fuente oficial**
+  - **cantu.es NO es de la marca**: es una web de afiliados de Amazon (enlaces `amazon.es/dp/…?tag=se_u2tna6c-21`). No se
+    usa.
+  - Las webs de PDC Brands son cantubeauty.com (EE. UU.), cantubeauty.co.uk y cantubeauty.fr. Las tres son WordPress.
+  - **La francesa (69 fichas) no publica ingredientes.**
+  - **La de Reino Unido sí**: un bloque "Ingredients" en cada ficha, y **el código** en los datos de Bazaarvoice de la
+    propia página (`catalogProducts … "upcs":["817513015700"]`). El UPC de 12 cifras se pasa a EAN-13 con un 0 delante y
+    se comprueba el dígito de control. Así la web oficial une código y lista.
+  - Las fichas cuelgan de las páginas de gama (enlaces "more info" relativos). Se sacaron de todas las páginas del
+    sitemap y se quitaron las repetidas: 121 fichas, 94 con lista y código válido.
+  - Va con `curl` normal, en serie con 1 s de pausa.
+  - La web avisa de que la lista "puede variar según la época y la región de compra". Por eso se contrasta todo.
+- **Hueco Wave Whip**: la lista aportada (18 ingredientes) es **idéntica, en el mismo orden, a la ficha oficial**.
+  - Druni da para el mismo código Sodium Chloride donde la web pone Sodium Hydroxide y Caprylyl Glycol.
+  - Manda la etiqueta del mismo código, que coincide con la web: entra con ese código y con la lista oficial (regla de
+    ISDIN y de Sanex Zero%).
+  - Primor no trae lista y OBF tiene la ficha (Países Bajos) sin ingredientes.
+- **Contraste con lo que se vende en España** (Druni 42 fichas, Primor 49, más OBF por cada código). Criterio de
+  coreanas: entra la lista oficial salvo que una tienda española o una etiqueta europea **del mismo código** traiga
+  otra fórmula y nada confirme la web.
+  - Confirman la web (misma lista, quitando el código de fórmula "08523-12/3AEUS:" que Druni pone delante, o "Organic"
+    pegado a una nota al pie):
+    - Ultra Moisture (5).
+    - Weightless: champú, crema, gloss, acondicionador y gel; este último lo confirma Primor.
+    - Deep Treatment Masque, Coil Calm, Thermal Shield, Avocado Curling Cream, Grow Strong, Tea Tree & Jojoba, los
+      cuatro Men y Guava Scalp Relief Conditioner.
+  - Las listas de OBF son casi todas texto leído de foto, con errores. Se usan solo cuando la diferencia es de
+    ingredientes y no de lectura.
+- **Fuera por otra fórmula en el mismo código (13)**. Cantu está reformulando: en las tiendas españolas conviven envases
+  viejos con aceite mineral, petrolatum, PEG-75 o imidazolidinyl urea.
+  - Leave-In Conditioning Repair Cream `0856017000126`: Druni, Primor y OBF de Países Bajos dan dos fórmulas antiguas.
+  - Avocado Leave-In `0817513019890`: Druni y OBF de Países Bajos.
+  - Solo Druni:
+    - Avocado Curl Activator `0817513019913`.
+    - Avocado Shampoo `0817513019876` y Avocado Conditioner `0817513019883`, sin los alérgenos de perfume.
+    - Coconut Curling Cream `0817513010033`.
+    - Define & Shine Custard `0817513010125`.
+    - Hydrating Cream Conditioner `0817513015328`.
+    - Hydrating Leave-In Mist `0817513016202`.
+    - Daily Oil Moisturizer `0856017000065`.
+    - Weightless Daily Leave-In `0810006944501`.
+    - Comeback Curl `0817513015656`: le faltan Polysorbate 60 y los fosfatos.
+  - Guava Scalp Relief Shampoo `0810006942477`: OBF de Países Bajos, sin citronelol ni linalol.
+- **Otros fuera**
+  - Cremas corporales Skin Therapy de cacao y de karité: las dos fichas dan el mismo código `0810006940572`.
+  - Tres códigos con el dígito de control mal en la web:
+    - Leave-In Repair Cream 100 ml (`0810006946388`).
+    - Coconut Oil Body Lotion (`81006940541`, 11 cifras).
+    - Whipped Buttercream (`81000694260`).
+  - Sin código: Co-Wash y Cleanse & Care Masque.
+  - Sets (Masque Trio) y accesorios.
+  - Siete códigos de Druni y Primor que no están en la web oficial: tallas de viaje y "tamaño grande" `0810006946321/
+    338/352/369`, Hair Mist Vanilla & Honey y Tropical Breeze, y los Avocado nuevos `0810006946505/536/543`. Sus listas no
+    coinciden con ninguna ficha oficial.
+- **Tallas con la misma lista en una sola ficha**: Rosemary & Mint Scalp & Hair Oil 59 ml + 95 ml; Deep Treatment Hair
+  Masque normal + 50 g.
+- **Revisión de falsos positivos y negativos**:
+  - Cada aviso se comprobó contra el ingrediente que lo dispara, y todos son reales:
+    - Sulfitos: Sodium Sulfite / Bisulfite en 10.
+    - Retinol: Retinyl Palmitate en el aceite Rosemary & Mint.
+    - Etoxilados: Laureth-4 y Laureth-23 en Kids Detangler y Men Wash.
+    - MIT/MCI en el Kids Tear-free Shampoo (se aclara).
+    - BHT en el Kids Curling Cream.
+    - D5 y D6 en el Grapeseed Leave-In.
+    - Benzophenone-4 en la Skin Therapy Lotion.
+    - Imidazolidinyl Urea en la Deep Treatment Masque.
+    - Ácido salicílico en el Guava Pre-Cleansing.
+  - Sin falsos negativos con los criterios del catálogo:
+    - Los PEG, ceteareth y trideceth no se marcan en cosmética.
+    - El petrolatum y la parafina no tienen regla.
+    - Coumarin y Hexyl Cinnamal (Wave Whip) van cubiertos por el aviso de perfume.
+  - Sin correcciones.
+  - Regresión sobre 10.098 fichas: 0 cambios, más 69 fichas nuevas de Cantu.
+- **Alternativas**: solo entran los dos Raw Blend (cacao y mango: karité, coco y la manteca). Son los únicos sin ningún
+  aviso.
+Scripts: `sxtools/cantu_db.py` (fichas UK → `uk_db.json`), `cantu_tiendas.py`, `cantu_build.py` (lista FUERA con el
+motivo de cada código).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
