@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14d",
+ "version": "2026-10-14e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -10449,6 +10449,36 @@
        "marca": "Rituals",
        "barcode": "8719134115499",
        "fechaLista": "03-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "limpiamaquinas",
+     "nombre": "Limpiadores de lavadora y lavavajillas",
+     "productos": [
+      {
+       "nombre": "Limpión Lavadoras 1 kg",
+       "marca": "Asevi",
+       "barcode": "8411582500208",
+       "fechaLista": "21-09-2026"
+      },
+      {
+       "nombre": "Limpiamáquinas para lavavajillas Somat Intensivo (líquido)",
+       "marca": "Somat",
+       "barcode": "8410436150842",
+       "fechaLista": "04-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "muebles-suelos",
+     "nombre": "Limpiadores de muebles y suelos",
+     "productos": [
+      {
+       "nombre": "Limpiador de muebles de madera lacada Nuncas Livax",
+       "marca": "Nuncas",
+       "barcode": "8001704406800",
+       "fechaLista": "04-10-2026"
       }
      ]
     }

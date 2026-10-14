@@ -45,8 +45,12 @@ TIPOS = {
   ('desatascador', 'Desatascadores', r'desatasc', r''),
   ('limpiador-cocina-bano', 'Limpiadores de cocina y baño', r'limpiador[^,]*(cocina|bano|horno|acero|paella|vitro|gres)|desincrust', r'lavavajillas|lavadora'),
   ('aditivo-colada', 'Quitamanchas y aditivos para la colada', r'quitamanchas|potenciador de lavado|blanqueador|percarbonato|tierras de sommieres|oxi (clean|white)|atrapa ?colou?r|antitransferencia', r'lavavajillas'),
-  ('basicos-limpieza', 'Básicos de limpieza (ácido cítrico, cristales de soda…)', r'acido citrico|cristales de soda|bicarbonato|sal de acedera', r''),
+  ('basicos-limpieza', 'Básicos de limpieza (ácido cítrico, cristales de soda…)', r'acido citrico|cristales de soda|bicarbonato|sal de acedera|vinagre (de )?limpieza|jabon de marsella|savon de marseille|jabon (en )?(escamas|pastilla)|carbonato (sodico|de sodio)', r''),
   ('ambientador', 'Ambientadores', r'ambientador|perfumador de (ambiente|hogar)|difusor|mikado|vela perfumada|vela aromatica|scented candle|air freshener', r'ropa'),
+  # Tipos de Hogar añadidos el 2026-10-14 (pedido de Mariana: limpios de Hogar que no tenían tipo).
+  ('limpiamaquinas', 'Limpiadores de lavadora y lavavajillas', r'limpia ?maquinas|limpion lavadoras|limpia ?lavadoras|higienizante de lavadoras|limpiador de (la )?(lavadora|lavavajillas)|machine cleaner', r''),
+  ('muebles-suelos', 'Limpiadores de muebles y suelos', r'muebles|madera|parquet|friegasuelos|limpiasuelos|fregasuelos|suelos|marmol|terracota', r'multiusos'),
+  ('limpiacristales', 'Limpiacristales', r'limpiacristales|limpia ?cristales|limpiavidrios|glass cleaner|cristales y (espejos|superficies)', r'soda'),
  ],
 }
 # Marcas que solo hacen un tipo de producto: si el nombre no lo dice, lo dice la marca.

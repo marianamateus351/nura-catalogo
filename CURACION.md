@@ -4752,6 +4752,21 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
   - En Amazon.es, Catrice tiene fichas genéricas de gama (Gel Affair, Kohl Kajal) que no dicen el tono en el título:
     con el buscador no se puede saber qué ASIN es cada tono.
   - Alternativas 2026-10-14d: 400 con enlace. Cola: 747 pendientes.
+- **Hogar: por qué de 31 limpios entraban 18** (revisado el 2026-10-14, a petición de Mariana):
+  - 10 los saca a propósito el filtro de peligrosos (decisión de Mariana del 2026-10-07): Neutrex ×2, Cloro Max,
+    Sanicentro ×2 y HG desatascador (llevan lejía o son desatascadores), y HG hornos, Asevi desincrustante, Asevi paellas
+    y Natulim sal de acedera (ácido o base fuerte entre los dos primeros ingredientes).
+    - Ojo: Asevi paellas tiene enlace de Amazon, pero no se enseña por ese filtro.
+  - 3 no tenían tipo: Asevi Limpión Lavadoras, Somat limpiamáquinas y Nuncas muebles de madera.
+  - **Tipos nuevos (alternativas 2026-10-14e):**
+    - `limpiamaquinas` (Limpiadores de lavadora y lavavajillas).
+    - `muebles-suelos` (Limpiadores de muebles y suelos).
+    - `limpiacristales` (Limpiacristales; ahora sin productos, para lo que llegue).
+    - "Básicos de limpieza" recoge además vinagre de limpieza, jabón de Marsella o en escamas y carbonato sódico.
+  - Hogar pasa a 21 y ningún otro producto cambia de tipo.
+  - La tabla se pasó a la app con `exporta_js.py` (`src/services/alternativas.js`): el escáner la usa en el próximo
+    build. La lista de Alternativas ya los enseña sin build.
+  - Los iconos de los tipos nuevos los añade Mariana en la app.
 - Orden dentro de cada tipo: por marca y nombre. Sin rankings.
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
