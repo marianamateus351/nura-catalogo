@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14e",
+ "version": "2026-10-14f",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1717,6 +1717,12 @@
        "amazon": "https://www.amazon.es/dp/B086MF1VNX"
       },
       {
+       "nombre": "Jabón de Alepo 30 % aceite de laurel",
+       "marca": "Marius Fabre",
+       "barcode": "3298651710301",
+       "fechaLista": "14-10-2026"
+      },
+      {
        "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
        "marca": "Medik8",
        "barcode": "0818625027711",
@@ -2561,6 +2567,12 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/3799/front_fr.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Gel de ducha relajante flor de azahar, ecológico",
+       "marca": "Marius Fabre",
+       "barcode": "3298659747040",
+       "fechaLista": "14-10-2026"
       },
       {
        "nombre": "Aceite de baño y ducha Stelatopia con Girasol BIO 500ml",
@@ -10298,6 +10310,66 @@
      "nombre": "Detergentes para la ropa",
      "productos": [
       {
+       "nombre": "Detergente líquido Biobel 0% (sin perfume)",
+       "marca": "Biobel",
+       "barcode": "8421427068077",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de coco Biobel 0% para la colada (sin perfume, pastilla)",
+       "marca": "Biobel",
+       "barcode": "8421427063089",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón líquido Biobel para la colada de bebés y prendas delicadas",
+       "marca": "Biobel",
+       "barcode": "8421427067032",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
+       "marca": "Ecodoo",
+       "barcode": "3380380065460",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
+       "marca": "Lagarto",
+       "barcode": "8410761000898",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido con copos de jabón de Marsella y bicarbonato (Lessive liquide aux copeaux de savon de Marseille et bicarbonate)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651720928",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma (Copeaux de savon)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651720829",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada (Savon de Marseille)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651721659",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de Marsella para la colada, sin aceite de palma (Savon de Marseille pour le linge)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651716822",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de Marsella verde de aceite de oliva para la colada (Savon de Marseille vert)",
+       "marca": "Marius Fabre",
+       "barcode": "3298659747132",
+       "fechaLista": "14-10-2026"
+      },
+      {
        "nombre": "Detergente en polvo Wipp Express",
        "marca": "Wipp Express",
        "barcode": "8410436447324",
@@ -10323,11 +10395,41 @@
      "nombre": "Lavavajillas",
      "productos": [
       {
+       "nombre": "Lavavajillas manual Biobel (aceite esencial de limón)",
+       "marca": "Biobel",
+       "barcode": "8421427065021",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas sólido Biobel",
+       "marca": "Biobel",
+       "barcode": "8421427040752",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Pastillas lavavajillas Biobel",
+       "marca": "Biobel",
+       "barcode": "8421427065328",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano hipoalergénico sin perfume (Liquide vaisselle douceur sans parfum)",
+       "marca": "Ecodoo",
+       "barcode": "3380380078798",
+       "fechaLista": "14-10-2026"
+      },
+      {
        "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
        "marca": "La Droguería 1919",
        "barcode": "8410498240079",
        "fechaLista": "04-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DG2Z4HXG"
+      },
+      {
+       "nombre": "Lavavajillas líquido con copos de jabón de Marsella (Liquide vaisselle aux copeaux de savon de Marseille, sans parfum)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651716853",
+       "fechaLista": "14-10-2026"
       }
      ]
     },
@@ -10335,6 +10437,24 @@
      "key": "multiusos",
      "nombre": "Multiusos",
      "productos": [
+      {
+       "nombre": "Limpiahogar multiusos Biobel (aceite esencial de citronela)",
+       "marca": "Biobel",
+       "barcode": "8421427069319",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Limpiahogar multiusos Biobel 0% (sin perfume)",
+       "marca": "Biobel",
+       "barcode": "8421427069371",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Vinagre de limpieza multiusos Biobel",
+       "marca": "Biobel",
+       "barcode": "8421427069418",
+       "fechaLista": "14-10-2026"
+      },
       {
        "nombre": "Limpiador multiusos con vinagre en spray Disiclin",
        "marca": "Disiclin",
@@ -10348,6 +10468,42 @@
        "fechaLista": "04-10-2026"
       },
       {
+       "nombre": "Bicarbonato de sodio multiusos (Bicarbonate de soude)",
+       "marca": "Ecodoo",
+       "barcode": "3380380064852",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Crema limpiadora multiusos (Crème à récurer)",
+       "marca": "Ecodoo",
+       "barcode": "3380380048487",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Gel de vinagre multiusos (Gel vinaigre ménager)",
+       "marca": "Ecodoo",
+       "barcode": "3380380078781",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Tierra de diatomeas multiusos (Terre de diatomée)",
+       "marca": "Ecodoo",
+       "barcode": "3380380111693",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Vinagre blanco doméstico multiusos 12 % (Vinaigre ménager)",
+       "marca": "Ecodoo",
+       "barcode": "3380380064869",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Bicarbonato sódico Hacendado multiusos (1 kg y 300 g)",
+       "marca": "Hacendado",
+       "barcode": "8480000290076",
+       "fechaLista": "14-10-2026"
+      },
+      {
        "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
        "marca": "La Droguería 1919",
        "barcode": "8410498240000",
@@ -10358,6 +10514,36 @@
        "marca": "La Droguería 1919",
        "barcode": "8410498240017",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Bicarbonato sódico multiusos (Bicarbonate de soude)",
+       "marca": "Marius Fabre",
+       "barcode": "3298651714651",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón en pasta multiusos con aceite de oliva (Savon pâte grattant)",
+       "marca": "Marius Fabre",
+       "barcode": "3298659746999",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos en pasta con aceite de oliva (Savon noir mou)",
+       "marca": "Marius Fabre",
+       "barcode": "3298650401101",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos líquido con aceite de oliva (Savon noir liquide)",
+       "marca": "Marius Fabre",
+       "barcode": "3298656600782",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos para el jardín (Savon noir spécial jardin)",
+       "marca": "Marius Fabre",
+       "barcode": "3298656600768",
+       "fechaLista": "14-10-2026"
       }
      ]
     },
@@ -10383,6 +10569,30 @@
      "key": "aditivo-colada",
      "nombre": "Quitamanchas y aditivos para la colada",
      "productos": [
+      {
+       "nombre": "Jabón blando quitamanchas natural Beltrán",
+       "marca": "Beltrán",
+       "barcode": "8421427004501",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón quitamanchas ecológico Beltrán Eco",
+       "marca": "Beltrán",
+       "barcode": "8421427019413",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón quitamanchas Biobel (jabón potásico, con sello Vital)",
+       "marca": "Biobel",
+       "barcode": "8421427064567",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Percarbonato de sodio Biobel (blanqueador)",
+       "marca": "Biobel",
+       "barcode": "8421427064017",
+       "fechaLista": "14-10-2026"
+      },
       {
        "nombre": "Oxi Clean potenciador de lavado",
        "marca": "Natulim",
@@ -10425,6 +10635,30 @@
      "key": "basicos-limpieza",
      "nombre": "Básicos de limpieza (ácido cítrico, cristales de soda…)",
      "productos": [
+      {
+       "nombre": "Ácido cítrico limpiador Biobel",
+       "marca": "Biobel",
+       "barcode": "8421427069616",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Vinagre de Limpieza Bosque Verde concentrado",
+       "marca": "Bosque Verde",
+       "barcode": "8480000494023",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Cristales de soda (Cristaux de soude)",
+       "marca": "Ecodoo",
+       "barcode": "3380380076671",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Ácido cítrico limpiador (Acide citrique)",
+       "marca": "Ecodoo",
+       "barcode": "3380380076619",
+       "fechaLista": "14-10-2026"
+      },
       {
        "nombre": "Cristales de soda (recarga)",
        "marca": "Natulim",
@@ -10479,6 +10713,18 @@
        "marca": "Nuncas",
        "barcode": "8001704406800",
        "fechaLista": "04-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "limpiacristales",
+     "nombre": "Limpiacristales",
+     "productos": [
+      {
+       "nombre": "Limpiacristales Biobel (sin perfume)",
+       "marca": "Biobel",
+       "barcode": "8421427069012",
+       "fechaLista": "14-10-2026"
       }
      ]
     }

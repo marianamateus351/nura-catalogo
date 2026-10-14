@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14-cantub",
+ "version": "2026-10-14-hogara",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -7584,6 +7584,15 @@
    "barcodes": [
     "8470001837479",
     "8470001837486"
+   ]
+  },
+  {
+   "marcaKey": "bosqueverde",
+   "marca": "Bosque Verde",
+   "nombre": "Vinagre de Limpieza Bosque Verde concentrado",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480000494023"
    ]
   },
   {
@@ -15499,6 +15508,560 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "0810006940619"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Bicarbonato sódico multiusos (Bicarbonate de soude)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651714651"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón negro multiusos líquido con aceite de oliva (Savon noir liquide)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298656600782",
+    "3298659558806",
+    "3298659558813",
+    "3298650501016",
+    "3298650501054"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón negro multiusos en pasta con aceite de oliva (Savon noir mou)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298650401101"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón negro multiusos para el jardín (Savon noir spécial jardin)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298656600768",
+    "3298656600744"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón en pasta multiusos con aceite de oliva (Savon pâte grattant)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298659746999"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Lavavajillas líquido con copos de jabón de Marsella (Liquide vaisselle aux copeaux de savon de Marseille, sans parfum)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651716853",
+    "3298651716846"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Detergente líquido con copos de jabón de Marsella y bicarbonato (Lessive liquide aux copeaux de savon de Marseille et bicarbonate)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651720928",
+    "3298651720942"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón de Marsella para la colada, sin aceite de palma (Savon de Marseille pour le linge)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651716822",
+    "3298651716785",
+    "3298651719427",
+    "3298651716792",
+    "3298651719441",
+    "3298651719465",
+    "3298651722694"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma (Copeaux de savon)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651720829",
+    "3298651716808",
+    "3298651718789"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón de Marsella verde de aceite de oliva para la colada (Savon de Marseille vert)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298659747132",
+    "3298659747149",
+    "3298652000425",
+    "3298651722687",
+    "3298651718482",
+    "3298659747170",
+    "3298651700234",
+    "3298651719434",
+    "3298651700166",
+    "3298651715641",
+    "3298651718468",
+    "3298651720911",
+    "3298652009060",
+    "3298652000234",
+    "3298651719458",
+    "3298651719472",
+    "3298651722861",
+    "3298651710066",
+    "3298651710684",
+    "3298651719502"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada (Savon de Marseille)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3298651721659",
+    "3298651721161"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón líquido de Marsella sin perfume 500ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651700258"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón líquido de Marsella sin perfume 400ml, 1L",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651713333",
+    "3298651713470"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón líquido de Marsella sin perfume 5L",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651711124"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón líquido de oliva y laurel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298659888903",
+    "3298659888910"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón en pastilla de aceite de oliva sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651716525",
+    "3298651721260"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón de Alepo con aceite de laurel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298659888897"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón de Alepo 30 % aceite de laurel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651710301"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Jabón negro corporal con aceite de oliva",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298651713777"
+   ]
+  },
+  {
+   "marcaKey": "mariusfabre",
+   "marca": "Marius Fabre",
+   "nombre": "Gel de ducha relajante flor de azahar, ecológico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3298659747040"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Bicarbonato de sodio multiusos (Bicarbonate de soude)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380064852",
+    "3380380070310"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Ácido cítrico limpiador (Acide citrique)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380076619",
+    "3380380111679"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Cristales de soda (Cristaux de soude)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380076671",
+    "3380380111686"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Tierra de diatomeas multiusos (Terre de diatomée)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380111693"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380065460",
+    "3380380065477"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Vinagre blanco doméstico multiusos 12 % (Vinaigre ménager)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380064869",
+    "3380380078774"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Gel de vinagre multiusos (Gel vinaigre ménager)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380078781"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Quitamanchas en spray para la ropa",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380048180"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Limpiador de frutas y verduras (Nettoyant fruits legumes)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380079061"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Limpiador antical en spray",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380048128"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Crema limpiadora multiusos (Crème à récurer)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380048487"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Desengrasante horno y barbacoa (Nettoyant fours insert barbecue)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380390900607"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Limpiador gel wc (Limpia WC gel)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380390900614"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Desatascador de tuberías (Déboucheur canalisations)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380073472"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Lavavajillas a mano hipoalergénico sin perfume (Liquide vaisselle douceur sans parfum)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380078798",
+    "3380380089046"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Abrillantador lavavajillas (Liquide de rincage)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380390900584"
+   ]
+  },
+  {
+   "marcaKey": "ecodoo",
+   "marca": "Ecodoo",
+   "nombre": "Gel para lavavajillas (Gel lave-vaisselle)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3380380050787"
+   ]
+  },
+  {
+   "marcaKey": "lagarto",
+   "marca": "Lagarto",
+   "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8410761000898"
+   ]
+  },
+  {
+   "marcaKey": "beltran",
+   "marca": "Beltrán",
+   "nombre": "Jabón blando quitamanchas natural Beltrán",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427004501"
+   ]
+  },
+  {
+   "marcaKey": "beltran",
+   "marca": "Beltrán",
+   "nombre": "Jabón quitamanchas ecológico Beltrán Eco",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427019413"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Limpiahogar multiusos Biobel 0% (sin perfume)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427069371"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Jabón de coco Biobel 0% para la colada (sin perfume, pastilla)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427063089"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Detergente líquido Biobel 0% (sin perfume)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427068077"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Lavavajillas sólido Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427040752"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Ácido cítrico limpiador Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427069616",
+    "8421427069654"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Vinagre de limpieza multiusos Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427069418"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Pastillas lavavajillas Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427065328"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Abrillantador lavavajillas Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427065526"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Lavavajillas manual Biobel (aceite esencial de limón)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427065021",
+    "8421427065182"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Limpiacristales Biobel (sin perfume)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427069012"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Limpiahogar multiusos Biobel (aceite esencial de citronela)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427069319",
+    "8421427069357",
+    "8421427069326"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Jabón quitamanchas Biobel (jabón potásico, con sello Vital)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427064567"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Percarbonato de sodio Biobel (blanqueador)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427064017"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Sal para lavavajillas Biobel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427065410"
+   ]
+  },
+  {
+   "marcaKey": "biobel",
+   "marca": "Biobel",
+   "nombre": "Jabón líquido Biobel para la colada de bebés y prendas delicadas",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8421427067032",
+    "8421427067056"
+   ]
+  },
+  {
+   "marcaKey": "hacendado",
+   "marca": "Hacendado",
+   "nombre": "Bicarbonato sódico Hacendado multiusos (1 kg y 300 g)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480000290076",
+    "8480000290069"
    ]
   }
  ]
