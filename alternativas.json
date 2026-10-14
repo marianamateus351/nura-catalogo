@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14b",
+ "version": "2026-10-14c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2511,13 +2511,15 @@
        "nombre": "Skin Therapy Cocoa Butter Raw Blend (manteca corporal para piel y pelo)",
        "marca": "Cantu",
        "barcode": "0810006940602",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08SHFNV2L"
       },
       {
        "nombre": "Skin Therapy Mango Butter Raw Blend (manteca corporal para piel y pelo)",
        "marca": "Cantu",
        "barcode": "0810006940619",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08SJFFBPV"
       },
       {
        "nombre": "Loción Hidratante Intensiva",

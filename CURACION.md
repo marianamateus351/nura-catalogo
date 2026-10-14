@@ -5310,6 +5310,10 @@ un hueco: una usuaria aportó el **Shea Butter Wave Whip Curling Mousse `0817513
   - La ficha oficial dice que son de la línea Skin Therapy, "for dry skin or hair". Se renombran a "Skin Therapy … Raw
     Blend (manteca corporal para piel y pelo)" y quedan en el tipo Cremas y aceites corporales (versión
     2026-10-14-cantub).
+  - Enlaces de Amazon, buscados con el buscador (alternativas 2026-10-14c, 375 → 377):
+    - Cacao `0810006940602` → `B08SHFNV2L`.
+    - Mango `0810006940619` → `B08SJFFBPV`.
+    - Las dos son fichas de un bote de 156 g, con el fabricante PDC Brands (la marca), no packs.
 Scripts: `sxtools/cantu_db.py` (fichas UK → `uk_db.json`), `cantu_tiendas.py`, `cantu_build.py` (lista FUERA con el
 motivo de cada código).
 
