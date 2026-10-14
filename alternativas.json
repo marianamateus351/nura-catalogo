@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14c",
+ "version": "2026-10-14d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -26,6 +26,8 @@
        "nombre": "Deo Papertube Green Fusion",
        "marca": "Ben & Anna",
        "barcode": "4260491222220",
+       "imagen": "https://images.openbeautyfacts.org/images/products/426/049/122/2220/front_nl.16.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026"
       },
       {
@@ -51,12 +53,16 @@
        "nombre": "Deocreme Persian Lime",
        "marca": "Ben & Anna",
        "barcode": "4260491220875",
+       "imagen": "https://images.openbeautyfacts.org/images/products/426/049/122/0875/front_nl.11.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Deocreme Pink Grapefruit",
        "marca": "Ben & Anna",
        "barcode": "4260491220899",
+       "imagen": "https://images.openbeautyfacts.org/images/products/426/049/122/0899/front_de.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026"
       },
       {
@@ -70,6 +76,8 @@
        "nombre": "Deostick Refill \"Persian Lime\" / Refill Case und Deostick Refill \"Persian Lime\" / Papertube Persian Lime 25gr / Deo Papertube Persian Lime",
        "marca": "Ben & Anna",
        "barcode": "4260491226273",
+       "imagen": "https://images.openbeautyfacts.org/images/products/426/049/122/2275/front_nl.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026"
       },
       {
@@ -82,6 +90,8 @@
        "nombre": "Desodorante Stick Natural Vinofresh",
        "marca": "Caudalie",
        "barcode": "3522930003304",
+       "imagen": "https://images.openbeautyfacts.org/images/products/352/293/000/3304/front_en.13.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -120,6 +130,8 @@
        "nombre": "Agua micelar dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146578",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/6578/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09J8XHY24"
       },
@@ -175,6 +187,8 @@
        "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
        "marca": "Anua",
        "barcode": "8809640735462",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/6148/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D59WLP96"
       },
@@ -182,6 +196,8 @@
        "nombre": "Aceite limpiador relipidizante",
        "marca": "Avène",
        "barcode": "3282770391855",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1855/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
@@ -202,12 +218,16 @@
        "nombre": "Gel limpiador purificante",
        "marca": "Avène",
        "barcode": "3282770150261",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/0261/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "HYDRA Crema limpiadora calmante",
        "marca": "Avène",
        "barcode": "3282770390476",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/0476/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07K22MWLJ"
       },
@@ -228,6 +248,8 @@
        "nombre": "XeraCalm A.D Aceite Limpiador Relipidizante",
        "marca": "Avène",
        "barcode": "3282770389883",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/038/9883/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00EYOHGPU"
       },
@@ -242,6 +264,8 @@
        "nombre": "XERACALM AD Aceite Limpiador Relipidizante",
        "marca": "Avène",
        "barcode": "3282771000299",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/100/0299/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00EYOHGPU"
       },
@@ -249,6 +273,8 @@
        "nombre": "Aceite limpiador Ginseng Cleansing Oil",
        "marca": "Beauty of Joseon",
        "barcode": "8809968130130",
+       "imagen": "https://images.openproductsfacts.org/images/products/880/996/813/0130/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B45M89LX"
       },
@@ -283,6 +309,8 @@
        "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
        "marca": "Byphasse",
        "barcode": "8436097094424",
+       "imagen": "https://images.openbeautyfacts.org/images/products/843/609/709/4424/front_ka.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -296,6 +324,8 @@
        "nombre": "Limpiador en Aceite Espumoso Hidratante",
        "marca": "CeraVe",
        "barcode": "3337875773447",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/577/3447/front_en.8.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09CCJD53W"
       },
@@ -310,6 +340,8 @@
        "nombre": "Desmaquillante bifásico de ojos Cien 100 ml",
        "marca": "Cien (Lidl)",
        "barcode": "4056489447061",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/648/944/7061/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-09-2026"
       },
       {
@@ -330,12 +362,16 @@
        "nombre": "Agua micelar desmaquillante, para pieles secas y sensibles COSMIA Sensitive 500 ml",
        "marca": "Cosmia",
        "barcode": "3245678599716",
+       "imagen": "https://images.openbeautyfacts.org/images/products/324/567/859/9716/front_fr.26.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Desmaquillante de ojos con pro-vitamina B5, para pieles sensibles 150 ml",
        "marca": "Cosmia",
        "barcode": "3245678599655",
+       "imagen": "https://images.openbeautyfacts.org/images/products/324/567/859/9655/front_fr.25.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -355,6 +391,8 @@
        "nombre": "Anti-Pigment Gel Limpiador",
        "marca": "Eucerin",
        "barcode": "4005800346408",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/580/034/6408/front_ar.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DV9RFP1P"
       },
@@ -374,12 +412,16 @@
        "nombre": "Agua Micelar Mini 1 U",
        "marca": "Garnier",
        "barcode": "3600542081160",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/054/208/1160/front_ar.14.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
        "marca": "Garnier",
        "barcode": "3600541358485",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/054/135/8485/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00X9U0N5K"
       },
@@ -387,6 +429,8 @@
        "nombre": "Desmaquillante de Ojos 2 en 1",
        "marca": "Garnier",
        "barcode": "3600541361249",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/054/136/1249/front_es.8.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00X9U0WME"
       },
@@ -498,6 +542,8 @@
        "nombre": "Desmaquillante de Maquillaje de Ojos Waterproof",
        "marca": "La Roche-Posay",
        "barcode": "3433422401907",
+       "imagen": "https://images.openbeautyfacts.org/images/products/343/342/240/1907/front_en.16.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B000V3MGFS"
       },
@@ -505,6 +551,8 @@
        "nombre": "Toleriane Dermolimpiador",
        "marca": "La Roche-Posay",
        "barcode": "3337872411830",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/241/1830/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B000IOBEG2"
       },
@@ -512,6 +560,8 @@
        "nombre": "Toleriane Gel Espumoso Doble Limpiador Hidratante Purificante",
        "marca": "La Roche-Posay",
        "barcode": "3337875545822",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/554/5822/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
@@ -568,6 +618,8 @@
        "nombre": "Aceite limpiador Centella Light Cleansing Oil",
        "marca": "SKIN1004",
        "barcode": "8809576261226",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1110/front_fr.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CZTT9JXV"
       },
@@ -623,6 +675,8 @@
        "nombre": "SENSIFINE Dermo-Nettoyant",
        "marca": "SVR",
        "barcode": "3401360084063",
+       "imagen": "https://images.openbeautyfacts.org/images/products/340/136/008/4063/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B01D7VEVMG"
       },
@@ -651,12 +705,16 @@
        "nombre": "Desmaquillante de ojos bifásico",
        "marca": "Uriage",
        "barcode": "3661434003691",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/3691/front_fr.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Toléderm Gel-leche desmaquillante",
        "marca": "Uriage",
        "barcode": "3661434009440",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/9440/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BW9DM12J"
       },
@@ -664,6 +722,8 @@
        "nombre": "Pureté Thermale Agua Micelar 3 en 1",
        "marca": "Vichy",
        "barcode": "3337875674942",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/567/4942/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       }
      ]
@@ -696,6 +756,8 @@
        "nombre": "Crema rica dermatológica hidratante",
        "marca": "A-Derma",
        "barcode": "3282770146615",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/6615/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09J8WSQG7"
       },
@@ -703,6 +765,8 @@
        "nombre": "Dermalibour+ CICA-Crema reparadora purificante",
        "marca": "A-Derma",
        "barcode": "3282770141962",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1962/front_fr.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B091BJ13BC"
       },
@@ -758,6 +822,8 @@
        "nombre": "Aqua Gel-Crema Regeneradora Celular",
        "marca": "Avène",
        "barcode": "3282770400731",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/040/0731/front_el.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CNKMFVK4"
       },
@@ -772,6 +838,8 @@
        "nombre": "Control Crema calmante reparadora de Cosmética estéril®",
        "marca": "Avène",
        "barcode": "3282770138801",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/013/8801/front_fr.12.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08XYV3YGB"
       },
@@ -793,6 +861,8 @@
        "nombre": "Hydra-10 Fluido Hidratante",
        "marca": "Avène",
        "barcode": "3282770388299",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/038/8299/front_zh.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0B47CY8PQ"
       },
@@ -800,6 +870,8 @@
        "nombre": "Crema hidratante Dynasty Cream",
        "marca": "Beauty of Joseon",
        "barcode": "8809525249565",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/952/524/9565/front_nl.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08WJQ3XJD"
       },
@@ -807,6 +879,8 @@
        "nombre": "Gel hidratante Red Bean Water Gel",
        "marca": "Beauty of Joseon",
        "barcode": "8809738316993",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/6993/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BJPJGG13"
       },
@@ -814,6 +888,8 @@
        "nombre": "Sensibio Defensive Crema Activa Calmante",
        "marca": "Bioderma",
        "barcode": "3701129804445",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/4445/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09BRJQYHN"
       },
@@ -821,6 +897,8 @@
        "nombre": "Crema Hidratante Intensiva",
        "marca": "CeraVe",
        "barcode": "3337875923903",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/592/3897/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FHQ1Z14S"
       },
@@ -941,6 +1019,8 @@
        "nombre": "Crema Hyaluronic Acid Aqua Gel Cream",
        "marca": "Isntree",
        "barcode": "8809686383566",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/968/638/3566/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08BP5X1YZ"
       },
@@ -967,6 +1047,8 @@
        "nombre": "Crema hidratante a la Caléndula BIO",
        "marca": "Klorane",
        "barcode": "3282770391107",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1107/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -979,6 +1061,8 @@
        "nombre": "Toleriane Dermallergo Crema",
        "marca": "La Roche-Posay",
        "barcode": "3337875757614",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/575/7614/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPGJC3B"
       },
@@ -986,6 +1070,8 @@
        "nombre": "Toleriane Dermallergo Fluido",
        "marca": "La Roche-Posay",
        "barcode": "3337875757669",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/575/7669/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPHF489"
       },
@@ -1026,6 +1112,8 @@
        "nombre": "Crema hidratante fortalecedora Ceramide Protect para piel muy seca",
        "marca": "Mixa",
        "barcode": "3600551153179",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/055/115/3179/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "04-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BCLKDL4S"
       },
@@ -1066,6 +1154,8 @@
        "nombre": "Crema 1025 Dokdo Cream",
        "marca": "Round Lab",
        "barcode": "8809738600245",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/860/0245/front_nl.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08FM81QBZ"
       },
@@ -1098,6 +1188,8 @@
        "nombre": "Crema Hyalu-Cica Moisture Cream",
        "marca": "SKIN1004",
        "barcode": "8809576261493",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1493/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B09XKFFQQX"
       },
@@ -1124,6 +1216,8 @@
        "nombre": "Crema Probio-Cica Enrich Cream",
        "marca": "SKIN1004",
        "barcode": "8809913830245",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1769/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BTPGPK7H"
       },
@@ -1137,6 +1231,8 @@
        "nombre": "CICAVIT+ Crème HPPI",
        "marca": "SVR",
        "barcode": "3662361004645",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4645/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
       },
@@ -1151,6 +1247,8 @@
        "nombre": "SENSIFINE AR Creme",
        "marca": "SVR",
        "barcode": "3401360167872",
+       "imagen": "https://images.openbeautyfacts.org/images/products/340/136/016/7872/front_it.11.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B01LZYAQ6G"
       },
@@ -1224,6 +1322,8 @@
        "nombre": "Toléderm Control Crema rica",
        "marca": "Uriage",
        "barcode": "3661434023514",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/402/3514/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08TRLRY1Z"
       },
@@ -1231,12 +1331,16 @@
        "nombre": "Liftactiv Collagen Specialist 16 Crema de Día",
        "marca": "Vichy",
        "barcode": "3337875607254",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/560/7254/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Liftactiv Collagen Specialist 16 Crema de Noche",
        "marca": "Vichy",
        "barcode": "3337875722520",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/572/2520/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       }
      ]
@@ -1268,6 +1372,8 @@
        "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
        "marca": "Anua",
        "barcode": "8809640730283",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/4717/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08CMVXQ9W"
       },
@@ -1275,6 +1381,8 @@
        "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
        "marca": "Anua",
        "barcode": "8809640734526",
+       "imagen": "https://images.openproductsfacts.org/images/products/880/964/073/4526/front_en.16.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DL92QM79"
       },
@@ -1282,6 +1390,8 @@
        "nombre": "Sérum PDRN Hyaluronic Acid Capsule 100 Serum",
        "marca": "Anua",
        "barcode": "8809640736667",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/8616/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DSVF8HGZ"
       },
@@ -1296,6 +1406,8 @@
        "nombre": "Cleanance Comedomed Concentrado Anti-imperfecciones",
        "marca": "Avène",
        "barcode": "3282770202854",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/020/2854/front_fr.14.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07X57KX68"
       },
@@ -1343,6 +1455,8 @@
        "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
        "marca": "Beauty of Joseon",
        "barcode": "8809738312728",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/2728/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09DLFCB69"
       },
@@ -1350,6 +1464,8 @@
        "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
        "marca": "Beauty of Joseon",
        "barcode": "8809657114960",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/965/711/4960/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B086VKZZZY"
       },
@@ -1364,6 +1480,8 @@
        "nombre": "Sérum Revive Serum: Ginseng + Snail Mucin",
        "marca": "Beauty of Joseon",
        "barcode": "8809738316139",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/6139/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B3R1R2DG"
       },
@@ -1405,6 +1523,8 @@
        "nombre": "Sérum The 6 Peptide Skin Booster Serum",
        "marca": "COSRX",
        "barcode": "8800311122611",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CCJ3SRB9"
       },
@@ -1559,6 +1679,8 @@
        "nombre": "Cica-Sérum al Cupuaçu BIO",
        "marca": "Klorane",
        "barcode": "3282770150643",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/0643/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -1624,6 +1746,8 @@
        "nombre": "Ampolla Centella Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576260663",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/0601/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B06Y15D1LH"
       },
@@ -1676,6 +1800,8 @@
        "nombre": "Ampolla Tone Brightening Capsule Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576261417",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1417/front_en.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DBR61WV9"
       },
@@ -1683,6 +1809,8 @@
        "nombre": "Sérum Hyalu-Cica Blue Serum",
        "marca": "SKIN1004",
        "barcode": "8809576261059",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1059/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B5X9R9XK"
       },
@@ -1690,6 +1818,8 @@
        "nombre": "[B3] Ampoule Hydra",
        "marca": "SVR",
        "barcode": "3662361000937",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/0937/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       },
       {
@@ -1730,6 +1860,8 @@
        "nombre": "Ascorbyl Glucoside Solution 12% 30 ml",
        "marca": "The Ordinary",
        "barcode": "0769915195668",
+       "imagen": "https://images.openproductsfacts.org/images/products/076/991/519/5668/front_it.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BSS7LZWW"
       },
@@ -1776,6 +1908,8 @@
        "nombre": "Sérum DIVE IN Serum",
        "marca": "Torriden",
        "barcode": "8809504741653",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/950/474/1653/front_pt.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B086BYF16T"
       },
@@ -1789,6 +1923,8 @@
        "nombre": "Dépiderm Sérum antimanchas",
        "marca": "Uriage",
        "barcode": "3661434009754",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/9754/front_es.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
@@ -1816,6 +1952,8 @@
        "nombre": "Liftactiv Pigment Specialist B3 Sérum Antimanchas",
        "marca": "Vichy",
        "barcode": "3337875734905",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/573/4905/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09L5SNZ6N"
       },
@@ -1823,6 +1961,8 @@
        "nombre": "Minéral 89 Concentrado de Fracciones de Probióticos",
        "marca": "Vichy",
        "barcode": "3337875762908",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/576/2908/front_en.8.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08YNR42SX"
       },
@@ -1830,6 +1970,8 @@
        "nombre": "Minéral 89 Sérum Hidratante y Rellenador Diario",
        "marca": "Vichy",
        "barcode": "3337875543248",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/554/3248/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B06XC5PQGL"
       }
@@ -1843,6 +1985,8 @@
        "nombre": "Comedomed+ Fluido intensivo antiimperfecciones SPF30",
        "marca": "Avène",
        "barcode": "3282771001432",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/100/1432/front_fr.8.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
@@ -1862,6 +2006,8 @@
        "nombre": "Crema SPF 50+ sin perfume",
        "marca": "Avène",
        "barcode": "3282770149494",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9494/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09R7LXTNF"
       },
@@ -1907,6 +2053,8 @@
        "nombre": "Intense Protect SPF 50+ Fluido",
        "marca": "Avène",
        "barcode": "3282770141214",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1214/front_fr.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08YR2CD11"
       },
@@ -1914,6 +2062,8 @@
        "nombre": "Intense Protect SPF50+",
        "marca": "Avène",
        "barcode": "3282770395938",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/5938/front_en.14.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08YR2CD11"
       },
@@ -1928,6 +2078,8 @@
        "nombre": "SPF 50+ concentrado hidratante protector",
        "marca": "Avène",
        "barcode": "3282770395235",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/5235/front_de.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DWPCRGH1"
       },
@@ -1935,6 +2087,8 @@
        "nombre": "Ultra Fluido Invisible SPF50",
        "marca": "Avène",
        "barcode": "3282770397376",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/7376/front_es.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0D9P3VJNG"
       },
@@ -1976,6 +2130,8 @@
        "nombre": "Ultra Stick SPF50",
        "marca": "Avène",
        "barcode": "3282771000916",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/100/0916/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0GR6C6FPS"
       },
@@ -1983,6 +2139,8 @@
        "nombre": "Photoderm Pediatrics Mineral SPF50+",
        "marca": "Bioderma",
        "barcode": "3701129807309",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/7309/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BZX2YQ5T"
       },
@@ -1990,6 +2148,8 @@
        "nombre": "Photoderm Pediatrics Spray SPF50+",
        "marca": "Bioderma",
        "barcode": "3701129807316",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/7316/front_en.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BZX26VF5"
       },
@@ -2003,6 +2163,8 @@
        "nombre": "Stick Solar Invisible de Alta Protección SPF50",
        "marca": "Caudalie",
        "barcode": "3522930005391",
+       "imagen": "https://images.openbeautyfacts.org/images/products/352/293/000/5391/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CX5CPLG6"
       },
@@ -2017,6 +2179,8 @@
        "nombre": "Protector solar Ultra-Light Invisible Sunscreen SPF 50+",
        "marca": "COSRX",
        "barcode": "8809598456242",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CYS776TR"
       },
@@ -2030,6 +2194,8 @@
        "nombre": "Sun Face Photoaging Control Fluid FPS 50+",
        "marca": "Eucerin",
        "barcode": "4005800145193",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/580/014/5193/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B01FFSV4M4"
       },
@@ -2056,6 +2222,8 @@
        "nombre": "Fotoprotector ISDIN Invisible Stick SPF 50",
        "marca": "ISDIN",
        "barcode": "8429420280878",
+       "imagen": "https://images.openbeautyfacts.org/images/products/842/942/028/0878/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CWB3L66Q"
       },
@@ -2076,6 +2244,8 @@
        "nombre": "Anthelios Dermo-Pediatrics Loción Wet Skin SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875845489",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/584/5489/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0C3WP74H2"
       },
@@ -2083,6 +2253,8 @@
        "nombre": "Anthelios Family Spray SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875799348",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/579/9348/front_el.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09WHXRY5H"
       },
@@ -2090,6 +2262,8 @@
        "nombre": "Anthelios Leche Hidratante SPF50+ Eco-sostenible",
        "marca": "La Roche-Posay",
        "barcode": "3337875847353",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/584/7353/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BW9DNT9W"
       },
@@ -2097,6 +2271,8 @@
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Fluido Invisible SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875886307",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/6307/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CX245CRL"
       },
@@ -2104,6 +2280,8 @@
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Loción Hidratante SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875888851",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/8851/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CX26YRQ3"
       },
@@ -2111,6 +2289,8 @@
        "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Spray Invisible SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875886055",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/6055/front_en.8.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CX26NBS7"
       },
@@ -2118,6 +2298,8 @@
        "nombre": "Anthelios UVMune 400 Fluido Antimanchas SPF50+",
        "marca": "La Roche-Posay",
        "barcode": "3337875917407",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/591/7407/front_es.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DSLCT63K"
       },
@@ -2125,6 +2307,8 @@
        "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
        "marca": "Mustela",
        "barcode": "3504105036768",
+       "imagen": "https://images.openbeautyfacts.org/images/products/350/410/503/6768/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B09WW4PWZM"
       },
@@ -2139,6 +2323,8 @@
        "nombre": "Spray solar alta protección SPF 50 200ml",
        "marca": "Mustela",
        "barcode": "3504105036751",
+       "imagen": "https://images.openbeautyfacts.org/images/products/350/410/503/6751/front_en.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B09WW1S94R"
       },
@@ -2153,6 +2339,8 @@
        "nombre": "Hydro Boost Fluido Hidratante SPF50",
        "marca": "Neutrogena",
        "barcode": "3574661801612",
+       "imagen": "https://images.openbeautyfacts.org/images/products/357/466/180/1612/front_ar.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B0D9NL89YN"
       },
@@ -2181,6 +2369,8 @@
        "nombre": "Protección Facial UV Sensitive Transpirable SPF 50+",
        "marca": "Nivea",
        "barcode": "4006000220277",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/600/022/0277/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07QPYDMMD"
       },
@@ -2188,12 +2378,16 @@
        "nombre": "Sensitive Antialergias Solares Loción Solar",
        "marca": "Nivea",
        "barcode": "4005900613264",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/590/061/3264/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Sensitive Protección Inmediata Spray Solar SPF 50+",
        "marca": "Nivea",
        "barcode": "4005900908841",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/590/090/8841/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09T3XGBP7"
       },
@@ -2201,6 +2395,8 @@
        "nombre": "Protector solar Centella Air-Fit Suncream Light",
        "marca": "SKIN1004",
        "barcode": "8809576261608",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1608/front_en.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B3FYB9KL"
       },
@@ -2208,6 +2404,8 @@
        "nombre": "Protector solar Hyalu-Cica Water-Fit Sun Serum",
        "marca": "SKIN1004",
        "barcode": "8809913830061",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1592/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B881GN1P"
       },
@@ -2229,6 +2427,8 @@
        "nombre": "Protector solar Tone Brightening Tone-Up Sunscreen",
        "marca": "SKIN1004",
        "barcode": "8809576261622",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1622/front_en.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B883RL71"
       },
@@ -2236,6 +2436,8 @@
        "nombre": "SENSIFINE AR Creme SPF50+",
        "marca": "SVR",
        "barcode": "3662361002542",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/2542/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B09VW7YV32"
       },
@@ -2249,6 +2451,8 @@
        "nombre": "SUN SECURE Fluide Photo-Age SPF50+",
        "marca": "SVR",
        "barcode": "3662361004065",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4065/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DV5Q47H7"
       },
@@ -2256,6 +2460,8 @@
        "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
        "marca": "SVR",
        "barcode": "3662361003198",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/3198/front_fr.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CYH4T6RM"
       },
@@ -2302,6 +2508,8 @@
        "nombre": "Anaphase+ Champú anticaída y crecimiento",
        "marca": "Ducray",
        "barcode": "3282770398168",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/8168/front_ar.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B01N10Z0L2"
       },
@@ -2341,6 +2549,8 @@
        "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
        "marca": "Eucerin",
        "barcode": "4005800346057",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/580/034/6057/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DVZ8STKK"
       },
@@ -2348,6 +2558,8 @@
        "nombre": "Crema de ducha - Flor de Frangipani",
        "marca": "Klorane",
        "barcode": "3282770143799",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/3799/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -2374,12 +2586,16 @@
        "nombre": "Gel de ducha sin fragancia Clean&Calm (Kēr)",
        "marca": "Natulim",
        "barcode": "8436617754388",
+       "imagen": "https://images.openbeautyfacts.org/images/products/843/661/775/3015/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "07-10-2026"
       },
       {
        "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
        "marca": "Sanex",
        "barcode": "8718951594548",
+       "imagen": "https://images.openbeautyfacts.org/images/products/871/895/159/4548/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       }
      ]
@@ -2450,12 +2666,16 @@
        "nombre": "Acondicionador al Mango",
        "marca": "Klorane",
        "barcode": "3282770140972",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/0972/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
        "marca": "Klorane",
        "barcode": "3282770397598",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/7598/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -2474,6 +2694,8 @@
        "nombre": "Máscarilla 3 en 1 al Cupuazu ORGANICO bio",
        "marca": "Klorane",
        "barcode": "3282770144819",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/4819/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -2499,6 +2721,8 @@
        "nombre": "Atoderm Crème Ultra",
        "marca": "Bioderma",
        "barcode": "3701129805343",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/5343/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
@@ -2525,6 +2749,8 @@
        "nombre": "Loción Hidratante Intensiva",
        "marca": "CeraVe",
        "barcode": "3606000620865",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/600/062/0865/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0F19H9JTR"
       },
@@ -2539,6 +2765,8 @@
        "nombre": "Aceite corporal rosa mosqueta Deliplus",
        "marca": "Deliplus",
        "barcode": "8480000468314",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/046/8314/front_en.23.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -2575,6 +2803,8 @@
        "nombre": "Loción corporal - Flor de cupuaçu",
        "marca": "Klorane",
        "barcode": "3282770113198",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/011/3198/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -2601,6 +2831,8 @@
        "nombre": "Leche corporal hidratante confort con schisandra BIO 200ml",
        "marca": "Mustela",
        "barcode": "3504105036454",
+       "imagen": "https://images.openbeautyfacts.org/images/products/350/410/503/6454/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2658,6 +2890,8 @@
        "nombre": "Base en polvo mate 18H HD",
        "marca": "Catrice",
        "barcode": "4059729393753",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/939/3784/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2682,6 +2916,8 @@
        "nombre": "Polvos fijadores Matte Soft Blur (tonos 020 Light, 030 Medium, 040 Tan, 060 Deep)",
        "marca": "Catrice",
        "barcode": "4059729540614",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/954/0614/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2694,6 +2930,8 @@
        "nombre": "Soft Blur Matte Airbrush Powder (tono 010C)",
        "marca": "Catrice",
        "barcode": "4059729587923",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7923/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2706,6 +2944,8 @@
        "nombre": "Soft Blur Matte Airbrush Powder (tonos 005C, 020N, 030W, 031W, 040W, 055W)",
        "marca": "Catrice",
        "barcode": "4059729587947",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7947/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -2724,6 +2964,8 @@
        "nombre": "Polvo Compacto 24H Long Lasting Deliplus · 02 beige rosado, 03 dorado",
        "marca": "Deliplus",
        "barcode": "8402001015687",
+       "imagen": "https://images.openbeautyfacts.org/images/products/840/200/101/5687/front_es.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -2791,6 +3033,8 @@
        "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 20, 50, 90, 100, 115, 120, 155, 165, 168, 170, 175, 178, 180, 185)",
        "marca": "essence",
        "barcode": "4059729583659",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/3680/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0GJPYRR7M"
       },
@@ -2798,12 +3042,16 @@
        "nombre": "COVERstick corrector",
        "marca": "essence",
        "barcode": "4251232219883",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/123/221/9883/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "stay ALL DAY 16h base de maquillaje de larga duración",
        "marca": "essence",
        "barcode": "4059729308160",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/930/8177/front_es.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B08YFD6P6Z"
       },
@@ -2967,6 +3215,8 @@
        "nombre": "24h Power Glow Loose Powder",
        "marca": "L'Oréal Paris",
        "barcode": "3600524250355",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/425/0355/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -2998,6 +3248,8 @@
        "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
        "marca": "Vichy",
        "barcode": "3337871316624",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/131/6617/front_ar.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       }
      ]
@@ -3010,6 +3262,8 @@
        "nombre": "Bálsamo Labial DERMALIBOUR+ CICA-Reparador",
        "marca": "A-Derma",
        "barcode": "3282770143683",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/3683/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09VCK2S55"
       },
@@ -3048,6 +3302,8 @@
        "nombre": "Cicabio Lip Repair Bálsamo Labial Reparador",
        "marca": "Bioderma",
        "barcode": "3701129812426",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/981/2426/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
@@ -3096,6 +3352,8 @@
        "nombre": "Bálsamo labial Care In Colours (tono 010 Everyday 24/7)",
        "marca": "Catrice",
        "barcode": "4059729445377",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/944/5377/front_nl.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -3108,12 +3366,16 @@
        "nombre": "Bálsamo labial Care In Colours (tono 030 Bubbly Friday)",
        "marca": "Catrice",
        "barcode": "4059729445414",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/944/5414/front_nl.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Bálsamo labial Care In Colours (tono 040 Hot Take)",
        "marca": "Catrice",
        "barcode": "4059729445438",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/944/5438/front_nl.17.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -3210,25 +3472,29 @@
        "nombre": "Plumping perfilador de labios voluminizador (tono 010 Understated Chic)",
        "marca": "Catrice",
        "barcode": "4059729276667",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08TLGH9MR"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 040 Starring Role)",
        "marca": "Catrice",
        "barcode": "4059729276698",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08TLSRWTW"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 060 Cheers To Life)",
        "marca": "Catrice",
        "barcode": "4059729276711",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08HJTJRM8"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 069 Mainhattan)",
        "marca": "Catrice",
        "barcode": "4059729419736",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C37HPN5F"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 090 The Wild One)",
@@ -3240,7 +3506,8 @@
        "nombre": "Plumping perfilador de labios voluminizador (tono 110 Stay Seductive)",
        "marca": "Catrice",
        "barcode": "4059729334671",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09HHC2XZ2"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 120 Stay Powerful)",
@@ -3252,37 +3519,43 @@
        "nombre": "Plumping perfilador de labios voluminizador (tono 150 Queen Vibes)",
        "marca": "Catrice",
        "barcode": "4059729377715",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09V1C65MG"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 160 S-peach-less)",
        "marca": "Catrice",
        "barcode": "4059729419729",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPM1J5P9"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 170 Chocolate Lover)",
        "marca": "Catrice",
        "barcode": "4059729419774",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLZ99Q2"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 180 Cherry Lady)",
        "marca": "Catrice",
        "barcode": "4059729419743",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLZCXZ2"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 190 I Like To Mauve It)",
        "marca": "Catrice",
        "barcode": "4059729419750",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPM16FZ6"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tono 200 Rosie Feels Rosy)",
        "marca": "Catrice",
        "barcode": "4059729419767",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLYWVX3"
       },
       {
        "nombre": "Plumping perfilador de labios voluminizador (tonos 050 Licence To Kiss, 100 Go All-Out)",
@@ -3891,12 +4164,16 @@
        "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
        "marca": "L'Oréal Paris",
        "barcode": "3600524172718",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/417/2718/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
        "nombre": "Cicaplast Labios (Baume Lèvres)",
        "marca": "La Roche-Posay",
        "barcode": "30106659",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/010/6659/front_fr.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00O15LSGK"
       },
@@ -3910,6 +4187,8 @@
        "nombre": "Lifter Liner con Ácido hialurónico Perfilador de labios",
        "marca": "Maybelline New York",
        "barcode": "3600531691998",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/053/169/1998/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -3946,6 +4225,8 @@
        "nombre": "Lápiz de Labios Line Loud Lip Pencil · 34 Make a Statement",
        "marca": "NYX Professional Makeup",
        "barcode": "0800897250027",
+       "imagen": "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -4000,6 +4281,8 @@
        "nombre": "Bálsamo labial con color Peptide Lip Tint Raspberry Jelly",
        "marca": "Rhode",
        "barcode": "0810175610412",
+       "imagen": "https://images.openbeautyfacts.org/images/products/081/017/561/0412/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "04-10-2026"
       },
       {
@@ -4104,6 +4387,8 @@
        "nombre": "Bálsamo labial Lip Therapy Original 20 g",
        "marca": "Vaseline",
        "barcode": "5099802150117",
+       "imagen": "https://images.openbeautyfacts.org/images/products/509/980/215/0117/front_en.21.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B002GC9UZG"
       }
@@ -4117,6 +4402,8 @@
        "nombre": "Gel lubricante íntimo Naturals",
        "marca": "Durex",
        "barcode": "8410104881832",
+       "imagen": "https://images.openbeautyfacts.org/images/products/841/010/488/1832/front_fr.25.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
@@ -4169,6 +4456,8 @@
        "nombre": "El Contorno de Ojos",
        "marca": "Caudalie",
        "barcode": "3522930004554",
+       "imagen": "https://images.openbeautyfacts.org/images/products/352/293/000/4554/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -4281,6 +4570,8 @@
        "nombre": "Toleriane Dermallergo Contorno de Ojos",
        "marca": "La Roche-Posay",
        "barcode": "3337875757515",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/575/7515/front_fr.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPFXM6C"
       },
@@ -4338,6 +4629,8 @@
        "nombre": "Contorno de ojos Probio-Cica Bakuchiol Eye Cream",
        "marca": "SKIN1004",
        "barcode": "8809913830177",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/991/383/0177/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CFL7LS43"
       },
@@ -4371,6 +4664,8 @@
        "nombre": "Xémose C8+ Cuidado para párpados calmante y nutritivo",
        "marca": "Uriage",
        "barcode": "3661434007903",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/7903/front_fr.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
@@ -4389,6 +4684,8 @@
        "nombre": "Minéral 89 Gel Ojos",
        "marca": "Vichy",
        "barcode": "3337875596763",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/559/6763/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07Q4PY2DQ"
       }
@@ -4435,12 +4732,16 @@
        "nombre": "Discos PDRN 100 Hyaluronic Acid Glow Pad",
        "marca": "Anua",
        "barcode": "8809640738241",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/8456/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Tónico Heartleaf 77 Soothing Toner",
        "marca": "Anua",
        "barcode": "8809640731433",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/6025/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08CMS8P67"
       },
@@ -4462,6 +4763,8 @@
        "nombre": "Agua termal de Avène Spray",
        "marca": "Avène",
        "barcode": "3282779003131",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/900/3131/front_fr.12.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07B7DT52Z"
       },
@@ -4469,6 +4772,8 @@
        "nombre": "Esencia Ginseng Essence Water",
        "marca": "Beauty of Joseon",
        "barcode": "8809738310960",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/0960/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08RLZ28QK"
       },
@@ -4559,12 +4864,16 @@
        "nombre": "Tónico Refresh ABC Daily Toner (AHA BHA Vitamin C)",
        "marca": "COSRX",
        "barcode": "8809598450967",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Bruma hidratante Hydra Spray",
        "marca": "Cumlaude Lab",
        "barcode": "8428749854906",
+       "imagen": "https://images.openproductsfacts.org/images/products/842/874/985/4906/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
@@ -4643,6 +4952,8 @@
        "nombre": "Tónico 1025 Dokdo Toner",
        "marca": "Round Lab",
        "barcode": "8809657115387",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/965/711/4731/front_nl.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08FM5BTF6"
       },
@@ -4650,6 +4961,8 @@
        "nombre": "Tónico Birch Moisturizing Toner",
        "marca": "Round Lab",
        "barcode": "8809738600214",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/860/0214/front_ru.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B093WJRD1C"
       },
@@ -4731,6 +5044,8 @@
        "nombre": "Agua termal de Uriage",
        "marca": "Uriage",
        "barcode": "3661434000522",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/0522/front_en.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0060OUE5G"
       },
@@ -4750,6 +5065,8 @@
        "nombre": "Sérum exfoliante AHA",
        "marca": "Avène",
        "barcode": "3282770390469",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/0469/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CH9FNGCN"
       },
@@ -4770,6 +5087,8 @@
        "nombre": "Tónico exfoliante Clarifying Lotion 2",
        "marca": "Clinique",
        "barcode": "0020714462765",
+       "imagen": "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026",
        "amazon": "https://www.amazon.es/dp/B01FBWEORQ"
       },
@@ -4783,6 +5102,8 @@
        "nombre": "Exfoliante líquido BHA Blackhead Power Liquid",
        "marca": "COSRX",
        "barcode": "8809416470054",
+       "imagen": "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B00OZEJ8R8"
       },
@@ -4958,6 +5279,8 @@
        "nombre": "Mascarilla Hidrogel Iluminadora Revitalift 1 U",
        "marca": "L'Oréal Paris",
        "barcode": "3600524259679",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/425/9679/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026"
       },
       {
@@ -5060,12 +5383,16 @@
        "nombre": "Exomega Control Bálsamo emoliente antiirritación",
        "marca": "A-Derma",
        "barcode": "3282770149715",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9715/front_fr.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Exomega Control Crema emoliente antirrascado",
        "marca": "A-Derma",
        "barcode": "3282770149685",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9685/front_en.15.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BCTL7J22"
       },
@@ -5073,6 +5400,8 @@
        "nombre": "Exomega Control Leche emoliente antiirrascado",
        "marca": "A-Derma",
        "barcode": "3282770149746",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9746/front_fr.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5091,6 +5420,8 @@
        "nombre": "Spray secante y calmante",
        "marca": "A-Derma",
        "barcode": "3282770104783",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/010/4783/front_pt.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5110,6 +5441,8 @@
        "nombre": "Hidratante reparadora posquirúrgica y postatuaje",
        "marca": "Avène",
        "barcode": "3282770148763",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/8763/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07XG1PLJF"
       },
@@ -5117,6 +5450,8 @@
        "nombre": "Nutrition Bálsamo Hidratante",
        "marca": "Avène",
        "barcode": "3282770155099",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/5099/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0C31QG66C"
       },
@@ -5124,12 +5459,16 @@
        "nombre": "Spray secante reparador",
        "marca": "Avène",
        "barcode": "3282770205633",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/020/5633/front_en.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "XeraCalm A.D Bálsamo Relipidizante",
        "marca": "Avène",
        "barcode": "3282779405485",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/940/5485/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00EYOHIO4"
       },
@@ -5144,6 +5483,8 @@
        "nombre": "XERACALM AD - Crema relipidizante",
        "marca": "Avène",
        "barcode": "3282770399561",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/9561/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00EYOHJZ2"
       },
@@ -5151,6 +5492,8 @@
        "nombre": "Atoderm Intensive Baume",
        "marca": "Bioderma",
        "barcode": "3701129802052",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/2052/front_tr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0161ZC5GY"
       },
@@ -5158,6 +5501,8 @@
        "nombre": "Atoderm Intensive Baume",
        "marca": "Bioderma",
        "barcode": "3701129802076",
+       "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/2076/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0161ZC5GY"
       },
@@ -5165,6 +5510,8 @@
        "nombre": "Bálsamo Reparador Avanzado",
        "marca": "CeraVe",
        "barcode": "3337875849326",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/584/9326/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CW6BKQ9R"
       },
@@ -5172,18 +5519,24 @@
        "nombre": "Pomada del pañal sin perfume Deliplus",
        "marca": "Deliplus",
        "barcode": "8480000793447",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/079/3447/front_fr.25.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Vaselina hidratante Deliplus",
        "marca": "Deliplus",
        "barcode": "8480000777492",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/077/7492/front_es.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Bálsamo emoliente antirrascado",
        "marca": "Ducray",
        "barcode": "3282770203929",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/020/3929/front_fr.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B07XDRT1T3"
       },
@@ -5217,6 +5570,8 @@
        "nombre": "Aquaphor Pomada Reparadora",
        "marca": "Eucerin",
        "barcode": "4005800019876",
+       "imagen": "https://images.openbeautyfacts.org/images/products/400/580/001/9876/front_en.11.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0095KJA98"
       },
@@ -5224,6 +5579,8 @@
        "nombre": "Crema protectora de pañal Johnson's baby 100 ml",
        "marca": "Johnson's",
        "barcode": "3574661660912",
+       "imagen": "https://images.openbeautyfacts.org/images/products/357/466/166/0912/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B5RVR9BL"
       },
@@ -5231,6 +5588,8 @@
        "nombre": "Crema para el cambio de pañal a la Caléndula BIO",
        "marca": "Klorane",
        "barcode": "3282770391176",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1176/front_en.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5243,6 +5602,8 @@
        "nombre": "Cicaplast Baume B5+",
        "marca": "La Roche-Posay",
        "barcode": "3337872418730",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/241/8730/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00ST2GSRK"
       },
@@ -5257,6 +5618,8 @@
        "nombre": "Lipikar Baume AP+ Max",
        "marca": "La Roche-Posay",
        "barcode": "3337875930116",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/593/0239/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0G6BHRNMX"
       },
@@ -5264,6 +5627,8 @@
        "nombre": "Lipikar Baume Light AP+M",
        "marca": "La Roche-Posay",
        "barcode": "3337875696548",
+       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/569/6548/front_fr.27.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FSRVPY96"
       },
@@ -5291,6 +5656,8 @@
        "nombre": "Crema bálsamo 1 2 3 50ml / 100ml / 150 ml",
        "marca": "Mustela",
        "barcode": "3504105025786",
+       "imagen": "https://images.openbeautyfacts.org/images/products/350/410/502/5847/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B07FMFJ3S6"
       },
@@ -5305,6 +5672,8 @@
        "nombre": "Cuidado Costra láctea 40ml",
        "marca": "Mustela",
        "barcode": "3504105034412",
+       "imagen": "https://images.openbeautyfacts.org/images/products/350/410/503/4412/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B073WNDS1K"
       },
@@ -5339,6 +5708,8 @@
        "nombre": "SENSIFINE Nutri-Baume",
        "marca": "SVR",
        "barcode": "3662361001248",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1248/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B086R92L5H"
       },
@@ -5346,6 +5717,8 @@
        "nombre": "TOPIALYSE Baume Protect+",
        "marca": "SVR",
        "barcode": "3662361001927",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1927/front_fr.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       },
       {
@@ -5359,6 +5732,8 @@
        "nombre": "Bariéderm-Cica Crema con Cu-Zn",
        "marca": "Uriage",
        "barcode": "3661434004735",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/4735/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B01JUUHJF4"
       },
@@ -5366,6 +5741,8 @@
        "nombre": "Bebé 1er Bálsamo óleo-calmante anti-prurito",
        "marca": "Uriage",
        "barcode": "3661434008139",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/8139/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B084RRGCYT"
       },
@@ -5386,6 +5763,8 @@
        "nombre": "Xémose C8+ Bálsamo relipidizante anti-picor",
        "marca": "Uriage",
        "barcode": "3661434006968",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/6968/front_fr.12.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B07JDLL4LP"
       },
@@ -5406,6 +5785,8 @@
        "nombre": "Vaselina Original (Protecting Jelly)",
        "marca": "Vaseline",
        "barcode": "42182627",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/004/218/2627/front_en.112.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B003BR5OG4"
       }
@@ -5508,18 +5889,24 @@
        "nombre": "Belle Natural Crema de Manos",
        "marca": "Eroski",
        "barcode": "8480010207170",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/001/020/7170/front_en.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
        "nombre": "Gel Refrescante Pies y Piernas 125 ml",
        "marca": "Kyrey",
        "barcode": "8414807540126",
+       "imagen": "https://images.openbeautyfacts.org/images/products/841/480/754/0126/front_de.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Fórmula Noruega Crema de Manos Concentrada Sin Perfume",
        "marca": "Neutrogena",
        "barcode": "8002110383709",
+       "imagen": "https://images.openbeautyfacts.org/images/products/800/211/038/3709/front_fr.25.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B0006SQ9CE"
       },
@@ -5540,6 +5927,8 @@
        "nombre": "Curl Booster",
        "marca": "Cocunat",
        "barcode": "8436570020810",
+       "imagen": "https://images.openbeautyfacts.org/images/products/843/657/002/0810/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B09YJ3XCN2"
       },
@@ -5573,6 +5962,8 @@
        "nombre": "Kelual Emulsión contra las escamas del cuero cabelludo y el rostro",
        "marca": "Ducray",
        "barcode": "3282770202274",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/020/2274/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5598,6 +5989,8 @@
        "nombre": "ANTICAÍDA Tratamiento Fortificante Intensivo",
        "marca": "Klorane",
        "barcode": "3282770397635",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/7635/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5610,6 +6003,8 @@
        "nombre": "Crema sin aclarado al Mango",
        "marca": "Klorane",
        "barcode": "3282770141023",
+       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1023/front_fr.12.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "24-09-2026"
       },
       {
@@ -5668,7 +6063,8 @@
        "nombre": "Máscara de alta tolerancia Negro",
        "marca": "Avène",
        "barcode": "3282779420884",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B00O15DAW0"
       },
       {
        "nombre": "Máscara de pestañas de alta definición Negro",
@@ -5734,12 +6130,16 @@
        "nombre": "Big Deal Máscara Latex Black (Waterproof )",
        "marca": "L'Oréal Paris",
        "barcode": "30188358",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/018/8358/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
        "nombre": "Telescopic (Waterproof)",
        "marca": "L'Oréal Paris",
        "barcode": "3600524196615",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/419/6615/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -5752,6 +6152,8 @@
        "nombre": "Waterproof Extensionist",
        "marca": "L'Oréal Paris",
        "barcode": "3600524229085",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/422/9085/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -5764,12 +6166,16 @@
        "nombre": "Colossal Bubble Waterproof Máscara",
        "marca": "Maybelline New York",
        "barcode": "3600531702304",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/053/170/2304/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
        "nombre": "Lash Sensational Firework Waterproof Máscara",
        "marca": "Maybelline New York",
        "barcode": "30144187",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/014/4187/front_nl.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -5788,6 +6194,8 @@
        "nombre": "Lash Sensational Sky High Máscara",
        "marca": "Maybelline New York",
        "barcode": "30167223",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/016/7223/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -5806,6 +6214,8 @@
        "nombre": "The Falsies Surreal Extensions Máscara Waterproof Máscara",
        "marca": "Maybelline New York",
        "barcode": "30163799",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/016/3799/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -5818,6 +6228,8 @@
        "nombre": "PALPEBRAL Máscara Protect",
        "marca": "SVR",
        "barcode": "3662361001828",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1828/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       }
      ]
@@ -5830,7 +6242,8 @@
        "nombre": "Lápiz de ojos alta definición negro",
        "marca": "Avène",
        "barcode": "3282770207255",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09SVCKPVW"
       },
       {
        "nombre": "All In One Brow Perfector",
@@ -5854,7 +6267,8 @@
        "nombre": "Eye Brow Stylist perfilador de cejas (tono 025 Perfect BROWn)",
        "marca": "Catrice",
        "barcode": "4059729030542",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07FSQHZ9K"
       },
       {
        "nombre": "Eye Brow Stylist perfilador de cejas (tono 070 Chestnut Charm)",
@@ -5872,6 +6286,8 @@
        "nombre": "Eye Brow Stylist perfilador de cejas (tonos 015 Ashy Drama, 020 date with ash-ton, 030 brow-n-eyed peas, 035 Brown Eye Crown, 040 Don't Let Me Brow'n, 060 Legally Blonde, 065 Authentic Auburn, 075 Carved In Stone)",
        "marca": "Catrice",
        "barcode": "4059729030559",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/033/848/7769/front_nl.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -5884,7 +6300,8 @@
        "nombre": "Kohl Kajal resistente al agua (tono 010 Check Chic Black)",
        "marca": "Catrice",
        "barcode": "4059729356239",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09V1CWWYK"
       },
       {
        "nombre": "Kohl Kajal resistente al agua (tono 020 Tweet White)",
@@ -5902,7 +6319,8 @@
        "nombre": "Kohl Kajal resistente al agua (tono 040 Optic BrownChoc)",
        "marca": "Catrice",
        "barcode": "4059729356352",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09V1CL69C"
       },
       {
        "nombre": "Kohl Kajal resistente al agua (tono 050 Beat Anthrazit)",
@@ -6064,13 +6482,15 @@
        "nombre": "Slim'Matic Ultra Precise perfilador de cejas resistente al agua (tono 035 Ash Brown)",
        "marca": "Catrice",
        "barcode": "4059729359094",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R81W97M"
       },
       {
        "nombre": "Slim'Matic Ultra Precise perfilador de cejas resistente al agua (tono 040 Cool Brown)",
        "marca": "Catrice",
        "barcode": "4059729036742",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07FSM8NHN"
       },
       {
        "nombre": "Sombra de ojos líquida con colorete para ojos",
@@ -6166,6 +6586,8 @@
        "nombre": "kajal lápiz de ojos (tono 01 black)",
        "marca": "essence",
        "barcode": "4250035200715",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/003/520/0715/front_nl.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -6220,12 +6642,16 @@
        "nombre": "LONG-LASTING lápiz de ojos (tono 01 black fever)",
        "marca": "essence",
        "barcode": "4250035246942",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/003/524/6942/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "LONG-LASTING lápiz de ojos (tono 02 hot chocolate)",
        "marca": "essence",
        "barcode": "4250035246959",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/003/524/6959/front_nl.5.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -6292,12 +6718,16 @@
        "nombre": "make me BROW máscara gel para cejas (tonos 02 browny brows, 06 Ebony Brows)",
        "marca": "essence",
        "barcode": "4059729371836",
+       "imagen": "https://images.openbeautyfacts.org/images/products/425/094/752/8426/front_nl.9.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "pegamento para levantar y fijar las cejas (tono 01 Clear Control)",
        "marca": "essence",
        "barcode": "4059729541857",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/954/1857/front_nl.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -6790,6 +7220,8 @@
        "nombre": "Sombra de ojos compacta Maxi Mod High Pigment Eyeshadow · 06, 07, 08, 09, 16 y 15 tonos más",
        "marca": "Kiko Milano",
        "barcode": "8059385063829",
+       "imagen": "https://images.openbeautyfacts.org/images/products/805/938/506/3270/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
@@ -6982,6 +7414,8 @@
        "nombre": "Infallible 12H Definer Lápiz de Cejas",
        "marca": "L'Oréal Paris",
        "barcode": "3600522203094",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/052/220/3094/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -7000,6 +7434,8 @@
        "nombre": "Express Brow Ultra Slim Maquillaje de cejas",
        "marca": "Maybelline New York",
        "barcode": "3600531579432",
+       "imagen": "https://images.openbeautyfacts.org/images/products/360/053/157/9500/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -7354,13 +7790,15 @@
        "nombre": "Colorete líquido Blush Affair (tono 010 Pink Feelings)",
        "marca": "Catrice",
        "barcode": "4059729444905",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLZQG9X"
       },
       {
        "nombre": "Colorete líquido Blush Affair (tono 020 Orange Fizz)",
        "marca": "Catrice",
        "barcode": "4059729445094",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPM15YJG"
       },
       {
        "nombre": "Colorete líquido Blush Affair (tono 030 Ready Red Go)",
@@ -7378,7 +7816,8 @@
        "nombre": "Colorete líquido Blush Affair (tono 050 Plum-Tastic)",
        "marca": "Catrice",
        "barcode": "4059729445100",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CPLZRCFM"
       },
       {
        "nombre": "Iluminador Under Eye Brightener Liquid",
@@ -7390,13 +7829,18 @@
        "nombre": "Soft Blur Colorete en Polvo (tono 020 Coral Cloud)",
        "marca": "Catrice",
        "barcode": "4059729587268",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7268/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Soft Blur Colorete en Polvo (tono 030 Cinnamon Sugar)",
        "marca": "Catrice",
        "barcode": "4059729587282",
-       "fechaLista": "25-09-2026"
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7282/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GHNYGQ9B"
       },
       {
        "nombre": "Soft Blur Colorete en Polvo (tono 040 Pink Positive)",
@@ -7408,12 +7852,16 @@
        "nombre": "Soft Blur Colorete en Polvo (tono 050 Born to blonze)",
        "marca": "Catrice",
        "barcode": "4059729587329",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7329/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Soft Blur Colorete en Polvo (tono 060 Berry me later!)",
        "marca": "Catrice",
        "barcode": "4059729587343",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/7343/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -7438,6 +7886,8 @@
        "nombre": "Polvos Bronceadores Larga Duración",
        "marca": "Caudalie",
        "barcode": "3522930004134",
+       "imagen": "https://images.openbeautyfacts.org/images/products/352/293/000/4134/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -7906,6 +8356,8 @@
        "nombre": "Aura Glam Nail Polish (tono 020 Solar Seduction)",
        "marca": "Catrice",
        "barcode": "4059729589385",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/9385/front_es.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -7954,6 +8406,8 @@
        "nombre": "Esmalte de uñas GEL AFFAIR (tono 010 Lost My Camel In The Desert)",
        "marca": "Catrice",
        "barcode": "4059729516190",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/951/6190/front_it.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -7978,6 +8432,8 @@
        "nombre": "Esmalte de uñas GEL AFFAIR (tono 016 Don't Bite The Apple)",
        "marca": "Catrice",
        "barcode": "4059729516251",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/951/6251/front_nl.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8158,7 +8614,8 @@
        "nombre": "Laca de uñas GEL AFFAIR (tono 038 Cosmo Where Is Wanda?)",
        "marca": "Catrice",
        "barcode": "4059729547286",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0FGJTRYQZ"
       },
       {
        "nombre": "Laca de uñas GEL AFFAIR (tono 039 Double Shot Diva)",
@@ -8350,6 +8807,8 @@
        "nombre": "Laca de uñas alto brillo Deliplus 15 perla rosada",
        "marca": "Deliplus",
        "barcode": "8480000422934",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/042/2934/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -8374,12 +8833,16 @@
        "nombre": "Laca de uñas alto brillo Deliplus 18 suave peonia",
        "marca": "Deliplus",
        "barcode": "8480000422941",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/042/2941/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Laca de uñas alto brillo Deliplus 22 granate sublime",
        "marca": "Deliplus",
        "barcode": "8480000422965",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/042/2965/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -8392,6 +8855,8 @@
        "nombre": "Laca de uñas alto brillo Deliplus 76 rosa medio",
        "marca": "Deliplus",
        "barcode": "8402001013713",
+       "imagen": "https://images.openbeautyfacts.org/images/products/840/200/101/3713/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -8404,18 +8869,24 @@
        "nombre": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
        "marca": "Deliplus",
        "barcode": "8480000416926",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/041/6926/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
        "nombre": "Laca de uñas manicura francesa Deliplus 03 rosa",
        "marca": "Deliplus",
        "barcode": "8480000416858",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/041/6858/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "11-09-2026"
       },
       {
        "nombre": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
        "marca": "Deliplus",
        "barcode": "8480000230218",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/023/0218/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -8440,6 +8911,8 @@
        "nombre": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
        "marca": "Deliplus",
        "barcode": "8480000422866",
+       "imagen": "https://images.openbeautyfacts.org/images/products/848/000/042/2866/front_en.6.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-10-2026"
       },
       {
@@ -8638,6 +9111,8 @@
        "nombre": "esmalte de uñas gel (tono 36 OCEAN EYES)",
        "marca": "essence",
        "barcode": "4059729585769",
+       "imagen": "https://images.openproductsfacts.org/images/products/405/972/958/5769/front_nl.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8650,6 +9125,8 @@
        "nombre": "esmalte de uñas gel (tono 39 COOL by the POOL)",
        "marca": "essence",
        "barcode": "4059729585790",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/958/5790/front_en.10.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8728,6 +9205,8 @@
        "nombre": "gel nail colour esmalte de uñas (tono 07 pinkVENTURES)",
        "marca": "essence",
        "barcode": "4059729348784",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/934/8784/front_de.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8752,6 +9231,8 @@
        "nombre": "gel nail colour esmalte de uñas (tono 14 ALL-TIME FAVOUred)",
        "marca": "essence",
        "barcode": "4059729348852",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/934/8852/front_de.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8812,6 +9293,8 @@
        "nombre": "gel nail colour esmalte de uñas (tono 56 red-y TO GO)",
        "marca": "essence",
        "barcode": "4059729409225",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/940/9225/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8878,6 +9361,8 @@
        "nombre": "gel nail colour esmalte de uñas (tono 71 FAUX pearl)",
        "marca": "essence",
        "barcode": "4059729491671",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/949/1671/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -8956,12 +9441,16 @@
        "nombre": "Miniesmalte de uñas GLOSSY JELLY (tono 02)",
        "marca": "essence",
        "barcode": "4059729518941",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/951/8941/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Miniesmalte de uñas GLOSSY JELLY (tono 03)",
        "marca": "essence",
        "barcode": "4059729518958",
+       "imagen": "https://images.openbeautyfacts.org/images/products/405/972/951/8958/front_en.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026"
       },
       {
@@ -9016,6 +9505,8 @@
        "nombre": "Essie Top Coat Brillo",
        "marca": "Essie",
        "barcode": "30149397",
+       "imagen": "https://images.openbeautyfacts.org/images/products/000/003/014/9397/front_de.4.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
       },
       {
@@ -9052,12 +9543,16 @@
        "nombre": "Tratamiento de uñas Matte Top Coat",
        "marca": "Kiko Milano",
        "barcode": "8025272977784",
+       "imagen": "https://images.openbeautyfacts.org/images/products/802/527/297/7784/front_fr.7.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Aceite Verde",
        "marca": "Manucurist",
        "barcode": "3662263220051",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/226/322/0051/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       },
       {
@@ -9586,6 +10081,8 @@
        "nombre": "Esmalte Green™ Red Cherry",
        "marca": "Manucurist",
        "barcode": "3662263330057",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/226/333/0057/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       },
       {
@@ -9646,6 +10143,8 @@
        "nombre": "Esmalte Green™ Shimmer",
        "marca": "Manucurist",
        "barcode": "3662263332433",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/226/333/2433/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "30-09-2026"
       },
       {

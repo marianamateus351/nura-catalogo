@@ -20,6 +20,10 @@ ver = json.load(open(f'{A}/amazon_verificados.json')) if os.path.exists(f'{A}/am
 auto = json.load(open(f'{A}/amazon_auto.json')) if os.path.exists(f'{A}/amazon_auto.json') else {}
 fotos = set(os.listdir(f'{R}/fotos')) if os.path.isdir(f'{R}/fotos') else set()
 FOTO_URL = 'https://raw.githubusercontent.com/marianamateus351/nura-catalogo/main/fotos/'
+# Fotos de Open Beauty Facts por código (pedido de Mariana, 2026-10-14): {código: url de la foto frontal}.
+# Se enlazan (no se copian) y llevan la fuente, porque OBF las publica con licencia CC BY-SA. Manda la foto
+# propia de fotos/ si la hay. Nunca fotos copiadas de Amazon (CLAUDE.md de la app).
+fotos_obf = json.load(open(f'{A}/fotos_obf.json')) if os.path.exists(f'{A}/fotos_obf.json') else {}
 import re
 def enlace_limpio(u):
     # Enlace directo y sin etiqueta: la etiqueta de afiliada (marianamateus-21) la pone la app.
@@ -65,6 +69,9 @@ for p in limpios:
     bc = p['barcodes'][0]
     e = {'nombre': p['nombre'], 'marca': p['marca'], 'barcode': bc}
     if f'{bc}.jpg' in fotos: e['imagen'] = FOTO_URL + f'{bc}.jpg'
+    else:
+        obf = next((fotos_obf[c] for c in p['barcodes'] if c in fotos_obf), None)
+        if obf: e['imagen'] = obf; e['fotoFuente'] = 'Open Beauty Facts (CC BY-SA)'
     if bc in fechas: e['fechaLista'] = ddmmaaaa(fechas[bc])
     for c in p['barcodes']:                      # el primer código con ficha comprobada
         v = ver.get(c) or {}

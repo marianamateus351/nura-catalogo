@@ -4732,6 +4732,26 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
   igual, sin botón.
 - `fechaLista`: fecha de la versión del catálogo en que entró o se revisó esa lista.
 - `imagen`: la del catálogo si la hay; si no, se omite (la app pone iniciales).
+  - **Desde el 2026-10-14 (versión 2026-10-14d)**, si no hay foto propia en `fotos/`, se usa la foto frontal de Open
+    Beauty Facts (o de Open Products Facts) de cualquiera de los códigos del producto. Va en
+    `herramientas/alternativas/fotos_obf.json` (código → url) y viene con `fotoFuente: "Open Beauty Facts (CC BY-SA)"`.
+  - Se enlaza, no se copia. La licencia CC BY-SA pide citar la fuente: falta que la app enseñe esa línea.
+  - Se consultan en bloques de 40–100 códigos con `api/v2/search?code=…` (unos 7 s entre bloques).
+  - Primera pasada: 2.128 códigos, 293 con foto, **238 de 1.560 productos**. El maquillaje casi no tiene fotos en OBF:
+    24 de 314 esmaltes, 9 de 252 de ojos, 11 de 182 labiales.
+  - Se comprobaron a ojo tres fotos (Cicabio Lip Repair y dos lacas Deliplus): son el envase correcto.
+  - **Nunca fotos copiadas de Amazon** (decisión de Mariana en el CLAUDE.md de la app): solo por su API oficial, cuando
+    la cuenta de afiliada tenga 3 ventas cualificadas.
+  - Repetir la pasada de vez en cuando, porque OBF va sumando fotos.
+- **Enlaces de Amazon, tanda del 2026-10-14** (maquillaje de la cola, 180 productos, 4 agentes con WebSearch y sin
+  abrir Amazon): 24 válidos, 73 dudosos (a `amazon_auto_dudosos.json`), 66 sin ficha y 17 de vuelta a la cola.
+  - Los válidos son perfiladores Catrice Plumping y Slim'Matic, Kohl Kajal, Blush Affair, Avène Couvrance y Asevi
+    paellas.
+  - Diez dudosos apuntaban a la ficha de otro tono (el tono solo sale como variante dentro de esa ficha). Pasan a "sin
+    ficha propia", para no guardar un enlace equivocado.
+  - En Amazon.es, Catrice tiene fichas genéricas de gama (Gel Affair, Kohl Kajal) que no dicen el tono en el título:
+    con el buscador no se puede saber qué ASIN es cada tono.
+  - Alternativas 2026-10-14d: 400 con enlace. Cola: 747 pendientes.
 - Orden dentro de cada tipo: por marca y nombre. Sin rankings.
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
