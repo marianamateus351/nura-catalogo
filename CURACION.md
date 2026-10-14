@@ -4741,7 +4741,7 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
     24 de 314 esmaltes, 9 de 252 de ojos, 11 de 182 labiales.
   - Se comprobaron a ojo tres fotos (Cicabio Lip Repair y dos lacas Deliplus): son el envase correcto.
   - **Nunca fotos copiadas de Amazon** (decisión de Mariana en el CLAUDE.md de la app): solo por su API oficial, cuando
-    la cuenta de afiliada tenga 3 ventas cualificadas.
+    la cuenta de afiliada tenga 10 ventas cualificadas en 30 días (lo que le dice Amazon a Mariana).
   - Repetir la pasada de vez en cuando, porque OBF va sumando fotos.
 - **Enlaces de Amazon, tanda del 2026-10-14** (maquillaje de la cola, 180 productos, 4 agentes con WebSearch y sin
   abrir Amazon): 24 válidos, 73 dudosos (a `amazon_auto_dudosos.json`), 66 sin ficha y 17 de vuelta a la cola.
