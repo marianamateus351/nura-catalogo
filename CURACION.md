@@ -5228,7 +5228,7 @@ ingrediente).
 Scripts: `incasa/` (`items.txt`, `pdfs.txt`, `mapa.txt`, `pdf/`, `tabla.py`, `columnas.py`, `campos.py`, `pais.py`,
 `comp2.py`, `filas.py`, `construye.py`, `limpia.py`, `final.py`).
 
-### Cantu (cantubeauty.co.uk, PDC Brands) — cerrada 2026-10-14 (versión 2026-10-14-cantu): 69 productos, 71 códigos
+### Cantu (cantubeauty.co.uk, PDC Brands) — cerrada 2026-10-14 (versión 2026-10-14-cantub): 69 productos, 71 códigos
 Marca nueva pedida por Mariana: cuidado del pelo rizado, que se vende en Primor, Druni, Amazon y supermercados. Llegó con
 un hueco: una usuaria aportó el **Shea Butter Wave Whip Curling Mousse `0817513015700`** y Mariana lo aprobó a mano.
 - **Fuente oficial**
@@ -5306,6 +5306,10 @@ un hueco: una usuaria aportó el **Shea Butter Wave Whip Curling Mousse `0817513
   - Regresión sobre 10.098 fichas: 0 cambios, más 69 fichas nuevas de Cantu.
 - **Alternativas**: solo entran los dos Raw Blend (cacao y mango: karité, coco y la manteca). Son los únicos sin ningún
   aviso.
+  - Con el nombre de la web no tenían tipo y `genera.py` los dejaba fuera (versión 2026-10-14-cantu).
+  - La ficha oficial dice que son de la línea Skin Therapy, "for dry skin or hair". Se renombran a "Skin Therapy … Raw
+    Blend (manteca corporal para piel y pelo)" y quedan en el tipo Cremas y aceites corporales (versión
+    2026-10-14-cantub).
 Scripts: `sxtools/cantu_db.py` (fichas UK → `uk_db.json`), `cantu_tiendas.py`, `cantu_build.py` (lista FUERA con el
 motivo de cada código).
 
