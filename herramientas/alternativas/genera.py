@@ -56,6 +56,8 @@ PENDIENTE_DECISION = set()
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
 HASTA_BUILD = {
     '4260491222954',  # Ben & Anna Deo Sensitive Cherry Blossom: nota "aus natürlichen ätherischen Ölen" (detector 2026-10-12)
+    # Ecodoo (detector 2026-10-14, ficha 193 con aceites esenciales declarados por su nombre INCI):
+    '3380380048180', '3380380048128', '3380390900607', '3380390900614', '3380380050787',
 }
 por = {}
 for p in limpios:

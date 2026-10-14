@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14-cantub",
+ "version": "2026-10-14-hogara",
  "marcas": [
   {
    "key": "larocheposay",
@@ -46325,6 +46325,15 @@
       "8402001052682"
      ],
      "inci": "Aqua, Propylene Glycol, Chamomilla Recutita Flower Extract, Aloe Barbadensis Leaf Juice, Bisabolol, Lactic Acid, Polysorbate 20, Tetrasodium Glutamate Diacetate, Citric Acid, Butylene Glycol, Glucose, Benzyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes, Parfum, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Vinagre de Limpieza Bosque Verde concentrado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000494023"
+     ],
+     "inci": "Aqua, Acetic Acid"
     }
    ]
   },
@@ -97395,6 +97404,1528 @@
       "0817513015700"
      ],
      "inci": "Aqua (Water), PEG-25 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Phenoxyethanol, Parfum (Fragrance), Cetrimonium Chloride, Panthenol, Polyquaternium-11, Polyquaternium-55, Citric Acid, Sodium Hydroxide, Caprylyl Glycol, Butyrospermum Parkii (Shea) Butter, Benzyl Alcohol, Benzyl Benzoate, Coumarin, Hexyl Cinnamal"
+    }
+   ]
+  },
+  {
+   "key": "mariusfabre",
+   "nombre": "Marius Fabre",
+   "productos": [
+    {
+     "nombre": "Bicarbonato sódico multiusos (Bicarbonate de soude)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651714651"
+     ],
+     "inci": "Sodium Bicarbonate"
+    },
+    {
+     "nombre": "Jabón negro multiusos líquido con aceite de oliva (Savon noir liquide)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298656600782",
+      "3298659558806",
+      "3298659558813",
+      "3298650501016",
+      "3298650501054"
+     ],
+     "inci": "Aqua, Potassium Olivate, Potassium Cocoate, Potassium Carbonate, Sodium Chloride, Glycerin"
+    },
+    {
+     "nombre": "Jabón negro multiusos en pasta con aceite de oliva (Savon noir mou)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298650401101"
+     ],
+     "inci": "Potassium Olivate, Aqua, Potassium Cocoate, Potassium Carbonate, Glycerin"
+    },
+    {
+     "nombre": "Jabón negro multiusos para el jardín (Savon noir spécial jardin)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298656600768",
+      "3298656600744"
+     ],
+     "inci": "Aqua, Potassium Olivate, Potassium Cocoate, Potassium Carbonate, Sodium Chloride, Glycerin"
+    },
+    {
+     "nombre": "Jabón en pasta multiusos con aceite de oliva (Savon pâte grattant)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298659746999"
+     ],
+     "inci": "Potassium Olivate, Aqua, Olea Europaea Seed Powder, Potassium Cocoate, Olea Europaea Fruit Oil, Caprylyl Glucoside, Decyl Glucoside, Potassium Carbonate, Glycerin, Cocos Nucifera Oil"
+    },
+    {
+     "nombre": "Lavavajillas líquido con copos de jabón de Marsella (Liquide vaisselle aux copeaux de savon de Marseille, sans parfum)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716853",
+      "3298651716846"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Lactic Acid, Potassium Hydroxide, Sodium Cocoate, Sodium Sunflowerseedate, Benzoic Acid, Glycerin, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Lavavajillas a mano con escamas de jabón de Marsella, con perfume de pomelo (recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651717201"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Chloride, Lactic Acid, Potassium Hydroxide, Sodium Cocoate, Sodium Sunflowerseedate, Benzoic Acid, Glycerin, Sodium Hydroxide, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "Detergente líquido con copos de jabón de Marsella y bicarbonato (Lessive liquide aux copeaux de savon de Marseille et bicarbonate)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651720928",
+      "3298651720942"
+     ],
+     "inci": "Aqua, Sodium Sunflowerseedate, Sodium Cocoate, Sodium Bicarbonate, Xanthan Gum, Sodium Citrate, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Detergente líquido con escamas de jabón de Marsella perfume hoja de olivo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651722625",
+      "3298651722885"
+     ],
+     "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Parfum, Sodium Bicarbonate, Xanthan Gum, Sodium Citrate, Glycerin, Sodium Chloride, Sodium Hydroxide, Hexyl Cinnamal, Trimethylbenzenepropanol, Limonene"
+    },
+    {
+     "nombre": "Jabón de Marsella para la colada, sin aceite de palma (Savon de Marseille pour le linge)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716822",
+      "3298651716785",
+      "3298651719427",
+      "3298651716792",
+      "3298651719441",
+      "3298651719465",
+      "3298651722694"
+     ],
+     "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma (Copeaux de savon)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651720829",
+      "3298651716808",
+      "3298651718789"
+     ],
+     "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Jabón de Marsella verde de aceite de oliva para la colada (Savon de Marseille vert)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298659747132",
+      "3298659747149",
+      "3298652000425",
+      "3298651722687",
+      "3298651718482",
+      "3298659747170",
+      "3298651700234",
+      "3298651719434",
+      "3298651700166",
+      "3298651715641",
+      "3298651718468",
+      "3298651720911",
+      "3298652009060",
+      "3298652000234",
+      "3298651719458",
+      "3298651719472",
+      "3298651722861",
+      "3298651710066",
+      "3298651710684",
+      "3298651719502"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada (Savon de Marseille)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721659",
+      "3298651721161"
+     ],
+     "inci": "Sodium Olivate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella piel de naranja",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298652000081",
+      "3298652000029"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Limonene, Linalyl Acetate, Linalool, Menthol, Terpineol, Geraniol, Geranyl Acetate, Pinene"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella tomillo y eneldo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298652000098",
+      "3298652000036"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Lavandula Oil/Extract, Linalool, Linalyl Acetate, Limonene, Pinene, Menthol, Camphor"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella pino piñonero 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298652000050"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Eucalyptus Globulus Oil, Pinene, Limonene, Menthol, Pogostemon Cablin Oil, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella pino piñonero 1L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298652000043"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Limonene, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella sin perfume 500ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651700258"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella flor de cerezo y granada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713395",
+      "3298651713425"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Limonene, Linalool, Dimethyl Phenethyl Acetate, Geranyl Acetate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella lavanda 400ml, 1L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713319",
+      "3298651713456"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Lavandula Oil/Extract, Linalool, Linalyl Acetate, Camphor, Coumarin, Pogostemon Cablin Oil, Pelargonium Graveolens Flower Oil"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella almendra amarga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713296",
+      "3298651713418"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Benzaldehyde, Linalyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Amyl Cinnamal, Geraniol"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella madreselva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713302",
+      "3298651713432"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Hexyl Cinnamal, Terpineol, Linalool, Citronellol, Linalyl Acetate, Citrus Aurantium Peel Oil, Limonene, Benzyl Salicylate, Hydroxycitronellal, Acetyl Cedrene, Isoeugenol"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella higo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713401",
+      "3298651713449"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Coumarin, Alpha-Isomethyl Ionone, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella miel de brezo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713326",
+      "3298651713463"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Coumarin"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella sin perfume 400ml, 1L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713333",
+      "3298651713470"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tocopherol, Tetrasodium EDTA, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella piel de naranja y canela",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713340",
+      "3298651713487"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Hydroxyethylcellulose, Tetrasodium Glutamate Diacetate, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Limonene, Cinnamal, Eugenol, Coumarin, Hexamethylindanopyran, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella sándalo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713364",
+      "3298651713500"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Benzyl Salicylate, Linalool, Pogostemon Cablin Oil, Citronellol, Terpineol, Geraniol, Linalyl Acetate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella verbena 400ml, 1L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713371",
+      "3298651713517"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Citral, Limonene, Hexyl Cinnamal, Citrus Limon Peel Oil, Geraniol, Citronellol, Pinene, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella verbena 5L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651711544"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Citral, Limonene, Hexyl Cinnamal, Citrus Limon Peel Oil, Geraniol, Citronellol, Pinene, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella lavanda 5L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651711100"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tetrasodium EDTA, Tocopherol, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Lavandula Oil/Extract, Linalool, Linalyl Acetate, Camphor, Coumarin, Pogostemon Cablin Oil, Pelargonium Graveolens Flower Oil"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella sin perfume 5L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651711124"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Potassium Olivate, Hydroxyethylcellulose, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Tocopherol, Tetrasodium EDTA, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella verbena (edición Elysée)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651719724"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Potassium Olivate, Hydroxyethylcellulose, Polyglyceryl-3 Caprylate, Cocos Nucifera Oil, Potassium Benzoate, Potassium Sorbate, Citral, Limonene, Hexyl Cinnamal, Geraniol, Tocopherol, Tetrasodium EDTA, Citronellol, Linalool, Olea Europaea Fruit Oil, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella escaramujo 1L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651719045"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal, Citronellol, Geraniol, Acetyl Cedrene, Dimethyl Phenethyl Acetat"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella escaramujo 400ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651719052"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Polyglyceryl-3 Caprylate, Hydroxyethylcellulose, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate, Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal, Citronellol, Geraniol, Acetyl Cedrene, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "Jabón líquido de Marsella flor de azahar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651723073",
+      "3298651723080"
+     ],
+     "inci": "Aqua, Potassium Cocoate, Glycerin, Parfum, Hydroxyethylcellulose, Decyl Glucoside, Cocos Nucifera Oil, Tetrasodium EDTA, Tocopherol, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón líquido de oliva y laurel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298659888903",
+      "3298659888910"
+     ],
+     "inci": "Aqua, Potassium Olivate, Potassium Laurate, Glycerin, Hydroxyethylcellulose, Potassium Sorbate, Potassium Benzoate, Olea Europaea Fruit Oil, Tetrasodium Glutamate Diacetate, Laurus Nobilis Fruit Oil, Tocopherol, Tetrasodium EDTA, Disodium Phosphate, Polysorbate 60, Sodium Phosphate"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado lavanda 40g, 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716587",
+      "3298651716501"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Coumarin, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado verbena 40g, 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716600",
+      "3298651716563"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citral, Citronellol, Geraniol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado miel de brezo 40g, 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716594",
+      "3298651716518"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Mel, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Limonene, Geraniol, Citronellol, Coumarin, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado almendra amarga 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716464"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Parfum, Glycerin, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Alpha Isomethyl Ionone, Amyl Cinnamal, Citronellol, Coumarin, Geraniol"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado granada y flor de cerezo 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716471"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Limonene"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado madreselva 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716488"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Isoeugenol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado higo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716495"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Parfum, Glycerin, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Alpha Isomethyl Ionone, Citronellol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Acetyl Hexamethyl Tetralin-AHTN"
+    },
+    {
+     "nombre": "Jabón en pastilla de aceite de oliva sin perfume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716525",
+      "3298651721260"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado piel de naranja y canela 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716532"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Cinnamal, Coumarin, Eugenol, Limonene"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado violeta 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716570"
+     ],
+     "inci": "Sodium Olivate, Aqua, Sodium Cocoate, Parfum, Glycerin, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Alpha Isomethyl Ionone, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado sándalo 250g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651716556"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Parfum, Glycerin, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Jabón en pastilla «Cigale» con perfume de lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651717997"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Hexyl Cinnamal, Linalool, Linalyl Acetate, Terpineol, Camphor, Coumarin, Eucalyptus Globulus Oil, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Jabón en pastilla «Cigale» con perfume de miel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651718000"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Mel, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citrus Aurantium Peel Oil, Limonene, Geraniol, Citronellol, Coumarin, Vanillin, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado lavanda 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721246"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Hexyl Cinnamal, Linalool, Linalyl Acetate, Terpineol, Camphor, Coumarin, Eucalyptus Globulus Oil, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado granada y flor de cerezo 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721208"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Geranyl Acetate, Linalyl Acetate, Citrus Aurantium Peel Oil, Limonene, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado madreselva 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721215"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Hexyl Cinnamal, Terpineol, Amyl Salicylate, Linalool, Citronellol, Linalyl Acetate, Isoeugenol, Limonene, Benzyl Salicylate, Hydroxycitronellal, Geraniol"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado escaramujo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721222"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citronellol, Geraniol, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado miel de brezo 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721253"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Mel, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citrus Aurantium Peel Oil, Limonene, Geraniol, Citronellol, Coumarin, Vanillin, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado piel de naranja y canela 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721277"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citrus Aurantium Peel Oil, Limonene, Cinnamal, Eugenol, Coumarin"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado verbena 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721291"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citral, Limonene, Pinene, Eucalyptus Globulus Oil, Linalool"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado violeta 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721307"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Terpineol, Amyl Cinnamal, Amyl Salicylate, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado almendra amarga 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721192"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Benzaldehyde, Pinene, Terpineol, Hexamethylindanopyran, Methyl Salicylate"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado sándalo 100g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721284"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Citronellol, Hexamethylindanopyran, Geranyl Acetate, Geraniol, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado amapola y uva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651721468"
+     ],
+     "inci": "Sodium Cocoate, Sodium Olivate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado miel y romero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651722823"
+     ],
+     "inci": "Sodium Cocoate, Sodium Olivate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Vanillin, Geraniol, Juniperus Virginiana Oil"
+    },
+    {
+     "nombre": "Jabón en pastilla perfumado flor de azahar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651723134",
+      "3298651723141"
+     ],
+     "inci": "Sodium Olivate, Sodium Cocoate, Sodium Sunflowerseedate, Aqua, Glycerin, Parfum, Butyrospermum Parkii Butter, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón de Alepo con aceite de laurel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298659888897"
+     ],
+     "inci": "Sodium Olivate, Aqua, Sodium Laurelate, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Jabón de Alepo 30 % aceite de laurel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651710301"
+     ],
+     "inci": "Sodium Olivate, Aqua, Sodium Laurelate, Glycerin, Sodium Chloride, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Jabón negro corporal con aceite de oliva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651713777"
+     ],
+     "inci": "Potassium Olivate, Aqua, Potassium Cocoate, Potassium Carbonate, Glycerin, Cocos Nucifera Oil"
+    },
+    {
+     "nombre": "Gel de ducha relajante flor de azahar, ecológico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298659747040"
+     ],
+     "inci": "Aqua, Citrus Aurantium Amara Flower Water, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Citrus Nobilis Peel Oil, Limonene, Sodium Benzoate, Potassium Sorbate, Glycerin, Benzoic Acid, Olea Europaea Leaf Extract, Citrus Aurantium Amara Leaf/Twig Oil, Linalool, Geraniol, CI 75810, Citric Acid"
+    },
+    {
+     "nombre": "Champú y gel de ducha con aceite de oliva y aloe vera, ecológico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651710073"
+     ],
+     "inci": "Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Lauryl Glucoside, Xanthan Gum, Betaine, Sodium Benzoate, Parfum, Potassium Sorbate, Aloe Barbadensis Leaf Juice Powder, Olea Europaea Fruit Oil"
+    },
+    {
+     "nombre": "Gel de ducha familiar con perfume de lavanda",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651722755"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Benzyl Alcohol, Parfum, Lavandula Angustifolia Flower Extract, Glycerin, Benzoic Acid, Citric Acid, Sodium Hydroxide, Xanthan Gum, Potassium Sorbate, Sodium Benzoate, Lavandula Oil/Extract, Linalool, Linalyl Acetate, Camphor, Coumarin"
+    },
+    {
+     "nombre": "Gel de ducha familiar con perfume de miel de brezo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651722748"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Benzyl Alcohol, Glycerin, Parfum, Mel Extract, Benzoic Acid, Citric Acid, Sodium Hydroxide, Xanthan Gum, Potassium Sorbate, Sodium Benzoate, Coumarin"
+    },
+    {
+     "nombre": "Gel de ducha familiar con perfume de verbena",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3298651722779"
+     ],
+     "inci": "Aqua, Ammonium Lauryl Sulfate, Decyl Glucoside, Sodium Chloride, Cocamidopropyl Betaine, Benzyl Alcohol, Parfum, Verbena Officinalis Extract, Glycerin, Benzoic Acid, Citric Acid, Sodium Hydroxide, Xanthan Gum, Potassium Sorbate, Sodium Benzoate, Hexamethylindanopyran, Limonene, Citral, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Linalool, Citrus Aurantium Peel Oil"
+    }
+   ]
+  },
+  {
+   "key": "ecodoo",
+   "nombre": "Ecodoo",
+   "productos": [
+    {
+     "nombre": "Bicarbonato de sodio multiusos (Bicarbonate de soude)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380064852",
+      "3380380070310"
+     ],
+     "inci": "Sodium Bicarbonate"
+    },
+    {
+     "nombre": "Ácido cítrico limpiador (Acide citrique)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380076619",
+      "3380380111679"
+     ],
+     "inci": "Citric Acid"
+    },
+    {
+     "nombre": "Cristales de soda (Cristaux de soude)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380076671",
+      "3380380111686"
+     ],
+     "inci": "Sodium Carbonate"
+    },
+    {
+     "nombre": "Piedra de arcilla multiusos (Pierre d'argile)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380077074"
+     ],
+     "inci": "Calcium Carbonate, Aqua, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Limonene, Potassium Hydroxide"
+    },
+    {
+     "nombre": "Tierra de diatomeas multiusos (Terre de diatomée)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380111693"
+     ],
+     "inci": "Diatomaceous Earth"
+    },
+    {
+     "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380065460",
+      "3380380065477"
+     ],
+     "inci": "Sodium Palmate, Aqua, Sodium Cocoate, Glycerin, Sodium Chloride, Sodium Hydroxide, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón negro multiusos líquido (Savon noir liquide)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380000928",
+      "3380380097218"
+     ],
+     "inci": "Aqua, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Potassium Carbonate, Glycerin, Sodium Citrate, Lavandula Hybrida Oil, Linalool, Trisodium Dicarboxymethyl Alaninate, Linum Usitatissimum Seed Oil"
+    },
+    {
+     "nombre": "Jabón negro multiusos en spray (Savon noir spray)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380089015"
+     ],
+     "inci": "Aqua, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Potassium Carbonate, Trisodium Dicarboxymethyl Alaninate, Sodium Citrate, Glycerin, Lavandula Hybrida Oil, Linalool"
+    },
+    {
+     "nombre": "Vinagre doméstico multiusos eucalipto 20 % (Vinaigre ménager)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380088995"
+     ],
+     "inci": "Acetic Acid, Parfum"
+    },
+    {
+     "nombre": "Vinagre blanco doméstico multiusos 12 % (Vinaigre ménager)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380064869",
+      "3380380078774"
+     ],
+     "inci": "Acetic Acid"
+    },
+    {
+     "nombre": "Gel de vinagre multiusos (Gel vinaigre ménager)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380078781"
+     ],
+     "inci": "Aqua, Acetic Acid, Xanthan Gum"
+    },
+    {
+     "nombre": "Detergente en hojas piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380114533"
+     ],
+     "inci": "Sodium Lauryl Sulfate, Polyvinyl Alcohol, Zea Mays Starch, Sodium Laureth Sulfate, Aqua, C12-14 Pareth-7, Sodium Citrate, Sodium Bicarbonate, Hydrated Silica, Glycine Soja Oil, Rapeseed Oil Ester, PEG-7 Oleate, Parfum"
+    },
+    {
+     "nombre": "Detergente en hojas frescor vegetal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380114540"
+     ],
+     "inci": "Sodium Lauryl Sulfate, Polyvinyl Alcohol, Zea Mays Starch, Sodium Laureth Sulfate, Aqua, C12-14 Pareth-7, Sodium Citrate, Sodium Bicarbonate, Hydrated Silica, Glycine Soja Oil, Rapeseed Oil Ester, PEG-7 Oleate, Parfum, Linalyl Acetate, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Pinene, Linalool, Limonene"
+    },
+    {
+     "nombre": "Detergente en polvo concentrado 750 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380114557"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Percarbonate, Sodium Lauryl Sulfate, Sodium Bicarbonate, TAED (Tetraacetylethylenediamine), Sodium Citrate, Sodium Carboxymethyl Cellulose, Ethoxylated Alcohols, Trisodium Dicarboxymethyl Alaninate, Fatty Acid (CAS 61789-88-6, sodium olivate), Parfum, Deoxyribonuclease, Subtilisin, Amylase, Mannanase"
+    },
+    {
+     "nombre": "Detergente en polvo lavanda 3 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380051197"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium Chloride, Sodium Percarbonate, Sodium Silicate, Sodium Lauryl Sulfate, Lauryl Glucoside, Glycerin, Sodium C12-18 Alkyl Sulfate, Parfum, Subtilisin, Amylase, Lipase"
+    },
+    {
+     "nombre": "Detergente líquido aroma melocotón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380099892",
+      "3380380026515",
+      "3380380054938",
+      "3380380097225"
+     ],
+     "inci": "Aqua, Alcohol, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Xanthan Gum, Aloe Barbadensis Leaf Juice, Poly(oxy-1,2-ethanediyl), alpha-(1-methylheptyl)-omega-hydroxy- (CAS 31497-04-8), Potassium Cocoate, Glycerin, Potassium Olivate, Sodium Chloride, Sunfloweroyl Methylglucamide, Propylene Glycol, Potassium Carbonate, Sodium Citrate, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Isopropyl Alcohol, Tetrasodium Glutamate Diacetate, Parfum, Linalool, Limonene"
+    },
+    {
+     "nombre": "Detergente líquido jabón de Marsella",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380099939",
+      "3380380099953",
+      "3380380065293"
+     ],
+     "inci": "Aqua, Alcohol, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Xanthan Gum, Aloe Barbadensis Leaf Juice, Poly(oxy-1,2-ethanediyl), alpha-(1-methylheptyl)-omega-hydroxy- (CAS 31497-04-8), Potassium Cocoate, Glycerin, Potassium Olivate, Sodium Chloride, Sunfloweroyl Methylglucamide, Propylene Glycol, Potassium Carbonate, Sodium Citrate, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Isopropyl Alcohol, Tetrasodium Glutamate Diacetate, Prunus Armeniaca Kernel Oil"
+    },
+    {
+     "nombre": "Detergente líquido lavandín",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380099946"
+     ],
+     "inci": "Aqua, Alcohol, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Xanthan Gum, Aloe Barbadensis Leaf Juice, Poly(oxy-1,2-ethanediyl), alpha-(1-methylheptyl)-omega-hydroxy- (CAS 31497-04-8), Potassium Cocoate, Glycerin, Potassium Olivate, Sodium Chloride, Sunfloweroyl Methylglucamide, Propylene Glycol, Potassium Carbonate, Sodium Citrate, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Isopropyl Alcohol, Tetrasodium Glutamate Diacetate, Lavandula Hybrida Oil, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Detergente líquido sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380083990",
+      "3380380097232"
+     ],
+     "inci": "Aqua, Alcohol, Fatty Acids C16-18 And C18-unsatd. Sodium Salts, Xanthan Gum, Aloe Barbadensis Leaf Juice, Poly(oxy-1,2-ethanediyl), alpha-(1-methylheptyl)-omega-hydroxy- (CAS 31497-04-8), Potassium Cocoate, Glycerin, Potassium Olivate, Sodium Chloride, Sunfloweroyl Methylglucamide, Propylene Glycol, Potassium Carbonate, Sodium Citrate, Fatty Acids C16-18 And C18-unsatd. Potassium Salts, Isopropyl Alcohol, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Suavizante aroma melocotón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380099960"
+     ],
+     "inci": "Aqua, Dihydrogenated Palmoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Aloe Barbadensis Leaf Juice, Lactic Acid, Magnesium Chloride, Parfum, Limonene"
+    },
+    {
+     "nombre": "Suavizante lavandín",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380099977"
+     ],
+     "inci": "Aqua, Dihydrogenated Palmoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Aloe Barbadensis Leaf Juice, Lactic Acid, Magnesium Chloride, Lavandula Hybrida Oil"
+    },
+    {
+     "nombre": "Quitamanchas en spray para la ropa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380048180"
+     ],
+     "inci": "Aqua, Alcohol Denat, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Citric Acid, Citrus Limon Peel Oil, Limonene, Sodium Hydroxide, Sodium Chloride, Saponaria Officinalis Leaf Extract, t-Butyl Alcohol, Potassium Sorbate, Lactic Acid, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de frutas y verduras (Nettoyant fruits legumes)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380079061"
+     ],
+     "inci": "Aqua, Glycerin, Caprylyl/Capryl Glucoside, Citric Acid, Sodium Citrate, Potassium Sorbate, Lactic Acid"
+    },
+    {
+     "nombre": "Limpiador multiusos en polvo para diluir",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380101953"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium Lauryl Sulfate, Sodium Bicarbonate, Trisodium Dicarboxymethyl Alaninate, Sodium Benzoate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Limpiador antical en spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380048128"
+     ],
+     "inci": "Aqua, Citric Acid, Lactic Acid, Glycerin, Sodium Citrate, Cocamidopropyl Betaine, Xanthan Gum, Citrus Limon Peel Oil, Sodium Lauryl Sulfate, Sodium Chloride, Citrus Sinensis Peel Oil Expressed, Limonene"
+    },
+    {
+     "nombre": "Crema limpiadora multiusos (Crème à récurer)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380048487"
+     ],
+     "inci": "Aqua, Calcium Carbonate, Sodium Carbonate, Glycerin, Amyl Xyloside, Xanthan Gum, Sodium Metasilicate, Quartz, Sodium Bicarbonate, Mentha Piperita Oil"
+    },
+    {
+     "nombre": "Limpiador multiusos cítricos (Citrus magic)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900553",
+      "3380390900515"
+     ],
+     "inci": "Aqua, Parfum, Alcohol Denat, Sodium Laureth Sulfate, Deceth-8, Lactic Acid, Citrus Limon Peel Oil, t-Butyl Alcohol, Denatonium Benzoate, Limonene, Citral"
+    },
+    {
+     "nombre": "Limpiacristales (Nettoyant vitres)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900829"
+     ],
+     "inci": "Aqua, Alcohol Denat, Caprylyl/Capryl Glucoside, Sodium Carbonate, Glycereth-6 Cocoate, Trisodium Dicarboxymethyl Alaninate, Parfum, t-Butyl Alcohol, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Desengrasante horno y barbacoa (Nettoyant fours insert barbecue)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900607"
+     ],
+     "inci": "Aqua, Potassium Hydroxide, Caprylyl/Capryl Glucoside, Citric Acid, Xanthan Gum, Lauryl Glucoside, Citrus Limon Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Limpiasuelos (Nettoyant sols)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380101687"
+     ],
+     "inci": "Aqua, Alcohol Denat, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Deceth-8, Sodium Benzoate, Lactic Acid, Citric Acid, Lavandula Hybrida Grosso Herb Oil, Sodium Chloride, t-Butyl Alcohol, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador gel wc (Limpia WC gel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900614"
+     ],
+     "inci": "Aqua, Citric Acid, Cocamidopropyl Betaine, Sodium Citrate, Xanthan Gum, Poly(oxy-1,2-ethanediyl), alpha-(1-methylheptyl)-omega-hydroxy- (CAS 31497-04-8), Lactic Acid, Mentha Viridis Leaf Oil, Eucalyptus Globulus Oil, Limonene, Carvone"
+    },
+    {
+     "nombre": "Desatascador de tuberías (Déboucheur canalisations)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380073472"
+     ],
+     "inci": "Aqua, Sodium Hydroxide, Caprylyl/Capryl Glucoside, Xanthan Gum, Trisodium Dicarboxymethyl Alaninate"
+    },
+    {
+     "nombre": "Lavavajillas en polvo para máquina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380114564"
+     ],
+     "inci": "Sodium Bicarbonate, Sodium Lauryl Sulfate, Citric Acid, Trisodium Dicarboxymethyl Alaninate, Aqua, Limonene, Cocamidopropyl Betaine, Citral, gamma-Terpinene (p-Mentha-1,4-diene), Beta-Pinene, Myrcene (declarado como «harmless substances», CAS 123-35-3), Alpha-Pinene, Linalool, Geraniol, Parfum"
+    },
+    {
+     "nombre": "Lavavajillas a mano suave aloe vera y verbena",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900744",
+      "3380390900751",
+      "3380390900799",
+      "3380380097201"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Fatty Alcohol Ethoxylated (CAS 68439-50-9, C12-14 Pareth-n), Lactic Acid, Sodium Chloride, Sodium Lactate, Sodium Benzoate, Parfum, Verbena Hydrosol (hydrolat de verveine bio), Alcohol, Citral, Limonene"
+    },
+    {
+     "nombre": "Lavavajillas a mano suave almendra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380089022"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Lactic Acid, Sodium Chloride, Sodium Lactate, Parfum, Prunus Amygdalus Amara Kernel Oil"
+    },
+    {
+     "nombre": "Lavavajillas a mano suave lavandín",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380089039"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Fatty Alcohol Ethoxylated (CAS 68439-50-9, C12-14 Pareth-n), Lactic Acid, Sodium Chloride, Sodium Lactate, Sodium Benzoate, Lavandula Hybrida Oil, Linalool"
+    },
+    {
+     "nombre": "Lavavajillas a mano suave flor de azahar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380083174"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Fatty Alcohol Ethoxylated (CAS 68439-50-9, C12-14 Pareth-n), Lactic Acid, Sodium Chloride, Sodium Lactate, Sodium Benzoate, Parfum, Citrus Aurantium Amara Flower Water, Alcohol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Lavavajillas a mano desengrasante lima",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380083181"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Fatty Alcohol Ethoxylated (CAS 68439-50-9, C12-14 Pareth-n), Lactic Acid, Sodium Chloride, Sodium Lactate, Sodium Benzoate, Vinegar, Citrus Limon Peel Oil, Citrus Aurantifolia Oil, Limonene"
+    },
+    {
+     "nombre": "Lavavajillas a mano desengrasante menta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380050763",
+      "3380380050770",
+      "3380380111518"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Fatty Alcohol Ethoxylated (CAS 68439-50-9, C12-14 Pareth-n), Lactic Acid, Sodium Chloride, Sodium Lactate, Vinegar, Sodium Benzoate, Mentha Viridis Leaf Oil, Mentha Piperita Oil"
+    },
+    {
+     "nombre": "Lavavajillas a mano hipoalergénico sin perfume (Liquide vaisselle douceur sans parfum)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380078798",
+      "3380380089046"
+     ],
+     "inci": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Lauryl Glucoside, Lactic Acid, Sodium Benzoate, Sodium Chloride, Calendula Officinalis Flower Extract, Sodium Lactate"
+    },
+    {
+     "nombre": "Pastillas lavavajillas 10 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380112768"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Cellulose, TAED (Tetraacetylethylenediamine), Sodium Polyitaconate, Coco-Glucoside, Sodium Sulfate, Disodium Disilicate, Ceteareth-25, Sodium Silicate, Aqua, Sodium Carboxymethyl Inulin, Subtilisin, Bentonite, Sodium C12-18 Alkyl Sulfate, Amylase, Magnesium Silicate, Caprylyl/Capryl Glucoside, Sodium Chloride, Sodium Glycolate, Sodium Chloroacetate"
+    },
+    {
+     "nombre": "Pastillas lavavajillas 15 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380081156"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Bicarbonate, Lauryl Glucoside, Sodium Silicate, Sodium C12-18 Alkyl Sulfate, Aqua, Disodium Disilicate, Microcrystalline Cellulose, TAED (Tetraacetylethylenediamine), Bentonite, Sodium Polyitaconate, Subtilisin, Ceteareth-25, Amylase, Sodium Carboxymethyl Inulin, Propylene Glycol"
+    },
+    {
+     "nombre": "Abrillantador lavavajillas (Liquide de rincage)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380390900584"
+     ],
+     "inci": "Aqua, Alcohol, Citric Acid, Tetrasodium Glutamate Diacetate, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Gel para lavavajillas (Gel lave-vaisselle)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3380380050787"
+     ],
+     "inci": "Aqua, Alcohol Denat, Sodium Citrate, Glycerin, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Sodium Capryloamphoacetate, Xanthan Gum, Citrus Sinensis Peel Oil Expressed, Tetrasodium Glutamate Diacetate, Sodium Carboxymethyl Inulin, Sodium Chloride, Sodium Glycolate, Sodium Diglycolate, Sodium Hydroxide, Potassium Hydroxide, t-Butyl Alcohol, Sodium Monochloroacetate, Denatonium Benzoate, Limonene, Citrus Aurantium Peel Oil"
+    }
+   ]
+  },
+  {
+   "key": "lagarto",
+   "nombre": "Lagarto",
+   "productos": [
+    {
+     "nombre": "Jabón Lagarto Natural para la colada (pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761000188"
+     ],
+     "inci": "Sodium Tallowate, Aqua, Glycerin, Parfum, Limonene, Phosphoric Acid, Tetrasodium Dicarboxymethyl Glutamate, Potassium Aminotrimethylene Phosphonate, Colorant"
+    },
+    {
+     "nombre": "Jabón Lagarto Natural líquido para la colada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761005305"
+     ],
+     "inci": "Aqua, Potassium C16-18 and C18 Unsaturated Fatty Acid Salts (Soap), Potassium Cocoate, Glycerin, Sodium Chloride, Parfum, Limonene, Tetrasodium Dicarboxymethyl Glutamate, Tetrasodium EDTA, Citral, Geraniol, Methylisothiazolinone, Benzisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761000898"
+     ],
+     "inci": "Sodium Palmate, Sodium Palm Kernelate"
+    },
+    {
+     "nombre": "Jabón en pasta Lagarto para la colada (pasta al jabón)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761000348"
+     ],
+     "inci": "Potassium C16-18 and C18 Unsaturated Fatty Acid Salts (Soap), Aqua, Propylene Glycol, Glycerin, Parfum, Tetrasodium Dicarboxymethyl Glutamate"
+    },
+    {
+     "nombre": "Detergente líquido Lagarto Basic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761009556"
+     ],
+     "inci": "Aqua, Sodium Oleate, Sodium Laureth Sulfate, Sodium Chloride, Laureth-7, Parfum, Sodium Bicarbonate, Tetrasodium EDTA, Butylphenyl Methylpropional, Styrene/Acrylates Copolymer, Disodium Distyrylbiphenyl Disulfonate, Benzisothiazolinone, Methylisothiazolinone, Diethanolamine, Colorant"
+    },
+    {
+     "nombre": "Detergente Lagarto ECO (polvo, Ecolabel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761300158"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium C12-16 Alkyl Sulfate, Sodium Silicate, Sodium Acrylic Acid/MA Copolymer, Sodium C10-13 Alkylbenzenesulfonate, C12-18 Pareth-7, Sodium C14-18 and C16-18 Unsaturated Fatty Acid Salts (Soap), TAED, Cellulose Gum, Aqua, Potassium Aminotrimethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Alpha-Amylase"
+    },
+    {
+     "nombre": "Detergente Lagarto Fuerza Total Lavado a Mano (polvo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761300639"
+     ],
+     "inci": "Sodium Sulfate, Sodium C10-13 Alkylbenzenesulfonate, Sodium Silicate, Sodium Carbonate, Aqua, Sodium Acrylic Acid/MA Copolymer, Laureth-10, Cellulose Gum, Potassium Aminotrimethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Butylphenyl Methylpropional, Linalool"
+    },
+    {
+     "nombre": "Detergente Lagarto en pastillas concentrado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761300844"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Urea, Sodium Carbonate Peroxide, Sodium C10-13 Alkylbenzenesulfonate, Cellulose, Sodium Silicate, Sodium Citrate, TAED, Laureth-7, Sodium Palmate, Sodium Palm Kernelate, Sodium Acrylic Acid/MA Copolymer, Parfum, Cellulose Gum, Aqua, Potassium Aminotrimethylene Phosphonate, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Limonene, Geraniol, Alpha-Amylase, Styrene/Acrylates Copolymer, Diethanolamine, C9-11 Pareth-6, Colorant"
+    },
+    {
+     "nombre": "Quitamanchas Lagarto Ropa Blanca (polvo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761301810"
+     ],
+     "inci": "Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Carbonate, TAED, Sodium C10-13 Alkylbenzenesulfonate, Sodium Silicate, Laureth-10, Aqua, Sodium C16-18 and C18 Unsaturated Fatty Acid Salts (Soap), Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Potassium Aminotrimethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Disodium Anilinomorpholinotriazinylaminostilbenesulfonate, Butylphenyl Methylpropional, Subtilisin, Alpha-Amylase"
+    },
+    {
+     "nombre": "Quitamanchas Lagarto Ropa Color (polvo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761301803"
+     ],
+     "inci": "Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Carbonate, TAED, Sodium C10-13 Alkylbenzenesulfonate, Sodium Silicate, Laureth-10, Aqua, Sodium C16-18 and C18 Unsaturated Fatty Acid Salts (Soap), Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Potassium Aminotrimethylene Phosphonate, Parfum, Disodium Anilinomorpholinotriazinylaminostilbenesulfonate, Butylphenyl Methylpropional, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Alpha-Amylase"
+    },
+    {
+     "nombre": "Lavavajillas a mano Lagarto Concentrado Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761700057"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Myristamine Oxide, Sodium Sulfate, Limonene, Parfum, Citronellol, Colorant, 2-Bromo-2-Nitropropane-1,3-Diol, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lejía Lagarto Azul (con detergente)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761000409"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Sulfate, Sodium Chlorate, Sodium Silicate, Parfum"
+    },
+    {
+     "nombre": "Lejía Lagarto Pino (con detergente)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761002069"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Sulfate, Sodium Chlorate, Sodium Silicate, Parfum"
+    },
+    {
+     "nombre": "Lejía Lagarto Limón (con detergente)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410761002052"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Sulfate, Sodium Chlorate, Sodium Silicate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "beltran",
+   "nombre": "Beltrán",
+   "productos": [
+    {
+     "nombre": "Jabón blando quitamanchas natural Beltrán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427004501"
+     ],
+     "inci": "Potassium Oleate, Aqua"
+    },
+    {
+     "nombre": "Detergente en pasta Beltrán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427007502"
+     ],
+     "inci": "Aqua, Sodium C10-16 Alkylbenzenesulfonate, C10-16 Pareth, Sodium Carbonate, Cellulose Gum, Sodium Metasilicate, Parfum, Disodium Distyrylbiphenyl Disulfonate, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Lavavajillas manual Vital (sin perfume ni alérgenos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427035024",
+      "8421427035055"
+     ],
+     "inci": "Aqua, C10-13 Alkylbenzenesulfonic Acid, Sodium Laureth Sulfate, Sodium Hydroxide, Sodium Chloride, Triethanolamine, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Detergente líquido Vital (sin perfume ni alérgenos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427038032",
+      "8421427038056"
+     ],
+     "inci": "Aqua, C10-13 Alkylbenzenesulfonic Acid, C10-16 Pareth, Potassium Oleate, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Chloride, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Detergente líquido ecológico Beltrán Eco con jabón natural (Ecolabel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427019116"
+     ],
+     "inci": "Aqua, Potassium Oleate, PEG Glyceryl Cocoate, Sodium Laureth Sulfate, Potassium Carbonate, Ethanol, Glycerin, Parfum, Citric Acid, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón líquido ecológico Beltrán Eco de aceite de coco para la colada (prendas delicadas y bebé)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427019215"
+     ],
+     "inci": "Aqua, Sodium Cocoate, PEG Glyceryl Cocoate, Disodium Coco-Glucoside Citrate, Cocamidopropyl Betaine, Potassium Carbonate, Parfum, Glycerin, Tetrasodium Glutamate Diacetate"
+    },
+    {
+     "nombre": "Jabón quitamanchas ecológico Beltrán Eco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427019413"
+     ],
+     "inci": "Potassium Oleate, Aqua"
+    },
+    {
+     "nombre": "Jabón de coco ecológico Beltrán Eco para la colada (pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427019314",
+      "8421427019345"
+     ],
+     "inci": "Sodium Cocoate, Glycerin, Parfum, Tocopherol"
+    }
+   ]
+  },
+  {
+   "key": "biobel",
+   "nombre": "Biobel",
+   "productos": [
+    {
+     "nombre": "Limpiahogar multiusos Biobel 0% (sin perfume)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427069371"
+     ],
+     "inci": "Aqua, Ethanol, Caprylyl/Capryl Glucoside, Lauryl Glucoside, Citric Acid"
+    },
+    {
+     "nombre": "Jabón de coco Biobel 0% para la colada (sin perfume, pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427063089"
+     ],
+     "inci": "Sodium Cocoate, Glycerin, Tocopherol"
+    },
+    {
+     "nombre": "Detergente líquido Biobel 0% (sin perfume)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427068077"
+     ],
+     "inci": "Aqua, Potassium Oleate, Caprylyl/Capryl Glucoside, Lauryl Glucoside, Glycereth Cocoate, Sodium Lauryl Sulfate, Glycerin, Sodium Carbonate, Disodium Epoxysuccinate, Sodium Chloride, Sodium Carbonate"
+    },
+    {
+     "nombre": "Lavavajillas sólido Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427040752"
+     ],
+     "inci": "Sodium Coco Sulfate, Oryza Sativa Seed Powder, Cetearyl Alcohol, C8-14 Alkyl Glucoside, Glycerin, Citric Acid, Citrus Limon Peel Oil, Ricinus Communis Seed Oil, Cocos Nucifera Oil, Sodium Citrate, Cymbopogon Flexuosus Oil, Tocopherol"
+    },
+    {
+     "nombre": "Ácido cítrico limpiador Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427069616",
+      "8421427069654"
+     ],
+     "inci": "Citric Acid"
+    },
+    {
+     "nombre": "Vinagre de limpieza multiusos Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427069418"
+     ],
+     "inci": "Acetic Acid, Aqua"
+    },
+    {
+     "nombre": "Pastillas lavavajillas Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427065328"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Percarbonate, Sodium Sulfate, Citric Acid, TAED, Sodium Bicarbonate, Tetrasodium Iminodisuccinate, Sodium Silicate, Sodium Gluconate, Lauryl Glucoside, C5 and C10-12 Alkyl Glucoside, Subtilisin, Alpha-Amylase"
+    },
+    {
+     "nombre": "Abrillantador lavavajillas Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427065526"
+     ],
+     "inci": "Aqua, Ethanol, Citric Acid, Cocamidopropyl Betaine"
+    },
+    {
+     "nombre": "Lavavajillas manual Biobel (aceite esencial de limón)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427065021",
+      "8421427065182"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Caprylyl/Capryl Glucoside, Ethanol, Citrus Limon Peel Oil, Glycerin, Citric Acid"
+    },
+    {
+     "nombre": "Limpiacristales Biobel (sin perfume)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427069012"
+     ],
+     "inci": "Aqua, Ethanol, Citric Acid, Caprylyl/Capryl Glucoside, Fusel Wheat Bran/Straw Glycosides"
+    },
+    {
+     "nombre": "Limpiahogar multiusos Biobel (aceite esencial de citronela)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427069319",
+      "8421427069357",
+      "8421427069326"
+     ],
+     "inci": "Aqua, Ethanol, C8-14 Alkyl Glucoside, Caprylyl/Capryl Glucoside, Fusel Wheat Bran/Straw Glycosides, Cymbopogon Nardus Oil, Citric Acid"
+    },
+    {
+     "nombre": "Jabón quitamanchas Biobel (jabón potásico, con sello Vital)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427064567"
+     ],
+     "inci": "Potassium Oleate, Aqua"
+    },
+    {
+     "nombre": "Jabón de coco Biobel con lavanda para la colada (pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427063027"
+     ],
+     "inci": "Sodium Cocoate, Glycerin, Lavandula Angustifolia Oil, Tocopherol"
+    },
+    {
+     "nombre": "Percarbonato de sodio Biobel (blanqueador)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427064017"
+     ],
+     "inci": "Sodium Percarbonate"
+    },
+    {
+     "nombre": "Sal para lavavajillas Biobel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427065410"
+     ],
+     "inci": "Sodium Chloride"
+    },
+    {
+     "nombre": "Jabón líquido Biobel para la colada de bebés y prendas delicadas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427067032",
+      "8421427067056"
+     ],
+     "inci": "Aqua, Sodium Cocoate, C8-14 Alkyl Glucoside, Caprylyl/Capryl Wheat Bran/Straw Glycosides, Caprylyl/Capryl Glucoside, Citric Acid, Aloe Barbadensis Leaf Powder"
+    },
+    {
+     "nombre": "Detergente líquido Biobel (aceite esencial de lavanda)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421427068039",
+      "8421427068053",
+      "8421427068183"
+     ],
+     "inci": "Aqua, Potassium Oleate, Caprylyl/Capryl Wheat Bran/Straw Glycosides, Glycerin, Fusel Wheat Bran/Straw Glycosides, Lavandula Hybrida Grosso Oil, Potassium Carbonate"
+    }
+   ]
+  },
+  {
+   "key": "chimbo",
+   "nombre": "Jabones Chimbo",
+   "productos": [
+    {
+     "nombre": "Jabón tradicional puro Chimbo para la colada (pastilla)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437000721024"
+     ],
+     "inci": "Sodium Tallowate, Aqua, Sodium Cocoate, Glycerin, Parfum, Sodium Chloride, Limonene, Trisodium HEDTA, BHT, CI 11680, CI 12485, CI 77266"
+    }
+   ]
+  },
+  {
+   "key": "hacendado",
+   "nombre": "Hacendado",
+   "productos": [
+    {
+     "nombre": "Bicarbonato sódico Hacendado multiusos (1 kg y 300 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000290076",
+      "8480000290069"
+     ],
+     "inci": "Sodium Bicarbonate"
     }
    ]
   }

@@ -5395,6 +5395,85 @@ un hueco: una usuaria aportó el **Shea Butter Wave Whip Curling Mousse `0817513
 Scripts: `sxtools/cantu_db.py` (fichas UK → `uk_db.json`), `cantu_tiendas.py`, `cantu_build.py` (lista FUERA con el
 motivo de cada código).
 
+### Hogar, bloque a: básicos y jabones — 2026-10-14 (versión 2026-10-14-hogara): 156 productos, 241 códigos
+Pedido de Mariana: Hogar tenía 18 alternativas de 352 productos con lista (lo que bloquea es el parfum y las
+isotiazolinonas). Bloque a) = básicos de limpieza y jabones. Tres agentes en paralelo con las reglas de siempre; cada
+ficha revisada aquí. Archivos y descargas en el scratchpad (`hogar/a/`, `hogar/junta_a.py`).
+- **Marius Fabre — 70 (13 de Hogar y 57 de cuidado personal).** marius-fabre.com (PrestaShop con versión española): el
+  EAN va al final de la URL de cada ficha. Listas: las **hojas 648/2004 en PDF** enlazadas desde las fichas (jabón negro,
+  lavavajillas, detergentes, jabones para la colada) y el INCI de la ficha (bicarbonato: "Ingrédient INCI : Sodium
+  Bicarbonate"; jabones de cuidado personal, con tallas agrupadas por lista idéntica).
+  - Fuera:
+    - Vinagre blanco: solo "vinaigre 14 %".
+    - Jabón negro listo para usar y spray para perros: la web omite el Potassium Cocoate que sí trae la hoja 648.
+    - Jabón quitamanchas: dos fórmulas con un solo código.
+    - Pastilla de escaramujo 250 g (la web le pone la lista del líquido) y la de higo 100 g (lista copiada de la de verbena).
+    - Packs y cofres.
+- **Ecodoo — 44.** ecodoo.fr no responde (503 del proxy). La fuente son las **hojas oficiales "Composition INCI" de Ekibio**
+  (grupo Léa Nature, dueño de la marca), de abril de 2026, que dan el EAN de cada formato. Se vende en España (Beauty
+  Selection, Albanatur, Idun, Boticant).
+  - Fuera:
+    - Percarbonato `3380380078491` y detergentes Lavandín y Sensitive de 2 L: el mismo código aparece con dos fórmulas
+      en las hojas.
+    - Multiusos 500 ml y antical en polvo: EAN de 12 cifras.
+    - Pastillas 3 en 1 ("granulation excipient" sin decir qué es).
+    - Descatalogados que solo salen en hojas antiguas.
+    - Productos sin hoja.
+  - Los nombres químicos de las hojas se pasaron al INCI por el CAS (MGDA → Trisodium Dicarboxymethyl Alaninate; sílice
+    amorfa 61790-53-2 → Diatomaceous Earth).
+  - Las sales de ácidos grasos sin INCI claro quedan como "Fatty Acids C16-18 And C18-Unsatd. Potassium Salts", sin
+    comas, para que no se partan.
+- **Lagarto — 14.** Cada ficha de lagarto.es enlaza la "Lista de ingredientes según 648/2004" de Euroquímica (muchas
+  de 2017; la fecha va en la nota del agente).
+  - Solo entran los que tienen código seguro (Consum, La Droguería, catálogo Ecolabel). Otros 41 tienen hoja pero no
+    código.
+  - Fuera también las escamas amarillas: código asignado sin confirmar.
+- **Beltrán — 8 y Biobel — 17** (las dos de Jabones Beltrán; los básicos —ácido cítrico, percarbonato, vinagre, sal— se
+  venden como Biobel). Listas: las declaraciones 648/2004 enlazadas desde cada ficha de jabonesbeltran.com, y la hoja
+  Beltrán Eco 2024. Códigos: mayorista Feliu Badaló, La Droguería, Marvimundo, Mercadona y Planeta Huerto.
+- **Jabones Chimbo — 1.** jabonchimbo.com publica la lista por EAN.
+  - Solo entra la pastilla `8437000721024` (250 g según OBF).
+  - Fuera: los otros dos códigos de la pastilla (uno puede ser el pack de 3), las escamas (código deducido) y los dos
+    líquidos (la web no dice qué código es cada uno).
+- **Mercadona — 2.**
+  - Bicarbonato sódico Hacendado de 1 kg y 300 g en una ficha: lista de la API y foto de la etiqueta con el mismo código.
+  - Vinagre de limpieza Bosque Verde: "Composición: vinagre", acidez 8 %.
+  - Fuera:
+    - Vinagre de vino Hacendado: es de cocina y la etiqueta no habla de limpieza.
+    - Sosa cáustica: "hidróxido sódico >98 %". Además saldría de Alternativas por corrosiva.
+    - Percarbonato con bicarbonato y detergentes de Marsella: solo traen los rangos del Anexo VII.
+    - Jabón natural con glicerina: "más del 30 % de jabón", sin la grasa.
+- **Nombres**:
+  - Los de Marius Fabre y Ecodoo se pasan al español, con el francés entre paréntesis.
+  - **34 fichas de Hogar caían en Cuidado personal**, porque la app deduce la categoría del nombre y solo sirven las
+    palabras fuertes de Hogar. Se renombraron con su uso real: "para la colada" en los jabones de lavar ropa,
+    "multiusos" en el bicarbonato, el jabón negro, el vinagre doméstico y la tierra de diatomeas, y "limpiador" en el
+    ácido cítrico.
+  - Comprobado: las 34 salen ya como Hogar.
+- **Revisión de falsos positivos y negativos**:
+  - **Falso positivo corregido en el detector**: la ficha 193 de Hogar ("Fragancia, puede que solo se declaren los
+    alérgenos") saltaba en 9 productos de Ecodoo cuya lista **nombra los aceites esenciales** de donde salen el limoneno
+    o el linalol (Citrus Limon Peel Oil, Lavandula Hybrida Oil…).
+    - Arreglo (`products.js`, `ACEITE_ESENCIAL_INCI`): con un aceite esencial declarado por su nombre botánico, esos
+      alérgenos no dan la 193. Es el mismo criterio que la decisión X de cosmética.
+    - Un "Parfum" sigue saltando aunque haya aceites. Un alérgeno sin ningún aceite declarado (la piedra de arcilla de
+      Ecodoo) también sigue saltando.
+    - Regresión sobre las 10.167 fichas anteriores: **0 cambios**. **Necesita build.**
+    - Hasta entonces, los 5 que quedan limpios solo con el arreglo van a `HASTA_BUILD`: quitamanchas, antical,
+      desengrasante de horno, gel WC y gel lavavajillas de Ecodoo.
+  - Avisos verdaderos que conviene saber:
+    - Lilial en 4 productos de Lagarto (hojas de 2017).
+    - Bronopol en Beltrán (detergente en pasta, Vital) y en el lavavajillas Lagarto Limón. Su nombre INCI, "…-1,3-Diol",
+      lleva coma: se parte al mostrarse, pero el aviso sale.
+    - MIT, BIT y MCI en Lagarto.
+    - DEA en dos detergentes Lagarto.
+    - Galaxólido y tonalide en jabones perfumados de Marius Fabre.
+  - Sin falsos negativos con los criterios del catálogo. Los aceites esenciales declarados por su nombre (limón,
+    citronela) no avisan, y lavanda y árbol del té sí, con su propia regla.
+  - El generador `gen_products.py` ya acepta cualquier import de `firebase/firestore` (la app lo cambió y rompía la
+    regeneración).
+  - Regresión del bloque: 0 cambios, más 156 fichas nuevas. Limpias: 57 de 156 (52 sin el arreglo de la 193).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
