@@ -1,5 +1,5 @@
 {
- "version": "2026-10-13-sanex2",
+ "version": "2026-10-14-cantu",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15481,6 +15481,24 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8420212113572"
+   ]
+  },
+  {
+   "marcaKey": "cantu",
+   "marca": "Cantu",
+   "nombre": "Cocoa Butter Raw Blend",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0810006940602"
+   ]
+  },
+  {
+   "marcaKey": "cantu",
+   "marca": "Cantu",
+   "nombre": "Mango Butter Raw Blend",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0810006940619"
    ]
   }
  ]
