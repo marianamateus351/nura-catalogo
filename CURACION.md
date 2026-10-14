@@ -4771,6 +4771,49 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
+## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
+Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
+antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
+son ~15 líneas repetidas por tono (Gel Affair ×20, Manucurist ×118). Decisión: **segmentar por
+necesidad dentro de cada tipo, y en maquillaje una fila por línea de producto con sus tonos**.
+Los tipos y sus iconos NO cambian; lo nuevo va DENTRO de cada producto, en dos campos opcionales
+que la app lee desde la versión en que aparezcan:
+
+- `subtipo`: clave del subtipo (minúsculas, guiones). La app enseña chips arriba de la lista
+  ("Todas · Hidratante · Antiedad…") solo con los subtipos presentes. Un producto sin `subtipo`
+  sale solo en "Todas": **mejor sin subtipo que mal puesto**. Se asigna por el nombre, la gama y
+  lo que la marca dice del producto (no por el INCI). Claves por tipo:
+  - `crema-facial`: `hidratante`, `antiedad`, `piel-grasa` (matificante, antiimperfecciones, poros),
+    `sensible` (calmante, rojeces, antirrojeces), `reparadora` (cica, atópica, emoliente, barrera),
+    `noche`.
+  - `serum`: `hidratante`, `vitamina-c`, `niacinamida` (poros, manchas), `retinol-antiedad`
+    (retinol, retinal, bakuchiol, péptidos, colágeno, lifting), `acidos` (AHA/BHA, exfoliante),
+    `calmante`.
+  - `limpiador-facial`: `gel-espuma`, `leche-balsamo`, `agua-micelar`, `aceite-desmaquillante`.
+  - `protector-solar`: `cara`, `cuerpo`, `ninos`, `con-color` (con color manda sobre cara).
+  - `esmalte`: `color`, `base-top` (base, top coat, secante), `tratamiento` (endurecedor, cuidado de
+    uñas y cutículas, quitaesmalte).
+  - `ojos-cejas`: `sombra` (sombras y paletas), `eyeliner` (líquidos, gel, rotulador), `lapiz`
+    (lápices y kajal), `cejas`.
+  - `labial`: `barra`, `gloss` (gloss, tintes líquidos, aceites de labios), `balsamo` (bálsamos y
+    cuidado, aunque lleven color), `perfilador`.
+  - `base-maquillaje`: `base` (bases, BB/CC, cushion), `corrector`, `polvos` (polvos y fijadores),
+    `prebase` (primer y sprays fijadores).
+  - `colorete`: `colorete`, `bronceador`, `iluminador`.
+  - El resto de tipos, por ahora sin subtipos (contorno-ojos, tónico, mascarilla, emoliente, hogar…).
+    Un subtipo nuevo se añade aquí Y en `SUBTIPOS` de `src/services/alternativas.js` (su rótulo).
+- `linea` y `tono` (maquillaje, y cualquier producto que se venda por tonos): `linea` es el nombre
+  del producto SIN el tono ("Gel Affair esmalte de uñas", "Kohl Kajal resistente al agua") y
+  `tono` el tono ("020 Solar Seduction"). `nombre` sigue igual que hasta ahora (con el tono), para
+  la búsqueda y la ficha. La app agrupa por marca + `linea` y enseña UNA fila: "Gel Affair esmalte
+  de uñas · 20 tonos", con los tonos desplegables al tocar. El botón Comprar usa el primer
+  `amazon` que haya entre los tonos: la ficha genérica de gama de Amazon (la de Catrice que no
+  dice el tono) **vale como enlace de línea**, porque el tono se elige dentro de la ficha. Un
+  tono sin `linea` sale como producto suelto, como hasta ahora.
+- Orden de trabajo sugerido: primero `esmalte`, `ojos-cejas` y `labial` (líneas + subtipo), luego
+  `crema-facial`, `serum`, `limpiador-facial` y `protector-solar` (subtipo), luego el resto del
+  maquillaje. Publicar por bloques con versión y avisar a la app.
+
 ## ÍNDICE DE NOMBRES (indice.json) — contrato con la app (2026-10-13)
 La búsqueda manual de la app ("Buscar o añadir") descargaba la colección entera de aportaciones
 (11.500 fichas) en la primera búsqueda de cada sesión: por eso iba lenta. Ahora busca en
