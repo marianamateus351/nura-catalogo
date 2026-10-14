@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14a",
+ "version": "2026-10-14b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2506,6 +2506,18 @@
        "marca": "Bioderma",
        "barcode": "3701129802670",
        "fechaLista": "23-09-2026"
+      },
+      {
+       "nombre": "Skin Therapy Cocoa Butter Raw Blend (manteca corporal para piel y pelo)",
+       "marca": "Cantu",
+       "barcode": "0810006940602",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Skin Therapy Mango Butter Raw Blend (manteca corporal para piel y pelo)",
+       "marca": "Cantu",
+       "barcode": "0810006940619",
+       "fechaLista": "14-10-2026"
       },
       {
        "nombre": "Loción Hidratante Intensiva",
