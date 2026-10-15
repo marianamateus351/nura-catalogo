@@ -4789,7 +4789,8 @@ que la app lee desde la versión en que aparezcan:
   - `serum`: `hidratante`, `vitamina-c`, `niacinamida` (poros, manchas), `retinol-antiedad`
     (retinol, retinal, bakuchiol, péptidos, colágeno, lifting), `acidos` (AHA/BHA, exfoliante),
     `calmante`.
-  - `limpiador-facial`: `gel-espuma`, `leche-balsamo`, `agua-micelar`, `aceite-desmaquillante`.
+  - `limpiador-facial`: `gel-espuma`, `leche-balsamo`, `agua-micelar`, `aceite-desmaquillante`,
+    `desmaquillante-ojos` (añadido el 2026-10-15: había 12 desmaquillantes de ojos sin sitio).
   - `protector-solar`: `cara`, `cuerpo`, `ninos`, `con-color` (con color manda sobre cara).
   - `esmalte`: `color`, `base-top` (base, top coat, secante), `tratamiento` (endurecedor, cuidado de
     uñas y cutículas, quitaesmalte).
@@ -4810,6 +4811,12 @@ que la app lee desde la versión en que aparezcan:
   `amazon` que haya entre los tonos: la ficha genérica de gama de Amazon (la de Catrice que no
   dice el tono) **vale como enlace de línea**, porque el tono se elige dentro de la ficha. Un
   tono sin `linea` sale como producto suelto, como hasta ahora.
+- **Mientras el archivo no traiga estos campos, la app los DEDUCE del nombre** (desde el 2026-10-15):
+  marcadores de tono ("(tono …)", "(tonos …)", "· 04 Taupe", "Deliplus 155 burdeos"), prefijo común
+  entre productos de la misma marca en maquillaje, y palabras clave por tipo para el subtipo. Es un
+  apaño: lo que venga explícito en `subtipo`, `linea` y `tono` manda siempre, así que merece la pena
+  ponerlos bien, sobre todo donde el nombre no dice el tono (Manucurist, Rhode) o la necesidad
+  (30 sérums y 10 cremas sin subtipo por el nombre).
 - Orden de trabajo sugerido: primero `esmalte`, `ojos-cejas` y `labial` (líneas + subtipo), luego
   `crema-facial`, `serum`, `limpiador-facial` y `protector-solar` (subtipo), luego el resto del
   maquillaje. Publicar por bloques con versión y avisar a la app.
