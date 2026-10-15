@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15d",
+ "version": "2026-10-15e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -737,6 +737,7 @@
        "nombre": "Biology AC Cuidado matificante antiimperfecciones",
        "marca": "A-Derma",
        "barcode": "3282770388916",
+       "subtipo": "piel-grasa",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BWLWGXQK"
       },
@@ -744,12 +745,14 @@
        "nombre": "Biology AC Fluido antiimperfecciones antimarcas",
        "marca": "A-Derma",
        "barcode": "3282770388886",
+       "subtipo": "piel-grasa",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Crema hidratante ligera dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146646",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09J8VRMVR"
       },
@@ -759,6 +762,7 @@
        "barcode": "3282770146615",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/6615/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09J8WSQG7"
       },
@@ -768,6 +772,7 @@
        "barcode": "3282770141962",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1962/front_fr.7.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "reparadora",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B091BJ13BC"
       },
@@ -775,6 +780,7 @@
        "nombre": "Epitheliale A.H Ultra Repair Crema reparadora antimarcas",
        "marca": "A-Derma",
        "barcode": "3282770398632",
+       "subtipo": "reparadora",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0D5BP9Y3B"
       },
@@ -782,6 +788,7 @@
        "nombre": "Exomega Control Crema de noche emoliente reparadora",
        "marca": "A-Derma",
        "barcode": "3282770397673",
+       "subtipo": "noche",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DLWQSX5X"
       },
@@ -789,12 +796,14 @@
        "nombre": "Exomega Control Gel-crema calmante",
        "marca": "A-Derma",
        "barcode": "3282770401172",
+       "subtipo": "sensible",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Crema 3 Ceramide Panthenol Moisture Barrier Cream",
        "marca": "Anua",
        "barcode": "8809640737251",
+       "subtipo": "reparadora",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DX1KQ5VM"
       },
@@ -802,6 +811,7 @@
        "nombre": "Crema Heartleaf Centella Red Spot Cream",
        "marca": "Anua",
        "barcode": "8809640738197",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DQKRSX75"
       },
@@ -809,6 +819,7 @@
        "nombre": "Crema PDRN Hyaluronic Acid 100 Moisturizing Cream",
        "marca": "Anua",
        "barcode": "8809640738135",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DWFLY18Y"
       },
@@ -816,6 +827,7 @@
        "nombre": "Loción Heartleaf 70 Daily Lotion",
        "marca": "Anua",
        "barcode": "8809640732799",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DN1H5Q33"
       },
@@ -825,6 +837,7 @@
        "barcode": "3282770400731",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/040/0731/front_el.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "antiedad",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CNKMFVK4"
       },
@@ -832,6 +845,7 @@
        "nombre": "Cleanance Comedomed+ Cuidado Intensivo Anti-imperfecciones",
        "marca": "Avène",
        "barcode": "3282770399226",
+       "subtipo": "piel-grasa",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FGK543DF"
       },
@@ -841,6 +855,7 @@
        "barcode": "3282770138801",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/013/8801/front_fr.12.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08XYV3YGB"
       },
@@ -848,6 +863,7 @@
        "nombre": "Crema Regeneradora Celular",
        "marca": "Avène",
        "barcode": "3282770400700",
+       "subtipo": "antiedad",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BT3LMB2D"
       },
@@ -855,6 +871,7 @@
        "nombre": "Hydra-10 Crema Hidratante",
        "marca": "Avène",
        "barcode": "3282770388336",
+       "subtipo": "hidratante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0B49VSS46"
       },
@@ -864,6 +881,7 @@
        "barcode": "3282770388299",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/038/8299/front_zh.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0B47CY8PQ"
       },
@@ -873,6 +891,7 @@
        "barcode": "8809525249565",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/952/524/9565/front_nl.6.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08WJQ3XJD"
       },
@@ -882,6 +901,7 @@
        "barcode": "8809738316993",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/6993/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BJPJGG13"
       },
@@ -891,6 +911,7 @@
        "barcode": "3701129804445",
        "imagen": "https://images.openbeautyfacts.org/images/products/370/112/980/4445/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09BRJQYHN"
       },
@@ -900,6 +921,7 @@
        "barcode": "3337875923903",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/592/3897/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FHQ1Z14S"
       },
@@ -907,12 +929,14 @@
        "nombre": "Crema Azelaic Acid 10 B5 Redness Soothing Cream",
        "marca": "COSRX",
        "barcode": "8800311122239",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Crema Full Fit Propolis Light Cream",
        "marca": "COSRX",
        "barcode": "8809598451032",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09NCR4JB8"
       },
@@ -920,6 +944,7 @@
        "nombre": "Crema Hyaluronic Acid Intensive Cream",
        "marca": "COSRX",
        "barcode": "8809416470122",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B072FH17NJ"
       },
@@ -927,18 +952,21 @@
        "nombre": "Crema Hydrium Moisture Power Enriched Cream",
        "marca": "COSRX",
        "barcode": "8809598450646",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Crema The Blue Peptide Bakuchiol Plump Bounce Cream",
        "marca": "COSRX",
        "barcode": "8800311122468",
+       "subtipo": "antiedad",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Crema The Ceramide Skin Barrier Moisturizer",
        "marca": "COSRX",
        "barcode": "8809598457171",
+       "subtipo": "reparadora",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DYNQ393Y"
       },
@@ -946,12 +974,14 @@
        "nombre": "Gel crema Hydrium Green Tea Aqua Soothing Gel Cream",
        "marca": "COSRX",
        "barcode": "8809598450622",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Loción Oil-Free Ultra-Moisturizing Lotion with Birch Sap",
        "marca": "COSRX",
        "barcode": "8809416470559",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B01CLTKI4A"
       },
@@ -959,6 +989,7 @@
        "nombre": "Dexyane MeD Crema reparadora calmante",
        "marca": "Ducray",
        "barcode": "3282770148138",
+       "subtipo": "reparadora",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B01M6ZHI4D"
       },
@@ -966,6 +997,7 @@
        "nombre": "Kelual DS Crema calmante",
        "marca": "Ducray",
        "barcode": "3282770392371",
+       "subtipo": "sensible",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B07N8VJSHW"
       },
@@ -973,12 +1005,14 @@
        "nombre": "Anti-Redness Crema Calmante",
        "marca": "Eucerin",
        "barcode": "4005800107863",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Ultra-Sensitive Crema Calmante para Piel Normal a Mixta",
        "marca": "Eucerin",
        "barcode": "4005800108044",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00OOSZ8EC"
       },
@@ -986,6 +1020,7 @@
        "nombre": "Ultra-Sensitive Crema Calmante para Piel Seca",
        "marca": "Eucerin",
        "barcode": "4005800108129",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00O26WYOS"
       },
@@ -993,6 +1028,7 @@
        "nombre": "Crema Centella Phyto & 5 Peptide Concentrate Cream",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221790",
+       "subtipo": "antiedad",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CMX6CH7L"
       },
@@ -1000,6 +1036,7 @@
        "nombre": "Crema hidratante Black Rice 5 Ceramide Barrier Moisturizing Cream sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532222247",
+       "subtipo": "reparadora",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DZNFQ6FQ"
       },
@@ -1007,6 +1044,7 @@
        "nombre": "Gel-crema Centella 5% Niacinamide Radiance Gel Cream sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221998",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DLNQKMR2"
       },
@@ -1014,6 +1052,7 @@
        "nombre": "Crema GIM PDRN Hydro Firming Cream",
        "marca": "Isntree",
        "barcode": "8809800942471",
+       "subtipo": "antiedad",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1022,6 +1061,7 @@
        "barcode": "8809686383566",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/968/638/3566/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08BP5X1YZ"
       },
@@ -1029,6 +1069,7 @@
        "nombre": "Crema Ultra-Low Molecular Hyaluronic Acid Zinc Aqua Cream",
        "marca": "Isntree",
        "barcode": "8809800941429",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1041,6 +1082,7 @@
        "nombre": "Hidratante facial Power Shake Cool Crystal Stick",
        "marca": "Kiko Milano",
        "barcode": "8059385033839",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0F4DTDGXQ"
       },
@@ -1050,12 +1092,14 @@
        "barcode": "3282770391107",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1107/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
        "marca": "Klorane",
        "barcode": "3282770395853",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026"
       },
       {
@@ -1064,6 +1108,7 @@
        "barcode": "3337875757614",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/575/7614/front_fr.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPGJC3B"
       },
@@ -1073,6 +1118,7 @@
        "barcode": "3337875757669",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/575/7669/front_en.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPHF489"
       },
@@ -1080,6 +1126,7 @@
        "nombre": "Toleriane Dermallergo Noche",
        "marca": "La Roche-Posay",
        "barcode": "3337875800853",
+       "subtipo": "noche",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09XJWJM44"
       },
@@ -1087,6 +1134,7 @@
        "nombre": "Toleriane Sensitive Fluido",
        "marca": "La Roche-Posay",
        "barcode": "3433422405318",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07JL7DTZ4"
       },
@@ -1094,6 +1142,7 @@
        "nombre": "Toleriane Sensitive Rica",
        "marca": "La Roche-Posay",
        "barcode": "3433422405301",
+       "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07TW9BNF4"
       },
@@ -1107,6 +1156,7 @@
        "nombre": "Crema hidratante calmante Panthenol Comfort para piel con tendencia atópica",
        "marca": "Mixa",
        "barcode": "3600551153148",
+       "subtipo": "sensible",
        "fechaLista": "04-10-2026"
       },
       {
@@ -1115,6 +1165,7 @@
        "barcode": "3600551153179",
        "imagen": "https://images.openbeautyfacts.org/images/products/360/055/115/3179/front_en.6.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "04-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BCLKDL4S"
       },
@@ -1122,6 +1173,7 @@
        "nombre": "Cicastela crema reparadora 40ml",
        "marca": "Mustela",
        "barcode": "3504105032937",
+       "subtipo": "reparadora",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B07S4BMVPK"
       },
@@ -1129,6 +1181,7 @@
        "nombre": "Crema facial emoliente Stelatopia 40ml",
        "marca": "Mustela",
        "barcode": "3504105031572",
+       "subtipo": "reparadora",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B07HCC21ZG"
       },
@@ -1136,18 +1189,21 @@
        "nombre": "Crema facial hidratante confort con Schisandra BIO 40ml",
        "marca": "Mustela",
        "barcode": "3504105036430",
+       "subtipo": "hidratante",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Stick nutritivo al Cold Cream y Cera de abeja 9.2gr",
        "marca": "Mustela",
        "barcode": "3504105045616",
+       "subtipo": "reparadora",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Hydro Boost Crema Gel Hidratante",
        "marca": "Neutrogena",
        "barcode": "3574661309743",
+       "subtipo": "hidratante",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B01M4LCLK3"
       },
@@ -1157,6 +1213,7 @@
        "barcode": "8809738600245",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/973/860/0245/front_nl.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08FM81QBZ"
       },
@@ -1164,6 +1221,7 @@
        "nombre": "Crema Soybean Nourishing Cream",
        "marca": "Round Lab",
        "barcode": "8809624726417",
+       "subtipo": "antiedad",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B09CM8D3DY"
       },
@@ -1171,18 +1229,21 @@
        "nombre": "Emulsión facial 1025 Dokdo Lotion",
        "marca": "Round Lab",
        "barcode": "8809657114779",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Crema calmante para piel sensible Soin Apaisant Peaux Sensibles",
        "marca": "Sisley",
        "barcode": "3473311270009",
+       "subtipo": "sensible",
        "fechaLista": "05-10-2026"
       },
       {
        "nombre": "Crema Azulene Peptide 5 Soothing Cream",
        "marca": "SKIN1004",
        "barcode": "8809913836384",
+       "subtipo": "sensible",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1191,6 +1252,7 @@
        "barcode": "8809576261493",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1493/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "reparadora",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B09XKFFQQX"
       },
@@ -1198,18 +1260,21 @@
        "nombre": "Crema NAD 0.1 Cream",
        "marca": "SKIN1004",
        "barcode": "8809913835790",
+       "subtipo": "antiedad",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Crema PDRN 1.5 Cream",
        "marca": "SKIN1004",
        "barcode": "8809560630601",
+       "subtipo": "antiedad",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Crema Poremizing Light Gel Cream",
        "marca": "SKIN1004",
        "barcode": "8809576261646",
+       "subtipo": "piel-grasa",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B884BY1X"
       },
@@ -1219,6 +1284,7 @@
        "barcode": "8809913830245",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1769/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "reparadora",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BTPGPK7H"
       },
@@ -1226,6 +1292,7 @@
        "nombre": "Emulsión facial Hyalu-Teca Glass Skin Milk",
        "marca": "SKIN1004",
        "barcode": "8809913834861",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1234,6 +1301,7 @@
        "barcode": "3662361004645",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4645/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "reparadora",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
       },
@@ -1241,6 +1309,7 @@
        "nombre": "SENSIFINE Aqua-Gel",
        "marca": "SVR",
        "barcode": "3662361001231",
+       "subtipo": "sensible",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B085HKNH45"
       },
@@ -1250,6 +1319,7 @@
        "barcode": "3401360167872",
        "imagen": "https://images.openbeautyfacts.org/images/products/340/136/016/7872/front_it.11.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B01LZYAQ6G"
       },
@@ -1257,18 +1327,21 @@
        "nombre": "SENSIFINE AR Creme Riche",
        "marca": "SVR",
        "barcode": "3662361000081",
+       "subtipo": "sensible",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "SENSIFINE AR Creme Teinté",
        "marca": "SVR",
        "barcode": "3662361001859",
+       "subtipo": "sensible",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "SENSIFINE Hydra-Creme",
        "marca": "SVR",
        "barcode": "3662361001842",
+       "subtipo": "sensible",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B096L1DPP7"
       },
@@ -1276,6 +1349,7 @@
        "nombre": "Crema hidratante Omega Water Cream 50 ml",
        "marca": "The INKEY List",
        "barcode": "5060879823204",
+       "subtipo": "hidratante",
        "fechaLista": "08-10-2026",
        "amazon": "https://www.amazon.es/dp/B09XY514HX"
       },
@@ -1283,12 +1357,14 @@
        "nombre": "Crema DIVE IN Cream",
        "marca": "Torriden",
        "barcode": "8809504741660",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Crema DIVE IN Soothing Cream",
        "marca": "Torriden",
        "barcode": "8809784600183",
+       "subtipo": "sensible",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B097PDX6JN"
       },
@@ -1296,6 +1372,7 @@
        "nombre": "Cica Daily Crema reparadora concentrada",
        "marca": "Uriage",
        "barcode": "3661434011900",
+       "subtipo": "reparadora",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D5YMJKFG"
       },
@@ -1303,12 +1380,14 @@
        "nombre": "Cica Daily Gel-crema reparador",
        "marca": "Uriage",
        "barcode": "3661434011924",
+       "subtipo": "reparadora",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "DS Emulsión reguladora",
        "marca": "Uriage",
        "barcode": "3661434000072",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B00YSZPLFW"
       },
@@ -1316,6 +1395,7 @@
        "nombre": "Toléderm Control Crema ligera",
        "marca": "Uriage",
        "barcode": "3661434023507",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08TRN9LCL"
       },
@@ -1325,6 +1405,7 @@
        "barcode": "3661434023514",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/143/402/3514/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "sensible",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08TRLRY1Z"
       },
@@ -1334,6 +1415,7 @@
        "barcode": "3337875607254",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/560/7254/front_fr.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "antiedad",
        "fechaLista": "09-09-2026"
       },
       {
@@ -1342,6 +1424,7 @@
        "barcode": "3337875722520",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/572/2520/front_fr.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "noche",
        "fechaLista": "09-09-2026"
       }
      ]
@@ -1354,6 +1437,7 @@
        "nombre": "Biology Sérum 3 en 1",
        "marca": "A-Derma",
        "barcode": "3282770389333",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BWNDXTL2"
       },
@@ -1361,12 +1445,14 @@
        "nombre": "Biology Sérum de vitamina C estabilizada",
        "marca": "A-Derma",
        "barcode": "3282770393224",
+       "subtipo": "vitamina-c",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Exomega Control Sérum ultracalmante",
        "marca": "A-Derma",
        "barcode": "3282771002040",
+       "subtipo": "calmante",
        "fechaLista": "24-09-2026"
       },
       {
@@ -1375,6 +1461,7 @@
        "barcode": "8809640730283",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/4717/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "calmante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08CMVXQ9W"
       },
@@ -1384,6 +1471,7 @@
        "barcode": "8809640734526",
        "imagen": "https://images.openproductsfacts.org/images/products/880/964/073/4526/front_en.16.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DL92QM79"
       },
@@ -1393,6 +1481,7 @@
        "barcode": "8809640736667",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/8616/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DSVF8HGZ"
       },
@@ -1400,6 +1489,7 @@
        "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
        "marca": "Anua",
        "barcode": "8809640734861",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DKRY4HLQ"
       },
@@ -1423,12 +1513,14 @@
        "nombre": "Concentrado calmante",
        "marca": "Avène",
        "barcode": "3282770399585",
+       "subtipo": "calmante",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "concentrado para rojeces instaladas",
        "marca": "Avène",
        "barcode": "3282770392920",
+       "subtipo": "calmante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0D33VK9Z8"
       },
@@ -1436,6 +1528,7 @@
        "nombre": "Sérum concentrado voluminizador",
        "marca": "Avène",
        "barcode": "3282770153101",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BNLZ4FFZ"
       },
@@ -1443,6 +1536,7 @@
        "nombre": "Sérum reparador intenso",
        "marca": "Avène",
        "barcode": "3282770393620",
+       "subtipo": "calmante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CMR74JMG"
       },
@@ -1450,6 +1544,7 @@
        "nombre": "Sérum tensor - Solución de hexapéptidos 10%",
        "marca": "Avène",
        "barcode": "3282770400861",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "09-09-2026"
       },
       {
@@ -1458,6 +1553,7 @@
        "barcode": "8809738312728",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/2728/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09DLFCB69"
       },
@@ -1467,6 +1563,7 @@
        "barcode": "8809657114960",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/965/711/4960/front_en.6.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B086VKZZZY"
       },
@@ -1474,6 +1571,7 @@
        "nombre": "Sérum Light On Serum: Centella + Vita C",
        "marca": "Beauty of Joseon",
        "barcode": "8809875906477",
+       "subtipo": "vitamina-c",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CD7PWYQN"
       },
@@ -1483,6 +1581,7 @@
        "barcode": "8809738316139",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/6139/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B3R1R2DG"
       },
@@ -1490,6 +1589,7 @@
        "nombre": "Clinical AHA Complex 10%",
        "marca": "Cocunat",
        "barcode": "8436570023491",
+       "subtipo": "acidos",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DB65HX5H"
       },
@@ -1497,6 +1597,7 @@
        "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
        "marca": "COSRX",
        "barcode": "8800311121423",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0FT7YLV43"
       },
@@ -1504,12 +1605,14 @@
        "nombre": "Sérum Advanced The Vitamin C 23 Serum",
        "marca": "COSRX",
        "barcode": "8809598454651",
+       "subtipo": "vitamina-c",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Sérum Full Fit Propolis Light Ampoule",
        "marca": "COSRX",
        "barcode": "8809598450820",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B07ZGJQZ8G"
       },
@@ -1517,6 +1620,7 @@
        "nombre": "Sérum Hydrium Triple Hyaluronic Moisture Ampoule",
        "marca": "COSRX",
        "barcode": "8809598450653",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B091SR63VV"
       },
@@ -1526,6 +1630,7 @@
        "barcode": "8800311122611",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CCJ3SRB9"
       },
@@ -1533,6 +1638,7 @@
        "nombre": "Sérum The Blue Peptide Bakuchiol Plump Glow Serum",
        "marca": "COSRX",
        "barcode": "8800311121225",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0GWPQ7FS4"
       },
@@ -1540,6 +1646,7 @@
        "nombre": "Sérum The Hyaluronic Acid 3 Serum",
        "marca": "COSRX",
        "barcode": "8809598454668",
+       "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09ZYCVH8N"
       },
@@ -1547,6 +1654,7 @@
        "nombre": "Sérum The Niacinamide 15 Serum",
        "marca": "COSRX",
        "barcode": "8809598454958",
+       "subtipo": "niacinamida",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B09ZYB8S31"
       },
@@ -1554,6 +1662,7 @@
        "nombre": "Ampollas faciales vitamina C y ácido tranexámico Dia Imaqe 7 x 2 ml",
        "marca": "Dia Imaqe",
        "barcode": "8480017242594",
+       "subtipo": "vitamina-c",
        "fechaLista": "10-10-2026"
       },
       {
@@ -1566,6 +1675,7 @@
        "nombre": "Melascreen Concentrado antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389197",
+       "subtipo": "niacinamida",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0C31CJ7TD"
       },
@@ -1573,36 +1683,42 @@
        "nombre": "Melascreen Sérum luminosidad antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389593",
+       "subtipo": "niacinamida",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Centella Red Serum 30 ml",
        "marca": "Erborian",
        "barcode": "8809255789652",
+       "subtipo": "calmante",
        "fechaLista": "16-09-2026"
       },
       {
        "nombre": "Anti-Pigment Corrector de manchas",
        "marca": "Eucerin",
        "barcode": "4005900552372",
+       "subtipo": "niacinamida",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Hyaluron-Filler Sérum Reafirmante",
        "marca": "Eucerin",
        "barcode": "4006000188096",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Ampolla Black Rice Botanical 2GF Wonderful Ampoule",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221479",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Sérum calmante Rose PDRN Soothing Serum",
        "marca": "Haruharu Wonder",
        "barcode": "8809532222445",
+       "subtipo": "calmante",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FXX2JZLS"
       },
@@ -1610,12 +1726,14 @@
        "nombre": "Sérum en gel Centella 4% TXA Gel Serum sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221813",
+       "subtipo": "calmante",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Sérum Green Tea Enzyme Vitamin C Brightening Serum",
        "marca": "Innisfree",
        "barcode": "8809843683591",
+       "subtipo": "vitamina-c",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CTKYBW8X"
       },
@@ -1623,12 +1741,14 @@
        "nombre": "Ampolla C-Niacin Toning Ampoule",
        "marca": "Isntree",
        "barcode": "8809187049350",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla GIM PDRN Hydro Bouncy Ampoule",
        "marca": "Isntree",
        "barcode": "8809800941917",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1641,12 +1761,14 @@
        "nombre": "Ampolla Plum Peptide Booster 2000s",
        "marca": "Isntree",
        "barcode": "8809800941597",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla TW-Real Bifida Ampoule",
        "marca": "Isntree",
        "barcode": "8806135245765",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B082TWZNYB"
       },
@@ -1660,6 +1782,7 @@
        "nombre": "Sérum Hyper Niacinamide 20 Serum",
        "marca": "Isntree",
        "barcode": "8809800940774",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0C3QNCWQK"
       },
@@ -1667,12 +1790,14 @@
        "nombre": "Sérum Hyper Vitamin C 23 Serum",
        "marca": "Isntree",
        "barcode": "8809800940781",
+       "subtipo": "vitamina-c",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Sérum Ultra-Low Molecular Hyaluronic Acid Serum",
        "marca": "Isntree",
        "barcode": "8809800940644",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BQBR6BPQ"
       },
@@ -1682,24 +1807,28 @@
        "barcode": "3282770150643",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/0643/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "calmante",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
        "marca": "Klorane",
        "barcode": "3282770399394",
+       "subtipo": "calmante",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Sérum concentrado hidrorrellenador",
        "marca": "Klorane",
        "barcode": "3282770395686",
+       "subtipo": "hidratante",
        "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Age Perfect Golden Age Serum Anti-Manchas de la edad [Niacinamida]",
        "marca": "L'Oréal Paris",
        "barcode": "3600524055097",
+       "subtipo": "niacinamida",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CJ5GYQQP"
       },
@@ -1707,6 +1836,7 @@
        "nombre": "Toleriane Rosaliac AR Concentrado",
        "marca": "La Roche-Posay",
        "barcode": "3337875807043",
+       "subtipo": "calmante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BXVFPV9B"
       },
@@ -1714,19 +1844,15 @@
        "nombre": "Toleriane Ultra Dermallergo Serum",
        "marca": "La Roche-Posay",
        "barcode": "3337875693820",
+       "subtipo": "calmante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B086MF1VNX"
-      },
-      {
-       "nombre": "Jabón de Alepo 30 % aceite de laurel",
-       "marca": "Marius Fabre",
-       "barcode": "3298651710301",
-       "fechaLista": "14-10-2026"
       },
       {
        "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
        "marca": "Medik8",
        "barcode": "0818625027711",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B08FHWV9KD"
       },
@@ -1734,6 +1860,7 @@
        "nombre": "Sérum de vitamina C C-Tetra Luxe",
        "marca": "Medik8",
        "barcode": "0818625027575",
+       "subtipo": "vitamina-c",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0F6Z3V4RJ"
       },
@@ -1741,12 +1868,14 @@
        "nombre": "Hydration Punch Aceite Facial de Aguacate",
        "marca": "MET",
        "barcode": "8445984016296",
+       "subtipo": "hidratante",
        "fechaLista": "29-09-2026"
       },
       {
        "nombre": "Ampolla Azelaic Acid 10 Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913834670",
+       "subtipo": "acidos",
        "fechaLista": "12-10-2026"
       },
       {
@@ -1755,6 +1884,7 @@
        "barcode": "8809576260663",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/0601/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "calmante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B06Y15D1LH"
       },
@@ -1762,30 +1892,35 @@
        "nombre": "Ampolla Centella Teca Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913834557",
+       "subtipo": "calmante",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla Hyalu-Cica First Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576261486",
+       "subtipo": "calmante",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla Hyalu-Teca Plumping Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913834847",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla Matrixyl 10 Boosting Shot Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913832508",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Ampolla Niacinamide 10 Boosting Shot Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913832492",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0FDXXJT66"
       },
@@ -1793,6 +1928,7 @@
        "nombre": "Ampolla Poremizing Fresh Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576261875",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B1JRGGLF"
       },
@@ -1800,6 +1936,7 @@
        "nombre": "Ampolla Probio-Cica Intensive Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809576261752",
+       "subtipo": "calmante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BTRWGQNV"
       },
@@ -1809,6 +1946,7 @@
        "barcode": "8809576261417",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1417/front_en.9.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DBR61WV9"
       },
@@ -1818,6 +1956,7 @@
        "barcode": "8809576261059",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/957/626/1059/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "calmante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B5X9R9XK"
       },
@@ -1833,6 +1972,7 @@
        "barcode": "3662361000937",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/0937/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "30-09-2026"
       },
       {
@@ -1842,16 +1982,10 @@
        "fechaLista": "30-09-2026"
       },
       {
-       "nombre": "Bond Booster Nº1 Oleo & Control",
-       "marca": "Tahe",
-       "barcode": "8426827482232",
-       "fechaLista": "12-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D3FBRWJ4"
-      },
-      {
        "nombre": "Sérum 30% Vitamin C",
        "marca": "The INKEY List",
        "barcode": "5060879820760",
+       "subtipo": "vitamina-c",
        "fechaLista": "08-10-2026",
        "amazon": "https://www.amazon.es/dp/B07GLZGRGR"
       },
@@ -1866,6 +2000,7 @@
        "nombre": "100% Plant-Derived Squalane 30 ml",
        "marca": "The Ordinary",
        "barcode": "0769915195590",
+       "subtipo": "hidratante",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0719WNNK4"
       },
@@ -1875,6 +2010,7 @@
        "barcode": "0769915195668",
        "imagen": "https://images.openproductsfacts.org/images/products/076/991/519/5668/front_it.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "vitamina-c",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BSS7LZWW"
       },
@@ -1882,6 +2018,7 @@
        "nombre": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F 30 ml",
        "marca": "The Ordinary",
        "barcode": "0769915195675",
+       "subtipo": "vitamina-c",
        "fechaLista": "25-09-2026"
       },
       {
@@ -1907,6 +2044,7 @@
        "nombre": "Volufiline 92% + Pal-Isoleucine 1% 15 ml",
        "marca": "The Ordinary",
        "barcode": "0769915236460",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FYJ4WQ5J"
       },
@@ -1914,6 +2052,7 @@
        "nombre": "Sérum CELLMAZING Brightening Ampoule",
        "marca": "Torriden",
        "barcode": "8809784602002",
+       "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CQYBCZW5"
       },
@@ -1923,6 +2062,7 @@
        "barcode": "8809504741653",
        "imagen": "https://images.openbeautyfacts.org/images/products/880/950/474/1653/front_pt.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B086BYF16T"
       },
@@ -1930,6 +2070,7 @@
        "nombre": "Cica Daily Sérum reparador intenso",
        "marca": "Uriage",
        "barcode": "3661434011931",
+       "subtipo": "calmante",
        "fechaLista": "03-10-2026"
       },
       {
@@ -1938,12 +2079,14 @@
        "barcode": "3661434009754",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/9754/front_es.7.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Roséliane Sérum neutralizador de rojeces visibles",
        "marca": "Uriage",
        "barcode": "3661434023422",
+       "subtipo": "calmante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DSCGWVLH"
       },
@@ -1958,6 +2101,7 @@
        "nombre": "Liftactiv Collagen Specialist 16 Sérum",
        "marca": "Vichy",
        "barcode": "3337875912600",
+       "subtipo": "retinol-antiedad",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DWTB9Q11"
       },
@@ -1967,6 +2111,7 @@
        "barcode": "3337875734905",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/573/4905/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "niacinamida",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09L5SNZ6N"
       },
@@ -1985,6 +2130,7 @@
        "barcode": "3337875543248",
        "imagen": "https://images.openbeautyfacts.org/images/products/333/787/554/3248/front_en.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "hidratante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B06XC5PQGL"
       }

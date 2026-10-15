@@ -4828,6 +4828,21 @@ que la app lee desde la versión en que aparezcan:
     - Sin subtipo a propósito, porque podrían ser capas finales y no colores: los Green™ Gloss, Satin, Metallic, Shimmer,
       Pearlescent, Diamant y Glacé Jelly. Tampoco el diluyente ni el semipermanente.
     - Active™ Shine e Icy van sin línea: el normal no tiene nombre de tono y no se inventa.
+  - **Bloque 2 (alternativas 2026-10-15e): `subtipo` explícito en todos los sérums y cremas faciales.**
+    - Por las palabras del nombre, y a mano los 61 cuyo nombre no dice la necesidad, según lo que dice la marca:
+      Avène Hyaluron Activ B3 → antiedad, SVR Sensifine AR → sensible, Round Lab Dokdo → hidratante, Soybean →
+      antiedad, SKIN1004 Poremizing → niacinamida / piel-grasa, etc.
+    - Sérums: 76 de 89 con subtipo. Cremas: 83 de 85.
+    - Sin subtipo a propósito:
+      - Aceites puros: argán, rosa mosqueta, aceite bifásico de Sonett.
+      - Antioxidantes sin necesidad clara: EUK 134, Pycnogenol, Resveratrol.
+      - Antiimperfecciones, que no tienen subtipo de sérum: Comedomed ×2, Keracnyl.
+      - Isntree Onion Newpair y Green Tea Fresh, SVR Ampoule Relax, Vichy Minéral 89 Probiotic, Isntree Green Tea Fresh
+        Emulsion, Medik8 C-Tetra Cream.
+    - Corregidos a mano tras la regla de palabras: BoJ Light On → vitamina-c (no calmante); Dexyane MeD → reparadora.
+    - **`tipos.py`: la regla de sérum ya no atrapa jabones ni productos "bond" de pelo.** "Jabón de Alepo 30 %" de Marius
+      Fabre caía en sérums por el "%", y Bond Booster de Tahe por "booster". Ahora no tienen tipo; total 1.675. Tabla
+      pasada a la app con `exporta_js.py`.
 - Orden de trabajo sugerido: primero `esmalte`, `ojos-cejas` y `labial` (líneas + subtipo), luego
   `crema-facial`, `serum`, `limpiador-facial` y `protector-solar` (subtipo), luego el resto del
   maquillaje. Publicar por bloques con versión y avisar a la app.

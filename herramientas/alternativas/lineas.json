@@ -1,4 +1,16 @@
 {
+ "0769915195590": {
+  "subtipo": "hidratante"
+ },
+ "0769915195668": {
+  "subtipo": "vitamina-c"
+ },
+ "0769915195675": {
+  "subtipo": "vitamina-c"
+ },
+ "0769915236460": {
+  "subtipo": "retinol-antiedad"
+ },
  "0810175610269": {
   "linea": "Colorete en barra Pocket Blush",
   "subtipo": "colorete",
@@ -127,6 +139,12 @@
   "subtipo": "colorete",
   "tono": "Monaco"
  },
+ "0818625027575": {
+  "subtipo": "vitamina-c"
+ },
+ "0818625027711": {
+  "subtipo": "retinol-antiedad"
+ },
  "0850055527034": {
   "subtipo": "gel-espuma"
  },
@@ -149,6 +167,192 @@
   "linea": "Bálsamo labial con color Peptide Lip Tint",
   "subtipo": "balsamo",
   "tono": "PBJ"
+ },
+ "3282770138801": {
+  "subtipo": "sensible"
+ },
+ "3282770141962": {
+  "subtipo": "reparadora"
+ },
+ "3282770146615": {
+  "subtipo": "hidratante"
+ },
+ "3282770146646": {
+  "subtipo": "hidratante"
+ },
+ "3282770148138": {
+  "subtipo": "reparadora"
+ },
+ "3282770150643": {
+  "subtipo": "calmante"
+ },
+ "3282770153101": {
+  "subtipo": "retinol-antiedad"
+ },
+ "3282770388299": {
+  "subtipo": "hidratante"
+ },
+ "3282770388336": {
+  "subtipo": "hidratante"
+ },
+ "3282770388886": {
+  "subtipo": "piel-grasa"
+ },
+ "3282770388916": {
+  "subtipo": "piel-grasa"
+ },
+ "3282770389197": {
+  "subtipo": "niacinamida"
+ },
+ "3282770389333": {
+  "subtipo": "hidratante"
+ },
+ "3282770389593": {
+  "subtipo": "niacinamida"
+ },
+ "3282770391107": {
+  "subtipo": "hidratante"
+ },
+ "3282770392371": {
+  "subtipo": "sensible"
+ },
+ "3282770392920": {
+  "subtipo": "calmante"
+ },
+ "3282770393224": {
+  "subtipo": "vitamina-c"
+ },
+ "3282770393620": {
+  "subtipo": "calmante"
+ },
+ "3282770395686": {
+  "subtipo": "hidratante"
+ },
+ "3282770395853": {
+  "subtipo": "hidratante"
+ },
+ "3282770397673": {
+  "subtipo": "noche"
+ },
+ "3282770398632": {
+  "subtipo": "reparadora"
+ },
+ "3282770399226": {
+  "subtipo": "piel-grasa"
+ },
+ "3282770399394": {
+  "subtipo": "calmante"
+ },
+ "3282770399585": {
+  "subtipo": "calmante"
+ },
+ "3282770400700": {
+  "subtipo": "antiedad"
+ },
+ "3282770400731": {
+  "subtipo": "antiedad"
+ },
+ "3282770400861": {
+  "subtipo": "retinol-antiedad"
+ },
+ "3282770401172": {
+  "subtipo": "sensible"
+ },
+ "3282771002040": {
+  "subtipo": "calmante"
+ },
+ "3337875543248": {
+  "subtipo": "hidratante"
+ },
+ "3337875607254": {
+  "subtipo": "antiedad"
+ },
+ "3337875693820": {
+  "subtipo": "calmante"
+ },
+ "3337875722520": {
+  "subtipo": "noche"
+ },
+ "3337875734905": {
+  "subtipo": "niacinamida"
+ },
+ "3337875757614": {
+  "subtipo": "sensible"
+ },
+ "3337875757669": {
+  "subtipo": "sensible"
+ },
+ "3337875800853": {
+  "subtipo": "noche"
+ },
+ "3337875807043": {
+  "subtipo": "calmante"
+ },
+ "3337875912600": {
+  "subtipo": "retinol-antiedad"
+ },
+ "3337875923903": {
+  "subtipo": "hidratante"
+ },
+ "3401360167872": {
+  "subtipo": "sensible"
+ },
+ "3433422405301": {
+  "subtipo": "sensible"
+ },
+ "3433422405318": {
+  "subtipo": "sensible"
+ },
+ "3473311270009": {
+  "subtipo": "sensible"
+ },
+ "3504105031572": {
+  "subtipo": "reparadora"
+ },
+ "3504105032937": {
+  "subtipo": "reparadora"
+ },
+ "3504105036430": {
+  "subtipo": "hidratante"
+ },
+ "3504105045616": {
+  "subtipo": "reparadora"
+ },
+ "3574661309743": {
+  "subtipo": "hidratante"
+ },
+ "3600524055097": {
+  "subtipo": "niacinamida"
+ },
+ "3600551153148": {
+  "subtipo": "sensible"
+ },
+ "3600551153179": {
+  "subtipo": "hidratante"
+ },
+ "3661434000072": {
+  "subtipo": "sensible"
+ },
+ "3661434009754": {
+  "subtipo": "niacinamida"
+ },
+ "3661434011900": {
+  "subtipo": "reparadora"
+ },
+ "3661434011924": {
+  "subtipo": "reparadora"
+ },
+ "3661434011931": {
+  "subtipo": "calmante"
+ },
+ "3661434023422": {
+  "subtipo": "calmante"
+ },
+ "3661434023507": {
+  "subtipo": "sensible"
+ },
+ "3661434023514": {
+  "subtipo": "sensible"
  },
  "3662263000028": {
   "linea": "Esmalte Green™",
@@ -701,6 +905,42 @@
  "3662263500030": {
   "subtipo": "base-top"
  },
+ "3662361000081": {
+  "subtipo": "sensible"
+ },
+ "3662361000937": {
+  "subtipo": "hidratante"
+ },
+ "3662361001231": {
+  "subtipo": "sensible"
+ },
+ "3662361001842": {
+  "subtipo": "sensible"
+ },
+ "3662361001859": {
+  "subtipo": "sensible"
+ },
+ "3662361004645": {
+  "subtipo": "reparadora"
+ },
+ "3701129804445": {
+  "subtipo": "sensible"
+ },
+ "4005800107863": {
+  "subtipo": "sensible"
+ },
+ "4005800108044": {
+  "subtipo": "sensible"
+ },
+ "4005800108129": {
+  "subtipo": "sensible"
+ },
+ "4005900552372": {
+  "subtipo": "niacinamida"
+ },
+ "4006000188096": {
+  "subtipo": "retinol-antiedad"
+ },
  "4059729466822": {
   "linea": "gel nail colour esmalte de uñas",
   "subtipo": "color",
@@ -735,5 +975,242 @@
   "linea": "esmalte de uñas gel",
   "subtipo": "color",
   "tono": "07 FAIRY FLOSS"
+ },
+ "5060879820760": {
+  "subtipo": "vitamina-c"
+ },
+ "5060879823204": {
+  "subtipo": "hidratante"
+ },
+ "8059385033839": {
+  "subtipo": "hidratante"
+ },
+ "8436570023491": {
+  "subtipo": "acidos"
+ },
+ "8445984016296": {
+  "subtipo": "hidratante"
+ },
+ "8480017242594": {
+  "subtipo": "vitamina-c"
+ },
+ "8800311121225": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8800311121423": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8800311122239": {
+  "subtipo": "sensible"
+ },
+ "8800311122468": {
+  "subtipo": "antiedad"
+ },
+ "8800311122611": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8806135245765": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8809187049350": {
+  "subtipo": "niacinamida"
+ },
+ "8809255789652": {
+  "subtipo": "calmante"
+ },
+ "8809416470122": {
+  "subtipo": "hidratante"
+ },
+ "8809416470559": {
+  "subtipo": "hidratante"
+ },
+ "8809504741653": {
+  "subtipo": "hidratante"
+ },
+ "8809504741660": {
+  "subtipo": "hidratante"
+ },
+ "8809525249565": {
+  "subtipo": "hidratante"
+ },
+ "8809532221479": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8809532221790": {
+  "subtipo": "antiedad"
+ },
+ "8809532221813": {
+  "subtipo": "calmante"
+ },
+ "8809532221998": {
+  "subtipo": "hidratante"
+ },
+ "8809532222247": {
+  "subtipo": "reparadora"
+ },
+ "8809532222445": {
+  "subtipo": "calmante"
+ },
+ "8809560630601": {
+  "subtipo": "antiedad"
+ },
+ "8809576260663": {
+  "subtipo": "calmante"
+ },
+ "8809576261059": {
+  "subtipo": "calmante"
+ },
+ "8809576261417": {
+  "subtipo": "niacinamida"
+ },
+ "8809576261486": {
+  "subtipo": "calmante"
+ },
+ "8809576261493": {
+  "subtipo": "reparadora"
+ },
+ "8809576261646": {
+  "subtipo": "piel-grasa"
+ },
+ "8809576261752": {
+  "subtipo": "calmante"
+ },
+ "8809576261875": {
+  "subtipo": "niacinamida"
+ },
+ "8809598450622": {
+  "subtipo": "sensible"
+ },
+ "8809598450646": {
+  "subtipo": "hidratante"
+ },
+ "8809598450653": {
+  "subtipo": "hidratante"
+ },
+ "8809598450820": {
+  "subtipo": "hidratante"
+ },
+ "8809598451032": {
+  "subtipo": "hidratante"
+ },
+ "8809598454651": {
+  "subtipo": "vitamina-c"
+ },
+ "8809598454668": {
+  "subtipo": "hidratante"
+ },
+ "8809598454958": {
+  "subtipo": "niacinamida"
+ },
+ "8809598457171": {
+  "subtipo": "reparadora"
+ },
+ "8809624726417": {
+  "subtipo": "antiedad"
+ },
+ "8809640730283": {
+  "subtipo": "calmante"
+ },
+ "8809640732799": {
+  "subtipo": "hidratante"
+ },
+ "8809640734526": {
+  "subtipo": "niacinamida"
+ },
+ "8809640734861": {
+  "subtipo": "hidratante"
+ },
+ "8809640736667": {
+  "subtipo": "hidratante"
+ },
+ "8809640737251": {
+  "subtipo": "reparadora"
+ },
+ "8809640738135": {
+  "subtipo": "hidratante"
+ },
+ "8809640738197": {
+  "subtipo": "sensible"
+ },
+ "8809657114779": {
+  "subtipo": "hidratante"
+ },
+ "8809657114960": {
+  "subtipo": "niacinamida"
+ },
+ "8809686383566": {
+  "subtipo": "hidratante"
+ },
+ "8809738312728": {
+  "subtipo": "niacinamida"
+ },
+ "8809738316139": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8809738316993": {
+  "subtipo": "hidratante"
+ },
+ "8809738600245": {
+  "subtipo": "hidratante"
+ },
+ "8809784600183": {
+  "subtipo": "sensible"
+ },
+ "8809784602002": {
+  "subtipo": "niacinamida"
+ },
+ "8809800940644": {
+  "subtipo": "hidratante"
+ },
+ "8809800940774": {
+  "subtipo": "niacinamida"
+ },
+ "8809800940781": {
+  "subtipo": "vitamina-c"
+ },
+ "8809800941429": {
+  "subtipo": "hidratante"
+ },
+ "8809800941597": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8809800941917": {
+  "subtipo": "hidratante"
+ },
+ "8809800942471": {
+  "subtipo": "antiedad"
+ },
+ "8809843683591": {
+  "subtipo": "vitamina-c"
+ },
+ "8809875906477": {
+  "subtipo": "vitamina-c"
+ },
+ "8809913830245": {
+  "subtipo": "reparadora"
+ },
+ "8809913832492": {
+  "subtipo": "niacinamida"
+ },
+ "8809913832508": {
+  "subtipo": "retinol-antiedad"
+ },
+ "8809913834557": {
+  "subtipo": "calmante"
+ },
+ "8809913834670": {
+  "subtipo": "acidos"
+ },
+ "8809913834847": {
+  "subtipo": "hidratante"
+ },
+ "8809913834861": {
+  "subtipo": "hidratante"
+ },
+ "8809913835790": {
+  "subtipo": "antiedad"
+ },
+ "8809913836384": {
+  "subtipo": "sensible"
  }
 }
