@@ -5474,6 +5474,62 @@ ficha revisada aquí. Archivos y descargas en el scratchpad (`hogar/a/`, `hogar/
     regeneración).
   - Regresión del bloque: 0 cambios, más 156 fichas nuevas. Limpias: 57 de 156 (52 sin el arreglo de la 193).
 
+### Hogar, bloque b: ecológicas y Lagarto completo — 2026-10-15 (versión 2026-10-15-hogarb): 488 productos, 743 códigos
+Pedido de Mariana, con un añadido suyo: "puedes seguir cargando códigos de hogar aunque no sean ecológicos, así al menos
+las usuarias tienen el código en su base". Se carga todo lo que tiene lista oficial completa y código seguro, lleve
+perfume o no. Cuatro agentes en paralelo; criterio y revisión aquí (`hogar/b/`, `hogar/junta_b.py`, `hogar/renombra_b.py`).
+
+| Marca | Productos | Limpios | Lista | Código |
+|---|---|---|---|---|
+| Sonett | 59 | 40 | "Inhaltsstoffliste nach EC 648/2004" o INCI de sonett.eu | violey.com (DE), cruzado con el n.º de artículo de Sonett |
+| Sodasan | 75 | 28 | ficha de sodasan.de (erratas corregidas; el original se guarda) | `productEAN` de la propia ficha |
+| Etamine du Lys | 51 | 14 | buscador oficial de hojas de composición (enlazado desde etaminedulys.fr) | URL de su tienda, soinature, OPF, URLs de carrefour.fr |
+| L'Arbre Vert | 119 | 8 | hojas PDF de composición / INCI de la ficha | `products.json` de su tienda y "CODE EAN" de las hojas |
+| Biolù (Italia) | 50 | 13 | ficha de biolu.it, cotejada con la etiqueta PDF oficial | leído del código de barras de esas etiquetas oficiales |
+| Marcel's Green Soap | 41 | 0 | ficha de marcelsgreensoap.com | código de la variante / `gtin13` de la ficha |
+| Ecover | 37 | 3 | uk/fr/de/be-nl.ecover.com (con UFI) | Violey, Big Green Smile DE/UK, URLs de dm/Rossmann/Carrefour |
+| Method | 14 | 0 | methodhome.de/.nl/.be/.ch (methodproducts.co.uk, Cloudflare) | Big Green Smile DE/UK |
+| Lagarto | 42 | 8 | hojas 648/2004 de Euroquímica (bloque a) | **catálogos oficiales de lagarto.es** (2021 y 2024), página a página |
+
+- **Lagarto, completo**: los 40 productos que tenían hoja pero no código salen de los dos catálogos de Euroquímica en
+  lagarto.es.
+  - Escamas amarillas `8410761600067`: confirmado con el catálogo y la foto trasera de Consum. Escamas verdes
+    `8410761600074`.
+  - Lejía Súper 2 L: el catálogo de 2024 imprime `8410761001131`, con dígito de control inválido; el bueno,
+    `8410761001130`, lo dan dos tiendas.
+  - La Súper de 1,5 L y la de 2 L tienen hojas distintas y van en dos fichas.
+- **"Colorant" genérico se acepta** (178 fichas del catálogo ya lo llevaban: Asevi, Frosch, Fairy…). Se recuperaron las
+  fichas que se habían quedado fuera solo por eso.
+- **Siguen fuera las listas con componentes sin identificar**: "Granulation excipient", "Polymer", "Aqueous dispersion
+  of polymer", "Modified fatty alcohol", "Peg" sin número, "extrait concentré de plante".
+- **Ecover y Method (criterio de coreanas)**: cuando una tienda da para el mismo código una lista distinta de la oficial
+  (similitud por debajo de 0,85), fuera. Ecover cambia fórmulas entre el Reino Unido y el continente con códigos
+  compartidos.
+  - 31 fuera por eso, por el Floor Soap (dos listas oficiales para el mismo código) y por los avisos "OJO" del agente
+    (otra ficha oficial da otra lista).
+  - El agente ignoró el crawl-delay de 600 s de robots.txt de las webs de Ecover: bajó unas 300 páginas, con 3 s entre
+    una y otra. No es saltarse una protección, pero conviene saberlo.
+- **Bioalquimia: no encontrada.** Ninguna búsqueda da una marca de limpieza con ese nombre: bioalquimia.es es una academia
+  y bioalquimia.com tiene el certificado mal. Falta que Mariana confirme el nombre o la web.
+- **Biolù es italiana** (Nivel SRL, Lucca), con etiqueta en español. Marcel's no consta en tiendas españolas: se carga por
+  la regla de "se vende online".
+- **Nombres en español**, con el original entre paréntesis. **58 fichas de Hogar caían en Cuidado personal**: se
+  renombraron con el nombre real del producto ("Limpiador de baños", "Limpiador de WC en gel", "Friegasuelos", "Crema
+  limpiadora multiusos"…).
+  - Al revés, los geles hidroalcohólicos de Sonett y Sodasan ("Desinfectante de manos" los llevaba a Hogar) y el agua
+    micelar de bebé de L'Arbre Vert pasan a Cuidado personal.
+  - Comprobado: todas las categorías cuadran.
+- **Revisión de falsos positivos y negativos**:
+  - Sin falsos negativos: búsqueda de isotiazolinonas, bronopol, etoxilados, parfum, galaxólido, Lilial, etc. en la
+    lista sin su aviso; 0 casos.
+  - Revisados a mano los avisos raros:
+    - "Aroma no divulgado" en 7 pastas de dientes de L'Arbre Vert: correcto, como en el resto del catálogo.
+    - CI 77266 en un jabón de Marcel's: correcto.
+  - **Duda para Mariana**: "Microplásticos" salta en dos detergentes en polvo de Ecover por **"Polyethylene Glycol
+    Polyester"**. Es un polímero antimanchas que se dispersa en agua, no una partícula sólida. Los dos llevan perfume, así
+    que su ficha no cambia; no se toca el detector sin su decisión.
+  - Regresión: 0 cambios en las 10.323 fichas anteriores, más 488 nuevas. 114 limpias.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
