@@ -5704,6 +5704,30 @@ regla"). **Necesitan build.**
    - La regla 191 (microplásticos) sigue excluyendo "polyethylene glycol", como antes.
 - Regresión de la versión: 0 cambios en las 10.982 fichas, más 9 nuevas (el calzado).
 
+### Nombres solo en castellano — 2026-10-15 (versión 2026-10-15-nombres), petición de Mariana
+Mariana vio en Alternativas "Friegasuelos para fregadoras (Bodenreiniger für Scheuersaugmaschi…)": los
+nombres de las marcas ecológicas de Hogar llevaban detrás, entre paréntesis, el nombre original del envase
+(alemán, francés, neerlandés o inglés). **Regla: el nombre va solo en castellano**; el original no se
+pone (el código ya identifica el envase).
+- Quitado en 388 fichas de Sonett, Sodasan, Ecover, Ecodoo, Etamine du Lys, L'Arbre Vert, Marius Fabre y
+  Method. Las de L'Arbre Vert y Etamine du Lys que iban al revés ("Recharge … (recarga …)") quedan con el
+  castellano ("Recarga limpiacristales"…), y se tradujeron restos en francés ("Douceur d'almendra" →
+  "dulzura de almendra", "huile d'almendra" → "aceite de almendra", "2 à 6 años" → "2 a 6 años"). Se dejan
+  los paréntesis en castellano ("(recarga)", "(pastilla y copos)"), y los nombres de producto que son marca
+  (Color Riche, Baume Lèvres…) no se tocan.
+- Seis fichas eran Hogar solo por la palabra extranjera ("nettoyant", "floor cleaner", "inox"): pasan a
+  "Friegasuelos" (Ecodoo, y Method limón y jengibre / para suelos de madera), "Limpiador de lavadora y
+  lavavajillas 3 en 1" y "Spray limpiador de cocina acero inoxidable" (L'Arbre Vert) y "Limpiador de cocina
+  para frutas y verduras" (Ecodoo). Este último caía entonces en "Limpiadores de cocina y baño", así que
+  `tipos.py` excluye "frutas y verduras" de ese tipo (sigue sin tipo, como antes; tabla de la app
+  regenerada con `exporta_js.py`, entra con el próximo build).
+- Comprobación: 0 cambios de aviso o categoría en las 11.016 fichas; en Alternativas 0 cambios de tipo o
+  subtipo, 77 nombres más cortos.
+- **Amazon de "Limpiadores de muebles y suelos"** (pregunta de Mariana): de los cinco, solo el Nuncas Livax
+  Mobili&Design para madera lacada tiene ficha individual (`B07DLWP1V2`; el pack de 2 se descarta). Biolù
+  Friegasuelos Eucalipto, Etamine du Lys cera de abeja y los dos de Sonett no salen en Amazon.es
+  (anotados en `amazon_sin_ficha.json`).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
