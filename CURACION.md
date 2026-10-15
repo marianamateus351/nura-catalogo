@@ -4817,6 +4817,17 @@ que la app lee desde la versión en que aparezcan:
   apaño: lo que venga explícito en `subtipo`, `linea` y `tono` manda siempre, así que merece la pena
   ponerlos bien, sobre todo donde el nombre no dice el tono (Manucurist, Rhode) o la necesidad
   (30 sérums y 10 cremas sin subtipo por el nombre).
+- **Dónde se rellenan (2026-10-15):** `herramientas/alternativas/lineas.json`, `{código: {subtipo, linea, tono}}`.
+  `genera.py` los copia a cada producto, usando cualquiera de sus códigos, así que sobreviven a cada regeneración.
+  - **Bloque 1 (alternativas 2026-10-15d), donde el nombre no dice el tono:**
+    - Manucurist (118): línea "Esmalte Green™" con 99 tonos, "Active™ Glow" (4) y "Active™ Plump" (2). Bases y top
+      coats → `base-top`; aceite, esmalte amargo y Active™ → `tratamiento`.
+    - Rhode (33): "Pocket Blush" (13), "Pocket Bronze" (7) → `bronceador`, "Pocket Pearl" (3) y "Peptide Lip Tint" (6)
+      → `balsamo`.
+    - essence Fairy (7).
+    - Sin subtipo a propósito, porque podrían ser capas finales y no colores: los Green™ Gloss, Satin, Metallic, Shimmer,
+      Pearlescent, Diamant y Glacé Jelly. Tampoco el diluyente ni el semipermanente.
+    - Active™ Shine e Icy van sin línea: el normal no tiene nombre de tono y no se inventa.
 - Orden de trabajo sugerido: primero `esmalte`, `ojos-cejas` y `labial` (líneas + subtipo), luego
   `crema-facial`, `serum`, `limpiador-facial` y `protector-solar` (subtipo), luego el resto del
   maquillaje. Publicar por bloques con versión y avisar a la app.

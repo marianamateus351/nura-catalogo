@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15c",
+ "version": "2026-10-15d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -593,6 +593,7 @@
        "nombre": "Limpiador facial Pineapple Refresh",
        "marca": "Rhode",
        "barcode": "0850055527034",
+       "subtipo": "gel-espuma",
        "fechaLista": "04-10-2026"
       },
       {
@@ -4323,12 +4324,18 @@
        "nombre": "Bálsamo labial con color Peptide Lip Tint Espresso",
        "marca": "Rhode",
        "barcode": "0810175610429",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "Espresso",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bálsamo labial con color Peptide Lip Tint PBJ",
        "marca": "Rhode",
        "barcode": "0850055527287",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "PBJ",
        "fechaLista": "04-10-2026"
       },
       {
@@ -4337,30 +4344,43 @@
        "barcode": "0810175610412",
        "imagen": "https://images.openbeautyfacts.org/images/products/081/017/561/0412/front_en.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "Raspberry Jelly",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bálsamo labial con color Peptide Lip Tint Ribbon",
        "marca": "Rhode",
        "barcode": "0810175611501",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "Ribbon",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bálsamo labial con color Peptide Lip Tint Salty Tan",
        "marca": "Rhode",
        "barcode": "0810175611556",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "Salty Tan",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bálsamo labial con color Peptide Lip Tint Toast",
        "marca": "Rhode",
        "barcode": "0810175611518",
+       "linea": "Bálsamo labial con color Peptide Lip Tint",
+       "subtipo": "balsamo",
+       "tono": "Toast",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bálsamo labial Peptide Lip Treatment Unscented",
        "marca": "Rhode",
        "barcode": "0810175610344",
+       "subtipo": "balsamo",
        "fechaLista": "04-10-2026"
       },
       {
@@ -8272,138 +8292,207 @@
        "nombre": "Bronceador en barra Pocket Bronze Anklet",
        "marca": "Rhode",
        "barcode": "0810175611396",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Anklet",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Bake",
        "marca": "Rhode",
        "barcode": "0810175611365",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Bake",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Drench y Shade",
        "marca": "Rhode",
        "barcode": "0810175611389",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Drench y Shade",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Pebble",
        "marca": "Rhode",
        "barcode": "0810175611334",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Pebble",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Plunge",
        "marca": "Rhode",
        "barcode": "0810175611402",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Plunge",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Sip",
        "marca": "Rhode",
        "barcode": "0810175611341",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Sip",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Bronceador en barra Pocket Bronze Sunbed",
        "marca": "Rhode",
        "barcode": "0810175611358",
+       "linea": "Bronceador en barra Pocket Bronze",
+       "subtipo": "bronceador",
+       "tono": "Sunbed",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra con brillo Pocket Pearl Gemini",
        "marca": "Rhode",
        "barcode": "0810175612010",
+       "linea": "Colorete en barra con brillo Pocket Pearl",
+       "subtipo": "colorete",
+       "tono": "Gemini",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra con brillo Pocket Pearl Monaco",
        "marca": "Rhode",
        "barcode": "0810175612034",
+       "linea": "Colorete en barra con brillo Pocket Pearl",
+       "subtipo": "colorete",
+       "tono": "Monaco",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra con brillo Pocket Pearl Monet",
        "marca": "Rhode",
        "barcode": "0810175612027",
+       "linea": "Colorete en barra con brillo Pocket Pearl",
+       "subtipo": "colorete",
+       "tono": "Monet",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Candy Apple",
        "marca": "Rhode",
        "barcode": "0810175611129",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Candy Apple",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Date Cake",
        "marca": "Rhode",
        "barcode": "0810175611938",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Date Cake",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Freckle",
        "marca": "Rhode",
        "barcode": "0810175611877",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Freckle",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Juice Box",
        "marca": "Rhode",
        "barcode": "0850055527102",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Juice Box",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Piggy",
        "marca": "Rhode",
        "barcode": "0810175611853",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Piggy",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Plum",
        "marca": "Rhode",
        "barcode": "0810175610269",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Plum",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Sleepy Girl",
        "marca": "Rhode",
        "barcode": "0850055527126",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Sleepy Girl",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Spicy Marg",
        "marca": "Rhode",
        "barcode": "0850055527140",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Spicy Marg",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Sprinkle",
        "marca": "Rhode",
        "barcode": "0810175611914",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Sprinkle",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Sun Soak",
        "marca": "Rhode",
        "barcode": "0810175611952",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Sun Soak",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Tan Line",
        "marca": "Rhode",
        "barcode": "0810175611945",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Tan Line",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Teacup",
        "marca": "Rhode",
        "barcode": "0810175611969",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Teacup",
        "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Colorete en barra Pocket Blush Toasted Teddy",
        "marca": "Rhode",
        "barcode": "0810175611907",
+       "linea": "Colorete en barra Pocket Blush",
+       "subtipo": "colorete",
+       "tono": "Toasted Teddy",
        "fechaLista": "04-10-2026"
       }
      ]
@@ -8979,30 +9068,45 @@
        "nombre": "barniz de uñas Fairy SHIMMER",
        "marca": "essence",
        "barcode": "4059729543189",
+       "linea": "esmalte de uñas Fairy",
+       "subtipo": "color",
+       "tono": "SHIMMER",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "esmalte de uñas fairy CLOUD",
        "marca": "essence",
        "barcode": "4059729543158",
+       "linea": "esmalte de uñas Fairy",
+       "subtipo": "color",
+       "tono": "CLOUD",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "esmalte de uñas Fairy NUDE",
        "marca": "essence",
        "barcode": "4059729543233",
+       "linea": "esmalte de uñas Fairy",
+       "subtipo": "color",
+       "tono": "NUDE",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "esmalte de uñas Fairy PINK",
        "marca": "essence",
        "barcode": "4059729543172",
+       "linea": "esmalte de uñas Fairy",
+       "subtipo": "color",
+       "tono": "PINK",
        "fechaLista": "25-09-2026"
       },
       {
        "nombre": "esmalte de uñas Fairy ROSE",
        "marca": "essence",
        "barcode": "4059729543165",
+       "linea": "esmalte de uñas Fairy",
+       "subtipo": "color",
+       "tono": "ROSE",
        "fechaLista": "25-09-2026"
       },
       {
@@ -9033,6 +9137,9 @@
        "nombre": "esmalte de uñas gel (tono 07 FAIRY FLOSS)",
        "marca": "essence",
        "barcode": "4059729585479",
+       "linea": "esmalte de uñas gel",
+       "subtipo": "color",
+       "tono": "07 FAIRY FLOSS",
        "fechaLista": "25-09-2026"
       },
       {
@@ -9415,6 +9522,9 @@
        "nombre": "gel nail colour esmalte de uñas (tono 70 fairy FLOSS)",
        "marca": "essence",
        "barcode": "4059729466822",
+       "linea": "gel nail colour esmalte de uñas",
+       "subtipo": "color",
+       "tono": "70 fairy FLOSS",
        "fechaLista": "25-09-2026"
       },
       {
@@ -9613,72 +9723,96 @@
        "barcode": "3662263220051",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/226/322/0051/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "tratamiento",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Blur",
        "marca": "Manucurist",
        "barcode": "3662263224028",
+       "subtipo": "tratamiento",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Glow Blueberry",
        "marca": "Manucurist",
        "barcode": "3662263221300",
+       "linea": "Active™ Glow",
+       "subtipo": "tratamiento",
+       "tono": "Blueberry",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Glow Cranberry",
        "marca": "Manucurist",
        "barcode": "3662263222390",
+       "linea": "Active™ Glow",
+       "subtipo": "tratamiento",
+       "tono": "Cranberry",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Glow Grape",
        "marca": "Manucurist",
        "barcode": "3662263222383",
+       "linea": "Active™ Glow",
+       "subtipo": "tratamiento",
+       "tono": "Grape",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Glow Raspberry",
        "marca": "Manucurist",
        "barcode": "3662263224110",
+       "linea": "Active™ Glow",
+       "subtipo": "tratamiento",
+       "tono": "Raspberry",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Plump Aqua Glazed",
        "marca": "Manucurist",
        "barcode": "3662263222185",
+       "linea": "Active™ Plump",
+       "subtipo": "tratamiento",
+       "tono": "Aqua Glazed",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Plump Pink Glazed",
        "marca": "Manucurist",
        "barcode": "3662263222406",
+       "linea": "Active™ Plump",
+       "subtipo": "tratamiento",
+       "tono": "Pink Glazed",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Shine",
        "marca": "Manucurist",
        "barcode": "3662263222765",
+       "subtipo": "tratamiento",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Active™ Shine Icy",
        "marca": "Manucurist",
        "barcode": "3662263221713",
+       "subtipo": "tratamiento",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Base Coat Vitaminada Green™",
        "marca": "Manucurist",
        "barcode": "3662263330644",
+       "subtipo": "base-top",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Base Fortificante",
        "marca": "Manucurist",
        "barcode": "3662263222437",
+       "subtipo": "base-top",
        "fechaLista": "30-09-2026"
       },
       {
@@ -9691,450 +9825,668 @@
        "nombre": "Esmalte amargo",
        "marca": "Manucurist",
        "barcode": "3662263224097",
+       "subtipo": "tratamiento",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Amande",
        "marca": "Manucurist",
        "barcode": "3662263310981",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Amande",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Anémone",
        "marca": "Manucurist",
        "barcode": "3662263330040",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Anémone",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Armeria",
        "marca": "Manucurist",
        "barcode": "3662263000172",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Armeria",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Artichaut",
        "marca": "Manucurist",
        "barcode": "3662263331184",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Artichaut",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Aubergine",
        "marca": "Manucurist",
        "barcode": "3662263311216",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Aubergine",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Beige",
        "marca": "Manucurist",
        "barcode": "3662263330194",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Beige",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bird of Paradise",
        "marca": "Manucurist",
        "barcode": "3662263330309",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bird of Paradise",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bliss",
        "marca": "Manucurist",
        "barcode": "3662263331610",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bliss",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bloom",
        "marca": "Manucurist",
        "barcode": "3662263331559",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bloom",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Blossom",
        "marca": "Manucurist",
        "barcode": "3662263330996",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Blossom",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bois de Rose",
        "marca": "Manucurist",
        "barcode": "3662263330682",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bois de Rose",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bougainvillea",
        "marca": "Manucurist",
        "barcode": "3662263000103",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bougainvillea",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Brazil",
        "marca": "Manucurist",
        "barcode": "3662263332471",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Brazil",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Brique",
        "marca": "Manucurist",
        "barcode": "3662263331160",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Brique",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Bubble",
        "marca": "Manucurist",
        "barcode": "3662263333188",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Bubble",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Candy",
        "marca": "Manucurist",
        "barcode": "3662263332280",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Candy",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Capucine",
        "marca": "Manucurist",
        "barcode": "3662263330279",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Capucine",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Carnation",
        "marca": "Manucurist",
        "barcode": "3662263330248",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Carnation",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Clove",
        "marca": "Manucurist",
        "barcode": "3662263310820",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Clove",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Coral Reef",
        "marca": "Manucurist",
        "barcode": "3662263330163",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Coral Reef",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Cosmic Rose",
        "marca": "Manucurist",
        "barcode": "3662263310806",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Cosmic Rose",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Crème",
        "marca": "Manucurist",
        "barcode": "3662263331108",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Crème",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Dark Dahlia",
        "marca": "Manucurist",
        "barcode": "3662263330330",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Dark Dahlia",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Dark Night",
        "marca": "Manucurist",
        "barcode": "3662263000240",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Dark Night",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Dark Pansy",
        "marca": "Manucurist",
        "barcode": "3662263330064",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Dark Pansy",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Diamant",
        "marca": "Manucurist",
        "barcode": "3662263330460",
+       "linea": "Esmalte Green™",
+       "tono": "Diamant",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Disco",
        "marca": "Manucurist",
        "barcode": "3662263331153",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Disco",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Dune",
        "marca": "Manucurist",
        "barcode": "3662263311223",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Dune",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Fairy",
        "marca": "Manucurist",
        "barcode": "3662263332983",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Fairy",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Fizz",
        "marca": "Manucurist",
        "barcode": "3662263332327",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Fizz",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Fuchsia",
        "marca": "Manucurist",
        "barcode": "3662263310103",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Fuchsia",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Glacé Jelly",
        "marca": "Manucurist",
        "barcode": "3662263331504",
+       "linea": "Esmalte Green™",
+       "tono": "Glacé Jelly",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Gloss",
        "marca": "Manucurist",
        "barcode": "3662263321055",
+       "linea": "Esmalte Green™",
+       "tono": "Gloss",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Gold",
        "marca": "Manucurist",
        "barcode": "3662263330453",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Gold",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Gold Sand",
        "marca": "Manucurist",
        "barcode": "3662263310585",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Gold Sand",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Groove",
        "marca": "Manucurist",
        "barcode": "3662263331566",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Groove",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Halo",
        "marca": "Manucurist",
        "barcode": "3662263331542",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Halo",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Hollyhock",
        "marca": "Manucurist",
        "barcode": "3662263330545",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Hollyhock",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Iris",
        "marca": "Manucurist",
        "barcode": "3662263330958",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Iris",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Jade",
        "marca": "Manucurist",
        "barcode": "3662263332419",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Jade",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Khaki",
        "marca": "Manucurist",
        "barcode": "3662263000196",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Khaki",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Lava",
        "marca": "Manucurist",
        "barcode": "3662263332976",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Lava",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Lemonade",
        "marca": "Manucurist",
        "barcode": "3662263332303",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Lemonade",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Light Blue",
        "marca": "Manucurist",
        "barcode": "3662263310875",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Light Blue",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Lilas",
        "marca": "Manucurist",
        "barcode": "3662263330521",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Lilas",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Lime",
        "marca": "Manucurist",
        "barcode": "3662263332334",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Lime",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Lisa Lilas",
        "marca": "Manucurist",
        "barcode": "3662263330705",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Lisa Lilas",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Metallic",
        "marca": "Manucurist",
        "barcode": "3662263331191",
+       "linea": "Esmalte Green™",
+       "tono": "Metallic",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Milky Matcha",
        "marca": "Manucurist",
        "barcode": "3662263331290",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Milky Matcha",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Milky Peach",
        "marca": "Manucurist",
        "barcode": "3662263331573",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Milky Peach",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Milky Pink",
        "marca": "Manucurist",
        "barcode": "3662263330484",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Milky Pink",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Milky White",
        "marca": "Manucurist",
        "barcode": "3662263330606",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Milky White",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Mimosa",
        "marca": "Manucurist",
        "barcode": "3662263330880",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Mimosa",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Moon",
        "marca": "Manucurist",
        "barcode": "3662263312022",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Moon",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Mystic",
        "marca": "Manucurist",
        "barcode": "3662263332402",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Mystic",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Navy Blue",
        "marca": "Manucurist",
        "barcode": "3662263310714",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Navy Blue",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Neon Pink",
        "marca": "Manucurist",
        "barcode": "3662263332969",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Neon Pink",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Orme",
        "marca": "Manucurist",
        "barcode": "3662263310837",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Orme",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pale Rose",
        "marca": "Manucurist",
        "barcode": "3662263310004",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pale Rose",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pamplemousse",
        "marca": "Manucurist",
        "barcode": "3662263332310",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pamplemousse",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pastel Pink",
        "marca": "Manucurist",
        "barcode": "3662263310653",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pastel Pink",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pearlescent",
        "marca": "Manucurist",
        "barcode": "3662263332341",
+       "linea": "Esmalte Green™",
+       "tono": "Pearlescent",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Petit Pois",
        "marca": "Manucurist",
        "barcode": "3662263331115",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Petit Pois",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pink Sand",
        "marca": "Manucurist",
        "barcode": "3662263000028",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pink Sand",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pink Sorbet Jelly",
        "marca": "Manucurist",
        "barcode": "3662263331641",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pink Sorbet Jelly",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pistachio",
        "marca": "Manucurist",
        "barcode": "3662263332495",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pistachio",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pomegranate",
        "marca": "Manucurist",
        "barcode": "3662263330071",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pomegranate",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pomme d'Amour Jelly",
        "marca": "Manucurist",
        "barcode": "3662263331535",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pomme d'Amour Jelly",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pop",
        "marca": "Manucurist",
        "barcode": "3662263332488",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pop",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Poppy Seed",
        "marca": "Manucurist",
        "barcode": "3662263310141",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Poppy Seed",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Porcelaine",
        "marca": "Manucurist",
        "barcode": "3662263332440",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Porcelaine",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pulp",
        "marca": "Manucurist",
        "barcode": "3662263331030",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pulp",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Péonie",
        "marca": "Manucurist",
        "barcode": "3662263330088",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Péonie",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Pétula",
        "marca": "Manucurist",
        "barcode": "3662263315078",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Pétula",
        "fechaLista": "30-09-2026"
       },
       {
@@ -10143,60 +10495,89 @@
        "barcode": "3662263330057",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/226/333/0057/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Red Cherry",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Red Coral",
        "marca": "Manucurist",
        "barcode": "3662263330026",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Red Coral",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Red Hibiscus",
        "marca": "Manucurist",
        "barcode": "3662263330323",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Red Hibiscus",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Red Velvet",
        "marca": "Manucurist",
        "barcode": "3662263330316",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Red Velvet",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Riviera",
        "marca": "Manucurist",
        "barcode": "3662263331122",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Riviera",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Rose",
        "marca": "Manucurist",
        "barcode": "3662263312008",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Rose",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Rose Mountbatten",
        "marca": "Manucurist",
        "barcode": "3662263330477",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Rose Mountbatten",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Satin",
        "marca": "Manucurist",
        "barcode": "3662263332389",
+       "linea": "Esmalte Green™",
+       "tono": "Satin",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Shell",
        "marca": "Manucurist",
        "barcode": "3662263332426",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Shell",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Shell Beige",
        "marca": "Manucurist",
        "barcode": "3662263330729",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Shell Beige",
        "fechaLista": "30-09-2026"
       },
       {
@@ -10205,102 +10586,148 @@
        "barcode": "3662263332433",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/226/333/2433/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "linea": "Esmalte Green™",
+       "tono": "Shimmer",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Snow",
        "marca": "Manucurist",
        "barcode": "3662263330187",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Snow",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Solar",
        "marca": "Manucurist",
        "barcode": "3662263000790",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Solar",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Spicy",
        "marca": "Manucurist",
        "barcode": "3662263331474",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Spicy",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Sugar Plum Jelly",
        "marca": "Manucurist",
        "barcode": "3662263331528",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Sugar Plum Jelly",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Tangerine",
        "marca": "Manucurist",
        "barcode": "3662263331481",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Tangerine",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Terracotta",
        "marca": "Manucurist",
        "barcode": "3662263310738",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Terracotta",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Tuileries",
        "marca": "Manucurist",
        "barcode": "3662263332365",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Tuileries",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Tweed",
        "marca": "Manucurist",
        "barcode": "3662263332372",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Tweed",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Twizzle Jelly",
        "marca": "Manucurist",
        "barcode": "3662263331511",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Twizzle Jelly",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Ultramarine",
        "marca": "Manucurist",
        "barcode": "3662263330415",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Ultramarine",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Utopia",
        "marca": "Manucurist",
        "barcode": "3662263330347",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Utopia",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Victoria Plum",
        "marca": "Manucurist",
        "barcode": "3662263330125",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Victoria Plum",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Violeta",
        "marca": "Manucurist",
        "barcode": "3662263330118",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Violeta",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte Green™ Wisteria",
        "marca": "Manucurist",
        "barcode": "3662263332297",
+       "linea": "Esmalte Green™",
+       "subtipo": "color",
+       "tono": "Wisteria",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Esmalte infantil Penélope la Triceratops",
        "marca": "Manucurist",
        "barcode": "3662263270483",
+       "subtipo": "color",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Old Rose : esmalte rosa viejo",
        "marca": "Manucurist",
        "barcode": "3662263000059",
+       "subtipo": "color",
        "fechaLista": "30-09-2026"
       },
       {
@@ -10313,12 +10740,14 @@
        "nombre": "Top Coat Green Flash™",
        "marca": "Manucurist",
        "barcode": "3662263500030",
+       "subtipo": "base-top",
        "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Top Coat Mate",
        "marca": "Manucurist",
        "barcode": "3662263311230",
+       "subtipo": "base-top",
        "fechaLista": "30-09-2026"
       },
       {

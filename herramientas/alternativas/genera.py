@@ -24,6 +24,9 @@ FOTO_URL = 'https://raw.githubusercontent.com/marianamateus351/nura-catalogo/mai
 # Se enlazan (no se copian) y llevan la fuente, porque OBF las publica con licencia CC BY-SA. Manda la foto
 # propia de fotos/ si la hay. Nunca fotos copiadas de Amazon (CLAUDE.md de la app).
 fotos_obf = json.load(open(f'{A}/fotos_obf.json')) if os.path.exists(f'{A}/fotos_obf.json') else {}
+# Subtipo, línea y tono explícitos (contrato "SUBTIPOS Y LÍNEAS DE TONOS", 2026-10-14): {código: {subtipo, linea, tono}}.
+# Mandan sobre lo que la app deduce del nombre. Se aplican por cualquiera de los códigos del producto.
+lineas = json.load(open(f'{A}/lineas.json')) if os.path.exists(f'{A}/lineas.json') else {}
 import re
 def enlace_limpio(u):
     # Enlace directo y sin etiqueta: la etiqueta de afiliada (marianamateus-21) la pone la app.
@@ -74,6 +77,8 @@ for p in limpios:
     else:
         obf = next((fotos_obf[c] for c in p['barcodes'] if c in fotos_obf), None)
         if obf: e['imagen'] = obf; e['fotoFuente'] = 'Open Beauty Facts (CC BY-SA)'
+    lin = next((lineas[c] for c in p['barcodes'] if c in lineas), None)
+    if lin: e.update({k: v for k, v in lin.items() if k in ('subtipo', 'linea', 'tono') and v})
     if bc in fechas: e['fechaLista'] = ddmmaaaa(fechas[bc])
     for c in p['barcodes']:                      # el primer código con ficha comprobada
         v = ver.get(c) or {}
