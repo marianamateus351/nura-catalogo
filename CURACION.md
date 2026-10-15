@@ -5741,6 +5741,22 @@ antes de la segunda búsqueda, o el tono sale nombrado en los resultados pero si
 Pop, Tangerine, Tweed, Red Velvet, Rose Mountbatten, Active™ Plump Aqua/Pink Glazed…); lista en el
 scratchpad (`amz4/reintentar.json`).
 
+### Detector: resina de tosilamida/formaldehído como alérgeno de contacto — 2026-10-15, decisión de Mariana
+Nueva entrada en "Otros a tener en cuenta" de la app (`OTROS_INGREDIENTES`, junto a acrilatos y sulfitos):
+**"Resina de tosilamida/formaldehído (alérgeno de contacto)"**, solo cosmética y solo coincidencia exacta
+(Tosylamide/Formaldehyde Resin, Toluenesulfonamide/Formaldehyde Resin y sus variantes). Necesita build.
+- **Corrección de lo que se le dijo a Mariana**: se le propuso diciendo que la llevaban 71 productos del
+  catálogo (41 esmaltes de essence en Alternativas). No era así: el recuento buscaba "tosylamide" a secas.
+  En el catálogo **no hay ninguna** Tosylamide/Formaldehyde Resin; hay **Tosylamide/Epoxy Resin** (53: 51
+  essence, 2 Manucurist; la resina que la sustituye en los esmaltes "5-free"), Tosylamide suelta (14,
+  Essie y Maybelline) y Ethyl Tosylamide (4, Essie). Ninguna de esas entra en la entrada nueva.
+  Regresión: 0 cambios en 11.016 fichas; Alternativas no cambia. Sirve para lo que se escanee o aporte.
+- La TSFR ya hacía saltar "Formaldehído libre" (otros riesgos, IARC 1) porque el alias "formaldehyde" la
+  coge; se deja así a la espera de que Mariana decida (ver pendientes).
+- **Pendiente de Mariana**: (1) si la Tosylamide/Epoxy Resin también se señala (alérgeno mucho más débil:
+  casos publicados pero raros; sacaría de Alternativas 41 esmaltes de essence; los 2 de Manucurist ya están fuera por otros avisos); (2) si la
+  TSFR debe seguir saltando también como "Formaldehído libre" o solo como alérgeno.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
