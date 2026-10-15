@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-hogarb",
+ "version": "2026-10-15-hogarc",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14147,6 +14147,98 @@
    ]
   },
   {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejia amarilla Auchan 2 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494000650"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejia lavadora Auchan 2 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494000858"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Agua fuerte salfumant Auchan 1 L, desincrustante",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494000995"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Gel desatascador Auchan Económico 1 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3596710535576"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejia amarilla Auchan Económico 5 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494000964"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejia lavadora Auchan Económico 5 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494001138"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Amoniaco normal Auchan Económico 1,5 l",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8411494003200"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Ácido cítrico limpiador Auchan Better Life (Le Traditionnel)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3596710497560"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Bicarbonato de sodio multiusos Auchan Better Life (Le Traditionnel)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3596710497577",
+    "3596710497539",
+    "3596710497522"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Tierras de Sommières quitamanchas Auchan Better Life (Le Traditionnel)",
+   "categoria": "Hogar",
+   "barcodes": [
+    "3596710497546"
+   ]
+  },
+  {
    "marcaKey": "spar",
    "marca": "Spar",
    "nombre": "Toallitas atrapa color x20 Spar",
@@ -14162,6 +14254,33 @@
    "categoria": "Hogar",
    "barcodes": [
     "8480024293473"
+   ]
+  },
+  {
+   "marcaKey": "dia",
+   "marca": "Dia",
+   "nombre": "Pastillas antical para lavadora Dia Super Paco",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480017247995"
+   ]
+  },
+  {
+   "marcaKey": "dia",
+   "marca": "Dia",
+   "nombre": "Vinagre de limpieza multiusos Dia Super Paco",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480017307668"
+   ]
+  },
+  {
+   "marcaKey": "dia",
+   "marca": "Dia",
+   "nombre": "Sal para lavavajillas Dia Super Paco",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480017296894"
    ]
   },
   {

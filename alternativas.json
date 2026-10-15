@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15a",
+ "version": "2026-10-15b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -10642,6 +10642,12 @@
      "nombre": "Multiusos",
      "productos": [
       {
+       "nombre": "Bicarbonato de sodio multiusos Auchan Better Life (Le Traditionnel)",
+       "marca": "Auchan",
+       "barcode": "3596710497577",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Limpiahogar multiusos Biobel (aceite esencial de citronela)",
        "marca": "Biobel",
        "barcode": "8421427069319",
@@ -10663,6 +10669,12 @@
        "nombre": "Limpiador multiusos Naranja BIO",
        "marca": "Biolù",
        "barcode": "8057432970021",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Vinagre de limpieza multiusos Dia Super Paco",
+       "marca": "Dia",
+       "barcode": "8480017307668",
        "fechaLista": "15-10-2026"
       },
       {
@@ -10864,6 +10876,12 @@
      "nombre": "Quitamanchas y aditivos para la colada",
      "productos": [
       {
+       "nombre": "Tierras de Sommières quitamanchas Auchan Better Life (Le Traditionnel)",
+       "marca": "Auchan",
+       "barcode": "3596710497546",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Jabón blando quitamanchas natural Beltrán",
        "marca": "Beltrán",
        "barcode": "8421427004501",
@@ -10995,6 +11013,12 @@
      "key": "basicos-limpieza",
      "nombre": "Básicos de limpieza (ácido cítrico, cristales de soda…)",
      "productos": [
+      {
+       "nombre": "Ácido cítrico limpiador Auchan Better Life (Le Traditionnel)",
+       "marca": "Auchan",
+       "barcode": "3596710497560",
+       "fechaLista": "15-10-2026"
+      },
       {
        "nombre": "Ácido cítrico limpiador Biobel",
        "marca": "Biobel",
