@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-asevi",
+ "version": "2026-10-15-nombres",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -15623,7 +15623,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Bicarbonato sódico multiusos (Bicarbonate de soude)",
+   "nombre": "Bicarbonato sódico multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "3298651714651"
@@ -15632,7 +15632,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón negro multiusos líquido con aceite de oliva (Savon noir liquide)",
+   "nombre": "Jabón negro multiusos líquido con aceite de oliva",
    "categoria": "Hogar",
    "barcodes": [
     "3298656600782",
@@ -15645,7 +15645,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón negro multiusos en pasta con aceite de oliva (Savon noir mou)",
+   "nombre": "Jabón negro multiusos en pasta con aceite de oliva",
    "categoria": "Hogar",
    "barcodes": [
     "3298650401101"
@@ -15654,7 +15654,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón negro multiusos para el jardín (Savon noir spécial jardin)",
+   "nombre": "Jabón negro multiusos para el jardín",
    "categoria": "Hogar",
    "barcodes": [
     "3298656600768",
@@ -15664,7 +15664,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón en pasta multiusos con aceite de oliva (Savon pâte grattant)",
+   "nombre": "Jabón en pasta multiusos con aceite de oliva",
    "categoria": "Hogar",
    "barcodes": [
     "3298659746999"
@@ -15673,7 +15673,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Lavavajillas líquido con copos de jabón de Marsella (Liquide vaisselle aux copeaux de savon de Marseille, sans parfum)",
+   "nombre": "Lavavajillas líquido con copos de jabón de Marsella",
    "categoria": "Hogar",
    "barcodes": [
     "3298651716853",
@@ -15683,7 +15683,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Detergente líquido con copos de jabón de Marsella y bicarbonato (Lessive liquide aux copeaux de savon de Marseille et bicarbonate)",
+   "nombre": "Detergente líquido con copos de jabón de Marsella y bicarbonato",
    "categoria": "Hogar",
    "barcodes": [
     "3298651720928",
@@ -15693,7 +15693,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella para la colada, sin aceite de palma (Savon de Marseille pour le linge)",
+   "nombre": "Jabón de Marsella para la colada, sin aceite de palma",
    "categoria": "Hogar",
    "barcodes": [
     "3298651716822",
@@ -15708,7 +15708,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma (Copeaux de savon)",
+   "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma",
    "categoria": "Hogar",
    "barcodes": [
     "3298651720829",
@@ -15719,7 +15719,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella verde de aceite de oliva para la colada (Savon de Marseille vert)",
+   "nombre": "Jabón de Marsella verde de aceite de oliva para la colada",
    "categoria": "Hogar",
    "barcodes": [
     "3298659747132",
@@ -15747,7 +15747,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada (Savon de Marseille)",
+   "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada",
    "categoria": "Hogar",
    "barcodes": [
     "3298651721659",
@@ -15841,7 +15841,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Bicarbonato de sodio multiusos (Bicarbonate de soude)",
+   "nombre": "Bicarbonato de sodio multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "3380380064852",
@@ -15851,7 +15851,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Ácido cítrico limpiador (Acide citrique)",
+   "nombre": "Ácido cítrico limpiador",
    "categoria": "Hogar",
    "barcodes": [
     "3380380076619",
@@ -15861,7 +15861,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Cristales de soda (Cristaux de soude)",
+   "nombre": "Cristales de soda",
    "categoria": "Hogar",
    "barcodes": [
     "3380380076671",
@@ -15871,7 +15871,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Tierra de diatomeas multiusos (Terre de diatomée)",
+   "nombre": "Tierra de diatomeas multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "3380380111693"
@@ -15890,7 +15890,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Vinagre blanco doméstico multiusos 12 % (Vinaigre ménager)",
+   "nombre": "Vinagre blanco doméstico multiusos 12 %",
    "categoria": "Hogar",
    "barcodes": [
     "3380380064869",
@@ -15900,7 +15900,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Gel de vinagre multiusos (Gel vinaigre ménager)",
+   "nombre": "Gel de vinagre multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "3380380078781"
@@ -15918,7 +15918,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Limpiador de frutas y verduras (Nettoyant fruits legumes)",
+   "nombre": "Limpiador de cocina para frutas y verduras",
    "categoria": "Hogar",
    "barcodes": [
     "3380380079061"
@@ -15936,7 +15936,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Crema limpiadora multiusos (Crème à récurer)",
+   "nombre": "Crema limpiadora multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "3380380048487"
@@ -15945,7 +15945,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Desengrasante horno y barbacoa (Nettoyant fours insert barbecue)",
+   "nombre": "Desengrasante horno y barbacoa",
    "categoria": "Hogar",
    "barcodes": [
     "3380390900607"
@@ -15954,7 +15954,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Limpiador gel wc (Limpia WC gel)",
+   "nombre": "Limpiador gel wc",
    "categoria": "Hogar",
    "barcodes": [
     "3380390900614"
@@ -15963,7 +15963,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Desatascador de tuberías (Déboucheur canalisations)",
+   "nombre": "Desatascador de tuberías",
    "categoria": "Hogar",
    "barcodes": [
     "3380380073472"
@@ -15972,7 +15972,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Lavavajillas a mano hipoalergénico sin perfume (Liquide vaisselle douceur sans parfum)",
+   "nombre": "Lavavajillas a mano hipoalergénico sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "3380380078798",
@@ -15982,7 +15982,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Abrillantador lavavajillas (Liquide de rincage)",
+   "nombre": "Abrillantador lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "3380390900584"
@@ -15991,7 +15991,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Gel para lavavajillas (Gel lave-vaisselle)",
+   "nombre": "Gel para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "3380380050787"
@@ -16249,7 +16249,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente líquido sensitive, sin perfume (Waschmittel sensitiv)",
+   "nombre": "Detergente líquido sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547501508",
@@ -16260,7 +16260,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador multiusos (Allesreiniger)",
+   "nombre": "Limpiador multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "4007547304109",
@@ -16271,7 +16271,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador de baños (Badreiniger)",
+   "nombre": "Limpiador de baños",
    "categoria": "Hogar",
    "barcodes": [
     "4007547301504",
@@ -16282,7 +16282,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Complejo blanqueador y quitamanchas (Bleichkomplex und Fleckentferner)",
+   "nombre": "Complejo blanqueador y quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547104204",
@@ -16294,7 +16294,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador-abrillantador de suelos (Boden-Wischpflege)",
+   "nombre": "Limpiador-abrillantador de suelos",
    "categoria": "Hogar",
    "barcodes": [
     "4007547309401",
@@ -16304,7 +16304,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón de hiel líquido, quitamanchas (Gallseife)",
+   "nombre": "Jabón de hiel líquido, quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547203105",
@@ -16315,7 +16315,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón de hiel en pastilla, quitamanchas (Gallseife-Stück)",
+   "nombre": "Jabón de hiel en pastilla, quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547201002"
@@ -16324,7 +16324,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Lavavajillas a mano sensitive, sin perfume (Geschirrspülmittel sensitiv)",
+   "nombre": "Lavavajillas a mano sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547306707",
@@ -16335,7 +16335,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón de manos cítricos (Handseife Citrus)",
+   "nombre": "Jabón de manos cítricos",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547302303",
@@ -16347,7 +16347,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón de manos sensitive, sin perfume (Handseife sensitiv)",
+   "nombre": "Jabón de manos sensitive, sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547301900",
@@ -16358,7 +16358,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Antical (Kalklöser)",
+   "nombre": "Antical",
    "categoria": "Hogar",
    "barcodes": [
     "4007547303003",
@@ -16368,7 +16368,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón en pastilla tradicional (Kernseife)",
+   "nombre": "Jabón en pastilla tradicional",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547202115"
@@ -16377,7 +16377,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Abrillantador para lavavajillas (Klarspüler)",
+   "nombre": "Abrillantador para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547308107",
@@ -16387,7 +16387,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente en polvo para lavavajillas (Maschinenspülmittel)",
+   "nombre": "Detergente en polvo para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547402300",
@@ -16398,7 +16398,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente de oliva para lana y seda sensitive, sin perfume (Olivenwaschmittel für Wolle und Seide sensitiv)",
+   "nombre": "Detergente de oliva para lana y seda sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547305403"
@@ -16407,7 +16407,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Desengrasante de naranja (Orangen Kraftreiniger)",
+   "nombre": "Desengrasante de naranja",
    "categoria": "Hogar",
    "barcodes": [
     "4007547405400",
@@ -16419,7 +16419,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Sal regeneradora para lavavajillas (Regeneriersalz)",
+   "nombre": "Sal regeneradora para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547403000"
@@ -16428,7 +16428,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Polvo limpiador multiusos abrasivo (Scheuerpulver)",
+   "nombre": "Polvo limpiador multiusos abrasivo",
    "categoria": "Hogar",
    "barcodes": [
     "4007547401006",
@@ -16438,7 +16438,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón potásico multiusos para limpieza (Schmierseife)",
+   "nombre": "Jabón potásico multiusos para limpieza",
    "categoria": "Hogar",
    "barcodes": [
     "4007547309203",
@@ -16448,7 +16448,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Pastillas para lavavajillas (Tabs für Geschirrspülmaschinen)",
+   "nombre": "Pastillas para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4007547402904",
@@ -16459,7 +16459,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador multiusos universal sensitive, sin perfume (Universalreiniger sensitiv)",
+   "nombre": "Limpiador multiusos universal sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547304604"
@@ -16468,7 +16468,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Suavizante/aclarador para la ropa (Wäschespüler)",
+   "nombre": "Suavizante/aclarador para la ropa",
    "categoria": "Hogar",
    "barcodes": [
     "4007547306004",
@@ -16478,7 +16478,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente en polvo color sensitive, sin perfume (Waschpulver Color sensitiv)",
+   "nombre": "Detergente en polvo color sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547102200",
@@ -16488,7 +16488,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador WC cedro-citronela (WC-Reiniger Zeder-Citronella)",
+   "nombre": "Limpiador WC cedro-citronela",
    "categoria": "Hogar",
    "barcodes": [
     "4007547300101",
@@ -16498,7 +16498,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Friegasuelos para fregadoras (Bodenreiniger für Scheuersaugmaschinen)",
+   "nombre": "Friegasuelos para fregadoras",
    "categoria": "Hogar",
    "barcodes": [
     "4007547308602",
@@ -16508,7 +16508,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Limpiador WC menta (WC-Reiniger Minze)",
+   "nombre": "Limpiador WC menta",
    "categoria": "Hogar",
    "barcodes": [
     "4007547300408",
@@ -16519,7 +16519,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Aceite de masaje mirto y azahar (Massageöl Myrthe Orangenblüte)",
+   "nombre": "Aceite de masaje mirto y azahar",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547772403",
@@ -16529,7 +16529,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Aceite de masaje limón y pino cembro (Massageöl Zitrone Zirbelkiefer)",
+   "nombre": "Aceite de masaje limón y pino cembro",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547772502",
@@ -16539,7 +16539,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Loción corporal mirto y azahar (Körperlotion Myrthe Orangenblüte)",
+   "nombre": "Loción corporal mirto y azahar",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547773004"
@@ -16548,7 +16548,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Loción corporal limón y pino cembro (Körperlotion Zitrone Zirbelkiefer)",
+   "nombre": "Loción corporal limón y pino cembro",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547773103"
@@ -16557,7 +16557,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Aceite de cuidado infantil caléndula (Kinder-Pflegeöl Calendula)",
+   "nombre": "Aceite de cuidado infantil caléndula",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547774001"
@@ -16566,7 +16566,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente líquido color sensitive, sin perfume (Waschmittel Color Sensitiv)",
+   "nombre": "Detergente líquido color sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4007547504905",
@@ -16577,7 +16577,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Jabón de manos en espuma sensitive, sin perfume (Schaumseife sensitiv)",
+   "nombre": "Jabón de manos en espuma sensitive, sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547207707",
@@ -16587,7 +16587,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Aceite facial bifásico sensitive, sin perfume (Gesichtsöl Sensitiv)",
+   "nombre": "Aceite facial bifásico sensitive, sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547775404"
@@ -16596,7 +16596,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente en polvo concentrado 40-95 °C (Waschmittel Pulver Konzentrat 40°-95°C)",
+   "nombre": "Detergente en polvo concentrado 40-95 °C",
    "categoria": "Hogar",
    "barcodes": [
     "4007547101012",
@@ -16607,7 +16607,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Lavavajillas a mano limón (Geschirrspülmittel Lemon)",
+   "nombre": "Lavavajillas a mano limón",
    "categoria": "Hogar",
    "barcodes": [
     "4007547307407",
@@ -16620,7 +16620,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Lavavajillas a mano caléndula (Geschirrspülmittel Calendula)",
+   "nombre": "Lavavajillas a mano caléndula",
    "categoria": "Hogar",
    "barcodes": [
     "4007547306301",
@@ -16633,7 +16633,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Detergente líquido color (Waschmittel Color)",
+   "nombre": "Detergente líquido color",
    "categoria": "Hogar",
    "barcodes": [
     "4007547504202",
@@ -16645,7 +16645,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Gel hidroalcohólico para manos (Händedesinfektion)",
+   "nombre": "Gel hidroalcohólico para manos",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4007547209008",
@@ -16656,7 +16656,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Descalcificador/ablandador de agua para la colada (Enthärter)",
+   "nombre": "Descalcificador/ablandador de agua para la colada",
    "categoria": "Hogar",
    "barcodes": [
     "4007547102910",
@@ -16667,7 +16667,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Desengrasante alcalino profesional (Alkalischer Fettlöser FD Professional)",
+   "nombre": "Desengrasante alcalino profesional",
    "categoria": "Hogar",
    "barcodes": [
     "4019886936941"
@@ -16676,7 +16676,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Blanqueador y sal quitamanchas (Bleichmittel & Fleckensalz)",
+   "nombre": "Blanqueador y sal quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886055086",
@@ -16687,7 +16687,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Detergente líquido color sensitive, sin perfume (Color Waschmittel Sensitiv)",
+   "nombre": "Detergente líquido color sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4019886015387",
@@ -16698,7 +16698,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Detergente en polvo color sensitive, sin perfume (Color Waschpulver Sensitiv)",
+   "nombre": "Detergente en polvo color sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4019886050180",
@@ -16709,7 +16709,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Descalcificador de agua para la colada (Enthärter)",
+   "nombre": "Descalcificador de agua para la colada",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000611",
@@ -16719,7 +16719,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Limpiador multiusos de vinagre (Essig Reiniger)",
+   "nombre": "Limpiador multiusos de vinagre",
    "categoria": "Hogar",
    "barcodes": [
     "4019886001007"
@@ -16728,7 +16728,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Jabón sólido limoncillo y jengibre (Feste Seife Lemongrass & Ingwer)",
+   "nombre": "Jabón sólido limoncillo y jengibre",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886190060"
@@ -16737,7 +16737,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Desinfectante de superficies (Flächen Desinfektion)",
+   "nombre": "Desinfectante de superficies",
    "categoria": "Hogar",
    "barcodes": [
     "4019886931588",
@@ -16749,7 +16749,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Gel quitamanchas (Flecken-Gel)",
+   "nombre": "Gel quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886018098"
@@ -16758,7 +16758,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Jabón líquido cítricos y oliva (Flüssigseife Citrus & Olive)",
+   "nombre": "Jabón líquido cítricos y oliva",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886077088",
@@ -16770,7 +16770,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Jabón líquido sensitive, sin perfume (Flüssigseife Sensitiv)",
+   "nombre": "Jabón líquido sensitive, sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886075060",
@@ -16781,7 +16781,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Jabón de hiel, quitamanchas (Gallseife)",
+   "nombre": "Jabón de hiel, quitamanchas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000741"
@@ -16790,7 +16790,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Limpiacristales y superficies concentrado (Glas & Fläche Konzentrat)",
+   "nombre": "Limpiacristales y superficies concentrado",
    "categoria": "Hogar",
    "barcodes": [
     "4019886019033"
@@ -16799,7 +16799,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Limpiacristales y superficies (Glas & Fläche Reiniger)",
+   "nombre": "Limpiacristales y superficies",
    "categoria": "Hogar",
    "barcodes": [
     "4019886019002"
@@ -16808,7 +16808,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Champú sólido romero (Haarseife Rosmarin)",
+   "nombre": "Champú sólido romero",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886190190"
@@ -16817,7 +16817,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Gel hidroalcohólico para manos (Hände Desinfektion)",
+   "nombre": "Gel hidroalcohólico para manos",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886931564",
@@ -16830,7 +16830,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Antical (Kalklöser)",
+   "nombre": "Antical",
    "categoria": "Hogar",
    "barcodes": [
     "4019886017503"
@@ -16839,7 +16839,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Jabón de pastilla tradicional (Kernseife)",
+   "nombre": "Jabón de pastilla tradicional",
    "categoria": "Cuidado personal",
    "barcodes": [
     "4019886079129"
@@ -16848,7 +16848,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Abrillantador profesional (Klarspüler Professional)",
+   "nombre": "Abrillantador profesional",
    "categoria": "Hogar",
    "barcodes": [
     "4019886008280"
@@ -16857,7 +16857,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Abrillantador para lavavajillas (Klarspüler)",
+   "nombre": "Abrillantador para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000802"
@@ -16866,7 +16866,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Detergente líquido profesional para lavavajillas (Maschinen Spülmittel Professional)",
+   "nombre": "Detergente líquido profesional para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000291"
@@ -16875,7 +16875,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Desengrasante de naranja (Orangen Kraftreiniger)",
+   "nombre": "Desengrasante de naranja",
    "categoria": "Hogar",
    "barcodes": [
     "4019886001403"
@@ -16884,7 +16884,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Sal regeneradora para lavavajillas (Regeneriersalz)",
+   "nombre": "Sal regeneradora para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000918",
@@ -16894,7 +16894,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Carbonato sódico puro multiusos (Reine Soda)",
+   "nombre": "Carbonato sódico puro multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "4019886055109"
@@ -16903,7 +16903,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Ácido cítrico limpiador puro (Reine Zitronensäure)",
+   "nombre": "Ácido cítrico limpiador puro",
    "categoria": "Hogar",
    "barcodes": [
     "4019886055116"
@@ -16912,7 +16912,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Bicarbonato sódico puro multiusos (Reines Natron)",
+   "nombre": "Bicarbonato sódico puro multiusos",
    "categoria": "Hogar",
    "barcodes": [
     "4019886055123"
@@ -16921,7 +16921,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Lavavajillas a mano sensitive, sin perfume (Spülmittel Sensitiv)",
+   "nombre": "Lavavajillas a mano sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4019886023566"
@@ -16930,7 +16930,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Detergente líquido universal sensitive, sin perfume (Universal Waschmittel Sensitiv)",
+   "nombre": "Detergente líquido universal sensitive, sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "4019886015783",
@@ -16941,7 +16941,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Quitamanchas en spray (Spray détachant)",
+   "nombre": "Quitamanchas en spray",
    "categoria": "Hogar",
    "barcodes": [
     "3538394530706"
@@ -16950,7 +16950,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Gel lavavajillas todo en 1 (Gel lave-vaisselle tout en 1)",
+   "nombre": "Gel lavavajillas todo en 1",
    "categoria": "Hogar",
    "barcodes": [
     "3538395235501"
@@ -16959,7 +16959,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Abrillantador (Liquide de rinçage lave-vaisselle)",
+   "nombre": "Abrillantador",
    "categoria": "Hogar",
    "barcodes": [
     "3538394911291"
@@ -16968,7 +16968,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Sal regeneradora para lavavajillas (Sel régénérant)",
+   "nombre": "Sal regeneradora para lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "3538394911307"
@@ -16977,7 +16977,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Limpiacristales (Nettoyant vitres)",
+   "nombre": "Limpiacristales",
    "categoria": "Hogar",
    "barcodes": [
     "3538394911086"
@@ -16986,7 +16986,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Recharge à diluer nettoyant vitres (recarga concentrada limpiacristales)",
+   "nombre": "Recarga concentrada limpiacristales",
    "categoria": "Hogar",
    "barcodes": [
     "3538395004107"
@@ -16995,7 +16995,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Crema limpiadora multiusos abrasiva (Crème à récurer)",
+   "nombre": "Crema limpiadora multiusos abrasiva",
    "categoria": "Hogar",
    "barcodes": [
     "3538390001088"
@@ -17004,7 +17004,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Jabón negro multiusos listo para usar (Savon noir prêt à l'emploi)",
+   "nombre": "Jabón negro multiusos listo para usar",
    "categoria": "Hogar",
    "barcodes": [
     "3538395350105"
@@ -17013,7 +17013,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Jabón negro multiusos, recarga concentrada (Savon noir recharge à diluer)",
+   "nombre": "Jabón negro multiusos, recarga concentrada",
    "categoria": "Hogar",
    "barcodes": [
     "3538395340106"
@@ -17022,7 +17022,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Limpiador de muebles con cera de abeja líquida (Cire d'abeille liquide)",
+   "nombre": "Limpiador de muebles con cera de abeja líquida",
    "categoria": "Hogar",
    "barcodes": [
     "3538394913011"
@@ -17031,7 +17031,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Limpiador de cristales de chimenea (Nettoyant inserts)",
+   "nombre": "Limpiador de cristales de chimenea",
    "categoria": "Hogar",
    "barcodes": [
     "3538394911079"
@@ -17040,7 +17040,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Limpiador de WC en pastillas 2 en 1 (Tablettes WC 2 en 1)",
+   "nombre": "Limpiador de WC en pastillas 2 en 1",
    "categoria": "Hogar",
    "barcodes": [
     "3538395115001"
@@ -17049,7 +17049,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Desatascador rápido (Déboucheur action rapide)",
+   "nombre": "Desatascador rápido",
    "categoria": "Hogar",
    "barcodes": [
     "3538395113304"
@@ -17058,7 +17058,7 @@
   {
    "marcaKey": "etaminedulys",
    "marca": "Etamine du Lys",
-   "nombre": "Gel de vinagre multiusos 14° (Gel vinaigre 14°)",
+   "nombre": "Gel de vinagre multiusos 14°",
    "categoria": "Hogar",
    "barcodes": [
     "3538395600309"
@@ -17067,7 +17067,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Activador biológico para fosas sépticas, eliminador de olores, 12 sobres (Activateur fosses septiques)",
+   "nombre": "Activador biológico para fosas sépticas, eliminador de olores, 12 sobres",
    "categoria": "Hogar",
    "barcodes": [
     "3450601026119"
@@ -17076,7 +17076,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Cera depilatoria de azúcar con extractos de argán 250 mL (Cire dépilatoire au Sucre Aux extraits d'Argan 250 mL)",
+   "nombre": "Cera depilatoria de azúcar con extractos de argán 250 mL",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3450601043116"
@@ -17085,7 +17085,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Cera depilatoria de azúcar pieles sensibles 250 mL (Cire dépilatoire au Sucre Peaux sensibles 250 mL)",
+   "nombre": "Cera depilatoria de azúcar pieles sensibles 250 mL",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3450601043130"
@@ -17094,7 +17094,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Quitamanchas en polvo 500 g (Détachant Poudre 500 g)",
+   "nombre": "Quitamanchas en polvo 500 g",
    "categoria": "Hogar",
    "barcodes": [
     "3450601036897"
@@ -17103,7 +17103,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Gel lavavajillas todo en uno (Gel lave vaisselle Tout en Un)",
+   "nombre": "Gel lavavajillas todo en uno",
    "categoria": "Hogar",
    "barcodes": [
     "3450601045776",
@@ -17113,7 +17113,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Linimento óleo-calcáreo 250 mL bebé (Liniment Oleo-Calcaire 250 mL Bébé)",
+   "nombre": "Linimento óleo-calcáreo 250 mL bebé",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3450601052316"
@@ -17122,7 +17122,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g (Savon de Marseille 72%)",
+   "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g",
    "categoria": "Hogar",
    "barcodes": [
     "3450601028533"
@@ -17131,7 +17131,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Jabón negro multiusos líquido con aceite de linaza 700 mL (Savon noir liquide)",
+   "nombre": "Jabón negro multiusos líquido con aceite de linaza 700 mL",
    "categoria": "Hogar",
    "barcodes": [
     "3450601046872"
@@ -17259,7 +17259,7 @@
   {
    "marcaKey": "ecover",
    "marca": "Ecover",
-   "nombre": "Lavavajillas a mano Zero sin perfume (Zero Hand-Spülmittel / ZERO Washing Up Liquid, sin perfume)",
+   "nombre": "Lavavajillas a mano Zero sin perfume",
    "categoria": "Hogar",
    "barcodes": [
     "5412533416688",
@@ -17271,7 +17271,7 @@
   {
    "marcaKey": "ecover",
    "marca": "Ecover",
-   "nombre": "Abrillantador lavavajillas (Klarspüler / Spoelmiddel / Rinse Aid)",
+   "nombre": "Abrillantador lavavajillas",
    "categoria": "Hogar",
    "barcodes": [
     "5412533426892"
@@ -17280,7 +17280,7 @@
   {
    "marcaKey": "ecover",
    "marca": "Ecover",
-   "nombre": "Jabón de manos Zero sin perfume (ZERO Hand Soap, sin perfume)",
+   "nombre": "Jabón de manos Zero sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "5412533418354"
