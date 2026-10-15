@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-hogarc",
+ "version": "2026-10-15-hogard",
  "marcas": [
   {
    "key": "larocheposay",
@@ -84484,6 +84484,87 @@
       "3596710497546"
      ],
      "inci": "Bentonite"
+    },
+    {
+     "nombre": "Crema autobrillante marron Auchan 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116529"
+     ],
+     "inci": "Aqua, Acrylic Copolymer, Ethoxydiglycol, Colorant, Acrylic Resin, Triethanolamine, Trideceth-10, Tris(2-butoxyethyl) Phosphate, Parfum, Diethanolamine, PPG-2 Methyl Ether, Sodium Hydroxide, Polysiloxane, 1-Hexanol 3 5 5-trimethyl- ethoxylated propoxylated, Tetramethylolglycoluril, Polyether-modified Polysiloxane, Octylisothiazolinone, Linalool, Butoxyethanol, Diphenyl Ether, Dihydro Pentamethylindanone, Trideceth-13, Potassium Hydroxide, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Crema autobrillante incolora Auchan 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116536"
+     ],
+     "inci": "Aqua, Acrylic Copolymer, Ethoxydiglycol, Acrylic Resin, Triethanolamine, Trideceth-10, Tris(2-butoxyethyl) Phosphate, Parfum, Diethanolamine, PPG-2 Methyl Ether, Sodium Hydroxide, Polysiloxane, 1-Hexanol 3 5 5-trimethyl- ethoxylated propoxylated, Tetramethylolglycoluril, Polyether-modified Polysiloxane, Octylisothiazolinone, Linalool, Butoxyethanol, Trideceth-13, Potassium Hydroxide, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Crema autobrillante negra Auchan 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116543"
+     ],
+     "inci": "Aqua, Acrylic Copolymer, Ethoxydiglycol, Colorant, Acrylic Resin, Triethanolamine, Trideceth-10, Tris(2-butoxyethyl) Phosphate, Parfum, Diethanolamine, PPG-2 Methyl Ether, Sodium Hydroxide, Polysiloxane, 1-Hexanol 3 5 5-trimethyl- ethoxylated propoxylated, Tetramethylolglycoluril, Dihydro Pentamethylindanone, Polyether-modified Polysiloxane, Octylisothiazolinone, Linalool, Butoxyethanol, Trideceth-13, Potassium Hydroxide, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Autoaplicador marron Auchan 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116550"
+     ],
+     "inci": "Aqua, Oxidized Polyethylene, Acrylic Resin, Alcohol, Colorant, Isotrideceth (<2.5 EO), Propylene Glycol, Isopropyl Alcohol, Disodium Laureth Sulfosuccinate, Polyether-modified Polydimethylsiloxane, Parfum, Sodium Hydroxide, Polysiloxane, Potassium Hydroxide, Tetramethylolglycoluril, Octylisothiazolinone, Linalool, Limonene, Trideceth-12, Methylchloroisothiazolinone, Methylisothiazolinone, Diphenyl Ether, Cyclotetrasiloxane, Cyclopentasiloxane, Cyclohexasiloxane"
+    },
+    {
+     "nombre": "Autoaplicador negro Auchan 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116574"
+     ],
+     "inci": "Aqua, Oxidized Polyethylene, Acrylic Resin, Alcohol, Colorant, Isotrideceth (<2.5 EO), Propylene Glycol, Isopropyl Alcohol, Disodium Laureth Sulfosuccinate, Polyether-modified Polydimethylsiloxane, Parfum, Sodium Hydroxide, Polysiloxane, Potassium Hydroxide, Tetramethylolglycoluril, Octylisothiazolinone, Linalool, Limonene, Trideceth-13, Methylchloroisothiazolinone, Methylisothiazolinone, Cyclotetrasiloxane, Cyclopentasiloxane, Cyclohexasiloxane"
+    },
+    {
+     "nombre": "Esponja calzado marrón Auchan x1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116628"
+     ],
+     "inci": "Dimethicone, Parfum, CI 77266, Linalyl Acetate"
+    },
+    {
+     "nombre": "Esponja calzado incolora Auchan x1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116635"
+     ],
+     "inci": "Dimethicone, Parfum, Hexyl Cinnamal, Linalyl Acetate"
+    },
+    {
+     "nombre": "Esponja calzado negra Auchan x1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116659"
+     ],
+     "inci": "Dimethicone, Parfum, CI 77266, Linalyl Acetate, Hexyl Cinnamal, Limonene, Citronellol, Linalool, Geraniol, Hydroxycitronellal, Benzyl Benzoate, Citral, Eugenol"
+    },
+    {
+     "nombre": "Limpiador cuero Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601002116697"
+     ],
+     "inci": "Aqua, Montan Acid Wax, Oxidized Polyethylene, Paraffin, Acrylic Copolymer, Dimethicone, Deceth-10, Polysiloxane, Lanolin, Dimethyl MEA, Meroxapol 105, Methyl 5-(dimethylamino)-2-methyl-5-oxopentanoate, Parfum, Potassium Hydroxide, Tetramethylolglycoluril, Benzyl Salicylate, Lithium Chloride, Formyl Morpholine, Sodium Metabisulfite, Methylchloroisothiazolinone, Methylisothiazolinone"
     }
    ]
   },

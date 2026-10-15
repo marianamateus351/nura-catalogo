@@ -5573,7 +5573,7 @@ completa. Tres agentes; criterio y revisión aquí (`hogar/c/`, `hogar/junta_c.p
     "Potenciador de lavado…".
   - **Fuera, a la espera de mejorar el detector:** el cuidado del calzado y del cuero de Auchan (8). No hay nombre honesto
     que la app reconozca como Hogar.
-- **Propuesta para Mariana (detector, necesita build):** ampliar las palabras fuertes de Hogar de `guessCategoria`.
+- **Propuesta para Mariana (detector, necesita build):** ampliar las palabras fuertes de Hogar de `guessCategoria`. **Hecho el 2026-10-15 (ver "Detector: palabras de Hogar").**
   - Ya van 142 fichas renombradas en los bloques a, b y c, y las marcas blancas tienen muchas más.
   - Palabras propuestas: "WC" suelto, "pastillas cisterna", "parquet", "vitrocerámica", "lavadora", "plancha", "calzado",
     "betún", "cuero", "salfumán", "agua fuerte", "vinagre de limpieza", "jabón para la ropa", "bicarbonato", "ácido
@@ -5587,6 +5587,33 @@ completa. Tres agentes; criterio y revisión aquí (`hogar/c/`, `hogar/junta_c.p
     - Las pastillas antical Dia (`8480017247995`) esperan en `PENDIENTE_DECISION` y no salen en Alternativas hasta que
       decida.
   - Regresión: 0 cambios en las 10.811 fichas anteriores, más 171 nuevas.
+
+### Detector: palabras de Hogar y "Polyethylene Glycol" — 2026-10-15 (versión 2026-10-15-hogard), decisión de Mariana
+Las dos propuestas del bloque c, aprobadas por Mariana el 15-10 ("Paso número 1, sí, hazlo. Sí, añade ese nombre a la
+regla"). **Necesitan build.**
+1. **`guessCategoria` reconoce más Hogar** (`HOME_EXTRA` en `products.js`):
+   - Palabras: WC, inodoro, cisterna, parquet, vitrocerámica, inducción, lavadora, secadora, planchado, agua de plancha,
+     calzado, zapato, betún, autobrillante, autoaplicador, cuero, salfumán, agua fuerte, vinagre de limpieza o doméstico,
+     bicarbonato, ácido cítrico, carbonato sódico, cristales de sosa, jabón de Marsella o potásico, escamas de jabón, "para
+     la ropa".
+   - Como son más amplias que `STRONG_HOME`, solo cuentan si el nombre **no** es claramente de cuidado personal: dientes,
+     bucal, cuero cabelludo, cabello, piel, cuerpo, facial, manos, bebé, íntimo, desodorante, ducha, labial, ojos,
+     maquillaje…
+   - **Probado y descartado: "limpiador" suelto** (y "reiniger"/"nettoyant"). En la primera regresión pasaba a Hogar 133
+     limpiadores faciales (CeraVe, Avène, La Roche-Posay, Anua…). También "jabón negro", que atrapaba el Black Soap de
+     Rituals.
+   - Regresión final: **1 cambio**. El jabón sólido de bicarbonato "casa y persona" de Biolù pasa a Hogar, y vale (es para
+     las dos cosas).
+   - Las 142 fichas renombradas en los bloques a-c siguen bien. Con esto, lo que llegue sin nombre retocado (escaneos de
+     Open Products Facts, marcas blancas) cae mejor.
+   - **Entran por fin las 9 de calzado y cuero de Auchan** (crema autobrillante ×3, autoaplicador ×2, esponja ×3, limpiador
+     de cuero), que se habían dejado fuera. Todas con avisos verdaderos: perfume, MIT/MCI/OIT, D4/D5/D6, TBOEP.
+2. **"Polyethylene Glycol" y "polietilenglicol" entran en la regla de Hogar "Alcoholes etoxilados y PEG"**: es la misma
+   sustancia que los PEG-n.
+   - Cambia 1 ficha: las pastillas antical de Dia `8480017247995` ganan el aviso, y salen de `PENDIENTE_DECISION`.
+   - Fairy Poder 3 en 1, Natulim Eco Pastillas y las pastillas ECI ya avisaban por otros PEG.
+   - La regla 191 (microplásticos) sigue excluyendo "polyethylene glycol", como antes.
+- Regresión de la versión: 0 cambios en las 10.982 fichas, más 9 nuevas (el calzado).
 
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
