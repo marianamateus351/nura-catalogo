@@ -4843,6 +4843,29 @@ que la app lee desde la versión en que aparezcan:
     - **`tipos.py`: la regla de sérum ya no atrapa jabones ni productos "bond" de pelo.** "Jabón de Alepo 30 %" de Marius
       Fabre caía en sérums por el "%", y Bond Booster de Tahe por "booster". Ahora no tienen tipo; total 1.675. Tabla
       pasada a la app con `exporta_js.py`.
+  - **Bloque 3 (alternativas 2026-10-15f): el resto del maquillaje, limpiadores faciales y protectores solares.**
+    - **Línea y tono** salen del nombre: "(tono X)" en Catrice, essence y Rare Beauty; "· X" en Kiko, NYX y Rituals;
+      "Deliplus 15 perla rosada".
+      - Solo se pone `linea` cuando hay **al menos dos tonos** de la misma marca y línea, para no crear grupos de uno.
+      - Resultado: 725 productos en 104 líneas. Las más grandes: Catrice Gel Affair (38 + 24, ver abajo), essence gel
+        nail colour (38 + 37), Kiko Glide & Go (20), Catrice Kohl Kajal (17), Rare Beauty Soft Pinch (16).
+    - **Subtipo** por palabras clave de cada tipo.
+      - Corregidos: "Lip Pencil" y "Lápiz de labios" → perfilador; labiales líquidos → gloss (lo dice el contrato);
+        Cicaplast y Cicavit labios → bálsamo.
+      - Sin subtipo a propósito: paletas y contornos (no hay subtipo de contorno) y las máscaras de pestañas (su tipo no
+        tiene subtipos).
+    - **Limpiadores faciales**: todos con subtipo. 14 `desmaquillante-ojos` (el subtipo nuevo).
+      - A mano: el aceite micelar de Bioderma → aceite; el agua limpiadora Heartleaf → agua micelar; SVR Palpebral →
+        ojos, Sensifine bálsamo → aceite, Dermo-Nettoyant → leche, Sebiaclear → gel.
+    - **Protectores solares**: 62 de 65.
+      - Fluidos, cremas, sérums y sticks faciales → `cara`.
+      - Leches, sprays y lociones corporales → `cuerpo`.
+      - Pediátricos y Mustela → `ninos`. El roll-on "con color" de Delial Kids es `ninos`: el color es para ver dónde se
+        aplica, no es maquillaje.
+      - Sin subtipo: Avène Reflexe e Intense Protect (cara y cuerpo).
+    - **Ojo, líneas que probablemente son la misma pero el catálogo nombra distinto**: Catrice "Laca de uñas GEL AFFAIR"
+      y "Esmalte de uñas GEL AFFAIR"; essence "gel nail colour esmalte de uñas" y "esmalte de uñas gel". No se juntan sin
+      comprobarlo.
 - Orden de trabajo sugerido: primero `esmalte`, `ojos-cejas` y `labial` (líneas + subtipo), luego
   `crema-facial`, `serum`, `limpiador-facial` y `protector-solar` (subtipo), luego el resto del
   maquillaje. Publicar por bloques con versión y avisar a la app.
