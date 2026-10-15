@@ -1,5 +1,5 @@
 {
- "version": "2026-10-14f",
+ "version": "2026-10-15a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1821,6 +1821,12 @@
        "amazon": "https://www.amazon.es/dp/B0B5X9R9XK"
       },
       {
+       "nombre": "Aceite facial bifásico sensitive, sin perfume (Gesichtsöl Sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547775404",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "[B3] Ampoule Hydra",
        "marca": "SVR",
        "barcode": "3662361000937",
@@ -2497,6 +2503,12 @@
      "nombre": "Champús",
      "productos": [
       {
+       "nombre": "Champú suave Caléndula BIO",
+       "marca": "Biolù",
+       "barcode": "8057432971929",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Pure shampoo",
        "marca": "Cocunat",
        "barcode": "8436570021077",
@@ -2544,6 +2556,12 @@
        "marca": "Mustela",
        "barcode": "3504105038724",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Champú sólido romero (Haarseife Rosmarin)",
+       "marca": "Sodasan",
+       "barcode": "4019886190190",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -2860,6 +2878,30 @@
        "barcode": "4005900692474",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B086K52M82"
+      },
+      {
+       "nombre": "Aceite de masaje limón y pino cembro (Massageöl Zitrone Zirbelkiefer)",
+       "marca": "Sonett",
+       "barcode": "4007547772502",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Aceite de masaje mirto y azahar (Massageöl Myrthe Orangenblüte)",
+       "marca": "Sonett",
+       "barcode": "4007547772403",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Loción corporal limón y pino cembro (Körperlotion Zitrone Zirbelkiefer)",
+       "marca": "Sonett",
+       "barcode": "4007547773103",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Loción corporal mirto y azahar (Körperlotion Myrthe Orangenblüte)",
+       "marca": "Sonett",
+       "barcode": "4007547773004",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -5609,6 +5651,12 @@
        "marca": "Klorane",
        "barcode": "3282770200058",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Linimento óleo-calcáreo 250 mL bebé (Liniment Oleo-Calcaire 250 mL Bébé)",
+       "marca": "L'Arbre Vert",
+       "barcode": "3450601052316",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Cicaplast Baume B5+",
@@ -10328,10 +10376,22 @@
        "fechaLista": "14-10-2026"
       },
       {
+       "nombre": "Detergente para ropa Clásico BIO",
+       "marca": "Biolù",
+       "barcode": "8057432970052",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
        "marca": "Ecodoo",
        "barcode": "3380380065460",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g (Savon de Marseille 72%)",
+       "marca": "L'Arbre Vert",
+       "barcode": "3450601028533",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
@@ -10370,6 +10430,72 @@
        "fechaLista": "14-10-2026"
       },
       {
+       "nombre": "Descalcificador de agua para la colada (Enthärter)",
+       "marca": "Sodasan",
+       "barcode": "4019886000611",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente en polvo color sensitive, sin perfume (Color Waschpulver Sensitiv)",
+       "marca": "Sodasan",
+       "barcode": "4019886050180",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido color sensitive, sin perfume (Color Waschmittel Sensitiv)",
+       "marca": "Sodasan",
+       "barcode": "4019886015387",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido universal sensitive, sin perfume (Universal Waschmittel Sensitiv)",
+       "marca": "Sodasan",
+       "barcode": "4019886015783",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Descalcificador/ablandador de agua para la colada (Enthärter)",
+       "marca": "Sonett",
+       "barcode": "4007547102910",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente de oliva para lana y seda sensitive, sin perfume (Olivenwaschmittel für Wolle und Seide sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547305403",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente en polvo color sensitive, sin perfume (Waschpulver Color sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547102200",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente en polvo concentrado 40-95 °C (Waschmittel Pulver Konzentrat 40°-95°C)",
+       "marca": "Sonett",
+       "barcode": "4007547101012",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido color (Waschmittel Color)",
+       "marca": "Sonett",
+       "barcode": "4007547504202",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido color sensitive, sin perfume (Waschmittel Color Sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547504905",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente líquido sensitive, sin perfume (Waschmittel sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547501508",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Detergente en polvo Wipp Express",
        "marca": "Wipp Express",
        "barcode": "8410436447324",
@@ -10381,6 +10507,18 @@
      "key": "suavizante",
      "nombre": "Suavizantes",
      "productos": [
+      {
+       "nombre": "Suavizante superconcentrado Neutro sin perfume BIO",
+       "marca": "Biolù",
+       "barcode": "8057432979444",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Suavizante/aclarador para la ropa (Wäschespüler)",
+       "marca": "Sonett",
+       "barcode": "4007547306004",
+       "fechaLista": "15-10-2026"
+      },
       {
        "nombre": "Suavizante concentrado Vernel Delicado",
        "marca": "Vernel",
@@ -10413,10 +10551,40 @@
        "fechaLista": "14-10-2026"
       },
       {
+       "nombre": "Gel para lavavajillas (máquina) BIO",
+       "marca": "Biolù",
+       "barcode": "8057432970038",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano Limón BIO",
+       "marca": "Biolù",
+       "barcode": "8057432970014",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Lavavajillas a mano hipoalergénico sin perfume (Liquide vaisselle douceur sans parfum)",
        "marca": "Ecodoo",
        "barcode": "3380380078798",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano Zero sin perfume (Zero Hand-Spülmittel / ZERO Washing Up Liquid, sin perfume)",
+       "marca": "Ecover",
+       "barcode": "5412533416688",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Gel lavavajillas todo en 1 (Gel lave-vaisselle tout en 1)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395235501",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Gel lavavajillas todo en uno (Gel lave vaisselle Tout en Un)",
+       "marca": "L'Arbre Vert",
+       "barcode": "3450601045776",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Lavavajillas a mano con jabón natural La Droguería 1919",
@@ -10430,6 +10598,42 @@
        "marca": "Marius Fabre",
        "barcode": "3298651716853",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano sensitive, sin perfume (Spülmittel Sensitiv)",
+       "marca": "Sodasan",
+       "barcode": "4019886023566",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente en polvo para lavavajillas (Maschinenspülmittel)",
+       "marca": "Sonett",
+       "barcode": "4007547402300",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano caléndula (Geschirrspülmittel Calendula)",
+       "marca": "Sonett",
+       "barcode": "4007547306301",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano limón (Geschirrspülmittel Lemon)",
+       "marca": "Sonett",
+       "barcode": "4007547307407",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Lavavajillas a mano sensitive, sin perfume (Geschirrspülmittel sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547306707",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Pastillas para lavavajillas (Tabs für Geschirrspülmaschinen)",
+       "marca": "Sonett",
+       "barcode": "4007547402904",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -10454,6 +10658,12 @@
        "marca": "Biobel",
        "barcode": "8421427069418",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Limpiador multiusos Naranja BIO",
+       "marca": "Biolù",
+       "barcode": "8057432970021",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Limpiador multiusos con vinagre en spray Disiclin",
@@ -10498,10 +10708,40 @@
        "fechaLista": "14-10-2026"
       },
       {
+       "nombre": "Crema limpiadora multiusos abrasiva (Crème à récurer)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538390001088",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Gel de vinagre multiusos 14° (Gel vinaigre 14°)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395600309",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos listo para usar (Savon noir prêt à l'emploi)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395350105",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos, recarga concentrada (Savon noir recharge à diluer)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395340106",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Bicarbonato sódico Hacendado multiusos (1 kg y 300 g)",
        "marca": "Hacendado",
        "barcode": "8480000290076",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Jabón negro multiusos líquido con aceite de linaza 700 mL (Savon noir liquide)",
+       "marca": "L'Arbre Vert",
+       "barcode": "3450601046872",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Limpiador multiusos con jabón natural La Droguería 1919",
@@ -10514,6 +10754,12 @@
        "marca": "La Droguería 1919",
        "barcode": "8410498240017",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Vinagre de limpieza multiusos Lagarto concentrado",
+       "marca": "Lagarto",
+       "barcode": "8410761005039",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Bicarbonato sódico multiusos (Bicarbonate de soude)",
@@ -10544,6 +10790,48 @@
        "marca": "Marius Fabre",
        "barcode": "3298656600768",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Bicarbonato sódico puro multiusos (Reines Natron)",
+       "marca": "Sodasan",
+       "barcode": "4019886055123",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Carbonato sódico puro multiusos (Reine Soda)",
+       "marca": "Sodasan",
+       "barcode": "4019886055109",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador multiusos de vinagre (Essig Reiniger)",
+       "marca": "Sodasan",
+       "barcode": "4019886001007",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón potásico multiusos para limpieza (Schmierseife)",
+       "marca": "Sonett",
+       "barcode": "4007547309203",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador multiusos (Allesreiniger)",
+       "marca": "Sonett",
+       "barcode": "4007547304109",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador multiusos universal sensitive, sin perfume (Universalreiniger sensitiv)",
+       "marca": "Sonett",
+       "barcode": "4007547304604",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Polvo limpiador multiusos abrasivo (Scheuerpulver)",
+       "marca": "Sonett",
+       "barcode": "4007547401006",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -10562,6 +10850,12 @@
        "marca": "Nuncas",
        "barcode": "8001704014357",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Limpiador de baños (Badreiniger)",
+       "marca": "Sonett",
+       "barcode": "4007547301504",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -10594,6 +10888,36 @@
        "fechaLista": "14-10-2026"
       },
       {
+       "nombre": "Percarbonato blanqueante y quitamanchas BIO",
+       "marca": "Biolù",
+       "barcode": "8057432978188",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Quitamanchas en spray BIO",
+       "marca": "Biolù",
+       "barcode": "8057432974678",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Quitamanchas en spray (Spray détachant)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538394530706",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Quitamanchas en polvo 500 g (Détachant Poudre 500 g)",
+       "marca": "L'Arbre Vert",
+       "barcode": "3450601036897",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Blanqueador Lagarto Percarbonato",
+       "marca": "Lagarto",
+       "barcode": "8410761302527",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Oxi Clean potenciador de lavado",
        "marca": "Natulim",
        "barcode": "8436617752025",
@@ -10624,6 +10948,42 @@
        "fechaLista": "09-10-2026"
       },
       {
+       "nombre": "Blanqueador y sal quitamanchas (Bleichmittel & Fleckensalz)",
+       "marca": "Sodasan",
+       "barcode": "4019886055086",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Gel quitamanchas (Flecken-Gel)",
+       "marca": "Sodasan",
+       "barcode": "4019886018098",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón de hiel, quitamanchas (Gallseife)",
+       "marca": "Sodasan",
+       "barcode": "4019886000741",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Complejo blanqueador y quitamanchas (Bleichkomplex und Fleckentferner)",
+       "marca": "Sonett",
+       "barcode": "4007547104204",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón de hiel en pastilla, quitamanchas (Gallseife-Stück)",
+       "marca": "Sonett",
+       "barcode": "4007547201002",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Jabón de hiel líquido, quitamanchas (Gallseife)",
+       "marca": "Sonett",
+       "barcode": "4007547203105",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Toallitas atrapa color x20 Spar",
        "marca": "Spar",
        "barcode": "8480013516019",
@@ -10640,6 +11000,12 @@
        "marca": "Biobel",
        "barcode": "8421427069616",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Ácido cítrico limpiador anhidro BIO",
+       "marca": "Biolù",
+       "barcode": "8057432978195",
+       "fechaLista": "15-10-2026"
       },
       {
        "nombre": "Vinagre de Limpieza Bosque Verde concentrado",
@@ -10671,6 +11037,12 @@
        "barcode": "8436617752308",
        "fechaLista": "07-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D9PGYWKC"
+      },
+      {
+       "nombre": "Ácido cítrico limpiador puro (Reine Zitronensäure)",
+       "marca": "Sodasan",
+       "barcode": "4019886055116",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -10709,10 +11081,34 @@
      "nombre": "Limpiadores de muebles y suelos",
      "productos": [
       {
+       "nombre": "Friegasuelos Eucalipto BIO",
+       "marca": "Biolù",
+       "barcode": "8057432970045",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador de muebles con cera de abeja líquida (Cire d'abeille liquide)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538394913011",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Limpiador de muebles de madera lacada Nuncas Livax",
        "marca": "Nuncas",
        "barcode": "8001704406800",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Friegasuelos para fregadoras (Bodenreiniger für Scheuersaugmaschinen)",
+       "marca": "Sonett",
+       "barcode": "4007547308602",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador-abrillantador de suelos (Boden-Wischpflege)",
+       "marca": "Sonett",
+       "barcode": "4007547309401",
+       "fechaLista": "15-10-2026"
       }
      ]
     },
@@ -10725,6 +11121,30 @@
        "marca": "Biobel",
        "barcode": "8421427069012",
        "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Limpiacristales (Nettoyant vitres)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538394911086",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Recharge à diluer nettoyant vitres (recarga concentrada limpiacristales)",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395004107",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiacristales y superficies (Glas & Fläche Reiniger)",
+       "marca": "Sodasan",
+       "barcode": "4019886019002",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiacristales y superficies concentrado (Glas & Fläche Konzentrat)",
+       "marca": "Sodasan",
+       "barcode": "4019886019033",
+       "fechaLista": "15-10-2026"
       }
      ]
     }
