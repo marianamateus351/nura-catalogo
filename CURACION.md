@@ -5530,6 +5530,64 @@ perfume o no. Cuatro agentes en paralelo; criterio y revisión aquí (`hogar/b/`
     que su ficha no cambia; no se toca el detector sin su decisión.
   - Regresión: 0 cambios en las 10.323 fichas anteriores, más 488 nuevas. 114 limpias.
 
+### Hogar, bloque c: marcas blancas de supermercado — 2026-10-15 (versión 2026-10-15-hogarc): 171 productos, 189 códigos
+Pedido de Mariana: líneas eco de supermercado y, con su indicación del 15-10, todo lo de limpieza que tenga lista oficial
+completa. Tres agentes; criterio y revisión aquí (`hogar/c/`, `hogar/junta_c.py`, `hogar/renombra_c.py`).
+- **Auchan (Alcampo): 160.** El pie de alcampo.es enlaza "Fichas de seguridad e Ingredientes": un iframe que lee un
+  listado público de PDF por código (`api.ari.auchan.com`, con la clave que trae la propia página, lo mismo que hace el
+  navegador).
+  - Son 192 hojas 648/2004 de los fabricantes: McBride, Iberfrasa, Persán, Linasa, Saraya, Incasa, La Tuna, Nicols…
+  - El EAN viene en la hoja o lo asocia el listado oficial de Alcampo.
+  - Incluye la línea eco Medio Ambiente / Better Life: lavavajillas sin perfume Ecolabel, suavizante Ecocert, detergente
+    con aloe, limpiahogar, cocina y baño, abrillantador, limpiacristales, y ácido cítrico, bicarbonato y tierras de
+    Sommières de auchan.fr.
+  - Fuera:
+    - Pastillas de Eurotab: "Granulation Excipient", "Polycarboxylates" y extracto de fermentación.
+    - El limpiacristales de 750 ml: su hoja es la de 500 ml.
+    - El detergente ropa oscura `8411174004152`, ya descartado con Incasa.
+    - Lo de auchan.fr que solo trae rangos.
+  - Las lejías de La Tuna no declaran el agua: entran tal cual, porque es la hoja legal del fabricante.
+- **Dia: 19.**
+  - Listas de Persán (`productos.persan.es`) con el código visto en la trasera de dia.es.
+  - Composición completa en la etiqueta: vinagre de limpieza y sal para lavavajillas.
+  - Fuera:
+    - Las 6 lejías y el amoníaco con lista de Asturquimia: Dia compra la misma referencia a varios fabricantes y la foto de
+      su etiqueta es de otro (La Tuna, Elaboraciones Químicas del Sur).
+    - El agua destilada: no es un producto de limpieza.
+    - Las 62 que solo traen rangos: sus fabricantes no publican listas.
+- **Tandil (ALDI): 2.** Cápsulas 3 en 1 universal y color: hoja de SPB Global (detergentdata.com, país España, 09-04-2026),
+  con el código en la misma hoja.
+- **Sin nada (bloqueados o sin listas):**
+  - **Lidl W5 y Formil.** El buscador oficial `detergents.lidl-info.com` sigue dando 504 (probado el 15-10). Las traseras
+    solo traen rangos. Ecolabel da los códigos de W5 Nature (`4056489846345`, `4056489733850`, `4056489733843`,
+    `4056489889113`, `4056489889120`, `4056489889137`, `4056489314653`) para cuando vuelva el buscador.
+  - **Carrefour Eco Planet.** carrefour.es/.fr/.be/.pl con anti-bot, que no se salta. El fabricante (Incasa) no publica
+    las hojas de Carrefour.
+  - **Eroski.** Su línea eco se llama "EROSKI ECO" (la hace Incasa, según Ecolabel), sin códigos ni listas públicas. Sus
+    tiendas piden reCAPTCHA.
+  - **Dia y Eroski no tienen hoy "Nature/Natur" de limpieza.**
+  - `infodetergent.dia.es` redirige a un dominio con TLS roto ("dh key too small"): no se fuerza.
+- **Nombres:**
+  - **50 fichas de Hogar caían en Cuidado personal.** Se renombraron con su nombre real: pastillas y power balls → "Limpiador
+    de WC…", "Friegasuelos para parquet", "Antical protector de lavadora", "Desincrustante…", "Perfumador de ropa…",
+    "Potenciador de lavado…".
+  - **Fuera, a la espera de mejorar el detector:** el cuidado del calzado y del cuero de Auchan (8). No hay nombre honesto
+    que la app reconozca como Hogar.
+- **Propuesta para Mariana (detector, necesita build):** ampliar las palabras fuertes de Hogar de `guessCategoria`.
+  - Ya van 142 fichas renombradas en los bloques a, b y c, y las marcas blancas tienen muchas más.
+  - Palabras propuestas: "WC" suelto, "pastillas cisterna", "parquet", "vitrocerámica", "lavadora", "plancha", "calzado",
+    "betún", "cuero", "salfumán", "agua fuerte", "vinagre de limpieza", "jabón para la ropa", "bicarbonato", "ácido
+    cítrico", "toallitas limpiadoras".
+- **Revisión de falsos positivos y negativos**:
+  - Escaneo de falsos negativos: 0 de verdad. "Tetramethyl Acetyloctahydronaphthalenes" (Iso E Super) no tiene regla
+    propia; donde aparece, el producto ya avisa por el perfume.
+  - **Pregunta para Mariana:** "Polyethylene Glycol" sin número no lo marca ninguna regla. La de Hogar "Alcoholes
+    etoxilados y PEG" cubre PEG-n, y es la misma sustancia.
+    - Afecta hoy a 4 fichas: Fairy Poder 3 en 1, Natulim Eco Pastillas, pastillas ECI y pastillas antical Dia.
+    - Las pastillas antical Dia (`8480017247995`) esperan en `PENDIENTE_DECISION` y no salen en Alternativas hasta que
+      decida.
+  - Regresión: 0 cambios en las 10.811 fichas anteriores, más 171 nuevas.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que

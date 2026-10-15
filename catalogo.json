@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-hogarb",
+ "version": "2026-10-15-hogarc",
  "marcas": [
   {
    "key": "larocheposay",
@@ -82753,6 +82753,24 @@
       "4068706358913"
      ],
      "inci": "Urea técnica, Bentonite, Parfum, Perfume Caps, Polymeric Dye, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Eugenol"
+    },
+    {
+     "nombre": "Tandil 3 en 1 cápsulas de detergente universal (tricámara)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4070757043335"
+     ],
+     "inci": "DODECYLBENZENE SULFONIC ACID, PROPYLENE GLYCOL, C12-14 ALKETH-12, GLYCERIN, AQUA, FATTY ACIDS C16-18 AND C18-UNSATD., ETHANOLAMINE, SODIUM LAURETH SULFATE, POLYETHYLENEGLYCOL/POLYESTER, SODIUM DIETHYLENETRIAMINE PENTAMETHYLENE PHOSPHONATE, PARFUM, DISODIUM DISTYRYLBIPHENYL DISULFONATE, SUBTILISIN, BENZYL BENZOATE, SORBITOL, SODIUM FORMATE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, SUBTILISIN, AMYL SALICYLATE, CITRONELLOL, COLORANT, CELLULASE, LIPASE, ALPHA-AMYLASE, PECTATE LYASE, TERPINEOL, MANNANASE"
+    },
+    {
+     "nombre": "Tandil 3 en 1 cápsulas de detergente ropa de color",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4070757043342"
+     ],
+     "inci": "DODECYLBENZENE SULFONIC ACID, PROPYLENE GLYCOL, C12-14 ALKETH-12, GLYCERIN, AQUA, FATTY ACIDS C16-18 AND C18-UNSATD., ETHANOLAMINE, SODIUM LAURETH SULFATE, POLYETHYLENEGLYCOL/POLYESTER, SODIUM DIETHYLENETRIAMINE PENTAMETHYLENE PHOSPHONATE, PARFUM, SUBTILISIN, SORBITOL, SODIUM FORMATE, DISODIUM DISTYRYLBIPHENYL DISULFONATE, QUATERNISED HYDROLYZED WHEAT PROTEIN/SILICONE COPOLYMER, SUBTILISIN, COLORANT, ALCOHOL, TERPINEOL, CELLULASE, LIPASE, ALPHA-AMYLASE, PECTATE LYASE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, DIMETHYL PHENETHYL ACETATE, MANNANASE"
     }
    ]
   },
@@ -83089,6 +83107,1383 @@
       "8411174004091"
      ],
      "inci": "Aqua, MMB, Didecyldimethylammonium chloride, Ethanolamine, CAPRYLETH-9 CARBOXYLIC ACID, Trisodium dicarboxymethyl alaninate, Alcohols ethoxylated, Parfum, Isopropyl alcohol, HEXETH-4 CARBOXYLIC ACID, Hydrochloric acid"
+    },
+    {
+     "nombre": "Limpiahogar multisuperficies con aroma a limón 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725505"
+     ],
+     "inci": "Aqua, C10 Pareth-8, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Cocoate, Sodium Carbonate, Parfum, Sodium Bicarbonate, Phenoxyethanol, Tetrasodium Glutamate Diacetate, Sodium Pyrithione, Fatty Acids C12-18 and C18-unsatd., Colorant"
+    },
+    {
+     "nombre": "Detergente líquido marsella Auchan 74ds. 4 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677723549",
+      "3245677726472",
+      "3245677726489"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Fatty Acids C12-18 and C18-unsatd., Sodium Chloride, Phenoxyethanol, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Trisodium Dicarboxymethyl Alaninate, Styrene/Acrylates Copolymer, Fluorescent Brightener 230, Caprylyl/Capryl Glucoside, Sodium Pyrithione, Subtilisin, Lipase, Amylase, Disubstituted alaninamide, Benzoic Acid"
+    },
+    {
+     "nombre": "Detergente polvo marsella Auchan 60 dosis 3,9 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677723761"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Carbonate Peroxide, Sodium Silicate, Sodium Bicarbonate, Aqua, Sodium Citrate, Zeolite, Sodium Polyacrylate, C12-18 Pareth-7, Fatty Acids C14-18 and C16-18-unsatd. Sodium Salts, Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Parfum, Sodium Silicoaluminate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulfonate, Subtilisin, Lipase, Amylase, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Lavavajillas concentrado súper desincrustante cítrico Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677724645",
+      "3245678131848"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Alcohol, Lactic Acid, Parfum, Sodium Chloride, Citric Acid, Amylase, Protease, Denatonium Benzoate, CI 16255, CI 15985"
+    },
+    {
+     "nombre": "Lavavajillas concentrado antiolor bicarbonato y lima Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677724720",
+      "3245677723150"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Alcohol, Lactic Acid, Parfum, Sodium Chloride, Sodium Bicarbonate, Citric Acid, Denatonium Benzoate, Colorant, CI 19140"
+    },
+    {
+     "nombre": "Lavavajillas concentrado ultra brillante vinagre Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677724737",
+      "3245677723167"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Alcohol, Lactic Acid, Parfum, Sodium Chloride, Acetic Acid, Citric Acid, Denatonium Benzoate, CI 17200"
+    },
+    {
+     "nombre": "Suavizante concentrado azul Auchan 80 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677724744"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Hexyl Cinnamal, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 antisarro pino Auchan 1 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677724768"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 olefin sulfonate, Sodium C10-13 Alkyl benzenesulfonate, Sodium Cumene Sulfonate, Parfum, Sodium citrate, Aqua, Colorant, Benzisothiazolinone"
+    },
+    {
+     "nombre": "Friegasuelos para parquet Auchan 1 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725499"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Parfum, Sodium Citrate, Tetrasodium Glutamate Diacetate, Citric Acid, Colorant, Octylisothiazolinone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiahogar flores rojas Auchan 1,25 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725574"
+     ],
+     "inci": "Aqua, C10 Pareth-8, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Cocoate, Parfum, Sodium Carbonate, Sodium Bicarbonate, Phenoxyethanol, Tetrasodium Glutamate Diacetate, Sodium Pyrithione, Polymeric Pink Dye, Fatty Acids C12-18 and C18-unsatd., CI 16255, CI 14750, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Limpiahogar flores primavera Auchan 1,25 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725598"
+     ],
+     "inci": "Aqua, C10 Pareth-8, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Cocoate, Parfum, Sodium Carbonate, Sodium Bicarbonate, Phenoxyethanol, Tetrasodium Glutamate Diacetate, Sodium Pyrithione, Fatty Acids C12-18 and C18-unsatd., Colorant, Hexyl Cinnamal, Citronellol, Benzyl Alcohol, Linalool"
+    },
+    {
+     "nombre": "Limpiahogar marsella Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725635"
+     ],
+     "inci": "Aqua, Sodium C14-17 Alkyl Sec Sulfonate, C10 Pareth-8, Sodium Cocoate, Parfum, Sodium Carbonate, Sodium Bicarbonate, Phenoxyethanol, Sodium Tallowate, Styrene/Acrylates Copolymer, Tetrasodium Glutamate Diacetate, Sodium Cocoate, Sodium Pyrithione, Sodium Hydroxide, Glycerin, Sodium Chloride, Limonene, Linalool, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Limpiador cristales recambio Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725727",
+      "3245678112205"
+     ],
+     "inci": "Aqua, PPG-2 Methyl Ether, Propylene Glycol Butyl Ether, Alcohol, Sodium Laureth Sulfate, Polysorbate 20, Caprylyl/Capryl Glucoside, Parfum, Isopropyl Alcohol, Trisodium Dicarboxymethyl Alaninate, Citric Acid, Colorant"
+    },
+    {
+     "nombre": "Detergente líquido fresco y limpio Auchan 37 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677726465"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Phenoxyethanol, Parfum, Potassium Hydroxide, Sodium Diethylenetriamine Pentamethylene Phosphonate, Trisodium Dicarboxymethyl Alaninate, Fluorescent Brightener 230, Citronellol, Subtilisin, Sodium Pyrithione, Amylase, Disubstituted Alaninamide, Colorant, Lipase"
+    },
+    {
+     "nombre": "Detergente líquido fresco y limpio Auchan 55 ds 3 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677726502"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Fatty Acids C12-18 and C18-unsatd., Phenoxyethanol, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Trisodium Dicarboxymethyl Alaninate, Sodium Chloride, Fluorescent Brightener 230, Citronellol, Subtilisin, Sodium Pyrithione, Amylase, Disubstituted alaninamide, Colorant, Lipase"
+    },
+    {
+     "nombre": "Lavavajillas maquina gel todo en 1 Auchan 720 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678040522"
+     ],
+     "inci": "Aqua, Sodium Citrate, Trisodium Dicarboxymethyl Alaninate, Oxirane methyl- polymer with oxirane monoisotridecyl ether block, Acrylic Terpolymer, Etidronic Acid, Xanthan Gum, Citric Acid, Phenoxyethanol, Benzisothiazolinone, Subtilisin, Parfum, Amylase, Sodium Sulfite, Calcium Chloride, 4-Formylphenylboronic Acid, Colorant"
+    },
+    {
+     "nombre": "Lavavajillas concentrado Auchan (500 ml y 1 L)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678040775",
+      "3245678131787",
+      "3245678131954"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Alcohol, Citric Acid, Lactic Acid, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Parfum, Sodium Chloride, Denatonium Benzoate, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Eliminador de olores aroma frescura spray Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678060971"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil, Didecyldimonium Chloride, Pentasodium Triphosphate, Citric Acid, Parfum, Isopropyl Alcohol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel antical lavadora Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678060995"
+     ],
+     "inci": "Aqua, Tetrasodium Glutamate Diacetate, Sodium Citrate, Sodium Polycarboxylate, Methylpropanediol, Phenoxyethanol, Xanthan Gum, Parfum, Colorant, Dimethicone"
+    },
+    {
+     "nombre": "Antical protector de lavadora Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678061015"
+     ],
+     "inci": "Aqua, Citric Acid, Alcohols c8-18 ethoxylated propoxylated, Sodium P-cumenesulphonate, Sodium Citrate, Parfum, Dimethicone, Benzene mono-c10-13-alkyl derivs. distn. residues, Linalool"
+    },
+    {
+     "nombre": "Suavizante concentrado Eco (Ecocert) Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678083161"
+     ],
+     "inci": "Aqua, Dihydrogenated Palmoylethyl Hydroxyethylammonium Methosulfate and Ditallowoylethyl Hydroxyethylammonium Methosulfate, Isopropyl Alcohol, Lactic Acid, Potassium Sorbate, Magnesium Chloride, Parfum"
+    },
+    {
+     "nombre": "Limpiador de cocinas para vitrocerámica e inducción Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678112144"
+     ],
+     "inci": "Aqua, 1-(2-butoxy-1-methylethoxy)propan-2-ol, Ethanolamine, Amines c12-14 (even numbered)-alkyldimethyl n-oxides, Alcohol, Sodium Xylenesulfonate, C10 Pareth-8, Caprylyl/Capryl Glucoside, C10 Pareth-3, Styrene/Acrylates Copolymer, Tris[(2-hydroxyethyl)ammonium] Citrate, Parfum, Trisodium Dicarboxymethyl Alaninate, Isopropyl Alcohol, Sodium Lauryl Sulfate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Detergente polvo lavado a mano express Auchan 650 gr 650 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126462"
+     ],
+     "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Zeolite, Sodium Silicate, Sodium Carbonate, Aqua, Sodium Acrylic Acid/MA Copolymer, Cellulose Gum, Parfum, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulfonate, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Colorant, Amylase, Pectate Lyase"
+    },
+    {
+     "nombre": "Suavizante concentrado colonia Auchan 80 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126486"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Citral, Linalool, Geraniol, Colorant"
+    },
+    {
+     "nombre": "Suavizante concentrado lavanda Auchan 80 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126493"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Linalool, Citronellol, Colorant"
+    },
+    {
+     "nombre": "Suavizante concentrado frutos rojos Auchan 80 ds. 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126509"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Colorant"
+    },
+    {
+     "nombre": "Suavizante concentrado talco Auchan 80 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126516"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Lactic Acid, Citronellol, Geraniol, Hexyl Cinnamal, Colorant"
+    },
+    {
+     "nombre": "Suavizante concentrado hipoalergenico Auchan 60 ds 1.5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126523"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Lactic Acid, Parfum"
+    },
+    {
+     "nombre": "Quitamanchas activador en polvo oxy blanco Auchan 1 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126578"
+     ],
+     "inci": "Sodium Carbonate Peroxide, Sodium Carbonate, TAED, C12-15 Pareth-7, Aqua, Zeolite, Modified Anionic Polyester, Sodium C12-18 Alkyl Sulfate, Disodium Distyrylbiphenyl Disulfonate, Sodium Acrylic Acid/MA Copolymer, Subtilisin, Lipase, Amylase"
+    },
+    {
+     "nombre": "Detergente líquido fresco Auchan Económico 37 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126585"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Sodium Diethylenetriamine Pentamethylene Phosphonate, Trisodium Dicarboxymethyl Alaninate, Parfum, Fatty Acids C12-18 and C18-unsatd., Fluorescent Brightener 230, Styrene/Acrylates Copolymer, Caprylyl/Capryl Glucoside, Dipropylene Glycol Dimethyl Ether, Subtilisin, Benzisothiazolinone, Methylisothiazolinone, Colorant, Amylase, Disubstituted alaninamide, Lipase, Benzoic Acid"
+    },
+    {
+     "nombre": "Detergente líquido aloe vera Auchan 55 ds. 3 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126660"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Phenoxyethanol, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Trisodium Dicarboxymethyl Alaninate, Fluorescent Brightener 230, Styrene/Acrylates Copolymer, Caprylyl/Capryl Glucoside, Sodium Pyrithione, Potassium Hydroxide, Subtilisin, Amylase, Disubstituted alaninamide, Lipase, Benzoic Acid, Colorant"
+    },
+    {
+     "nombre": "Detergente líquido caribe Auchan 37 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126677"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Phenoxyethanol, Trisodium Dicarboxymethyl Alaninate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Dipropylene Glycol Dimethyl Ether, Fluorescent Brightener 230, Styrene/Acrylates Copolymer, Hexyl Cinnamal, Citronellol, Potassium Hydroxide, Caprylyl/Capryl Glucoside, Sodium Pyrithione, Subtilisin, Reaction mass of 3 5-dimethylcyclohex-3-ene-1-carbaldehyde and 2 4-dimethylcyclohex-3-ene-1-carbaldehyde, Lipase, Amylase, Disubstituted alaninamide, Colorant, Benzoic Acid"
+    },
+    {
+     "nombre": "Detergente líquido tropical Auchan 37 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126684"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Phenoxyethanol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Dipropylene Glycol Dimethyl Ether, Parfum, Trisodium Dicarboxymethyl Alaninate, Potassium Hydroxide, Fluorescent Brightener 230, Citronellol, Sodium Pyrithione, Subtilisin, Reaction mass of 3 5-dimethylcyclohex-3-ene-1-carbaldehyde and 2 4-dimethylcyclohex-3-ene-1-carbaldehyde, Lipase, Amylase, Disubstituted alaninamide, Colorant"
+    },
+    {
+     "nombre": "Detergente líquido oriental Auchan 37 ds 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126691"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Potassium Cocoate, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Sodium Citrate, Sodium Chloride, Phenoxyethanol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Dipropylene Glycol Dimethyl Ether, Parfum, Trisodium Dicarboxymethyl Alaninate, Potassium Hydroxide, Fluorescent Brightener 230, Styrene/Acrylates Copolymer, Caprylyl/Capryl Glucoside, Limonene, Sodium Pyrithione, Subtilisin, Lipase, Amylase, Disubstituted alaninamide, Benzoic Acid, Colorant"
+    },
+    {
+     "nombre": "Suavizante concentrado caribe 60 ds Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126721"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Dipropylene Glycol Dimethyl Ether, Polyquaternium-37, Hexyl Cinnamal, Citronellol, Reaction mass of 3 5-dimethylcyclohex-3-ene-1-carbaldehyde and 2 4-dimethylcyclohex-3-ene-1-carbaldehyde, C11-15 Sec-Pareth-12, C10-12 Alkane/Cycloalkane, Colorant, Dimethicone, Glyceryl Stearate, Hydroxyethylcellulose, Dimethiconol, PEG-10 Stearate, Silica, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Suavizante concentrado tropical 60 ds Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126738"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Dipropylene Glycol Dimethyl Ether, Polyquaternium-37, Limonene, Hexyl Cinnamal, C11-15 Sec-Pareth-12, C10-12 Alkane/Cycloalkane, Dimethicone, Glyceryl Stearate, Hydroxyethylcellulose, Dimethiconol, PEG-10 Stearate, Silica, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Suavizante oriental 60 ds Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678126745"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Dipropylene Glycol Dimethyl Ether, Polyquaternium-37, Hexyl Cinnamal, Coumarin, C11-15 Sec-Pareth-12, Colorant, C10-12 Alkane/Cycloalkane, Alcohol, Dimethicone, Glyceryl Stearate, Hydroxyethylcellulose, Dimethiconol, PEG-10 Stearate, Silica, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Lavavajillas concentrado limon Auchan 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678131978"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Lactic Acid, Alcohols C9-11 Ethoxylated, Alcohol, Citric Acid, Parfum, Sodium Chloride, Denatonium Benzoate, CI 47005, CI 15985"
+    },
+    {
+     "nombre": "Ambientador mini spray+recambios frescor Auchan 3x15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132487"
+     ],
+     "inci": "Butane, Propane, Alcohol, Parfum, Isobutane, Isopropyl Alcohol, Butanone, Linalool, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador mini spray+recambios peonias Auchan 3x15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132500"
+     ],
+     "inci": "Butane, Propane, Alcohol, Parfum, Isobutane, Isopropyl Alcohol, Butanone, Coumarin, Limonene, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Ambientador mini spray+recambios citricos Auchan 3x15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132524"
+     ],
+     "inci": "Butane, Propane, Alcohol, Parfum, Isobutane, Citral, Limonene, Isopropyl Alcohol, Butanone, Geraniol, Linalool, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas marino Auchan 2 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132838"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 olefin sulfonate, Sodium dodecylbenzene sulfonate, Parfum, Sodium citrate, Cocamide DEA, Aqua, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas lavanda Auchan 2 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132852"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 olefin sulfonate, Sodium dodecylbenzene sulfonate, Parfum, Sodium citrate, Cocamide DEA, Aqua, Colorant, Linalool"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 marino Auchan 1 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132876"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin Sulfonate, Sodium C10-13 Alkyl benzenesulfonate, Sodium cumene sulfonate, Parfum, Sodium citrate, Aqua, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 floral Auchan 1 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132906"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin Sulfonate, Sodium C10-13 Alkyl benzenesulfonate, Sodium cumene sulfonate, Parfum, Sodium citrate, Aqua, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas agua azul Auchan 2 und 2 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678132968"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 olefin sulfonate, Sodium dodecylbenzene sulfonate, Parfum, Sodium citrate, Colorant, Cocamide DEA"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas líquidas agua azul Auchan 3 und 3 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678133019"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Parfum, C9-11 Pareth 8, Hydroxyethylcellulose, Sodium Citrate, Citric Acid, Sodium Benzoate, Sodium Benzotriazolyl Butylphenol Sulfonate, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas líquidas floral Auchan 3 und 3 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678133026"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Parfum, C9-11 Pareth 8, Hydroxyethylcellulose, Sodium Citrate, Citric Acid, Sodium Benzoate, Alpha-Isomethyl-Ionone, Citronellol, Sodium Benzotriazolyl Butylphenol Sulfonate, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Lavavajillas maquina gel Auchan 1,5 l 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678133385"
+     ],
+     "inci": "Aqua, Sodium Citrate, Trisodium Dicarboxymethyl Alaninate, Oxirane methyl- polymer with oxirane monoisotridecyl ether block, Acrylic Terpolymer, Sodium Formate, Etidronic Acid, Xanthan Gum, Citric Acid, Phenoxyethanol, Benzisothiazolinone, Subtilisin, Parfum, Amylase, Sodium Sulfite, Colorant"
+    },
+    {
+     "nombre": "Gel desatascador Auchan 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678141861"
+     ],
+     "inci": "Aqua, Sodium Hydroxide, Acrylic Copolymer, Ammonium Hydroxide, C10 Pareth-8, Dimethicone, Colorant, Aryethylphenylpolyglycol Ether"
+    },
+    {
+     "nombre": "Limpiador WC gel activ eucalipto con lejía Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678141960"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Myristamine Oxide, Sodium Laurate, Sodium Hydroxide, Sodium Xylenesulfonate, Parfum, Colorant, Lubricating oils (petroleum) c15-30 hydrotreated neutral oil-base"
+    },
+    {
+     "nombre": "Limpiador WC gel poder anticalcareo Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678141984"
+     ],
+     "inci": "Aqua, Hydrochloric Acid, PEG-2 Oleamine, Cetrimonium Chloride, Glycolic Acid, C12-18 Pareth-7, Parfum, Colorant, Formic Acid, Dimethicone"
+    },
+    {
+     "nombre": "Limpiador WC gel activ cítrico con lejía Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678142028"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Myristamine Oxide, Sodium Laurate, Sodium Hydroxide, Sodium Xylenesulfonate, Parfum, Colorant"
+    },
+    {
+     "nombre": "Abrillantador lavavajillas frescor Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678148495"
+     ],
+     "inci": "Aqua, Alcohols c12-14 ethoxylated propoxylated, Sodium P-cumenesulphonate, Citric Acid"
+    },
+    {
+     "nombre": "Limpiador gel antical Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678159965"
+     ],
+     "inci": "Aqua, Formic Acid, Citric Acid, C10 Pareth-8, Sodium C14-17 Alkyl Sec Sulfonate, Sodium Xylenesulfonate, Sodium Formate, Xanthan Gum, Parfum, Acetic Acid, Colorant, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Desincrustante limpiador super potente Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678159972"
+     ],
+     "inci": "Aqua, Sulphamidic Acid, Phosphoric Acid, C10 Pareth-8, Sodium Xylenesulfonate, Parfum, Colorant"
+    },
+    {
+     "nombre": "Limpiador poder desengrasante spray Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678160497"
+     ],
+     "inci": "Aqua, 1-(2-butoxy-1-methylethoxy)propan-2-ol, Alcohol, Ethanolamine, C10 Pareth-8, Myristamine Oxide, Tris[(2-hydroxyethyl)ammonium] Citrate, Parfum, Trisodium Dicarboxymethyl Alaninate, Isopropyl Alcohol, Colorant, Dimethyl Myristamine, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Limpiador con lejia spray Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678160510"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Decylamine Oxide, Potassium Salt of Nitrilotris(methylenephosphonic Acid) N-oxide, Parfum"
+    },
+    {
+     "nombre": "Limpiador multiusos hogar marsella spray Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678160527"
+     ],
+     "inci": "Aqua, 1-(2-butoxy-1-methylethoxy)propan-2-ol, Ethanolamine, Alcohol, C10 Pareth-8, Myristamine Oxide, Parfum, Styrene/Acrylates Copolymer, Trisodium Dicarboxymethyl Alaninate, Isopropyl Alcohol, Sodium Hydroxide, Limonene"
+    },
+    {
+     "nombre": "Detergente líquido Eco (Ecolabel) aloe vera Auchan 2 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678161265"
+     ],
+     "inci": "Sodium Laureth Sulfate, Alcohols C12-18 Ethoxylated, Sodium Citrate, Propylene Glycol, Coco-Glucoside, Sodium Cocoate, Sodium Chloride, Phenoxyethanol, Potassium Sorbate, Parfum, Modified Polycarboxylate, Styrene/Acrylates Copolymer, Disodium Distyrylbiphenyl Disulfonate, Tetrasodium Etidronate, Sodium Hydroxide, Subtilisin, Amylase, Dimethicone, Aqua"
+    },
+    {
+     "nombre": "Limpiador muebles aerosol Auchan 300 ml 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678162224"
+     ],
+     "inci": "Aqua, Butane, Hydrocarbons c9-c10 n-alkanes isoalkanes cyclics <2% aromatics, Propane, Dimethicone, Sorbitan Oleate, Paraffin, Isobutane, Cera Alba, Parfum, Sodium Benzoate, 1-propanaminium 2-hydroxy-n-(2-hydroxypropyl)n n-dimethyl- esters with fatty acids c18 unsatd. me sulfates (salts) (no cas), Colorant"
+    },
+    {
+     "nombre": "Limpiador hornos aerosol Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678162255"
+     ],
+     "inci": "Aqua, Butane, PPG-2 Methyl Ether, Propane, Sodium Hydroxide, Bentonite, Isobutane, Cocamide MEA, Sodium Laureth Sulfate, Parfum"
+    },
+    {
+     "nombre": "Limpiahogar gel con lejia Auchan 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678162910"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Myristamine Oxide, Sodium Hydroxide, Sodium Laurate, Potassium Salt of Nitrilotris(methylenephosphonic Acid) N-oxide, Sodium Xylenesulfonate, Parfum, Dimethyl Myristamine, Colorant, Dimethicone"
+    },
+    {
+     "nombre": "Ambientador recambio automático citricos Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710351435"
+     ],
+     "inci": "Alcohol, Butane, Propane, Parfum, Isobutane, Citral, Limonene, Linalool, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Ambientador recambio automático floral Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710351459"
+     ],
+     "inci": "Alcohol, Butane, Propane, Parfum, Isobutane, Linalool, Coumarin, Hexyl Cinnamal, Benzyl Benzoate, Geraniol, Amyl Cinnamal, Alpha-isomethyl Ionone, Citronellol"
+    },
+    {
+     "nombre": "Ambientador recambio automático agua fresca Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710351466"
+     ],
+     "inci": "Alcohol, Butane, Propane, Parfum, Isobutane, Linalool, Limonene, Citral"
+    },
+    {
+     "nombre": "Ambientador aerosol vainilla de las islas Auchan 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710481521",
+      "3596710481569"
+     ],
+     "inci": "Aqua, Butane, Propane, C10-12 alkane cycloalkane, Isobutane, Sorbitan Oleate, Parfum, Sodium Benzoate, Ammonium Hydroxide, Linalool, Citronellol, Limonene"
+    },
+    {
+     "nombre": "Ambientador aerosol aire fresco del pacifico Auchan 300ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497249"
+     ],
+     "inci": "Aqua, Butane, Propane, Hydrocarbons c9-c11 n-alkanes isoalkanes cyclics < 2% aromatics, Isobutane, Parfum, Sorbitan Oleate, Sodium Benzoate, Ammonium Hydroxide, Linalool"
+    },
+    {
+     "nombre": "Ambientador aerosol peonia de china Auchan 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497263"
+     ],
+     "inci": "Aqua, Butane, Propane, Hydrocarbons c9-c11 n-alkanes isoalkanes cyclics < 2% aromatics, Isobutane, Sorbitan Oleate, Parfum, Sodium Benzoate, Ammonium Hydroxide, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Ambientador aerosol citricos de sicilia Auchan 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497287"
+     ],
+     "inci": "Aqua, Butane, Propane, Hydrocarbons c9-c11 n-alkanes isoalkanes cyclics < 2% aromatics, Isobutane, Sorbitan Oleate, Parfum, Sodium Benzoate, Ammonium Hydroxide, Limonene, Linalool, Hexyl Cinnamal, Citronellol"
+    },
+    {
+     "nombre": "Ambientador recambio automático flores blancas Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497317"
+     ],
+     "inci": "Alcohol, Butane, Propane, Parfum, Isobutane, Limonene, Hydroxycitronellal, Citral"
+    },
+    {
+     "nombre": "Limpiamaquinas Auchan 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710511839"
+     ],
+     "inci": "Aqua, Citric Acid, C10 Pareth-3, Alcohols c12-16 ethoxylated propoxylated, Sodium Lactate, Lactic Acid, Xanthan Gum, Parfum, Dimethicone, Denatonium Benzoate, Colorant"
+    },
+    {
+     "nombre": "Gel WC desinfectante Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710511952"
+     ],
+     "inci": "Aqua, Hydrochloric Acid, PEG-2 Oleamine, Cetrimonium Chloride, C12-18 Pareth-7, Parfum, Colorant, Dimethicone"
+    },
+    {
+     "nombre": "Lavavajillas concentrado vinagre manzana Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710519910",
+      "3245678132029"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Lactic Acid, Alcohols C9-11 Ethoxylated, Alcohol, Citric Acid, Parfum, Sodium Chloride, Denatonium Benzoate, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Detergente capsulas 2 en 1 marsella Auchan 24ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710520121"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Methylpropanediol, C12-18 Pareth-7, Glycerin, MEA-COCOATE, Aqua, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Sodium Tallowate, Styrene/Acrylates Copolymer, Disodium 4 4'-bis[6-anilino-[4-[bis(2-hydroxyethyl)amino]-1 3 5-triazin-2-yl]amino]stilbene-2 2'-disulphonate, Propylene Glycol, Sodium Cocoate, Subtilisin, Denatonium Benzoate, Amylase, Sodium Chloride, Mannanase, Lipase, Sodium Hydroxide, Dimethicone, Linalool, Benzyl Alcohol, Citronellol"
+    },
+    {
+     "nombre": "Detergente capsulas 2 en 1 floral Auchan 20ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710520251",
+      "3596710520145"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Methylpropanediol, C12-18 Pareth-7, MEA-COCOATE, Glycerin, Aqua, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Polyethyleneimine Ethoxylated, Disodium 4 4'-bis[6-anilino-[4-[bis(2-hydroxyethyl)amino]-1 3 5-triazin-2-yl]amino]stilbene-2 2'-disulphonate, Propylene Glycol, Styrene/Acrylates Copolymer, Subtilisin, Quaternium-80, Colorant, Denatonium Benzoate, Amylase, Mannanase, Lipase, Linalool, Citronellol, Limonene, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Limpiahogar limon Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710521050"
+     ],
+     "inci": "Aqua, Sodium C14-17 Alkyl Sec Sulfonate, Ethanolamine, C10 Pareth-8, MEA-COCOATE, Parfum, Sodium Bicarbonate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Colorant"
+    },
+    {
+     "nombre": "Limpiahogar fresco Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710521081"
+     ],
+     "inci": "Aqua, Sodium C14-17 Alkyl Sec Sulfonate, Ethanolamine, C10 Pareth-8, Parfum, MEA-COCOATE, Sodium Bicarbonate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Colorant, Tetramethyl Acetyloctahydronaphthalenes, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Detergente polvo fresco y limpio Auchan 100 ds 5 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710521302",
+      "3596710521319"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Silicate, Sodium Bicarbonate, Sodium Citrate, Aqua, Sodium Polyacrylate, Zeolite, C12-18 Pareth-7, Sodium Acrylic Acid/MA Copolymer, Fatty Acids C14-18 and C16-18-unsatd. Sodium Salts, Cellulose Gum, Bentonite, Parfum, Sodium Silicoaluminate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulfonate, Subtilisin, Citronellol, Colorant, Lipase, Amylase, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Detergente polvo marsella Auchan 60 ds 3,9 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710521326"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Silicate, Sodium Bicarbonate, Sodium Citrate, Aqua, Sodium Polyacrylate, Zeolite, C12-18 Pareth-7, Sodium Acrylic Acid/MA Copolymer, Fatty Acids C14-18 and C16-18-unsatd. Sodium Salts, Cellulose Gum, Parfum, Sodium Silicoaluminate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulfonate, Subtilisin, Lipase, Amylase, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Detergente polvo lavanda Auchan 60 ds 3 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710521333"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Silicate, Sodium Bicarbonate, Sodium Citrate, Aqua, Sodium Polyacrylate, Zeolite, C12-18 Pareth-7, Sodium Acrylic Acid/MA Copolymer, Fatty Acids C14-18 and C16-18-unsatd. Sodium Salts, Cellulose Gum, Parfum, Sodium Silicoaluminate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulfonate, Subtilisin, Hexyl Cinnamal, Lipase, Amylase, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Lavavajillas concentrado pieles sensibles sin perfume Auchan Medio Ambiente (Ecolabel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710522514",
+      "3245678078877",
+      "3245678078884"
+     ],
+     "inci": "Aqua, Sodium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Lactic Acid"
+    },
+    {
+     "nombre": "Lavavajillas concentrado pieles sensibles Auchan 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710522941"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Lactic Acid, Alcohols C9-11 Ethoxylated, Alcohol, Citric Acid, Parfum, Sodium Chloride, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiahogar multisuperficies Auchan Medio Ambiente 1 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710527052"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Phenoxyethanol, C12-18 Pareth-7, Sodium Carbonate, Parfum, Sodium Bicarbonate, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Colorant"
+    },
+    {
+     "nombre": "Limpiador de cocina y baño 2 en 1 Auchan Medio Ambiente 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710527076"
+     ],
+     "inci": "Aqua, Citric Acid, C10 Pareth-8, Sodium Citrate, Sodium Lactate, Tetrasodium Glutamate Diacetate, Parfum, Sodium Benzoate"
+    },
+    {
+     "nombre": "Limpiacristales Eco Auchan 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678160589"
+     ],
+     "inci": "Aqua, Alcohol, Isopropyl Alcohol, Sodium Laureth Sulfate, Parfum, Ammonium Hydroxide"
+    },
+    {
+     "nombre": "Abrillantador lavavajillas Auchan Medio Ambiente 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710528752"
+     ],
+     "inci": "Aqua, Alcohols c12-14 ethoxylated propoxylated, Sodium P-cumenesulphonate, Citric Acid, Sodium Citrate"
+    },
+    {
+     "nombre": "Detergente capsulas 5 en 1 fresh Auchan 20ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532209"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Aqua, Sodium Laureth Sulfate, Propylene Glycol, MEA-COCOATE, Polypropylene Terephthalate, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Potassium Sulfite, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Tetramethyl Acetyloctahydronaphthalenes, Styrene/Acrylates Copolymer, Cellulase, Amylase, Colorant, Mannanase"
+    },
+    {
+     "nombre": "Detergente capsulas frescor verde Auchan 30ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532216"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-COCOATE, Polypropylene Terephthalate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Hexyl Cinnamal, Citronellol, Geraniol, Colorant, Amylase, Mannanase"
+    },
+    {
+     "nombre": "Detergente capsulas 3 en 1 caribe Auchan 20ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532223"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-COCOATE, Polypropylene Terephthalate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Styrene/Acrylates Copolymer, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Hexyl Cinnamal, Potassium Sulfite, Citronellol, Coumarin, Linalyl Acetate, Amylase, Colorant, Mannanase"
+    },
+    {
+     "nombre": "Detergente capsulas 3 en 1 floral Auchan 20ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532230"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-COCOATE, Polypropylene Terephthalate, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Potassium Sulfite, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Styrene/Acrylates Copolymer, Colorant, Amylase, Mannanase"
+    },
+    {
+     "nombre": "Detergente capsulas marsella Auchan 30ds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532247"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Aqua, Sodium Laureth Sulfate, Propylene Glycol, MEA-COCOATE, Polypropylene Terephthalate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Potassium Cocoate, Parfum, Styrene/Acrylates Copolymer, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Amylase, Mannanase"
+    },
+    {
+     "nombre": "Toallitas friegasuelos Auchan 15 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532278"
+     ],
+     "inci": "Aqua, Sodium Benzoate, Citric Acid, Potassium Sorbate, Sodium Citrate, Parfum, Cocamidopropyl Betaine, Tetrasodium Glutamate Diacetate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Toallitas limpiacristales Auchan 20 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532292"
+     ],
+     "inci": "Aqua, Alcohol, Propylene Glycol Butyl Ether, Diethylhexyl Sodium Sulfosuccinate, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Propylene Glycol, Citric Acid, Sodium Hydroxide, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Toallitas limpiamuebles Auchan 24 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532308"
+     ],
+     "inci": "Aqua, Sodium Benzoate, Citric Acid, Potassium Sorbate, Sodium Citrate, Sodium Lauroyl Sarcosinate, Parfum, Prunus Amygdalus Dulcis Oil"
+    },
+    {
+     "nombre": "Toallitas suavizantes para secadora Auchan 20 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532315"
+     ],
+     "inci": "Hydrogenated Palm Stearine (Oils palm stearins hydrogenated), Aqua, Parfum, Menthol, Terpineol, Tetramethyl Acetyloctahydronaphthalenes, Trideceth-5, Butoxydiglycol, Laureth-n Carboxylic Acid"
+    },
+    {
+     "nombre": "Toallitas limpiadoras multisuperficies marino Auchan 40 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532377"
+     ],
+     "inci": "Aqua, Sodium Benzoate, Citric Acid, Potassium Sorbate, Sodium Citrate, Parfum, Tetramethyl Acetyloctahydronaphthalenes, Cocamidopropyl Betaine, Tetrasodium Glutamate Diacetate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Limpiador cristales spray / recambio Auchan 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532834",
+      "3596710532841"
+     ],
+     "inci": "Aqua, Alcohol, Tris[(2-hydroxyethyl)ammonium] Citrate, Propylene Glycol Butyl Ether, Tetrasodium Glutamate Diacetate, Sodium Laureth Sulfate, Caprylyl/Capryl Glucoside, Isopropyl Alcohol, Parfum, Sodium Hydroxide, Colorant"
+    },
+    {
+     "nombre": "Limpiahogar marsella Auchan 1,5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532902"
+     ],
+     "inci": "Aqua, Sodium C14-17 Alkyl Sec Sulfonate, Ethanolamine, C10 Pareth-8, MEA-COCOATE, Parfum, Sodium Bicarbonate, Sodium Tallowate, Styrene/Acrylates Copolymer, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Sodium Cocoate, Glycerin, Linalyl Acetate, Linalool"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas marino Auchan 3 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710533404"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin sulfonate, Sodium chloride, Sodium C10-13 Alkylbenzene sulfonate, Calcium carbonate, Parfum, Sodium citrate, Sodium bicarbonate, Cocamide DEA, Sodium laureth sulfate, Aqua, Colorant, Sodium benzoate, Potassium sorbate"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas lavanda Auchan 3 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710533428"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin sulfonate, Sodium C10-13 Alkylbenzene sulfonate, Sodium chloride, Parfum, Sodium citrate, Sodium bicarbonate, Cocamide DEA, Sodium laureth sulfate, Colorant, Aqua"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 marino Auchan 2 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710533435"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin sulfonate, Sodium C10-13 Alkylbenzene sulfonate, Sodium cumene sulfonate, Parfum, Sodium citrate, Aqua, Colorant, Sodium benzoate, Potassium sorbate"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 floral Auchan 2 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710533459"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin sulfonate, Sodium C10-13 Alkylbenzene sulfonate, Sodium cumene sulfonate, Parfum, Sodium citrate, Aqua, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas agua azul Auchan 2 und 2 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710533527"
+     ],
+     "inci": "Sodium sulfate, Sodium C10-13 alkylbenzene sulfonate, Sodium chloride, Parfum, Sodium C14-16 olefin sulfonate, Colorant, Sodium citrate, Sodium bicarbonate, Cocamide DEA, Sodium laureth sulfate, Aqua"
+    },
+    {
+     "nombre": "Lavavajillas maquina gel Auchan 1,5 l 1,5 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534050"
+     ],
+     "inci": "Aqua, Sodium Citrate, Trisodium Dicarboxymethyl Alaninate, Alcohols Ethoxylated Propoxylated, Acrylic Terpolymer, Sodium Formate, Etidronic Acid, Xanthan Gum, Citric Acid, Phenoxyethanol, Subtilisin, Parfum, Amylase, Sodium Sulfite, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas para cisterna Auchan 4 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534654"
+     ],
+     "inci": "Sodium sulfate, Sodium bicarbonate, Sodium dodecylbenzene sulphonate, Sodium carboxymethyl cellulose, Colorant, Cocamide DEA, Parfum, Aqua"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas líquidas floral Auchan 3 und 3 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534661"
+     ],
+     "inci": "Aqua, Sodium laureth sulfate, Parfum, Cocamide DEA, C9-11 Pareth 8, Sodium citrate, Hydroxyethylcellulose, Citric acid, Sodium benzoate, Colorant, Benzotriazolyl dodecyl p-cresol, Denatonium benzoate"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas líquidas agua azul Auchan 3 und 3 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534678"
+     ],
+     "inci": "Aqua, Sodium laureth sulfate, Parfum, Capryl glucoside, Hydroxyethylcellulose, Sodium citrate, Citric acid, Sodium benzoate, Denatonium benzoate, Colorant"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 flores misteriosas Auchan 2 unid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534685"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 Olefin sulfonate, Sodium C10-13 Alkylbenzene sulfonate, Sodium cumene sulfonate, Sodium citrate, Parfum, Citronellol, Colorant, Aqua, Geraniol, Alpha isomethyl ionone, Potassium sorbate, Sodium benzoate"
+    },
+    {
+     "nombre": "Limpiador de WC Power balls 4 en 1 magnolia Auchan 2 unid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710534692"
+     ],
+     "inci": "Sodium sulfate, Sodium C14-16 olefin sulfonate, Sodium C10-13 alkyl benzene sulfonate, Sodium cumene sulfonate, Sodium citrate, Parfum, Aqua, Geraniol, Limonene, Colorant"
+    },
+    {
+     "nombre": "Toallitas limpiacristales para gafas Auchan 30 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710535248"
+     ],
+     "inci": "Aqua, Sodium Benzoate, Potassium Sorbate, Citric Acid, Caprylyl/Capryl Glucoside, Lauryl Glucoside, Parfum"
+    },
+    {
+     "nombre": "Quitamanchas activador en polvo oxy color Auchan 1 kg",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710535644"
+     ],
+     "inci": "Sodium Carbonate Peroxide, Sodium Carbonate, Sodium Sulfate, TAED, C12-15 Pareth-7, Sodium C12-18 Alkyl Sulfate, Zeolite, Aqua, Sodium Acrylic Acid/MA Copolymer, Subtilisin, Lipase, Amylase"
+    },
+    {
+     "nombre": "Limpiador de alfombras Auchan 600ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710543502"
+     ],
+     "inci": "Aqua, Alcohol, Amines c12-14 (even numbered)-alkyldimethyl n-oxides, 2-propenoic acid 2-methyl- polymer with methyl 2-methyl-2-propenoate, Parfum, Sodium Benzoate, Sulfuric acid mono-c12-14-alkyl esters sodium salts, Sodium Lauroyl Sarcosinate"
+    },
+    {
+     "nombre": "Lavavajillas capsulas powerball Auchan 30 und 510 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710544868"
+     ],
+     "inci": "PEG/PPG-5/2 Propylheptyl Ether, Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Citrate, Sodium Polyacrylate, Alpha-Epoxides C10-alkyl reaction products with Oxo alcohol C11 ethoxylated, Ceteareth-25, Aqua, Sodium Silicate, Sodium Disilicate, Propylene Glycol, Subtilisin, Tetrasodium Etidronate, TAED, Parfum, Copolymer of Maleic and Acylic Acid, Amylase, Glycerin, bis(N N´ N´´-trimethyl-1 4 7-triazacyclononane)-trioxo-dimanganese (IV) di(hexafluorophosphate) monohydrate, Cellulose Gum, Citronellol, Colorant"
+    },
+    {
+     "nombre": "Plancha fácil, facilitador de planchado perfume algodón aerosol Auchan 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710545568"
+     ],
+     "inci": "Aqua, Butane, Starch Oxidised, Propane, Isobutane, Dimethicone, Glycereth-17 Cocoate, Sodium Benzoate, Sodium Nitrite, Parfum, Ammonium Hydroxide"
+    },
+    {
+     "nombre": "Limpiador muebles aerosol Auchan 300 ml 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710545810",
+      "3596710532865"
+     ],
+     "inci": "Aqua, Hydrocarbons c9-c10 n-alkanes isoalkanes cyclics <2% aromatics, Dimethicone, Sorbitan Oleate, Parfum, Paraffin, Ethylene propylene copolymer, Sodium Benzoate, 1-propanaminium 2-hydroxy-n-(2-hydroxypropyl)n n-dimethyl- esters with fatty acids c18 unsatd. me sulfates (salts) (no cas)"
+    },
+    {
+     "nombre": "Detergente polvo lavado a mano express Auchan 650 gr 650 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710545834"
+     ],
+     "inci": "Sodium Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Zeolite, Sodium Silicate, Sodium Carbonate, Aqua, C12-14 Pareth-7, Sodium Acrylic Acid/MA Copolymer, Pentasodium Aminotrimethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Tetrasodium Etidronate, Terpineol, Dimethicone, Subtilisin, Lipase, Amylase"
+    },
+    {
+     "nombre": "Limpiahogar desinfectante multiusos Auchan 1,5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174004107"
+     ],
+     "inci": "Aqua, MMB (3-Methoxy-3-methyl-1-butanol), Didecyldimethylammonium Chloride, Ethanolamine, Capryleth-9 Carboxylic Acid, Trisodium Dicarboxymethyl Alaninate, Alcohols Ethoxylated, Isopropyl Alcohol, Parfum, Hexeth-4 Carboxylic Acid, Hydrochloric Acid"
+    },
+    {
+     "nombre": "Detergente bebé y pieles sensibles Auchan 66ds 2l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174004138"
+     ],
+     "inci": "Sodium Laureth Sulfate, Ethoxylated Alcohol, Fatty Acids, Cocamidopropyl Betaine, Lauryl Glucoside, Phenoxyethanol, Sodium Chloride, Parfum, Tetrasodium Glutamate Diacetate, Opacifier (agente nacarante), Sodium Hydroxide, Styrene/Acrylates Copolymer, Dimethicone, Aqua"
+    },
+    {
+     "nombre": "Plancha facil Auchan 750ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411174004169"
+     ],
+     "inci": "Aqua, Alcohol, Benzisothiazolinone, Methylisothiazolinone, Sodium Bicarbonate, Parfum, Diquaternary Polydimethylsiloxane"
+    },
+    {
+     "nombre": "Deterlejia limon Auchan 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000551"
+     ],
+     "inci": "Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Deterlejia pino Auchan 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000582"
+     ],
+     "inci": "Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Deterlejia azul Auchan 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000643"
+     ],
+     "inci": "Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Lejia amarilla Auchan 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000650"
+     ],
+     "inci": "Sodium Hypochlorite"
+    },
+    {
+     "nombre": "Lejia lavadora Auchan 2 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000858"
+     ],
+     "inci": "Sodium Hypochlorite"
+    },
+    {
+     "nombre": "Agua fuerte salfumant Auchan 1 L, desincrustante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000995"
+     ],
+     "inci": "Hydrochloric Acid"
+    },
+    {
+     "nombre": "Fregasuelos colonia Auchan 1,5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002180"
+     ],
+     "inci": "Aqua, Alkoxylated Alcohol, Dodecylbenzene Sulfonic Acid, Parfum, Sodium Hydroxide, Limonene, Citral, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Colorant"
+    },
+    {
+     "nombre": "Fregasuelos frescor spa Auchan 1,5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002197"
+     ],
+     "inci": "Aqua, Alkoxylated Alcohol, Dodecylbenzene Sulfonic Acid, Parfum, Sodium Hydroxide, Styrene/Acrylates Copolymer, Butylphenyl Methylpropional, Linalool, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Colorant"
+    },
+    {
+     "nombre": "Fregasuelos limon Auchan 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002203"
+     ],
+     "inci": "Aqua, Alkoxylated Alcohol, Dodecylbenzene Sulfonic Acid, Parfum, Sodium Hydroxide, Limonene, Methylisothiazolinone, Benzisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Fregasuelos cítricos Auchan 1,5l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002227"
+     ],
+     "inci": "Aqua, Alkoxylated Alcohol, Parfum, Sodium Citrate, Limonene, Styrene/Acrylates Copolymer, Citronellol, Geraniol, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate"
+    },
+    {
+     "nombre": "Agua de plancha perfumada para la colada frescor floral Auchan 1 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002586"
+     ],
+     "inci": "Aqua, Parfum, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate"
+    },
+    {
+     "nombre": "Potenciador de lavado ropa color Auchan 2 L",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494003217"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Sodium Laureth Sulfate, Xanthan Gum, Parfum, Colorant"
+    },
+    {
+     "nombre": "Quitamanchas ropa blanca Auchan 2l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494003347"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Sodium Laureth Sulfate, Xanthan Gum, Parfum, Disodium Distyrylbiphenyl Disulfonate, Colorant, Glutaral"
+    },
+    {
+     "nombre": "Lejia densoactiva perfumada Auchan 2l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494600126"
+     ],
+     "inci": "Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Limpiahogar limon Auchan Económico 2l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245677725604"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Sodium Bicarbonate, C10 Pareth-8, Sodium Cocoate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Parfum, Colorant, Octylisothiazolinone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador cristales spray Auchan Económico 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678160541"
+     ],
+     "inci": "Aqua, Alcohol, Sodium Laureth Sulfate, Isopropyl Alcohol, Trisodium Dicarboxymethyl Alaninate, Citric Acid, Parfum, Colorant, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Limpiador multisuperficies con lejía spray Auchan Económico 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3245678162873"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Chloride, Sodium Hydroxide, Decylamine Oxide, Potassium Salt of Nitrilotris(methylenephosphonic Acid) N-oxide, Parfum, Decyldimethylamine, Hydrogen Peroxide"
+    },
+    {
+     "nombre": "Limpiador de WC en pastillas sólidas limon Auchan Económico 3 und",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710514502"
+     ],
+     "inci": "Sodium Sulfate, Sodium C14-16 Olefin Sulfonate, Sodium C10-13 Alkyl Benzene Sulfonate, Sodium Citrate, Parfum, Cocamide DEA, Sodium Laureth Sulfate, Colorant"
+    },
+    {
+     "nombre": "Toallitas limpia multisuperficies limon Auchan Económico 50 uds",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710532407"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Sodium Benzoate, Citric Acid, Potassium Sorbate, Cocamidopropyl Betaine, Sodium Citrate, Parfum, Limonene"
+    },
+    {
+     "nombre": "Gel desatascador Auchan Económico 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710535576"
+     ],
+     "inci": "Aqua, Sodium Hydroxide, Ammonium Hydroxide, Caprylyl/Capryl Glucoside, Colorant"
+    },
+    {
+     "nombre": "Limpiador multisuperficies spray limon Auchan Económico 750ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710550197"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Sodium Bicarbonate, C10 Pareth-8, Sodium Cocoate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate, Parfum, Colorant, Octylisothiazolinone, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Deterlejia Auchan Económico 5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000827"
+     ],
+     "inci": "Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Lejia amarilla Auchan Económico 5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494000964"
+     ],
+     "inci": "Sodium Hypochlorite"
+    },
+    {
+     "nombre": "Lejia lavadora Auchan Económico 5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494001138"
+     ],
+     "inci": "Sodium Hypochlorite"
+    },
+    {
+     "nombre": "Fregasuelos frescor pino Auchan Económico 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002234"
+     ],
+     "inci": "Aqua, Dodecylbenzene Sulfonic Acid, Alkoxylated Alcohol, Parfum, Sodium Hydroxide, Camphor, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate, Colorant"
+    },
+    {
+     "nombre": "Lavavajillas a mano diluido Auchan Económico 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002654"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Parfum, Limonene, Benzyl Alcohol, Colorant, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate"
+    },
+    {
+     "nombre": "Lavavajillas a mano diluido Auchan Económico 4 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494002661"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Parfum, Limonene, Benzyl Alcohol, Methylisothiazolinone, Benzisothiazolinone, Colorant"
+    },
+    {
+     "nombre": "Amoniaco normal Auchan Económico 1,5 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411494003200"
+     ],
+     "inci": "Ammonium Hydroxide"
+    },
+    {
+     "nombre": "Ácido cítrico limpiador Auchan Better Life (Le Traditionnel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497560"
+     ],
+     "inci": "Citric Acid"
+    },
+    {
+     "nombre": "Bicarbonato de sodio multiusos Auchan Better Life (Le Traditionnel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497577",
+      "3596710497539",
+      "3596710497522"
+     ],
+     "inci": "Sodium Bicarbonate"
+    },
+    {
+     "nombre": "Tierras de Sommières quitamanchas Auchan Better Life (Le Traditionnel)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3596710497546"
+     ],
+     "inci": "Bentonite"
     }
    ]
   },
@@ -84582,6 +85977,168 @@
       "8480017284228"
      ],
      "inci": "Aqua, Sorbitol, Hydrated Silica, Sodium Lauryl Sulfate, Cellulose Gum, Calcium Lactate, Aroma, Potassium Sorbate, Citric Acid, Sodium Fluoride, Sodium Benzoate, Sodium Saccharin, CI 42090"
+    },
+    {
+     "nombre": "Lavavajillas ultra Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017247612"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Cumenesulfonate, Parfum, Colorant, Citrus Aurantium Peel Oil, Limonene, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Gel para lavavajillas Dia Super Paco 36 lavados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017247681"
+     ],
+     "inci": "Aqua, Glycerin, Sodium Citrate, Tetrasodium Glutamate Diacetate, Hydrogenated Starch Hydrolysate, Acrylic Copolymer, Propylene Glycol, Xanthan Gum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Zinc Chloride, Parfum, Subtilisin, Benzotriazole, Camphor, Amylase, Colorant, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Pastillas antical para lavadora Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017247995"
+     ],
+     "inci": "Citric Acid, Sodium Bicarbonate, Sodium Citrate, Polyethylene Glycol, Sodium Carbonate, Aqua, Cellulose, Talc, Colorant"
+    },
+    {
+     "nombre": "Pastillas lavavajillas excellece Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017296887"
+     ],
+     "inci": "PEG/PPG-5/2 Propylheptyl Ether, Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Sulfate, Sodium Polyacrylate, Alpha-Epoxides C10-Alkyl Reaction Products with C11 Oxo Alcohol Ethoxylated, Ceteareth-25, Aqua, Propylene Glycol, Sodium Disilicate, Subtilisin, Tetrasodium Etidronate, Sodium Acrylic Acid/MA Copolymer, Amylase, Glycerin, Colorant, Parfum, Bis[(N,N',N''-Trimethyl-1,4,7-Triazacyclononane)-Trioxo-Dimanganese(IV)] Di(Hexafluorophosphate) Monohydrate"
+    },
+    {
+     "nombre": "Perfumador de ropa oriental Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305534"
+     ],
+     "inci": "Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Polyquaternium-32, Linalool, Hexyl Cinnamal, Acetylcedrene, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Linalyl Acetate, Amyl Cinnamal, Butylphenyl Methylpropional, Vanillin, Terpineol, Geraniol, Citronellol, Citrus Aurantium Peel Oil, Limonene, Alpha-Isomethyl Ionone, Dimethyl Phenethyl Acetate, Benzisothiazolinone, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Detergente en cápsulas bouquet floral Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305558"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-Cocoate, Polyethylene Glycol Propylene Glycol Oligoester, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Subtilisin, Disodium Distyrylbiphenyl Disulfonate, Amyl Salicylate, Styrene/Acrylates Copolymer, Potassium Sulfite, Tetramethyl Acetyloctahydronaphthalenes, Colorant"
+    },
+    {
+     "nombre": "Detergente en cápsulas ultra poder Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305572"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-Cocoate, Polypropylene Terephthalate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Potassium Sulfite, Styrene/Acrylates Copolymer, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Colorant, Citronellol, Amylase, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Suavizante floral Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305602"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Polyquaternium-32, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Butylphenyl Methylpropional, Citrus Aurantium Peel Oil, Citronellol, Limonene, Alpha-Isomethyl Ionone, Allyl (2-Methylbutoxy)Acetate and Allyl (3-Methylbutoxy)Acetate (reaction mass), Colorant, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Suavizante hipoalergénico Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017313379"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Parfum, Isopropyl Alcohol, Polyquaternium-32, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Perfumador de ropa azul Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017313119"
+     ],
+     "inci": "Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Hexamethylindanopyran, Polyquaternium-32, Tetramethyl Acetyloctahydronaphthalenes, Butylphenyl Methylpropional, Benzyl Salicylate, Amyl Salicylate, Linalool, Hexyl Cinnamal, Citronellol, Eugenol, Pogostemon Cablin Oil, Eucalyptus Globulus Leaf Oil, Coumarin, Alpha-Isomethyl Ionone, Rose Ketones, Benzisothiazolinone, Terpineol"
+    },
+    {
+     "nombre": "Suavizante azul Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305619"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Polyquaternium-32, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Amyl Salicylate, Butylphenyl Methylpropional, Linalool, Hexyl Cinnamal, 2-Bromo-2-Nitropropane-1,3-Diol, Colorant"
+    },
+    {
+     "nombre": "Suavizante talco Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017305633"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Polyquaternium-32, Citronellol, Hexyl Cinnamal, Hexamethylindanopyran, Coumarin, Alpha-Isomethyl Ionone, 4-Isopropylcyclohexylmethanol, Linalyl Acetate, 3-Methyl-4-(2,6,6-Trimethylcyclohex-2-en-1-yl)But-3-en-2-one and 1-(2,6,6-Trimethylcyclohex-2-en-1-yl)Pent-1-en-3-one (reaction mass), Amyl Salicylate, Dipropylene Glycol, Linalool, Cinnamyl Alcohol, Geraniol, Colorant, 2-Bromo-2-Nitropropane-1,3-Diol"
+    },
+    {
+     "nombre": "Suavizante aqua Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017313348"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Polyquaternium-32, Hexyl Cinnamal, Citrus Aurantium Peel Oil, Limonene, Citral, Hexamethylindanopyran, Linalyl Acetate, Pinene, Eucalyptus Globulus Leaf Oil, Linalool, 2-Bromo-2-Nitropropane-1,3-Diol, Colorant"
+    },
+    {
+     "nombre": "Suavizante tiaré Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017313362"
+     ],
+     "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Polyquaternium-32, Hexyl Cinnamal, Benzyl Benzoate, Butylphenyl Methylpropional, Amyl Cinnamal, Alpha-Isomethyl Ionone, Amyl Salicylate, Isoamyl Salicylate, Colorant, 2-Bromo-2-Nitropropane-1,3-Diol, Methyl Salicylate"
+    },
+    {
+     "nombre": "Lavavajillas aloe y pepino Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017314673"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Cumenesulfonate, Parfum, Styrene/Acrylates Copolymer, Sodium Benzotriazolyl Butylphenol Sulfonate, Buteth-3, Tributyl Citrate, Colorant, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas ultra poder Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017314697"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycereth-7 Caprylate/Caprate, Parfum, Potassium Sorbate, Citric Acid, Amylase, Sodium Benzotriazolyl Butylphenol Sulfonate, Buteth-3, Tributyl Citrate, Colorant"
+    },
+    {
+     "nombre": "Vinagre de limpieza multiusos Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017307668"
+     ],
+     "inci": "Aqua, Acetic Acid"
+    },
+    {
+     "nombre": "Sal para lavavajillas Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017296894"
+     ],
+     "inci": "Sodium Chloride"
     }
    ]
   },

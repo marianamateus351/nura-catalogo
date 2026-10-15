@@ -51,7 +51,9 @@ def peligroso(b):
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
 # Limpios para el detector pero con dudas que decide Mariana: fuera de Alternativas hasta entonces. (El Serum capilar
 # Nature de Tahe estuvo aquí hasta la decisión X, 2026-10-12: ahora lo marca el detector, ficha 215.)
-PENDIENTE_DECISION = set()
+PENDIENTE_DECISION = {
+    '8480017247995',  # Dia pastillas antical lavadora: "Polyethylene Glycol" sin número no lo marca ninguna regla (pregunta a Mariana, 2026-10-15)
+}
 # Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
 HASTA_BUILD = {
