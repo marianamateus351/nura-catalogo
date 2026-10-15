@@ -4474,6 +4474,39 @@ dosis "44D"/"40W" del portal son lavados. Scripts: `asv/pw.js`, `asv/ck.sh`, `pd
 `asv/parse_all.py` (→ `asv/parsed.json`), `asv/gen_asevi.py` (→ `asv/asevi_final.json`),
 `asv/pdf/` (187 PDF).
 
+- **Ampliación 2026-10-15 (versión 2026-10-15-asevi): 25 productos nuevos y un código más.** Mariana
+  avisó de que Asevi está en Amazon Fresh con EAN e ingredientes. Amazon no es fuente (ni se abre), pero
+  al mirar el portal oficial resultó que Asevi **publicó ese mismo día 30 fichas nuevas** (217 en total,
+  antes 203). La API de WordPress se lee ahora con `curl` normal en `www.asevicompany.com` (sin reto
+  JavaScript). Los PDF son del mismo formato y se leen con `pdftotext -layout`; mismas convenciones de
+  nombres INCI, descriptivos rumanos pasados al castellano de las fichas españolas y comas internas quitadas.
+  - **Entran 19 de Asevi**: Ambientador Colonia, Ambientador Mascotas, Higienizante Hogar y Textil
+    Antialérgenos, Detergente Colonia, Detergente Ropa Delicada (código EAN-8 `13261344`, lista distinta
+    de la de 33 lavados), Suavizante Colonia, Suavizantes Sensations Infinity, Zen, Pasión & Tiaré,
+    Dreams y Energy (códigos nuevos con lista distinta de las fichas Sensations que ya había; ficha
+    aparte), **Vinagre de Limpieza con Detergente Limón (`8411582241231`) y Manzana (`8411582242337`)**,
+    y seis envases de Rumanía (Ambientador WC 24h Cherry, Desinfectante Multisuperficies Gerpostar Plus,
+    Limpiador Antical, Multiusos con Vinagre Fresh Lemon, Lavavajillas a Mano Ultra Concentrado Fresh
+    Apple, Fregasuelos Mascotas). Sin tamaño en el nombre: el portal no lo da.
+  - **Entran 6 de Consum** (fabrica Asevi): Quitamanchas (`8414807561480`, lista distinta del de 720 ml),
+    Suavizante Concentrado Talco, Colonia y Floral, Suavizante Hipoalergénico (código nuevo, lista
+    distinta) y Perfumador Ropa Fresh.
+  - **Código añadido**: `8411582261338` (Quitagrasas Gerpostar Plus español, cuyo PDF daba 404 en
+    septiembre) tiene la lista idéntica a la del envase en inglés `8411582875061`: misma ficha, que pasa a
+    llamarse "Quitagrasas Desinfectante Gerpostar Plus (pistola) 750 ml".
+  - **Fuera**: champú y acondicionador "IQ Professional Quality" (`8411582202003`, `8411582202010`), que
+    son la línea iQ Pet Care, para perros y gatos (como los productos para perros de otras marcas);
+    `28411582880281` "Asevi Carpet", que es el GTIN-14 de caja del `8411582880287` que ya está, con la
+    misma lista; y `8411582881550` "Pardoseli Cian", cuyo PDF sigue diciendo "PARDOSELI ASEVI MIO".
+  - **El vinagre pedido por la usuaria (`8411582242320`) sigue fuera**: el portal publica un vinagre
+    limón con otro código (`8411582241231`) y nada une los dos códigos (el de manzana es `8411582242337`,
+    vecino del pedido, así que puede ser otro formato). No se pega el código por parecido.
+  - **Revisión**: 0 cambios de aviso en las 10.991 fichas que ya había; las 25 nuevas, en Hogar, y
+    ninguna limpia (todas llevan parfum). En "Sensations Dreams" vienen Xylene Diisocyanate y DABCO
+    (encapsulado del perfume): no son disruptores y no hay regla; se dejan sin aviso. Glutaraldehído
+    (Detergente Ropa Delicada), acrilato de etilo y resorcinol (Consum) saltan como en el resto de Asevi.
+    Scripts: `asevi2tools/parse.py`, `norm.py`, `build.py` en el scratchpad.
+
 ### Rexona (rexona.com/es) — cerrada 2026-09-14: 14 productos, 14 códigos (de 25 con EAN en la web)
 Unilever, misma plataforma que Dove y misma vía (`dvcurl.sh`, listado paginado
 `/es/productos.html?page=productlist-31138391e9~N`, ficha `/es/p/<slug>.html/<GTIN-14>`,

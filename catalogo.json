@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-hogard",
+ "version": "2026-10-15-asevi",
  "marcas": [
   {
    "key": "larocheposay",
@@ -27067,10 +27067,11 @@
      "inci": "Aqua, Butoxydiglycol, Ethanolamine, Trisodium Dicarboxymethyl Alaninate, C9-11 Alketh-2 (Formerly C9-11 Pareth-2), Trideceth-8, Capryleth-9 Carboxylic Acid, Sodium EDTMP, Limonene, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Glycolate, Parfum, Sodium Chloride, Sodium Hydroxide, Citronellol, Citral, Geraniol, Fosfonato de disodio, Sodium Phosphate, Colorante"
     },
     {
-     "nombre": "Quitagrasas Desinfectante Gerpostar Plus (pistola) 750 ml (envase en inglés)",
+     "nombre": "Quitagrasas Desinfectante Gerpostar Plus (pistola) 750 ml",
      "include": [],
      "exclude": [],
      "barcodes": [
+      "8411582261338",
       "8411582875061"
      ],
      "inci": "Aqua, Tetrapotassium Pyrophosphate, Triethanolamine, Methoxyisopropanol, Alcohol graso etoxilado (5-6 EO), Capryleth-9 Carboxylic Acid, Didecyldimonium Chloride, Diethanolamine, Isopropyl Alcohol, Acido fosfonico sales, Limonene, Parfum, 2-Metoxipropanol, Decyl Alcohol"
@@ -27383,6 +27384,177 @@
       "8411582875030"
      ],
      "inci": "Aqua, Dihydrogenated Tallow Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Didecyldimonium Chloride, Parfum, Acido L-(+)-lactico, Proteina de trigo hidrolizada/silicona copolimero cuaternario, Alcohol, Citronellol, Butylphenyl Methylpropional, Geraniol, Linalool, Alcohol, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Phenoxyethanol, Colorante"
+    },
+    {
+     "nombre": "Detergente Ropa Delicada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "13261344"
+     ],
+     "inci": "Aqua, Sodium Oleate, Sodium Dodecylbenzenesulfonate, C10-16 Alketh-1 (Formerly C10-16 Pareth-1), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Triethanolamine, Sodium Chloride, Parfum, Sodium EDTMP, Citric Acid, Diethanolamine, Hydrolyzed Wheat Protein, Sodium Diethylenetriamine Pentamethylene Phosphonate, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes, Benzisothiazolinone, Sodium Hydroxide, Fosfonato de disodio, Colorante, Methyl Alcohol, Phenoxyethanol, Methylchloroisothiazolinone/Methylisothiazolinone, Sodium Phosphate, Glutaral"
+    },
+    {
+     "nombre": "Ambientador WC 24h Cherry (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582200092"
+     ],
+     "inci": "Isopropyl Alcohol, Aqua, Parfum, Limonene, Rose Ketones, Dimethyl Phenethyl Acetate, Linalool, Hydroxycitronellal, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Ambientador Colonia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582207251"
+     ],
+     "inci": "Aqua, Alcohol, PEG-40 Hydrogenated Castor Oil, C10-16 Alketh-1 (Formerly C10-16 Pareth-1), Parfum, Isopropyl Alcohol, Citral, Linalool, Propylene Glycol, Linalyl Acetate, Limonene, Citric Acid, Citrus Limon Peel Oil, Menthol, Geranyl Acetate, Isoeugenyl Acetate, Camphor, Geraniol, Colorante"
+    },
+    {
+     "nombre": "Higienizante Hogar y Textil Antialérgenos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582207268"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Acido L-(+)-lactico, PEG-40 Hydrogenated Castor Oil, Caprylyl/Capryl Glucoside, Parfum, Etidronic Acid, Lauramine Oxide, Propylene Glycol, Tetramethyl acetyloctahydronaphthalenes, Acido fosfónico, Colorante"
+    },
+    {
+     "nombre": "Ambientador Mascotas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582207275"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, PEG-40 Hydrogenated Castor Oil, C12-15 Alketh-10 (Formerly C12-15 Pareth-10), Parfum, Hexyl Cinnamal, Propylene Glycol, Citric Acid, Citronellol, Tetramethyl acetyloctahydronaphthalenes, Benzyl Salicylate, Coumarin, Amyl Salicylate, Dimethyl Phenethyl Acetate, Linalool, Linalyl Acetate, Colorante, TBHQ"
+    },
+    {
+     "nombre": "Suavizante Colonia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230587"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Citral, Butylphenyl Methylpropional, Linalool, Trideceth-10, Linalyl Acetate, Limonene, Dipropylene Glycol, Pinene, Citrus Limon Peel Oil, Trideceth-5, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Eucaliptus Globulus Oil, Lavandula Oil/ Extract, Geraniol, Masa de reacción de 3-metil-4-(2 6 6-trimetilciclohex-2-en-1-il)but-3-en-2-ona y 1-(2 6 6-trimetilciclohex-2-en-1-il)pent-1-en-3-ona"
+    },
+    {
+     "nombre": "Suavizante Sensations Infinity",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230679"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Tetramethyl acetyloctahydronaphthalenes, Hexamethylindanopyran, Trideceth-10, Benzyl Salicylate, Trideceth-5, Linalool, Citronellol, Rose Ketones, Terpineol, Geraniol, Dimethyl Phenethyl Acetate, Coumarin, Pogostemon Cablin Oil, Eugenol"
+    },
+    {
+     "nombre": "Suavizante Sensations Zen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230792"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Dipropylene Glycol, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Parfum, Tetramethyl acetyloctahydronaphthalenes, Hexyl Cinnamal, Trideceth-10, Geraniol, Hexamethylindanopyran, Alpha-Isomethyl Ionone, Trideceth-5, Linalool, Coumarin, Benzyl Salicylate, Limonene, Citrus Aurantium Peel Oil, Masa de reacción del Ciclohexanepropanol 2 2 6-trimetil-a-propil- (alfa.R 1R 6S)- y del Ciclohexanepropanol 2 2 6-trimetil-a-propil- [1a(S*) 6b]- (9CI), Colorante"
+    },
+    {
+     "nombre": "Suavizante Sensations Pasión & Tiaré",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230815"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Linalool, Tetramethyl acetyloctahydronaphthalenes, Hexyl Cinnamal, Trideceth-10, Amyl Cinnamal, Trideceth-5, Colorante, Alquenos C12-14 productos de hidroformilacion destilados ligeros"
+    },
+    {
+     "nombre": "Suavizante Sensations Dreams",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230822"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Parfum, Tetramethyl acetyloctahydronaphthalenes, Hexyl Cinnamal, Trideceth-10, Citronellol, Hexamethylindanopyran, Trideceth-5, Caprylic/Capric Glycerides, Alpha-Isomethyl Ionone, PEG-40 Hydrogenated Castor Oil, Phosphoric Acid, Colorante, Propylene Glycol, 1 4-diazabiciclooctano, Xylene Diisocyanate"
+    },
+    {
+     "nombre": "Suavizante Sensations Energy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582230853"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Tetramethyl acetyloctahydronaphthalenes, Hexyl Cinnamal, Trideceth-10, Trideceth-5, Linalool, Citronellol, Citrus Aurantium Peel Oil, Limonene, Hexamethylindanopyran, Coumarin, Colorante"
+    },
+    {
+     "nombre": "Detergente Colonia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582236664"
+     ],
+     "inci": "Aqua, Potassium Oleate, TEA-Dodecylbenzenesulfonate, C10-16 Alketh-2, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Poliester modificado, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Potassium Citrate, Copolimero acrilico-estireno, Sodium EDTMP, Diethanolamine, Parfum, Potassium Hydroxide, Sodium Chloride, Butoxyethanol, Dipropylene Glycol, Sodium Diethylenetriamine Pentamethylene Phosphonate, Propylene Glycol, Glycerin, Polietilenglicoles PM 400, Citral, Butylphenyl Methylpropional, Citrus Limon Peel Oil, Disodium Distyrylbiphenyl Disulfonate, Urea, Benzisothiazolinone, Hexamethylindanopyran, Limonene, 4 4´-bis[6-anilino-4-[bis(2-hidroxietil)amino]-1 3 5-triazin-2-il]amino]stilbene-2 2´-disulfonato de sodio y potasio, Sodium Formate, Sodium Hydroxide, Fosfonato de disodio"
+    },
+    {
+     "nombre": "Vinagre de Limpieza con Detergente Limón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582241231"
+     ],
+     "inci": "Aqua, Acetic Acid, Isopropyl Alcohol, Caprylyl/Capryl Glucoside, Alcohol graso etoxilado 8 mol EO, Parfum, Limonene, Citrus Aurantium Peel Oil, Terpinolene, Citronellol, Colorante"
+    },
+    {
+     "nombre": "Vinagre de Limpieza con Detergente Manzana",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582242337"
+     ],
+     "inci": "Aqua, Acetic Acid, Isopropyl Alcohol, Caprylyl/Capryl Glucoside, Alcohol graso etoxilado 8 mol EO, Ethoxydiglycol, Parfum, Dipropylene Glycol, Colorante"
+    },
+    {
+     "nombre": "Desinfectante Multisuperficies Gerpostar Plus (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582880263"
+     ],
+     "inci": "Aqua, Methoxymethylbutanol, Trisodium Dicarboxymethyl Alaninate, Benzalkonium Chloride, Parfum, Sodium Bicarbonate, Hydrochloric Acid, Sodium Glycolate, Amyl Salicylate, Sodium Hydroxide, Dimethylbenzyl Carbinyl Acetate, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Limpiador Antical (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582880270"
+     ],
+     "inci": "Aqua, Citric Acid, Formic Acid, C9-11 Pareth-3, Capryleth-9 Carboxylic Acid, Alcoholes C12-18 etoxilados, Tetrasodium Etidronate, Sodium Polyacrylate, Parfum, Xanthan Gum, Hexyl Cinnamal, Copolímero, Tetramethyl Acetyloctahydronaphthalenes, Citronellol, Coumarin, Benzyl Salicylate, Phenoxyethanol, Colorante"
+    },
+    {
+     "nombre": "Multiusos con Vinagre Fresh Lemon (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582881444"
+     ],
+     "inci": "Aqua, Acetic Acid, Isopropyl Alcohol, Caprylyl/Capryl Glucoside, Alcohol graso etoxilado 8 mol EO, Limonene, Parfum, Citronellol, Citral, Colorante"
+    },
+    {
+     "nombre": "Lavavajillas a Mano Ultra Concentrado Fresh Apple (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582882281"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Dodecylbenzenesulfonate, PEG-7 Glyceryl Cocoate, Propylene Glycol, Lauramine Oxide, Lauryl Glucoside, Caprylyl/Capryl Glucoside, Sodium Xylene Sulfonate, Cocamidopropyl Betaine, Tetrasodium Glutamate Diacetate, Ethoxydiglycol, Triethanolamine, Parfum, Sodium Hydroxide, Dipropylene Glycol, Benzisothiazolinone, TEA-Dodecylbenzenesulfonate, Diethanolamine, Colorante, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Fregasuelos Mascotas (envase de Rumanía)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8411582888764"
+     ],
+     "inci": "Aqua, C9-11 Pareth-3, Parfum, PEG-40 Hydrogenated Castor Oil, Hexamethylindanopyran, Copolimero acrilico-estireno, Hexyl Cinnamal, Tetramethyl acetyloctahydronaphthalenes, 2-acetil-4-metiltridec-2-enoato de etilo, Citronellol, Amyl Salicylate, Linalool, Propylene Glycol, Coumarin, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Dimethyl Phenethyl Acetate, Linalyl Acetate, Dipropylene Glycol, Benzisothiazolinone, Polisiloxano, Methylchloroisothiazolinone/Methylisothiazolinone, TBHQ"
     }
    ]
   },
@@ -29756,6 +29928,60 @@
       "8414807551627"
      ],
      "inci": "Aqua, Aloe Barbadensis Leaf Juice, Caprylyl/ Capryl Glucoside, Cocamidopropyl Betaine, Glyceryl Stearate, PEG-100 Stearate, Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Parfum, Tetrasodium EDTA, Benzyl Alcohol, Benzoic Acid, Sorbic Acid, Potassium Sorbate, Sodium Benzoate, Citral, Limonene, Hydroxycitronellal, Linalool, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Quitamanchas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807561480"
+     ],
+     "inci": "Aqua, Trideceth-8, TEA-Dodecylbenzenesulfonate, Propylene Glycol, Potassium Dodecylbenzenesulfonate, Sodium Laureth Sulfate, Poliester modificado, Alcohol C12-C18 etoxilado (7EO), Glycerin, Potassium Citrate, Sodium EDTMP, Potassium Hydroxide, Diethanolamine, Butoxyethanol, Parfum, Sodium Formate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Chloride, Subtilisin, Benzisothiazolinone, Alaninamida sustituida, Phenoxyethanol, Fosfonato de disodio, Methylchloroisothiazolinone/Methylisothiazolinone, Benzisothiazolinone, Sodium Phosphate, Methylchloroisothiazolinone/Methylisothiazolinone"
+    },
+    {
+     "nombre": "Suavizante Concentrado Talco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562555"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes, Benzyl Salicylate, Trideceth-10, Alpha-Isomethyl Ionone, Trideceth-5, Geraniol, Linalool, Citronellol, Polisiloxano, Methyl Alcohol, Colorante, Resorcinol"
+    },
+    {
+     "nombre": "Suavizante Concentrado Colonia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562630"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Acido L-(+)-lactico, Parfum, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Citral, Butylphenyl Methylpropional, Linalool, Trideceth-10, Linalyl Acetate, Limonene, Pinene, Citrus Limon Peel Oil, Trideceth-5, Citrus Aurantium Peel Oil, Geraniol, Hexamethylindanopyran, Eucaliptus Globulus Oil, Lavandula Oil/ Extract, Polisiloxano, Masa de reacción de 3-metil-4-(2 6 6-trimetilciclohex-2-en-1-il)but-3-en-2-ona y 1-(2 6 6-trimetilciclohex-2-en-1-il)pent-1-en-3-ona, Dipropylene Glycol, Phosphoric Acid, Colorante, Hydroxypropyl Guar, 1 4-diazabiciclooctano"
+    },
+    {
+     "nombre": "Suavizante Concentrado Floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562647"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Dipropylene Glycol, Tetramethyl acetyloctahydronaphthalenes, Amyl Salicylate, Trideceth-10, Coumarin, Trideceth-5, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Linalool, Polisiloxano, Masa de reacción de 3-metil-4-(2 6 6-trimetilciclohex-2-en-1-il)but-3-en-2-ona y 1-(2 6 6-trimetilciclohex-2-en-1-il)pent-1-en-3-ona, Phosphoric Acid, Colorante, Hydroxypropyl Guar, 1 4-diazabiciclooctano, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Suavizante Hipoalergénico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807562661"
+     ],
+     "inci": "Aqua, Ditallowethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Parfum, Acido L-(+)-lactico, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Hexamethylindanopyran, Trideceth-10, Tetramethyl acetyloctahydronaphthalenes, Trideceth-5, Polisiloxano"
+    },
+    {
+     "nombre": "Perfumador Ropa Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8414807563385"
+     ],
+     "inci": "Aqua, PEG-7 Glyceryl Cocoate, Parfum, Acrylates Copolymer, PEG-40 Hydrogenated Castor Oil, Hexyl Cinnamal, Poli[3-((2-aminoetil)amino)propil]metil(dimetil)siloxano metoxi terminado, Linalool, Tetramethyl acetyloctahydronaphthalenes, Hexamethylindanopyran, Potassium Hydroxide, Trideceth-10, Limonene, Terpineol, Trideceth-5, Linalyl Acetate, Propylene Glycol, Citronellol, Citrus Limon Peel Oil, Benzisothiazolinone, Sodium Laureth Sulfate, Methyl Alcohol, Pinene, Rose Ketones, Citrus Aurantium Peel Oil, Coumarin, Phenoxyethanol, PPG-2 Methyl Ether, Methylchloroisothiazolinone/Methylisothiazolinone, Resorcinol, Ethyl Acrylate"
     }
    ]
   },
