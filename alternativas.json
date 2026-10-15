@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15h",
+ "version": "2026-10-15i",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -11923,14 +11923,16 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/366/226/322/0051/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "tratamiento",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0B1FCG7HY"
       },
       {
        "nombre": "Active™ Blur",
        "marca": "Manucurist",
        "barcode": "3662263224028",
        "subtipo": "tratamiento",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0GDCV2P5M"
       },
       {
        "nombre": "Active™ Glow Blueberry",
@@ -11939,7 +11941,8 @@
        "linea": "Active™ Glow",
        "subtipo": "tratamiento",
        "tono": "Blueberry",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DJTGV2BV"
       },
       {
        "nombre": "Active™ Glow Cranberry",
@@ -11948,7 +11951,8 @@
        "linea": "Active™ Glow",
        "subtipo": "tratamiento",
        "tono": "Cranberry",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F22J7JNH"
       },
       {
        "nombre": "Active™ Glow Grape",
@@ -11957,7 +11961,8 @@
        "linea": "Active™ Glow",
        "subtipo": "tratamiento",
        "tono": "Grape",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F22K1JJQ"
       },
       {
        "nombre": "Active™ Glow Raspberry",
@@ -11966,7 +11971,8 @@
        "linea": "Active™ Glow",
        "subtipo": "tratamiento",
        "tono": "Raspberry",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CDQ2FXNV"
       },
       {
        "nombre": "Active™ Plump Aqua Glazed",
@@ -12005,7 +12011,8 @@
        "marca": "Manucurist",
        "barcode": "3662263330644",
        "subtipo": "base-top",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0H36L8Y7L"
       },
       {
        "nombre": "Base Fortificante",
@@ -12080,7 +12087,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Beige",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07FNMFLS9"
       },
       {
        "nombre": "Esmalte Green™ Bird of Paradise",
@@ -12125,7 +12133,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Bois de Rose",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGM7TVNL"
       },
       {
        "nombre": "Esmalte Green™ Bougainvillea",
@@ -12161,7 +12170,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Bubble",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DZ6ZJNK3"
       },
       {
        "nombre": "Esmalte Green™ Candy",
@@ -12251,7 +12261,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Dark Pansy",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07FNMMJ27"
       },
       {
        "nombre": "Esmalte Green™ Diamant",
@@ -12365,7 +12376,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Hollyhock",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGM65BYW"
       },
       {
        "nombre": "Esmalte Green™ Iris",
@@ -12490,7 +12502,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Milky White",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGM89JHJ"
       },
       {
        "nombre": "Esmalte Green™ Mimosa",
@@ -12535,7 +12548,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Neon Pink",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F9FYQLWL"
       },
       {
        "nombre": "Esmalte Green™ Orme",
@@ -12778,7 +12792,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Shell Beige",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGM72MSL"
       },
       {
        "nombre": "Esmalte Green™ Shimmer",
@@ -12878,7 +12893,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Ultramarine",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0C5RMFVGH"
       },
       {
        "nombre": "Esmalte Green™ Utopia",
@@ -12896,7 +12912,8 @@
        "linea": "Esmalte Green™",
        "subtipo": "color",
        "tono": "Victoria Plum",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGM6GWXT"
       },
       {
        "nombre": "Esmalte Green™ Violeta",
@@ -12942,7 +12959,8 @@
        "marca": "Manucurist",
        "barcode": "3662263500030",
        "subtipo": "base-top",
-       "fechaLista": "30-09-2026"
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B08V1YPTB5"
       },
       {
        "nombre": "Top Coat Mate",
