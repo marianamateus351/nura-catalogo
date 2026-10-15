@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-hogarc",
+ "version": "2026-10-15-hogard",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14254,15 +14254,6 @@
    "categoria": "Hogar",
    "barcodes": [
     "8480024293473"
-   ]
-  },
-  {
-   "marcaKey": "dia",
-   "marca": "Dia",
-   "nombre": "Pastillas antical para lavadora Dia Super Paco",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8480017247995"
    ]
   },
   {
