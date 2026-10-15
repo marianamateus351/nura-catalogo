@@ -5728,6 +5728,19 @@ pone (el código ya identifica el envase).
   Friegasuelos Eucalipto, Etamine du Lys cera de abeja y los dos de Sonett no salen en Amazon.es
   (anotados en `amazon_sin_ficha.json`).
 
+### Amazon · Manucurist (2026-10-15, alternativas 2026-10-15i)
+Los 118 Manucurist de Alternativas buscados en Amazon.es con el buscador (sin abrir Amazon). **18 con
+ficha individual** del tono exacto: Aceite Verde, Active™ Blur, Active™ Glow Blueberry, Cranberry, Grape y
+Raspberry, Base Coat Vitaminada Green™, Top Coat Green Flash™ y los Esmalte Green™ Beige, Bois de Rose,
+Bubble, Dark Pansy, Hollyhock, Milky White, Neon Pink, Shell Beige, Ultramarine y Victoria Plum. **4
+dudosos**: Active™ Shine (hay varios tonos y la ficha es el Nude), Diluyente Green Flash™ (título sin
+producto, el slug dice quitaesmalte), Lisa Lilas (título "Smooth Lilac") y Old Rose (código antiguo). La
+ficha de "Neon Pink" no se da al Green Bloom. Se descartan las fichas Green Flash (semipermanente) para los
+esmaltes Green. **52 sin ficha** (anotados) y **44 para repetir**: el cupo de búsquedas del turno se acabó
+antes de la segunda búsqueda, o el tono sale nombrado en los resultados pero sin URL propia (Dune, Fairy,
+Pop, Tangerine, Tweed, Red Velvet, Rose Mountbatten, Active™ Plump Aqua/Pink Glazed…); lista en el
+scratchpad (`amz4/reintentar.json`).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
