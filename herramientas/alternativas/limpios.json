@@ -1,5 +1,5 @@
 {
- "version": "2026-10-16-batiste",
+ "version": "2026-10-16-origen",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -372,15 +372,6 @@
   {
    "marcaKey": "avene",
    "marca": "Avène",
-   "nombre": "Aqua Gel-Crema Regeneradora Celular",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770400731"
-   ]
-  },
-  {
-   "marcaKey": "avene",
-   "marca": "Avène",
    "nombre": "Base de maquillaje en crema compacta 1.1 Naturel",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -520,15 +511,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770138801"
-   ]
-  },
-  {
-   "marcaKey": "avene",
-   "marca": "Avène",
-   "nombre": "Crema Regeneradora Celular",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770400700"
    ]
   },
   {
@@ -705,15 +687,6 @@
   {
    "marcaKey": "avene",
    "marca": "Avène",
-   "nombre": "Leche Hidratante",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770155181"
-   ]
-  },
-  {
-   "marcaKey": "avene",
-   "marca": "Avène",
    "nombre": "Loción limpiadora gelificada",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -745,15 +718,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770207224"
-   ]
-  },
-  {
-   "marcaKey": "avene",
-   "marca": "Avène",
-   "nombre": "NUTRITION Gel limpiador",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770155105"
    ]
   },
   {
@@ -3160,15 +3124,6 @@
   {
    "marcaKey": "ducray",
    "marca": "Ducray",
-   "nombre": "Anaphase+ Champú anticaída y crecimiento",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770398168"
-   ]
-  },
-  {
-   "marcaKey": "ducray",
-   "marca": "Ducray",
    "nombre": "Bálsamo emoliente antirrascado",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -3250,15 +3205,6 @@
   {
    "marcaKey": "ducray",
    "marca": "Ducray",
-   "nombre": "Keracnyl Sérum regulador antiimperfecciones",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770399264"
-   ]
-  },
-  {
-   "marcaKey": "ducray",
-   "marca": "Ducray",
    "nombre": "Melascreen Concentrado antimanchas",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -3286,64 +3232,10 @@
   {
    "marcaKey": "ducray",
    "marca": "Ducray",
-   "nombre": "Melascreen Sérum luminosidad antimanchas",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770389593"
-   ]
-  },
-  {
-   "marcaKey": "ducray",
-   "marca": "Ducray",
    "nombre": "Neoptide Expert Loción anticaída y anclaje del cabello",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770153255"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770397598"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "ANTICAÍDA Tratamiento Fortificante Intensivo",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770397635"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Aceite al Mango - Nutrición - Cabello seco",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770141030"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Aceite corporal nutritivo - Flor de cupuaçu",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770203066"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Aceite corporal seco - Flor de hibisco",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770203110"
    ]
   },
   {
@@ -3358,24 +3250,6 @@
   {
    "marcaKey": "klorane",
    "marca": "Klorane",
-   "nombre": "Acondicionador a la Centaurea BIO",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770145120"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Acondicionador al Mango",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770140972"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
    "nombre": "Agua Micelar 3-en-1",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -3385,100 +3259,10 @@
   {
    "marcaKey": "klorane",
    "marca": "Klorane",
-   "nombre": "Agua perfumada Petit Brin",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770112313"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "CRECIMIENTO Acondicionador acelerador del crecimiento",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282771000503"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282771000428"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Champú seco con avena y Ceramidaᴸᴵᴷᴱ - Con color",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770390766"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Champú seco con avena y Ceramideᴸᴵᴷᴱ",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770390759"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Cica-Sérum al Cupuaçu BIO",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770150643"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Crema de ducha - Flor de Frangipani",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770143799"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Crema hidratante a la Caléndula BIO",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770391107"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
    "nombre": "Crema para el cambio de pañal a la Caléndula BIO",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770391176"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Crema sin aclarado al Mango",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770141023"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Crema sublimadora aftersun",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770206715"
    ]
   },
   {
@@ -3502,91 +3286,10 @@
   {
    "marcaKey": "klorane",
    "marca": "Klorane",
-   "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770395853"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Jabón en crema - Flor de cupuaçu",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770113532"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Jabón en crema - Flor de hibisco",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770206944"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Jabón sólido limpiador a la Caléndula BIO",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770389708"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Loción corporal - Flor de cupuaçu",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770113198"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Mascarilla nutritiva al Mango",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770140996"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Máscarilla 3 en 1 al Cupuazu ORGANICO bio",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770144819"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "NUTRICIÓN Mascarilla nutritiva e iluminadora",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282771001197"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
    "nombre": "Parches de ojos alisadores hidro-gel al Aciano BIO & Ácido hialurónico",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770396850"
-   ]
-  },
-  {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770399394"
    ]
   },
   {
@@ -3599,57 +3302,12 @@
    ]
   },
   {
-   "marcaKey": "klorane",
-   "marca": "Klorane",
-   "nombre": "Sérum concentrado hidrorrellenador",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770395686"
-   ]
-  },
-  {
    "marcaKey": "aderma",
    "marca": "A-Derma",
    "nombre": "Agua micelar dermatológica",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770146578"
-   ]
-  },
-  {
-   "marcaKey": "aderma",
-   "marca": "A-Derma",
-   "nombre": "Biology AC Crema compensadora ultracalmante",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770388855"
-   ]
-  },
-  {
-   "marcaKey": "aderma",
-   "marca": "A-Derma",
-   "nombre": "Biology AC Cuidado matificante antiimperfecciones",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770388916"
-   ]
-  },
-  {
-   "marcaKey": "aderma",
-   "marca": "A-Derma",
-   "nombre": "Biology AC Fluido antiimperfecciones antimarcas",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770388886"
-   ]
-  },
-  {
-   "marcaKey": "aderma",
-   "marca": "A-Derma",
-   "nombre": "Biology AC Gel espumoso limpiador purificante",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770153002"
    ]
   },
   {
@@ -3695,15 +3353,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770146646"
-   ]
-  },
-  {
-   "marcaKey": "aderma",
-   "marca": "A-Derma",
-   "nombre": "Crema hidratante para manos y uñas",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282770154276"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-16d",
+ "version": "2026-10-16e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -137,19 +137,11 @@
        "amazon": "https://www.amazon.es/dp/B09J8XHY24"
       },
       {
-       "nombre": "Biology AC Gel espumoso limpiador purificante",
-       "marca": "A-Derma",
-       "barcode": "3282770153002",
-       "subtipo": "gel-espuma",
-       "fechaLista": "24-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BWMG2LMR"
-      },
-      {
        "nombre": "Biology Espuma limpiadora dermatológica hidraprotectora",
        "marca": "A-Derma",
        "barcode": "3282770154085",
        "subtipo": "gel-espuma",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BZGJTCXF"
       },
       {
@@ -251,14 +243,6 @@
        "barcode": "3282770142280",
        "subtipo": "leche-balsamo",
        "fechaLista": "09-09-2026"
-      },
-      {
-       "nombre": "NUTRITION Gel limpiador",
-       "marca": "Avène",
-       "barcode": "3282770155105",
-       "subtipo": "gel-espuma",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CSD5TSL5"
       },
       {
        "nombre": "XeraCalm A.D Aceite Limpiador Relipidizante",
@@ -555,7 +539,7 @@
        "marca": "Klorane",
        "barcode": "3282770390292",
        "subtipo": "agua-micelar",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CXF273JB"
       },
       {
@@ -570,14 +554,7 @@
        "marca": "Klorane",
        "barcode": "3282770204247",
        "subtipo": "desmaquillante-ojos",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Jabón sólido limpiador a la Caléndula BIO",
-       "marca": "Klorane",
-       "barcode": "3282770389708",
-       "subtipo": "gel-espuma",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Agua micelar pieles normales y secas",
@@ -816,26 +793,11 @@
      "nombre": "Cremas faciales",
      "productos": [
       {
-       "nombre": "Biology AC Cuidado matificante antiimperfecciones",
-       "marca": "A-Derma",
-       "barcode": "3282770388916",
-       "subtipo": "piel-grasa",
-       "fechaLista": "24-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BWLWGXQK"
-      },
-      {
-       "nombre": "Biology AC Fluido antiimperfecciones antimarcas",
-       "marca": "A-Derma",
-       "barcode": "3282770388886",
-       "subtipo": "piel-grasa",
-       "fechaLista": "24-09-2026"
-      },
-      {
        "nombre": "Crema hidratante ligera dermatológica",
        "marca": "A-Derma",
        "barcode": "3282770146646",
        "subtipo": "hidratante",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09J8VRMVR"
       },
       {
@@ -845,7 +807,7 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/6615/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "hidratante",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09J8WSQG7"
       },
       {
@@ -855,7 +817,7 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1962/front_fr.7.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "reparadora",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B091BJ13BC"
       },
       {
@@ -879,7 +841,7 @@
        "marca": "A-Derma",
        "barcode": "3282770401172",
        "subtipo": "sensible",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Crema 3 Ceramide Panthenol Moisture Barrier Cream",
@@ -914,16 +876,6 @@
        "amazon": "https://www.amazon.es/dp/B0DN1H5Q33"
       },
       {
-       "nombre": "Aqua Gel-Crema Regeneradora Celular",
-       "marca": "Avène",
-       "barcode": "3282770400731",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/040/0731/front_el.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "antiedad",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CNKMFVK4"
-      },
-      {
        "nombre": "Cleanance Comedomed+ Cuidado Intensivo Anti-imperfecciones",
        "marca": "Avène",
        "barcode": "3282770399226",
@@ -942,19 +894,11 @@
        "amazon": "https://www.amazon.es/dp/B08XYV3YGB"
       },
       {
-       "nombre": "Crema Regeneradora Celular",
-       "marca": "Avène",
-       "barcode": "3282770400700",
-       "subtipo": "antiedad",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BT3LMB2D"
-      },
-      {
        "nombre": "Hydra-10 Crema Hidratante",
        "marca": "Avène",
        "barcode": "3282770388336",
        "subtipo": "hidratante",
-       "fechaLista": "09-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B49VSS46"
       },
       {
@@ -964,7 +908,7 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/038/8299/front_zh.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "hidratante",
-       "fechaLista": "09-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B47CY8PQ"
       },
       {
@@ -1167,22 +1111,6 @@
        "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0F4DTDGXQ"
-      },
-      {
-       "nombre": "Crema hidratante a la Caléndula BIO",
-       "marca": "Klorane",
-       "barcode": "3282770391107",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1107/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "hidratante",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Gel crema hidratante repulpante 24h - Aciano Bio + Ácido Hialurónico",
-       "marca": "Klorane",
-       "barcode": "3282770395853",
-       "subtipo": "hidratante",
-       "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Toleriane Dermallergo Crema",
@@ -1520,7 +1448,7 @@
        "marca": "A-Derma",
        "barcode": "3282770389333",
        "subtipo": "hidratante",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BWNDXTL2"
       },
       {
@@ -1528,14 +1456,14 @@
        "marca": "A-Derma",
        "barcode": "3282770393224",
        "subtipo": "vitamina-c",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Exomega Control Sérum ultracalmante",
        "marca": "A-Derma",
        "barcode": "3282771002040",
        "subtipo": "calmante",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
@@ -1603,7 +1531,7 @@
        "marca": "Avène",
        "barcode": "3282770392920",
        "subtipo": "calmante",
-       "fechaLista": "09-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D33VK9Z8"
       },
       {
@@ -1611,7 +1539,7 @@
        "marca": "Avène",
        "barcode": "3282770153101",
        "subtipo": "retinol-antiedad",
-       "fechaLista": "09-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BNLZ4FFZ"
       },
       {
@@ -1748,25 +1676,12 @@
        "fechaLista": "10-10-2026"
       },
       {
-       "nombre": "Keracnyl Sérum regulador antiimperfecciones",
-       "marca": "Ducray",
-       "barcode": "3282770399264",
-       "fechaLista": "24-09-2026"
-      },
-      {
        "nombre": "Melascreen Concentrado antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389197",
        "subtipo": "niacinamida",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0C31CJ7TD"
-      },
-      {
-       "nombre": "Melascreen Sérum luminosidad antimanchas",
-       "marca": "Ducray",
-       "barcode": "3282770389593",
-       "subtipo": "niacinamida",
-       "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Centella Red Serum 30 ml",
@@ -1882,29 +1797,6 @@
        "subtipo": "hidratante",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BQBR6BPQ"
-      },
-      {
-       "nombre": "Cica-Sérum al Cupuaçu BIO",
-       "marca": "Klorane",
-       "barcode": "3282770150643",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/0643/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "calmante",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "REPARACIÓN Cica-Sérum regenerador con ácido hialurónico",
-       "marca": "Klorane",
-       "barcode": "3282770399394",
-       "subtipo": "calmante",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Sérum concentrado hidrorrellenador",
-       "marca": "Klorane",
-       "barcode": "3282770395686",
-       "subtipo": "hidratante",
-       "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Age Perfect Golden Age Serum Anti-Manchas de la edad [Niacinamida]",
@@ -2814,15 +2706,6 @@
        "amazon": "https://www.amazon.es/dp/B0BXBDZLDK"
       },
       {
-       "nombre": "Anaphase+ Champú anticaída y crecimiento",
-       "marca": "Ducray",
-       "barcode": "3282770398168",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/8168/front_ar.4.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026",
-       "amazon": "https://www.amazon.es/dp/B01N10Z0L2"
-      },
-      {
        "nombre": "Champú mousse recién nacido 150ml",
        "marca": "Mustela",
        "barcode": "3504105034382",
@@ -2868,14 +2751,6 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DVZ8STKK"
-      },
-      {
-       "nombre": "Crema de ducha - Flor de Frangipani",
-       "marca": "Klorane",
-       "barcode": "3282770143799",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/3799/front_fr.5.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Gel de ducha relajante flor de azahar, ecológico",
@@ -2975,55 +2850,6 @@
        "barcode": "8436570020889",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BXF6H9SH"
-      },
-      {
-       "nombre": "Acondicionador a la Centaurea BIO",
-       "marca": "Klorane",
-       "barcode": "3282770145120",
-       "fechaLista": "24-09-2026",
-       "amazon": "https://www.amazon.es/dp/B094RKSVHX"
-      },
-      {
-       "nombre": "Acondicionador al Mango",
-       "marca": "Klorane",
-       "barcode": "3282770140972",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/0972/front_fr.5.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "ANTICAÍDA Acondicionador Fortificante & Estimulante a la Quinina",
-       "marca": "Klorane",
-       "barcode": "3282770397598",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/7598/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "CRECIMIENTO Acondicionador acelerador del crecimiento",
-       "marca": "Klorane",
-       "barcode": "3282771000503",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Mascarilla nutritiva al Mango",
-       "marca": "Klorane",
-       "barcode": "3282770140996",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Máscarilla 3 en 1 al Cupuazu ORGANICO bio",
-       "marca": "Klorane",
-       "barcode": "3282770144819",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/4819/front_es.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "NUTRICIÓN Mascarilla nutritiva e iluminadora",
-       "marca": "Klorane",
-       "barcode": "3282771001197",
-       "fechaLista": "24-09-2026"
       }
      ]
     },
@@ -3035,7 +2861,7 @@
        "nombre": "Epitheliale A.H Gel-aceite de masaje anti-marcas",
        "marca": "A-Derma",
        "barcode": "3282770144222",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09SVV8FJ5"
       },
       {
@@ -3101,32 +2927,6 @@
        "marca": "Kiko Milano",
        "barcode": "8059385059105",
        "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Aceite corporal nutritivo - Flor de cupuaçu",
-       "marca": "Klorane",
-       "barcode": "3282770203066",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Aceite corporal seco - Flor de hibisco",
-       "marca": "Klorane",
-       "barcode": "3282770203110",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Crema sublimadora aftersun",
-       "marca": "Klorane",
-       "barcode": "3282770206715",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Loción corporal - Flor de cupuaçu",
-       "marca": "Klorane",
-       "barcode": "3282770113198",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/011/3198/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
       },
       {
        "nombre": "Aceite antiestrías",
@@ -3438,8 +3238,7 @@
        "linea": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION",
        "subtipo": "base",
        "tono": "20, 50, 90, 100, 115, 120, 155, 165, 168, 170, 175, 178, 180, 185",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0GJPYRR7M"
+       "fechaLista": "25-09-2026"
       },
       {
        "nombre": "COVERstick corrector",
@@ -3457,8 +3256,7 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/405/972/930/8177/front_es.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "base",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B08YFD6P6Z"
+       "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Anti-Redness Crema Correctora Día FPS30",
@@ -3744,7 +3542,7 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/3683/front_fr.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "balsamo",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09VCK2S55"
       },
       {
@@ -4855,7 +4653,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "06",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CVL59M3S"
       },
       {
        "nombre": "Perfilador de labios Creamy Colour Comfort Lip Liner · 08",
@@ -4873,7 +4672,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "16",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B8CDN9MR"
       },
       {
        "nombre": "Perfilador de labios Creamy Colour Comfort Lip Liner · 19",
@@ -4882,7 +4682,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "19",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B8BYC8TW"
       },
       {
        "nombre": "Perfilador de labios Creamy Colour Comfort Lip Liner · 20",
@@ -4900,7 +4701,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "21",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B8C63BFV"
       },
       {
        "nombre": "Perfilador de labios Creamy Colour Comfort Lip Liner · 22",
@@ -4909,7 +4711,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "22",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B8BGTSG4"
       },
       {
        "nombre": "Perfilador de labios Creamy Colour Comfort Lip Liner · 23",
@@ -4918,7 +4721,8 @@
        "linea": "Perfilador de labios Creamy Colour Comfort Lip Liner",
        "subtipo": "perfilador",
        "tono": "23",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CVKXW47B"
       },
       {
        "nombre": "Perfilador de labios Matte Diaries Sketch&Define Matte Lip Pencil",
@@ -4977,14 +4781,16 @@
        "marca": "Kiko Milano",
        "barcode": "8059385026619",
        "subtipo": "perfilador",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D35Y4HZ5"
       },
       {
        "nombre": "Protector solar Sun Protection Lip Balm Spf",
        "marca": "Kiko Milano",
        "barcode": "8059385024721",
        "subtipo": "balsamo",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D66RW3LV"
       },
       {
        "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 01",
@@ -4993,7 +4799,8 @@
        "linea": "Protector solar Sun Protection Lip Gloss Spf 30",
        "subtipo": "gloss",
        "tono": "01",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F63XRS3Q"
       },
       {
        "nombre": "Protector solar Sun Protection Lip Gloss Spf 30 · 02",
@@ -5002,7 +4809,8 @@
        "linea": "Protector solar Sun Protection Lip Gloss Spf 30",
        "subtipo": "gloss",
        "tono": "02",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F63VB7SY"
       },
       {
        "nombre": "Rotulador de labios Hue Ready? Stain' Alive Lip Marker · 01",
@@ -5393,7 +5201,7 @@
        "nombre": "Exomega Control Bálsamo palpebral calmante",
        "marca": "A-Derma",
        "barcode": "3282770401158",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Hyaluron Activ B3 cuidado de ojos triple corrección",
@@ -5459,7 +5267,7 @@
        "nombre": "Melascreen Contorno de ojos antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389234",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0C31S953N"
       },
       {
@@ -5513,7 +5321,7 @@
        "nombre": "Parches de ojos alisadores hidro-gel al Aciano BIO & Ácido hialurónico",
        "marca": "Klorane",
        "barcode": "3282770396850",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Hyalu B5 Sérum de ojos",
@@ -6326,13 +6134,13 @@
        "nombre": "Epitheliale A.H Bálsamo-parche reparador",
        "marca": "A-Derma",
        "barcode": "3282770393712",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Exomega Allergo - Bálsamo Emoliente Antirrascado De Cosmética Estéril",
        "marca": "A-Derma",
        "barcode": "3282770149814",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BFB4S69X"
       },
       {
@@ -6341,7 +6149,7 @@
        "barcode": "3282770149715",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9715/front_fr.6.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Exomega Control Crema emoliente antirrascado",
@@ -6349,7 +6157,7 @@
        "barcode": "3282770149685",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9685/front_en.15.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BCTL7J22"
       },
       {
@@ -6358,19 +6166,19 @@
        "barcode": "3282770149746",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/9746/front_fr.6.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Exomega Control Spray emoliente antirrascado",
        "marca": "A-Derma",
        "barcode": "3282770149784",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Spray emoliente antirrascado",
        "marca": "A-Derma",
        "barcode": "3282770139181",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Spray secante y calmante",
@@ -6378,7 +6186,7 @@
        "barcode": "3282770104783",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/010/4783/front_pt.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Cicalfate+ Gel remodelante de cicatrices",
@@ -6408,7 +6216,7 @@
        "barcode": "3282770155099",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/015/5099/front_fr.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "09-09-2026",
+       "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B0C31QG66C"
       },
       {
@@ -6546,7 +6354,7 @@
        "barcode": "3282770391176",
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/1176/front_en.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
+       "fechaLista": "16-10-2026"
       },
       {
        "nombre": "Spray para el cambio de pañal Eryteal 3 en 1",
@@ -6842,12 +6650,6 @@
      "nombre": "Cremas de manos y pies",
      "productos": [
       {
-       "nombre": "Crema hidratante para manos y uñas",
-       "marca": "A-Derma",
-       "barcode": "3282770154276",
-       "fechaLista": "24-09-2026"
-      },
-      {
        "nombre": "Belle Natural Crema de Manos",
        "marca": "Eroski",
        "barcode": "8480010207170",
@@ -6942,34 +6744,6 @@
        "amazon": "https://www.amazon.es/dp/B0GC5YYGWW"
       },
       {
-       "nombre": "Aceite al Mango - Nutrición - Cabello seco",
-       "marca": "Klorane",
-       "barcode": "3282770141030",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "ANTICAÍDA Tratamiento Fortificante Intensivo",
-       "marca": "Klorane",
-       "barcode": "3282770397635",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/039/7635/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "CRECIMIENTO Serum acelerador intensivo del crecimiento con Adenosina",
-       "marca": "Klorane",
-       "barcode": "3282771000428",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Crema sin aclarado al Mango",
-       "marca": "Klorane",
-       "barcode": "3282770141023",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/014/1023/front_fr.12.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "24-09-2026"
-      },
-      {
        "nombre": "Volume Savage Spray Texturizante Tecni.Art",
        "marca": "L'Oréal Professionnel",
        "barcode": "30166899",
@@ -7060,7 +6834,8 @@
        "nombre": "Máscara de pestañas voluminizadora Extra Volume Wash Off Mascara",
        "marca": "Kiko Milano",
        "barcode": "8059385042640",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0C53QSNQJ"
       },
       {
        "nombre": "Máscara de pestañas voluminizadora Kind by Kiko Volume Mascara",
@@ -7090,7 +6865,8 @@
        "nombre": "Máscara de pestañas voluminizadora New Maxi Mod Waterproof Mascara",
        "marca": "Kiko Milano",
        "barcode": "8059385012773",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CHYNMJGF"
       },
       {
        "nombre": "Big Deal Máscara Latex Black (Waterproof )",
@@ -7987,7 +7763,8 @@
        "marca": "Kiko Milano",
        "barcode": "8059385049359",
        "subtipo": "eyeliner",
-       "fechaLista": "03-10-2026"
+       "fechaLista": "03-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07K1H8C86"
       },
       {
        "nombre": "Gel de cejas Flirt Alert Lock Them! Micro Eyebrow Pencil & Gel",
