@@ -12,7 +12,7 @@ TIPOS = {
   ('higiene-intima', 'Higiene íntima', r'(gel|jabon|espuma|pastilla|limpiador|lavado|solucion|mousse)[^,]*intim|intim[^,]*(gel|jabon|limpiador)|higiene intima|vulvar|(crema|mascarilla)[^,]*intim', r'toallita|lubricante|preservativo'),
   ('pasta-dientes', 'Pastas de dientes', r'pasta (de )?dientes|toothpaste|dentifric|crema dental|gel dental|pasta dental', r''),
   ('desodorante', 'Desodorantes', r'desodorante|antitranspirante|\bdeo\b|deocreme|deostick|deodorant|antiperspirant', r'pies|zapat|ropa|hogar'),
-  ('esmalte', 'Esmaltes y cuidado de uñas', r'esmalte|laca de unas|\bnail\b|top ?coat|base ?coat|\btopper\b|tratamiento de unas|quitaesmalte|cuticula|pulido de unas|\bunas\b|semipermanente|diluyente|base fortificante', r'manos'),
+  ('esmalte', 'Esmaltes y cuidado de uñas', r'esmalte|laca de unas|\bnail\b|top ?coat|base ?coat|\btopper\b|tratamiento de unas|quitaesmalte|cuticula|pulido de unas|\bunas\b|semipermanente|diluyente|base fortificante', r'manos|sombra|eyeshadow'),
   ('mascara-pestanas', 'Máscaras de pestañas', r'\bmascara\b|pestanas|\blash|telescopic|extensionist', r'mascarilla|desmaquill|ceja|\bbrows?\b'),
   ('ojos-cejas', 'Sombras, lápices de ojos y cejas', r'sombra|eyeliner|eye liner|delineador|lapiz de ojos|lapiz (de )?cejas|kohl|khol|kajal|paleta de sombras|eyeshadow|cejas|\bbrows?\b|eyebrow', r'desmaquill|contorno'),
   ('labial', 'Labiales', r'labial|barra de labios|pintalabios|lipstick|\bgloss\b|brillo de labios|tinte de labios|lip (tint|oil|balm|liner|marker|stain|pencil)|lipbalm|perfilador de labios|rotulador de labios|balsamo de labios|labios|levres|lip booster', r'contorno de labios|desmaquill'),

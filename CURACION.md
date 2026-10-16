@@ -5757,6 +5757,12 @@ Nueva entrada en "Otros a tener en cuenta" de la app (`OTROS_INGREDIENTES`, junt
   casos publicados pero raros; sacaría de Alternativas 41 esmaltes de essence; los 2 de Manucurist ya están fuera por otros avisos); (2) si la
   TSFR debe seguir saltando también como "Formaldehído libre" o solo como alérgeno.
 
+### Tipos: el "Eyeshadow Top Coat" de Rituals no es un esmalte — 2026-10-16 (alternativas 2026-10-16a)
+Visto por Mariana revisando los contornos de ojos: "Sombra de ojos Make-Up Collection Eyeshadow Top Coat" (Rituals,
+8719134216226) caía en "Esmaltes y cuidado de uñas" con subtipo base-top por "top coat". `tipos.py`: el tipo esmalte
+excluye "sombra" y "eyeshadow"; en `lineas.json` su subtipo pasa a `sombra`. Pasa a "Sombras, lápices de ojos y
+cejas". Es el único producto que cambia de tipo. Tabla de la app regenerada con `exporta_js.py` (próximo build).
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
