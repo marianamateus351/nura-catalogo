@@ -14,10 +14,20 @@ Nunca fotos copiadas de Amazon: solo por su API oficial (ver el CLAUDE.md de la 
 
 | Marca | Productos en Alternativas sin foto | Contacto | Estado |
 |---|---|---|---|
-| Cosnova (Catrice + essence) | 173 + 126 | presse@cosnova.eu | Correo preparado el 2026-10-14; pendiente de que Mariana lo envíe |
+| Cosnova (Catrice + essence) | 173 + 126 | presse@cosnova.eu | **Enviado el 2026-10-16** desde nurabienestarhormonal@gmail.com (con la pregunta de si essence tiene tienda oficial en Amazon.es); esperando respuesta |
 | KIKO Milano | 253 | formulario de kikocosmetics.com (España) | Correo preparado el 2026-10-14; pendiente de enviar |
 | Manucurist | 115 | formulario de manucurist.com | Correo preparado el 2026-10-14; pendiente de enviar |
 | NYX Professional Makeup (L'Oréal España) | 59 | formulario de nyxcosmetics.es / loreal.com/es-es/espana | Correo preparado el 2026-10-14; pendiente de enviar |
 
 Cuando llegue una respuesta, anotar: fecha, quién la firma, qué permite (fotos de su web,
 banco de prensa, feed con EAN), si pide un crédito concreto y si hay condiciones.
+
+## Otras peticiones enviadas (no de fotos) — 2026-10-16, desde nurabienestarhormonal@gmail.com
+
+| Marca | A | Qué se pide | Estado |
+|---|---|---|---|
+| Naturtint (Laboratorios Phergal) | info@phergal.com | Lista INCI del Champú Seco 8429449015697 (candidato a primer champú seco limpio) | Enviado; esperando |
+| MartiDerm | hola@martiderm.com | Relación de productos con su EAN (la web no los publica) | Enviado; esperando |
+| Batiste (Church & Dwight) | consumer.relationsUK@churchdwight.com | INCI y EAN de cada champú seco vendido en España; qué es el 5010724535950 | Enviado; esperando |
+
+KIKO, Manucurist y NYX solo tienen formulario: los envía Mariana.
