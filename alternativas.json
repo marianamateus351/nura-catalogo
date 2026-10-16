@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15i",
+ "version": "2026-10-16a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -9371,6 +9371,13 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Top Coat",
+       "marca": "Rituals",
+       "barcode": "8719134216226",
+       "subtipo": "sombra",
+       "fechaLista": "03-10-2026"
+      },
+      {
        "nombre": "Gel de cejas Phyto-Sourcils Perfect",
        "marca": "Sisley",
        "barcode": "3473311875013",
@@ -12988,13 +12995,6 @@
        "marca": "Rituals",
        "barcode": "8719134189612",
        "subtipo": "color",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Top Coat",
-       "marca": "Rituals",
-       "barcode": "8719134216226",
-       "subtipo": "base-top",
        "fechaLista": "03-10-2026"
       }
      ]
