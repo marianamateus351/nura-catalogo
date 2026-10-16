@@ -1243,5 +1243,175 @@
   "url": "https://www.amazon.es/dp/B0D9HRQ3CG",
   "titulo": "Rhode The Pocket Blushes Hot Pink Juice Box : Amazon.es: Beauty",
   "nota": "DUDOSO (punto 5): Rare Beauty y Rhode no tienen tienda de marca en Amazon.es; las fichas son de revendedores (títulos genéricos tipo \"RARE BEAUTY Original\", reseñas de miniaturas recibidas). Sin botón hasta que haya tienda oficial."
+ },
+ "0800897221652": {
+  "url": "https://www.amazon.es/dp/B09ZKKW6Q6",
+  "titulo": "NYX Professional Makeup Line Loud Lipstick, Long-Lasting, Non-Transfer",
+  "nota": "DUDOSO: ficha sin tono en el título: no se puede confirmar que sea la ficha general del producto"
+ },
+ "0800897221744": {
+  "url": "https://www.amazon.es/dp/B09ZKKW6Q6",
+  "titulo": "NYX Professional Makeup Line Loud Lipstick, Long-Lasting, Non-Transfer",
+  "nota": "DUDOSO: ficha sin tono en el título: no se puede confirmar que sea la ficha general del producto"
+ },
+ "0800897245023": {
+  "url": "https://www.amazon.es/dp/B0CLM6MM9Z",
+  "titulo": "NYX Vivid Rich Mechanical Eyeliner No.01 0.3g : Amazon.es: Beauty",
+  "nota": "DUDOSO: El título solo da el número (No.01), no el nombre Amber Stunner, y no sigue el formato de la tienda de marca"
+ },
+ "0800897245047": {
+  "url": "https://www.amazon.es/dp/B0CLM7DNKW",
+  "titulo": "NYX Vivid Rich Mechanical Eyeliner No.03 0.3g : Amazon.es: Beauty",
+  "nota": "DUDOSO: El título solo da el número (No.03), no el nombre Tigers Prize, y no sigue el formato de la tienda de marca"
+ },
+ "0800897245139": {
+  "url": "https://www.amazon.es/dp/B0CLMJ7149",
+  "titulo": "Nyx Professional Makeup Mechanical Eyeliner, Creamy & Vibrant, Truffle Diamond Mechanical Eyeliner, Pewter Eyeliner with 12 Truffle Diamonds, 0.3 Gram (Pack of 1) : Amazon.es: Beauty",
+  "nota": "DUDOSO: Nombra el tono, pero el título es de estilo importación ('Pack of 1', redacción traducida) y no lleva el nombre Vivid Rich ni el formato de la tienda de marca"
+ },
+ "0800897836887": {
+  "url": "https://www.amazon.es/dp/B017OF39W4",
+  "titulo": "NYX Professional Makeup Micro Brow Pencil Eyebrow Pencil, Brunette",
+  "nota": "DUDOSO: El producto agrupa 06 Brunette y 07 Espresso; esta es la ficha de un solo tono (Brunette). Espresso tiene fichas propias: B00WZQTCS8 y B09P1N8SZ5. No salió ficha sin tono"
+ },
+ "0800897225148": {
+  "url": "https://www.amazon.es/dp/B09XGR51WP",
+  "titulo": "NYX Professional Makeup Wonder Pencil, Dual Ended Pencil, Illuminates & Sculpts, Precise Application, Light : Amazon.es: Beauty",
+  "nota": "DUDOSO: El producto agrupa Light, Medium Peach y Medium; esta es la ficha de un solo tono (Light). No salió ficha sin tono ni fichas de Medium/Medium Peach"
+ },
+ "4059729375759": {
+  "url": "https://www.amazon.es/dp/B09V1CPTR1",
+  "titulo": "Catrice Under Eye Brightener Glow Dark Circles Highlighter (4.3g)",
+  "nota": "DUDOSO: El título no nombra el tono 010 Light Rose; la misma ficha sale también como 'Catrice Bye bye Under-Eye Highlighter Cream - Light Pink'. Formato 4,3 g coincide con el original, pero el tono no está confirmado. Descartados packs de 3 (B09V1F39F8) y polvos Setting Powder (B0DPB9J628)."
+ },
+ "4059729514486": {
+  "url": "https://www.amazon.es/dp/B0DPB84157",
+  "titulo": "Catrice Cosmetics Under Eye Brightener Dark Circle, Care, Highlighter, Color-Matching, Natural, Shimmering, 0.15 Ounce : Amazon.es: Beauty",
+  "nota": "DUDOSO: Producto que agrupa 030 Golden Toffee y 040 Dark Mocha; hay dos fichas sin tono en el título (B0DPB84157, 0.15 oz, y B0DPB6RB4F, 0.1 oz) que según el resumen corresponden cada una a un tono concreto (030 y 040), no a la línea."
+ },
+ "4059729589477": {
+  "url": "https://www.amazon.es/dp/B0DPXHVGSP",
+  "titulo": "Catrice Gel Nail Polish AFFAIR Long Lasting Nail Polish (12 ml)",
+  "nota": "DUDOSO: Título genérico sin tono; es el primer resultado al buscar '052 Glowy Blush' y el resumen cita 'Catrice Affair 052 Glowy Blush - Esmalte de uñas en gel', pero el tono no aparece en título ni slug. La familia Gel AFFAIR tiene muchas fichas genéricas iguales."
+ },
+ "8059385032450": {
+  "url": "https://www.amazon.es/dp/B0DZPGJJB5",
+  "titulo": "KIKO Milano Skin Lover Refining Face Powder Foundation 11, Compact Moisturizing Makeup Foundation Powder Uniforming : Amazon.es: Beauty",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 11"
+ },
+ "8059385065113": {
+  "url": "https://www.amazon.es/dp/B077DTJ349",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 01",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065304": {
+  "url": "https://www.amazon.es/dp/B077DFWKS6",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 02",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea) (02 y 10: B077DFWKS6, B08BRCP34P); además título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065137": {
+  "url": "https://www.amazon.es/dp/B077PCVWWK",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 03",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065144": {
+  "url": "https://www.amazon.es/dp/B077DB27Q2",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 04",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065151": {
+  "url": "https://www.amazon.es/dp/B077DKMTZQ",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 05",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065168": {
+  "url": "https://www.amazon.es/dp/B077D9CT1L",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 06",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065175": {
+  "url": "https://www.amazon.es/dp/B08BQVJRSM",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 07",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065182": {
+  "url": "https://www.amazon.es/dp/B08BR8JVGV",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 08",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065311": {
+  "url": "https://www.amazon.es/dp/B08BR2TWWH",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 11",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385065328": {
+  "url": "https://www.amazon.es/dp/B08BR53FTK",
+  "titulo": "KIKO Milano Matte Fusion Pressed Powder 12",
+  "nota": "DUDOSO: título 'Matte Fusion Pressed Powder' sin 'Unlimited'; fichas antiguas (ASIN B077/B08B, 2017-2020) frente a códigos 8059385065xxx del catálogo: probablemente versión anterior de la línea, fórmula posiblemente distinta"
+ },
+ "8059385002279": {
+  "url": "https://www.amazon.es/dp/B0BZSY6MTJ",
+  "titulo": "KIKO Milano Lasting Matte Veil Liquid Lip Colour 01",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 01"
+ },
+ "8025272639873": {
+  "url": "https://www.amazon.es/dp/B07CYP95DC",
+  "titulo": "KIKO Milano Metal Liquid Lip Colour 01",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 01 (hay fichas 01-06)"
+ },
+ "8059385019451": {
+  "url": "https://www.amazon.es/dp/B0D35WNSZM",
+  "titulo": "KIKO Milano Unlimited Double Touch 104, Long-Lasting Modulable Result Powder Blush : Amazon.es: Beauty",
+  "nota": "DUDOSO: el título dice 'Powder Blush' (error de Amazon; la descripción es del labial 2 pasos); además existe una versión '104 Sangria - OLD'"
+ },
+ "8059385019703": {
+  "url": "https://www.amazon.es/dp/B077D55KG6",
+  "titulo": "KIKO Milano Unlimited Double Touch 108",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 108 (también 110: B0767R855G / B0D35Z19TB)"
+ },
+ "8059385039770": {
+  "url": "https://www.amazon.es/dp/B0767PSPY1",
+  "titulo": "KIKO Milano Unlimited Double Touch 102",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 102 (también 106: B077D5S27F)"
+ },
+ "8059385039879": {
+  "url": "https://www.amazon.es/dp/B077DKPMR2",
+  "titulo": "KIKO Milano Unlimited Double Touch 120",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 120 (también 121: B077D7VGP5)"
+ },
+ "8059385039886": {
+  "url": "https://www.amazon.es/dp/B077DTJDYF",
+  "titulo": "KIKO Milano Unlimited Double Touch 122",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 122 (también 131: B08YV67RCY)"
+ },
+ "8059385035482": {
+  "url": "https://www.amazon.es/dp/B077DJ3NVW",
+  "titulo": "KIKO Milano 3D Hydra Lipgloss 02",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 02 (también 07: B077DFWM8Y, 10: B06XTTLZ1B)"
+ },
+ "8025272604055": {
+  "url": "https://www.amazon.es/dp/B077D55KFQ",
+  "titulo": "KIKO Milano 3D Hydra Lipgloss 03",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 03 (también 04: B077DCWGW3, 05: B077DCVVCP, 09: B077D73S6F)"
+ },
+ "8059385035635": {
+  "url": "https://www.amazon.es/dp/B093VM7FVT",
+  "titulo": "KIKO Milano 3D Hydra Lipgloss 31",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 31 (también 32: B093VK76NH, 33: B093W9CGY3, 34: B093VHRRPM, 35: B093VMJP1R)"
+ },
+ "8059385005027": {
+  "url": "https://www.amazon.es/dp/B0C3VM5KRH",
+  "titulo": "KIKO Milano 3D Hydra Lipgloss - Shade 41 Rosy Glares",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 41 (también 43: B0C3VNWK4V, 44: B0C3VLSVGR, 45: B0C3VMYHS9)"
+ },
+ "8059385005010": {
+  "url": "https://www.amazon.es/dp/B0C3VLC4KW",
+  "titulo": "KIKO Milano 3D Hydra Lipgloss - Shade 46 Marvellous Mauve",
+  "nota": "DUDOSO: el producto agrupa varios tonos y solo hay fichas de tonos concretos (no hay ficha de línea); ficha del tono 46 (no salió la del 42)"
+ },
+ "8059385023236": {
+  "url": "https://www.amazon.es/dp/B0FG56D9PJ",
+  "titulo": "KIKO Milano Candy Crush Sparkle Lip Gloss 04, Extra Bright Lip Gloss : Amazon.es: Beauty",
+  "nota": "DUDOSO: el catálogo no indica tono (un solo código) y hay 4 tonos con ficha propia (02: B0FG51Y9NQ, 03: B0FG5D9NDL, 04: B0FG56D9PJ); no se sabe cuál es"
  }
 }

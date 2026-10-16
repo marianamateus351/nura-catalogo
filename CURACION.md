@@ -5774,6 +5774,21 @@ cejas". Es el único producto que cambia de tipo. Tabla de la app regenerada con
   tienda de la marca en Amazon.es; títulos genéricos de revendedor ("RARE BEAUTY Original") y reseñas de miniaturas
   recibidas en lugar del tamaño normal. Mismo criterio que las marcas blancas de súper (2026-10-13). 38 sin ficha.
 
+### Amazon · cuarta tanda (2026-10-16, alternativas 2026-10-16c): NYX, Catrice y Kiko (parte 1)
+Antes de enlazar se mira si la marca tiene **tienda oficial** en Amazon.es (punto 5): NYX, Catrice y KIKO sí
+(`/stores/NYXPROFESSIONALMAKEUP/…`, `/stores/Catrice/…`, `/stores/KIKOMilano/…`, títulos con el formato de la marca).
+- **NYX (60)**: 26 con ficha del tono exacto (Line Loud, Blade & Shade, Epic Smoke, Micro Brow, Wonder Pencil Deep y
+  Warm Deep). 7 dudosos: los dos grupos de Line Loud apuntaban a una ficha sin tono que no se sabe si es la general,
+  Vivid Rich con título de revendedor o solo con número, y grupos de tonos con fichas de un solo tono. 24 sin ficha; 3
+  por repetir (Epic Smoke White Smoke y Slate Smoke, Muave Grit).
+- **Catrice (32)**: 1 (Under Eye Brightener 020 Warm Nude). Los 16 Gel Affair solo tienen fichas genéricas sin tono:
+  sin botón. 3 dudosos, 28 sin ficha.
+- **KIKO, primeros 60 de 246**: 14 (Unlimited Double Touch 111, 112, 129, 154, 156, 157; 3D Hydra 01, 08, 47-50;
+  Unlimited Matte Loose Powder 06; Neutral Eye Base, la ficha actual). 24 dudosos: los Unlimited Matte Fusion Pressed
+  Powder solo están como "Matte Fusion" en fichas de 2017-2020 (código nuevo: puede ser otra fórmula), grupos de
+  tonos con ficha de un tono, el 104 llamado "Powder Blush", Candy Crush sin tono. 22 sin ficha.
+- Quedan en cola: 186 KIKO, 139 essence y las demás.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
