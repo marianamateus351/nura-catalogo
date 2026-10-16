@@ -5803,6 +5803,29 @@ Geraniol, Limonene, Linalool. El código sale en Buscados (una usuaria lo escane
 - Revisadas Dia (solo el Original) y Consum: el **Cherry** `5010724526798` tiene foto trasera con el código, pero la
   lista da la vuelta al bote y solo se lee hasta "Distearyldimonium Chloride": incompleta, no entra.
 
+### Falso negativo de perfume: "X% de ingredientes de origen natural" en la lista — 2026-10-16 (versión 2026-10-16-origen)
+Visto buscando un champú seco limpio para Mariana: los dos Klorane "Champú seco con avena y Ceramide" salían limpios
+llevando **Fragrance (Parfum)**. Causa: la lista de las webs de Pierre Fabre trae pegada al final la frase de marketing
+"87% de ingredientes de origen natural" (o "Polvos de origen 100% natural"), y la regla de la app que da por natural el
+perfume (`NATURAL_FRAGRANCE`: "de origen natural", "100% natural"…) la leía como si hablara del perfume.
+- **Arreglo en los datos** (sin build): quitada la frase de **121 listas** (Klorane 64, A-Derma 38, Avène 10, Ducray 9);
+  no es un ingrediente. Regresión: **81 fichas ganan "Fragancia no divulgada (parfum)"** y nada más; ninguna otra cambia.
+  **32 salen de Alternativas** (7 tenían enlace de Amazon).
+- Las frases que sí hablan del perfume ("100% Natural Parfum" de Cocunat, "aceite esencial" de Ben & Anna) se quedan:
+  la regla es para eso.
+- **Pendiente (app, próximo build, a decidir)**: que `NATURAL_FRAGRANCE` no case "% de ingredientes de origen natural"
+  ni "polvos de origen", por si vuelve a entrar una lista con la frase pegada (escaneos, aportaciones).
+- **Champú seco limpio**: ninguno de los 26 del catálogo (todos llevan perfume). Además el tipo "Champús" excluye "seco".
+
+### Amazon · quinta tanda (2026-10-16): KIKO parte 2 y essence
+- **KIKO, 70 más**: 13 (Creamy Colour Comfort Lip Liner 06, 16, 19, 21, 22, 23; Invisible Lip Liner; Sun Protection
+  Lip Balm SPF 50 y Lip Gloss SPF 30 01 y 02; Extra Volume Wash Off; Maxi Mod Waterproof; Lasting Gel Eyeliner).
+  10 dudosos (grupos de tonos con ficha de un tono), 47 sin ficha (colecciones nuevas o limitadas no están).
+- **essence: sin botón (punto 5)**. No aparece tienda de marca en Amazon.es (al revés que Catrice, de la misma casa);
+  títulos de distribuidor ("Ess.", "Esence", mayúsculas) y los esmaltes gel nuevos (4059729585…) solo tienen fichas
+  de 2022 que pueden ser la gama anterior. 35 a dudosos, 35 sin ficha, y **los 5 essence que ya tenían botón pasan
+  también a dudosos** (mismo criterio). Si se confirma una tienda oficial de essence, se reactivan.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
