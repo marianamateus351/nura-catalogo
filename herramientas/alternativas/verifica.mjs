@@ -10,9 +10,9 @@ let n = 0, conDet = 0, conRiesgo = 0, conOtros = 0; const otros = {}; const ej =
 for (const c of alt.categorias) for (const t of c.tipos) for (const a of t.productos) {
   n++; const { p, m } = porCodigo[a.barcode];
   const cat2 = guessCategoria("", undefined, p.nombre + " " + m.nombre);
-  if (dedupeIngredients(matchIngredients(p.inci), cat2).length) conDet++;
+  if (dedupeIngredients(matchIngredients(p.inci, p.nombre), cat2).length) conDet++;
   if (matchOtrosRiesgos(p.inci, cat2).length) conRiesgo++;
-  const o = matchOtros(p.inci, cat2);
+  const o = matchOtros(p.inci, cat2, p.nombre);
   if (o.length) { conOtros++; for (const x of o) { otros[x.nombre] = (otros[x.nombre] || 0) + 1; (ej[x.nombre] ||= []).length < 3 && ej[x.nombre].push(m.nombre + " · " + p.nombre); } }
 }
 console.log(JSON.stringify({ total: n, conDisruptor: conDet, conOtrosRiesgos: conRiesgo, conOtrosATenerEnCuenta: conOtros, otros, ej }, null, 1));

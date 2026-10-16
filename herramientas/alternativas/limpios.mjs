@@ -18,7 +18,7 @@ for (const m of cat.marcas) for (const p of m.productos) {
   if (!p.inci || !(p.barcodes || []).length) continue;
   const c = guessCategoria("", undefined, p.nombre + " " + m.nombre);
   if (c !== "Cuidado personal" && c !== "Hogar") continue;
-  if (dedupeIngredients(matchIngredients(p.inci), c).length || matchOtrosRiesgos(p.inci, c).length || matchOtros(p.inci, c).length) continue;
+  if (dedupeIngredients(matchIngredients(p.inci, p.nombre), c).length || matchOtrosRiesgos(p.inci, c).length || matchOtros(p.inci, c, p.nombre).length) continue;
   out.push({ marcaKey: m.key, marca: m.nombre, nombre: p.nombre, categoria: c, barcodes: p.barcodes });
 }
 process.stdout.write(JSON.stringify({ version: cat.version, productos: out }, null, 1));

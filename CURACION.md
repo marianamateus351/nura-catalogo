@@ -5826,6 +5826,32 @@ perfume (`NATURAL_FRAGRANCE`: "de origen natural", "100% natural"…) la leía c
   de 2022 que pueden ser la gama anterior. 35 a dudosos, 35 sin ficha, y **los 5 essence que ya tenían botón pasan
   también a dudosos** (mismo criterio). Si se confirma una tienda oficial de essence, se reactivan.
 
+### Detector: el "Aroma" deja de ser riesgo medio en boca y labios — 2026-10-16, decisión de Mariana (próximo build)
+Pregunta de Mariana: ¿la evidencia sostiene "riesgo medio" para el Aroma? Revisión:
+- La ficha 188 decía "Medio", pero su propia evidencia era "divulgación limitada; menor asociación con ftalatos que
+  las fragancias": el medio venía heredado del Parfum. Los estudios de ftalatos en productos de higiene (Dodson et al.
+  2012, EHP; Guo, Wang y Kannan, Arch Environ Contam Toxicol) los encuentran en productos **perfumados**; no se ha
+  encontrado ningún dato de ftalatos ni almizcles en saborizantes de dentífricos, y el DEP no es un aroma alimentario.
+- Componentes: el trans-anetol tiene actividad estrogénica **débil, in vitro y a concentración alta** (no en células
+  Ishikawa por debajo de niveles tóxicos; metabolitos +25 % de proliferación en MCF-7 a 100 µM): señal muy floja.
+- Lo demostrado es la **alergia de contacto**: los saborizantes son el primer alérgeno de las pastas de dientes (revisión
+  BJD 2026, resumen: 133 de 232 casos; canela, mentol/carvona, anetol, eugenol).
+**Decisión de Mariana**:
+- **Boca y labios** (pastas, colutorios, geles bucales, labiales; también complementos en gominola): el Aroma pasa a
+  **"Otros a tener en cuenta"** como "Aroma no divulgado (sabor)" — no cuenta para el índice; nota de alergia.
+- **Resto de cosmética** (coloretes, bases, polvos, lubricantes…): el Aroma hace de perfume y cuenta como
+  **"Fragancia no divulgada (aroma)"** (ficha nueva 216, riesgo medio, mismas exenciones que el parfum).
+- **Alimentación**: sin cambios (ficha 188, solo Alimentación).
+- Cómo se decide (`aromaEsSabor` en products.js): por el **nombre** del producto (dent-, colutorio, encías, labial, lip,
+  gloss, bálsamo labial…) y, si no, por la lista (flúor, sacarina, sucralosa, xilitol, estevia, sílice hidratada,
+  cetilpiridinio, nitrato potásico, hidroxiapatita, estaño; azúcar, pectina, gelatina). Sin nombre, un labial sin esas
+  señales cuenta como fragancia (el aviso de antes, riesgo medio). La app pasa ahora el nombre a `matchIngredients` y
+  `matchOtros`; también `limpios.mjs`, `verifica.mjs` y la regresión.
+- **Regresión (11.016 fichas): 491 cambian, solo en el Aroma**: 422 a "Aroma no divulgado (sabor)" y 69 a "Fragancia no
+  divulgada (aroma)" (coloretes NYX/Catrice/Deliplus, bases y polvos essence/KIKO, 2 lubricantes íntimos). Ninguna otra
+  ficha cambia. Alternativas no cambia (1.643): esos productos siguen con un aviso.
+- Los lubricantes de Durex y Control con Aroma quedan como fragancia (mucosa, no se ingiere): revisable si Mariana quiere.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
