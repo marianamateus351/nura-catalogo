@@ -5789,6 +5789,20 @@ Antes de enlazar se mira si la marca tiene **tienda oficial** en Amazon.es (punt
   tonos con ficha de un tono, el 104 llamado "Powder Blush", Candy Crush sin tono. 22 sin ficha.
 - Quedan en cola: 186 KIKO, 139 essence y las demás.
 
+### Batiste: código aportado por una usuaria, decisión de Mariana — 2026-10-16 (versión 2026-10-16-batiste)
+Aportación en el panel: `5010724535950` "Batiste Dry Shampoo" con foto del frontal (envase blanco con hojas verdes y
+amarillas, el del Original) y la lista: Butane, Isobutane, Propane, Oryza Sativa (Rice) Starch, Alcohol Denat., Parfum,
+Cetrimonium Chloride, Distearyldimonium Chloride, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Citral,
+Geraniol, Limonene, Linalool. El código sale en Buscados (una usuaria lo escaneó sin resultado).
+- **Fuentes**: las webs de Batiste (batistehair.es, batiste-hair.eu) no publican ingredientes ni códigos. OBF tiene el
+  código como "Batiste Dry Shampoo" (Reino Unido) sin lista. La lista aportada es **idéntica, ingrediente a ingrediente**,
+  a la del Original 200 ml `5010724527481` (foto de la etiqueta de Consum/Dia, 2026-10-10).
+- **Decisión de Mariana**: catalogarlo. El código se suma a la ficha del Original, que pasa a llamarse "Champú en seco
+  Batiste Original" (sin tamaño: el del nuevo código no se sabe). Es una excepción a la regla 2-bis decidida por Mariana;
+  no se amplía a otros Batiste sin lista.
+- Revisadas Dia (solo el Original) y Consum: el **Cherry** `5010724526798` tiene foto trasera con el código, pero la
+  lista da la vuelta al bote y solo se lee hasta "Distearyldimonium Chloride": incompleta, no entra.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que

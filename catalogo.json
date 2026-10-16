@@ -1,5 +1,5 @@
 {
- "version": "2026-10-15-nombres",
+ "version": "2026-10-16-batiste",
  "marcas": [
   {
    "key": "larocheposay",
@@ -85856,11 +85856,12 @@
    "nombre": "Batiste",
    "productos": [
     {
-     "nombre": "Champú en seco Batiste 200 ml",
+     "nombre": "Champú en seco Batiste Original",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "5010724527481"
+      "5010724527481",
+      "5010724535950"
      ],
      "inci": "Butane, Isobutane, Propane, Oryza Sativa (Rice) Starch, Alcohol Denat., Parfum, Cetrimonium Chloride, Distearyldimonium Chloride, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Citral, Geraniol, Limonene, Linalool"
     }
