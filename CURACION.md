@@ -5763,6 +5763,17 @@ Visto por Mariana revisando los contornos de ojos: "Sombra de ojos Make-Up Colle
 excluye "sombra" y "eyeshadow"; en `lineas.json` su subtipo pasa a `sombra`. Pasa a "Sombras, lápices de ojos y
 cejas". Es el único producto que cambia de tipo. Tabla de la app regenerada con `exporta_js.py` (próximo build).
 
+### Amazon · tercera tanda (2026-10-16, alternativas 2026-10-16b)
+- **Lagarto Jabón vegetal natural (pastilla)** `8410761000898` → `B0C816RS2P` ("PACK (2 x 150 g)", el formato de venta),
+  pedido por Mariana. El buscador la daba como "sin fecha de reposición"; si el enlace de Mariana lleva a otra ficha con
+  stock, se cambia.
+- **Manucurist, segunda ronda de los 44 pendientes**: 0 fichas nuevas. Unos 15 tonos Green (Candy, Dune, Fairy, Pink
+  Sand, Red Velvet, Rose Mountbatten, Tangerine, Tweed…) salen en Amazon.es solo como opción de color dentro de la ficha
+  de otro tono o en carruseles, nunca con su propia URL: sin botón. Los 44 a `amazon_sin_ficha.json`.
+- **Rare Beauty y Rhode (62)**: **ninguno con botón**. 24 fichas encontradas pasan a dudosas por el **punto 5**: no hay
+  tienda de la marca en Amazon.es; títulos genéricos de revendedor ("RARE BEAUTY Original") y reseñas de miniaturas
+  recibidas en lugar del tamaño normal. Mismo criterio que las marcas blancas de súper (2026-10-13). 38 sin ficha.
+
 ## Navegador headless (para webs renderizadas por JavaScript)
 Hay Chromium en la máquina y Playwright se instala con `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install playwright`. **El proxy de la sesión no digiere el TLS 1.3 de Chromium**: hay que
