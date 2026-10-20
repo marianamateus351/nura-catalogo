@@ -1099,6 +1099,54 @@ positivos o negativos del detector que salgan, con regresión y propuesta de reg
     Raid, Baygon, Autan, Zum. Los insecticidas van para las fichas de exposición, no para Alternativas.
 11. Marcas blancas que faltan: Alipende (Ahorramás), Gadis, Hipercor, y las propias de Primor y Druni.
 
+**Bloque 1 · Natural y ecológica — cerrado 2026-10-20 (versión 2026-10-20-b1): 8 marcas nuevas, 866 productos, 1.226 códigos.**
+Regresión sobre las 11.016 fichas que ya había: **0 cambios**. 300 de los 866 sin ningún aviso. Sin Buscados a mano en esta sesión: se
+cargó la gama entera de cada web oficial.
+- **Weleda (incl. Baby)** — 96 productos, 114 códigos; 45 sin avisos. Fuente: weleda.es (datos de la ficha: nombre, EAN por variante e
+  INCI). La lista en texto de weleda.es a menudo está atrasada o incompleta (omite componentes del perfume, a veces pone la de otro
+  producto): cada ficha se cotejó con la foto oficial de la etiqueta que publica la propia ficha y, si la etiqueta se lee entera, la lista
+  sale de ella; si no, de weleda.de/.fr. Fuera 25: listas no fiables o sin cotejar (9), kits, duplos y set de bebé.
+- **Dr. Hauschka** — 107 productos, 148 códigos; 42 sin avisos (eugenol 62, benzoato de bencilo 33, talco 7 en maquillaje). Fuente:
+  drhauschka.es (Shopify). dr.hauschka.com bloquea con lista negra de bots: no se usó. Tonos de maquillaje con una sola lista,
+  agrupados. **3 productos de labios/uñas solo con EAN-8** de la web oficial (dígito válido; se guardan así). Fuera 47: packs "3 pasos",
+  cofres, calendario y 5 fichas con la lista traducida al castellano (no INCI).
+- **Lavera** — 308 productos, 497 códigos; 137 sin avisos. Fuente: tienda oficial de Laverana (lavera.com y sus mercados .de/.ch/.fr/.it;
+  lavera.es no responde); EAN = gtin13 de la ficha. Las fichas del mercado alemán o francés con otro código van como "(envase alemán)" /
+  "(versión francesa)". Serie anterior fuera (reformulado). **Pendiente de Mariana: 4 paletas de sombras multicolor** (la web da una lista
+  por color, no una lista del producto): fuera hasta que decidas si entran con todas las listas o no.
+- **Yope** — 187 productos, 216 códigos; 2 sin avisos (casi todo lleva "Parfum" sin nota, y 34 galaxólido: "Hexamethylindanopyran").
+  Fuente: yopeme.com y yope.me (Shopware; lista y EAN de la ficha). 2 lavavajillas a mano salen como Hogar (bien). Fuera: 52 sets,
+  velas, accesorios y 10 limpiadores con solo rangos de ingredientes.
+- **Naobay** — 6 productos, 6 códigos; 2 sin avisos. INCI de naobay.com; la marca ha reformulado y casi todos los códigos que hay
+  (Maquillalia, OBF) son de la serie anterior: 13 fuera por eso. naobay.es tiene el certificado caducado (no se desactivó TLS); Druni,
+  Ecco Verde y DosFarma bloquean (se paró).
+- **Matarrania** — 36 productos, 36 códigos; 29 sin avisos. Fuente: matarrania.com (PrestaShop). **Excepción UPC**: la marca solo usa
+  UPC-A de prefijos de EE. UU.; se guardan como EAN-13 con un 0 delante (como NYX y Salt & Stone). La lista lleva el nombre común entre
+  paréntesis, como la publica la marca. Fuera 3 fichas que repiten el código de otro producto.
+- **Alma Secret** — 86 productos, 90 códigos; 20 sin avisos. Fuente: almasecret.com; si la ficha en castellano da la lista traducida,
+  se usa la inglesa de la misma web. Fuera 89: packs, cofres, complementos alimenticios, mikados y 7 aceites esenciales a los que la web
+  pone el EAN de otro.
+- **Dr. Bronner's** — 40 productos, 119 códigos (todos UPC 0018787…, excepción UPC: la marca solo usa esos); 23 sin avisos. Gama
+  europea; INCI de drbronner.de (las listas UE más recientes), drbronner.co.uk para los bálsamos labiales, el spray de manos y la pastilla
+  Menta, y drbronner.fr para la pastilla Té verde. La web de la distribuidora española no se usó (listas traducidas y erratas).
+- **Notas de perfume natural**: se conservan en la lista, como en el resto del catálogo (Weleda 71, Lavera 209, Dr. Hauschka 98,
+  Matarrania 27, Alma Secret 28, Dr. Bronner's 9; Naobay y Yope no tienen). Con ellas el aviso de fragancia baja de 634 a 269. No se
+  añadieron las 3 de Dr. Bronner's que solo dicen "For more fragrance ingredient information, visit www.drbronner.com" (no dicen que sea
+  natural); siguen saltando. Weleda: 9 fichas cuya lista viene de .de/.fr sin nota siguen saltando aunque la etiqueta española la lleve.
+- **Nombres**: "suavizante" en el nombre hacía que el detector los tomara por suavizante de ropa (Hogar): Weleda "Aceite corporal Rosa
+  mosqueta" y Yope "Leche limpiadora corporal Creamy Musk" / "de manos Creamy Amber" van sin esa palabra.
+- **Propuestas de regla para Mariana (no aplicadas; necesitarían build). Regresión de cada una sobre las 11.016 fichas: 0 cambios.**
+  - **A. Maltodextrina no es señal de sabor.** "Maltodextrin" está en la lista de ingredientes que marcan un aroma como sabor, pero en
+    cosmética es un soporte común. Hace que dos productos de cuerpo con "Aroma" salgan como "Aroma no divulgado (sabor)" en vez de
+    fragancia (ficha 216): Alma Secret Gel de baño cremoso Cleopatra Coco y Yope Sérum corporal en spray V-colágeno. Propuesta: quitar
+    `maltodextrin` de `AROMA_SABOR_INCI`. Cambian esos 2.
+  - **B. Sabor con nota de aceites esenciales naturales.** En las pastas y enjuagues de Lavera y Weleda la lista pone "Flavor (Aroma)…
+    *from natural essential oils". Para el perfume esa nota ya quita el aviso; para el sabor, no. Propuesta: mismo criterio, sin "Aroma no
+    divulgado (sabor)" si la lista declara la nota. Cambian 14 (9 Lavera, 5 Weleda).
+  - **C. "Natural origin fragrance".** Alma Secret pone "**Natural origin fragance" (con la errata) y el detector solo reconoce "de origen
+    natural" en castellano. Propuesta: que reconozca también "natural origin fragrance/fragance". Cambian 15 de Alma Secret. Matarrania
+    "**naturalmente presentes en el agua de rosas" (2) no se toca: el agua de rosas no es un aceite esencial.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
