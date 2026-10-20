@@ -1153,6 +1153,40 @@ cargó la gama entera de cada web oficial.
     natural" en castellano. Propuesta: que reconozca también "natural origin fragrance/fragance". Cambian 15 de Alma Secret. Matarrania
     "**naturalmente presentes en el agua de rosas" (2) no se toca: el agua de rosas no es un aceite esencial.
 
+**Bloque 2 · Perfumería — cerrado 2026-10-20 (versión 2026-10-20-b2): 5 marcas nuevas, 621 productos, 751 códigos; 3 bloqueadas.**
+Regresión sobre las 11.882 fichas que ya había: **0 cambios**. 21 de los 621 sin ningún aviso (casi todo lleva "Parfum" sin nota de
+origen: 556). Sin falsos positivos ni negativos nuevos del detector (revisados BHA —incluye el "Capryloyl Salicylic Acid", como en
+La Roche-Posay—, microplásticos —PMMA, nylon-12, polietileno y acetato de celulosa, según el criterio del 2026-10-07—, oxibenzona en 7
+geles de The Body Shop y "Aroma/Flavor" de labiales como sabor).
+- **Bloqueadas, 0 productos (reto anti-bot; no se intentó sortear)**: **Lush** (Cloudflare en lush.com y todas sus variantes),
+  **Kiehl's** (Cloudflare en kiehls.es y las europeas; el portal "Inside our products" de L'Oréal ya no existe) y **Lancôme** (Cloudflare en
+  lancome.es y casi todas las europeas; lancome.se/.dk cargan y dan el EAN, pero no publican la lista). Para cargarlas haría falta otra
+  vía oficial (fichas guardadas por Mariana desde su navegador).
+- **The Body Shop** — 226 productos, 278 códigos; 2 sin avisos. INCI de thebodyshop.es (pestaña Ingredientes). La web española no da
+  EAN, solo el código interno de 7 cifras; cada EAN se ató por ese código a una web oficial que da los dos: thebodyshop.fi (190; 37 más
+  de otro código interno del mismo producto, solo con lista y tamaño idénticos), tiendas oficiales .de (40) y .ro (2), y OBF (9). Ninguno
+  calculado. thebodyshop.com/.de/.ro pusieron "Verifying your connection" tras pocas peticiones: se paró. **Fuera 31 con lista dudosa**:
+  la web española y la finlandesa dan listas distintas para el mismo código (Body Butter, Body Yogurt, cremas de manos, karité, Oils of
+  Life…; parece la reformulación de 2024) y 77 sin código comprobable. Nombres en castellano (Manteca corporal, Yogur corporal, Bruma
+  corporal); el Champú Nutritivo de Banana va en dos entradas (250 y 400 ml) porque la web da una lista para cada tamaño.
+- **Yves Rocher** — 30 productos, 30 códigos; 1 sin avisos. yves-rocher.es y casi todas las europeas: bloqueo Akamai. INCI de las webs
+  oficiales yves-rocher.pt (362 fichas) e .it (cotejadas: 245 de 325 dan la misma lista). Ninguna web de la marca publica EAN: solo
+  entran los que están en OBF con nombre que coincide. **Pendiente de Mariana**: (a) 29 productos con código en OBF pero sin nombre
+  (solo cuadran con la referencia interna de la web): fuera; (b) 291 productos con lista y sin código: el EAN de la marca es siempre
+  3660005 + referencia de 5 cifras + control (cuadra en todas las fichas de OBF con nombre), pero un código calculado no es una fuente.
+- **L'Occitane** — 72 productos, 84 códigos; 1 sin avisos. es.loccitane.com y las europeas grandes: DataDome; las tiendas Shopify
+  europeas, "Verifying your connection" tras pocas fichas: se paró sin ir saltando de web en web. INCI y EAN de las fichas oficiales que
+  sí se leyeron (mt, cy, at, pl, cz, si, gr, lv, bg, hu, dk, lt, ro). Unas 550 referencias sin leer por el bloqueo (no se reintenta).
+  Reformulaciones: con dos listas para el mismo producto, solo la serie 2026, o fuera si no está claro.
+- **Clarins** — 199 productos, 259 códigos; 16 sin avisos. clarins.es (sin bloqueo): lista y EAN por tamaño/tono de cada ficha. Se
+  quitan el código de fórmula y la nota "**Domaine Clarins" (no es de perfume); 6 erratas corregidas. **Maquillaje por tonos**: la web da
+  una lista por producto aunque tenga muchos tonos, y el código de fórmula dice de qué tono es. Con "+/- may contain" entran todos los
+  tonos; sin él, solo el tono de la fórmula; si no se sabe, fuera el producto (Double Serum Foundation, Joli Blush, Wonder Perfect 4D,
+  Ombre Skin…): **194 códigos de tonos fuera**.
+- **Biotherm** — 94 productos, 100 códigos; 1 sin avisos. biotherm.es y las europeas grandes: Cloudflare o 502. INCI y EAN de las webs
+  oficiales nórdicas (biotherm.se, cotejada con .dk y .no: misma lista y código en las tres). Lista completa de L'Oréal sin el código de
+  fórmula ni el F.I.L. Errata corregida: "Cire Dabeille" → "Cire d'Abeille" (3). Fuera 18 fichas sin pestaña de ingredientes.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
