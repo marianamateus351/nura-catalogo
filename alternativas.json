@@ -1,5 +1,5 @@
 {
- "version": "2026-10-16f",
+ "version": "2026-10-20a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -95,6 +95,30 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Desodorante roll-on Salvia y Hierbabuena",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829025394",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desodorante roll-on Natural & Refresh",
+       "marca": "Lavera",
+       "barcode": "4021457638765",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desodorante roll-on Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457622474",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desodorante en crema sin bicarbonato y sin aluminio",
+       "marca": "Matarrania",
+       "barcode": "0644216010974",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
        "marca": "Niyok",
        "barcode": "4260664930099",
@@ -119,6 +143,24 @@
        "marca": "Nuud",
        "barcode": "8721008476339",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Desodorante spray Citrus",
+       "marca": "Weleda",
+       "barcode": "4001638097079",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desodorante stick 24 h Eucalipto y Menta",
+       "marca": "Weleda",
+       "barcode": "3596200069031",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desodorante stick 24 h Piel sensible",
+       "marca": "Weleda",
+       "barcode": "3596200069055",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -151,6 +193,24 @@
        "subtipo": "leche-balsamo",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B09J8WFQYH"
+      },
+      {
+       "nombre": "Aceite desmaquillante Camellia Bloom",
+       "marca": "Alma Secret",
+       "barcode": "8436568714011",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos suave",
+       "marca": "Alma Secret",
+       "barcode": "8436568711201",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Jabón facial Rhassoul y arcilla verde",
+       "marca": "Alma Secret",
+       "barcode": "8436568711034",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Aceite limpiador Heartleaf Pore Cleansing Oil Mild",
@@ -399,6 +459,30 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Spray limpiador de manos orgánico Menta",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787362372",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo limpiador facial",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829111776",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema limpiadora facial",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829005174",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Leche limpiadora facial",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829006058",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Hydractive Solución Micelar 100 ml",
        "marca": "Endocare",
        "barcode": "8436574360868",
@@ -602,6 +686,60 @@
        "fechaLista": "09-09-2026"
       },
       {
+       "nombre": "Agua micelar bifásica Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457658831",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo desmaquillante Melt Off",
+       "marca": "Lavera",
+       "barcode": "4021457664917",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo limpiador fundente Calm & Comfort",
+       "marca": "Lavera",
+       "barcode": "4021457668496",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos suave",
+       "marca": "Lavera",
+       "barcode": "4021457645411",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora facial basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457649914",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Espuma limpiadora facial Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457626069",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador facial 2 en 1 Men sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457661619",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador facial basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457650033",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción limpiadora y desmaquillante",
+       "marca": "Matarrania",
+       "barcode": "0736211011619",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
        "marca": "Medik8",
        "barcode": "0818625027636",
@@ -785,6 +923,24 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "agua-micelar",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Gel limpiador 2 en 1 rostro y barba For Men",
+       "marca": "Weleda",
+       "barcode": "4001638589567",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel limpiador purificante",
+       "marca": "Weleda",
+       "barcode": "3401360192546",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Leche limpiadora calmante Almendra",
+       "marca": "Weleda",
+       "barcode": "3596200080319",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -1012,6 +1168,18 @@
        "amazon": "https://www.amazon.es/dp/B01CLTKI4A"
       },
       {
+       "nombre": "Crema facial Melisa",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829008779",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema facial Planta de la Escarcha",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829080072",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Dexyane MeD Crema reparadora calmante",
        "marca": "Ducray",
        "barcode": "3282770148138",
@@ -1155,6 +1323,84 @@
        "subtipo": "sensible",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07TW9BNF4"
+      },
+      {
+       "nombre": "Crema calmante con microplata Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625222",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de día Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457658718",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de noche Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457658749",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de noche calmante basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457652471",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de noche Re-Energizing Sleeping",
+       "marca": "Lavera",
+       "barcode": "4021457658268",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema facial Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625093",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante basis sensitive — código 4021457649877",
+       "marca": "Lavera",
+       "barcode": "4021457649877",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante calmante basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457649853",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Fluido facial Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625109",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante nutritiva hombre",
+       "marca": "Matarrania",
+       "barcode": "0736211010810",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante nutritiva piel seca",
+       "marca": "Matarrania",
+       "barcode": "0705105357850",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante nutritiva piel sensible",
+       "marca": "Matarrania",
+       "barcode": "0705105358154",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema reparadora de codos y talones",
+       "marca": "Matarrania",
+       "barcode": "0705105357355",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Crema de vitamina C C-Tetra Cream",
@@ -1436,6 +1682,36 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "noche",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Crema de día alisante Rosa mosqueta y Té blanco",
+       "marca": "Weleda",
+       "barcode": "4001638589727",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de día calmante Almendra",
+       "marca": "Weleda",
+       "barcode": "3596200086007",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de noche alisante Rosa mosqueta y Té blanco",
+       "marca": "Weleda",
+       "barcode": "4001638589772",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema facial Baby Derma Malva blanca",
+       "marca": "Weleda",
+       "barcode": "4001638096669",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema facial de caléndula sin perfume Baby",
+       "marca": "Weleda",
+       "barcode": "4001638590679",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -1676,6 +1952,36 @@
        "fechaLista": "10-10-2026"
       },
       {
+       "nombre": "Ampollas faciales Calma y Equilibra",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829115651",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Ampollas faciales Cura Cutánea Sensitiv",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829005402",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sérum de noche",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829062641",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sérum de noche Regenerador Intensivo",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829101135",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sérum facial Hidratante Plus",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829118164",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Melascreen Concentrado antimanchas",
        "marca": "Ducray",
        "barcode": "3282770389197",
@@ -1823,6 +2129,18 @@
        "amazon": "https://www.amazon.es/dp/B086MF1VNX"
       },
       {
+       "nombre": "Sérum Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457658770",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sérum reafirmante de noche Eterna",
+       "marca": "Matarrania",
+       "barcode": "0748252723123",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Sérum de bakuchiol y péptidos Bakuchiol Peptides",
        "marca": "Medik8",
        "barcode": "0818625027711",
@@ -1844,6 +2162,12 @@
        "barcode": "8445984016296",
        "subtipo": "hidratante",
        "fechaLista": "29-09-2026"
+      },
+      {
+       "nombre": "Sérum oleoso recuperador de noche Origin",
+       "marca": "Naobay",
+       "barcode": "8436568900100",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Ampolla Azelaic Acid 10 Ampoule",
@@ -2107,6 +2431,18 @@
        "subtipo": "hidratante",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B06XC5PQGL"
+      },
+      {
+       "nombre": "Booster Drops hidratante",
+       "marca": "Weleda",
+       "barcode": "3596200056048",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Booster Drops perfeccionador",
+       "marca": "Weleda",
+       "barcode": "3596200056093",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2114,6 +2450,12 @@
      "key": "protector-solar",
      "nombre": "Protectores solares",
      "productos": [
+      {
+       "nombre": "Protector solar facial SPF 50 con color tono Golden",
+       "marca": "Alma Secret",
+       "barcode": "8436568714264",
+       "fechaLista": "20-10-2026"
+      },
       {
        "nombre": "Comedomed+ Fluido intensivo antiimperfecciones SPF30",
        "marca": "Avène",
@@ -2476,6 +2818,36 @@
        "amazon": "https://www.amazon.es/dp/B0DSLCT63K"
       },
       {
+       "nombre": "Fluido facial anti-UV SPF 50 Glow by Nature",
+       "marca": "Lavera",
+       "barcode": "4021457664207",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Fluido solar Sensitive SPF 50",
+       "marca": "Lavera",
+       "barcode": "4021457661848",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción solar infantil Sensitive SPF 50",
+       "marca": "Lavera",
+       "barcode": "4021457661718",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Protector solar mineral facial SPF50",
+       "marca": "Matarrania",
+       "barcode": "0644216011773",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Protector solar mineral fluido SPF30",
+       "marca": "Matarrania",
+       "barcode": "0644216011674",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
        "marca": "Mustela",
        "barcode": "3504105036768",
@@ -2678,6 +3050,12 @@
        "barcode": "3337875918534",
        "subtipo": "cara",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Fluido solar Glow SPF 30",
+       "marca": "Weleda",
+       "barcode": "3596200000331",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2704,6 +3082,36 @@
        "barcode": "8436570020872",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BXBDZLDK"
+      },
+      {
+       "nombre": "Champú",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829077454",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Champú Planta de la Escarcha",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829085756",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha y champú 2 en 1 basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457648412",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha y champú Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625338",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel y champú bebé y niño",
+       "marca": "Lavera",
+       "barcode": "4021457660599",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Champú mousse recién nacido 150ml",
@@ -2736,6 +3144,12 @@
        "marca": "Sodasan",
        "barcode": "4019886190190",
        "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Champú y gel de ducha 2 en 1 Caléndula Baby",
+       "marca": "Weleda",
+       "barcode": "4001638096515",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2744,6 +3158,18 @@
      "nombre": "Geles de ducha",
      "productos": [
       {
+       "nombre": "Gel de baño cremoso Cleopatra",
+       "marca": "Alma Secret",
+       "barcode": "8436568711515",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de ducha",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829068513",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
        "marca": "Eucerin",
        "barcode": "4005800346057",
@@ -2751,6 +3177,42 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DVZ8STKK"
+      },
+      {
+       "nombre": "Gel de ducha cremoso basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457664139",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha estimulante",
+       "marca": "Lavera",
+       "barcode": "4021457648481",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha refrescante",
+       "marca": "Lavera",
+       "barcode": "4021457648498",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha Refresh Me",
+       "marca": "Lavera",
+       "barcode": "4021457664054",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha sólido Happy Freshness",
+       "marca": "Lavera",
+       "barcode": "4021457648023",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha sólido High Vitality",
+       "marca": "Lavera",
+       "barcode": "4021457648016",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Gel de ducha relajante flor de azahar, ecológico",
@@ -2793,6 +3255,60 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/871/895/159/4548/front_en.5.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Gel de ducha cremoso Citrus",
+       "marca": "Weleda",
+       "barcode": "7611916164569",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha cremoso Granada",
+       "marca": "Weleda",
+       "barcode": "7611916164576",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha cremoso Lavanda",
+       "marca": "Weleda",
+       "barcode": "7611916164583",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel de ducha Sport Árnica",
+       "marca": "Weleda",
+       "barcode": "7611916154317",
+       "fechaLista": "20-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "pasta-dientes",
+     "nombre": "Pastas de dientes",
+     "productos": [
+      {
+       "nombre": "Pasta de dientes All-One Hierbabuena",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787231593",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Pasta de dientes All-One Menta",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787321102",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Pasta de dientes Sensible Salina",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829103559",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel dental Neutral sin flúor",
+       "marca": "Lavera",
+       "barcode": "4021457652693",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2831,6 +3347,12 @@
        "marca": "Saforelle",
        "barcode": "3700399102800",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Gel hidratante íntimo Yes, love!",
+       "marca": "Yope",
+       "barcode": "5906817700803",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2850,6 +3372,12 @@
        "barcode": "8436570020889",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B0BXF6H9SH"
+      },
+      {
+       "nombre": "Acondicionador revitalizante Romero",
+       "marca": "Weleda",
+       "barcode": "4001638580779",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -2863,6 +3391,24 @@
        "barcode": "3282770144222",
        "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09SVV8FJ5"
+      },
+      {
+       "nombre": "Aceite corporal de almendras dulces y caléndula",
+       "marca": "Alma Secret",
+       "barcode": "8436568711447",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal Firming Yuzu para celulitis y estrías",
+       "marca": "Alma Secret",
+       "barcode": "8436568712246",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal regenerador de rosa mosqueta mini 30 ml",
+       "marca": "Alma Secret",
+       "barcode": "8436568711683",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Atoderm Crème Ultra",
@@ -2917,6 +3463,24 @@
        "fechaLista": "09-10-2026"
       },
       {
+       "nombre": "Loción corporal orgánica Menta",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787261057",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo corporal Almendras",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829009127",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción corporal Planta de la Escarcha",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829092075",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "AtopiControl Hidroloción Calmante para piel atopica",
        "marca": "Eucerin",
        "barcode": "4005800350603",
@@ -2927,6 +3491,66 @@
        "marca": "Kiko Milano",
        "barcode": "8059385059105",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal iluminador Glow tono Floral Glow 01",
+       "marca": "Lavera",
+       "barcode": "4021457666263",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal iluminador Glow tono Honey Glow 02",
+       "marca": "Lavera",
+       "barcode": "4021457666584",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite para el embarazo Mama Care",
+       "marca": "Lavera",
+       "barcode": "4021457670093",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Leche corporal Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457660322",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción corporal Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625215",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción corporal revitalizante",
+       "marca": "Lavera",
+       "barcode": "4021457637669",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal anticelulítico",
+       "marca": "Matarrania",
+       "barcode": "0736211011213",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal antiestrías",
+       "marca": "Matarrania",
+       "barcode": "0736211011718",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal bebé y piel sensible",
+       "marca": "Matarrania",
+       "barcode": "0736211011510",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal cítrico",
+       "marca": "Matarrania",
+       "barcode": "0736211011015",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Aceite antiestrías",
@@ -2993,6 +3617,30 @@
        "marca": "Sonett",
        "barcode": "4007547773004",
        "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal refrescante Citrus",
+       "marca": "Weleda",
+       "barcode": "4001638097048",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite de masaje Caléndula",
+       "marca": "Weleda",
+       "barcode": "4001638099295",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite de masaje Árnica",
+       "marca": "Weleda",
+       "barcode": "4001638099202",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción hidratante Baby Derma Malva blanca",
+       "marca": "Weleda",
+       "barcode": "4001638096829",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -3492,6 +4140,108 @@
        "fechaLista": "10-09-2026"
       },
       {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Light 01",
+       "marca": "Lavera",
+       "barcode": "4021457651719",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Light 1.0",
+       "marca": "Lavera",
+       "barcode": "4021457667338",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Medium 1.2",
+       "marca": "Lavera",
+       "barcode": "4021457667345",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Medium Tanned 1.8",
+       "marca": "Lavera",
+       "barcode": "4021457667352",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Tanned 02",
+       "marca": "Lavera",
+       "barcode": "4021457651726",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Tanned 2.0",
+       "marca": "Lavera",
+       "barcode": "4021457667369",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Corrector Radiant Skin tono Ivory 01",
+       "marca": "Lavera",
+       "barcode": "4021457654352",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Corrector Radiant Skin tono Light 02",
+       "marca": "Lavera",
+       "barcode": "4021457654369",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Corrector Radiant Skin tono Medium 03",
+       "marca": "Lavera",
+       "barcode": "4021457654376",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Corrector Radiant Skin tono Medium Sand 05",
+       "marca": "Lavera",
+       "barcode": "4021457666171",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Polvos compactos Satin tono Light 01",
+       "marca": "Lavera",
+       "barcode": "4021457651672",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Polvos compactos Satin tono Medium 02",
+       "marca": "Lavera",
+       "barcode": "4021457651689",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Polvos compactos Satin tono Medium Sand 04",
+       "marca": "Lavera",
+       "barcode": "4021457666188",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Polvos hidratantes afinadores de poros",
+       "marca": "Lavera",
+       "barcode": "4021457667437",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Polvos sueltos Invisible Finish tono transparente",
+       "marca": "Lavera",
+       "barcode": "4021457651702",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Prebase sérum iluminadora Glow",
+       "marca": "Lavera",
+       "barcode": "4021457657698",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Spray fijador de maquillaje Set & Glow",
+       "marca": "Lavera",
+       "barcode": "4021457657803",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Corrector de rojeces Calmwise Colour Correct",
        "marca": "Medik8",
        "barcode": "0818625024475",
@@ -3544,6 +4294,12 @@
        "subtipo": "balsamo",
        "fechaLista": "16-10-2026",
        "amazon": "https://www.amazon.es/dp/B09VCK2S55"
+      },
+      {
+       "nombre": "Bálsamo labial Magic Peptides",
+       "marca": "Alma Secret",
+       "barcode": "8436568713656",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Bálsamo embellecedor de labios Nude",
@@ -3973,6 +4729,42 @@
        "barcode": "0192333261538",
        "subtipo": "gloss",
        "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial orgánico Bebé sin perfume",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787251904",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial orgánico Flor de cerezo",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787251911",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial orgánico Limón y lima",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787251751",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial orgánico Menta",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787251706",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial orgánico Naranja y jengibre",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787251652",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Cuidado labial intensivo",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829069336",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Ictyane Bálsamo labial reparador",
@@ -4859,6 +5651,108 @@
        "amazon": "https://www.amazon.es/dp/B00O15LSGK"
       },
       {
+       "nombre": "Aceite labial en gel con péptidos Peachy",
+       "marca": "Lavera",
+       "barcode": "4021457661343",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite labial Juicy Lips",
+       "marca": "Lavera",
+       "barcode": "4021457654345",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Melting Glow tono Glazed Honey 02",
+       "marca": "Lavera",
+       "barcode": "4021457666355",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Barra de labios voluminizadora con tripéptidos",
+       "marca": "Lavera",
+       "barcode": "4021457668618",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios High Shine Water Gloss tono Cocoa 01",
+       "marca": "Lavera",
+       "barcode": "4021457654291",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios High Shine Water Gloss tono Hot Cherry 02",
+       "marca": "Lavera",
+       "barcode": "4021457654307",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Brillo de labios High Shine Water Gloss tono Pink Lagoon 04",
+       "marca": "Lavera",
+       "barcode": "4021457654321",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457665501",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial reparador",
+       "marca": "Lavera",
+       "barcode": "4021457665525",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial reparador y protector The Cube",
+       "marca": "Lavera",
+       "barcode": "4021457667307",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial voluminizador",
+       "marca": "Lavera",
+       "barcode": "4021457665549",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos y labios My Age",
+       "marca": "Lavera",
+       "barcode": "4021457658251",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Exfoliante labial enzimático Enzyme Boost",
+       "marca": "Lavera",
+       "barcode": "4021457666102",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Mascarilla reparadora de labios con péptidos",
+       "marca": "Lavera",
+       "barcode": "4021457667482",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Soft Lipliner tono Apricot 05",
+       "marca": "Lavera",
+       "barcode": "4021457642007",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Soft Lipliner tono Red 03",
+       "marca": "Lavera",
+       "barcode": "4021457624218",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Voluminizador labial efecto frío Cooling Lip Booster",
+       "marca": "Lavera",
+       "barcode": "4021457654338",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Color Sensational Perfilador de labios",
        "marca": "Maybelline New York",
        "barcode": "3600530575503",
@@ -5155,6 +6049,12 @@
        "subtipo": "balsamo",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B002GC9UZG"
+      },
+      {
+       "nombre": "Bálsamo labial reparador Skin Food Lip Balm",
+       "marca": "Weleda",
+       "barcode": "3596200077579",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -5202,6 +6102,12 @@
        "marca": "A-Derma",
        "barcode": "3282770401158",
        "fechaLista": "16-10-2026"
+      },
+      {
+       "nombre": "Crema facial y contorno de ojos para hombre",
+       "marca": "Alma Secret",
+       "barcode": "8436568711478",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Hyaluron Activ B3 cuidado de ojos triple corrección",
@@ -5255,6 +6161,12 @@
        "marca": "COSRX",
        "barcode": "8809598452305",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Fluido contorno de ojos",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829006409",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Dexyane MeD Palpebral (ref. 394115)",
@@ -5338,6 +6250,48 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09DPFXM6C"
+      },
+      {
+       "nombre": "Contorno de ojos antiarrugas Q10 basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457638369",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos Barrier Balance",
+       "marca": "Lavera",
+       "barcode": "4021457658893",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457626052",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos reafirmante Firming",
+       "marca": "Lavera",
+       "barcode": "4021457668403",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos roll-on Hydro Refresh",
+       "marca": "Lavera",
+       "barcode": "4021457653539",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Parches de ojos Calm & Refresh",
+       "marca": "Lavera",
+       "barcode": "4021457656622",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos",
+       "marca": "Matarrania",
+       "barcode": "0705105357256",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Hydro Boost Contorno de Ojos Anti-Fatiga",
@@ -5452,6 +6406,18 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07Q4PY2DQ"
+      },
+      {
+       "nombre": "Contorno de ojos alisante Rosa mosqueta y Té blanco",
+       "marca": "Weleda",
+       "barcode": "4001638589833",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos reafirmante Granada",
+       "marca": "Weleda",
+       "barcode": "4001638596244",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -5459,6 +6425,12 @@
      "key": "tonico",
      "nombre": "Tónicos, esencias y brumas",
      "productos": [
+      {
+       "nombre": "Tónico facial calmante y antiedad",
+       "marca": "Alma Secret",
+       "barcode": "8436568712796",
+       "fechaLista": "20-10-2026"
+      },
       {
        "nombre": "Bruma PDRN 100 Hyaluronic Acid Hydrating Capsule Mist",
        "marca": "Anua",
@@ -5641,6 +6613,18 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Tónico facial",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829005242",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Tónico facial Especial",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829005280",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Bruma sérum Black Rice Probiotics Barrier 2% NAD+ Serum Mist",
        "marca": "Haruharu Wonder",
        "barcode": "8809532222520",
@@ -5711,6 +6695,24 @@
        "marca": "Isntree",
        "barcode": "8809800942419",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Tónico purificante",
+       "marca": "Matarrania",
+       "barcode": "0644216011278",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Tónico regenerador Eterna",
+       "marca": "Matarrania",
+       "barcode": "0736211011916",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Tónico suave de rosas",
+       "marca": "Matarrania",
+       "barcode": "0736211011411",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Tónico 1025 Dokdo Toner",
@@ -5893,6 +6895,18 @@
        "amazon": "https://www.amazon.es/dp/B0BPS5XWR8"
       },
       {
+       "nombre": "Exfoliante de ducha Purify Me",
+       "marca": "Lavera",
+       "barcode": "4021457664085",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Exfoliante purificante y nutritivo",
+       "marca": "Matarrania",
+       "barcode": "0736211011114",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "XERIAL Gommage",
        "marca": "SVR",
        "barcode": "3662361004201",
@@ -6003,6 +7017,12 @@
        "amazon": "https://www.amazon.es/dp/B0FWK57DL4"
       },
       {
+       "nombre": "Mascarilla facial Purificante",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829004979",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Mascarilla de noche GIM PDRN Deep Sleep Mask",
        "marca": "Isntree",
        "barcode": "8809800941924",
@@ -6046,6 +7066,18 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/360/052/425/9679/front_nl.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026"
+      },
+      {
+       "nombre": "Crema y mascarilla de manos de noche 2 en 1 Good Night",
+       "marca": "Lavera",
+       "barcode": "4021457645145",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Mascarilla facial Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625116",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
@@ -6116,6 +7148,12 @@
        "marca": "Torriden",
        "barcode": "8809784602194",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Mascarilla de hidrogel de noche ultrarregeneradora Waterfully Glass Mask",
+       "marca": "Yope",
+       "barcode": "5906817706706",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -6187,6 +7225,12 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/010/4783/front_pt.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "16-10-2026"
+      },
+      {
+       "nombre": "Bálsamo reparador multiusos y del pañal",
+       "marca": "Alma Secret",
+       "barcode": "8436568711454",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Cicalfate+ Gel remodelante de cicatrices",
@@ -6296,6 +7340,12 @@
        "fechaLista": "09-10-2026"
       },
       {
+       "nombre": "Bálsamo mágico orgánico Bebé sin perfume",
+       "marca": "Dr. Bronner's",
+       "barcode": "0018787830567",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Bálsamo emoliente antirrascado",
        "marca": "Ducray",
        "barcode": "3282770203929",
@@ -6401,6 +7451,24 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FSRVPY96"
+      },
+      {
+       "nombre": "Crema de pañal bebé y niño",
+       "marca": "Lavera",
+       "barcode": "4021457660414",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo reparador de hipérico",
+       "marca": "Matarrania",
+       "barcode": "0705105357553",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de pañal Culito Sano",
+       "marca": "Matarrania",
+       "barcode": "0736211011312",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Bálsamo reparador multiusos Cica Plus para piel seca y fragilizada",
@@ -6559,6 +7627,36 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B003BR5OG4"
+      },
+      {
+       "nombre": "Bálsamo de baño Baby Derma Malva blanca",
+       "marca": "Weleda",
+       "barcode": "3596200055447",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo multiusos Caléndula Baby",
+       "marca": "Weleda",
+       "barcode": "4001638530248",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo para pezones Mamá",
+       "marca": "Weleda",
+       "barcode": "5013455290297",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema pañal Baby Derma Malva blanca",
+       "marca": "Weleda",
+       "barcode": "3596200055461",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema pañal Caléndula Baby sin perfume",
+       "marca": "Weleda",
+       "barcode": "4001638590235",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -6650,6 +7748,18 @@
      "nombre": "Cremas de manos y pies",
      "productos": [
       {
+       "nombre": "Crema de manos Planta de la Escarcha",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829069787",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema desodorante para pies",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829079601",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Belle Natural Crema de Manos",
        "marca": "Eroski",
        "barcode": "8480010207170",
@@ -6664,6 +7774,30 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/841/480/754/0126/front_de.7.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-10-2026"
+      },
+      {
+       "nombre": "Crema de manos basis sensitive",
+       "marca": "Lavera",
+       "barcode": "4021457645022",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de manos basis sensitive formato viaje",
+       "marca": "Lavera",
+       "barcode": "4021457660117",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de manos Neutral",
+       "marca": "Lavera",
+       "barcode": "4021457625239",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema reparadora de manos y uñas",
+       "marca": "Matarrania",
+       "barcode": "0705105357959",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Fórmula Noruega Crema de Manos Concentrada Sin Perfume",
@@ -6687,6 +7821,12 @@
      "key": "capilar",
      "nombre": "Tratamientos capilares",
      "productos": [
+      {
+       "nombre": "Gel definidor de rizos Ocean Curl",
+       "marca": "Alma Secret",
+       "barcode": "8436568714318",
+       "fechaLista": "20-10-2026"
+      },
       {
        "nombre": "Curl Booster",
        "marca": "Cocunat",
@@ -6723,6 +7863,24 @@
        "fechaLista": "24-09-2026"
       },
       {
+       "nombre": "Aceite capilar Cura Capilar",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829077577",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción capilar",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829077539",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Mascarilla para cuero cabelludo Semillas de Calabaza",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829085817",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Kelual Emulsión contra las escamas del cuero cabelludo y el rostro",
        "marca": "Ducray",
        "barcode": "3282770202274",
@@ -6750,6 +7908,12 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Sérum capilar nutritivo",
+       "marca": "Matarrania",
+       "barcode": "0748252722027",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Polvo texturizante Powder Grip 03",
        "marca": "Redken",
        "barcode": "3474637124274",
@@ -6769,6 +7933,24 @@
        "barcode": "8420212334540",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B09Q6DBCNT"
+      },
+      {
+       "nombre": "Aceite capilar nutritivo Romero",
+       "marca": "Weleda",
+       "barcode": "4001638093620",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bruma perfumada cuerpo y cabello Tropical Crush",
+       "marca": "Weleda",
+       "barcode": "3596200001567",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Loción capilar revitalizante Romero",
+       "marca": "Weleda",
+       "barcode": "4001638095716",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -6903,6 +8085,66 @@
        "marca": "La Roche-Posay",
        "barcode": "3337875632652",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas High Lash",
+       "marca": "Lavera",
+       "barcode": "4021457657797",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Intense Volumizing tono negro",
+       "marca": "Lavera",
+       "barcode": "4021457646852",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Lash to Impress mini",
+       "marca": "Lavera",
+       "barcode": "4021457665006",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Lash to Impress tono negro",
+       "marca": "Lavera",
+       "barcode": "4021457651665",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas resistente al agua Butterfly Effect",
+       "marca": "Lavera",
+       "barcode": "4021457669677",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Volume tono marrón",
+       "marca": "Lavera",
+       "barcode": "4021457618187",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Volume tono negro",
+       "marca": "Lavera",
+       "barcode": "4021457618170",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Volume tono Rich Burgundy 02",
+       "marca": "Lavera",
+       "barcode": "4021457667475",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Volume tono Royal Blue 01",
+       "marca": "Lavera",
+       "barcode": "4021457667468",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sérum de pestañas Lash Booster",
+       "marca": "Lavera",
+       "barcode": "4021457656837",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Colossal Bubble Waterproof Máscara",
@@ -7434,6 +8676,24 @@
        "barcode": "0192333100950",
        "subtipo": "eyeliner",
        "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Delineador de ojos líquido 01 Black",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829099104",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel para cejas y pestañas",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829098626",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Kajal",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829098756",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "EYELINER GEL STAY & PLAY (tono 02 But First Espresso)",
@@ -8672,6 +9932,114 @@
        "fechaLista": "09-09-2026"
       },
       {
+       "nombre": "Gel fijador de cejas Brow Control tono Hazel 02",
+       "marca": "Lavera",
+       "barcode": "4021457656820",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Gel fijador de cejas Brow Control tono Transparent 01",
+       "marca": "Lavera",
+       "barcode": "4021457656813",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas tono Blonde 02",
+       "marca": "Lavera",
+       "barcode": "4021457645497",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas tono Brown 01",
+       "marca": "Lavera",
+       "barcode": "4021457645480",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono Black 01",
+       "marca": "Lavera",
+       "barcode": "4021457645428",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono Blue 04",
+       "marca": "Lavera",
+       "barcode": "4021457645459",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono Brown 02",
+       "marca": "Lavera",
+       "barcode": "4021457645435",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono Green 05",
+       "marca": "Lavera",
+       "barcode": "4021457645466",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono Grey 03",
+       "marca": "Lavera",
+       "barcode": "4021457645442",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Soft Eyeliner tono White 06",
+       "marca": "Lavera",
+       "barcode": "4021457645473",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Amber 07",
+       "marca": "Lavera",
+       "barcode": "4021457651795",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Black Obsidian 03",
+       "marca": "Lavera",
+       "barcode": "4021457651757",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Burnt Apricot 04",
+       "marca": "Lavera",
+       "barcode": "4021457651764",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Dusty Rose 01",
+       "marca": "Lavera",
+       "barcode": "4021457651733",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Moon Shell 05",
+       "marca": "Lavera",
+       "barcode": "4021457651771",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Pink Moon 09",
+       "marca": "Lavera",
+       "barcode": "4021457651818",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Red Ochre 06",
+       "marca": "Lavera",
+       "barcode": "4021457651788",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Signature Colour tono Walnut 02",
+       "marca": "Lavera",
+       "barcode": "4021457651740",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Color Tattoo Stix Sombra de ojos",
        "marca": "Maybelline New York",
        "barcode": "3600531672645",
@@ -9545,6 +10913,54 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Colorete en crema Floral tono Rose Charm 01",
+       "marca": "Lavera",
+       "barcode": "4021457660841",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Velvet Blush tono Pink Orchid 02",
+       "marca": "Lavera",
+       "barcode": "4021457651610",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Velvet Blush tono Rosy Peach 01",
+       "marca": "Lavera",
+       "barcode": "4021457651603",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Fluido hidratante iluminador Glow Skin",
+       "marca": "Lavera",
+       "barcode": "4021457656721",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Soft Glow tono Ethereal Light 02",
+       "marca": "Lavera",
+       "barcode": "4021457651658",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Blush 02",
+       "marca": "Lavera",
+       "barcode": "4021457666294",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Highlighter 03",
+       "marca": "Lavera",
+       "barcode": "4021457666300",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos iluminador Detox",
+       "marca": "Naobay",
+       "barcode": "8436568905198",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Lápiz Iluminador Wonder Pencil · Deep",
        "marca": "NYX Professional Makeup",
        "barcode": "0800897225179",
@@ -10011,6 +11427,12 @@
        "subtipo": "colorete",
        "tono": "Toasted Teddy",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Booster Drops bronceador",
+       "marca": "Weleda",
+       "barcode": "3596200056109",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
@@ -10832,6 +12254,18 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "base-top",
        "fechaLista": "09-10-2026"
+      },
+      {
+       "nombre": "Aceite de uñas Nim",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829071407",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Stick de uñas Nim",
+       "marca": "Dr. Hauschka",
+       "barcode": "42239635",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "barniz de uñas Fairy SHIMMER",

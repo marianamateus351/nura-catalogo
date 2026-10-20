@@ -1,5 +1,5 @@
 {
- "version": "2026-10-16-origen",
+ "version": "2026-10-20-b1",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -16933,6 +16933,2827 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5412533418354"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Jabón facial Rhassoul y arcilla verde",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711034"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Tónico facial calmante y antiedad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712796"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Desmaquillante de ojos suave",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711201"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite corporal de almendras dulces y caléndula",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711447"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Bálsamo reparador multiusos y del pañal",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711454"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Crema facial y contorno de ojos para hombre",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711478"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Gel de baño cremoso Cleopatra",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711515"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Jabón Cleopatra con leche de burra",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711553"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite corporal regenerador de rosa mosqueta mini 30 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711683"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite corporal Firming Yuzu para celulitis y estrías",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712246"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite de árnica",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711331"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite esencial de mandarina",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712550"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite esencial de menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712567"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite esencial de eucalipto",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712598"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite vegetal de caléndula",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712673"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite vegetal de jojoba",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712666"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Protector solar facial SPF 50 con color tono Golden",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714264"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite desmaquillante Camellia Bloom",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714011"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Bálsamo labial Magic Peptides",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568713656"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Gel definidor de rizos Ocean Curl",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714318"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón líquido de Castilla 18 en 1 Bebé sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787772027",
+    "0018787241400",
+    "0018787241455",
+    "0018787241509",
+    "0018787241608",
+    "0018787762653",
+    "0018787241356"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón líquido de Castilla 18 en 1 Eucalipto",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787773024",
+    "0018787242353",
+    "0018787810347",
+    "0018787763162",
+    "0018787242551",
+    "0018787242506",
+    "0018787242308",
+    "0018787242407",
+    "0018787242452"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón líquido de Castilla 18 en 1 Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787775028",
+    "0018787243251",
+    "0018787243305",
+    "0018787243350",
+    "0018787243459",
+    "0018787765654",
+    "0018787243206"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón líquido de Castilla 18 en 1 Rosa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787778029",
+    "0018787243633",
+    "0018787810378",
+    "0018787778166",
+    "0018787810576",
+    "0018787243756",
+    "0018787243602",
+    "0018787243657",
+    "0018787243701",
+    "0018787243800"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón líquido de Castilla 18 en 1 Cítricos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787777022",
+    "0018787242001",
+    "0018787810330",
+    "0018787777169",
+    "0018787242209",
+    "0018787777657",
+    "0018787241950",
+    "0018787242100"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de Castilla en pastilla Bebé sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231050"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de Castilla en pastilla Eucalipto",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231203"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de Castilla en pastilla Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231357"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de Castilla en pastilla Cítricos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231159"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de Castilla en pastilla Té verde",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231258"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de azúcar orgánico Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787830529",
+    "0018787830628",
+    "0018787001516"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de azúcar orgánico Hierba limón y lima",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787830550",
+    "0018787001547",
+    "0018787830659"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Jabón de azúcar orgánico Bebé sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787830543",
+    "0018787261859",
+    "0018787001530",
+    "0018787830642"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Loción corporal orgánica Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787261057"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Pasta de dientes All-One Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787321102"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Pasta de dientes All-One Hierbabuena",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787231593"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Spray limpiador de manos orgánico Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787362372"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo mágico orgánico Bebé sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787830567"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo labial orgánico Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787251706"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo labial orgánico Naranja y jengibre",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787251652"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo labial orgánico Bebé sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787251904"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo labial orgánico Limón y lima",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787251751"
+   ]
+  },
+  {
+   "marcaKey": "drbronners",
+   "marca": "Dr. Bronner's",
+   "nombre": "Bálsamo labial orgánico Flor de cerezo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0018787251911"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Aceite de uñas Nim",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829071407"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Ampollas faciales Calma y Equilibra",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829115651"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Bálsamo corporal Almendras",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829009127"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Bálsamo limpiador facial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829111776",
+    "4020829094062"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Champú Planta de la Escarcha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829085756"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Champú",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829077454"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema de manos Planta de la Escarcha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829069787"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema desodorante para pies",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829079601"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema de ducha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829068513"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema facial Planta de la Escarcha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829080072"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema intensiva Planta de la Escarcha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829092044"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema limpiadora facial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829005174",
+    "4020829101821"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema facial Melisa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829008779"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Fluido contorno de ojos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829006409"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Crema Rescue de Potentilla",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829069299"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Cuidado labial intensivo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829069336"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Aceite capilar Cura Capilar",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829077577"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Ampollas faciales Cura Cutánea Sensitiv",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829005402",
+    "4020829005433"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Pasta de dientes Sensible Salina",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829103559"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Desodorante roll-on Salvia y Hierbabuena",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829025394"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Revitalizante ocular (compresas para ojos)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829077096"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Fluido de día Equilibrante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829080645"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Gel para cejas y pestañas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829098626"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Leche limpiadora facial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829006058",
+    "4020829066441"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Loción capilar",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829077539"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Loción corporal Planta de la Escarcha",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829092075"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Mascarilla para cuero cabelludo Semillas de Calabaza",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829085817"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Mascarilla facial Purificante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829004979"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Lápiz de ojos Kajal",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829098756",
+    "4020829098763",
+    "4020829098770"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Delineador de ojos líquido 01 Black",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829099104"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Sérum facial Hidratante Plus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829118164"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Sérum de noche Regenerador Intensivo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829101135"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Sérum de noche",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829062641",
+    "4020829026681"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Spray facial Cura Intensiva 03 Calmante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829097636"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Spray facial Cura Intensiva 05 Menopausia",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829102934"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Spray facial Cura Intensiva 02 Purificante a partir de 25 años",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829097575"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Spray facial Cura Intensiva 01 Purificante hasta 25 años",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829097612"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Spray facial Cura Intensiva 04 Regenerador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829102941"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Stick de uñas Nim",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "42239635"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Tónico facial Especial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829005280",
+    "4020829114241"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Tónico facial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829005242",
+    "4020829066465"
+   ]
+  },
+  {
+   "marcaKey": "drhauschka",
+   "marca": "Dr. Hauschka",
+   "nombre": "Loción para piernas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4020829006188"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Elixir de aceite de noche Re-Energizing Sleeping",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658312"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Tanned 2.0",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667369"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Medium 1.2",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667345"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de cejas tono Brown 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645480",
+    "4021457666126"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de cejas tono Blonde 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645497",
+    "4021457666133"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite labial en gel con péptidos Peachy",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457661343"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Barra de labios voluminizadora con tripéptidos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457668618"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Medium Tanned 1.8",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667352"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Light 1.0",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667338"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Volume tono Rich Burgundy 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667475"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Mascarilla reparadora de labios con péptidos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667482"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Polvos hidratantes afinadores de poros",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667437"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Volume tono Royal Blue 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667468"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo labial reparador y protector The Cube",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667307"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo limpiador fundente Calm & Comfort",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457668496",
+    "4021457668519"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Jabón de manos nutritivo basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667550",
+    "4021457667611"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Jabón de manos nutritivo limón y jengibre",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457667574"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite corporal iluminador Glow tono Honey Glow 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666584"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos reafirmante Firming",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457668403",
+    "4021457668410",
+    "4021457668427"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sérum corporal bifásico anticelulítico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664412"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel limpiador facial basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457650033",
+    "4021457650040",
+    "4021457650057",
+    "4021457663903",
+    "4021457663910"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos antiarrugas Q10 basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457638369",
+    "4021457638376",
+    "4021457638383",
+    "4021457663958",
+    "4021457663965"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite para el embarazo Mama Care",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457670093"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Polvos compactos Satin tono Medium Sand 04",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666188"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Polvos compactos Satin tono Medium 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651689"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Polvos compactos Satin tono Light 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651672"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Exfoliante de ducha Purify Me",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664085",
+    "4021457664092"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha Refresh Me",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664054",
+    "4021457664061",
+    "4021457664078"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha cremoso basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664139",
+    "4021457664146"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha y champú 2 en 1 basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457648412",
+    "4021457648474",
+    "4021457648511"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Barra de labios Melting Glow tono Glazed Honey 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666355"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Highlighter 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666300"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Blush 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666294"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas resistente al agua Butterfly Effect",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457669677",
+    "4021457669684"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite corporal iluminador Glow tono Floral Glow 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666263"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Exfoliante labial enzimático Enzyme Boost",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666102"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo desmaquillante Melt Off",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664917"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Corrector Radiant Skin tono Medium Sand 05",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666171"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos y labios My Age",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658251",
+    "4021457658350"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel fijador de cejas Brow Control tono Hazel 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457656820"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas High Lash",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657797"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel fijador de cejas Brow Control tono Transparent 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457656813"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Spray fijador de maquillaje Set & Glow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657803"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Prebase sérum iluminadora Glow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657698"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema con color con vitaminas Skin Tint tono Tanned 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657650"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema con color con vitaminas Skin Tint tono Medium 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657643"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema con color con vitaminas Skin Tint tono Light 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657636"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel dental Neutral sin flúor",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457652693"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Perfilador de labios Soft Lipliner tono Apricot 05",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457642007"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Parches de ojos Calm & Refresh",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457656622"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Fluido hidratante iluminador Glow Skin",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457656721"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite labial Juicy Lips",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654345"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Voluminizador labial efecto frío Cooling Lip Booster",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654338"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Brillo de labios High Shine Water Gloss tono Pink Lagoon 04",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654321"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Brillo de labios High Shine Water Gloss tono Hot Cherry 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654307"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Brillo de labios High Shine Water Gloss tono Cocoa 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654291"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Corrector Radiant Skin tono Medium 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654376"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Corrector Radiant Skin tono Light 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654369"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Corrector Radiant Skin tono Ivory 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457654352"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos roll-on Hydro Refresh",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457653539",
+    "4021457653584",
+    "4021457653638"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Pink Moon 09",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651818"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Amber 07",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651795"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Red Ochre 06",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651788"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Moon Shell 05",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651771"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Burnt Apricot 04",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651764"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Black Obsidian 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651757"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Walnut 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651740"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sombra de ojos Signature Colour tono Dusty Rose 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651733"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Tanned 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651726"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Base de maquillaje en crema-polvo Cream to Powder tono Light 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651719"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Polvos sueltos Invisible Finish tono transparente",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651702"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Lash to Impress tono negro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651665"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Iluminador en polvo Soft Glow tono Ethereal Light 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651658"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Colorete en polvo Velvet Blush tono Pink Orchid 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651610"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Colorete en polvo Velvet Blush tono Rosy Peach 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457651603"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema hidratante basis sensitive — código 4021457649877",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457649877"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha refrescante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457648498"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha estimulante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457648481"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Volume tono marrón",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457618187"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Volume tono negro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457618170"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha y champú Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625338"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de manos Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625239"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema calmante con microplata Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625222"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Loción corporal Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625215"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Mascarilla facial Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625116"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Fluido facial Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625109"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema facial Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457625093"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Perfilador de labios Soft Lipliner tono Red 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457624218"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Espuma limpiadora facial Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457626069"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457626052"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Jabón de manos lima Fresh Care",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457632916",
+    "4021457632985"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Jabón de manos frutal Fruity Care",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457632886"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Desodorante roll-on Neutral",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457622474"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Desodorante roll-on Natural & Refresh",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457638765",
+    "4021457638826",
+    "4021457638888"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema y mascarilla de manos de noche 2 en 1 Good Night",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645145",
+    "4021457645152",
+    "4021457645169"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de manos basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645022",
+    "4021457645039",
+    "4021457645046"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Intense Volumizing tono negro",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457646852"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono White 06",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645473"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Desmaquillante de ojos suave",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645411"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono Green 05",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645466"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono Blue 04",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645459"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono Grey 03",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645442"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono Brown 02",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645435"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Lápiz de ojos Soft Eyeliner tono Black 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457645428"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Loción corporal revitalizante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457637669"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha sólido Happy Freshness",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457648023"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel de ducha sólido High Vitality",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457648016"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Jabón de manos suave basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457632862",
+    "4021457632954"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Máscara de pestañas Lash to Impress mini",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457665006"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo labial voluminizador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457665549",
+    "4021457665556"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo labial basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457665501",
+    "4021457665518"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Bálsamo labial reparador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457665525",
+    "4021457665532"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Espuma limpiadora facial basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457649914",
+    "4021457649921",
+    "4021457663941"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de noche calmante basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457652471",
+    "4021457652488",
+    "4021457652495"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema hidratante calmante basis sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457649853",
+    "4021457649860"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de cuidado bebé y niño Delicate",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457666546"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel y champú bebé y niño",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660599",
+    "4021457665495"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Colorete en crema Floral tono Rose Charm 01",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660841"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Fluido facial anti-UV SPF 50 Glow by Nature",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457664207",
+    "4021457664214",
+    "4021457664221"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sérum de pestañas Lash Booster",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457656837"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Fluido solar Sensitive SPF 50",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457661848",
+    "4021457661855"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Loción solar infantil Sensitive SPF 50",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457661718",
+    "4021457661725"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Gel limpiador facial 2 en 1 Men sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457661619",
+    "4021457661626"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Espuma de afeitar Men sensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457661534",
+    "4021457661541",
+    "4021457662111"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Aceite de cuidado para bebé",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660650"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de cuidado bebé y niño",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660636"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de pañal bebé y niño",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660414",
+    "4021457660612"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Contorno de ojos Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658893",
+    "4021457658909",
+    "4021457658916"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Agua micelar bifásica Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658831",
+    "4021457658848",
+    "4021457658855"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Sérum Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658770",
+    "4021457658787",
+    "4021457658794"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de noche Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658749",
+    "4021457658756",
+    "4021457658763"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de día Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658718",
+    "4021457658725",
+    "4021457658732"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Leche corporal Barrier Balance",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660322",
+    "4021457660339",
+    "4021457660346"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de manos basis sensitive formato viaje",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457660117"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Elixir de aceite de noche Re-Energizing Sleeping (envase alemán)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658299"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Crema de noche Re-Energizing Sleeping",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457658268",
+    "4021457658282"
+   ]
+  },
+  {
+   "marcaKey": "lavera",
+   "marca": "Lavera",
+   "nombre": "Pigmentos sueltos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4021457657896"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Loción limpiadora y desmaquillante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011619"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Exfoliante purificante y nutritivo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011114"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Jabón neutro sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357058"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Contorno de ojos",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357256"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema hidratante nutritiva piel sensible",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105358154"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Tónico suave de rosas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011411"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema hidratante nutritiva piel seca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357850"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite corporal cítrico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011015"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite corporal anticelulítico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011213"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema reparadora de codos y talones",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357355"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Bálsamo reparador de hipérico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357553"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema reparadora de manos y uñas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357959"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite corporal antiestrías",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011718"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite corporal bebé y piel sensible",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011510"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema de pañal Culito Sano",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011312"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite regenerador de rosa mosqueta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0748252723024"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Sérum capilar nutritivo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0748252722027"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Crema hidratante nutritiva hombre",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211010810"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Aceite de afeitado y depilación",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0748252722928"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Desodorante en crema sin bicarbonato y sin aluminio",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0644216010974"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Tónico purificante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0644216011278"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Protector solar mineral facial SPF50",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0644216011773"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Protector solar mineral fluido SPF30",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0644216011674"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Hidratante fluida piel sensible",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0691835338040"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Hidratante fluida piel mixta y grasa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0691835337944"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Hidratante fluida piel seca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0691835338149"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Sérum reafirmante de noche Eterna",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0748252723123"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Embellecedora de cuello y escote Eterna",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0705105357454"
+   ]
+  },
+  {
+   "marcaKey": "matarrania",
+   "marca": "Matarrania",
+   "nombre": "Tónico regenerador Eterna",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0736211011916"
+   ]
+  },
+  {
+   "marcaKey": "naobay",
+   "marca": "Naobay",
+   "nombre": "Contorno de ojos iluminador Detox",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568905198"
+   ]
+  },
+  {
+   "marcaKey": "naobay",
+   "marca": "Naobay",
+   "nombre": "Sérum oleoso recuperador de noche Origin",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568900100"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite capilar nutritivo Romero",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638093620"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite corporal refrescante Citrus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638097048"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite de abedul para la celulitis",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638088039"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite de caléndula Baby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638096553"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite de masaje Árnica",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638099202",
+    "4001638099226"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite de masaje Caléndula",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638099295"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Acondicionador revitalizante Romero",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638580779"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Bálsamo de baño Baby Derma Malva blanca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200055447"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema pañal Baby Derma Malva blanca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200055461"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Loción hidratante Baby Derma Malva blanca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638096829"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Bálsamo multiusos Caléndula Baby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638530248"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Bálsamo para pezones Mamá",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5013455290297"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Booster Drops bronceador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200056109"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Booster Drops hidratante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200056048"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Booster Drops perfeccionador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200056093"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Bruma perfumada cuerpo y cabello Tropical Crush",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200001567",
+    "4001638581158"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Champú y gel de ducha 2 en 1 Caléndula Baby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638096515",
+    "4001638590297"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Contorno de ojos alisante Rosa mosqueta y Té blanco",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638589833"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Contorno de ojos reafirmante Granada",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638596244"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema de afeitar For Men",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596206289112"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema de día alisante Rosa mosqueta y Té blanco",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638589727"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema de día calmante Almendra",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200086007"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema de noche alisante Rosa mosqueta y Té blanco",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638589772"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema facial Baby Derma Malva blanca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638096669"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Desodorante spray Citrus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638097079",
+    "3596200062513",
+    "3596200625114"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Desodorante stick 24 h Eucalipto y Menta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200069031"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Desodorante stick 24 h Piel sensible",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200069055"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Elixir de noche EXO Boost Night Repair Granada",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638596411"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Fluido solar Glow SPF 30",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200000331"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel de ducha cremoso Citrus",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "7611916164569"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel de ducha cremoso Granada",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "7611916164576"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel de ducha cremoso Lavanda",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "7611916164583"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel de ducha Sport Árnica",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "7611916154317"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel limpiador 2 en 1 rostro y barba For Men",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638589567"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel limpiador purificante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3401360192546"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Gel piernas ligeras Mamá",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638590327"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Jabón vegetal Caléndula",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596206198001"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Leche limpiadora calmante Almendra",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200080319"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Loción capilar revitalizante Romero",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638095716"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema Skin Food Original",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638098595",
+    "4001638098649"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema Skin Food Light",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638580380",
+    "4001638501484"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Bálsamo labial reparador Skin Food Lip Balm",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596200077579"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema facial de caléndula sin perfume Baby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638590679"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Crema pañal Caléndula Baby sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638590235"
+   ]
+  },
+  {
+   "marcaKey": "weleda",
+   "marca": "Weleda",
+   "nombre": "Aceite de caléndula Baby sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4001638096560"
+   ]
+  },
+  {
+   "marcaKey": "yope",
+   "marca": "Yope",
+   "nombre": "Gel hidratante íntimo Yes, love!",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5906817700803"
+   ]
+  },
+  {
+   "marcaKey": "yope",
+   "marca": "Yope",
+   "nombre": "Mascarilla de hidrogel de noche ultrarregeneradora Waterfully Glass Mask",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5906817706706"
    ]
   }
  ]
