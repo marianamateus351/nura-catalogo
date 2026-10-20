@@ -1075,6 +1075,33 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
 - El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
+### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — ABIERTA
+Con las reglas de arriba (solo lista oficial completa; INCI de la marca o portal del fabricante; en hogar,
+ficha según el Reglamento 648/2004). Por bloques, en este orden, publicando versión y avisando a la app
+tras cada bloque. Prioridad dentro de cada bloque: lo que aparezca en Buscados. Anotar los falsos
+positivos o negativos del detector que salgan, con regresión y propuesta de regla, como hasta ahora.
+
+1. Natural y ecológica: Weleda (incl. Baby), Dr. Hauschka, Lavera, Yope, Naobay, Matarrania, Alma Secret,
+   Dr. Bronner's.
+2. Perfumería (Sephora, Druni, Primor): The Body Shop, Yves Rocher, Lush, L'Occitane, Kiehl's, Clarins,
+   Biotherm, Lancôme.
+3. Maquillaje: MAC, Fenty Beauty, Charlotte Tilbury, Benefit, Makeup Revolution, e.l.f., Rimmel, Bourjois,
+   Huda Beauty, Too Faced.
+4. Solar: Piz Buin, Hawaiian Tropic, Ecran, Australian Gold, Ladival.
+5. Dermofarmacia: Bepanthol, Leti (Letibalm, LetiAT4), Repavar, Ozoaqua, Sensilis, Rilastil, Noreva,
+   Singuladerm, Germinal, Mitosyl.
+6. Pelo profesional y caída: Matrix, Joico, Alfaparf Milano, Revlon Professional, Kevin Murphy, Nioxin,
+   Sebastian, K18, Color Wow, Phyto, René Furterer, Pilexil.
+7. Bebé: Suavinex, Bübchen, Pingo.
+8. Boca: Kin, Vitis, Fluocaril, Meridol, GUM, Curaprox, Marvis, Xerostom, Halita.
+9. Hombre: Bulldog, Proraso, Harry's, Floïd, Agua Brava y Varón Dandy (Puig), Adidas, Lady Speed Stick.
+10. Hogar: Mr. Músculo, Pato, Glade, Pronto, Febreze, Norit, Elena, Perlan, Viakal, Dr. Beckmann, Zotal,
+    Raid, Baygon, Autan, Zum. Los insecticidas van para las fichas de exposición, no para Alternativas.
+11. Marcas blancas que faltan: Alipende (Ahorramás), Gadis, Hipercor, y las propias de Primor y Druni.
+
+Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
+parodontax.es y sus códigos (2026-10-16).
+
 ### 2026-10-11 · Cuarta cola de marcas (pedida por Mariana el 2026-10-11)
 (No confundir con la "Cuarta cola, grupo 1" del 2026-10-04, ya cerrada.) Orden de trabajo: primero los bloques 1, 2 y 5
 (los que más cambian lo que ve la gente), luego 3, 4, 6, 7, 8, 9 y 10. Una marca cada vez, cerrada antes de la siguiente;
