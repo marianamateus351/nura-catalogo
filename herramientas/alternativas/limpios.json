@@ -1,5 +1,5 @@
 {
- "version": "2026-10-20-b1",
+ "version": "2026-10-20-b2",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -19754,6 +19754,195 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5906817706706"
+   ]
+  },
+  {
+   "marcaKey": "biotherm",
+   "marca": "Biotherm",
+   "nombre": "Bálsamo labial Beurre de Lèvres",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3605540569542"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Aceite corporal Tonic",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057031076"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Aceite corporal Anti-Eau",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057031182"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Tratamiento antiestrías Body Partner",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3380810277807"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Concentrado reafirmante antibolsas para ojos Lift-Affine Visage",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3380810448368"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Concentrado autobronceador para el cuerpo Addition Concentré Éclat",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3380810449051"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Concentrado autobronceador para el rostro Addition Concentré Éclat",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3380810449068"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Bálsamo reparador Calm-Essentiel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057027147"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Exfoliante corporal Tonic",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057031380"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Crema corporal Tonic",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057174445"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Concentrado de baño y ducha Tonic",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057031236"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Máscara de pestañas sérum SOS Lashes, tono caramel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057066948"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Fijador de pestañas y cejas Lash & Brow Double Fix'",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057067006"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Lápiz de cejas Crayon Sourcils, tono 02 Light Brown",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057246319"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Aceite labial voluminizador Lip Comfort Oil Cryo-Plumping, tono 00 Cryo Mint",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057334375"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Bálsamo labial voluminizador Lip Oil Balm Cryo-Plumping, tono 00 Cryo Mint",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057334405"
+   ]
+  },
+  {
+   "marcaKey": "clarins",
+   "marca": "Clarins",
+   "nombre": "Lápiz de cejas Wonder Define, tono 01 Ash Blonde",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3666057427268"
+   ]
+  },
+  {
+   "marcaKey": "loccitane",
+   "marca": "L'Occitane",
+   "nombre": "Bálsamo contorno de ojos Immortelle Précieuse",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3253581754481"
+   ]
+  },
+  {
+   "marcaKey": "thebodyshop",
+   "marca": "The Body Shop",
+   "nombre": "Manteca de Karité",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5028197937966"
+   ]
+  },
+  {
+   "marcaKey": "thebodyshop",
+   "marca": "The Body Shop",
+   "nombre": "Bálsamo Labial Protector de cáñamo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5028197252595"
+   ]
+  },
+  {
+   "marcaKey": "yvesrocher",
+   "marca": "Yves Rocher",
+   "nombre": "Lápiz de ojos resistente al agua 03 Brun",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3660005213958"
    ]
   }
  ]

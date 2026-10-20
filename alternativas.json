@@ -1,5 +1,5 @@
 {
- "version": "2026-10-20b",
+ "version": "2026-10-20c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1860,6 +1860,18 @@
        "amazon": "https://www.amazon.es/dp/B0B3R1R2DG"
       },
       {
+       "nombre": "Concentrado de baño y ducha Tonic",
+       "marca": "Clarins",
+       "barcode": "3666057031236",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Concentrado reafirmante antibolsas para ojos Lift-Affine Visage",
+       "marca": "Clarins",
+       "barcode": "3380810448368",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Clinical AHA Complex 10%",
        "marca": "Cocunat",
        "barcode": "8436570023491",
@@ -3443,6 +3455,30 @@
        "amazon": "https://www.amazon.es/dp/B0CDXTHHP9"
       },
       {
+       "nombre": "Aceite corporal Anti-Eau",
+       "marca": "Clarins",
+       "barcode": "3666057031182",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal Tonic",
+       "marca": "Clarins",
+       "barcode": "3666057031076",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema corporal Tonic",
+       "marca": "Clarins",
+       "barcode": "3666057174445",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Tratamiento antiestrías Body Partner",
+       "marca": "Clarins",
+       "barcode": "3380810277807",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Aceite corporal rosa mosqueta Deliplus",
        "marca": "Deliplus",
        "barcode": "8480000468314",
@@ -4335,6 +4371,12 @@
        "fechaLista": "09-09-2026"
       },
       {
+       "nombre": "Bálsamo labial Beurre de Lèvres",
+       "marca": "Biotherm",
+       "barcode": "3605540569542",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
        "marca": "Catrice",
        "barcode": "4059729588975",
@@ -4710,6 +4752,18 @@
        "subtipo": "perfilador",
        "tono": "050 Licence To Kiss, 100 Go All-Out",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Aceite labial voluminizador Lip Comfort Oil Cryo-Plumping, tono 00 Cryo Mint",
+       "marca": "Clarins",
+       "barcode": "3666057334375",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial voluminizador Lip Oil Balm Cryo-Plumping, tono 00 Cryo Mint",
+       "marca": "Clarins",
+       "barcode": "3666057334405",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Aceite de labios y mejillas Pop Lip + Cheek Oil · Black Honey, 44 - Pink Honey, 33 - Nude Honey",
@@ -5994,6 +6048,12 @@
        "amazon": "https://www.amazon.es/dp/B08JGKZ34S"
       },
       {
+       "nombre": "Bálsamo Labial Protector de cáñamo",
+       "marca": "The Body Shop",
+       "barcode": "5028197252595",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
        "marca": "The INKEY List",
        "barcode": "5060879826755",
@@ -6216,6 +6276,12 @@
        "marca": "Klorane",
        "barcode": "3282770396850",
        "fechaLista": "16-10-2026"
+      },
+      {
+       "nombre": "Bálsamo contorno de ojos Immortelle Précieuse",
+       "marca": "L'Occitane",
+       "barcode": "3253581754481",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Hyalu B5 Sérum de ojos",
@@ -6844,6 +6910,12 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Exfoliante corporal Tonic",
+       "marca": "Clarins",
+       "barcode": "3666057031380",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Tónico exfoliante Clarifying Lotion 2",
        "marca": "Clinique",
        "barcode": "0020714462765",
@@ -7310,6 +7382,12 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CW6BKQ9R"
+      },
+      {
+       "nombre": "Bálsamo reparador Calm-Essentiel",
+       "marca": "Clarins",
+       "barcode": "3666057027147",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Pomada del pañal sin perfume Deliplus",
@@ -7966,6 +8044,18 @@
        "amazon": "https://www.amazon.es/dp/B0DTYYKP3B"
       },
       {
+       "nombre": "Concentrado autobronceador para el cuerpo Addition Concentré Éclat",
+       "marca": "Clarins",
+       "barcode": "3380810449051",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Concentrado autobronceador para el rostro Addition Concentré Éclat",
+       "marca": "Clarins",
+       "barcode": "3380810449068",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Delial Natural Bronzer Gotas Faciales Autobronceadoras con Ácido hialurónico y Agua de",
        "marca": "Garnier",
        "barcode": "3600542512848",
@@ -7989,6 +8079,12 @@
        "marca": "Avène",
        "barcode": "3282770207224",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas sérum SOS Lashes, tono caramel",
+       "marca": "Clarins",
+       "barcode": "3666057066948",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Máscara de pestañas rizadora Maxi Mod Length & Curl Mascara",
@@ -8669,6 +8765,24 @@
        "subtipo": "eyeliner",
        "tono": "060 Kept Close, 090 Lasting Touch",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Fijador de pestañas y cejas Lash & Brow Double Fix'",
+       "marca": "Clarins",
+       "barcode": "3666057067006",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas Crayon Sourcils, tono 02 Light Brown",
+       "marca": "Clarins",
+       "barcode": "3666057246319",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas Wonder Define, tono 01 Ash Blonde",
+       "marca": "Clarins",
+       "barcode": "3666057427268",
+       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Eyeliner Quickliner For Eyes Intense · 07 - Ivy, 09 - Ebony, 03 - Chocolate, 05 - Charcoal",
@@ -10566,6 +10680,12 @@
        "barcode": "3473311875013",
        "subtipo": "cejas",
        "fechaLista": "05-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos resistente al agua 03 Brun",
+       "marca": "Yves Rocher",
+       "barcode": "3660005213958",
+       "fechaLista": "20-10-2026"
       }
      ]
     },
