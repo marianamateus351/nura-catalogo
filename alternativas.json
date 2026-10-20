@@ -1,5 +1,5 @@
 {
- "version": "2026-10-20a",
+ "version": "2026-10-20b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -457,12 +457,6 @@
        "barcode": "8800311121768",
        "subtipo": "gel-espuma",
        "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Spray limpiador de manos orgánico Menta",
-       "marca": "Dr. Bronner's",
-       "barcode": "0018787362372",
-       "fechaLista": "20-10-2026"
       },
       {
        "nombre": "Bálsamo limpiador facial",
@@ -1361,7 +1355,7 @@
        "fechaLista": "20-10-2026"
       },
       {
-       "nombre": "Crema hidratante basis sensitive — código 4021457649877",
+       "nombre": "Crema hidratante basis sensitive (fórmula sin alcohol)",
        "marca": "Lavera",
        "barcode": "4021457649877",
        "fechaLista": "20-10-2026"
@@ -1394,12 +1388,6 @@
        "nombre": "Crema hidratante nutritiva piel sensible",
        "marca": "Matarrania",
        "barcode": "0705105358154",
-       "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "Crema reparadora de codos y talones",
-       "marca": "Matarrania",
-       "barcode": "0705105357355",
        "fechaLista": "20-10-2026"
       },
       {
@@ -5717,12 +5705,6 @@
        "fechaLista": "20-10-2026"
       },
       {
-       "nombre": "Contorno de ojos y labios My Age",
-       "marca": "Lavera",
-       "barcode": "4021457658251",
-       "fechaLista": "20-10-2026"
-      },
-      {
        "nombre": "Exfoliante labial enzimático Enzyme Boost",
        "marca": "Lavera",
        "barcode": "4021457666102",
@@ -6282,6 +6264,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Contorno de ojos y labios My Age",
+       "marca": "Lavera",
+       "barcode": "4021457658251",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Parches de ojos Calm & Refresh",
        "marca": "Lavera",
        "barcode": "4021457656622",
@@ -6291,6 +6279,12 @@
        "nombre": "Contorno de ojos",
        "marca": "Matarrania",
        "barcode": "0705105357256",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos iluminador Detox",
+       "marca": "Naobay",
+       "barcode": "8436568905198",
        "fechaLista": "20-10-2026"
       },
       {
@@ -7068,12 +7062,6 @@
        "fechaLista": "10-10-2026"
       },
       {
-       "nombre": "Crema y mascarilla de manos de noche 2 en 1 Good Night",
-       "marca": "Lavera",
-       "barcode": "4021457645145",
-       "fechaLista": "20-10-2026"
-      },
-      {
        "nombre": "Mascarilla facial Neutral",
        "marca": "Lavera",
        "barcode": "4021457625116",
@@ -7791,6 +7779,18 @@
        "nombre": "Crema de manos Neutral",
        "marca": "Lavera",
        "barcode": "4021457625239",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema y mascarilla de manos de noche 2 en 1 Good Night",
+       "marca": "Lavera",
+       "barcode": "4021457645145",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema reparadora de codos y talones",
+       "marca": "Matarrania",
+       "barcode": "0705105357355",
        "fechaLista": "20-10-2026"
       },
       {
@@ -10952,12 +10952,6 @@
        "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Highlighter 03",
        "marca": "Lavera",
        "barcode": "4021457666300",
-       "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "Contorno de ojos iluminador Detox",
-       "marca": "Naobay",
-       "barcode": "8436568905198",
        "fechaLista": "20-10-2026"
       },
       {

@@ -1135,6 +1135,12 @@ cargó la gama entera de cada web oficial.
   natural); siguen saltando. Weleda: 9 fichas cuya lista viene de .de/.fr sin nota siguen saltando aunque la etiqueta española la lleve.
 - **Nombres**: "suavizante" en el nombre hacía que el detector los tomara por suavizante de ropa (Hogar): Weleda "Aceite corporal Rosa
   mosqueta" y Yope "Leche limpiadora corporal Creamy Musk" / "de manos Creamy Amber" van sin esa palabra.
+- **Lavera, mismo nombre con dos listas**: la web publica dos "Crema hidratante basis sensitive" con listas distintas; la de
+  4021457649877 (sin alcohol) va como "Crema hidratante basis sensitive (fórmula sin alcohol)".
+- **Tipos de Alternativas (alternativas 2026-10-20b; la tabla de la app cambia igual, va en el próximo build)**: "contorno de ojos" ya
+  no cae en Labiales ni en Coloretes (Lavera Contorno de ojos y labios My Age, Naobay Contorno de ojos iluminador Detox → Contornos de
+  ojos); "mascarilla de manos" y "talones" van a Cremas de manos y pies (Lavera Good Night, Matarrania codos y talones); "manos" saca de
+  Limpiadores faciales el Spray limpiador de manos de Dr. Bronner's (queda sin tipo). Solo cambian esos 5.
 - **Propuestas de regla para Mariana (no aplicadas; necesitarían build). Regresión de cada una sobre las 11.016 fichas: 0 cambios.**
   - **A. Maltodextrina no es señal de sabor.** "Maltodextrin" está en la lista de ingredientes que marcan un aroma como sabor, pero en
     cosmética es un soporte común. Hace que dos productos de cuerpo con "Aroma" salgan como "Aroma no divulgado (sabor)" en vez de
