@@ -1158,6 +1158,10 @@ Regresión sobre las 11.882 fichas que ya había: **0 cambios**. 21 de los 621 s
 origen: 556). Sin falsos positivos ni negativos nuevos del detector (revisados BHA —incluye el "Capryloyl Salicylic Acid", como en
 La Roche-Posay—, microplásticos —PMMA, nylon-12, polietileno y acetato de celulosa, según el criterio del 2026-10-07—, oxibenzona en 7
 geles de The Body Shop y "Aroma/Flavor" de labiales como sabor).
+- **Tipos de Alternativas (alternativas 2026-10-20d; la tabla de la app cambia igual, va en el próximo build)**: "baño y ducha" cuenta
+  como gel de ducha (Clarins Concentrado de baño y ducha Tonic, que caía en Sérums) y "para ojos" como contorno de ojos (Clarins
+  Lift-Affine Visage, que caía en Sérums; entran además Dr. Hauschka Revitalizante ocular y essence Stick para ojos Bright Eyes!, que no
+  tenían tipo). Solo cambian esos 4.
 - **Bloqueadas, 0 productos (reto anti-bot; no se intentó sortear)**: **Lush** (Cloudflare en lush.com y todas sus variantes),
   **Kiehl's** (Cloudflare en kiehls.es y las europeas; el portal "Inside our products" de L'Oréal ya no existe) y **Lancôme** (Cloudflare en
   lancome.es y casi todas las europeas; lancome.se/.dk cargan y dan el EAN, pero no publican la lista). Para cargarlas haría falta otra

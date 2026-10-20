@@ -1,5 +1,5 @@
 {
- "version": "2026-10-20c",
+ "version": "2026-10-20d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1860,18 +1860,6 @@
        "amazon": "https://www.amazon.es/dp/B0B3R1R2DG"
       },
       {
-       "nombre": "Concentrado de baño y ducha Tonic",
-       "marca": "Clarins",
-       "barcode": "3666057031236",
-       "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "Concentrado reafirmante antibolsas para ojos Lift-Affine Visage",
-       "marca": "Clarins",
-       "barcode": "3380810448368",
-       "fechaLista": "20-10-2026"
-      },
-      {
        "nombre": "Clinical AHA Complex 10%",
        "marca": "Cocunat",
        "barcode": "8436570023491",
@@ -3161,6 +3149,12 @@
        "nombre": "Gel de baño cremoso Cleopatra",
        "marca": "Alma Secret",
        "barcode": "8436568711515",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Concentrado de baño y ducha Tonic",
+       "marca": "Clarins",
+       "barcode": "3666057031236",
        "fechaLista": "20-10-2026"
       },
       {
@@ -6192,6 +6186,12 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Concentrado reafirmante antibolsas para ojos Lift-Affine Visage",
+       "marca": "Clarins",
+       "barcode": "3380810448368",
+       "fechaLista": "20-10-2026"
+      },
+      {
        "nombre": "Contorno de ojos Advanced Snail Peptide Eye Cream",
        "marca": "COSRX",
        "barcode": "8809598451070",
@@ -6208,6 +6208,12 @@
        "nombre": "Fluido contorno de ojos",
        "marca": "Dr. Hauschka",
        "barcode": "4020829006409",
+       "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Revitalizante ocular (compresas para ojos)",
+       "marca": "Dr. Hauschka",
+       "barcode": "4020829077096",
        "fechaLista": "20-10-2026"
       },
       {
@@ -6230,6 +6236,12 @@
        "barcode": "8809255788358",
        "fechaLista": "16-09-2026",
        "amazon": "https://www.amazon.es/dp/B0F3BBYT3L"
+      },
+      {
+       "nombre": "Stick para ojos BRIGHT EYES!",
+       "marca": "essence",
+       "barcode": "4059729421401",
+       "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Hyper-Concentrate (contorno de ojos para ojeras y arrugas) 15 ml",
