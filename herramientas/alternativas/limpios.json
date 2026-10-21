@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b7",
+ "version": "2026-10-21-b8",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26274,6 +26274,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4065331005106"
+   ]
+  },
+  {
+   "marcaKey": "vitis",
+   "marca": "Vitis",
+   "nombre": "Gel bálsamo para encías Vitis Baby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8427426047181"
    ]
   }
  ]
