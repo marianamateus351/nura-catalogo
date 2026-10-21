@@ -1,5 +1,5 @@
 {
- "version": "2026-10-20d",
+ "version": "2026-10-21a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1102,6 +1102,18 @@
        "amazon": "https://www.amazon.es/dp/B0FHQ1Z14S"
       },
       {
+       "nombre": "Crema hidratante Charlotte's Magic Cream",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446656849",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema hidratante en gel Charlotte's Magic Water Cream",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446624008",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Crema Azelaic Acid 10 B5 Redness Soothing Cream",
        "marca": "COSRX",
        "barcode": "8800311122239",
@@ -1978,6 +1990,12 @@
        "amazon": "https://www.amazon.es/dp/B0C31CJ7TD"
       },
       {
+       "nombre": "Sérum facial Holy Hydration! Thirst Burst Drops",
+       "marca": "e.l.f.",
+       "barcode": "0609332575875",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Centella Red Serum 30 ml",
        "marca": "Erborian",
        "barcode": "8809255789652",
@@ -2156,6 +2174,42 @@
        "marca": "Naobay",
        "barcode": "8436568900100",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 030 Light, 040 Ivory, 045 Classic Ivory, 055 Classic Beige",
+       "marca": "Rimmel",
+       "barcode": "3616307838412",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 050 Sand, 060 Light Honey, 065 Rose Honey",
+       "marca": "Rimmel",
+       "barcode": "3616307838443",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 090 Toffee",
+       "marca": "Rimmel",
+       "barcode": "3616307838481",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 100 Mocha",
+       "marca": "Rimmel",
+       "barcode": "3616307838498",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 110 Warm Coconut",
+       "marca": "Rimmel",
+       "barcode": "3616307838504",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 120 Tiramisu",
+       "marca": "Rimmel",
+       "barcode": "3616307838511",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Ampolla Azelaic Acid 10 Ampoule",
@@ -3449,6 +3503,12 @@
        "amazon": "https://www.amazon.es/dp/B0CDXTHHP9"
       },
       {
+       "nombre": "Crema corporal Charlotte's Magic Body Cream Original",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446615204",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Aceite corporal Anti-Eau",
        "marca": "Clarins",
        "barcode": "3666057031182",
@@ -3696,6 +3756,12 @@
        "amazon": "https://www.amazon.es/dp/B0DP7PP4XT"
       },
       {
+       "nombre": "Prebase Stick To You Hydra Grip",
+       "marca": "Bourjois",
+       "barcode": "3616307187749",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Base de maquillaje luminosa similar a la piel",
        "marca": "Catrice",
        "barcode": "4059729587428",
@@ -3786,6 +3852,30 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Base de maquillaje Beautiful Skin Foundation 1 Neutral, 10 Neutral, 11 Cool, 2 Neutral, 2 Warm y 14 tonos más",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446645621",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Beautiful Skin Foundation 10 Warm, 11 Neutral, 11 Warm, 12 Neutral, 13 Warm y 6 tonos más",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446645539",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector Airbrush Flawless Blur Concealer",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446658607",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Polvos sueltos Airbrush Flawless Blur",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446661492",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
        "marca": "Deliplus",
        "barcode": "8402001015700",
@@ -3870,6 +3960,30 @@
        "fechaLista": "09-10-2026"
       },
       {
+       "nombre": "Bruma fijadora de maquillaje Power Grip Dewy Setting Spray",
+       "marca": "e.l.f.",
+       "barcode": "0609332847590",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bruma fijadora de maquillaje Power Grip Gold Drip Setting Spray",
+       "marca": "e.l.f.",
+       "barcode": "0609332854970",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bruma fijadora de maquillaje Power Grip Rosé Setting Spray",
+       "marca": "e.l.f.",
+       "barcode": "0609332811799",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Polvos Halo Glow Setting Powder (tono Deep/Rich)",
+       "marca": "e.l.f.",
+       "barcode": "0609332819269",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Super BB Concealer SPF 25 (Clair, Nude, Doré, Caramel, Chocolat) 10 ml",
        "marca": "Erborian",
        "barcode": "8809255788150",
@@ -3930,6 +4044,18 @@
        "barcode": "4005800107832",
        "subtipo": "corrector",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Polvos compactos Easy Bake",
+       "marca": "Huda Beauty",
+       "barcode": "6294018408925",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Prebase Easy Blur",
+       "marca": "Huda Beauty",
+       "barcode": "6294018405696",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Base de maquillaje en barra Just Cavalli X Kiko Milano Sun-Drape Stick Foundation Spf50",
@@ -4282,11 +4408,65 @@
        "fechaLista": "30-09-2026"
       },
       {
+       "nombre": "Base de maquillaje en polvo compacto Lasting Finish 25h · 001 Fair Porcelain, 003 Sesame, 005 Ivory, 006 Rose Vanilla",
+       "marca": "Rimmel",
+       "barcode": "3616305988133",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector hidratante Kind & Free",
+       "marca": "Rimmel",
+       "barcode": "3616302989638",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector y base de maquillaje Multi-Tasker Wake Me Up",
+       "marca": "Rimmel",
+       "barcode": "3616305714831",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Prebase de maquillaje hidratante Lasting Finish 48h",
+       "marca": "Rimmel",
+       "barcode": "3616305705112",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Prebase de maquillaje Multi-Tasker All Day Grip",
+       "marca": "Rimmel",
+       "barcode": "3616305705136",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Prebase de maquillaje Multi-Tasker Grip Getter",
+       "marca": "Rimmel",
+       "barcode": "5056166813867",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Polvo Vitamin C 96 Powder",
        "marca": "SKIN1004",
        "barcode": "8809913837053",
        "subtipo": "polvos",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Born This Way Undetectable Medium-To-Full Coverage Foundation",
+       "marca": "Too Faced",
+       "barcode": "0651986027408",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector Born This Way Super Coverage Multi-Use Concealer",
+       "marca": "Too Faced",
+       "barcode": "0651986006489",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Polvos fijadores Born This Way Soft Blur Flexible Finish Setting Powder",
+       "marca": "Too Faced",
+       "barcode": "0651986021505",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
@@ -4369,6 +4549,48 @@
        "marca": "Biotherm",
        "barcode": "3605540569542",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Colorete de labios y mejillas Macaron Melt 01 Macar'rose",
+       "marca": "Bourjois",
+       "barcode": "3616307188135",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete de labios y mejillas Macaron Melt 02 Honey Nougat",
+       "marca": "Bourjois",
+       "barcode": "3616307188142",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete de labios y mejillas Macaron Melt 03 Peach Tatin",
+       "marca": "Bourjois",
+       "barcode": "3616307188159",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete de labios y mejillas Macaron Melt 04 Pink Guava",
+       "marca": "Bourjois",
+       "barcode": "3616307188166",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete de labios y mejillas Macaron Melt 05 Berry Smoothy",
+       "marca": "Bourjois",
+       "barcode": "3616307188173",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de labios Velvet The Pencil",
+       "marca": "Bourjois",
+       "barcode": "3616304016233",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Velvet Contour",
+       "marca": "Bourjois",
+       "barcode": "3052503300214",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
@@ -4748,6 +4970,168 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Barra de labios Hot Lips 2 Dancefloor Princess",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446642774",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Hot Lips 2 Glowing Jen",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446642767",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G 90s Pink y Icon Baby",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446628877",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Candy Chic",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446628891",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Coral Kiss y Night Crimson",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446642996",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Nude Kate y Stoned Rose",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446643078",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Pillow Talk Fair",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446634243",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Red Carpet Pink",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446628907",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G Rose to Fame",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446628914",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios K.I.S.S.I.N.G So Red",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446643061",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mascarilla de labios Life Changing Lip Mask Magic Sheer Glow",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446655521",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Deep",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651950",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Fair",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651929",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Medium",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651936",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Tan",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651943",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat 90s Pink",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446634663",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat Icon Baby",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446659215",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat Mark of a Kiss",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446634687",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat Pillow Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446648516",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat Pillow Talk Fair",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446659338",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat Red Carpet Red",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446634694",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Cheat The Queen",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446634670",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tinte de labios en bálsamo Pillow Talk Blush Balm 90s Kiss",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446657976",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tinte de labios en bálsamo Pillow Talk Blush Balm Blushed Jam",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446657921",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tinte de labios en bálsamo Pillow Talk Blush Balm Blushed Rose y Pillow Talk Medium",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446657938",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tinte de labios en bálsamo Pillow Talk Blush Balm Cherry Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446657969",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tinte de labios en bálsamo Pillow Talk Blush Balm Pillow Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446657983",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Aceite labial voluminizador Lip Comfort Oil Cryo-Plumping, tono 00 Cryo Mint",
        "marca": "Clarins",
        "barcode": "3666057334375",
@@ -4815,6 +5199,126 @@
        "barcode": "3282770395716",
        "subtipo": "balsamo",
        "fechaLista": "24-09-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Cinnamatic)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220898",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Dark Cocoa)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220904",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Doppio Espresso)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220843",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Mauve Aside)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220942",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Mocha Move)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220867",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Pinky Swear)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220928",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Plum & Get It)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220980",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Red Receipt)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220973",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono That Merlot Tho)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220850",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tono Truth or Bare)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220911",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tonos Fuchsia Forward y Espresso Martini)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220881",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Cream Glide Lip Liner (tonos Spill the Tea y Baddest Beige)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220966",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Balletcore)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836075",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Beigebait)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836112",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Chai Me)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836129",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Gone Garnet)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836105",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Hotvine)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836198",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Mauvelous)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836082",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Molten Chocolate)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836181",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Rotulador de labios Main Stain Lip Marker (tono Rose Macaron)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836099",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "LÁPIZ DE LABIOS POUTline soft glide (tono 02 Pinky Promise)",
@@ -4891,6 +5395,18 @@
        "subtipo": "balsamo",
        "fechaLista": "24-09-2026",
        "amazon": "https://www.amazon.es/dp/B0GKNKLZ7K"
+      },
+      {
+       "nombre": "Perfilador de labios automático Lip Contour 2.0 · Deep Rose, Honey Beige, Muted Pink, Pinky Brown, Rusty Pink y 5 tonos más",
+       "marca": "Huda Beauty",
+       "barcode": "6291106035131",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios automático Lip Contour 2.0 · Universal Red",
+       "marca": "Huda Beauty",
+       "barcode": "6291106035155",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Barra de labios Candy Crush™ Ultra-Shimmer Lipstick · 01",
@@ -5783,6 +6299,1302 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Barra de labios Frost Lipstick",
+       "marca": "MAC",
+       "barcode": "0773602577064",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Angel",
+       "marca": "MAC",
+       "barcode": "0773602577057",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Bombshell",
+       "marca": "MAC",
+       "barcode": "0773602577071",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Bronze Shimmer",
+       "marca": "MAC",
+       "barcode": "0773602577088",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · CB 96",
+       "marca": "MAC",
+       "barcode": "0773602577095",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Fabby",
+       "marca": "MAC",
+       "barcode": "0773602577125",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Fresh Moroccan",
+       "marca": "MAC",
+       "barcode": "0773602577132",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Gel",
+       "marca": "MAC",
+       "barcode": "0773602577149",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · New York Apple",
+       "marca": "MAC",
+       "barcode": "0773602577170",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Frost Lipstick · Plum Dandy",
+       "marca": "MAC",
+       "barcode": "0773602577200",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · $ellout",
+       "marca": "MAC",
+       "barcode": "0773602790340",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Alone Time",
+       "marca": "MAC",
+       "barcode": "0773602790104",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Beam There, Done That",
+       "marca": "MAC",
+       "barcode": "0773602790135",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Business Casual",
+       "marca": "MAC",
+       "barcode": "0773602790142",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Can't Dull My Shine",
+       "marca": "MAC",
+       "barcode": "0773602790159",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Cockney",
+       "marca": "MAC",
+       "barcode": "0773602790173",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Figgy",
+       "marca": "MAC",
+       "barcode": "0773602790258",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Frienda",
+       "marca": "MAC",
+       "barcode": "0773602790180",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Gummy Bare",
+       "marca": "MAC",
+       "barcode": "0773602790197",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Housewife",
+       "marca": "MAC",
+       "barcode": "0773602790326",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Hug Me",
+       "marca": "MAC",
+       "barcode": "0773602790203",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · I Deserve This",
+       "marca": "MAC",
+       "barcode": "0773602790210",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · It's Yours",
+       "marca": "MAC",
+       "barcode": "0773602790166",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Kissing Strangers",
+       "marca": "MAC",
+       "barcode": "0773602790128",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Lady Bug",
+       "marca": "MAC",
+       "barcode": "0773602790227",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Like I Was Saying…",
+       "marca": "MAC",
+       "barcode": "0773602790234",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Lil Squirt",
+       "marca": "MAC",
+       "barcode": "0773602790371",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Local Celeb",
+       "marca": "MAC",
+       "barcode": "0773602790241",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · No Photos",
+       "marca": "MAC",
+       "barcode": "0773602790265",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Not Humble, Just Bragging",
+       "marca": "MAC",
+       "barcode": "0773602790272",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Oh, Goodie",
+       "marca": "MAC",
+       "barcode": "0773602790289",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Party Trick",
+       "marca": "MAC",
+       "barcode": "0773602790418",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · PDA",
+       "marca": "MAC",
+       "barcode": "0773602790296",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Pigment Of Your Imagination",
+       "marca": "MAC",
+       "barcode": "0773602790302",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Posh Pit",
+       "marca": "MAC",
+       "barcode": "0773602790319",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · See Sheer",
+       "marca": "MAC",
+       "barcode": "0773602790333",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Signature Move",
+       "marca": "MAC",
+       "barcode": "0773602790357",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Spice It Up",
+       "marca": "MAC",
+       "barcode": "0773602790364",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Sunny Vanilla",
+       "marca": "MAC",
+       "barcode": "0773602790111",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Surprise",
+       "marca": "MAC",
+       "barcode": "0773602790388",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Syrup",
+       "marca": "MAC",
+       "barcode": "0773602790395",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Thanks, It's MAC",
+       "marca": "MAC",
+       "barcode": "0773602790401",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Uncensored",
+       "marca": "MAC",
+       "barcode": "0773602790425",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Well, Well, Well…",
+       "marca": "MAC",
+       "barcode": "0773602790432",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Work Crush",
+       "marca": "MAC",
+       "barcode": "0773602790449",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Antique Velvet",
+       "marca": "MAC",
+       "barcode": "0773602685578",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Avant Garnet",
+       "marca": "MAC",
+       "barcode": "0773602685196",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Bare M·A·Cximal",
+       "marca": "MAC",
+       "barcode": "0773602741052",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Candy Yum Yum",
+       "marca": "MAC",
+       "barcode": "0773602685462",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Captive Audience",
+       "marca": "MAC",
+       "barcode": "0773602685073",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Caviar",
+       "marca": "MAC",
+       "barcode": "0773602684977",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Chili",
+       "marca": "MAC",
+       "barcode": "0773602697014",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Cool Teddy",
+       "marca": "MAC",
+       "barcode": "0773602741038",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · D For Danger",
+       "marca": "MAC",
+       "barcode": "0773602685585",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Dare Me",
+       "marca": "MAC",
+       "barcode": "0773602724789",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Diva",
+       "marca": "MAC",
+       "barcode": "0773602703982",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Everybody'S Heroine",
+       "marca": "MAC",
+       "barcode": "0773602704002",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Flamingo",
+       "marca": "MAC",
+       "barcode": "0773602707928",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Folio",
+       "marca": "MAC",
+       "barcode": "0773602741045",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Forever Curious",
+       "marca": "MAC",
+       "barcode": "0773602685554",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Get The Hint?",
+       "marca": "MAC",
+       "barcode": "0773602685516",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Go Retro",
+       "marca": "MAC",
+       "barcode": "0773602685066",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Honeylove",
+       "marca": "MAC",
+       "barcode": "0773602685158",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Hot Girl Pink",
+       "marca": "MAC",
+       "barcode": "0773602768714",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Keep Dreaming",
+       "marca": "MAC",
+       "barcode": "0773602685547",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Kinda Sexy",
+       "marca": "MAC",
+       "barcode": "0773602685165",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Lady Danger",
+       "marca": "MAC",
+       "barcode": "0773602684953",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Lipstick Snob",
+       "marca": "MAC",
+       "barcode": "0773602685042",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Marrakesh",
+       "marca": "MAC",
+       "barcode": "0773602684854",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Mehr",
+       "marca": "MAC",
+       "barcode": "0773602703999",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Mull It To The Max",
+       "marca": "MAC",
+       "barcode": "0773602685011",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · No Coral-Ation",
+       "marca": "MAC",
+       "barcode": "0773602684922",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Overstatement",
+       "marca": "MAC",
+       "barcode": "0773602684939",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Red Rock",
+       "marca": "MAC",
+       "barcode": "0773602685561",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Ring The Alarm",
+       "marca": "MAC",
+       "barcode": "0773602685523",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Ruby Woo",
+       "marca": "MAC",
+       "barcode": "0773602697113",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Russian Red",
+       "marca": "MAC",
+       "barcode": "0773602684861",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Sin",
+       "marca": "MAC",
+       "barcode": "0773602685486",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Smoked Purple",
+       "marca": "MAC",
+       "barcode": "0773602685493",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Soar",
+       "marca": "MAC",
+       "barcode": "0773602685622",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Sweet Deal",
+       "marca": "MAC",
+       "barcode": "0773602685530",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Taupe",
+       "marca": "MAC",
+       "barcode": "0773602684892",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Twig Twist",
+       "marca": "MAC",
+       "barcode": "0773602685080",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Unbothered",
+       "marca": "MAC",
+       "barcode": "0773602768721",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Velvet Teddy",
+       "marca": "MAC",
+       "barcode": "0773602697106",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Verve Swerve",
+       "marca": "MAC",
+       "barcode": "0773602685134",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Warm Teddy",
+       "marca": "MAC",
+       "barcode": "0773602697021",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Whirl",
+       "marca": "MAC",
+       "barcode": "0773602685592",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Yash",
+       "marca": "MAC",
+       "barcode": "0773602685455",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · You Wouldn't Get It",
+       "marca": "MAC",
+       "barcode": "0773602685608",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Empowered",
+       "marca": "MAC",
+       "barcode": "0773602686216",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Equality",
+       "marca": "MAC",
+       "barcode": "0773602707935",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Heart",
+       "marca": "MAC",
+       "barcode": "0773602686209",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Planet",
+       "marca": "MAC",
+       "barcode": "0773602693191",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Amorous",
+       "marca": "MAC",
+       "barcode": "0773602663804",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Blankety",
+       "marca": "MAC",
+       "barcode": "0773602663620",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brave",
+       "marca": "MAC",
+       "barcode": "0773602663736",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brave Red",
+       "marca": "MAC",
+       "barcode": "0773602663569",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brick-O-La",
+       "marca": "MAC",
+       "barcode": "0773602720361",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Call It Cozy",
+       "marca": "MAC",
+       "barcode": "0773602663408",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Centre Of Attention",
+       "marca": "MAC",
+       "barcode": "0773602720330",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Creme In Your Coffee",
+       "marca": "MAC",
+       "barcode": "0773602720354",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Cyber",
+       "marca": "MAC",
+       "barcode": "0773602663828",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Del Rio",
+       "marca": "MAC",
+       "barcode": "0773602663668",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Dubonnet",
+       "marca": "MAC",
+       "barcode": "0773602720347",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Espresso Yourself",
+       "marca": "MAC",
+       "barcode": "0773602663538",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Film Noir",
+       "marca": "MAC",
+       "barcode": "0773602663682",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Fleshpot",
+       "marca": "MAC",
+       "barcode": "0773602741953",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Grapefruit Pucker",
+       "marca": "MAC",
+       "barcode": "0773602663453",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Guessing Game",
+       "marca": "MAC",
+       "barcode": "0773602663392",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · HodgePodge",
+       "marca": "MAC",
+       "barcode": "0773602741960",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Left On Red",
+       "marca": "MAC",
+       "barcode": "0773602663385",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Lovers Only",
+       "marca": "MAC",
+       "barcode": "0773602663798",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Maraschino, Much?",
+       "marca": "MAC",
+       "barcode": "0773602663378",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Modesty",
+       "marca": "MAC",
+       "barcode": "0773602663705",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Morange",
+       "marca": "MAC",
+       "barcode": "0773602663842",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Myth",
+       "marca": "MAC",
+       "barcode": "0773602663613",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Paramount",
+       "marca": "MAC",
+       "barcode": "0773602720385",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Peachstock",
+       "marca": "MAC",
+       "barcode": "0773602741946",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Pink Peppermint",
+       "marca": "MAC",
+       "barcode": "0773602663484",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Popstar Pink",
+       "marca": "MAC",
+       "barcode": "0773602663460",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Rebel",
+       "marca": "MAC",
+       "barcode": "0773602720378",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Sitting Pretty",
+       "marca": "MAC",
+       "barcode": "0773602663446",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Stone",
+       "marca": "MAC",
+       "barcode": "0773602741939",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Sweetheart",
+       "marca": "MAC",
+       "barcode": "0773602663514",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Tilted Denim",
+       "marca": "MAC",
+       "barcode": "0773602719266",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Truth Be Untold",
+       "marca": "MAC",
+       "barcode": "0773602663422",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · A Little Tamed",
+       "marca": "MAC",
+       "barcode": "0773602746446",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Be My Bridesmaid",
+       "marca": "MAC",
+       "barcode": "0773602746538",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Big Promotion",
+       "marca": "MAC",
+       "barcode": "0773602746477",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Brickthrough",
+       "marca": "MAC",
+       "barcode": "0773602746453",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Chestnut",
+       "marca": "MAC",
+       "barcode": "0773602746460",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Devoted To Chili",
+       "marca": "MAC",
+       "barcode": "0773602746484",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Dubonnet Buzz",
+       "marca": "MAC",
+       "barcode": "0773602746507",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Girls Weekend",
+       "marca": "MAC",
+       "barcode": "0773602746576",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Good For You",
+       "marca": "MAC",
+       "barcode": "0773602746491",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Mandarin O",
+       "marca": "MAC",
+       "barcode": "0773602746552",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Marrakesh-Mere",
+       "marca": "MAC",
+       "barcode": "0773602746569",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Moving On Up",
+       "marca": "MAC",
+       "barcode": "0773602746606",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Mull It Over",
+       "marca": "MAC",
+       "barcode": "0773602746583",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · My Best Life",
+       "marca": "MAC",
+       "barcode": "0773602746514",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Off The Market",
+       "marca": "MAC",
+       "barcode": "0773602746521",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · On My Mind",
+       "marca": "MAC",
+       "barcode": "0773602746545",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Ready To Mingle",
+       "marca": "MAC",
+       "barcode": "0773602746590",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Ruby New",
+       "marca": "MAC",
+       "barcode": "0773602746620",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Stay Curious",
+       "marca": "MAC",
+       "barcode": "0773602746637",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Sultriness",
+       "marca": "MAC",
+       "barcode": "0773602746644",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Taken",
+       "marca": "MAC",
+       "barcode": "0773602746439",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Teddy 2.0",
+       "marca": "MAC",
+       "barcode": "0773602746651",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Turn To The Left",
+       "marca": "MAC",
+       "barcode": "0773602746668",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Twenty-Fun",
+       "marca": "MAC",
+       "barcode": "0773602746613",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Candy Yum Yummy",
+       "marca": "MAC",
+       "barcode": "0773602773251",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Chandelier",
+       "marca": "MAC",
+       "barcode": "0773602773213",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Cosmic Plum",
+       "marca": "MAC",
+       "barcode": "0773602773169",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Crown Jewel",
+       "marca": "MAC",
+       "barcode": "0773602773152",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Gem Stone",
+       "marca": "MAC",
+       "barcode": "0773602773237",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Grapeful",
+       "marca": "MAC",
+       "barcode": "0773602773244",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Lightning Bug",
+       "marca": "MAC",
+       "barcode": "0773602773183",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Lunar Violet",
+       "marca": "MAC",
+       "barcode": "0773602773206",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Mauve Matter",
+       "marca": "MAC",
+       "barcode": "0773602773220",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Moon Rocket",
+       "marca": "MAC",
+       "barcode": "0773602773190",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Red Halo",
+       "marca": "MAC",
+       "barcode": "0773602773176",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz labial Dazzlelips Crayon · Spaced Out",
+       "marca": "MAC",
+       "barcode": "0773602773145",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · A Little Tamed",
+       "marca": "MAC",
+       "barcode": "0773602784158",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Billion $ Smile",
+       "marca": "MAC",
+       "barcode": "0773602784127",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Buffiest",
+       "marca": "MAC",
+       "barcode": "0773602784301",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Burning Love",
+       "marca": "MAC",
+       "barcode": "0773602784110",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Chestnut",
+       "marca": "MAC",
+       "barcode": "0773602784325",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Creamsicle",
+       "marca": "MAC",
+       "barcode": "0773602784400",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Date Night",
+       "marca": "MAC",
+       "barcode": "0773602784394",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Date-Maker",
+       "marca": "MAC",
+       "barcode": "0773602784202",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Devoted To Chili",
+       "marca": "MAC",
+       "barcode": "0773602784189",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Fashion Emergency",
+       "marca": "MAC",
+       "barcode": "0773602784240",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Habit",
+       "marca": "MAC",
+       "barcode": "0773602784318",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · It's Personal",
+       "marca": "MAC",
+       "barcode": "0773602784295",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Make It Fashun!",
+       "marca": "MAC",
+       "barcode": "0773602784134",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Marrakesh-Mere",
+       "marca": "MAC",
+       "barcode": "0773602784233",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · More The Mehr-ier",
+       "marca": "MAC",
+       "barcode": "0773602784172",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Mull It Over",
+       "marca": "MAC",
+       "barcode": "0773602784165",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · M·A·CSmash",
+       "marca": "MAC",
+       "barcode": "0773602784141",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Over The Taupe",
+       "marca": "MAC",
+       "barcode": "0773602784219",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Pink Roses",
+       "marca": "MAC",
+       "barcode": "0773602784271",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Pretty Pleats!",
+       "marca": "MAC",
+       "barcode": "0773602784226",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Rekindled",
+       "marca": "MAC",
+       "barcode": "0773602784332",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Resort Season",
+       "marca": "MAC",
+       "barcode": "0773602784196",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Rhythm 'N' Roses",
+       "marca": "MAC",
+       "barcode": "0773602784264",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Ruby Boo",
+       "marca": "MAC",
+       "barcode": "0773602784257",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Something Borrowed",
+       "marca": "MAC",
+       "barcode": "0773602786404",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Taken",
+       "marca": "MAC",
+       "barcode": "0773602784288",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Velvet Teddy",
+       "marca": "MAC",
+       "barcode": "0773602784417",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Mousse de labios y mejillas Powder Kiss Lip + Cheek Mousse · Warm Hug",
+       "marca": "MAC",
+       "barcode": "0773602784387",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Auburn",
+       "marca": "MAC",
+       "barcode": "0773602430017",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Beet",
+       "marca": "MAC",
+       "barcode": "0773602430024",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Burgundy",
+       "marca": "MAC",
+       "barcode": "0773602430093",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Chicory",
+       "marca": "MAC",
+       "barcode": "0773602430031",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Cork",
+       "marca": "MAC",
+       "barcode": "0773602430048",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Magenta",
+       "marca": "MAC",
+       "barcode": "0773602430055",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Mahogany",
+       "marca": "MAC",
+       "barcode": "0773602430062",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Oak",
+       "marca": "MAC",
+       "barcode": "0773602430086",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Stripdown",
+       "marca": "MAC",
+       "barcode": "0773602430109",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Talking Points",
+       "marca": "MAC",
+       "barcode": "0773602430123",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Pencil · Vino",
+       "marca": "MAC",
+       "barcode": "0773602430079",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Acai",
+       "marca": "MAC",
+       "barcode": "0773602799435",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Candy Yum Yum",
+       "marca": "MAC",
+       "barcode": "0773602750849",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Chestnut",
+       "marca": "MAC",
+       "barcode": "0773602806355",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Cool Spice",
+       "marca": "MAC",
+       "barcode": "0773602799404",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Lady Danger",
+       "marca": "MAC",
+       "barcode": "0773602750870",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · MACchiato",
+       "marca": "MAC",
+       "barcode": "0773602799411",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Marrakesh",
+       "marca": "MAC",
+       "barcode": "0773602750887",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Nightmoth",
+       "marca": "MAC",
+       "barcode": "0773602750894",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Ribbon",
+       "marca": "MAC",
+       "barcode": "0773602750856",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Root For Me!",
+       "marca": "MAC",
+       "barcode": "0773602750832",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Syrup",
+       "marca": "MAC",
+       "barcode": "0773602799428",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Velvet Teddy",
+       "marca": "MAC",
+       "barcode": "0773602750900",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lipglazer Glossy Liner · Whirlin'",
+       "marca": "MAC",
+       "barcode": "0773602750863",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Prebase de labios Prep + Prime Lip",
+       "marca": "MAC",
+       "barcode": "0773602069989",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Color Sensational Perfilador de labios",
        "marca": "Maybelline New York",
        "barcode": "3600530575503",
@@ -5975,6 +7787,24 @@
        "barcode": "0810175610344",
        "subtipo": "balsamo",
        "fechaLista": "04-10-2026"
+      },
+      {
+       "nombre": "Barra para mejillas, labios y ojos Kind & Free Multi-Stick",
+       "marca": "Rimmel",
+       "barcode": "3616303995911",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con color Kind & Free",
+       "marca": "Rimmel",
+       "barcode": "3616302989171",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Oh My Plump! Lip Shaper",
+       "marca": "Rimmel",
+       "barcode": "3616307182300",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Bálsamo labial Fortune Balms · Repair",
@@ -6697,6 +8527,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Bruma facial Save Your e.l.f. hypochlorous Mist",
+       "marca": "e.l.f.",
+       "barcode": "0609332570566",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Bruma sérum Black Rice Probiotics Barrier 2% NAD+ Serum Mist",
        "marca": "Haruharu Wonder",
        "barcode": "8809532222520",
@@ -6767,6 +8603,12 @@
        "marca": "Isntree",
        "barcode": "8809800942419",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Bruma facial Prep + Prime Essential Oils Grapefruit & Chamomile",
+       "marca": "MAC",
+       "barcode": "0773602425921",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Tónico purificante",
@@ -8093,6 +9935,24 @@
        "fechaLista": "09-09-2026"
       },
       {
+       "nombre": "Máscara de pestañas Healthy Mix Clean 003 Waterproof",
+       "marca": "Bourjois",
+       "barcode": "3616305708878",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Healthy Mix Clean 01 Noir",
+       "marca": "Bourjois",
+       "barcode": "3616303398231",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Healthy Mix Clean 02 Brun",
+       "marca": "Bourjois",
+       "barcode": "3616303398293",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Máscara de pestañas sérum SOS Lashes, tono caramel",
        "marca": "Clarins",
        "barcode": "3666057066948",
@@ -8255,6 +10115,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Máscara de pestañas M·A·CStack Elevated Mascara · Denim Stack",
+       "marca": "MAC",
+       "barcode": "0773602727438",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Colossal Bubble Waterproof Máscara",
        "marca": "Maybelline New York",
        "barcode": "3600531702304",
@@ -8311,6 +10177,30 @@
        "fechaLista": "10-09-2026"
       },
       {
+       "nombre": "Máscara de pestañas Thrill Seeker Extreme Volume",
+       "marca": "Rimmel",
+       "barcode": "3616305341181",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Thrill Seeker Mega Lift · 004 Waterproof Black",
+       "marca": "Rimmel",
+       "barcode": "3616307501132",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas Thrill Seeker Mega Star",
+       "marca": "Rimmel",
+       "barcode": "3616307501156",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas volumen y longitud Kind & Free",
+       "marca": "Rimmel",
+       "barcode": "3616303262426",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Máscara de pestañas Make-Up Collection Volume Mascara",
        "marca": "Rituals",
        "barcode": "8719134204209",
@@ -8337,6 +10227,36 @@
        "subtipo": "lapiz",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09SVCKPVW"
+      },
+      {
+       "nombre": "Lápiz de cejas Brow Reveal Précision",
+       "marca": "Bourjois",
+       "barcode": "3616303184193",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas Twist Up Brow Reveal",
+       "marca": "Bourjois",
+       "barcode": "3616303397890",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de sombras Soirs de Paris 01 Gold Glamour",
+       "marca": "Bourjois",
+       "barcode": "3616306088238",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de sombras Soirs de Paris 02 Rose Glamour",
+       "marca": "Bourjois",
+       "barcode": "3616306088252",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de sombras Soirs de Paris 03 Cherry Glamour",
+       "marca": "Bourjois",
+       "barcode": "3616306088245",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "All In One Brow Perfector",
@@ -8779,6 +10699,144 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Lápiz de ojos doble Eye Colour Magic Liner Duo Copper Charge",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446629720",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Barbarella Brown",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651691",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Bedroom Black",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651684",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Fig Smoulder",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651707",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Hypnotic Peacock",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651714",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Sapphire Nights",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651721",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos kohl Rock 'n' Kohl Smokey Bronze",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446651738",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Pillow Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5060542729253",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Walk of No Shame",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446643542",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de sombras Hollywood Flawless Light Tricks",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446661539",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Amber Haze",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660648",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Astral Topaz",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660549",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Ballet Quartz",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660594",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Bronzed Garnet",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660556",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Cashmere Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660617",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Chestnut Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660631",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Cocoa Cherry Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660624",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Desert Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660570",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Mink Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660587",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Nude Sculpt",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660563",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Oyster Twilight",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660532",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Exagger-Eyes Easy Eyeshadow Stick Satin Diamonds",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660600",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Hypnotising Pop Shots Cosmic Rocks",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446646369",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Fijador de pestañas y cejas Lash & Brow Double Fix'",
        "marca": "Clarins",
        "barcode": "3666057067006",
@@ -8820,6 +10878,126 @@
        "marca": "Dr. Hauschka",
        "barcode": "4020829098756",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos No Budge Precision Liner",
+       "marca": "e.l.f.",
+       "barcode": "0609332817791",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Beige Flag)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220201",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Berry Necessary)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220188",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Black Velvet)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220102",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Brownie Points)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220126",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Cloud Nine)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220119",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono French Roast)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220195",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Limelight)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220171",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Plum & Go)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220218",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Rare Emerald)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220157",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Sky High)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220164",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Smoke Signal)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220133",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Smoky Kohl Eyeliner (tono Vintage Denim)",
+       "marca": "e.l.f.",
+       "barcode": "0609332220140",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Apricrush)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836785",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Beige & Boujee)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836747",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Cable Knit)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836761",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Currant Mood)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836792",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Extra Toasted)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836778",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Ginger Snap)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836808",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos líquida Liquid Velvet Eyeshadow (tono Pink Chiffon)",
+       "marca": "e.l.f.",
+       "barcode": "0609332836754",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "EYELINER GEL STAY & PLAY (tono 02 But First Espresso)",
@@ -9143,6 +11321,12 @@
        "subtipo": "cejas",
        "tono": "04 Black-Brown",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos Creamy Kohl · Very Brown",
+       "marca": "Huda Beauty",
+       "barcode": "6294018400912",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Delineador en gel Lasting Gel Eyeliner",
@@ -10166,6 +12350,546 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Gel de cejas MAC Pro Locked Brow Gel",
+       "marca": "MAC",
+       "barcode": "0773602695843",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Brunette",
+       "marca": "MAC",
+       "barcode": "0773602693917",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Fling",
+       "marca": "MAC",
+       "barcode": "0773602693924",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Genuine Aubergine",
+       "marca": "MAC",
+       "barcode": "0773602693931",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Hickory",
+       "marca": "MAC",
+       "barcode": "0773602693948",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Lingering",
+       "marca": "MAC",
+       "barcode": "0773602693955",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Omega",
+       "marca": "MAC",
+       "barcode": "0773602693962",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Onyx",
+       "marca": "MAC",
+       "barcode": "0773602693979",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Penny",
+       "marca": "MAC",
+       "barcode": "0773602693986",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Spiked",
+       "marca": "MAC",
+       "barcode": "0773602693993",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Strut",
+       "marca": "MAC",
+       "barcode": "0773602694006",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Stud",
+       "marca": "MAC",
+       "barcode": "0773602694013",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Stylized",
+       "marca": "MAC",
+       "barcode": "0773602694020",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Taupe",
+       "marca": "MAC",
+       "barcode": "0773602694037",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de cejas MAC Pro Brow Definer 1MM Tip Brow Pencil · Thunder",
+       "marca": "MAC",
+       "barcode": "0773602694044",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · B-a-n-a-n-a-s",
+       "marca": "MAC",
+       "barcode": "0773602732487",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Blueberry Milk",
+       "marca": "MAC",
+       "barcode": "0773602732500",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Hell-Bent",
+       "marca": "MAC",
+       "barcode": "0773602676354",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Isn't It Iron-ic?",
+       "marca": "MAC",
+       "barcode": "0773602594450",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Minty Fresh",
+       "marca": "MAC",
+       "barcode": "0773602732494",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Pool Shark",
+       "marca": "MAC",
+       "barcode": "0773602676347",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Stay The Night",
+       "marca": "MAC",
+       "barcode": "0773602594429",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz de ojos en gel M·A·C Colour Excess Gel Pencil Eye Liner · Strawberry Milk",
+       "marca": "MAC",
+       "barcode": "0773602732517",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Archetaupe",
+       "marca": "MAC",
+       "barcode": "0773602792375",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Bark",
+       "marca": "MAC",
+       "barcode": "0773602792184",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Costa Niche",
+       "marca": "MAC",
+       "barcode": "0773602792238",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Decanted",
+       "marca": "MAC",
+       "barcode": "0773602792245",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Ecru",
+       "marca": "MAC",
+       "barcode": "0773602792290",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · HodgePodging",
+       "marca": "MAC",
+       "barcode": "0773602792207",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Iceflower",
+       "marca": "MAC",
+       "barcode": "0773602792382",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · New Number",
+       "marca": "MAC",
+       "barcode": "0773602792313",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Peacock",
+       "marca": "MAC",
+       "barcode": "0773602792368",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Pitch",
+       "marca": "MAC",
+       "barcode": "0773602792399",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Prunella Prince",
+       "marca": "MAC",
+       "barcode": "0773602792344",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Smoked Quartz",
+       "marca": "MAC",
+       "barcode": "0773602792337",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Storm Cloud",
+       "marca": "MAC",
+       "barcode": "0773602792320",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Swamped",
+       "marca": "MAC",
+       "barcode": "0773602792191",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Twinkle Toast",
+       "marca": "MAC",
+       "barcode": "0773602792306",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Lápiz kajal de ojos Kajal Excess Longwear Smoky Eye Liner · Vintage Teddy",
+       "marca": "MAC",
+       "barcode": "0773602792221",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Can't Stop Don't Stop",
+       "marca": "MAC",
+       "barcode": "0773602751686",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Dreamy Beams",
+       "marca": "MAC",
+       "barcode": "0773602751693",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · I Like 2 Watch",
+       "marca": "MAC",
+       "barcode": "0773602751709",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Last Dance",
+       "marca": "MAC",
+       "barcode": "0773602751716",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Let's Roll",
+       "marca": "MAC",
+       "barcode": "0773602751723",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Oh So Gilty",
+       "marca": "MAC",
+       "barcode": "0773602751730",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Pink Lightning",
+       "marca": "MAC",
+       "barcode": "0773602751785",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Private Jet",
+       "marca": "MAC",
+       "barcode": "0773602753925",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · She Sparkles",
+       "marca": "MAC",
+       "barcode": "0773602751747",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Shine Delight",
+       "marca": "MAC",
+       "barcode": "0773602751754",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Slow Fast Slow",
+       "marca": "MAC",
+       "barcode": "0773602751778",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Try Me On",
+       "marca": "MAC",
+       "barcode": "0773602751792",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Glitter Single Eye Shadow PRO Pan · Twinkle",
+       "marca": "MAC",
+       "barcode": "0773602751761",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · After Party",
+       "marca": "MAC",
+       "barcode": "0773602752034",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Allowance",
+       "marca": "MAC",
+       "barcode": "0773602752072",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Blueprint",
+       "marca": "MAC",
+       "barcode": "0773602753949",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Bust",
+       "marca": "MAC",
+       "barcode": "0773602752126",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Cash In",
+       "marca": "MAC",
+       "barcode": "0773602752065",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Couture Copper",
+       "marca": "MAC",
+       "barcode": "0773602752041",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Discotheque",
+       "marca": "MAC",
+       "barcode": "0773602752058",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Illuminaughty",
+       "marca": "MAC",
+       "barcode": "0773602752089",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Joie De Glitz",
+       "marca": "MAC",
+       "barcode": "0773602752096",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Kiss Of Klimt",
+       "marca": "MAC",
+       "barcode": "0773602752102",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Locket",
+       "marca": "MAC",
+       "barcode": "0773602753956",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos (recarga Pro Palette) Metallic Single Eye Shadow PRO Pan · Yes To Sequins",
+       "marca": "MAC",
+       "barcode": "0773602752133",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Bedazzled Denim",
+       "marca": "MAC",
+       "barcode": "0773602754489",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Demure Diamonds",
+       "marca": "MAC",
+       "barcode": "0773602754465",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Filthy Martini",
+       "marca": "MAC",
+       "barcode": "0773602754496",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Gold Stud",
+       "marca": "MAC",
+       "barcode": "0773602754441",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Haku Haze",
+       "marca": "MAC",
+       "barcode": "0773602754472",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Subliminal Spark",
+       "marca": "MAC",
+       "barcode": "0773602754519",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos en barra Dazzleshadow Eye Sticks · Taupe It Off",
+       "marca": "MAC",
+       "barcode": "0773602754502",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Extra Dimension Eye Shadow · Smoky Mauve",
+       "marca": "MAC",
+       "barcode": "0773602378852",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Extra Dimension Eye Shadow · Stolen Moment",
+       "marca": "MAC",
+       "barcode": "0773602378791",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Extra Dimension Eye Shadow · Sweet Heat",
+       "marca": "MAC",
+       "barcode": "0773602378968",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · After Party",
+       "marca": "MAC",
+       "barcode": "0773602752140",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Allowance",
+       "marca": "MAC",
+       "barcode": "0773602752195",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Blueprint",
+       "marca": "MAC",
+       "barcode": "0773602754007",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Bust",
+       "marca": "MAC",
+       "barcode": "0773602752249",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Cash In",
+       "marca": "MAC",
+       "barcode": "0773602752188",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Couture Copper",
+       "marca": "MAC",
+       "barcode": "0773602752164",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Discotheque",
+       "marca": "MAC",
+       "barcode": "0773602752171",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Illuminaughty",
+       "marca": "MAC",
+       "barcode": "0773602752201",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Joie De Glitz",
+       "marca": "MAC",
+       "barcode": "0773602752218",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Kiss Of Klimt",
+       "marca": "MAC",
+       "barcode": "0773602752225",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Locket",
+       "marca": "MAC",
+       "barcode": "0773602754014",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Object D'Art",
+       "marca": "MAC",
+       "barcode": "0773602752232",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Metallic Single Eye Shadow Compact · Yes To Sequins",
+       "marca": "MAC",
+       "barcode": "0773602752256",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Multichrome Single Eye Shadow Compact · Ethereal",
+       "marca": "MAC",
+       "barcode": "0773602752270",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Multichrome Single Eye Shadow Compact · Kaleidoscope",
+       "marca": "MAC",
+       "barcode": "0773602752263",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sombra de ojos Multichrome Single Eye Shadow Compact · Venom",
+       "marca": "MAC",
+       "barcode": "0773602752157",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Color Tattoo Stix Sombra de ojos",
        "marca": "Maybelline New York",
        "barcode": "3600531672645",
@@ -10630,6 +13354,24 @@
        "fechaLista": "30-09-2026"
       },
       {
+       "nombre": "Lápiz de ojos Kind & Free Eye Definer · 003 Grape",
+       "marca": "Rimmel",
+       "barcode": "3616303996017",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Relleno de cejas con color Wonder'Bond Brow Filler · 001 Light Brown",
+       "marca": "Rimmel",
+       "barcode": "3616306822030",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Relleno de cejas con color Wonder'Bond Brow Filler · 002 Medium Brown, 003 Dark Brown, 004 Black Brown",
+       "marca": "Rimmel",
+       "barcode": "3616306822047",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Gel para cejas Make-Up Collection Brow Fixing Gel",
        "marca": "Rituals",
        "barcode": "8719134216127",
@@ -10694,6 +13436,12 @@
        "fechaLista": "05-10-2026"
       },
       {
+       "nombre": "Sombra de ojos en barra Quickie Queen Cream Eye Shadow Stick",
+       "marca": "Too Faced",
+       "barcode": "0651986023769",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Lápiz de ojos resistente al agua 03 Brun",
        "marca": "Yves Rocher",
        "barcode": "3660005213958",
@@ -10705,6 +13453,54 @@
      "key": "colorete",
      "nombre": "Coloretes, bronceadores e iluminadores",
      "productos": [
+      {
+       "nombre": "Bronceador y contorno Macaron Melt 01 Vanilla Foam",
+       "marca": "Bourjois",
+       "barcode": "3616307510462",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador y contorno Macaron Melt 02 Milky Mocha",
+       "marca": "Bourjois",
+       "barcode": "3616307510486",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador y contorno Macaron Melt 03 Caramel Macchiato",
+       "marca": "Bourjois",
+       "barcode": "3616307510493",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador y contorno Macaron Melt 04 Espresso Latte",
+       "marca": "Bourjois",
+       "barcode": "3616307510479",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo en stick iluminador Pretty Glassy 01 Lilac Fizz",
+       "marca": "Bourjois",
+       "barcode": "3616307502283",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo en stick iluminador Pretty Glassy 02 Pure Glass",
+       "marca": "Bourjois",
+       "barcode": "3616307502290",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo en stick iluminador Pretty Glassy 03 Beige Bliss",
+       "marca": "Bourjois",
+       "barcode": "3616307502276",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Good To Glow",
+       "marca": "Bourjois",
+       "barcode": "3616307430647",
+       "fechaLista": "21-10-2026"
+      },
       {
        "nombre": "Bronceador de crema Melted Sun",
        "marca": "Catrice",
@@ -10859,6 +13655,144 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Blushgasm",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660327",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Ecstasy",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660334",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Forbidden Cherry",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660358",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Loved Up",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660389",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Naughty Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660365",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur One Night Only",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660297",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Pillow Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660372",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Pillow Talk Dreams",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660280",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Pillow Talk Medium",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660396",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Summer Lovegasm",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660341",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete en polvo Airbrush Flawless Blush Blur Sunset Siren",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446660303",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete líquido mate Matte Beauty Blush Wand Pillow Talk",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446648882",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete líquido mate Matte Beauty Blush Wand Pillow Talk Dream Pop",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446610827",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete líquido mate Matte Beauty Blush Wand Pillow Talk Peach Pop y Pillow Talk Pink Pop",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446610803",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador prebase Hollywood Flawless Filter tamaño viaje 3 Fair, 4.5 Medium y 6.5 Deep",
+       "marca": "Charlotte Tilbury",
+       "barcode": "5056446643856",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador Soft Glam Cream Bronzer",
+       "marca": "e.l.f.",
+       "barcode": "0609332823877",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tono Cinna-Mood)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822696",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tono Gumball)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822665",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tono Heat Check)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822689",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tono Pink On It)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822634",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tono Plum Intended)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822672",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Soft Glam Cream Blush (tonos Melon-Drama y Muted Mauve)",
+       "marca": "e.l.f.",
+       "barcode": "0609332822658",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de contorno Cream Contour Palette",
+       "marca": "e.l.f.",
+       "barcode": "0609332833425",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Iluminador JELLY JEWELS glitter stick (tono 02 Diamond Dust)",
        "marca": "essence",
        "barcode": "4059729561435",
@@ -10875,6 +13809,30 @@
        "subtipo": "iluminador",
        "tono": "03 Golden Hour",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Paleta de bronceadores y contorno Bronze Filter · Light",
+       "marca": "Huda Beauty",
+       "barcode": "6294018411093",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de coloretes Blush Filter Blurring Blushlighters · Baby Pink",
+       "marca": "Huda Beauty",
+       "barcode": "6294018408604",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de coloretes Blush Filter Blurring Blushlighters · Rose Berry",
+       "marca": "Huda Beauty",
+       "barcode": "6294018408628",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Paleta de coloretes Blush Filter Blurring Blushlighters · Toasty Peach",
+       "marca": "Huda Beauty",
+       "barcode": "6294018408611",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Bronceador fluido Snow-Kissed Holiday Bounce & Blend Bronzer",
@@ -11085,6 +14043,306 @@
        "marca": "Lavera",
        "barcode": "4021457666300",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Antique Velvet",
+       "marca": "MAC",
+       "barcode": "0773602774371",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Babygirl",
+       "marca": "MAC",
+       "barcode": "0773602774258",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Blushbaby",
+       "marca": "MAC",
+       "barcode": "0773602774289",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Candy Yum Yum",
+       "marca": "MAC",
+       "barcode": "0773602791460",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · CB96",
+       "marca": "MAC",
+       "barcode": "0773602774302",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Cheeky Chili",
+       "marca": "MAC",
+       "barcode": "0773602774401",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Coppertone",
+       "marca": "MAC",
+       "barcode": "0773602785766",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Desert Rose",
+       "marca": "MAC",
+       "barcode": "0773602774241",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Film Noir Buff",
+       "marca": "MAC",
+       "barcode": "0773602774364",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Gingerly",
+       "marca": "MAC",
+       "barcode": "0773602774265",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Honeylove",
+       "marca": "MAC",
+       "barcode": "0773602774296",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · LaLaLavender",
+       "marca": "MAC",
+       "barcode": "0773602774463",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Loudspeaker",
+       "marca": "MAC",
+       "barcode": "0773602774425",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Melba",
+       "marca": "MAC",
+       "barcode": "0773602774173",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · No Filter",
+       "marca": "MAC",
+       "barcode": "0773602774357",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Peachtwist",
+       "marca": "MAC",
+       "barcode": "0773602774272",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Peachykeen",
+       "marca": "MAC",
+       "barcode": "0773602774494",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Pinch Me",
+       "marca": "MAC",
+       "barcode": "0773602774487",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Pink Flamingo",
+       "marca": "MAC",
+       "barcode": "0773602774432",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Plush",
+       "marca": "MAC",
+       "barcode": "0773602774456",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Pony",
+       "marca": "MAC",
+       "barcode": "0773602774418",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Ruby Wooed",
+       "marca": "MAC",
+       "barcode": "0773602774388",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Sinner",
+       "marca": "MAC",
+       "barcode": "0773602774395",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Snob",
+       "marca": "MAC",
+       "barcode": "0773602774470",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Sunbasque",
+       "marca": "MAC",
+       "barcode": "0773602774319",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Thanks, It's MAC",
+       "marca": "MAC",
+       "barcode": "0773602774333",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Velvet Teddy",
+       "marca": "MAC",
+       "barcode": "0773602774326",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete Skinfinish Colourstruck Blush · Your Heroine",
+       "marca": "MAC",
+       "barcode": "0773602774449",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Cloud Candy",
+       "marca": "MAC",
+       "barcode": "0773602794485",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Cloudburst",
+       "marca": "MAC",
+       "barcode": "0773602794461",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · GlowZone",
+       "marca": "MAC",
+       "barcode": "0773602794515",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Sepia Skies",
+       "marca": "MAC",
+       "barcode": "0773602794508",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Sky Kissed",
+       "marca": "MAC",
+       "barcode": "0773602794430",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Stratus",
+       "marca": "MAC",
+       "barcode": "0773602794454",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Sunset Drizzle",
+       "marca": "MAC",
+       "barcode": "0773602794478",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en crema Glow Play Bouncy Highlighter · Wind Chill",
+       "marca": "MAC",
+       "barcode": "0773602794423",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Beaming Blush",
+       "marca": "MAC",
+       "barcode": "0773602429905",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Double-Gleam",
+       "marca": "MAC",
+       "barcode": "0773602429899",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Glow with It",
+       "marca": "MAC",
+       "barcode": "0773602298570",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Oh, Darling!",
+       "marca": "MAC",
+       "barcode": "0773602298563",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Show Gold",
+       "marca": "MAC",
+       "barcode": "0773602429882",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador en polvo Extra Dimension Skinfinish · Superb",
+       "marca": "MAC",
+       "barcode": "0773602323012",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Bronze Glaze",
+       "marca": "MAC",
+       "barcode": "0773602745487",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Bubbled Over",
+       "marca": "MAC",
+       "barcode": "0773602745456",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Cherry Chrome",
+       "marca": "MAC",
+       "barcode": "0773602745470",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Double-Gleam",
+       "marca": "MAC",
+       "barcode": "0773602745494",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Extra Ordinary",
+       "marca": "MAC",
+       "barcode": "0773602745463",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Glacial",
+       "marca": "MAC",
+       "barcode": "0773602745517",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Lilac Haze",
+       "marca": "MAC",
+       "barcode": "0773602745500",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador Skinfinish Lightstruck Liquid Highlighter · Space Slippers",
+       "marca": "MAC",
+       "barcode": "0773602745449",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Lápiz Iluminador Wonder Pencil · Deep",
@@ -11555,6 +14813,54 @@
        "fechaLista": "04-10-2026"
       },
       {
+       "nombre": "Bronceador en crema Cream Crush · 001 Chai Latte, 002 Cappuccino",
+       "marca": "Rimmel",
+       "barcode": "3616307102322",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador en crema Cream Crush · 003 Caramel Spice",
+       "marca": "Rimmel",
+       "barcode": "3616307102377",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador en crema Cream Crush · 004 Cinnamon",
+       "marca": "Rimmel",
+       "barcode": "3616307102391",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador en crema Cream Crush · 006 Expresso",
+       "marca": "Rimmel",
+       "barcode": "3616307102384",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bronceador en crema Cream Crush · Cappuccino Deep",
+       "marca": "Rimmel",
+       "barcode": "3616307102360",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Colorete líquido iluminador Multi-Tasker Turbocharged Glow",
+       "marca": "Rimmel",
+       "barcode": "3616307436557",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador y prebase Multi-Tasker Better Than Filters",
+       "marca": "Rimmel",
+       "barcode": "3616305400956",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador líquido Born This Way Super Glow",
+       "marca": "Too Faced",
+       "barcode": "0651986030071",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Booster Drops bronceador",
        "marca": "Weleda",
        "barcode": "3596200056109",
@@ -11566,6 +14872,12 @@
      "key": "esmalte",
      "nombre": "Esmaltes y cuidado de uñas",
      "productos": [
+      {
+       "nombre": "Esmalte de uñas Healthy Mix Clean",
+       "marca": "Bourjois",
+       "barcode": "3616303185770",
+       "fechaLista": "21-10-2026"
+      },
       {
        "nombre": "Aura Glam Nail Polish (tono 020 Solar Seduction)",
        "marca": "Catrice",
@@ -14360,6 +17672,48 @@
        "barcode": "30145092",
        "subtipo": "color",
        "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Aceite reparador para uñas y cutículas Nail Nurse",
+       "marca": "Rimmel",
+       "barcode": "3616305156808",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas Kind & Free · 151 Fresh Undone, 152 Tidal Wave Blue, 153 Lavender Light, 154 Milky Bare, 155 Sunset Soar y 13 tonos más",
+       "marca": "Rimmel",
+       "barcode": "3616302990603",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas Wonder'Bond",
+       "marca": "Rimmel",
+       "barcode": "3616306379732",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Top coat para uñas Finishing Touch Ultra Shine",
+       "marca": "Rimmel",
+       "barcode": "3616304789908",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Top coat para uñas holográfico Finishing Touch",
+       "marca": "Rimmel",
+       "barcode": "3616305353511",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Top coat para uñas Super Gel",
+       "marca": "Rimmel",
+       "barcode": "30121188",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tratamiento de uñas Nail Nurse 7 en 1",
+       "marca": "Rimmel",
+       "barcode": "3616304789861",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Esmalte de uñas Nail Polish (6 ml) — código 8719134189605",
