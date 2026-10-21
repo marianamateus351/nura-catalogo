@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b7",
+ "version": "2026-10-21-b8",
  "marcas": [
   {
    "key": "larocheposay",
@@ -156890,6 +156890,758 @@
       "8426420082051"
      ],
      "inci": "Aqua, dicocoylethyl hydroxyethylmonium methosulfate, PEG-40 hydrogenated castor oil, avena sativa leaf extract, hydrolyzed wheat protein, glyceryl oleate, coco-glucoside, parfum, saccharomyces ferment lysate filtrate, hydrogenated vegetable glycerides citrate, tocopherol, triethyl citrate, caprylyl glycol, propylene glycol, tromethamine, trisodium ethylenediamine disuccinate, sodium benzoate, potassium sorbate, benzoic acid, citric acid"
+    }
+   ]
+  },
+  {
+   "key": "curaprox",
+   "nombre": "Curaprox",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Enzycal 1450 ppm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412425697",
+      "7612412070002"
+     ],
+     "inci": "AQUA, HYDRATED SILICA, SORBITOL, GLYCERIN, STEARETH-20, TITANIUM DIOXIDE, AROMA, DISODIUM PHOSPHATE, CARRAGEENAN, SODIUM CHLORIDE, SODIUM FLUORIDE, CITRIC ACID, SODIUM BENZOATE, SODIUM SACCHARIN, AMYLOGLUCOSIDASE, POTASSIUM THIOCYANATE, GLUCOSE OXIDASE, LIMONENE, LACTOPEROXIDASE"
+    },
+    {
+     "nombre": "Pasta de dientes Enzycal 950 ppm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412425703",
+      "7612412422436"
+     ],
+     "inci": "AQUA, HYDRATED SILICA, SORBITOL, GLYCERIN, STEARETH-20, TITANIUM DIOXIDE, AROMA, DISODIUM PHOSPHATE, CARRAGEENAN, SODIUM CHLORIDE, SODIUM FLUORIDE, CITRIC ACID, SODIUM BENZOATE, SODIUM SACCHARIN, AMYLOGLUCOSIDASE, POTASSIUM THIOCYANATE, GLUCOSE OXIDASE, LIMONENE, LACTOPEROXIDASE"
+    },
+    {
+     "nombre": "Pasta de dientes Enzycal Zero sin flúor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412425680",
+      "7612412422849"
+     ],
+     "inci": "AQUA, HYDRATED SILICA, SORBITOL, GLYCERIN, STEARETH-20, TITANIUM DIOXIDE, DISODIUM PHOSPHATE, CARRAGEENAN, SODIUM CHLORIDE, AROMA, CITRIC ACID, SODIUM BENZOATE, LIMONENE, AMYLOGLUCOSIDASE, POTASSIUM THIOCYANATE, GLUCOSE OXIDASE, LACTOPEROXIDASE"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Black is White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412425895",
+      "7612412423822"
+     ],
+     "inci": "AQUA, SORBITOL, GLYCERIN, HYDRATED SILICA, CHARCOAL POWDER, AROMA, DECYL GLUCOSIDE, COCAMIDOPROPYL BETAINE, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, TOCOPHEROL, MICA, HYDROXYAPATITE (NANO), POTASSIUM ACESULFAME, TITANIUM DIOXIDE, SODIUM CHLORIDE, MICROCRYSTALLINE CELLULOSE, POTASSIUM CHLORIDE, CITRUS LIMON PEEL OIL, SODIUM HYDROXIDE, AMYLOGLUCOSIDASE, METHYL DIISOPROPYL PROPIONAMIDE, ZEA MAYS STARCH, MENTHYL LACTATE, ETHYL MENTHANE CARBOXAMIDE, GLUCOSE OXIDASE, POTASSIUM THIOCYANATE, STEARIC ACID, MANNITOL, MALTODEXTRIN, URTICA DIOICA LEAF EXTRACT, CETEARYL ALCOHOL, HYDROGENATED LECITHIN, TIN OXIDE, SODIUM BISULFITE, LACTOPEROXIDASE, LIMONENE"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Manzana",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429510"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, DECYL GLUCOSIDE, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MALTODEXTRIN, MANNITOL, MICA, SUCRALOSE, CITRIC ACID, SODIUM HYDROXIDE, ZEA MAYS STARCH, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, GLUCOSE, SODIUM CHLORIDE, SODIUM METABISULFITE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POTASSIUM THIOCYANATE, POLYLYSINE, CETYL ALCOHOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 77492, CI 77289"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Sandía",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429497"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, DECYL GLUCOSIDE, MALTODEXTRIN, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MANNITOL, MICA, SUCRALOSE, CITRIC ACID, SODIUM HYDROXIDE, ZEA MAYS STARCH, GLUCOSE, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, SODIUM CHLORIDE, SODIUM METABISULFITE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POTASSIUM THIOCYANATE, POLYLYSINE, CETYL ALCOHOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 73360"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Gin Tonic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429541"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, MALTODEXTRIN, DECYL GLUCOSIDE, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MANNITOL, MICA, SUCRALOSE, GLUCOSE, CITRIC ACID, SODIUM HYDROXIDE, ZEA MAYS STARCH, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, SODIUM CHLORIDE, SODIUM METABISULFITE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, D-LIMONENE, POTASSIUM THIOCYANATE, POLYLYSINE, EUGENOL, CETYL ALCOHOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 73360"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Mora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429534"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, DECYL GLUCOSIDE, MALTODEXTRIN, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MANNITOL, MICA, SUCRALOSE, CITRIC ACID, GLUCOSE, SODIUM HYDROXIDE, ZEA MAYS STARCH, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, SODIUM CHLORIDE, SODIUM METABISULFITE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POTASSIUM THIOCYANATE, D-LIMONENE, POLYLYSINE, CETYL ALCOHOL, LINALOOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 77007"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Melocotón",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429503"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, DECYL GLUCOSIDE, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MANNITOL, MALTODEXTRIN, MICA, SUCRALOSE, CITRIC ACID, SODIUM HYDROXIDE, ZEA MAYS STARCH, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, SODIUM CHLORIDE, D-LIMONENE, SODIUM METABISULFITE, GLUCOSE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POTASSIUM THIOCYANATE, POLYLYSINE, CETYL ALCOHOL, LINALOOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 77492, CI 77491"
+    },
+    {
+     "nombre": "Pasta de dientes Be You Pomelo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429527"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, PANTHENOL, AROMA, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, COCAMIDOPROPYL BETAINE, MICROCRYSTALLINE CELLULOSE, DECYL GLUCOSIDE, HYDROXYAPATITE (NANO), GLUCOSE OXIDASE, MANNITOL, MALTODEXTRIN, MICA, SUCRALOSE, D-LIMONENE, CITRIC ACID, SODIUM HYDROXIDE, ZEA MAYS STARCH, GLUCOSE, ECHINACEA PURPUREA ROOT EXTRACT, TITANIUM DIOXIDE, SODIUM CHLORIDE, SODIUM METABISULFITE, CALCIUM CARBONATE, L-MENTHOL, CENTELLA ASIATICA EXTRACT, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POTASSIUM THIOCYANATE, POLYLYSINE, CETYL ALCOHOL, SILICA, POTASSIUM CHLORIDE, TIN OXIDE, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, CI 77492"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Kids Fresa 950 ppm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429602",
+      "7612412429473"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, XANTHAN GUM, SODIUM MONOFLUOROPHOSPHATE, LAURYL GLUCOSIDE, AROMA, COCAMIDOPROPYL BETAINE, SODIUM CITRATE, CITRIC ACID, SUCRALOSE, SODIUM HYDROXIDE, AMYLOGLUCOSIDASE, GLUCOSE OXIDASE, POLYLYSINE, PROPYL GALLATE"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Kids Fresa sin flúor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429466"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, XANTHAN GUM, LAURYL GLUCOSIDE, AROMA, COCAMIDOPROPYL BETAINE, SODIUM CITRATE, CITRIC ACID, SUCRALOSE, SODIUM HYDROXIDE, AMYLOGLUCOSIDASE, GLUCOSE OXIDASE, POLYLYSINE, PROPYL GALLATE"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Kids Menta 1450 ppm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429596",
+      "7612412429459"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, LAURYL GLUCOSIDE, AROMA, COCAMIDOPROPYL BETAINE, SODIUM CITRATE, CITRIC ACID, SUCRALOSE, SODIUM HYDROXIDE, AMYLOGLUCOSIDASE, GLUCOSE OXIDASE, POLYLYSINE, PROPYL GALLATE, LIMONENE"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Kids Sandía 1450 ppm",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412429619",
+      "7612412429480"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, SORBITOL, XYLITOL, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, LAURYL GLUCOSIDE, AROMA, COCAMIDOPROPYL BETAINE, BENZYL ALCOHOL, SODIUM CITRATE, CITRIC ACID, SUCRALOSE, SODIUM HYDROXIDE, AMYLOGLUCOSIDASE, GLUCOSE OXIDASE, POLYLYSINE, PROPYL GALLATE, LIMONENE, HYDROXYCITRONELLAL, LINALOOL"
+    },
+    {
+     "nombre": "Colutorio Perio Plus Balance con clorhexidina 0,05 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426762"
+     ],
+     "inci": "AQUA, XYLITOL, POLYSORBATE 20, AROMA, PHENOXYETHANOL, VP/VA COPOLYMER, CHLORHEXIDINE DIGLUCONATE, SODIUM FLUORIDE, SUCRALOSE, CETYLPYRIDINIUM CHLORIDE, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POLYEPSILON-LYSINE, CITRIC ACID, GLYCERIN, SODIUM HYDROXIDE, SODIUM CHLORIDE"
+    },
+    {
+     "nombre": "Colutorio Perio Plus Protect con clorhexidina 0,12 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426588"
+     ],
+     "inci": "AQUA, XYLITOL, POLYSORBATE 20, CHLORHEXIDINE DIGLUCONATE, AROMA, PHENOXYETHANOL, VP/VA COPOLYMER, SUCRALOSE, CETYLPYRIDINIUM CHLORIDE, CITRIC ACID, CITRUS AURANTIUM AMARA FRUIT EXTRACT, GLYCERIN, POLYEPSILON-LYSINE, SODIUM HYDROXIDE, SODIUM CHLORIDE"
+    },
+    {
+     "nombre": "Colutorio Perio Plus Forte con clorhexidina 0,2 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426731"
+     ],
+     "inci": "AQUA, XYLITOL, POLYSORBATE 20, CHLORHEXIDINE DIGLUCONATE, AROMA, PHENOXYETHANOL, VP/VA COPOLYMER, SUCRALOSE, CETYLPYRIDINIUM CHLORIDE, CITRIC ACID, CITRUS AURANTIUM AMARA FRUIT EXTRACT, GLYCERIN, POLYEPSILON-LYSINE, SODIUM HYDROXIDE, SODIUM CHLORIDE"
+    },
+    {
+     "nombre": "Colutorio Perio Plus Regenerate con clorhexidina 0,09 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426663"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, SODIUM GLUCONATE, XYLITOL, PEG-40 HYDROGENATED CASTOR OIL, POLYSORBATE 20, SODIUM HYALURONATE, AROMA, CYCLODEXTRIN, PHENOXYETHANOL, VP/VA COPOLYMER, CHLORHEXIDINE DIGLUCONATE, SUCRALOSE, CETYLPYRIDINIUM CHLORIDE, CITRUS AURANTIUM AMARA FRUIT EXTRACT, POLYEPSILON-LYSINE, DISODIUM PHOSPHATE, SODIUM PHOSPHATE, CITRIC ACID, GLYCERIN, SODIUM CHLORIDE"
+    },
+    {
+     "nombre": "Gel bucal Perio Plus Focus con clorhexidina 0,5 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426625"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, SODIUM GLUCONATE, HYDROXYETHYLCELLULOSE, XYLITOL, PEG-40 HYDROGENATED CASTOR OIL, CHLORHEXIDINE DIGLUCONATE, POLYSORBATE 20, SODIUM HYALURONATE, AROMA, CYCLODEXTRIN, PHENOXYETHANOL, VP/VA COPOLYMER, SUCRALOSE, CETYLPYRIDINIUM CHLORIDE, DISODIUM PHOSPHATE, SODIUM PHOSPHATE, CITRIC ACID, CITRUS AURANTIUM AMARA FRUIT EXTRACT, GLYCERIN, POLYEPSILON-LYSINE, SODIUM HYDROXIDE, SODIUM CHLORIDE"
+    },
+    {
+     "nombre": "Pasta de dientes Perio Plus Support con clorhexidina 0,09 %",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412426618"
+     ],
+     "inci": "AQUA, GLYCERIN, HYDRATED SILICA, XYLITOL, SODIUM GLUCONATE, XANTHAN GUM, AROMA, COCAMIDOPROPYL BETAINE, SODIUM SULFATE, SODIUM HYALURONATE, CHLORHEXIDINE DIGLUCONATE, SODIUM CHLORIDE, VP/VA COPOLYMER, SODIUM FLUORIDE, SUCRALOSE, DISODIUM PHOSPHATE, SODIUM PHOSPHATE, CITRIC ACID, CITRUS AURANTIUM AMARA FRUIT EXTRACT, SODIUM BENZOATE, POLYEPSILON-LYSINE"
+    },
+    {
+     "nombre": "Colutorio Perio Plus Zero sin clorhexidina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412431957"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, SODIUM GLUCONATE, XYLITOL, POLYGLYCERYL-3 CAPRATE/CAPRYLATE/SUCCINATE, POLYSORBATE 20, LEVULINIC ACID, GLYCERIN, SODIUM CHLORIDE, SODIUM LEVULINATE, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, CYCLODEXTRIN, SODIUM BENZOATE, SODIUM HYALURONATE, CITRIC ACID, CITRUS AURANTIUM AMARA FRUIT EXTRACT, VP/VA COPOLYMER, AROMA, MAGNOLOL, CETYLPYRIDINIUM CHLORIDE, SODIUM HYDROXIDE, SUCRALOSE, POLYEPSILON-LYSINE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, MENTHA PIPERITA OIL, DISODIUM PHOSPHATE, SODIUM PHOSPHATE, SILICA DIMETHICONE SILYLATE"
+    },
+    {
+     "nombre": "Espuma para alineadores y férulas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7612412431353"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, POLYGLYCERYL-3 CAPRATE, COCAMIDOPROPYL BETAINE, HYDROXYAPATITE, XYLITOL, SODIUM HYALURONATE, HYDROXYETHYLCELLULOSE, SODIUM GLUCONATE, LEVULINIC ACID, AROMA, SODIUM HYDROXIDE, CYCLODEXTRIN, GLYCERIN, SODIUM LEVULINATE, POTASSIUM SORBATE, MAGNOLOL, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, SODIUM BENZOATE, CITRUS AURANTIUM AMARA FRUIT EXTRACT, SUCRALOSE, AMYLOGLUCOSIDASE, GLUCOSE OXIDASE, POLYLYSINE, PROPYL GALLATE, LIMONENE"
+    }
+   ]
+  },
+  {
+   "key": "gum",
+   "nombre": "GUM",
+   "productos": [
+    {
+     "nombre": "Gel para aftas AftaClear",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019902205"
+     ],
+     "inci": "Hydrogenated Starch Hydrolysate, Aqua, Propanediol, Propylene Glycol, Polycarbophil, Sodium Hydroxide, Taurine, PVP, Xylitol, Maltodextrin, Gluconolactone, Opuntia Ficus-Indica Stem Extract, Sodium Hyaluronate, Olea Europaea Leaf Extract, Sodium Benzoate, Bisabolol, Sucralose, Aroma, Stevia Rebaudiana Extract, Calcium Gluconate, CI 19140, Zingiber Officinale Root Extract, CI 42090"
+    },
+    {
+     "nombre": "Spray para aftas AftaClear",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019902229"
+     ],
+     "inci": "Aqua, Propanediol, Hydrogenated Starch Hydrolysate, Propylene Glycol, Sodium Citrate, Polycarbophil, PEG-40 Hydrogenated Castor Oil, Taurine, Xylitol, Maltodextrin, Gluconolactone, Opuntia Ficus-Indica Stem Extract, Olea Europaea Leaf Extract, Citric Acid, Sodium Benzoate, Sodium Hydroxide, Sodium Hyaluronate, Bisabolol, Sucralose, Aroma, Stevia Rebaudiana Extract, Calcium Gluconate, Zingiber Officinale Root Extract"
+    },
+    {
+     "nombre": "Colutorio para aftas AftaClear",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019902212"
+     ],
+     "inci": "Aqua, Propanediol, Hydrogenated Starch Hydrolysate, Propylene Glycol, Sodium Citrate, Polycarbophil, PEG-40 Hydrogenated Castor Oil, Taurine, Xylitol, Maltodextrin, Gluconolactone, Opuntia Ficus-Indica Stem Extract, Olea Europaea Leaf Extract, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Sodium Hyaluronate, Bisabolol, Aroma, Sucralose, Stevia Rebaudiana Extract, Calcium Gluconate, Zingiber Officinale Root Extract, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes Hydral para boca seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019901741"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Propanediol, Betaine, Lauryl Glucoside, Polysorbate 20, Xanthan Gum, Sodium Citrate, Sodium Monofluorophosphate, Xylitol, Cocamidopropyl Betaine, Gluconolactone, Aroma, CI 77891, Taurine, Sodium Benzoate, Citric Acid, Stevia Rebaudiana Extract, Sucralose, Sodium Chloride, Sodium Hyaluronate, PVP, Calcium Gluconate"
+    },
+    {
+     "nombre": "Gel hidratante Hydral para boca seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019901727"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Propanediol, PVP, Sodium Citrate, Betaine, Gluconolactone, Sodium Benzoate, Chondrus Crispus (Carrageenan) Powder, Xanthan Gum, Xylitol, PEG-40 Hydrogenated Castor Oil, Taurine, Citric Acid, Sodium Hydroxide, Sodium Hyaluronate, Sucralose, Calcium Gluconate, Stevia Rebaudiana Extract, Aroma, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Spray hidratante Hydral para boca seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7630019901758"
+     ],
+     "inci": "Aqua, Hydrogenated Starch Hydrolysate, Sodium Citrate, Propanediol, PVP, Betaine, PEG-40 Hydrogenated Castor Oil, Gluconolactone, Xylitol, Taurine, Sodium Benzoate, Citric Acid, Sodium Hyaluronate, Sucralose, Calcium Gluconate, Stevia Rebaudiana Extract, Aroma"
+    },
+    {
+     "nombre": "Gel dentífrico Ortho",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0070942304795"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Isomalt, PEG-8, Lauryl Glucoside, Aroma, Xanthan Gum, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Panthenol, Sodium Saccharin, Sodium Fluoride, Allantoin, Sodium Chloride, Sodium Methylparaben, Tocopheryl Acetate, Cetylpyridinium Chloride, Bisabolol, Glycerin, Limonene, Sodium Benzoate, CI 47005, Potassium Sorbate, CI 42090, Zingiber Officinale Root Extract"
+    }
+   ]
+  },
+  {
+   "key": "marvis",
+   "nombre": "Marvis",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Classic Strong Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111701",
+      "8004395111305"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Anethole, Eugenol, Mentha piperita (Peppermint) Oil, Limonene, Pinene, Citrus aurantium (Orange) Peel Oil"
+    },
+    {
+     "nombre": "Pasta de dientes Whitening Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111718",
+      "8004395111312"
+     ],
+     "inci": "Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), Aroma (Flavor), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Menthol, Anethole, Eugenol, Mentha piperita (Peppermint) Oil, Limonene, Pinene, Citrus aurantium (Orange) Peel Oil"
+    },
+    {
+     "nombre": "Pasta de dientes Aquatic Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111725",
+      "8004395111329"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Citrate, Sodium Fluoride, Citric Acid, Menthol, Hydroxycitronellal, Farnesol"
+    },
+    {
+     "nombre": "Pasta de dientes Ginger Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111732",
+      "8004395111336"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Citrate, Sodium Fluoride, Citric Acid, Menthol, Mentha piperita (Peppermint) Oil, Beta-Caryophyllene, Limonene"
+    },
+    {
+     "nombre": "Pasta de dientes Amarelli Licorice Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111749",
+      "8004395111343"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Citrate, Sodium Fluoride, Citric Acid, Menthol, Anethole, Limonene, Citrus aurantium (Orange) Peel Oil, Mentha piperita (Peppermint) Oil, Eugenia caryophyllus (Clove) Oil, Cinnamal, Eugenol, Benzaldehyde, Anise Alcohol"
+    },
+    {
+     "nombre": "Pasta de dientes Jasmin Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111756",
+      "8004395111350"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Citrate, Sodium Fluoride, Citric Acid, Menthol, Mentha piperita (Peppermint) Oil, Linalool"
+    },
+    {
+     "nombre": "Pasta de dientes Cinnamon Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111763",
+      "8004395111367"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Cinnamal, Anethole, Limonene, Cinnamyl Alcohol, Cinnamomum cassia (Cinnamon) Leaf Oil, Eugenol, Citrus aurantium (Orange) Peel Oil, Mentha viridis (Spearmint) Leaf Oil, Eugenia caryophyllus (Clove) Oil, Carvone"
+    },
+    {
+     "nombre": "Pasta de dientes Anise Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111879",
+      "8004395111374"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Anethole, Mentha viridis (Spearmint) Leaf Oil, Carvone, Mentha piperita (Peppermint) Oil, Limonene"
+    },
+    {
+     "nombre": "Pasta de dientes blanqueadora Smokers Whitening Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111817",
+      "8004395111381"
+     ],
+     "inci": "Glycerin, Calcium Carbonate, Hydrated Silica, Aqua (Water/Eau), PVP, Aroma (Flavor), Xylitol, Cellulose Gum, Titanium Dioxide, Trisodium Phosphate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Menthol, Anethole, Eugenol, Mentha piperita (Peppermint) Oil, Limonene, Pinene, Citrus aurantium (Orange) Peel Oil"
+    },
+    {
+     "nombre": "Pasta de dientes Sensitive Gums Gentle Mint para encías sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395112425"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Fructooligosaccharides, Sodium Hyaluronate, Allantoin, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Mentha piperita (Peppermint) Oil, Anethole, Mentha viridis (Spearmint) Leaf Oil, Carvone, Limonene, Citrus limon (Lemon) Peel Oil"
+    },
+    {
+     "nombre": "Pasta de dientes Black Forest",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111633"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene"
+    },
+    {
+     "nombre": "Pasta de dientes Sweet and Sour Rhubarb",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111640"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene"
+    },
+    {
+     "nombre": "Pasta de dientes Orange Blossom Bloom",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111626"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Limonene, Linalool"
+    },
+    {
+     "nombre": "Pasta de dientes Dreamy Osmanthus edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395112821"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Mentha piperita (Peppermint) Oil, Anethole, Carvone, Mentha viridis (Spearmint) Leaf Oil, Limonene, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Pasta de dientes Sinuous Lily edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395112814"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Mentha piperita (Peppermint) Oil, Hydroxycitronellal, Anethole, Benzyl Alcohol, Limonene, Linalyl Acetate, Citronellol, Geranyl Acetate, Citrus limon (Lemon) Peel Oil, Hexyl Cinnamal, Carvone, Cinnamyl Alcohol"
+    },
+    {
+     "nombre": "Pasta de dientes Kissing Rose edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395112807"
+     ],
+     "inci": "Calcium Carbonate, Glycerin, Aqua (Water/Eau), Hydrated Silica, Aroma (Flavor), Xylitol, Cellulose Gum, Sodium Lauryl Sulfate, Titanium Dioxide, Sodium Saccharin, Sodium Fluoride, Citric Acid, Sodium Citrate, Menthol, Mentha piperita (Peppermint) Oil, Geraniol, Citronellol, Geranyl Acetate"
+    },
+    {
+     "nombre": "Enjuague bucal Classic Strong Mint sin alcohol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395113507"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Aroma (Flavor), Benzyl Alcohol, Sodium Benzoate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Sodium Citrate, Citric Acid, Menthol, Anethole, Eugenol, Mentha piperita (Peppermint) Oil, Limonene, Pinene, Citrus aurantium (Orange) Peel Oil, Beta-Caryophyllene, Terpineol, CI 19140 (FD&C Yellow No. 5), CI 42090 (FD&C Blue No. 1)"
+    },
+    {
+     "nombre": "Enjuague bucal blanqueador Whitening Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395113514"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, PVP, PEG-40 Hydrogenated Castor Oil, Xylitol, Aroma (Flavor), Benzyl Alcohol, Sodium Benzoate, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Sodium Citrate, Citric Acid, Menthol, Anethole, Eugenol, Mentha piperita (Peppermint) Oil, Limonene, Pinene, Citrus aurantium (Orange) Peel Oil, Beta-Caryophyllene, Terpineol"
+    },
+    {
+     "nombre": "Enjuague bucal Sensitive Gums Gentle Mint para encías sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395113521"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, PEG-40 Hydrogenated Castor Oil, Xylitol, Sodium Hyaluronate, Allantoin, Fructooligosaccharides, Aroma (Flavor), Benzyl Alcohol, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Benzoate, Sodium Fluoride, Sodium Citrate, Citric Acid, Menthol, Mentha piperita (Peppermint) Oil, Anethole, Mentha viridis (Spearmint) Leaf Oil, Carvone, Limonene, Citrus limon (Lemon) Peel Oil, Beta-Caryophyllene, Pinene, Linalool, CI 17200 (D&C Red No. 33), CI 42090 (FD&C Blue No. 1)"
+    },
+    {
+     "nombre": "Enjuague bucal concentrado Anise Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111589"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, Poloxamer 407, Sodium Lauryl Sulfate, Aroma (Flavor), Benzyl Alcohol, Sodium Saccharin, Sodium Benzoate, Xylitol, Sodium Fluoride, Illicium verum (Star Anise) Fruit/Seed Oil, Citric Acid, Limonene, Anise Alcohol, Linalool, CI 42090 (FD&C Blue No. 1)"
+    },
+    {
+     "nombre": "Enjuague bucal concentrado Cinnamon Mint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111596"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, Poloxamer 407, Sodium Lauryl Sulfate, Aroma (Flavor), Benzyl Alcohol, Sodium Saccharin, Sodium Benzoate, Xylitol, Sodium Fluoride, Cinnamomum zeylanicum (Cinnamon) Bark Oil, Citric Acid, Eugenol, Cinnamal, Limonene, CI 19140 (FD&C Yellow No. 5), CI 17200 (D&C Red No. 33)"
+    },
+    {
+     "nombre": "Enjuague bucal concentrado Spearmint",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395111572"
+     ],
+     "inci": "Aqua (Water/Eau), Glycerin, Poloxamer 407, Sodium Lauryl Sulfate, Aroma (Flavor), Benzyl Alcohol, Sodium Saccharin, Sodium Benzoate, Xylitol, Sodium Fluoride, Mentha spicata (Spearmint) Herb Oil, Citric Acid, Limonene, Linalool, Anise Alcohol, CI 19140 (FD&C Yellow No. 5), CI 42090 (FD&C Blue No. 1)"
+    }
+   ]
+  },
+  {
+   "key": "meridol",
+   "nombre": "Meridol",
+   "productos": [
+    {
+     "nombre": "Pasta de dientes Protección Encías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7610108059461",
+      "7610108052813",
+      "4007965460005"
+     ],
+     "inci": "Aqua, Hydrated Silica, Glycerin, Sorbitol, Aroma, Cocamidopropyl Betaine, Oleaminopropylamineth-3 HCl, Hydroxyethylcellulose, Polyglyceryl-4 Caprate, Zinc Lactate, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Citrus Limon Peel Oil, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Encías (envase polaco, húngaro y checo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4007965560804",
+      "4007965507465"
+     ],
+     "inci": "Aqua, Hydrated Silica, Glycerin, Sorbitol, Oleaminopropylamineth-3 HCl, Aroma, Cocamidopropyl Betaine, Hydroxyethylcellulose, Polyglyceryl-4 Caprate, Zinc Lactate, Sodium Saccharin, Sodium Fluoride, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Encías + Blanqueamiento Suave",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8714789921006",
+      "8714789923956",
+      "8718951560307"
+     ],
+     "inci": "Aqua, Hydrated Silica, Glycerin, Sorbitol, Aroma, Cocamidopropyl Betaine, Oleaminopropylamineth-3 HCl, Hydroxyethylcellulose, Polyglyceryl-4 Caprate, Zinc Lactate, Sodium Saccharin, Sodium Fluoride, Anethole, Carvone, Citrus Limon Peel Oil, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Encías + Blanqueamiento Suave (envase polaco, húngaro y checo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951560390",
+      "8714789987507",
+      "8718951560352"
+     ],
+     "inci": "Hydrated Silica, Aqua, Glycerin, Sorbitol, Oleaminopropylamineth-3 HCl, Aroma, Cocamidopropyl Betaine, Hydroxyethylcellulose, Polyglyceryl-4 Caprate, Zinc Lactate, Sodium Saccharin, Sodium Fluoride, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Acción Rápida",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951776159",
+      "8718951775664"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Tetrasodium Pyrophosphate, Sodium Methyl Cocoyl Taurate, Aroma, Zinc Phosphate, Cellulose Gum, Sodium Citrate, Microcrystalline Cellulose, Cocamidopropyl Betaine, Stannous Fluoride, Sodium Saccharin, Xanthan Gum, Citric Acid, Sodium Fluoride, Sucralose, Sodium Hydroxide, Anethole, Carvone, Eucalyptus Globulus Oil, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol, Pinene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Encías + Sensibilidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951454613",
+      "8718951477445",
+      "8718951478527",
+      "8718951454644"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Sodium Methyl Cocoyl Taurate, Tetrasodium Pyrophosphate, Aroma, Zinc Phosphate, Cellulose Gum, Sodium Citrate, Microcrystalline Cellulose, Cocamidopropyl Betaine, Stannous Fluoride, Sodium Saccharin, Xanthan Gum, Citric Acid, Sodium Fluoride, Sucralose, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Colutorio Protección Encías + Sensibilidad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951482838"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Zinc Lactate, Aroma, Sodium Fluoride, Cetylpyridinium Chloride, Potassium Sorbate, Lactic Acid, Sodium Saccharin, Anethole, Carvone, Limonene, Mentha Viridis Leaf Oil, Menthol, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Colutorio Protección Encías + Sensibilidad (envase polaco, húngaro e italiano)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951482920",
+      "8718951482951"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Poloxamer 407, Zinc Lactate, Aroma, Sodium Fluoride, Cetylpyridinium Chloride, Potassium Sorbate, Lactic Acid, Menthol, Sodium Saccharin, CI 17200, CI 42051"
+    },
+    {
+     "nombre": "Pasta de dientes Protección Encías y Aliento Fresco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951455528"
+     ],
+     "inci": "Aqua, Hydrated Silica, Glycerin, Sorbitol, Cocamidopropyl Betaine, Hydroxyethylcellulose, Aroma, Olaflur, Polyglyceryl-4 Caprate, Zinc Lactate, Sodium Saccharin, Sodium Fluoride, Limonene, CI 74160"
+    },
+    {
+     "nombre": "Colutorio Protección Encías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7610108059416",
+      "7610108052714",
+      "8718951560741"
+     ],
+     "inci": "Aqua, Glycerin, Xylitol, PVP, Oleaminopropylamineth-3 HCl, Zinc Lactate, Polyglyceryl-4 Caprate, Aroma, Sodium Fluoride, Sodium Citrate, Saccharin, Sucralose, Anethole, Mentha Piperita Oil, Menthol, Methyl Salicylate, CI 42051"
+    },
+    {
+     "nombre": "Colutorio Protección Encías (envase polaco)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951560420",
+      "8718951560437"
+     ],
+     "inci": "Aqua, Glycerin, Xylitol, PVP, Oleaminopropylamineth-3 HCl, Zinc Lactate, Polyglyceryl-4 Caprate, Aroma, Sodium Fluoride, Sodium Citrate, Saccharin, Sucralose, CI 42051"
+    },
+    {
+     "nombre": "Colutorio Protección Encías (fórmula con olaflur)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7610108052707",
+      "8718951570825"
+     ],
+     "inci": "Aqua, Glycerin, Xylitol, PVP, Zinc Lactate, Olaflur, Polyglyceryl-4 Caprate, Aroma, Sodium Fluoride, Saccharin, Sucralose, CI 42051"
+    },
+    {
+     "nombre": "Colutorio Protección Encías y Aliento Fresco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7610108044115",
+      "7610108044573"
+     ],
+     "inci": "Aqua, Glycerin, Xylitol, PVP, Polyglyceryl-4 Caprate, Oleaminopropylamineth-3 HCl, Zinc Lactate, Aroma, Sodium Fluoride, Cocamidopropyl Betaine, Saccharin, Sucralose, Anethole, Eucalyptus Globulus Oil, Menthol, CI 42051"
+    },
+    {
+     "nombre": "Colutorio Parodont Expert",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951560772"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Sorbitol, Sodium Methyl Cocoyl Taurate, Poloxamer 407, Zinc Lactate, Aroma, Sodium Hyaluronate, Cetylpyridinium Chloride, Sodium Fluoride, Potassium Sorbate, Lactic Acid, Sodium Saccharin, Sucralose, Anethole, Eucalyptus Globulus Oil, Menthol, CI 42090"
+    },
+    {
+     "nombre": "Pasta de dientes Parodont Expert",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951115446"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Aqua, Sorbitol, PEG-12, Tetrasodium Pyrophosphate, Aroma, Sodium Lauryl Sulfate, Sodium Citrate, PVP, Stannous Pyrophosphate, Trisodium Phosphate, Zinc Oxide, Microcrystalline Cellulose, Sodium Saccharin, Citric Acid, Zinc Citrate, Phosphoric Acid, Stannous Fluoride, Cocamidopropyl Betaine, Hydroxyethylcellulose, Carrageenan, Cellulose Gum, Sodium Fluoride, Sucralose, Anethole, Eucalyptus Globulus Oil, Limonene, Menthol, Pinene, CI 74160"
+    },
+    {
+     "nombre": "Pasta de dientes Parodont Expert (envase belga, polaco, húngaro y checo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8718951117136",
+      "8718951132771"
+     ],
+     "inci": "Glycerin, Hydrated Silica, Aqua, Sorbitol, PEG-12, Tetrasodium Pyrophosphate, Aroma, Sodium Lauryl Sulfate, Sodium Citrate, PVP, Stannous Pyrophosphate, Trisodium Phosphate, Zinc Oxide, Microcrystalline Cellulose, Sodium Saccharin, Citric Acid, Zinc Citrate, Phosphoric Acid, Stannous Fluoride, Cocamidopropyl Betaine, Hydroxyethylcellulose, Carrageenan, Sodium Fluoride, Sucralose, Limonene, CI 74160"
+    }
+   ]
+  },
+  {
+   "key": "vitis",
+   "nombre": "Vitis",
+   "productos": [
+    {
+     "nombre": "Pasta dentífrica Vitis Encías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426040731",
+      "8427426040755",
+      "8427426043527"
+     ],
+     "inci": "Aqua, Sorbitol, Silica, Glycerin, Xanthan Gum, Titanium Dioxide, Sodium Lauryl Sulfate, Panthenol, Sodium Gluconate, Aroma, Sodium Fluoride, Zinc Lactate, Lactic Acid, Sodium Saccharin, Sodium Methylparaben, Cetylpyridinium Chloride, C.I. 77947"
+    },
+    {
+     "nombre": "Pasta dentífrica Vitis Aloe Vera sabor menta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426008496",
+      "8427426012837",
+      "8427426043534"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Glycerin, Titanium Dioxide, Aroma, Sodium Gluconate, Sodium Lauryl Sulfate, Xanthan Gum, Xylitol, PEG-40 Hydrogenated Castor Oil, Sodium Fluoride, Aloe Barbadensis Leaf Juice, Sodium Saccharin, Sodium Methylparaben, Tocopheryl Acetate, Menthol, Anethole, Mentha Piperita Oil"
+    },
+    {
+     "nombre": "Pasta dentífrica Vitis Anti-stain",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426077089"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Glycerin, PVP, Sodium Hexametaphosphate, Sodium Benzoate, Titanium Dioxide, Sodium Monofluorophosphate, Aroma, Pentasodium Triphosphate, Xanthan Gum, Xylitol, PEG-40 Hydrogenated Castor Oil, Sodium Lauryl Sulphate, Benzoic Acid, Stevia Rebaudiana Extract, Menthol, Anethole, Mentha Piperita Oil, Limonene"
+    },
+    {
+     "nombre": "Pasta dentífrica Vitis Anticaries",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426055872"
+     ],
+     "inci": "Aqua, Hydrated Silica, Sorbitol, Glycerin, Xylitol, Titanium Dioxide, Sodium Monofluorophosphate, Aroma, Sodium Lauryl Sulfate, Xanthan Gum, PEG-40 Hydrogenated Castor Oil, Hydroxyapatite, Menthone Glycerin Acetal, Sodium Saccharin, Citric Acid, Sodium Methylparaben, Potassium Acesulfame, Menthol, Anethole, Carvone, Mentha Piperita Oil, Mentha Viridis Leaf Oil"
+    },
+    {
+     "nombre": "Pasta dentífrica Vitis Blanqueadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426056176"
+     ],
+     "inci": "Aqua, Glycerin, Sorbitol, Hydrated Silica, PVP, Sodium Lauryl Sulfate, Titanium Dioxide, Aroma, Sodium Monofluorophosphate, Pentasodium Triphosphate, Perlite, Sodium Hexametaphosphate, Xanthan Gum, Xylitol, Tetrapotassium Pyrophosphate, Hydroxyapatite, Menthone Glycerin Acetal, Sodium Saccharin, Sodium Methylparaben, Potassium Acesulfame, Menthol, Anethole, Carvone, Mentha Piperita Oil, Mentha Viridis Leaf Oil"
+    },
+    {
+     "nombre": "Pasta dentífrica Vitis Orthodontic sabor manzana-menta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426008588"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Xanthan Gum, Titanium Dioxide, Sodium Lauryl Sulfate, Aroma, Sodium Gluconate, Xylitol, Sodium Fluoride, Menthone Glycerin Acetal, Sodium Saccharin, Aloe Barbadensis Leaf Juice, Allantoin, Sodium Methylparaben, Lactic Acid, Cetylpyridinium Chloride, Mentha Viridis Leaf Oil, Carvone, Limonene, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "Gel dentífrico Vitis Junior sabor tutti frutti",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426047242"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, Glycerin, Sodium Benzoate, Panthenol, Xylitol, Aroma, Cellulose Gum, PEG-40 Hydrogenated Castor Oil, Sodium Lauroyl Sarcosinate, Sodium Fluoride, Sodium Saccharin, Benzoic Acid, Mica, Propylene Glycol, Citric Acid, Titanium Dioxide, Tetrasodium EDTA, Neohesperidin Dihydrochalcone, CI 16035"
+    },
+    {
+     "nombre": "Gel bálsamo para encías Vitis Baby",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426047181"
+     ],
+     "inci": "Aqua, Glycerin, Carbomer, Panthenol, Xylitol, Hydroxyethylcellulose, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Benzyl Alcohol, Sodium Hydroxide, Dipotassium Glycyrrhizate, Menthone Glycerin Acetal, Allantoin, Chamomilla Recutita Flower Extract"
+    },
+    {
+     "nombre": "Comprimidos para chupar Vitis Xeros boca seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8427426089112"
+     ],
+     "inci": "Xylitol, Sorbitol, Malic Acid, Disodium Phosphate, Magnesium Stearate, Aroma, Sodium Fluoride, Limonene, Citrus Aurantium Bergamia Peel Oil, Linalool, Citral"
     }
    ]
   }

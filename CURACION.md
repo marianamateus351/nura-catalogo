@@ -1350,6 +1350,29 @@ que ya había: **0 cambios**. 6 sin ningún aviso (cremas de pañal, bálsamo SO
   del mismo producto (pañales tallas 1–7 y braguitas pants 4–6), fuera como los packs hasta que se decida si entran los packs de un solo
   producto (como el dúo de Parodontax). Las toallitas no tienen lista publicada.
 
+**Bloque 8 · Boca — cerrado 2026-10-21 (versión 2026-10-21-b8): 5 marcas nuevas, 76 productos, 114 códigos; 4 sin fuente.** Regresión sobre
+las 16.425 fichas que ya había: **0 cambios**. 1 sin avisos (gel bálsamo Vitis Baby); 75 llevan "Aroma no divulgado (sabor)", como decidió
+Mariana para boca y labios. Sin falsos positivos ni negativos nuevos.
+- **Sin fuente (0 productos)**: **Kin** (kin.es: Cloudflare en la primera petición), **Fluocaril** (fluocaril.es y .fr: Akamai), **Xerostom**
+  y **Halita** (xerostom.com, biocosmetics.es, dentaid.es y halita.es solo publican los activos con su porcentaje, nunca la lista completa;
+  los EAN de Halita quedan anotados en su `fuera`). Para Xerostom se podría pedir la lista a Biocosmetics (info@biocosmetics.es).
+- **Marvis** — 22 productos, 31 códigos. INCI de marvis.com/spain (idéntico a la italiana); códigos de tiendas por nombre y tamaño
+  (Primor, PerfumesClub, Moquer, Farma2go, Redcare FR, VanityStock IT, De Online Drogist, OBF). Las pastas clásicas de 85 ml se
+  reformularon con el mismo código (hidróxido de aluminio → carbonato cálcico): el detector da lo mismo con las dos listas.
+- **Curaprox** — 22 productos, 29 códigos. curaprox.es (PrestaShop de Curaden): INCI y gtin13 de la ficha. Perio Plus con clorhexidina
+  (0,05–0,2 %; el gel Focus 0,5 %, por encima del máximo cosmético: probablemente producto sanitario, entra porque publica la lista INCI
+  completa, con nota). Fuera el chicle (lista de alimento) y los limpiadores de prótesis BDC.
+- **Meridol** — 16 productos, 34 códigos. **No tiene web ni distribución oficial en España** (meridol.es no responde; se vende importado):
+  INCI y códigos de las webs oficiales europeas de Colgate-Palmolive/GABA (de, at, ch, be, fr, it, pl, cz, hu, hr, si). Tres generaciones
+  de fórmula con códigos compartidos: se queda la de 2025. Variantes por país cuando el envase publica otra lista. Fuera los colutorios
+  con clorhexidina (medicamento o producto sanitario sin INCI).
+- **Vitis** — 9 productos, 13 códigos. Ninguna web de Dentaid publica la lista en texto: **leída de las fotos oficiales del estuche** en
+  alta resolución de dentaid.es (la URL va en la nota). Códigos de shop.dentaid.es y farmaciasdirect. Fuera los colutorios y los que solo
+  tienen foto frontal o pixelada. Comprimidos Xeros con registro AEMPS de dentífrico (no medicamento).
+- **GUM** — 7 productos, 7 códigos. Solo la web italiana (AftaClear e Hydral, productos sanitarios con INCI completo publicado) y la
+  finlandesa (gel Ortho) dan la lista; el resto de la gama, sin lista en ninguna web oficial. Códigos de farmaciasdirect y Campoamor. El de
+  Ortho es 0070942… (Sunstar Americas), el que GUM usa en Europa: excepción UPC.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
