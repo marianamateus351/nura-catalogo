@@ -1289,6 +1289,51 @@ online atados por Código Nacional (único por presentación) o por gama + nombr
   Pomada protectora queda fuera porque su ficha enlaza un prospecto que la llama medicamento, aunque no está en CIMA y la ficha publica
   también una lista INCI.
 
+**Bloque 6 · Pelo profesional y caída — cerrado 2026-10-21 (versión 2026-10-21-b6): 10 marcas nuevas, 998 productos, 1.270 códigos; Pilexil y
+Joico sin fuente.** Regresión sobre las 15.376 fichas que ya había: **0 cambios**. 11 de 998 sin ningún aviso (casi todo lleva "Parfum"
+sin nota; en coloración, PPD, resorcinol, sulfitos y persulfatos, reales).
+- **Falso positivo resuelto en los datos**: Alfaparf escribe "TOLUENE-2, 5-DIAMINE SULFATE" (espacio tras la coma); así no casaba con la
+  excepción "toluene-2,5-diamine" de la ficha Tolueno y daba **210 falsos avisos de tolueno** en tintes. Corregida la errata de maquetación
+  ("2, 5-" → "2,5-", y otros localizadores químicos partidos: 461 en Alfaparf, 2 en Color Wow, 1 en Kevin Murphy), anotada en cada
+  producto. Queda 1 aviso de Tolueno en todo el catálogo (real). **Propuesta de regla (no aplicada)**: que `normalizeIngredientText` junte
+  "dígito, espacio, dígito-" (red para listas de OBF o escaneadas); sobre el catálogo actual cambia 0 fichas.
+- **Nombres**: "multiusos" y "sin amoniaco" hacían Hogar dos productos de pelo: Matrix "Aceite-sérum capilar Food For Soft", Revlon "Polvo
+  decolorante para el cabello sin amoniaco Magnet Blondes 7"; Alfaparf renombró "Gloss Toner" a "Coloración tonalizante…".
+- **Pilexil**: 0. pilexil.es no tiene web propia (certificado de un alojamiento compartido; no se desactiva TLS) y lacer.com puso el
+  cortafuegos de Radware en la segunda petición.
+- **Joico**: 0. joico.eu (Henkel, la web oficial UE) no publica la lista de ningún producto; joico.com (EE. UU.) da Cloudflare.
+- **Alfaparf Milano** — 478 productos, 528 códigos (8022297…). alfaparfmilanopro.com/es-es: INCI y campo "Ean" oficial en cada ficha.
+  Coloración (Evolution of the Color, Color Wear, Harmonizer, Pigments) una entrada por tono. Fuera 206 referencias sin ficha (Precious
+  Nature, Revolution JC, BB Bleach…), el after-sun con el código estropeado en la web y Color Wear 9UV (lista sin comas).
+- **Revlon Professional** — 137 productos, 168 códigos. Web oficial española; listas traducidas sustituidas por la versión internacional
+  en inglés del mismo dominio; Color Sublime por tono de los PDF oficiales. Códigos de tiendas (Perfumes Club, Farma2go, Lyko, Cosmética
+  Click, Primor, Delauz) por gama + producto + tamaño. Fuera Colorsmetique (reformulada en 2022; códigos de tienda de la versión anterior),
+  The Balancer (zinc pyrithione: lista antigua), Orofluido Radiance Argan (relanzado en 2026).
+- **Phyto** — 88 productos, 99 códigos. es.phyto.com (gtin13 de la ficha). Phytocolor una entrada por tono con las tres listas de la caja
+  (como Garnier). Fuera 4 complementos y 4 fichas con la lista de otro producto o cortada.
+- **René Furterer** — 62 productos, 77 códigos. renefurterer.com/es-es (JSON-LD y "Composición detallada"; pausa de 5 s del robots.txt).
+  Aceite seco 5 Sens con la lista francesa (la española omite componentes del perfume). Fuera Vitalfan y Triphasic Caps (complementos) y la
+  Triphasic Progressive anterior.
+- **Matrix** — 55 productos, 60 códigos. matrixprofessional.eu (fr, it, en) y matrixhaircare.co.uk; las webs tienen muchas fichas con la
+  lista o el código de otro producto: solo entra lo que cuadra entre versiones. 15 UPC 0884486… de L'Oréal USA con el 0 delante (como
+  Redken). Fuera las listas con Lilial o metilparabeno antiguas, coloraciones sin EAN por tono e Instacure clásico (código dudoso).
+- **Kevin Murphy** — 52 productos, 83 códigos. kevinmurphy.com.au (/es/en/ y tienda UE), solo códigos marcados como comprables en la UE.
+  30 productos tienen dos listas vigentes ("Made in U.S.A." y "Made in EU") con el mismo código: entran los 21 en los que el detector da
+  lo mismo con las dos (con la lista UE); **fuera los 9 en que difiere** (Rough.Rider con oxibenzona en la de EE. UU., Repair-Me con
+  sulfitos…). Fuera Doo.Over (Lilial).
+- **Sebastian Professional** — 52 productos, 101 códigos. La web española da la lista traducida: INCI de la misma ficha en inglés
+  (en-BE/en-FI; 8 de en-GB), comprobado ingrediente a ingrediente. Códigos de las fichas oficiales (es-ES, serie europea y en-GB). Fuera
+  Cellophanes (misma lista con colorantes para los 10 tonos).
+- **Color Wow** — 40 productos, 71 códigos (5060150…). uk.colorwowhair.com (no hay web UE que responda). Root Cover Up por tono.
+- **Nioxin** — 26 productos, 71 códigos. nioxin.com/es-ES (+ GTIN de de-DE y el-GR con lista idéntica). Las fichas sueltas de champú y
+  acondicionador System repiten una sola lista: para 6 se usa la lista oficial del componente en la ficha del kit. Fuera Scalp Recovery
+  (formato EE. UU.; la griega con zinc pyrithione).
+- **K18** — 8 productos, 12 códigos (UPC 858511… con el 0 delante). k18hair.es. Fuera 3 con la lista solo traducida.
+- **Para Mariana — fuentes del Reino Unido**: Color Wow (todo), 8 listas y varios códigos de Sebastian, parte de Matrix (además de Cult
+  Beauty en Charlotte Tilbury y la web británica de Rimmel). Si no valen, se quitan.
+- **Incidencias de acceso**: K18 — k18hair.es dio "Verifying your connection" en una petición dentro de un bucle que no se paró (el resto
+  llegó sin reto; no se usó la respuesta del reto). Revlon Professional — Cosmética Click cortó conexiones; no se reintentó.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
