@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21j",
+ "version": "2026-10-21k",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -4848,6 +4848,12 @@
        "nombre": "Perfilador de labios Velvet Contour",
        "marca": "Bourjois",
        "barcode": "3052503300214",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial Original",
+       "marca": "Bulldog",
+       "barcode": "5060144647467",
        "fechaLista": "21-10-2026"
       },
       {

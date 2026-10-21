@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b8",
+ "version": "2026-10-21-b9",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26283,6 +26283,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8427426047181"
+   ]
+  },
+  {
+   "marcaKey": "bulldog",
+   "marca": "Bulldog",
+   "nombre": "Bálsamo labial Original",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5060144647467"
    ]
   }
  ]
