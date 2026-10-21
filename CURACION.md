@@ -1252,6 +1252,41 @@ negativos nuevos del detector (octisalato, octocrileno, aceite de árbol del té
   1 con la lista incompleta (Nothing But Bronze Coconut), 5 solares principales con la lista copiada de otro producto (SPF 30, spray gel
   SPF 50 y lociones con bronceador SPF 15/30/50), y las marcas del mismo distribuidor (Designer Skin, Swedish Beauty, California Tan).
 
+**Bloque 5 · Dermofarmacia — cerrado 2026-10-21 (versión 2026-10-21-b5): 9 marcas nuevas, 361 productos, 400 códigos; Bepanthol bloqueada.**
+Regresión sobre las 15.015 fichas que ya había: **0 cambios**. 67 de los 361 sin ningún aviso. Sin falsos positivos ni negativos nuevos
+("Aroma/Flavor" de los labiales es INCI de la UE, no lista de EE. UU.). En casi todas la web oficial no publica EAN: códigos de farmacias
+online atados por Código Nacional (único por presentación) o por gama + nombre + tamaño, con la fuente anotada.
+- **Bepanthol**: 0. bepanthol.es da "Access Denied" de Akamai en la primera petición. La pomada clásica con dexpantenol es medicamento.
+- **Sensilis** — 111 productos, 114 códigos; 18 sin avisos. sensilis.com/es (campo `ingredientsLong`). Códigos de farmaciasdirect (lista de
+  la tienda cotejada con la oficial), Primor y okfarma. Fuera los códigos que en la tienda van con una lista antigua, **y 18 entradas cuyo
+  tamaño en la tienda no coincide con el de la web** (Bonbon Cream Blush, Le Crayon, Eternalist Eyeliner, Jumbo Eyes, Peptide Lip Color).
+- **Rilastil** — 68 productos, 81 códigos; 9 sin avisos. rilastil.es (Dermofarm); 21 códigos en el nombre de la foto oficial, el resto de
+  farmacias. Hay códigos italianos (Ganassini) y españoles para el mismo CN: entran los dos. Fuera las fichas con la lista de otro
+  producto, la lista traducida, las fórmulas anteriores (Multirepair Hidro y Nutri) **y 3 dudosas** (Xerolact 18 % y 30 % sin los ingredientes
+  que anuncian; Vitamina C con la lista del antiguo Intense C).
+- **Noreva** — 50 productos, 53 códigos; 12 sin avisos. No hay web española ni distribuidor en España: INCI de noreva-laboratoires.com
+  (francesa) y códigos de Redcare Pharmacie FR y pharma-gdd. **Pendiente de Mariana: 35 productos fuera** cuyo código la tienda vende con
+  otra lista (a veces antigua: Lilial en Psoriane): puede ser el envase de la fórmula anterior. Fuera también Cicadiane MED (producto
+  sanitario), 3 listas cortadas y la Bergasol sin filtros en la lista.
+- **Singuladerm** — 40 productos, 40 códigos; 7 sin avisos. **La marca se llama ahora Primaderm** (singuladerm.com redirige a
+  primaderm.com/es: "mismos productos, mismas fórmulas"). Códigos de Perfumes Club y FarmaciasDirect. **Incidencia**: el agente reintentó a
+  mano 4 peticiones a farma2go.com que habían dado "Verifying your connection"; esas respuestas se borraron y no se usa ningún código de
+  farma2go.
+- **Leti** — 38 productos, 54 códigos; 13 sin avisos. leti.com/dermatologia/es (LetiAT4, Letibalm, Letifem, LetiSR, Skin2). Varios EAN por
+  presentación (mismo CN). 3 Letibalm con EAN-8 españoles de la marca (84196866, 84196750, 84197290). Fuera LetiSR Cápsulas (complemento),
+  Letibalm Intranasal (producto sanitario IIa) y la gama veterinaria; Xerosis, Balsam y Sun no están en la web española.
+- **Ozoaqua** — 17 productos, 21 códigos; 7 sin avisos. INCI del vademécum oficial (PDF en ozoaqua.es, R0-02-2026): las fichas web
+  repiten la lista del spray. Códigos de farmacias por CN. **Fuera el spray**: la lista no declara propelente aunque la ficha avisa de
+  aerosol inflamable.
+- **Germinal** — 16 productos, 16 códigos; 0 sin avisos. germinal.es (hoy Laboratorios Alter). 3 códigos impresos en las fotos oficiales
+  del envase y el resto de Primor y Perfumes Club por nombre exacto. Fuera 18 sin lista completa (la gama antigua de ampollas).
+- **Repavar** — 16 productos, 16 códigos; 0 sin avisos. repavar.com (Shopify). Errata corregida: "Fragance" → "Fragrance" en la pomada
+  reparadora (con la errata el detector no veía el perfume; en el resto del catálogo "fragance" solo sale junto a "Parfum"). Fuera el gel
+  aceite (código solo en la dirección de una farmacia) y la gama Pediatric/Oil-Free/Bio (no está en la tienda oficial).
+- **Mitosyl** — 5 productos, 5 códigos; 1 sin avisos. mitosyl.es (STADA) y la crema del pañal Naturel de mitosyl.fr. **Para Mariana**: la
+  Pomada protectora queda fuera porque su ficha enlaza un prospecto que la llama medicamento, aunque no está en CIMA y la ficha publica
+  también una lista INCI.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
