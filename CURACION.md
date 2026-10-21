@@ -1444,7 +1444,7 @@ código en la misma foto de la etiqueta (o lista de la ficha cotejada con la fot
   publicada en ninguna ficha).
 
 **Quinta cola — resumen (2026-10-20/21)**: 11 bloques, **59 marcas nuevas, 5.701 productos y 8.210 códigos** (de 11.016 a 16.717 fichas).
-Regresión de cada bloque sobre todo lo anterior: 0 cambios. Alternativas: de 1.643 a 2.540 productos limpios.
+Regresión de cada bloque sobre todo lo anterior: 0 cambios. Alternativas: de 1.643 a 2.541 productos limpios (2026-10-21m).
 - **Marcas sin fuente oficial accesible (34)**: reto anti-bot o bloqueo: Lush, Kiehl's, Lancôme, Benefit, Makeup Revolution, Fenty
   Beauty, Piz Buin, Bepanthol, Pilexil, Kin, Fluocaril, Proraso, Agua Brava, Hipercor, Druni y SC Johnson (Mr. Músculo, Pato, Pronto,
   Glade, Raid, Baygon, Autan); sin lista publicada: Ecran, Joico, Xerostom, Halita, Adidas, Varón Dandy, Zum, Primor; sin código atable o
