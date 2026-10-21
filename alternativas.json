@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21e",
+ "version": "2026-10-21f",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2230,6 +2230,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Concentrado calmante Astera Head Spa",
+       "marca": "René Furterer",
+       "barcode": "3282770390117",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Gel-sérum seborregulador Acnestil PB",
        "marca": "Rilastil",
        "barcode": "8055510240516",
@@ -3324,6 +3330,12 @@
        "marca": "Mustela",
        "barcode": "3504105038724",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Champú dermocalmante Soluciones Cuero Cabelludo",
+       "marca": "Phyto",
+       "barcode": "3701436923624",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Champú sólido romero",
@@ -10200,11 +10212,35 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Exfoliante limpiador purificante Soluciones Cuero Cabelludo",
+       "marca": "Phyto",
+       "barcode": "3701436913359",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tratamiento anticaída hombre Phytocyane (ampollas)",
+       "marca": "Phyto",
+       "barcode": "3701436910303",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tratamiento anticaída mujer caída progresiva Phytocyane (ampollas)",
+       "marca": "Phyto",
+       "barcode": "3701436910174",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Polvo texturizante Powder Grip 03",
        "marca": "Redken",
        "barcode": "3474637124274",
        "fechaLista": "08-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B8P1T517"
+      },
+      {
+       "nombre": "Tratamiento anticaída reactiva Triphasic Reactional",
+       "marca": "René Furterer",
+       "barcode": "3282770395693",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Tratamiento reestructurante de la fibra capilar Protein Treatment Magic Rizos",

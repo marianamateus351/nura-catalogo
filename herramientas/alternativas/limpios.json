@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b5",
+ "version": "2026-10-21-b6",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26119,6 +26119,107 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8437013684835"
+   ]
+  },
+  {
+   "marcaKey": "matrix",
+   "marca": "Matrix",
+   "nombre": "Polvo voluminizador Height Riser",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3474637068578",
+    "3474630650299"
+   ]
+  },
+  {
+   "marcaKey": "phyto",
+   "marca": "Phyto",
+   "nombre": "Tratamiento anticaída mujer caída progresiva Phytocyane (ampollas)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436910174"
+   ]
+  },
+  {
+   "marcaKey": "phyto",
+   "marca": "Phyto",
+   "nombre": "Tratamiento anticaída hombre Phytocyane (ampollas)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436910303"
+   ]
+  },
+  {
+   "marcaKey": "phyto",
+   "marca": "Phyto",
+   "nombre": "Exfoliante limpiador purificante Soluciones Cuero Cabelludo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436913359"
+   ]
+  },
+  {
+   "marcaKey": "phyto",
+   "marca": "Phyto",
+   "nombre": "Champú dermocalmante Soluciones Cuero Cabelludo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436923624"
+   ]
+  },
+  {
+   "marcaKey": "renefurterer",
+   "marca": "René Furterer",
+   "nombre": "Concentrado calmante Astera Head Spa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3282770390117"
+   ]
+  },
+  {
+   "marcaKey": "renefurterer",
+   "marca": "René Furterer",
+   "nombre": "Tratamiento anticaída reactiva Triphasic Reactional",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3282770395693",
+    "3282770401998"
+   ]
+  },
+  {
+   "marcaKey": "revlonprofessional",
+   "marca": "Revlon Professional",
+   "nombre": "Oxidante en crema-aceite Revlonissimo Color Sublime 15 vol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8007376067493"
+   ]
+  },
+  {
+   "marcaKey": "revlonprofessional",
+   "marca": "Revlon Professional",
+   "nombre": "Oxidante en crema-aceite Revlonissimo Color Sublime 25 vol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8007376067509"
+   ]
+  },
+  {
+   "marcaKey": "revlonprofessional",
+   "marca": "Revlon Professional",
+   "nombre": "Oxidante en crema-aceite Revlonissimo Color Sublime 35 vol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8007376067516"
+   ]
+  },
+  {
+   "marcaKey": "sebastian",
+   "marca": "Sebastian Professional",
+   "nombre": "Tratamiento en polvo a espuma Potion 9 Pro-Grade",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4068359155860"
    ]
   }
  ]
