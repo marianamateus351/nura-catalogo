@@ -1353,6 +1353,8 @@ que ya había: **0 cambios**. 6 sin ningún aviso (cremas de pañal, bálsamo SO
 **Bloque 8 · Boca — cerrado 2026-10-21 (versión 2026-10-21-b8): 5 marcas nuevas, 76 productos, 114 códigos; 4 sin fuente.** Regresión sobre
 las 16.425 fichas que ya había: **0 cambios**. 1 sin avisos (gel bálsamo Vitis Baby); 75 llevan "Aroma no divulgado (sabor)", como decidió
 Mariana para boca y labios. Sin falsos positivos ni negativos nuevos.
+- **Tipos de Alternativas (alternativas 2026-10-21j; la tabla de la app cambia igual, va en el próximo build)**: "encías" queda fuera de
+  Bálsamos y cremas reparadoras (el gel bálsamo para encías Vitis Baby es de boca: queda sin tipo). Solo cambia ese.
 - **Sin fuente (0 productos)**: **Kin** (kin.es: Cloudflare en la primera petición), **Fluocaril** (fluocaril.es y .fr: Akamai), **Xerostom**
   y **Halita** (xerostom.com, biocosmetics.es, dentaid.es y halita.es solo publican los activos con su porcentaje, nunca la lista completa;
   los EAN de Halita quedan anotados en su `fuera`). Para Xerostom se podría pedir la lista a Biocosmetics (info@biocosmetics.es).
