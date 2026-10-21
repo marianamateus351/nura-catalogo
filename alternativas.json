@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21l",
+ "version": "2026-10-21m",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -9670,6 +9670,12 @@
        "amazon": "https://www.amazon.es/dp/B0095KJA98"
       },
       {
+       "nombre": "Vaselina purificada",
+       "marca": "IFA Unnia",
+       "barcode": "8480012048023",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Crema protectora de pañal Johnson's baby 100 ml",
        "marca": "Johnson's",
        "barcode": "3574661660912",
@@ -15328,6 +15334,12 @@
      "key": "esmalte",
      "nombre": "Esmaltes y cuidado de uñas",
      "productos": [
+      {
+       "nombre": "Quitaesmalte con acetona 200 ml",
+       "marca": "Bodyplus",
+       "barcode": "8421691853133",
+       "fechaLista": "21-10-2026"
+      },
       {
        "nombre": "Esmalte de uñas Healthy Mix Clean",
        "marca": "Bourjois",

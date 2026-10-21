@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b10",
+ "version": "2026-10-21-b11",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26328,6 +26328,42 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8413204810276"
+   ]
+  },
+  {
+   "marcaKey": "bodyplus",
+   "marca": "Bodyplus",
+   "nombre": "Quitaesmalte con acetona 200 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8421691853133"
+   ]
+  },
+  {
+   "marcaKey": "ifaunnia",
+   "marca": "IFA Unnia",
+   "nombre": "Toallitas desmaquillantes Agua Micelar",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480012048092"
+   ]
+  },
+  {
+   "marcaKey": "ifaunnia",
+   "marca": "IFA Unnia",
+   "nombre": "Vaselina purificada",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480012048023"
+   ]
+  },
+  {
+   "marcaKey": "ifaunnia",
+   "marca": "IFA Unnia",
+   "nombre": "Toallitas bebé Aqua",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8480012041246"
    ]
   }
  ]
