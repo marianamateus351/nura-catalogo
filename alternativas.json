@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21f",
+ "version": "2026-10-21g",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2228,12 +2228,6 @@
        "marca": "Naobay",
        "barcode": "8436568900100",
        "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "Concentrado calmante Astera Head Spa",
-       "marca": "René Furterer",
-       "barcode": "3282770390117",
-       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Gel-sérum seborregulador Acnestil PB",
@@ -10235,6 +10229,12 @@
        "barcode": "3474637124274",
        "fechaLista": "08-10-2026",
        "amazon": "https://www.amazon.es/dp/B0B8P1T517"
+      },
+      {
+       "nombre": "Concentrado calmante para el cuero cabelludo Astera Head Spa",
+       "marca": "René Furterer",
+       "barcode": "3282770390117",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Tratamiento anticaída reactiva Triphasic Reactional",

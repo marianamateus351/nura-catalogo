@@ -1298,7 +1298,8 @@ sin nota; en coloración, PPD, resorcinol, sulfitos y persulfatos, reales).
   producto. Queda 1 aviso de Tolueno en todo el catálogo (real). **Propuesta de regla (no aplicada)**: que `normalizeIngredientText` junte
   "dígito, espacio, dígito-" (red para listas de OBF o escaneadas); sobre el catálogo actual cambia 0 fichas.
 - **Nombres**: "multiusos" y "sin amoniaco" hacían Hogar dos productos de pelo: Matrix "Aceite-sérum capilar Food For Soft", Revlon "Polvo
-  decolorante para el cabello sin amoniaco Magnet Blondes 7"; Alfaparf renombró "Gloss Toner" a "Coloración tonalizante…".
+  decolorante para el cabello sin amoniaco Magnet Blondes 7"; René Furterer "Concentrado calmante para el cuero cabelludo Astera Head
+  Spa" (caía en Sérums faciales); Alfaparf renombró "Gloss Toner" a "Coloración tonalizante…".
 - **Pilexil**: 0. pilexil.es no tiene web propia (certificado de un alojamiento compartido; no se desactiva TLS) y lacer.com puso el
   cortafuegos de Radware en la segunda petición.
 - **Joico**: 0. joico.eu (Henkel, la web oficial UE) no publica la lista de ningún producto; joico.com (EE. UU.) da Cloudflare.
