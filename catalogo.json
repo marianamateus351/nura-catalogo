@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b6",
+ "version": "2026-10-21-b7",
  "marcas": [
   {
    "key": "larocheposay",
@@ -156411,6 +156411,485 @@
       "4068359143928"
      ],
      "inci": "Alcohol Denat., Dimethyl Ether, Butyl Ester of PVM/MA Copolymer, Glycerin, n-Butyl Alcohol, Aminomethyl Propanol, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Aqua/Water/Eau, Parfum/Fragrance, PEG-12 Dimethicone, Linalool, Panthenol, Citronellol, Citrus Aurantium Peel Oil, Limonene, Hexyl Cinnamal, Trimethylbenzenepropanol, Dimethyl Phenethyl Acetate, Isoeugenyl Acetate"
+    }
+   ]
+  },
+  {
+   "key": "bubchen",
+   "nombre": "Bübchen",
+   "productos": [
+    {
+     "nombre": "Baño para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000699"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Glycerin, Chamomilla Recutita Flower Extract, Hydrolyzed Wheat Protein, Citric Acid, Hydrogenated Palm Glycerides Citrate, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Silica, Tocopherol, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Champú para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000026"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Glycerin, Lauryl Hydroxysultaine, Panthenol, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Chamomilla Recutita Flower Extract, Coco-Glucoside, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Hydrogenated Palm Glycerides Citrate, Tocopherol, Sodium Chloride, Sodium Benzoate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Aceite para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000019"
+     ],
+     "inci": "Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, Calendula Officinalis Flower Extract, Citric Acid , Glycine Soja Oil, Parfum, Tocopherol"
+    },
+    {
+     "nombre": "Crema protectora del pañal para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000705"
+     ],
+     "inci": "Aqua, Zinc Oxide, Isopropyl Palmitate, Helianthus Annuus Seed Oil, Glycerin, Polyglyceryl-3 Polyricinoleate, Butylene Glycol, Polyglyceryl-3 Diisostearate, Prunus Amygdalus Dulcis Oil, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Butyrospermum Parkii Butter, Cera Alba, Chamomilla Recutita Flower Extract, Citric Acid, Glycine Soja Oil, Heliotropine, Tocopherol, Zinc Stearate, Zinc Sulfate"
+    },
+    {
+     "nombre": "Baño y champú para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000323"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Calendula Officinalis Flower Extract, Lauryl Lactate, Glycol Distearate, Laureth-4, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Crema facial de caléndula para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "42420682"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Prunus Amygdalus Dulcis Oil, Butylene Glycol, Polyglyceryl-3 Diisostearate, Propylene Glycol, Hexyldecanol, Hexyldecyl Laurate, Polyglyceryl-3 Polyricinoleate, Helianthus Annuus Seed Oil, Zinc Stearate, Butyrospermum Parkii Butter, Calendula Officinalis Flower Extract, Cera Alba, Citral, Citric Acid, Citronellol, Geraniol, Glycine Soja Oil, Heliotropine, Limonene, Linalool, Parfum, Tocopherol, Tocopheryl Acetate, Zinc Sulfate"
+    },
+    {
+     "nombre": "Baño cremoso para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000057"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Disodium Laureth Sulfosuccinate, Coco-Glucoside, Hydrolyzed Wheat Protein, Chamomilla Recutita Flower Extract, PEG-120 Methyl Glucose Dioleate, Glyceryl Oleate, Glycol Distearate, Laureth-4, Hydrogenated Palm Glycerides Citrate, Rosmarinus Officinalis Extract, Helianthus Annuus Seed Oil, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Chloride, Sodium Sulfate, Silica, Tocopherol, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Crema solar facial SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "42420699"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Gylcerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Galactoarabinan, Cellulose Gum, Xanthan Gum, Squalane, Phenylbenzimidazole Sulfonic Acid, Hydroxyacetophenone, Oryza Sativa Bran Cera, Squalane, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, Tetrasodium Iminodisuccinate, Caprylhydroxamic Acid"
+    },
+    {
+     "nombre": "Champú infantil con manzanilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000064"
+     ],
+     "inci": "Aqua, Disodium Laureth Sulfosuccinate, Laureth-3, Glycerin, PEG-120 Methyl Glucose Dioleate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Chloride, Chamomilla Recutita Flower Extract, Citric Acid, Hydrolyzed Wheat Protein, Parfum, Phenoxyethanol, Polysorbate 20, Sodium Benzoate, Tocopherol"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Himbeerspaß",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001122"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Parfum, CI 16035"
+    },
+    {
+     "nombre": "Champú, gel de ducha y acondicionador infantil Meereszauber",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001085"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Sodium Chloride, Glycol Distearate, Laureth-4, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Baño de espuma infantil Kuschel-Bad",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001481"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Glycerin, Hydrolyzed Wheat Protein, Lauryl Lactate, Parfum, Phenoxyethanol, Guar Hydroxypropyltrimonium Chloride, Propylene Glycol, Silica, Sodium Benzoate, Sodium Citrate, Sodium Hydroxide, Sodium Sulfate, CI 45100"
+    },
+    {
+     "nombre": "Leche corporal para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000033"
+     ],
+     "inci": "Aqua, Helianthus Annuus Seed Oil, Sorbitol, Polyglyceryl-3 Diisostearate, Isopropyl Palmitate, Octyldodecanol, Glycerin, Panthenol, Hexyldecanol, Hexyldecyl Laurate, Butyrospermum Parkii Butter, Caprylyl Glycol, Carbomer, Citric Acid, Dimethicone, Dipropylene Glycol, Disodium Cocoyl Glutamate, Glyceryl Caprylate, Glycine Soja Oil, Heliotropine, Parfum, Propylene Glycol, Sodium Hydroxide, Tocopherol"
+    },
+    {
+     "nombre": "Loción corporal para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000040"
+     ],
+     "inci": "Aqua, Isopropyl Palmitate, Ethylhexyl Stearate, Butylene Glycol, Polyglyceryl-3 Polyricinoleate, C12-15 Alkyl Benzoate, Helianthus Annuus Seed Oil, Glycerin, Octyldodecanol, Polyglyceryl-3 Diisostearate, Panthenol, Butyrospermum Parkii Butter, Ascorbyl Palmitate, Citric Acid, Glyceryl Oleate, Glycine Soja Oil, Heliotropine, Hydrogenated Palm Glycerides Citrate, Lecithin, Parfum, Tocopherol, Zinc Sulfate"
+    },
+    {
+     "nombre": "Crema de cuidado para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000736",
+      "42420675"
+     ],
+     "inci": "Aqua, Isopropyl Palmitate, Ethylhexyl Stearate, Polyglyceryl-3 Polyricinoleate, Glycerin, Propylene Glycol, Butylene Glycol, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Prunus Amygdalus Dulcis Oil, Allantoin, Ascorbyl Palmitate, Butyrospermum Parkii Butter, Cera Alba, Citric Acid, Glyceryl Oleate, Glycine Soja Oil, Heliotropine, Hydrogenated Palm Glycerides Citrate, Lecithin, Parfum, Tocopherol, Zinc Stearate, Zinc Sulfate"
+    },
+    {
+     "nombre": "Champú y acondicionador infantil Prinzessin Rosalea",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001160"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Sodium Chloride, Glycol Distearate, Laureth-4, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Parfum, CI 16185"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Sanfte Lieblinge",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001306"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Lauryl Hydroxysultaine, Glycerin, Cocamidopropyl Betaine, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Citric Acid, Heliotropine, Parfum"
+    },
+    {
+     "nombre": "Loción solar sensible SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000880",
+      "4065331005298"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Gylcerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Hydroxyacetophenone, Oryza Sativa Bran Cera, Squalane, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, Tetrasodium Iminodisuccinate, Galactoarabinan, Cellulose Gum, Xanthan Gum, Caprylhydroxamic Acid"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Sportsfreund",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001207"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Silica, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Gel de lavado para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000330"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Disodium Laureth Sulfosuccinate, Parfum, Polysorbate 20, Chamomilla Recutita Flower Extract, Citric Acid, Coco Glucoside, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Heliotropine, Hydrogenated Palm Glycerides Citrate, Hydrolyzed Wheat Protein, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Sodium Benzoate , Sodium Chloride, Sodium Citrate, Tocopherol"
+    },
+    {
+     "nombre": "Crema de lavado y ducha para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000781"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Parfum , Prunus Amygdalus Dulcis Oil, Hydrolyzed Wheat Protein, Coco-Glucoside, PEG-120 Methyl Glucose Dioleate, Glyceryl Oleate, Glycol Distearate, Laureth-4, Hydrogenated Palm Glycerides Citrate, Guar Hydroxypropyltrimonium Chloride, Tocopherol, Heliotropine, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Sodium Chloride, Citric Acid"
+    },
+    {
+     "nombre": "Crema protectora contra viento y frío",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000767"
+     ],
+     "inci": "Aqua, Isopropyl Palmitate, Butylene Glycol, Polyglyceryl-3 Diisostearate, Glycerin, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Polyglyceryl-3 Polyricinoleate, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii Butter, Cera Alba, Citric Acid, Glycine Soja Oil, Heliotropine, Parfum, Tocopherol, Tocopheryl Acetate, Zinc Stearate, Zinc Sulfate"
+    },
+    {
+     "nombre": "Baño y ducha Traum para bebé",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001542"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Prunus Amygdalus Dulcis Oil, Avena Sativa Kernel Extract, Coco-Glucoside, Glyceryl Oleate, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Helianthus Annuus Seed Oil, Sodium Chloride, PEG-60 Hydrogenated Castor Oil, Potassium Sorbate, Sodium Citrate, PEG-120 Methyl Glucose Dioleate, Tocopherol, Citric Acid, Sodium Benzoate, Phenoxyethanol, Laureth-4, Hydrogenated Palm Glycerides Citrate, Rosmarinus Officinalis Extract, Parfum"
+    },
+    {
+     "nombre": "Champú y gel de ducha Pokémon Pikachu",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331002792"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Glycol Distearate, Laureth-4, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Parfum, CI 19140"
+    },
+    {
+     "nombre": "Baño de espuma Pokémon Charizard",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331002839"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Hydrolyzed Wheat Protein, Citric Acid, Glycerin, Guar Hydroxypropyltrimonium Chloride, Lauryl Lactate, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Sodium Sulfate, Parfum, CI 15985, CI 16035"
+    },
+    {
+     "nombre": "Champú y gel de ducha Pokémon Squirtle",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331002815"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Hydrolyzed Wheat Protein, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Glycol Distearate, Laureth-4, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Silica, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Champú y gel de ducha Pokémon Bulbasaur",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331003683"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Silica, Parfum, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Baño de espuma Pokémon Lapras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331003850"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Sodium Sulfate, Silica, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Slime de baño infantil rosa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331002914"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Glycerin, Aloe Barbadensis Leaf Juice Powder, Sodium Chloride, Sodium Benzoate, Citric Acid, Propylene Glycol, Denatonium Benzoate, Sodium Sulfate, Silica, Parfum, CI 45100"
+    },
+    {
+     "nombre": "Gel de aloe vera SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331004215"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Glycerin, Aqua, Xanthan Gum, Panthenol, Cucumis Sativus Fruit Extract, Decyl Glucoside, Lauryl Glucoside, Phenoxyethanol, Ethylhexylglycerin, Citric Acid"
+    },
+    {
+     "nombre": "Bálsamo SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331004253"
+     ],
+     "inci": "Helianthus Annuus Seed Oil, Ricinus Communis Seed Oil, Cera Alba, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii Butter, Backhousia Citriodora Leaf Extract, Glycine Soja Oil, Citric Acid , Tocopherol, Citral"
+    },
+    {
+     "nombre": "Pomada de masaje para la tripita SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331004178"
+     ],
+     "inci": "Helianthus Annuus Seed Oil, Ricinus Communis Seed Oil, Hydrogenated Castor Oil, Cera Alba, Copernicia Cerifera Cera, Glycerin, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii Butter, Hydrogenated Coco-Glycerides, Coriandrum Sativum Fruit Extract, Carum Carvi Seed Extract, Tocopherol, Glycine Soja Oil, Aqua, Citric Acid, Parfum, Linalool, Limonene, Geraniol"
+    },
+    {
+     "nombre": "Crema protectora del pañal SOS Spezial",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000743"
+     ],
+     "inci": "Aqua, Isopropyl Palmitate, Polyglyceryl-3 Polyricinoleate, Ethylhexyl Stearate, Glycerin, Butylene Glycol, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Allantoin, Ascorbyl Palmitate, Butyrospermum Parkii Butter, Cera Alba, Chamomilla Recutita Flower Extract, Citric Acid, Gadi Iecur Oil, Glyceryl Oleate, Glycine Soja Oil, Heliotropine, Hydrogenated Palm Glycerides Citrate, Lecithin, Magnesium Sulfate, P-Anisic Acid, Squalane, Tocopherol, Tocopheryl Acetate, Zinc Stearate, Zinc Sulfate"
+    },
+    {
+     "nombre": "Toallitas húmedas para bebé Aqua Touch",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331000552"
+     ],
+     "inci": "Aqua, Cocamidopropyl PG-Dimonium Chloride, Lactic Acid, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Champú y gel de ducha Pokémon Charmander",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331003669"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Glycol Distearate, Laureth-4, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum, CI 15985"
+    },
+    {
+     "nombre": "Champú y gel de ducha Pokémon Legends",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331004482"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Crema infantil Pokémon Dragonite",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "42420750"
+     ],
+     "inci": "Aqua, Isopropyl Palmitate, Butylene Glycol, Polyglyceryl-3 Diisostearate, Glycerin, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Polyglyceryl-3 Polyricinoleate, Prunus Amygdalus Dulcis Oil, Zinc Stearate, Butyrospermum Parkii Butter, Cera Alba, Tocopherol, Tocopheryl Acetate, Zinc, Sulfate, Glycine Soja Oil, Heliotropine, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Acondicionador infantil para desenredar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331004505"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Isopropyl Palmitate, Aloe Barbadensis Leaf Juice Powder, Prunus Amygdalus Dulcis Oil, Avena Sativa Kernel Extract, Hydrogenated Lecithin, Behenamidopropyl Dimethylamine, Phenoxyethanol, Lactic Acid, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Baño SOS para la época de resfriados",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "42420743"
+     ],
+     "inci": "Aqua, Lauryl Glucoside, Sodium Coco-Sulfate, Coco-Glucoside, Glycerin, Glyceryl Oleate, Lavandula Angustifolia Flower Extract, Zingiber Officinale Root Extract, Thymus Vulgaris Leaf Extract , Hydrogenated Palm Glycerides Citrate, Sodium Benzoate, Citric Acid, Sodium Chloride, Tocopherol, Linalool, Citral, Limonene"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Bluey",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331005212"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Lauryl Hydroxysultaine, Glycerin, Cocamidopropyl Betaine, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Hydrogenated Vegetable Oil, Glyceryl Oleate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Chloride, Citric Acid, Parfum"
+    },
+    {
+     "nombre": "Baño de espuma cremoso Bluey",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331005175"
+     ],
+     "inci": "Aqua, Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, PEG-120 Methyl Glucose Dioleate, Glycerin, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Coco-Glucoside, Glyceryl Oleate, Polysorbate 20, Hydrogenated Vegetable Oil, Phenoxyethanol, Sodium Benzoate, Hydrogenated Palm Glycerides Citrate, Citric Acid, Tocopherol, Parfum"
+    },
+    {
+     "nombre": "Pomada de zinc SOS",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331005106"
+     ],
+     "inci": "Aqua, Zinc Oxide, Isopropyl Palmitate, Helianthus Annuus Seed Oil, Polyglyceryl-3 Polyricinoleate, Glycerin, Polyglyceryl-3 Diisostearate, Butylene Glycol, Prunus Amygdalus Dulcis Oil, Hexyldecanol, Hexyldecyl Laurate, Panthenol, Butyrospermum Parkii Butter, Cera Alba, Chamomilla Recutita Flower Extract, Glycine Soja Oil, Zinc Sulfate, Zinc Stearate, Dehydroacetic Acid, Citric Acid, Tocopherol"
+    },
+    {
+     "nombre": "Baño de espuma infantil Drachenzauber",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331005250"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Aloe Barbadensis Leaf Juice Powder, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Lauryl Lactate, Sodium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum, CI 1598"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Blubberbagger",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331005571"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Barbadensis Leaf Juice Powder, Lauryl Lactate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Silica, Parfum, CI 42051"
+    },
+    {
+     "nombre": "Champú y gel de ducha infantil Wolkenzauber",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4065331001221"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Hydrolyzed Wheat Protein, Aloe Brabadensis Leafe Juice Powder, Lauryl Lactate, Glycol Distearate, Laureth-4, Guar Hydrodyoropyltrimonium Chloride, Phenoxyethanol, Sodium Benzoate, Sodium Citrate, Citric Acid, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "pingo",
+   "nombre": "Pingo",
+   "productos": [
+    {
+     "nombre": "Pañales ecológicos ultrasoft talla 0",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7640118230406"
+     ],
+     "inci": "Núcleo: 100% fibras de celulosa totalmente blanqueadas sin cloro y con certificación FSC, Superabsorbente: Poliacrilato, Capa exterior: película transpirable de polipropileno no tejido PE (procedente de fuentes renovables), Capa de adquisición: Poliéster / Polipropileno, Capa interior: Polipropileno no tejido, Barrera antifuga: Polipropileno hidrofóbico no tejido, Tiras elásticas: Hilo de poliuretano, Cinta: Polipropileno no tejido / film Polietileno, Banda frontal: Film Polietileno / textil Polipropileno Velcro, Alas delanteras: Polipropileno / Polietileno, Adhesivos, Bolsa: PE verde (>85% de fuentes renovables), Sin látex, sin loción, sin perfume"
+    }
+   ]
+  },
+  {
+   "key": "suavinex",
+   "nombre": "Suavinex",
+   "productos": [
+    {
+     "nombre": "Aceite de masaje perineal Rosa Mosqueta",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426420902199"
+     ],
+     "inci": "Canola oil, rosa canina fruit oil, triticum vulgare germ oil, tocopheryl acetate, tocopherol, parfum, hexamethylindanopyran, linalyl acetate, terpineol, tetramethyl acetyloctahydronaphthalenes, vanillin"
+    },
+    {
+     "nombre": "Spray hidroalcohólico para manos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426420075268"
+     ],
+     "inci": "Alcohol denat, aqua, glycerin, panthenol, parfum"
+    },
+    {
+     "nombre": "Champú acondicionador Kids",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426420082068"
+     ],
+     "inci": "Aqua, sodium laureth sulfate, coco-glucoside, betaine, coco-betaine, parfum, panthenol, avena sativa leaf extract, saccharomyces ferment lysate filtrate, tocopherol, glyceryl oleate, polyquaternium-10, caprylyl glycol, trisodium ethylenediamine disuccinate, hydrogenated vegetable glycerides citrate, sodium benzoate, polyquaternium-22, citric acid, sodium chloride, potassium sorbate, 1,2-hexanediol"
+    },
+    {
+     "nombre": "Gel-champú Kids",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426420082075"
+     ],
+     "inci": "Aqua, sodium laureth sulfate, coco-glucoside, glycerin, coco-betaine, sodium chloride, betaine, parfum, panthenol, avena sativa leaf extract, saccharomyces ferment lysate filtrate, tocopherol, glyceryl oleate, polyquaternium-10, trisodium ethylenediamine disuccinate, caprylyl glycol, hydrogenated vegetable glycerides citrate, sodium benzoate, citric acid, potassium sorbate, 1,2-hexanediol"
+    },
+    {
+     "nombre": "Spray desenredante Kids",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8426420082051"
+     ],
+     "inci": "Aqua, dicocoylethyl hydroxyethylmonium methosulfate, PEG-40 hydrogenated castor oil, avena sativa leaf extract, hydrolyzed wheat protein, glyceryl oleate, coco-glucoside, parfum, saccharomyces ferment lysate filtrate, hydrogenated vegetable glycerides citrate, tocopherol, triethyl citrate, caprylyl glycol, propylene glycol, tromethamine, trisodium ethylenediamine disuccinate, sodium benzoate, potassium sorbate, benzoic acid, citric acid"
     }
    ]
   }

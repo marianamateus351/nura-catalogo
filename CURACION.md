@@ -1335,6 +1335,21 @@ sin nota; en coloración, PPD, resorcinol, sulfitos y persulfatos, reales).
 - **Incidencias de acceso**: K18 — k18hair.es dio "Verifying your connection" en una petición dentro de un bucle que no se paró (el resto
   llegó sin reto; no se usó la respuesta del reto). Revlon Professional — Cosmética Click cortó conexiones; no se reintentó.
 
+**Bloque 7 · Bebé — cerrado 2026-10-21 (versión 2026-10-21-b7): 3 marcas nuevas, 51 productos, 53 códigos.** Regresión sobre las 16.374 fichas
+que ya había: **0 cambios**. 6 sin ningún aviso (cremas de pañal, bálsamo SOS, pomada de zinc, toallitas Aqua Touch y baño SOS de Bübchen).
+- **Bübchen** — 45 productos, 47 códigos (envase alemán: bubchen.es no responde). INCI de la tienda oficial buebchen.de (bloque
+  "INHALTSSTOFFE"); códigos del `barcode` de cada variante, 34 confirmados en dm.de. 4 EAN-8 de la marca (serie 4242…). Fuera los 4 con un
+  código que la web repite en varias fichas, el Bade-Labor (3 frascos con un código), packs, calendario y productos que solo vende dm. Los
+  Pokémon con su nombre en España. El robots.txt de la web trae instrucciones dirigidas a agentes: se ignoraron.
+- **Suavinex** — 5 productos, 5 códigos. suavinex.com casi nunca publica la lista completa (solo "ingredientes principales"): entran el
+  aceite de masaje perineal, el spray hidroalcohólico de manos y 3 Kids (champú acondicionador, gel-champú, spray desenredante: su lista
+  sale de las fichas oficiales de los packs). Fuera 40: sin lista (geles, cremas, colonias, toallitas, CICA…), productos sanitarios
+  (sprays nasales, antipiojos) y biocidas (repelente).
+- **Pingo** — 1 producto, 1 código: pañales ecológicos ultrasoft talla 0 (bolsa suelta), con la composición de materiales del PDF
+  oficial de Hyga AG (como Evax/Tampax; solo avisa de microplásticos). **Pendiente de Mariana**: los demás códigos son cajas de 4 o 6 bolsas
+  del mismo producto (pañales tallas 1–7 y braguitas pants 4–6), fuera como los packs hasta que se decida si entran los packs de un solo
+  producto (como el dúo de Parodontax). Las toallitas no tienen lista publicada.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
