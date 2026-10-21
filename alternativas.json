@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21g",
+ "version": "2026-10-21h",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -9557,6 +9557,30 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B0161ZC5GY"
+      },
+      {
+       "nombre": "Bálsamo SOS",
+       "marca": "Bübchen",
+       "barcode": "4065331004253",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema protectora del pañal para bebé",
+       "marca": "Bübchen",
+       "barcode": "4065331000705",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema protectora del pañal SOS Spezial",
+       "marca": "Bübchen",
+       "barcode": "4065331000743",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Pomada de zinc SOS",
+       "marca": "Bübchen",
+       "barcode": "4065331005106",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Bálsamo Reparador Avanzado",

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b6",
+ "version": "2026-10-21-b7",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26220,6 +26220,60 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4068359155860"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Crema protectora del pañal para bebé",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4065331000705"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Bálsamo SOS",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4065331004253"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Crema protectora del pañal SOS Spezial",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4065331000743"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Toallitas húmedas para bebé Aqua Touch",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4065331000552"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Baño SOS para la época de resfriados",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "42420743"
+   ]
+  },
+  {
+   "marcaKey": "bubchen",
+   "marca": "Bübchen",
+   "nombre": "Pomada de zinc SOS",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4065331005106"
    ]
   }
  ]
