@@ -1375,6 +1375,24 @@ Mariana para boca y labios. Sin falsos positivos ni negativos nuevos.
   finlandesa (gel Ortho) dan la lista; el resto de la gama, sin lista en ninguna web oficial. Códigos de farmaciasdirect y Campoamor. El de
   Ortho es 0070942… (Sunstar Americas), el que GUM usa en Europa: excepción UPC.
 
+**Bloque 9 · Hombre — cerrado 2026-10-21 (versión 2026-10-21-b9): 3 marcas nuevas, 63 productos, 74 códigos; 5 sin fuente.** Regresión
+sobre las 16.501 fichas que ya había: **0 cambios**. 1 sin avisos (bálsamo labial Bulldog Original). Sin falsos positivos ni negativos
+nuevos. Bulldog marca su perfume con la nota "A blend of natural ingredients": se conserva en la lista, pero no habla de aceites
+esenciales y no se propone reconocerla como perfume natural declarado (sigue saltando el aviso de fragancia).
+- **Sin fuente (0 productos)**: **Proraso** (reto anti-bot de SiteGround en proraso.com), **Agua Brava** (sin web propia; puig.com con
+  Cloudflare), **Varón Dandy** (sin web oficial: varondandy.com es una web de afiliados de un particular; según Druni, hoy es de Coty),
+  **Adidas** (adidasbodycare.com, de Coty, en mantenimiento; Coty no publica listas por producto) y **Lady Speed Stick** (no se vende
+  oficialmente en la UE: la única web es la mexicana, con formato de EE. UU.).
+- **Bulldog** — 54 productos, 59 códigos. Tienda oficial británica bulldogskincare.com (no hay tienda UE; la versión /es traduce la lista
+  automáticamente y la estropea: se usa la ficha en inglés). Códigos de la web (serie británica) y 4 de OBF de series europeas por nombre y
+  tamaño. **Para Mariana: fuente del Reino Unido.** Erratas corregidas (lsopentane, Glucuronica acid…).
+- **Harry's** — 7 productos, 11 códigos. Sin web española: gel de afeitar de de.harrys.com (EAN alemanes) y 6 geles de ducha de
+  gb.harrys.com (EAN 506…). **Fuera 7 que solo tienen UPC de EE. UU.** en la tienda británica (crema de afeitar, limpiador, lociones,
+  bálsamo, bruma, tónico): la marca usa EAN europeos en otros productos, así que la excepción UPC no aplica.
+- **Floïd** — 2 productos, 4 códigos: The Genuine (envases español e italiano) y gel de baño Citrus Spectre. INCI de floid.com/es (Ludovico
+  Martelli); floid.es/.net sirven un certificado de otro dominio (no se desactiva TLS). **Fuera 9** cuyo código la tienda (VanityStock) vende
+  con otra lista, en el desodorante con triclosán (posible fórmula anterior), como en Noreva. Fuera la gama antigua de Vijuber.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 

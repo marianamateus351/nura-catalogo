@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b8",
+ "version": "2026-10-21-b9",
  "marcas": [
   {
    "key": "larocheposay",
@@ -157642,6 +157642,602 @@
       "8427426089112"
      ],
      "inci": "Xylitol, Sorbitol, Malic Acid, Disodium Phosphate, Magnesium Stearate, Aroma, Sodium Fluoride, Limonene, Citrus Aurantium Bergamia Peel Oil, Linalool, Citral"
+    }
+   ]
+  },
+  {
+   "key": "bulldog",
+   "nombre": "Bulldog",
+   "productos": [
+    {
+     "nombre": "Bálsamo labial Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647467"
+     ],
+     "inci": "Hydrogenated coconut oil, Euphorbia cerifera (Candelilla) wax, Ricinus communis (Castor) seed oil, Olus oil, Copernicia cerifera (Carnauba) wax, Theobroma cacao (Cocoa) seed butter, Moringa oil/hydrogenated moringa oil esters, Camelina sativa seed oil, Oryza sativa (Rice) wax, Caprylic/capric triglyceride, Glycine soja (Soybean) oil, Mentha piperita (Peppermint) oil, Tocopherol, Limonene, Helianthus annuus (Sunflower) seed oil, Aloe barbadensis (Aloe vera) leaf extract, Camellia sinensis (Green tea) leaf extract, Linalool"
+    },
+    {
+     "nombre": "Gel de ducha Vetiver y Pimienta Negra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646217"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium methyl cocoyl taurate, Sodium chloride, Glycerin, Lauryl glucoside, Sodium methyl oleoyl taurate, Sodium PCA, Sodium lauroyl sarcosinate, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Potassium sorbate, Limonene, Eugenol. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante Original tamaño viaje 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144641526"
+     ],
+     "inci": "Aqua (Water), Ethylhexyl palmitate, Caprylic/capric triglyceride, Glycerin, Aloe barbadensis leaf juice, Sorbitan stearate, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Camelina sativa seed oil, Sodium stearoyl glutamate, Parfum (Fragrance)*, Benzoic acid, Carbomer, Tocopheryl acetate, Dehydroacetic acid, Amorphophallus konjac root extract, Limonene, Camellia sinensis (Green tea) leaf extract, Evernia prunastri (Oakmoss) extract, Linalool, Citronellol, Geraniol, Sodium hydroxide, Potassium sorbate, Sodium benzoate, Tocopherol, Citric acid. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema de manos Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643193"
+     ],
+     "inci": "Aqua (Water), Glycerin, Isopropyl palmitate, Aloe barbadensis leaf juice, Ethylhexyl palmitate, Glyceryl stearate citrate, Cetearyl alcohol, Phenoxyethanol, Carbomer, Sodium stearoyl glutamate, Benzoic acid, Parfum (Fragrance)††, Xanthan gum, Dehydroacetic acid, Limonene, Linalool, Citronellol, Geraniol, Citric acid, Sodium hydroxide. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Exfoliante facial Oil Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144644060"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl Betaine, Glycerin, Charcoal powder, Coco-glucoside, Sodium Chloride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Hamamelis Virginiana (Witch Hazel) Water, Benzoic Acid, Parfum (Fragrance)**, Polyquaternium-39, Alcohol, Dehydroacetic Acid, Ethylhexylglycerin, Salix Alba (Willow) Bark Extract, Sodium Benzoate, Juniperus Communis Fruit Extract, Potassium Sorbate, Sodium Hydroxide. **a blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de ducha Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646231"
+     ],
+     "inci": "AQUA (WATER), COCAMIDOPROPYL BETAINE, SODIUM C14-16 OLEFIN SULFONATE, GLYCERIN, SODIUM CHLORIDE, SODIUM BENZOATE, CITRIC ACID, PARFUM (FRAGRANCE)*, POTASSIUM SORBATE, CITRUS LIMON (LEMON) PEEL OIL, LIMONENE, SODIUM HYDROXIDE, PINENE, POGOSTEMON CABLIN OIL, LAVANDULA OIL/EXTRACT, LINALYL ACETATE. ††A BLEND OF NATURAL INGREDIENTS"
+    },
+    {
+     "nombre": "Limpiador de barba y rostro Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896577944"
+     ],
+     "inci": "AQUA (WATER), COCAMIDOPROPYL BETAINE, ALOE BARBADENSIS LEAF JUICE, SODIUM METHYL COCOYL TAURATE, GLYCERIN, SODIUM CHLORIDE, LAURYL GLUCOSIDE, SODIUM METHYL OLEOYL TAURATE, SODIUM LAUROYL SARCOSINATE, CITRIC ACID, SODIUM BENZOATE, PARFUM (FRAGRANCE), CITRUS LIMON (LEMON) PEEL OIL, POTASSIUM SORBATE, LIMONENE, PINENE, POGOSTEMON CABLIN OIL, LAVANDULA OIL/EXTRACT"
+    },
+    {
+     "nombre": "Gel de afeitar espumoso Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647344"
+     ],
+     "inci": "Aqua (Water), Palmitic acid, Triethanolamine, Isopentane, Stearic acid, Glyceryl oleate, Phenoxyethanol, Isobutane, Adansonia digitata (Baobab) seed oil, Glycerin, Sorbitol, Avena sativa (Oat) kernel oil, Triticum vulgare (Wheat) germ oil, Hydroxyethylcellulose, Epilobium angustifolium (Willowherb) flower/leaf/stem extract, Hydroxypropylcellulose, Tocopherol, Sodium metabisulfite"
+    },
+    {
+     "nombre": "Gel de afeitar Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144640000",
+      "5060144641502"
+     ],
+     "inci": "Aqua (Water), Aloe barbadensis leaf juice, Cocamidopropyl betaine, Glycerin, Coco-glucoside, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Sodium hydroxide, Benzoic acid, Parfum (Fragrance)††, Menthol, Dehydroacetic acid, Limonene, Citric acid. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de afeitar espumoso Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647337"
+     ],
+     "inci": "Aqua (Water), Palmitic acid, Triethanolamine, Isopentane, Stearic acid, Glyceryl oleate, Isobutane, Glycerin, Camelina sativa seed oil, Phenoxyethanol, Sorbitol, Hydroxyethylcellulose, Parfum (Fragrance)*, Limonene, Aloe barbadensis leaf juice, Camellia sinensis (Green tea) leaf extract, Hydroxypropylcellulose, Potassium sorbate, Sodium benzoate, Citric acid. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante Age Defence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144640581"
+     ],
+     "inci": "Aqua (Water), Ethylhexyl palmitate, Caprylic/capric triglyceride, Glycerin, Sorbitan stearate, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Tocopheryl (Vitamin E) acetate, Panicum miliaceum (Millet) seed extract, Sodium stearoyl glutamate, Benzoic acid, Carbomer, Parfum (Fragrance)**, Dehydroacetic acid, Amorphophallus konjac root extract, Limonene, Citric Acid, Potassium sorbate, Tannic acid, Linalool, Sodium hydroxide. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Sérum facial Age Defence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643872"
+     ],
+     "inci": "Aqua (Water), Coco-caprylate, Sodium polyacrylate, Tocopherol (Vitamin E), Helianthus annuus (Sunflower) seed oil, Phenoxyethanol, Glycerin, Echinacea purpurea flower/leaf/stem extract, Fragrance (Parfum)*, Benzoic acid, Dehydroacetic acid, Limonene, Rosmarinus officinalis (Rosemary) leaf extract, Linalool, Citric acid, Sodium benzoate, Potassium sorbate, Sodium hydroxide. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Spray de sal para peinar Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896571270"
+     ],
+     "inci": "Aqua (Water), Maris sal (Sea salt), Sodium polyitaconate, Sorbitan oleate decylglucoside crosspolymer, Magnesium sulfate, Sodium benzoate, Sorbitol, Sodium chloride, Citric acid, Limonene, Parfum (Fragrance)**, Linalool. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Desodorante en spray Bergamota y Sándalo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896575513"
+     ],
+     "inci": "Alcohol denat., Aqua (Water), Triethyl citrate, Diheptyl succinate, Nitrogen, Glycerin, PPG-3 benzyl ether myristate, Parfum (Fragrance), Propanediol, Cocos nucifera (Coconut) oil, Caprylic/capric triglyceride, Linalool, Limonene, Capryloyl glycerin/sebacic acid copolymer, Rhamnose, Hydroxycitronellal, Glucose, Glucuronic acid, Citral"
+    },
+    {
+     "nombre": "Desodorante en spray Menta Fresca y Cedro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896575506"
+     ],
+     "inci": "Alcohol denat., Aqua (Water), Triethyl citrate, Diheptyl succinate, Nitrogen, Glycerin, PPG-3 benzyl ether myristate, Parfum (Fragrance), Propanediol, Cocos nucifera (Coconut) oil, Caprylic/capric triglyceride, Linalool, Limonene, Capryloyl glycerin/sebacic acid copolymer, Citronellol, Hydroxycitronellal, Rhamnose, Citral, Glucose, Glucuronic acid"
+    },
+    {
+     "nombre": "Desodorante en spray Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896575490"
+     ],
+     "inci": "Alcohol denat., Aqua (Water), Triethyl citrate, Diheptyl succinate, Nitrogen, Glycerin, PPG-3 benzyl ether myristate, Parfum (Fragrance), Propanediol, Cocos nucifera (Coconut) oil, Caprylic/capric triglyceride, Limonene, Linalool, Geraniol, Capryloyl glycerin/sebacic acid copolymer, Citronellol, Rhamnose, Citral, Glucose, Glucuronic acid"
+    },
+    {
+     "nombre": "Desodorante natural Menta y Eucalipto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647726",
+      "5060144647818"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycerin, Inulin, Polyglyceryl-3 caprylate, Sodium caproyl/lauroyl lactylate, Xanthan gum, Coco-caprylate/caprate, Parfum (Fragrance)*, Triethyl citrate, Limonene, Sodium benzoate, Sodium stearoyl glutamate, Potassium sorbate, Citric acid, Fructose, Linalool, Benzyl benzoate. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Limpiador facial Original tamaño viaje 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144641519"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Coco-glucoside, Glycerin, Aloe barbadensis leaf juice, Sodium lauroyl sarcosinate, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Sodium hydroxide, Benzoic acid, Parfum (Fragrance)*, Camelina sativa seed oil, Dehydroacetic acid, Limonene, Camellia sinensis (Green tea) leaf extract, Potassium sorbate, Sodium benzoate, Citric acid, Tocopherol. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de afeitar Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643889"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Glycerin, Coco-glucoside, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Benzoic acid, Dehydroacetic acid, Epilobium angustifolium (Willowherb) flower/leaf/stem extract, Citric acid, Sodium metabisulfite, Sodium hydroxide"
+    },
+    {
+     "nombre": "Sérum facial End of Day Recovery",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573861"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycerin, Sodium PCA, Polyglyceryl-6 caprylate, Sodium hyaluronate, Sodium benzoate, Xanthan gum, Potassium sorbate, Maltodextrin, Plankton extract, Parfum (Fragrance)††, Citric acid, Phenoxyethanol, Biosaccharide gum-1, Nephelium lappaceum leaf extract, Proline, Limonene. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Desodorante natural Vetiver y Pimienta Negra",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647733"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycerin, Inulin, Polyglyceryl-3 caprylate, Sodium caproyl/lauroyl lactylate, Xanthan gum, Coco-caprylate/caprate, Parfum (Fragrance)*, Triethyl citrate, Sodium benzoate, Sodium stearoyl glutamate, Limonene, Potassium sorbate, Citric acid, Fructose, Eugenol, Linalool. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de ducha Limón y Bergamota",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646224"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium methyl cocoyl taurate, Sodium chloride, Glycerin, Lauryl glucoside, Sodium methyl oleoyl taurate, Sodium PCA, Sodium lauroyl sarcosinate, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Limonene, Potassium sorbate. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Exfoliante facial Energising",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646125"
+     ],
+     "inci": "Aqua (Water), Coco-glucoside, Stearic acid, Glycerin, Cetyl alcohol, Glyceryl stearate, Cetearyl alcohol, Cocos nucifera (Coconut) shell powder, Oryza sativa (Rice) powder, Phenoxyethanol, Acrylates/C10-30 alkyl acrylate crosspolymer, Parfum (Fragrance)**, Benzoic acid, Limonene, Dehydroacetic acid, Citral, Zea mays (Maize) kernel extract, Caulerpa lentillifera (Green algae) extract, Sodium benzoate, Sodium levulinate, Citric acid, Potassium sorbate, Sodium hydroxide. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Desodorante natural Limón y Bergamota",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647719"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycerin, Inulin, Polyglyceryl-3 Caprylate, Sodium Caproyl/Lauroyl Lactylate, Parfum (Fragrance)*, Xanthan Gum, Coco-Caprylate/Caprate, Limonene, Triethyl Citrate, Sodium Benzoate, Sodium Stearoyl Glutamate, Potassium Sorbate, Citric Acid, Fructose, Linalool, Citral. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Loción corporal Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144644077"
+     ],
+     "inci": "Aqua (Water), C12-15 Alkyl Benzoate, Cetearyl Alcohol, Glycerin, Aloe Barbadensis Leaf Juice, Camelina Sativa Seed Oil, Phenoxyethanol, Carbomer, Glyceryl Stearate Citrate, Benzoic Acid, Parfum (Fragrance)**, Xanthan Gum, Dehydroacetic Acid, Limonene, Camellia Sinensis (Green Tea) Leaf Extract, Evernia Prunastri (Oakmoss) Extract, Linalool, Citronellol, Citric Acid, Geraniol, Tocopherol, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Desodorante natural Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647702",
+      "5060144647795"
+     ],
+     "inci": "Aqua (Water), Propanediol, Glycerin, Inulin, Polyglyceryl-3 Caprylate, Sodium Caproyl/Lauroyl Lactylate, Xanthan Gum, Coco-Caprylate/Caprate, Parfum (Fragrance)*, Triethyl Citrate, Sodium Benzoate, Sodium Stearoyl Glutamate, Limonene, Potassium Sorbate, Citric Acid, Fructose, Linalool, Evernia Prunastri (Oakmoss) Extract, Citronellol, Geraniol. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Limpiador facial Energising",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646132"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Coco-glucoside, Glycerin, Sodium lauroyl sarcosinate, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Sodium hydroxide, Parfum (Fragrance)*, Benzoic acid, Dehydroacetic acid, Limonene, Zea mays (Maize) kernel extract, Oryza sativa (Rice) extract, Caulerpa lentillifera (Green algae) extract, Sodium benzoate, Potassium sorbate, Sodium levulinate, Citric acid, Sorbic acid. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Exfoliante facial Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144645135"
+     ],
+     "inci": "Glycerin, Cetyl Alcohol, Stearic Acid, Coco-Glucoside, Aqua (Water), Glyceryl Stearate, Cetearyl Alcohol, Chenopodium Quinoa Husk Powder, Prunus Amygdalus Dulcis (Sweet Almond) Shell Powder, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Adansonia Digitata (Baobab) Seed Oil, Dehydroacetic Acid, Avena Sativa (Oat) Kernel Oil, Triticum Vulgare (Wheat) Germ Oil, Epilobium Angustifolium (Willowherb) Flower/Leaf/Stem Extract, Sodium Hydroxide, Sodium Metabisulfite, Tocopherol"
+    },
+    {
+     "nombre": "Gel limpiador facial End of Day Recovery",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573854"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Glycerin, Coco-glucoside, Sodium lauroyl sarcosinate, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Curcuma longa (Turmeric) root extract, Sodium hydroxide, Parfum (Fragrance)**, Benzoic acid, Dehydroacetic acid, Limonene. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante Anytime Daily SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573847"
+     ],
+     "inci": "Aqua (Water), Carthamus Tinctorius Oleosomes, Octocrylene, Ethylhexyl Salicylate, Copernicia Cerifera Wax, Butyl Methoxydibenzoylmethane, Glycerin, Propylheptyl Caprylate, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Pentaerythrityl Distearate, Undecane, Tribehenin, Phenoxyethanol, Cetyl Palmitate, Tridecane, Hydrolyzed Jojoba Esters, Sorbitan Palmitate, Xanthan Gum, Oryza Sativa Bran Wax, Gluconolactone, Benzoic Acid, Sodium Citrate, Sodium Ascorbyl Phosphate, Sodium Phytate, Sorbitan Oleate, Dehydroacetic Acid, Sodium Benzoate, Citric Acid, Tocopherol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Gel-crema hidratante Anytime Daily",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573830"
+     ],
+     "inci": "Aqua (Water), Dicaprylyl carbonate, Betaine, Propanediol, Caprylic/capric triglyceride, C9-12 alkane, Hordeum vulgare (Barley) seed extract, Sodium acrylates copolymer, Phenoxyethanol, Glycerin, Lecithin, Ethylhexylglycerin, Coco-caprylate/caprate, Parfum (Fragrance)**, Limonene, Centella asiatica extract, Citric acid, Potassium sorbate, Sodium benzoate. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Limpiador facial concentrado Anytime Daily",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573823"
+     ],
+     "inci": "Aqua (Water), Decyl glucoside, Glycerin, Coco-glucoside, Caprylyl/capryl glucoside, Propanediol, Sodium cocoyl apple amino acids, Glyceryl oleate, Glyceryl caprylate/caprate, Sodium cocoyl glycinate, Sodium methyl oleoyl taurate, Vaccinium myrtillus (Bilberry) fruit extract, Disodium cocoyl glutamate, Sodium lauroyl oat amino acids, Citric acid, Polyglyceryl-4 caprate, Polyglyceryl-6 caprylate, Saccharum officinarum (Sugarcane) extract, Parfum (Fragrance)**, Sodium benzoate, Sodium chloride, Potassium sorbate, Sodium cocoyl glutamate, Quillaja saponaria bark extract, Citrus aurantium dulcis (Orange) fruit extract, Citrus limon (Lemon) fruit extract, Limonene, Acer saccharum (Sugar maple) extract, Phenoxyethanol, Ascorbic acid, Ethylhexylglycerin, Hydrogenated palm glycerides citrate, Tocopherol. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema facial End of Day Recovery",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060896573878"
+     ],
+     "inci": "Aqua (Water), C10-18 Triglycerides, Coco-Caprylate/Caprate, Glycerin, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-6 Distearate, Triisostearin, C15-19 Alkane, Cetearyl Alcohol, Glyceryl Stearate, Phenoxyethanol, Ethylhexylglycerin, Jojoba Esters, Sclerotium Gum, Parfum (Fragrance)**, Phospholipids, Melatonin, Helianthus Annuus (Sunflower) Seed Wax, Sodium Stearoyl Glutamate, Xanthan Gum, Lactobacillus Ferment, Citric Acid, Limonene, Centella Asiatica Extract, Polyglycerin-3, Potassium Sorbate, Sodium Benzoate, Tocopherol. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante protectora SPF 15",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144642455",
+      "5060144643261"
+     ],
+     "inci": "Aqua (Water), Aloe barbadensis leaf juice, Octocrylene, Ethylhexyl salicylate, Ethylhexyl palmitate, Caprylic/capric triglyceride, Butyl methoxydibenzoylmethane, Glycerin, Sorbitan stearate, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Sodium stearoyl glutamate, Benzoic acid, Carbomer, Tocopherol, Glucomannan, Parfum (Fragrance)*, Dehydroacetic acid, Camellia sinensis leaf extract, Limonene, Linalool, Citronellol, Potassium sorbate, Citric acid"
+    },
+    {
+     "nombre": "Champú y acondicionador para barba Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643964"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium cocoyl methyl isethionate, Aloe barbadensis leaf juice, Sodium chloride, Stearamidopropyl dimethylamine, Acrylates copolymer, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Potassium sorbate, Limonene, Camelina sativa seed oil, Trisodium ethylenediamine disuccinate, Glycerin, Camellia sinensis (Green tea) leaf extract, Tocopherol. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Bálsamo para barba Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643940"
+     ],
+     "inci": "Aqua (Water), Glycerin, Isopropyl palmitate, Cetearyl alcohol, Aloe barbadensis leaf juice, Glyceryl stearate citrate, Pentaerythrityl distearate, Sodium polyitaconate, Butyrospermum parkii (Shea) butter, Prunus amygdalus dulcis (Sweet almond) oil, Panthenol, Phenoxyethanol, Sodium stearoyl glutamate, Parfum (Fragrance)††, Benzoic acid, Tocopherol, Dehydroacetic acid, Limonene, Linalool, Citronellol, Geraniol, Citral, Citric acid, Sodium hydroxide"
+    },
+    {
+     "nombre": "Crema hidratante Energising",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646149"
+     ],
+     "inci": "Aqua (Water), Glycerin, Ethylhexyl palmitate, C12-15 alkyl benzoate, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Phytic acid (Rice), Sodium polyacrylate, Benzoic acid, Caulerpa lentillifera (Algae) extract, Glycogen (Maize), Parfum (Fragrance)*, Dehydroacetic acid, Limonene, Sodium benzoate, Citral, Citric acid, Sodium hydroxide. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante Oil Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643988"
+     ],
+     "inci": "Aqua (Water), C12-15 alkyl benzoate, Tapioca starch, Glycerin, Sorbitan stearate, Hamamelis virginiana (Witch hazel) Water, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Sodium stearoyl glutamate, Alcohol, Carbomer, Benzoic acid, Parfum (Fragrance)**, Tocopheryl acetate, Dehydroacetic acid, Sodium hydroxide, Salix alba (Willow) bark extract, Limonene, Linalool, Juniperus communis fruit extract, Potassium sorbate, Sodium benzoate. **a blend of natural ingredients"
+    },
+    {
+     "nombre": "Limpiador facial Oil Control",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144644008"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Glycerin, Coco-glucoside, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Sodium lauroyl sarcosinate, Benzoic acid, Parfum (Fragrance)**, Hamamelis virginiana (Witch hazel) water, Dehydroacetic acid, Alcohol, Salix alba (Willow) bark extract, Juniperus communis fruit extract, Potassium sorbate, Sodium benzoate, Sodium hydroxide. **a blend of natural ingredients"
+    },
+    {
+     "nombre": "Aceite para barba Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144643926"
+     ],
+     "inci": "Helianthus annuus (Sunflower) seed oil, Prunus amygdalus dulcis (Sweet almond) oil, Caprylic/capric triglyceride, Borago officinalis seed oil, Argania spinosa kernel oil, Simmondsia chinensis (Jojoba) seed oil, Parfum (Fragrance)††, Limonene, Glycine soja (Soybean) oil, Tocopherol, Linalool, Citronellol, Geraniol, Citral, Aloe barbadensis leaf extract. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Contorno de ojos roll-on Age Defence",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144644053"
+     ],
+     "inci": "Aqua (Water), Glycerin, Ethylhexyl stearate, Cetearyl alcohol, Pentaerythrityl distearate, Phenoxyethanol, Sodium polyacrylate, Tocopherol (Vitamin E), Sodium stearoyl glutamate, Sorbitol, Helianthus annuus (Sunflower) seed oil, Xanthan gum, Benzoic acid, Echinacea purpurea flower/leaf/stem extract, Dehydroacetic acid, Asparagopsis armata extract, Ascophyllum nodosum extract, Rosmarinus officinalis (Rosemary) leaf extract, Citric acid, Potassium sorbate, Sodium benzoate, Sodium hydroxide"
+    },
+    {
+     "nombre": "Crema hidratante Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144640222"
+     ],
+     "inci": "Aqua (Water), Ethylhexyl palmitate, Caprylic/capric triglyceride, Glycerin, Sorbitan stearate, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Sodium stearoyl glutamate, Benzoic acid, Carbomer, Dehydroacetic acid, Ethylhexylglycerin, Epilobium angustifolium (Willowherb) flower/leaf/stem extract, Citric acid, Sodium metabisulfite, Sodium hydroxide"
+    },
+    {
+     "nombre": "Limpiador facial Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144641663"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Coco-glucoside, Glycerin, Sodium lauroyl sarcosinate, Phenoxyethanol, Acrylates/C10-30 alkyl acrylate crosspolymer, Sodium chloride, Sodium hydroxide, Benzoic acid, Dehydroacetic acid, Epilobium angustifolium (Willowherb) flower/leaf/stem extract, Sodium metabisulfite"
+    },
+    {
+     "nombre": "Bálsamo para después del afeitado Sensitive",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144641984"
+     ],
+     "inci": "Aqua (Water), Aloe barbadensis (Aloe vera) leaf juice, Ethylhexyl palmitate, Glycerin, Caprylic/capric triglyceride, Rosa eglentaria (Rosehip) seed oil, Sorbitan stearate, Phenoxyethanol, Allantoin, Pentaerythrityl distearate, Sodium polyacrylate, Anthemis nobilis (Chamomile) flower extract, Sodium stearoyl glutamate, Helianthus annuus (Sunflower) seed oil, Benzoic acid, Carbomer, Cucumis sativus (Cucumber) seed oil, Tocopherol, Dehydroacetic acid, Mannan, Camellia sinensis (Green tea) leaf extract, Calendula officinalis (Marigold) flower oil, Sodium hydroxide, Cedrus atlantica (Cedarwood) bark oil, Potassium sorbate, Citric acid, Pogostemon cablin (Patchouli) oil"
+    },
+    {
+     "nombre": "Limpiador facial Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144642240"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Coco-glucoside, Aloe barbadensis leaf juice, Glycerin, Sodium lauroyl sarcosinate, Acrylates/C10-30 alkyl acrylate crosspolymer, Phenoxyethanol, Sodium chloride, Sodium hydroxide, Benzoic acid, Parfum (Fragrance)††, Dehydroacetic acid, Limonene, Citric acid. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Exfoliante facial Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144642813"
+     ],
+     "inci": "Aqua (Water), Cetearyl alcohol, Stearic acid, Coco-glucoside, Glyceryl stearate, Aloe barbadensis leaf juice, Glycerin, Hectorite, Avena sativa (Oat) kernel meal, Butyrospermum parkii (Shea) butter, Olea europaea (Olive) seed powder, Prunus amygdalus dulcis (Sweet almond) shell powder, Phenoxyethanol, Xanthan gum, Benzoic acid, Parfum (Fragrance)††, Dehydroacetic acid, Limonene, Sodium hydroxide. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Crema hidratante Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144640024"
+     ],
+     "inci": "Aqua (Water), Aloe barbadensis leaf juice, Ethylhexyl palmitate, Caprylic/capric triglyceride, Glycerin, Sorbitan stearate, Sodium polyacrylate, Pentaerythrityl distearate, Phenoxyethanol, Sodium stearoyl glutamate, Parfum (Fragrance)††, Benzoic acid, Carbomer, Dehydroacetic acid, Limonene, Linalool, Citronellol, Geraniol, Citral, Citric acid, Sodium hydroxide. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Bálsamo para después del afeitado Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144641977",
+      "5060896573755"
+     ],
+     "inci": "Aqua (Water), Ethylhexyl palmitate, Aloe barbadensis leaf juice, Glycerin, Caprylic/capric triglyceride, Sorbitan stearate, Phenoxyethanol, Allantoin, Pentaerythrityl distearate, Sodium polyacrylate, Sodium stearoyl glutamate, Benzoic acid, Carbomer, Parfum (Fragrance)††, Dehydroacetic acid, Limonene, Linalool, Citronellol, Geraniol, Citric acid, Sodium hydroxide. ††A blend of natural ingredients"
+    },
+    {
+     "nombre": "Champú anticaspa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144648761"
+     ],
+     "inci": "Aqua (Water), Sodium methyl cocoyl taurate, Sodium chloride, Cocamidopropyl hydroxysultaine, Lauryl glucoside, Cocamidopropyl betaine, Sodium methyl oleoyl taurate, Propanediol, Citric acid, Sodium lauroyl sarcosinate, Parfum (Fragrance)**, Cassia hydroxypropyltrimonium chloride, Sodium benzoate, Limonene, Potassium sorbate, Ziziphus joazeiro bark extract, Linalool, Citronellol. **A blend of natural ingredients"
+    },
+    {
+     "nombre": "Champú Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144648754"
+     ],
+     "inci": "Aqua (Water), Sodium methyl cocoyl taurate, Sodium chloride, Cocamidopropyl hydroxysultaine, Lauryl glucoside, Cocamidopropyl betaine, Inulin, Sodium methyl oleoyl taurate, Citric acid, Sodium lauroyl sarcosinate, Parfum (Fragrance)*, Limonene, Sodium benzoate, Potassium sorbate, Linalool. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de ducha Cedro y Haba Tonka",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144649768"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium methyl cocoyl taurate, Glycerin, Sodium chloride, Lauryl glucoside, Sodium methyl oleoyl taurate, Sodium PCA, Sodium lauroyl sarcosinate, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Potassium sorbate, Limonene. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de ducha Jengibre y Pachulí",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144648815"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium methyl cocoyl taurate, Glycerin, Sodium chloride, Lauryl glucoside, Sodium methyl oleoyl taurate, Sodium PCA, Sodium lauroyl sarcosinate, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Potassium sorbate, Limonene, Citral. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Gel de ducha Menta y Eucalipto",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144646248"
+     ],
+     "inci": "Aqua (Water), Cocamidopropyl betaine, Sodium methyl cocoyl taurate, Glycerin, Sodium chloride, Lauryl glucoside, Sodium methyl oleoyl taurate, Sodium PCA, Sodium lauroyl sarcosinate, Sodium benzoate, Citric acid, Parfum (Fragrance)*, Potassium sorbate. *A blend of natural ingredients"
+    },
+    {
+     "nombre": "Jabón de afeitar Original",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060144647351"
+     ],
+     "inci": "Sodium palmate, Sodium palm kernelate, Aqua (Water), Glycerin, Sodium cocoate, Glycine soja (Soybean) oil, Limonene, Parfum (Fragrance)*, Camelina sativa seed oil, Caprylic/capric triglyceride, Sodium chloride, Tetrasodium glutamate diacetate, Glucomannan, Linalool, Coconut fatty acid, Aloe barbadensis leaf extract, Camellia sinensis (Green tea) leaf extract. *A blend of natural ingredients"
+    }
+   ]
+  },
+  {
+   "key": "floid",
+   "nombre": "Floïd",
+   "productos": [
+    {
+     "nombre": "Loción para después del afeitado The Genuine",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395321025",
+      "8004395321117",
+      "8004395321018"
+     ],
+     "inci": "Aqua (Water/Eau), Alcohol Denat., Glycerin, PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), Menthol, Rosmarinus officinalis (Rosemary) Leaf Extract, Thymus vulgaris (Thyme) Flower/Leaf Extract, Lavandula angustifolia (Lavender) Flower Extract, Salvia officinalis (Sage) Leaf Extract, Acetum (Vinegar/Vinaigre), Benzyl Alcohol, Linalool, Benzyl Benzoate, Coumarin, Limonene, Benzyl Salicylate, Hydroxycitronellal, Amyl Cinnamal, Geraniol, Benzyl Cinnamate, Cinnamyl Alcohol, Citronellol, Tributyl Citrate, Sodium Benzotriazolyl Butylphenol Sulfonate, Buteth-3, Tris(Tetramethylhydroxypiperidinol) Citrate, CI 19140 (FD&C Yellow No. 5), CI 17200 (D&C Red No. 33), CI 42090 (FD&C Blue No. 1)"
+    },
+    {
+     "nombre": "Gel de baño Citrus Spectre",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8004395321322"
+     ],
+     "inci": "Aqua (Water/Eau), Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Parfum (Fragrance), Disodium Cocoamphodiacetate, Decyl Glucoside, Lauryl Glucoside, Panthenol, Hydrolyzed Rice Protein, Tocopheryl Acetate, Opuntia ficus-indica Stem Extract, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Benzyl Alcohol, PEG-7 Glyceryl Cocoate, Citric Acid, Tetrasodium Glutamate Diacetate, Limonene, Linalool, Maltodextrin, Sodium Chloride, CI 19140 (FD&C Yellow No. 5), CI 17200 (D&C Red No. 33)"
+    }
+   ]
+  },
+  {
+   "key": "harrys",
+   "nombre": "Harry's",
+   "productos": [
+    {
+     "nombre": "Gel de afeitar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638590576",
+      "5060638590613"
+     ],
+     "inci": "Water/aqua/eau, Palmitic acid, Triethanolamine, Isopentane, Aloe barbadensis (aloe vera) leaf juice, Sorbitan stearate, Sorbitol, Isobutane, Phenoxyethanol, Stearic acid, Glycerin, Hydroxyethylcellulose, Fragrance/parfum, Hydroxypropyl methylcellulose, Tocopheryl acetate, Disodium phosphate, Polysorbate 60, Sodium phosphate, Hexamethylindanopyran, Tetramethyl acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Gel de ducha Wildlands",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638591726",
+      "5060638591474"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Polysorbate 20, Potassium Hydroxide, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Tetramethylacetyloctahydronaphthalenes, Hexamethylindanopyran, Linalool, Linalyl Acetate, Acetyl Cedrene, Cedrus Atlantic Oil/Extract, Limonene, Coumarin, Lavandula Oil/Extract, Hexyl Cinnamal, Pinene"
+    },
+    {
+     "nombre": "Gel de ducha Fig",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638591733",
+      "5060638591108"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, Phenoxyethanol, Potassium Hydroxide, Chlorphenesin, Cocoglucoside, Glyceryl Oleate, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Limonene, Linalool, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Gel de ducha Stone",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638591719",
+      "5060638591092"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, Phenoxyethanol, PEG-120 Methyl Glucose Dioleate, Potassium Hydroxide, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Polysorbate 20, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Limonene, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Gel de ducha Spring",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638591740"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, Phenoxyethanol, Potassium Hydroxide, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Tetramethylacetyloctahydronaphthalenes, Limonene, Linalyl Acetate, Linalool, Citrus Limon Peel Oil, Pinene, Citrus Aurantium Peel Oil, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Gel de ducha Redwood",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638592297"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, PEG-120 Methyl Glucose Dioleate, Polysorbate 20, Phenoxyethanol, Potassium Hydroxide, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Tetramethylacetyloctahydronaphthalenes, Linalyl Acetate, Limonene, Acetyl Cedrene, Lavandula Oil/Extract, Linalool, Pinene, Trimethylcyclopentenylmethylisopentenol, Terpinolene, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Citral, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Gel de ducha Solstice",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5060638592280"
+     ],
+     "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, Phenoxyethanol, Potassium Hydroxide, PEG-120 Methyl Glucose Dioleate, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Polysorbate 20, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Linalool, Linalyl Acetate, Hexyl Cinnamal, Pinene, Pogostemon Cablin Oil, Lavandula Oil/Extract"
     }
    ]
   }
