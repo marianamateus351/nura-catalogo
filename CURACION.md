@@ -1195,6 +1195,8 @@ geles de The Body Shop y "Aroma/Flavor" de labiales como sabor).
 Regresión sobre las 12.503 fichas que ya había: **0 cambios**. 569 de los 2.373 sin ningún aviso (358 de MAC). Tonos: una entrada por
 lista (si todos los tonos comparten lista, una sola entrada; si la lista es la de un tono concreto, solo ese tono). Paletas y productos de
 varias piezas con una lista por pieza: entran con las listas juntas, como NYX, Catrice y Rare Beauty.
+- **Tipos de Alternativas (alternativas 2026-10-21b; la tabla de la app cambia igual, va en el próximo build)**: "barra difuminadora" y
+  "blur stick" cuentan como base (Rimmel Multi-Tasker Blur Booster, 6 entradas, caía en Sérums por "booster"). Solo cambian esas 6.
 - **Bloqueadas, 0 productos (no se intentó sortear)**: **Benefit** (Akamai en benefitcosmetics.com/es-es desde la primera petición),
   **Makeup Revolution** (429 y "Verifying your connection" en revolutionbeauty.com), **Fenty Beauty** (fentybeauty.com/en-es es la tienda de
   EE. UU. que vende a España; Cloudflare antes de abrir ninguna ficha).

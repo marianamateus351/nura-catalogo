@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21a",
+ "version": "2026-10-21b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2174,42 +2174,6 @@
        "marca": "Naobay",
        "barcode": "8436568900100",
        "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 030 Light, 040 Ivory, 045 Classic Ivory, 055 Classic Beige",
-       "marca": "Rimmel",
-       "barcode": "3616307838412",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 050 Sand, 060 Light Honey, 065 Rose Honey",
-       "marca": "Rimmel",
-       "barcode": "3616307838443",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 090 Toffee",
-       "marca": "Rimmel",
-       "barcode": "3616307838481",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 100 Mocha",
-       "marca": "Rimmel",
-       "barcode": "3616307838498",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 110 Warm Coconut",
-       "marca": "Rimmel",
-       "barcode": "3616307838504",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 120 Tiramisu",
-       "marca": "Rimmel",
-       "barcode": "3616307838511",
-       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Ampolla Azelaic Acid 10 Ampoule",
@@ -4406,6 +4370,42 @@
        "barcode": "0840122909139",
        "subtipo": "polvos",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 030 Light, 040 Ivory, 045 Classic Ivory, 055 Classic Beige",
+       "marca": "Rimmel",
+       "barcode": "3616307838412",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 050 Sand, 060 Light Honey, 065 Rose Honey",
+       "marca": "Rimmel",
+       "barcode": "3616307838443",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 090 Toffee",
+       "marca": "Rimmel",
+       "barcode": "3616307838481",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 100 Mocha",
+       "marca": "Rimmel",
+       "barcode": "3616307838498",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 110 Warm Coconut",
+       "marca": "Rimmel",
+       "barcode": "3616307838504",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra difuminadora con color Multi-Tasker Blur Booster · 120 Tiramisu",
+       "marca": "Rimmel",
+       "barcode": "3616307838511",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Base de maquillaje en polvo compacto Lasting Finish 25h · 001 Fair Porcelain, 003 Sesame, 005 Ivory, 006 Rose Vanilla",
