@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b10",
+ "version": "2026-10-21-b11",
  "marcas": [
   {
    "key": "larocheposay",
@@ -158517,6 +158517,1147 @@
       "8413204810276"
      ],
      "inci": "Aqua, Caprylic/Capric Triglyceride, Helianthus Annuus Seed Oil, Menthol, Ammonia, Acrylates/Vinyl Isodecanoate Crosspolymer, Aloe Barbadensis Leaf Extract, Rosmarinus Officinalis Leaf Extract"
+    }
+   ]
+  },
+  {
+   "key": "bodyplus",
+   "nombre": "Bodyplus",
+   "productos": [
+    {
+     "nombre": "Loción aftersun Aloe vera 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000933"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii Butter, Glyceryl Stearate, Cetearyl Alcohol, Aloe Barbadensis Leaf Extract, Hydrogenated Vegetable Oil, Hydroxypropyl Starch Phosphate, Phenethyl Alcohol, C18-21 Alkane, Xanthan Gum, Caprylyl Glycol, Parfum, Linalool, Terpineol, Citronellol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Linalyl Acetate, Cinnamyl Alcohol, Coumarin, Hexamethylindanopyran, Geraniol, Citric Acid, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Aceite solar tacto seco SPF 30 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000902"
+     ],
+     "inci": "Alcohol Denat., Dipropylene Glycol Dibenzoate, Octyldodecanol, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Aqua, Isochrysis Galbana Extract, Tocopheryl Acetate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimer Dilinoleyl Dimer Dilinoleate, Glyceryl Rosinate, Parfum, Linalool, Linalyl Acetate, Citronellol, Benzyl Salicylate, Terpineol, Limonene, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Coumarin, Hexamethylindanopyran, Cinnamyl Alcohol, Geraniol, Acetyl Cedrene, Pinene, Citral, Lavandula Oil/Extract, Tocopherol"
+    },
+    {
+     "nombre": "Agua micelar bifásica 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000346"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Dimethicone, Isohexadecane, Decyl Glucoside, Disodium Phosphate, Sodium Phosphate, Polyaminopropyl Biguanide, Sodium Chloride, Citric Acid, CI 60725"
+    },
+    {
+     "nombre": "Acondicionador familiar para todo tipo de cabellos 1250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691702677"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cetyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Hydrolyzed Keratin, Ceteareth-20, Ceteareth-12, Cetrimonium Chloride, Dimethicone, Paraffinum Liquidum, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Parfum, Benzyl Salicylate, Hexamethylindanopyran, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Agua micelar natural 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000315"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Decyl Glucoside, Polyglyceryl-4 Laurate/Sebacate, Polyglyceryl-6 Caprylate/Caprate, Cucumis Sativus Fruit Extract, Disodium EDTA, Sodium Benzoate, Potassium Sorbate, Citric Acid, Parfum, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Geranyl Acetate"
+    },
+    {
+     "nombre": "Ampollas de ácido hialurónico ultrahidratantes 7 x 2 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000513"
+     ],
+     "inci": "Propylene Glycol, Aqua, Glycerine, Sodium Hyaluronate, Tocopherol, Linoleic Acid, Retinyl Palmitate, Hydroxyethylcellulose, Polysorbate 20, PEG-20 Glyceryl Laurate, Potassium Sorbate, Sodium Benzoate, Citric Acid"
+    },
+    {
+     "nombre": "Champú Repair para cabello seco o dañado 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691702684"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide MIPA, Laureth-4, Glycerin, Glycol Distearate, Propylene Glycol, Decyl Glucoside, Quaternium-80, 1,2-Hexanediol, Caprylyl Glycol, Triticum Vulgare (Wheat) Gluten, Guar Hydroxypropyltrimonium Chloride, Soy Acid, Benzoic Acid, Capric Acid, Caprylic Acid, Citric Acid, Lactic Acid, Sodium Benzoate, Potassium Sorbate, Tocopherol, Parfum, Citrus Limon Peel Oil, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú Liso para cabello liso 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691702691"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Decyl Glucoside, Guar Hydroxypropyltrimonium Chloride, Cocamide MIPA, Laureth-4, Tocopherol, Quaternium-80, Argania Spinosa Kernel Oil, Propylene Glycol, PEG-3 Distearate, Soy Acid, Capric Acid, Caprylic Acid, Citric Acid, Benzoic Acid, Sodium Benzoate, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Mascarilla capilar Repair para cabello seco o dañado 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691703087"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Cetyl Alcohol, Ceteareth-20, Quaternium-80, Propylene Glycol, Cetrimonium Chloride, Polyquaternium-16, Glycerin, Triticum Vulgare (Wheat) Gluten, 1,2-Hexanediol, Caprylyl Glycol, Polyquaternium-37, Hydroxyethylcellulose, Sodium Hydroxide, Benzoic Acid, Benzyl Alcohol, Ethylhexylglycerin, Parfum, Hexyl Cinnamal, Tetramethyl Acetyloctahydronaphthalenes, Dimethyl Phenethyl Acetate"
+    },
+    {
+     "nombre": "Mascarilla capilar Liso para cabello liso 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691703094"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Cetyl Alcohol, Ceteareth-20, Quaternium-80, Propylene Glycol, Cetrimonium Chloride, Polyquaternium-16, Argania Spinosa Kernel Oil, Hydroxyethylcellulose, Parfum, Polyquaternium-37, Sodium Hydroxide, Benzyl Alcohol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Mascarilla capilar Rizado para cabello rizado 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691703209"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Stearalkonium Chloride, Behentrimonium Chloride, PEG-40 Hydrogenated Castor Oil, Cetyl Alcohol, Quaternium-80, Propylene Glycol, Cetrimonium Chloride, Guar Hydroxypropyltrimonium Chloride, Cocos Nucifera Oil, Hydrolyzed Keratin, Citric Acid, Hydroxyethylcellulose, Benzyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, Parfum, Hexyl Cinnamal, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mascarilla capilar Color para cabello teñido o con mechas 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691703360"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Dipalmitoylethyl Hydroxyethylmonium Methosulfate, Cetyl Alcohol, Ceteareth-20, Polysilicone-15, Quaternium-80, Propylene Glycol, Cetrimonium Chloride, Polyquaternium-16, Glycerin, Punica Granatum Fruit Juice, Trideceth-9, PEG-40 Hydrogenated Castor Oil, Tocopherol, Polyquaternium-37, Hydroxyethylcellulose, Sodium Hydroxide, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Benzyl Alcohol, Ethylhexylglycerin, Parfum, Benzyl Salicylate, Linalool"
+    },
+    {
+     "nombre": "Champú seco para todo tipo de cabello 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691877887"
+     ],
+     "inci": "Butane, Alcohol Denat., Propane, Oryza Sativa Starch, Isobutane, Clay, Magnesium Stearate, Parfum, Distearyldimonium Chloride, Cetrimonium Chloride, Aqua, Tetramethyl Acetyloctahydronaphthalenes, Isopropyl Alcohol"
+    },
+    {
+     "nombre": "Espuma fijadora Rizos para cabello rizado 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691877870"
+     ],
+     "inci": "Aqua, Butane, Distarch Phosphate, Maltodextrin, Propane, Isobutane, Glycerin, Sodium Benzoate, Coco-Glucoside, Xanthan Gum, Parfum, Panthenol, Citric Acid"
+    },
+    {
+     "nombre": "Crema natural antiedad matificante 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000032"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glyceryl Stearate SE, Glycerin, Isostearyl Isostearate, Macadamia Ternifolia Seed Oil, Oryza Sativa Starch, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Rubus Fruticosus Leaf Extract, Glycine Soja Oil, Tocopherol, Beta-Sitosterol, Squalene, Maltodextrin, Xanthan Gum, Benzyl Alcohol, Parfum, Tetrasodium Glutamate Diacetate, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Crema natural hidratante matificante 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000469"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glyceryl Stearate SE, Glycerin, Isostearyl Isostearate, Macadamia Ternifolia Seed Oil, Oryza Sativa Starch, Betaine, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Glycine Soja Oil, Tocopherol, Beta-Sitosterol, Squalene, Xanthan Gum, Benzyl Alcohol, Parfum, Tetrasodium Glutamate Diacetate, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Crema natural hidratante matificante pieles mixtas y grasas 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000483"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glyceryl Stearate SE, Glycerin, Isostearyl Isostearate, Macadamia Ternifolia Seed Oil, Oryza Sativa Starch, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Arctium Majus Root Extract, Hypericum Perforatum Flower Extract, Camellia Sinensis Leaf Extract, Glycine Soja Oil, Tocopherol, Beta-Sitosterol, Squalene, Xanthan Gum, Benzyl Alcohol, Parfum, Tetrasodium Glutamate Diacetate, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Sodium Benzoate, Potassium Sorbate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Crema de noche ácido hialurónico y retinol con vitaminas C y E 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000506"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Glyceryl Stearate SE, Glyceryl Oleate Citrate, Cetearyl Ethylhexanoate, Cetearyl Nonanoate, Cyclopentasiloxane, Sodium Hyaluronate, Sodium Ascorbyl Phosphate, Retinyl Palmitate, Tocopheryl Acetate, Mannitol, Phosphatidylcholine, Glycerin, Cholesterol, Benzyl Alcohol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Xanthan Gum, Potassium Sorbate, Sodium Benzoate, Parfum, Sodium Chloride, Sodium Hydroxide, Propylene Glycol, BHA, Propyl Gallate, Citric Acid"
+    },
+    {
+     "nombre": "Crema corporal con aceite de argán y manteca de karité 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691490895"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Glyceryl Stearate, Parfum, Caprylic/Capric Triglyceride, Ethylhexyl Stearate, Dimethicone, Butyrospermum Parkii Butter, Ceteareth-20, Polyquaternium-37, Argania Spinosa Kernel Oil, Phenoxyethanol, Disodium EDTA, Tocopherol, Glycine Soja Oil, Citrus Aurantium Bergamia Peel Oil, Hexamethylindanopyran, Hydroxycitronellal, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin, CI 15985"
+    },
+    {
+     "nombre": "Crema corporal con aceite de oliva y manteca de karité 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691490871"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Glyceryl Stearate, Parfum, Caprylic/Capric Triglyceride, Ethylhexyl Stearate, Dimethicone, Butyrospermum Parkii Butter, Ceteareth-20, Polyquaternium-37, Olea Europaea Fruit Oil, Phenoxyethanol, Disodium EDTA, Tocopherol, Glycine Soja Oil, Alpha-Isomethyl Ionone, Citral, Citronellol, Citrus Aurantium Peel Oil, Geraniol, Geranyl Acetate, Hexyl Cinnamal, Limonene, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Crema corporal con aceite de rosa mosqueta y manteca de karité 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691490888"
+     ],
+     "inci": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Glyceryl Stearate, Caprylic/Capric Triglyceride, Ethylhexyl Stearate, Dimethicone, Parfum, Butyrospermum Parkii Butter, Ceteareth-20, Polyquaternium-37, Rosa Canina Fruit Oil, Phenoxyethanol, Disodium EDTA, Tocopherol, Glycine Soja Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate, Cinnamyl Alcohol, Citronellol, Dimethyl Phenethyl Acetate, Eugenol, Geraniol, Geranyl Acetate, Hexamethylindanopyran, Hydroxycitronellal, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Crema de manos hidratante con aceite de oliva 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691001671"
+     ],
+     "inci": "Aqua, Glyceryl Stearate SE, Cetearyl Alcohol, Glycerin, Phenoxyethanol, Olea Europaea Fruit Oil, Benzyl Alcohol, Potassium Cetyl Phosphate, Parfum, Sodium Polyacrylate, Hydrogenated Polydecene, Ethylhexylglycerin, Disodium EDTA, Tocopheryl Acetate, Trideceth-6, Hexamethylindanopyran, Linalool, Geraniol, Linalyl Acetate, Citrus Aurantium Peel Oil, Limonene"
+    },
+    {
+     "nombre": "Crema de manos nutritiva con aceite de almendras 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691001657"
+     ],
+     "inci": "Aqua, Glyceryl Stearate SE, Cetearyl Alcohol, Vegetable Oil, Glycerin, Myristyl Myristate, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Carbomer, Triethanolamine, Parfum, Caprylyl Glycol, Ethylhexylglycerin, Disodium EDTA, Tocopheryl Acetate, Tocopherol, Coumarin, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Linalyl Acetate"
+    },
+    {
+     "nombre": "Crema de manos reparadora con glicerina 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691001664"
+     ],
+     "inci": "Aqua, Glycerin, Glyceryl Stearate SE, Cetearyl Alcohol, Paraffinum Liquidum, Propylene Glycol, Sorbitol, Phenoxyethanol, Cetearyl Ethylhexanoate, Parfum, Chlorphenesin, Triethanolamine, Carbomer, Tocopheryl Acetate, Disodium EDTA, Isopropyl Myristate, Linalool, Citronellol, Hydroxycitronellal"
+    },
+    {
+     "nombre": "Crema dental Anticaries 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605404"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Cellulose Gum, Sodium Lauryl Sulfate, Aroma, Sodium Monofluorophosphate, Sodium Benzoate, Sodium Saccharin, Sodium Fluoride, Menthol, CI 77891"
+    },
+    {
+     "nombre": "Crema dental Blanqueante 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605350"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Tetrapotassium Pyrophosphate, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Aroma, Xanthan Gum, Sodium Saccharin, Sodium Benzoate, Calcium Glycerophosphate, Cetylpyridinium Chloride, Menthol, Anethole, Mentha Piperita Oil, Limonene, CI 77891, CI 74160"
+    },
+    {
+     "nombre": "Crema dental Herbal 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605367"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, PEG-8, Xanthan Gum, Sodium Lauryl Sulfate, Aroma, Panthenol, Sodium Saccharin, Sodium Fluoride, Glycerin, O-Cymen-5-ol, Rosmarinus Officinalis Leaf Extract, Salvia Officinalis Leaf Extract, Lactic Acid, Sodium Benzoate, Chamomilla Recutita Flower Extract, Potassium Sorbate, Menthol, Carvone, Anethole, Mentha Piperita Oil, Mentha Viridis Leaf Oil, CI 77891, CI 74260"
+    },
+    {
+     "nombre": "Crema dental Dientes y encías sensibles 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605374"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Potassium Nitrate, PEG-8, Sodium Lauryl Sulfate, Aroma, CI 77891, Cellulose Gum, Panthenol, Sodium Fluoride, Sodium Saccharin, Allantoin, Tocopheryl Acetate, Sodium Benzoate, Cocamidopropyl Betaine, Menthol, Mentha Piperita Oil, Anethole, Limonene, Pinene"
+    },
+    {
+     "nombre": "Gel dental Acción total 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605398"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Tetrapotassium Pyrophosphate, PEG-8, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Sodium Monofluorophosphate, Panthenol, Sodium Saccharin, Sodium Fluoride, Cetylpyridinium Chloride, Menthol, Anethole, Eucalyptus Globulus Oil, CI 77891, CI 47005, CI 42051"
+    },
+    {
+     "nombre": "Gel dental Blanqueante 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691605381"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, PEG-8, Tetrapotassium Pyrophosphate, Xanthan Gum, Sodium Monofluorophosphate, Aroma, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Benzoate, Cetylpyridinium Chloride, Potassium Acesulfame, Mica, Menthol, Carvone, Anethole, Mentha Viridis Leaf Oil, CI 42090, CI 77891"
+    },
+    {
+     "nombre": "Crema solar facial SPF 50+ 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000865"
+     ],
+     "inci": "Aqua, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Phenylbenzimidazole Sulfonic Acid, Cetearyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Cocoglycerides, Glycerin, Dicaprylyl Carbonate, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Potassium Cetyl Phosphate, Sodium Hyaluronate, Tocopheryl Acetate, Citrus Limon Fruit Water, Xanthan Gum, Sodium Hydroxide, Disodium Cetearyl Sulfosuccinate, Stearic Acid, Palmitic Acid, Dimer Dilinoleyl Dimer Dilinoleate, Glyceryl Rosinate, Sodium Cetearyl Sulfate, Parfum, Microcrystalline Cellulose, Octyldodecanol, Ethylhexylglycerin, Hydroxyacetophenone, Disodium EDTA, Cellulose Gum, Phenoxyethanol, Linalool, Linalyl Acetate, Citronellol, Benzyl Salicylate, Terpineol, Limonene, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Coumarin, Hexamethylindanopyran, Cinnamyl Alcohol, Geraniol, Acetyl Cedrene, Pinene, Citral, Lavandula Oil/Extract"
+    },
+    {
+     "nombre": "Dentífrico y elixir 2 en 1 infantil 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477339"
+     ],
+     "inci": "Aqua, Sorbitol, Glycerin, Hydrated Silica, Aroma, Xanthan Gum, Panthenol, Sodium Lauryl Sulfate, Sodium Saccharin, Sodium Fluoride, Sodium Benzoate, Calcium Glycerophosphate, CI 14720"
+    },
+    {
+     "nombre": "Gel dental infantil 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477360"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Sodium Lauryl Sulfate, Aroma, Cellulose Gum, Sodium Saccharin, Sodium Benzoate, Sodium Fluoride, Calcium Glycerophosphate, Mica, Carvone, CI 77891, CI 73360"
+    },
+    {
+     "nombre": "Dentífrico y elixir 2 en 1 con flúor 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477315"
+     ],
+     "inci": "Aqua, Sorbitol, Glycerin, Hydrated Silica, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Menthol, Sodium Saccharin, Sodium Fluoride, Sodium Benzoate, Anethole, Mentha Piperita Oil, Carvone, CI 47005, CI 42051"
+    },
+    {
+     "nombre": "Dentífrico y elixir 2 en 1 blanqueante 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477308"
+     ],
+     "inci": "Aqua, Sorbitol, Glycerin, Hydrated Silica, Aluminum Hydroxide, Sodium Lauryl Sulfate, Aroma, Sodium Monofluorophosphate, Sodium Saccharin, Xanthan Gum, Tetrapotassium Pyrophosphate, Sodium Benzoate, Sodium Fluoride, Menthol, Mentha Piperita Oil, Anethole, Pinene, Limonene, CI 77891, CI 74160"
+    },
+    {
+     "nombre": "Desodorante roll-on Algodón 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691852037"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Steareth-2, PPG-15 Stearyl Ether, Diatomaceous Earth, Steareth-21, Glycerin, 2-Ethylhexylal, Parfum, Triethanolamine, 2-Methyl 5-Cyclohexylpentanol, Phenoxyethanol, Caprylyl Glycol, BHT, Benzyl Alcohol, Gossypium Herbaceum (Cotton) Seed Extract, Gossypium Herbaceum (Cotton) Seed Oil, PEG-60 Hydrogenated Castor Oil, Potassium Sorbate, Sodium Benzoate, Tocopherol, Phenethyl Alcohol, Linalool, Citronellol, Hexyl Cinnamal, Geraniol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Eugenol, Benzyl Benzoate, Coumarin, Limonene"
+    },
+    {
+     "nombre": "Desodorante roll-on Aloe vera 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691852020"
+     ],
+     "inci": "Aqua, Aluminum Sesquichlorohydrate, Steareth-2, PPG-15 Stearyl Ether, Diatomaceous Earth, Steareth-21, 2-Ethylhexylal, Glycerin, Parfum, Triethanolamine, 2-Methyl 5-Cyclohexylpentanol, Phenoxyethanol, Caprylyl Glycol, Aloe Barbadensis Leaf Juice, BHT, Citric Acid, Sodium Benzoate, Potassium Sorbate, Limonene, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Citral, Eugenol"
+    },
+    {
+     "nombre": "Enjuague bucal infantil 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477407"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Xylitol, Panthenol, Sodium Benzoate, Aroma, Menthol, Allantoin, Sodium Fluoride, Sodium Saccharin, Citric Acid, Cetylpyridinium Chloride, Chamomilla Recutita Flower Extract, Lactic Acid, Potassium Sorbate, Carvone, CI 14720"
+    },
+    {
+     "nombre": "Enjuague bucal Menta fresca 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477384"
+     ],
+     "inci": "Aqua, Alcohol Denat., Sorbitol, PEG-40 Hydrogenated Castor Oil, Aroma, Sodium Benzoate, Cetylpyridinium Chloride, Sodium Saccharin, Sodium Fluoride, Menthol, Carvone, Methyl Salicylate, Anethole, CI 42090, CI 47005"
+    },
+    {
+     "nombre": "Enjuague bucal Plus 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477391"
+     ],
+     "inci": "Aqua, Alcohol Denat., Sorbitol, PEG-40 Hydrogenated Castor Oil, Aroma, Sodium Benzoate, Allantoin, Potassium Acesulfame, Sodium Saccharin, Cetylpyridinium Chloride, Sodium Fluoride, Benzoic Acid, CI 16035, CI 42090"
+    },
+    {
+     "nombre": "Enjuague bucal Triple acción 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691477421"
+     ],
+     "inci": "Aqua, Alcohol Denat., Sorbitol, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Aroma, Sodium Benzoate, Sodium Phosphate, Sodium Saccharin, Cetylpyridinium Chloride, Sodium Fluoride, Disodium Phosphate, Menthol, Mentha Piperita Oil, Anethole, Carvone, Limonene, CI 42090"
+    },
+    {
+     "nombre": "Espuma de afeitar con aloe vera pieles sensibles 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853201"
+     ],
+     "inci": "Aqua, Palmitic Acid, Triethanolamine, Isobutane, Glycerin, Laureth-23, Aloe Barbadensis Leaf Juice, Propane, Stearic Acid, Parfum, Cetearyl Alcohol, Butane, Sodium Benzoate, Citric Acid, Tetramethyl Acetyloctahydronaphtalenes, Amyl Salicylate, Linalyl Acetate, Acetyl Cedrene"
+    },
+    {
+     "nombre": "Gel de afeitar con aloe vera pieles sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853225",
+      "8421691853218"
+     ],
+     "inci": "Aqua, Palmitic Acid, Triethanolamine, Glycerin, Isopentane, Stearic Acid, Aloe Barbadensis Leaf Juice, Glyceryl Oleate, Isobutane, Parfum, Hydroxyethylcellulose, C12-13 Alkyl Lactate, Citric Acid, Sodium Benzoate, Lecithin, Tocopherol, Ascorbyl Palmitate, Linalyl Acetate, CI 42090"
+    },
+    {
+     "nombre": "Gel de baño Frescor verde 1 l",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691855090"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Citric Acid, Glycerin, Sodium Benzoate, CI 19140, CI 42090, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Gel de baño Argán 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853089"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Argania Spinosa Kernel Oil, Glycerin, Parfum, Sodium Benzoate, Citric Acid, CI 15985, CI 42090"
+    },
+    {
+     "nombre": "Gel de baño Avena 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853072"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Avena Sativa Kernel Extract, Parfum, Glycerin, Citric Acid, Styrene/Acrylates Copolymer, Sodium Benzoate, Potassium Sorbate, CI 19140, CI 15985"
+    },
+    {
+     "nombre": "Gel de baño Dermoprotector 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853065"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Parfum, Citric Acid, Styrene/Acrylates Copolymer, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel de baño Frutas 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853119"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Glycerin, Rubus Idaeus Fruit Extract, Fragaria Ananassa Fruit Extract, Actinidia Chinensis Fruit Extract, Pyrus Malus Fruit Extract, Prunus Persica Fruit Extract, Carica Papaya Fruit Extract, Cucumis Sativus Fruit Extract, Styrene/Acrylates Copolymer, Citric Acid, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel de baño Rosa mosqueta 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853102"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Rosa Moschata Seed Oil, Parfum, Glycerin, Citric Acid, Styrene/Acrylates Copolymer, Sodium Benzoate, CI 17200, CI 14700, Citronellol"
+    },
+    {
+     "nombre": "Gel de baño Pieles atópicas 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853096"
+     ],
+     "inci": "Aqua, Sodium Laureth-5 Carboxylate, Cocamidopropyl Betaine, Glycerin, Parfum, Sodium Benzoate, Citric Acid, PEG-120 Methyl Glucose Dioleate"
+    },
+    {
+     "nombre": "Gel de baño Leche y miel 750 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853041"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Mel Extract, Hydrolized Milk Protein, Parfum, Glycerin, Citric Acid, Styrene/Acrylates Copolymer, Propylene Glycol, Gluconolactone, Sodium Benzoate, Calcium Gluconate, CI 19140, CI 15985, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel dental Junior +7 años 75 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691851771"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, PEG-8, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Panthenol, Sodium Fluoride, Sodium Saccharin, Sodium Benzoate, Calcium Glycerophosphate, Mica, Menthol, Mentha Viridis Leaf Oil, Carvone, Anethole, Limonene, CI 42090, CI 77891"
+    },
+    {
+     "nombre": "Gel natural hidratante corporal de aloe vera ecológico 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691001268"
+     ],
+     "inci": "Aqua, Glycerin, Propanediol, Hydroxyethylcellulose, Aloe Barbadensis Leaf Extract, Sodium Benzoate, Potassium Sorbate, Citric Acid, Parfum, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Gel de higiene íntima con aloe vera 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691413467"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Parfum, Coco-Glucoside, PEG-7 Glyceryl Cocoate, Allantoin, Triticum Vulgare Germ Extract, Aloe Barbadensis Leaf Extract, Citric Acid, Propylene Glycol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Jabón de manos Aloe vera 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691500037"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Parfum, Propylene Glycol, Citric Acid, Disodium EDTA, Aloe Barbadensis Leaf Stract, Terpineol, Potasium Sorbate, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Jabón de manos Dermo 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691492738"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Parfum, Styrene/Acrylates Copolymer, Citric Acid, Disodium EDTA, Coco-Glucoside, Benzoic Acid, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Jabón de manos perfume Frutos rojos 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691500020"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Parfum, Citric Acid, Styrene/Acrylates Copolymer, Disodium EDTA, Coco-Glucoside, Magnesium Nitrate, Benzoic Acid, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Citrus Aurantium Peel Oil, Limonene, Linalool, CI 17200, CI 47005"
+    },
+    {
+     "nombre": "Jabón de manos infantil 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691539419"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Decyl Glucoside, Glycerin, Parfum, Citric Acid, Disodium EDTA, Denatonium Benzoate, Glycol, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, CI 14720"
+    },
+    {
+     "nombre": "Jabón de manos Sensaciones 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691492639"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Parfum, Glycerin, Citric Acid, Disodium EDTA, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Linalool, Coumarin, Citronellol, Limonene, Geraniol, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Camphor, Terpineol, CI 17200, CI 47005, CI 42090"
+    },
+    {
+     "nombre": "Jabón de manos en mousse perfume Melón 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691833371"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Polysorbate-20, Parfum, PEG-7 Glyceryl Cocoate, Glycerin, Butylene Glycol, Cetrimonium Chloride, Actinidia Chinensis Fruit Extract, Citrus Aurantium Dulcis Juice, Citrus Paradisi Juice, Pirus Malus Juice, Prunus Amygdalus Dulcis Fruit Extract, Trideceth-9, Citric Acid, Malic Acid, Vanillin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Laca fijación extra fuerte 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691877863"
+     ],
+     "inci": "Alcohol Denat., Butane, Propane, Acrylates Copolymer, Isobutane, Parfum, Aminomethyl Propanol, PEG/PPG-14/4 Dimethicone, Panthenol, Niacinamide, Polysorbate 80, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Propylene Glycol, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Limonene, Dimethyl Phenethyl Acetate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+    },
+    {
+     "nombre": "Leche solar SPF 50+ 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000919"
+     ],
+     "inci": "Aqua, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Phenylbenzimidazole Sulfonic Acid, Cetearyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Cocoglycerides, Dicaprylyl Carbonate, Glycerin, Disodium Phenyl Dibenzimidazole Tetrasulfonate, Potassium Cetyl Phosphate, Tocopheryl Acetate, Xanthan Gum, Disodium Cetearyl Sulfosuccinate, Sodium Hydroxide, Stearic Acid, Palmitic Acid, Dimer Dilinoleyl Dimer Dilinoleate, Glyceryl Rosinate, Sodium Cetearyl Sulfate, Parfum, Microcrystalline Cellulose, Octyldodecanol, Ethylhexylglycerin, Hydroxyacetophenone, Disodium EDTA, Cellulose Gum, Phenoxyethanol, Linalool, Linalyl Acetate, Citronellol, Benzyl Salicylate, Terpineol, Limonene, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Coumarin, Hexamethylindanopyran, Cinnamyl Alcohol, Geraniol, Acetyl Cedrene, Pinene, Citral, Lavandula Oil/Extract"
+    },
+    {
+     "nombre": "Leche solar SPF 30 300 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691000926"
+     ],
+     "inci": "Aqua, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Cetearyl Alcohol, Cocoglycerides, Ethylhexyl Triazone, Dicaprylyl Carbonate, Glycerin, Phenylbenzimidazole Sulfonic Acid, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Xanthan Gum, Sodium Hydroxide, Stearic Acid, Sodium Stearoyl Glutamate, Palmitic Acid, Dimer Dilinoleyl Dimer Dilinoleate, Glyceryl Rosinate, Sodium Cetearyl Sulfate, Parfum, Microcrystalline Cellulose, Octyldodecanol, Ethylhexylglycerin, Hydroxyacetophenone, Tocopheryl Acetate, Disodium EDTA, Cellulose Gum, Phenoxyethanol, Linalool, Linalyl Acetate, Citronellol, Benzyl Salicylate, Terpineol, Limonene, Citrus Limon Peel Oil, Alpha-Isomethyl Ionone, Citrus Aurantium Peel Oil, Coumarin, Hexamethylindanopyran, Cinnamyl Alcohol, Geraniol, Acetyl Cedrene, Pinene, Citral, Lavandula Oil/Extract"
+    },
+    {
+     "nombre": "Quitaesmalte con acetona 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853133"
+     ],
+     "inci": "Acetone, Aqua, Glycerin, CI 45100"
+    },
+    {
+     "nombre": "Quitaesmalte sin acetona 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691853157"
+     ],
+     "inci": "Ethyl Acetate, Aqua, MEK, Alcohol Denat., Glycerin, Benzophenone-1, CI 60730"
+    },
+    {
+     "nombre": "Toallitas bebé de viaje 24 unidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691574960"
+     ],
+     "inci": "Aqua, Sodium Benzoate, Potassium Sorbate, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Trideceth-9, PEG-5 Ethylhexanoate, Sodium Lauroamphoacetate, Aloe Barbadensis Leaf Juice, Citric Acid, Sodium Sulfite, Parfum, Disodium EDTA"
+    },
+    {
+     "nombre": "Toallitas bebé aloe vera y camomila 80 unidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691574922"
+     ],
+     "inci": "Aqua, Propylene Glycol, Gluconolactone, Sodium Benzoate, Calcium Gluconate, Dimethicone, Polysorbate 20, Potassium Sorbate, Xanthan Gum, Parfum, Prunus Amygdalus Dulcis Oil, Aloe Barbadensis Leaf Juice, Sodium Sulfite, Chamomilla Recutita (Matricaria) Flower Extract, Citric Acid"
+    },
+    {
+     "nombre": "Toallitas con camomila y algodón 80 unidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691574939"
+     ],
+     "inci": "Aqua, Glycerin, Propylene Glycol, Polysorbate 20, Sodium Levulinate, PEG-12 Dimethicone, Allantoin, Chamomilla Recutita (Matricaria) Flower Extract, Sodium Benzoate, Parfum, Gossypium Herbaceum (Cotton) Seed Extract, Potassium Sorbate, Sodium Dehydroacetate, Sorbic Acid"
+    },
+    {
+     "nombre": "Toallitas de higiene corporal para adultos 40 unidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691576766"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil, Gluconolactone, Sodium Benzoate, Calcium Gluconate, Propylene Glycol, Glycerin, Potassium Sorbate, PEG-5 Ethylhexanoate, Trideceth-9, Parfum, Prunus Amygdalus Dulcis Oil, Disodium EDTA, Citric Acid, Aloe Barbadensis Leaf Juice, Sodium Sulfite"
+    },
+    {
+     "nombre": "Toallitas íntimas monodosis 16 unidades",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8421691761889"
+     ],
+     "inci": "Aqua, PEG-40 Hydrogenated Castor Oil, Glycerin, Gluconolactone, PEG-7 Glyceryl Cocoate, Parfum, Potassium Sorbate, Sodium Benzoate, Aloe Barbadensis Leaf Juice, Lactic Acid, Calcium Gluconate, Sodium Sulfite, Citric Acid"
+    }
+   ]
+  },
+  {
+   "key": "ifaunnia",
+   "nombre": "IFA Unnia",
+   "productos": [
+    {
+     "nombre": "Gel de baño Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006498"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamide DEA, Cocamidopropyl Betaine, Glycerin, Polyquaternium-7, Propylene Glycol, Aloe Barbadensis Leaf Extract, Disodium EDTA, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Sodium Benzoate, Parfum, Citral, Limonene, Linalool, Linalyl Acetate, Terpineol, Citrus Aurantium Peel Oil, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Gel de baño Dermosport 2 en 1 cuerpo y cabello",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012031353"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Aloe Barbadensis Leaf Extract, Glycerin, Parfum, Coco-Glucoside, Styrene/Acrylates Copolymer, Polyquaternium-7, Propylene Glycol, Citric Acid, Benzoic Acid, Potassium Sorbate, Sodium Benzoate, Lactic Acid, Terpineol, Linalyl Acetate"
+    },
+    {
+     "nombre": "Gel de baño Aceite de Almendras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012031308"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Cocamide DEA, Glycerin, Parfum, PEG-7 Glyceryl Cocoate, Coco-Glucoside, Styrene/Acrylates Copolymer, Polyquaternium-7, Prunus Amygdalus Dulcis Oil, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Disodium EDTA, Citric Acid, Benzoic Acid, Sodium Benzoate, Geraniol, Linalool, Alpha-Isomethyl Ionone, Limonene, Hexamethylindanopyran, Terpineol, Citrus Aurantium Peel Oil, Lavandula Oil/Extract"
+    },
+    {
+     "nombre": "Gel de baño Coco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006955"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Cocamide DEA, Glycerin, PEG-7 Glyceryl Cocoate, Coco-glucoside, Styrene/Acrylates Copolymer, Polyquaternium-7, Cocos Nucifera Oil, Disodium EDTA, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Benzoic Acid, Sodium Benzoate, Parfum, Benzyl Salicylate, Coumarin, Hexamethylindanopyran"
+    },
+    {
+     "nombre": "Gel de baño Dulces Recuerdos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012031339"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide DEA, Glycerin, Polyquaternium-7, Disodium EDTA, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Parfum, Citronellol, Coumarin, Limonene, Linalool, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, CI 17200, CI 42090, CI 47005, CI 15985"
+    },
+    {
+     "nombre": "Gel de baño Familiar Dermoprotect piel normal y seca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006467"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Cocamide DEA, Parfum, PEG-7 Glyceryl Cocoate, Coco-Glucoside, Styrene/Acrylates Copolymer, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Disodium EDTA, Citric Acid, Benzoic Acid, Trideceth-9, Butylene Glycol, Glycerin, Malic Acid, Potassium Sorbate, Sodium Benzoate, Actinidia Chinensis Fruit Juice, Citrus Aurantium Dulcis Juice, Citrus Paradisi Juice, Prunus Amygdalus Dulcis Seed Extract, Pyrus Malus Juice, Hexamethylindanopyran, Benzyl Salicylate, Linalool, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Gel de baño Sales Termales",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012031346"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, PEG-7 Glyceryl Cocoate, Coco-glucoside, Polyquaternium-7, Lysine, Magnesium Chloride, Potassium Chloride, Zinc Chloride, Disodium EDTA, Citric Acid, Lactic acid, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Parfum, Alpha-Isomethyl Ionone, Amyl Cinnamal, Hexyl Cinnamal, Linalool, Hexamethylindanopyran, Acetyl Cedrene, CI 42045, CI 17200"
+    },
+    {
+     "nombre": "Gel de baño Zero",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012047545",
+      "8480012006948"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, DISODIUM EDTA, CITRIC ACID, MAGNESIUM NITRATE, MAGNESIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, PARFUM, LINALOOL, LINALYL ACETATE, HEXAMETHYLINDANOPYRAN"
+    },
+    {
+     "nombre": "Jabón de manos Dulces Recuerdos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012036495"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Disodium EDTA, Citric Acid, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Parfum, Coumarin, Linalool, Linalyl Acetate, CI 17200, CI 15985, CI 42090, CI 47005"
+    },
+    {
+     "nombre": "Jabón de manos Glicerina",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006696"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Urea, Sodium Chloride, Cocamidopropyl Betaine, Cocamide DEA, PEG-7 Glyceryl Cocoate, Glycerin, Olea Europaea Leaf Extract, Propylene Glycol, Citric Acid, Magnesium Nitrate, Methylchloroisothiazolinone, Magnesium Chloride, Methylisothiazolinone, Potassium Sorbate, Parfum, Amyl Salicylate, CI 19140, CI 42045, CI 18050"
+    },
+    {
+     "nombre": "Jabón de manos Manzana",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006542"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Urea, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycol Distearate, Cocamide MEA, PEG-200 Hydrogenated Glyceryl Palmate, PEG-7 Glyceryl Cocoate, Glycerin, Propylene Glycol, Aloe Barbadensis Leaf Extract, Pyrus Malus Fruit Extract, Undecylenamidopropyltrimonium Methosulfate, Citric Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Sorbate, Lactic Acid, Sodium Benzoate, Parfum, CI 19140, CI 42051"
+    },
+    {
+     "nombre": "Jabón de manos infantil Kids",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012031391"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Decyl Glucoside, Cocamidopropyl Betaine, Glycerin, Parfum, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Citric Acid, Disodium EDTA, Denatonium Benzoate, Potassium Sorbate, Sodium Benzoate, Prunus Avium Fruit Extract, Ethylene Glycol, Limonene, Citrus Aurantium Peel Oil, CI 14720"
+    },
+    {
+     "nombre": "Champú anticaspa 2 en 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043080"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, CLIMBAZOLE, DECYL GLUCOSIDE, QUATERNIUM-22, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE MIPA, LAURETH-4, PEG-3 DISTEARATE, PROPYLENE GLYCOL, CITRIC ACID, SOY ACID, CAPRIC ACID, CAPRYLIC ACID, TOCOPHEROL, SODIUM BENZOATE, POTASSIUM SORBATE, BENZOIC ACID, PARFUM, GERANYL ACETATE, CI 42090"
+    },
+    {
+     "nombre": "Champú anticaspa Citrus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043431"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, DECYL GLUCOSIDE, PARFUM, CLIMBAZOLE, CITRUS LIMON JUICE, CETRIMONIUM CHLORIDE, GLYCERIN, PEG-3 DISTEARATE, SODIUM CHLORIDE, CITRIC ACID, BENZOIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, HEXYL CINNAMAL, LIMONENE, CITRONELLOL, ALPHA-ISOMETHYL IONONE, TERPINEOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Champú Fortificante cabello fino",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043165"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PANTHENOL, ALLIUM CEPA BULB EXTRACT, QUATERNIUM-80, PROPYLENE GLYCOL, GLYCERIN, SODIUM BENZOATE, POTASSIUM SORBATE, CITRIC ACID, LINALOOL, LIMONENE, TERPINEOL, CITRUS AURANTIUM PEEL OIL, CARAMEL"
+    },
+    {
+     "nombre": "Mascarilla capilar Fortificante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043172"
+     ],
+     "inci": "AQUA, CETEARYL ALCOHOL, DIPALMITOETHYL HYDROXYETHYLMONIUM METHOSULFATE, PARFUM, ALLIUM CEPA BULB EXTRACT, CETRIMONIUM CHLORIDE, PANTHENOL, QUATERNIUM-80, POLYQUATERNIUM-16, POLYQUATERNIUM-37, GLYCERIN, HYDROXYETHYLCELLULOSE, PROPYLENE GLYCOL, ETHYLHEXYLGLYCERIN, CETEARETH-20, CETYL ALCOHOL, BENZYL ALCOHOL, POTASSIUM SORBATE, SODIUM BENZOATE, LIMONENE, LINALOOL, TERPINEOL, CITRUS AURANTIUM PEEL OIL, CI 15985, CI 19140"
+    },
+    {
+     "nombre": "Colonia infantil Baby",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012018446"
+     ],
+     "inci": "ALCOHOL DENAT., AQUA, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CITRAL, GERANIOL, HYDROXYCITRONELLAL, LINALOOL, LIMONENE, BETA-CARYOPHYLLENE, HEXAMETHYLINDANOPYRAN, TERPINEOL, CITRUS LIMON PEEL OIL, GERANYL ACETATE, TURPENTINE, CAMPHOR, LINALYL ACETATE, MENTHOL, CITRUS AURANTIUM PEEL OIL, LEMONGRASS OIL, EUCALYPTUS GLOBULUS OIL, LAVANDULA OIL/ EXTRACT, PINENE"
+    },
+    {
+     "nombre": "Enjuague bucal infantil Kids sabor fresa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046432"
+     ],
+     "inci": "AQUA, SORBITOL, PEG-40 HYDROGENATED CASTOR OIL, SODIUM BENZOATE, AROMA, POTASSIUM SORBATE, SODIUM SACCHARIN, CITRIC ACID, SODIUM CITRATE, SODIUM FLUORIDE, VANILLIN, CI 14720"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes Agua Micelar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012048092"
+     ],
+     "inci": "AQUA, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, GLYCERIN, METHYLPROPANEDIOL, SODIUM LEVULINATE, ALOE BARBADENSIS LEAF JUICE, HAMAMELIS VIRGINIANA (WITCH HAZEL) LEAF WATER, CETRIMONIUM BROMIDE, DISODIUM EDTA, CITRIC ACID, GLUCONOLACTONE, SODIUM BENZOATE, POTASSIUM SORBATE, CALCIUM GLUCONATE"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes cara y ojos piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012048108"
+     ],
+     "inci": "AQUA, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, CETEARYL ISONONANOATE, PRUNUS AMYGDALUS DULCIS OIL, PERSEA GRATISSIMA OIL, PARFUM, PEG-40 GLYCERYL COCOATE, TETRASODIUM EDTA, BENZOIC ACID, CETEARETH-20, CETEARYL ALCOHOL, ALLANTOIN, PANTHENOL, DEHYDROACETIC ACID, SODIUM COCETH SULFATE, BISABOLOL, GLYCERIN, GLYCERYL STEARATE, ETHYLHEXYLGLYCERIN, SODIUM HYDROXIDE, HEXYL CINNAMAL, GERANIOL, CETEARETH-12, CETYL PALMITATE, CITRONELLOL, ACETYL CEDRENE, COUMARIN, CAPRYLYL GLYCOL, LINALOOL, ALPHA-ISOMETHYL IONONE, HEXAMETHYLINDANOPYRAN"
+    },
+    {
+     "nombre": "Vaselina labial fresa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012048047"
+     ],
+     "inci": "Paraffinum Liquidum, Hydrogenated Microcrystalline Wax, Paraffin, Aroma"
+    },
+    {
+     "nombre": "Vaselina purificada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012048023"
+     ],
+     "inci": "Paraffinum Liquidum, Hydrogenated Microcrystalline Wax, Paraffin"
+    },
+    {
+     "nombre": "Desodorante spray Invisible mujer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012037829"
+     ],
+     "inci": "BUTANE, ISOBUTANE, AQUA, PROPANE, C12-15 ALKYL BENZOATE, ALUMINUM SESQUICHLOROHYDRATE, DIETHYLHEXYL CARBONATE, PARFUM, POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE, GLYCERIN, 2-METHYL 5-CYCLOHEXYLPENTANOL, PHENOXYETHANOL, MICROCRYSTALLINE WAX, HYDROGENATED CASTOR OIL, CAPRYLYL GLYCOL, POLYSORBATE 80, HEXAMETHYLINDANOPYRAN, CITRONELLOL, ALPHA-ISOMETHYL IONONE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, HEXYL CINNAMAL, HYDROXYCITRONELLAL, TERPINEOL, GERANIOL, PELARGONIUM GRAVEOLENS FLOWER OIL, POGOSTEMON CABLIN OIL, VANILLIN, TRIMETHYLBENZENEPROPANOL, LINALOOL"
+    },
+    {
+     "nombre": "Champú Hidratación cabello normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043134"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, UREA, COCAMIDE DEA, PARFUM, RETINOL, ROSA MOSCHATA SEED OIL, ZEA MAYS OIL, AESCULUS HIPPOCASTANUM SEED EXTRACT, BIOTIN, INOSITOL, GLYCERIN, COCO-GLUCOSIDE, COCAMIDE MEA, GLYCOL DISTEARATE, PEG-12 DIMETHICONE, PEG-20 CASTOR OIL, STYRENE/ACRYLATES COPOLYMER, LINOLEAMIDOPROPYL DIMONIUM LACTATE, ALCOHOL DENAT., CALCIUM PANTOTHENATE, TOCOPHERYL ACETATE, CITRIC ACID, LACTIC ACID, BENZOIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, POTASSIUM SORBATE, MAGNESIUM NITRATE, MAGNESIUM CHLORIDE, AMYL CINNAMAL, AMYL SALICYLATE, HEXAMETHYLINDANOPYRAN"
+    },
+    {
+     "nombre": "Aceite corporal Aloe Vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012041390"
+     ],
+     "inci": "PARAFFINUM LIQUIDUM, CAPRYLIC/CAPRIC TRIGLYCERIDE, PARFUM, HELIANTHUS ANNUUS SEED OIL, ALOE BARBADENSIS LEAF EXTRACT, TOCOPHERYL ACETATE, ACETYL CEDRENE"
+    },
+    {
+     "nombre": "Acondicionador Tropical",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043073"
+     ],
+     "inci": "AQUA, CETEARYL ALCOHOL, CETYL ALCOHOL, DIPALMITOETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, CETEARETH-12, PARFUM, HYDROLIZED KERATIN, PARAFFINUM LIQUIDUM, CETRIMONIUM CHLORIDE, DIMETHICONE, CITRIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, BENZYL ALCOHOL, SODIUM BENZOATE, POTASSIUM SORBATE, MAGNESIUM NITRATE, MAGNESIUM CHLORIDE, BENZYL SALICYLATE, HEXYL CINNAMAL, LINALOOL"
+    },
+    {
+     "nombre": "Stick de árnica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012041918"
+     ],
+     "inci": "PROPYLENE GLYCOL, BUTYLENE GLYCOL, AQUA, GLYCERIN, SODIUM STEARATE, HYDROXYETHYLCELLULOSE, PHENOXYETHANOL, TRIETHYLENE GLYCOL, ARNICA MONTANA FLOWER EXTRACT, HARPAGOPHYTUM PROCUMBENS ROOT EXTRACT, POTASSIUM SORBATE, SODIUM BENZOATE, DISODIUM PHOSPHATE, POLYSORBATE 60, CI 19140, SODIUM PHOSPHATE"
+    },
+    {
+     "nombre": "Champú Detox cabello graso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043097"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDOPROPYL BETAINE, PARFUM, PANTHENOL, TOCOPHEROL, FAEX EXTRACT, NIACINAMIDE, TOCOPHERYL ACETATE, RIBOFLAVIN, PYRIDOXINE HCL, THIAMINE HCL, BIOTIN, INOSITOL, CYANOCOBALAMIN, DECYL GLUCOSIDE, PEG-7 GLYCERYL COCOATE, POLYQUATERNIUM-7, PROPYLENE GLYCOL, COCAMIDE MIPA, LAURETH-4, PEG-40 HYDROGENATED CASTOR OIL, RETINYL PALMITATE, TIOXOLONE, POTASSIUM SORBATE, SODIUM BENZOATE, CITRIC ACID, SOY ACID, CAPRIC ACID, CAPRYLIC ACID, ISOPROPYL ALCOHOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES"
+    },
+    {
+     "nombre": "Champú Vainilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012043066"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDOPROPYL BETAINE, GLYCOL DISTEARATE, PARFUM, LACTIC ACID, COCAMIDE MEA, PEG-7 GLYCERYL COCOATE, PRUNUS AMYGDALUS DULCIS OIL, PROPYLENE GLYCOL, VANILLA PLANIFOLIA FRUIT EXTRACT, POTASSIUM SORBATE, CITRIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, MAGNESIUM CHLORIDE, MAGNESIUM NITRATE, CI 15985, CI 19140"
+    },
+    {
+     "nombre": "Crema de manos Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046272"
+     ],
+     "inci": "AQUA, PARAFFINUM LIQUIDUM, UREA, GLYCERIN, PALMITIC ACID, STEARIC ACID, CETEARYL ALCOHOL, GLYCERYL STEARATE, CERA ALBA, DIMETHICONE, PHENOXYETHANOL, ALOE BARBADENSIS LEAF JUICE, CAPRYLYL GLYCOL, PARFUM, ALLANTOIN, TRIETHANOLAMINE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PROPYLENE GLYCOL, CENTELLA ASIATICA EXTRACT, LINALOOL, HEXAMETHYLINDANOPYRAN, LINALYL ACETATE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, LIMONENE, HAMAMELIS VIRGINIANA (WITCH HAZEL) BARK/LEAF/TWIG EXTRACT, CITRUS AURANTIUM PEEL OIL, CITRUS LIMON PEEL OIL, PINENE, POTASSIUM SORBATE, SODIUM BENZOATE"
+    },
+    {
+     "nombre": "Crema de manos Reparadora y Nutritiva",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046289"
+     ],
+     "inci": "AQUA, GLYCERIN, PARAFFINUM LIQUIDUM, CETEARYL ALCOHOL, GLYCERYL STEARATE, PEG-100 STEARATE, CETYL ALCOHOL, PRUNUS AMYGDALUS DULCIS OIL, CARNOSINE, DIMETHICONE, TOCOPHERYL ACETATE, UBIQUINONE, SQUALANE, SODIUM HYDROXIDE, CARBOMER, SODIUM CITRATE, PEG-20 STEARATE, PHENOXYETHANOL, BENZOPHENONE-4, BENZOPHENONE-3, TRIETHYLENE GLYCOL, ALPHA-ISOMETHYL IONONE, CITRONELLOL, GERANIOL, LIMONENE, LINALOOL, PARFUM, CITRUS LIMON PEEL OIL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, GERANYL ACETATE, LINALYL ACETATE"
+    },
+    {
+     "nombre": "Crema de manos perfumada Jasmine Pear",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046302"
+     ],
+     "inci": "AQUA, ISOPROPYL PALMITATE, GLYCERIN, GLYCERYL STEARATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, PARFUM, PERSEA GRATISSIMA OIL, ALLANTOIN, PANTHENOL, CAPRYLYL GLYCOL, TOCOPHERYL ACETATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, STEARIC ACID, SODIUM HYDROXIDE, DISODIUM EDTA, PHENOXYETHANOL, BENZYL SALICYLATE, CITRONELLOL, COUMARIN, GERANIOL, HEXYL CINNAMAL, HYDROXYCITRONELLAL, LIMONENE, LINALOOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, GERANYL ACETATE, PALMITIC ACID, VANILLIN, LINALYL ACETATE, PINENE, DIMETHYL PHENETHYL ACETATE, CITRUS AURANTIUM BERGAMIA PEEL OIL"
+    },
+    {
+     "nombre": "Crema de pies Hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046319"
+     ],
+     "inci": "AQUA, GLYCERIN, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, ETHYLHEXYL STEARATE, BUTYROSPERMUM PARKII (SHEA) BUTTER, CETEARYL ISONONANOATE, SODIUM POLYACRYLATE, CETEARETH-20, CETEARYL ALCOHOL, HYDROXYACETOPHENONE, PARFUM, GLYCERYL STEARATE, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, BENZOIC ACID, CETEARETH-12, CETYL PALMITATE, TOCOPHEROL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT, TERPINEOL"
+    },
+    {
+     "nombre": "Pasta de dientes Blanqueadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012038703"
+     ],
+     "inci": "AQUA, SORBITOL, HYDRATED SILICA, ALUMINUM HYDROXIDE, TETRAPOTASSIUM PYROPHOSPHATE, AROMA, SODIUM C14-16 OLEFIN SULFONATE, SODIUM MONOFLUOROPHOSPHATE, XANTHAN GUM, PVP, SODIUM SACCHARIN, SODIUM BENZOATE, CETYLPYRIDINIUM CHLORIDE, MENTHOL, MENTHA PIPERITA OIL, CARVONE, ANETHOLE, MENTHA VIRIDIS LEAF OIL, LIMONENE"
+    },
+    {
+     "nombre": "Pasta de dientes Cuidado Total",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012038710"
+     ],
+     "inci": "AQUA, SORBITOL, HYDRATED SILICA, CELLULOSE GUM, AROMA, CI 77891, COCAMIDOPROPYL BETAINE, MENTHOL, SODIUM MONOFLUOROPHOSPHATE, SODIUM SACCHARIN, SODIUM FLUORIDE, SODIUM BENZOATE, CETYLPYRIDINIUM CHLORIDE, ANETHOLE, EUCALYPTUS GLOBULUS OIL"
+    },
+    {
+     "nombre": "Pasta de dientes dientes y encías sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012038697"
+     ],
+     "inci": "AQUA, SORBITOL, HYDRATED SILICA, POTASSIUM NITRATE, PEG-8, SODIUM LAURYL SULFATE, AROMA, CI 77891, CELLULOSE GUM, PANTHENOL, SODIUM FLUORIDE, SODIUM SACCHARIN, ALLANTOIN, TOCOPHERYL ACETATE, SODIUM BENZOATE, COCAMIDOPROPYL BETAINE, MENTHOL, MENTHA PIPERITA OIL, ANETHOLE, LIMONENE, PINENE"
+    },
+    {
+     "nombre": "Enjuague bucal dientes y encías sensibles",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046449"
+     ],
+     "inci": "AQUA, GLYCERIN, POTASSIUM NITRATE, SORBITOL, PEG-40 HYDROGENATED CASTOR OIL, AROMA, SODIUM BENZOATE, SODIUM CITRATE, SODIUM SACCHARIN, CETYLPYRIDINIUM CHLORIDE, SODIUM FLUORIDE, ALLANTOIN, CITRIC ACID, MENTHOL, MENTHA PIPERITA OIL, MENTHA VIRIDIS LEAF OIL, CARVONE, ANETHOLE, EUGENOL, LIMONENE, PINENE, BETA-CARYOPHYLLENE, EUGENIA CARYOPHYLLUS OIL, CI 14720"
+    },
+    {
+     "nombre": "Enjuague bucal Blanqueador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012032435"
+     ],
+     "inci": "AQUA, ALCOHOL DENAT., SORBITOL, PEG-40 HYDROGENATED CASTOR OIL, TETRAPOTASSIUM PYROPHOSPHATE, AROMA, CITRIC ACID, SODIUM BENZOATE, POTASSIUM ACESULFAME, CETYLPYRIDINIUM CHLORIDE, SODIUM FLUORIDE, SODIUM SACCHARIN, MENTHOL, EUCALYPTUS GLOBULUS OIL, MENTHA PIPERITA OIL, PINENE, LIMONENE, CI 42090"
+    },
+    {
+     "nombre": "Enjuague bucal Menta Fresca",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012008935"
+     ],
+     "inci": "AQUA, ALCOHOL DENAT., SORBITOL, PEG-40 HYDROGENATED CASTOR OIL, SODIUM BENZOATE, AROMA, CETYLPYRIDINIUM CHLORIDE, SODIUM FLUORIDE, SODIUM SACCHARIN, CITRIC ACID, MENTHA VIRIDIS LEAF OIL, MENTHOL, CARVONE, MENTHA PIPERITA OIL, METHYL SALICYLATE, BETA-CARYOPHYLLENE, LIMONENE, EUGENOL, CINNAMAL, CI 47005, CI 42051"
+    },
+    {
+     "nombre": "Enjuague bucal Protección Total",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012008928"
+     ],
+     "inci": "AQUA, ALCOHOL DENAT., SORBITOL, PEG-40 HYDROGENATED CASTOR OIL, AROMA, SODIUM BENZOATE, SODIUM SACCHARIN, ALLANTOIN, SODIUM FLUORIDE, CETYLPYRIDINIUM CHLORIDE, BENZOIC ACID, MENTHOL, METHYL SALICYLATE, CARVONE, ANETHOLE, MENTHA VIRIDIS LEAF OIL, CI 16035, CI 42090"
+    },
+    {
+     "nombre": "Gel de higiene íntima",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012047095"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, PARFUM, COCO-GLUCOSIDE, PEG-7 GLYCERYL COCOATE, ALLANTOIN, TRITICUM VULGARE GERM EXTRACT, ALOE BARBADENSIS LEAF EXTRACT, CITRIC ACID, PROPYLENE GLYCOL, POTASSIUM SORBATE, SODIUM BENZOATE"
+    },
+    {
+     "nombre": "Gel dental infantil fresa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012008898"
+     ],
+     "inci": "Sorbitol, Aqua, Hydrated Silica, PEG-8, Sodium Lauryl Sulfate, Aroma, Xanthan Gum, Sodium Saccharin, Sodium Fluoride, Sodium Benzoate, Calcium Glycerophosphate, Mica, Tocopheryl Acetate, CI 73360, CI 77891"
+    },
+    {
+     "nombre": "Stick antirozaduras",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012046333"
+     ],
+     "inci": "Octyldodecanol, Behenyl Alcohol, C10-18 Triglycerides, Stearyl Alcohol, Hydrogenated Vegetable Glycerides, Butyrospermum Parkii Butter, Synthetic Beeswax, Helianthus Annuus Seed Oil, Parfum, Aloe Barbadensis Leaf Extract, Tetramethyl Acetyloctahydronaphthalenes, Linalool, Tocopherol, Citronellol, Juniperus Virginiana Oil, Limonene, Coumarin, Vanillin"
+    },
+    {
+     "nombre": "Toallitas hidroalcohólicas con aloe vera y provitamina B5",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012033555"
+     ],
+     "inci": "ALCOHOL DENAT., AQUA, ALOE BARBADENSIS LEAF EXTRACT, NEOPENTYL GLYCOL DIHEPTANOATE, PANTHENOL, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, SODIUM SULFITE"
+    },
+    {
+     "nombre": "Toallitas bebé Aqua",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012041246"
+     ],
+     "inci": "Aqua, Levulinic Acid, Glycerin, Sodium Benzoate, Sodium Levulinate"
+    },
+    {
+     "nombre": "Toallitas bebé aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012004814",
+      "8480012004791"
+     ],
+     "inci": "AQUA, GLYCERIN, ALOE BARBADENSIS LEAF JUICE, DIMETHICONE, DISODIUM EDTA, POLYSORBATE 20, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, PARFUM"
+    },
+    {
+     "nombre": "Toallitas bebé pieles atópicas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012021095"
+     ],
+     "inci": "AQUA, GLYCERIN, POLYSORBATE 20, DISODIUM EDTA, CITRIC ACID, DIMETHICONE, ALOE BARBADENSIS LEAF JUICE, PROPYLENE GLYCOL, BUTYLENE GLYCOL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, GLUCOSE, LACTIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, BISABOLOL"
+    },
+    {
+     "nombre": "Toallitas higiene corporal aloe y camomila",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012033456"
+     ],
+     "inci": "AQUA, GLYCERIN, POLYSORBATE 20, DISODIUM EDTA, CITRIC ACID, DIMETHICONE, ALOE BARBADENSIS LEAF JUICE, PROPYLENE GLYCOL, BUTYLENE GLYCOL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, GLUCOSE, LACTIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, BISABOLOL"
+    },
+    {
+     "nombre": "Toallitas íntimas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012034552"
+     ],
+     "inci": "AQUA, GLYCERIN, PHENOXYETHANOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, BENZOIC ACID, PRUNUS AMYGDALUS DULCIS OIL, DEHYDROACETIC ACID, COCO-GLUCOSIDE, MARIS AQUA, PROPYLENE GLYCOL, ETHYLHEXYLGLYCERIN, SODIUM HYDROXIDE, ACETYL CEDRENE, VACCINIUM MACROCARPON FRUIT EXTRACT, EUGENYL ACETATE, ALOE BARBADENSIS LEAF EXTRACT, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE"
+    },
+    {
+     "nombre": "Toallitas refrescantes",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012034545"
+     ],
+     "inci": "AQUA, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, PROPYLENE GLYCOL, PARFUM, BENZOIC ACID, ALOE BARBADENSIS LEAF JUICE, DEHYDROACETIC ACID, CITRUS LIMON PEEL OIL, LIMONENE, SODIUM HYDROXYDE, HEXAMETHYLINDANOPYRAN, LINALOOL, ETHYLHEXYLGLYCERIN, TERPINEOL, PINENE, LINALYL ACETATE, GERANIOL, CITRAL, GERANYL ACETATE, ACETYL CEDRENE, HEXYL CINNAMAL, POTASSIUM SORBATE, SODIUM BENZOATE"
+    },
+    {
+     "nombre": "Papel higiénico húmedo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012034569",
+      "8480012023181"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, TRIDECETH-9, BENZOIC ACID, DEHYDROACETIC ACID, SODIUM HYDROXIDE, PARFUM, ETHYLHEXYLGLYCERIN, BUTYLENE GLYCOL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, GLUCOSE, LACTIC ACID, SODIUM BENZOATE, HEXAMETHYLINDANOPYRAN, POTASSIUM SORBATE, BENZYL SALICYLATE, BISABOLOL"
+    },
+    {
+     "nombre": "Papel higiénico húmedo infantil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012023204"
+     ],
+     "inci": "AQUA, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, SODIUM LEVULINATE, CAPRYLYL GLYCOL, POTASSIUM SORBATE, PARFUM, TRIDECETH-9, LACTIC ACID, BUTYLENE GLYCOL, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, GLUCOSE, SODIUM BENZOATE, BISABOLOL"
+    },
+    {
+     "nombre": "Protector labial SPF 15 aloe vera y vitamina E",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012006702"
+     ],
+     "inci": "PETROLATUM, PARAFFINUM LIQUIDUM, CERA ALBA, OCTYLDODECANOL, OZOKERITE, ETHYLHEXYL METHOXYCINNAMATE, BUTYL METHOXYDIBENZOYL METHANE, C12-15 ALKYL BENZOATE, TITANIUM DIOXIDE, ZINC OXIDE, POLYHYDROXYSTEARIC ACID, ALUMINUM STEARATE, ALUMINA, HELIANTHUS ANNUUS SEED OIL, CHAMOMILLA RECUTITA EXTRACT, ALOE BARBADENSIS LEAF EXTRACT, ALLANTOIN, CETYL DIMETHICONE, TOCOPHEROL, LECITHIN, ASCORBYL PALMITATE, CITRIC ACID, AROMA, PARFUM"
+    },
+    {
+     "nombre": "Protector solar facial antiedad SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012042632"
+     ],
+     "inci": "AQUA, C12-15 ALKYL BENZOATE, DIBUTYL ADIPATE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL SALICYLATE, BISETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYL TRIAZONE, BUTYLENE GLYCOL, POLYSILICONE-15, POLYGLYCERYL-6 DISTEARATE, SILICA, MICROCRYSTALLINE CELLULOSE, VP/EICOSENE COPOLYMER, GLUCOSE, FRUCTOSE, MALTOSE, TREHALOSE, SODIUM HYALURONATE, ARGANIA SPINOSA LEAF EXTRACT, ALLANTOIN, JOJOBA ESTERS, ECHINACEA PURPUREA EXTRACT, SODIUM PCA, PANTHENOL, CAPRYLYL GLYCOL, GLYCERIN, UREA, SODIUM LACTATE, TOCOPHERYL ACETATE, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, MALTODEXTRIN, SODIUM CHLORIDE, XANTHAN GUM, CELLULOSE GUM, SODIUM HYDROXIDE, CITRIC ACID, CETYL ALCOHOL, POTASSIUM CETYL PHOSPHATE, HYDROXYACETOPHENONE, TETRASODIUM GLUTAMATE DIACETATE, PARFUM, AMYL SALICYLATE, TRIMETHYLBENZENEPROPANOL, TERPINEOL, POLYGLYCERYL-3 BEESWAX"
+    },
+    {
+     "nombre": "Protector solar facial antiedad con color SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480012042649"
+     ],
+     "inci": "AQUA, C12-15 ALKYL BENZOATE, DIBUTYL ADIPATE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL SALICYLATE, BISETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYL TRIAZONE, BUTYLENE GLYCOL, POLYSILICONE-15, POLYGLYCERYL-6 DISTEARATE, SILICA, MICROCRYSTALLINE CELLULOSE, VP/EICOSENE COPOLYMER, GLUCOSE, FRUCTOSE, MALTOSE, TREHALOSE, SODIUM HYALURONATE, ARGANIA SPINOSA LEAF EXTRACT, ALLANTOIN, JOJOBA ESTERS, ECHINACEA PURPUREA EXTRACT, SODIUM PCA, PANTHENOL, CAPRYLYL GLYCOL, GLYCERIN, UREA, SODIUM LACTATE, TOCOPHERYL ACETATE, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, MALTODEXTRIN, SODIUM CHLORIDE, XANTHAN GUM, CELLULOSE GUM, SODIUM HYDROXIDE, CITRIC ACID, CETYL ALCOHOL, SODIUM SULFATE, POTASSIUM CETYL PHOSPHATE, HYDROXYACETOPHENONE, TETRASODIUM GLUTAMATE DIACETATE, PARFUM, CI 19140, CI 15985, CI 77499, CI 77491, CI 77492, CI 77891, AMYL SALICYLATE, TRIMETHYLBENZENEPROPANOL, TERPINEOL, POLYGLYCERYL-3 BEESWAX"
     }
    ]
   }

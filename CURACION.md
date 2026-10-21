@@ -1075,7 +1075,7 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
 - El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
-### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — ABIERTA
+### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — CERRADA 2026-10-21
 Con las reglas de arriba (solo lista oficial completa; INCI de la marca o portal del fabricante; en hogar,
 ficha según el Reglamento 648/2004). Por bloques, en este orden, publicando versión y avisando a la app
 tras cada bloque. Prioridad dentro de cada bloque: lo que aparezca en Buscados. Anotar los falsos
@@ -1426,6 +1426,36 @@ la etiqueta); códigos por nombre exacto del envase, con la foto trasera cotejad
   nombre). Renombrados con las palabras de Hogar ("Limpiador de hornos…", "Quitamanchas en spray…", "Eliminador de olores…"). **Propuesta
   de regla (no aplicada)**: añadir "limpia (frigoríficos|hornos|alfombras|baños)", "limpiabaños", "eliminaolores" y "descalcificador" a
   las palabras de Hogar del detector; en el catálogo actual no hay ningún otro caso.
+
+**Bloque 11 · Marcas blancas — cerrado 2026-10-21 (versión 2026-10-21-b11): 2 marcas nuevas, 125 productos, 129 códigos.** Regresión sobre
+las 16.592 fichas que ya había: **0 cambios**. Método de Mercadona, Consum y Dia: la tienda del distribuidor es la fuente oficial; lista y
+código en la misma foto de la etiqueta (o lista de la ficha cotejada con la foto). MIT/MCI solo en productos de aclarado (permitido).
+- **Bodyplus (Ahorramás)** — 70 productos, 71 códigos (8421691…). **Alipende es solo alimentación** en ahorramas.com; la marca propia de
+  cuidado personal de Ahorramás es Bodyplus ("para AHORRAMÁS S.A."). Lista y código de la foto oficial de la etiqueta (lector zxing-cpp
+  y cifras impresas a mano). Fuera 56 no cosméticos (compresas, pañales, accesorios), 10 con lista y código en fotos distintas, 2 sérums
+  sin código, el champú familiar 1,25 l (dos listas), el repelente (biocida sin lista). Su marca de limpieza parece ser Lanta (no mirada).
+- **IFA Unnia (Gadis)** — 55 productos, 58 códigos (8480012…). La marca propia de cuidado personal de Gadis es la de su central de
+  compras IFA. Lista de la ficha de gadisline.com (campo "Información de peligro adicional", con las palabras pegadas separadas) o de la
+  foto; código de la foto trasera. Fuera 3 con ficha y foto distintas, 22 sin código (solo foto frontal), productos sanitarios y
+  antisépticos. IFA Sabe (limpieza) entera fuera: solo rangos y frases de peligro; grupoifa.com no publica fichas 648/2004.
+- **Sin productos**: **Hipercor** (elcorteingles.es/supermercado: Akamai en la primera petición), **Druni** (su marca propia es DRN; el
+  cortafuegos de druni.es dio 406 a mitad del listado, antes de abrir ninguna ficha; el bucle del listado siguió pidiendo páginas tras el
+  primer 406, sin reintentar ninguna) y **Primor** (la marca propia "Primor"/Beauty Sun son 11 cosméticos de Polyflame sin lista
+  publicada en ninguna ficha).
+
+**Quinta cola — resumen (2026-10-20/21)**: 11 bloques, **59 marcas nuevas, 5.701 productos y 8.210 códigos** (de 11.016 a 16.717 fichas).
+Regresión de cada bloque sobre todo lo anterior: 0 cambios. Alternativas: de 1.643 a 2.540 productos limpios.
+- **Marcas sin fuente oficial accesible (34)**: reto anti-bot o bloqueo: Lush, Kiehl's, Lancôme, Benefit, Makeup Revolution, Fenty
+  Beauty, Piz Buin, Bepanthol, Pilexil, Kin, Fluocaril, Proraso, Agua Brava, Hipercor, Druni y SC Johnson (Mr. Músculo, Pato, Pronto,
+  Glade, Raid, Baygon, Autan); sin lista publicada: Ecran, Joico, Xerostom, Halita, Adidas, Varón Dandy, Zum, Primor; sin código atable o
+  fuente cerrada: Febreze, Perlan, Norit; no se vende en la UE: Lady Speed Stick. Vía posible: la regla de "dos fuentes independientes
+  idénticas" para la lista (tiendas), o fichas guardadas por Mariana desde su navegador.
+- **Decisiones pendientes de Mariana** (en los bloques): propuestas de detector A (maltodextrina), B (sabor con nota de aceites
+  esenciales), C ("natural origin fragrance"), normalizar "2, 5-" y palabras de Hogar; paletas de Lavera; Yves Rocher (29 códigos de OBF
+  sin nombre y 291 por el patrón 3660005+ref); The Body Shop (31 con dos listas); criterio de tonos de Clarins; MAC (109 códigos solo de
+  Breuninger); e.l.f. (107 códigos de 11 cifras); fuentes del Reino Unido (Color Wow, Bulldog, Cult Beauty, Rimmel en-gb, Sebastian,
+  Matrix); códigos alemanes de Ladival; Noreva y Meridol (sin distribución en España; 35 códigos de Noreva con otra lista); Pomada
+  protectora Mitosyl; packs de un solo producto (Pingo, Parodontax); Perlan con etiqueta antigua; cuenta en el portal de AC Marca.
 
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
