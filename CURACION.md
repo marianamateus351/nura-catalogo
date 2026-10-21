@@ -1256,6 +1256,8 @@ negativos nuevos del detector (octisalato, octocrileno, aceite de árbol del té
 Regresión sobre las 15.015 fichas que ya había: **0 cambios**. 67 de los 361 sin ningún aviso. Sin falsos positivos ni negativos nuevos
 ("Aroma/Flavor" de los labiales es INCI de la UE, no lista de EE. UU.). En casi todas la web oficial no publica EAN: códigos de farmacias
 online atados por Código Nacional (único por presentación) o por gama + nombre + tamaño, con la fuente anotada.
+- **Tipos de Alternativas (alternativas 2026-10-21e; la tabla de la app cambia igual, va en el próximo build)**: "protector solar" ya no
+  cae en Coloretes aunque diga "iluminador" (Sensilis Stick To Glow SPF 50+ → Protectores solares). Solo cambia ese.
 - **Bepanthol**: 0. bepanthol.es da "Access Denied" de Akamai en la primera petición. La pomada clásica con dexpantenol es medicamento.
 - **Sensilis** — 111 productos, 114 códigos; 18 sin avisos. sensilis.com/es (campo `ingredientsLong`). Códigos de farmaciasdirect (lista de
   la tienda cotejada con la oficial), Primor y okfarma. Fuera los códigos que en la tienda van con una lista antigua, **y 18 entradas cuyo

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21d",
+ "version": "2026-10-21e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -3118,6 +3118,12 @@
        "nombre": "Fotoprotector facial con filtros minerales Photocorrection Mineral SPF 30",
        "marca": "Sensilis",
        "barcode": "8428749007043",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Protector solar en stick iluminador Stick To Glow SPF 50+",
+       "marca": "Sensilis",
+       "barcode": "8428749007050",
        "fechaLista": "21-10-2026"
       },
       {
@@ -15236,12 +15242,6 @@
        "nombre": "Iluminador líquido perlado Skin Glow Pearl",
        "marca": "Sensilis",
        "barcode": "8428749000242",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Protector solar en stick iluminador Stick To Glow SPF 50+",
-       "marca": "Sensilis",
-       "barcode": "8428749007050",
        "fechaLista": "21-10-2026"
       },
       {
