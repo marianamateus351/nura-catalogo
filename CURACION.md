@@ -1191,6 +1191,43 @@ geles de The Body Shop y "Aroma/Flavor" de labiales como sabor).
   oficiales nórdicas (biotherm.se, cotejada con .dk y .no: misma lista y código en las tres). Lista completa de L'Oréal sin el código de
   fórmula ni el F.I.L. Errata corregida: "Cire Dabeille" → "Cire d'Abeille" (3). Fuera 18 fichas sin pestaña de ingredientes.
 
+**Bloque 3 · Maquillaje — cerrado 2026-10-21 (versión 2026-10-21-b3): 7 marcas nuevas, 2.373 productos, 3.969 códigos; 3 bloqueadas.**
+Regresión sobre las 12.503 fichas que ya había: **0 cambios**. 569 de los 2.373 sin ningún aviso (358 de MAC). Tonos: una entrada por
+lista (si todos los tonos comparten lista, una sola entrada; si la lista es la de un tono concreto, solo ese tono). Paletas y productos de
+varias piezas con una lista por pieza: entran con las listas juntas, como NYX, Catrice y Rare Beauty.
+- **Bloqueadas, 0 productos (no se intentó sortear)**: **Benefit** (Akamai en benefitcosmetics.com/es-es desde la primera petición),
+  **Makeup Revolution** (429 y "Verifying your connection" en revolutionbeauty.com), **Fenty Beauty** (fentybeauty.com/en-es es la tienda de
+  EE. UU. que vende a España; Cloudflare antes de abrir ninguna ficha).
+- **MAC** — 1.153 productos (una entrada por tono: maccosmetics.es da una lista por SKU), 1.198 códigos; 358 sin avisos. Ni
+  maccosmetics.es ni las MAC europeas publican EAN: códigos de Lyko (campo `ean` de la variante), atados por producto + tono + tamaño;
+  920 los confirma también Breuninger. UPC Estée Lauder 773602… con el 0 delante (excepción UPC, como Clinique). **Pendiente de Mariana:
+  109 códigos que solo da Breuninger** (sacados del nombre de la foto del tono, no de un campo): fuera. Fuera también Studio Fix Powder
+  Plus (las dos tiendas cruzan las series de códigos), gamas sin código en ninguna fuente accesible (Powder Kiss, Satin, Pigment…).
+- **e.l.f.** — 478 productos, 646 códigos; 54 sin avisos. Tienda oficial UE es.elfcosmetics.com (Shopify; INCI por tono, `barcode` de la
+  variante). UPC 609332… con el 0 delante (la marca solo usa esos, también en la UE). **Pendiente de Mariana: 107 códigos que la web da con
+  11 cifras** (sin dígito de control; habría que completarlo nosotros): fuera. Fuera 67 variantes con la lista en formato de medicamento
+  de EE. UU. (CC Cream, Blemish…), y **2 con metilisotiazolinona en producto sin aclarado** (Expert Liquid Liner, Clear Brow & Lash; prohibida
+  en la UE desde 2017: no es la fórmula UE).
+- **Charlotte Tilbury** — 224 productos, 468 códigos; 72 sin avisos. INCI de charlottetilbury.com/es (9 de /eu). La web no da EAN:
+  códigos de tiendas por nombre exacto (gama, tono y tamaño): Space NK Irlanda 399, Cult Beauty (Reino Unido) 197, Perfumes Club 8.
+  Descartados los EAN que Space NK repite en varios tonos y los de la serie anterior. **Para Mariana**: si Cult Beauty (Reino Unido, fuera
+  de la UE) no vale como tienda europea, hay que quitar sus códigos. Fuera 91 sin código, 18 perfumes sin lista, 16 con listas contradictorias.
+- **Bourjois** — 216 productos, 401 códigos; 34 sin avisos. bourjois.fr (bourjois.com redirige; no hay web española). Fuera Velvet The
+  Lipstick anterior (relanzado en 2026), listas cortadas, el perfume con la lista traducida al francés. Errata interpretativa anotada:
+  tramo repetido con faltas en el corrector Always Fabulous 24H 320, 350 y 450.
+- **Rimmel** — 173 productos, 733 códigos; 37 sin avisos. rimmellondon.com: es-es (66) y en-gb para lo que falta en la española, que
+  está sin actualizar (códigos Coty europeos 3614/3616/3607/5012874; **para Mariana**: no comprobado uno a uno que se vendan en España).
+  **Fuera 6 cuya lista lleva un ingrediente prohibido en la UE** (Lilial desde 2022, isobutil e isopropilparabeno desde 2014: Lasting Finish
+  25h base, Lasting Radiance, Exaggerate, Glam'Eyes, Natural Bronzer, Stay Matte): la web conserva listas antiguas. Fuera la ficha "-us"
+  de Ultimate Boost, listas cortadas o ilegibles (PDF), listas copiadas de otro producto y las que la web española y la británica cruzan.
+- **Huda Beauty** — 68 productos, 287 códigos (629…, Emiratos); 9 sin avisos. hudabeauty.com/en-es (Shopify). 3 descargas dieron
+  "Verifying your connection": no se reintentaron (fuera esos tonos).
+- **Too Faced** — 61 productos, 236 códigos; 5 sin avisos. toofaced.eu/es/es; INCI de los datos de la página (el texto visible está a
+  medio traducir). UPC 651986… con el 0 delante (la marca solo usa esos).
+- **Nombres**: "multiusos" en el nombre hace que el detector tome el producto por Hogar (Rimmel Kind & Free Multi-Stick, Too Faced
+  Chocolate Soleil): se quita la palabra. **Propuesta de regla (no aplicada)**: que "multiusos" no cuente como Hogar si el nombre dice
+  labios, mejillas, ojos, stick, lápiz o bálsamo.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
