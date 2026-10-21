@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21c",
+ "version": "2026-10-21d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -728,6 +728,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Agua micelar LetiSR ProbioClean H2O",
+       "marca": "Leti",
+       "barcode": "8431166260137",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Loción limpiadora y desmaquillante",
        "marca": "Matarrania",
        "barcode": "0736211011619",
@@ -747,6 +753,24 @@
        "subtipo": "gel-espuma",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B0FX39SMK5"
+      },
+      {
+       "nombre": "Crema lavante antisequedad Xerodiane Cera+",
+       "marca": "Noreva",
+       "barcode": "3571940005600",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Leche micelar calmante Sensidiane",
+       "marca": "Noreva",
+       "barcode": "3401564248827",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Loción limpiadora micelar Lotion Universelle",
+       "marca": "Noreva",
+       "barcode": "3401320519352",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Aceite delicado desmaquillante",
@@ -770,6 +794,12 @@
        "fechaLista": "04-10-2026"
       },
       {
+       "nombre": "Agua micelar Skin Reset",
+       "marca": "Rilastil",
+       "barcode": "8058031943218",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Desmaquillante Skincare Eye Make-Up Remover",
        "marca": "Rituals",
        "barcode": "8719134213300",
@@ -790,6 +820,18 @@
        "subtipo": "gel-espuma",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B08FMCMGN6"
+      },
+      {
+       "nombre": "Agua micelar AR para pieles sensibles y reactivas",
+       "marca": "Sensilis",
+       "barcode": "8428749868200",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tratamiento desmaquillante para párpados sensibles Palpebral Relief ECZ",
+       "marca": "Sensilis",
+       "barcode": "8428749868606",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Aceite limpiador Centella Light Cleansing Oil",
@@ -1385,6 +1427,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Crema reparadora Leti Skin2 Epitelis",
+       "marca": "Leti",
+       "barcode": "8431166220018",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Crema hidratante nutritiva hombre",
        "marca": "Matarrania",
        "barcode": "0736211010810",
@@ -1462,6 +1510,12 @@
        "subtipo": "hidratante",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B01M4LCLK3"
+      },
+      {
+       "nombre": "Crema rica calmante Sensidiane",
+       "marca": "Noreva",
+       "barcode": "3401352000866",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Crema 1025 Dokdo Cream",
@@ -2176,6 +2230,30 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Gel-sérum seborregulador Acnestil PB",
+       "marca": "Rilastil",
+       "barcode": "8055510240516",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sérum Hydrotenseur",
+       "marca": "Rilastil",
+       "barcode": "8055510240363",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Concentrado reafirmante Xpert Collageneur Booster",
+       "marca": "Singuladerm",
+       "barcode": "8436564666765",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sérum prebiótico Biodefense",
+       "marca": "Singuladerm",
+       "barcode": "8436564667021",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Ampolla Azelaic Acid 10 Ampoule",
        "marca": "SKIN1004",
        "barcode": "8809913834670",
@@ -2872,6 +2950,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Crema antirrojeces mineral LetiSR SPF 30",
+       "marca": "Leti",
+       "barcode": "8431166260779",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Protector solar mineral facial SPF50",
        "marca": "Matarrania",
        "barcode": "0644216011773",
@@ -2981,6 +3065,66 @@
        "subtipo": "cuerpo",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B09T3XGBP7"
+      },
+      {
+       "nombre": "Cuidado antirrojeces muy alta protección SPF50+ Sensidiane AR+",
+       "marca": "Noreva",
+       "barcode": "3571940005631",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Cuidado ultrarreparador protector SPF50+ Cicadiane",
+       "marca": "Noreva",
+       "barcode": "3571940005761",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Leche invisible SPF50+ Bergasol",
+       "marca": "Noreva",
+       "barcode": "3571940004948",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Spray invisible niños SPF50+ Bergasol",
+       "marca": "Noreva",
+       "barcode": "3571940004962",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Base compacta Sun System SPF50+ tono 01 Beige",
+       "marca": "Rilastil",
+       "barcode": "8050444859353",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Base compacta Sun System SPF50+ tono 02 Doré",
+       "marca": "Rilastil",
+       "barcode": "8050444859339",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Base compacta Sun System SPF50+ tono 03 Bronze",
+       "marca": "Rilastil",
+       "barcode": "8050444859346",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Stick solar transparente Sun System SPF50+",
+       "marca": "Rilastil",
+       "barcode": "8050444859315",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Fotoprotector facial con filtros minerales Photocorrection Mineral SPF 30",
+       "marca": "Sensilis",
+       "barcode": "8428749007043",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Protector solar en stick para la nieve Stick To Snow SPF 50+",
+       "marca": "Sensilis",
+       "barcode": "8428749016694",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Protector solar Centella Air-Fit Suncream Light",
@@ -3257,6 +3401,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Gel de ducha LetiAT4 textura oleosa",
+       "marca": "Leti",
+       "barcode": "8431166183443",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Gel de ducha relajante flor de azahar, ecológico",
        "marca": "Marius Fabre",
        "barcode": "3298659747040",
@@ -3376,6 +3526,12 @@
        "barcode": "8428749972501",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0CBCBP6RD"
+      },
+      {
+       "nombre": "Crema vulvar pediátrica Letifem",
+       "marca": "Leti",
+       "barcode": "8431166150049",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Crema íntima calmante",
@@ -3695,6 +3851,18 @@
        "barcode": "4005900692474",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B086K52M82"
+      },
+      {
+       "nombre": "Aceite bifásico antiestrías Strivadiane",
+       "marca": "Noreva",
+       "barcode": "3571940004696",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema corporal de aceite ozonizado OzoSensitive",
+       "marca": "Ozoaqua",
+       "barcode": "8437026011086",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Aceite de masaje limón y pino cembro",
@@ -4410,6 +4578,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Crema antirrojeces correctora con color LetiSR SPF 30",
+       "marca": "Leti",
+       "barcode": "8431166260786",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Corrector de rojeces Calmwise Colour Correct",
        "marca": "Medik8",
        "barcode": "0818625024475",
@@ -4501,6 +4675,18 @@
        "nombre": "Prebase de maquillaje Multi-Tasker Grip Getter",
        "marca": "Rimmel",
        "barcode": "5056166813867",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 01 Light",
+       "marca": "Sensilis",
+       "barcode": "8428749805007",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 02 Beige",
+       "marca": "Sensilis",
+       "barcode": "8428749805106",
        "fechaLista": "21-10-2026"
       },
       {
@@ -7792,6 +7978,12 @@
        "fechaLista": "10-09-2026"
       },
       {
+       "nombre": "Bálsamo de aceite ozonizado para labios y nariz",
+       "marca": "Ozoaqua",
+       "barcode": "8437026011024",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Bálsamo labial con color Peptide Lip Tint Espresso",
        "marca": "Rhode",
        "barcode": "0810175610429",
@@ -7928,6 +8120,42 @@
        "subtipo": "barra",
        "tono": "Soft Mocha",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 01 Heart Breaker",
+       "marca": "Sensilis",
+       "barcode": "8428749013945",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 02 Game On!",
+       "marca": "Sensilis",
+       "barcode": "8428749013952",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 03 Self Love",
+       "marca": "Sensilis",
+       "barcode": "8428749013969",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 04 No Sorrow",
+       "marca": "Sensilis",
+       "barcode": "8428749013976",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 05 I'm in Charge",
+       "marca": "Sensilis",
+       "barcode": "8428749013983",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Barra de labios mate Own The Matte tono 06 You're Mine",
+       "marca": "Sensilis",
+       "barcode": "8428749013990",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "CICAVIT+ Lèvres",
@@ -8248,6 +8476,18 @@
        "marca": "Lavera",
        "barcode": "4021457656622",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos antirrojeces LetiSR",
+       "marca": "Leti",
+       "barcode": "8431166260731",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Gel contorno de ojos LetiAT4",
+       "marca": "Leti",
+       "barcode": "8431166182453",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Contorno de ojos",
@@ -8671,6 +8911,12 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Bruma antirrojeces activa LetiSR",
+       "marca": "Leti",
+       "barcode": "8431166260649",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Bruma facial Prep + Prime Essential Oils Grapefruit & Chamomile",
        "marca": "MAC",
        "barcode": "0773602425921",
@@ -9079,6 +9325,12 @@
        "fechaLista": "12-10-2026"
       },
       {
+       "nombre": "Mascarilla prebiótica Biodefense",
+       "marca": "Singuladerm",
+       "barcode": "8436564667052",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Mascarilla Centella Watergel Sheet Ampoule Mask",
        "marca": "SKIN1004",
        "barcode": "8809576260496",
@@ -9445,6 +9697,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Spray emoliente LetiAT4 Advanced Emollience",
+       "marca": "Leti",
+       "barcode": "8431166182750",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Bálsamo reparador de hipérico",
        "marca": "Matarrania",
        "barcode": "0705105357553",
@@ -9455,6 +9713,12 @@
        "marca": "Matarrania",
        "barcode": "0736211011312",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema del pañal Naturel 3 en 1",
+       "marca": "Mitosyl",
+       "barcode": "3615840000454",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Bálsamo reparador multiusos Cica Plus para piel seca y fragilizada",
@@ -9514,6 +9778,24 @@
        "barcode": "3574661032436",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B08WRSQWV4"
+      },
+      {
+       "nombre": "Bálsamo nutritivo relipidante Xerodiane Cera+",
+       "marca": "Noreva",
+       "barcode": "3571940005556",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema relipidante antirrascado 48 h Eczeane",
+       "marca": "Noreva",
+       "barcode": "3571940005679",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo hidratante Xerolact PB",
+       "marca": "Rilastil",
+       "barcode": "8050444858233",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "CICAVIT DM+ Cicatrices",
@@ -10271,6 +10553,18 @@
        "marca": "Rituals",
        "barcode": "8719134204209",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Máscara de pestañas de tratamiento de día Day Treatment Mascara",
+       "marca": "Sensilis",
+       "barcode": "8428749950400",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Tratamiento de pestañas de noche Night Treatment Mascara",
+       "marca": "Sensilis",
+       "barcode": "8428749972204",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "PALPEBRAL Máscara Protect",
@@ -13495,6 +13789,12 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Sérum de pestañas y cejas Xpert Lashes & Brows",
+       "marca": "Singuladerm",
+       "barcode": "8436564666635",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Gel de cejas Phyto-Sourcils Perfect",
        "marca": "Sisley",
        "barcode": "3473311875013",
@@ -14918,6 +15218,30 @@
        "nombre": "Iluminador y prebase Multi-Tasker Better Than Filters",
        "marca": "Rimmel",
        "barcode": "3616305400956",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector iluminador fluido Skin Glow Highlighter tono 01 Ivory",
+       "marca": "Sensilis",
+       "barcode": "8428749006992",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Corrector iluminador fluido Skin Glow Highlighter tono 03 Sand",
+       "marca": "Sensilis",
+       "barcode": "8428749007012",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Iluminador líquido perlado Skin Glow Pearl",
+       "marca": "Sensilis",
+       "barcode": "8428749000242",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Protector solar en stick iluminador Stick To Glow SPF 50+",
+       "marca": "Sensilis",
+       "barcode": "8428749007050",
        "fechaLista": "21-10-2026"
       },
       {

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b4",
+ "version": "2026-10-21-b5",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25510,6 +25510,615 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "4067227001414"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Gel de ducha LetiAT4 textura oleosa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166183443"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Gel contorno de ojos LetiAT4",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166182453"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Hidrogel antipicor LetiAT4",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166181562",
+    "8431166182644"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Spray emoliente LetiAT4 Advanced Emollience",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166182750"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Crema peribucal Letibalm",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166121896",
+    "8431166120035"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Crema reparadora Leti Skin2 Epitelis",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166220018"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Crema vulvar pediátrica Letifem",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166150049"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Agua micelar LetiSR ProbioClean H2O",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260137"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Fluido antirrojeces LetiSR",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260632"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Crema antirrojeces mineral LetiSR SPF 30",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260779"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Crema antirrojeces correctora con color LetiSR SPF 30",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260786"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Contorno de ojos antirrojeces LetiSR",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260731"
+   ]
+  },
+  {
+   "marcaKey": "leti",
+   "marca": "Leti",
+   "nombre": "Bruma antirrojeces activa LetiSR",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8431166260649"
+   ]
+  },
+  {
+   "marcaKey": "mitosyl",
+   "marca": "Mitosyl",
+   "nombre": "Crema del pañal Naturel 3 en 1",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3615840000454"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Bálsamo nutritivo relipidante Xerodiane Cera+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005556",
+    "3571940005563",
+    "3571940005587"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Crema antiirritaciones Xerodiane Cera+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005570"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Crema lavante antisequedad Xerodiane Cera+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005600"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Crema relipidante antirrascado 48 h Eczeane",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005679"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Crema rica calmante Sensidiane",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3401352000866"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Loción limpiadora micelar Lotion Universelle",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3401320519352"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Aceite bifásico antiestrías Strivadiane",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940004696"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Leche invisible SPF50+ Bergasol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940004948"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Leche micelar calmante Sensidiane",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3401564248827"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Cuidado antirrojeces muy alta protección SPF50+ Sensidiane AR+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005631"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Cuidado ultrarreparador protector SPF50+ Cicadiane",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940005761"
+   ]
+  },
+  {
+   "marcaKey": "noreva",
+   "marca": "Noreva",
+   "nombre": "Spray invisible niños SPF50+ Bergasol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3571940004962"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Jabón en pastilla de aceite ozonizado",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437015476698"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Aceite ozonizado",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437015476704",
+    "8437015476711",
+    "8437015476728"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Champú de aceite ozonizado cuero cabelludo seco",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437015476971"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Bálsamo de aceite ozonizado para labios y nariz",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437026011024"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Crema corporal de aceite ozonizado OzoSensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437026011086"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Pasta al agua de aceite ozonizado OzoSensitive",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437026011109"
+   ]
+  },
+  {
+   "marcaKey": "ozoaqua",
+   "marca": "Ozoaqua",
+   "nombre": "Aceite ozonizado post-picaduras OzoPick",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437015476339"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Agua micelar Skin Reset",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8058031943218"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Bálsamo hidratante Xerolact PB",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8050444858233"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Base compacta Sun System SPF50+ tono 01 Beige",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8050444859353"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Base compacta Sun System SPF50+ tono 02 Doré",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8050444859339"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Base compacta Sun System SPF50+ tono 03 Bronze",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8050444859346"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Crema seborreguladora Acnestil Attiva (+)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8055510242275"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Sérum Hydrotenseur",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8055510240363"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Gel-sérum seborregulador Acnestil PB",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8055510240516"
+   ]
+  },
+  {
+   "marcaKey": "rilastil",
+   "marca": "Rilastil",
+   "nombre": "Stick solar transparente Sun System SPF50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8050444859315"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Agua micelar AR para pieles sensibles y reactivas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749868200"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Fotoprotector facial con filtros minerales Photocorrection Mineral SPF 30",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749007043"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Corrector iluminador fluido Skin Glow Highlighter tono 01 Ivory",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749006992"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Corrector iluminador fluido Skin Glow Highlighter tono 03 Sand",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749007012"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Protector solar en stick iluminador Stick To Glow SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749007050"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Protector solar en stick para la nieve Stick To Snow SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749016694"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 01 Heart Breaker",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013945"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 02 Game On!",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013952"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 03 Self Love",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013969"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 04 No Sorrow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013976"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 05 I'm in Charge",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013983"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Barra de labios mate Own The Matte tono 06 You're Mine",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749013990"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Máscara de pestañas de tratamiento de día Day Treatment Mascara",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749950400"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Tratamiento de pestañas de noche Night Treatment Mascara",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749972204"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Iluminador líquido perlado Skin Glow Pearl",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749000242"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Tratamiento desmaquillante para párpados sensibles Palpebral Relief ECZ",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749868606"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 01 Light",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749805007"
+   ]
+  },
+  {
+   "marcaKey": "sensilis",
+   "marca": "Sensilis",
+   "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 02 Beige",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8428749805106"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Mascarilla prebiótica Biodefense",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564667052"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Crema prebiótica Biodefense piel mixta/grasa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564667045"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Crema prebiótica Biodefense piel normal/seca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564667038"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Sérum prebiótico Biodefense",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564667021"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Concentrado reafirmante Xpert Collageneur Booster",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564666765"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Sérum de pestañas y cejas Xpert Lashes & Brows",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436564666635"
+   ]
+  },
+  {
+   "marcaKey": "singuladerm",
+   "marca": "Singuladerm",
+   "nombre": "Gel para rojeces Xpert Sensitive Redless",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437013684835"
    ]
   }
  ]
