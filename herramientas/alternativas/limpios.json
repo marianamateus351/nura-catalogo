@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b9",
+ "version": "2026-10-21-b10",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26292,6 +26292,42 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5060144647467"
+   ]
+  },
+  {
+   "marcaKey": "drbeckmann",
+   "marca": "Dr. Beckmann",
+   "nombre": "Descalcificador antical intensivo para electrodomésticos",
+   "categoria": "Hogar",
+   "barcodes": [
+    "4008455485416"
+   ]
+  },
+  {
+   "marcaKey": "drbeckmann",
+   "marca": "Dr. Beckmann",
+   "nombre": "Quitamanchas en spray para manchas de desodorante y sudor",
+   "categoria": "Hogar",
+   "barcodes": [
+    "4008455597911"
+   ]
+  },
+  {
+   "marcaKey": "drbeckmann",
+   "marca": "Dr. Beckmann",
+   "nombre": "Quitamanchas Stain Devils Óxido y desodorante",
+   "categoria": "Hogar",
+   "barcodes": [
+    "4008455002484"
+   ]
+  },
+  {
+   "marcaKey": "zotal",
+   "marca": "Zotal",
+   "nombre": "Roll-on calma picaduras Parasital",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8413204810276"
    ]
   }
  ]
