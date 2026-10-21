@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b3",
+ "version": "2026-10-21-b4",
  "marcas": [
   {
    "key": "larocheposay",
@@ -142432,6 +142432,1329 @@
       "0651986022410"
      ],
      "inci": "Polybutene, Octyldodecanol, Bis-Diglyceryl Polyacyladipate-2, Polyglyceryl-2 Triisostearate, Euphorbia Cerifera (Candelilla) Wax\\Candelilla Cera\\Cire De Candelilla, Synthetic Wax, VP/Eicosene Copolymer, Hydrogenated Polycyclopentadiene, Ethylene/Propylene Copolymer, Silica, Caprylic/Capric Triglyceride, Vanillyl Butyl Ether, Caprylyl Glycol, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Capsicum Annuum Fruit Extract, Undaria Pinnatifida Extract, Dicalcium Phosphate, Copernicia Cerifera (Carnauba) Wax\\Copernicia Cerifera Cera\\Cire De Carnauba, Lecithin, Disteardimonium Hectorite, Polyhydroxystearic Acid, Polyethylene, Citric Acid, Fragrance (Parfum), Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, BHT, [+/- Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491), Iron Oxides (CI 77492), Iron Oxides (CI 77499), Bismuth Oxychloride (CI 77163), Blue 1 Lake (CI 42090), Bronze Powder (CI 77400), Copper Powder (CI 77400), Manganese Violet (CI 77742), Orange 5 (CI 45370), Red 6 (CI 15850), Red 7 (CI 15850), Red 21 (CI 45380), Red 27 (CI 45410), Red 28 (CI 45410), Red 30 (CI 73360), Red 7 Lake (CI 15850), Red 22 Lake (CI 45380), Red 28 Lake (CI 45410), Red 30 Lake (CI 73360), Red 33 Lake (CI 17200), Yellow 5 Lake (CI 19140), Yellow 6 Lake (CI 15985)]"
+    }
+   ]
+  },
+  {
+   "key": "australiangold",
+   "nombre": "Australian Gold",
+   "productos": [
+    {
+     "nombre": "Loción solar SPF 50",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700792",
+      "0054402730553"
+     ],
+     "inci": "Water (Aqua), Octocrylene, Butyloctyl Salicylate, Ethylhexyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, Polyethylene, Glycerin, Phenoxyethanol, Polysorbate 20, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Fragrance (Parfum), Sodium Hydroxide, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Theobroma Cacao (Cocoa) Seed Butter, Olea Europaea (Olive) Fruit Oil, Sorbitan Oleate, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Allantoin, Coumarin, Linalool, Citral, Benzyl Alcohol, Camellia Oleifera (Green Tea) Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride"
+    },
+    {
+     "nombre": "Spray gel solar SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700723",
+      "0054402730591"
+     ],
+     "inci": "Water/Aqua/Eau, Octocrylene, Butyloctyl Salicylate, Ethylhexyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Glycerin, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Dimethicone, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance (Parfum), Polysorbate 20, Trimethylsiloxysilicate, Propylene Glycol, Ethylhexylglycerin, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Oil, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Sorbitan Oleate, Methylparaben, Coumarin, Linalool, Citral, Benzyl Alcohol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride"
+    },
+    {
+     "nombre": "Spray gel solar SPF 15",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700709",
+      "0054402720912"
+     ],
+     "inci": "Water/Aqua/Eau, Ethylhexyl Salicylate, Aloe Barbadensis Leaf Juice, Glycerin, Butyl Methoxydibenzoylmethane, Octocrylene, Butylphthalimide, Phenoxyethanol, Isopropylphthalimide, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Dimethicone, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance (Parfum), Polysorbate 20, Trimethylsiloxysilicate, Sodium Hydroxide, Disodium EDTA, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, Ethylhexylglycerin, Propylene Glycol, Sorbitan Oleate, Coumarin, Methylparaben, Linalool, Citral, Benzyl Alcohol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride"
+    },
+    {
+     "nombre": "Spray gel solar SPF 30 con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720950",
+      "0054402730430",
+      "0054402730607",
+      "0054402730690"
+     ],
+     "inci": "Water/AquaEau, Octocrylene, Ethylhexyl Salicylate, Butyloctyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Glycerin, Caramel, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Dimethicone, Limonene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum, Trimethylsiloxysilicate, Polysorbate 20, Propylene Glycol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Sorbitan Oleate, Methylparaben, Coumarin, Linalool, Citral, Benzyl Alcohol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride"
+    },
+    {
+     "nombre": "Spray gel solar SPF 15 con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700693",
+      "0054402730423",
+      "0054402720929"
+     ],
+     "inci": "Water/Aqua/Eau, Ethylhexyl Salicylate, Aloe Barbadensis Leaf Juice, Glycerin, Butyl Methoxydibenzoylmethane, Octocrylene, Butylphthalimide, Caramel, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trimethylsiloxysilicate, Sodium Hydroxide, Helianthus Annuus (Sunflower) Seed Oil, Hydroxypropyl Methylcellulose, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Propylene Glycol, Polysorbate 20, Sorbitan Oleate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Isopropylphthalimide, Fragrance (Parfum), Limonene, Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Methylparaben, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Spray gel solar SPF 10 con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700754"
+     ],
+     "inci": "Water/Aqua/Eau, Aloe Barbadensis Leaf Juice, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Glycerin, Octocrylene, Butyl Methoxydibenzoylmethane, Caramel, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trimethylsiloxysilicate, Sodium Hydroxide, Helianthus Annuus (Sunflower) Seed Oil, Hydroxypropyl Methylcellulose, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Propylene Glycol, Polysorbate 20, Sorbitan Oleate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Fragrance (Parfum), Limonene, Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Methylparaben, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Spray gel solar SPF 6 con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720899"
+     ],
+     "inci": "Water/Aqua/Eau, Aloe Barbadensis Leaf Juice, C12-15 Alkyl Benzoate, Glycerin, Butylphthalimide, Butyl Methoxydibenzoylmethane, Caramel, Octocrylene, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Isopropylphthalimide, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trimethylsiloxysilicate, Sodium Hydroxide, Helianthus Annuus (Sunflower) Seed Oil, Hydroxypropyl Methylcellulose, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Propylene Glycol, Polysorbate 20, Sorbitan Oleate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Fragrance (Parfum), Limonene, Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Methylparaben, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Aceite solar en spray SPF 30 con aceite de zanahoria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720578"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Butyloctyl Salicylate, Ethylhexyl Salicylate, Octocrylene, Butyl Methoxydibenzoylmethane, VP/Hexadecene Copolymer, Cetyl Acetate, Olea Europaea (Olive) Fruit Oil, Isopropyl Lanolate, Limonene, Acetylated Lanolin Alcohol, Parfum, Tocopheryl Acetate, BHT, Diethylhexyl Syringylidene-Malonate, Glycine Soja (Soybean) Oil, Coumarin, Linalool, Citral, Benzyl Alcohol, Theobroma Cacao (Cocoa) Seed Butter, Caprylic/Capric Triglyceride, Glycine Soja (Soybean) Seed Extract, Daucus Carota Sativa (Carrot) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Extract"
+    },
+    {
+     "nombre": "Aceite solar en spray SPF 15 con aceite de zanahoria",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720097"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Octocrylene, Acetylated Lanolin Alcohol, Olea Europaea (Olive) Fruit Oil, Fragrance (Parfum), Limonene, Isopropyl Lanolate, VP/Hexadecene Copolymer, Cetyl Acetate, Tocopheryl Acetate, Macadamia Integrifolia Seed Oil, BHT, Daucus Carota Sativa (Carrot) Seed Oil, Diethylhexyl Syringylidenemalonate, Coumarin, Glycine Soja (Soybean) Oil, Terminalia Ferdinandiana (Kakadu Plum) Seed Oil, Linalool, Caprylic/Capric Triglyceride, Theobroma Cacao (Cocoa) Seed Butter, Glycine Soja (Soybean) Oil, Citral, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Extract"
+    },
+    {
+     "nombre": "Stick solar facial SPF 50 Face Guard",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250112"
+     ],
+     "inci": "Ozokerite, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Salicylate, Octocrylene, Synthetic Beeswax, Butyl Methoxydibenzoylmethane, VP/Hexadecene Copolymer, Zinc Oxide, Phenoxyethanol, Limonene, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Theobroma Cacao (Cocoa) Seed Butter, Tocopheryl Acetate, Ethylhexylglycerin, Terminalia Ferdinandiana (Kakadu Plum) Seed Oil, Coumarin, Linalool, Citral, Benzyl Alcohol, Aloe Barbadensis Leaf Extract"
+    },
+    {
+     "nombre": "Loción solar SPF 50 piel sensible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402730126"
+     ],
+     "inci": "Water\\Aqua\\Eau, Octocrylene, Ethylhexyl Salicylate, Butyloctyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, Polyethylene, Glycerin, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Sodium Hydroxide, Tocopheryl Acetate, Theobroma Cacao (Cocoa) Seed Butter, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sorbitan Oleate, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Allantoin, Camellia Oleifera (Green Tea) Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride, Phenoxyethanol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Loción solar facial SPF 50 con autobronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720868",
+      "0054402730683"
+     ],
+     "inci": "Water (Aqua), Ethylhexyl Salicylate, Octocrylene, Butyl Methoxydibenzoylmethane, VP/Eicosene Copolymer, Glycerin, Caramel, Dimethicone, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Ceteareth-20, Cetyl Alcohol, Dihydroxyacetone, Glyceryl Dilaurate, Stearyl Alcohol, Phenoxyethanol, Trimethylsiloxysilicate, Xanthan Gum, Limonene, Citric Acid, Propylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Theobroma Cacao (Cocoa) Seed Butter, Ethylhexylglycerin, Fragrance (Parfum), Tocopheryl Acetate, Tetrasodium Glutamate Diacetate, Erythrulose, Methylparaben, Aloe Barbadensis Leaf Juice, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Coumarin, Citral, Linalool, Benzyl Alcohol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Sodium Hydroxide, Calendula Officinalis (Calendula) Flower Extract, Camellia Oleifera (Green Tea) Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Juglans Nigra (Black Walnut) Leaf Extract, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema solar facial mineral con color SPF 50 Botanical, tono claro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402730188"
+     ],
+     "inci": "Cyclopentasiloxane, Water/Aqua/Eau, Glycerin, Titanium Dioxide (CI 77891), Zinc Oxide (CI 77947), Silica, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Polymethylsilsesquioxane, PEG-10 Dimethicone, Hexyl Laurate, Polyglyceryl-4 Isostearate, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Eucalyptus Globulus (Eucalyptus) Leaf Extract, Porphyra Umbilicalis Extract, Dimethicone Crosspolymer, Stearic Acid, Caprylyl Glycol, Tocopheryl Acetate, Butyrospermum Parkii (Shea) Butter, Panthenol, Squalane, Disodium EDTA, Triethoxycaprylylsilane, Alumina, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Iron Oxides (CI 77492, CI 77491, CI 77499)"
+    },
+    {
+     "nombre": "Crema solar facial mineral con color SPF 50 Botanical, tono medio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402730195"
+     ],
+     "inci": "Cyclopentasiloxane, Water/Aqua/Eau, Glycerin, Titanium Dioxide (CI 77891), Zinc Oxide (CI 77947), Silica, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Polymethylsilsesquioxane, PEG-10 Dimethicone, Hexyl Laurate, Polyglyceryl-4 Isostearate, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Porphyra Umbilicalis Extract, Eucalyptus Globulus (Eucalyptus) Leaf Extract, Dimethicone Crosspolymer, Stearic Acid, Caprylyl Glycol, Tocopheryl Acetate, Butyrospermum Parkii (Shea) Butter, Squalane, Panthenol, Disodium EDTA, Triethoxycaprylylsilane, Alumina, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Iron Oxides (CI 77492, CI 77491, CI 77499)"
+    },
+    {
+     "nombre": "Sérum facial SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402731178"
+     ],
+     "inci": "Water/Aqua/Eau, Octocrylene, Butyloctyl Salicylate, Ethylhexyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Glycerin, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trimethylsiloxysilicate, Polysorbate 20, Propylene Glycol, Ethylhexylglycerin, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Sorbitan Oleate, Camellia Sinensis (Green Tea) Leaf Extract, Methylparaben, Sodium Hyaluronate, Sodium Ascorbyl Phosphate, Sodium Chloride"
+    },
+    {
+     "nombre": "Sérum facial SPF 30 con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402731185"
+     ],
+     "inci": "Water/Aqua/EAU, Octocrylene, Ethylhexyl Salicylate, Butyloctyl Salicylate, Aloe Barbadensis Leaf Juice, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Glycerin, Caramel, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trimethylsiloxysilicate, Polysorbate 20, Propylene Glycol, Tocopheryl Acetate, Ethylhexylglycerin, Hydroxypropyl Methylcellulose, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Sorbitan Oleate, Camellia Sinensis (Green Tea) Leaf Extract, Methylparaben, Sodium Hyaluronate, Methyl Salicylate, Sodium Chloride"
+    },
+    {
+     "nombre": "Aceite limpiador para retirar el protector solar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412343"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Ethylhexyl Palmitate, PEG-20 Glyceryl Triisostearate, Squalane, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Phenoxyethanol"
+    },
+    {
+     "nombre": "Crema facial after sun",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412398"
+     ],
+     "inci": "Water\\Aqua\\Eau, Ethylhexyl Palmitate, Glycerin, Propylene Glycol, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Polysorbate 20, Dimethicone Crosspolymer, Disodium EDTA, Panthenol, Niacinamide, Sodium Hyaluronate, Sodium Hydroxide, Palmitoyl Tripeptide-37, Hexylene Glycol, Acetyl Hexapeptide-8, Phenoxyethanol, Ethylhexylglycerin, Caprylyl Glycol, Potassium Sorbate"
+    },
+    {
+     "nombre": "Loción after sun con bronceador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412350",
+      "0054402413852"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Propylene Glycol, Dimethicone, Dihydroxyacetone, Caramel, PEG-100 Stearate, Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetyl Alcohol, Bis-Diglyceryl Polyacyladipate-2, Isohexadecane, Glyceryl Dilaurate, Aluminum Starch Octenylsuccinate, PPG-20 Methyl Glucose Ether, Xanthan Gum, Polysorbate 60, Cannabis Sativa (Hemp) Seed Oil, Sorbitan Isostearate, Citric Acid, Disodium EDTA, Panthenol, Tocopheryl Acetate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Limonene, Fragrance (Parfum), Coumarin, Benzyl Alcohol, Citral, Linalool, Geraniol, Citronellol, Benzyl Benzoate, Phenoxyethanol, Ethylhexylglycerin, Ext. Violet 2 (CI 60730), Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Gel after sun en spray Aloe Freeze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250068"
+     ],
+     "inci": "Water (Aqua), Propylene Glycol, Polysorbate 20, Glycerin, Panthenol, Caprylyl Glycol, Phenoxyethanol, Carbomer, Triethanolamine, Hexylene Glycol, Allantoin, Aloe Barbadensis Leaf Juice Powder, PEG-60 Lanolin, Mentha Viridis (Spearmint) Leaf Oil, Citrus Limon (Lemon) Peel Extract, Pollen Extract, Symphytum Officinale (Comfrey) Leaf Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Tilia Cordata Flower Extract, Tocopheryl Acetate, Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Gel after sun de aloe vera",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700518"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Polysorbate 20, Glycerin, Camellia Sinensis (Green Tea) Leaf Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Benzoate, Potassium Sorbate, Ethylhexylglycerin, Phenoxyethanol, Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Loción after sun Moisture Lock",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250051",
+      "0054402250433"
+     ],
+     "inci": "Water\\Aqua\\Eau, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Propylene Glycol, Dimethicone, Cetyl Alcohol, Isopropyl Lanolate, PPG-20 Methyl Glucose Ether, Carbomer, Cetyl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Acetylated Lanolin Alcohol, Olea Europaea (Olive) Fruit Oil, Disodium EDTA, Allantoin, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Limonene, Fragrance (Parfum), Coumarin, Linalool, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Bruma refrescante after sun Cooling Mist",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412381"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Propylene Glycol, Polysorbate 20, Glycerin, Menthyl Lactate, Disodium EDTA, Sodium PCA, Sodium Hyaluronate, Fragrance (Parfum), Coumarin, Benzyl Benzoate, Phenoxyethanol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Loción after sun prolongadora del bronceado Forever After",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402260272",
+      "0054402340301",
+      "0054402411032"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Butylene Glycol, Cetyl Alcohol, Stearic Acid, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Urea, Butyrospermum Parkii (Shea Butter), Cetyl Ethylhexanoate, Propylene Glycol, Caffeine, Cannabis Sativa (Hemp) Seed Oil, Carbomer, Vitis Vinifera (Grape) Seed Oil, Sodium Hydroxide, Disodium EDTA, Squalane, Tocopheryl Acetate, Ascorbic Acid, Phosphoric Acid, Ubiquinone, Chenopodium Quinoa Seed Extract, Triticum Vulgare (Wheat) Germ Extract, Cannabis Sativa (Hemp) Seed Extract, Citric Acid, Hexyl Cinnamal, Coumarin, Diazolidinyl Urea, Methylparaben, Propylparaben, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Toallita after sun Aloe Mate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402290903"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Glycerin, Hydrolyzed Algin, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Camellia Sinensis (Green Tea) Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Hamamelis Virginiana (Witch Hazel) Water, Euterpe Oleracea (Acai) Fruit Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Propylene Glycol, Trideceth-9, Isopentyldiol, PEG-40 Hydrogenated Castor Oil, Butylene Glycol, Polysorbate 20, Alcohol, Magnesium Sulfate, Manganese Sulfate, Citric Acid, Benzyl Alcohol, Fragrance (Parfum), Limonene, Caprylhydroxamic Acid, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Chlorphenesin"
+    },
+    {
+     "nombre": "Loción after sun prolongadora del bronceado Tropical Retreat",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412213"
+     ],
+     "inci": "AquaWater\\Eau, Dimethicone, Propylene Glycol, Glycerin, Fragrance (Parfum), Carthamus Tinctorius (Safflower) Seed Oil, Cetyl Alcohol, Phenoxyethanol, Carbomer, Dipropylene Glycol, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Ethylhexylglycerin, Disodium EDTA, Ethylene Brassylate, Coumarin,Benzyl Salicylate, Hydroxycitronellal, Linalool, Benzyl Benzoate, Limonene, Alpha-Isomethyl Ionone, Geraniol, Hexyl Cinnamal, Citronellol"
+    },
+    {
+     "nombre": "Loción after sun para hombre Hydrate G Gentlemen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402330067"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Ethylhexyl Palmitate, Cyclopentasiloxane, Cocos Nucifera (Coconut) Fruit Juice, Hydrolyzed Algin, Caffeine, Centella Asiatica (Gotu Kola) Extract, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Carbomer, Sodium Hydroxide, Disodium EDTA, Magnesium Sulfate, Manganese Sulfate, Citric Acid, Tocopherol, Fragrance (Parfum), Hexyl Cinnamal, Linalool, Limonene, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Chlorphenesin"
+    },
+    {
+     "nombre": "Loción prolongadora del bronceado para hombre Refined G Gentlemen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414279",
+      "0054402414774"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Ethylhexyl Palmitate, C9-12 Alkane, Dimethicone, Aloe Barbadensis Leaf Juice Powder, Fragrance (Parfum), Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Dimethicone Crosspolymer, Sodium Hydroxide, Disodium EDTA, Caffeine, Cocos Nucifera (Coconut) Fruit Juice, Linalyl Acetate, Tetramethyl Acetyloctahydro Naphthalenes, Citrus Aurantium Bergamia Peel Oil, Terpineol, Lavandula Oil/Extract, Hydrolyzed Algin, Pogostemon Cablin Oil, Juniperus Virginiana Oil, Pinene, Magnesium Sulfate, Geranyl Acetate, Manganese Sulfate, Centella Asiatica (Gotu Kola) Extract, Citric Acid, Limonene, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Agave y lima",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402340509"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Dimethicone, Fragrance (Parfum), Aloe Barbadensis Leaf Juice, Agave Americana Leaf Extract, Citrus Aurantifolia (Lime) Peel Extract, Maris Sal, Hydrolyzed Algin, Cannabis Sativa (Hemp) Seed Oil, Hydrolyzed Jojoba Esters, Jojoba Esters, Tocopherol, Retinyl Palmitate, Niacinamide, Cocos Nucifera (Coconut) Water, Santalum Album (Sandalwood) Extract, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Sodium Hydroxide, Silica, Magnesium Sulfate, Citric Acid, Manganese Sulfate, Benzyl Benzoate, Limonene, Linalool, Coumarin, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Aloe y agua de mar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412015"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, Aloe Barbadensis Leaf Juice, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Dimethicone, Fragrance (Parfum), Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Sea Water, Cocos Nucifera (Coconut) Fruit Water, Sodium Hydroxide, Hydrolyzed Jojoba Esters, Tocopheryl Acetate, Jojoba Esters, Niacinamide, Silica, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Centella Asiatica (Gotu Kola) Extract, Retinyl Palmitate, Citric Acid, Tocopherol, Benzyl Benzoate, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Limonene, Coumarin, Citronellol, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Chlorphenesin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Frutos rojos árticos y prosecco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402413104"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Fragrance (Parfum), Dimethicone, Carbomer, Aluminum Starch Octenylsuccinate, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Niacinamide, Cannabis Sativa (Hemp) Seed Oil, Cocos Nucifera (Coconut) Fruit Water, Sodium Hydroxide, Hydrolyzed Jojoba Esters, Tocopheryl Acetate, Jojoba Esters, Wine Extract, Silica, Hydrolyzed Algin, Rubus Chamaemorus Fruit Extract, Empetrum Nigrum (Crowberry) Fruit Extract, Vaccinium Vitis-Idaea (Lingonberry) Fruit Extract, Magnesium Sulfate, Aloe Barbadensis Leaf Juice Powder, Manganese Sulfate, Retinyl Palmitate, Citric Acid, Tocopherol, Benzyl Benzoate, Limonene, Benzyl Alcohol, Benzyl Salicylate, Linalool, Hexyl Cinnamal, Citral, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Cocoa Dreams",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402410226",
+      "0054402411025"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Dimethicone, Cocos Nucifera (Coconut) Fruit Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Saccharomyces Ferment, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Cocos Nucifera (Coconut) Fruit Water, Aloe Barbadensis Leaf Juice, Sodium Hydroxide, Hydrolyzed Jojoba Esters, Jojoba Esters, Niacinamide, Hydrolyzed Algin, Silica, Magnesium Sulfate, Manganese Sulfate, Retinyl Palmitate, Citric Acid, Tocopherol, Limonene, Fragrance (Parfum), Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Eucalipto y té blanco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402400845"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Monopalmitate, Dimethicone, Aloe Barbadensis Leaf Juice, Eucalyptus Globulus Leaf Water, Camellia Sinensis (White Tea) Leaf Extract, Cannabis Sativa (Hemp) Seed Oil, Hydrolyzed Jojoba Esters, Niacinamide, Tocopherol, Retinyl Palmitate, Jojoba Esters, Silica, Helianthus Annuus (Sunflower) Seed Extract, Cocos Nucifera (Coconut) Fruit Water, Cucumis Sativus (Cucumber) Fruit Extract, Hordeum Vulgare (Barley) Extract, Propylene Glycol Dicaprate, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Sodium Hydroxide, Citric Acid, Fragrance (Parfum), Benzyl Salicylate, Hexyl Cinnamal, Citronellol, Geraniol, Benzyl Benzoate, Limonene, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Kiwi y agua de cactus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402400852"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Dimethicone, Fragrance (Parfum), Aloe Barbadensis Leaf Juice, Actinidia Chinensis (Kiwi) Fruit Extract, Opuntia Vulgaris (Cactus) Extract, Saccharomyces Ferment, Cannabis Sativa (Hemp) Seed Oil, Hydrolyzed Jojoba Esters, Niacinamide, Tocopherol, Retinyl Palmitate, Jojoba Esters, Silica, Cocos Nucifera (Coconut) Fruit Water, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Sodium Hydroxide, Citric Acid, Hexyl Cinnamal, Limonene, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Flor de pera y jazmín",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402413173"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Dimethicone, Fragrance (Parfum), Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Glycerin, Water - Citric Acid, Potassium Sorbate, Sodium Benzoate, Niacinamide, Cocos Nucifera (Coconut) Fruit Water, Sodium Hydroxide, Hydrolyzed Jojoba Esters, Tocopheryl Acetate, Jojoba Esters, Silica, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Pyrus Communis (Pear) Fruit Extract, Retinyl Palmitate, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Ceramide NP, Polyglyceryl-10 Stearate, Tocopherol, Sucrose Stearate, Hydrogenated Lecithin, Limonene, Citronellol, Hexyl Cinnamal, Linalool, Hydroxycitronellal, Citral, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Sal marina y sándalo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402300862",
+      "0054402411018"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea Butter), Sorbitan Palmitate, Fragrance (Parfum), Dimethicone, Aloe Barbadensis Leaf Juice, Maris Sal, Santalum Album (Sandalwood) Extract, Hydrolyzed Algin, Cannabis Sativa (Hemp) Seed Oil, Hydrolyzed Jojoba Esters, Jojoba Esters, Retinyl Palmitate, Niacinamide, Tocopheryl Acetate, Silica, Cocos Nucifera (Coconut) Water, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Sodium Hydroxide, Disodium EDTA, Magnesium Sulfate, Manganese Sulfate, Citric Acid, Tocopherol, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Blue 1 (CI 42090), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Cítricos y champán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402380987"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Monopalmitate, Fragrance (Parfum), Dimethicone, Aloe Barbadensis Leaf Juice, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Sodium Hydroxide, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Cocos Nucifera (Coconut) Fruit Water, Hydrolyzed Jojoba Esters, Tocopheryl Acetate, Jojoba Esters, Niacinamide, Wine Extract, Silica, Hydrolyzed Collagen, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Retinyl Palmitate, Citric Acid, Tocopherol, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Citronellol, Limonene, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Yellow 5 (CI 19140), Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Sunset Bliss",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414408"
+     ],
+     "inci": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Fragrance (Parfum), Dimethicone, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Hexamethyldisiloxane, Disodium EDTA, Aloe Barbadensis Leaf Juice Powder, Cannabis Sativa Seed Oil, Cocos Nucifera (Coconut) Fruit Water, Cucumis Sativus (Cucumber) Fruit Water, Tetrahexyldecyl Ascorbate, Hydrolyzed Jojoba Esters, Linalyl Acetate, Jojoba Esters, Citrus Aurantium Dulcis (Orange) Peel Extract, Niacinamide, Isoeugenol Acetate, Silica, Hydrolyzed Algin, Isohexadecane, Lecithin, Magnesium Sulfate, Rose Ketone-4, Trimethylcyclopentenyl Methylisopentenol, Manganese Sulfate, Citrus Limon (Lemon) Peel Oil, Retinyl Palmitate, Citric Acid, Tocopherol, Tocopheryl Acetate, Hexyl Cinnamal, Coumarin, Linalool, Limonene, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Tropical Seltzer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411582"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Dimethicone, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Propylene Glycol Dicaprate, Helianthus Annuus (Sunflower) Seed Extract, Hordeum Vulgare (Barley) Extract, Marrubium Vulgare Extract, Coleus Forskohlii Root Extract, Pisum Sativum (Pea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Soy Amino Acids, Persea Gratissima (Avocado) Fruit Extract, Brassica Oleracea Italica (Broccoli) Extract, Folic Acid, Carum Petroselinum (Parsley) Extract, Rice Amino Acids, Eruca Sativa (Arugula) Leaf Extract, Rosa Centifolia Flower Water, Cucumis Sativus (Cucumber) Fruit Extract, Syzygium Luehmannii (Lilly Pilly) Fruit Extract, Acronychia Acidula Fruit Extract, Davidsonia Pruriens Fruit Extract, Citric Acid, Fragrance (Parfum), Benzyl Benzoate, Alpha-Isomethyl Ionone, Geraniol, Limonene, Linalool, Citronellol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Vainilla y pistacho",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402413111"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Propylene Glycol, Cetyl Alcohol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Fragrance (Parfum), Dimethicone, Carbomer, Aluminum Starch Octenylsuccinate, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Niacinamide, Cannabis Sativa (Hemp) Seed Oil, Aloe Barbadensis Leaf Juice Powder, Cocos Nucifera (Coconut) Fruit Water, Sodium Hydroxide, Hydrolyzed Jojoba Esters, Tocopheryl Acetate, Jojoba Esters, Pistacia Vera Seed Extract, Silica, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Vanilla Planifolia Fruit Extract, Retinyl Palmitate, Citric Acid, Tocopherol, Benzyl Salicylate, Limonene, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Loción after sun Hemp Nation Melocotón blanco e hibisco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402330128",
+      "0054402330111"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-100 Stearate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Sorbitan Palmitate, Fragrance (Parfum), Dimethicone, Prunus Persica (Peach) Fruit Extract, Hibiscus Sabdariffa Flower Extract, Cannabis Sativa (Hemp) Seed Oil, Hydrolyzed Jojoba Esters, Jojoba Esters, Aloe Barbadensis Leaf Juice, Retinyl Palmitate, Niacinamide, Tocopheryl Acetate, Silica, Cocos Nucifera (Coconut) Fruit Water, Carbomer, HDI/Trimethylol Hexyllactone Crosspolymer, Disodium EDTA, Sodium Hydroxide, Chlorella Vulgaris Extract, Citric Acid, Tocopherol, Benzyl Benzoate, Limonene, Benzyl Salicylate, Linalool, Citral, Benzyl Alcohol, Citronellol, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Yellow 6 (CI 15985), Red 40 (CI 16035)"
+    },
+    {
+     "nombre": "Loción autobronceadora Instant Sunless",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402290545"
+     ],
+     "inci": "Water\\Aqua\\Eau, Dihydroxyacetone, Vitis Vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ethoxydiglycol, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Isodecyl Neopentanoate, Isopentyldiol, Fragrance (Parfum), Butyrospermum Parkii (Shea Butter), Dimethicone, Juglans Nigra (Black Walnut) Shell Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Hydrolyzed Algin, Eclipta Prostrata Extract, Cannabis Sativa (Hemp) Seed Oil, Zea Mays (Corn) Oil, Erythrulose, Caffeine, Panthenol, Beta-Carotene, Tocopherol, Cetearyl Olivate, Sorbitan Olivate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric/Myristic/Stearic Triglyceride, PEG-20 Almond Glycerides, Isohexadecane, Xanthan Gum, Glycerin, Sodium Metabisulfite, Polysorbate 60, Citric Acid, Disodium EDTA, Dimethyl Isosorbide, Sorbitan Isostearate, Magnesium Sulfate, Sodium Sulfite, Manganese Sulfate, Benzyl Alcohol, Hexyl Cinnamal, Limonene, Linalool, Benzyl Salicylate, Benzyl Benzoate, Citronellol, Caprylhydroxamic Acid, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Chlorphenesin, Caramel, Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Mousse autobronceadora Instant Sunless",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402720806"
+     ],
+     "inci": "Water\\Aqua\\Eau, Dihydroxyacetone, Caramel, Glycerin, Isopentyldiol, Decyl Glucoside, Hamamelis Virginiana (Witch Hazel) Water, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Aloe Barbadensis Leaf Juice, Citric Acid, Cetyl Hydroxyethylcellulose, Caffeine, Disodium EDTA, Alcohol, Hydrolyzed Algin, Hydrated Silica, Magnesium Sulfate, Manganese Sulfate, Disodium Phosphate, Silica Dimethyl Silylate, Sodium Phosphate, Zea Mays (Corn) Oil, Beta-Carotene, Tocopherol, Fragrance (Parfum), Hexyl Cinnamal, Limonene, Linalool, Benzyl Salicylate, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol"
+    },
+    {
+     "nombre": "Spray autobronceador Instant Sunless",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402710524"
+     ],
+     "inci": "Water, Dihydroxyacetone, Caramel, Propylene Glycol, Dipropylene Glycol, Polysorbate 20, Benzyl Alcohol, PEG-40 Hydrogenated Castor Oil, Citric Acid, Fragrance, Glycerin, Caprylhydroxamic Acid, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Aloe Barbadensis Leaf Juice, Caffeine, Disodium EDTA, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Zea Mays (Corn) Oil, Beta-Carotene"
+    },
+    {
+     "nombre": "Gotas bronceadoras para rostro y cuerpo Bronzing Drops",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402413838"
+     ],
+     "inci": "Water\\Aqua\\Eau, Isodecyl Neopentanoate, Propanediol, Polysorbate 20, Mica (CI 77019), Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polyacrylate Crosspolymer-6, Polysorbate 60, Disodium EDTA, Tocopheryl Acetate, Glycerin, Sorbitan Isostearate, Melaleuca Glomerata (Desert Honey-Myrtle) Extract, Phenoxyethanol, Ethylhexylglycerin, Iron Oxide Red (CI 77491), Iron Oxide Black (CI 77499), Titanium Dioxide (CI 77891)"
+    },
+    {
+     "nombre": "Loción bronceadora Browning Lotion con complejo de café",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402413029"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) Seed Oil, Propylene Glycol, Ethylhexyl Palmitate, Cetyl Alcohol, Dimethicone, Aluminum Starch Octenylsuccinate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, Aloe Barbadensis Leaf Juice Powder, Coffea Arabica (Coffee) Seed Oil, Panthenol, Tocopheryl Acetate, Coffea Arabica (Coffee) Seed Extract, Citric Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Tocopherol, Limonene, Fragrance (Parfum), Coumarin, Benzyl Alcohol, Citral, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel, Red 40 (CI 16035), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Dark Tanning Accelerator edición 40 aniversario",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412534",
+      "0054402412541"
+     ],
+     "inci": "Water\\Aqua\\Eau, Aloe Barbadensis Leaf Juice, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Propylene Glycol, Dimethicone, Cetyl Alcohol, Isopropyl Lanolate, Panthenol, PPG-20 Methyl Glucose Ether, Cetyl Acetate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Acetylated Lanolin Alcohol, Disodium EDTA, Olea Europaea (Olive) Fruit Oil, Saccharomyces Ferment, Sodium Hydroxide, Tocopheryl Acetate, Retinyl Palmitate, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Centella Asiatica (Gotu Kola) Extract, Citric Acid, Tocopherol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Limonene, Fragrance (Parfum), Coumarin, Benzyl Alcohol, Citral, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Dark Tanning Accelerator",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250037",
+      "0054402350010"
+     ],
+     "inci": "Water\\Aqua\\Eau, Aloe Barbadensis Leaf Juice, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Propylene Glycol, Dimethicone, Cetyl Alcohol, Isopropyl Lanolate, Panthenol, PPG-20 Methyl Glucose Ether, Cetyl Acetate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Acetylated Lanolin Alcohol, Disodium EDTA, Olea Europaea (Olive) Fruit Oil, Sodium Hydroxide, Tocopheryl Acetate, Retinyl Palmitate, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tocopherol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Limonene, Fragrance (Parfum), Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Accelerator Extreme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402300848"
+     ],
+     "inci": "Water\\Aqua\\Eau, Aloe Barbadensis Leaf Juice, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Fragrance (Parfum), Cannabis Sativa (Hemp) Seed Oil, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Retinyl Palmitate, Tocopheryl Acetate, Panthenol, Dihydroxyacetone, Juglans Nigra (Black Walnut) Shell Extract, Cichorium Intybus (Chicory) Root Extract, Echinacea Purpurea (Purple Coneflower) Extract, Dimethicone, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Citric Acid, Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Accelerator K",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390535"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Aloe Barbadensis Leaf Juice, Dimethicone, Daucus Carota Sativa (Carrot) Seed Oil, Daucus Carota Sativa (Carrot) Root Extract, Daucus Carota Sativa (Carrot) Water, Panthenol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Olea Europaea (Olive) Fruit Oil, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Caprylyl/Capryl Glucoside, C12-15 Alkyl Benzoate, Glyceryl Dilaurate, Carbomer, Xanthan Gum, Tocopheryl Acetate, Sodium Hydroxide, Disodium EDTA, Tocopherol, Fragrance (Parfum), Limonene, Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Acelerador del bronceado en spray Accelerator Spray",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250266"
+     ],
+     "inci": "Water\\Aqua\\Eau, C12-15 Alkyl Benzoate, Propylene Glycol, Aloe Barbadensis Leaf Juice, Retinyl Palmitate, Panthenol, Tocopheryl Acetate, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Dimethicone, Chenopodium Quinoa Seed Extract, Glycerin, Cetyl Acetate, PPG-20 Methyl Glucose Ether, Acetylated Lanolin Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 20, Sodium Hydroxide, Disodium EDTA, Isopropyl Lanolate, Citric Acid, Fragrance (Parfum), Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Methylparaben, Propylparaben, Potassium Sorbate, Sodium Benzoate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Acelerador del bronceado en spray gel con bronceador, sin SPF",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250440"
+     ],
+     "inci": "Water/Aqua/Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Caprylic/Capric Triglyceride, Dihydroxyacetone, Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Caramel, PEG-100 Stearate, Isohexadecane, Dimethicone, Limonene, Xanthan Gum, Fragrance (Parfum), Polysorbate 60, Cetyl Alcohol, Disodium EDTA, Ethylhexylglycerin, Panthenol, Sorbitan Isostearate, Coumarin, Tocopheryl Acetate, Linalool, Citral, Benzyl Alcohol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, may contain Citric Acid"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Adorably Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402310748",
+      "0054402370834",
+      "0054402410493",
+      "0054402410509"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Fragrance (Parfum), Dihydroxyacetone, Bixa Orellana (Annatto) Seed Extract, Rubus Idaeus (Raspberry) Fruit Extract, Beta Vulgaris (Beet) Root Extract, Cannabis Sativa (Hemp) Seed Oil, Cyclopentasiloxane, Dimethicone, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Retinyl Palmitate, Tocopheryl Acetate, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Citric Acid, Cetyl Alcohol, Limonene, Benzyl Benzoate, Linalool, Citral, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Beach You To It",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402340455"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol, Cetyl Alcohol, Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Dimethicone, Fragrance (Parfum), Phenoxyethanol, Caprylic/Capric Triglyceride, Carbomer, Caramel, Xanthan Gum, Ethylhexylglycerin, Sodium Hydroxide, Propylene Glycol Dicaprate, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Helianthus Annuus (Sunflower) Seed Extract, Linalool, Ficus Carica (Fig) Fruit Extract, Tocopheryl Acetate, Ascorbic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Hordeum Vulgare (Barley) Extract, Benzyl Benzoate, Cucumis Sativus (Cucumber) Fruit Extract, Coumarin, Cladonia Rangiferina (Reindeer Lichen) Extract, Centella Asiatica (Gotu Kola) Extract, Juglans Nigra (Black Walnut) Shell Extract, Sodium Benzoate, Potassium Sorbate, Citric Acid, Limonene, Hydroxycitronellal, Tocopherol, Citronellol"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Bold G Gentlemen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412879"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Propylene Glycol, Cocos Nucifera (Coconut) Oil, Ethylhexyl Palmitate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Dimethicone, Aluminum Starch Octenylsuccinate, Caprylyl Methicone, Caramel, Fragrance (Parfum), Glyceryl Dilaurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Niacinamide, Dihydroxyacetone, Xanthan Gum, Citric Acid, Dimethicone Crosspolymer, Polysorbate 60, Disodium EDTA, Caffeine, Cocos Nucifera (Coconut) Fruit Juice, Sorbitan Isostearate, Hydrolyzed Algin, Magnesium Sulfate, Centella Asiatica (Gotu Kola) Extract, Manganese Sulfate, Linalool, Limonene, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Red 4 (CI 14700), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Bronze Accelerator",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402290019",
+      "0054402370230"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Propylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Musa Sapientum (Banana) Fruit Extract, Juglans Nigra (Black Walnut) Shell Extract, Tocopheryl Acetate, Retinyl Palmitate, Aloe Barbadensis Leaf Juice, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Dimethicone, Propolis Extract, Butyrospermum Parkii (Shea Butter), Panthenol, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Dipropylene Glycol, Sodium Hydroxide, Disodium EDTA, Citric Acid, Benzyl Alcohol, Ethylene Brassylate, Fragrance (Parfum), Limonene, Coumarin, Linalool, Citral, Caprylhydroxamic Acid, Potassium Sorbate, Sodium Benzoate, Caramel, Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Aceite seco intensificador del bronceado en spray, sin SPF",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700280"
+     ],
+     "inci": "Water (Aqua), Propylene Glycol, Polysorbate 20, Caprylyl Glycol, Phenoxyethanol, Triethanolamine, Carbomer, Caramel, Glycerin, Hexylene Glycol, Disodium EDTA, Panthenol, Fragrance (Parfum), Limonene, Allantoin, Tyrosine, Glyceryl Acrylate/Acrylic Acid Copolymer, Aloe Barbadensis Leaf Juice, Coumarin, Juglans Nigra (Black Walnut) Shell Extract, Melanin, Musa Sapientum (Banana) Fruit Extract, Red 40 (CI 16035), Daucus Carota Sativa (Carrot) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Tocopheryl Acetate, Glycine Soja (Soybean) Oil, Citric Acid, Daucus Carota Sativa (Carrot) Root Extract, Mono-and Di Glycerides, Potassium Sorbate, Sodium Benzoate, Annatto (CI 75120), Potassium Hydroxide"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Cheeky Brown",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402310755"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Propylene Glycol, Dimethicone, Glycerin, Cetyl Alcohol, Lawsonia Inermis (Henna) Flower/Fruit/Leaf Extract, Beta-Carotene, Ipomoea Batatas (Purple Sweet Potato) Root Extract, Triticum Vulgare (Wheat) Sprout Extract, Panthenol, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Retinyl Palmitate, Tocopheryl Acetate, Tocopherol, Aloe Barbadensis Leaf Juice, Helianthus Annuus (Sunflower) Seed Oil, Zea Mays (Corn) Oil, Bis-Diglyceryl Polyacyladipate-2, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, PPG-20 Methyl Glucose Ether, Cetyl Acetate, Acetylated Lanolin Alcohol, Citric Acid, Fragrance (Parfum), Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Methylparaben, Propylparaben, Potassium Sorbate, Potassium Benzoate, Sodium Benzoate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Color Crush",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390511"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Caprylic/Capric Triglyceride, Fragrance (Parfum), Juglans Nigra (Black Walnut) Shell Extract, Melanin, Baptisia Tinctoria (Wild Indigo) Root Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Caffeine, Cannabis Sativa (Hemp) Seed Oil, Panthenol, Tocopheryl Acetate, Retinyl Palmitate, Dimethicone, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Olea Europaea (Olive) Fruit Oil, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Citric Acid, Tocopherol, Limonene, Benzyl Benzoate, Linalool, Benzyl Salicylate, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Confident G Gentlemen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402330050",
+      "0054402330173"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Ethylhexyl Palmitate, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Bixa Orellana (Annatto) Seed Extract, Juglans Nigra (Black Walnut) Shell Extract, Caramel, Niacinamide, Caffeine, Cocos Nucifera (Coconut) Fruit Juice, Centella Asiatica (Gotu Kola) Extract, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Sodium Hydroxide, Disodium EDTA, Citric Acid, Tocopherol, Fragrance (Parfum), Hexyl Cinnamal, Linalool, Limonene, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora facial para solárium Crystal Faces",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250976"
+     ],
+     "inci": "Water\\Aqua\\Eau, Cyclopentasiloxane, Dimethicone, Butylene Glycol, Butyrospermum Parkii (Shea Butter), Caprylyl Methicone, Octyldodecanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Polymethylsilsesquioxane, Hydrolyzed Algin, Squalane, Phoenix Dactylifera (Date) Fruit Extract, Aloe Barbadensis Leaf Juice, Silica, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Magnesium Aluminum Silicate, Dipropylene Glycol, Polysorbate 60, Sorbitan Isostearate, Citric Acid, Sodium Lactate, Tocopheryl Acetate, Ascorbic Acid, Magnesium Sulfate, Manganese Sulfate, Ethylene Brassylate, Phenoxyethanol, Methylparaben, Propylparaben, Ethylparaben, Chlorphenesin, Titanium Dioxide (CI 77891), Mica (CI 77019)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Daringly Dark",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390528"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Stearic Acid, Glyceryl Stearate, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Oleoyl Tyrosine, Passiflora Caerulea (Blue Passion) Flower Extract, Butyrospermum Parkii (Shea) Butter, Panthenol, Cannabis Sativa (Hemp) Seed Oil, Retinyl Palmitate, Citric Acid, Tocopherol, Cocos Nucifera (Coconut) Oil, Agave Americana Leaf Extract, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Oleic Acid, Aloe Barbadensis Leaf Juice, Carbomer, Sodium Hydroxide, Disodium EDTA, Fragrance (Parfum), Coumarin, Limonene, Benzyl Salicylate, Hydroxycitronellal, Amyl Cinnamal, Linalool, Geraniol, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Deviously Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402270905",
+      "0054402370094",
+      "0054402410547"
+     ],
+     "inci": "Water\\Aqua\\Eau, Helianthus Annuus (Sunflower) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Propylene Glycol, Glycerin, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), Cetyl Alcohol, Dihydroxyacetone, Juglans Nigra (Black Walnut) Shell Extract, Melanin, Hydrolyzed Algin, Cannabis Sativa (Hemp) Seed Oil, Artemisia Absinthium (Absinthe) Extract, Cinnamomum Cassia Bark Oil, Foeniculum Vulgare (Fennel) Seed Extract, Caffeine, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea Butter), PEG-100 Stearate, Glyceryl Stearate, Carbomer, Dimethicone, Cinnamomum Cassia Bark Water, Disodium EDTA, Sodium Hydroxide, Tocopheryl Acetate, Ascorbic Acid, Phosphoric Acid, Quillaja Saponaria Bark Extract, Magnesium Sulfate, Manganese Sulfate, Citric Acid, Coumarin, Limonene, Diazolidinyl Urea, Methylparaben, Propylparaben, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Caramel, Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Electric City con DHA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414460",
+      "0054402414477"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Cetyl Alcohol, Propylene Glycol, PEG-100 Stearate, Glyceryl Stearate, Aluminum Starch Octenylsuccinate, Dihydroxyacetone, Fragrance (Parfum), Caramel, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hamamelis Virginiana (Witch Hazel) Water, Isohexadecane, Glyceryl Dilaurate, Caprylyl Methicone, Tetramethyl Acetyloctahydronaphthalenes, Xanthan Gum, Alcohol, Polysorbate 60, Caffeine, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Erythrulose, Sorbitan Isostearate, Citric Acid, Vanillin, Rose Ketones, Maris Sal, Bixa Orellana (Annatto) Seed Extract, Sodium Lactate, Acetyl Hexapeptide-8, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Ext. Violet 2 (CI 60730), Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Endless Vacation",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390252",
+      "0054402399545"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cocos Nucifera (Coconut) Oil, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Fragrance (Parfum), Limnanthes Alba (Meadowfoam) Seed Oil, Oleoyl Tyrosine, Hydrolyzed Algin, Erythrulose, Acetyl Hexapeptide-1, Chlorella Vulgaris Extract, Dextran, Palmitoyl Tripeptide-37, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Nelumbo Nucifera (Lotus) Flower Water, Glyceryl Dilaurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hamamelis Virginiana (Witch Hazel) Water, Isohexadecane, Xanthan Gum, Alcohol, Polysorbate 60, Disodium EDTA, Sorbitan Isostearate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Magnesium Sulfate, Oleic Acid, Helianthus Annuus (Sunflower) Seed Oil, Manganese Sulfate, Maris Sal, Citric Acid, Rosmarinus Officinalis (Rosemary) Leaf Oil, Hexylene Glycol, Limonene, Hexyl Cinnamal, Linalool, Coumarin, Amyl Cinnamal, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin, Sodium Benzoate, Potassium Sorbate, Caprylyl Glycol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Aceite intensificador del bronceado Exotic Oil, sin SPF",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250020"
+     ],
+     "inci": "Helianthus Annuus (Sunflower) Seed Oil, Cyclopentasiloxane, Sorbitan Oleate, Phenoxyethanol, Limonene, Fragrance (Parfum), Ethylhexylglycerin, Oleoyl Tyrosine, Luffa Cylindrica Seed Oil, Oleic Acid, Tocopheryl Acetate, Coumarin, Linalool, Citral, Benzyl Alcohol, Daucus Carota Sativa (Carrot) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Terminalia Ferdinandiana (Kakadu Plum) Seed Oil, Glycine Soja (Soybean) Oil, Aloe Barbadensis Leaf Extract, Annatto (CI 75120), Vegetable Oil, Musa Sapientum (Banana) Fruit Extract, Propylene Glycol"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Feelin' Beachy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390504",
+      "0054402390597"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cetyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Dihydroxyacetone, Caramel, Hydrolyzed Algin, Citrullus Lanatus (Watermelon) Fruit Extract, Eucalyptus Globulus Leaf Water, Panthenol, Ascorbic Acid, Tocopheryl Acetate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Butyrospermum Parkii (Shea) Butter, Melaleuca Alternifolia (Tea Tree) Leaf Oil, PEG-100 Stearate, Glyceryl Stearate, Dimethicone, Aluminum Starch Octenylsuccinate, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Magnesium Sulfate, Manganese Sulfate, Citric Acid, Tocopherol, Fragrance (Parfum), Limonene, Methyl 2-Octynoate, Linalool, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Force of Nature",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402300794"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol, Cetyl Alcohol, Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Ficus Carica (Fig) Fruit Extract, Juglans Nigra (Black Walnut) Shell Extract, Helianthus Annuus (Sunflower) Seed Extract, Hordeum Vulgare (Barley) Extract, Cucumis Sativus (Cucumber) Fruit Extract, Cladonia Rangiferina (Reindeer Lichen) Extract, Centella Asiatica (Gotu Kola) Extract, Theobroma Cacao (Cocoa) Seed Butter, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Dimethicone, Tocopheryl Acetate, Panthenol, Ascorbic Acid, Caprylic/Capric Triglyceride, Carbomer, Xanthan Gum, Sodium Hydroxide, Propylene Glycol Dicaprate, Disodium EDTA, Citric Acid, Fragrance (Parfum), Linalool, Benzyl Benzoate, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para piernas con DHA Golden Legacy",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414651",
+      "0054402414668"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Cetyl Alcohol, Propylene Glycol, PEG-100 Stearate, Fragrance (Parfum), Glyceryl Stearate, Aluminum Starch Octenylsuccinate, Caramel, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hamamelis Virginiana (Witch Hazel) Water, Isohexadecane, Dihydroxyacetone, Glyceryl Dilaurate, Tetramethyl Acetyloctahydronaphthalenes, Xanthan Gum, Caprylyl Methicone, Alcohol, Polysorbate 60, Caffeine, Disodium EDTA, Hexamethylindanopyran, Pentylene Glycol, Sorbitan Isostearate, Vanillin, Citrus Aurantium Peel Oil, Citric Acid, Dimethylbenzyl Carbinyl Acetate, Gymnema Sylvestre Leaf Extract, Hydrolyzed Algin, Isoeugenyl Acetate, Magnesium Sulfate, Maris Sal, Manganese Sulfate, Alpha-Isomethyl Ionone, Limonene, Hexyl Cinnamal, Benzyl Benzoate, Linalool, Citronellol, Phenoxyethanol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Hardcore Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402270523",
+      "0054402410554",
+      "0054402410561"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol, Glycerin, Cetyl Ethylhexanoate, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), Cetyl Alcohol, Melanin, Hydrolyzed Algin, Juglans Nigra (Black Walnut) Shell Extract, Cannabis Sativa (Hemp) Seed Oil, Caffeine, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Dimethicone, Tocopheryl Acetate, Cinnamomum Cassia Bark Water, Cinnamomum Cassia Bark Oil, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Disodium EDTA, Sodium Hydroxide, Ascorbic Acid, Magnesium Sulfate, Phosphoric Acid, Manganese Sulfate, Quillaja Saponaria Bark Extract, Tyrosine, Citric Acid, Coumarin, Diazolidinyl Urea, Methylparaben, Propylparaben, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Caramel, Red 40 (CI 16035), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Hot!",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402250945"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Tocopheryl Acetate, Olea Europaea (Olive) Fruit Oil, C12-15 Alkyl Benzoate, Cetyl Acetate, Fragrance (Parfum), Panthenol, Dimethicone, Isopropyl Lanolate, PPG-20 Methyl Glucose Ether, Propylene Glycol Dicaprylate/Dicaprate, Propolis Extract, Citrus Limon (Lemon) Peel Extract, Symphytum Officinale (Comfrey) Leaf Extract, Tilia Cordata (Linden) Flower Extract, Aleurites Moluccana (Kukui) Seed Oil, Macadamia Ternifolia Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Allantoin, Squalane, Retinyl Palmitate, Ascorbyl Palmitate, Acetylated Lanolin Alcohol, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aluminum Starch Octenylsuccinate, Disodium EDTA, Polysorbate 20, Sodium Hydroxide, Glyceryl Acrylate/Acrylic Acid Copolymer, Citric Acid, Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Methylparaben, Propylparaben, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Hot! Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402310694",
+      "0054402410271",
+      "0054402410264"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Cocos Nucifera (Coconut) Oil, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cetyl Alcohol, Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Fragrance (Parfum), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Dilaurate, Dimethicone, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Olea Europaea (Olive) Fruit Oil, Aleurites Moluccanus (Kukui) Seed Oil, Squalane, Butyrospermum Parkii (Shea) Butter, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Melanin, Hydrolyzed Algin, Magnesium Sulfate, Eruca Sativa (Arugula) Leaf Extract, Brassica Oleracea Gemmifera (Brussels Sprouts) Extract, Garcinia Mangostana (Mangosteen) Peel Extract, Eucalyptus Globulus Leaf Extract, Mucuna Pruriens (Velvet Bean) Seed Extract, Palmaria Palmata (Dulse) Extract, Glycine Soja (Soybean) Protein, Phospholipids, Quercetin, Manganese Sulfate, Juglans Nigra (Black Walnut) Shell Extract, Citric Acid, Panthenol, Zea Mays (Corn) Oil, Beta-Carotene, Tocopherol, Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Geraniol, Benzyl Benzoate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Hot! con DHA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390283",
+      "0054402390573"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cetearyl Alcohol, Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Dihydroxyacetone, Juglans Nigra (Black Walnut) Shell Extract, Melanin, Caramel, Hydrolyzed Algin, Eruca Sativa (Arugula) Leaf Extract, Brassica Oleracea Gemmifera (Brussels Sprouts) Extract, Garcinia Mangostana (Mangosteen) Peel Extract, Eucalyptus Globulus Leaf Extract, Mucuna Pruriens (Velvet Bean) Seed Extract, Glycine Soja (Soybean) Protein, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Aleurites Moluccana (Kukui) Seed Oil, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Butyrospermum Parkii (Shea) Butter, Palmaria Palmata (Dulse) Extract, Caprylic/Capric Triglyceride, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Dimethicone, Glyceryl Dilaurate, Xanthan Gum, Dipropylene Glycol, Polysorbate 60, Disodium EDTA, Squalane, Citric Acid, Sorbitan Isostearate, Magnesium Sulfate, Manganese Sulfate, Phospholipids, Quercetin, Tocopherol, Fragrance (Parfum), Limonene, Ethylene Brassylate, Coumarin, Linalool, Citral, Benzyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Spray preparador para solárium Hot! Hybrid Prep",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414385"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice Powder, Water\\Aqua\\Eau, Glycerin, Polysorbate 20, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Disodium EDTA, Fragrance (Parfum), Sodium Hydroxide, Vanillin, Dextran, Acetyl Hexapeptide-1, Palmitoyl Tripeptide-37, Hexylene Glycol, Limonene, Coumarin, Benzyl Alcohol, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Hot! Hybrid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402340417",
+      "0054402340554"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water\\Aqua\\Eau, Glycerin, Propylene Glycol, C12-15 Alkyl Benzoate, Olea Europaea (Olive) Fruit Oil, Tocopheryl Acetate, Cetyl Acetate, Fragrance (Parfum), Aleurites Moluccana (Kukui) Seed Oil, Macadamia Ternifolia Seed Oil, Symphytum Officinale (Comfrey) Leaf Extract, Tilia Cordata (Linden) Flower Extract, Propolis Extract, Citrus Limon (Lemon) Peel Extract, Chlorella Vulgaris Extract, Acetyl Hexapeptide-1, Palmitoyl Tripeptide-37, Retinyl Palmitate, Panthenol, Ascorbyl Palmitate, Squalane, Allantoin, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Propylene Glycol Dicaprylate/Dicaprate, Isopropyl Lanolate, Dimethicone, PPG-20 Methyl Glucose Ether, Acetylated Lanolin Alcohol, Carbomer, Aluminum Starch Octenylsuccinate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Polysorbate 20, Citric Acid, Dextran, Tocopherol, Hexylene Glycol, Limonene, Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Methylparaben, Propylparaben, Potassium Sorbate, Sodium Benzoate, Caprylyl Glycol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Infamous",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402340530",
+      "0054402340387"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cocos Nucifera (Coconut) Oil, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Fragrance (Parfum), Dihydroxyacetone, Juglans Nigra (Black Walnut) Shell Extract, Caramel, Ligustrum Lucidum Fruit Extract, Hamamelis Virginiana (Witch Hazel) Water, Panax Ginseng Root Extract, Gynostemma Pentaphyllum Leaf/Stem Extract, Cannabis Sativa (Hemp) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Caffeine, Retinyl Palmitate, Tocopherol, Glyceryl Dilaurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Dimethicone, Xanthan Gum, Alcohol, Polysorbate 60, Disodium EDTA, Sorbitan Isostearate, Butylene Glycol, Citric Acid, Limonene, Benzyl Salicylate, Linalool, Hexyl Cinnamal, Benzyl Benzoate, Citronellol, Benzyl Alcohol, Hydroxycitronellal, Alpha-Isomethyl Ionone, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Potassium Benzoate, Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxide Red (CI 77491)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Intense edición limitada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402370797"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Ethylhexyl Palmitate, Cyclopentasiloxane, Fragrance (Parfum), Cocos Nucifera (Coconut) Fruit Juice, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Oleoyl Tyrosine, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Bixa Orellana (Annatto) Seed Extract, Acetyl Hexapeptide-1, Hydrolyzed Roe (Caviar), Hydrolyzed Caviar Extract (Sturgeon Caviar), Caffeine, Centella Asiatica (Gotu Kola) Extract, Fucus Vesiculosus Extract, Hydrolyzed Actin, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Carbomer, Sodium Hydroxide, Disodium EDTA, Oleic Acid, Dextran, Citric Acid, Tocopherol, Hexyl Cinnamal, Linalool, Limonene, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema bronceadora facial para solárium JWOWW Face Intensifier",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402410325"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cetyl Alcohol, Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) Seed Oil, PEG-100 Stearate, Glyceryl Stearate, C12-15 Alkyl Benzoate, Fragrance (Parfum), Urea, Butyrospermum Parkii (Shea) Butter, Carbomer, Sodium Hydroxide, Disodium EDTA, Caffeine, Cannabis Sativa (Hemp) Seed Oil, Beeswax, Cannabis Sativa (Hemp) Seed Extract, Rubus Idaeus (Raspberry) Fruit Extract, Linalool, Citral, Benzyl Benzoate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Magnetize",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411742",
+      "0054402411827"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Propylene Glycol, Cetyl Alcohol, Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Fragrance (Parfum), Dihydroxyacetone, Caramel, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hamamelis Virginiana (Witch Hazel) Water, Isohexadecane, Glyceryl Dilaurate, Cannabis Sativa (Hemp) Seed Oil, Caprylyl Methicone, Xanthan Gum, Alcohol, Polysorbate 60, Water, Glycerin, Althea Officinalis (Marshmallow) Root Extract, Sodium Benzoate, Potassium Sorbate, Citric Acid, Disodium EDTA, Erythrulose, Sorbitan Isostearate, Citric Acid, Hydrolyzed Collagen, Chlorella Vulgaris Extract, Hydrolyzed Algin, Magnesium Sulfate, Bixa Orellana (Annatto) Seed Extract, Juglans Nigra (Black Walnut) Shell Extract, Eclipta Prostrata Extract, Maris Sal, Dextran, Acetyl Hexapeptide-1, Manganese Sulfate, Palmitoyl Tripeptide-37, Hexylene Glycol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Making Waves",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402310724"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cetyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, PEG-100 Stearate, Glyceryl Stearate, Dimethicone, Aluminum Starch Octenylsuccinate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Carbomer, Xanthan Gum, Eucalyptus Globulus Leaf Water, Sodium Hydroxide, Disodium EDTA, Butyrospermum Parkii (Shea Butter), Tocopheryl Acetate, Ascorbic Acid, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Fucus Vesiculosus Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citric Acid, Dihydroxyacetone, Benzyl Benzoate, Fragrance (Parfum), Coumarin, Limonene, Cinnamal, Citral, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Chlorphenesin, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Nothing But Bronze Charcoal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390498",
+      "0054402410615",
+      "0054402410622"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), Dihydroxyacetone, Caramel, Musa Sapientum (Banana) Fruit Extract, Oleoyl Tyrosine, Anigozanthos Flavidus Extract, Eremophila Longifolia Leaf Extract, Charcoal Extract, Theobroma Cacao (Cocoa) Seed Butter, Centella Asiatica (Gotu Kola) Extract, Nelumbo Nucifera (Lotus) Flower Water, Melaleuca Alternifolia (Tea Tree) Leaf Oil, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Dimethicone, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Oleic Acid, Citric Acid, Tocopherol, Benzyl Benzoate, Limonene, Linalool, Coumarin, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Oasis Heat",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412831",
+      "0054402412848"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Fragrance (Parfum), Aluminum Starch Octenylsuccinate, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Hamamelis Virginiana (Witch Hazel) Water, Benzyl Nicotinate, Dimethicone, Carbomer, Xanthan Gum, Sodium Hydroxide, Alcohol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Gluconolactone, Bixa Orellana (Annatto) Seed Extract, Melaleuca Glomerata (Desert Honey-Myrtle) Extract, Citric Acid, Limonene, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Caramel, Ext. Violet 2 (CI 60730)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Ocean Views",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411773",
+      "0054402411858"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Dimethicone, Theobroma Cacao (Cocoa) Seed Butter, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Eucalyptus Globulus Leaf Water, Sea Water, Chondrus Crispus (Carrageen) Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Porphyra Umbilicalis (Red Algae) Extract, Oleoyl Tyrosine, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Oleic Acid, Citric Acid, Benzyl Salicylate, Linalool, Hexyl Cinnamal, Benzyl Benzoate, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Chlorphenesin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Peptide Pro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411780",
+      "0054402411803"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Propylene Glycol, Cocos Nucifera (Coconut) Oil, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Panthenol, Dimethicone, Carbomer, Sodium Hydroxide, Disodium EDTA, Tocopheryl Acetate, Butyrospermum Parkii (Shea) Butter, Cannabis Sativa (Hemp) Seed Oil, Olea Europaea (Olive) Fruit Oil, Ascorbic Acid, Retinyl Palmitate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Juice, Oleoyl Tyrosine, Hydrolyzed Collagen, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Oleic Acid, Dextran, Acetyl Hexapeptide-1, Tocopherol, Sodium Hyaluronate, Palmitoyl Tripeptide-37, Hexylene Glycol, Fragrance (Parfum), Limonene, Linalool, Citronellol, Geraniol, Phenoxyethanol, Ethylhexylglycerin, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Crema bronceadora facial para solárium Peptide Pro Hybrid",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412176",
+      "0054402411704"
+     ],
+     "inci": "Water\\Aqua\\Eau, Dimethicone, Glycerin, Ammonium Polyacryloyldimethyl Taurate, Dimethicone Crosspolymer, Polysorbate 20, Hydroxyethylcellulose, Disodium EDTA, Hydrolyzed Collagen, Disodium Phosphate, Potassium Caproyl Tyrosine, Sodium Phosphate, Camellia Sinensis (Green Tea) Leaf Extract, Dextran, Acetyl Hexapeptide-1, Citric Acid, Palmitoyl Tripeptide-37, Hexylene Glycol, Fragrance (Parfum), Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caprylyl Glycol"
+    },
+    {
+     "nombre": "Loción intensificadora del bronceado Rapid Tanning, sin SPF",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402700976"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, C12-15 Alkyl Benzoate, Glyceryl Dilaurate, Dimethicone, Carbomer, Xanthan Gum, Panthenol, Tocopheryl Acetate, Sodium Hydroxide, Disodium EDTA, Olea Europaea (Olive) Fruit Oil, Aloe Barbadensis Leaf Juice, Tocopherol, Limonene, Fragrance (Parfum), Coumarin, Linalool, Benzyl Alcohol, Citral, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Rooftop Nights",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411766",
+      "0054402411841"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cocos Nucifera (Coconut) Oil, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), Glyceryl Dilaurate, Hamamelis Virginiana (Witch Hazel) Water, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Dimethicone, Dihydroxyacetone, Xanthan Gum, Alcohol, Polysorbate 60, Disodium EDTA, Caffeine, Tocopheryl Acetate, Sorbitan Isostearate, Betaine, Citric Acid, Melanin, Prunus Cerasus (Bitter Cherry) Flower Extract, Acacia Senegal Flower/Stem Extract, Rubus Idaeus (Raspberry) Fruit Extract, Limonene, Benzyl Salicylate, Linalool, Citronellol, Geraniol, Benzyl Cinnamate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel, Ext. Violet 2 (CI 60730)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Rugged G Gentlemen",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402340424"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Propylene Glycol, Ethylhexyl Palmitate, Cyclopentasiloxane, Dimethicone, Cetyl Alcohol, Phenoxyethanol, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Caramel, Niacinamide, Carbomer, Dimethicone Crosspolymer, Sodium Hydroxide, Disodium EDTA, Caffeine, Ethylhexylglycerin, Cocos Nucifera (Coconut) Fruit Juice, Hexyl Cinnamal, Linalool, Limonene, Coumarin, Centella Asiatica (Gotu Kola) Extract, Bixa Orellana (Annatto) Seed Extract, Juglans Nigra (Black Walnut) Shell Extract, Potassium Sorbate, Sodium Benzoate, Citric Acid, Hydroxycitronellal, Citral, Tocopherol, Dihydroxyacetone, Geraniol"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Sandy Beaches",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411339",
+      "0054402411865"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Cetyl Alcohol, Limonene, Musa Sapientum (Banana) Fruit Extract, Oleoyl Tyrosine, Ascorbic Acid, Citrus Aurantium Dulcis (Orange) Peel Extract, Eucalyptus Globulus Leaf Water, PEG-100 Stearate, Glyceryl Stearate, Dimethicone, Aluminum Starch Octenylsuccinate, Panthenol, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Tocopheryl Acetate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Luffa Cylindrica (Egyptian Cucumber) Seed Oil, Oleic Acid, Citric Acid, Linalool, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Signature Accelerator",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414415"
+     ],
+     "inci": "Water (Aqua/Eau), Aloe Barbadensis Leaf Juice Powder, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Propylene Glycol, Dimethicone, Cetyl Alcohol, Isopropyl Lanolate, Panthenol, PPG-20 Methyl Glucose Ether, Ethylhexylglycerin, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Acetylated Lanolin Alcohol, Disodium EDTA, Olea Europaea (Olive) Fruit Oil, Saccharomyces Ferment, Sodium Hydroxide, Tocopheryl Acetate, Retinyl Palmitate, Vanillin, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Pinene, Centella Asiatica (Gotu Kola) Extract, Citric Acid, Tocopherol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citrus Aurantium Bergamia Peel Oil, Limonene, Fragrance (Parfum), Coumarin, Benzyl Alcohol, Citral, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Yellow 6 (CI 15985)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Sinfully Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402270301",
+      "0054402410578",
+      "0054402410585"
+     ],
+     "inci": "Water\\Aqua\\Eau, Helianthus Annuus (Sunflower) Seed Oil, Propylene Glycol, Glycerin, Dimethicone, Fragrance (Parfum), Cetyl Alcohol, Melanin, Juglans Nigra (Black Walnut) Shell Extract, Caramel, Ribes Nigrum (Black Currant) Seed Oil, Aleurites Moluccana (Kukui) Seed Oil, Theobroma Cacao (Cocoa) Extract, Cannabis Sativa (Hemp) Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Aurantium Dulcis (Orange) Peel Extract, Myrciaria Dubia (Camu Camu) Fruit Extract, Olea Europaea (Olive) Fruit Oil, Camellia Sinensis (Green Tea) Leaf Extract, Betula Alba (White Birch) Bark/Leaf Extract, Tocopheryl Acetate, PEG-100 Stearate, Glyceryl Stearate, Methyl Gluceth-20, Diisostearyl Dimer Dilinoleate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, Phosphoric Acid, Erythrulose, Citric Acid, Limonene, Linalool, Benzyl Benzoate, Benzyl Alcohol, Diazolidinyl Urea, Methylparaben, Propylparaben, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Yellow 5 (CI 19140), Red 40 (CI 16035), Green 5 (CI 61570)"
+    },
+    {
+     "nombre": "Crema bronceadora facial para solárium Smooth Faces",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402270929",
+      "0054402370117"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cetyl Ethylhexanoate, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, Aloe Barbadensis Leaf Juice, Caffeine, Tyrosine, Butyrospermum Parkii (Shea Butter), Tocopheryl Acetate, Ascorbic Acid, Dimethicone, PEG-100 Stearate, Glyceryl Stearate, Dipropylene Glycol, Propylene Glycol, Carbomer, Sodium Hydroxide, Disodium EDTA, Citric Acid, Ethylene Brassylate, Diazolidinyl Urea, Methylparaben, Propylparaben, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Gel bronceador Solar Dust",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412367"
+     ],
+     "inci": "Water\\Aqua\\Eau, Aloe Barbadensis Leaf Juice, Polysorbate 20, Propylene Glycol, Carbomer, Panthenol, Glycerin, Sodium Hydroxide, Calcium Titanium Borosilicate, Sodium PCA, Disodium EDTA, Allantoin, Tocopheryl Acetate, Tilia Cordata (Linden) Flower Extract, Citric Acid, Citrus Limon (Lemon) Peel Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Symphytum Officinale (Comfrey) Leaf Extract, Limonene, Fragrance (Parfum), Coumarin, Benzyl Alcohol, Citral, Linalool, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Titanium Dioxide (CI 77891), Red 40 (CI 16035), Yellow 6 (CI 15985), Tin Oxide (CI 77861), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Tropical Retreat con DHA",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412206",
+      "0054402414798",
+      "0054402414835"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Ethylhexyl Palmitate, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Caramel, Dihydroxyacetone, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Fragrance (Parfum), Glyceryl Dilaurate, Butyrospermum Parkii (Shea) Butter, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Dimethicone, Xanthan Gum, Linalyl Acetate, Polysorbate 60, Disodium EDTA, Lavandula Oil/Extract, Sorbitan Isostearate, Hexamethylindanopyran, Juniperus Virginiana Oil, Citric Acid, Erythrulose, Tetramethyl Acetyloctahydronaphthalenes, Rosmarinus Officinalis (Rosemary) Leaf Extract, Helianthus Annuus (Sunflower) Seed Oil, Benzaldehyde, Vanillin, Camphor, Lentinus Edodes (Shiitake) Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Linalool, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Cinnamal, Eugenol, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Ext. Violet 2 (CI 60730), Red 4 (CI 14700)"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Tropical Retreat Intensifier",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402412220",
+      "0054402412251"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cocos Nucifera (Coconut) Oil, Aloe Barbadensis Leaf Juice, Cetyl Alcohol, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Dimethicone, Carbomer, Sodium Hydroxide, Disodium EDTA, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Oil, Ascorbic Acid, Citric Acid, Coleus Forskohlii Root Extract, Pisum Sativum (Pea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Soy Amino Acids, Persea Gratissima (Avocado) Fruit Extract, Brassica Oleracea Italica (Broccoli) Extract, Folic Acid, Carum Petroselinum (Parsley) Extract, Rice Amino Acids, Eruca Sativa (Arugula) Leaf Extract, Rosa Centifolia Flower Water, Echinacea Purpurea (Purple Coneflower) Extract, Cichorium Intybus (Chicory) Root Extract, Rosa Canina Fruit Extract, Myrciaria Dubia (Camu Camu) Fruit Extract, Maris Sal, Tocopherol, Benzyl Benzoate, Benzyl Salicylate, Hydroxycitronellal, Linalool, Limonene, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Vibrantly Bronze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402414231",
+      "0054402414675"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Glycerin, Aloe Barbadensis Leaf Juice Powder, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Dimethicone, Carbomer, Xanthan Gum, Sodium Hydroxide, Disodium EDTA, Cannabis Sativa (Hemp) Seed Oil, Panthenol, Butyrospermum Parkii (Shea) Butter, Hexamethylindanopyran, Geranyl Acetate, Tocopheryl Acetate, Ascorbic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Melanin, Hydrolyzed Algin, Rose Ketones, Magnesium Sulfate, Trimethylcyclopentenyl Methylisopentenol, Musa Sapientum (Banana) Fruit Extract, Manganese Sulfate, Citric Acid, Benzaldehyde, Benzyl Benzoate, Hydroxycitronellal, Hexyl Cinnamal, Linalool, Coumarin, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Wicked Lovely",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402390566"
+     ],
+     "inci": "Water\\Aqua\\Eau, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cocos Nucifera (Coconut) Oil, Aluminum Starch Octenylsuccinate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Fragrance (Parfum), Hydrolyzed Algin, Caramel, Bixa Orellana (Annatto) Seed Extract, Dextran, Acetyl Hexapeptide-1, Myrica Rubra (Yumberry) Fruit Extract, Lycium Barbarum (Goji) Fruit Extract, Coffea Arabica (Coffee) Seed Extract, Polysilicone-15, Dimethicone, Cannabis Sativa (Hemp) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citric Acid, Retinyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Glyceryl Dilaurate, Carbomer, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, Magnesium Sulfate, Manganese Sulfate, Tocopherol, Hexyl Cinnamal, Limonene, Coumarin, Amyl Cinnamal, Linalool, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate"
+    },
+    {
+     "nombre": "Crema bronceadora para solárium Wild Obsession",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0054402411902",
+      "0054402411834"
+     ],
+     "inci": "Water\\Aqua\\Eau, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Aluminum Starch Octenylsuccinate, Fragrance (Parfum), PEG-100 Stearate, Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetyl Alcohol, Theobroma Cacao (Cocoa) Seed Butter, Isohexadecane, Dimethicone, Dihydroxyacetone, Xanthan Gum, Polysorbate 60, Disodium EDTA, Sorbitan Isostearate, Citric Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Melaleuca Glomerata (Desert Honey-Myrtle) Extract, Centella Asiatica (Gotu Kola) Extract, Bixa Orellana (Annatto) Seed Extract, Limonene, Linalool, Hexyl Cinnamal, Citral, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Caramel"
+    }
+   ]
+  },
+  {
+   "key": "hawaiiantropic",
+   "nombre": "Hawaiian Tropic",
+   "productos": [
+    {
+     "nombre": "Aceite solar en spray Glowing Protection SPF 20 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821001230"
+     ],
+     "inci": "Paraffinum Liquidum, Ethylhexyl Palmitate, Octocrylene, Butyloctyl Salicylate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Silica, Parfum, Cocos Nucifera Oil, Polybutene, Theobroma Cacao Seed Butter, Glycine Soja Oil, Arginine, Histidine, Phenyl Trimethicone, Tartaric Acid, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Daucus Carota Sativa Root Extract, Glyceryl Oleate, Psidium Guajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract"
+    },
+    {
+     "nombre": "Aceite solar en spray Glowing Protection SPF 30 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821109219"
+     ],
+     "inci": "Alcohol Denat, Dicaprylyl Carbonate, Octocrylene, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Butyl Methoxydibenzoylmethane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isoamyl p-Methoxycinnamate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tocopheryl Acetate, Parfum, Caprylic/Capric Triglyceride, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract"
+    },
+    {
+     "nombre": "Manteca corporal aftersun Enriching 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821002718"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Ethylhexyl Stearate, Helianthus Annuus Hybrid Oil, Butyrospermum Parkii Butter, Glycerin, Octyldodecanol, Sodium Cetearyl Sulfate, Glyceryl Stearate, Phenoxyethanol, Hydrogenated Castor Oil, Sodium Benzoate, Parfum, Xanthan Gum, Citric Acid, Tocopheryl Acetate, Disodium Phosphate, Cocos Nucifera Oil, Persea Gratissima Oil, Sodium Sulfate, Benzyl Alcohol, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, CI 47005"
+    },
+    {
+     "nombre": "Loción solar facial Hydrating Protection SPF 30 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821001919"
+     ],
+     "inci": "Aqua, Octocrylene, Diisopropyl Adipate, Butyloctyl Salicylate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Cetearyl Alcohol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Isohexadecane, Diethylhexyl Butamido Triazone, Caprylyl Glycol, Benzyl Alcohol, Chlorphenesin, Parfum, Dicetyl Phosphate, Ceteth-10 Phosphate, Polysorbate 60, Coco-Glucoside, Theobroma Cacao Seed Butter, Butyrospermum Parkii Butter, Xanthan Gum, Disodium EDTA, Aminomethyl Propanol, Mica, Linalool, Tocopheryl Acetate, CI 77891, Limonene, Psidium Guajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract, Sodium Ascorbyl Phosphate, CI 77492"
+    },
+    {
+     "nombre": "Loción solar Hydrating Protection SPF 15 180 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821001407"
+     ],
+     "inci": "Aqua, Diisopropyl Adipate, Octocrylene, Ethylhexyl Salicylate, Butyloctyl Salicylate, Butyl Methoxydibenzoylmethane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Cetearyl Alcohol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Isohexadecane, Caprylyl Glycol, Benzyl Alcohol, Chlorphenesin, Parfum, Dicetyl Phosphate, Ceteth-10 Phosphate, Polysorbate 60, Xanthan Gum, Disodium EDTA, Coco-Glucoside, Butyrospermum Parkii Butter, Theobroma Cacao Seed Butter, Aminomethyl Propanol, Mica, Linalool, Tocopheryl Acetate, CI 77891, Limonene, Psidium Guajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract, Sodium Ascorbyl Phosphate, CI 77492"
+    },
+    {
+     "nombre": "Gel aftersun Soothing con aloe vera 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821002213"
+     ],
+     "inci": "Aqua, Alcohol Denat., Polysorbate 20, Glycerin, Triethanolamine, Phenoxyethanol, Carbomer, Caprylyl Glycol, Parfum, Sorbic Acid, Aloe Barbadensis Leaf Juice, Benzophenone-4, Limonene, Linalool, CI 19140, CI 42090"
+    },
+    {
+     "nombre": "Aceite solar en spray Glowing Protection SPF 15 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821009991"
+     ],
+     "inci": "Ethylhexyl Palmitate, Paraffinum Liquidum, Isopropyl Myristate, Silica, Octocrylene, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Parfum, Cocos Nucifera Oil, Polybutene, Theobroma Cacao Seed Butter, Glycine Soja Oil, Arginine, Histidine, Phenyl Trimethicone, Tartaric Acid, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Daucus Carota Sativa Root Extract, Glyceryl Oleate, Psidium Guajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract, CI 26100, CI 47000"
+    },
+    {
+     "nombre": "Loción solar Hydrating Protection SPF 30 180 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821137144"
+     ],
+     "inci": "Aqua, Octocrylene, Butyloctyl Salicylate, Diisopropyl Adipate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Cetearyl Alcohol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Phenoxyethanol, Isohexadecane, Caprylyl Glycol, Diethylhexyl Butamido Triazone, Benzyl Alcohol, Chlorphenesin, Parfum, Ceteth-10 Phosphate, Dicetyl Phosphate, Polysorbate 60, Butyrospermum Parkii Butter, Coco-Glucoside, Disodium EDTA, Theobroma Cacao Seed Butter, Xanthan Gum, Aminomethyl Propanol, Mica, Methyl Salicylate, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Tocopheryl Acetate, Titanium Dioxide, Benzaldehyde, Limonene, Geranyl Acetate, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, Amyl Salicylate, Sodium Ascorbyl Phosphate, CI 77492"
+    },
+    {
+     "nombre": "Loción solar Glowing Protection SPF 30 180 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5099821001834"
+     ],
+     "inci": "Aqua, Octocrylene, Glycerin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Alcohol Denat., Dibutyl Adipate, VP/Eicosene Copolymer, Phenylbenzimidazole Sulfonic Acid, Cetearyl Alcohol, Phenoxyethanol, Glyceryl Stearate, Tocopheryl Acetate, Sodium Stearoyl Glutamate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Parfum, Sodium Hydroxide, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter, Sodium Ascorbyl Phosphate, Disodium EDTA, Hexyl Cinnamal, Linalool, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract"
+    }
+   ]
+  },
+  {
+   "key": "ladival",
+   "nombre": "Ladival",
+   "productos": [
+    {
+     "nombre": "Spray solar transparente Aktiv SPF 50+ (deporte)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000615"
+     ],
+     "inci": "Alcohol Denat., C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Ethylhexyl Salicylate, Triethyl Citrate, Acrylates/Octylacrylamide Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-13 Alkyl Lactate, Dicaprylyl Ether, Diethylhexyl Butamido Triazone, Ethylhexyl Triazone, Tocopheryl Acetate, Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate, Ethylene Brassylate, Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate, Tocopherol, Helianthus Annuus Seed Oil, Benzoic Acid"
+    },
+    {
+     "nombre": "Barra de protección labial Aktiv SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000639"
+     ],
+     "inci": "Cera Alba, Cocoglycerides, Ricinus Communis Seed Oil, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Simmondsia Chinensis Seed Oil, Dibutyl Adipate, Caprylic/Capric Triglyceride, Hydrogenated Rapeseed Oil, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Isopropyl Lauroyl Sarcosinate, Hydrogenated Vegetable Oil, Stearyl Behenate, Zinc Oxide, Polyhydroxystearic Acid, Lecithin, Tocopherol, Glyceryl Stearate, Ascorbyl Palmitate, Isostearic Acid, Glyceryl Oleate, Citric Acid"
+    },
+    {
+     "nombre": "Fluido aftersun Akut para piel castigada por el sol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000646"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycine, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Sodium Hydroxide, Disodium EDTA, Plankton Extract, Propanediol, Lecithin"
+    },
+    {
+     "nombre": "Spray aftersun Akut para piel castigada por el sol",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000653"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycine, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Disodium EDTA, Plankton Extract, Propanediol, Sodium Hydroxide, Lecithin"
+    },
+    {
+     "nombre": "Sérum facial aftersun Akut",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000752"
+     ],
+     "inci": "Aqua, Alcohol Denat., Panthenol, Glycine, Plankton Extract, Lecithin, Tocopherol, Sucrose, Sodium Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA"
+    },
+    {
+     "nombre": "Gel solar corporal Piel alérgica SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000431"
+     ],
+     "inci": "Aqua, Alcohol Denat., Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Perlite, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Caprylyl Glycol, Sodium Hydroxide, Galactoarabinan, CI 77891, Carnosine, Disodium EDTA, Ethylhexylglycerin, Bisabolol, Cellulose Gum, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Gel solar corporal Piel alérgica SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000448"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, C12-15 Alkyl Benzoate, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Diethylhexyl Butamido Triazone, Triacontanyl PVP, Tocopheryl Acetate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Caprylyl Glycol, Perlite, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Sodium Hydroxide, Sodium Gluconate, Galactoarabinan, CI 77891, Alcohol, Carnosine, Bisabolol, Caprylhydroxamic Acid, Cellulose Gum, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Spray solar Piel alérgica SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000455"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Phenylbenzimidazole Sulfonic Acid, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Tocopheryl Acetate, Caprylyl Glycol, Perlite, Silica, Microcrystalline Cellulose, Vitis Vinifera (Grape) Seed Extract, Sodium Hydroxide, Acrylates Copolymer, Disodium EDTA, Galactoarabinan, CI 77891, Alcohol, Cellulose Gum, Carnosine, Caprylhydroxamic Acid, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Spray solar Piel alérgica SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000462"
+     ],
+     "inci": "Aqua, Alcohol Denat., C12-15 Alkyl Benzoate, Glycerin, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Ethylhexyl Salicylate, Dicaprylyl Ether, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Triacontanyl PVP, VP/Hexadecene Copolymer, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Perlite, Silica, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Caprylyl Glycol, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Galactoarabinan, CI 77891, Carnosine, Disodium EDTA, Ethylhexylglycerin, Bisabolol, Cellulose Gum, Mica, Xanthan Gum, Tin Oxide, Tocopherol, Citric Acid, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Gel solar facial Piel alérgica SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000578"
+     ],
+     "inci": "Aqua, Alcohol Denat., Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Perlite, Silica, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Caprylyl Glycol, Sodium Hydroxide, Galactoarabinan, CI 77891, Carnosine, Disodium EDTA, Ethylhexylglycerin, Plankton Extract, Propanediol, Bisabolol, Cellulose Gum, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Lecithin, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Gel solar facial Piel alérgica SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000585"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, C12-15 Alkyl Benzoate, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Diethylhexyl Butamido Triazone, Triacontanyl PVP, Tocopheryl Acetate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Acrylates Copolymer, Caprylyl Glycol, Perlite, Silica, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Sodium Hydroxide, Sodium Gluconate, Galactoarabinan, CI 77891, Alcohol, Carnosine, Plankton Extract, Propanediol, Bisabolol, Caprylhydroxamic Acid, Cellulose Gum, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Lecithin, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Gel aftersun Piel alérgica",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000479"
+     ],
+     "inci": "Aqua, Alcohol Denat., Glycerin, Caprylic/Capric Triglyceride, Panthenol, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Allantoin, Ethylhexylglycerin, Sodium Hydroxide, Bisabolol, Citric Acid"
+    },
+    {
+     "nombre": "Loción solar corporal Piel sensible y normal SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000363"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Hydroxyacetophenone, Oryza Sativa Bran Cera, Perlite, Squalane, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, CI 77891, Alcohol, Bisabolol, Carnosine, Disodium EDTA, Galactoarabinan, Cellulose Gum, Xanthan Gum, Mica, Sodium Hyaluronate, Caprylhydroxamic Acid, Tin Oxide, Citric Acid, Tetrahexyldecyl Ascorbate, Tocopherol, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Loción solar corporal Piel sensible y normal SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000370"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Dibutyl Adipate, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Dicaprylyl Ether, Hydrogenated Palm Glycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Behenyl Alcohol, Hydroxyacetophenone, Perlite, Vitis Vinifera (Grape) Seed Extract, Potassium Hydroxide, Caprylyl Glycol, Succinoglycan, Xanthan Gum, Decylene Glycol, CI 77891, Alcohol, Carnosine, Disodium EDTA, Bisabolol, Mica, Caprylhydroxamic Acid, Sodium Hyaluronate, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Citric Acid, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Loción solar facial Piel sensible y normal SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000554"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Hydroxyacetophenone, Oryza Sativa Bran Cera, Perlite, Silica, Squalane, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, CI 77891, Alcohol, Bisabolol, Carnosine, Disodium EDTA, Plankton Extract, Propanediol, Galactoarabinan, Cellulose Gum, Xanthan Gum, Mica, Sodium Hyaluronate, Caprylhydroxamic Acid, Lecithin, Tin Oxide, Citric Acid, Tetrahexyldecyl Ascorbate, Tocopherol, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Loción solar facial Piel sensible y normal SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000561"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Dibutyl Adipate, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Dicaprylyl Ether, Hydrogenated Palm Glycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Behenyl Alcohol, Hydroxyacetophenone, Perlite, Silica, Vitis Vinifera (Grape) Seed Extract, Potassium Hydroxide, Caprylyl Glycol, Succinoglycan, Xanthan Gum, Decylene Glycol, CI 77891, Alcohol, Carnosine, Disodium EDTA, Plankton Extract, Propanediol, Bisabolol, Mica, Caprylhydroxamic Acid, Sodium Hyaluronate, Lecithin, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Citric Acid, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Loción aftersun Piel sensible y normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000424"
+     ],
+     "inci": "Aqua, Ethylhexyl Stearate, Glycerin, Panthenol, Hydrogenated Vegetable Glycerides, Tocopheryl Acetate, Coco-Caprylate, Cetearyl Alcohol, Sucrose Distearate, Xanthan Gum, Hydroxyacetophenone, Caprylyl Glycol, Sodium Stearoyl Glutamate, Acacia Senegal Gum, Allantoin, Cetyl Palmitate, Citric Acid, Bisabolol, Sodium Chloride, Sodium Hydroxide, Tocopherol"
+    },
+    {
+     "nombre": "Crema solar facial Antiedad SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227001391"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, C12-15 Alkyl Benzoate, Tributyl Citrate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oryza Sativa Bran Cera, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Disodium Phosphate, Squalane, Potassium Cetyl Phosphate, Caprylyl Glycol, Hydrogenated Palm Glycerides, Perlite, Helianthus Annuus Seed Cera, Potassium Hydroxide, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Vigna Aconitifolia Seed Extract, Ethylhexylglycerin, Potassium Phosphate, Galactoarabinan, Succinoglycan, Alcohol, Maltodextrin, Carnosine, Sodium Gluconate, Cellulose Gum, Xanthan Gum, Mica, Caprylhydroxamic Acid, Sodium Hyaluronate, Ascorbyl Palmitate, Tin Oxide, Tocopherol, Citric Acid, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil, CI 77891"
+    },
+    {
+     "nombre": "Crema solar facial Antioxidante SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000523"
+     ],
+     "inci": "Aqua, Glycerin, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Sodium Ascorbyl Phosphate, Phenylbenzimidazole Sulfonic Acid, Hydroxyacetophenone, Oryza Sativa Bran Cera, Perlite, Silica, Squalane, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, CI 77891, Alcohol, Carnosine, Disodium EDTA, Galactoarabinan, Cellulose Gum, Xanthan Gum, Mica, Caprylhydroxamic Acid, Tin Oxide, Citric Acid, Tetrahexyldecyl Ascorbate, Tocopherol, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Crema solar facial Antioxidante SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000530"
+     ],
+     "inci": "Aqua, C12-15 Alkyl Benzoate, Glycerin, Dibutyl Adipate, Ethylhexyl Salicylate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Dicaprylyl Ether, Hydrogenated Palm Glycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Behenyl Alcohol, Copernicia Cerifera Cera, Sodium Ascorbyl Phosphate, Hydroxyacetophenone, Perlite, Silica, Vitis Vinifera (Grape) Seed Extract, Potassium Hydroxide, Caprylyl Glycol, Succinoglycan, Xanthan Gum, Decylene Glycol, CI 77891, Alcohol, Carnosine, Disodium EDTA, Mica, Caprylhydroxamic Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Citric Acid, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Crema solar facial Antimanchas SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000547"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, C12-15 Alkyl Benzoate, Tributyl Citrate, Ethylhexyl Triazone, Niacinamide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oryza Sativa Bran Cera, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Disodium Phosphate, Squalane, Potassium Cetyl Phosphate, Caprylyl Glycol, Hydrogenated Palm Glycerides, Perlite, Silica, Helianthus Annuus Seed Cera, Vitis Vinifera (Grape) Seed Extract, Potassium Hydroxide, Microcrystalline Cellulose, Dipropylene Glycol, Glyceryl Caprylate, Chondrus Crispus Powder, Ethylhexylglycerin, Potassium Phosphate, Galactoarabinan, CI 77891, Alcohol, Caprylhydroxamic Acid, Carnosine, Sodium Gluconate, Cellulose Gum, Xanthan Gum, Mica, Ascorbyl Palmitate, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Citric Acid, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Crema solar facial Antimanchas con color SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227001452"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, C12-15 Alkyl Benzoate, Tributyl Citrate, Ethylhexyl Triazone, Niacinamide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oryza Sativa Bran Cera, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Disodium Phosphate, Squalane, Potassium Cetyl Phosphate, Caprylyl Glycol, Hydrogenated Palm Glycerides, Perlite, Silica, Helianthus Annuus Seed Cera, Potassium Hydroxide, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Dipropylene Glycol, Glyceryl Caprylate, Chondrus Crispus Powder, Ethylhexylglycerin, Potassium Phosphate, Galactoarabinan, Alcohol, Caprylhydroxamic Acid, Carnosine, Sodium Gluconate, Cellulose Gum, Xanthan Gum, Mica, Ascorbyl Palmitate, Tin Oxide, Tocopherol, Citric Acid, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil, CI 77891, CI 77492, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Gel solar facial con color Piel enrojecida SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227001407"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, C12-15 Alkyl Benzoate, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenylbenzimidazole Sulfonic Acid, Propanediol, Tocopheryl Acetate, Silica, Triacontanyl PVP, VP/Hexadecene Copolymer, Propylheptyl Caprylate, Ethylhexylglycerin, Acrylates Copolymer, Perlite, Microcrystalline Cellulose, Vitis Vinifera (Grape) Seed Extract, Sodium Hydroxide, Disodium EDTA, Galactoarabinan, Alcohol, Cellulose Gum, Carnosine, Mica, Caprylhydroxamic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Helichrysum Angustifolium Flower Extract, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Sodium Chloride, Sodium Sulfate, CI 77891, CI 77492, CI 77491, CI 77499, CI 42090, CI 47005"
+    },
+    {
+     "nombre": "Gel solar facial con color SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227001438"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Titanium Dioxide (nano), C12-15 Alkyl Benzoate, Coco-Caprylate, Dibutyl Adipate, Ethylhexyl Triazone, Tapioca Starch, Tocopheryl Acetate, Triacontanyl PVP, Silica, Phenylbenzimidazole Sulfonic Acid, VP/Hexadecene Copolymer, Caprylyl Glycol, Perlite, Vitis Vinifera (Grape) Seed Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Decylene Glycol, Dimethicone, Xanthan Gum, Alcohol, Bisabolol, Carnosine, Caprylhydroxamic Acid, Mica, Disodium EDTA, Sodium Hyaluronate, Tin Oxide, Tocopherol, Citric Acid, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, CI 77891, CI 77492, CI 77491, CI 77499"
+    },
+    {
+     "nombre": "Crema solar facial Reparación de la barrera cutánea SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227001414"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, C12-15 Alkyl Benzoate, Tributyl Citrate, Ethylhexyl Triazone, Inulin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oryza Sativa Bran Cera, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Disodium Phosphate, Oryza Sativa Starch, Squalane, Potassium Cetyl Phosphate, Caprylyl Glycol, Hydrogenated Palm Glycerides, Perlite, Helianthus Annuus Seed Cera, Vitis Vinifera (Grape) Seed Extract, Potassium Hydroxide, Microcrystalline Cellulose, Ethylhexylglycerin, Potassium Phosphate, Galactoarabinan, Succinoglycan, Alcohol, Carnosine, Sodium Gluconate, Cellulose Gum, Xanthan Gum, Mica, Caprylhydroxamic Acid, Pentylene Glycol, Phospholipids, Ascorbyl Palmitate, Tin Oxide, Sphingolipids, Tocopherol, Citric Acid, Sodium Citrate, Tetrahexyldecyl Ascorbate, p-Anisic Acid, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil, CI 77891"
+    },
+    {
+     "nombre": "Crema solar Niños cara y cuerpo SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000486"
+     ],
+     "inci": "Aqua, Glycerin, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Panthenol, Hydroxyacetophenone, Oryza Sativa Bran Cera, Perlite, Squalane, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, CI 77891, Alcohol, Carnosine, Disodium EDTA, Galactoarabinan, Cellulose Gum, Xanthan Gum, Mica, Caprylhydroxamic Acid, Citric Acid, Tin Oxide, Tetrahexyldecyl Ascorbate, Tocopherol, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Leche solar Niños SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000509"
+     ],
+     "inci": "Aqua, Glycerin, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Diglyceryl Polyacyladipate-2, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Copernicia Cerifera Cera, Hydrogenated Palm Glycerides, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Panthenol, Hydroxyacetophenone, Oryza Sativa Bran Cera, Perlite, Squalane, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Succinoglycan, CI 77891, Alcohol, Carnosine, Disodium EDTA, Galactoarabinan, Cellulose Gum, Xanthan Gum, Mica, Caprylhydroxamic Acid, Citric Acid, Tin Oxide, Tetrahexyldecyl Ascorbate, Tocopherol, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Spray solar Niños SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000516"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Propylheptyl Caprylate, Potassium Cetyl Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Oryza Sativa Bran Cera, Disodium Phosphate, Tocopheryl Acetate, Capryloyl Glycerin/Sebacic Acid Copolymer, Phenylbenzimidazole Sulfonic Acid, Hydrogenated Palm Glycerides, Panthenol, Hydroxyacetophenone, Perlite, Helianthus Annuus Seed Cera, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Potassium Hydroxide, Caprylyl Glycol, Decylene Glycol, Potassium Phosphate, CI 77891, Alcohol, Carnosine, Disodium EDTA, Xanthan Gum, Galactoarabinan, Cellulose Gum, Mica, Caprylhydroxamic Acid, Citric Acid, Ascorbyl Palmitate, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
+    },
+    {
+     "nombre": "Loción solar corporal Piel seca SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000387"
+     ],
+     "inci": "Aqua, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Titanium Dioxide (nano), C12-15 Alkyl Benzoate, Coco-Caprylate, Dibutyl Adipate, Ethylhexyl Triazone, Tapioca Starch, Tocopheryl Acetate, Triacontanyl PVP, Silica, Phenylbenzimidazole Sulfonic Acid, VP/Hexadecene Copolymer, Caprylyl Glycol, Perlite, Vitis Vinifera (Grape) Seed Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Decylene Glycol, Dimethicone, CI 77891, Xanthan Gum, Alcohol, Carnosine, Bisabolol, Caprylhydroxamic Acid, Mica, Disodium EDTA, Sodium Hyaluronate, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Loción solar corporal Piel seca SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000394"
+     ],
+     "inci": "Aqua, Glycerin, Ethylhexyl Salicylate, Titanium Dioxide (nano), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Coco-Caprylate, Tapioca Starch, Tocopheryl Acetate, Phenylbenzimidazole Sulfonic Acid, Triacontanyl PVP, Silica, Caprylyl Glycol, Diethylhexyl Butamido Triazone, Perlite, VP/Hexadecene Copolymer, Vitis Vinifera (Grape) Seed Extract, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Decylene Glycol, Dimethicone, CI 77891, Xanthan Gum, Alcohol, Carnosine, Bisabolol, Caprylhydroxamic Acid, Mica, Disodium EDTA, Sodium Hyaluronate, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Spray solar corporal Piel seca SPF 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000400"
+     ],
+     "inci": "Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Salicylate, Diethylhexyl Butamido Triazone, Phenylbenzimidazole Sulfonic Acid, Propylheptyl Caprylate, VP/Hexadecene Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl PVP, Tocopheryl Acetate, Caprylyl Glycol, Perlite, Microcrystalline Cellulose, Vitis Vinifera (Grape) Seed Extract, Sodium Hydroxide, Acrylates Copolymer, Disodium EDTA, Galactoarabinan, CI 77891, Alcohol, Cellulose Gum, Carnosine, Bisabolol, Caprylhydroxamic Acid, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hyaluronate, Citric Acid, Tin Oxide, Tocopherol, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone"
+    },
+    {
+     "nombre": "Spray solar corporal Piel seca SPF 30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4067227000417"
+     ],
+     "inci": "Aqua, Alcohol Denat., C12-15 Alkyl Benzoate, Glycerin, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Ethylhexyl Salicylate, Dicaprylyl Ether, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Triacontanyl PVP, VP/Hexadecene Copolymer, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Perlite, Vitis Vinifera (Grape) Seed Extract, Microcrystalline Cellulose, Caprylyl Glycol, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Galactoarabinan, CI 77891, Carnosine, Disodium EDTA, Ethylhexylglycerin, Bisabolol, Cellulose Gum, Mica, Sodium Hyaluronate, Xanthan Gum, Tin Oxide, Tocopherol, Citric Acid, Tetrahexyldecyl Ascorbate, Diisopropyl Adipate, Ubiquinone, Helianthus Annuus Seed Oil"
     }
    ]
   }

@@ -1230,6 +1230,28 @@ varias piezas con una lista por pieza: entran con las listas juntas, como NYX, C
   Chocolate Soleil): se quita la palabra. **Propuesta de regla (no aplicada)**: que "multiusos" no cuente como Hogar si el nombre dice
   labios, mejillas, ojos, stick, lápiz o bálsamo.
 
+**Bloque 4 · Solar — cerrado 2026-10-21 (versión 2026-10-21-b4): 3 marcas nuevas, 139 productos, 193 códigos; 2 sin fuente.**
+Regresión sobre las 14.876 fichas que ya había: **0 cambios**. 11 de los 139 sin ningún aviso (todos de Ladival). Sin falsos positivos ni
+negativos nuevos del detector (octisalato, octocrileno, aceite de árbol del té en Australian Gold, retinyl palmitate: reales).
+- **Piz Buin**: 0. pizbuin.com (y /es) da "Access Denied" de Akamai en la portada; Kenvue no tiene portal público de ingredientes.
+- **Ecran**: 0. La web oficial somosecran.com (AC Marca) no publica la lista de ningún producto (solo marketing y foto frontal); tampoco
+  siamoecran.it ni acmarca.com.
+- **Ladival** — 32 productos, 32 códigos; 11 sin avisos. ladival.es ya no existe (redirige a stada.es, sin fichas): **gama alemana**,
+  INCI de ladival.de (Stada); ladival.de solo da el PZN y el EAN sale de Shop Apotheke por ese PZN (campo "PZN / EAN" y gtin13). La gama
+  española antigua (descatalogada) no recibe las listas alemanas. **Para Mariana**: códigos alemanes 4067227… (como los "envase alemán"
+  de Lavera). Fuera el dúo Aktiv Creme & Stift, el gel de niños piel alérgica (la web le pone la lista de la crema) y el aftersun niños.
+- **Hawaiian Tropic** — 9 productos, 9 códigos; 0 sin avisos. **hawaiiantropic.es publica todas las listas sin los dos primeros
+  ingredientes** (comprobado en 7 contra la web oficial de Edgewell para Europa, hawaiian-tropic.co.uk). Entran con la lista completa de
+  la web de Edgewell y el EAN de la española (5 cotejadas desde el tercer ingrediente, 3 sin poder cotejar —pestaña vacía o lista de
+  otro producto en la española—, 1 de la web alemana). Fuera 2 que se reconstruían juntando dos textos, la Glowing Protection 2026 (sin
+  lista completa en ninguna web) y la bruma Hydrating SPF 30 (reformulada). No se usó la web de EE. UU.
+- **Australian Gold** — 98 productos, 152 códigos (UPC 054402… con el 0 delante: la marca solo usa esos); 0 sin avisos. INCI de
+  australiangold.it (la única web europea de la marca con ingredientes; australiangold.es no existe). Códigos de la propia web y de
+  australiangoldshop.nl por nombre y tamaño, solo con lista igual a la oficial. La web repite códigos de relleno en varios productos: solo
+  se dejan en el suyo. **Fuera 3 con lista antigua o de EE. UU.** (Lilial en Charmingly Bronze y Dark Legs; "Avobenzone" en el aceite SPF 6),
+  1 con la lista incompleta (Nothing But Bronze Coconut), 5 solares principales con la lista copiada de otro producto (SPF 30, spray gel
+  SPF 50 y lociones con bronceador SPF 15/30/50), y las marcas del mismo distribuidor (Designer Skin, Swedish Beauty, California Tan).
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
