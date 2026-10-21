@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21b",
+ "version": "2026-10-21c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -2824,6 +2824,36 @@
        "amazon": "https://www.amazon.es/dp/B0DSLCT63K"
       },
       {
+       "nombre": "Crema solar facial Antiedad SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227001391",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema solar facial Antimanchas con color SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227001452",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema solar facial Antimanchas SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227000547",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Crema solar facial Reparación de la barrera cutánea SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227001414",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Gel solar facial con color Piel enrojecida SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227001407",
+       "fechaLista": "21-10-2026"
+      },
+      {
        "nombre": "Fluido facial anti-UV SPF 50 Glow by Nature",
        "marca": "Lavera",
        "barcode": "4021457664207",
@@ -3533,6 +3563,36 @@
        "marca": "Kiko Milano",
        "barcode": "8059385059105",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Fluido aftersun Akut para piel castigada por el sol",
+       "marca": "Ladival",
+       "barcode": "4067227000646",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Gel aftersun Piel alérgica",
+       "marca": "Ladival",
+       "barcode": "4067227000479",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Loción aftersun Piel sensible y normal",
+       "marca": "Ladival",
+       "barcode": "4067227000424",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Spray aftersun Akut para piel castigada por el sol",
+       "marca": "Ladival",
+       "barcode": "4067227000653",
+       "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Sérum facial aftersun Akut",
+       "marca": "Ladival",
+       "barcode": "4067227000752",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Aceite corporal iluminador Glow tono Floral Glow 01",
@@ -6201,6 +6261,12 @@
        "subtipo": "balsamo",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B00O15LSGK"
+      },
+      {
+       "nombre": "Barra de protección labial Aktiv SPF 50+",
+       "marca": "Ladival",
+       "barcode": "4067227000639",
+       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Aceite labial en gel con péptidos Peachy",

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b3",
+ "version": "2026-10-21-b4",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25411,6 +25411,105 @@
     "0651986023783",
     "0651986023806",
     "0651986028528"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Barra de protección labial Aktiv SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000639"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Fluido aftersun Akut para piel castigada por el sol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000646"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Spray aftersun Akut para piel castigada por el sol",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000653"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Sérum facial aftersun Akut",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000752"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Gel aftersun Piel alérgica",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000479"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Loción aftersun Piel sensible y normal",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000424"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Crema solar facial Antiedad SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227001391"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Crema solar facial Antimanchas SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227000547"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Crema solar facial Antimanchas con color SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227001452"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Gel solar facial con color Piel enrojecida SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227001407"
+   ]
+  },
+  {
+   "marcaKey": "ladival",
+   "marca": "Ladival",
+   "nombre": "Crema solar facial Reparación de la barrera cutánea SPF 50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4067227001414"
    ]
   }
  ]
