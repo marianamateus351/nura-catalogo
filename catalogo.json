@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b9",
+ "version": "2026-10-21-b10",
  "marcas": [
   {
    "key": "larocheposay",
@@ -158238,6 +158238,285 @@
       "5060638592280"
      ],
      "inci": "Water/Aqua/Eau, Cocamidopropyl Betaine, Lauric Acid, Disodium Cocoamphodiacetate, Decyl Glucoside, Fragrance/Parfum, Phenoxyethanol, Potassium Hydroxide, PEG-120 Methyl Glucose Dioleate, Chlorphenesin, Coco-glucoside, Glyceryl Oleate, Polysorbate 20, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Tetramethyl Acetyloctahydronaphthalenes, Limonene, Linalool, Linalyl Acetate, Hexyl Cinnamal, Pinene, Pogostemon Cablin Oil, Lavandula Oil/Extract"
+    }
+   ]
+  },
+  {
+   "key": "drbeckmann",
+   "nombre": "Dr. Beckmann",
+   "productos": [
+    {
+     "nombre": "Descalcificador antical intensivo para electrodomésticos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455485416"
+     ],
+     "inci": "Aqua, Sulphamidic acid, [[(2-hydroxyethyl)imino]bis(methylene)]bisphosponic acid sodium salt, Disodium Methyl Phosphate, Sodium N-(2-carboxyethyl)-N-(2-ethylhexyl)-β-alaninate, Disodium Hydrogenorthophosphate, Sodium Chloride, Methyl-1H-benzotriazol"
+    },
+    {
+     "nombre": "Limpiador de alfombras con cepillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455655017"
+     ],
+     "inci": "Aqua, Sodium Ethylhexyl Sulfate, Trideceth-3, Hydrogen Peroxide, Parfum, Diethylenetriamine Pentamethylene Phosphonic Acid, Phosphoric Acid, Sodium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de cocina para frigoríficos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455362014"
+     ],
+     "inci": "Aqua, Alcohol, Caprylyl/Capryl Glucoside, MEK, Parfum, Sodium Carbonate, Citric Acid, Colorante"
+    },
+    {
+     "nombre": "Limpiador de hornos y barbacoas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455455518"
+     ],
+     "inci": "Aqua, Lithium Sodium Magnesium Silicate, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Bicarbonate, Parfum, Xanthan Gum"
+    },
+    {
+     "nombre": "Limpia lavadoras Complete Care Ocean Breeze",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455306513"
+     ],
+     "inci": "Aqua, Citric Acid, C9-11 Pareth-X, Glycerin, Parfum, Sodium Hydroxide, Ethanol 2 2' 2''-nitrilotris & Methansulfonic acid compound, Sodium N-(2-carboxyethyl)-N-(2-ethylhexyl)-β-alaninate, Polycarboxylate-Polysacharid-Hybridpolymer, Hydroxypropyltrimoniuminulin, Colorante"
+    },
+    {
+     "nombre": "Limpia vitrocerámica y acero inoxidable",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455498812"
+     ],
+     "inci": "Aqua, Triethanolamine, PPG-2 Methyl Ether, Hexan-1-ol ethoxylated, Caprylyl/Capryl Glucoside, Tetrasodium Iminodisuccinate, Parfum, Methyldihydrogenphosphat, Potassium Rapeseedate, Glycerin"
+    },
+    {
+     "nombre": "Limpiador intensivo de vitrocerámica y acero inoxidable",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455498614"
+     ],
+     "inci": "Aqua, Prunus Armeniaca Seed Powder, Alumina, C9-11 Pareth-40, Lactic Acid, Xanthan Gum, Parfum, Sodium Benzoate, Poly [3-((2-aminoethyl) amino) propyl] methyl (dimethyl) siloxan hydroxy terminiert, Hexyl Cinnamal, Phenoxyethanol"
+    },
+    {
+     "nombre": "Quitamanchas Power Brush con jabón de hiel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002323"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Sodium Laureth Sulfate, Sodium Chloride, Potassium Rapeseedate, Phenoxyethanol, Alcohol, Cocamidopropyl Betaine, Glycerin, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Polyacrylate, Bile extract, MEK, Sodium Pyrithione, Potassium Sorbate"
+    },
+    {
+     "nombre": "Quitamanchas de tapicería con cepillo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455598017"
+     ],
+     "inci": "Aqua, Sodium Ethylhexyl Sulfate, Trideceth-3, Hydrogen Peroxide, Parfum, Diethylenetriamine Pentamethylene Phosphonic Acid, Phosphoric Acid, Sodium Benzoate"
+    },
+    {
+     "nombre": "Quitamanchas para lavadora",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455567211"
+     ],
+     "inci": "Sodium Carbonate, Sodium Sulfate, Sodium Carbonate Peroxide, Sodium Sesquicarbonate, Sodium Bicarbonate, TAED, PEG-300, Sodium C14-17 Alkyl Sec Sulfonate, Colorante"
+    },
+    {
+     "nombre": "Quitamanchas en spray para manchas de desodorante y sudor",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455597911"
+     ],
+     "inci": "Aqua, Citric Acid, Sodium Citrate, Caprylyl/Capryl Glucoside, Alcohol, Phosphoric Acid, Zinc Ricinoleate, MEK"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Fruta y bebidas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002446"
+     ],
+     "inci": "Sodium Chloride, Sodium Carbonate Peroxide, TAED, Disodium disilicate, PEG-300"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Grasas y salsas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002453"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Propylene Glycol, Alcohol, Sodium Ethylhexyl Sulfate, Sodium Laureth Sulfate, Sodium Citrate, Triethanolamine, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Polyacrylate, MEK, Lipase, Potassium Sorbate"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Lápices y tintas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002408"
+     ],
+     "inci": "Propylene Glycol, Aqua, Trideceth-5, Tetrahydroxypropyl Ethylenediamine, MIPA-Dodecylbenzenesulfonate, Deceth-X, Diethylhexyl Sodium Sulfosuccinate, Tetrasodium Iminodisuccinate, Alcohols C8-18 ethoxylated propoxylated, Pareth-X, PPG-2 Methyl Ether"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Lubricantes y aceites",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455328317"
+     ],
+     "inci": "Hydrocarbons C10-C13 n-Alkane iso-Alkane cyclic < 2 % aromatics, Hydrocarbons C10-C13 iso-Alkanes cyclic < 2 % aromatics, Alcohol, Hydrocarbons C7-C9 n-Alkane Isoalkane Cyclene, Trideceth-3, Trideceth-8, Aqua, Methoxyisopropanol, C12-14 Pareth-X, Poly(oxy-1 2-ethanediyl) alpha.-isotridecyl-.omega.-hydroxy-, Alcohols C16-18 and C18 unsatd. ethoxylated, MEK"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Naturaleza y cosmética",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455004860"
+     ],
+     "inci": "Aqua, C13-15 Pareth-7, Propylene Glycol, Alcohol, Sodium Laureth Sulfate, Triethanolamine, Sodium Citrate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Polyacrylate, Protease, MEK, Potassium Sorbate"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Oficina y bricolaje",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002439"
+     ],
+     "inci": "Alcohol, Dimethyl Adipate, Dimethyl Glutarate, Dimethyl Succinate, C12-14 Pareth-X, MEK, Poly(oxy-1 2-ethanediyl) alpha.-isotridecyl-.omega.-hydroxy-, Alcohols C16-18 and C18 unsatd. ethoxylated, Aqua"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Óxido y desodorante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002484"
+     ],
+     "inci": "Aqua, Citric Acid, Oxalic Acid, Sodium Gluceptate, Sodium Ethylhexyl Sulfate"
+    },
+    {
+     "nombre": "Quitamanchas Stain Devils Sangre y proteínas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455002361"
+     ],
+     "inci": "Aqua, Alcohol C10-12 ethoxylated propoxylated, Propylene Glycol, Triethanolamine, MIPA-Dodecylbenzenesulfonate, Deceth-X, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Polyacrylate, Protease, Diethylhexyl Sodium Sulfosuccinate, Phenoxyethanol, C12-14 Pareth-X, Alcohols C8-18 ethoxylated propoxylated, Sodium Pyrithione, PPG-2 Methyl Ether, Potassium Sorbate"
+    },
+    {
+     "nombre": "Blanqueador Súper Blanco para la ropa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455567617"
+     ],
+     "inci": "Sodium Sulfate, Cellulose Gum, Disodium Distyrylbiphenyl Disulfonate, Aqua, Parfum, Paraffinum Liquidum, Sodium Carbonate, Limonene, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Tiras de detergente Color Flores frescas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455584614"
+     ],
+     "inci": "Sodium Lauryl Sulfate, Polyvinyl Alcohol, Sodium C14-16 Olefin Sulfonate, Aqua, Alcohols C13-15 branched and linear ethoxylated, Glycerin, Parfum, Sodium Citrate, Citric Acid, Colorante, PVP, Papain, Benzisothiazolinone, Octylisothiazolinone, Linalool, Citronellol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Tiras de detergente Universal Fresco intenso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4008455584515"
+     ],
+     "inci": "Sodium Lauryl Sulfate, Polyvinyl Alcohol, Sodium C14-16 Olefin Sulfonate, Aqua, Alcohols C13-15 branched and linear ethoxylated, Glycerin, Parfum, Sodium Citrate, Citric Acid, Colorante, Coumarin, Hexyl Cinnamal, Benzyl Salicylate"
+    }
+   ]
+  },
+  {
+   "key": "elena",
+   "nombre": "Elena",
+   "productos": [
+    {
+     "nombre": "Detergente en polvo Limpieza Total Blancos y Colores",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8410104914516",
+      "8410104914523"
+     ],
+     "inci": "Sodium Sulfate, Sodium Carbonate, Sodium Chloride, Zeolite, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Carbonate Peroxide, Sodium Silicate, Alcohols C10-18 ethoxylated, Sodium Palmate, Cellulose Gum, Aqua, Parfum, Sodium Hydroxide, Disodium 4 4'-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2'-disulphonate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Dimethicone, Amyl Cinnamal, Siloxanes and Silicones di-Me reaction products with silica, Colorant, BHT, Sodium Bicarbonate"
+    }
+   ]
+  },
+  {
+   "key": "viakal",
+   "nombre": "Viakal",
+   "productos": [
+    {
+     "nombre": "Antical Clásico líquido (eliminador de la cal)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5413149912212"
+     ],
+     "inci": "Aqua, Formic Acid, Deceth-n, Citric Acid, Sodium Lauryl Sulfate, Sodium Xylenesulfonate, Xanthan Gum, Parfum, Monosodium Citrate, Sodium Formate, Hexyl Cinnamal, Benzyl Salicylate, Limonene, Citrus Aurantium Dulcis Oil, Acetylcedrene, Alcohols C10-16, Sodium Sulfate, Sodium Citrate, Citrate"
+    }
+   ]
+  },
+  {
+   "key": "zotal",
+   "nombre": "Zotal",
+   "productos": [
+    {
+     "nombre": "Quitagrasas Pro-Clean aroma limón (pistola, recambio y garrafa)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413204025373",
+      "8413204025380",
+      "8413204025397"
+     ],
+     "inci": "Aqua, Sodium Oleate, Sodium Hydroxide, Isopropyl Alcohol, Myristamine Oxide, Sodium Cumenesulfonate, Potassium Cumenesulfonate, Polycarboxylate, Glycereth-17 Cocoate, Parfum, Dipropylene Glycol, Sodium Linoleate, Sodium Palmitate, Tetrasodium Iminodisuccinate, D-Limonene"
+    },
+    {
+     "nombre": "Limpiador de baños Limpieza y Brillo aroma pino",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413204002015"
+     ],
+     "inci": "Aqua, D-Glucopyranose Oligomers Decyl Octyl Glycosides, Glycolic Acid, Formic Acid, Alkoxylated Alcohol, Parfum, Polycarboxylate"
+    },
+    {
+     "nombre": "Eliminador de olores Neutralizador",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413204003029"
+     ],
+     "inci": "Aqua, N-Ethyl-N-Soya Morpholinium Ethosulfate, Alkoxylated Alcohol, Parfum, Benzyl Salicylate, Limonene, Citronellol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Roll-on calma picaduras Parasital",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8413204810276"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Helianthus Annuus Seed Oil, Menthol, Ammonia, Acrylates/Vinyl Isodecanoate Crosspolymer, Aloe Barbadensis Leaf Extract, Rosmarinus Officinalis Leaf Extract"
     }
    ]
   }

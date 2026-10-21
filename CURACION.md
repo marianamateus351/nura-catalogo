@@ -1393,6 +1393,40 @@ esenciales y no se propone reconocerla como perfume natural declarado (sigue sal
   Martelli); floid.es/.net sirven un certificado de otro dominio (no se desactiva TLS). **Fuera 9** cuyo código la tienda (VanityStock) vende
   con otra lista, en el desodorante con triclosán (posible fórmula anterior), como en Noreva. Fuera la gama antigua de Vijuber.
 
+**Bloque 10 · Hogar — cerrado 2026-10-21 (versión 2026-10-21-b10): 4 marcas nuevas, 28 productos, 31 códigos; 11 sin fuente.** Regresión
+sobre las 16.564 fichas que ya había: **0 cambios**. Listas de la ficha del Reglamento 648/2004 de cada fabricante (nunca los rangos de
+la etiqueta); códigos por nombre exacto del envase, con la foto trasera cotejada cuando la había.
+- **SC Johnson, 0 (Mr. Músculo, Pato, Pronto, Glade, Raid, Baygon, Autan)**: whatsinsidescjohnson.com, scjohnson.com/es-es, raid.es y
+  baygon.es siguen detrás del "Vercel Security Checkpoint" (comprobado con una petición, igual que el 2026-10-03 y el 2026-10-12);
+  autan.es no conecta.
+- **Febreze, 0**: info-pg.com da 6 listas completas (descargadas), pero ningún código español atable (Consum, Mercadona y Dia no la
+  venden; en OPF solo envases de otros países). Se atarán si aparece un código español con foto del envase.
+- **Perlan, 0**: portal 648/2004 de Henkel (mysds.henkel.com), 4 fichas. El único código (Consum, Renueva Lana y Delicados
+  8410020380891) tiene la foto trasera de 2024 con metilisotiazolinona y fosfonatos, que la ficha vigente de 2025 ya no lleva: fuera por
+  el criterio de la auditoría de Hogar. **Para Mariana**: con Fairy se aceptó la ficha vigente sobre etiquetas viejas con MIT; si se
+  acepta aquí, la lista está preparada.
+- **Norit, 0**: es de AC Marca (como Sanytol). norit.es no publica la ficha y **el portal 648/2004 de AC Marca cambió**: ahora pide
+  cuenta (reachgallery.servireach.com) y la consulta pública da vacío también para Sanytol (antes 175 fichas). Con una cuenta se
+  desbloquean Norit y Sanytol.
+- **Zum, 0**: no es una marca de detergentes, sino la gama de insecticidas, raticidas y repelentes de Quimiopen (Arganda del Rey); sus
+  fichas solo dan la sustancia activa y "excipientes c.s.p.". La ficha 648/2004 del fregasuelos Come Malos Olores habría que pedirla.
+- **Dr. Beckmann** — 22 productos, 22 códigos. Portal oficial de fichas 648/2004 (dr-beckmann.com/ingredients, PDF por país; la versión
+  más reciente por lote); 4 con la ficha de otro país del mismo portal, cotejada con la etiqueta española. Códigos leídos en la foto
+  oficial de la trasera del envase español de cada ficha.
+- **Zotal** — 4 productos, 6 códigos: quitagrasas, limpiador de baños, eliminador de olores (zotalhogar.com) y el roll-on Parasital
+  (cosmético, ficha de 2023 de zotal.com). Ningún desinfectante, insecticida ni rodenticida: solo publican la activa y "excipientes".
+  Códigos del campo EAN/GTIN de tiendas por nombre y tamaño; fuera el del eliminador de 75 ml (solo en la dirección de una tienda).
+- **Elena** — 1 producto, 2 códigos: detergente en polvo Limpieza Total Blancos y Colores. Hoy es de Vestacy (venta de Reckitt Essential
+  Home, 2025); fichas en rbeuroinfo.com (Salesforce Apex; los parámetros ahora van en `paramsJson`). Códigos leídos en la foto trasera
+  (Alcampo, Marvimundo, Anta y Jesús), etiqueta cotejada con la ficha. Fuera 5 fichas sin código atable.
+- **Viakal** — 1 producto, 1 código: Antical Clásico líquido 500 ml (info-pg.com; código de Consum, etiqueta cotejada). Fuera el spray
+  Clásico (la foto del envase, de 2020, no coincide con la ficha vigente).
+- **Nombres**: "Limpia hornos", "Limpia frigoríficos", "Limpia alfombras", "Descalcificador", "Súper Blanco", "Spray antimanchas de
+  desodorante", "Limpiabaños" y "Eliminaolores" hacían que el detector tomara el producto por Cuidado personal (la categoría sale del
+  nombre). Renombrados con las palabras de Hogar ("Limpiador de hornos…", "Quitamanchas en spray…", "Eliminador de olores…"). **Propuesta
+  de regla (no aplicada)**: añadir "limpia (frigoríficos|hornos|alfombras|baños)", "limpiabaños", "eliminaolores" y "descalcificador" a
+  las palabras de Hogar del detector; en el catálogo actual no hay ningún otro caso.
+
 Pendiente también de la cola anterior: Parodontax Original (pasta de dientes) con lista oficial de
 parodontax.es y sus códigos (2026-10-16).
 
