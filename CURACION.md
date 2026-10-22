@@ -5189,6 +5189,14 @@ limpio, tenga o no Amazon. La app enseña el botón "Ver en Amazon" solo cuando 
 - Regenerar cada vez que cambie `catalogo.json` o el detector. Anotar aquí debajo cuántos
   entran por tipo y qué marcas tienen tienda oficial en Amazon.es.
 
+### 2026-10-22 · Build 110 (0.2.54) publicado en la App Store: liberar `HASTA_BUILD`
+Mariana confirma el 2026-10-22 que Apple aprobó el build 110 y ya está en la App Store. Ese build lleva
+los dos arreglos del detector que retenían códigos en `HASTA_BUILD` (genera.py): la nota alemana de
+perfume natural (2026-10-12) y la ficha 193 con aceites esenciales declarados (2026-10-14). **Encargo:**
+vaciar `HASTA_BUILD` (Ben & Anna Cherry Blossom 4260491222954 y los 5 Ecodoo 3380380048180,
+3380380048128, 3380390900607, 3380390900614, 3380380050787), regenerar `alternativas.json` con la
+regresión de siempre y anotar aquí la versión. Las `alternativas.json` posteriores no necesitan nada más.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
