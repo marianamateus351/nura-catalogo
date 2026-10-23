@@ -5197,6 +5197,36 @@ vaciar `HASTA_BUILD` (Ben & Anna Cherry Blossom 4260491222954 y los 5 Ecodoo 338
 3380380048128, 3380390900607, 3380390900614, 3380380050787), regenerar `alternativas.json` con la
 regresión de siempre y anotar aquí la versión. Las `alternativas.json` posteriores no necesitan nada más.
 
+### 2026-10-23 · Enlaces de Amazon, tercera tanda (encargo de Mariana)
+Alternativas es gratis para todo el mundo desde el 2026-10-20, así que el enlace de afiliada es la vía de ingresos
+de la pestaña: Mariana pide **seguir enlazando**. Estado el 2026-10-23 (Alternativas 2026-10-21m, 2.541 productos):
+**464 con enlace**, 309 dudosos, 489 sin ficha, 270 en `amazon_pendientes.json` (maquillaje) y **1.009 que nunca se
+han buscado** (los que entraron con la quinta cola y las tandas de octubre: MAC 358, Lavera 121, Charlotte Tilbury 72,
+e.l.f. 54, Weleda 36, Rimmel 36, Dr. Hauschka 33, Sonett 26, Bourjois 25, Matarrania 22…).
+
+**Mismo método que las dos tandas anteriores** (decisiones del 07-10 y 12-10): solo el buscador restringido a amazon.es,
+nunca se abre Amazon; ficha concreta del producto (`amazon.es/dp/<ASIN>`, otro tamaño vale), sin packs, sin cajas de
+varias unidades, sin importación, y la ficha tiene que ser la de la tienda de marca ("Visita la tienda de…") vendida
+por la marca, Amazon o una farmacia o vendedor de confianza. Lo que no cumple, a dudosos; lo que no está, a sin ficha,
+para no repetirlo. Cupo de 200 búsquedas por turno: se va por turnos y cada turno publica una versión nueva de
+`alternativas.json` (la app la coge sola, sin build).
+
+**Orden, de más a menos ingreso probable:**
+1. **Lo que no es maquillaje y nunca se ha buscado (≈ 380)**: cuerpo (36), multiusos (30), limpiadores faciales (25),
+   protectores solares (24), cremas faciales (23), bálsamos (22), detergentes (22), máscaras (21), contornos (19),
+   aditivos de colada (18), sérums (16), lavavajillas (16), geles de ducha (15), capilar (13), champús, tónicos,
+   desodorantes, cremas de manos, básicos, limpiacristales, pastas de dientes… Hogar entero va aquí: son compras
+   repetidas y hoy tiene 5 enlaces en 113 productos.
+2. **Maquillaje, pero por LÍNEA, no por tono**: la app enseña un solo botón "Comprar" por línea (Ruby Woo ×20 tonos =
+   una fila), y la ficha de Amazon de un tono deja elegir los demás. Así que basta **un enlace por línea** (el tono
+   más vendido o el primero que salga), no 1.544 búsquedas: MAC, Charlotte Tilbury, e.l.f., Rimmel y Bourjois tienen
+   tienda en Amazon.es. Sacar las líneas de `lineas.json` / el campo `linea` de cada producto.
+3. **Repasar dudosos** solo si sobra cupo: desde la ampliación del punto 5 (07-10) vale una farmacia o un vendedor de
+   confianza, no solo la marca; las marcas blancas de súper vendidas por revendedores siguen fuera.
+
+Cada tanda: anotar aquí cuántos quedan y la versión, como en las anteriores. El campo `vendedor` sigue vacío (pendiente
+de Mariana): no se puede saber sin abrir Amazon.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
