@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23a",
+ "version": "2026-10-23b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -104,7 +104,8 @@
        "nombre": "Desodorante roll-on Salvia y Hierbabuena",
        "marca": "Dr. Hauschka",
        "barcode": "4020829025394",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B011QMDJIU"
       },
       {
        "nombre": "Desodorante roll-on Natural & Refresh",
@@ -122,7 +123,8 @@
        "nombre": "Desodorante en crema sin bicarbonato y sin aluminio",
        "marca": "Matarrania",
        "barcode": "0644216010974",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08CY9S7G4"
       },
       {
        "nombre": "Desodorante Natural Sin Perfume coco (Natural Deodorant coconut, no perfume) 40 ml",
@@ -154,19 +156,22 @@
        "nombre": "Desodorante spray Citrus",
        "marca": "Weleda",
        "barcode": "4001638097079",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B000S6O92G"
       },
       {
        "nombre": "Desodorante stick 24 h Eucalipto y Menta",
        "marca": "Weleda",
        "barcode": "3596200069031",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0C5B9BSK4"
       },
       {
        "nombre": "Desodorante stick 24 h Piel sensible",
        "marca": "Weleda",
        "barcode": "3596200069055",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0C59WNVJ6"
       }
      ]
     },
@@ -204,13 +209,15 @@
        "nombre": "Aceite desmaquillante Camellia Bloom",
        "marca": "Alma Secret",
        "barcode": "8436568714011",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DBJ1LKW2"
       },
       {
        "nombre": "Desmaquillante de ojos suave",
        "marca": "Alma Secret",
        "barcode": "8436568711201",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07CQ2KSGG"
       },
       {
        "nombre": "Jabón facial Rhassoul y arcilla verde",
@@ -474,13 +481,15 @@
        "nombre": "Crema limpiadora facial",
        "marca": "Dr. Hauschka",
        "barcode": "4020829005174",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00HORRPXM"
       },
       {
        "nombre": "Leche limpiadora facial",
        "marca": "Dr. Hauschka",
        "barcode": "4020829006058",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00JKOVDFS"
       },
       {
        "nombre": "Hydractive Solución Micelar 100 ml",
@@ -713,7 +722,8 @@
        "nombre": "Espuma limpiadora facial basis sensitive",
        "marca": "Lavera",
        "barcode": "4021457649914",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B57DWPG6"
       },
       {
        "nombre": "Espuma limpiadora facial Neutral",
@@ -737,13 +747,15 @@
        "nombre": "Agua micelar LetiSR ProbioClean H2O",
        "marca": "Leti",
        "barcode": "8431166260137",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01GRS3CLM"
       },
       {
        "nombre": "Loción limpiadora y desmaquillante",
        "marca": "Matarrania",
        "barcode": "0736211011619",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZIDE4"
       },
       {
        "nombre": "Aceite limpiador Lipid-Balance Cleansing Oil",
@@ -837,7 +849,8 @@
        "nombre": "Tratamiento desmaquillante para párpados sensibles Palpebral Relief ECZ",
        "marca": "Sensilis",
        "barcode": "8428749868606",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09FFHYZQX"
       },
       {
        "nombre": "Aceite limpiador Centella Light Cleansing Oil",
@@ -970,7 +983,8 @@
        "nombre": "Gel limpiador 2 en 1 rostro y barba For Men",
        "marca": "Weleda",
        "barcode": "4001638589567",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CTTPM6TR"
       },
       {
        "nombre": "Gel limpiador purificante",
@@ -982,7 +996,8 @@
        "nombre": "Leche limpiadora calmante Almendra",
        "marca": "Weleda",
        "barcode": "3596200080319",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B003CYUS26"
       }
      ]
     },
@@ -1231,7 +1246,8 @@
        "nombre": "Crema facial Planta de la Escarcha",
        "marca": "Dr. Hauschka",
        "barcode": "4020829080072",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08PPH3GFF"
       },
       {
        "nombre": "Dexyane MeD Crema reparadora calmante",
@@ -1412,7 +1428,8 @@
        "nombre": "Crema facial Neutral",
        "marca": "Lavera",
        "barcode": "4021457625093",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00106M1VO"
       },
       {
        "nombre": "Crema hidratante basis sensitive (fórmula sin alcohol)",
@@ -1424,13 +1441,15 @@
        "nombre": "Crema hidratante calmante basis sensitive",
        "marca": "Lavera",
        "barcode": "4021457649853",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B57DNVH8"
       },
       {
        "nombre": "Fluido facial Neutral",
        "marca": "Lavera",
        "barcode": "4021457625109",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07H3Z93S2"
       },
       {
        "nombre": "Crema reparadora Leti Skin2 Epitelis",
@@ -1442,19 +1461,22 @@
        "nombre": "Crema hidratante nutritiva hombre",
        "marca": "Matarrania",
        "barcode": "0736211010810",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZHWWI"
       },
       {
        "nombre": "Crema hidratante nutritiva piel seca",
        "marca": "Matarrania",
        "barcode": "0705105357850",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZI1KU"
       },
       {
        "nombre": "Crema hidratante nutritiva piel sensible",
        "marca": "Matarrania",
        "barcode": "0705105358154",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZI6TG"
       },
       {
        "nombre": "Crema de vitamina C C-Tetra Cream",
@@ -1747,7 +1769,8 @@
        "nombre": "Crema de día alisante Rosa mosqueta y Té blanco",
        "marca": "Weleda",
        "barcode": "4001638589727",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D9881W1F"
       },
       {
        "nombre": "Crema de día calmante Almendra",
@@ -1759,7 +1782,8 @@
        "nombre": "Crema de noche alisante Rosa mosqueta y Té blanco",
        "marca": "Weleda",
        "barcode": "4001638589772",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D9881B54"
       },
       {
        "nombre": "Crema facial Baby Derma Malva blanca",
@@ -2027,7 +2051,8 @@
        "nombre": "Sérum de noche",
        "marca": "Dr. Hauschka",
        "barcode": "4020829062641",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07GKYC9WF"
       },
       {
        "nombre": "Sérum de noche Regenerador Intensivo",
@@ -2239,13 +2264,15 @@
        "nombre": "Gel-sérum seborregulador Acnestil PB",
        "marca": "Rilastil",
        "barcode": "8055510240516",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09H7GHHH4"
       },
       {
        "nombre": "Sérum Hydrotenseur",
        "marca": "Rilastil",
        "barcode": "8055510240363",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09H7DTTQM"
       },
       {
        "nombre": "Concentrado reafirmante Xpert Collageneur Booster",
@@ -2532,7 +2559,8 @@
        "nombre": "Booster Drops perfeccionador",
        "marca": "Weleda",
        "barcode": "3596200056093",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FMS7KGQ1"
       }
      ]
     },
@@ -2953,7 +2981,8 @@
        "nombre": "Loción solar infantil Sensitive SPF 50",
        "marca": "Lavera",
        "barcode": "4021457661718",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0861J975Q"
       },
       {
        "nombre": "Crema antirrojeces mineral LetiSR SPF 30",
@@ -2965,13 +2994,15 @@
        "nombre": "Protector solar mineral facial SPF50",
        "marca": "Matarrania",
        "barcode": "0644216011773",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F2W8RK7V"
       },
       {
        "nombre": "Protector solar mineral fluido SPF30",
        "marca": "Matarrania",
        "barcode": "0644216011674",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F2WQQ266"
       },
       {
        "nombre": "Leche solar Cara muy alta protección SPF 50+ 40ml",
@@ -3100,37 +3131,43 @@
        "nombre": "Base compacta Sun System SPF50+ tono 01 Beige",
        "marca": "Rilastil",
        "barcode": "8050444859353",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B015RK60ZQ"
       },
       {
        "nombre": "Base compacta Sun System SPF50+ tono 02 Doré",
        "marca": "Rilastil",
        "barcode": "8050444859339",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07VL3TRRN"
       },
       {
        "nombre": "Base compacta Sun System SPF50+ tono 03 Bronze",
        "marca": "Rilastil",
        "barcode": "8050444859346",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B015XW937U"
       },
       {
        "nombre": "Stick solar transparente Sun System SPF50+",
        "marca": "Rilastil",
        "barcode": "8050444859315",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08XMRVJSD"
       },
       {
        "nombre": "Fotoprotector facial con filtros minerales Photocorrection Mineral SPF 30",
        "marca": "Sensilis",
        "barcode": "8428749007043",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F38G52B7"
       },
       {
        "nombre": "Protector solar en stick iluminador Stick To Glow SPF 50+",
        "marca": "Sensilis",
        "barcode": "8428749007050",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F38DVHZZ"
       },
       {
        "nombre": "Protector solar en stick para la nieve Stick To Snow SPF 50+",
@@ -3291,13 +3328,15 @@
        "nombre": "Gel de ducha y champú 2 en 1 basis sensitive",
        "marca": "Lavera",
        "barcode": "4021457648412",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09Q6Q8JP4"
       },
       {
        "nombre": "Gel de ducha y champú Neutral",
        "marca": "Lavera",
        "barcode": "4021457625338",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0029FRI1I"
       },
       {
        "nombre": "Gel y champú bebé y niño",
@@ -3347,7 +3386,8 @@
        "nombre": "Champú y gel de ducha 2 en 1 Caléndula Baby",
        "marca": "Weleda",
        "barcode": "4001638096515",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DZ2RL5FQ"
       }
      ]
     },
@@ -3476,7 +3516,8 @@
        "nombre": "Gel de ducha cremoso Granada",
        "marca": "Weleda",
        "barcode": "7611916164576",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DKXZ97TQ"
       },
       {
        "nombre": "Gel de ducha cremoso Lavanda",
@@ -3488,7 +3529,8 @@
        "nombre": "Gel de ducha Sport Árnica",
        "marca": "Weleda",
        "barcode": "7611916154317",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0165GFQTC"
       }
      ]
     },
@@ -3512,13 +3554,15 @@
        "nombre": "Pasta de dientes Sensible Salina",
        "marca": "Dr. Hauschka",
        "barcode": "4020829103559",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B003OCPIO4"
       },
       {
        "nombre": "Gel dental Neutral sin flúor",
        "marca": "Lavera",
        "barcode": "4021457652693",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B005U31JVQ"
       }
      ]
     },
@@ -3549,7 +3593,8 @@
        "nombre": "Crema vulvar pediátrica Letifem",
        "marca": "Leti",
        "barcode": "8431166150049",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00588VVKM"
       },
       {
        "nombre": "Crema íntima calmante",
@@ -3593,7 +3638,8 @@
        "nombre": "Acondicionador revitalizante Romero",
        "marca": "Weleda",
        "barcode": "4001638580779",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DJTG5LBK"
       }
      ]
     },
@@ -3612,13 +3658,15 @@
        "nombre": "Aceite corporal de almendras dulces y caléndula",
        "marca": "Alma Secret",
        "barcode": "8436568711447",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07CPW4CSJ"
       },
       {
        "nombre": "Aceite corporal Firming Yuzu para celulitis y estrías",
        "marca": "Alma Secret",
        "barcode": "8436568712246",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08V56M96D"
       },
       {
        "nombre": "Aceite corporal regenerador de rosa mosqueta mini 30 ml",
@@ -3808,25 +3856,29 @@
        "nombre": "Aceite corporal anticelulítico",
        "marca": "Matarrania",
        "barcode": "0736211011213",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B011VSOCBM"
       },
       {
        "nombre": "Aceite corporal antiestrías",
        "marca": "Matarrania",
        "barcode": "0736211011718",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZIE8O"
       },
       {
        "nombre": "Aceite corporal bebé y piel sensible",
        "marca": "Matarrania",
        "barcode": "0736211011510",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZINJY"
       },
       {
        "nombre": "Aceite corporal cítrico",
        "marca": "Matarrania",
        "barcode": "0736211011015",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZIIBM"
       },
       {
        "nombre": "Aceite antiestrías",
@@ -3910,19 +3962,22 @@
        "nombre": "Aceite corporal refrescante Citrus",
        "marca": "Weleda",
        "barcode": "4001638097048",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B000ORV2B0"
       },
       {
        "nombre": "Aceite de masaje Caléndula",
        "marca": "Weleda",
        "barcode": "4001638099295",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00LN09EJ4"
       },
       {
        "nombre": "Aceite de masaje Árnica",
        "marca": "Weleda",
        "barcode": "4001638099202",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B003Y39WJU"
       },
       {
        "nombre": "Loción hidratante Baby Derma Malva blanca",
@@ -8493,7 +8548,8 @@
        "nombre": "Contorno de ojos y labios My Age",
        "marca": "Lavera",
        "barcode": "4021457658251",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08G9C1BQ4"
       },
       {
        "nombre": "Parches de ojos Calm & Refresh",
@@ -8517,7 +8573,8 @@
        "nombre": "Contorno de ojos",
        "marca": "Matarrania",
        "barcode": "0705105357256",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZHJ7G"
       },
       {
        "nombre": "Contorno de ojos iluminador Detox",
@@ -8649,7 +8706,8 @@
        "nombre": "Contorno de ojos reafirmante Granada",
        "marca": "Weleda",
        "barcode": "4001638596244",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BXB9TFGM"
       }
      ]
     },
@@ -8854,7 +8912,8 @@
        "nombre": "Tónico facial Especial",
        "marca": "Dr. Hauschka",
        "barcode": "4020829005280",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01N75J045"
       },
       {
        "nombre": "Bruma facial Save Your e.l.f. hypochlorous Mist",
@@ -8938,7 +8997,8 @@
        "nombre": "Bruma antirrojeces activa LetiSR",
        "marca": "Leti",
        "barcode": "8431166260649",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D33W5PR1"
       },
       {
        "nombre": "Bruma facial Prep + Prime Essential Oils Grapefruit & Chamomile",
@@ -8962,7 +9022,8 @@
        "nombre": "Tónico suave de rosas",
        "marca": "Matarrania",
        "barcode": "0736211011411",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01673X226"
       },
       {
        "nombre": "Tónico 1025 Dokdo Toner",
@@ -9276,7 +9337,8 @@
        "nombre": "Mascarilla facial Purificante",
        "marca": "Dr. Hauschka",
        "barcode": "4020829004979",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00IO0GWDC"
       },
       {
        "nombre": "Mascarilla de noche GIM PDRN Deep Sleep Mask",
@@ -9327,7 +9389,8 @@
        "nombre": "Mascarilla facial Neutral",
        "marca": "Lavera",
        "barcode": "4021457625116",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07H416PK4"
       },
       {
        "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
@@ -9486,7 +9549,8 @@
        "nombre": "Bálsamo reparador multiusos y del pañal",
        "marca": "Alma Secret",
        "barcode": "8436568711454",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07CVGHJSP"
       },
       {
        "nombre": "Cicalfate+ Gel remodelante de cicatrices",
@@ -9748,7 +9812,8 @@
        "nombre": "Crema de pañal bebé y niño",
        "marca": "Lavera",
        "barcode": "4021457660414",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00HZJQTCM"
       },
       {
        "nombre": "Spray emoliente LetiAT4 Advanced Emollience",
@@ -9760,13 +9825,15 @@
        "nombre": "Bálsamo reparador de hipérico",
        "marca": "Matarrania",
        "barcode": "0705105357553",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZHE4Y"
       },
       {
        "nombre": "Crema de pañal Culito Sano",
        "marca": "Matarrania",
        "barcode": "0736211011312",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01673XFX2"
       },
       {
        "nombre": "Crema del pañal Naturel 3 en 1",
@@ -9849,7 +9916,8 @@
        "nombre": "Bálsamo hidratante Xerolact PB",
        "marca": "Rilastil",
        "barcode": "8050444858233",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08R1FQWKH"
       },
       {
        "nombre": "CICAVIT DM+ Cicatrices",
@@ -9960,7 +10028,8 @@
        "nombre": "Bálsamo multiusos Caléndula Baby",
        "marca": "Weleda",
        "barcode": "4001638530248",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BB7412ST"
       },
       {
        "nombre": "Bálsamo para pezones Mamá",
@@ -9972,7 +10041,8 @@
        "nombre": "Crema pañal Baby Derma Malva blanca",
        "marca": "Weleda",
        "barcode": "3596200055461",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FN48MP5Y"
       },
       {
        "nombre": "Crema pañal Caléndula Baby sin perfume",
@@ -10125,13 +10195,15 @@
        "nombre": "Crema reparadora de codos y talones",
        "marca": "Matarrania",
        "barcode": "0705105357355",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZHNGI"
       },
       {
        "nombre": "Crema reparadora de manos y uñas",
        "marca": "Matarrania",
        "barcode": "0705105357959",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00WJZHSM2"
       },
       {
        "nombre": "Fórmula Noruega Crema de Manos Concentrada Sin Perfume",
@@ -10159,7 +10231,8 @@
        "nombre": "Gel definidor de rizos Ocean Curl",
        "marca": "Alma Secret",
        "barcode": "8436568714318",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FLK3N14T"
       },
       {
        "nombre": "Curl Booster",
@@ -10245,13 +10318,15 @@
        "nombre": "Sérum capilar nutritivo",
        "marca": "Matarrania",
        "barcode": "0748252722027",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01673WVUU"
       },
       {
        "nombre": "Exfoliante limpiador purificante Soluciones Cuero Cabelludo",
        "marca": "Phyto",
        "barcode": "3701436913359",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DHCRCLF6"
       },
       {
        "nombre": "Tratamiento anticaída hombre Phytocyane (ampollas)",
@@ -10263,7 +10338,8 @@
        "nombre": "Tratamiento anticaída mujer caída progresiva Phytocyane (ampollas)",
        "marca": "Phyto",
        "barcode": "3701436910174",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BKH89WY1"
       },
       {
        "nombre": "Polvo texturizante Powder Grip 03",
@@ -10302,19 +10378,22 @@
        "nombre": "Aceite capilar nutritivo Romero",
        "marca": "Weleda",
        "barcode": "4001638093620",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00DCUVYWS"
       },
       {
        "nombre": "Bruma perfumada cuerpo y cabello Tropical Crush",
        "marca": "Weleda",
        "barcode": "3596200001567",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0GQZW2TS1"
       },
       {
        "nombre": "Loción capilar revitalizante Romero",
        "marca": "Weleda",
        "barcode": "4001638095716",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00ANYARFG"
       }
      ]
     },
@@ -18243,7 +18322,8 @@
        "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
        "marca": "Ecodoo",
        "barcode": "3380380065460",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00NONC4XQ"
       },
       {
        "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g",
@@ -18395,19 +18475,22 @@
        "nombre": "Lavavajillas manual Biobel (aceite esencial de limón)",
        "marca": "Biobel",
        "barcode": "8421427065021",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B077TK683K"
       },
       {
        "nombre": "Lavavajillas sólido Biobel",
        "marca": "Biobel",
        "barcode": "8421427040752",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DMWQ1Y2Q"
       },
       {
        "nombre": "Pastillas lavavajillas Biobel",
        "marca": "Biobel",
        "barcode": "8421427065328",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07DLDH7CM"
       },
       {
        "nombre": "Gel para lavavajillas (máquina) BIO",
@@ -18431,7 +18514,8 @@
        "nombre": "Lavavajillas a mano hipoalergénico sin perfume",
        "marca": "Ecodoo",
        "barcode": "3380380078798",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07ZQL26B4"
       },
       {
        "nombre": "Lavavajillas a mano Zero sin perfume",
@@ -18516,7 +18600,8 @@
        "nombre": "Limpiahogar multiusos Biobel (aceite esencial de citronela)",
        "marca": "Biobel",
        "barcode": "8421427069319",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00X7VSDA8"
       },
       {
        "nombre": "Limpiahogar multiusos Biobel 0% (sin perfume)",
@@ -18528,7 +18613,8 @@
        "nombre": "Vinagre de limpieza multiusos Biobel",
        "marca": "Biobel",
        "barcode": "8421427069418",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D49XZ98K"
       },
       {
        "nombre": "Limpiador multiusos Naranja BIO",
@@ -18558,7 +18644,8 @@
        "nombre": "Bicarbonato de sodio multiusos",
        "marca": "Ecodoo",
        "barcode": "3380380064852",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00DUYD2WG"
       },
       {
        "nombre": "Crema limpiadora multiusos",
@@ -18822,7 +18909,8 @@
        "nombre": "Jabón quitamanchas Biobel (jabón potásico, con sello Vital)",
        "marca": "Biobel",
        "barcode": "8421427064567",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00X7VTLRC"
       },
       {
        "nombre": "Percarbonato de sodio Biobel (blanqueador)",
@@ -18852,7 +18940,8 @@
        "nombre": "Quitamanchas Stain Devils Óxido y desodorante",
        "marca": "Dr. Beckmann",
        "barcode": "4008455002484",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00XAFK16K"
       },
       {
        "nombre": "Quitamanchas en spray para la ropa",
@@ -18984,13 +19073,15 @@
        "nombre": "Cristales de soda",
        "marca": "Ecodoo",
        "barcode": "3380380076671",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01DOC4NJ4"
       },
       {
        "nombre": "Ácido cítrico limpiador",
        "marca": "Ecodoo",
        "barcode": "3380380076619",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01DOC4L2I"
       },
       {
        "nombre": "Cristales de soda (recarga)",
@@ -19088,7 +19179,8 @@
        "nombre": "Limpiacristales Biobel (sin perfume)",
        "marca": "Biobel",
        "barcode": "8421427069012",
-       "fechaLista": "14-10-2026"
+       "fechaLista": "14-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00X7VSC7W"
       },
       {
        "nombre": "Limpiacristales",

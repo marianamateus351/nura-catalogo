@@ -5234,6 +5234,20 @@ para no repetirlo. Cupo de 200 búsquedas por turno: se va por turnos y cada tur
 Cada tanda: anotar aquí cuántos quedan y la versión, como en las anteriores. El campo `vendedor` sigue vacío (pendiente
 de Mariana): no se puede saber sin abrir Amazon.
 
+**Turno 1 (2026-10-23, alternativas 2026-10-23b): lo que no es maquillaje.** 359 productos que nunca se habían buscado (la cuenta
+real tras la quinta cola), en 4 lotes por marca, 200 búsquedas. **92 con enlace, 111 dudosos, 150 sin ficha, 6 sin buscar** (4 de
+Lavera y 2 de Dr. Hauschka/IFA Unnia: van en el turno siguiente). **Con enlace: de 464 a 556**; Hogar, de 5 a 18 (de 139).
+- Tienda de marca en Amazon.es (vista en el buscador: /stores/ o "Visita la tienda"): Weleda, Biobel, Alma Secret, Ecodoo, Lavera,
+  Dr. Beckmann, Sensilis; con página de tienda o vendedor (`srs`) de la marca: Dr. Hauschka, Matarrania, Leti, Phyto, Rilastil, Sodasan.
+- **A dudosos por el punto 5** (sin tienda de marca confirmada): Sonett y Somat (los 13 que el agente había dado por buenos, entre
+  ellos el detergente Color de Sonett, cuyo título no dice "Color"), Noreva, Dr. Bronner's, Marius Fabre, Beltrán, Clarins, Charlotte
+  Tilbury, Ladival, René Furterer, L'Occitane, Ecover, Asevi, Ben & Anna, y las marcas blancas (Bosque Verde, Dia, Hacendado).
+- Para repetir más adelante (el buscador nombra la ficha pero no da su /dp/): gamas nuevas de Lavera (Barrier Balance, Glow, Purify
+  Me, Hydro Refresh, geles sólidos), Weleda Booster Drops Hidratante y Fluido solar Glow, Leti spray/gel de ojos/SPF 30, Matarrania
+  tónico Eterna. Están en `amazon_sin_ficha.json` con la nota.
+- **Quedan**: 663 de maquillaje nunca buscados (próximo turno: un enlace por línea) + 270 en `amazon_pendientes.json` + 6 sin buscar;
+  420 dudosos y 639 sin ficha.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
