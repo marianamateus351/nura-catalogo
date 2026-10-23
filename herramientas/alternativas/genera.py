@@ -44,7 +44,7 @@ FUERA = re.compile(r'hypochlorite|hipoclorito', re.I)
 # salfumán del desincrustante, fosfórico del limpiador de paellas, ácido oxálico de la sal de acedera, que es tóxico). La sosa o la potasa al final de la
 # lista, para ajustar el pH o saponificar el jabón, no cuenta.
 CORROSIVO = re.compile(r'sodium hydroxide|potassium hydroxide|hydrochloric acid|sulfuric acid|sulphuric acid|'
-                       r'phosphoric acid|nitric acid|sulfamic acid|oxalic acid|hidroxido|clorhidrico|sulfurico|fosforico|oxalico', re.I)
+                       r'phosphoric acid|nitric acid|sulfamic acid|sulphamic acid|sulfamidic acid|sulphamidic acid|amidosulfonic acid|sulfamico|oxalic acid|hidroxido|clorhidrico|sulfurico|fosforico|oxalico', re.I)
 TIPOS_FUERA = {'desatascador'}
 # Oxidantes de coloración (agua oxigenada, reveladores): no son una alternativa a nada y el tipo por nombre los
 # confundía con sérums o cremas ("Oxidante en crema 10 vol", Valquer, 2026-10-12).
@@ -57,11 +57,9 @@ def peligroso(b):
 PENDIENTE_DECISION = set()   # Dia pastillas antical: decidido el 2026-10-15 (Polyethylene Glycol entra en la regla de PEG)
 # Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
-HASTA_BUILD = {
-    '4260491222954',  # Ben & Anna Deo Sensitive Cherry Blossom: nota "aus natürlichen ätherischen Ölen" (detector 2026-10-12)
-    # Ecodoo (detector 2026-10-14, ficha 193 con aceites esenciales declarados por su nombre INCI):
-    '3380380048180', '3380380048128', '3380390900607', '3380390900614', '3380380050787',
-}
+# Códigos retenidos hasta que la app publicada lleve el arreglo del detector que los deja limpios.
+# Vacío desde el 2026-10-22: el build 110 (0.2.54) ya lleva la nota alemana de perfume natural y la ficha 193.
+HASTA_BUILD = set()
 por = {}
 for p in limpios:
     if any(peligroso(b) for b in p['barcodes']): continue

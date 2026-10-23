@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21m",
+ "version": "2026-10-23a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -34,6 +34,12 @@
        "nombre": "Deo Papertube Pink Grapefruit",
        "marca": "Ben & Anna",
        "barcode": "4260491222282",
+       "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Deo Papertube Sensitive Cherry Blossom 40 g",
+       "marca": "Ben & Anna",
+       "barcode": "4260491222954",
        "fechaLista": "12-10-2026"
       },
       {
@@ -18416,6 +18422,12 @@
        "fechaLista": "15-10-2026"
       },
       {
+       "nombre": "Gel para lavavajillas",
+       "marca": "Ecodoo",
+       "barcode": "3380380050787",
+       "fechaLista": "14-10-2026"
+      },
+      {
        "nombre": "Lavavajillas a mano hipoalergénico sin perfume",
        "marca": "Ecodoo",
        "barcode": "3380380078798",
@@ -18705,6 +18717,24 @@
      "nombre": "Limpiadores de cocina y baño",
      "productos": [
       {
+       "nombre": "Limpiador antical en spray",
+       "marca": "Ecodoo",
+       "barcode": "3380380048128",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Limpiador gel wc",
+       "marca": "Ecodoo",
+       "barcode": "3380390900614",
+       "fechaLista": "14-10-2026"
+      },
+      {
+       "nombre": "Limpiador de WC en pastillas 2 en 1",
+       "marca": "Etamine du Lys",
+       "barcode": "3538395115001",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Limpiador de cocinas para acero inoxidable HG",
        "marca": "HG",
        "barcode": "8711577070175",
@@ -18717,9 +18747,51 @@
        "fechaLista": "04-10-2026"
       },
       {
+       "nombre": "Antical",
+       "marca": "Sodasan",
+       "barcode": "4019886017503",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Desengrasante alcalino profesional",
+       "marca": "Sodasan",
+       "barcode": "4019886936941",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Desengrasante de naranja",
+       "marca": "Sodasan",
+       "barcode": "4019886001403",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Antical",
+       "marca": "Sonett",
+       "barcode": "4007547303003",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Desengrasante de naranja",
+       "marca": "Sonett",
+       "barcode": "4007547405400",
+       "fechaLista": "15-10-2026"
+      },
+      {
        "nombre": "Limpiador de baños",
        "marca": "Sonett",
        "barcode": "4007547301504",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador WC cedro-citronela",
+       "marca": "Sonett",
+       "barcode": "4007547300101",
+       "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Limpiador WC menta",
+       "marca": "Sonett",
+       "barcode": "4007547300408",
        "fechaLista": "15-10-2026"
       }
      ]
@@ -18781,6 +18853,12 @@
        "marca": "Dr. Beckmann",
        "barcode": "4008455002484",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Quitamanchas en spray para la ropa",
+       "marca": "Ecodoo",
+       "barcode": "3380380048180",
+       "fechaLista": "14-10-2026"
       },
       {
        "nombre": "Quitamanchas en spray",
