@@ -5196,6 +5196,13 @@ perfume natural (2026-10-12) y la ficha 193 con aceites esenciales declarados (2
 vaciar `HASTA_BUILD` (Ben & Anna Cherry Blossom 4260491222954 y los 5 Ecodoo 3380380048180,
 3380380048128, 3380390900607, 3380390900614, 3380380050787), regenerar `alternativas.json` con la
 regresión de siempre y anotar aquí la versión. Las `alternativas.json` posteriores no necesitan nada más.
+- **Hecho el 2026-10-23 (alternativas 2026-10-23a, 2.554 productos, 0 avisos)**: `HASTA_BUILD` vacío. Entran Ben & Anna Cherry
+  Blossom, Ecodoo Gel para lavavajillas y Quitamanchas en spray. De los otros tres Ecodoo: el antical en spray y el gel WC no tenían
+  tipo (ahora "antical", "desengrasante", "wc" e "inodoro" cuentan como Limpiadores de cocina y baño: entran también 8 de Sodasan,
+  Sonett y Etamine du Lys que se quedaban sin tipo); el desengrasante de horno y barbacoa sigue fuera por la regla de corrosivos
+  (hidróxido potásico de 2.º ingrediente). La regla de corrosivos no reconocía "Sulphamidic acid" (ácido sulfámico, el
+  descalcificador de Dr. Beckmann): añadidas las grafías sulphamic/sulfamidic/sulphamidic/amidosulfonic. La tabla de tipos de la
+  app cambia igual (va en el próximo build).
 
 ### 2026-10-23 · Enlaces de Amazon, tercera tanda (encargo de Mariana)
 Alternativas es gratis para todo el mundo desde el 2026-10-20, así que el enlace de afiliada es la vía de ingresos
