@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q6d",
+ "version": "2026-10-24-q7b1",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26708,6 +26708,98 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8016867003056"
+   ]
+  },
+  {
+   "marcaKey": "babe",
+   "marca": "Babé",
+   "nombre": "Bálsamo facial Pediatría",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437014389456"
+   ]
+  },
+  {
+   "marcaKey": "babe",
+   "marca": "Babé",
+   "nombre": "Crema emoliente Pediatría",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8437000945727"
+   ]
+  },
+  {
+   "marcaKey": "galenic",
+   "marca": "Galénic",
+   "nombre": "Tratamiento monodosis Galéniceutiques N°3 complejo de vitaminas B",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3760348092255",
+    "3760348092293",
+    "3760348092309"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Sérum en stick Hydra+ Efecto Rellenador",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000801975"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Stick solar hidratante SPF50+ Soleil Protect",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000802378"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Stick aftersun refrescante Soleil Repair",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000802385"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Desmaquillante de ojos doble acción",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000802286"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Bálsamo de ojos Multi Correxion Revive + Glow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000800886"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Tratamiento voluminizador de labios Derm Correxion",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000801227"
+   ]
+  },
+  {
+   "marcaKey": "roc",
+   "marca": "RoC",
+   "nombre": "Agua micelar confort extremo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "1210000800145"
    ]
   }
  ]

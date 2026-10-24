@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24f",
+ "version": "2026-10-24g",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -854,6 +854,18 @@
        "barcode": "8719134213331",
        "subtipo": "agua-micelar",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Agua micelar confort extremo",
+       "marca": "RoC",
+       "barcode": "1210000800145",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos doble acción",
+       "marca": "RoC",
+       "barcode": "1210000802286",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Limpiador facial 1025 Dokdo Cleanser",
@@ -2305,6 +2317,12 @@
        "amazon": "https://www.amazon.es/dp/B09H7DTTQM"
       },
       {
+       "nombre": "Sérum en stick Hydra+ Efecto Rellenador",
+       "marca": "RoC",
+       "barcode": "1210000801975",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Concentrado reafirmante Xpert Collageneur Booster",
        "marca": "Singuladerm",
        "barcode": "8436564666765",
@@ -3192,6 +3210,12 @@
        "amazon": "https://www.amazon.es/dp/B08XMRVJSD"
       },
       {
+       "nombre": "Stick solar hidratante SPF50+ Soleil Protect",
+       "marca": "RoC",
+       "barcode": "1210000802378",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Fotoprotector facial con filtros minerales Photocorrection Mineral SPF 30",
        "marca": "Sensilis",
        "barcode": "8428749007043",
@@ -3999,6 +4023,12 @@
        "marca": "Ozoaqua",
        "barcode": "8437026011086",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Stick aftersun refrescante Soleil Repair",
+       "marca": "RoC",
+       "barcode": "1210000802385",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Aceite de masaje limón y pino cembro",
@@ -8402,6 +8432,12 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Tratamiento voluminizador de labios Derm Correxion",
+       "marca": "RoC",
+       "barcode": "1210000801227",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Barra de labios mate Own The Matte tono 01 Heart Breaker",
        "marca": "Sensilis",
        "barcode": "8428749013945",
@@ -9866,6 +9902,18 @@
        "amazon": "https://www.amazon.es/dp/B00EYOHJZ2"
       },
       {
+       "nombre": "Bálsamo facial Pediatría",
+       "marca": "Babé",
+       "barcode": "8437014389456",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Crema emoliente Pediatría",
+       "marca": "Babé",
+       "barcode": "8437000945727",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Atoderm Intensive Baume",
        "marca": "Bioderma",
        "barcode": "3701129802052",
@@ -10185,6 +10233,12 @@
        "barcode": "8050444858233",
        "fechaLista": "21-10-2026",
        "amazon": "https://www.amazon.es/dp/B08R1FQWKH"
+      },
+      {
+       "nombre": "Bálsamo de ojos Multi Correxion Revive + Glow",
+       "marca": "RoC",
+       "barcode": "1210000800886",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "CICAVIT DM+ Cicatrices",
