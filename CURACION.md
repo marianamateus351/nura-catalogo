@@ -1180,6 +1180,12 @@ Evax/Tampax: composición del fabricante capa a capa en absorbentes, copas y acc
   "poliuretano/polyuréthane" (191) y "Hedione", "Florol", "parfum/perfume/aroma" (34). Mientras tanto, esos 10 códigos (compresas y
   protegeslips de Saugella; protegeslips extrafinos y los dos de pérdidas de orina de Organyc) van en `PENDIENTE_DECISION` de
   `genera.py` y no salen en Alternativas.
+  **Aprobada por Mariana el 2026-10-24 ("ok a tus reglas") y aplicada en la app** (`src/services/products.js`: `ABSORBENTE_NOMBRE`,
+  `MICRO_ABSORBENTE`, `PERFUME_ABSORBENTE`; el nombre del producto también marca un absorbente cuando la composición no usa
+  las palabras de siempre, como la francesa de Saugella). **Necesita build.** Regresión sobre las 17.204 fichas: **5 cambios, los
+  5 buscados** (Saugella compresas y protegeslips Cotton Touch ganan microplásticos; Organyc protegeslips extrafinos, microplásticos;
+  los dos de pérdidas de orina, microplásticos y la 34 por Hedione/Florol). `PENDIENTE_DECISION` vuelve a estar vacío: el detector
+  ya les pone el aviso. Ninguno estaba en Alternativas (los absorbentes no tienen tipo).
 
 ### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — CERRADA 2026-10-21
 Con las reglas de arriba (solo lista oficial completa; INCI de la marca o portal del fabricante; en hogar,
