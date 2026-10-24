@@ -883,6 +883,20 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-24 · Buscados: 4068263040917 — identificado (Dentitex Nature, ALDI), NO entra todavía: falta la foto de la trasera
+Captura de Mariana de la pestaña "Buscados" (1 escaneo, "está pero sin ingredientes"). Prefijo 4068263 = ALDI España.
+- **Qué es:** **Dentitex Nature Dentífrico sin flúor Menta Fresca** (marca de higiene bucal de ALDI; "con xilitol, extracto
+  de cúrcuma, calcio y lactato de zinc", certificado cosmética natural, vegano). Lo dicen las dos fotos de su ficha en Open
+  Beauty Facts (creada desde España por otra app, smoothie-app, y completada por una usuaria): las dos son la cara delantera,
+  sin lista ni nombre escrito en la ficha. Por eso la app la ve "sin ingredientes".
+- **Vías comprobadas:** Open Beauty/Food/Products Facts (solo esas dos delanteras); aldi.es (ficha 598600 leída el
+  2026-10-09: solo foto delantera, y además la ficha dice "con salvia" mientras la foto es la Menta Fresca). Ninguna fuente con
+  lista y código juntos. Mismo caso que el champú Detox de Lacura (4068263071508): **se queda en Buscados**.
+- **Cómo entra:** con una foto de la trasera donde se lean la lista entera y el código (regla de la foto trasera, como Lacura
+  Body Zero), por "Añadir ingredientes" o de Mariana en tienda. Los otros 4 códigos de la pestaña ya estaban vistos:
+  4068263071508 (champú Detox Lacura, sin lista), 8410412000703 (Babaria crema cara y escote SPF50+, sin lista ni código en
+  fuente oficial), 8411582242320 (vinagre Asevi, resuelto: no entra) y 8480024554093 (champú Crowe, sin lista oficial).
+
 ### 2026-10-10 · W5 (limpieza de Lidl) — marca nueva pedida por Mariana, con fotos de etiqueta — ABIERTA (1 producto; el resto, por fotos)
 Mariana fotografió en un Lidl el **W5 Friegasuelos Flor de Cerezo 1,5 L**, EAN **4056489871378**
 (prefijo 4056489, el mismo de Cien/Lidl). Fabricante: Iberfrasa S.L., Pol. Ind. Alto Losar,
