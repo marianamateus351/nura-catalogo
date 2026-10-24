@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24a",
+ "version": "2026-10-24b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -387,6 +387,12 @@
        "fechaLista": "23-09-2026"
       },
       {
+       "nombre": "Tiras limpiadoras de poros nariz y frente (surtido)",
+       "marca": "Bioré",
+       "barcode": "5017634237035",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
        "marca": "Byphasse",
        "barcode": "8436097094424",
@@ -522,6 +528,18 @@
        "barcode": "8437017753506",
        "subtipo": "desmaquillante-ojos",
        "fechaLista": "10-10-2026"
+      },
+      {
+       "nombre": "Aceite desmaquillante Skin-Prep",
+       "marca": "Filorga",
+       "barcode": "3540550014913",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Solución micelar Skin-Prep",
+       "marca": "Filorga",
+       "barcode": "3401560361926",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Agua Micelar Mini 1 U",
@@ -749,6 +767,12 @@
        "barcode": "8431166260137",
        "fechaLista": "21-10-2026",
        "amazon": "https://www.amazon.es/dp/B01GRS3CLM"
+      },
+      {
+       "nombre": "Desmaquillante de ojos waterproof",
+       "marca": "Lierac",
+       "barcode": "3701436908638",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Loción limpiadora y desmaquillante",
@@ -2226,6 +2250,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Concentrado corrección de estrías Phytolastil",
+       "marca": "Lierac",
+       "barcode": "3701436917630",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Sérum reafirmante de noche Eterna",
        "marca": "Matarrania",
        "barcode": "0748252723123",
@@ -2991,6 +3021,12 @@
        "fechaLista": "21-10-2026"
       },
       {
+       "nombre": "Stick con color SPF50 Protocolo Antimanchas",
+       "marca": "Lierac",
+       "barcode": "3701436926281",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Protector solar mineral facial SPF50",
        "marca": "Matarrania",
        "barcode": "0644216011773",
@@ -3423,6 +3459,12 @@
        "amazon": "https://www.amazon.es/dp/B0DVZ8STKK"
       },
       {
+       "nombre": "Aceite de baño Refreshing",
+       "marca": "Kneipp",
+       "barcode": "4008233066882",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Gel de ducha cremoso basis sensitive",
        "marca": "Lavera",
        "barcode": "4021457664139",
@@ -3785,6 +3827,24 @@
        "marca": "Kiko Milano",
        "barcode": "8059385059105",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal Bio Skin Oil",
+       "marca": "Kneipp",
+       "barcode": "4008233154350",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Aceite corporal Derma Protect",
+       "marca": "Kneipp",
+       "barcode": "4008233181370",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Leche corporal Derma Protect 10% urea",
+       "marca": "Kneipp",
+       "barcode": "4008233181707",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Fluido aftersun Akut para piel castigada por el sol",
@@ -4657,6 +4717,12 @@
        "marca": "Leti",
        "barcode": "8431166260786",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Gel corrector de bolsas Diopti",
+       "marca": "Lierac",
+       "barcode": "3701436922115",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Corrector de rojeces Calmwise Colour Correct",
@@ -6532,6 +6598,18 @@
        "subtipo": "gloss",
        "tono": "04",
        "fechaLista": "03-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con ácido hialurónico (envase alemán)",
+       "marca": "Kneipp",
+       "barcode": "4008233178905",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Bálsamo labial con ácido hialurónico (envase español)",
+       "marca": "Kneipp",
+       "barcode": "4008233178790",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
@@ -8564,6 +8642,18 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Contorno de ojos NCEF-Revitalize Eyes",
+       "marca": "Filorga",
+       "barcode": "3540550018263",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Sérum de ojos Pro-Collagen Micro-Growth Factor Eyes",
+       "marca": "Filorga",
+       "barcode": "3540550020754",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Hyper-Concentrate (contorno de ojos para ojeras y arrugas) 15 ml",
        "marca": "Freshly Cosmetics",
        "barcode": "8437015930190",
@@ -8685,6 +8775,18 @@
        "marca": "Leti",
        "barcode": "8431166182453",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos rehidratante Hydragenist",
+       "marca": "Lierac",
+       "barcode": "3701436910969",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Crema de ojos antiedad Premium",
+       "marca": "Lierac",
+       "barcode": "3701436917913",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Contorno de ojos",
@@ -9322,6 +9424,18 @@
        "amazon": "https://www.amazon.es/dp/B07BNCMR54"
       },
       {
+       "nombre": "Peeling de noche antiarrugas Daily Peel",
+       "marca": "Filorga",
+       "barcode": "3540550020938",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Peeling de noche antimanchas Daily Peel",
+       "marca": "Filorga",
+       "barcode": "3540550020969",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Sérum exfoliante Centella 3% PHA Gentle Liquid Exfoliating Serum",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221646",
@@ -9404,6 +9518,12 @@
        "barcode": "8809968130246",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D4517144"
+      },
+      {
+       "nombre": "Mascarilla de burbujas para la nariz afinadora de poros",
+       "marca": "Bioré",
+       "barcode": "5017634296575",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
@@ -9508,6 +9628,12 @@
        "barcode": "4021457625116",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B07H416PK4"
+      },
+      {
+       "nombre": "Mascarilla antirrojeces Protocolo Antirrojeces",
+       "marca": "Lierac",
+       "barcode": "3701436926267",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Mascarilla en crema reafirmante Caffeine Reset",
@@ -9886,6 +10012,18 @@
        "fechaLista": "24-09-2026"
       },
       {
+       "nombre": "Bálsamo intensivo SOS Derma Protect 10% urea",
+       "marca": "Kneipp",
+       "barcode": "4008233181608",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Pomada protectora para la piel, cuidado para todo",
+       "marca": "Kneipp",
+       "barcode": "4008233004556",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Linimento óleo-calcáreo 250 mL bebé",
        "marca": "L'Arbre Vert",
        "barcode": "3450601052316",
@@ -9937,6 +10075,12 @@
        "marca": "Leti",
        "barcode": "8431166182750",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Bálsamo after shave Lierac Homme",
+       "marca": "Lierac",
+       "barcode": "3508240014056",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Bálsamo reparador de hipérico",
@@ -10174,6 +10318,12 @@
      "nombre": "Parches y tratamientos anti-granos",
      "productos": [
       {
+       "nombre": "Parches antigranos 3 en 1",
+       "marca": "Bioré",
+       "barcode": "5017634294984",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Parches para granos AC Collection Acne Patch",
        "marca": "COSRX",
        "barcode": "8809598450981",
@@ -10275,6 +10425,12 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/848/001/020/7170/front_en.7.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "10-09-2026"
+      },
+      {
+       "nombre": "Crema de manos Derma Protect 5% urea",
+       "marca": "Kneipp",
+       "barcode": "4008233181585",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Gel Refrescante Pies y Piernas 125 ml",

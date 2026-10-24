@@ -1,5 +1,5 @@
 {
- "version": "2026-10-21-b11",
+ "version": "2026-10-24-q6a",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26364,6 +26364,289 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8480012041246"
+   ]
+  },
+  {
+   "marcaKey": "biore",
+   "marca": "Bioré",
+   "nombre": "Mascarilla de burbujas para la nariz afinadora de poros",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5017634296575"
+   ]
+  },
+  {
+   "marcaKey": "biore",
+   "marca": "Bioré",
+   "nombre": "Tiras limpiadoras de poros nariz y frente (surtido)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5017634237035"
+   ]
+  },
+  {
+   "marcaKey": "biore",
+   "marca": "Bioré",
+   "nombre": "Parches antigranos 3 en 1",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5017634294984"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Peeling de noche antimanchas Daily Peel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3540550020969"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Peeling de noche antiarrugas Daily Peel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3540550020938"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Solución micelar Skin-Prep",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3401560361926"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Contorno de ojos NCEF-Revitalize Eyes",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3540550018263"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Aceite desmaquillante Skin-Prep",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3540550014913"
+   ]
+  },
+  {
+   "marcaKey": "filorga",
+   "marca": "Filorga",
+   "nombre": "Sérum de ojos Pro-Collagen Micro-Growth Factor Eyes",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3540550020754"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Aceite corporal Bio Skin Oil",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233154350"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Bálsamo labial con ácido hialurónico (envase español)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233178790"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Bálsamo labial con ácido hialurónico (envase alemán)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233178905"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Crema de manos Derma Protect 5% urea",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233181585",
+    "4008233181592"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Gel activo para piernas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233176048"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Pomada protectora para la piel, cuidado para todo",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233004556"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Sales de baño Erkältungszeit",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233108575",
+    "4008233157221",
+    "4008233172064"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Leche corporal Derma Protect 10% urea",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233181707"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Bálsamo intensivo SOS Derma Protect 10% urea",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233181608"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Aceite corporal Derma Protect",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233181370"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Aceite de baño Refreshing",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233066882"
+   ]
+  },
+  {
+   "marcaKey": "kneipp",
+   "marca": "Kneipp",
+   "nombre": "Sales de baño Refreshing",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4008233158662"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Desmaquillante de ojos waterproof",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436908638"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Gel corrector de bolsas Diopti",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436922115"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Crema de ojos antiedad Premium",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436917913"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Gel prevención de estrías Phytolastil",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436917609",
+    "3701436917616"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Concentrado corrección de estrías Phytolastil",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436917630"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Mascarilla antirrojeces Protocolo Antirrojeces",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436926267"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Stick con color SPF50 Protocolo Antimanchas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436926281"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Rellenador de arrugas Protocolo Antiedad",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436933296"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Contorno de ojos rehidratante Hydragenist",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701436910969"
+   ]
+  },
+  {
+   "marcaKey": "lierac",
+   "marca": "Lierac",
+   "nombre": "Bálsamo after shave Lierac Homme",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3508240014056"
    ]
   }
  ]
