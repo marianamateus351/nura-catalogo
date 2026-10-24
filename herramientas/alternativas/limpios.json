@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q6a",
+ "version": "2026-10-24-q6b",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26647,6 +26647,117 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3508240014056"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Compresas con alas de algodón ecológico (flujo normal, abundante y noche Maxi Protect)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867009942",
+    "8016867009935",
+    "8016867017176",
+    "8016867012584"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Protegeslips de algodón ecológico (extrafinos sueltos, en sobres individuales y extralargos)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867008945",
+    "8016867009959",
+    "8016867002646"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Protegeslips de algodón ecológico para tanga",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867017923"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Compresas posparto de algodón ecológico (primeros días y vuelta a casa)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867001694",
+    "8016867017121",
+    "8016867015097"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Tampones de algodón ecológico con aplicador (normal y super)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867007375",
+    "8016867007382"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Tampones de algodón ecológico sin aplicador (normal y super)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867009928",
+    "8016867009911"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Protegeslips para pérdidas de orina ligeras de algodón ecológico",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867013758"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Compresas para pérdidas de orina de algodón ecológico (normal y extra)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867013765",
+    "8016867013772",
+    "8016867021142"
+   ]
+  },
+  {
+   "marcaKey": "organyc",
+   "marca": "Organyc",
+   "nombre": "Gel íntimo Manzanilla",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8016867003056"
+   ]
+  },
+  {
+   "marcaKey": "saugella",
+   "marca": "Saugella",
+   "nombre": "Compresas Cotton Touch de día y de noche",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3700343901350",
+    "3700343901367"
+   ]
+  },
+  {
+   "marcaKey": "saugella",
+   "marca": "Saugella",
+   "nombre": "Protegeslips Cotton Touch",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3700343901459"
    ]
   }
  ]
