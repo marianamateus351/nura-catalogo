@@ -1110,6 +1110,42 @@ tras cada bloque:
    Ojo: se quedaron cortas porque su web no publica el INCI y la vía era "dos fuentes idénticas" con Douglas como una de ellas;
    Douglas da ahora 403 de Akamai. Se comprueba con UNA petición si sus webs publican ya la lista; si no, se quedan como están.
 
+**Bloque 1, farmacia (versión 2026-10-24-q7b1): 4 marcas nuevas, 148 productos, 165 códigos.** Regresión: 0 cambios.
+- **Apivita — 0** y **Mesoestetic — 0**: apivita.com, mesoestetic.es y mesoestetic.com con reto de Cloudflare ("Just a moment",
+  `cf-mitigated: challenge`) desde la primera petición. No se ha ido a tiendas: las dos marcas sí publican el INCI, solo que tras el
+  bloqueo, así que la vía de "dos fuentes idénticas" no aplica. Esperan a que la web se abra o a una decisión de Mariana.
+- **Babé — 67 productos, 76 códigos.** laboratoriosbabe.com (babé.es está aparcado), 100 fichas con lista completa: fuera las
+  referencias [PIxxxxx], "·" → comas, "MICROCRYS[1]TALLINE" y un paréntesis suelto corregidos. Sin EAN en la web: farmacias europeas
+  atadas por gama, producto y tamaño (Pharmacodel BE, Redcare FR, Farmaline BE, Mēness aptieka y Azeta LV, Gintarinė LT, que publica
+  lista y coincide con la oficial en 12). Stop AKN reformulado: solo los códigos nuevos (8436571632…). Champú costra láctea: solo la
+  fórmula nueva sin ácido salicílico (8437000945758). **Fuera**: 27 sin EAN en ninguna fuente (lanzamientos: sticks y fluidos
+  minerales, Color Fit, Lip & Cheek de seis tonos, Lifting Serum…), Loción Anticaída y Lip Balm SPF 50 (tamaño de tienda distinto
+  del de la web), y en la revisión **los Bálsamos de labios y mejillas SPF 50 Nude, Rojo y Rosa** (una sola lista para los tres,
+  enlazada desde el tono naranja, sin "may contain": regla de tonos). Dosfarma, Mifarma, Farmaciabarata, Sweetcare y Beauty The Shop,
+  reto o 403; Arenal, 406.
+- **RoC — 44 productos, 45 códigos.** rocskincare.es (35, Shopify, `barcode` de la variante) y rocskincare.fr (9 que solo se venden
+  allí). Códigos europeos 121…/122…. Si un producto está en las dos webs, la lista española (más nueva: alérgenos nuevos, "C13-14
+  Isoalkane"). Listas francesas pegadas sin espacios, separadas comprobando que las letras son las mismas. **Fuera**: packs, spray
+  SPF50 (sin lista en .es, traducida en .fr), bruma SPF30, Derm Correxion Dual Eye (dos listas bajo un código), contorno Line
+  Smoothing (tres listas oficiales distintas), sérum Hydra+ francés (le ponen la lista de la crema) y los códigos franceses de la
+  fórmula anterior del desmaquillante de ojos y las cápsulas Line Smoothing. rocskincare.eu, 403 (sin reintentar).
+- **Neostrata — 27 productos, 27 códigos.** Web oficial irlandesa neostrata.ie (Pharmed; la única de la UE accesible: .es/.fr/.pt
+  dan 502, .gr Akamai, .dk 403; neostrata.it y el portal de Cantabria Labs con certificado no válido, no se fuerzan). Códigos UPC
+  0732013… (los únicos que usa la marca en Europa, excepción UPC) de millies.ie, cuyo SKU es el UPC y cuyo campo barcode es la
+  referencia F30xxx de la ficha oficial; confirmados con shop-apotheke.at/.com, soin-et-nature.com/es y lookfantastic.es. Códigos de
+  la serie anterior, fuera. **Fuera**: los 3 con SPF (lista en formato EE. UU./Canadá), 6 sin lista completa en .ie, Glycolic Mousse
+  (sin EAN europeo), PHA Facial Cleanser (solo código antiguo) y **7 con lista solo en neostrata.co.uk** (Gel Plus, Problem Dry Skin
+  Cream, High Potency Cream, Glycolic Renewal Lotion y Cream, Ultra Moisturizing Face Cream, Pigment Controller): códigos ya
+  localizados; entran si Mariana acepta listas del Reino Unido (decisión ya pendiente de la quinta cola).
+- **Galénic — 10 productos, 17 códigos.** galenic.com (Shopify; España se sirve desde /en-eu; galenic.es cerrada), lista del
+  desplegable "Ingredients and precautions" y `barcode` de la variante. Galénic ya no es marca de farmacia (se ha reposicionado como
+  lujo): la web solo tiene 15 cosméticos, y las gamas antiguas que aún se ven en farmacias (Ophycée, Confort Suprême, Aqua Infini…)
+  no tienen lista oficial vigente. **Fuera**: N°1 vitamina C 20 % (la ficha lleva la lista de la Esencia, sin vitamina C), Crema
+  activa ligera y fondante (la misma lista exacta en las dos, sin segunda fuente: precedente de las lacas Pantene), Micromascarilla
+  iluminadora (lista de 11 ingredientes, cortada), miniaturas, cofres y tratamientos de cabina.
+- **Detector**: 10 de 148 sin avisos. Todo lo que salta está en la lista (retinol y retinal en RoC, Babé, Neostrata y Galénic;
+  aluminio en los Keops y el roll-on de Babé; ácido kójico; clorhexidina; PMMA). Sin falsos positivos ni negativos nuevos.
+
 ### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
 Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
 Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
