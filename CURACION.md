@@ -1075,6 +1075,17 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
 - El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
+### 2026-10-24 · Sexta cola de marcas (propuesta de Claude, aprobada por Mariana el 2026-10-24: "ok a tu propuesta de marcas")
+Marcas muy compradas en España que no estaban o estaban muy cortas. Mismas reglas que la quinta cola (lista oficial completa;
+dos fuentes idénticas solo donde la marca no la publica; anti-bot o captcha = parar y anotar). Por bloques, publicando versión
+tras cada bloque:
+1. Farmacia, nuevas: Babé, Mesoestetic, Apivita, Galénic, Roc, Neostrata.
+2. Maquillaje: Mia Cosmetics, Max Factor, Revlon (había 4).
+3. Natural: Natura Siberica, Ziaja.
+4. Ampliar: Cantabria Labs (Heliocare 5, Endocare 4, Biretix 5), Sesderma (11), Bioderma (35), Bella Aurora (6), Freshly (11).
+   Ojo: se quedaron cortas porque su web no publica el INCI y la vía era "dos fuentes idénticas" con Douglas como una de ellas;
+   Douglas da ahora 403 de Akamai. Se comprueba con UNA petición si sus webs publican ya la lista; si no, se quedan como están.
+
 ### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
 Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
 Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
