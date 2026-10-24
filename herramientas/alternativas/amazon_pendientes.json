@@ -1,80 +1,8 @@
 [
  {
-  "marca": "L'Oréal Paris",
-  "barcode": "30188358",
-  "nombre": "Big Deal Máscara Latex Black (Waterproof )",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524196615",
-  "nombre": "Telescopic (Waterproof)",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "30148079",
-  "nombre": "Volume Million Lashes Máscara de Pestañas Efecto Volumen Balm Brown",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524229085",
-  "nombre": "Waterproof Extensionist",
-  "tipo": "mascara-pestanas"
- },
- {
   "marca": "La Roche-Posay",
   "barcode": "3337875632652",
   "nombre": "Toleriane Máscara Volumen",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531702304",
-  "nombre": "Colossal Bubble Waterproof Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30144187",
-  "nombre": "Lash Sensational Firework Waterproof Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531143657",
-  "nombre": "Lash Sensational Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531143558",
-  "nombre": "Lash Sensational Máscara de pestañas",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30167223",
-  "nombre": "Lash Sensational Sky High Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30152748",
-  "nombre": "The Colossal Curl Bounce Waterproof Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531604752",
-  "nombre": "The Falsies Lash Lift Máscara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30163799",
-  "nombre": "The Falsies Surreal Extensions Máscara Waterproof Máscara",
   "tipo": "mascara-pestanas"
  },
  {
@@ -96,63 +24,9 @@
   "tipo": "ojos-cejas"
  },
  {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524253547",
-  "nombre": "Blur Filler Delineador Difuminado Mate",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524253554",
-  "nombre": "Blur Filler Delineador Difuminado Mate 485 NUDE ESPRESSO",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524253608",
-  "nombre": "Blur Filler Delineador Difuminado Mate 530 BORDEAUX BISOUS",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524253561",
-  "nombre": "Blur Filler Delineador Difuminado Mate 535 BROWN CARAMEL",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600524253530",
-  "nombre": "Blur Filler Delineador Difuminado Mate 601 Worth It",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "L'Oréal Paris",
-  "barcode": "3600522203094",
-  "nombre": "Infallible 12H Definer Lápiz de Cejas",
-  "tipo": "ojos-cejas"
- },
- {
   "marca": "La Roche-Posay",
   "barcode": "3337872420641",
   "nombre": "Toleriane Lápiz de cejas",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531672645",
-  "nombre": "Color Tattoo Stix Sombra de ojos",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "3600531579432",
-  "nombre": "Express Brow Ultra Slim Maquillaje de cejas",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30150157",
-  "nombre": "Tattoo Brow 36H Maquillaje de cejas",
   "tipo": "ojos-cejas"
  },
  {
@@ -267,12 +141,6 @@
   "marca": "Essie",
   "barcode": "3600531663414",
   "nombre": "Essie Top Coat Stay Longer",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Maybelline New York",
-  "barcode": "30145092",
-  "nombre": "Fast Gel Esmalte de uñas",
   "tipo": "esmalte"
  },
  {
@@ -1236,12 +1104,6 @@
   "tipo": "labial"
  },
  {
-  "marca": "Maybelline New York",
-  "barcode": "3600530575503",
-  "nombre": "Color Sensational Perfilador de labios",
-  "tipo": "labial"
- },
- {
   "marca": "NYX Professional Makeup",
   "barcode": "0800897249977",
   "nombre": "Lápiz de Labios Line Loud Lip Pencil · 29 No Equivalent",
@@ -1764,546 +1626,6 @@
   "tipo": "ojos-cejas"
  },
  {
-  "marca": "Kiko Milano",
-  "barcode": "8059385045726",
-  "nombre": "Lápiz de cejas Eyebrow Sculpt Automatic Pencil · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385045740",
-  "nombre": "Lápiz de cejas Eyebrow Sculpt Automatic Pencil · 03",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385045757",
-  "nombre": "Lápiz de cejas Eyebrow Sculpt Automatic Pencil · 04",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385045764",
-  "nombre": "Lápiz de cejas Eyebrow Sculpt Automatic Pencil · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385033020",
-  "nombre": "Lápiz de cejas Kind by Kiko Defining Eyebrow Pencil",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041124",
-  "nombre": "Lápiz de cejas Precision Eyebrow Pencil · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017983",
-  "nombre": "Lápiz de cejas Precision Eyebrow Pencil · 02, 04",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041148",
-  "nombre": "Lápiz de cejas Precision Eyebrow Pencil · 03",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041162",
-  "nombre": "Lápiz de cejas Precision Eyebrow Pencil · 05, 06",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385033006",
-  "nombre": "Lápiz de ojos automático Kind by Kiko Lasting Eyeliner & Khol",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385023595",
-  "nombre": "Lápiz de ojos automático Unlimited Precision Automatic Eyeliner & Khol · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385023649",
-  "nombre": "Lápiz de ojos automático Unlimited Precision Automatic Eyeliner & Khol · 10",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385023748",
-  "nombre": "Lápiz de ojos automático Unlimited Precision Automatic Eyeliner & Khol · 20",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060064",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 01, 08",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060071",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060088",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 03",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060095",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 04",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060101",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060118",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 06",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060330",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 07, 17",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060149",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 09",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060156",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 10",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060361",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 11, 20",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060170",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 12, 23",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060293",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 13",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060309",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 14",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060316",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 15",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060323",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 16",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060347",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 18",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060354",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 19",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060378",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 21",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060385",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 22",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060408",
-  "nombre": "Lápiz de ojos Club K By Kiko Milano Glide & Go Eye Pencil · 24",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8025272928304",
-  "nombre": "Lápiz de ojos Colour Kajal · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385038346",
-  "nombre": "Lápiz de ojos Colour Kajal · 09",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047645",
-  "nombre": "Lápiz de ojos Hug Couture Don’T Make Me Crayon · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047652",
-  "nombre": "Lápiz de ojos Hug Couture Don’T Make Me Crayon · 03",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060675",
-  "nombre": "Lápiz de ojos Matte Diaries Sketch&Blend Matte Eye Pencil · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060682",
-  "nombre": "Lápiz de ojos Matte Diaries Sketch&Blend Matte Eye Pencil · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060699",
-  "nombre": "Lápiz de ojos Matte Diaries Sketch&Blend Matte Eye Pencil · 03",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385060705",
-  "nombre": "Lápiz de ojos Matte Diaries Sketch&Blend Matte Eye Pencil · 04",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385067513",
-  "nombre": "Máscara de cejas Arch Appeal Brow Mascara",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385030418",
-  "nombre": "Máscara de cejas Dreamphoria Fluffy Fusion Brow Pomade",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385025780",
-  "nombre": "Máscara de cejas Magnetic Nights Gravity-Proof Eyebrow Serum & Mascara",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385035697",
-  "nombre": "Máscara de pestañas de color Juicy Fizz Colour Shot Lash & Brow Mascara",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385031552",
-  "nombre": "Paleta de sombras de ojos Dreamphoria Cloud Whisper Eyeshadow Palette",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385057651",
-  "nombre": "Paleta de sombras de ojos Just Cavalli X Kiko Milano Gaze Wardrobe Eyeshadow Palette",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385031576",
-  "nombre": "Paleta de sombras de ojos Kind by Kiko Soft Touch Eyeshadow Palette",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385059723",
-  "nombre": "Paleta de sombras de ojos Matte Diaries Throwback Matte Eyeshadow Palette",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047607",
-  "nombre": "Paleta de sombras de ojos Threads of Time Earthy Mirage Eyeshadow Palette",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017785",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017792",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017822",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017839",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 06",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017914",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 14",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017921",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 15",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017938",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 16",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385017945",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 17",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385009551",
-  "nombre": "Sombra de ojos compacta Bright Duo Eyeshadow · 18",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385030944",
-  "nombre": "Sombra de ojos compacta Dreamphoria Forever Mate Duet Eyeshadow · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385027937",
-  "nombre": "Sombra de ojos compacta Holiday Wonderlights Metallic Magnitude Eyeshadow",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047386",
-  "nombre": "Sombra de ojos compacta Hue Ready? Water Eyeshadow Eye'M An Artist Edition",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385063638",
-  "nombre": "Sombra de ojos compacta Maxi Mod High Pigment Eyeshadow · 02, 14, 15, 18, 19 y 6 tonos más",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385063829",
-  "nombre": "Sombra de ojos compacta Maxi Mod High Pigment Eyeshadow · 06, 07, 08, 09, 16 y 15 tonos más",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385012995",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 01, 03, 04, 09, 12 y 4 tonos más",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041933",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041957",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041964",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 06",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385012872",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 07, 11",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385041988",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 08",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385042008",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 10",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385012926",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 13",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385012933",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 14",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385042046",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 15",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385037202",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 17",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385012971",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 18",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385037219",
-  "nombre": "Sombra de ojos compacta Water Eyeshadow · 19",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385044811",
-  "nombre": "Sombra de ojos en barra Freestyle Eyeshadow Stick · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385044828",
-  "nombre": "Sombra de ojos en barra Freestyle Eyeshadow Stick · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385044897",
-  "nombre": "Sombra de ojos en barra Freestyle Eyeshadow Stick · 09",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385064741",
-  "nombre": "Sombra de ojos en barra Freestyle Rainbow Eyeshadow Stick · 07",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385024424",
-  "nombre": "Sombra de ojos en polvo suelto Magnetic Nights Lights On Eyeshadow",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385063690",
-  "nombre": "Sombra de ojos fluida Club K By Kiko Milano Colour Up Liquid Eyeshadow",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385057590",
-  "nombre": "Sombra de ojos fluida Just Cavalli X Kiko Milano  Extreme Fierce Long Lasting Eyeshadow",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385043463",
-  "nombre": "Sombra de ojos fluida Long Lasting Liquid Eyeshadow · 01",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385043470",
-  "nombre": "Sombra de ojos fluida Long Lasting Liquid Eyeshadow · 02",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385043609",
-  "nombre": "Sombra de ojos fluida Long Lasting Liquid Eyeshadow · 05",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385036687",
-  "nombre": "Sombra de ojos fluida Lumiverse My Holo Crush Liquid Eyeshadow",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385029719",
-  "nombre": "Sombra de ojos fluida Street Heart Eye Paints Liquid Eyeshadow · 01, 02, 04",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385029726",
-  "nombre": "Sombra de ojos fluida Street Heart Eye Paints Liquid Eyeshadow · 03",
-  "tipo": "ojos-cejas"
- },
- {
   "marca": "NYX Professional Makeup",
   "barcode": "0800897265854",
   "nombre": "Blade & Shade Eyebrow Pencil · 01 Ash Blonde",
@@ -2619,132 +1941,6 @@
   "marca": "essence",
   "barcode": "4059729561442",
   "nombre": "Iluminador JELLY JEWELS glitter stick (tono 03 Golden Hour)",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385039107",
-  "nombre": "Bronceador fluido Snow-Kissed Holiday Bounce & Blend Bronzer",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385030470",
-  "nombre": "Colorete compacto Kind by Kiko Silky Touch Powder Duo Blush",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385064635",
-  "nombre": "Colorete compacto Unlimited Blush · 14",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385064666",
-  "nombre": "Colorete compacto Unlimited Blush · 15, 16, 17",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047409",
-  "nombre": "Colorete en barra Hue Ready? Flushie Bestie Blush Stick · 01",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047416",
-  "nombre": "Colorete en barra Hue Ready? Flushie Bestie Blush Stick · 02",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385047423",
-  "nombre": "Colorete en barra Hue Ready? Flushie Bestie Blush Stick · 03",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046761",
-  "nombre": "Colorete fluido Threads of Time Cheeky Flush Liquid Blush · 02",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046778",
-  "nombre": "Colorete fluido Threads of Time Cheeky Flush Liquid Blush · 03",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385028194",
-  "nombre": "Iluminador compacto Glow Fusion Intense Powder Highlighter · 01",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385040400",
-  "nombre": "Iluminador compacto Glow Fusion Intense Powder Highlighter · 02",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385048345",
-  "nombre": "Iluminador compacto Hue Ready? Pearl-Fection Highlighter · 01",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385048352",
-  "nombre": "Iluminador compacto Hue Ready? Pearl-Fection Highlighter · 02",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385029689",
-  "nombre": "Iluminador fluido Street Heart Lumilight Liquid Highlighter",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046808",
-  "nombre": "Paleta de coloretes Flirt Alert Strike A Match Blush & Glow Palette",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046822",
-  "nombre": "Paleta de contorno Flirt Alert Strike A Match Bronze & Glow Palette",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385029207",
-  "nombre": "Paleta de contorno Street Heart Lumicontour Face Palette",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046570",
-  "nombre": "Paleta de iluminadores Hug Couture Cheek Dewlight Highlighting Blush",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385059402",
-  "nombre": "Paleta de iluminadores Just Cavalli X Kiko Milano Light-Up The Party",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385031101",
-  "nombre": "Polvos bronceadores compactos Kind by Kiko Silky Touch Powder Bronzer",
-  "tipo": "colorete"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385046105",
-  "nombre": "Polvos bronceadores compactos Threads of Time Silky Sun-Kiss Bronzer",
   "tipo": "colorete"
  },
  {
@@ -3744,36 +2940,6 @@
   "tipo": "esmalte"
  },
  {
-  "marca": "Kiko Milano",
-  "barcode": "8059385035918",
-  "nombre": "Esmalte de uñas Smart Nail Lacquer · 01",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8025272639057",
-  "nombre": "Gotas secantes para esmalte Nail Polish Drying Drops",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8025272621366",
-  "nombre": "Quitaesmalte en rotulador Nail Polish Corrector Pen",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8059385030456",
-  "nombre": "Tratamiento de uñas Fast & Shiny Base And Top Coat",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Kiko Milano",
-  "barcode": "8025272977784",
-  "nombre": "Tratamiento de uñas Matte Top Coat",
-  "tipo": "esmalte"
- },
- {
   "marca": "Manucurist",
   "barcode": "3662263220051",
   "nombre": "Aceite Verde",
@@ -4480,5 +3646,293 @@
   "barcode": "3662263311230",
   "nombre": "Top Coat Mate",
   "tipo": "esmalte"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654352",
+  "nombre": "Corrector Radiant Skin tono Ivory 01",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654369",
+  "nombre": "Corrector Radiant Skin tono Light 02",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654376",
+  "nombre": "Corrector Radiant Skin tono Medium 03",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666171",
+  "nombre": "Corrector Radiant Skin tono Medium Sand 05",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651672",
+  "nombre": "Polvos compactos Satin tono Light 01",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651689",
+  "nombre": "Polvos compactos Satin tono Medium 02",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666188",
+  "nombre": "Polvos compactos Satin tono Medium Sand 04",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457667437",
+  "nombre": "Polvos hidratantes afinadores de poros",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651702",
+  "nombre": "Polvos sueltos Invisible Finish tono transparente",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457657698",
+  "nombre": "Prebase sérum iluminadora Glow",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457657803",
+  "nombre": "Spray fijador de maquillaje Set & Glow",
+  "tipo": "base-maquillaje"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457661343",
+  "nombre": "Aceite labial en gel con péptidos Peachy",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654345",
+  "nombre": "Aceite labial Juicy Lips",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666355",
+  "nombre": "Barra de labios Melting Glow tono Glazed Honey 02",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457668618",
+  "nombre": "Barra de labios voluminizadora con tripéptidos",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654291",
+  "nombre": "Brillo de labios High Shine Water Gloss tono Cocoa 01",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654307",
+  "nombre": "Brillo de labios High Shine Water Gloss tono Hot Cherry 02",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654321",
+  "nombre": "Brillo de labios High Shine Water Gloss tono Pink Lagoon 04",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457665501",
+  "nombre": "Bálsamo labial basis sensitive",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457665525",
+  "nombre": "Bálsamo labial reparador",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457667307",
+  "nombre": "Bálsamo labial reparador y protector The Cube",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457665549",
+  "nombre": "Bálsamo labial voluminizador",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666102",
+  "nombre": "Exfoliante labial enzimático Enzyme Boost",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457667482",
+  "nombre": "Mascarilla reparadora de labios con péptidos",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457642007",
+  "nombre": "Perfilador de labios Soft Lipliner tono Apricot 05",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457624218",
+  "nombre": "Perfilador de labios Soft Lipliner tono Red 03",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457654338",
+  "nombre": "Voluminizador labial efecto frío Cooling Lip Booster",
+  "tipo": "labial"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457657797",
+  "nombre": "Máscara de pestañas High Lash",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457646852",
+  "nombre": "Máscara de pestañas Intense Volumizing tono negro",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457665006",
+  "nombre": "Máscara de pestañas Lash to Impress mini",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651665",
+  "nombre": "Máscara de pestañas Lash to Impress tono negro",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457669677",
+  "nombre": "Máscara de pestañas resistente al agua Butterfly Effect",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457618187",
+  "nombre": "Máscara de pestañas Volume tono marrón",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457618170",
+  "nombre": "Máscara de pestañas Volume tono negro",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457667475",
+  "nombre": "Máscara de pestañas Volume tono Rich Burgundy 02",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457667468",
+  "nombre": "Máscara de pestañas Volume tono Royal Blue 01",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457656837",
+  "nombre": "Sérum de pestañas Lash Booster",
+  "tipo": "mascara-pestanas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457656820",
+  "nombre": "Gel fijador de cejas Brow Control tono Hazel 02",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457656813",
+  "nombre": "Gel fijador de cejas Brow Control tono Transparent 01",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457645497",
+  "nombre": "Lápiz de cejas tono Blonde 02",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457645480",
+  "nombre": "Lápiz de cejas tono Brown 01",
+  "tipo": "ojos-cejas"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457660841",
+  "nombre": "Colorete en crema Floral tono Rose Charm 01",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651610",
+  "nombre": "Colorete en polvo Velvet Blush tono Pink Orchid 02",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651603",
+  "nombre": "Colorete en polvo Velvet Blush tono Rosy Peach 01",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457656721",
+  "nombre": "Fluido hidratante iluminador Glow Skin",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457651658",
+  "nombre": "Iluminador en polvo Soft Glow tono Ethereal Light 02",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666294",
+  "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Blush 02",
+  "tipo": "colorete"
+ },
+ {
+  "marca": "Lavera",
+  "barcode": "4021457666300",
+  "nombre": "Iluminador y colorete líquido Liquid Glow & Contour tono Liquid Highlighter 03",
+  "tipo": "colorete"
  }
 ]

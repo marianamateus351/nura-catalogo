@@ -5248,6 +5248,33 @@ Lavera y 2 de Dr. Hauschka/IFA Unnia: van en el turno siguiente). **Con enlace: 
 - **Quedan**: 663 de maquillaje nunca buscados (próximo turno: un enlace por línea) + 270 en `amazon_pendientes.json` + 6 sin buscar;
   420 dudosos y 639 sin ficha.
 
+**Turno 2 (2026-10-24, alternativas 2026-10-24a): maquillaje, un enlace por línea.** 746 productos de 9 marcas (MAC, Kiko,
+Charlotte Tilbury, Bourjois, Rimmel, e.l.f., Maybelline, L'Oréal, Lavera) agrupados en líneas: una búsqueda por línea y la misma
+ficha para todos sus tonos (la nota dice de qué tono es la ficha). 4 lotes, unas 200 búsquedas. **230 con enlace, 131 dudosos,
+337 sin ficha, 48 sin buscar** (33 líneas de Lavera: se acabó el cupo, vuelven a `amazon_pendientes.json`). **Con enlace: de 556
+a 786.**
+- **MAC**: el agente dejó las 13 líneas encontradas en dudosos por no ver tienda de marca, pero el encargo dice que MAC tiene tienda
+  en Amazon.es y el buscador enseña su página de vendedor; las 7 líneas cuya única duda era esa pasan a enlace (Frost, Macximal
+  Silky Matte, Macximal Sleek Satin, Pro Brow Definer, Colour Excess Gel Pencil, Extra Dimension Eye Shadow y Skinfinish: 119
+  tonos). Siguen dudosas por otra razón Lustreglass y Dazzleshadow (ficha no disponible), Powder Kiss Hazy Matte (el título no dice
+  Hazy Matte), Macximal Viva Glam (no hay ficha de esos tonos), Lip Pencil y Prep + Prime Lip (título de revendedor). 13 líneas sin
+  ficha.
+- **Kiko**: 11 líneas con enlace (44 tonos), 2 dudosas, 39 sin ficha (casi toda la gama nueva no está en Amazon.es).
+- **Charlotte Tilbury**: aunque el encargo la pone con tienda, el buscador solo saca un revendedor ("BELLA by Cloud.Sales
+  Cosmetics"): sus 12 líneas encontradas quedan en dudosos y 7 sin ficha. Su "Lápiz de ojos Walk of No Shame" no es un error del
+  catálogo (es el lápiz de ojos berry de la web de la marca); en Amazon solo está el perfilador de labios Lip Cheat del mismo nombre.
+- **Bourjois** (/stores/Bourjois): 7 líneas con enlace (12 tonos), 4 dudosas, 2 sin ficha. **Rimmel** (/stores/RimmelLondon): 17 con
+  enlace, 3 dudosas (Turbocharged Glow, Thrill Seeker, Kind & Free Eye Definer: el título no nombra la línea), 6 sin ficha.
+  **Maybelline**: 10 con enlace, 1 dudosa (Colossal Bubble: la ficha no dice waterproof). **L'Oréal**: 4 con enlace, 2 dudosas
+  (Telescopic Waterproof/Lift, Volume Million Lashes Balm Brown). **e.l.f.**: 2 con enlace (vendidas por Amazon.es) y 10 sin ficha
+  (Soft Glam, Power Grip, Smoky Kohl, Liquid Velvet… no están). **Lavera**: Soft Eyeliner con enlace; Signature Colour y Cream to
+  Powder sin ficha.
+- **Duda para Mariana**: L'Oréal **Blur Filler** "Delineador Difuminado Mate" (5 fichas) está como ojos-cejas; en Amazon la ficha
+  ("Matte Blurring Liner") coincide en los tonos 485/530/535/601 y el agente cree que es perfilador de labios. No se ha cambiado.
+- **Quedan**: maquillaje 235 sin buscar (179 en `amazon_pendientes.json`: essence 69, Lavera 48, Deliplus 26, Rituals 17…; y 56
+  nunca buscados: Sensilis 13, Huda Beauty 9, Clarins 6, Dr. Hauschka 6, Too Faced 5, Dr. Bronner's 5…) + 6 que no son maquillaje
+  (4 de Lavera, Dr. Hauschka, IFA Unnia); 551 dudosos y 976 sin ficha. Hogar sigue en 18 con enlace de 139.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
