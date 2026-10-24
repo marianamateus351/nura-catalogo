@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q6c",
+ "version": "2026-10-24-q6d",
  "marcas": [
   {
    "key": "larocheposay",
@@ -164174,6 +164174,21 @@
       "8436598241310"
      ],
      "inci": "32 % Nylon, 28 % Algodón, 23 % Poliéster, 17 % Elastano"
+    }
+   ]
+  },
+  {
+   "key": "dentitex",
+   "nombre": "Dentitex (ALDI)",
+   "productos": [
+    {
+     "nombre": "Dentífrico sin flúor Menta Fresca Dentitex Nature",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4068263040917"
+     ],
+     "inci": "Dicalcium Phosphate Dihydrate, Glycerin, Aqua, Xylitol, Hydrated Silica, Malus Domestica Fruit Water*, Curcuma Xanthorrhiza Root Extract*, Zinc Lactate, Stevioside, Sodium Coco-Sulfate, Xanthan Gum, Sodium Hydroxide, Aroma**, Menthol**, Anethole**, Mentha Piperita Oil**, Limonene**, Mentha Viridis Leaf Oil**, Pinene**, Carvone**, Beta-Caryophyllene**, Terpineol**, Camphor**. *ingredientes procedentes de la agricultura ecológica. **procedente de aceites esenciales"
     }
    ]
   }

@@ -883,7 +883,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-10-24 · Buscados: 4068263040917 — identificado (Dentitex Nature, ALDI), NO entra todavía: falta la foto de la trasera
+### ~~2026-10-24 · Buscados: 4068263040917~~ — RESUELTO el mismo día (versión 2026-10-24-q6d): Dentitex Nature sin flúor, ALDI
 Captura de Mariana de la pestaña "Buscados" (1 escaneo, "está pero sin ingredientes"). Prefijo 4068263 = ALDI España.
 - **Qué es:** **Dentitex Nature Dentífrico sin flúor Menta Fresca** (marca de higiene bucal de ALDI; "con xilitol, extracto
   de cúrcuma, calcio y lactato de zinc", certificado cosmética natural, vegano). Lo dicen las dos fotos de su ficha en Open
@@ -892,7 +892,17 @@ Captura de Mariana de la pestaña "Buscados" (1 escaneo, "está pero sin ingredi
 - **Vías comprobadas:** Open Beauty/Food/Products Facts (solo esas dos delanteras); aldi.es (ficha 598600 leída el
   2026-10-09: solo foto delantera, y además la ficha dice "con salvia" mientras la foto es la Menta Fresca). Ninguna fuente con
   lista y código juntos. Mismo caso que el champú Detox de Lacura (4068263071508): **se queda en Buscados**.
-- **Cómo entra:** con una foto de la trasera donde se lean la lista entera y el código (regla de la foto trasera, como Lacura
+- **Entra (2026-10-24):** Mariana encontró la trasera en un reel de Instagram (cuenta cuidarse_es_vida, la misma del champú
+  Lacura Hair) y pasó la captura: "GTIN: 4068263040917" y la lista entera en la misma foto (regla de la foto trasera). Marca
+  nueva **"Dentitex (ALDI)"**, "Dentífrico sin flúor Menta Fresca Dentitex Nature". Persona responsable: Swiss Consumer Goods
+  GmbH. Lista: Dicalcium Phosphate Dihydrate, Glycerin, Aqua, Xylitol, Hydrated Silica, Malus Domestica Fruit Water*, Curcuma
+  Xanthorrhiza Root Extract*, Zinc Lactate, Stevioside, Sodium Coco-Sulfate, Xanthan Gum, Sodium Hydroxide, Aroma**,
+  Menthol**, Anethole**, Mentha Piperita Oil**, Limonene**, Mentha Viridis Leaf Oil**, Pinene**, Carvone**,
+  Beta-Caryophyllene**, Terpineol**, Camphor** (*agricultura ecológica; **procedente de aceites esenciales; las notas se
+  conservan). Aviso: "aroma no divulgado (sabor)", aunque la etiqueta dice que sale de aceites esenciales: es justo la
+  **propuesta B** pendiente de la quinta cola (sabor con nota de aceites esenciales); si Mariana la aprueba, el aviso cae.
+  Regresión: 0 cambios.
+- **Cómo habría entrado si no:** con una foto de la trasera donde se lean la lista entera y el código (regla de la foto trasera, como Lacura
   Body Zero), por "Añadir ingredientes" o de Mariana en tienda. Los otros 4 códigos de la pestaña ya estaban vistos:
   4068263071508 (champú Detox Lacura, sin lista), 8410412000703 (Babaria crema cara y escote SPF50+, sin lista ni código en
   fuente oficial), 8411582242320 (vinagre Asevi, resuelto: no entra) y 8480024554093 (champú Crowe, sin lista oficial).
