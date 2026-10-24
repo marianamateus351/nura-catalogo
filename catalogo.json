@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q6b",
+ "version": "2026-10-24-q6c",
  "marcas": [
   {
    "key": "larocheposay",
@@ -164145,6 +164145,35 @@
       "3700343901459"
      ],
      "inci": "Filtre hygiénique d'aquisition (100% coton), Cellulose (pulpe de cellulose), Polymères super-absorbants (copolymères acryliques), Film textile (polyéthylène), papier siliconé, Adésifs internes, Adésif externe, Solution huileuse (Aqua, Isohexadecane, Dicaprylyl Ether, Paraffinum Liquidum, Thymus vulgaris Flower/Leaf Oil, Glyceryl Stearate, Ceteareth-20, Sorbeth-2 Hexaoleate, Prunus armenica Kernel Oil, Lactic Acid, Potassium Sorbate, Ceteareth-12, Cetyl Palmitate, Calendula offcinalis Flower Extract, Ketoglutaric Acid, Disodium EDTA, Linalool, Limonene, Tocopherol)"
+    }
+   ]
+  },
+  {
+   "key": "enna",
+   "nombre": "Enna",
+   "productos": [
+    {
+     "nombre": "Braga menstrual hipster, flujo abundante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436598242201",
+      "8436598241358",
+      "8436598241365",
+      "8436598241372",
+      "8436598242218"
+     ],
+     "inci": "33,5 % algodón, 31,3 % nailon, 27,2 % poliéster, 8 % elastano, Acabado antimicrobiano SILVERPLUS® a base de iones de plata"
+    },
+    {
+     "nombre": "Braga menstrual sin costuras, flujo medio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436598241303",
+      "8436598241310"
+     ],
+     "inci": "32 % Nylon, 28 % Algodón, 23 % Poliéster, 17 % Elastano"
     }
    ]
   }

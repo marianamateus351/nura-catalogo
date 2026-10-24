@@ -1189,13 +1189,14 @@ Evax/Tampax: composición del fabricante capa a capa en absorbentes, copas y acc
   reintentar: notino.es, bigbuy.eu, nutritienda.com, kaufland.de, dafnis.com, makeup.es.
 - **Intimina — 0.** intimina.com no publica ninguna lista INCI (el hidratante y Balmy, solo "ingredientes clave"; Bubblegum y pétalos
   de baño, listas traducidas que cambian según el idioma) ni ningún EAN. Copas, disco, Kegel y accesorios, fuera por regla.
-- **Enna — pendiente de Mariana.** ennawomen.com (Shopify, EAN en la ficha) solo tiene **bragas menstruales** con la composición
+- **Enna — ENTRA (Mariana, 2026-10-24: "Enna sí"; versión 2026-10-24-q6c): 2 productos, 7 códigos.** Primera ropa interior
+  absorbente del catálogo; el detector ya les pone microplásticos (poliéster, nylon). Lo que se le planteó: ennawomen.com (Shopify, EAN en la ficha) solo tiene **bragas menstruales** con la composición
   total del tejido (porcentajes que suman 100 %, no por capas): hipster flujo abundante (5 códigos; acabado SILVERPLUS® de iones de
   plata) y sin costuras flujo medio (2). Serían la primera ropa interior textil del catálogo, y saltaría microplásticos por poliéster
   y nylon. La hipster para adolescentes queda fuera en cualquier caso ("tratamiento antibacteriano" sin nombrar la sustancia).
   Copas, disco y packs, fuera.
 - **Cottons — 0.** cottons.es es una escuela infantil; la única marca "Cottons" de absorbentes de algodón es australiana
-  (cottons.com.au), sin venta en la UE. **Pregunta para Mariana**: ¿qué marca era? (¿Cottonlock? ¿Carefree Cotton?)
+  (cottons.com.au), sin venta en la UE. **Mariana, 2026-10-24: "Cottons no"**: se descarta.
 - **Detector, falsos negativos en absorbentes (propuesta D, para Mariana; necesita build):** la ficha 191 es `soloExacto` y sus alias
   son palabras sueltas, así que no salta con "polímeros poliolefínicos" (adjetivo, en el adhesivo de Organyc), "polyéthylène" y
   "PET hydrophile" (composición francesa de Saugella) ni "poliuretano" (elásticos de Organyc; hoy solo Polyurethane-11/-33). Y el
