@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q6a",
+ "version": "2026-10-24-q6b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -162957,6 +162957,1194 @@
       "3701436913472"
      ],
      "inci": "Aqua / Water / Eau, Squalane, Glycerin, Behenyl Alcohol, Neopentyl Glycol Diheptanoate, Butyrospermum Parkii (Shea) Butter, Hexyldecanol, Hexyldecyl Laurate, Cetyl Stearate, Butylene Glycol, Cetyl Alcohol, Isostearyl Isostearate, Potassium Cetyl Phosphate, Chondrus Crispus Extract, Lecithin, Sodium Polyacrylate, Parfum / Fragrance, Caprylyl Glycol, Xanthan Gum, Sodium Benzoate, Citric Acid, Stearic Acid, Sodium Hyaluronate, Sodium Phosphate, Theobroma Cacao (Cocoa) Seed Extract, Linalool, Linalyl Acetate, Benzyl Alcohol, Nonapeptide-1, Trimethylcyclopentenyl Methylisopentenol, Limonene, Disodium Phosphate"
+    }
+   ]
+  },
+  {
+   "key": "montibello",
+   "nombre": "Montibello",
+   "productos": [
+    {
+     "nombre": "Champú ultra reparador Hop Ultra Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525541447"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium Methyl Cocoyl Taurate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Cocamidopropyl Hydroxysultaine, Glycol Distearate, Decyl Glucoside, Acrylates/Palmeth-25 Acrylate Copolymer, Benzoic Acid, Chenopodium Quinoa Seed Extract, Chondrus Crispus Extract, Citric Acid, Coco-Glucoside, Dicaprylyl Ether, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ethylhexyl Cocoate, Glycerin, Glyceryl Oleate, Glyceryl Stearate, Glycine Max (Soybean) Seed Extract, Hydrolyzed Rice Protein, Isochrysis Galbana Extract, Isohexadecane, Lactic Acid, Lecithin, Lens Esculenta (Lentil) Seed Extract, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, PEG-7 Glyceryl Cocoate, Phytosphingosine, Polyquaternium-10, Polyquaternium-22, Potassium Sorbate, Propanediol, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Spirulina Platensis Extract, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Zingiber Officinale (Ginger) Root Extract, Fragrance (Parfum), Acetyl Cedrene, Benzyl Benzoate, Benzyl Salicylate, Hexamethylindanopyran, Hydroxycitronellal, Tetramethyl Acetyloctahydronaphthalenes, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Mascarilla ultra reparadora Hop Ultra Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444847",
+      "8429525541386"
+     ],
+     "inci": "Water (Aqua) (Eau), Glycerin, Dimethicone, Stearyl Alcohol, Steartrimonium Chloride, Behenyl Alcohol, Acrylates/Stearyl Methacrylate Copolymer, Amodimethicone, Behentrimonium Chloride, Cetrimonium Chloride, Cetyl Palmitate, Chenopodium Quinoa Seed Extract, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Dicaprylyl Carbonate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ethylhexyl Cocoate, Glycine Max (Soybean) Seed Extract, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Rice Protein, Hydroxyethylcellulose, Isochrysis Galbana Extract, Isohexadecane, Isopropyl Alcohol, Lactic Acid, Lauryl Glucoside, Lecithin, Lens Esculenta (Lentil) Seed Extract, Myrica Cerifera (Bayberry) Fruit Wax, Octyldodecanol, Palmitamidopropyltrimonium Chloride, Phytosphingosine, Polyglyceryl-3 Caprate, Polyquaternium-37, Potassium Sorbate, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Benzoate, Sorbitan Oleate, Spirulina Platensis Extract, Tocopherol, Trideceth-12, Triolein, Zingiber Officinale (Ginger) Root Extract, Fragrance (Parfum), Acetyl Cedrene, Benzyl Benzoate, Hexamethylindanopyran, Hydroxycitronellal, Tetramethyl Acetyloctahydronaphthalenes, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Acondicionador ultra reparador Hop Ultra Repair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444823",
+      "8429525541409"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Acrylates/Stearyl Methacrylate Copolymer, Alanine, Amodimethicone, Arginine, Aspartic Acid, Cetrimonium Chloride, Cetyl Palmitate, Chenopodium Quinoa Seed Extract, Chondrus Crispus Extract, Citric Acid, Dimethicone, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ethylhexyl Cocoate, Glycine, Glycine Max (Soybean) Seed Extract, Histidine, Hydrolyzed Rice Protein, Isochrysis Galbana Extract, Isohexadecane, Isoleucine, Isopropyl Alcohol, Lecithin, Lens Esculenta (Lentil) Seed Extract, PCA, Phenylalanine, Phytosphingosine, Polyquaternium-22, Polyquaternium-37, Potassium Sorbate, PPG-1 Trideceth-6, PPG-3 Benzyl Ether Myristate, Proline, Propylene Glycol Dicaprylate/Dicaprate, Saccharomyces Ferment Lysate Filtrate, Serine, Sodium Benzoate, Sodium Lactate, Sodium PCA, Spirulina Platensis Extract, Threonine, Tocopherol, Trideceth-12, Triolein, Valine, Zingiber Officinale (Ginger) Root Extract, Fragrance (Parfum), Acetyl Cedrene, Benzyl Benzoate, Hexamethylindanopyran, Tetramethyl Acetyloctahydronaphthalenes, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Crema nutritiva de puntas Hop Ultra Repair Sealed Ends",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444861"
+     ],
+     "inci": "Cyclopentasiloxane, Water (Aqua) (Eau), Dimethiconol, Propylene Glycol, Laureth-9, Chenopodium Quinoa Seed Extract, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Dipropylene Glycol, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ethylhexyl Cocoate, Glycerin, Glycine Max (Soybean) Seed Extract, Hydrolyzed Rice Protein, Hydroxyethylcellulose, Isochrysis Galbana Extract, Isohexadecane, Lactic Acid, Lecithin, Lens Esculenta (Lentil) Seed Extract, Palmitamidopropyltrimonium Chloride, Panthenol, Phenethyl Benzoate, Phytosphingosine, Polyglyceryl-3 Caprate, Polyquaternium-37, Potassium Sorbate, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Benzoate, Spirulina Platensis Extract, Tocopherol, Triolein, Zingiber Officinale (Ginger) Root Extract, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Benzyl Benzoate, Benzyl Salicylate, Hexamethylindanopyran, Hydroxycitronellal, Isoeugenol, Juniperus Virginiana Oil, Linalool, Linalyl Acetate, Pogostemon Cablin Oil, Tetramethyl Acetyloctahydronaphthalenes, Vanillin"
+    },
+    {
+     "nombre": "Mascarilla hidratante Hop Smooth Hydration",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444960",
+      "8429525541324"
+     ],
+     "inci": "Water (Aqua) (Eau), Dimethicone, Glycerin, Diglycerin, Cetyl Alcohol, Behenyl Alcohol, Behentrimonium Chloride, Steartrimonium Chloride, Acrylates/Stearyl Methacrylate Copolymer, Alanine, Aloe Barbadensis Leaf Juice, Amodimethicone, Arginine, Aspartic Acid, Benzyl Alcohol, Butyrospermum Parkii (Shea) Butter, Caprylic Acid, Cetrimonium Chloride, Cetyl Palmitate, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Dicaprylyl Carbonate, Dipropylene Glycol, Disodium EDTA, Ethyl Lauroyl Arginate HCl, Glycine, Histidine, Hydroxyethylcellulose, Isoleucine, Isopropyl Alcohol, Lactic Acid, Lauryl Glucoside, Linum Usitatissimum (Linseed) Seed Extract, Myrica Cerifera (Bayberry) Fruit Wax, Myristyl Alcohol, Octyldodecanol, Palmitamidopropyltrimonium Chloride, Panthenol, PCA, Phenylalanine, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polysilicone-29, Potassium Sorbate, PPG-3 Benzyl Ether Myristate, Proline, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Salvia Hispanica Seed Extract, Serine, Silicone Quaternium-22, Sodium Benzoate, Sodium Hyaluronate, Sodium Lactate, Sodium PCA, Sorbitan Oleate, Spirulina Platensis Extract, Stearyl Alcohol, Threonine, Tocopherol, Trideceth-12, Triolein, Urea, Valine, Xylitol, Fragrance (Parfum), Benzyl Benzoate, Hexamethylindanopyran, Tagetes Minuta Flower Oil, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Acondicionador hidratante Hop Smooth Hydration",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525541348"
+     ],
+     "inci": "Water (Aqua) (Eau), Glycerin, Cetearyl Alcohol, Behentrimonium Chloride, Acrylates/Stearyl Methacrylate Copolymer, Alanine, Arginine, Aspartic Acid, Benzyl Alcohol, Caprylic Acid, Cetyl Palmitate, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Dimethicone, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, Ethyl Lauroyl Arginate HCl, Glycine, Histidine, Isoleucine, Isopropyl Alcohol, Linum Usitatissimum (Linseed) Seed Extract, Palmitamidopropyltrimonium Chloride, PCA, Phenylalanine, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polysilicone-29, Potassium Sorbate, PPG-1 Trideceth-6, PPG-3 Benzyl Ether Myristate, Proline, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Saccharomyces Ferment Lysate Filtrate, Salvia Hispanica Seed Extract, Serine, Silicone Quaternium-22, Sodium Benzoate, Sodium Hyaluronate, Sodium Lactate, Sodium PCA, Spirulina Platensis Extract, Threonine, Tocopherol, Triolein, Valine, Xylitol, Fragrance (Parfum),Benzyl Benzoate, Hexamethylindanopyran, Tagetes Minuta Flower Oil, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú hidratante Hop Smooth Hydration",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525541362"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium Methyl Cocoyl Taurate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Propanediol, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Decyl Glucoside, PEG-7 Glyceryl Cocoate, Polyquaternium-22, Glycol Distearate, Acrylates/Palmeth-25 Acrylate Copolymer, Benzoic Acid, Benzyl Alcohol, Caprylic Acid, Chondrus Crispus Extract, Citric Acid, Dicaprylyl Ether, Disodium EDTA, Ethyl Lauroyl Arginate HCl, Glycerin, Glyceryl Oleate, Lactic Acid, Linum Usitatissimum (Linseed) Seed Extract, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Polyquaternium-10, Potassium Sorbate, Saccharomyces Ferment Lysate Filtrate, Salvia Hispanica Seed Extract, Sodium Benzoate, Sodium Hyaluronate, Sodium Hydroxide, Spirulina Platensis Extract, Tagetes Minuta Flower Oil, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Xylitol, Fragrance (Parfum), Benzyl Benzoate, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Mascarilla protectora del color Hop Colour Last",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525541126"
+     ],
+     "inci": "Water (Aqua) (Eau), Glycerin, Dimethicone, Cetearyl Alcohol, Behenyl Alcohol, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, Soytrimonium Chloride, PPG-3 Benzyl Ether Myristate, Acrylates/Stearyl Methacrylate Copolymer, Amodimethicone, Arginine, Cetrimonium Chloride, Cetyl Palmitate, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Cocotrimonium Methosulfate, Dicaprylyl Carbonate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ferulic Acid, Guar Hydroxypropyltrimonium Chloride, Hydroxyethylcellulose, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lauryl Glucoside, Linalool, Methyl N-methylanthranilate, Myrica Cerifera (Bayberry) Fruit Wax, Octyldodecanol, Olea Europaea (Olive) Fruit Extract, Palmitamidopropyltrimonium Chloride, Pentylene Glycol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-47, Polysilicone-15, Potassium Sorbate, PPG-15 Stearyl Ether, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Benzoate, Sodium Phytate, Sorbitan Oleate, Spirulina Platensis Extract, Tocopherol, Trideceth-12, Triolein, Fragrance (Parfum), Linalool, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Acondicionador prolongador del color Hop Colour Last",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444649",
+      "8429525541140"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Glycerin, Propanediol, Behentrimonium Chloride, Acrylates/Stearyl Methacrylate Copolymer, Amodimethicone, Arginine, Cetrimonium Chloride, Cetyl Palmitate, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Cocotrimonium Methosulfate, Dimethicone, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ferulic Acid, Guar Hydroxypropyltrimonium Chloride, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Methyl N-methylanthranilate, Olea Europaea (Olive) Fruit Extract, Palmitamidopropyltrimonium Chloride, Pentylene Glycol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-47, Polysilicone-15, Potassium Sorbate, PPG-1 Trideceth-6, PPG-15 Stearyl Ether, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Benzoate, Sodium Phytate, Spirulina Platensis Extract, Tocopherol, Trideceth-12, Triolein, Fragrance (Parfum), Linalool, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Champú prolongador del color Hop Colour Last",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444625",
+      "8429525541164"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium Methyl Cocoyl Taurate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Cocamidopropyl Hydroxysultaine, Decyl Glucoside, Acrylates/Palmeth-25 Acrylate Copolymer, Arginine, Behentrimonium Chloride, Benzoic Acid, Chondrus Crispus Extract, Citric Acid, Coco-Glucoside, Cocotrimonium Methosulfate, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ferulic Acid, Glycerin, Glyceryl Oleate, Glyceryl Stearate, Glycol Distearate, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract , Isopropyl Alcohol, Lactic Acid, Methyl N-methylanthranilate, Olea Europaea (Olive) Fruit Extract, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Pentylene Glycol, Polyquaternium-10, Polyquaternium-22, Polysilicone-15, Potassium Sorbate, PPG-15 Stearyl Ether, Propanediol, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Phytate, Spirulina Platensis Extract, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Fragrance (Parfum), Linalool, Red 33 (CI 17200), Yellow 5 (CI 19140), Blue 1 (CI 42090)"
+    },
+    {
+     "nombre": "Mascarilla para rubios Hop Blonde Glow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525445059"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Glycerin, Propanediol, Octyldodecanol, Cetyl Palmitate, Behenyl Alcohol, Behentrimonium Chloride, Distearoylethyl Hydroxyethylmonium Methosulfate, PPG-3 Benzyl Ether Myristate, Acrylates/Stearyl Methacrylate Copolymer, Amodimethicone, Butyrospermum Parkii (Shea) Butter, Cetrimonium Chloride, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Cocotrimonium Methosulfate, Dicaprylyl Carbonate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Ethylhexyl Hydroxystearate, Guar Hydroxypropyltrimonium Chloride, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid, Lauryl Glucoside, Myrica Cerifera (Bayberry) Fruit Wax, Olea Europaea (Olive) Fruit Extract, Palmitamidopropyltrimonium Chloride, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-47, Polysilicone-15, Potassium Sorbate, PPG-15 Stearyl Ether, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Ascorbate, Sodium Benzoate, Sodium Phytate, Sorbitan Oleate, Soytrimonium Chloride, Tocopherol, Trideceth-12, Triolein, Fragrance (Parfum), Benzyl Benzoate, Hexamethylindanopyran, Limonene, Linalool, Pogostemon Cablin Oil, Tetramethyl Acetyloctahydronaphthalenes, Bismuth Oxychloride (CI 77163), Ext. Violet 2 (Acid Violet 43), Red 33 ( Acid Red 33)"
+    },
+    {
+     "nombre": "Champú para rubios Hop Blonde Glow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525445035",
+      "8429525541102"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium Methyl Cocoyl Taurate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Cocamidopropyl Hydroxysultaine, Decyl Glucoside, Acrylates/Palmeth-25 Acrylate Copolymer, Behentrimonium Chloride, Benzoic Acid, Chondrus Crispus Extract, Citric Acid, Coco-Glucoside, Cocotrimonium Methosulfate, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Glyceryl Oleate, Glyceryl Stearate, Glycol Distearate, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid, Olea Europaea (Olive) Fruit Extract, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Polyquaternium-10, Polyquaternium-22, Polysilicone-15, Potassium Sorbate, PPG-15 Stearyl Ether, Propanediol, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Sodium Ascorbate, Sodium Benzoate, Sodium Phytate, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Fragrance (Parfum), Benzyl Benzoate, Hexamethylindanopyran, Limonene, Linalool, Pogostemon Cablin Oil, Tetramethyl Acetyloctahydronaphthalene, Ext. Violet 2 (Acid Violet 43)"
+    },
+    {
+     "nombre": "Champú intensificador del color castaño Hop Brown Reflects",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444748"
+     ],
+     "inci": "Water (Aqua) (Eau), Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Decyl Glucoside, PEG-4 Rapeseedamide, Sodium Chloride, Cocamidopropylamine Oxide, 1,2-Hexanediol, Behentrimonium Chloride, Chondrus Crispus Extract, Citric Acid, Cocotrimonium Methosulfate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid,Olea Europaea (Olive) Fruit Extract, Panthenol, PEG-120 Methyl Glucose Trioleate, PEG-15 Cocopolyamine, PEG-7 Glyceryl Cocoate, Phenylpropanol, Polyquaternium-22, Polysilicone-19, Potassium Sorbate, PPG-15 Stearyl Ether, Propanediol, Propylene Glycol, Pyridoxine HCL, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Phytate, Tocopherol, Triolein, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Hexyl Cinnamal, Limonene, Linalool, Basic Blue 99, Basic Red 51, Basic Yellow 87"
+    },
+    {
+     "nombre": "Champú intensificador del color rojo Hop Red Reflects",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444755"
+     ],
+     "inci": "Water (Aqua) (Eau), Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Decyl Glucoside, PEG-4 Rapeseedamide, Sodium Chloride, Cocamidopropylamine Oxide, 1,2-Hexanediol, Behentrimonium Chloride, Chondrus Crispus Extract, Citric Acid, Cocotrimonium Methosulfate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid, Olea Europaea (Olive) Fruit Extract, Panthenol, PEG-120 Methyl Glucose Trioleate, PEG-15 Cocopolyamine, PEG-7 Glyceryl Cocoate, Phenylpropanol, Polyquaternium-22, Polysilicone-19, Potassium Sorbate, PPG-15 Stearyl Ether, Propanediol, Propylene Glycol, Pyridoxine HCL, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Phytate, Tocopherol, Triolein, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Hexyl Cinnamal, Limonene, Linalool, Basic Red 51, Basic Yellow 87"
+    },
+    {
+     "nombre": "Champú intensificador del color cobrizo Hop Copper Reflects",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444762"
+     ],
+     "inci": "Water (Aqua) (Eau), Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Decyl Glucoside, PEG-4 Rapeseedamide, Sodium Chloride, Cocamidopropylamine Oxide, 1,2-Hexanediol, Behentrimonium Chloride, Chondrus Crispus Extract, Citric Acid, Cocotrimonium Methosulfate, Dipropylene Glycol, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid,Olea Europaea (Olive) Fruit Extract, Panthenol, PEG-120 Methyl Glucose Trioleate, PEG-15 Cocopolyamine, PEG-7 Glyceryl Cocoate, Phenylpropanol, Polyquaternium-22, Polysilicone-19, Potassium Sorbate, PPG-15 Stearyl Ether, Propanediol, Propylene Glycol, Pyridoxine HCL, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Phytate, Tocopherol, Triolein, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Hexyl Cinnamal, Limonene, Linalool, Basic Red 51, Basic Yellow 87"
+    },
+    {
+     "nombre": "Tratamiento detox del cuero cabelludo Hop Scalp Detox",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444885"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Hectorite, Cetearyl Alcohol, Phenylpropanol, 1,2-Hexanediol, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Isochrysis Galbana Extract, Lactic Acid, Lactococcus Ferment Lysate, Magnesium Aluminum Silicate, Potassium Sorbate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sarcosine, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Sodium Hydroxide, Xanthan Gum, Fragrance (Parfum), Citral , Citronellol, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Limon (Lemon) Oil, Hexamethylindanopyran, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Methyl Eugenol, Methyl-N-methylanthranilate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499)"
+    },
+    {
+     "nombre": "Champú detoxificante Hop Detox Cleansing",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525541461"
+     ],
+     "inci": "Water (Aqua) (Eau), Decyl Glucoside, Glycerin, Disodium Cocoyl Glutamate, PEG-40 Hydrogenated Castor Oil, Xanthan Gum, Aloe Barbadensis Leaf Juice, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Isochrysis Galbana Extract, Lactic Acid, Lactococcus Ferment Lysate, Potassium Sorbate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sarcosine, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Tocopherol, Triolein, Fragrance (Parfum), Citral, Citronellol, Citrus Aurantium Peel Oil, Citrus Limon (Lemon) Peel Oil, Hexamethylindanopyran, Hydroxycitronellal, Linalyl Acetate, Methyl Eugenol, Methyl N-methylanthranilate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Red 33 (CI 17200), Yellow 5 (CI 19140), Green 5 (CI 61570)"
+    },
+    {
+     "nombre": "Champú purificante Hop Purifying Balance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444892"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Chloride, Propanediol, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Glycol Distearate, Isochrysis Galbana Extract, Lactic Acid, Lactococcus Ferment Lysate, Methyl N-methylanthranilate, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, PEG-40 Hydrogenated Castor Oil, Polyquaternium-10, Polyquaternium-22, Potassium Sorbate, Propanediol Caprylate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Citrate, Sodium Hydroxide, Steareth-4, Tocopherol, Triolein, Fragrance (Parfum), Citral, Citronellol, Citrus Aurantium Peel Oil, Citrus Limon (Lemon) Peel Oil, Hexamethylindanopyran, Hydroxycitronellal, Limonene, Linalool, Linalyl Acetate, Methyl Eugenol, Pinene, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Tratamiento exfoliante del cuero cabelludo Hop Purifying Balance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444878"
+     ],
+     "inci": "Water (Aqua) (Eau), Sea Salt (Maris Sal) (Sel marin), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Hydroxypropyl Starch Phosphate, Sodium Lauroyl Methyl Isethionate, Glycerin, Propanediol, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Isochrysis Galbana Extract, Lactic Acid, Lactococcus Ferment Lysate, Methyl N-methylanthranilate, Propanediol Caprylate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Fragrance (Parfum), Citronellol, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Limon (Lemon) Peel Oil, Limonene, Linalool, Linalyl Acetate, Methyl Eugenol, Tetramethyl Acetyloctahydronaphthalenes, Green 5 (CI 61750), Red 33 (CI 17200)"
+    },
+    {
+     "nombre": "Champú protector cuero cabelludo sensible Hop Sensitive Protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444984"
+     ],
+     "inci": "Aloe Barbadensis Leaf Juice, Water (Aqua) (Eau), Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Decyl Glucoside, Cocamidopropyl Hydroxysultaine, Propanediol, PEG-7 Glyceryl Cocoate, Anhydroxylitol, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Glycerin, Isochrysis Galbana Extract, Lactic Acid, Laureth-2, Niacinamide, Panthenol, Panthenol, PEG/PPG-120/10 Trimethylolpropane Trioleate, PEG-4 Rapeseedamide, Polyquaternium-10, Potassium Sorbate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Chloride, Sodium Citrate, Sodium Lauroyl Sarcosinate, Tetrasodium EDTA, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Xylitol, Xylitylglucoside, Fragrance (Parfum), Benzyl Salicylate, Hydroxycitronellal, Linalool"
+    },
+    {
+     "nombre": "Sérum calmante cuero cabelludo Hop Sensitive Protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525446384"
+     ],
+     "inci": "Water (Aqua) (Eau), Glycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate, Dipropylene Glycol Copolymer, Aloe Barbadensis Leaf Juice, Anhydroxylitol, Bisabolol, Boswellia Serrata Gum, Citric Acid, Disodium EDTA, Dunaliella Salina Extract, Ethyl Lauroyl Arginate, Isochrysis Galbana Extract, Niacinamide, Potassium Sorbate, Saccharide Isomerate, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Citrate, Tocopherol, Triolein, Xylitol, Xylitylglucoside, Fragrance (Parfum), Benzyl Benzoate, Benzyl Salicylate, Citral, Citronellol, Citrus Limon (Lemon) Oil, Geraniol, Geranyl Acetate, Hexamethylindanopyran, Hydroxycitronellal, Linalool, Menthol"
+    },
+    {
+     "nombre": "Champú en seco voluminizador Hop Full Volume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525445004"
+     ],
+     "inci": "Isobutane, Propane, Alcohol Denat., Butane, Tapioca Starch, Aqua, Benzyl Alcohol, Chondrus Crispus Extract, Citric Acid, Glycerin, Hexamethylindanopyran, Hydrolyzed Oat Protein, Isopropyl Myristate, Parfum, Polymethylsilsesquioxane, Potassium Sorbate, Saccharomyces Ferment Lysate Filtrate, Silica, Sodium Benzoate, Spirulina Platensis Extract, Tetramethyl Acetyloctahydronaphthalenes, Tocopherol, Triolein"
+    },
+    {
+     "nombre": "Mousse acondicionadora Hop Full Volume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525445257"
+     ],
+     "inci": "Water (Aqua) (Eau), Isobutane, Glycerin, Stearyl Alcohol, Octyldodecanol, Propane, Arginine, Behenamidopropyl Dimethylamine, Benzyl Alcohol, Butane, Ceteareth-23, Cetyl Alcohol, Chondrus Crispus Extract, Citric Acid, Decyl Glucoside, Disodium EDTA, Ethyl Lauroyl Arginate HCl, Hydrolyzed Oat Protein, Hydrolyzed Rice Protein, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Hydroxypropyl Starch Phosphate, Lactic Acid, Laureth-9, Myristyl Alcohol, Panthenol, Pentylene Glycol, Polyquaternium-10, Potassium Sorbate, Propylene Glycol, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Soytrimonium Chloride, Spirulina Platensis Extract, Tocopherol, Triolein, Fragrance (Parfum), Citrus Limon Oil, Hexamethylindanopyran, Limonene, Linalyl Acetate, Pinene,Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Champú voluminizador Hop Full Volume",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525445011"
+     ],
+     "inci": "Water (Aqua) (Eau), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Propanediol, Arginine, Benzyl Alcohol, Chondrus Crispus Extract, Citric Acid, Disodium EDTA, Ethyl Lauroyl Arginate HCl, Glycerin, Hydrolyzed Oat Protein, Hydrolyzed Rice Protein, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Lactic Acid, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, PEG-40 Hydrogenated Castor Oil, Pentylene Glycol, Polyquaternium-10, Polyquaternium-22, Potassium Sorbate, Saccharomyces Ferment Lysate Filtrate, Sodium Benzoate, Sodium Hydroxide, Sodium Lauroyl Sarcosinate, Spirulina Platensis Extract, Tetrasodium EDTA, Tocopherol, Triolein, Trisodium Ethylenediamine Disuccinate, Fragrance (Parfum), Citrus Limon Oil, Hexamethylindanopyran, Limonene, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Tratamiento reparador en spray Smart Touch Reset My Hair Light",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525428373"
+     ],
+     "inci": "Aqua, Dimethicone, Distearoylethyl Hydroxyethylmonium Methosulfate, Phenethyl Benzoate, Cetearyl Alcohol, Amaranthus Caudatus Seed Extract, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Benzyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Calcium Gluconate, Caprylyl Glycol, Ceteareth-23, Citral, Citric Acid, Citronellol, Cocamidopropyl Betaine, Dimethicone PEG-8 Meadowfoamate, Dipropylene Glycol, Disodium EDTA, Disodium Phosphate, Ethylhexyl Salicylate, Gluconolactone, Glycerin, Hexyl Cinnamal, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Limonene, Linalool, Moringa Oleifera Seed Extract, Palmitamidopropyltrimonium Chloride, Parfum, Phenethyl Alcohol, Phenoxyethanol, Polyglyceryl-3 Caprate, Polyquaternium-37, Potassium Sorbate, PPG-1 Trideceth-6, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Silicone Quaternium-22, Sodium Benzoate, Tocopherol, Triethanolamine, Zea Mays Starch"
+    },
+    {
+     "nombre": "Tratamiento reparador en spray Smart Touch Reset My Hair Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525441075"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Cyclopentasiloxane, Parfum, Glycerin, Alpha-Isomethyl Ionone, Benzyl Salicylate, Butyl Methoxydibenzoylmethane, Butylene Glycol, Citral, Citronellol, Coumarin, Cyclohexasiloxane, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Ethylhexyl Methoxycinnamate, Geraniol, Hexyl Cinnamal, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Hydrolyzed Wheat Protein, Iodopropynyl Butylcarbamate, Isopropyl Alcohol, Limonene, Linalool, Lycium Barbarum Fruit Extract, Phenethyl Benzoate, Phenoxyethanol, Potassium Sorbate, Propylene Glycol, Quaternium-80, Sodium Benzoate"
+    },
+    {
+     "nombre": "Champú micelar Smart Touch Clean My Hair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525428335"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, PEG-7 Glyceryl Cocoate, Parfum, Benzoic Acid, Caprylyl Glycol, Decyl Glucoside, Dicaprylyl Ether, Dimethylsilanol Hyaluronate, Disodium EDTA, Glycerin, Glyceryl Oleate, Lactic Acid, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Phenoxyethanol, Polyquaternium-10, Polyquaternium-22, Polyquaternium-7, Potassium Sorbate, Propanediol, Sodium Benzoate, Sodium Chloride, Sodium Hyaluronate, Sodium Hydroxide, Sodium Lauroyl Sarcosinate, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Zingiber Officinale Root Extract"
+    },
+    {
+     "nombre": "Champú micelar detoxificante Smart Touch Detox My Hair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525438242"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, PEG-7 Glyceryl Cocoate, Acid Green 25 (CI 61570), Benzoic Acid, Benzyl Benzoate, Caprylyl Glycol, Citric Acid, Disodium EDTA, Disodium Phosphate, Glycerin, Lactic Acid, Limonene, Linalool, Moringa Oleifera Seed Extract, Parfum, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Phenoxyethanol, Polyquaternium-10, Polyquaternium-22, Potassium Sorbate, Propanediol, Sarcosine, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Lauroyl Sarcosinate, Spirulina Platensis Extract, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Acid Red 33 (CI 17200) (Red 33), Acid Yellow 23 (CI 19140)"
+    },
+    {
+     "nombre": "Champú micelar reparador Smart Touch Repair My Hair",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525438235"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, PEG-7 Glyceryl Cocoate, Amaranthus Caudatus Seed Extract, Benzoic Acid, Butylene Glycol, Calcium Gluconate, Caprylic/Capric Triglyceride, Caprylyl Glycol, Chlorphenesin, Decyl Glucoside, Dicaprylyl Ether, Diethylhexyl Syringylidenemalonate, Disodium EDTA, Ethylhexylglycerin, Euterpe Oleracea Fruit Extract, Gluconolactone, Glycerin, Glyceryl Oleate, Hexyl Cinnamal, Hydrolyzed Quinoa, Lactic Acid, Limonene, Parfum, PEG-120 Methyl Glucose Trioleate, PEG-4 Rapeseedamide, Phenethyl Alcohol, Phenoxyethanol, Polyquaternium-10, Polyquaternium-22, Polyquaternium-7, Potassium Sorbate, Propanediol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Sodium Lauroyl Sarcosinate, Tetrasodium EDTA, Tocopherol, Trisodium Ethylenediamine Disuccinate, Zea Mays Starch, CI 17200, CI 19140"
+    },
+    {
+     "nombre": "Aceite capilar Gold Oil Essence The Amber & Argan Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110155"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Phenyl Trimethicone, Cyclohexasiloxane, Amber Extract, Argania Spinosa Oil, Benzophenone-3, BHA, Helianthus Annuus Seed Oil, Parfum, Phenethyl Benzoate, Rosmarinus Officinalis Leaf Extract, CI 26100, CI 47000"
+    },
+    {
+     "nombre": "Aceite capilar Gold Oil Essence Tsubaki Oil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525554973"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, Phenyl Trimethicone, Camellia Japonica Seed Oil, Alpha-Isomethyl Ionone, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Coumarin, Cyclohexasiloxane, Diethylhexyl Syringylidenemalonate, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Limonene, Parfum, Phenethyl Benzoate, Tocopheryl Acetate, CI 26100"
+    },
+    {
+     "nombre": "Bálsamo definición de rizos Decode Curl Definer",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525414956"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Cyclopentasiloxane, Alcohol Denat., Phenethyl Benzoate, Glycerin, Amodimethicone, Polyquaternium-11, PPG-20 Methyl Glucose Ether, Alanine, Amyl Cinnamal, Arginine, Aspartic Acid, Behentrimonium Chloride, Benzalkonium Chloride, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Ceteareth-23, Cetrimonium Chloride, Cyclohexasiloxane, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Glycine, Hexyl Cinnamal, Histidine, Hydroxyethylcellulose, Iodopropynyl Butylcarbamate, Isoleucine, Isopropyl Alcohol, Lactic Acid, Limonene, Linalool, Panthenol, Parfum, PCA, Phenylalanine, Polyquaternium-37, Polyquaternium-4, PPG-1 Trideceth-6, Proline, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Serine, Sodium Benzoate, Sodium Lactate, Sodium PCA, Threonine, Trideceth-12, Valine, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Bálsamo activador de rizos Decode Curl Creator",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525414949"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Alcohol Denat., Polyquaternium-16, Glycerin, Polyquaternium-11, Phenethyl Benzoate, Cetearyl Alcohol, Alanine, Amyl Cinnamal, Arginine, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Ceteareth-23, Cyclohexasiloxane, Diazolidinyl Urea, Dicaprylyl Carbonate, Disodium EDTA, DMDM Hydantoin, Glycine, Hexyl Cinnamal, Histidine, Hydroxyethylcellulose, Iodopropynyl Butylcarbamate, Isoleucine, Lactic Acid, Lauryl Glucoside, Limonene, Linalool, Panthenol, Parfum, PCA, Phenylalanine, Polyquaternium-37, Polyquaternium-4, PPG-3 Benzyl Ether Myristate, Proline, Propylene Glycol, Serine, Sodium Lactate, Sodium PCA, Threonine, Valine, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Spray fijador fuerte Decode Finish Fix Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415076"
+     ],
+     "inci": "Alcohol Denat., Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Aminomethyl Propanol, Alpha-Isomethyl Ionone, Aqua, Benzophenone-3, Beta Vulgaris Root Extract, Caprylic/Capric Triglyceride, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Panthenol, Parfum, PEG-14 Dimethicone, Propylene Glycol"
+    },
+    {
+     "nombre": "Spray de acabado alto brillo Decode Finish Radiance",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415038"
+     ],
+     "inci": "Isobutane, Propane, Trisiloxane, Hexamethyldisiloxane, Dimethicone, Cetearyl Ethylhexanoate, Alcohol Denat., Butane, Alpha-Isomethyl Ionone, Benzophenone-3, Benzyl Salicylate, Beta Vulgaris Root Extract, Caprylic/Capric Triglyceride, Dimethiconol, Hexyl Cinnamal, Isopropyl Myristate, Limonene, Linalool, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Laca de fijación fuerte Decode Finish Supreme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415052"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Isobutane, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Propane, Alpha-Isomethyl Ionone, Aminomethyl Propanol, Aqua, Benzophenone-3, Beta Vulgaris Root Extract, Butane, Caprylic/Capric Triglyceride, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Panthenol, Parfum, PEG/PPG-18/18 Dimethicone, PEG-14 Dimethicone, Propylene Glycol, Triethyl Citrate"
+    },
+    {
+     "nombre": "Laca de fijación extrafuerte Decode Finish Ultimate",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415069"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Isobutane, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Propane, Aqua, Aminomethyl Propanol, Alpha-Isomethyl Ionone, Benzophenone-3, Beta Vulgaris Root Extract, Butane, Caprylic/Capric Triglyceride, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Panthenol, Parfum, PEG/PPG-18/18 Dimethicone, PEG-14 Dimethicone, Propylene Glycol, Triethyl Citrate"
+    },
+    {
+     "nombre": "Bálsamo protector alisador Decode Smooth Absolute Plus",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525414970"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Propylene Glycol, Alpha-Isomethyl Ionone, Amodimethicone, Benzalkonium Chloride, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Cetrimonium Chloride, Diazolidinyl Urea, Dimethiconol, Disodium EDTA, DMDM Hydantoin, Geraniol, Hexyl Cinnamal, Hydroxyethylcellulose, Iodopropynyl Butylcarbamate, Lactic Acid, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Laureth-9, Panthenol, Parfum, PEG/PPG-18/18 Dimethicone, Phenethyl Benzoate, Phenoxyethanol, Polyquaternium-37, Polyquaternium-4, Potassium Sorbate, PPG-1 Trideceth-6, Propylene Glycol Dicaprylate/Dicaprate, Quaternium-80, Sodium Benzoate, Sorbic Acid, Styrene/VP Copolymer, Trideceth-12, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Spray alisador protector Decode Smooth Perfection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525414987"
+     ],
+     "inci": "Alcohol Denat., Trisiloxane, Dimethicone, PPG-3 Benzyl Ether Myristate, Phenethyl Benzoate, Silicone Quaternium-22, VP/VA Copolymer, Alpha-Isomethyl Ionone, Benzophenone-3, Beta Vulgaris Root Extract, Caprylic/Capric Triglyceride, Geraniol, Hexyl Cinnamal, Panthenol, Parfum, PPG-3 Myristyl Ether, Propylene Glycol"
+    },
+    {
+     "nombre": "Sérum antiencrespamiento Decode Smooth Sleek Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525414994"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Dimethiconol, Propylene Glycol, Phenyl Trimethicone, Laureth-9, Alpha-Isomethyl Ionone, Benzophenone-4, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Cocamidopropyl Betaine, Diazolidinyl Urea, Dipropylene Glycol, Disodium EDTA, DMDM Hydantoin, Geraniol, Hexyl Cinnamal, Hydrogenated Polydecene, Hydroxyethylcellulose, Iodopropynyl Butylcarbamate, Laureth-4, Palmitamidopropyltrimonium Chloride, Panthenol, Parfum, Phenethyl Benzoate, Polyglyceryl-3 Caprate, Silicone Quaternium-22, Sodium Polyacrylate, Synthetic Fluorphlogopite, Tin Oxide, Trideceth-6, Triethanolamine, VP/VA Copolymer, CI 77891"
+    },
+    {
+     "nombre": "Pasta de fibras flexible Decode Texture Fiber Flex",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415281"
+     ],
+     "inci": "Aqua, Cera Alba, Propylene Glycol, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Paraffinum Liquidum, Glyceryl Stearate, Ceteareth-23, VP/VA Copolymer, Bis-Diglyceryl Polyacyladipate-2, Ceteareth-6, Acrylates/Beheneth-25 Methacrylate Copolymer, Alpha-Isomethyl Ionone, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Citronellol, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Limonene, Linalool, Panthenol, Parfum, PEG-90M, Stearyl Alcohol, Triethanolamine, CI 15510"
+    },
+    {
+     "nombre": "Cera de acabado mate Decode Texture Men Matt Wax",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415298"
+     ],
+     "inci": "Aqua, Cera Alba, Cetearyl Alcohol, PEG-7 Glyceryl Cocoate, Synthetic Beeswax, Paraffinum Liquidum, Propylene Glycol, PEG-100 Stearate, Glyceryl Stearate, Kaolin, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, PPG-20 Methyl Glucose Ether, Ascorbic Acid, Ascorbyl Palmitate, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Cinnamal, Citric Acid, Coumarin, Diazolidinyl Urea, Dimethicone, Disodium EDTA, DMDM Hydantoin, Ethylhexylglycerin, Iodopropynyl Butylcarbamate, Limonene, Linalool, Panthenol, Parfum, PEG-8, Phenoxyethanol, Polyquaternium-7, Tocopherol"
+    },
+    {
+     "nombre": "Crema modeladora Decode Texture Men Hard Shape",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415328"
+     ],
+     "inci": "Aqua, Octyldodecanol, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Sorbitan Isostearate, Glycerin, Ceteareth-23, Cera Alba, Cetearyl Alcohol, PEG-7 Glyceryl Cocoate, PEG-8, PEG-100 Stearate, Glyceryl Stearate, Benzophenone-3, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citral, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Geraniol, Hexyl Cinnamal, Hydrogenated Polydecene, Hydroxyethylcellulose, Iodopropynyl Butylcarbamate, Limonene, Linalool, Panthenol, Parfum, Phenoxyethanol, Polyquaternium-55, Propylene Glycol, Sodium Polyacrylate, Trideceth-6"
+    },
+    {
+     "nombre": "Spray salino de peinado Decode Texture Surf Salt",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415335"
+     ],
+     "inci": "Aqua, Magnesium Sulfate, Sodium Chloride, PVP, Glycerin, PEG-40 Hydrogenated Castor Oil, Alpha-Isomethyl Ionone, Amodimethicone, Benzophenone-4, Benzyl Alcohol, Butylene Glycol, C11-15 Pareth-7, Citronellol, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Limonium Gerberi Extract, Linalool, Maris Sal, Panthenol, Parfum, PEG-14 Dimethicone, Polysorbate 20, Propylene Glycol, Salicylic Acid, Sorbic Acid, Trideceth-12, Triethanolamine"
+    },
+    {
+     "nombre": "Champú en seco Decode Texture Fresh Air",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415342"
+     ],
+     "inci": "Isobutane, Propane, Alcohol Denat., Tapioca Starch, Butane, Aqua, Benzophenone-3, Beta Vulgaris Root Extract, Caprylic/Capric Triglyceride, Hexyl Cinnamal, Isopropyl Myristate, Panthenol, Parfum, Polymethylsilsesquioxane, Propylene Glycol, Silica"
+    },
+    {
+     "nombre": "Acondicionador instantáneo bifásico Decode Texture Bi-Fase",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525439317"
+     ],
+     "inci": "Aqua, Disiloxane, Cyclopentasiloxane, Alcohol Denat., Polyquaternium-11, Alpha-Isomethyl Ionone, Aminopropyl Phenyl Trimethicone, Benzophenone-4, Benzyl Salicylate, Butylene Glycol, Citronellol, Cyclohexasiloxane, Diazolidinyl Urea, Dimethiconol, Disodium EDTA, DMDM Hydantoin, Glycerin, Hexyl Cinnamal, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Hydrolyzed Wheat Protein, Iodopropynyl Butylcarbamate, Lactic Acid, Limonene, Linalool, Panthenol, Parfum, PEG/PPG-18/18 Dimethicone, Phenoxyethanol, Polyquaternium-4, Potassium Sorbate, Propylene Glycol, Sodium Benzoate, Sodium PCA, Stearalkonium Chloride, CI 15510, CI 19140"
+    },
+    {
+     "nombre": "Crema de peinado volumen Decode Volume Raise Up",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525420551"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Cetearyl Alcohol, Glycerin, VP/DMAPA Acrylates Copolymer, Polyquaternium-4, Corn Starch Modified, Alpha-Isomethyl Ionone, Benzalkonium Chloride, Benzophenone-4, Beta Vulgaris Root Extract, Butylene Glycol, Caprylic/Capric Triglyceride, Ceteareth-23, Citronellol, Diazolidinyl Urea, Dicaprylyl Carbonate, Dimethiconol, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Laureth-9, Lauryl Glucoside, Limonene, Linalool, Panthenol, Parfum, PEG-14 Dimethicone, PEG-8, Phenethyl Benzoate, Polyquaternium-37, Propylene Glycol, Triethanolamine"
+    },
+    {
+     "nombre": "Spray volumen y textura Decode Volume Miracle",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415144"
+     ],
+     "inci": "Aqua, Alcohol Denat., Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Triethanolamine, Benzophenone-4, Butylene Glycol, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Limonium Gerberi Extract, Linalool, Panthenol, Parfum, PEG-14 Dimethicone, Propylene Glycol"
+    },
+    {
+     "nombre": "Espuma extra volumen raíces Decode Volume Roots Up",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525415151"
+     ],
+     "inci": "Aqua, Dimethyl Ether, Alcohol Denat., VP/VA Copolymer, Benzophenone-4, Butane, Butylene Glycol, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Isobutane, Laureth-9, Limonene, Limonium Gerberi Extract, Linalool, Panthenol, Parfum, PEG-14 Dimethicone, Polyquaternium-4, PPG-3 Myristyl Ether, Propane, Propylene Glycol, Silicone Quaternium-22, Triethanolamine"
+    },
+    {
+     "nombre": "Gel definidor de rizos Decode Zero Loop",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525537488"
+     ],
+     "inci": "Water (Aqua) (Eau), Polyquaternium-10, Propanediol, VP/VA Copolymer, Benzyl Alcohol, Caprylic Acid, Citric Acid, Disodium EDTA, Ethylhexylglycerin, Hydroxyethylcellulose, Linum Usitatissimum (Linseed) Seed Extract, Panthenol, PEG-40 Hydrogenated Castor Oil, PG-Hydroxyethylcellulose Cocodimonium Chloride, Phenoxyethanol, Polyquaternium-37, Potassium Sorbate, Salvia Hispanica Seed Extract, Sodium Benzoate, Sodium PCA, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin, Xylitol, Blue 1 (CI 42090), Red 33 (CI 17200), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Aceite nutritivo ultraligero Decode Zero Supreme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525448982"
+     ],
+     "inci": "Coco-Caprylate/Caprate, Caprylic/Capric Triglyceride, Argania Spinosa Kernel Oil, Camellia Japonica Seed Oil, Linum Usitatissimum (Linseed) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin. 9414/03 (NAL)"
+    },
+    {
+     "nombre": "Aceite restaurador intensivo Decode Zero Cure",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525543212"
+     ],
+     "inci": "Cyclopentasiloxane, Dimethiconol, PPG-3 Benzyl Ether Myristate, Propylene Glycol Dibenzoate, Crambe Abyssinica Seed Oil, Cyclohexasiloxane, Gossypium Herbaceum (Cotton) Seed Oil, Pentaclethra Macroloba Seed Oil, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Beta-Caryophyllene, Citral, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Pelargonium Graveolens Flower Oil, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin"
+    },
+    {
+     "nombre": "Spray antiencrespamiento Decode Zero Cosmic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525439324"
+     ],
+     "inci": "Water (Aqua) (Eau), Dipropylene Glycol, Polysilicone-29, Benzyl Alcohol, Caprylic Acid, Citric Acid, Glycerin, Lactic Acid, Linum Usitatissimum (Linseed) Seed Extract, Panthenol, Phalaenopsis Amabilis Extract, Phenoxyethanol, Potassium Sorbate, Propanediol, Salvia Hispanica Seed Extract, Silicone Quaternium-18, Sodium Benzoate, Sodium Gluconate, Trideceth-12, Trideceth-6, Xylitol, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin"
+    },
+    {
+     "nombre": "Gel activador de rizos Decode Zero Flow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525537501"
+     ],
+     "inci": "Water (Aqua) (Eau), Propanediol, Hydroxyethylcellulose, Acetyl Cedrene, Acrylates/Stearyl Methacrylate Copolymer, Benzotriazolyl Dodecyl p-Cresol, Benzyl Alcohol, Caprylic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Chrysanthemum Morifolium Flower Extract, Citric Acid, Cottonseed Oil Glycereth-8 Esters, Dicaprylyl Carbonate, Diethylhexyl Syringylidenemalonate, Ethylhexylglycerin, Glycerin, Lactic Acid, Lauryl Glucoside, Linum Usitatissimum (Linseed) Seed Extract, Macadamia Seed Oil Glycereth-8 Esters, Panthenol, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Polyquaternium-11, Polyquaternium-16, Polyquaternium-37, Potassium Sorbate, PPG-26-Buteth-26, Propylene Glycol, Rice Oil Glycereth-8 Esters, Salvia Hispanica Seed Extract, Sodium Benzoate, Sodium PCA, Sodium Phytate, Sorbitan Oleate, Fragrance (Parfum), Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin, Xylitol, Blue 1 (CI 42090), Red 33 (CI 17200), Yellow 5 (CI 19140). 9663/01 (NAL)"
+    },
+    {
+     "nombre": "Spray texturizante Decode Zero Perfect",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525424986"
+     ],
+     "inci": "Dimethyl Ether, Alcohol Denat., Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Tapioca Starch, Acetyl Cedrene, Alpha-Isomethyl Ionone, Aqua, Citronellol, Ethylhexyl Methoxycinnamate, Hydroxycitronellal, Limonene, Linalyl Acetate, Magnesium Stearate, Panthenol, Parfum, PEG/PPG-18/18 Dimethicone, PEG-14 Dimethicone, Pinene, Polymethylsilsesquioxane, Propylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, Triethyl Citrate, Trimethylcyclopentenyl Methylisopentenol, Vanillin"
+    },
+    {
+     "nombre": "Gel hidratante al agua Decode Zero Pure",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525424948"
+     ],
+     "inci": "Water (Aqua) (Eau), Propylene Glycol, Benzalkonium Chloride, Benzophenone-4, Camellia Sinensis Leaf Extract, Cetrimonium Chloride, Disodium EDTA, Ethylhexylglycerin, Glycerin, Hydroxyethylcellulose, Lactic Acid, Panthenol, PEG-14 Dimethicone, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Polyquaternium-22, Polyquaternium-37, Potassium Sorbate, PPG-26-Buteth-26, Quaternium-80, Sodium Benzoate, Triethanolamine, VP/DMAPA Acrylates Copolymer, Fragrance (Parfum), Alpha-Isomethyl Ionone, Geraniol, Hydroxycitronellal, Limonene, Linalool"
+    },
+    {
+     "nombre": "Tratamiento de peinado Decode Zero Life",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525543373"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Glycerin, Propanediol, Phenethyl Benzoate, 1,2-Hexanediol, Acrylates/Stearyl Methacrylate Copolymer, Adansonia Digitata Seed Oil, Anastatica Hierochuntica Extract, Behentrimonium Chloride, Benzyl Alcohol, Butylene Glycol, Caprylic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Cetrimonium Chloride, Citric Acid, Cocamidopropyl Betaine, Dicaprylyl Carbonate, Diethylhexyl Syringylidenemalonate, Dipropylene Glycol, Disodium Phosphate, Guar Hydroxypropyltrimonium Chloride, Hexylene Glycol, Hydroxyethylcellulose, Isopropyl Alcohol, Lactic Acid, Lauryl Glucoside, Linum Usitatissimum (Linseed) Seed Extract, Methyl Gluceth-20, Moringa Oleifera Seed Extract, Palmitamidopropyltrimonium Chloride, Panthenol, PEG-14 Dimethicone, Phenoxyethanol, Phenylpropanol, Polyglyceryl-3 Caprate, Polyquaternium-11, Polyquaternium-22, Polyquaternium-37, Potassium Sorbate, Propylene Glycol, Quaternium-80, Salvia Hispanica Seed Extract, Silicone Quaternium-22, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Benzoate, Sodium Benzotriazolyl Butylphenol Sulfonate, Sodium Hydroxide, Sodium Phytate, Sorbitan Oleate, Fragrance (Parfum), Acetyl Cedrene, Alpha-Isomethyl Ionone, Beta-Caryophyllene, Citral, Citronellol, Hydroxycitronellal, Limonene, Linalyl Acetate, Menthol, Pelargonium Graveolens Flower Oil, Pinene, Tetramethyl Acetyloctahydronaphthalenes, Trimethylcyclopentenyl Methylisopentenol, Vanillin, Xylitol, Blue 1 (CI 42090), Red 33 (CI 17200), Yellow 5 (CI 19140)"
+    },
+    {
+     "nombre": "Laca fijación extra fuerte Final Fine Ultimate Extra-Strong",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110858"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Isobutane, Butyl Ester of PVM/MA Copolymer, Propane, Ethyl Ester of PVM/MA Copolymer, Alpha-Isomethyl Ionone, Aminomethyl Propanol, Aminopropyl Phenyl Trimethicone, Aqua, Benzophenone-3, Benzyl Salicylate, Butane, Geraniol, Hexyl Cinnamal, Limonene, Linoleic Acid, Linolenic Acid, N-Butyl Alcohol, Niacinamide, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Laca sin gas fijación extra fuerte Final Fine Ultimate Extra-Strong Gas Free",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110896"
+     ],
+     "inci": "Alcohol Denat., Methylal, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Aminomethyl Propanol, Alpha-Isomethyl Ionone, Aqua, Benzophenone-3, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Limonene, Linoleic Acid, Linolenic Acid, Niacinamide, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Laca fijación media Final Fine Ultimate Medium",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110872"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Isobutane, Propane, Butyl Ester of PVM/MA Copolymer, Alpha-Isomethyl Ionone, Aminomethyl Propanol, Aminopropyl Phenyl Trimethicone, Aqua, Benzophenone-3, Benzyl Salicylate, Butane, Ethyl Ester of PVM/MA Copolymer, Geraniol, Hexyl Cinnamal, Limonene, Linoleic Acid, Linolenic Acid, N-Butyl Alcohol, Niacinamide, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Laca fijación fuerte Final Fine Ultimate Strong",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110865"
+     ],
+     "inci": "Alcohol Denat., Dimethyl Ether, Isobutane, Butyl Ester Of PVM/MA Copolymer, Propane, Ethyl Ester Of PVM/MA Copolymer, Alpha-Isomethyl Ionone, Aminomethyl Propanol, Aminopropyl Phenyl Trimethicone, Aqua, Benzophenone-3, Benzyl Salicylate, Butane, Geraniol, Hexyl Cinnamal, Limonene, Linoleic Acid, Linolenic Acid, N-Butyl Alcohol, Niacinamide, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Laca sin gas fijación fuerte Final Fine Ultimate Strong Gas Free",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110889"
+     ],
+     "inci": "Alcohol Denat., Methylal, VA/Crotonates Copolymer, Alpha-Isomethyl Ionone, Aminomethyl Propanol, Aqua, Benzophenone-3, Benzyl Salicylate, Cetearyl Ethylhexanoate, Geraniol, Hexyl Cinnamal, Isopropyl Myristate, Limonene, Linoleic Acid, Linolenic Acid, Niacinamide, Panthenol, Parfum, Propylene Glycol"
+    },
+    {
+     "nombre": "Espuma de color Final Style Colour Mousse Ash (ceniza)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110773"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-16, Acid Violet 43, Alanine, Amodimethicone, Arginine, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, CI 77266 (nano), Citral, Citronellol, Dehydroacetic Acid, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Glycerin, Glycine, Hexyl Cinnamal, Histidine, Iodopropynyl Butylcarbamate, Isoleucine, Laureth-9, Limonene, Linalool, Panthenol, Parfum, PCA, Phenoxyethanol, Phenylalanine, Polyquaternium-11, Proline, Propane, Propylene Glycol, PVP, Serine, Sodium Benzoate, Sodium Lactate, Sodium PCA, Threonine, Trideceth-12, Valine, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma de color Final Style Colour Mousse Blonde (rubio)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110810"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-16, Alanine, Amodimethicone, Arginine, Aspartic Acid, Basic Blue 99, Basic Brown 17, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Glycine, Hexyl Cinnamal, Histidine, Iodopropynyl Butylcarbamate, Isoleucine, Laureth-9, Limonene, Linalool, Panthenol, Parfum, PCA, Phenylalanine, Polyquaternium-11, Proline, Propane, Propylene Glycol, Serine, Sodium Benzoate, Sodium Lactate, Sodium PCA, Threonine, Trideceth-12, Valine, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma de color Final Style Colour Mousse Mahogany (caoba)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525107674"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-16, Acid Red 33, Acid Yellow 23, Alanine, Amodimethicone, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Dextrin, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Fructose, Glucose, Glutamic Acid, Hexyl Cinnamal, Hexyl Nicotinate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Linalool, Panthenol, Parfum, Polyquaternium-11, Propane, Propylene Glycol, Sodium Benzoate, Sodium PCA, Sucrose, Trideceth-12, Urea, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma de color Final Style Colour Mousse Silver (plata)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110803"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-16, Acid Red 33, Acid Violet 43, Alanine, Amodimethicone, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Dextrin, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Fructose, Glucose, Glutamic Acid, Hexyl Cinnamal, Hexyl Nicotinate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Linalool, Panthenol, Parfum, Polyquaternium-11, Propane, Propylene Glycol, Sodium Benzoate, Sodium PCA, Sucrose, Trideceth-12, Urea, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma fijación extra fuerte Final Style Mousse Extra-Strong",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110827"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, VP/VA Copolymer, Polyquaternium-11, Vinyl Caprolactam/VP/Dimethylaminoethyl Methacrylate Copolymer, Alanine, Amodimethicone, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Benzyl Alcohol, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Dextrin, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Fructose, Glucose, Glutamic Acid, Hexyl Cinnamal, Hexyl Nicotinate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Linalool, Panthenol, Parfum, Polyquaternium-4, Propane, Propylene Glycol, Sodium Benzoate, Sodium PCA, Sucrose, Trideceth-12, Urea, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma flexible Final Style Mousse Flexible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110841"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-11, Alanine, Amodimethicone, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Dextrin, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Fructose, Glucose, Glutamic Acid, Hexyl Cinnamal, Hexyl Nicotinate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Linalool, Panthenol, Parfum, Polyquaternium-4, Propane, Propylene Glycol, Sodium Benzoate, Sodium PCA, Sucrose, Trideceth-12, Urea, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Espuma fijación fuerte Final Style Mousse Strong",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525110834"
+     ],
+     "inci": "Aqua, Alcohol Denat., Isobutane, Polyquaternium-11, VP/VA Copolymer, Alanine, Amodimethicone, Aspartic Acid, Benzalkonium Chloride, Benzophenone-3, Butane, Butylene Glycol, Cetrimonium Chloride, Citral, Citronellol, Dextrin, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Fructose, Glucose, Glutamic Acid, Hexyl Cinnamal, Hexyl Nicotinate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Laureth-9, Limonene, Linalool, Panthenol, Parfum, Polyquaternium-4, Propane, Propylene Glycol, Sodium Benzoate, Sodium PCA, Sucrose, Trideceth-12, Urea, VP/DMAPA Acrylates Copolymer"
+    },
+    {
+     "nombre": "Neutralizante de permanente Impulsive Shape Neutraliser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525418428"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Cetrimonium Chloride, Amodimethicone, Cocamidopropylamine Oxide, Disodium Pyrophosphate, Parfum, PEG-40 Castor Oil, Pentasodium Pentetate, Phosphoric Acid, Sodium Benzoate, Trideceth-12"
+    },
+    {
+     "nombre": "Loción de permanente Impulsive Curls&Waves 0",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525419043"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Ammonia, Ethanolamine, Ceteareth-23, PEG-40 Castor Oil, Alcohol, Disodium EDTA, Etidronic Acid, Hydrolyzed Jojoba Esters, Hydroxyethylcellulose, Parfum, Polyquaternium-4, Polyquaternium-6, Sorbic Acid, Steardimonium Hydroxypropyl Hydrolyzed Keratin, Styrene/VP Copolymer"
+    },
+    {
+     "nombre": "Loción de permanente Impulsive Curls&Waves 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525420650"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Ethanolamine, Ceteareth-23, Ammonia, PEG-40 Castor Oil, Alcohol, Disodium EDTA, Etidronic Acid, Hydrolyzed Jojoba Esters, Hydroxyethylcellulose, Parfum, Polyquaternium-4, Polyquaternium-6, Sorbic Acid, Steardimonium Hydroxypropyl Hydrolyzed Keratin, Styrene/VP Copolymer"
+    },
+    {
+     "nombre": "Loción de permanente Impulsive Curls&Waves 2",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525420667"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Ethanolamine, Ceteareth-23, Polyquaternium-6, PEG-40 Castor Oil, Alcohol, Ammonia, Disodium EDTA, Etidronic Acid, Hydrolyzed Jojoba Esters, Hydroxyethylcellulose, Parfum, Polyquaternium-4, Sorbic Acid, Steardimonium Hydroxypropyl Hydrolyzed Keratin, Styrene/VP Copolymer"
+    },
+    {
+     "nombre": "Loción de permanente Impulsive Curls&Waves 3",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525419074"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Polyquaternium-6, Ceteareth-23, PEG-40 Castor Oil, Ethanolamine, Alcohol, Ammonia, Disodium EDTA, Etidronic Acid, Hydrolyzed Jojoba Esters, Hydroxyethylcellulose, Parfum, Polyquaternium-4, Sorbic Acid, Steardimonium Hydroxypropyl Hydrolyzed Keratin, Styrene/VP Copolymer"
+    },
+    {
+     "nombre": "Neutralizante de permanente Iniciative Shape Neutraliser",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525418152"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Cetrimonium Chloride, Amodimethicone, Cocamidopropylamine Oxide, Disodium Pyrophosphate, Parfum, PEG-40 Castor Oil, Pentasodium Pentetate, Phosphoric Acid, Sodium Benzoate, Trideceth-12"
+    },
+    {
+     "nombre": "Loción de permanente Iniciative Shape Perm 0",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525418169"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, PEG-40 Castor Oil, Ammonia, Ethanolamine, Ceteareth-23, Aloe Barbadensis Leaf Juice, Anhydroxylitol, Disodium EDTA, Etidronic Acid, Parfum, Polyquaternium-6, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Styrene/VP Copolymer, Xylitol, Xylitylglucoside"
+    },
+    {
+     "nombre": "Loción de permanente Iniciative Shape Perm 1",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525418176"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Ethanolamine, PEG-40 Castor Oil, Ceteareth-23, Ammonia, Aloe Barbadensis Leaf Juice, Anhydroxylitol, Disodium EDTA, Etidronic Acid, Parfum, Polyquaternium-6, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Styrene/VP Copolymer, Xylitol, Xylitylglucoside"
+    },
+    {
+     "nombre": "Loción de permanente Iniciative Shape Perm 2",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525418183"
+     ],
+     "inci": "Aqua, Thioglycolic Acid, Ammonium Bicarbonate, Ethanolamine, PEG-40 Castor Oil, Ceteareth-23, Aloe Barbadensis Leaf Juice, Ammonia, Anhydroxylitol, Disodium EDTA, Etidronic Acid, Parfum, Polyquaternium-6, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Styrene/VP Copolymer, Xylitol, Xylitylglucoside"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Pink (rosa)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412297"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Acid Red 52, Basic Red 51, Disodium EDTA, Lactic Acid, Phenylpropanol, Triethanolamine, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Violet (violeta)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412280"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Basic Blue 124, Basic Violet 2, Disodium EDTA, HC Blue No. 15, Lactic Acid, Phenylpropanol, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Blue (azul)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412273"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Disodium EDTA, HC Blue No. 15, Lactic Acid, Phenylpropanol, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Green (verde)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412266"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Basic Blue 124, Basic Yellow 87, Disodium EDTA, Lactic Acid, Phenylpropanol, Triethanolamine, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Yellow (amarillo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412259"
+     ],
+     "inci": "Aqua, Hydroxypropyl Starch Phosphate, PEG-40 Hydrogenated Castor Oil, Basic Yellow 87, Benzyl Salicylate, Butylene Glycol, Citronellol, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Iodopropynyl Butylcarbamate, Lactic Acid, Limonene, Linalool, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum, Triethanolamine"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Orange (naranja)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412242"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Basic Orange 31, Basic Yellow 87, Disodium EDTA, Lactic Acid, Phenylpropanol, Triethanolamine, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Red (rojo)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412235"
+     ],
+     "inci": "Water (Aqua) (Eau), Hydroxypropyl Starch Phosphate, Propanediol, Triethyl Citrate, PEG-40 Hydrogenated Castor Oil, Basic Orange 31, Basic Red 51, Disodium EDTA, Lactic Acid, Phenylpropanol, Triethanolamine, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Coloración directa Inflashy Clear (diluyente)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525412228"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Propanediol, Glycerin, Behentrimonium Chloride, Triethyl Citrate, Acrylates/Stearyl Methacrylate Copolymer, Caprylyl Glycol, Cetrimonium Chloride, Cetyl Palmitate, Citric Acid, Cocamidopropyl Betaine, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, Isopropyl Alcohol, Palmitamidopropyltrimonium Chloride, Phenoxyethanol, Phenylpropanol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-55, Polysilicone-19, PPG-1 Trideceth-6, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Silicone Quaternium-22, Sodium Benzoate, Sorbitan Oleate, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes"
+    },
+    {
+     "nombre": "Crema oxidante Oxibel Activating Cream 2% (7 vol)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525420360"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Hydrogen Peroxide, Glycerin, Ceteareth-23, Octyldodecanol, Boswellia Serrata Gum, Cera Alba, Dipropylene Glycol, Disodium Pyrophosphate, Etidronic Acid, Parfum, Pentasodium Pentetate, Sodium Hydroxide, Sodium Lauryl Sulfate, Sodium Stannate"
+    },
+    {
+     "nombre": "Crema protectora de la piel para el tinte Colour Professionals Colour Protector",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525112098"
+     ],
+     "inci": "Aqua, Polysorbate 20, Sodium Polyacrylate, Titanium Dioxide, Bisabolol, Butylene Glycol, Citral, Diazolidinyl Urea, Disodium EDTA, DMDM Hydantoin, Hexyl Cinnamal, Hydrogenated Polydecene, Iodopropynyl Butylcarbamate, Limonene, Linalool, Parfum, Trideceth-6"
+    },
+    {
+     "nombre": "Champú azul corrector Colour Correction Stop Orange",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525430154"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-4 Rapeseedamide, Decyl Glucoside, Sodium Lauroyl Methyl Isethionate, Sodium Lauroyl Sarcosinate, Acid Violet 43 (CI 60730), Benzoic Acid, Benzyl Salicylate, Caprylyl Glycol, Dicaprylyl Ether, Disodium EDTA, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Hexyl Cinnamal, Hydrolyzed Oat Protein, Hydrolyzed Rice Protein, Lactic Acid, Limonene, Parfum, Phenoxyethanol, Potassium Sorbate, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate, Acid Blue 9 (CI 42090)"
+    },
+    {
+     "nombre": "Champú violeta corrector Colour Correction Stop Yellow",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525430130"
+     ],
+     "inci": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-4 Rapeseedamide, Decyl Glucoside, Sodium Lauroyl Methyl Isethionate, Sodium Lauroyl Sarcosinate, Acid Violet 43 (CI 60730), Benzoic Acid, Benzyl Salicylate, Caprylyl Glycol, Dicaprylyl Ether, Disodium EDTA, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Hexyl Cinnamal, Hydrolyzed Oat Protein, Hydrolyzed Rice Protein, Lactic Acid, Limonene, Parfum, Phenoxyethanol, Potassium Sorbate, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tetrasodium EDTA, Trisodium Ethylenediamine Disuccinate"
+    },
+    {
+     "nombre": "Mascarilla correctora perla Colour Resurrection Ice Pearl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525428274"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Acid Violet 43 (CI 60730), Basic Red 51, Benzyl Salicylate, Bertholletia Excelsa Seed Oil, Butylene Glycol, Caprylyl Glycol, Cetrimonium Chloride, Cetyl Palmitate, Citrus Grandis Fruit Extract, Cocamidopropyl Betaine, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, DMDM Hydantoin, Ethylhexyl Hydroxystearate, HC Blue 16, Iodopropynyl Butylcarbamate, Isopropyl Alcohol, Limonene, Linalool, Palmitamidopropyltrimonium Chloride, Parfum, Phenoxyethanol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-55, Polysilicone-19, Potassium Sorbate, PPG-1 Trideceth-6, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Silicone Quaternium-22, Sodium Benzoate, CI 77163"
+    },
+    {
+     "nombre": "Mascarilla potenciadora del color rosa Colour Resurrection Ice Rose",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525428267"
+     ],
+     "inci": "Aqua, Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Basic Red 51, Benzyl Salicylate, Bertholletia Excelsa Seed Oil, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Cetrimonium Chloride, Cetyl Palmitate, Citrus Grandis Fruit Extract, Cocamidopropyl Betaine, Diethylhexyl Syringylidenemalonate, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, DMDM Hydantoin, Ethylhexyl Hydroxystearate, Iodopropynyl Butylcarbamate, Isopropyl Alcohol, Limonene, Linalool, Palmitamidopropyltrimonium Chloride, Parfum, Phenoxyethanol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polyquaternium-55, Polysilicone-19, Potassium Sorbate, PPG-1 Trideceth-6, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Silicone Quaternium-22, Sodium Benzoate, CI 77163"
+    },
+    {
+     "nombre": "Spray corrector de raíces Colour Camouflage Black (negro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525432998",
+      "8429525424207"
+     ],
+     "inci": "Acrylates/Dimethicone Copolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Ethyl Trisiloxane, Hexyl Cinnamal, Isobutane, Limonene, Linalool, Methyl Trimethicone, Parfum, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Spray corrector de raíces Colour Camouflage Dark Brown (castaño oscuro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525432974"
+     ],
+     "inci": "Acrylates/Dimethicone Copolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Ethyl Trisiloxane, Hexyl Cinnamal, Isobutane, Limonene, Linalool, Methyl Trimethicone, Parfum, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Spray corrector de raíces Colour Camouflage Light Brown (castaño claro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525432950"
+     ],
+     "inci": "Acrylates/Dimethicone Copolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Ethyl Trisiloxane, Hexyl Cinnamal, Isobutane, Limonene, Linalool, Methyl Trimethicone, Parfum, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Spray corrector de raíces Colour Camouflage Dark Blonde (rubio oscuro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525433032"
+     ],
+     "inci": "Acrylates/Dimethicone Copolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Ethyl Trisiloxane, Hexyl Cinnamal, Isobutane, Limonene, Linalool, Methyl Trimethicone, Parfum, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Spray corrector de raíces Colour Camouflage Light Blonde (rubio claro)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525433018"
+     ],
+     "inci": "Acrylates/Dimethicone Copolymer, Alpha-Isomethyl Ionone, Benzyl Salicylate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Ethyl Trisiloxane, Hexyl Cinnamal, Isobutane, Limonene, Linalool, Methyl Trimethicone, Parfum, Triethoxycaprylylsilane"
+    },
+    {
+     "nombre": "Contorno de ojos Retiderma Retinoid Eye Contour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525451142"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Propanediol, Sodium Acrylates Crosspolymer-2, Squalane, Polysorbate 20, Butylene Glycol, Chlorella Vulgaris Extract, Diethylhexyl Syringylidenemalonate, Ethylhexylglycerin, Lactic Acid, Lecithin, Parfum, Phenoxyethanol, Plankton Extract, Polyacrylate Crosspolymer-6, Potassium Sorbate, Sodium Ascorbate, Sodium Benzoate, Sodium Gluconate, Sodium Polyglutamate, Spirulina Platensis Extract, t-Butyl Alcool, Tocopherol, Xanthan Gum"
+    },
+    {
+     "nombre": "Sérum de noche con retinol Retiderma Retinol Night Serum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525540785"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Squalane, Glycerin, Propanediol, Polysorbate 20, Dimethicone, Polyacrylate Crosspolymer-6, BHA, BHT, Ceramide NP, Cetyl Palmitate, Chlorella Vulgaris Extract, Diethylhexyl Syringylidenemalonate, Ethylhexylglycerin, Lactic Acid, Laureth-23, Lecithin, Parfum, Phenoxyethanol, Plankton Extract, Potassium Sorbate, Retinol, Sodium Ascorbate, Sodium Benzoate, Sodium Gluconate, Sodium Hydroxide, Sodium Polyglutamate, Spirulina Platensis Extract, Synthetic Fluorphlogopite, t-Butyl Alcohol, Tin Oxide, Tocopherol, Trideceth-6 Phosphate, Xanthan Gum, CI 77891"
+    },
+    {
+     "nombre": "Crema renovadora Retiderma Retinoid Renewal Cream",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525540921"
+     ],
+     "inci": "Aqua, C15-19 Alkane, Behenyl Alcohol, Propanediol, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Dimethicone, Polyglyceryt-10 Pentastearate, Chlorella Vulgaris Extract, Silica, Diethylhexyl Syringylidenemalonate, Ethylhexyiglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Lactic Acid, Lecithin, Parfum, Phenoxyethanol, Plankton Extract, Potassium Sorbate, Sodium Ascorbate, Sodium Benzoate, Sodium Gluconate, Sodium Hydroxide, Sodium Polyglutamate, Sodium Stearoy Lactylate, Spirulina Platensis Extract, Tocopherol, Xanthan Gum"
+    },
+    {
+     "nombre": "Acondicionador para canas y blancos Hop Silver White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429525444724"
+     ],
+     "inci": "Water (Aqua) (Eau), Cetearyl Alcohol, Glycerin, Propanediol, Behentrimonium Chloride, Behenamidopropyl Dimethylamine, Acrylates/Stearyl Methacrylate Copolymer, Cetyl Palmitate, Chondrus Crispus Extract, Citric Acid, Cocamidopropyl Betaine, Cocotrimonium Methosulfate, Dipropylene Glycol, Disodium EDTA, Distearoylethyl Hydroxyethylmonium Methosulfate, Dunaliella Salina Extract, Ethyl Lauroyl Arginate HCl, Guar Hydroxypropyltrimonium Chloride, Hydroxypropyl Guar, Hydroxytyrosol, Isochrysis Galbana Extract, Isopropyl Alcohol, Lactic Acid, Octyldodecanol, Olea Europaea (Olive) Fruit Extract, Palmitamidopropyltrimonium Chloride, Panthenol, Polyglyceryl-3 Caprate, Polyquaternium-22, Polyquaternium-37, Polysilicone-19, Potassium Sorbate, PPG-1 Trideceth-6, PPG-15 Stearyl Ether, PPG-3 Benzyl Ether Myristate, Propylene Glycol, Propylene Glycol Dicaprylate/Dicaprate, Pyridoxine HCL, Saccharomyces Ferment Lysate Filtrate, Silicone Quaternium-22, Sodium Benzoate, Sodium Phytate, Tocopherol, Triolein, Fragrance (Parfum), Benzyl Salicylate, Citronellol, Citrus Aurantium Peel Oil, Hexamethylindanopyran, Hexyl Cinnamal, Limonene, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Blue 1 (Acid Blue 9), Ext. Violet 2 (Acid Violet 43)"
+    }
+   ]
+  },
+  {
+   "key": "organyc",
+   "nombre": "Organyc",
+   "productos": [
+    {
+     "nombre": "Compresas con alas de algodón ecológico (flujo normal, abundante y noche Maxi Protect)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867009942",
+      "8016867009935",
+      "8016867017176",
+      "8016867012584"
+     ],
+     "inci": "Velo superior de algodón ecológico certificado (en contacto con la piel), núcleo absorbente de algodón ecológico certificado, velo exterior de polímero biodegradable a base de almidón de maíz, adhesivo de grado higiénico (cola termofusible a base de copolímeros estirénicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Protegeslips de algodón ecológico (extrafinos sueltos, en sobres individuales y extralargos)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867008945",
+      "8016867009959",
+      "8016867002646"
+     ],
+     "inci": "Velo superior de algodón ecológico certificado (en contacto con la piel), núcleo absorbente de algodón ecológico certificado, velo exterior de polímero biodegradable a base de almidón de maíz, adhesivo de grado higiénico (cola termofusible a base de copolímeros estirénicos, polímeros poliolefínicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Protegeslips de algodón ecológico para tanga",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867017923"
+     ],
+     "inci": "Velo superior de algodón ecológico certificado (en contacto con la piel), núcleo absorbente de algodón ecológico certificado, velo exterior de polímero biodegradable a base de almidón de maíz, adhesivo (cola termofusible a base de copolímeros estirénicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Compresas posparto de algodón ecológico (primeros días y vuelta a casa)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867001694",
+      "8016867017121",
+      "8016867015097"
+     ],
+     "inci": "Capa en contacto con la piel y núcleo absorbente de algodón ecológico certificado, velo exterior de biopolímero de origen vegetal a base de almidón de maíz, adhesivo de grado higiénico (a base de copolímeros estirénicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Tampones de algodón ecológico con aplicador (normal y super)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867007375",
+      "8016867007382"
+     ],
+     "inci": "Tampón de 100 % fibras de algodón ecológico, cordón de algodón ecológico, aplicador de material de origen biológico (casi un 90 % de materias de origen vegetal; bioplástico a base de caña de azúcar)"
+    },
+    {
+     "nombre": "Tampones de algodón ecológico sin aplicador (normal y super)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867009928",
+      "8016867009911"
+     ],
+     "inci": "Tampón de 100 % fibras de algodón ecológico, cordón de algodón ecológico"
+    },
+    {
+     "nombre": "Protegeslips para pérdidas de orina ligeras de algodón ecológico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867013758"
+     ],
+     "inci": "Velo de superficie de algodón ecológico con regulador de pH (a base de ácido cítrico), núcleo absorbente de 100 % algodón puro, capa adicional antifugas airlaid (celulosa, polímero superabsorbente: poliacrilato de sodio), velo exterior de biopolímero a base de almidón de maíz, control de olores (agua, Hedione, Florol), adhesivos de grado higiénico (colas termofusibles a base de copolímeros estirénicos, polímeros poliolefínicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Compresas para pérdidas de orina de algodón ecológico (normal y extra)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867013765",
+      "8016867013772",
+      "8016867021142"
+     ],
+     "inci": "Velo de superficie Smart-Cotton (algodón ecológico con regulador de pH a base de ácido cítrico), núcleo absorbente Cotton-Balanced (algodón puro y polímero superabsorbente: poliacrilato de sodio), capa adicional antifugas airlaid (celulosa, polímero superabsorbente: poliacrilato de sodio), velo exterior de biopolímero a base de almidón de maíz, elásticos laterales de poliuretano, control de olores (agua, Hedione, Florol), adhesivos de grado higiénico (colas termofusibles a base de copolímeros estirénicos, resinas hidrocarbonadas y aceites minerales)"
+    },
+    {
+     "nombre": "Gel íntimo Manzanilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8016867003056"
+     ],
+     "inci": "Aqua (Water), Coco-Glucoside, Sodium Coco-Sulfate, Glyceryl Oleate, Glycerin, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Calendula Officinalis Flower Extract, Aloe Barbadensis Leaf Juice, Centaurea Cyanus Flower Extract, Anthemis Nobilis Oil, Limonene, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Citric Acid, Sodium Chloride"
+    }
+   ]
+  },
+  {
+   "key": "saugella",
+   "nombre": "Saugella",
+   "productos": [
+    {
+     "nombre": "Gel de higiene íntima Dermoliquide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343900582",
+      "3700343900025",
+      "3700343900032",
+      "3700343900421"
+     ],
+     "inci": "Aqua, TEA-Lauryl Sulfate, Ammonium Lauryl Sulfate, Salvia officinals Leaf Extract, Ketoglutaric Acid, Lactic Acid, Whey, PEG-2 Stearate, Hydrogenated Coconut Oil, Hydroxyethylcellulose, Propylene Glycol, Glycol Stearate, Parfum, Sodium Benzoate, Cholesterol, Sodium Dehydroacetate, Polysorbate 60, Disodium Phosphate, Citronellol, Hexyl Cynnamal"
+    },
+    {
+     "nombre": "Gel de higiene íntima Antiseptique Naturel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343900070"
+     ],
+     "inci": "Aqua, TEA-lauryl sulfate, propylene glycol, ammonium lauryl sulfate, Thymus vulgaris extract, PEG-2 stearate, lac, hydroxyethylcellulose, hydrogenated coconut oil, lactic acid, glycol stearate, Salvia officinalis leaf extract, sodium dehydroacetate, ketoglutaric acid, cholesterol, DMDM hydantoin, potassium sorbate"
+    },
+    {
+     "nombre": "Espuma de higiene íntima Antiseptique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343900780"
+     ],
+     "inci": "Aqua, Diglycerin, Propylene Glycol, Cocamidopropyl Betaine, Thymus Vulgaris Flower/Leaf Extract, Thymus Vulgaris Flower/Leaf Oil, Sodium Lauryl Sulfoacetate, Disodium Laureth Sulfosuccinate Glycerin, Salvia Officinalis Leaf Extract, Lactic Acid, Sodium Cocoamphoacetate, Potassium Sorbate, Phenoxyethanol, Caprylyl Glycol, Disodium EDTA, Hydroxyacetophenone"
+    },
+    {
+     "nombre": "Gel de higiene íntima Triple Protection",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343903101"
+     ],
+     "inci": "Aqua, Zinc Coco-Sulfate, Propylene Glycol, Glycerin, Disodium Capryloyl Glutamate, Lactic Acid, Caprylyl Glycol, Xanthan Gum, Thymus Vulgaris Flower/Leaf Extract, Glyceryl Oleate, Coco-Glucoside, Sodium Benzoate, Carrageenan, Ketoglutaric Acid, Citric Acid"
+    },
+    {
+     "nombre": "Gel de higiene íntima Poligyn 50+ calmante e hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3614810009602",
+      "3614810009534",
+      "3614810009527"
+     ],
+     "inci": "Aqua, Glycerin, Zinc Coceth Sulfate, Cocamidopropyl Betaine, Caprylic/Capric Triglyceride, Chamomilla recutita Flower Extract, Sodium Hyaluronate, Xanthan Gum, Propylene Glycol, Glyceryl Oleate, Coco-Glucoside, Hydroxyacetophenone, Sodium Benzoate, Parfum, Carrageenan, Disodium EDTA, Ketoglutaric Acid, Thymus vulgaris Flower/Leaf Extract, Citric Acid, Sodium Hydroxide, Bisabolol"
+    },
+    {
+     "nombre": "Gel de higiene íntima suave HydraSerum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901206"
+     ],
+     "inci": "Aqua, Diglycerin, Sodium Cocoyl Wheat Amino Acids, Glycerin, Lactic Acid, Lac, Xanthan Gum, Sodium Lauryl Sulfoacetate, Disodium Laureth Sulfosuccinate, Glyceryl Stearate, Glyceryl Distearate, Maltodextrin, Caprylyl Glycol, Propylene Glycol, Decyl Glucoside, Sodium Leuvlinate, Potassium Palmitoyl Hydrolyzed Wheat Protein, Coco-Glucoside, Glyceryl Oleate, Parfum, Avena Sativa Kernel Extract, Sodium Anisate, Calendula Officinalis Flower Extract, Phenoxyethanol, Ketoglutaric Acid, Hydrolyzed Oat Protein, Potassium Palmitoyl Hydrolyzed Oat Protein, Citric Acid, Potassium Sorbate, Sodium Benzoate, Salvia Officinalis Leaf Extract"
+    },
+    {
+     "nombre": "Gel de higiene íntima para niñas Girl",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343900933"
+     ],
+     "inci": "Aqua, Magnesium Laureth Sulfate, Cocamidopropyl Betaine, Propylene Glycol, Calendula Officinalis Flower Extract, Malva Sylvestris Leaf Extract, Avena Sativa Kernel Extract, Hydrolyzed Oat Protein, Potassium Palmitoyl Hydrolyzed Oat Protein, Lactic Acid, Sodium Dilaureth-7 Citrate, Sodium Benzoate, Phenoxyethanol, Sodium Cocoamphoacetate, PEG-120 Methyl Glucose Dioleate, Potassium Sorbate, Disodium Cocoyl Glutamate, Parfum, Hydantoin, Hydrolyzed Rice Bran Protein, Sodium Cocoyl Glutamate, Disodium EDTA, Ethylhexylglycerin, Tetrasodium Glutamate Diacetate, CI 16185"
+    },
+    {
+     "nombre": "Gel de higiene íntima y corporal para hombre Homme",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901015"
+     ],
+     "inci": "Aqua, TEA-Lauryl Sulfate, Propylene Glycol, Ammonium Lauryl Sulfate, Eugenia Caryophyllus Flower Extract, Helichrysum Italicum Extract, Whey, PEG-2 Stearate, Hydrogenated Coconut Oil, Hydroxyethylcellulose, Phenoxyethanol, Sodium Benzoate, Citric Acid, Parfum, Ethylhexylglycerin, Glycol Stearate, Cholesterol, CI 19140, CI 42051, Limonene"
+    },
+    {
+     "nombre": "Gel de higiene íntima refrescante You Fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901596"
+     ],
+     "inci": "Aqua, Magnesium laureth sulfate, Cocamidopropyl betaine, Propylene Glycol, Menthyl Ethylamido Oxalate, Thymus vulgaris Flower/Leaf Extract, Calendula officinalis Flower Extract, Phenoxyethanol, PEG-120 Methyl glucose Dioleate, Xanthan Gum, Sodium Cocoamphoacetate, Citric Acid, Parfum, Potassium Sorbate, disodium Cocool Glutamate, Sodium benzoate, Sodium Cocoyl Glutamate, Sodium Metabisulfite, CI 42051"
+    },
+    {
+     "nombre": "Crema íntima hidratante Douceur",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343900148"
+     ],
+     "inci": "Aqua, Diglycerin, Octyldodecanol, Glyceryl Stearate, Laureth-9, Cetearyl Alcohol, Paraffinum Liquidum, Glycerin, Hydrogenated Starch Hydrolysate, Propylene Glycol, Calendula officinalis Flower Extract, Prunus armeniaca Kernel Oil, Sodium Hyaluronate, Lythrum salicaria Extract, Helichrysum italicum Extract, Biosaccharide Gum-1, Panthenol, Phenoxyethanol, Triethanolamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Potassium Sorbate, Disodium EDTA, Parfum, Benzil Alcohol, Sodium Benzoate, Amyl Cinnamal, Citronellol, Geraniol, Hexyl Cinnamal, Linalool"
+    },
+    {
+     "nombre": "Gel íntimo hidratante con tomillo Antiseptique Naturel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901060"
+     ],
+     "inci": "Aqua, Propylene Glycol, Glycerin, Hydrogenated Starch Hydrolysate, Thymus Vulgaris Flower/Leaf Extract, Sodium Hyaluronate, Carbomer, Triethanolamine, Potassium Sorbate, Disodium EDTA, Hydroxyacetophenone, Panthenol"
+    },
+    {
+     "nombre": "Gel íntimo hidratante en dosificador 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901541"
+     ],
+     "inci": "Aqua, Glycerin, Hydrogenated Starch Hydrolysate, Propylene Glycol, Lythrum Salicaria Extract, Helichrysum Italicum Extract, Sodium Hyaluronate, Panthenol Trithanolamine, Carbomer, Hydroxyacetophenone, Potassium Sorbate, Disodium EDTA, PPG-26-Butheth-26, PEG-40 Hydrogenated Castor Oil, Parfum, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Citronellol, Hexyl Cinnamal, Benzyl Alcohol, Geraniol, Linalool, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Toallitas íntimas Dermoliquide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701211400425",
+      "3701211400418"
+     ],
+     "inci": "Aqua, Salvia Officinalis Leaf Extract, Ketoglutaric Acid, Lactic Acid, Propylene Glycol, TEA Lauryl Sulfate, Potassium Sorbate, Hydroxyacetophenone, Ammonium Lauryl Sulfate, Parfum, PEG-2 Stearate, Whey, Hydrogenated Coconut Oil, Hydroxyethylcellulose, Sodium Dehydroacetate, Disodium EDTA, Glycol Stearate, Sodium Benzoate, Cholesterol, Citronellol, Hexyl Cinnamal, Geraniol, Linalool, Amyl Cinnamal"
+    },
+    {
+     "nombre": "Toallitas íntimas Antiseptique",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701211400449",
+      "3701211400432"
+     ],
+     "inci": "Aqua, Propylene glycol, Thymus vulgaris Flower/Leaf extract, salvia officinalis Leaf extract, Ketoglutaric acid, Lactid acid, TEA-Lauryl sulfate, Whey, PEG-2 stearate, Hydrogenated coconut oil, Hydroxyethylcellulose, Sodium dehydroacetate, Disodium EDTA, Glycol stearate, Sodium Benzoate, Cholesterol"
+    },
+    {
+     "nombre": "Toallitas íntimas Poligyn 50+",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701211400395",
+      "3701211400401"
+     ],
+     "inci": "Aqua, Bisabolol, Phennoxyethanol, Propylene Glycol, Magnesium Laureth Sulfate, Caprylyl Glycol, Sodium Benzoate, Cocamidopropyl Betaine, PPG-26-Buteth-26, Sodium Hydroxide, Thymus Vulgaris Flower/Leaf Extract, PEG-40 Hydrogenated Castor Oil, Parfum, Hydroxyacetophenone, Sodium Cocoamphoacetate, Sodium Metabisulfite, Hexyl Cinnamal, Linalool, Limonene, Citronellol"
+    },
+    {
+     "nombre": "Compresas Cotton Touch de día y de noche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901350",
+      "3700343901367"
+     ],
+     "inci": "Filtre hygiénique d'aquisition (100% coton), couche d'acquisition - ADL (PET hydrophile), Cellulose (pulpe de cellulose), Polymères super-absorbants (copolymères acryliques), Film textile (polyéthylène), papier siliconé pour ailettes, Adhésifs internes, Adhésif externe, Solution huileuse (Aqua, Isohexadecane, Dicaprylyl Ether, Paraffinum Liquidum, Thymus vulgaris Flower/Leaf Oil, Glyceryl Stearate, Ceteareth-20, Sorbeth-2 Hexaoleate, Prunus armenica Kernel Oil, Lactic Acid, Potassium Sorbate, Ceteareth-12, Cetyl Palmitate, Calendula offcinalis Flower Extract, Ketoglutaric Acid, Disodium EDTA, Linalool, Limonene, Tocopherol)"
+    },
+    {
+     "nombre": "Protegeslips Cotton Touch",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3700343901459"
+     ],
+     "inci": "Filtre hygiénique d'aquisition (100% coton), Cellulose (pulpe de cellulose), Polymères super-absorbants (copolymères acryliques), Film textile (polyéthylène), papier siliconé, Adésifs internes, Adésif externe, Solution huileuse (Aqua, Isohexadecane, Dicaprylyl Ether, Paraffinum Liquidum, Thymus vulgaris Flower/Leaf Oil, Glyceryl Stearate, Ceteareth-20, Sorbeth-2 Hexaoleate, Prunus armenica Kernel Oil, Lactic Acid, Potassium Sorbate, Ceteareth-12, Cetyl Palmitate, Calendula offcinalis Flower Extract, Ketoglutaric Acid, Disodium EDTA, Linalool, Limonene, Tocopherol)"
     }
    ]
   }

@@ -1129,6 +1129,58 @@ Evax/Tampax: composición del fabricante capa a capa en absorbentes, copas y acc
   Naturkind Herzballett y Toooor!): sale como "aroma no divulgado (sabor)" porque "Aroma" es la palabra de sabor; en un producto de
   baño es perfume. El aviso es correcto (perfume sin desglosar), solo cambia la etiqueta: se anota, sin propuesta de regla.
 
+**Bloque B (versión 2026-10-24-q6b): 3 marcas nuevas, 127 productos, 154 códigos.** Regresión: 0 cambios en lo que ya había.
+- **Saugella — 17 productos, 26 códigos.** Sin web española (saugella.es no resuelve) y la italiana solo da "ingredientes clave":
+  INCI de **saugella.fr** (Cooper, pestaña "Ingrédients"; 28 fichas). Códigos franceses (3700343…, 3701211…, 3614810…) de
+  cocooncenter.com (`gtin13`) y pharma-gdd.com, atados por nombre y tamaño de la versión francesa. No se atan códigos italianos ni
+  españoles (8470…) a las listas francesas: la fórmula italiana puede ser otra (Dermoliquido "de origen natural"; la francesa lleva
+  TEA-Lauryl Sulfate). Entran geles íntimos (Dermoliquide, Antiseptique Naturel, Triple Protection, Poligyn 50+, HydraSerum, Girl,
+  Homme, You Fresh), espuma, crema Douceur, geles hidratantes, toallitas y las compresas y protegeslips Cotton Touch (composición
+  capa a capa de la web, en francés, con su loción). **Fuera**: productos sanitarios CE (lubricante en tubo, Intilac, geles y óvulos
+  de vaginosis y Poligyn hidratación intensa), compresas de maternidad (solo la loción), packs y los **tampones Cotton Touch** (la
+  ficha solo da la loción y "100 % coton"; no publica el cordón). Erratas oficiales literales ("Hexyl Cynnamal", "Phennoxyethanol",
+  "Benzil Alcohol"…). Webs con captcha o reto: easypara.fr, atida.fr, newpharma.fr (una petición, sin reintentar).
+- **Organyc — 9 productos, 20 códigos.** Sin web española; organyc-online.com/organyc.it solo dan una composición genérica por tipo.
+  Fuente: **organyc.fr** (enlazada como oficial desde la internacional), composición capa a capa con adhesivo, traducida al
+  castellano con fidelidad. EAN de los enlaces de compra de la propia ficha (URL de E.Leclerc, `gtin` de Boticinal, Cocooncenter),
+  cruzados con Pharma-GDD; el gel de manzanilla, de BENU (farmacia suiza). Todo sin perfume según la marca. Dos códigos para un
+  mismo envase en Maxi Protect 7, posparto 14 y compresa Extra (series de envase; la marca enlaza los dos). **Fuera**: Ligero Plus
+  (la ficha da dos composiciones, una con poliuretano y otra sin él), geles sin EAN europeo o con lista traducida, toallitas sin
+  lista, tampones de cartón, Personal Fit y bragas menstruales sin EAN, el lote de 2×24, accesorios de algodón y los tampones Super
+  Plus/Regular que ya no están en la web.
+- **Montibello — 101 productos, 108 códigos.** Reabierta por Mariana el 2026-10-13: listas de **hair.montibello.com** y
+  **skincare.montibello.com** ("Ver todos los ingredientes", 235 fichas) + EAN de tiendas online que dan el **nombre exacto**:
+  keshop.com (peluquería online española, 55), lyko.com (38; su ficha trae lista y se compara con la oficial) y seensay.es (35).
+  Solo gamas y nombres que siguen en la web y en el tamaño que la web enseña; Gold Oil, solo sus dos aceites de 130 ml. En Hop, Lyko
+  da el código antiguo (8429525444…) y Seensay el nuevo (8429525541…): los dos donde la lista de Lyko coincide con la oficial.
+  **Fuera (138)**: tintes con una sola lista por gama sin "may contain" (Cromatone, Cromaxtrem, Under, Dénuée —80 tonos con código en
+  Lyko—, Éclat, Meteorites, Metallics; Inflashy y Colour Camouflage sí, con lista por tono), 62 de Skincare y gamas enteras sin código
+  en ninguna tienda (m.lab, Luxlight, Hop In Salon, Organic Keratin, Hop Sun Care), oxidantes salvo Oxibel 2 %, tamaños que la web no
+  enseña, nombres que no casan (Decode Zero "Protein Mask"), Co-Wash (código que no es EAN), Volume Boost Up y Hair Body (Lyko da otra
+  fórmula para el código, similitud 0,74–0,75), listas antiguas con Lilial/Lyral (Hydrolait, Radiance Pearl Elixir, Massage Cream) y
+  gamas retiradas. **Fuera también (revisión)**: Hop Silver White Shampoo, Decode Texture Builder y Colour Resurrection Ice Silver:
+  Lyko enseña para ese código la lista anterior (otros colorantes; Lilial en el Texture Builder), así que el código es de la serie
+  antigua, como el viejo de Hop Detox. Errata corregida: "Hexyl innamal" → Hexyl Cinnamal (Colour Camouflage). Bloqueos sin
+  reintentar: notino.es, bigbuy.eu, nutritienda.com, kaufland.de, dafnis.com, makeup.es.
+- **Intimina — 0.** intimina.com no publica ninguna lista INCI (el hidratante y Balmy, solo "ingredientes clave"; Bubblegum y pétalos
+  de baño, listas traducidas que cambian según el idioma) ni ningún EAN. Copas, disco, Kegel y accesorios, fuera por regla.
+- **Enna — pendiente de Mariana.** ennawomen.com (Shopify, EAN en la ficha) solo tiene **bragas menstruales** con la composición
+  total del tejido (porcentajes que suman 100 %, no por capas): hipster flujo abundante (5 códigos; acabado SILVERPLUS® de iones de
+  plata) y sin costuras flujo medio (2). Serían la primera ropa interior textil del catálogo, y saltaría microplásticos por poliéster
+  y nylon. La hipster para adolescentes queda fuera en cualquier caso ("tratamiento antibacteriano" sin nombrar la sustancia).
+  Copas, disco y packs, fuera.
+- **Cottons — 0.** cottons.es es una escuela infantil; la única marca "Cottons" de absorbentes de algodón es australiana
+  (cottons.com.au), sin venta en la UE. **Pregunta para Mariana**: ¿qué marca era? (¿Cottonlock? ¿Carefree Cotton?)
+- **Detector, falsos negativos en absorbentes (propuesta D, para Mariana; necesita build):** la ficha 191 es `soloExacto` y sus alias
+  son palabras sueltas, así que no salta con "polímeros poliolefínicos" (adjetivo, en el adhesivo de Organyc), "polyéthylène" y
+  "PET hydrophile" (composición francesa de Saugella) ni "poliuretano" (elásticos de Organyc; hoy solo Polyurethane-11/-33). Y el
+  "control de olores (agua, Hedione, Florol)" de los absorbentes de Organyc para pérdidas de orina es perfume (Hedione = Methyl
+  Dihydrojasmonate, Florol = Isoamyl tetrahydropyranol, materias de perfumería) y no salta ni la 5 ni la 34. Propuesta: en textos de
+  **producto absorbente** (la misma condición que usa la 34), buscar dentro de cada capa "poliolef", "polietil/polyéthyl", "PET",
+  "poliuretano/polyuréthane" (191) y "Hedione", "Florol", "parfum/perfume/aroma" (34). Mientras tanto, esos 10 códigos (compresas y
+  protegeslips de Saugella; protegeslips extrafinos y los dos de pérdidas de orina de Organyc) van en `PENDIENTE_DECISION` de
+  `genera.py` y no salen en Alternativas.
+
 ### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — CERRADA 2026-10-21
 Con las reglas de arriba (solo lista oficial completa; INCI de la marca o portal del fabricante; en hogar,
 ficha según el Reglamento 648/2004). Por bloques, en este orden, publicando versión y avisando a la app

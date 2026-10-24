@@ -54,7 +54,10 @@ def peligroso(b):
     return bool(FUERA.search(inci)) or any(CORROSIVO.search(x) for x in inci.split(',')[:2])
 # Limpios para el detector pero con dudas que decide Mariana: fuera de Alternativas hasta entonces. (El Serum capilar
 # Nature de Tahe estuvo aquí hasta la decisión X, 2026-10-12: ahora lo marca el detector, ficha 215.)
-PENDIENTE_DECISION = set()   # Dia pastillas antical: decidido el 2026-10-15 (Polyethylene Glycol entra en la regla de PEG)
+# Absorbentes de Saugella y Organyc (2026-10-24): el detector no ve aún "polyéthylène"/"PET" (francés), "polímeros poliolefínicos",
+# "poliuretano" ni el perfume del "control de olores" (Hedione, Florol). Propuesta en CURACION; fuera hasta que Mariana decida y salga el build.
+PENDIENTE_DECISION = {"3700343901350", "3700343901367", "3700343901459", "8016867008945", "8016867009959", "8016867002646",
+                      "8016867013758", "8016867013765", "8016867013772", "8016867021142"}
 # Limpios SOLO con el detector nuevo: hasta que salga el build que lo trae, la app instalada aún les pondría un aviso,
 # así que no se enseñan todavía como alternativa. Quitar el código de aquí cuando el build esté publicado.
 # Códigos retenidos hasta que la app publicada lleve el arreglo del detector que los deja limpios.
