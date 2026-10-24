@@ -1075,6 +1075,60 @@ sustituye (la clave es el código, así que saldrá como "sustituye aportación 
 - **Entra** como "Espuma limpiadora Mousse Crème Éclat", y con ella se abre **la marca entera** (ver su apartado).
 - El detector da fragancia no divulgada (5) y fenoxietanol (85), igual que avisaba la app al revisar la aportación.
 
+### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
+Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
+Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
+reglas (`REGLAS.md` de los agentes = resumen de este archivo; se añade un apartado de íntima y menstrual con el precedente de
+Evax/Tampax: composición del fabricante capa a capa en absorbentes, copas y accesorios fuera).
+- **Carrefour y Eroski no se intentan**: carrefour.es/.fr con anti-bot (Cloudflare/DataDome) y la tienda de Eroski tras reCAPTCHA
+  (ver sus apartados). Siguen entrando solo por Buscados o foto.
+
+**Bloque A (versión 2026-10-24-q6a): 4 marcas nuevas, 360 productos, 395 códigos.** Regresión: 0 cambios en lo que ya había.
+- **Sephora Collection — 0.** sephora.es da 403 de Akamai a la primera petición. No se ha intentado nada más.
+- **Estée Lauder — 0.** esteelauder.es, 403 de Akamai; y **Douglas España, la vía de Clinique (Douglas + incidecoder), también da
+  ahora 403 de Akamai** en el buscador. Sin Douglas no hay códigos ni primera lista. OBF: 10 fichas, 3 con lista y las 3 de EE. UU.
+  Ojo para el futuro: mientras Douglas siga así, tampoco se pueden ampliar Sisley, Kérastase, Erborian ni Clinique por esa vía.
+- **Kneipp — 213 productos, 235 códigos.** kneipp.com: INCI de la pestaña de ingredientes y EAN del campo `ean` del JSON de
+  variante de la propia web. es_es solo tiene 16 fichas de cosmética (12 válidas); el grueso es de_de (244 fichas), más 59 de la
+  gama internacional de nl_nl y 2 de at_de. Misma lista = una entrada con todos los códigos (aunque cambie el país); listas
+  distintas (minis, "+20 % gratis", envase de otro país) = entradas separadas ("envase español"/"envase alemán"). Un mismo
+  producto con otro nombre de gama en otro país va en dos entradas con la misma lista, para que quien escanee vea el nombre de su
+  envase. Solo el Bio Skin Oil español publica nota de perfume ("* aceite esencial natural"): se conserva; las webs alemana y
+  neerlandesa no dan ninguna, así que el perfume sale como no divulgado. **Fuera (96)**: complementos, gominolas, packs,
+  calendarios, 6 medicamentos (Arnika Salbe S, Arnika Kühl- und Schmerz Gel, Erkältungs Balsam, Erkältungsbad spezial), aromas de
+  sauna, la Sprudelbad Einhorn-Kutsche (un código, dos bombas con listas distintas), la crema de talones española (lista traducida,
+  no INCI; su versión neerlandesa sí entra), Gel Cuidado Derma (marketing en vez de lista) y fichas retiradas. Erratas evidentes de
+  la web corregidas (palabras pegadas o partidas: "AtlanticaOil", "Sunfl ower", "Lina-lool", "Steara- te"); lo dudoso, literal.
+  Renombrada "Pomada protectora multiusos" (Allzweck-Pflege Hautschutzsalbe) a "Pomada protectora para la piel, cuidado para
+  todo": "multiusos" la clasificaba como Hogar.
+- **Lierac — 76 productos, 88 códigos.** es.lierac.com (sitemap, 128 fichas): "Lista INCI de ingredientes" y `gtin13` de la ficha;
+  5 Hydragenist de fr.lierac.com. La web separa con puntos (pasados a comas) y termina con el número de fórmula ("4089A"), quitado.
+  **Fuera**: el sérum antirrojeces (3701436926274: las webs le ponen la lista del sérum de vitamina C), las cápsulas Sunissime
+  (complemento), Rosilogie Doble Concentrado y Lumilogie Corrección Manchas (dos productos y dos listas bajo un código), packs y
+  cofres, accesorios, la muestra de 2 ml, y el **stick SPF50+ Sunissime de 10 g** (fórmula anterior: la web presenta el de 15 g como
+  "nueva fórmula"). **Criterio aplicado (Lierac y Filorga):** cuando dos listas oficiales del mismo producto solo se diferencian en
+  que una declara además los alérgenos de perfume nuevos (Reglamento 2023/1545: Trimethylcyclopentenyl Methylisopentenol, Linalyl
+  Acetate…), vale la más completa: recarga Arkéskin día (3701436913472, lista 1552B-2), Sleep & Peel 4.5 y Global-Repair Balm de
+  Filorga. El sérum de vitamina C del Protocolo Luminosidad (estuche de base + sobres de polvo que se mezclan) entra con la lista
+  oficial de la mezcla.
+- **Filorga — 61 productos, 61 códigos.** es.filorga.com (Shopify, contenido en inglés) y fr.filorga.com para contrastar. Las dos
+  webs se contradicen en varias fichas: Global-Repair Balm (la española enseña la lista de la Essence: se usa la francesa), Optim-Eyes
+  Cryo (la francesa tiene intercambiadas Cryo y Mask: se usa la española), Lift-Mask y Lift-Structure Radiance (la española, más
+  completa). Códigos de la francesa: el sérum Pro-Collagen (la española le pone el de la crema), Daily Peel ×2, Daily Repair Mineral
+  UV 50. **Fuera**: Optim-Eyes Mask (sin lista fiable), 8 cofres y 8 minis sin EAN. Tres parejas con la misma lista exacta y fichas
+  separadas (Neocica / Universal Cream, UV Cellular-Protect Face / Face & Body, Skin-Unify / Hand Pigment Protocol): las listas llevan
+  los activos que la marca anuncia en cada una, se quedan las dos. "Aqua (Water, Eau)" → "Aqua (Water/Eau)" para que no se parta.
+- **Bioré — 10 productos, 11 códigos.** Web oficial europea de Kao (biore.com de-de, fr-fr, nl-nl; en España no hay web: biore.es
+  aparcado). EAN: Müller.de (`gtin13`, 6) y OBF por nombre y tamaño (5). **Fuera (5)**: Aqua Rich SPF 50 sin glow (de/fr/en-gb copian
+  la lista del SPF 30, nl-nl da otra), tiras Ultra con hamamelis y tiras con carbón (listas de EE. UU. o de otra tira según el país),
+  gel limpiador con carbón (el único código es de la serie anterior) y Spot Control (sin código). La web mezcla listas de EE. UU.
+  ("Active/Inactive") con las europeas: siempre la europea, y con dos, la que coincide con Müller o con la foto del envase. En el
+  SPF 30 se usa la lista nl-nl ("Phenoxyethanol"; de/fr/en-gb dicen "Henoxyethanol"), sin el trozo que repite al principio.
+- **Detector (revisión FP/FN del bloque)**: 31 de 360 sin avisos. Lo que salta es real: retinil acetato en casi toda Filorga (su
+  complejo NCEF), talco, clorhexidina en los contornos de ojos de Filorga y Lierac, PMMA y nylon. **Aroma en sales de baño** (Kneipp
+  Naturkind Herzballett y Toooor!): sale como "aroma no divulgado (sabor)" porque "Aroma" es la palabra de sabor; en un producto de
+  baño es perfume. El aviso es correcto (perfume sin desglosar), solo cambia la etiqueta: se anota, sin propuesta de regla.
+
 ### 2026-10-20 · Quinta cola de marcas (pedida por Mariana el 2026-10-20) — CERRADA 2026-10-21
 Con las reglas de arriba (solo lista oficial completa; INCI de la marca o portal del fabricante; en hogar,
 ficha según el Reglamento 648/2004). Por bloques, en este orden, publicando versión y avisando a la app
