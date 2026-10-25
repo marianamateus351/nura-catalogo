@@ -883,7 +883,7 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
-### 2026-10-25 · Aportación con fotos: 8402001033445 (Deliplus Maquillaje Serum Camomila Nº300) — PENDIENTE de Mariana
+### ~~2026-10-25 · Aportación con fotos: 8402001033445 (Deliplus Maquillaje Serum Camomila Nº300)~~ — RESUELTO (versión 2026-10-25-camomila): entran los 4 tonos
 Una usuaria escaneó el código y subió frente y trasera del frasco ("Maquillaje Serum Camomila Deliplus", tapón "300", 28 ml,
 fabricante Wecolors). **La trasera del frasco no trae la lista** (solo descripción, Mercadona y 28 ml): va en la caja.
 - **La lista ya la teníamos** de la tienda de Mercadona (ficha 15161, "Maquillaje serum camomila Deliplus 300 beige oscuro"), leída
@@ -897,6 +897,12 @@ fabricante Wecolors). **La trasera del frasco no trae la lista** (solo descripci
   la mano) y el panel de la lista de Mercadona nombra el tono ("Nº300"). ¿Entra este caso (lista oficial con el tono en el panel +
   código de la misma ficha de Mercadona confirmado por un escaneo real)? Si sí, entrarían también los otros 3 tonos con la misma
   lectura. Avisos que daría: siloxanos D5 y D6, propilenglicol (no iría a Alternativas).
+- **Mariana, 2026-10-25: "Sí, que entren los 4 tonos".** Entran en Deliplus como "Maquillaje fluido Serum Camomila Deliplus"
+  100 beige muy claro (8402001033414), 200 beige claro (…421), 210 beige medio (…438) y 300 beige oscuro (…445), cada uno con
+  su lista (el orden de los pigmentos cambia por tono). Avisos: D5, D6 y propilenglicol. Regresión: 0 cambios.
+- **Criterio que queda (decisión de Mariana):** en la tienda de Mercadona vale una lista y un código en **fotos distintas de la
+  misma ficha** cuando el panel de la lista nombra el tono o el producto y un escaneo real confirma el código. Sin esas dos
+  cosas, sigue la regla de la misma foto.
 
 ### ~~2026-10-24 · Buscados: 4068263040917~~ — RESUELTO el mismo día (versión 2026-10-24-q6d): Dentitex Nature sin flúor, ALDI
 Captura de Mariana de la pestaña "Buscados" (1 escaneo, "está pero sin ingredientes"). Prefijo 4068263 = ALDI España.

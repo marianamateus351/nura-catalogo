@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25-velas",
+ "version": "2026-10-25-camomila",
  "marcas": [
   {
    "key": "larocheposay",
@@ -13199,6 +13199,42 @@
       "8480000777492"
      ],
      "inci": "Paraffinum Liquidum, Hydrogenated Microcrystalline Wax, Paraffin"
+    },
+    {
+     "nombre": "Maquillaje fluido Serum Camomila Deliplus 100 beige muy claro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001033414"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Cyclohexasiloxane, Dimer Dilinoleyl Dimer Dilinoleate, CI 77891, PEG-10 Dimethicone, Glycerin, Polymethylsilsesquioxane, Alcohol, Dimethicone, Caprylyl Glycol, Sodium Chloride, Disteardimonium Hectorite, Chlorphenesin, CI 77492, Propylene Carbonate, Boron Nitride, CI 77491, Triethoxycaprylylsilane, CI 77499, Propylene Glycol, Ricinus Communis Seed Oil, Zea Mays Oil, Diamond Powder, Chamomilla Recutita Flower Extract, Tocopherol, Quercus Suber Bark Extract"
+    },
+    {
+     "nombre": "Maquillaje fluido Serum Camomila Deliplus 200 beige claro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001033421"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Cyclohexasiloxane, Dimer Dilinoleyl Dimer Dilinoleate, CI 77891, PEG-10 Dimethicone, Glycerin, Polymethylsilsesquioxane, Alcohol, Dimethicone, Caprylyl Glycol, Sodium Chloride, Disteardimonium Hectorite, Chlorphenesin, CI 77492, Propylene Carbonate, CI 77491, Boron Nitride, Triethoxycaprylylsilane, Propylene Glycol, CI 77499, Ricinus Communis Seed Oil, Zea Mays Oil, Diamond Powder, Chamomilla Recutita Flower Extract, Tocopherol, Quercus Suber Bark Extract"
+    },
+    {
+     "nombre": "Maquillaje fluido Serum Camomila Deliplus 210 beige medio",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001033438"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Cyclohexasiloxane, Dimer Dilinoleyl Dimer Dilinoleate, PEG-10 Dimethicone, Glycerin, CI 77891, Polymethylsilsesquioxane, Alcohol, Dimethicone, Caprylyl Glycol, CI 77492, Sodium Chloride, Disteardimonium Hectorite, Chlorphenesin, CI 77491, Propylene Carbonate, Boron Nitride, CI 77499, Triethoxycaprylylsilane, Propylene Glycol, Ricinus Communis Seed Oil, Zea Mays Oil, Diamond Powder, Chamomilla Recutita Flower Extract, Tocopherol, Quercus Suber Bark Extract"
+    },
+    {
+     "nombre": "Maquillaje fluido Serum Camomila Deliplus 300 beige oscuro",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001033445"
+     ],
+     "inci": "Aqua, Cyclopentasiloxane, Cyclohexasiloxane, Dimer Dilinoleyl Dimer Dilinoleate, PEG-10 Dimethicone, Glycerin, Polymethylsilsesquioxane, CI 77891, Alcohol, Dimethicone, CI 77492, Caprylyl Glycol, Sodium Chloride, Disteardimonium Hectorite, Chlorphenesin, Propylene Carbonate, CI 77499, CI 77491, Boron Nitride, Triethoxycaprylylsilane, Propylene Glycol, Ricinus Communis Seed Oil, Zea Mays Oil, Diamond Powder, Chamomilla Recutita Flower Extract, Tocopherol, Quercus Suber Bark Extract"
     }
    ]
   },
