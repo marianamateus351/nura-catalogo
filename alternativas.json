@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25c",
+ "version": "2026-10-25d",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -19913,18 +19913,6 @@
        "marca": "Sodasan",
        "barcode": "4019886055116",
        "fechaLista": "15-10-2026"
-      }
-     ]
-    },
-    {
-     "key": "ambientador",
-     "nombre": "Ambientadores",
-     "productos": [
-      {
-       "nombre": "Vela aromática de lujo Private Collection Medium Precious Amber Scented Candle",
-       "marca": "Rituals",
-       "barcode": "8719134115499",
-       "fechaLista": "03-10-2026"
       }
      ]
     },
