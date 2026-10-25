@@ -1146,6 +1146,39 @@ tras cada bloque:
 - **Detector**: 10 de 148 sin avisos. Todo lo que salta está en la lista (retinol y retinal en RoC, Babé, Neostrata y Galénic;
   aluminio en los Keops y el roll-on de Babé; ácido kójico; clorhexidina; PMMA). Sin falsos positivos ni negativos nuevos.
 
+**Bloque 2, maquillaje (versión 2026-10-25-q7b2): 2 marcas nuevas, 193 productos, 454 códigos.** Regresión: 0 cambios.
+- **Mia Cosmetics Paris — 95 productos, 97 códigos.** es.miacosmeticsparis.com (Shopify; 205 fichas, 149 con lista) sin EAN: códigos
+  de farma2go.com, perfumesclub.com, farmaciasdirect.eu y farmaten.com atados por nombre exacto de producto y tono (coinciden cuando
+  hay varias). Paletas y productos de varias piezas, listas fundidas sin repetidos (precedente NYX/Catrice). Cortes de PDF unidos
+  ("Nitro- cellulose"); erratas de letras de la marca, literales. **Fuera**: 29 esmaltes de color a los que la web pone la lista base
+  sin colorantes (y Perfumesclub pone a todos la de Jade), 25 fichas sin INCI (Radiant Glow, Perfect Pastels, Eclipse…; las máscaras
+  Waterproof Lift y Sensitive Eyes solo dicen "Contiene:"), packs y brochas, 9 sin código, productos que solo están en tiendas (línea
+  de Cristina Mitre, Charuca/Jefa…), y en la revisión **12 más**: tonos con una misma lista sin "may contain" (Chiffon Peony y
+  Amethyst; Luxury Nudes Honey Bronze y Cinnamon; los 6 Mia Kids normales: regla de tonos; los 7 Mia Kids Fantasy sí, cada uno con
+  su lista) y los tratamientos Triple 5 y Hydra Shaker (misma lista exacta, sin segunda fuente: precedente Pantene). nutritienda.com,
+  reto de Cloudflare.
+- **Max Factor — 98 productos, 357 códigos.** maxfactor.com (Coty; /es-es redirige a /en-gb): GTIN y lista por tono en los datos de
+  cada ficha, de las webs británica, alemana, italiana, neerlandesa y polaca (323 fichas). **La web es poco fiable**: 242 tonos sin
+  lista, listas copiadas de otro producto (un delineador en máscaras, un top coat en esmaltes de color, la Facefinity anterior en
+  códigos de la serie nueva…) y listas distintas por país para un mismo código. Criterio: entra un código si todas las webs que dan
+  lista coinciden, o si solo una la da y no es copia; con dos listas reales distintas, fuera. Bases, correctores y polvos cuya lista
+  solo lleva dióxido de titanio y óxidos de hierro valen para todos los tonos (Miracle Pure); el resto de listas únicas sin "may
+  contain" para varios tonos, fuera (Pop Art Cheek Paint, Shadow Shaper). **Fuera**: 78 códigos con listas contradictorias, 75 sin
+  lista, 26 con la lista de otro producto, líneas enteras (Lipfinity, Real Brow Fill & Shape, Real Brow Duo —kit—, Pastell), códigos
+  mal escritos, UPC de EE. UU., listas cortadas, listas antiguas (Crème Puff 050 polaca con Lilial; Loose Powder alemana con
+  Quaternium-15, prohibido desde 2019). **Apartados hasta la decisión de Mariana sobre el Reino Unido: 31 productos, 83 códigos**
+  (los que solo tienen la lista de la web británica, sin que ninguna web de la UE la confirme, y 34 EAN-8 británicos 50…/96…).
+- **Revlon — apartado entero hasta esa misma decisión: 27 productos, 186 códigos.** revlon.es/.fr/.it no dan ingredientes;
+  revlon.de cortó la conexión; solo revlon.co.uk publica listas (formato europeo, alérgenos declarados, [nano]). Códigos UPC de
+  Revlon con 0 delante (los únicos que usa en maquillaje), del widget "Where to buy" de la propia ficha; 128 de 186 salen también en
+  las webs .es/.fr/.it con el mismo tono. Fuera por la regla de tonos: ColorStay Full Time, Glimmer Blush Drops, Glimmer Gloss y
+  Micro Hyper Precision; Xtensionnaire Waterproof (lista de la normal); paletas Day to Night Quad (una lista por color).
+- **Pregunta para Mariana (fuentes del Reino Unido, se suma a la de la quinta cola):** ¿valen las listas oficiales de la web británica
+  de una marca cuando no publica la lista en ninguna web de la UE? Afecta ya a Revlon (27), Max Factor (31), Neostrata (7) y a las de
+  la quinta cola (Color Wow, Bulldog, Cult Beauty, Rimmel en-gb, Sebastian, Matrix). Los JSON apartados están listos.
+- **Detector**: 36 de 193 sin avisos. Lo que salta está en las listas (microplásticos por nylon/PMMA/polietileno, talco, parabenos,
+  BHT, negro de humo, benzofenona-1 en esmaltes). Sin falsos positivos ni negativos nuevos.
+
 ### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
 Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
 Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
