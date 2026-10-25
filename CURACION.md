@@ -883,6 +883,21 @@ rutinas y de los que no tenemos ingredientes. Pesan MÁS que un escaneo suelto:
 un escaneo puede ser curiosidad en el lineal, pero algo guardado en una rutina es
 un producto que esa persona usa. Van ordenados por cuánta gente lo lleva.
 
+### 2026-10-25 · Aportación con fotos: 8402001033445 (Deliplus Maquillaje Serum Camomila Nº300) — PENDIENTE de Mariana
+Una usuaria escaneó el código y subió frente y trasera del frasco ("Maquillaje Serum Camomila Deliplus", tapón "300", 28 ml,
+fabricante Wecolors). **La trasera del frasco no trae la lista** (solo descripción, Mercadona y 28 ml): va en la caja.
+- **La lista ya la teníamos** de la tienda de Mercadona (ficha 15161, "Maquillaje serum camomila Deliplus 300 beige oscuro"), leída
+  el 2026-10-16: Aqua, Cyclopentasiloxane, Cyclohexasiloxane, Dimer Dilinoleyl Dimer Dilinoleate, PEG-10 Dimethicone, Glycerin,
+  Polymethylsilsesquioxane, CI 77891, Alcohol, Dimethicone, CI 77492, Caprylyl Glycol, Sodium Chloride, Disteardimonium Hectorite,
+  Chlorphenesin, Propylene Carbonate, CI 77499, CI 77491, Boron Nitride, Triethoxycaprylylsilane, Propylene Glycol, Ricinus Communis
+  Seed Oil, Zea Mays Oil, Diamond Powder, Chamomilla Recutita Flower Extract, Tocopherol, Quercus Suber Bark Extract. Quedó fuera,
+  con los tonos 100, 200 y 210 (8402001033414, …421, …438), porque en Mercadona la lista (foto 3, panel "Nº300") y el código
+  (foto 4) están en **fotos distintas**, y la regla de la foto pide los dos en la misma.
+- **Pregunta para Mariana:** aquí el código lo confirma además la propia usuaria (escaneó el 8402001033445 con el frasco "300" en
+  la mano) y el panel de la lista de Mercadona nombra el tono ("Nº300"). ¿Entra este caso (lista oficial con el tono en el panel +
+  código de la misma ficha de Mercadona confirmado por un escaneo real)? Si sí, entrarían también los otros 3 tonos con la misma
+  lectura. Avisos que daría: siloxanos D5 y D6, propilenglicol (no iría a Alternativas).
+
 ### ~~2026-10-24 · Buscados: 4068263040917~~ — RESUELTO el mismo día (versión 2026-10-24-q6d): Dentitex Nature sin flúor, ALDI
 Captura de Mariana de la pestaña "Buscados" (1 escaneo, "está pero sin ingredientes"). Prefijo 4068263 = ALDI España.
 - **Qué es:** **Dentitex Nature Dentífrico sin flúor Menta Fresca** (marca de higiene bucal de ALDI; "con xilitol, extracto
