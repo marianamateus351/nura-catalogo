@@ -6507,6 +6507,23 @@ Nueva entrada en "Otros a tener en cuenta" de la app (`OTROS_INGREDIENTES`, junt
   casos publicados pero raros; sacaría de Alternativas 41 esmaltes de essence; los 2 de Manucurist ya están fuera por otros avisos); (2) si la
   TSFR debe seguir saltando también como "Formaldehído libre" o solo como alérgeno.
 
+### Rituals: fuera las 3 velas cuya "lista" era el aviso de peligro — 2026-10-25 (versión 2026-10-25-velas, alternativas 2026-10-25d)
+Mariana vio en Alternativas (Ambientadores) la **Vela aromática de lujo Private Collection Medium Precious Amber** (8719134115499) y en
+rituals.com su apartado "Atención": "Puede provocar una reacción alérgica en la piel. Tóxico para los organismos acuáticos, con efectos
+nocivos duraderos… CONTIENE Tetramethyl Acetyloctahydronaphthalenes".
+- **El error:** en la carga de Rituals (2026-10-03) entraron 3 velas cuya "lista" no era la composición sino los nombres de la frase
+  CONTIENE del aviso CLP: Precious Amber ("1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one", el nombre químico
+  del mismo Tetramethyl Acetyloctahydronaphthalenes, un solo "ingrediente"), Sweet Jasmine (8719134115505; nueve alérgenos de
+  perfume) y Goji Berry (8719134109528; cinco). Sin cera ni base, no es una lista completa: por la regla de siempre no debieron
+  entrar. La de Precious Amber, al no reconocer el detector ese nombre químico, salió sin avisos y se recomendó en Alternativas.
+- **Hecho:** las 3 velas **fuera del catálogo** (catalogo.json y la copia de la app). Regresión: 0 cambios en el resto.
+- **Para que no vuelva a pasar:** `genera.py` ya no enseña un ambientador o una vela si su lista no nombra una base (cera, parafina,
+  agua, alcohol, glicol, disolvente, propelente…): sin ella, la "lista" es la frase CONTIENE. Revisado el catálogo entero: no hay más
+  fichas cuya lista sea solo alérgenos de perfume (los recambios de Air Wick llevan "Parfum" y salen del portal de Reckitt; tienen
+  aviso y no están en Alternativas). Las demás listas muy cortas de Alternativas son de verdad (bicarbonato, ácido cítrico,
+  vaselina, aceites puros, aguas termales…).
+- Ambientadores en Alternativas: queda 0 (la Precious Amber era la única).
+
 ### Tipos: el "Eyeshadow Top Coat" de Rituals no es un esmalte — 2026-10-16 (alternativas 2026-10-16a)
 Visto por Mariana revisando los contornos de ojos: "Sombra de ojos Make-Up Collection Eyeshadow Top Coat" (Rituals,
 8719134216226) caía en "Esmaltes y cuidado de uñas" con subtipo base-top por "top coat". `tipos.py`: el tipo esmalte

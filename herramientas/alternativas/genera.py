@@ -48,6 +48,11 @@ CORROSIVO = re.compile(r'sodium hydroxide|potassium hydroxide|hydrochloric acid|
 TIPOS_FUERA = {'desatascador'}
 # Oxidantes de coloración (agua oxigenada, reveladores): no son una alternativa a nada y el tipo por nombre los
 # confundía con sérums o cremas ("Oxidante en crema 10 vol", Valquer, 2026-10-12).
+# Ambientadores y velas: solo con una composición de verdad, que nombra la base (cera, agua, alcohol, disolvente,
+# propelente…). Sin ella, la "lista" es la frase CONTIENE del aviso de peligro (alérgenos del perfume), no la composición:
+# así entró la vela Precious Amber de Rituals, con un solo ingrediente (Mariana, 2026-10-25).
+BASE_AMBIENTADOR = re.compile(r'wax|cera|paraffin|parafina|aqua|water|agua|alcohol|glycol|isopar|hydrocarbon|solvent|propan|butan|'
+                              r'nitrogen|nitr[oó]geno|ethanol|polymer|carrageenan|stearic|ester|alkane|propellant|propelente', re.I)
 NOMBRE_FUERA = re.compile(r'oxidante|agua oxigenada|revelador|developer|peróxido|peroxido', re.I)
 def peligroso(b):
     inci = INCI.get(b, '')
@@ -68,6 +73,7 @@ for p in limpios:
     if any(b in HASTA_BUILD for b in p['barcodes']): continue
     if any(b in PENDIENTE_DECISION for b in p['barcodes']): continue
     if NOMBRE_FUERA.search(p['nombre']): continue
+    if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] == 'ambientador' and not any(BASE_AMBIENTADOR.search(INCI.get(b, '')) for b in p['barcodes']): continue
     if tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))[0] in TIPOS_FUERA: continue
     k, _ = tipo_de(p['nombre'], p['categoria'], p.get('marcaKey'))
     if not k: continue
