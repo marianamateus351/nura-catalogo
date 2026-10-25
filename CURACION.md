@@ -5554,6 +5554,22 @@ a 786.**
   nunca buscados: Sensilis 13, Huda Beauty 9, Clarins 6, Dr. Hauschka 6, Too Faced 5, Dr. Bronner's 5…) + 6 que no son maquillaje
   (4 de Lavera, Dr. Hauschka, IFA Unnia); 551 dudosos y 976 sin ficha. Hogar sigue en 18 con enlace de 139.
 
+### 2026-10-25 · Aportaciones de SOLO FOTOS desde la app (frente y parte de atrás)
+Muchas webs de marca bloquean a los bots (reCAPTCHA), así que Mariana pide que, cuando el escáner no encuentra un
+producto, la usuaria haga **dos fotos** (frente con nombre y marca; parte de atrás con la lista de ingredientes y el
+código). La app las guarda como aportación pendiente **sin texto** (`soloFotos: true`): a propósito **no se usa la
+OCR del móvil**, que no acertaba y colaba listas falsas que salían "limpias". Las fotos están en Storage y son públicas.
+
+**Cómo llegan aquí:** Mariana pulsa en el panel "Copiar las N con fotos para el catálogo" y pega en este chat líneas
+`código | nombre | fecha | foto frente | foto trasera` (URLs de firebasestorage.googleapis.com).
+
+**Qué hacer con cada una:** abrir la foto de atrás y **transcribir la lista tal cual está en la etiqueta** (es la lista
+oficial: la etiqueta del envase manda tanto como la web), identificar marca y nombre con la del frente, y curar el
+producto como cualquier otro: ficha en `catalogo.json` bajo su marca con ese código, regresión, versión. Si la foto
+no deja leer la lista entera, **no entra** (regla de siempre: sin INCI completo no hay producto) y se anota aquí para
+pedirle otra foto. La aportación de la app se aprueba después desde el panel con la lista ya transcrita, o se importa
+con el catálogo como el resto.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
