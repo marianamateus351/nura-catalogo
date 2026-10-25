@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25-q7b3",
+ "version": "2026-10-25-q7b4",
  "marcas": [
   {
    "key": "larocheposay",
@@ -3976,7 +3976,10 @@
       "3401572288129",
       "3401396992080",
       "3701129805008",
-      "3401345935571"
+      "3401345935571",
+      "3701129812068",
+      "3701129812075",
+      "3701129812105"
      ],
      "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Fructooligosaccharides, Mannitol, Xylitol, Rhamnose, Cucumis Sativus (Cucumber) Fruit Extract, Propylene Glycol, Cetrimonium Bromide, Disodium EDTA"
     },
@@ -3986,7 +3989,8 @@
      "exclude": [],
      "barcodes": [
       "3401578653709",
-      "3401399277009"
+      "3401399277009",
+      "3701129814710"
      ],
      "inci": "Aqua/Water, Sodium Cocoamphoacetate, Sodium Laureth Sulfate, Methylpropanediol, Disodium EDTA, Sodium Chloride, Lactic Acid, Zinc Sulfate, Copper Sulfate, Potassium Sorbate, Xylitol, Fructooligosaccharides, Mannitol, Rhamnose, Propylene Glycol, Sodium Hydroxide, Ginkgo Biloba Leaf Extract, Parfum/Fragrance"
     },
@@ -4004,7 +4008,11 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3401572288297"
+      "3401572288297",
+      "3401395376935",
+      "3401396991830",
+      "3401575645851",
+      "3701129812013"
      ],
      "inci": "Aqua/Water, PEG-6 Caprylic/Capric Glycerides, Sodium Citrate, Zinc Gluconate, Copper Sulfate, Ginkgo Biloba Leaf Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Propylene Glycol, Citric Acid, Disodium EDTA, Cetrimonium Bromide, Parfum/Fragrance"
     },
@@ -4082,11 +4090,13 @@
      "inci": "Aqua/Water/Eau, Citric Acid, Butyrospermum Parkii (Shea) Oil, Magnesium Laureth Sulfate, Sodium Hydroxide, Cellulose Acetate, Sodium Cocoamphoacetate, Methylpropanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Coco-Glucoside, Glyceryl Oleate, Sodium Cocoyl Glutamate, Xanthan Gum, Sodium Citrate, Benzoic Acid, Propanediol, Acrylates/Vinyl Isodecanoate Crosspolymer, Mannitol, Xylitol, Rhamnose, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Lysine, Azelaic Acid, Andrographis Paniculata Leaf Extract, Fructooligosaccharides, Caprylic/Capric Triglyceride, Hydrogenated Palm Glycerides Citrate, Laminaria Ochroleuca Extract, Fragrance (Parfum)"
     },
     {
-     "nombre": "Atoderm Intensive Gel-Crème 500 ml",
+     "nombre": "Atoderm Intensive Gel-Crème",
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3701129802670"
+      "3701129802670",
+      "3701129802656",
+      "3701129802663"
      ],
      "inci": "Aqua/Water, Glycerin, Niacinamide, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Hydrogenated Polydecene, Pentylene Glycol, 1, 2-Hexanediol, Caprylyl Glycol, Mannitol, Polysorbate 20, Xylitol, Rhamnose, Sodium Citrate, Polyquaternium-51, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
     },
@@ -4107,6 +4117,98 @@
       "3701129817919"
      ],
      "inci": "Ethylhexyl Palmitate, Brassica Campestris (Rapeseed) Seed Oil, Polyglyceryl-4 Oleate, Aqua/Water/Eau, Sodium PCA, Propanediol, Caprylic/Capric Triglyceride, Benzotriazolyl Dodecyl P-Cresol, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Laminaria Ochroleuca Extract, Stearyl Glycyrrhetinate"
+    },
+    {
+     "nombre": "Hydrabio Crema hidratante 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401329447687"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Isododecane, Cyclopentasiloxane, Propylene Glycol Dicaprylate/Dicaprate, Dimethicone, Propanediol, Xylitol, Cetyl Palmitate, Hydrogenated Polydecene, Niacinamide, Tridecyl Trimellitate, Arachidyl Alcohol, Polymethylsilsesquioxane, Glyceryl Dibehenate, Behenyl Alcohol, HDI/Trimethylol Hexyllactone Crosspolymer, Tribehenin, Dimethicone/Vinyl Dimethicone Crosspolymer, Pentylene Glycol, Tocopheryl Acetate, Arachidyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glyceryl Behenate, Disodium EDTA, Squalane, Salicylic Acid, Sodium Hydroxide, Mannitol, Sodium Hyaluronate, Hexyldecanol, Tocopherol, Polysorbate 60, Rhamnose, Helianthus Annuus (Sunflower) Seed Oil, Pyrus Malus (Apple) Seed Extract, Brassica Campestris (Rapeseed) Sterols, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Hydrabio Gel-Crema hidratante 40 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401329447809"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Isododecane, Cyclopentasiloxane, Dipropylene Glycol, Niacinamide, Squalane, Polymethylsilsesquioxane, C14-22 Alcohols, HDI/Trimethylol Hexyllactone Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Carbomer, Pentylene Glycol, Tocopheryl Acetate, C12-20 Alkyl Glucoside, Steareth-21, Disodium EDTA, Salicylic Acid, Sodium Hydroxide, Mannitol, Xylitol, Hexyldecanol, PEG/PPG-18/18 Dimethicone, Rhamnose, Malachite Extract, Pyrus Malus (Apple) Seed Extract, Brassica Campestris (Rapeseed) Sterols, Tocopherol, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Nodé Champú fluido uso frecuente 200 ml y 400 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401345060150",
+      "3401573697197"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylyl/Capryl Glucoside, PEG-150 Distearate, PEG-6 Caprylic/Capric Glycerides, PEG-15 Cocopolyamine, Sodium Lauroyl Oat Amino Acids, Lactic Acid, Sodium Citrate, Caprylyl Glycol, Quaternium-80, Propylene Glycol, Mannitol, Xylitol, Rhamnose, Phenoxyethanol, Tetrasodium EDTA, Ethylhexylglycerin, Fructooligosaccharides, Sodium Hydroxide, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Sensibio H2O AR Agua micelar piel con rojeces 250 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401351366789"
+     ],
+     "inci": "Aqua/Water/Eau, PEG-6 Caprylic/Capric Glycerides, Aloe Barbadensis Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Mannitol, Xylitol, Rhamnose, Fructooligosaccharides, Lecithin, Ginkgo Biloba Leaf Extract, Camellia Sinensis Leaf Extract, Propylene Glycol, Disodium EDTA, Cetrimonium Bromide, Sodium Hydroxide, Citric Acid"
+    },
+    {
+     "nombre": "Nodé K Champú queratorreductor 150 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401577939958"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Sodium Cocoyl Isethionate, Salicylic Acid, Cetearyl Alcohol, Zea Mays (Corn) Starch, C12-13 Alkyl Lactate, Polyquaternium-10, Hydrogenated Castor Oil, Glycerin, Acrylates/Steareth-20 Methacrylate Copolymer, Sodium Hydroxide, Juniperus Oxycedrus Wood Extract, Mannitol, Xylitol, Oleyl Alcohol, Rhamnose, Citric Acid, Potassium Sorbate, Sodium Benzoate, Zanthoxylum Bungeanum Fruit Extract, Titanium Dioxide, Sodium Acetate, Sodium Chloride, Plectranthus Barbatus Root Extract, Isopropyl Alcohol, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract"
+    },
+    {
+     "nombre": "Atoderm Intensive Eye cuidado del contorno de ojos 100 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129801963"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Paraffinum Liquidum/Mineral Oil/Huile Minerale, Helianthus Annuus (Sunflower) Seed Oil, Dipropylene Glycol, Brassica Campestris (Rapeseed) Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sucrose Stearate, 1,2-Hexanediol, Glycyrrhetinic Acid, Sodium Citrate, Polysorbate 60, Sorbitan Isostearate, Mannitol, Sodium Lauroyl Lactylate, Xylitol, Citric Acid, Pentylene Glycol, Rhamnose, Tocopherol, Phytosphingosine, Ceramide NP, Sodium Hyaluronate, Ethylhexylglycerin, Ceramide AP, Cholesterol, Carbomer, Xanthan Gum, Fructooligosaccharides, Caprylic/Capric Triglyceride, Laminaria Ochroleuca Extract, Ceramide EOP"
+    },
+    {
+     "nombre": "Photoderm Gel-Crema After-Sun 200 ml y 500 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129803820",
+      "3701129803837"
+     ],
+     "inci": "Aqua/Water/Eau, Caprylic/Capric Triglyceride, Glycerin, Sodium Polyacrylate, Pentylene Glycol, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dipotassium Glycyrrhizate, Sodium Citrate, Mannitol, Xylitol, Rhamnose, Sodium Hydroxide, Fructooligosaccharides, Laminaria Ochroleuca Extract, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Atoderm Crema de manos y uñas 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129804193"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Aluminum Starch Octenylsuccinate, Isononyl Isononanoate, Butyrospermum Parkii (Shea) Oil, Palmitic Acid, Stearic Acid, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pentylene Glycol, 1,2-Hexanediol, Caprylyl Glycol, Disodium EDTA, Mannitol, Xylitol, Rhamnose, Sodium Hydroxide, Niacinamide, Polyquaternium-51, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Atoderm Stick labial 4 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129804957"
+     ],
+     "inci": "Paraffinum Liquidum/Mineral Oil/Huile Minerale, Synthetic Wax, Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline, Paraffin, Butyrospermum Parkii (Shea) Butter, Cera Alba/Beeswax/Cire D’Abeille, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Fragrance (Parfum)"
+    },
+    {
+     "nombre": "Sébium Pore Refiner 30 ml (fórmula actual)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3701129811962"
+     ],
+     "inci": "Aqua/Water/Eau, Methyl Methacrylate Crosspolymer, Dipropylene Glycol, Cyclopentasiloxane, Cyclohexasiloxane, Dimethicone, Glycerin, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Sodium Polyacrylate, Paraffinum Liquidum/Mineral Oil/Huile Minerale, Silica, Pentylene Glycol, Trideceth-6, 1,2-Hexanediol, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Caprylyl Glycol, Lauryl PEG/PPG-18/18 Methicone, Disodium EDTA, Salicylic Acid, Xylitol, Propylene Glycol, Sodium Hydroxide, PEG/PPG-18/18 Dimethicone, Fructooligosaccharides, Mannitol, Caprylic/Capric Triglyceride, Ginkgo Biloba Leaf Extract, Dodecyl Gallate, Rhamnose, Laminaria Ochroleuca Extract, Citric Acid, Fragrance (Parfum)"
     }
    ]
   },
@@ -10699,6 +10801,177 @@
       "8470001715043"
      ],
      "inci": "Aqua, Isohexadecane, Propylene Glycol, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Arachidyl Alcohol, Dimethyl MEA, Lactic Acid, Cetyl Alcohol, Behenyl Alcohol, Triticum Vulgare Germ Oil, Myristyl Myristate, Ceteareth-12, Arachidyl Glucoside, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Ascorbyl Palmitate, C13-14 Isoparaffin, Carbomer, Citric Acid, Citronellol, Coumarin, Cyclopentasiloxane, Disodium EDTA, Ethylparaben, Genistein Glucoside, Glycerin, Glyceryl Oleate, Glyceryl Stearate, Glycine Soja Seed Extract, Hexyl Cinnamic Aldehyde, Hydrolyzed Elastin, Hydroxyproline, Laureth-7, Lecithin, Methylparaben, O-Cymen-5-Ol, Palmitoyl Tripeptide-5, Parfum, PEG-100 Stearate, Phenoxyethanol, Potassium Sorbate, Soluble Collagen, Tocopherol"
+    },
+    {
+     "nombre": "Acglicolic Liposomal Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979201058"
+     ],
+     "inci": "Aqua, Glycolic Acid, Bis-PEG-18 Methyl Ether Dimethyl Silane, Hydrogenated Polydecene, Ceteth-20, Propanediol, C12-15 Alkyl Benzoate, Glyceryl Stearate, Cyclopentasiloxane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Eryngium Maritimum Callus Culture Filtrate, Alcohol, Alpha-Isomethyl Ionone, Ammonium Hydroxide, Ascorbyl Glucoside, Benzyl Salicylate, Boswellia Serrata Gum, Carbomer, Ceramide AP, Ceramide EOP, Ceramide NG, Ceramide NP, Cetearyl Alcohol, Cholesterol, Cyclohexasiloxane, Dipropylene Glycol, Disodium EDTA, Ergothioneine, Ethylparaben, Glycine Soja Extract, Hexyl Cinnamal, Lecithin, Limonene, Methylparaben, Parfum, Phenoxyethanol, Phytosphingosine, Polysorbate 20, Propylene Glycol, Propylparaben, Sodium Chloride, Sodium Hyaluronate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Tocopheryl Acetate, Xanthan Gum"
+    },
+    {
+     "nombre": "Sensyses Cleanser Sebum limpiador desmaquillante 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979414571"
+     ],
+     "inci": "Aqua, Pentylene Glycol, Glycerin, Alpha-Glucan Oligosaccharide, Panthenol, Ginkgo Biloba Leaf Extract, Potassium Azeloyl Diglycinate, Copper Sulfate, Cetylpyridinium Chloride, Thymus Vulgaris Flower/Leaf Extract, Phytosphingosine HCl, Zinc Chloride, Polyglyceryl-4 Laurate/Sebacate, Polyglyceryl-6 Caprylate/Caprate, Propylene Glycol, Polysorbate 20, Lecithin, Alcohol, Disodium Cocoamphodiacetate, Disodium EDTA, Sodium Cholate, Sodium Hydroxide, Pantolactone, Phenoxyethanol, Potassium Sorbate, Parfum"
+    },
+    {
+     "nombre": "Sensyses Cleanser Lightening limpiador desmaquillante 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979414588"
+     ],
+     "inci": "Aqua, Pentylene Glycol, Glycerin, Alpha-Glucan Oligosaccharide, Panthenol, Potassium Azeloyl Diglycinate, Glycyrrhiza Glabra Root Extract, Ascorbyl Glucoside, 4-Butylresorcinol, Polyglyceryl-6 Caprylate/Caprate, Polyglyceryl-4 Laurate/Sebacate, Propylene Glycol, Lecithin, Alcohol, Disodium Cocoamphodiacetate, Disodium EDTA, Polysorbate 20, Sodium Cholate, Sodium Hydroxide, Sodium Chloride, Pantolactone, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Parfum, CI 17200"
+    },
+    {
+     "nombre": "Factor G Renew Crema rejuvenecedora 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979417534"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Prunus Amygdalus Dulcis Oil, Propanediol, Butyrospermum Parkii Butter Extract, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Lecithin, Tocopheryl Acetate, Cetearyl Alcohol, Malus Domestica Fruit Cell Culture Extract, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-2, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana SH-Polypeptide-15 Hexapeptide-40, Alcohol, Caprooyl Tetrapeptide-3, Carbomer, Centella Asiatica Extract, Ceteth-20, Dextran, Dipotassium Phosphate, Disodium EDTA, Ergothioneine, Ethylhexylglycerin, Glycerin, Hydrochloric Acid, Nicotiana Benthamiana SH-Oligopeptide-2, Nicotiana Benthamiana SH-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Palmitoyl Tripeptide-5, Parfum, PEG-75 Stearate, Phenoxyethanol, Polysorbate 20, Potassium Phosphate, Quercetin, Resveratrol Dimethyl Ether, Sodium Chloride, Sodium Cholate, Steareth-20, Triethanolamine, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Factor G Renew Sérum liposomado 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979417541"
+     ],
+     "inci": "Aqua, Glycerin, Bis-PEG-18 Methyl Ether Dimethyl Silane, Propanediol, Lecithin, PEG-40 Hydrogenated Castor Oil, Malus Domestica Fruit Cell Culture Extract, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-2, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana SH-Polypeptide-15 Hexapeptide-40, Alcohol, Caprooyl Tetrapeptide-3, Carbomer, Centella Asiatica Extract, Dextran, Dipotassium Phosphate, Disodium EDTA, Tocopheryl Acetate, Ergothioneine, Ethylhexylglycerin, Hydrochloric Acid, Nicotiana Benthamiana SH-Oligopeptide-2, Nicotiana Benthamiana SH-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Palmitoyl Tripeptide-5, Parfum, Phenoxyethanol, Polysorbate 20, Potassium Phosphate, Quercetin, Resveratrol Dimethyl Ether, Sodium Chloride, Sodium Cholate, Triethanolamine, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Factor G Renew Crema gel 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979429605"
+     ],
+     "inci": "Aqua, Bis-PEG-18 Methyl Ether Dimethyl Silane, Propanediol, PPG-15 Stearyl Ether, Polymethyl Methacrylate, PEG-40 Hydrogenated Castor Oil, Lecithin, Alcohol, Tocopheryl Acetate, Resveratrol Dimethyl Ether, Quercetin, Palmitoyl Tripeptide-5, Nicotiana Benthamiana SH-Polypeptide-7, Nicotiana Benthamiana SH-Polypeptide-45, Nicotiana Benthamiana SH-Oligopeptide-2, Ergothioneine, Centella Asiatica Extract, Caprooyl Tetrapeptide-3, Bakuchiol, Nicotiana Benthamiana SH-Polypeptide-15 Hexapeptide-40, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-2, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Malus Domestica Fruit Cell Culture Extract, Triethanolamine, Polysorbate 20, Carbomer, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Sodium Chloride, C13-14 Isoparaffin, BHT, Tromethamine, Glycerin, Disodium EDTA, Laureth-7, Sodium Cholate, Dipotassium Phosphate, Hydrochloric Acid, Xanthan Gum, Potassium Phosphate, Dextran, Phenoxyethanol, Ethylhexylglycerin, Parfum"
+    },
+    {
+     "nombre": "Sensyses Cleanser Hyaluronic limpiador desmaquillante 200 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979433732"
+     ],
+     "inci": "Aqua, Pentylene Glycol, Glycerin, Alcohol, CI 17200, Disodium Cocoamphodiacetate, Disodium EDTA, Lecithin, Methylsilanol Mannuronate, Panthenol, Pantolactone, Parfum, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Polyglyceryl-4 Laurate/Sebacate, Polyglyceryl-6 Caprylate/Caprate, Retinyl Palmitate, Sodium Chloride, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Sorbic Acid, Tocopherol"
+    },
+    {
+     "nombre": "Daeses Crema lifting 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979439475"
+     ],
+     "inci": "Aqua, Isohexadecane, Caprylic/Capric Triglyceride, Cetyl Alcohol, Propanediol, Cetearyl Ethylhexanoate, Dimethyl MEA, Sorbitan Stearate, Glycerin, Cyclopentasiloxane, Glycolic Acid, Glyceryl Stearate, Dimethicone/Vinyl Dimethicone Crosspolymer, Phosphatidylcholine, Triticum Vulgare Germ Oil, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-5, Alcohol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Caesalpinia Spinosa Fruit Extract, Ceteth-20, Citronellol, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Glyceryl Polymethacrylate, Hydrochloric Acid, Isoceteth-10, Kappaphycus Alvarezii Extract, Lactic Acid, Linalool, Methylsilanol Mannuronate, Nicotiana Benthamiana SH-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Palmitoyl Oligopeptide, Parfum, PEG-75 Stearate, PEG-8, Phenoxyethanol, Polysorbate 20, Potassium Phosphate, Retinyl Palmitate, Silica, Sodium Chloride, Sodium Cholate, Sorbic Acid, Steareth-20, Tocopherol, Tocopheryl Acetate, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Daeses Crema gel facial reafirmante 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979439482"
+     ],
+     "inci": "Aqua, Glycerin, Propanediol, Isohexadecane, Cyclopentasiloxane, Dimethyl MEA, Polymethyl Methacrylate, Aloe Barbadensis Leaf Juice, Arachidyl Alcohol, Glycolic Acid, Phosphatidylcholine, Alcohol, Triticum Vulgare Germ Oil, Cetyl Alcohol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Nicotiana Benthamiana Hexapeptide-40 SH-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-5, Alpha-Isomethyl Ionone, Arachidyl Glucoside, Behenyl Alcohol, Benzyl Salicylate, Butylene Glycol, C13-14 Isoparaffin, Caesalpinia Spinosa Fruit Extract, Caprylyl Glycol, Carbomer, Centella Asiatica Extract, Decyl Glucoside, Dimethicone, Dipotassium Phosphate, Disodium EDTA, Ethylhexylglycerin, Glyceryl Polymethacrylate, Hexylene Glycol, Hydrochloric Acid, Kappaphycus Alvarezii Extract, Lactic Acid, Laureth-7, Linalool, Methylsilanol Mannuronate, Nicotiana Benthamiana SH-Polypeptide-45, Nicotiana Benthamiana SH-Polypeptide-7, Palmitoyl Oligopeptide, Parfum, PEG-8, Phenoxyethanol, Polysilicone-11, Polysorbate 20, Potassium Phosphate, Potassium Sorbate, Propylene Glycol, Retinyl Palmitate, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Sorbic Acid, Tocopherol, Tocopheryl Acetate, Tromethamine, Xanthan Gum"
+    },
+    {
+     "nombre": "Mesoses Crema 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979458223"
+     ],
+     "inci": "Aqua, Coco-Caprylate/Caprate, Caprylic/Capric Triglyceride, PEG-8 Beeswax, Myristyl Myristate, Glycerin, Propanediol, Cetyl Alcohol, Cyclopentasiloxane, Prunus Amygdalus Dulcis Oil, Argania Spinosa Kernel Oil, Cyclohexasiloxane, Leontopodium Alpinum Callus Culture Extract, Alanine, Alcohol, Alpha-Isomethyl Ionone, Ammonium Hydroxide, Arginine, Ascorbyl Palmitate, Aspartic Acid, Caffeine, Calendula Officinalis Flower Extract, Carbomer, Carnitine, Ceteth-20, Citric Acid, Citronellol, Coumarin, Disodium EDTA, Ethylhexylglycerin, Geraniol, Glutathione, Glyceryl Oleate, Glyceryl Stearate, Glycine, Glycolic Acid, Histidine, Hydrolyzed Sodium Hyaluronate, Hydroxycitronellal, Isoleucine, Lecithin, Leucine, Limonene, Linalool, Melilotus Officinalis Extract, Methylsilanol Mannuronate, Nicotinamide Adenine Dinucleotide, Parfum, PCA, Pentylene Glycol, Phenoxyethanol, Phenylalanine, Polysorbate 20, Potassium Sorbate, Proline, Propylene Glycol, Serine, Sodium Benzoate, Sodium Bisulfite, Sodium Chloride, Sodium Cholate, Sodium Lactate, Sodium PCA, Sorbic Acid, Steareth-20, Superoxide Dismutase, Threonine, Tocopherol, Tocopheryl Acetate, Triethanolamine, Tromethamine, Troxerutin, Valine, Xanthan Gum"
+    },
+    {
+     "nombre": "Mesoses Sérum liposomado 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979458261"
+     ],
+     "inci": "Ceteth-20, Glycerin, Triticum Vulgare Germ Oil, Propanediol, Bis-PEG-18 Methyl Ether Dimethyl Silane, Isodecyl Neopentanoate, Glyceryl Stearate, Persea Gratissima Oil, Lecithin, Leontopodium Alpinum Callus Culture Extract, Helianthus Annuus Seed Oil, Rosmarinus Officinalis Leaf Extract, Ammonium Acryloyldimethyltaurate/VP Copolymer, Alanine, Alcohol, Alpha-Isomethyl Ionone, Ammonium Hydroxide, Arginine, Ascorbyl Palmitate, Aspartic Acid, Caffeine, Calendula Officinalis Flower Extract, Caprylic/Capric Triglyceride, Carnitine, Cetearyl Alcohol, Citric Acid, Citronellol, Coumarin, Dimethicone / Bisisobutylppg20crosspolymer, Disodium EDTA, Ethylhexylglycerin, Geraniol, Glutathione, Glyceryl Oleate, Glycine, Glycolic Acid, Histidine, Hydrolyzed Sodium Hyaluronate, Hydroxycitronellal, Isoleucine, Leucine, Linalool, Melilotus Officinalis Extract, Methylsilanol Mannuronate, Nicotinamide Adenine Dinucleotide, Parfum, PCA, Pentylene Glycol, Phenoxyethanol, Phenylalanine, Polysorbate 20, Potassium Cocoyl Hydrolyzed Oat Protein, Potassium Sorbate, Proline, Propylene Glycol, Serine, Sodium Benzoate, Sodium Bisulfite, Sodium Chloride, Sodium Cholate, Sodium Cocoyl Amino Acids, Sodium Lactate, Sodium PCA, Sorbic Acid, Superoxide Dismutase, Threonine, Tocopherol, Tocopheryl Acetate, Triethanolamine, Tromethamine, Troxerutin, Valine, Xanthan Gum"
+    },
+    {
+     "nombre": "Resveraderm Liposomal Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979472403"
+     ],
+     "inci": "Aqua, Propanediol, Glycerin, Phosphatidylcholine, Epigallocatechin Gallate, Pinus Pinaster Bark Extract, 3-O-Ethyl Ascorbic Acid, Alcohol, BHA, BHT, Butylene Glycol, CI 42090, CI 17200, Citronellol, Cyclodextrin, Diglycerin, Disodium EDTA, Ethylhexylglycerin, Eugenol, Hydroxydecyl Ubiquinone, Hydroxyethylcellulose, Inulin, Parfum, Phenoxyethanol, Poloxamer 235, Poloxamer 338, Polysorbate 20, Quercetin, Resveratrol Dimethyl Ether, Retinol, Retinyl Palmitate, Sodium Chloride, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Tocophersolan, Triethanolamine, Vitis Vinifera Leaf Extract, Vitis Vinifera Vine Extract, Xanthan Gum"
+    },
+    {
+     "nombre": "Sesgen 32 Contorno de ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979480675"
+     ],
+     "inci": "Aqua, Dimethicone, Propanediol, Butyrospermum Parkii Butter Extract, Glyceryl Stearate, PEG-100 Stearate, Limnanthes Alba Seed Oil, Glycerin, Dimethyl MEA, Argania Spinosa Kernel Oil, Lactic Acid, Polysilicone-11, PEG-8 Beeswax, Cetyl Alcohol, Adenosine, Alcohol, Ascorbyl Palmitate, Bifida Ferment Lysate, Butylene Glycol, Camphanediol, Caprylic/Capric Triglyceride, Carbomer, CI 42090, Citric Acid, Cyclohexasiloxane, Cyclopentasiloxane, Disodium EDTA, Tocopheryl Acetate, Ethylhexylglycerin, Glutamylamidoethyl Imidazole, Glyceryl Oleate, Hydrochloric Acid, Lecithin, Parfum, Phenoxyethanol, Phytosphingosine HCl, Pinanediol, Polysorbate 20, Retinal, Sodium Benzoate, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Teprenone, Tocopherol, Tripeptide-32, Xanthan Gum"
+    },
+    {
+     "nombre": "Retiage Contorno de ojos 15 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979480637"
+     ],
+     "inci": "Aqua, Caprylic/Capric Triglyceride, Isostearyl Isostearate, Propanediol, Pentylene Glycol, PEG-100 Stearate, Glyceryl Stearate, Propylene Glycol, Glycerin, Nicotiana Benthamiana Hexapeptide-40 SH-Polypeptide-76, Nicotiana Benthamiana SH-Polypeptide-15 Hexapeptide-40, Aesculus Hippocastanum Bark Extract, Alcohol, Alpha-Arbutin, Ascorbyl Glucoside, BHA, BHT, Butylene Glycol, Camphanediol, Caprooyl Tetrapeptide-3, Carbomer, Cetearyl Alcohol, CI 17200, Dextran, Dipotassium Phosphate, Disodium EDTA, Ergothioneine, Ethylhexylglycerin, Ginkgo Biloba Leaf Extract, Glycine Soja Protein, Helianthus Annuus Seed Oil, Hydrochloric Acid, Hydrolyzed Rice Bran Protein, Hydrolyzed Sodium Hyaluronate, Lecithin, Parfum, Phenoxyethanol, Pinanediol, Polysorbate 20, Potassium Phosphate, Potassium Sorbate, Resveratrol Dimethyl Ether, Retinal, Retinol, Retinyl Propionate, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Dextran Sulfate, Sodium Hydroxide, Superoxide Dismutase, Triethanolamine, Tromethamine, Zinc Chloride"
+    },
+    {
+     "nombre": "Repaskin Urban 365 Antiedad SPF 50 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979482143"
+     ],
+     "inci": "Aqua, Ethylhexyl Methoxycinnamate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol, Propylene Glycol, Ethylhexyl Triazone, Ethylhexyl Salicylate, Polymethyl Methacrylate, Titanium Dioxide (Nano), Thermus Thermophillus Ferment, Cyclopentasiloxane, Butyl Methoxydibenzoylmethane, Isostearyl Alcohol, Butylene Glycol Cocoate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol, Arabidopsis Thaliana Extract, Benzoic Acid, Calcium Chloride, Calcium Sulfate, Camellia Sinensis Leaf Extract, Caprooyl Tetrapeptide-3, Caprylyl Glycol, Carbomer, Citric Acid, Decyl Glucoside, Dextran, Dimethicone, Disodium EDTA, Ethylcellulose, Ethylhexylglycerin, Glycerin, Hexylene Glycol, Hydrochloric Acid, Micrococcus Lysate, Palmitoyl Tripeptide-5, Parfum, Phenoxyethanol, Phosphatidylcholine, Plankton Extract, Polypodium Leucotomos Root Extract, Polysilicone-11, Polysorbate 20, Potassium Sorbate, Silica, Sodium Benzoate, Sodium Chloride, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Tocopheryl Acetate, Triethyl Citrate, Zinc Chloride, Zonaria Tournefortii Extract"
+    },
+    {
+     "nombre": "Repaskin Urban 365 Pieles grasas SPF 50 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979482556"
+     ],
+     "inci": "Aqua, Coco-Caprylate/Caprate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Homosalate, Polymethyl Methacrylate, Propylene Glycol, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Phenylbenzimidazole Sulfonic Acid, Cyclopentasiloxane, Niacinamide, Bis-PEG-18 Methyl Ether Dimethyl Silane, Zonaria Tournefortii Extract, Salicylic Acid, Camellia Sinensis Leaf Extract, Polypodium Leucotomos Root Extract, Citric Acid, Arabidopsis Thaliana Extract, Micrococcus Lysate, Plankton Extract, Zinc Chloride, Phenoxyethanol, Potassium Hydroxide, Potassium Cetyl Phosphate, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexylglycerin, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Alcohol, Xanthan Gum, Polysilicone-11, Phosphatidylcholine, Butylene Glycol, Disodium EDTA, Polysorbate 20, Glycerin, Triethanolamine, Caprylyl Glycol, Acetylcedrene, Potassium Sorbate, Decyl Glucoside, Hexylene Glycol, Sodium Chloride, Sodium Cholate, Triethyl Citrate, Sodium Benzoate, Benzoic Acid, Hydrochloric Acid, Calcium Chloride, Calcium Sulfate"
+    },
+    {
+     "nombre": "Exoses The Cream crema facial 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979484550"
+     ],
+     "inci": "Aqua, Lactobacillus Ferment, Hydrogenated Polydecene, Ceteth-20, Propanediol, Glycerin, C12-15 Alkyl Benzoate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Cyclopentasiloxane, Glyceryl Stearate, Tetrahexyldecyl Ascorbate, Prunus Amygdalus Dulcis Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, 1,2-Hexanediol, Alcohol, Alpha-Arbutin, Calcium Chloride, Calcium Sulfate, Carbomer, Centella Asiatica Extract, Ceramide AP, Ceramide EOP, Ceramide NP, Cetearyl Alcohol, Cholesterol, Dimethyl Isosorbide, Disodium EDTA, Ethylhexylglycerin, Hydroxypinacolone Retinoate, Methylsilanol Mannuronate, Niacinamide, Parfum, Phenoxyethanol, Phosphatidylcholine, Phytosphingosine, Polysorbate 20, Rosa Canina Fruit Oil, Sodium Chloride, Sodium Cholate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sorbic Acid, Tocopheryl Acetate, Xanthan Gum"
+    },
+    {
+     "nombre": "Retiage 5 Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979485731"
+     ],
+     "inci": "Aqua, Bis-PEG-18 Methyl Ether Dimethyl Silane, Hydrogenated Polydecene, Ceteth-20, C12-15 Alkyl Benzoate, Propanediol, Glyceryl Polymethacrylate, Glyceryl Stearate, Niacinamide, Caprooyl Tetrapeptide-3, Retinol, Ceramide NP, Caryodendron Orinocense Seed Oil, Sodium Hyaluronate, Ceramide AP, Cholesterol, Phytosphingosine, Sodium Retinoyl Hyaluronate, Retinyl Propionate, Hydroxypinacolone Retinoate, Retinal, Zinc Chloride, Palmitoyl Tripeptide-1, Palmitoyl Hexapeptide-12, Ceramide EOP, Phenoxyethanol, Phosphatidylcholine, Cetearyl Alcohol, Tocopheryl Acetate, Alcohol, Xanthan Gum, Ethylhexylglycerin, Propylene Glycol, Sodium Lauroyl Lactylate, Parfum, Glycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Disodium EDTA, PEG-8, Polysorbate 20, Sodium Cholate, Sodium Lactate, Dextran, Carbomer, Dimethyl Isosorbide, Geranyl Acetate, Linalyl Acetate, BHT, BHA, Helianthus Annuus Seed Oil, CI 17200, Isopropyl Alcohol, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Hidraderm Hyal 5 Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8429979486370"
+     ],
+     "inci": "Aqua, Bis-PEG-18 Methyl Ether Dimethyl Silane, Hydrogenated Polydecene, Ceteth-20, C12-15 Alkyl Benzoate, Propanediol, Glyceryl Stearate, Tetradecane, Phosphatidylcholine, Saccharide Isomerate, Sodium Hyaluronate, Niacinamide, Sodium Retinoyl Hyaluronate, Ceramide NP, Hydrolyzed Sodium Hyaluronate, Ceramide AP, Cholesterol, Phytosphingosine, Retinal, Ceramide EOP, Phenoxyethanol, Alcohol, Dodecane, Cetearyl Alcohol, Tocopheryl Acetate, Sodium Hydroxide, Xanthan Gum, Ethylhexylglycerin, Parfum, Disodium EDTA, Sodium Chloride, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Cholate, Diethyl Succinate, Polysorbate 20, Sodium Lauroyl Lactylate, Alpha-Isomethyl Ionone, Dimethyl Phenethyl Acetate, Citric Acid, Terpineol, Linalyl Acetate, Carbomer, Calcium Chloride, Calcium Sulfate, Isopropyl Alcohol, Retinyl Palmitate, Tocopherol"
     }
    ]
   },
@@ -29333,6 +29606,15 @@
       "8470001930163"
      ],
      "inci": "Aqua, C12-15 Alkyl Benzoate, Dimethicone, Isododecane, Titanium Dioxide(Nano), Zinc Oxide(Nano), Butyloctyl Salicylate, Sodium Potassium Aluminum Silicate, Niacinamide, Alumina, Styrene/Acrylates Copolymer, Phenethyl Benzoate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Polypodium Leucotomos Leaf Extract, Physalis Angulata Extract, Melanin, Plankton Extract, 3-O-Ethyl Ascorbic Acid, Oxothiazolidine, Tocopheryl Acetate, Hydrogen Dimethicone, Phenylpropanol, Polyhydroxystearic Acid, Magnesium Sulfate, Dimethicone/PEG-10/15 Crosspolymer, Propylene Glycol, Caprylyl Glycol, Titanium Dioxide, Silica, Propanediol, Triethoxycaprylylsilane, Caprylic/Capric Triglyceride, Tocopherol, Butylene Glycol, Dipropylene Glycol, Sodium Citrate, Disteardimonium Hectorite, Propylene Carbonate, Lecithin, Phenoxyethanol, Sodium Benzoate"
+    },
+    {
+     "nombre": "360º Pediatrics Stick SPF50+ 25 g",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8470002076747"
+     ],
+     "inci": "Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Lauroyl Glutamide, Diethylhexyl Butamido Triazone, Ethylhexyl Triazone, Dibutyl Ethylhexanoyl Glutamide, Ethyl Vanillin, Polypodium Leucotomos Leaf Extract, Tocopherol, Diethylhexyl Syringylidenemalonate, Caprylic/Capric Triglyceride, Haematococcus Pluvialis Extract, Propylene Glycol, Maltodextrin, Lecithin, Silica, Ascorbyl Palmitate, Rosmarinus Officinalis Flower/Leaf/Stem Extract"
     }
    ]
   },
@@ -33639,6 +33921,15 @@
       "8470003987509"
      ],
      "inci": "Aqua, Snail Secretion Leak, C12-20 Acid PEG-8 Ester, C12-15 Alkyl Benzoate, Glycerin, Saccharide Isomerate, Hexylene Glycol, PEG/PPG-20/6 Dimethicone, Fructose, Glucose, Phenoxyethanol, Maltodextrin, Tocopheryl Acetate, Cetyl Alcohol, Methylparaben, Propylparaben, Dextrin, Sucrose, Urea, Disodium EDTA, Sodium Citrate, Tetrahydrodiferuloylmethane, Parfum, Alanine, Aspartic Acid, Glutamic Acid, Hexyl Nicotinate, Limonene"
+    },
+    {
+     "nombre": "Radiance C Ferulic Edafence Sérum 30 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8436574361032"
+     ],
+     "inci": "Aqua, Snail Secretion Filtrate, Butylene Glycol, Cyclopentasiloxane, Propanediol, Dibutyl Adipate, Pentylene Glycol, Isostearyl Isostearate, Sodium Ascorbyl Phosphate, Ascorbic Acid, Polyacrylate Crosspolymer-6, Tocopheryl Acetate, Deschampsia Antarctica Leaf Extract, Ferulic Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Zea Mays Starch, Maltodextrin, Dimethicone, Ethylhexylglycerin, Trisodium Ethylenediamine Disuccinate, Cetyl Hydroxyethylcellulose, Polysilicone-11, Decyl Glucoside, Phenoxyethanol, Parfum"
     }
    ]
   },

@@ -1208,6 +1208,39 @@ tras cada bloque:
 - **Detector**: 35 de 941 sin avisos (mucho perfume sin desglosar, propilenglicol y fenoxietanol; aroma solo en pastas, colutorios y
   labiales). Sin falsos positivos ni negativos nuevos.
 
+**Bloque 4, ampliar (versión 2026-10-25-q7b4): 31 productos nuevos y 43 códigos en 4 marcas que ya estaban.** Regresión: 0 cambios
+de avisos (las 4 fichas de Bioderma que ganan códigos dan lo mismo que antes). Sin Douglas (403).
+- **Sesderma +19 (19 códigos).** **sesderma.com/es_es publica ya la lista completa** ("Ingredientes", 86 de 96 fichas), sin EAN.
+  Códigos de Gintarinė (farmacia lituana que publica código y lista) y SkinLovers, con el criterio de ISDIN: entra un código solo si
+  la tienda publica con él la lista idéntica a la web (mismo producto y tamaño). Entran Acglicolic sérum, Sensyses Sebum, Lightening
+  y Hyaluronic, Factor G, Daeses, Mesoses, Resveraderm, Sesgen 32 contorno, Retiage, Repaskin Urban 365 Antiedad y Pieles grasas,
+  Exoses The Cream, Hidraderm Hyal… Listas pasadas a formato INCI, sin la coletilla "(*) La lista… puede sufrir modificaciones";
+  erratas evidentes corregidas ("COOPER SULFATE", "POLIPEPTIDE", "PROTEINN", "DL-ALFA TOCOPHEROL ACETATO" → Tocopheryl Acetate).
+  Fuera: Ferulac crema y crema gel (la misma lista, probable copia), Ferulac sérum (tamaño distinto), Sesgen 32 crema gel (lista sin
+  comas), ~58 códigos con otra lista o dos versiones en tienda y ~31 sin lista en ninguna tienda.
+- **Bioderma +10 (12 códigos) y 10 códigos más para 4 fichas que ya estaban.** bioderma.es sigue sin lista en la ficha, pero enlaza a
+  **AskNAOS** (naos.com/es-ES/askNaos), el portal de ingredientes del fabricante: 86 listas, sin EAN. AskNAOS no siempre respeta el
+  orden de la etiqueta (Photoderm AKN Mat), así que solo entra un código si Gintarinė o SkinLovers publican con él la lista idéntica
+  y en el mismo orden. Entran Hydrabio Crema y Gel-Crema, Nodé champú fluido (200 y 400 ml), Sensibio H2O AR, Nodé K, Atoderm
+  Intensive Eye, Photoderm Gel-Crema After-Sun, Atoderm manos y uñas, Atoderm stick labial y "Sébium Pore Refiner (fórmula actual)"
+  (el catálogo ya tenía la anterior). Códigos añadidos a fichas que ya estaban, con la misma lista: Sébium H2O (4), Sensibio H2O (3),
+  Sébium Gel Moussant 400 ml (1) y Atoderm Intensive Gel-Crème 75 y 200 ml (2; la ficha pasa a llamarse "Atoderm Intensive
+  Gel-Crème", sin "500 ml"). Fuera: Sensibio Defensive y Eye+ (Palmitoyl Tetrapeptide-10 en tienda, -11 en AskNAOS), ~30 códigos con
+  otra lista o dos versiones y ~20 sin lista.
+- **Cantabria Labs**: cantabrialabs.es sigue con solo los activos; dos fuentes sin Douglas (SkinLovers contra inkeedecoder).
+  **Endocare +1** (Radiance C Ferulic Edafence Sérum 30 ml); en la revisión se quita el Renewal Retinol Contorno de Ojos, que solo
+  coincidía pasando por alto erratas de SkinLovers ("Ylon-12", "PG-10 Dimethicone"). **Heliocare +1** (360º Pediatrics Stick SPF50+
+  25 g); fuera MD AK Fluid (tres subidas distintas en inkeedecoder), Mineral Fluid (código con prefijo de otra empresa) y Pigment
+  Solution (SkinLovers le pone la lista del Age Active). **Biretix**: nada nuevo.
+- **Bella Aurora — 0**: bellaaurora.es, reto de Cloudflare a la primera petición (como Apivita y Mesoestetic).
+- **Freshly — 0**: la web sigue dando la lista sin EAN y no queda fuente de código (OBF 2 códigos con nombres antiguos; El Corte
+  Inglés 403; Primor y Gintarinė no la venden; Druni, Douglas y Notino bloqueados).
+
+**Sexta cola — resumen (2026-10-24/25)**: 4 bloques, **8 marcas nuevas** (Babé, RoC, Neostrata, Galénic, Mia Cosmetics Paris, Max
+Factor, Ziaja, Natura Siberica) **y 4 ampliadas** (Sesderma, Bioderma, Endocare, Heliocare): **1.313 productos y 1.678 códigos**.
+Fuera por bloqueo de la web: Apivita, Mesoestetic y Bella Aurora (Cloudflare). Esperan la decisión sobre listas del Reino Unido:
+Revlon (27) y parte de Max Factor (31). Freshly y Biretix, sin fuente nueva.
+
 ### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
 Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
 Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
