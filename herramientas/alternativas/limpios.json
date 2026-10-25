@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24-q7b1",
+ "version": "2026-10-25-q7b2",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -26800,6 +26800,424 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "1210000800145"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Base de maquillaje Facefinity All Day Flawless 3 en 1 · Beige, Bronze, C10 Fair Porcelain, C105 Ganache, C110 Espresso y 32 tonos más",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3614225851551",
+    "3614225851575",
+    "3614225851629",
+    "3614225851636",
+    "3614225851667",
+    "3614225851674",
+    "3614225851681",
+    "3614225851698",
+    "3614227923300",
+    "3614227923355",
+    "3614227923454",
+    "3614227923508",
+    "3614227923805",
+    "3616303999322",
+    "3616303999339",
+    "3616303999346",
+    "3616303999353",
+    "3616303999360",
+    "3616303999377",
+    "3616303999384",
+    "3616303999391",
+    "3616303999407",
+    "3616303999414",
+    "3616303999421",
+    "3616303999438",
+    "3616303999445",
+    "3616303999452",
+    "3616303999469",
+    "3616303999476",
+    "3616303999483",
+    "3616303999490",
+    "3616303999506",
+    "3616303999520",
+    "3616303999544",
+    "3616303999551",
+    "3616303999568",
+    "3616303999582",
+    "3616303999599",
+    "3616303999605",
+    "3616303999612",
+    "3616303999681",
+    "3616303999698",
+    "3616303999704"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Base de maquillaje Facefinity Lasting Blur · C100 Fair, C106 Natural Beige",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616305712066",
+    "3616305712073"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Base de maquillaje Facefinity Lasting Blur · W97 Golden Ivory",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616305712127"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Base de maquillaje compacta Facefinity Compact · 003 Natural, 005 Sand, 006 Golden, 008 Toffee, 76 Warm Golden",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616302255498",
+    "3616303407032",
+    "3616303407087",
+    "3616303407094",
+    "3616303407148"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Capa final de uñas Miracle Pure",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616303403324"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Capa final de uñas efecto gel Nailfinity",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616301283447"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Corrector Facefinity All Day Flawless",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616303406899",
+    "3616303931131",
+    "3616304615009",
+    "3616304615054",
+    "3616304615108",
+    "3616304615153",
+    "3616304615207"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Corrector Miracle Pure · 01 Fair, 02 Light, 03 Light to Medium, 04 Medium, 07 Medium to Tan y 1 tono más",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616303251550",
+    "3616303251574",
+    "3616303251581",
+    "3616303251598",
+    "3616303251604",
+    "3616303251611"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Corrector de ojeras Miracle Pure Eye Enhancer",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616304504150",
+    "3616304504167",
+    "3616304504174",
+    "3616304504181",
+    "3616304504198",
+    "3616304504204"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Endurecedor de uñas Miracle Pure",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616303403300"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Esencia con color Miracle Pure Hydratint · Fair - 1, Fair/Light - 2, Light - 3, Light/Medium - 4, Medium - 5 y 1 tono más",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616306343863",
+    "3616306343870",
+    "3616306343887",
+    "3616306343894",
+    "3616306343900",
+    "3616306343917"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Esmalte de uñas Miracle Pure · 095 Opal Coat, 155 Coconut Milk, 202 Natural Pearl, 205 Nude Rose, 220 Cherry Blossom y 11 tonos más",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616303252540",
+    "3616303252557",
+    "3616303252564",
+    "3616303252571",
+    "3616303252588",
+    "3616303252595",
+    "3616303252601",
+    "3616303252618",
+    "3616303252625",
+    "3616303252632",
+    "3616303252649",
+    "3616303252656",
+    "3616305715388",
+    "3616305715401",
+    "3616305715418",
+    "3616305715425"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Fluido bronceador e iluminador Glow Framer",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616307096614",
+    "3616307096621",
+    "3616307096638",
+    "3616307096645",
+    "3616307096652",
+    "3616307096669"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Gel de cejas Masterpiece Brow Lamination",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616305708328",
+    "3616305708335",
+    "3616305708342",
+    "3616305708359"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Perfilador de labios Lip Shader · Midn. Roast, Soft Spark",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616307669214",
+    "3616307669245"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Perfilador de labios Lip Shader · Rustic Brick",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616307669221"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Perfilador de labios Lip Shader · 010 Nude Lines, 030 Pink Thread, 060 Coffee Blend",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616307620567",
+    "3616307620598",
+    "3616307620635"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Perfilador de labios Lip Shader · Toasted Cin.",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616307669191"
+   ]
+  },
+  {
+   "marcaKey": "maxfactor",
+   "marca": "Max Factor",
+   "nombre": "Sérum prebase matificante Miracle Pure Matte Drops",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3616305980090"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas BIO-Sourced Tourmaline",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880955"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas BIO-Sourced Sunstone",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880986"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas BIO-Sourced Fire Agate",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880993"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas BIO-Sourced Red Zircon",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881006"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas BIO-Sourced Star Ruby",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881013"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Base de uñas BIO-Sourced",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881037"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Top coat BIO-Sourced",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881044"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Top coat efecto gel",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880337"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Top coat efecto mate",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880450"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Diluyente para esmaltes de uñas",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558880917"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Gotas de pigmento Colour Drops Golden",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558887084"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Gotas de pigmento Colour Drops Bronze",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558887091"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Paleta de correctores Blooming",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558888951"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Paleta de sombras de ojos y colorete Eyes & Cheeks Blooming",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558888968"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Raccoon",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881310"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Deer",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881266"
+   ]
+  },
+  {
+   "marcaKey": "miacosmetics",
+   "marca": "Mia Cosmetics Paris",
+   "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Birdie",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436558881280"
    ]
   }
  ]

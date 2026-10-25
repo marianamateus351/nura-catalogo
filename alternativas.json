@@ -1,5 +1,5 @@
 {
- "version": "2026-10-24g",
+ "version": "2026-10-25a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -4761,12 +4761,66 @@
        "fechaLista": "24-10-2026"
       },
       {
+       "nombre": "Base de maquillaje compacta Facefinity Compact · 003 Natural, 005 Sand, 006 Golden, 008 Toffee, 76 Warm Golden",
+       "marca": "Max Factor",
+       "barcode": "3616302255498",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Facefinity All Day Flawless 3 en 1 · Beige, Bronze, C10 Fair Porcelain, C105 Ganache, C110 Espresso y 32 tonos más",
+       "marca": "Max Factor",
+       "barcode": "3614225851551",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Facefinity Lasting Blur · C100 Fair, C106 Natural Beige",
+       "marca": "Max Factor",
+       "barcode": "3616305712066",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Base de maquillaje Facefinity Lasting Blur · W97 Golden Ivory",
+       "marca": "Max Factor",
+       "barcode": "3616305712127",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Corrector de ojeras Miracle Pure Eye Enhancer",
+       "marca": "Max Factor",
+       "barcode": "3616304504150",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Corrector Facefinity All Day Flawless",
+       "marca": "Max Factor",
+       "barcode": "3616303406899",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Corrector Miracle Pure · 01 Fair, 02 Light, 03 Light to Medium, 04 Medium, 07 Medium to Tan y 1 tono más",
+       "marca": "Max Factor",
+       "barcode": "3616303251550",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Sérum prebase matificante Miracle Pure Matte Drops",
+       "marca": "Max Factor",
+       "barcode": "3616305980090",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Corrector de rojeces Calmwise Colour Correct",
        "marca": "Medik8",
        "barcode": "0818625024475",
        "subtipo": "corrector",
        "fechaLista": "04-10-2026",
        "amazon": "https://www.amazon.es/dp/B09QGWYVYV"
+      },
+      {
+       "nombre": "Paleta de correctores Blooming",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558888951",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Prebase de Maquillaje Hydra Touch Oil Primer",
@@ -8153,6 +8207,30 @@
        "fechaLista": "21-10-2026"
       },
       {
+       "nombre": "Perfilador de labios Lip Shader · 010 Nude Lines, 030 Pink Thread, 060 Coffee Blend",
+       "marca": "Max Factor",
+       "barcode": "3616307620567",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Shader · Midn. Roast, Soft Spark",
+       "marca": "Max Factor",
+       "barcode": "3616307669214",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Shader · Rustic Brick",
+       "marca": "Max Factor",
+       "barcode": "3616307669221",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Perfilador de labios Lip Shader · Toasted Cin.",
+       "marca": "Max Factor",
+       "barcode": "3616307669191",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Color Sensational Perfilador de labios",
        "marca": "Maybelline New York",
        "barcode": "3600530575503",
@@ -9285,6 +9363,12 @@
        "barcode": "0736211011411",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B01673X226"
+      },
+      {
+       "nombre": "Esencia con color Miracle Pure Hydratint · Fair - 1, Fair/Light - 2, Light - 3, Light/Medium - 4, Medium - 5 y 1 tono más",
+       "marca": "Max Factor",
+       "barcode": "3616306343863",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Tónico 1025 Dokdo Toner",
@@ -13836,6 +13920,12 @@
        "fechaLista": "21-10-2026"
       },
       {
+       "nombre": "Gel de cejas Masterpiece Brow Lamination",
+       "marca": "Max Factor",
+       "barcode": "3616305708328",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Color Tattoo Stix Sombra de ojos",
        "marca": "Maybelline New York",
        "barcode": "3600531672645",
@@ -13860,6 +13950,12 @@
        "subtipo": "cejas",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B08P4X3J18"
+      },
+      {
+       "nombre": "Paleta de sombras de ojos y colorete Eyes & Cheeks Blooming",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558888968",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Blade & Shade Eyebrow Pencil · 01 Ash Blonde",
@@ -15309,6 +15405,12 @@
        "marca": "MAC",
        "barcode": "0773602745449",
        "fechaLista": "21-10-2026"
+      },
+      {
+       "nombre": "Fluido bronceador e iluminador Glow Framer",
+       "marca": "Max Factor",
+       "barcode": "3616307096614",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Lápiz Iluminador Wonder Pencil · Deep",
@@ -18659,12 +18761,114 @@
        "fechaLista": "30-09-2026"
       },
       {
+       "nombre": "Capa final de uñas efecto gel Nailfinity",
+       "marca": "Max Factor",
+       "barcode": "3616301283447",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Capa final de uñas Miracle Pure",
+       "marca": "Max Factor",
+       "barcode": "3616303403324",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Endurecedor de uñas Miracle Pure",
+       "marca": "Max Factor",
+       "barcode": "3616303403300",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas Miracle Pure · 095 Opal Coat, 155 Coconut Milk, 202 Natural Pearl, 205 Nude Rose, 220 Cherry Blossom y 11 tonos más",
+       "marca": "Max Factor",
+       "barcode": "3616303252540",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Fast Gel Esmalte de uñas",
        "marca": "Maybelline New York",
        "barcode": "30145092",
        "subtipo": "color",
        "fechaLista": "10-09-2026",
        "amazon": "https://www.amazon.es/dp/B09TRST76B"
+      },
+      {
+       "nombre": "Base de uñas BIO-Sourced",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881037",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Diluyente para esmaltes de uñas",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880917",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas BIO-Sourced Fire Agate",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880993",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas BIO-Sourced Red Zircon",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881006",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas BIO-Sourced Star Ruby",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881013",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas BIO-Sourced Sunstone",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880986",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas BIO-Sourced Tourmaline",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880955",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Birdie",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881280",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Deer",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881266",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Esmalte de uñas infantil al agua Mia Kids Fantasy Raccoon",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881310",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Top coat BIO-Sourced",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558881044",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Top coat efecto gel",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880337",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Top coat efecto mate",
+       "marca": "Mia Cosmetics Paris",
+       "barcode": "8436558880450",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Aceite reparador para uñas y cutículas Nail Nurse",
