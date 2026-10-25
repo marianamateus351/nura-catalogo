@@ -1179,6 +1179,35 @@ tras cada bloque:
 - **Detector**: 36 de 193 sin avisos. Lo que salta está en las listas (microplásticos por nylon/PMMA/polietileno, talco, parabenos,
   BHT, negro de humo, benzofenona-1 en esmaltes). Sin falsos positivos ni negativos nuevos.
 
+**Bloque 3, natural (versión 2026-10-25-q7b3): 2 marcas nuevas, 941 productos, 1.016 códigos.** Regresión: 0 cambios.
+- **Ziaja — 733 productos, 808 códigos.** **ziaja.com** (tienda oficial polaca; API pública de catálogo, 803 fichas: el SKU es el EAN y
+  la ficha trae el INCI con su fecha de revisión, que se quita): 642 entradas, Ziaja Med y Ziaja Pro incluidas. El envase español
+  lleva otro EAN (también 5901887…): códigos de **Primor** (sitemap y fichas, 212) atados a mano por gama, producto y tamaño, con la
+  lista de **es.ziaja.com** (464 fichas con INCI, sin EAN): si es idéntica a la polaca, el código se suma a esa entrada (68); si es
+  distinta, entrada aparte "(envase español)" con la lista española (91; suelen ser de 2020–2023). **En la revisión se quitan los 27
+  códigos españoles que el agente había atado a la lista polaca solo por el nombre** (productos que la web española no publica): el
+  envase español lleva a menudo otra lista que el polaco, así que no se puede suponer la misma. BB cremas y cremas con color: misma
+  lista en cada tono, pero solo con dióxido de titanio y óxidos de hierro (vale para todos los tonos, como Miracle Pure de Max
+  Factor): una entrada por tono. Renombradas dos cremas con "suavizante" (salían como Hogar): "Crema de pies para suavizar la piel
+  con AHA" y "Crema para suavizar la piel con AHA, urea y lactato sódico". **Fuera (410)**: sets, multipacks, premios y tarjetas; 59
+  fichas ocultas (descatalogadas); el champú alisador Argán y tsubaki (lleva la lista del sérum); 6 listas españolas antiguas (2 con
+  Lilial, 4 con D5 cuando la fórmula actual ya no lo lleva); fichas de Primor que no se atan con seguridad (brillos y exfoliantes
+  labiales con 4 sabores en una página, Glow mascarilla y crema con el mismo código, nombres genéricos). **robots.txt**: ziajashop.es
+  prohíbe ClaudeBot (una petición antes de verlo; nada usado) y Primor prohíbe sus URLs de búsqueda (una búsqueda antes de verlo;
+  después solo sitemap y fichas). Mifarma, Dosfarma y Arenal, bloqueo.
+- **Natura Siberica — 208 productos, 208 códigos.** **natura-siberica.com**, la tienda oficial de la UE (Eurobio Lab, Tallin; 301
+  fichas, 269 con lista). Sin EAN en la web: el número de artículo de la ficha (p. ej. 08452E) coincide con las últimas cifras del EAN,
+  y solo se acepta un código con el mismo artículo y tamaño. Códigos de naturasiberica.co.uk (tienda de la marca en el Reino Unido,
+  mismo fabricante estonio, 138) y naturasiberica.cz (distribuidor checo y eslovaco, 70); OBF confirma 7. Todos de envase europeo
+  (4743318…/4744183…), ninguno ruso (460…). Solo códigos del Reino Unido, no listas: no entra en la duda de las fuentes británicas.
+  Fuera las marcas de ecológico/silvestre y sus notas; se conserva la nota de perfume de la manteca de pies Sauna & Spa ("**Natural
+  components of essential oils"). **Fuera (94)**: 56 sin EAN europeo (Taiga Siberica, Pink Calluna, Copenhagen Premium, casi todo
+  Sauna & Spa, desodorantes…), 25 sin lista en la web europea (Loves Estonia, Steklo…), sets y calendario, los discos exfoliantes
+  Bereza (la tienda inglesa les pone el código del limpiador) y el agua micelar Northern (dato contradictorio). naturasiberica.es,
+  403 de Cloudflare; ecco-verde.es, 425.
+- **Detector**: 35 de 941 sin avisos (mucho perfume sin desglosar, propilenglicol y fenoxietanol; aroma solo en pastas, colutorios y
+  labiales). Sin falsos positivos ni negativos nuevos.
+
 ### 2026-10-24 · Resto de la cuarta cola ("¿y si pones más marcas?", Mariana, 2026-10-24)
 Lo que quedó sin hacer de la cuarta cola (2026-10-11; orden de trabajo del 2026-10-13: maquillaje de perfumería empezando por
 Sephora Collection, natural, farmacia, íntima y menstrual, marcas blancas de Carrefour y Eroski, Montibello reabierta). Mismas
