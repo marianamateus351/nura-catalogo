@@ -5702,6 +5702,23 @@ del catálogo que no están en la base), así que `cs` tiene que llevar TODOS lo
 Las aportaciones aprobadas a mano que no están en el catálogo no salen en este índice; la app las
 busca aparte por nombre exacto en Firestore.
 
+**Desde el 2026-10-25: "actualizados" y "retirados" (contrato confirmado con la app).** Novedades solo comparaba códigos, así
+que una ficha ya importada que el catálogo corrige (nombre o lista) no volvía a ofrecerse, y un producto retirado (las 3 velas
+de Rituals) seguía en Firestore. `indice.json` lleva ahora en la raíz, junto a "version" e "items":
+- `"actualizados": [{ "c": código, "v": versión en que cambió por última vez su nombre o su lista }]`
+- `"retirados": [{ "c": código, "v": versión en que salió del catálogo, "motivo": texto }]`
+Versiones AAAA-MM-DD-sufijo, ordenadas como texto. La app guarda la versión de su última importación completa y ofrece en
+Novedades los actualizados y retirados con `v` mayor (los nuevos, como siempre); al importar, sobrescribe los actualizados y
+borra de Firestore los retirados que vinieron del catálogo (las aprobadas a mano no las borra, las enseña aparte).
+- **Cómo se mantiene:** `node herramientas/indice.mjs` (se ejecuta como siempre con cada versión) compara cada código con su
+  huella anterior (`herramientas/huellas.json`: sha1 de nombre + lista, 12 caracteres) y apunta en `herramientas/cambios.json`
+  los que cambian o desaparecen; si un retirado vuelve, pasa a actualizado. Al retirar un producto a propósito, poner su motivo
+  en `herramientas/retirados_motivos.json` (código → texto) **antes** de ejecutar el índice. Las tres cosas se suben con el índice.
+- **Relleno inicial:** recorridas las 262 versiones de catalogo.json desde el 2026-09-09: **1.221 códigos actualizados**
+  (la mayoría, el cambio de nombres del 2026-10-15) y **150 retirados** (auditorías de Hogar y de Reckitt/Benckiser del
+  2026-10-04, la de 2026-09-24d, y las 3 velas de Rituals con su motivo). Como la app empieza con versión importada "0", la
+  primera vez se le ofrecen todos; reimportar uno que ya estaba bien no cambia nada.
+
 ### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
 (10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
 essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
