@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25-q7b3",
+ "version": "2026-10-25-q7b4",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -995,10 +995,12 @@
   {
    "marcaKey": "bioderma",
    "marca": "Bioderma",
-   "nombre": "Atoderm Intensive Gel-Crème 500 ml",
+   "nombre": "Atoderm Intensive Gel-Crème",
    "categoria": "Cuidado personal",
    "barcodes": [
-    "3701129802670"
+    "3701129802670",
+    "3701129802656",
+    "3701129802663"
    ]
   },
   {
@@ -1017,6 +1019,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3701129817919"
+   ]
+  },
+  {
+   "marcaKey": "bioderma",
+   "marca": "Bioderma",
+   "nombre": "Atoderm Intensive Eye cuidado del contorno de ojos 100 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3701129801963"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25b",
+ "version": "2026-10-25c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -3815,7 +3815,7 @@
        "fechaLista": "09-09-2026"
       },
       {
-       "nombre": "Atoderm Intensive Gel-Crème 500 ml",
+       "nombre": "Atoderm Intensive Gel-Crème",
        "marca": "Bioderma",
        "barcode": "3701129802670",
        "fechaLista": "23-09-2026"
@@ -8765,6 +8765,12 @@
        "marca": "Avène",
        "barcode": "3282770399141",
        "fechaLista": "09-09-2026"
+      },
+      {
+       "nombre": "Atoderm Intensive Eye cuidado del contorno de ojos 100 ml",
+       "marca": "Bioderma",
+       "barcode": "3701129801963",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "El Contorno de Ojos",
