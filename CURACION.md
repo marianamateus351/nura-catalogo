@@ -5832,6 +5832,15 @@ cuántos llevan enlace de Amazon):
 navegador, que Chromium no abra conexiones propias: cada petición la hace Node con la CA del proxy
 verificada (`page.route` + `fetch` + `route.fulfill`). Así se ha probado Amazon el 2026-10-07.
 
+### 2026-10-25 · "actualizados" y "retirados" en indice.json (confirmado por la app)
+La app (rama de rediseño, próximo build) usa las dos listas tal como se acordó: `"actualizados": [{ "c", "v" }]` y
+`"retirados": [{ "c", "v", "motivo" }]` en la raíz de `indice.json`, junto a `version` e `items`; versiones
+AAAA-MM-DD-sufijo comparadas como texto. Guarda en Firebase (meta/aprobadas, campo `versionImportada`) la versión del
+índice de su última importación completa y en Novedades ofrece nuevos, actualizados (v > versionImportada y ya
+importados) y retirados (ídem); importa los dos primeros con la misma escritura y borra los retirados; las fichas
+aprobadas a mano con código retirado no se borran solas. Un código cambiado varias veces va una sola vez, con la última
+versión. Hasta que salga el build, la app actual ignora las listas.
+
 ## DECIDIDO 2026-10-07 · Polímeros de purpurina y "film formers" en la regla 191 (antes PENDIENTE; decisión abajo)
 Pedido de Mariana tras revisar los 304 Kiko de Alternativas. La regla 191 (microplásticos) nombra
 polietileno, PET, nylon, PMMA, poliestireno, PBT… pero **no** los polímeros típicos de la purpurina
