@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25a",
+ "version": "2026-10-25b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1034,6 +1034,12 @@
        "barcode": "3596200080319",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B003CYUS26"
+      },
+      {
+       "nombre": "Emulsión limpiadora facial hidratante Semilla de lino Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887043850",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
@@ -1832,6 +1838,30 @@
        "marca": "Weleda",
        "barcode": "4001638590679",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Crema de noche hidratante antiarrugas Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887008507",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema facial Caléndula sin perfume",
+       "marca": "Ziaja",
+       "barcode": "5901887000181",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema facial ultranutritiva Semilla de lino Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887054719",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Lano-crema hidratante de día y noche Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887016885",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
@@ -2303,6 +2333,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Sérum facial rejuvenecedor Lab Biome",
+       "marca": "Natura Siberica",
+       "barcode": "4743318139654",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Gel-sérum seborregulador Acnestil PB",
        "marca": "Rilastil",
        "barcode": "8055510240516",
@@ -2609,6 +2645,18 @@
        "barcode": "3596200056093",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B0FMS7KGQ1"
+      },
+      {
+       "nombre": "Sérum de ácido hialurónico GAG Ziaja Pro",
+       "marca": "Ziaja",
+       "barcode": "5901887001263",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Sérum facial hidratante Semilla de lino Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887043874",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
@@ -3565,6 +3613,12 @@
        "fechaLista": "07-10-2026"
       },
       {
+       "nombre": "Gel de baño de bebé Little Siberica",
+       "marca": "Natura Siberica",
+       "barcode": "4743318103341",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
        "marca": "Sanex",
        "barcode": "8718951594548",
@@ -3661,6 +3715,12 @@
        "barcode": "8431166150049",
        "fechaLista": "21-10-2026",
        "amazon": "https://www.amazon.es/dp/B00588VVKM"
+      },
+      {
+       "nombre": "Gel íntimo suave para bebés Little Siberica",
+       "marca": "Natura Siberica",
+       "barcode": "4743318103389",
+       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Gel íntimo Manzanilla",
@@ -3999,6 +4059,12 @@
        "fechaLista": "25-09-2026"
       },
       {
+       "nombre": "Manteca corporal espesa de Dauria Sauna & Spa",
+       "marca": "Natura Siberica",
+       "barcode": "4744183010505",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
        "marca": "Neutrogena",
        "barcode": "3574661785868",
@@ -4080,6 +4146,30 @@
        "marca": "Weleda",
        "barcode": "4001638096829",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Aceite de masaje anticelulítico",
+       "marca": "Ziaja",
+       "barcode": "5901887004301",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Bálsamo corporal Fizjoderm Lipídico Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887016830",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Bálsamo corporal hidratante Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887008484",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Lano-bálsamo corporal hidratante Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887016878",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
@@ -8922,6 +9012,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Crema de contorno de ojos reafirmante con péptidos efecto frío Royal Caviar",
+       "marca": "Natura Siberica",
+       "barcode": "4744183010376",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Hydro Boost Contorno de Ojos Anti-Fatiga",
        "marca": "Neutrogena",
        "barcode": "3574661352565",
@@ -9047,6 +9143,36 @@
        "barcode": "4001638596244",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B0BXB9TFGM"
+      },
+      {
+       "nombre": "Crema de ojos alisadora antiarrugas Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887008576",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema de ojos antiedad Pullulan",
+       "marca": "Ziaja",
+       "barcode": "5901887005605",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema de ojos Peptídica Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887012696",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema de ojos Vitamina C.B3 Niacinamida",
+       "marca": "Ziaja",
+       "barcode": "5901887006084",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema-mascarilla de contorno de ojos con ceramidas Ziaja Pro",
+       "marca": "Ziaja",
+       "barcode": "5901887001119",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
@@ -10293,6 +10419,12 @@
        "amazon": "https://www.amazon.es/dp/B072JQ28XH"
       },
       {
+       "nombre": "Crema protectora del pañal Little Siberica",
+       "marca": "Natura Siberica",
+       "barcode": "4743318103464",
+       "fechaLista": "25-10-2026"
+      },
+      {
        "nombre": "Fórmula Noruega Reparación Intensa Bálsamo Cica",
        "marca": "Neutrogena",
        "barcode": "3574661032436",
@@ -10454,6 +10586,30 @@
        "marca": "Weleda",
        "barcode": "4001638590235",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Base emoliente para el baño para piel atópica Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887036302",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Crema hipoalergénica calmante para la zona del pañal Ziaja Med",
+       "marca": "Ziaja",
+       "barcode": "5901887055136",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Lano-pomada Mamma Mia",
+       "marca": "Ziaja",
+       "barcode": "5901887030164",
+       "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Vaselina blanca",
+       "marca": "Ziaja",
+       "barcode": "5901887006800",
+       "fechaLista": "25-10-2026"
       }
      ]
     },
