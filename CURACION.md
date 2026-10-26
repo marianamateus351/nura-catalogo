@@ -5548,6 +5548,18 @@ Lavera y 2 de Dr. Hauschka/IFA Unnia: van en el turno siguiente). **Con enlace: 
 - **Quedan**: 663 de maquillaje nunca buscados (próximo turno: un enlace por línea) + 270 en `amazon_pendientes.json` + 6 sin buscar;
   420 dudosos y 639 sin ficha.
 
+**Detergentes de ropa (2026-10-26, alternativas 2026-10-26a): de 2 a 6 con enlace.** Mariana vio que en "Detergentes para la
+ropa" solo había dos enlaces (Ecodoo, caro; Lagarto, el pack de 2 × 150 g que es su unidad de venta, sin stock). Revisados los 24:
+- **Sonett**, 4 fichas confirmadas por los ingredientes de la propia ficha: oliva lana y seda Sensitive (4007547305403 →
+  B008IGBJAI), polvo Color Sensitive 1,2 kg (4007547102200 → B00CE5IUE2), polvo concentrado 1,2 kg (4007547101012 →
+  B001ACVMJU) y líquido Color 1,5 L (4007547504202 → B00C3GVBNO). Sonett no tiene tienda de marca en Amazon.es y cada ficha la
+  vende alguien distinto; **Mariana abrió las cuatro y las vende Amazon** ("el vendor es Amazon, o sea, es fiable"): pasan de
+  dudosos a `amazon_verificados.json` con `vendedor: "Amazon"` y `fiable: true` (manda sobre la ficha automática). El líquido
+  Sensitive solo está en garrafa de 10 L (B00LQUDVDG, 89,50 €): se queda en dudosos.
+- Siguen sin enlace: Marius Fabre (sin tienda de marca; el líquido de copos no tiene oferta activa), Biobel 0 % (Biobel tiene
+  tienda, pero la ficha es un "jabón de aceite de coco" y no se ha podido confirmar que sea nuestro detergente líquido 0 %), Sodasan
+  (página de vendedor, sin ficha del Sensitive), L'Arbre Vert y Wipp Express (dudosos por identidad).
+
 **Turno 2 (2026-10-24, alternativas 2026-10-24a): maquillaje, un enlace por línea.** 746 productos de 9 marcas (MAC, Kiko,
 Charlotte Tilbury, Bourjois, Rimmel, e.l.f., Maybelline, L'Oréal, Lavera) agrupados en líneas: una búsqueda por línea y la misma
 ficha para todos sus tonos (la nota dice de qué tono es la ficha). 4 lotes, unas 200 búsquedas. **230 con enlace, 131 dudosos,
