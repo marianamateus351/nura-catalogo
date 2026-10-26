@@ -1,5 +1,5 @@
 {
- "version": "2026-10-25e",
+ "version": "2026-10-26a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -19214,25 +19214,33 @@
        "nombre": "Detergente de oliva para lana y seda sensitive, sin perfume",
        "marca": "Sonett",
        "barcode": "4007547305403",
-       "fechaLista": "15-10-2026"
+       "fechaLista": "15-10-2026",
+       "amazon": "https://www.amazon.es/dp/B008IGBJAI",
+       "vendedor": "Amazon"
       },
       {
        "nombre": "Detergente en polvo color sensitive, sin perfume",
        "marca": "Sonett",
        "barcode": "4007547102200",
-       "fechaLista": "15-10-2026"
+       "fechaLista": "15-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00CE5IUE2",
+       "vendedor": "Amazon"
       },
       {
        "nombre": "Detergente en polvo concentrado 40-95 °C",
        "marca": "Sonett",
        "barcode": "4007547101012",
-       "fechaLista": "15-10-2026"
+       "fechaLista": "15-10-2026",
+       "amazon": "https://www.amazon.es/dp/B001ACVMJU",
+       "vendedor": "Amazon"
       },
       {
        "nombre": "Detergente líquido color",
        "marca": "Sonett",
        "barcode": "4007547504202",
-       "fechaLista": "15-10-2026"
+       "fechaLista": "15-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00C3GVBNO",
+       "vendedor": "Amazon"
       },
       {
        "nombre": "Detergente líquido color sensitive, sin perfume",
