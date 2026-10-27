@@ -1,5 +1,5 @@
 {
- "version": "2026-10-26a",
+ "version": "2026-10-27a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -19253,12 +19253,6 @@
        "marca": "Sonett",
        "barcode": "4007547501508",
        "fechaLista": "15-10-2026"
-      },
-      {
-       "nombre": "Detergente en polvo Wipp Express",
-       "marca": "Wipp Express",
-       "barcode": "8410436447324",
-       "fechaLista": "04-10-2026"
       }
      ]
     },
