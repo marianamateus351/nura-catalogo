@@ -5613,6 +5613,22 @@ no deja leer la lista entera, **no entra** (regla de siempre: sin INCI completo 
 pedirle otra foto. La aportación de la app se aprueba después desde el panel con la lista ya transcrita, o se importa
 con el catálogo como el resto.
 
+### 2026-10-27 · Trietanolamina (TEA) pasa a "otros a tener en cuenta" en cosmética (decisión de Mariana)
+Tras una revisión independiente de los 3.412 ingredientes distintos de Alternativas (2.649 productos) buscando
+falsos negativos: ninguna familia de disruptores conocida aparece en las listas (parabenos, ftalatos, benzofenonas,
+ciclosiloxanos, triclosán, BHT/BHA, filtros UV señalados, lilial, liberadores de formaldehído, isotiazolinonas,
+almizcles, PFAS, resorcinol, kójico, salicílico, fenoxietanol, talco, aluminio, retinoides…). Lo único que Mariana
+decide añadir: **trietanolamina** como "otro a tener en cuenta" (no hormonal, no cuenta para el índice; se lista por
+las nitrosaminas, mismo rigor que la DEA). Commit de la app en la rama de rediseño (`src/data/ingredients.js`,
+ficha "Trietanolamina (TEA)", solo Cuidado personal; sin alias "TEA" suelto para no casar con "tea tree"/"green tea").
+Regresión sobre el catálogo: 563 fichas ganan la nota, nada más cambia. **Necesita build** para verse en la ficha.
+**Encargo:** regenerar `alternativas.json` con el detector nuevo (salen 13 productos: solares de La Roche-Posay y
+Vichy, el desmaquillante suave de ojos de Avène, The Ordinary Ascorbyl Glucoside, Garnier Delial Kids roll-on,
+Haruharu Wonder PHA, Kyrey gel de pies…) y anotar aquí la versión. No va a HASTA_BUILD: aquí se quitan productos,
+no se añaden.
+Queda sin cambiar, por decisión de Mariana: el perfume declarado como de aceites esenciales naturales (143 productos
+de Lavera, Dr. Hauschka, Weleda, Ben & Anna, Cocunat, Alma Secret y Dr. Bronner's) y la avobenzona (19 solares).
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
