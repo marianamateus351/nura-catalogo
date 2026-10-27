@@ -5559,6 +5559,16 @@ ropa" solo había dos enlaces (Ecodoo, caro; Lagarto, el pack de 2 × 150 g que 
 - Siguen sin enlace: Marius Fabre (sin tienda de marca; el líquido de copos no tiene oferta activa), Biobel 0 % (Biobel tiene
   tienda, pero la ficha es un "jabón de aceite de coco" y no se ha podido confirmar que sea nuestro detergente líquido 0 %), Sodasan
   (página de vendedor, sin ficha del Sensitive), L'Arbre Vert y Wipp Express (dudosos por identidad).
+- **Wipp Express en polvo (8410436447324) sale de Alternativas (2026-10-27, alternativas 2026-10-27a).** Mariana pidió
+  enlazarlo; al revisarlo, su lista oficial (portal de Henkel) lleva "Alcohols C13-15-Bran. And Lin. 7EO", un **alcohol
+  etoxilado**, que en Hogar avisa (ficha "Alcoholes etoxilados y PEG"). No saltaba: el detector parte "7EO" en "7, EO" (coma
+  entre cifra y mayúscula) y ningún alias casaba con la abreviatura de Henkel. **Arreglo:** alias "alcohols c13-15-bran. and
+  lin. 7" (tal como queda el texto normalizado). Regresión sobre las 18.521 fichas: **1 cambio, el buscado**. Revisado el
+  catálogo entero: es el único etoxilado de Hogar sin aviso (el desodorante Lactovit 0 % lleva "Isotridecyl Alcohol
+  Ethoxylated" sin aviso de etoxilados, pero esa ficha es solo de Hogar y él ya tiene 6 avisos). **Necesita build** para que
+  la ficha de la app lo enseñe; Alternativas ya no lo muestra. Lleva además un componente de perfume
+  ("2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico", dihidromircenol) que no es alérgeno declarable: sin "Parfum" ni
+  alérgenos, ni la 5 ni la 193 saltan (es la decisión W pendiente: perfume de Henkel declarado componente a componente).
 
 **Turno 2 (2026-10-24, alternativas 2026-10-24a): maquillaje, un enlace por línea.** 746 productos de 9 marcas (MAC, Kiko,
 Charlotte Tilbury, Bourjois, Rimmel, e.l.f., Maybelline, L'Oréal, Lavera) agrupados en líneas: una búsqueda por línea y la misma
