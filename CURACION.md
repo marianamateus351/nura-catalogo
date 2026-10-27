@@ -5628,6 +5628,14 @@ Haruharu Wonder PHA, Kyrey gel de pies…) y anotar aquí la versión. No va a H
 no se añaden.
 Queda sin cambiar, por decisión de Mariana: el perfume declarado como de aceites esenciales naturales (143 productos
 de Lavera, Dr. Hauschka, Weleda, Ben & Anna, Cocunat, Alma Secret y Dr. Bronner's) y la avobenzona (19 solares).
+**Hecho el 2026-10-27 (alternativas 2026-10-27b, 2.636 productos; antes 2.649).** Detector de la rama con el commit 6dc13d90.
+Regresión sobre las 18.521 fichas: **563 cambios, todos "+ Trietanolamina (TEA)"**, nada más. Salen 13 de Alternativas: La
+Roche-Posay ×7 (Anthelios Dermo-Pediatrics Loción Wet Skin, Family Spray, Leche Hidratante Eco-sostenible, UVMune 400
+Dermo-Pediatrics Fluido, Loción y Spray, UVMune 400 Fluido Antimanchas), Vichy ×2 (Liftactiv H.A. Cuidado de Ojos y Pigment
+Specialist B3 Contorno de Ojos SPF50+), Avène Desmaquillante suave de ojos, The Ordinary Ascorbyl Glucoside Solution 12 %,
+Garnier Delial Kids Sensitive Advanced Roll-On y Kyrey Gel Refrescante Pies y Piernas; 9 de ellos tenían enlace de Amazon.
+**Ojo:** el encargo nombraba "Haruharu Wonder PHA", pero el Sérum exfoliante Centella 3 % PHA (8809532221646) no lleva
+trietanolamina y sigue en Alternativas; ningún producto de Haruharu sale.
 
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
