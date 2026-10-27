@@ -1,5 +1,5 @@
 {
- "version": "2026-10-27a",
+ "version": "2026-10-27b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -282,14 +282,6 @@
        "subtipo": "desmaquillante-ojos",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B07D1PB329"
-      },
-      {
-       "nombre": "Desmaquillante suave de ojos",
-       "marca": "Avène",
-       "barcode": "3282779051378",
-       "subtipo": "desmaquillante-ojos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B002D48R6A"
       },
       {
        "nombre": "Gel limpiador purificante",
@@ -2504,16 +2496,6 @@
        "amazon": "https://www.amazon.es/dp/B0719WNNK4"
       },
       {
-       "nombre": "Ascorbyl Glucoside Solution 12% 30 ml",
-       "marca": "The Ordinary",
-       "barcode": "0769915195668",
-       "imagen": "https://images.openproductsfacts.org/images/products/076/991/519/5668/front_it.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "vitamina-c",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BSS7LZWW"
-      },
-      {
        "nombre": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F 30 ml",
        "marca": "The Ordinary",
        "barcode": "0769915195675",
@@ -2923,13 +2905,6 @@
        "amazon": "https://www.amazon.es/dp/B012BD3370"
       },
       {
-       "nombre": "Delial Kids Sensitive Advanced Roll-On con Color FPS 50+",
-       "marca": "Garnier",
-       "barcode": "3600542656115",
-       "subtipo": "ninos",
-       "fechaLista": "09-09-2026"
-      },
-      {
        "nombre": "Protector solar cara y cuerpo Black Bamboo Top-to-Toe SPF Veil SPF 50+",
        "marca": "Haruharu Wonder",
        "barcode": "8809532222438",
@@ -2960,76 +2935,6 @@
        "subtipo": "cara",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D66SYKXG"
-      },
-      {
-       "nombre": "Anthelios Dermo-Pediatrics Loción Wet Skin SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875845489",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/584/5489/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "ninos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0C3WP74H2"
-      },
-      {
-       "nombre": "Anthelios Family Spray SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875799348",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/579/9348/front_el.5.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "cuerpo",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B09WHXRY5H"
-      },
-      {
-       "nombre": "Anthelios Leche Hidratante SPF50+ Eco-sostenible",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875847353",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/584/7353/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "cuerpo",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BW9DNT9W"
-      },
-      {
-       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Fluido Invisible SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875886307",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/6307/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "ninos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CX245CRL"
-      },
-      {
-       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Loción Hidratante SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875888851",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/8851/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "ninos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CX26YRQ3"
-      },
-      {
-       "nombre": "Anthelios UVMune 400 Dermo-Pediatrics Spray Invisible SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875886055",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/588/6055/front_en.8.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "ninos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CX26NBS7"
-      },
-      {
-       "nombre": "Anthelios UVMune 400 Fluido Antimanchas SPF50+",
-       "marca": "La Roche-Posay",
-       "barcode": "3337875917407",
-       "imagen": "https://images.openbeautyfacts.org/images/products/333/787/591/7407/front_es.9.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "cara",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0DSLCT63K"
       },
       {
        "nombre": "Crema solar facial Antiedad SPF 50+",
@@ -3380,13 +3285,6 @@
        "barcode": "3661434014116",
        "subtipo": "cara",
        "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Liftactiv Pigment Specialist B3 Contorno de Ojos SPF50+",
-       "marca": "Vichy",
-       "barcode": "3337875918534",
-       "subtipo": "cara",
-       "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Fluido solar Glow SPF 30",
@@ -9123,12 +9021,6 @@
        "fechaLista": "09-09-2026"
       },
       {
-       "nombre": "Liftactiv Hyaluronic Specialist H.A. Cuidado de Ojos",
-       "marca": "Vichy",
-       "barcode": "3337871323332",
-       "fechaLista": "09-09-2026"
-      },
-      {
        "nombre": "Minéral 89 Gel Ojos",
        "marca": "Vichy",
        "barcode": "3337875596763",
@@ -10737,14 +10629,6 @@
        "marca": "Kneipp",
        "barcode": "4008233181585",
        "fechaLista": "24-10-2026"
-      },
-      {
-       "nombre": "Gel Refrescante Pies y Piernas 125 ml",
-       "marca": "Kyrey",
-       "barcode": "8414807540126",
-       "imagen": "https://images.openbeautyfacts.org/images/products/841/480/754/0126/front_de.7.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "10-10-2026"
       },
       {
        "nombre": "Crema de manos basis sensitive",
