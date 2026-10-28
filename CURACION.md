@@ -5597,6 +5597,33 @@ a 786.**
   nunca buscados: Sensilis 13, Huda Beauty 9, Clarins 6, Dr. Hauschka 6, Too Faced 5, Dr. Bronner's 5…) + 6 que no son maquillaje
   (4 de Lavera, Dr. Hauschka, IFA Unnia); 551 dudosos y 976 sin ficha. Hogar sigue en 18 con enlace de 139.
 
+**Turno 3 (2026-10-28, alternativas 2026-10-28a): lo nuevo de las colas quinta y sexta, y maquillaje por líneas.** 262
+productos en 4 lotes (198 búsquedas): los 66 que no son maquillaje y nunca se habían buscado (casi todos de marcas nuevas:
+Ziaja, Lierac, Kneipp, Filorga, RoC, Natura Siberica, Bioré, Babé…) y el maquillaje pendiente o nunca buscado, una búsqueda por
+línea. **100 con enlace, 48 dudosos, 114 sin ficha. Con enlace en Alternativas: de 781 a 881.** No se buscan Deliplus, IFA Unnia
+ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 líneas de maquillaje de Lavera, al turno 4.
+- Nueva regla en las instrucciones de los agentes: "vendido por Amazon" cuenta como vendedor fiable sin tienda de marca
+  (Mariana, 2026-10-26). Ningún fragmento del buscador lo dijo en este turno.
+- **Tiendas de marca vistas ahora:** Ziaja, RoC, Natura Siberica, La Roche-Posay, Haruharu Wonder, essence, Lierac, Clarins, essie,
+  Singuladerm, The Body Shop, Max Factor, Kneipp, The INKEY List, NYX. Página de vendedor (srs): Clinique, Filorga, Huda Beauty,
+  Bioré, Ladival, Bioderma. **Sin tienda:** Rituals (y su maquillaje no está en Amazon.es: 0 de 17), Sisley, Mia Cosmetics, Babé,
+  Bulldog, Too Faced, Organyc, SVR, Dr. Bronner's, Biotherm, Eucerin, Ozoaqua, Caudalie.
+- **Ajustes de la revisión:** 7 dudosos cuya única duda era la tienda pasan a enlace porque la marca tiene página srs (criterio del
+  turno 1): Clinique Pop Lip + Cheek Oil y Quickliner Intense, Huda Lip Contour 2.0 (2), Bioré tiras surtido 14, Filorga
+  micelar (la URL lleva nuestro código) y Bioderma Atoderm Intensive Eye. Al revés, los miniesmaltes de essence: el agente puso a
+  los 11 la ficha "Mini nail polish 01 Glow in the Dark"; solo vale para Glow in the Dark (9 a dudosos: cada mini es otro efecto).
+- **Nombres corregidos en el catálogo (versión 2026-10-28-nombres; van a "actualizados" del índice):** Sisley "Gel de cejas
+  Phyto-Sourcils Perfect" → **Lápiz de cejas** (la lista es de ceras); SKIN1004 "Polvo Vitamin C 96 Powder" → "Concentrado de
+  vitamina C para mezclar con el sérum o la crema Vitamin C 96" (salía como polvos de maquillaje); Max Factor "Esencia con color
+  Miracle Pure Hydratint" → "Base de maquillaje con color…" (salía en Tónicos). Regresión: mismas detecciones.
+- **Avisos que quedan para revisar:** essence "esmalte de uñas gel" tonos 27–51 (18; sus códigos 4059729585… no son los de "gel
+  nail colour" y ninguna ficha nombra esos tonos); Eucerin Anti-Redness Correctora (nosotros FPS 30, Amazon 25+: ¿fórmula
+  anterior en Amazon?), Leti crema con color (Amazon SPF 20, nosotros SPF 30), Ladival barra labial (un resultado dice SPF 30),
+  Essie "Top Coat Brillo" (30149397: no se sabe si es Good to Go o Let It Shine), Dr. Hauschka "Cuidado labial intensivo" (¿Lip
+  Balm o Lip Care Stick?). Nuestros nombres salen de la fuente oficial; Amazon puede tener fichas antiguas.
+- **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
+  1.088 sin ficha. Hogar, 22 con enlace de 137.
+
 ### 2026-10-25 · Aportaciones de SOLO FOTOS desde la app (frente y parte de atrás)
 Muchas webs de marca bloquean a los bots (reCAPTCHA), así que Mariana pide que, cuando el escáner no encuentra un
 producto, la usuaria haga **dos fotos** (frente con nombre y marca; parte de atrás con la lista de ingredientes y el

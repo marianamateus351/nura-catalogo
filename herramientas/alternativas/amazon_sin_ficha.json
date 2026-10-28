@@ -3934,5 +3934,461 @@
  "3616306379732": {
   "nota": "Buscado 'Wonder'Bond esmalte': no sale ningún esmalte Wonder'Bond, solo la máscara.",
   "fecha": "2026-10-24"
+ },
+ "5901887043850": {
+  "nota": "Buscado 'Ziaja Med emulsión limpiadora semilla de lino': solo otros limpiadores Ziaja Med; la línea Semilla de lino no tiene ficha /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "5901887054719": {
+  "nota": "Buscado 'Ziaja Med semilla de lino crema ultranutritiva': el nombre sale en listados ('Ziaja Med LINEN SEEDS Ultra Nourishing Face Cream 50ml') pero sin ficha /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "5901887016885": {
+  "nota": "Buscado 'Ziaja Med lano crema día y noche': solo Natural Care y Fisioderm; ninguna ficha de la Lano-crema.",
+  "fecha": "2026-10-28"
+ },
+ "5901887001263": {
+  "nota": "Buscado 'Ziaja Pro sérum ácido hialurónico GAG': solo sérums Acai, Vitamin C.B3, Jazmín; nada de Ziaja Pro.",
+  "fecha": "2026-10-28"
+ },
+ "5901887043874": {
+  "nota": "Buscado 'Ziaja Med sérum semilla de lino': no aparece; solo otros sérums Ziaja.",
+  "fecha": "2026-10-28"
+ },
+ "5901887016830": {
+  "nota": "Buscado 'Ziaja Med Fizjoderm bálsamo corporal lipídico': el nombre sale en listados (Physioderm 400 ml) pero sin ficha /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "5901887008484": {
+  "nota": "Buscado 'Ziaja Med bálsamo corporal hidratante 400 ml': solo otras lociones Ziaja y la loción para piel atópica; sin ficha del bálsamo.",
+  "fecha": "2026-10-28"
+ },
+ "5901887016878": {
+  "nota": "Buscado 'Ziaja Med lano bálsamo corporal': no aparece; solo una lanolina 10 g y bálsamos Physioderm.",
+  "fecha": "2026-10-28"
+ },
+ "5901887008576": {
+  "nota": "Buscado 'Ziaja Med crema de ojos alisadora antiarrugas': solo contornos Ziaja (perejil, jazmín, multivitaminas); ninguno Ziaja Med alisador.",
+  "fecha": "2026-10-28"
+ },
+ "5901887005605": {
+  "nota": "Buscado 'Ziaja Pullulan crema de ojos': no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "5901887012696": {
+  "nota": "Buscado 'Ziaja Med crema de ojos péptidos': solo citada en 'productos relacionados' (Peptides Eye Contour SAP 15 ml), sin ficha /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "5901887006084": {
+  "nota": "Buscado 'Ziaja Vitamin C.B3 Niacinamide crema de ojos': salen crema de noche, de día, tónico y sérum de la línea, pero el contorno solo en 'relacionados', sin /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "5901887001119": {
+  "nota": "Buscado 'Ziaja Pro crema mascarilla contorno de ojos ceramidas': nada de Ziaja Pro.",
+  "fecha": "2026-10-28"
+ },
+ "5901887055136": {
+  "nota": "Buscado 'Ziaja Med crema zona del pañal': solo sale en 'más vendidos' como Pack de 2, sin ficha unidad; la pomada pañal B07H61GJT4 es otro producto (no Med).",
+  "fecha": "2026-10-28"
+ },
+ "6294018400912": {
+  "nota": "Buscado 'Huda Beauty Creamy Kohl lápiz de ojos': solo paletas y correctores; ninguna ficha del Creamy Kohl.",
+  "fecha": "2026-10-28"
+ },
+ "6294018411093": {
+  "nota": "Buscado 'Huda Beauty Bronze Filter paleta': solo Tantour y 3D Highlighter; nada de Bronze Filter.",
+  "fecha": "2026-10-28"
+ },
+ "6294018408604": {
+  "nota": "Buscado 'Huda Beauty Blush Filter Blurring Blushlighter paleta': solo fichas del colorete líquido Blush Filter (otro producto) de revendedor BELLA; la paleta sin /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "6294018408628": {
+  "nota": "Buscado 'Huda Beauty Blush Filter Blurring Blushlighter paleta': solo fichas del colorete líquido Blush Filter (otro producto) de revendedor BELLA; la paleta sin /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "6294018408611": {
+  "nota": "Buscado 'Huda Beauty Blush Filter Blurring Blushlighter paleta': solo fichas del colorete líquido Blush Filter (otro producto) de revendedor BELLA; la paleta sin /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "3540550014913": {
+  "nota": "Buscado 'Filorga Skin-Prep aceite desmaquillante': se describe en resultados (150 ml) pero sin URL /dp/ visible.",
+  "fecha": "2026-10-28"
+ },
+ "3540550020754": {
+  "nota": "Buscado 'Filorga Pro-Collagen Micro-Growth Factor Eyes': no aparece; solo Time-Filler Eyes, Optim-Eyes, Global-Repair.",
+  "fecha": "2026-10-28"
+ },
+ "3540550020938": {
+  "nota": "Buscado 'Filorga Daily Peel peeling de noche': no aparece; solo Sleep & Peel (otro producto).",
+  "fecha": "2026-10-28"
+ },
+ "3540550020969": {
+  "nota": "Buscado 'Filorga Daily Peel peeling de noche': no aparece; solo Sleep & Peel (otro producto).",
+  "fecha": "2026-10-28"
+ },
+ "0651986023769": {
+  "nota": "Buscado 'Too Faced Quickie Queen Cream Eye Shadow Stick': solo sombras en barra de otras marcas.",
+  "fecha": "2026-10-28"
+ },
+ "0651986030071": {
+  "nota": "Buscado 'Too Faced Born This Way Super Glow iluminador líquido': solo correctores y base Born This Way.",
+  "fecha": "2026-10-28"
+ },
+ "5017634296575": {
+  "nota": "Buscado 'Bioré mascarilla de burbujas nariz poros': solo tiras; ninguna mascarilla de burbujas.",
+  "fecha": "2026-10-28"
+ },
+ "5017634294984": {
+  "nota": "Buscado 'Bioré parches antigranos 3 en 1': no aparece; solo tiras y parches de otras marcas.",
+  "fecha": "2026-10-28"
+ },
+ "4067227000639": {
+  "nota": "Buscado 'Ladival barra protección labial Aktiv SPF 50+': se menciona la barra 4,8 g pero sin URL /dp/; un resultado dice que el lápiz UV Aktiv es SPF 30.",
+  "fecha": "2026-10-28"
+ },
+ "3616305712066": {
+  "nota": "Buscado 'Max Factor Facefinity Lasting Blur' y 'Lasting Blur Foundation C100 Fair 35 ml': ninguna ficha /dp/ de Lasting Blur (solo Lasting Performance, otra línea, y un C108 citado como relacionado sin URL).",
+  "fecha": "2026-10-28"
+ },
+ "3616305712127": {
+  "nota": "Buscado 'Max Factor Facefinity Lasting Blur' y 'Lasting Blur Foundation C100 Fair 35 ml': ninguna ficha /dp/ de Lasting Blur (solo Lasting Performance, otra línea, y un C108 citado como relacionado sin URL).",
+  "fecha": "2026-10-28"
+ },
+ "3616305980090": {
+  "nota": "Buscado 'Max Factor Miracle Pure Matte Drops sérum prebase' (2 búsquedas): sale una imagen del envase pero ninguna ficha /dp/; solo Miracle Prep y Miracle Pure Serum (otros productos).",
+  "fecha": "2026-10-28"
+ },
+ "3616307620567": {
+  "nota": "Buscado 'Max Factor Lip Shader perfilador' y con tonos (Nude Lines, Rustic Brick, Toasted Cinnamon): solo Colour Elixir Lip Liner (otra línea); el 2000 Calorie Lip Shader se cita sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "3616307669214": {
+  "nota": "Buscado 'Max Factor Lip Shader perfilador' y con tonos (Nude Lines, Rustic Brick, Toasted Cinnamon): solo Colour Elixir Lip Liner (otra línea); el 2000 Calorie Lip Shader se cita sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "3616307669221": {
+  "nota": "Buscado 'Max Factor Lip Shader perfilador' y con tonos (Nude Lines, Rustic Brick, Toasted Cinnamon): solo Colour Elixir Lip Liner (otra línea); el 2000 Calorie Lip Shader se cita sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "3616307669191": {
+  "nota": "Buscado 'Max Factor Lip Shader perfilador' y con tonos (Nude Lines, Rustic Brick, Toasted Cinnamon): solo Colour Elixir Lip Liner (otra línea); el 2000 Calorie Lip Shader se cita sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "3616301283447": {
+  "nota": "Buscado 'Nailfinity top coat capa final efecto gel' y 'Nailfinity Top Coat 100 The Finale': solo esmaltes de color Nailfinity; el 100 The Finale se cita sin URL /dp/ propia.",
+  "fecha": "2026-10-28"
+ },
+ "3616303403300": {
+  "nota": "Buscado 'Miracle Pure endurecedor uñas' y 'Miracle Pure Strengthener 12ml': se menciona como producto relacionado pero no sale ninguna ficha /dp/ suya.",
+  "fecha": "2026-10-28"
+ },
+ "4008233181370": {
+  "nota": "Buscado 'Kneipp Derma Protect aceite corporal': no sale ninguna ficha de la línea Derma Protect (solo Bio Skin Oil, Good Night, Almendro).",
+  "fecha": "2026-10-28"
+ },
+ "4008233181707": {
+  "nota": "Buscado 'Kneipp Derma Protect urea leche corporal…': ninguna ficha de la leche corporal Derma Protect 10% urea.",
+  "fecha": "2026-10-28"
+ },
+ "4008233181608": {
+  "nota": "Buscado 'Kneipp Derma Protect urea … bálsamo SOS': ninguna ficha del bálsamo SOS Derma Protect.",
+  "fecha": "2026-10-28"
+ },
+ "4020829085817": {
+  "nota": "Buscado 'Dr. Hauschka mascarilla cuero cabelludo semillas de calabaza': ninguna ficha (solo mascarillas faciales y la loción capilar de Nim).",
+  "fecha": "2026-10-28"
+ },
+ "4020829099104": {
+  "nota": "Buscado 'Dr. Hauschka Liquid Eyeliner 01 Black delineador líquido': ninguna ficha del delineador líquido de Dr. Hauschka.",
+  "fecha": "2026-10-28"
+ },
+ "3522930004134": {
+  "nota": "Buscado 'Caudalie polvos bronceadores larga duración' y 'Caudalie Vinocrush Long-Lasting Bronzer': solo se cita en listados de categoría, sin ficha /dp/ (sale Vinocrush CC Colour, otro producto).",
+  "fecha": "2026-10-28"
+ },
+ "8436558888951": {
+  "nota": "Busqué 'Mia Cosmetics Paris Blooming paleta correctores': no sale nada de la colección Blooming (solo correctores sueltos y otra marca, Mya). Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558888968": {
+  "nota": "Busqué 'Mia Cosmetics Paris Blooming paleta correctores': no sale nada de la colección Blooming (solo correctores sueltos y otra marca, Mya). Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881037": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558880917": {
+  "nota": "Busqué 'Mia Cosmetics Paris diluyente': solo sale un quitaesmalte (otro producto) y esmaltes. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558880993": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881006": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881013": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558880986": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558880955": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881280": {
+  "nota": "Busqué 'Mia Kids Fantasy' y 'Mia Kids Raccoon': solo salen fichas de BigBuy (revendedor) de otros diseños (Kitten, Penguin); Raccoon/Birdie aparecen en listados sin ficha /dp/. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881266": {
+  "nota": "Busqué 'Mia Kids Fantasy' y 'Mia Kids Raccoon': solo salen fichas de BigBuy (revendedor) de otros diseños (Kitten, Penguin); Raccoon/Birdie aparecen en listados sin ficha /dp/. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881310": {
+  "nota": "Busqué 'Mia Kids Fantasy' y 'Mia Kids Raccoon': solo salen fichas de BigBuy (revendedor) de otros diseños (Kitten, Penguin); Raccoon/Birdie aparecen en listados sin ficha /dp/. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558881044": {
+  "nota": "Busqué 'Mia Cosmetics esmalte BIO-Sourced' y 'Bio-Sourced Sunstone 11ml': el buscador nombra la gama Bio-Sourced (11 ml) en listados, pero no devuelve ninguna ficha /dp/ de ella; solo esmaltes clásicos de 12 ml. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "8436558880450": {
+  "nota": "Busqué 'Mia Cosmetics Paris top coat mate': solo sale el Top Coat Gel Effect y esmaltes de color. Mia Cosmetics no tiene tienda de marca en Amazon.es (busqué 'Visita la tienda de Mia Cosmetics Paris').",
+  "fecha": "2026-10-28"
+ },
+ "4059729585677": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585684": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585691": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585714": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585721": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585745": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585752": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585769": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585783": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585790": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585806": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585813": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729585820": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729622235": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729622242": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729622259": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729630599": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "4059729630605": {
+  "nota": "Busqué 'essence esmalte de uñas gel 27 very cherry' y 'essence gel nail polish 32 lilac you lots': ninguna ficha nombra estos tonos (27-51 con EAN 4059729585xxx/622xxx/630xxx); solo salen gel nail colour (otra numeración) y packs. Conviene confirmar en el catálogo el nombre real de esta línea.",
+  "fecha": "2026-10-28"
+ },
+ "3701436926281": {
+  "nota": "Busqué 'Lierac stick color SPF50 antimanchas' y 'Protocolo antimanchas stick con color SPF50+ 2,8 g': el buscador lo nombra en un listado ('Anti-Macchie Protocol – Lo Stick Colorato SPF50+ 2,8 g', en italiano) pero sin ficha /dp/; solo salen los stick Sunissime (otro producto).",
+  "fecha": "2026-10-28"
+ },
+ "3701436926267": {
+  "nota": "Busqué 'Lierac protocolo antirrojeces mascarilla' y 'Lierac Protocol The Anti-Redness Mask 75ml': el buscador la nombra en listados (75 ml, bisabolol) pero no devuelve su ficha /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "3666057334375": {
+  "nota": "Busqué 'Clarins Lip Comfort Oil Cryo-Plumping' y 'Lip Oil Balm Cryo-Plumping': la edición limitada Cryo solo sale en listados, sin ficha /dp/; la ficha del Lip Comfort Oil normal (B0CDR7CC9S, tono 16) es otra fórmula, no vale.",
+  "fecha": "2026-10-28"
+ },
+ "3666057334405": {
+  "nota": "Busqué 'Clarins Lip Comfort Oil Cryo-Plumping' y 'Lip Oil Balm Cryo-Plumping': la edición limitada Cryo solo sale en listados, sin ficha /dp/; la ficha del Lip Comfort Oil normal (B0CDR7CC9S, tono 16) es otra fórmula, no vale.",
+  "fecha": "2026-10-28"
+ },
+ "3666057427268": {
+  "nota": "Busqué 'Clarins Wonder Define lápiz de cejas' y 'Wonder Define 01 Ash Blonde': el buscador lo nombra en listados (01 Ash Blonde, 04 Dark Brown, 0,05 g) pero sin ficha /dp/; las fichas que salen son de Crayon Sourcils (otra línea).",
+  "fecha": "2026-10-28"
+ },
+ "30188945": {
+  "nota": "Busqué 'essie Reclaim The Mirror esmalte': ninguna ficha ni listado menciona ese tono; salen otros esmaltes essie. essie tiene tienda de marca en Amazon.es (amazon.es/stores/essie).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013945": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013952": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013969": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013976": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013983": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749013990": {
+  "nota": "Buscado 'Sensilis Own The Matte' (3 búsquedas): solo aparece en páginas de búsqueda 'Own The Matte 02 Game On 2g', sin URL /dp/; las fichas que salen son de otras líneas (Intense Matte, Intense Lip Gloss).",
+  "fecha": "2026-10-28"
+ },
+ "8428749006992": {
+  "nota": "Buscado 'Sensilis Skin Glow Highlighter' (2 búsquedas): el buscador menciona la ficha Ivory y una Sand (18,89 €) pero no devuelve su URL /dp/; solo otras Skin Glow (base, K Eyes, Glycolic).",
+  "fecha": "2026-10-28"
+ },
+ "8428749007012": {
+  "nota": "Buscado 'Sensilis Skin Glow Highlighter' (2 búsquedas): el buscador menciona la ficha Ivory y una Sand (18,89 €) pero no devuelve su URL /dp/; solo otras Skin Glow (base, K Eyes, Glycolic).",
+  "fecha": "2026-10-28"
+ },
+ "8719134176957": {
+  "nota": "Fortune Balms Repair solo sale dentro de sets de regalo Hand & Lip (B0BT54V8CZ, B0DK1WY9L1), no suelto. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134211764": {
+  "nota": "Buscado 'RITUALS Advanced Lip Balm': solo set Hand & Lip y Lip Shine. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216097": {
+  "nota": "Buscado 'RITUALS lip liner perfilador': ningún perfilador Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216080": {
+  "nota": "Buscado 'RITUALS lip liner perfilador': ningún perfilador Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134150063": {
+  "nota": "Buscado 'RITUALS Make-Up Collection Lipstick' y 'RITUALS lip liner lipstick': solo Lip Shine (no disponible) y bálsamo 12 ml antiguo. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216073": {
+  "nota": "Buscado 'RITUALS Make-Up Collection Lipstick' y 'RITUALS lip liner lipstick': solo Lip Shine (no disponible) y bálsamo 12 ml antiguo. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216066": {
+  "nota": "Buscado 'RITUALS Make-Up Collection Lipstick' y 'RITUALS lip liner lipstick': solo Lip Shine (no disponible) y bálsamo 12 ml antiguo. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134204209": {
+  "nota": "Buscado 'RITUALS Volume Mascara': solo máscaras de otras marcas. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216127": {
+  "nota": "Buscado 'RITUALS brow fixing gel / eyeshadow': nada de Rituals salvo crema de ojos. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134195286": {
+  "nota": "Buscado 'RITUALS eye pencil eyeliner': ningún lápiz Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134204162": {
+  "nota": "Buscado 'RITUALS eye pencil eyeliner': ningún lápiz Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216141": {
+  "nota": "Buscado 'RITUALS eye pencil eyeliner': ningún lápiz Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216158": {
+  "nota": "Buscado 'RITUALS eye pencil eyeliner': ningún lápiz Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216196": {
+  "nota": "Buscado 'RITUALS brow gel eyeshadow sombra': ninguna sombra Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134216226": {
+  "nota": "Buscado 'RITUALS brow gel eyeshadow sombra': ninguna sombra Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134189605": {
+  "nota": "Buscado 'RITUALS nail polish esmalte': ningún esmalte Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "8719134189612": {
+  "nota": "Buscado 'RITUALS nail polish esmalte': ningún esmalte Rituals. Rituals no tiene tienda de marca en Amazon.es (solo búsquedas filtradas por marca, casi todo cuerpo/fragancia); su maquillaje no aparece.",
+  "fecha": "2026-10-28"
+ },
+ "1210000802378": {
+  "nota": "Buscado 'RoC Soleil Protect stick SPF50+': solo fluidos, cremas y sprays Soleil-Protect; ningún stick.",
+  "fecha": "2026-10-28"
+ },
+ "1210000802385": {
+  "nota": "Buscado 'RoC Soleil Repair stick aftersun': solo la leche aftersun 200 ml; ningún stick.",
+  "fecha": "2026-10-28"
+ },
+ "4743318139654": {
+  "nota": "Buscado 2 veces: aparece 'Natura Siberica Lab by Biome Regeneration Face Serum 30 ml' en páginas de búsqueda, pero sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "4021457626069": {
+  "nota": "Buscado 2 veces: 'Lavera Neutral - Espuma limpiadora' solo aparece en una tabla comparativa, sin URL /dp/; sale la Basis Sensitiv Cleansing Foam (otro producto).",
+  "fecha": "2026-10-28"
+ },
+ "4021457664139": {
+  "nota": "Buscado 'lavera basis sensitiv gel de ducha cremoso': solo ducha 2 en 1 Basis Sensitiv (piel y pelo) y Men Sensitiv 3 en 1; ningún gel cremoso.",
+  "fecha": "2026-10-28"
+ },
+ "4021457656622": {
+  "nota": "Buscado 'lavera parches de ojos Calm & Refresh': ningún parche lavera, solo de otras marcas.",
+  "fecha": "2026-10-28"
+ },
+ "3337872420641": {
+  "nota": "Buscado 2 veces: solo salen fichas del lápiz de OJOS Toleriane (B001O1HZKM, B001O1K3I8); el de cejas se menciona (tono Rubio Claro) pero sin URL /dp/.",
+  "fecha": "2026-10-28"
+ },
+ "8809913837053": {
+  "nota": "Buscado 'SKIN1004 Vitamin C 96 Powder': solo ampollas, espuma y tónico Madagascar Centella; ningún polvo.",
+  "fecha": "2026-10-28"
  }
 }

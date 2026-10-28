@@ -1,32 +1,8 @@
 [
  {
-  "marca": "La Roche-Posay",
-  "barcode": "3337875632652",
-  "nombre": "Toleriane Máscara Volumen",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134204209",
-  "nombre": "Máscara de pestañas Make-Up Collection Volume Mascara",
-  "tipo": "mascara-pestanas"
- },
- {
-  "marca": "SVR",
-  "barcode": "3662361001828",
-  "nombre": "PALPEBRAL Máscara Protect",
-  "tipo": "mascara-pestanas"
- },
- {
   "marca": "Catrice",
   "barcode": "4059729619631",
   "nombre": "Sombra de ojos líquida con colorete para ojos",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "La Roche-Posay",
-  "barcode": "3337872420641",
-  "nombre": "Toleriane Lápiz de cejas",
   "tipo": "ojos-cejas"
  },
  {
@@ -54,34 +30,10 @@
   "tipo": "ojos-cejas"
  },
  {
-  "marca": "Rituals",
-  "barcode": "8719134216127",
-  "nombre": "Gel para cejas Make-Up Collection Brow Fixing Gel",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216196",
-  "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Palette (3 g) — código 8719134216196",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Sisley",
-  "barcode": "3473311875013",
-  "nombre": "Gel de cejas Phyto-Sourcils Perfect",
-  "tipo": "ojos-cejas"
- },
- {
   "marca": "essence",
   "barcode": "4059729255389",
   "nombre": "SUPERLAST 24h lápiz pomada para cejas resistente al agua",
   "tipo": "ojos-cejas"
- },
- {
-  "marca": "Caudalie",
-  "barcode": "3522930004134",
-  "nombre": "Polvos Bronceadores Larga Duración",
-  "tipo": "colorete"
  },
  {
   "marca": "Rare Beauty",
@@ -132,36 +84,6 @@
   "tipo": "esmalte"
  },
  {
-  "marca": "Essie",
-  "barcode": "30149397",
-  "nombre": "Essie Top Coat Brillo",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Essie",
-  "barcode": "3600531663414",
-  "nombre": "Essie Top Coat Stay Longer",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134189605",
-  "nombre": "Esmalte de uñas Nail Polish (6 ml) — código 8719134189605",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134189612",
-  "nombre": "Esmalte de uñas Nail Polish (6 ml) — código 8719134189612",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216226",
-  "nombre": "Sombra de ojos Make-Up Collection Eyeshadow Top Coat",
-  "tipo": "esmalte"
- },
- {
   "marca": "essence",
   "barcode": "4059729543189",
   "nombre": "barniz de uñas Fairy SHIMMER",
@@ -189,48 +111,6 @@
   "marca": "essence",
   "barcode": "4059729543165",
   "nombre": "esmalte de uñas Fairy ROSE",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422323",
-  "nombre": "Esmalte de uñas sheer beauty MANICURE french",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518972",
-  "nombre": "Miniesmalte de uñas BIRTHDAY FUN",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518965",
-  "nombre": "Miniesmalte de uñas CRAZY CRACKING",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585356",
-  "nombre": "Miniesmalte de uñas LOVE YOU",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729519023",
-  "nombre": "Miniesmalte de uñas MAGIC MAGNETIC",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518996",
-  "nombre": "Miniesmalte de uñas MERMAID GLITTER",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729593818",
-  "nombre": "Miniesmalte de uñas PEARLY GLAZE",
   "tipo": "esmalte"
  },
  {
@@ -274,36 +154,6 @@
   "barcode": "8410931013666",
   "nombre": "Desatascador con lejía para cocinas Sanicentro Acción Turbo",
   "tipo": "desatascador"
- },
- {
-  "marca": "Clinique",
-  "barcode": "0192333261538",
-  "nombre": "Aceite de labios y mejillas Pop Lip + Cheek Oil · Black Honey, 44 - Pink Honey, 33 - Nude Honey",
-  "tipo": "labial"
- },
- {
-  "marca": "The INKEY List",
-  "barcode": "5060879826755",
-  "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
-  "tipo": "labial"
- },
- {
-  "marca": "The INKEY List",
-  "barcode": "5060879826762",
-  "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Pink",
-  "tipo": "labial"
- },
- {
-  "marca": "The INKEY List",
-  "barcode": "5060879825772",
-  "nombre": "Bálsamo labial Tripeptide Plumping Lip Balm (transparente)",
-  "tipo": "labial"
- },
- {
-  "marca": "Clinique",
-  "barcode": "0192333100950",
-  "nombre": "Eyeliner Quickliner For Eyes Intense · 07 - Ivy, 09 - Ebony, 03 - Chocolate, 05 - Charcoal",
-  "tipo": "ojos-cejas"
  },
  {
   "marca": "Deliplus",
@@ -375,12 +225,6 @@
   "marca": "essence",
   "barcode": "4059729583758",
   "nombre": "Base de maquillaje Silky BLUR HYDRATING LONGWEAR FOUNDATION (tonos 195, 205, 210, 215, 230, 245, 265, 310, 330)",
-  "tipo": "base-maquillaje"
- },
- {
-  "marca": "Eucerin",
-  "barcode": "4005800107832",
-  "nombre": "Anti-Redness Crema Correctora Día FPS30",
   "tipo": "base-maquillaje"
  },
  {
@@ -546,12 +390,6 @@
   "tipo": "base-maquillaje"
  },
  {
-  "marca": "SKIN1004",
-  "barcode": "8809913837053",
-  "nombre": "Polvo Vitamin C 96 Powder",
-  "tipo": "base-maquillaje"
- },
- {
   "marca": "essence",
   "barcode": "4059729585202",
   "nombre": "LÁPIZ DE LABIOS POUTline soft glide (tono 02 Pinky Promise)",
@@ -585,12 +423,6 @@
   "marca": "essence",
   "barcode": "4059729288424",
   "nombre": "soft & precise perfilador de labios (tonos 02 happy, 203 My Advice, 302 Heavenly, 303 Delicate, 402 Honey-stly)",
-  "tipo": "labial"
- },
- {
-  "marca": "Haruharu Wonder",
-  "barcode": "8809532223183",
-  "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Petal Pink",
   "tipo": "labial"
  },
  {
@@ -1218,48 +1050,6 @@
   "tipo": "labial"
  },
  {
-  "marca": "Rituals",
-  "barcode": "8719134176957",
-  "nombre": "Bálsamo labial Fortune Balms · Repair",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134211764",
-  "nombre": "Bálsamo labial Lip Care Advanced Lip Balm · Repair",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216097",
-  "nombre": "Perfilador de labios Make-Up Collection Lip Liner · Dusky Rose",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216080",
-  "nombre": "Perfilador de labios Make-Up Collection Lip Liner · Mocha",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134150063",
-  "nombre": "Pintalabios Lipstick",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216073",
-  "nombre": "Pintalabios Make-Up Collection Lipstick · Dusky Rose",
-  "tipo": "labial"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216066",
-  "nombre": "Pintalabios Make-Up Collection Lipstick · Soft Mocha",
-  "tipo": "labial"
- },
- {
   "marca": "Kiko Milano",
   "barcode": "8059385044149",
   "nombre": "Máscara de pestañas rizadora Maxi Mod Length & Curl Mascara",
@@ -1699,12 +1489,6 @@
  },
  {
   "marca": "NYX Professional Makeup",
-  "barcode": "0800897216788",
-  "nombre": "Eyeliner en Stick Epic Smoke Liner · 01 White Smoke",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "NYX Professional Makeup",
   "barcode": "0800897216795",
   "nombre": "Eyeliner en Stick Epic Smoke Liner · 02 Nude Haze",
   "tipo": "ojos-cejas"
@@ -1735,12 +1519,6 @@
  },
  {
   "marca": "NYX Professional Makeup",
-  "barcode": "0800897216870",
-  "nombre": "Eyeliner en Stick Epic Smoke Liner · 10 State Smoke",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "NYX Professional Makeup",
   "barcode": "0800897216887",
   "nombre": "Eyeliner en Stick Epic Smoke Liner · 11 Mocha Match",
   "tipo": "ojos-cejas"
@@ -1749,12 +1527,6 @@
   "marca": "NYX Professional Makeup",
   "barcode": "0800897216894",
   "nombre": "Eyeliner en Stick Epic Smoke Liner · 12 Black Smoke",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "NYX Professional Makeup",
-  "barcode": "0800897216801",
-  "nombre": "Eyeliner en Stick Epic Smoke Liner · Muave Grit",
   "tipo": "ojos-cejas"
  },
  {
@@ -1887,30 +1659,6 @@
   "marca": "NYX Professional Makeup",
   "barcode": "0800897836900",
   "nombre": "Lápiz de cejas Micro Brow Pencil · 08 Black",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134195286",
-  "nombre": "Lápiz de ojos Eye Pencil · Black — código 8719134195286",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134204162",
-  "nombre": "Lápiz de ojos Eye Pencil · Brown",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216141",
-  "nombre": "Lápiz de ojos Make-Up Collection Eyeliner · Black",
-  "tipo": "ojos-cejas"
- },
- {
-  "marca": "Rituals",
-  "barcode": "8719134216158",
-  "nombre": "Lápiz de ojos Make-Up Collection Eyeliner · Brown",
   "tipo": "ojos-cejas"
  },
  {
@@ -2559,384 +2307,6 @@
   "marca": "essence",
   "barcode": "4059729585660",
   "nombre": "esmalte de uñas gel (tono 26 RUBIES are FOREVER)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585677",
-  "nombre": "esmalte de uñas gel (tono 27 VERY CHERRY)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585684",
-  "nombre": "esmalte de uñas gel (tono 28 FLASHY FUCHSIA)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585691",
-  "nombre": "esmalte de uñas gel (tono 29 GRAPE to SEE YOU)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585714",
-  "nombre": "esmalte de uñas gel (tono 31 SKY'S THE LIMIT)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585721",
-  "nombre": "esmalte de uñas gel (tono 32 LILAC YOU LOTS)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585745",
-  "nombre": "esmalte de uñas gel (tono 34 TAKE UP SPACE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585752",
-  "nombre": "esmalte de uñas gel (tono 35 LET IT INDI-GO)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585769",
-  "nombre": "esmalte de uñas gel (tono 36 OCEAN EYES)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585783",
-  "nombre": "esmalte de uñas gel (tono 38 MINT to CHILL)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585790",
-  "nombre": "esmalte de uñas gel (tono 39 COOL by the POOL)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585806",
-  "nombre": "esmalte de uñas gel (tono 40 my BUTTER HALF)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585813",
-  "nombre": "esmalte de uñas gel (tono 41 HELLO YELLOW)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585820",
-  "nombre": "esmalte de uñas gel (tono 42 DANCING GREEN)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729622235",
-  "nombre": "esmalte de uñas gel (tono 47 COZY SPICE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729622242",
-  "nombre": "esmalte de uñas gel (tono 48 AUBER-GENIUS)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729622259",
-  "nombre": "esmalte de uñas gel (tono 49 STAYIN' OLIVE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729630599",
-  "nombre": "esmalte de uñas gel (tono 50 SET in STONE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729630605",
-  "nombre": "esmalte de uñas gel (tono 51 MIDNIGHT MAGIC)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348722",
-  "nombre": "gel nail colour esmalte de uñas (tono 01 gloss 'N ROLL)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348746",
-  "nombre": "gel nail colour esmalte de uñas (tono 03 icing ON THE CAKE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348760",
-  "nombre": "gel nail colour esmalte de uñas (tono 05 SUGAR blush)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348784",
-  "nombre": "gel nail colour esmalte de uñas (tono 07 pinkVENTURES)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348791",
-  "nombre": "gel nail colour esmalte de uñas (tono 08 THE FINAL rose)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348838",
-  "nombre": "gel nail colour esmalte de uñas (tono 12 orchid JUNGLE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348845",
-  "nombre": "gel nail colour esmalte de uñas (tono 13 BINGO flamingo)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348852",
-  "nombre": "gel nail colour esmalte de uñas (tono 14 ALL-TIME FAVOUred)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348876",
-  "nombre": "gel nail colour esmalte de uñas (tono 16 chili TOGETHER)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348890",
-  "nombre": "gel nail colour esmalte de uñas (tono 18 dazzling SHELL)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729348913",
-  "nombre": "gel nail colour esmalte de uñas (tono 20 PLEASE berry ME)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729349156",
-  "nombre": "gel nail colour esmalte de uñas (tono 40 ISN'T SHE minty?!)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729349170",
-  "nombre": "gel nail colour esmalte de uñas (tono 42 SWIRL pool)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729349194",
-  "nombre": "gel nail colour esmalte de uñas (tono 44 grape A COFFEE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409027",
-  "nombre": "gel nail colour esmalte de uñas (tono 51 SOMEONE LIKE blue)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409065",
-  "nombre": "gel nail colour esmalte de uñas (tono 52 coral ME MAYBE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409188",
-  "nombre": "gel nail colour esmalte de uñas (tono 55 INNER peas)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409225",
-  "nombre": "gel nail colour esmalte de uñas (tono 56 red-y TO GO)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409553",
-  "nombre": "gel nail colour esmalte de uñas (tono 57 PRETTY IN pink)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729409591",
-  "nombre": "gel nail colour esmalte de uñas (tono 58 LESS BITTER MORE glitter)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422309",
-  "nombre": "gel nail colour esmalte de uñas (tono 61 wavy BABY)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422194",
-  "nombre": "gel nail colour esmalte de uñas (tono 62 HEART OF gold)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422354",
-  "nombre": "gel nail colour esmalte de uñas (tono 64 YOU rock!)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422316",
-  "nombre": "gel nail colour esmalte de uñas (tono 65 OH-bergine)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729422477",
-  "nombre": "gel nail colour esmalte de uñas (tono 66 GIVE ME space)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729466808",
-  "nombre": "gel nail colour esmalte de uñas (tono 68 peach CLUB)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729466815",
-  "nombre": "gel nail colour esmalte de uñas (tono 69 UP IN THE air)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729466822",
-  "nombre": "gel nail colour esmalte de uñas (tono 70 fairy FLOSS)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729491671",
-  "nombre": "gel nail colour esmalte de uñas (tono 71 FAUX pearl)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729491701",
-  "nombre": "gel nail colour esmalte de uñas (tono 74 NO ROOM FOR THE blues)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518897",
-  "nombre": "gel nail colour esmalte de uñas (tono 75 wave BREAKER)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518903",
-  "nombre": "gel nail colour esmalte de uñas (tono 76 matcha TIME)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518927",
-  "nombre": "gel nail colour esmalte de uñas (tono 78 SPREAD THE sparkle)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729521361",
-  "nombre": "gel nail colour esmalte de uñas (tono 79 grape ESCAPE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729521378",
-  "nombre": "gel nail colour esmalte de uñas (tono 80 mauve OVER DARLING)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729521385",
-  "nombre": "gel nail colour esmalte de uñas (tono 81 tropic LIKE IT'S HOT)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729521392",
-  "nombre": "gel nail colour esmalte de uñas (tono 82 yellow THERE!)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729543202",
-  "nombre": "gel nail colour esmalte de uñas (tono 84 BLACK plum \\u0026 DONE)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729543226",
-  "nombre": "gel nail colour esmalte de uñas (tono 86 espresso YOURSELF)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518941",
-  "nombre": "Miniesmalte de uñas GLOSSY JELLY (tono 02)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518958",
-  "nombre": "Miniesmalte de uñas GLOSSY JELLY (tono 03)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518989",
-  "nombre": "Miniesmalte de uñas GLOSSY JELLY (tono 06)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729518934",
-  "nombre": "Miniesmalte de uñas GLOW IN THE DARK (tono 01)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "essence",
-  "barcode": "4059729585363",
-  "nombre": "Miniesmalte de uñas GLOW IN THE DARK (tono 14)",
-  "tipo": "esmalte"
- },
- {
-  "marca": "Essie",
-  "barcode": "30188945",
-  "nombre": "Esmalte de uñas essie · Reclaim The Mirror",
   "tipo": "esmalte"
  },
  {
