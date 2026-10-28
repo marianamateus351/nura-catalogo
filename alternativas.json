@@ -1,5 +1,5 @@
 {
- "version": "2026-10-27b",
+ "version": "2026-10-28a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -382,7 +382,8 @@
        "nombre": "Tiras limpiadoras de poros nariz y frente (surtido)",
        "marca": "Bioré",
        "barcode": "5017634237035",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0068G8EZ8"
       },
       {
        "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
@@ -531,7 +532,8 @@
        "nombre": "Solución micelar Skin-Prep",
        "marca": "Filorga",
        "barcode": "3401560361926",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00L8OOSL4"
       },
       {
        "nombre": "Agua Micelar Mini 1 U",
@@ -764,7 +766,8 @@
        "nombre": "Desmaquillante de ojos waterproof",
        "marca": "Lierac",
        "barcode": "3701436908638",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BZFXYT62"
       },
       {
        "nombre": "Loción limpiadora y desmaquillante",
@@ -851,13 +854,15 @@
        "nombre": "Agua micelar confort extremo",
        "marca": "RoC",
        "barcode": "1210000800145",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08GGD1V6X"
       },
       {
        "nombre": "Desmaquillante de ojos doble acción",
        "marca": "RoC",
        "barcode": "1210000802286",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08GGDCHJ9"
       },
       {
        "nombre": "Limpiador facial 1025 Dokdo Cleanser",
@@ -1456,7 +1461,8 @@
        "nombre": "Crema de noche Re-Energizing Sleeping",
        "marca": "Lavera",
        "barcode": "4021457658268",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01FUWQS2G"
       },
       {
        "nombre": "Crema facial Neutral",
@@ -1835,7 +1841,8 @@
        "nombre": "Crema de noche hidratante antiarrugas Ziaja Med",
        "marca": "Ziaja",
        "barcode": "5901887008507",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01BCAGYWO"
       },
       {
        "nombre": "Crema facial Caléndula sin perfume",
@@ -2287,7 +2294,8 @@
        "nombre": "Concentrado corrección de estrías Phytolastil",
        "marca": "Lierac",
        "barcode": "3701436917630",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CX934NL6"
       },
       {
        "nombre": "Sérum reafirmante de noche Eterna",
@@ -2348,7 +2356,8 @@
        "nombre": "Sérum en stick Hydra+ Efecto Rellenador",
        "marca": "RoC",
        "barcode": "1210000801975",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0G3X1QT18"
       },
       {
        "nombre": "Concentrado reafirmante Xpert Collageneur Booster",
@@ -2440,6 +2449,13 @@
        "subtipo": "niacinamida",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DBR61WV9"
+      },
+      {
+       "nombre": "Concentrado de vitamina C para mezclar con el sérum o la crema Vitamin C 96",
+       "marca": "SKIN1004",
+       "barcode": "8809913837053",
+       "subtipo": "polvos",
+       "fechaLista": "12-10-2026"
       },
       {
        "nombre": "Sérum Hyalu-Cica Blue Serum",
@@ -3432,7 +3448,8 @@
        "nombre": "Aceite de baño Refreshing",
        "marca": "Kneipp",
        "barcode": "4008233066882",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B003J8QKUO"
       },
       {
        "nombre": "Gel de ducha cremoso basis sensitive",
@@ -3514,7 +3531,8 @@
        "nombre": "Gel de baño de bebé Little Siberica",
        "marca": "Natura Siberica",
        "barcode": "4743318103341",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08GLNMWPM"
       },
       {
        "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
@@ -3618,7 +3636,8 @@
        "nombre": "Gel íntimo suave para bebés Little Siberica",
        "marca": "Natura Siberica",
        "barcode": "4743318103389",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08GLN5W7J"
       },
       {
        "nombre": "Gel íntimo Manzanilla",
@@ -3820,7 +3839,8 @@
        "nombre": "Aceite corporal Bio Skin Oil",
        "marca": "Kneipp",
        "barcode": "4008233154350",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08H5TV9DS"
       },
       {
        "nombre": "Aceite corporal Derma Protect",
@@ -3960,7 +3980,8 @@
        "nombre": "Manteca corporal espesa de Dauria Sauna & Spa",
        "marca": "Natura Siberica",
        "barcode": "4744183010505",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0185KGNSO"
       },
       {
        "nombre": "Fórmula Noruega Hidratación Profunda Loción Corporal Hipoalergénica",
@@ -4049,7 +4070,8 @@
        "nombre": "Aceite de masaje anticelulítico",
        "marca": "Ziaja",
        "barcode": "5901887004301",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00CFHPLFK"
       },
       {
        "nombre": "Bálsamo corporal Fizjoderm Lipídico Ziaja Med",
@@ -4752,13 +4774,22 @@
        "nombre": "Base de maquillaje compacta Facefinity Compact · 003 Natural, 005 Sand, 006 Golden, 008 Toffee, 76 Warm Golden",
        "marca": "Max Factor",
        "barcode": "3616302255498",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B077TVLZSK"
+      },
+      {
+       "nombre": "Base de maquillaje con color Miracle Pure Hydratint · Fair - 1, Fair/Light - 2, Light - 3, Light/Medium - 4, Medium - 5 y 1 tono más",
+       "marca": "Max Factor",
+       "barcode": "3616306343863",
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DP56S19Z"
       },
       {
        "nombre": "Base de maquillaje Facefinity All Day Flawless 3 en 1 · Beige, Bronze, C10 Fair Porcelain, C105 Ganache, C110 Espresso y 32 tonos más",
        "marca": "Max Factor",
        "barcode": "3614225851551",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BTC64QK2"
       },
       {
        "nombre": "Base de maquillaje Facefinity Lasting Blur · C100 Fair, C106 Natural Beige",
@@ -4782,13 +4813,15 @@
        "nombre": "Corrector Facefinity All Day Flawless",
        "marca": "Max Factor",
        "barcode": "3616303406899",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BNLL3DS2"
       },
       {
        "nombre": "Corrector Miracle Pure · 01 Fair, 02 Light, 03 Light to Medium, 04 Medium, 07 Medium to Tan y 1 tono más",
        "marca": "Max Factor",
        "barcode": "3616303251550",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B36JRYXL"
       },
       {
        "nombre": "Sérum prebase matificante Miracle Pure Matte Drops",
@@ -4904,20 +4937,15 @@
        "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 01 Light",
        "marca": "Sensilis",
        "barcode": "8428749805007",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0831MCG8Q"
       },
       {
        "nombre": "Corrector líquido de alta cobertura Velvet Skin tono 02 Beige",
        "marca": "Sensilis",
        "barcode": "8428749805106",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Polvo Vitamin C 96 Powder",
-       "marca": "SKIN1004",
-       "barcode": "8809913837053",
-       "subtipo": "polvos",
-       "fechaLista": "12-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0831MCG8Q"
       },
       {
        "nombre": "Base de maquillaje Born This Way Undetectable Medium-To-Full Coverage Foundation",
@@ -4966,7 +4994,8 @@
        "nombre": "Bálsamo labial Magic Peptides",
        "marca": "Alma Secret",
        "barcode": "8436568713656",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DGLVWYBZ"
       },
       {
        "nombre": "Bálsamo embellecedor de labios Nude",
@@ -5630,7 +5659,8 @@
        "marca": "Clinique",
        "barcode": "0192333261538",
        "subtipo": "gloss",
-       "fechaLista": "09-10-2026"
+       "fechaLista": "09-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0DP3JDMMN"
       },
       {
        "nombre": "Bálsamo labial orgánico Bebé sin perfume",
@@ -5894,13 +5924,15 @@
        "nombre": "Perfilador de labios automático Lip Contour 2.0 · Deep Rose, Honey Beige, Muted Pink, Pinky Brown, Rusty Pink y 5 tonos más",
        "marca": "Huda Beauty",
        "barcode": "6291106035131",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09616VCZM"
       },
       {
        "nombre": "Perfilador de labios automático Lip Contour 2.0 · Universal Red",
        "marca": "Huda Beauty",
        "barcode": "6291106035155",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09616VCZM"
       },
       {
        "nombre": "Barra de labios Candy Crush™ Ultra-Shimmer Lipstick · 01",
@@ -6681,13 +6713,15 @@
        "nombre": "Bálsamo labial con ácido hialurónico (envase alemán)",
        "marca": "Kneipp",
        "barcode": "4008233178905",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F2FM121R"
       },
       {
        "nombre": "Bálsamo labial con ácido hialurónico (envase español)",
        "marca": "Kneipp",
        "barcode": "4008233178790",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F2FM121R"
       },
       {
        "nombre": "Plump Ambition Aceite Labial Voluminizador con Ácido Hialurónico (101 Crystal Clear, 201 Milky Nu, 380 Rouge in Love, 485 Wine O'clock, 490 Berry Jolie, 510 La Nuit Sparkle, 601 Worth It, 650 Nude Macaron)",
@@ -8501,7 +8535,8 @@
        "nombre": "Tratamiento voluminizador de labios Derm Correxion",
        "marca": "RoC",
        "barcode": "1210000801227",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0F29XWZK6"
       },
       {
        "nombre": "Barra de labios mate Own The Matte tono 01 Heart Breaker",
@@ -8551,28 +8586,32 @@
        "nombre": "Bálsamo Labial Protector de cáñamo",
        "marca": "The Body Shop",
        "barcode": "5028197252595",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00A8ZTS0A"
       },
       {
        "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Berry",
        "marca": "The INKEY List",
        "barcode": "5060879826755",
        "subtipo": "balsamo",
-       "fechaLista": "08-10-2026"
+       "fechaLista": "08-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D62ZWK49"
       },
       {
        "nombre": "Bálsamo labial con color Tripeptide Plumping Lip Balm Pink",
        "marca": "The INKEY List",
        "barcode": "5060879826762",
        "subtipo": "balsamo",
-       "fechaLista": "08-10-2026"
+       "fechaLista": "08-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0D62ZWK49"
       },
       {
        "nombre": "Bálsamo labial Tripeptide Plumping Lip Balm (transparente)",
        "marca": "The INKEY List",
        "barcode": "5060879825772",
        "subtipo": "balsamo",
-       "fechaLista": "08-10-2026"
+       "fechaLista": "08-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CFQV774K"
       },
       {
        "nombre": "Squalane + Amino Acids Lip Balm 15 ml",
@@ -8596,7 +8635,8 @@
        "nombre": "Bálsamo labial reparador Skin Food Lip Balm",
        "marca": "Weleda",
        "barcode": "3596200077579",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07JKF4G32"
       }
      ]
     },
@@ -8668,7 +8708,8 @@
        "nombre": "Atoderm Intensive Eye cuidado del contorno de ojos 100 ml",
        "marca": "Bioderma",
        "barcode": "3701129801963",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B08562FW67"
       },
       {
        "nombre": "El Contorno de Ojos",
@@ -9387,12 +9428,6 @@
        "barcode": "0736211011411",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B01673X226"
-      },
-      {
-       "nombre": "Esencia con color Miracle Pure Hydratint · Fair - 1, Fair/Light - 2, Light - 3, Light/Medium - 4, Medium - 5 y 1 tono más",
-       "marca": "Max Factor",
-       "barcode": "3616306343863",
-       "fechaLista": "25-10-2026"
       },
       {
        "nombre": "Tónico 1025 Dokdo Toner",
@@ -10242,7 +10277,8 @@
        "nombre": "Bálsamo after shave Lierac Homme",
        "marca": "Lierac",
        "barcode": "3508240014056",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B001O1G4H2"
       },
       {
        "nombre": "Bálsamo reparador de hipérico",
@@ -10352,7 +10388,8 @@
        "nombre": "Bálsamo de ojos Multi Correxion Revive + Glow",
        "marca": "RoC",
        "barcode": "1210000800886",
-       "fechaLista": "24-10-2026"
+       "fechaLista": "24-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CCW5HL71"
       },
       {
        "nombre": "CICAVIT DM+ Cicatrices",
@@ -10501,13 +10538,15 @@
        "nombre": "Lano-pomada Mamma Mia",
        "marca": "Ziaja",
        "barcode": "5901887030164",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01M12U4DH"
       },
       {
        "nombre": "Vaselina blanca",
        "marca": "Ziaja",
        "barcode": "5901887006800",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00FGTGHYS"
       }
      ]
     },
@@ -10932,7 +10971,8 @@
        "nombre": "Máscara de pestañas sérum SOS Lashes, tono caramel",
        "marca": "Clarins",
        "barcode": "3666057066948",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0BG8696LF"
       },
       {
        "nombre": "Máscara de pestañas rizadora Maxi Mod Length & Curl Mascara",
@@ -11030,7 +11070,8 @@
        "nombre": "Toleriane Máscara Volumen",
        "marca": "La Roche-Posay",
        "barcode": "3337875632652",
-       "fechaLista": "09-09-2026"
+       "fechaLista": "09-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07H4KFYLM"
       },
       {
        "nombre": "Máscara de pestañas High Lash",
@@ -11197,13 +11238,15 @@
        "nombre": "Máscara de pestañas de tratamiento de día Day Treatment Mascara",
        "marca": "Sensilis",
        "barcode": "8428749950400",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CV4CBHY5"
       },
       {
        "nombre": "Tratamiento de pestañas de noche Night Treatment Mascara",
        "marca": "Sensilis",
        "barcode": "8428749972204",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CV4G13TL"
       },
       {
        "nombre": "PALPEBRAL Máscara Protect",
@@ -11840,13 +11883,15 @@
        "nombre": "Fijador de pestañas y cejas Lash & Brow Double Fix'",
        "marca": "Clarins",
        "barcode": "3666057067006",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B59NVBBX"
       },
       {
        "nombre": "Lápiz de cejas Crayon Sourcils, tono 02 Light Brown",
        "marca": "Clarins",
        "barcode": "3666057246319",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CN4SZQKN"
       },
       {
        "nombre": "Lápiz de cejas Wonder Define, tono 01 Ash Blonde",
@@ -11859,7 +11904,8 @@
        "marca": "Clinique",
        "barcode": "0192333100950",
        "subtipo": "eyeliner",
-       "fechaLista": "09-10-2026"
+       "fechaLista": "09-10-2026",
+       "amazon": "https://www.amazon.es/dp/B00B5QVWCS"
       },
       {
        "nombre": "Delineador de ojos líquido 01 Black",
@@ -11871,13 +11917,15 @@
        "nombre": "Gel para cejas y pestañas",
        "marca": "Dr. Hauschka",
        "barcode": "4020829098626",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B072HJ13FL"
       },
       {
        "nombre": "Lápiz de ojos Kajal",
        "marca": "Dr. Hauschka",
        "barcode": "4020829098756",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B06ZZ3CYXR"
       },
       {
        "nombre": "Lápiz de ojos No Budge Precision Liner",
@@ -13969,7 +14017,8 @@
        "nombre": "Gel de cejas Masterpiece Brow Lamination",
        "marca": "Max Factor",
        "barcode": "3616305708328",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0CY2ZBNMY"
       },
       {
        "nombre": "Color Tattoo Stix Sombra de ojos",
@@ -14125,7 +14174,8 @@
        "linea": "Eyeliner en Stick Epic Smoke Liner",
        "subtipo": "eyeliner",
        "tono": "01 White Smoke",
-       "fechaLista": "10-09-2026"
+       "fechaLista": "10-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09NJNZYB4"
       },
       {
        "nombre": "Eyeliner en Stick Epic Smoke Liner · 02 Nude Haze",
@@ -14180,7 +14230,8 @@
        "linea": "Eyeliner en Stick Epic Smoke Liner",
        "subtipo": "eyeliner",
        "tono": "10 State Smoke",
-       "fechaLista": "10-09-2026"
+       "fechaLista": "10-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09NJNZYB4"
       },
       {
        "nombre": "Eyeliner en Stick Epic Smoke Liner · 11 Mocha Match",
@@ -14209,7 +14260,8 @@
        "linea": "Eyeliner en Stick Epic Smoke Liner",
        "subtipo": "eyeliner",
        "tono": "Muave Grit",
-       "fechaLista": "10-09-2026"
+       "fechaLista": "10-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09NJNZYB4"
       },
       {
        "nombre": "Eyeliner Vivid Rich Mechanical Pencil · 01 Amber Stunner",
@@ -14523,10 +14575,11 @@
        "nombre": "Sérum de pestañas y cejas Xpert Lashes & Brows",
        "marca": "Singuladerm",
        "barcode": "8436564666635",
-       "fechaLista": "21-10-2026"
+       "fechaLista": "21-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09V5H61KP"
       },
       {
-       "nombre": "Gel de cejas Phyto-Sourcils Perfect",
+       "nombre": "Lápiz de cejas Phyto-Sourcils Perfect",
        "marca": "Sisley",
        "barcode": "3473311875013",
        "subtipo": "cejas",
@@ -15997,7 +16050,8 @@
        "nombre": "Booster Drops bronceador",
        "marca": "Weleda",
        "barcode": "3596200056109",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0FMS3747Y"
       }
      ]
     },
@@ -16837,13 +16891,15 @@
        "nombre": "Aceite de uñas Nim",
        "marca": "Dr. Hauschka",
        "barcode": "4020829071407",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B07YWKCLLM"
       },
       {
        "nombre": "Stick de uñas Nim",
        "marca": "Dr. Hauschka",
        "barcode": "42239635",
-       "fechaLista": "20-10-2026"
+       "fechaLista": "20-10-2026",
+       "amazon": "https://www.amazon.es/dp/B01K3YF3UO"
       },
       {
        "nombre": "barniz de uñas Fairy SHIMMER",
@@ -17250,7 +17306,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "01 gloss 'N ROLL",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 03 icing ON THE CAKE)",
@@ -17259,7 +17316,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "03 icing ON THE CAKE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 05 SUGAR blush)",
@@ -17268,7 +17326,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "05 SUGAR blush",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 07 pinkVENTURES)",
@@ -17279,7 +17338,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "07 pinkVENTURES",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 08 THE FINAL rose)",
@@ -17288,7 +17348,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "08 THE FINAL rose",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 12 orchid JUNGLE)",
@@ -17297,7 +17358,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "12 orchid JUNGLE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 13 BINGO flamingo)",
@@ -17306,7 +17368,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "13 BINGO flamingo",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 14 ALL-TIME FAVOUred)",
@@ -17317,7 +17380,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "14 ALL-TIME FAVOUred",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 16 chili TOGETHER)",
@@ -17326,7 +17390,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "16 chili TOGETHER",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 18 dazzling SHELL)",
@@ -17335,7 +17400,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "18 dazzling SHELL",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 20 PLEASE berry ME)",
@@ -17344,7 +17410,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "20 PLEASE berry ME",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 40 ISN'T SHE minty?!)",
@@ -17353,7 +17420,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "40 ISN'T SHE minty?!",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 42 SWIRL pool)",
@@ -17362,7 +17430,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "42 SWIRL pool",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 44 grape A COFFEE)",
@@ -17371,7 +17440,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "44 grape A COFFEE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 51 SOMEONE LIKE blue)",
@@ -17380,7 +17450,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "51 SOMEONE LIKE blue",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 52 coral ME MAYBE)",
@@ -17389,7 +17460,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "52 coral ME MAYBE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 55 INNER peas)",
@@ -17398,7 +17470,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "55 INNER peas",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 56 red-y TO GO)",
@@ -17409,7 +17482,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "56 red-y TO GO",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 57 PRETTY IN pink)",
@@ -17418,7 +17492,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "57 PRETTY IN pink",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 58 LESS BITTER MORE glitter)",
@@ -17427,7 +17502,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "58 LESS BITTER MORE glitter",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 61 wavy BABY)",
@@ -17436,7 +17512,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "61 wavy BABY",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 62 HEART OF gold)",
@@ -17445,7 +17522,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "62 HEART OF gold",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 64 YOU rock!)",
@@ -17454,7 +17532,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "64 YOU rock!",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 65 OH-bergine)",
@@ -17463,7 +17542,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "65 OH-bergine",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 66 GIVE ME space)",
@@ -17472,7 +17552,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "66 GIVE ME space",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 68 peach CLUB)",
@@ -17481,7 +17562,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "68 peach CLUB",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 69 UP IN THE air)",
@@ -17490,7 +17572,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "69 UP IN THE air",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 70 fairy FLOSS)",
@@ -17499,7 +17582,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "70 fairy FLOSS",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 71 FAUX pearl)",
@@ -17510,7 +17594,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "71 FAUX pearl",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 74 NO ROOM FOR THE blues)",
@@ -17519,7 +17604,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "74 NO ROOM FOR THE blues",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 75 wave BREAKER)",
@@ -17528,7 +17614,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "75 wave BREAKER",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 76 matcha TIME)",
@@ -17537,7 +17624,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "76 matcha TIME",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 78 SPREAD THE sparkle)",
@@ -17546,7 +17634,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "78 SPREAD THE sparkle",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 79 grape ESCAPE)",
@@ -17555,7 +17644,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "79 grape ESCAPE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 80 mauve OVER DARLING)",
@@ -17564,7 +17654,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "80 mauve OVER DARLING",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 81 tropic LIKE IT'S HOT)",
@@ -17573,7 +17664,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "81 tropic LIKE IT'S HOT",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 82 yellow THERE!)",
@@ -17582,7 +17674,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "82 yellow THERE!",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 84 BLACK plum \\u0026 DONE)",
@@ -17591,7 +17684,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "84 BLACK plum \\u0026 DONE",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "gel nail colour esmalte de uñas (tono 86 espresso YOURSELF)",
@@ -17600,7 +17694,8 @@
        "linea": "gel nail colour esmalte de uñas",
        "subtipo": "color",
        "tono": "86 espresso YOURSELF",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B09R8234R3"
       },
       {
        "nombre": "Miniesmalte de uñas BIRTHDAY FUN",
@@ -17654,7 +17749,8 @@
        "linea": "Miniesmalte de uñas GLOW IN THE DARK",
        "subtipo": "color",
        "tono": "01",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DZ2QGT4L"
       },
       {
        "nombre": "Miniesmalte de uñas GLOW IN THE DARK (tono 14)",
@@ -17663,7 +17759,8 @@
        "linea": "Miniesmalte de uñas GLOW IN THE DARK",
        "subtipo": "color",
        "tono": "14",
-       "fechaLista": "25-09-2026"
+       "fechaLista": "25-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0DZ2QGT4L"
       },
       {
        "nombre": "Miniesmalte de uñas LOVE YOU",
@@ -17714,7 +17811,8 @@
        "marca": "Essie",
        "barcode": "3600531663414",
        "subtipo": "base-top",
-       "fechaLista": "10-09-2026"
+       "fechaLista": "10-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0BMGNW4FF"
       },
       {
        "nombre": "Esmalte de uñas Smart Nail Lacquer · 01",
@@ -18816,7 +18914,8 @@
        "nombre": "Capa final de uñas Miracle Pure",
        "marca": "Max Factor",
        "barcode": "3616303403324",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B0B4KMYD5N"
       },
       {
        "nombre": "Endurecedor de uñas Miracle Pure",
@@ -18828,7 +18927,8 @@
        "nombre": "Esmalte de uñas Miracle Pure · 095 Opal Coat, 155 Coconut Milk, 202 Natural Pearl, 205 Nude Rose, 220 Cherry Blossom y 11 tonos más",
        "marca": "Max Factor",
        "barcode": "3616303252540",
-       "fechaLista": "25-10-2026"
+       "fechaLista": "25-10-2026",
+       "amazon": "https://www.amazon.es/dp/B09N2ZNTT1"
       },
       {
        "nombre": "Fast Gel Esmalte de uñas",
