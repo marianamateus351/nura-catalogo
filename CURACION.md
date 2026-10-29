@@ -6931,6 +6931,65 @@ Nota de la sesión del 2026-10-29: se abrió desde un entorno con la red restrin
 info-pg, ni mysds.henkel.com), así que **no se ha curado nada todavía**: hay que hacerlo desde una sesión con
 internet abierto, como los bloques anteriores.
 
+**Bloque 1, primera tanda (versión 2026-10-29-hogar1): 16 productos nuevos y 18 códigos; marca nueva Perlan.**
+Desde esta sesión responden info-pg/Contentful, mysds.henkel.com (servicio OData en `/SAP_GATEWAY/`, sacado del
+`manifest.json`), Mercadona y Consum. **wiop.unilever.es y El Corte Inglés dan 403 de Akamai**: no se han reintentado, así
+que **Skip y Mimosín siguen pendientes** de una sesión desde la que responda el portal de Unilever. La búsqueda de Open Food
+Facts daba 503; la consulta por código sí funciona, pero no aportó traseras españolas.
+- **Fotos de Consum a 1600 px.** La ficha de la tienda da las fotos a 300 px (por eso la auditoría las descartó), pero el
+  mismo CDN las sirve a 1600×1600 cambiando el tamaño en la ruta (`…/img/1600x1600/<id>_00N.jpg`): son legibles y valen
+  como foto trasera del envase actual. Mercadona solo vende tres Ariel de estas marcas.
+- **Cotejo etiqueta–ficha** (método de la auditoría): todo lo que nombra la etiqueta (alérgenos, conservantes, enzimas) tiene
+  que estar en la ficha; los conservantes de la ficha, en la etiqueta; los alérgenos de la ficha que falten en la etiqueta
+  solo pueden ser de la lista ampliada (2023/1545). La declaración de la etiqueta desempata entre generaciones de ficha.
+- **Entran:**
+  - **Ariel** Líquido Total `8006530095969` (vuelve; trasera de Mercadona a 3600 px con el IPMS 21374731 de la ficha
+    impreso; la lista es la misma que tenía antes de la auditoría).
+  - **Micolor** Colores Vivos gel `8410436452199` y Colores Oscuros (Oscuros Intensos Gel) `8410436423175`.
+  - **Dixan** polvo Universal `8410436466424` (única ficha de polvo).
+  - **Vernel** Aromaterapia Magia de Magnolia `8410436498180`, Fresh Control Explosión de Frescor `8410436499057` y
+    `8410436499026` (75 y 55 lavados, mismo UFI) y perfumador Selection Cherry Blossom `8410436495479`.
+  - **Perlan** (marca nueva) Renueva Lana y Delicados `8410020380891`, con la ficha vigente V1.11 por la decisión de Mariana.
+  - **Estrella** 2 en 1 `8410436419574`, Limón `8410436419604` y Pino `8410436419635` (lejía con detergente).
+  - **Conejo** Lejía `8410436392693` y Frescor Floral `8410436392754`. La trasera se lee entera pero **el código de barras
+    va en el lateral y no sale en la foto**: el código es el de la ficha de Consum ("Lejía Multiusos 2 L" y "… Floral 2 L").
+  - **Bref** Power Activ Hawaii `8410436464444`, Gel Brillante Océano Ártico (dúo) `8410436395151`, Momentos de Relax
+    Armonía `8410436452793`, y `8410436494502` (pack de 3) a la entrada Blue Auto Activ Flower.
+  - **Wipp Express** `8410436465861` (polvo "Limpieza Profunda", 30 lavados) a la entrada del polvo (única ficha de polvo).
+- **NO COINCIDE (fuera):** Ariel Pods Total (Pogostemon Cablin Oil, solo en la ficha "Original") y Pods Frescor Floral
+  "Novedad" (Cananga, Isoeugenol… en ninguna ficha); Micolor Adiós al Separar y Dixan Gel Total+ ×3 y Frescor (MIT en la
+  etiqueta y no en la ficha); Vernel Lirio ×2 (Terpinolene y Rose Ketones), Maldivas (Rose Ketones) y Blue Jasmine; Wipp gel
+  Limpieza Profunda `8410436502214` (MIT) y gel Higiene & Antiolores `8410436502276` (MIT, Linalool, Hexyl Cinnamal); Bref
+  Océano Ártico de 3 `8410436459808` (BIT y MIT; la ficha no lleva conservantes) y Bref Pine actual `8015100565351` y XXL
+  `8410436506939` (Pogostemon Cablin Oil; la ficha no tiene "Perfume Remainder").
+- **Fuera por otros motivos:** Bref Pine 1x `8015100563067` y 3x `8015100570164` (casan, pero son el envase anterior), Bref
+  Blue Activ Cloro `8410436279970` (dos fichas "Cloro" vigentes con listas distintas), Bref Blue Activ "Hygiene" y Estrella
+  Multiusos Oxi Activo (sin ficha), Dixan Trio-Caps Adiós al Separar (sin ficha), Dixan Adiós al Separar gel `8410436448314`
+  (el envase dice "Todoen1" y la ficha "Total+"), Wipp pack 33 Power + 33 Floral `8410436442190`. Lenor, Ambi Pur y Don
+  Limpio: ni Mercadona ni Open*Facts tienen trasera española; las de Consum se están cotejando ahora (segunda tanda).
+- **Grafía corregida (sin build):** en las fichas de Henkel la mayúscula tras un paréntesis ("2-(2-Dodecyloxyethoxy)Ethyl
+  Sulphate") hace que la app parta el nombre en dos ("…)" | "Ethyl…") y el SLES no avisaba. Se escribe en minúscula tras
+  `)`/`]` en las listas nuevas de Henkel y en **Lejía Neutrex Futura** (que ahora sí avisa de "Tensioactivos etoxilados";
+  la de 2026-10-04 lo daba por arreglado). En Bref Blue Auto Activ Flower se recupera la "alpha" que se había perdido en
+  "Ácido alpha-N-Etilanilinotolueno-3-Sulfónico". Regresión sobre 18.526 fichas: **1 cambio, el de Neutrex Futura**.
+- **Detector:** de los 16 nuevos, 1 sin avisos (Lejía Conejo: agua, hipoclorito y cloruro sódico; lejía, nunca va a
+  Alternativas). Lo que más sale: Fragancia 8+5, alcoholes etoxilados y PEG 8, BIT 4, tensioactivos etoxilados 7.
+- **Decisiones para Mariana:**
+  - **Decisión H1 — aceites esenciales de la lista ampliada que la etiqueta nombra y la ficha de Henkel no** (pero la ficha
+    tiene "Perfume Remainder", donde caben): Dixan Trio-Caps Universal 24 `8410436452908` (Citrus Aurantium Peel Oil),
+    Vernel Cielo Azul concentrado `8410436498524` y `8410436498647` (Pogostemon Cablin Oil), Wipp Power Caps Universal 18
+    `8410436502818` (Lavandula Oil y Pogostemon Cablin Oil) y Wipp Power Caps **Fragancia Floral** `8410436434690` (la
+    ficha que el índice del portal llama "Antimanchas" se titula en el PDF "Power Caps Fragancia Floral"; casan 8 de 9
+    alérgenos, falta Lavandula Oil). Es el caso simétrico del criterio de la lista ampliada. **Ojo:** el Trio-Caps 34
+    `8410436435017`, que ya está en el catálogo con esa misma ficha, tiene la misma etiqueta: o entran los dos, o sale también.
+  - **Decisión H2 — Wipp Power Caps Universal 33 `8410436434577`**: la etiqueta (2024) declara fosfonatos y la ficha
+    vigente (2025) no lleva ninguno. Es el caso de Perlan; ¿mismo criterio?
+  - **Propuesta H3 (detector, necesita build)**: que `splitRunOnIngredients` no parta tras `)` o `]` cuando lo que sigue
+    continúa el nombre químico (o, más simple, que la app pase a minúscula la letra tras `)`/`]` antes de partir). Hoy solo
+    afecta a nombres de Henkel y a algunos INCI pegados; se ha resuelto en los datos.
+  - **Propuesta H4 (detector)**: "Tris(Nonylphenyl) Phosphite" (TNPP, antioxidante que puede liberar 4-nonilfenol; habría que
+    confirmar su estado en ECHA antes de proponer la regla) no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
+
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)
 - **Cuenta en el portal REACH de AC Marca** (`reach.grupoacmarca.com`), que desbloquearía las
   fichas de ingredientes de las **175 referencias de Sanytol** en vez de las 4 que se han
