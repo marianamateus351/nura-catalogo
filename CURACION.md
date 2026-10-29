@@ -5624,6 +5624,27 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-10-29 · Aportaciones con fotos, leídas desde Storage (versión 2026-10-29-aport2): 4 entran, 1 código pendiente
+**Cómo se ven ahora las aportaciones nuevas sin que Mariana las pegue:** Firestore (`contributions`) solo se lee con sesión, pero
+las fotos están en Storage con `allow read: if true` (storage.rules). Listado público del bucket:
+`https://firebasestorage.googleapis.com/v0/b/nura-app-60b35.firebasestorage.app/o?prefix=contributions%2F` → nombres
+`contributions/<código>_<ms>.jpg` y `contributions/<código>_trasera_<ms>.jpg`; cada foto se baja con `…/o/<nombre codificado>?alt=media`.
+Se cruzan los códigos con el catálogo. No se lee ningún dato de la usuaria (ni correo ni uid): solo código y fotos.
+El 2026-10-29 había 4 aportaciones nuevas con frente y trasera, todas de una tienda (balda con precios):
+- **3666057115288 — Clarins "Bálsamo calmante para después del sol After Sun, rostro y cuerpo (150 ml)"** (Baume Apaisant Après
+  Soleil). Lista de la caja (sin "[S1329C]"). Aviso: fragancia no divulgada. Clarins ya tenía la Mascarilla para después del sol.
+- **0602004145123 — Benefit "Aceite limpiador desmaquillante para poros The POREfessional Get Unblocked (45 ml)"**. **Marca
+  nueva** (benefitcosmetics.com está tras Akamai: era una de las 34 sin fuente; ahora entra por la etiqueta). Lista de la caja
+  (sin "N° 17004"). UPC de Benefit con 0 delante, el que da el escaneo. Aviso: fragancia no divulgada.
+- **0810912037489 — Sol de Janeiro "Loción corporal hidratante Body Badalada Vitamin-Infused Lotion Cheirosa 62 (400 ml)"**.
+  Envase europeo (DIST. Biorius, EU Wavre). Lista de la trasera; el código, del escaneo (no sale en la foto). Avisos: fragancia,
+  fenoxietanol, salicilato de bencilo.
+- **Sol de Janeiro "Loción corporal refrescante Body Badalada Skin Refresh Water Lotion Cheirosa 48 (400 ml)"**: entra con el
+  código **impreso en la misma foto que la lista, 0810196840577** ("8 10196 84057 7"). **Ojo: la aportación es del código
+  0810196840614**, que NO es el de este bote (otro tamaño, otro tono de la gama o la etiqueta de la balda). **Ese código sigue sin
+  producto**: pendiente de saber qué es (Mariana). Avisos: fragancia, fenoxietanol.
+Regresión: 0 cambios. Ninguno va a Alternativas (todos llevan perfume).
+
 ### ~~2026-10-29 · Aportación con fotos: 3666057443251~~ — RESUELTO (versión 2026-10-29-aport): Clarins Lip Comfort Oil 03 Cherry
 Frente: caja de Clarins "Lip Comfort Oil", 7 ml (no dice el tono). Trasera: la lista entera, legible. El código, del escaneo de la
 usuaria; clarins.es da ese gtin13 para el tono **03 Cherry** (en la quinta cola solo entró el 04 Pitaya: el resto de tonos quedó a
