@@ -6906,6 +6906,31 @@ Ojo con los detalles del HTML: alguna ficha usa `/` como separador de ingredient
 erratas (`CITRIC ACIDv`, `Ehtylhexylglycerin`, `Ethylhexil Salicylate`). Los acrónimos se
 normalizan en mayúsculas (PEG, PPG, EDTA, PCA, SE, MEA, CI) para que casen con lo ya curado.
 
+### 2026-10-29 · Sexta cola: COBERTURA DE HOGAR (pedida por Mariana) — ABIERTA
+**Objetivo (Mariana, 2026-10-29): que lo que la gente tiene en casa dé resultado al escanearlo**, no solo
+ampliar Alternativas. Por eso van primero las marcas grandes, aunque salgan con avisos.
+
+**Decisión sobre Perlan (Mariana, 2026-10-29): SÍ.** Mismo criterio que Fairy: manda la ficha vigente del
+portal 648/2004 de Henkel (mysds.henkel.com) aunque la foto trasera de Consum (2024) de Renueva Lana y
+Delicados (`8410020380891`) traiga metilisotiazolinona y fosfonatos que la ficha de 2025 ya no lleva. Entra
+ese código con su ficha vigente, y el resto de Perlan con el mismo criterio cuando haya código atable.
+
+**Bloque 1 · Recuperar las marcas grandes que la auditoría del 2026-10-04 dejó a cero o casi** (por este
+orden, que es más o menos el de ventas): Ariel, Don Limpio, Estrella, Conejo, Skip, Lenor, Micolor, Ambi Pur,
+Mimosín, Wipp Express, Dixan, Vernel, Bref. Método, el de la auditoría: lista de la ficha del fabricante
+(info-pg.com/Contentful para P&G, mysds.henkel.com, wiop.unilever.es, rbeuroinfo.com) y código atado solo
+con **foto trasera legible del envase actual** (El Corte Inglés, Mercadona a tamaño grande, Open Food Facts).
+Se mantiene el criterio de la lista ampliada de alérgenos (Reglamento 2023/1545). Prioridad dentro del
+bloque: lo que aparezca en Buscados.
+**Bloque 2 · Marca blanca de Hogar**, cadena por cadena donde publiquen la ficha 648/2004: Bosque Verde y
+Hacendado (Mercadona), Dia, Carrefour, Lidl (W5, ver la sección W5).
+**Siguen pendientes de Mariana:** cuenta del portal de AC Marca (Norit, Sanytol) y fotos traseras de
+SC Johnson (Mr. Músculo, Pato, Glade, Pronto), cuya web sigue tras el "Vercel Security Checkpoint".
+
+Nota de la sesión del 2026-10-29: se abrió desde un entorno con la red restringida (sin Open*Facts, ni
+info-pg, ni mysds.henkel.com), así que **no se ha curado nada todavía**: hay que hacerlo desde una sesión con
+internet abierto, como los bloques anteriores.
+
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)
 - **Cuenta en el portal REACH de AC Marca** (`reach.grupoacmarca.com`), que desbloquearía las
   fichas de ingredientes de las **175 referencias de Sanytol** en vez de las 4 que se han
