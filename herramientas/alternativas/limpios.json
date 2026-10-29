@@ -1,5 +1,5 @@
 {
- "version": "2026-10-29-aport2",
+ "version": "2026-10-29-hogar1",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -12965,15 +12965,6 @@
   {
    "marcaKey": "neutrex",
    "marca": "Neutrex",
-   "nombre": "Lejía Neutrex Futura",
-   "categoria": "Hogar",
-   "barcodes": [
-    "8410436420952"
-   ]
-  },
-  {
-   "marcaKey": "neutrex",
-   "marca": "Neutrex",
    "nombre": "Lejía Neutrex",
    "categoria": "Hogar",
    "barcodes": [
@@ -12987,6 +12978,15 @@
    "categoria": "Hogar",
    "barcodes": [
     "8410436150842"
+   ]
+  },
+  {
+   "marcaKey": "conejo",
+   "marca": "Conejo",
+   "nombre": "Lejía Conejo",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8410436392693"
    ]
   },
   {
