@@ -1,5 +1,5 @@
 {
- "version": "2026-10-28-nombres",
+ "version": "2026-10-29-aport",
  "marcas": [
   {
    "key": "larocheposay",
@@ -116703,6 +116703,15 @@
       "3666057319181"
      ],
      "inci": "Paraffinum Liquidum/Mineral Oil/Huile Minerale, Diisostearyl Malate, Hydrogenated Styrene/Isoprene Copolymer, Helianthus Annuus (Sunflower) Seed Wax, Butyrospermum Parkii (Shea) Butter, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Polyethylene, Octyldodecanol, Caprylic/Capric Triglyceride, Nylon-12, Hydrogenated Polyisobutene, Irvingia Gabonensis Kernel Butter, Ethylhexyl Palmitate, CI 77891/Titanium Dioxide, Parfum/Fragrance, Silica, Hydrogenated Coco-Glycerides, Mica, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Oryzanol, Tribehenin, Ammonium Glycyrrhizate, Vanillin, Tocopheryl Acetate, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Polyglyceryl-4 Isostearate, Sorbitan Isostearate, CI 19140/Yellow 5 Lake, CI 15850/Red 7 Lake, Lactic Acid, Isopropyl Titanium Triisostearate, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Palmitoyl Tripeptide-1"
+    },
+    {
+     "nombre": "Aceite labial Lip Comfort Oil, tono 03 Cherry",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3666057443251"
+     ],
+     "inci": "Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer, Simmondsia Chinensis (Jojoba) Seed Oil, Dilinoleic Acid/Butanediol Copolymer, Rosa Rubiginosa Seed Oil, Caprylic/Capric Triglyceride, Corylus Avellana (Hazelnut) Seed Oil, Diisostearyl Malate, Castor Oil/IPDI Copolymer, Tocopheryl Acetate, Parfum/Fragrance, Vanillin, CI 15985/Yellow 6 Lake, CI 17200/Red 33 Lake, CI 15850/Red 7 Lake, CI 45410/Red 27, Rose Ketones"
     }
    ]
   },

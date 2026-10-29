@@ -5624,6 +5624,16 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### ~~2026-10-29 · Aportación con fotos: 3666057443251~~ — RESUELTO (versión 2026-10-29-aport): Clarins Lip Comfort Oil 03 Cherry
+Frente: caja de Clarins "Lip Comfort Oil", 7 ml (no dice el tono). Trasera: la lista entera, legible. El código, del escaneo de la
+usuaria; clarins.es da ese gtin13 para el tono **03 Cherry** (en la quinta cola solo entró el 04 Pitaya: el resto de tonos quedó a
+la espera del criterio de tonos de Clarins; ahora hay etiqueta de este tono). Lista de la caja: Polyglyceryl-2 Isostearate/Dimer
+Dilinoleate Copolymer, Simmondsia Chinensis (Jojoba) Seed Oil, Dilinoleic Acid/Butanediol Copolymer, Rosa Rubiginosa Seed Oil,
+Caprylic/Capric Triglyceride, Corylus Avellana (Hazelnut) Seed Oil, Diisostearyl Malate, Castor Oil/IPDI Copolymer, Tocopheryl
+Acetate, Parfum/Fragrance, Vanillin, CI 15985/Yellow 6 Lake, CI 17200/Red 33 Lake, CI 15850/Red 7 Lake, CI 45410/Red 27, Rose
+Ketones (sin el código de fórmula "[01M4050-03]"). Misma base que el Pitaya, otros colorantes. Entra en Clarins como "Aceite labial
+Lip Comfort Oil, tono 03 Cherry". Aviso: fragancia no divulgada. Regresión: 0 cambios.
+
 ### 2026-10-25 · Aportaciones de SOLO FOTOS desde la app (frente y parte de atrás)
 Muchas webs de marca bloquean a los bots (reCAPTCHA), así que Mariana pide que, cuando el escáner no encuentra un
 producto, la usuaria haga **dos fotos** (frente con nombre y marca; parte de atrás con la lista de ingredientes y el
