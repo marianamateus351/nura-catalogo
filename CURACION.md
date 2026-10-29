@@ -5641,8 +5641,9 @@ El 2026-10-29 había 4 aportaciones nuevas con frente y trasera, todas de una ti
   fenoxietanol, salicilato de bencilo.
 - **Sol de Janeiro "Loción corporal refrescante Body Badalada Skin Refresh Water Lotion Cheirosa 48 (400 ml)"**: entra con el
   código **impreso en la misma foto que la lista, 0810196840577** ("8 10196 84057 7"). **Ojo: la aportación es del código
-  0810196840614**, que NO es el de este bote (otro tamaño, otro tono de la gama o la etiqueta de la balda). **Ese código sigue sin
-  producto**: pendiente de saber qué es (Mariana). Avisos: fragancia, fenoxietanol.
+  0810196840614**, que NO es el de este bote (otro tamaño, otro tono de la gama o la etiqueta de la balda). **Mariana,
+  2026-10-29: "utiliza el que sale en la foto, porque fue ese"**: el producto es este bote y se queda con 0810196840577; el
+  0810196840614 no se ata a nada (su aportación se rechaza en Revisar). Avisos: fragancia, fenoxietanol.
 Regresión: 0 cambios. Ninguno va a Alternativas (todos llevan perfume).
 
 ### ~~2026-10-29 · Aportación con fotos: 3666057443251~~ — RESUELTO (versión 2026-10-29-aport): Clarins Lip Comfort Oil 03 Cherry
