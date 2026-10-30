@@ -1,5 +1,5 @@
 {
- "version": "2026-10-29-hogar1",
+ "version": "2026-10-30-hogar1b",
  "marcas": [
   {
    "key": "larocheposay",
@@ -75548,7 +75548,17 @@
   {
    "key": "donlimpio",
    "nombre": "Don Limpio",
-   "productos": []
+   "productos": [
+    {
+     "nombre": "Limpiador multisuperficies Don Limpio Flor Delicada",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8001090501233"
+     ],
+     "inci": "Aqua, C10-16 Pareth, Sodium Carbonate, Sodium C10-13 Alkyl Benzenesulfonate, Parfum, Caprylyl/Capryl Glucoside, Sodium Citrate, Sodium Polyacrylate, Sodium Carboxymethyl Inulin, Sodium Chloride, Linalool, Tetramethyl Acetyloctahydronaphthalenes, Sodium Glycolate, Sodium Hydroxide, Disodium 2 2'-oxydiacetate, Amyl Salicylate, Hexyl Cinnamal, Limonene, Sodium Sulfate, Sodium 2-chloroacetate, Colorante"
+    }
+   ]
   },
   {
    "key": "skip",

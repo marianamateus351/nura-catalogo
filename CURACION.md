@@ -6966,7 +6966,7 @@ Facts daba 503; la consulta por código sí funciona, pero no aportó traseras e
   Blue Activ Cloro `8410436279970` (dos fichas "Cloro" vigentes con listas distintas), Bref Blue Activ "Hygiene" y Estrella
   Multiusos Oxi Activo (sin ficha), Dixan Trio-Caps Adiós al Separar (sin ficha), Dixan Adiós al Separar gel `8410436448314`
   (el envase dice "Todoen1" y la ficha "Total+"), Wipp pack 33 Power + 33 Floral `8410436442190`. Lenor, Ambi Pur y Don
-  Limpio: ni Mercadona ni Open*Facts tienen trasera española; las de Consum se están cotejando ahora (segunda tanda).
+  Limpio: ni Mercadona ni Open*Facts tienen trasera española; las de Consum, en la segunda tanda (abajo).
 - **Grafía corregida (sin build):** en las fichas de Henkel la mayúscula tras un paréntesis ("2-(2-Dodecyloxyethoxy)Ethyl
   Sulphate") hace que la app parta el nombre en dos ("…)" | "Ethyl…") y el SLES no avisaba. Se escribe en minúscula tras
   `)`/`]` en las listas nuevas de Henkel y en **Lejía Neutrex Futura** (que ahora sí avisa de "Tensioactivos etoxilados";
@@ -6988,7 +6988,28 @@ Facts daba 503; la consulta por código sí funciona, pero no aportó traseras e
     continúa el nombre químico (o, más simple, que la app pase a minúscula la letra tras `)`/`]` antes de partir). Hoy solo
     afecta a nombres de Henkel y a algunos INCI pegados; se ha resuelto en los datos.
   - **Propuesta H4 (detector)**: "Tris(Nonylphenyl) Phosphite" (TNPP, antioxidante que puede liberar 4-nonilfenol; habría que
-    confirmar su estado en ECHA antes de proponer la regla) no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
+    confirmar su estado en ECHA antes de proponer la regla)
+**Bloque 1, segunda tanda (versión 2026-10-30-hogar1b): P&G con las fotos de Consum a 1600 px, +1.**
+- **Entra:** **Don Limpio** Flor Delicada `8001090501233` como "Limpiador multisuperficies Don Limpio Flor Delicada" (lo que
+  dice la etiqueta; "de suelos" la app lo clasificaba como cosmética). Ficha IDSC-21104691-001; la declaración casa
+  exactamente y no lleva línea de sensibilizantes; código leído a la vista en la trasera, igual que el EAN de Consum.
+  Regresión: 0 cambios.
+- **NO COINCIDE:** Ariel líquido Original `8700216788540` (su declaración es la de Total), Ariel líquido Platinum
+  `8700216808910`, Ariel Pods Platinum `8006530031219` (dos envases con el mismo código y solo uno casa), Don Limpio Baño
+  líquido `8001090501165` y spray `8006540726136` (Acetylcedrene, en ninguna ficha), Ambi Pur Hierba Fresca `8006540194102`
+  (faltan 4 alérgenos clásicos; la foto frontal es otra variante), recambios Tatami Japonés `4015600450380` y Aire Limpio
+  `8001090761989`. Fuera también: Ariel polvo Original `8700216399357` (sin trasera) y el aparato 3Volution con recambio (kit).
+- **Decisión H5 para Mariana — la línea CLP "Contiene … Puede provocar una reacción alérgica"** de P&G nombra sustancias del
+  perfume que la ficha no detalla (van dentro de "Parfum"); la declaración 648 de la etiqueta sí casa con una sola ficha:
+  - Ariel Poderoso Para Colores y Blancos `8006530453721`: faltan Tetrahydrolinalool, Methylundecanal y Hexyl Salicylate
+    (ninguno de los 26 clásicos). **Propuesta: entra si se acepta H1** (mismo caso: perfume no desglosado).
+  - Ariel Pods Original `8006530134996` (código impreso en la caja 18+4; el EAN de Consum `8006530031257` no sale en ninguna
+    foto): falta Isoeugenol, de los 26 clásicos. Ambi Pur Baño Aroma a Limpio `8006540946534` (el IPMS impreso es el de la
+    ficha IDSC-90391916-001): faltan 13, entre ellas Methyl Octine Carbonate (clásico). **Propuesta: fuera** (un alérgeno
+    clásico tendría que estar en la ficha).
+  - Esa línea CLP sale en todas las cajas de cápsulas Ariel vistas y ninguna ficha de cápsulas los lista: lo que se decida
+    vale para todas.
+ no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
 
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)
 - **Cuenta en el portal REACH de AC Marca** (`reach.grupoacmarca.com`), que desbloquearía las
