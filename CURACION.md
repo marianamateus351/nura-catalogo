@@ -7009,6 +7009,7 @@ Facts daba 503; la consulta por código sí funciona, pero no aportó traseras e
     clásico tendría que estar en la ficha).
   - Esa línea CLP sale en todas las cajas de cápsulas Ariel vistas y ninguna ficha de cápsulas los lista: lo que se decida
     vale para todas.
+- **Revisión de Mariana (2026-10-30):** tras importar el bloque 1, "no hubo ni falsos positivos ni falsos negativos".
  no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
 
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)
