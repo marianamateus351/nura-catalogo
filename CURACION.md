@@ -7009,7 +7009,41 @@ Facts daba 503; la consulta por código sí funciona, pero no aportó traseras e
     clásico tendría que estar en la ficha).
   - Esa línea CLP sale en todas las cajas de cápsulas Ariel vistas y ninguna ficha de cápsulas los lista: lo que se decida
     vale para todas.
-- **Revisión de Mariana (2026-10-30):** tras importar el bloque 1, "no hubo ni falsos positivos ni falsos negativos".
+
+**Bloque 1, tercera tanda (versión 2026-10-30-hogar1c) y revisión FP/FN.** Mariana (2026-10-30): "confío en tu criterio
+científico" para H1-H5; Conejo con el código de Consum, sí.
+- **H1, resuelta: sí, pero solo si la ficha tiene "Perfume Remainder".** La etiqueta puede nombrar un aceite esencial de la
+  lista ampliada (2023/1545) que la ficha no desglosa porque va dentro del resto del perfume; si la ficha declara el perfume
+  entero, lo que nombra la etiqueta y la ficha no trae es otra fórmula. Entran Dixan Trio-Caps Universal 24 `8410436452908`
+  (a la entrada del 34, misma ficha y misma lista), Vernel Cielo Azul concentrado `8410436498524` y `8410436498647`, Wipp
+  Express Power Caps Universal `8410436502818` y Power Caps Fragancia Floral `8410436434690`. **Siguen fuera** Vernel Lirio
+  ×2 y Maldivas: sus fichas (485980 V1.12 y 729099 V1.3) declaran el perfume entero y no traen Terpinolene ni Rose Ketones.
+- **H2, resuelta: sí** (criterio de Fairy y Perlan: manda la ficha vigente sobre una etiqueta anterior). Entra Wipp Power
+  Caps Universal 33 `8410436434577`, en la misma entrada que el 18.
+- **H5, resuelta:** entra **Ariel Poderoso Para Colores y Blancos** `8006530453721` (lo que falta en la ficha es la línea
+  CLP de sensibilizantes del perfume, que la ficha engloba en "Parfum", y ninguno es de los 26 clásicos). **Fuera** Ariel
+  Pods Original `8006530134996` (Isoeugenol) y Ambi Pur Baño Aroma a Limpio `8006540946534` (Methyl Octine Carbonate): un
+  alérgeno clásico tendría que estar en la ficha.
+- **Revisión FP/FN de todos los productos del bloque** (lista por lista, contra el detector):
+  - **Falso negativo hallado y corregido — boratos.** "Sodium Metaborate Anhydrous" (Micolor Colores Vivos y Oscuros) no
+    saltaba en "Ácido bórico y boratos" (los alias eran "boric acid, borax, sodium borate, borates"). Tampoco "Productos de
+    reacción de monoetanolamina y ácido bórico" (KH-7 Sin Manchas). Alias nuevos: ácido bórico, boratos, (sodium)
+    metaborate/metaborato, perborate/perborato, tetraborate/tetraborato, disodium tetraborate. **"borate" y "borato" sueltos
+    no**: la tolerancia a erratas del OCR los casaba con "Borago"/"borage" (aceite de borraja) y daba 45 falsos positivos en
+    cosmética (Nuxe, Uriage, Filorga, Dr. Hauschka…). Regresión sobre 18.543 fichas: **3 cambios, los tres buscados**
+    (Micolor ×2 y KH-7 Sin Manchas). Necesita build.
+  - **H3 aplicada (necesita build):** `splitRunOnIngredients` ya no parte tras un paréntesis o corchete pegado a lo anterior
+    ("2-(2-Dodecyloxyethoxy)Ethyl", "Tris(Nonylphenyl)Phosphite"); el que va tras un espacio ("Aqua (Water)Glycerin") sigue
+    partiendo. Regresión: 0 cambios (los casos reales ya se habían arreglado en los datos).
+  - **H4 retirada:** la máscara Rimmel Wonder'Fully Real ya avisa de nonilfenol (la tolerancia a erratas casa
+    "nonylphenyl" con "nonylphenol"); no era un falso negativo.
+  - **Sin falsos positivos** en el bloque. Los avisos de fragancia, BIT, BHT, salicilato de bencilo, propilenglicol y
+    etoxilados corresponden a lo que lleva la lista; la "4-(1-methyl-1-phenylethyl)…aniline" de Ariel sigue excluida del
+    octilfenol y los colorantes azoicos "…naftaleno-2 7-disulfónico" de Bref no saltan como naftaleno.
+  - **No se tocan (criterio, no fallo):** el clorato sódico de las lejías de Henkel (subproducto de todo hipoclorito; el
+    efecto tiroideo del clorato es por ingesta, y solo Henkel lo declara, así que avisaría de unas lejías y no de otras); los
+    perfumes declarados enteros sin ningún alérgeno clásico (Dixan y Wipp en polvo, Estrella Limón) no dan aviso de fragancia,
+    como manda la ficha 193 (decisión W, pendiente desde octubre).
  no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
 
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)

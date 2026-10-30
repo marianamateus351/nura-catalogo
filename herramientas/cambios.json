@@ -1250,7 +1250,14 @@
   "8410436423175": "2026-10-29-hogar1",
   "8410436392693": "2026-10-29-hogar1",
   "8410436392754": "2026-10-29-hogar1",
-  "8006530095969": "2026-10-29-hogar1"
+  "8006530095969": "2026-10-29-hogar1",
+  "8410436434577": "2026-10-30-hogar1c",
+  "8410436502818": "2026-10-30-hogar1c",
+  "8410436434690": "2026-10-30-hogar1c",
+  "8410436452908": "2026-10-30-hogar1c",
+  "8410436498524": "2026-10-30-hogar1c",
+  "8410436498647": "2026-10-30-hogar1c",
+  "8006530453721": "2026-10-30-hogar1c"
  },
  "retirados": {
   "3606000537606": {
@@ -1332,10 +1339,6 @@
   "8004608294603": {
    "v": "2026-09-24d",
    "motivo": "Retirado del catálogo en la versión 2026-09-24d"
-  },
-  "8410436434690": {
-   "v": "2026-10-04c",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04c"
   },
   "8410104914110": {
    "v": "2026-10-04-rb-audit",
@@ -1549,19 +1552,7 @@
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
-  "8410436434577": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8410436502818": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
   "8410436313100": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8410436452908": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
@@ -1574,14 +1565,6 @@
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
   "8410436441384": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8410436498647": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8410436498524": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
@@ -1646,10 +1629,6 @@
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
   "8410436480161": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8006530453721": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
