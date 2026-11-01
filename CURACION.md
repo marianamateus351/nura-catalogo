@@ -5710,6 +5710,18 @@ arbutina 21, PHMB 14, liberadores 5, piritiona 3, dodecil galato 3, Lyral 2). Ni
 **Encargo:** regenerar `alternativas.json` con el detector nuevo de la rama. Salen **15 productos**: 4 por PHMB
 (desmaquillantes y agua micelar de Garnier, L'Oréal Paris, La Roche-Posay y Uriage) y 11 por arbutina (Anua, COSRX,
 SkinCeuticals, Sesderma, Beauty of Joseon, Martiderm…). No va a HASTA_BUILD (se quitan, no se añaden). Anotar la versión.
+**Hecho (alternativas 2026-11-01a, detector de la rama en `dc354672`):** de 2.636 a 2.621, salen exactamente esos 15:
+- PHMB (4): Garnier Desmaquillante de Ojos 2 en 1 `3600541361249`, L'Oréal Paris Agua micelar pieles normales y secas
+  `3600523330133`, La Roche-Posay Desmaquillante de Ojos Waterproof `3433422401907` y Uriage Desmaquillante de ojos
+  bifásico `3661434003691`.
+- Arbutina (11): Anua Rice Enzyme Cleansing Powder `8809640735462`, Niacinamide 10 + TXA 4 `8809640734526`, Rice Ceramide 7
+  `8809640734861` y Rice 70 Glow Milky Toner `8809640735455`; COSRX Azelaic Acid 10 B5 Cream `8800311122239`, 5 PDRN
+  Collagen Serum `8800311121423`, One Step Original Pad `8800311121584`, 5 PDRN B5 Toner `8800311121416` y Alpha-Arbutin
+  Hydrogel Mask `8809598457249`; Beauty of Joseon Glow Deep Serum `8809738312728`; Isntree Hyper Niacinamide 20
+  `8809800940774`. (SkinCeuticals, Sesderma y Martiderm están entre las 21 fichas con arbutina del catálogo, pero no
+  estaban en Alternativas.)
+- No entra nada nuevo; ningún producto restante lleva arbutina, PHMB, IPBC, salicilato de metilo, piritiona, glioxal ni 3-BC.
+  Los boratos del 2026-10-30 tampoco quitan nada (Micolor y KH-7 no estaban).
 **Para el detector de aquí (alias):** un alias con coma ("5-bromo-5-nitro-1,3-dioxane") se parte en dos al cargarse y el
 trozo "3-dioxane" casaba con el "2,2-dimethyl-1,3-dioxane-5-ol" de las cápsulas de Marcel's Green Soap. Escribir esos
 alias sin la coma ("bromo-5-nitro"). Y "pentanedial" (glutaraldehído) casaba por errata con el humectante

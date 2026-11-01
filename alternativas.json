@@ -1,5 +1,5 @@
 {
- "version": "2026-10-30b",
+ "version": "2026-11-01a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -255,16 +255,6 @@
        "barcode": "8809640735813",
        "subtipo": "gel-espuma",
        "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
-       "marca": "Anua",
-       "barcode": "8809640735462",
-       "imagen": "https://images.openbeautyfacts.org/images/products/880/964/073/6148/front_nl.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "gel-espuma",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D59WLP96"
       },
       {
        "nombre": "Aceite limpiador relipidizante",
@@ -555,16 +545,6 @@
        "amazon": "https://www.amazon.es/dp/B00X9U0N5K"
       },
       {
-       "nombre": "Desmaquillante de Ojos 2 en 1",
-       "marca": "Garnier",
-       "barcode": "3600541361249",
-       "imagen": "https://images.openbeautyfacts.org/images/products/360/054/136/1249/front_es.8.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "desmaquillante-ojos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B00X9U0WME"
-      },
-      {
        "nombre": "Aceite limpiador Black Rice Moisture Cleansing Oil sin perfume",
        "marca": "Haruharu Wonder",
        "barcode": "8809532221349",
@@ -662,30 +642,12 @@
        "fechaLista": "16-10-2026"
       },
       {
-       "nombre": "Agua micelar pieles normales y secas",
-       "marca": "L'Oréal Paris",
-       "barcode": "3600523330133",
-       "subtipo": "agua-micelar",
-       "fechaLista": "10-09-2026",
-       "amazon": "https://www.amazon.es/dp/B06W5D44MP"
-      },
-      {
        "nombre": "Agua Micelar Oil Infused",
        "marca": "La Roche-Posay",
        "barcode": "3337875725897",
        "subtipo": "agua-micelar",
        "fechaLista": "09-09-2026",
        "amazon": "https://www.amazon.es/dp/B08HMVTHYN"
-      },
-      {
-       "nombre": "Desmaquillante de Maquillaje de Ojos Waterproof",
-       "marca": "La Roche-Posay",
-       "barcode": "3433422401907",
-       "imagen": "https://images.openbeautyfacts.org/images/products/343/342/240/1907/front_en.16.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "desmaquillante-ojos",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B000V3MGFS"
       },
       {
        "nombre": "Toleriane Dermolimpiador",
@@ -985,15 +947,6 @@
        "amazon": "https://www.amazon.es/dp/B0B5GN1K8D"
       },
       {
-       "nombre": "Desmaquillante de ojos bifásico",
-       "marca": "Uriage",
-       "barcode": "3661434003691",
-       "imagen": "https://images.openbeautyfacts.org/images/products/366/143/400/3691/front_fr.10.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "desmaquillante-ojos",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Toléderm Gel-leche desmaquillante",
        "marca": "Uriage",
        "barcode": "3661434009440",
@@ -1214,13 +1167,6 @@
        "marca": "Charlotte Tilbury",
        "barcode": "5056446624008",
        "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Crema Azelaic Acid 10 B5 Redness Soothing Cream",
-       "marca": "COSRX",
-       "barcode": "8800311122239",
-       "subtipo": "sensible",
-       "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Crema Full Fit Propolis Light Cream",
@@ -1901,16 +1847,6 @@
        "amazon": "https://www.amazon.es/dp/B08CMVXQ9W"
       },
       {
-       "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
-       "marca": "Anua",
-       "barcode": "8809640734526",
-       "imagen": "https://images.openproductsfacts.org/images/products/880/964/073/4526/front_en.16.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "niacinamida",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DL92QM79"
-      },
-      {
        "nombre": "Sérum PDRN Hyaluronic Acid Capsule 100 Serum",
        "marca": "Anua",
        "barcode": "8809640736667",
@@ -1919,14 +1855,6 @@
        "subtipo": "hidratante",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DSVF8HGZ"
-      },
-      {
-       "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
-       "marca": "Anua",
-       "barcode": "8809640734861",
-       "subtipo": "hidratante",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DKRY4HLQ"
       },
       {
        "nombre": "Cleanance Comedomed Concentrado Anti-imperfecciones",
@@ -1983,16 +1911,6 @@
        "fechaLista": "09-09-2026"
       },
       {
-       "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
-       "marca": "Beauty of Joseon",
-       "barcode": "8809738312728",
-       "imagen": "https://images.openbeautyfacts.org/images/products/880/973/831/2728/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "niacinamida",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B09DLFCB69"
-      },
-      {
        "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
        "marca": "Beauty of Joseon",
        "barcode": "8809657114960",
@@ -2027,14 +1945,6 @@
        "subtipo": "acidos",
        "fechaLista": "23-09-2026",
        "amazon": "https://www.amazon.es/dp/B0DB65HX5H"
-      },
-      {
-       "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
-       "marca": "COSRX",
-       "barcode": "8800311121423",
-       "subtipo": "retinol-antiedad",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0FT7YLV43"
       },
       {
        "nombre": "Sérum Advanced The Vitamin C 23 Serum",
@@ -2236,14 +2146,6 @@
        "marca": "Isntree",
        "barcode": "8809738322154",
        "fechaLista": "12-10-2026"
-      },
-      {
-       "nombre": "Sérum Hyper Niacinamide 20 Serum",
-       "marca": "Isntree",
-       "barcode": "8809800940774",
-       "subtipo": "niacinamida",
-       "fechaLista": "12-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0C3QNCWQK"
       },
       {
        "nombre": "Sérum Hyper Vitamin C 23 Serum",
@@ -9183,13 +9085,6 @@
        "amazon": "https://www.amazon.es/dp/B0FK9ZDKCK"
       },
       {
-       "nombre": "Tónico Rice 70 Glow Milky Toner",
-       "marca": "Anua",
-       "barcode": "8809640735455",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D54F8XYK"
-      },
-      {
        "nombre": "Agua termal de Avène Spray",
        "marca": "Avène",
        "barcode": "3282779003131",
@@ -9247,12 +9142,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Discos One Step Original Tone Clarifying Moisture Pad",
-       "marca": "COSRX",
-       "barcode": "8800311121584",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Esencia Advanced Snail Radiance Dual Essence",
        "marca": "COSRX",
        "barcode": "8809598452053",
@@ -9262,12 +9151,6 @@
        "nombre": "Esencia Galactomyces 95 Tone Balancing Essence",
        "marca": "COSRX",
        "barcode": "8809416471310",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Tónico 5 PDRN B5 Vital Soothing Toner",
-       "marca": "COSRX",
-       "barcode": "8800311121416",
        "fechaLista": "03-10-2026"
       },
       {
@@ -9714,12 +9597,6 @@
        "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
        "marca": "COSRX",
        "barcode": "8809598457058",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Mascarilla de hidrogel The Alpha-Arbutin Discoloration Care Hydrogel Mask",
-       "marca": "COSRX",
-       "barcode": "8809598457249",
        "fechaLista": "03-10-2026"
       },
       {

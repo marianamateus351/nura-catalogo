@@ -44,15 +44,6 @@
   {
    "marcaKey": "larocheposay",
    "marca": "La Roche-Posay",
-   "nombre": "Desmaquillante de Maquillaje de Ojos Waterproof",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3433422401907"
-   ]
-  },
-  {
-   "marcaKey": "larocheposay",
-   "marca": "La Roche-Posay",
    "nombre": "Effaclar Duo+M Parches Anti-granos",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -1304,15 +1295,6 @@
   {
    "marcaKey": "garnier",
    "marca": "Garnier",
-   "nombre": "Desmaquillante de Ojos 2 en 1",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3600541361249"
-   ]
-  },
-  {
-   "marcaKey": "garnier",
-   "marca": "Garnier",
    "nombre": "SkinActive Pimple Patch Invisible 8h Parche para Granitos",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -1717,15 +1699,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3600524055097"
-   ]
-  },
-  {
-   "marcaKey": "lorealparis",
-   "marca": "L'Oréal Paris",
-   "nombre": "Agua micelar pieles normales y secas",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3600523330133"
    ]
   },
   {
@@ -11928,15 +11901,6 @@
   {
    "marcaKey": "boj",
    "marca": "Beauty of Joseon",
-   "nombre": "Sérum Glow Deep Serum: Rice + Alpha-Arbutin",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809738312728"
-   ]
-  },
-  {
-   "marcaKey": "boj",
-   "marca": "Beauty of Joseon",
    "nombre": "Sérum Glow Serum: Propolis + Niacinamide",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12015,16 +11979,6 @@
    "barcodes": [
     "8809598457058",
     "8809598457065"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Mascarilla de hidrogel The Alpha-Arbutin Discoloration Care Hydrogel Mask",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809598457249",
-    "8809598457256"
    ]
   },
   {
@@ -12136,35 +12090,6 @@
    "barcodes": [
     "8809416471396",
     "8809598455733"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Tónico 5 PDRN B5 Vital Soothing Toner",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8800311121416",
-    "8800311121683"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Sérum 5 PDRN Collagen Intense Vitalizing Serum",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8800311121423",
-    "8800311121676"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Crema Azelaic Acid 10 B5 Redness Soothing Cream",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8800311122239"
    ]
   },
   {
@@ -12312,15 +12237,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8800311121560"
-   ]
-  },
-  {
-   "marcaKey": "cosrx",
-   "marca": "COSRX",
-   "nombre": "Discos One Step Original Tone Clarifying Moisture Pad",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8800311121584"
    ]
   },
   {
@@ -12536,16 +12452,6 @@
   {
    "marcaKey": "anua",
    "marca": "Anua",
-   "nombre": "Sérum Niacinamide 10 + TXA 4 Serum",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809640734526",
-    "8809640735820"
-   ]
-  },
-  {
-   "marcaKey": "anua",
-   "marca": "Anua",
    "nombre": "Discos Niacinamide 5 TXA Brightening Pad",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -12619,36 +12525,6 @@
    "barcodes": [
     "8809640737220",
     "8809640739026"
-   ]
-  },
-  {
-   "marcaKey": "anua",
-   "marca": "Anua",
-   "nombre": "Tónico Rice 70 Glow Milky Toner",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809640735455",
-    "8809640738999"
-   ]
-  },
-  {
-   "marcaKey": "anua",
-   "marca": "Anua",
-   "nombre": "Sérum Rice Ceramide 7 Hydrating Barrier Serum",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809640734861",
-    "8809640736131"
-   ]
-  },
-  {
-   "marcaKey": "anua",
-   "marca": "Anua",
-   "nombre": "Polvo limpiador Rice Enzyme Brightening Cleansing Powder",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809640735462",
-    "8809640736148"
    ]
   },
   {
@@ -12842,15 +12718,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3661434009754"
-   ]
-  },
-  {
-   "marcaKey": "uriage",
-   "marca": "Uriage",
-   "nombre": "Desmaquillante de ojos bifásico",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3661434003691"
    ]
   },
   {
@@ -14507,15 +14374,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8809800940781"
-   ]
-  },
-  {
-   "marcaKey": "isntree",
-   "marca": "Isntree",
-   "nombre": "Sérum Hyper Niacinamide 20 Serum",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "8809800940774"
    ]
   },
   {
