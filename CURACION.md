@@ -5696,6 +5696,28 @@ Garnier Delial Kids Sensitive Advanced Roll-On y Kyrey Gel Refrescante Pies y Pi
 **Ojo:** el encargo nombraba "Haruharu Wonder PHA", pero el Sérum exfoliante Centella 3 % PHA (8809532221646) no lleva
 trietanolamina y sigue en Alternativas; ningún producto de Haruharu sale.
 
+### 2026-11-01 · Huecos del detector cubiertos antes del build 113 (encargo: regenerar Alternativas)
+Revisión pedida por Mariana. La app (rama de rediseño, `src/data/ingredients.js`) añade:
+- **Disruptores:** 3-bencilidenalcanfor (3-BC, prohibido UE 2015) y "otros liberadores de formaldehído" (glioxal,
+  bencilhemiformal, Bronidox, polioximetileno urea, dimetil oxazolidina).
+- **Otros riesgos (no hormonales):** piritiona de zinc (prohibida 2022, Repr. 1B), PHMB / poliaminopropil biguanida
+  (Carc. 2), salicilato de metilo (Repr. 2, restringido 2023); en Alimentación, aromas de humo (EFSA 2023) y grasas
+  parcialmente hidrogenadas (trans).
+- **Otros a tener en cuenta:** arbutina / alfa-arbutina / desoxiarbutina (libera hidroquinona), IPBC y Lyral/HICC.
+- Galato de propilo acepta también E311/E312 (octil y dodecil galato).
+Regresión sobre las 18.543 fichas: 147 cambios, todos añadidos de estas fichas (IPBC 56, salicilato de metilo 43,
+arbutina 21, PHMB 14, liberadores 5, piritiona 3, dodecil galato 3, Lyral 2). Ninguna detección perdida.
+**Encargo:** regenerar `alternativas.json` con el detector nuevo de la rama. Salen **15 productos**: 4 por PHMB
+(desmaquillantes y agua micelar de Garnier, L'Oréal Paris, La Roche-Posay y Uriage) y 11 por arbutina (Anua, COSRX,
+SkinCeuticals, Sesderma, Beauty of Joseon, Martiderm…). No va a HASTA_BUILD (se quitan, no se añaden). Anotar la versión.
+**Para el detector de aquí (alias):** un alias con coma ("5-bromo-5-nitro-1,3-dioxane") se parte en dos al cargarse y el
+trozo "3-dioxane" casaba con el "2,2-dimethyl-1,3-dioxane-5-ol" de las cápsulas de Marcel's Green Soap. Escribir esos
+alias sin la coma ("bromo-5-nitro"). Y "pentanedial" (glutaraldehído) casaba por errata con el humectante
+"1,5-pentanediol": añadido `excluyeSi`.
+**Decisiones que quedan para Mariana** (no añadidas): aceite mineral en labiales (171 productos de Alternativas),
+dióxido de titanio en polvos sueltos y sprays (3), abrillantadores ópticos de Hogar, emulsionantes alimentarios
+(E433, E466), aceite de palma refinado (3-MCPD / glicidil ésteres) y cocamidopropil betaína (alérgeno, 32).
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
