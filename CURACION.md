@@ -5730,6 +5730,26 @@ alias sin la coma ("bromo-5-nitro"). Y "pentanedial" (glutaraldehído) casaba po
 dióxido de titanio en polvos sueltos y sprays (3), abrillantadores ópticos de Hogar, emulsionantes alimentarios
 (E433, E466), aceite de palma refinado (3-MCPD / glicidil ésteres) y cocamidopropil betaína (alérgeno, 32).
 
+### 2026-11-01 (tarde) · Cinco fichas más por decisión de Mariana ("los cinco") — encargo: regenerar Alternativas
+Tras la revisión de huecos, Mariana decide añadir también lo que tiene estudios aunque no sea hormonal ni esté
+clasificado por ley. Van en la app (rama de rediseño, `src/data/ingredients.js`), **sin tocar el índice**:
+- **Otros a tener en cuenta (Cuidado personal):** aceite mineral y ceras de petróleo **solo en labiales** (MOAH;
+  EFSA, BfR) y cocamidopropil betaína (alérgeno de contacto, como los sulfitos o los acrilatos).
+- **Otros riesgos (Cuidado personal):** dióxido de titanio **solo en polvos sueltos y sprays** (inhalación; IARC 2B).
+- **Otros a tener en cuenta (Alimentación):** emulsionantes (polisorbatos E432-E436 y carboximetilcelulosa E466) y
+  aceite de palma refinado (3-MCPD y glicidil ésteres; el virgen o rojo queda excluido con `excluyeSi`).
+**Novedad en el detector:** campo `soloSiNombre` (expresión regular sobre el NOMBRE del producto) en fichas de
+"otros" y "otros riesgos", y **`matchOtrosRiesgos(texto, categoria, nombre)` acepta ahora el nombre como tercer
+argumento**: `limpios.mjs` y `verifica.mjs` de aquí tienen que pasarle `p.nombre` (como ya hacen con `matchOtros`),
+si no, el dióxido de titanio de polvos y sprays no se detecta en la regresión del catálogo y Alternativas quedaría
+desalineada con la app.
+Regresión sobre las 18.547 fichas: cocamidopropil betaína 2.066, aceite mineral en labiales 718, dióxido de titanio
+en polvo/spray 32 (tras excluir esmaltes "Mist Grey", prebases "Optimist" y lacas de uñas con límites de palabra).
+**Encargo:** regenerar `alternativas.json` con el detector de la rama. Salen **218 productos** (8 %): 180 labiales por
+aceite mineral/ceras (Avène, Catrice, MAC, Kiko…), 19 limpiadores por cocamidopropil betaína (Cocunat, Mustela,
+Sanex, Neutrogena…), 11 por arbutina, 4 por PHMB y 4 por dióxido de titanio (brumas fijadoras de e.l.f., polvos
+sueltos de Too Faced y Kiko). Anotar la versión. No va a HASTA_BUILD (se quitan, no se añaden).
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
