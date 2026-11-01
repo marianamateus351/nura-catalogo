@@ -5758,6 +5758,19 @@ sueltos de Too Faced y Kiko). Anotar la versión. No va a HASTA_BUILD (se quitan
   Setting Powder y Kiko Magnetic Nights Lights On, sombra en polvo suelto).
 - No entra nada. `verifica.mjs`: 0 en los tres grupos.
 
+
+### 2026-11-01 (noche) · Regla "capilar": protectores térmicos y peinado — encargo: ampliar la regla fina y regenerar TIPOS
+Mariana escaneó el **Kérastase Nutritive Lotion Thermique Sublimatrice** (protector térmico) y la ficha le ofrecía
+"Cremas y aceites corporales sin ingredientes señalados": la regla fina `capilar` no reconoce "thermique" ni
+"protector térmico", y el respaldo de la app caía en "lotion" → corporal. En la app (rama de rediseño) se ha puesto
+un respaldo de pelo ANTES que el corporal (`TIPOS_AMPLIOS`, solo app), con:
+`thermique|termic|termoprotect|heat protect|brushing|blow ?dry|peinad|styling|cheveux|\bhair\b|capillaire|anticaspa|antifrizz|anti-frizz|encrespamiento`.
+**Encargo:** añadir esos términos a la regla fina `capilar` de `herramientas/alternativas` (manteniendo su exclusión
+`champ|acondicionador`), regenerar el bloque TIPOS con `exporta_js.py` y pegarlo en la app, y regenerar
+`alternativas.json`. Comprobado aquí con `verifica_alt.mjs`: con el respaldo nuevo, 0 de 2.418 productos de
+2026-11-01b cambian de tipo; los Kérastase/L'Oréal/Pantene/Aussie térmicos del catálogo llevan parfum y no están en
+Alternativas, así que el cambio no mueve la lista hoy, pero deja bien clasificado lo que entre limpio.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
