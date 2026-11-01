@@ -1,5 +1,5 @@
 {
- "version": "2026-11-01a",
+ "version": "2026-11-01b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -376,15 +376,6 @@
        "amazon": "https://www.amazon.es/dp/B0068G8EZ8"
       },
       {
-       "nombre": "Solución Micelar Desmaquillante Carbón Activo (500 ml, 100 ml)",
-       "marca": "Byphasse",
-       "barcode": "8436097094424",
-       "imagen": "https://images.openbeautyfacts.org/images/products/843/609/709/4424/front_ka.4.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "agua-micelar",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "Agua Micelar Hidratante",
        "marca": "CeraVe",
        "barcode": "3337875597203",
@@ -418,14 +409,6 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "desmaquillante-ojos",
        "fechaLista": "12-09-2026"
-      },
-      {
-       "nombre": "Detox Cleansing Foam",
-       "marca": "Cocunat",
-       "barcode": "8436570022326",
-       "subtipo": "gel-espuma",
-       "fechaLista": "23-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BYNS357F"
       },
       {
        "nombre": "Total Cleansing Milk",
@@ -746,14 +729,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Ultra Gentle Gel Limpiador de Uso Diario",
-       "marca": "Neutrogena",
-       "barcode": "3574661870397",
-       "subtipo": "gel-espuma",
-       "fechaLista": "10-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0FX39SMK5"
-      },
-      {
        "nombre": "Crema lavante antisequedad Xerodiane Cera+",
        "marca": "Noreva",
        "barcode": "3571940005600",
@@ -864,14 +839,6 @@
        "subtipo": "gel-espuma",
        "fechaLista": "12-10-2026",
        "amazon": "https://www.amazon.es/dp/B09JBJDFHH"
-      },
-      {
-       "nombre": "Espuma limpiadora Poremizing Deep Cleansing Foam",
-       "marca": "SKIN1004",
-       "barcode": "8809576261653",
-       "subtipo": "gel-espuma",
-       "fechaLista": "12-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0B884JBNQ"
       },
       {
        "nombre": "Espuma limpiadora Tone Brightening Cleansing Gel Foam",
@@ -3223,20 +3190,6 @@
        "fechaLista": "15-10-2026"
       },
       {
-       "nombre": "Pure shampoo",
-       "marca": "Cocunat",
-       "barcode": "8436570021077",
-       "fechaLista": "23-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BZS1G4J4"
-      },
-      {
-       "nombre": "Rich Shampoo",
-       "marca": "Cocunat",
-       "barcode": "8436570020872",
-       "fechaLista": "23-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0BXBDZLDK"
-      },
-      {
        "nombre": "Champú",
        "marca": "Dr. Hauschka",
        "barcode": "4020829077454",
@@ -3283,24 +3236,6 @@
        "amazon": "https://www.amazon.es/dp/B075TWS319"
       },
       {
-       "nombre": "Gel-Champú cuerpo y cabello - Certificado BIO 400ml",
-       "marca": "Mustela",
-       "barcode": "3504105037956",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Refill Gel-champú certificado BIO 400ml",
-       "marca": "Mustela",
-       "barcode": "3504105038724",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Champú dermocalmante Soluciones Cuero Cabelludo",
-       "marca": "Phyto",
-       "barcode": "3701436923624",
-       "fechaLista": "21-10-2026"
-      },
-      {
        "nombre": "Champú sólido romero",
        "marca": "Sodasan",
        "barcode": "4019886190190",
@@ -3326,25 +3261,10 @@
        "fechaLista": "20-10-2026"
       },
       {
-       "nombre": "Concentrado de baño y ducha Tonic",
-       "marca": "Clarins",
-       "barcode": "3666057031236",
-       "fechaLista": "20-10-2026"
-      },
-      {
        "nombre": "Crema de ducha",
        "marca": "Dr. Hauschka",
        "barcode": "4020829068513",
        "fechaLista": "20-10-2026"
-      },
-      {
-       "nombre": "UreaRepair 5 % Urea Gel de Baño Suave para piel seca",
-       "marca": "Eucerin",
-       "barcode": "4005800346057",
-       "imagen": "https://images.openbeautyfacts.org/images/products/400/580/034/6057/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0DVZ8STKK"
       },
       {
        "nombre": "Aceite de baño Refreshing",
@@ -3396,12 +3316,6 @@
        "fechaLista": "21-10-2026"
       },
       {
-       "nombre": "Gel de ducha relajante flor de azahar, ecológico",
-       "marca": "Marius Fabre",
-       "barcode": "3298659747040",
-       "fechaLista": "14-10-2026"
-      },
-      {
        "nombre": "Aceite de baño y ducha Stelatopia con Girasol BIO 500ml",
        "marca": "Mustela",
        "barcode": "3504105034306",
@@ -3428,21 +3342,6 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/843/661/775/3015/front_es.3.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "07-10-2026"
-      },
-      {
-       "nombre": "Gel de baño de bebé Little Siberica",
-       "marca": "Natura Siberica",
-       "barcode": "4743318103341",
-       "fechaLista": "25-10-2026",
-       "amazon": "https://www.amazon.es/dp/B08GLNMWPM"
-      },
-      {
-       "nombre": "Gel de ducha piel sensible Cuidado Experto Atopiderm Nutri Repair",
-       "marca": "Sanex",
-       "barcode": "8718951594548",
-       "imagen": "https://images.openbeautyfacts.org/images/products/871/895/159/4548/front_en.5.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "10-09-2026"
       },
       {
        "nombre": "Gel de ducha cremoso Citrus",
@@ -3533,13 +3432,6 @@
        "barcode": "8431166150049",
        "fechaLista": "21-10-2026",
        "amazon": "https://www.amazon.es/dp/B00588VVKM"
-      },
-      {
-       "nombre": "Gel íntimo suave para bebés Little Siberica",
-       "marca": "Natura Siberica",
-       "barcode": "4743318103389",
-       "fechaLista": "25-10-2026",
-       "amazon": "https://www.amazon.es/dp/B08GLN5W7J"
       },
       {
        "nombre": "Gel íntimo Manzanilla",
@@ -4240,18 +4132,6 @@
        "fechaLista": "21-10-2026"
       },
       {
-       "nombre": "Bruma fijadora de maquillaje Power Grip Gold Drip Setting Spray",
-       "marca": "e.l.f.",
-       "barcode": "0609332854970",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Bruma fijadora de maquillaje Power Grip Rosé Setting Spray",
-       "marca": "e.l.f.",
-       "barcode": "0609332811799",
-       "fechaLista": "21-10-2026"
-      },
-      {
        "nombre": "Polvos Halo Glow Setting Powder (tono Deep/Rich)",
        "marca": "e.l.f.",
        "barcode": "0609332819269",
@@ -4862,12 +4742,6 @@
        "fechaLista": "21-10-2026"
       },
       {
-       "nombre": "Polvos fijadores Born This Way Soft Blur Flexible Finish Setting Powder",
-       "marca": "Too Faced",
-       "barcode": "0651986021505",
-       "fechaLista": "21-10-2026"
-      },
-      {
        "nombre": "Dermablend Fondo de Maquillaje Fluido Corrector 16h",
        "marca": "Vichy",
        "barcode": "3337871316624",
@@ -4898,27 +4772,6 @@
        "barcode": "8436568713656",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DGLVWYBZ"
-      },
-      {
-       "nombre": "Bálsamo embellecedor de labios Nude",
-       "marca": "Avène",
-       "barcode": "3282770209037",
-       "subtipo": "balsamo",
-       "fechaLista": "09-09-2026"
-      },
-      {
-       "nombre": "Bálsamo embellecedor de labios Rojo",
-       "marca": "Avène",
-       "barcode": "3282770209068",
-       "subtipo": "balsamo",
-       "fechaLista": "09-09-2026"
-      },
-      {
-       "nombre": "Bálsamo embellecedor de labios Rosa",
-       "marca": "Avène",
-       "barcode": "3282770209099",
-       "subtipo": "balsamo",
-       "fechaLista": "09-09-2026"
       },
       {
        "nombre": "Cicalfate+ Bálsamo labial reparador",
@@ -5004,33 +4857,6 @@
        "marca": "Bulldog",
        "barcode": "5060144647467",
        "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Blur-Real Barra de labios (tono 050 Airy Crush)",
-       "marca": "Catrice",
-       "barcode": "4059729588975",
-       "linea": "Blur-Real Barra de labios",
-       "subtipo": "barra",
-       "tono": "050 Airy Crush",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Blur-Real Barra de labios (tono 060 Blurred Icon)",
-       "marca": "Catrice",
-       "barcode": "4059729594624",
-       "linea": "Blur-Real Barra de labios",
-       "subtipo": "barra",
-       "tono": "060 Blurred Icon",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Blur-Real Barra de labios (tonos 020 Taupe Tension, 030 Whisper Nude, 040 Muted Romance)",
-       "marca": "Catrice",
-       "barcode": "4059729588487",
-       "linea": "Blur-Real Barra de labios",
-       "subtipo": "barra",
-       "tono": "020 Taupe Tension, 030 Whisper Nude, 040 Muted Romance",
-       "fechaLista": "25-09-2026"
       },
       {
        "nombre": "Brillo de labios Gloss Obsessed Lip Glaze (tono 010 Gloss Therapy)",
@@ -5174,78 +5000,6 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 020 Drip The Drama)",
-       "marca": "Catrice",
-       "barcode": "4059729588876",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "020 Drip The Drama",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 030 Left On Red)",
-       "marca": "Catrice",
-       "barcode": "4059729588883",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "030 Left On Red",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 040 Latte Lines)",
-       "marca": "Catrice",
-       "barcode": "4059729588890",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "040 Latte Lines",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 050 Sip \\u0026 Slay)",
-       "marca": "Catrice",
-       "barcode": "4059729588906",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "050 Sip \\u0026 Slay",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 060 Deep Talk)",
-       "marca": "Catrice",
-       "barcode": "4059729588913",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "060 Deep Talk",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 070 Line Me Softly)",
-       "marca": "Catrice",
-       "barcode": "4059729588920",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "070 Line Me Softly",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 080 Sass \\u0026 Flirty)",
-       "marca": "Catrice",
-       "barcode": "4059729588937",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "080 Sass \\u0026 Flirty",
-       "fechaLista": "25-09-2026"
-      },
-      {
-       "nombre": "Perfilador de labios de larga duración Gel Glide (tono 090 Toffee Talk)",
-       "marca": "Catrice",
-       "barcode": "4059729588944",
-       "linea": "Perfilador de labios de larga duración Gel Glide",
-       "subtipo": "perfilador",
-       "tono": "090 Toffee Talk",
-       "fechaLista": "25-09-2026"
-      },
-      {
        "nombre": "Plumping perfilador de labios voluminizador (tono 010 Understated Chic)",
        "marca": "Catrice",
        "barcode": "4059729276667",
@@ -5383,93 +5137,9 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Barra de labios Hot Lips 2 Dancefloor Princess",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446642774",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Hot Lips 2 Glowing Jen",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446642767",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G 90s Pink y Icon Baby",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446628877",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Candy Chic",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446628891",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Coral Kiss y Night Crimson",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446642996",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Nude Kate y Stoned Rose",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446643078",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Pillow Talk Fair",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446634243",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Red Carpet Pink",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446628907",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G Rose to Fame",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446628914",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios K.I.S.S.I.N.G So Red",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446643061",
-       "fechaLista": "21-10-2026"
-      },
-      {
        "nombre": "Mascarilla de labios Life Changing Lip Mask Magic Sheer Glow",
        "marca": "Charlotte Tilbury",
        "barcode": "5056446655521",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Deep",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446651950",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Fair",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446651929",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Medium",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446651936",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios doble Lip Cheat Contour Duo Tan",
-       "marca": "Charlotte Tilbury",
-       "barcode": "5056446651943",
        "fechaLista": "21-10-2026"
       },
       {
@@ -5801,38 +5471,9 @@
        "fechaLista": "25-09-2026"
       },
       {
-       "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Petal Pink",
-       "marca": "Haruharu Wonder",
-       "barcode": "8809532223183",
-       "subtipo": "balsamo",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Rose PDRN Peptide Glowy Balm Ruby Red",
-       "marca": "Haruharu Wonder",
-       "barcode": "8809532223190",
-       "subtipo": "balsamo",
-       "fechaLista": "24-09-2026"
-      },
-      {
-       "nombre": "Bálsamo labial Rose PDRN Peptide Glowy Balm Glossy Clear",
-       "marca": "Haruharu Wonder",
-       "barcode": "8809532222513",
-       "subtipo": "balsamo",
-       "fechaLista": "24-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0GKNKLZ7K"
-      },
-      {
        "nombre": "Perfilador de labios automático Lip Contour 2.0 · Deep Rose, Honey Beige, Muted Pink, Pinky Brown, Rusty Pink y 5 tonos más",
        "marca": "Huda Beauty",
        "barcode": "6291106035131",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B09616VCZM"
-      },
-      {
-       "nombre": "Perfilador de labios automático Lip Contour 2.0 · Universal Red",
-       "marca": "Huda Beauty",
-       "barcode": "6291106035155",
        "fechaLista": "21-10-2026",
        "amazon": "https://www.amazon.es/dp/B09616VCZM"
       },
@@ -5863,13 +5504,6 @@
        "amazon": "https://www.amazon.es/dp/B0DM23N1FQ"
       },
       {
-       "nombre": "Barra de labios líquida Matte Diaries Unlimited Double Touch Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385059556",
-       "subtipo": "gloss",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Barra de labios líquida Metal Liquid Lip Colour",
        "marca": "Kiko Milano",
        "barcode": "8025272639873",
@@ -5877,125 +5511,10 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 101",
-       "marca": "Kiko Milano",
-       "barcode": "8059385019420",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "101",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B077P2HXZ4"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 104",
-       "marca": "Kiko Milano",
-       "barcode": "8059385019451",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "104",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 108, 110, 113, 118",
-       "marca": "Kiko Milano",
-       "barcode": "8059385019703",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "108, 110, 113, 118",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 111",
-       "marca": "Kiko Milano",
-       "barcode": "8059385019482",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "111",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B077D8KTJ8"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 129",
-       "marca": "Kiko Milano",
-       "barcode": "8059385019734",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "129",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B08YV9T3LS"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 154 - Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385021232",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "154 - Limited Edition",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4QLY982"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 156 - Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385021256",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "156 - Limited Edition",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4QN28K9"
-      },
-      {
-       "nombre": "Barra de labios líquida Unlimited Double Touch · 157 - Limited Edition",
-       "marca": "Kiko Milano",
-       "barcode": "8059385021263",
-       "linea": "Barra de labios líquida Unlimited Double Touch",
-       "subtipo": "gloss",
-       "tono": "157 - Limited Edition",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4QMPRGS"
-      },
-      {
        "nombre": "Barra de labios líquida Vinyl Lock Lip Lacquer",
        "marca": "Kiko Milano",
        "barcode": "8059385045016",
        "subtipo": "gloss",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Unlimited Double Touch · 102, 105, 106",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039770",
-       "linea": "Barra de labios Unlimited Double Touch",
-       "subtipo": "barra",
-       "tono": "102, 105, 106",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Unlimited Double Touch · 112",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039848",
-       "linea": "Barra de labios Unlimited Double Touch",
-       "subtipo": "barra",
-       "tono": "112",
-       "fechaLista": "03-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D35ZV5W3"
-      },
-      {
-       "nombre": "Barra de labios Unlimited Double Touch · 120, 121",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039879",
-       "linea": "Barra de labios Unlimited Double Touch",
-       "subtipo": "barra",
-       "tono": "120, 121",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Unlimited Double Touch · 122, 123, 131",
-       "marca": "Kiko Milano",
-       "barcode": "8059385039886",
-       "linea": "Barra de labios Unlimited Double Touch",
-       "subtipo": "barra",
-       "tono": "122, 123, 131",
        "fechaLista": "03-10-2026"
       },
       {
@@ -6228,31 +5747,6 @@
        "fechaLista": "03-10-2026"
       },
       {
-       "nombre": "Brillo de labios en lápiz Smart Fusion Creamy Lip Crayon",
-       "marca": "Kiko Milano",
-       "barcode": "8025272926256",
-       "subtipo": "gloss",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 04",
-       "marca": "Kiko Milano",
-       "barcode": "8059385009599",
-       "linea": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon",
-       "subtipo": "gloss",
-       "tono": "04",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon · 06",
-       "marca": "Kiko Milano",
-       "barcode": "8059385009612",
-       "linea": "Brillo de labios en lápiz Smart Fusion Matte Lip Crayon",
-       "subtipo": "gloss",
-       "tono": "06",
-       "fechaLista": "03-10-2026"
-      },
-      {
        "nombre": "Brillo de labios Golden Oasis Lips & Cheeks Tint",
        "marca": "Kiko Milano",
        "barcode": "8059385030630",
@@ -6271,13 +5765,6 @@
        "marca": "Kiko Milano",
        "barcode": "8059385023120",
        "subtipo": "balsamo",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios automático Dreamphoria Edge Of Reason Lip Definer",
-       "marca": "Kiko Milano",
-       "barcode": "8059385031286",
-       "subtipo": "perfilador",
        "fechaLista": "03-10-2026"
       },
       {
@@ -6368,13 +5855,6 @@
        "linea": "Perfilador de labios automático Flirt Alert Micro Sculpting Lip Liner",
        "subtipo": "perfilador",
        "tono": "06",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios automático Hug Couture Over The Line Blurring Lip Liner",
-       "marca": "Kiko Milano",
-       "barcode": "8059385047676",
-       "subtipo": "perfilador",
        "fechaLista": "03-10-2026"
       },
       {
@@ -6747,76 +6227,6 @@
        "fechaLista": "20-10-2026"
       },
       {
-       "nombre": "Barra de labios Frost Lipstick",
-       "marca": "MAC",
-       "barcode": "0773602577064",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Angel",
-       "marca": "MAC",
-       "barcode": "0773602577057",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Bombshell",
-       "marca": "MAC",
-       "barcode": "0773602577071",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Bronze Shimmer",
-       "marca": "MAC",
-       "barcode": "0773602577088",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · CB 96",
-       "marca": "MAC",
-       "barcode": "0773602577095",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Fabby",
-       "marca": "MAC",
-       "barcode": "0773602577125",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Fresh Moroccan",
-       "marca": "MAC",
-       "barcode": "0773602577132",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Gel",
-       "marca": "MAC",
-       "barcode": "0773602577149",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · New York Apple",
-       "marca": "MAC",
-       "barcode": "0773602577170",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
-       "nombre": "Barra de labios Frost Lipstick · Plum Dandy",
-       "marca": "MAC",
-       "barcode": "0773602577200",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B004S1E9P4"
-      },
-      {
        "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · $ellout",
        "marca": "MAC",
        "barcode": "0773602790340",
@@ -7024,720 +6434,6 @@
        "nombre": "Barra de labios Lustreglass Sheer-Shine Lipstick · Work Crush",
        "marca": "MAC",
        "barcode": "0773602790449",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Antique Velvet",
-       "marca": "MAC",
-       "barcode": "0773602685578",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Avant Garnet",
-       "marca": "MAC",
-       "barcode": "0773602685196",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Bare M·A·Cximal",
-       "marca": "MAC",
-       "barcode": "0773602741052",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Candy Yum Yum",
-       "marca": "MAC",
-       "barcode": "0773602685462",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Captive Audience",
-       "marca": "MAC",
-       "barcode": "0773602685073",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Caviar",
-       "marca": "MAC",
-       "barcode": "0773602684977",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Chili",
-       "marca": "MAC",
-       "barcode": "0773602697014",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Cool Teddy",
-       "marca": "MAC",
-       "barcode": "0773602741038",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · D For Danger",
-       "marca": "MAC",
-       "barcode": "0773602685585",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Dare Me",
-       "marca": "MAC",
-       "barcode": "0773602724789",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Diva",
-       "marca": "MAC",
-       "barcode": "0773602703982",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Everybody'S Heroine",
-       "marca": "MAC",
-       "barcode": "0773602704002",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Flamingo",
-       "marca": "MAC",
-       "barcode": "0773602707928",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Folio",
-       "marca": "MAC",
-       "barcode": "0773602741045",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Forever Curious",
-       "marca": "MAC",
-       "barcode": "0773602685554",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Get The Hint?",
-       "marca": "MAC",
-       "barcode": "0773602685516",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Go Retro",
-       "marca": "MAC",
-       "barcode": "0773602685066",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Honeylove",
-       "marca": "MAC",
-       "barcode": "0773602685158",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Hot Girl Pink",
-       "marca": "MAC",
-       "barcode": "0773602768714",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Keep Dreaming",
-       "marca": "MAC",
-       "barcode": "0773602685547",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Kinda Sexy",
-       "marca": "MAC",
-       "barcode": "0773602685165",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Lady Danger",
-       "marca": "MAC",
-       "barcode": "0773602684953",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Lipstick Snob",
-       "marca": "MAC",
-       "barcode": "0773602685042",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Marrakesh",
-       "marca": "MAC",
-       "barcode": "0773602684854",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Mehr",
-       "marca": "MAC",
-       "barcode": "0773602703999",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Mull It To The Max",
-       "marca": "MAC",
-       "barcode": "0773602685011",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · No Coral-Ation",
-       "marca": "MAC",
-       "barcode": "0773602684922",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Overstatement",
-       "marca": "MAC",
-       "barcode": "0773602684939",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Red Rock",
-       "marca": "MAC",
-       "barcode": "0773602685561",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Ring The Alarm",
-       "marca": "MAC",
-       "barcode": "0773602685523",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Ruby Woo",
-       "marca": "MAC",
-       "barcode": "0773602697113",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Russian Red",
-       "marca": "MAC",
-       "barcode": "0773602684861",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Sin",
-       "marca": "MAC",
-       "barcode": "0773602685486",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Smoked Purple",
-       "marca": "MAC",
-       "barcode": "0773602685493",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Soar",
-       "marca": "MAC",
-       "barcode": "0773602685622",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Sweet Deal",
-       "marca": "MAC",
-       "barcode": "0773602685530",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Taupe",
-       "marca": "MAC",
-       "barcode": "0773602684892",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Twig Twist",
-       "marca": "MAC",
-       "barcode": "0773602685080",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Unbothered",
-       "marca": "MAC",
-       "barcode": "0773602768721",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Velvet Teddy",
-       "marca": "MAC",
-       "barcode": "0773602697106",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Verve Swerve",
-       "marca": "MAC",
-       "barcode": "0773602685134",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Warm Teddy",
-       "marca": "MAC",
-       "barcode": "0773602697021",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Whirl",
-       "marca": "MAC",
-       "barcode": "0773602685592",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · Yash",
-       "marca": "MAC",
-       "barcode": "0773602685455",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Lipstick · You Wouldn't Get It",
-       "marca": "MAC",
-       "barcode": "0773602685608",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0D4FFT7SY"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Empowered",
-       "marca": "MAC",
-       "barcode": "0773602686216",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Equality",
-       "marca": "MAC",
-       "barcode": "0773602707935",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Heart",
-       "marca": "MAC",
-       "barcode": "0773602686209",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Silky Matte Viva Glam Lipstick · Viva Planet",
-       "marca": "MAC",
-       "barcode": "0773602693191",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Amorous",
-       "marca": "MAC",
-       "barcode": "0773602663804",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Blankety",
-       "marca": "MAC",
-       "barcode": "0773602663620",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brave",
-       "marca": "MAC",
-       "barcode": "0773602663736",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brave Red",
-       "marca": "MAC",
-       "barcode": "0773602663569",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Brick-O-La",
-       "marca": "MAC",
-       "barcode": "0773602720361",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Call It Cozy",
-       "marca": "MAC",
-       "barcode": "0773602663408",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Centre Of Attention",
-       "marca": "MAC",
-       "barcode": "0773602720330",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Creme In Your Coffee",
-       "marca": "MAC",
-       "barcode": "0773602720354",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Cyber",
-       "marca": "MAC",
-       "barcode": "0773602663828",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Del Rio",
-       "marca": "MAC",
-       "barcode": "0773602663668",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Dubonnet",
-       "marca": "MAC",
-       "barcode": "0773602720347",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Espresso Yourself",
-       "marca": "MAC",
-       "barcode": "0773602663538",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Film Noir",
-       "marca": "MAC",
-       "barcode": "0773602663682",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Fleshpot",
-       "marca": "MAC",
-       "barcode": "0773602741953",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Grapefruit Pucker",
-       "marca": "MAC",
-       "barcode": "0773602663453",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Guessing Game",
-       "marca": "MAC",
-       "barcode": "0773602663392",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · HodgePodge",
-       "marca": "MAC",
-       "barcode": "0773602741960",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Left On Red",
-       "marca": "MAC",
-       "barcode": "0773602663385",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Lovers Only",
-       "marca": "MAC",
-       "barcode": "0773602663798",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Maraschino, Much?",
-       "marca": "MAC",
-       "barcode": "0773602663378",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Modesty",
-       "marca": "MAC",
-       "barcode": "0773602663705",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Morange",
-       "marca": "MAC",
-       "barcode": "0773602663842",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Myth",
-       "marca": "MAC",
-       "barcode": "0773602663613",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Paramount",
-       "marca": "MAC",
-       "barcode": "0773602720385",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Peachstock",
-       "marca": "MAC",
-       "barcode": "0773602741946",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Pink Peppermint",
-       "marca": "MAC",
-       "barcode": "0773602663484",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Popstar Pink",
-       "marca": "MAC",
-       "barcode": "0773602663460",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Rebel",
-       "marca": "MAC",
-       "barcode": "0773602720378",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Sitting Pretty",
-       "marca": "MAC",
-       "barcode": "0773602663446",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Stone",
-       "marca": "MAC",
-       "barcode": "0773602741939",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Sweetheart",
-       "marca": "MAC",
-       "barcode": "0773602663514",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Tilted Denim",
-       "marca": "MAC",
-       "barcode": "0773602719266",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios M·A·Cximal Sleek Satin Lipstick · Truth Be Untold",
-       "marca": "MAC",
-       "barcode": "0773602663422",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DQH5PJY2"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · A Little Tamed",
-       "marca": "MAC",
-       "barcode": "0773602746446",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Be My Bridesmaid",
-       "marca": "MAC",
-       "barcode": "0773602746538",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Big Promotion",
-       "marca": "MAC",
-       "barcode": "0773602746477",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Brickthrough",
-       "marca": "MAC",
-       "barcode": "0773602746453",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Chestnut",
-       "marca": "MAC",
-       "barcode": "0773602746460",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Devoted To Chili",
-       "marca": "MAC",
-       "barcode": "0773602746484",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Dubonnet Buzz",
-       "marca": "MAC",
-       "barcode": "0773602746507",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Girls Weekend",
-       "marca": "MAC",
-       "barcode": "0773602746576",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Good For You",
-       "marca": "MAC",
-       "barcode": "0773602746491",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Mandarin O",
-       "marca": "MAC",
-       "barcode": "0773602746552",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Marrakesh-Mere",
-       "marca": "MAC",
-       "barcode": "0773602746569",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Moving On Up",
-       "marca": "MAC",
-       "barcode": "0773602746606",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Mull It Over",
-       "marca": "MAC",
-       "barcode": "0773602746583",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · My Best Life",
-       "marca": "MAC",
-       "barcode": "0773602746514",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Off The Market",
-       "marca": "MAC",
-       "barcode": "0773602746521",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · On My Mind",
-       "marca": "MAC",
-       "barcode": "0773602746545",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Ready To Mingle",
-       "marca": "MAC",
-       "barcode": "0773602746590",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Ruby New",
-       "marca": "MAC",
-       "barcode": "0773602746620",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Stay Curious",
-       "marca": "MAC",
-       "barcode": "0773602746637",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Sultriness",
-       "marca": "MAC",
-       "barcode": "0773602746644",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Taken",
-       "marca": "MAC",
-       "barcode": "0773602746439",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Teddy 2.0",
-       "marca": "MAC",
-       "barcode": "0773602746651",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Turn To The Left",
-       "marca": "MAC",
-       "barcode": "0773602746668",
-       "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Barra de labios Powder Kiss Hazy Matte Lipstick · Twenty-Fun",
-       "marca": "MAC",
-       "barcode": "0773602746613",
        "fechaLista": "21-10-2026"
       },
       {
@@ -8131,38 +6827,6 @@
        "fechaLista": "21-10-2026"
       },
       {
-       "nombre": "Perfilador de labios Lip Shader · 010 Nude Lines, 030 Pink Thread, 060 Coffee Blend",
-       "marca": "Max Factor",
-       "barcode": "3616307620567",
-       "fechaLista": "25-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios Lip Shader · Midn. Roast, Soft Spark",
-       "marca": "Max Factor",
-       "barcode": "3616307669214",
-       "fechaLista": "25-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios Lip Shader · Rustic Brick",
-       "marca": "Max Factor",
-       "barcode": "3616307669221",
-       "fechaLista": "25-10-2026"
-      },
-      {
-       "nombre": "Perfilador de labios Lip Shader · Toasted Cin.",
-       "marca": "Max Factor",
-       "barcode": "3616307669191",
-       "fechaLista": "25-10-2026"
-      },
-      {
-       "nombre": "Color Sensational Perfilador de labios",
-       "marca": "Maybelline New York",
-       "barcode": "3600530575503",
-       "subtipo": "perfilador",
-       "fechaLista": "10-09-2026",
-       "amazon": "https://www.amazon.es/dp/B01MSVN40D"
-      },
-      {
        "nombre": "Lifter Liner con Ácido hialurónico Perfilador de labios",
        "marca": "Maybelline New York",
        "barcode": "3600531691998",
@@ -8280,80 +6944,10 @@
        "fechaLista": "10-09-2026"
       },
       {
-       "nombre": "Perfilador de labios Suede Matte Lip Liner · 41 Cape Town",
-       "marca": "NYX Professional Makeup",
-       "barcode": "0800897156749",
-       "subtipo": "perfilador",
-       "fechaLista": "10-09-2026"
-      },
-      {
        "nombre": "Bálsamo de aceite ozonizado para labios y nariz",
        "marca": "Ozoaqua",
        "barcode": "8437026011024",
        "fechaLista": "21-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint Espresso",
-       "marca": "Rhode",
-       "barcode": "0810175610429",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "Espresso",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint PBJ",
-       "marca": "Rhode",
-       "barcode": "0850055527287",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "PBJ",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint Raspberry Jelly",
-       "marca": "Rhode",
-       "barcode": "0810175610412",
-       "imagen": "https://images.openbeautyfacts.org/images/products/081/017/561/0412/front_en.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "Raspberry Jelly",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint Ribbon",
-       "marca": "Rhode",
-       "barcode": "0810175611501",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "Ribbon",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint Salty Tan",
-       "marca": "Rhode",
-       "barcode": "0810175611556",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "Salty Tan",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial con color Peptide Lip Tint Toast",
-       "marca": "Rhode",
-       "barcode": "0810175611518",
-       "linea": "Bálsamo labial con color Peptide Lip Tint",
-       "subtipo": "balsamo",
-       "tono": "Toast",
-       "fechaLista": "04-10-2026"
-      },
-      {
-       "nombre": "Bálsamo labial Peptide Lip Treatment Unscented",
-       "marca": "Rhode",
-       "barcode": "0810175610344",
-       "subtipo": "balsamo",
-       "fechaLista": "04-10-2026"
       },
       {
        "nombre": "Barra para mejillas, labios y ojos Kind & Free Multi-Stick",
@@ -8522,16 +7116,6 @@
        "subtipo": "balsamo",
        "fechaLista": "25-09-2026",
        "amazon": "https://www.amazon.es/dp/B0D8CXZKF3"
-      },
-      {
-       "nombre": "Bálsamo labial Lip Therapy Original 20 g",
-       "marca": "Vaseline",
-       "barcode": "5099802150117",
-       "imagen": "https://images.openbeautyfacts.org/images/products/509/980/215/0117/front_en.21.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "balsamo",
-       "fechaLista": "25-09-2026",
-       "amazon": "https://www.amazon.es/dp/B002GC9UZG"
       },
       {
        "nombre": "Bálsamo labial reparador Skin Food Lip Balm",
@@ -9541,13 +8125,6 @@
        "barcode": "5060422297988",
        "fechaLista": "08-10-2026",
        "amazon": "https://www.amazon.es/dp/B09PP2VLGP"
-      },
-      {
-       "nombre": "Exfoliante facial Aqua-gel",
-       "marca": "Valquer",
-       "barcode": "8420212121713",
-       "fechaLista": "12-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0BHJKRP11"
       }
      ]
     },
@@ -9586,12 +8163,6 @@
        "barcode": "8809968130246",
        "fechaLista": "03-10-2026",
        "amazon": "https://www.amazon.es/dp/B0D4517144"
-      },
-      {
-       "nombre": "Mascarilla de burbujas para la nariz afinadora de poros",
-       "marca": "Bioré",
-       "barcode": "5017634296575",
-       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Mascarilla de hidrogel Advanced Snail Mucin Glass Glow Hydrogel Mask",
@@ -9669,12 +8240,6 @@
        "marca": "Isntree",
        "barcode": "8809800940675",
        "fechaLista": "12-10-2026"
-      },
-      {
-       "nombre": "Mascarilla facial Purifying Face Mask",
-       "marca": "Kiko Milano",
-       "barcode": "8059385027623",
-       "fechaLista": "03-10-2026"
       },
       {
        "nombre": "Mascarilla Hidrogel Iluminadora Revitalift 1 U",
@@ -10699,13 +9264,6 @@
        "barcode": "0748252722027",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B01673WVUU"
-      },
-      {
-       "nombre": "Exfoliante limpiador purificante Soluciones Cuero Cabelludo",
-       "marca": "Phyto",
-       "barcode": "3701436913359",
-       "fechaLista": "21-10-2026",
-       "amazon": "https://www.amazon.es/dp/B0DHCRCLF6"
       },
       {
        "nombre": "Tratamiento anticaída hombre Phytocyane (ampollas)",
@@ -13075,13 +11633,6 @@
        "nombre": "Sombra de ojos en barra Freestyle Rainbow Eyeshadow Stick · 07",
        "marca": "Kiko Milano",
        "barcode": "8059385064741",
-       "subtipo": "sombra",
-       "fechaLista": "03-10-2026"
-      },
-      {
-       "nombre": "Sombra de ojos en polvo suelto Magnetic Nights Lights On Eyeshadow",
-       "marca": "Kiko Milano",
-       "barcode": "8059385024424",
        "subtipo": "sombra",
        "fechaLista": "03-10-2026"
       },

@@ -5749,6 +5749,14 @@ en polvo/spray 32 (tras excluir esmaltes "Mist Grey", prebases "Optimist" y laca
 aceite mineral/ceras (Avène, Catrice, MAC, Kiko…), 19 limpiadores por cocamidopropil betaína (Cocunat, Mustela,
 Sanex, Neutrogena…), 11 por arbutina, 4 por PHMB y 4 por dióxido de titanio (brumas fijadoras de e.l.f., polvos
 sueltos de Too Faced y Kiko). Anotar la versión. No va a HASTA_BUILD (se quitan, no se añaden).
+**Hecho (alternativas 2026-11-01b, detector de la rama en `5646f999`):** `limpios.mjs` y `verifica.mjs` pasan ya `p.nombre` a
+`matchOtrosRiesgos`. De 2.621 a **2.418**: salen 203 más, que con los 15 de la 2026-11-01a son los **218** previstos.
+- Aceite mineral y ceras de petróleo en labiales: 180 (todos del tipo labial: Avène, Catrice, MAC, Kiko…).
+- Cocamidopropil betaína: 19 (limpiadores faciales 4, champús 5, geles de ducha 5, mascarillas 2, higiene íntima,
+  exfoliante y capilar 1 cada uno: Byphasse, Cocunat, Neutrogena, SKIN1004…).
+- Dióxido de titanio en polvo suelto o spray: 4 (e.l.f. Power Grip Gold Drip y Rosé Setting Spray, Too Faced Born This Way
+  Setting Powder y Kiko Magnetic Nights Lights On, sombra en polvo suelto).
+- No entra nada. `verifica.mjs`: 0 en los tres grupos.
 
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una

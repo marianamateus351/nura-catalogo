@@ -11,7 +11,7 @@ for (const c of alt.categorias) for (const t of c.tipos) for (const a of t.produ
   n++; const { p, m } = porCodigo[a.barcode];
   const cat2 = guessCategoria("", undefined, p.nombre + " " + m.nombre);
   if (dedupeIngredients(matchIngredients(p.inci, p.nombre), cat2).length) conDet++;
-  if (matchOtrosRiesgos(p.inci, cat2).length) conRiesgo++;
+  if (matchOtrosRiesgos(p.inci, cat2, p.nombre).length) conRiesgo++;
   const o = matchOtros(p.inci, cat2, p.nombre);
   if (o.length) { conOtros++; for (const x of o) { otros[x.nombre] = (otros[x.nombre] || 0) + 1; (ej[x.nombre] ||= []).length < 3 && ej[x.nombre].push(m.nombre + " · " + p.nombre); } }
 }
