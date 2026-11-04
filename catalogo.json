@@ -1,5 +1,5 @@
 {
- "version": "2026-10-30-hogar1c",
+ "version": "2026-11-04-pt",
  "marcas": [
   {
    "key": "larocheposay",
@@ -83686,6 +83686,15 @@
       "5601312607991"
      ],
      "inci": "Aqua, Didecyldimethylammonium chloride, Benzalkonium Chloride, Trisodium Dicarboxymethyl Alaninate, Methoxymethylbutanol, Parfum, Ethoxylated Alcohols, Ethanolamine"
+    },
+    {
+     "nombre": "Toallitas cara y manos infantiles Continente aroma a frutas",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312612872"
+     ],
+     "inci": "Aqua, Glycerin, Glyceryl Stearate, Caprylyl/Capryl Glucoside, Cocamidopropyl Betaine, PEG-100 Stearate, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Parfum, Tetrasodium Glutamate Diacetate, Benzyl Alcohol, Benzoic Acid, Sorbic Acid, Sodium Benzoate, Sodium Hydroxide, Vanillin"
     }
    ]
   },
@@ -176685,6 +176694,379 @@
       "8410020380891"
      ],
      "inci": "Aqua, Alcohol Ethoxylate C12-18 7EO, Sodium Laureth Sulfate, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Fatty Acids C12-18 Sodium Salts, Sodium Citrate, Tetrasodium Glutamate Diacetate, Polyquaternium-7, 2-[2-(Dodecyloxy)ethoxy]ethanol, Sodium Sulfate, Dipropylene Glycol, Tetramethyl Acetyloctahydronaphthalenes, 3-Oxo-2-Pentilciclopentanoacetato De Metilo, Dimethyl Phenethyl Acetate, 2-Metil-6-Metilenoct-7-En-2-Ol Derivado Dihidrico, Undecan-4-Ólido, Perfume Remainder, Citronellol, Cyclohexyl Salicylate, Benzisothiazolinone, Amyl Salicylate, Hexahydro-Methanoindenyl Propionate, Isobornyl Acetate, Geraniol, Isobutyl Methyl Tetrahydropyranol, 2-T-Butylcyclohexyl Acetate, 3A 4 5 6 7 7A-Hexahydro-4 7-Methano-1H-Inden-5(Or 6)-Yl Acetate, Tetrahydrolinalool, Acetato De Bencilo, Phenethyl Alcohol, Acetilglucosaminidasa ß-, Amylase alpha-, Mannanase"
+    }
+   ]
+  },
+  {
+   "key": "mylabel",
+   "nombre": "MyLabel",
+   "productos": [
+    {
+     "nombre": "Champú MyLabel Haircare lisos sedosos (queratina y aceite de argán)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312611394"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Dimethiconol, Parfum, Sodium Benzoate, Cocamide DEA, Laureth-2, Sodium Sulfate, Propylene Glycol, Citric Acid, Glyceryl Oleate, Butyloctanol, Dilinoleic Acid, Glycol Distearate, Cocamide MEA, Styrene/Acrylates Copolymer, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Keratin, Argania Spinosa Kernel Oil, Butyrospermum Parkii Butter, PEG-40 Hydrogenated Castor Oil, PEG-90 Glyceryl Isostearate, Trideceth-9, Glycerin, Tetrasodium EDTA, TEA-Dodecylbenzenesulfonate, Sodium Carbonate, Lactic Acid, Phenoxyethanol, Sodium Hydroxide, Potassium Sorbate, Sodium Chloride, Benzyl Alcohol"
+    },
+    {
+     "nombre": "Jabón de glicerina MyLabel Natural fragancia floral",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312615965"
+     ],
+     "inci": "Cocos Nucifera Oil, Aqua, Sodium Hydroxide, Sucrose, Dipropylene Glycol, Propylene Glycol, Stearic Acid, Glycerin, Sodium Chloride, Sorbitol, Lauric Acid, Parfum, Sodium Gluceptate, CI 16035, Cynamyl Alcohol, Geraniol, Limonene"
+    },
+    {
+     "nombre": "Jabón líquido de manos MyLabel cremoso con glicerina (recarga)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601312618065"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Glycol Distearate, Parfum, Cocamide MEA, Cocamide DEA, Sodium Benzoate, Potassium Sorbate, Sodium Chloride, Polyquaternium-7, Citric Acid, Tetrasodium EDTA, Benzyl Salicylate, Citronellol, Coumarin, Eugenol, Geraniol, Hexyl Cinnamal, Linalool"
+    }
+   ]
+  },
+  {
+   "key": "pingodoce",
+   "nombre": "Pingo Doce",
+   "productos": [
+    {
+     "nombre": "Colutorio Pingo Doce protección y frescura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047007808"
+     ],
+     "inci": "Aqua, Alcohol, Sorbitol, Glycerin, Aroma, Menthol, Sodium Fluoride, Sodium Saccharin, PEG-40 Hydrogenated Castor Oil, Cetylpyridium Chloride, Cocamidopropyl Betaine, Disodium EDTA, Citric Acid, Sodium Chloride, Sodium Benzoate, CI42051, CI19140, CI42090"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce Natura hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047016312"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sorbitol, Cocamide DEA, Parfum, Sodium Chloride, Styrene/Acrylates Copolymer, Coco Glucoside, Glycol Distearate, Sodium Benzoate, Potassium Sorbate, Citric Acid, Hexyl Cinnamal, Linalool, CI 19140, CI 17200"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce Pure & Clean",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995202"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Glycerin, Cocamidopropyl Betaine, Sodium Benzoate, Laureth-2, Parfum, Sodium Sulfate, Disodium PEG-5 Laurylcitrate Sulfosuccinate, Decyl Glucoside, Sodium PCA, Lactic Acid, Tetrasodium EDTA, Potassium Sorbate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce aceite de argán",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009996001"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDOPROPYL BETAINE, GLYCERIN, SODIUM BENZOATE, PARFUM, LAURETH-2, SODIUM SULFATE, DISODIUM PEG-5 LAURYLCITRATE SULFOSUCCINATE, CITRIC ACID, TETRASODIUM EDTA, CAPRYLYL/CAPRYL GLUCOSIDE, COCO-GLUCOSIDE, POTASSIUM SORBATE, PROPYLENE GLYCOL, SODIUM HYDROXIDE, PEG-40 HYDROGENATED CASTOR OIL, TRIDECETH-9, LACTIC ACID, ARGANIA SPINOSA KERNEL OIL, CI 19140, CI 17200, CI 15985, CI 16255, CI 28440"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce afrutado",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047016596"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamide DEA, Cocamidopropyl Betaine, Glycol Distearate, Cocamide MEA, Parfum, Citric Acid, Sodium Benzoate, Methylchloroisothiazolinone, Methylisothiazolinone, Benzyl Salicylate, Linalool"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce flor de azahar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047016305"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sorbitol, Cocamide DEA, Coco Glucoside, Styrene/Acrylates Copolymer, Sodium Chloride, Parfum, Bambusa Vulgaris Leaf/Stem Extract, Prunus Amygdalus Dulcis Oil, Citric Acid, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Potassium Sorbate, Glycol Distearate, PEG-7 Glyceryl Cocoate, Polyquaternium-7, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool, CI 19140, CI 17200"
+    },
+    {
+     "nombre": "Gel de baño Pingo Doce jazmín y macadamia",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009996018"
+     ],
+     "inci": "AQUA, SODIUM LAURETH SULFATE, SODIUM CHLORIDE, COCAMIDOPROPYL BETAINE, GLYCERIN, PARFUM, SODIUM BENZOATE, LAURETH-2, SODIUM SULFATE, DISODIUM PEG-5 LAURYLCITRATE SULFOSUCCINATE, LACTIC ACID, TETRASODIUM EDTA, CAPRYLYL/CAPRYL GLUCOSIDE, HEXYL CINNAMAL, COCO-GLUCOSIDE, POTASSIUM SORBATE, MACADAMIA TERNIFOLIA SEED OIL, HELIANTHUS ANNUUS SEED OIL, SODIUM HYDROXIDE, JASMINUM OFFICINALE FLOWER EXTRACT, ASCORBYL PALMITATE, BHT, CI 19140, CI 17200"
+    },
+    {
+     "nombre": "Jabón de manos en espuma Pingo Doce sakura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047007020"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, PEG-7 Glycery Cocoate, Cocamidopropyl Betaine, Glycerin, Glycereth-2 Cocoate, Citric Acid, Panthenol, Prunus Cerasus Flower Extract, Propylene Glycol Dicaprylate/Dicaprate, Hydrolyzed Rice Bran Protein, Xantan Gum, Tetrasodium Glutamate Diacetate, Sodium Benzoate, Potassium Sorbate, Sodium Sulfate, Parfum, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Jabón líquido de manos Pingo Doce leche y miel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047000830",
+      "5607047006351"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sorbitol, Glycerin, Sodium Chloride, Citric Acid, Lauryl Glucoside, Isopropyl Palmitate, Glycol Distearate, Cocamide MEA, Mel, Sine Adipe Lac, Tetrasodium Glutamate Diacetate, Sodium Sulfate, Sodium Benzoate, Parfum, Benzyl Benzoate, Hexyl Cinnamal, Limonene, CI 14720, CI 47005"
+    },
+    {
+     "nombre": "Jabón líquido de manos Pingo Doce manzana verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047000816"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Urea, Sodium Chloride, Glycerin, Citric Acid, Glycereth-2 Cocoate, Isopropyl Palmitate, Glycol Distearate, Cocamide MEA, Pyrus Malus Fruit Extract, Propylene Glycol, Polysorbate 20, Panthenol, Linoleic Acid, Retinyl Palmitate, Tocopheryl Acetate, Bioflavonoids, Biotin, Pyridoxine HCL, Linolenic Acid, Tetrasodium Glutamate Diacetate, Sodium Benzoate, Potassium Sorbate, Parfum, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Jabón líquido de manos Pingo Doce ultra hidratante",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047000809"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Glycereth-2 Cocoate, Citric Acid, Isopropyl Palmitate, Glycol Distearate, Cocamide MEA, Tetrasodium Glutamate Diacetate, Sodium Benzoate, Parfum, Linalool, Citronellol, Hexyl Cinnamal"
+    },
+    {
+     "nombre": "Pasta de dientes Pingo Doce Pro encías",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047019986"
+     ],
+     "inci": "Aqua, Sorbitol, Hydrated Silica, Glycerin, PEG-12, Sodium Lauryl Sulfate, Aroma, Sucrose Stearate, Cocamidopropyl Betaine, Sodium Benzoate, Titanium Dioxide, Xanthan Gum, Hydroxyethylcellulose, Sodium Fluoride, Cetylpyridinium Chloride, Sodium Saccharin, Allantoin, Sodium Chloride, Citric Acid, Disodium Phosphate, Sodium Phosphate, Polysorbate 60, Anethole, Carvone, Eugenia Caryophyllus Oil, Eugenol, Limonene, Mentha Viridis Leaf Oil, Menthol"
+    },
+    {
+     "nombre": "Pasta de dientes infantil Pingo Doce +6 años",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009988600"
+     ],
+     "inci": "AQUA, SORBITOL, HYDRATED SILICA, GLYCERIN, PEG-12, XANTHAN GUM, SODIUM LAURYL SULFATE, AROMA, COCAMIDOPROPYL BETAINE, POTASSIUM SORBATE, SODIUM FLUORIDE, SODIUM BENZOATE, SODIUM SACCHARIN, TITANIUM DIOXIDE, CITRIC ACID, CI 73360, CI 74160"
+    },
+    {
+     "nombre": "Vaselina pura Pingo Doce",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009992171"
+     ],
+     "inci": "Petrolatum"
+    }
+   ]
+  },
+  {
+   "key": "skino",
+   "nombre": "Skino",
+   "productos": [
+    {
+     "nombre": "Crema depilatoria corporal Skino hombre",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047003541"
+     ],
+     "inci": "Aqua, Urea, Cetearyl Alcohol, Potassium Thioglycolate, Calcium Hydroxide, Isopropyl Myristate, Propylene Glycol, Butyrospermum Parkii Butter Extract, Camellia Sinensis Leaf Extract, Panax Ginseng Root Extract, Spirulina Maxima Extract, Fucus Vesiculosus Extract, Laminaria Digitata Extract, Ascophyllum Nodosum Extract, Porphyra Umbilicalis Extract, Glycerin, Helianthus Annuus Seed Oil, Potassium Hydroxide, Rosmarinus Officinalis Leaf Extract, Gluconolactone, Calcium Gluconate, Acrylates Copolymer, Sodium Chloride, Sodium Cetearyl Sulfate, Potassium Sorbate, Sodium Benzoate, Parfum, CI 74180"
+    },
+    {
+     "nombre": "Desodorante roll-on antitranspirante Skino Black & White",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009994038"
+     ],
+     "inci": "AQUA, ALUMINUM CHLOROHYDRATE, GLYCERIN, PARFUM, HYDROXYETHYLCELLULOSE, PPG-26-BUTETH-26, PEG-40 HYDROGENATED CASTOR OIL, LINALOOL, SODIUM HYDROXIDE, LIMONENE, CITRIC ACID"
+    },
+    {
+     "nombre": "Loción aftershave Skino normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047014820"
+     ],
+     "inci": "Alcohol Denat., Aqua, Glycerin, Parfum, Propylene Glycol, Hamamelis Virginiana Leaf Extract, Diisopropyl Adipate, Phenoxyethanol, Ethylhexylglycerin, Citronellol, Coumarin, Geraniol, Limonene, Linalool, CI 42090, CI 14720"
+    }
+   ]
+  },
+  {
+   "key": "bebeauty",
+   "nombre": "Be Beauty",
+   "productos": [
+    {
+     "nombre": "Acondicionador Be Beauty liso y sedoso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995073"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Mel Extract, Hydrolyzed Keratin, Isopropyl Alcohol, Panthenol, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Sodium PCA, Serine, Glycogen, Parfum, Propylene Glycol, Sodium Benzoate, Phenoxyethanol, Citric Acid, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Alpha Isomethyl Ionone"
+    },
+    {
+     "nombre": "Acondicionador Be Beauty nutrición intensa cabello seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995080"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Glucosyl Ceramide, Hydrolyzed Keratin, Isopropyl Alcohol, Panthenol, Argania Spinosa Kernel Oil, Plukenetia Volubilis Seed Oil, Tocopheryl Acetate, Phospholipids, Polyglyceryl-10 Laurate, Cholesterol, Parfum, Sodium Benzoate, Phenoxyethanol, Citric Acid, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Alpha Isomethyl Ionone"
+    },
+    {
+     "nombre": "Acondicionador Be Beauty rizos perfectos",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995066"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Soluble Collagen, Hydrolyzed Keratin, Isopropyl Alcohol, Panthenol, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Parfum, Sodium Benzoate, Phenoxyethanol, Citric Acid, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Alpha Isomethyl Ionone"
+    },
+    {
+     "nombre": "Agua micelar Be Beauty ácido hialurónico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047010105"
+     ],
+     "inci": "Aqua, Glycerin, PEG-6 Caprylic/Capric Glycerides, PEG-40 Hydrogenated Castor Oil, Sodium Hyaluronate, Parfum, Cetrimonium Bromide, Disodium EDTA, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Body butter Be Beauty sakura",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009997268"
+     ],
+     "inci": "AQUA, BUTYROSPERMUM PARKII BUTTER, SODIUM POLYACRYLATE, PARFUM, PHENETHYL ALCOHOL, LECITHIN, PRUNUS AMYGDALUS DULCIS OIL, CAPRYLYL GLYCOL, HEXYL CINNAMAL, LINALOOL, CITRONELLOL, BENZYL SALICYLATE, GERANIOL, ALPHA-ISOMETHYL IONONE, COUMARIN, CINNAMYL ALCOHOL, LIMONENE, HYDROXYCITRONELLAL, ISOEUGENOL"
+    },
+    {
+     "nombre": "Champú Be Beauty cuidado diario cabello normal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009994960"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulphate, Cocamidopropyl Betaine, Glycerin, Parfum, Glucosyl Ceramide, Polyquaternium-10, PEG-120 Methyl Glucose Dioleate, Glycol Distearate, Panthenol, Cocamide DEA, Cocamide MEA, Laureth-10, Polysorbate-20, Phospholipids, Plukenetia Volubilis Seed Oil, Cholesterol, Tocopherol, Helianthus Annus Seed Oil, Hydrolyzed Keratin, Soluble Collagen, Tocopheryl Acetate, Laureth-2, Polyglyceryl-10 Laurate, Disodium EDTA, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Fumaric Acid, Phenoxyethanol, Sodium Benzoate, Benzyl Salycilate, Hexyl Cinnamal, Linalool, Alpha Isomethyl Ionone"
+    },
+    {
+     "nombre": "Champú Be Beauty repara y protege cabello seco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009994984"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulphate, Cocamidopropyl Betaine, Glycerin, Parfum, Glucosyl Ceramide, Polyquaternium-10, PEG-120 Methyl Glucose Dioleate, Cocamide DEA, Glycol Distearate, Panthenol, Cocamide MEA, Laureth-10, Polysorbate-20, Phospholipids, Helianthus Annus Seed Oil, Plukenetia Volubilis Seed Oil, Soluble Collagen, Cholesterol, Tocopherol, Hydrolyzed Keratin, Tocopheryl Acetate, Laureth-2, Polyglyceryl-10 Laurate, Disodium EDTA, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Fumaric Acid, Phenoxyethanol, Sodium Benzoate, Benzyl Salycilate, Hexyl Cinnamal, Linalool, Alpha Isomethyl Ionone"
+    },
+    {
+     "nombre": "Desodorante en spray antitranspirante Be Beauty citrus fresh",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009996858"
+     ],
+     "inci": "Butane, Propane, Cyclopentasiloxane, Aluminum Chlorohydrate, Parfum, Octyldodecanol, Disteardimonium Hectorite, Triethyl Citrate, Aloe Barbadensis Leaf Juice Powder, Eugenol, Hexyl Cinnamal, Linalool, Limonene, Citronellol, Geraniol"
+    },
+    {
+     "nombre": "Desodorante roll-on antitranspirante Be Beauty invisible",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995479"
+     ],
+     "inci": "AQUA, ALUMINUM CHLOROHYDRATE, GLYCERIN, PARFUM, HYDROXYETHYLCELLULOSE, PEG-40 HYDROGENATED CASTOR OIL, PPG-26-BUTETH-26, CITRIC ACID, SODIUM HYDROXIDE, ALPHA-ISOMETHYL IONONE"
+    },
+    {
+     "nombre": "Gel secante para granos Be Beauty",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047018422"
+     ],
+     "inci": "Aqua, Niacinamide, Glycerin, Polysorbate 20, Hydroxypropyl Guar, Salicylic Acid, Zinc PCA, Phenoxyethanol, Ethylhexylglycerin"
+    },
+    {
+     "nombre": "Mascarilla capilar Be Beauty liso y sedoso",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047008218"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Paraffinum Liquidum, Parfum, Hydrolyzed Keratin, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Panthenol, Polyquaternium-37, Trideceth-9 PG-Amodimethicone, Polysorbate 60, Mel Extract, Trideceth-12, Glycogen, PPG-1 Trideceth-6, Sodium PCA, Serine, Hydroxyethylcellulose, Isopropyl Alcohol, Propylene Glycol, Sorbitan Oleate, Propylene Glycol Dicaprylate/Dicaprate, Acrylates/Stearyl Methacrylate Copolymer, Disodium EDTA, Disodium Phosphate, Sodium Phosphate, Citric Acid, Sodium Benzoate, Ethylhexylglycerin, Phenoxyethanol, Potassium Sorbate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Mascarilla capilar Be Beauty nutrición intensa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047008201"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Paraffinum Liquidum, Parfum, Hydrolyzed Keratin, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Glucosyl Ceramide, Phospholipids, Panthenol, Cholesterol, Polyquaternium-37, Trideceth-9 PG-Amodimethicone, Polysorbate 60, Trideceth-12, PPG-1 Trideceth-6, Hydroxyethylcellulose, Isopropyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sorbitan Oleate, Propylene Glycol Dicaprylate/Dicaprate, Acrylates/Stearyl Methacrylate Copolymer, Disodium EDTA, Disodium Phosphate, Sodium Phosphate, Citric Acid, Sodium Hydroxide, Sodium Benzoate, Ethylhexylglycerin, Phenoxyethanol, Potassium Sorbate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone"
+    },
+    {
+     "nombre": "Mascarilla capilar Be Beauty protectora cabello teñido",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047016893"
+     ],
+     "inci": "Aqua, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Paraffinum Liquidum, Panthenol, Parfum, Isopropyl Alcohol, Hydrolyzed Keratin, Soluble Collagen, Hydroxyethylcellulose, Disodium Phosphate, Polysorbate-60, Sodium Phosphate, Mel Extract, Sodium PCA, Hydrolyzed Elastin, Serine, Glycogen, Propylene Glycol, Benzophenone-4, Disodium EDTA, Citric Acid, Sorbic Acid, Sodium Benzoate, Ethylhexylglycerin, Phenoxyethanol, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Alpha-Isomethyl-Ionone"
+    },
+    {
+     "nombre": "Quitaesmalte Be Beauty acetona con aceite de ricino",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009995677"
+     ],
+     "inci": "Acetone, Aqua, Ricinus communis seed oil"
+    },
+    {
+     "nombre": "Quitaesmalte Be Beauty sin acetona",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009997008"
+     ],
+     "inci": "ETHYL ACETATE, ALCOHOL DENAT, AQUA, GLYCERIN, PARFUM, PROPYLENE GLYCOL, PRUNUS AMYGDALUS DULCIS OIL, PANTHENOL, CI 45100"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes Be Beauty",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009989638"
+     ],
+     "inci": "AQUA, ISOPROPYL ISOSTEREATE, TRIETHYLHEXANOIN, GLYCERIN, PHENOXYETHANOL, STEARETH-100, PARFUM, STEARETH-2, METHYLPARABEN, PROPYLPARABEN, 2-BROMO-2-NITROPROPANE-1,3-DIOL, MANNAN, XANTHAN GUM, ROSA MOSCHATA SEED OIL, TOCOPHERYL ACETATE, TRIETHANOLAMINE"
+    },
+    {
+     "nombre": "Toallitas desmaquillantes Be Beauty con agua micelar",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5601009989645"
+     ],
+     "inci": "Aqua, Peg-8 Caprylic/ Capric Glycerides, Citric Acid, Sodium Benzoate, Potassium Sorbate, Propylene Glycol, Aloe Barbadensis Leaf Juice, Sodium Sulfite, Parfum, Disodium Edta"
+    }
+   ]
+  },
+  {
+   "key": "cuidabebe",
+   "nombre": "Cuida Bebé",
+   "productos": [
+    {
+     "nombre": "Champú de bebé Cuida Bebé manzanilla",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5607047007419"
+     ],
+     "inci": "Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Cocamidopropyl Betaine, Disodium 2-Sulfolaurate, Sorbitol, Glycerin, Sodium Lactate, Glycereth-2 Cocoate, Lactic Acid, Chamomilla Recutita Flower Extract, Glyceryl Oleate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Squalane, Sodium Surfactin, Panthenol, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, CI 47005"
     }
    ]
   }

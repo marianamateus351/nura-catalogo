@@ -5790,6 +5790,51 @@ Hoy el catálogo tiene Continente (9) y Pingo Doce (1). Mismo camino que Auchan 
 Desde la conversación de la app no se llega a `continente.pt`, `mercadao.pt` ni `openbeautyfacts.org`
 (red del entorno), por eso el encargo va aquí.
 
+**Hecho (versión 2026-11-04-pt): 39 productos y 40 códigos; marcas nuevas Pingo Doce, Be Beauty, Skino, Cuida Bebé y MyLabel.**
+| Marca (clave) | Fichas de marca propia vistas | Cosmética | Sin lista en la web | Entran |
+|---|---|---|---|---|
+| Pingo Doce (`pingodoce`) | 153 | 74 | 8 | 14 |
+| Be Beauty (`bebeauty`, marca de belleza de Pingo Doce) | 178 | 170 | 45 | 17 |
+| Skino (`skino`, hombre, Pingo Doce) | 20 | 15 | 1 | 3 |
+| Cuida Bebé (`cuidabebe`, Pingo Doce) | 55 | 17 | 4 | 1 |
+| MyLabel (`mylabel`, marca de belleza de Continente) | 530 | 394 | 391 | 3 |
+| Continente (`continente`, con Continente do Bebé) | 184 | 60 | 59 | 1 |
+- **Continente: 450 fichas de cosmética sin lista visible.** `continente.pt` (Salesforce Commerce Cloud) da en cada ficha el
+  nombre y el EAN (`gtin13` del JSON-LD), pero **no enseña los ingredientes en el HTML**: solo podrían estar en la pestaña
+  "Informação Legal", que se carga desde `Product-ProductNutritionalInfoTab?pid=…`, y esa ruta la prohíbe su robots.txt
+  (`Disallow: /*?pid`). No se ha pedido. Lo que entra (4) sale de **fotos traseras de Open Beauty Facts** legibles y completas
+  cuyo EAN coincide con el de la ficha de la tienda (de 714 EAN, solo 6 están en OBF y 4 con trasera legible): champú
+  MyLabel Haircare lisos sedosos, jabón de glicerina MyLabel Natural floral, jabón líquido de manos MyLabel cremoso (recarga)
+  y toallitas cara y manos infantiles Continente. Fuera además 235 no cosméticos, 10 packs y 18 otros (sanitarios,
+  biocidas, sin EAN).
+- **Pingo Doce: la lista sí, el código no.** Mercadão ya no existe (`mercadao.pt` redirige a `pingodoce.pt`). `pingodoce.pt`
+  publica "Ingredientes" en 218 de las 276 fichas de cosmética (**58 sin lista**: sobre todo solares, perfumes y body mists),
+  pero **ninguna ficha da el EAN**: todos los códigos salen de Open Beauty Facts.
+  - **Entran 35** cuyo código está atado con la **foto trasera de OBF con la misma lista que la tienda** (34 idénticas; el
+    desodorante Be Beauty citrus fresh, mismos 15 ingredientes con los alérgenos del final en otro orden). Tres llevan en el
+    envase otro nombre que la tienda con la lista idéntica (champú "Cuidado Clássico" = "Cuidado Diário", acondicionador
+    "Reparação e Nutrição" = "Nutrição Intensa", elixir "Protecção e Frescura" = "Proteção das Gengivas"): entran con el de
+    la tienda.
+  - **12 NO COINCIDE**: la trasera fotografiada trae otra lista que la tienda (5 champús Be Beauty Bio-Marine Collagen, elixir
+    Ação Total, pastas Herbal y 2 em 1 Fresh, protector facial sensitive FPS50+, leite de limpeza, spray Skino Black & White,
+    gel Leite e Mel 1 L): la tienda conserva listas antiguas.
+  - **33 apartados** (`herramientas/pt_pendientes_codigo.json`): OBF tiene el código por nombre y foto frontal (28) o con la
+    trasera solo en parte legible (5). Con 12 de 47 traseras comparadas distintas de la tienda (25 %), atar por nombre no es
+    fiable aquí: entrarían con una foto trasera (una aportación desde la app, por ejemplo).
+  - **133 con lista y sin ningún código** en OBF; 5 packs (bandas depilatorias, sticks faciales con tres listas, mascarilla
+    2 en 1) y un perfume con la lista sin comas.
+  - `static.pingodoce.pt` (imágenes) dio una página de Cloudflare: no se usó más.
+- Nombres en español; listas tal cual (varias en mayúsculas, como en la tienda; erratas impresas como "Cynamyl Alcohol" se
+  dejan).
+- **Detector:** las excepciones de la ficha de perfume ya cubrían "sem perfume"; se añaden "sem fragrância/fragrancia(s)",
+  "sem parfum", "isento de perfume/fragrância", "livre de perfume/fragrância" ("sem fragrancia" sin tilde e "isento de
+  perfume" daban aviso por la tolerancia a erratas). "Sem parabenos" no da aviso. Regresión: 0 cambios en 18.547 fichas.
+  Necesita build (rama de la app, `0db255a6`).
+- **Revisión FP/FN de los 39:** sin falsos positivos ni negativos vistos (Bronopol, parabenos y TEA de las toallitas
+  desmaquillantes Be Beauty, retinyl palmitate del jabón manzana verde, benzofenona-4 de la mascarilla para cabello teñido y
+  sulfito sódico de las toallitas micelares están en sus listas). Regresión del catálogo: 0 cambios en las 18.547 fichas
+  anteriores. Limpios (sin ningún aviso): 2, la vaselina pura Pingo Doce y el quitaesmalte Be Beauty con acetona.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
