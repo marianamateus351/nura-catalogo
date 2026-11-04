@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04e",
+ "version": "2026-11-04f",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -257,6 +257,12 @@
        "fechaLista": "03-10-2026"
       },
       {
+       "nombre": "Agua limpiadora Auchan Baby caléndula",
+       "marca": "Auchan",
+       "barcode": "3596710510979",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Aceite limpiador relipidizante",
        "marca": "Avène",
        "barcode": "3282770391855",
@@ -419,6 +425,12 @@
        "amazon": "https://www.amazon.es/dp/B0BZWGXF7V"
       },
       {
+       "nombre": "Agua micelar Cosmia piel sensible y seca",
+       "marca": "Cosmia",
+       "barcode": "3245678599693",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Agua micelar desmaquillante, para pieles secas y sensibles COSMIA Sensitive 500 ml",
        "marca": "Cosmia",
        "barcode": "3245678599716",
@@ -435,6 +447,12 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "desmaquillante-ojos",
        "fechaLista": "25-09-2026"
+      },
+      {
+       "nombre": "Desmaquillante de ojos Cosmia waterproof",
+       "marca": "Cosmia",
+       "barcode": "3596710524419",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Limpiador Red Rice Inositol Pore Clarifying Deep Cleanser",
@@ -4612,6 +4630,18 @@
        "fechaLista": "25-10-2026"
       },
       {
+       "nombre": "Polvos fijadores matificantes Maybelline Fit Me 01 translúcido",
+       "marca": "Maybelline New York",
+       "barcode": "3600531716707",
+       "fechaLista": "04-11-2026"
+      },
+      {
+       "nombre": "Prebase Maybelline Poreless Jelly Primer",
+       "marca": "Maybelline New York",
+       "barcode": "3600531700386",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Corrector de rojeces Calmwise Colour Correct",
        "marca": "Medik8",
        "barcode": "0818625024475",
@@ -5233,6 +5263,12 @@
        "subtipo": "gloss",
        "fechaLista": "09-10-2026",
        "amazon": "https://www.amazon.es/dp/B0DP3JDMMN"
+      },
+      {
+       "nombre": "Bálsamo labial Cosmia hidratante",
+       "marca": "Cosmia",
+       "barcode": "3596710516575",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Bálsamo labial orgánico Bebé sin perfume",
@@ -7231,6 +7267,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Contorno de ojos Cosmia Bio Expert Duo Age",
+       "marca": "Cosmia",
+       "barcode": "3596710524099",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Contorno de ojos Advanced Snail Peptide Eye Cream",
        "marca": "COSRX",
        "barcode": "8809598451070",
@@ -8421,6 +8463,12 @@
        "barcode": "8436568711454",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B07CVGHJSP"
+      },
+      {
+       "nombre": "Vaselina purificada Auchan",
+       "marca": "Auchan",
+       "barcode": "5601002102690",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Cicalfate+ Gel remodelante de cicatrices",
@@ -16255,6 +16303,18 @@
        "amazon": "https://www.amazon.es/dp/B0BMGNW4FF"
       },
       {
+       "nombre": "Top coat mate Essie Gel Couture",
+       "marca": "Essie",
+       "barcode": "30149380",
+       "fechaLista": "04-11-2026"
+      },
+      {
+       "nombre": "Top coat secado rápido Essie Speed Setter",
+       "marca": "Essie",
+       "barcode": "3600531511661",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Esmalte de uñas Smart Nail Lacquer · 01",
        "marca": "Kiko Milano",
        "barcode": "8059385035918",
@@ -17455,6 +17515,12 @@
        "marca": "Mia Cosmetics Paris",
        "barcode": "8436558880450",
        "fechaLista": "25-10-2026"
+      },
+      {
+       "nombre": "Quitaesmalte con acetona Polegar",
+       "marca": "Polegar",
+       "barcode": "3596710524020",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Aceite reparador para uñas y cutículas Nail Nurse",

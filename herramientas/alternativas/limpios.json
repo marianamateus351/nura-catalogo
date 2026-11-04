@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-ecox",
+ "version": "2026-11-04-auchan",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -1220,6 +1220,15 @@
    ]
   },
   {
+   "marcaKey": "nivea",
+   "marca": "Nivea",
+   "nombre": "Stick solar facial Nivea Sun UV FP50+",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "42467922"
+   ]
+  },
+  {
    "marcaKey": "garnier",
    "marca": "Garnier",
    "nombre": "Agua Micelar Todo en 1: Limpia, desmaquilla, elimina impurezas y hidrata",
@@ -1944,6 +1953,33 @@
    ]
   },
   {
+   "marcaKey": "maybelline",
+   "marca": "Maybelline New York",
+   "nombre": "Polvos fijadores matificantes Maybelline Fit Me 01 translúcido",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600531716707"
+   ]
+  },
+  {
+   "marcaKey": "maybelline",
+   "marca": "Maybelline New York",
+   "nombre": "Gotas bronceadoras Maybelline Super Stay Summer Shot",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600531721428"
+   ]
+  },
+  {
+   "marcaKey": "maybelline",
+   "marca": "Maybelline New York",
+   "nombre": "Prebase Maybelline Poreless Jelly Primer",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600531700386"
+   ]
+  },
+  {
    "marcaKey": "eroski",
    "marca": "Eroski",
    "nombre": "Belle Natural Crema de Manos",
@@ -2519,6 +2555,24 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3600531663414"
+   ]
+  },
+  {
+   "marcaKey": "essie",
+   "marca": "Essie",
+   "nombre": "Top coat secado rápido Essie Speed Setter",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3600531511661"
+   ]
+  },
+  {
+   "marcaKey": "essie",
+   "marca": "Essie",
+   "nombre": "Top coat mate Essie Gel Couture",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "30149380"
    ]
   },
   {
@@ -3803,6 +3857,51 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3245678599655"
+   ]
+  },
+  {
+   "marcaKey": "cosmia",
+   "marca": "Cosmia",
+   "nombre": "Agua micelar Cosmia piel sensible y seca",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3245678599693"
+   ]
+  },
+  {
+   "marcaKey": "cosmia",
+   "marca": "Cosmia",
+   "nombre": "Jabón de tocador de Marsella Cosmia natural sin perfume",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3245678671207"
+   ]
+  },
+  {
+   "marcaKey": "cosmia",
+   "marca": "Cosmia",
+   "nombre": "Bálsamo labial Cosmia hidratante",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710516575"
+   ]
+  },
+  {
+   "marcaKey": "cosmia",
+   "marca": "Cosmia",
+   "nombre": "Contorno de ojos Cosmia Bio Expert Duo Age",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710524099"
+   ]
+  },
+  {
+   "marcaKey": "cosmia",
+   "marca": "Cosmia",
+   "nombre": "Desmaquillante de ojos Cosmia waterproof",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710524419"
    ]
   },
   {
@@ -13146,6 +13245,78 @@
    "categoria": "Hogar",
    "barcodes": [
     "3596710497546"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Vaselina purificada Auchan",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5601002102690"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Agua limpiadora Auchan Baby caléndula",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710510979"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby Sensitive manzanilla",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710535309"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby Sensitive manzanilla (3x64)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710535316"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby Bio aloe vera",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710520589"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby 99 % agua",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710520565"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby aceite de oliva",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710520558"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Toallitas Auchan Baby 99 % agua (3x64)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710532933"
    ]
   },
   {
@@ -25467,6 +25638,69 @@
    "categoria": "Hogar",
    "barcodes": [
     "5600735020295"
+   ]
+  },
+  {
+   "marcaKey": "destop",
+   "marca": "Destop",
+   "nombre": "Desatascador de tuberías Destop Turbo gel",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5601217139016"
+   ]
+  },
+  {
+   "marcaKey": "destop",
+   "marca": "Destop",
+   "nombre": "Desatascador de tuberías Destop especial pelos",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5601217139009"
+   ]
+  },
+  {
+   "marcaKey": "bufalo",
+   "marca": "Búfalo",
+   "nombre": "Impermeabilizante calzado Búfalo spray",
+   "categoria": "Hogar",
+   "barcodes": [
+    "4009175965974"
+   ]
+  },
+  {
+   "marcaKey": "bufalo",
+   "marca": "Búfalo",
+   "nombre": "Renovador calzado ante y nobuck Búfalo spray",
+   "categoria": "Hogar",
+   "barcodes": [
+    "4009175174017"
+   ]
+  },
+  {
+   "marcaKey": "polegar",
+   "marca": "Polegar",
+   "nombre": "Quitaesmalte con acetona Polegar",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3596710524020"
+   ]
+  },
+  {
+   "marcaKey": "achbrito",
+   "marca": "Ach. Brito",
+   "nombre": "Jabón Ach. Brito alquitrán",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5601135060478"
+   ]
+  },
+  {
+   "marcaKey": "evoluderm",
+   "marca": "Evoluderm",
+   "nombre": "Aceite de coco virgen Evoluderm",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3760100680188"
    ]
   }
  ]
