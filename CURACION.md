@@ -5988,6 +5988,15 @@ animal. **No es cosmética**: va en Hogar, con el mismo criterio que Frosch, Eco
 Desde la conversación de la app no se llega a `ecox.pt` ni a Open*Facts (red del entorno), por eso el
 encargo va aquí.
 
+### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
+Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
+**limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no
+confundir con Zabón de Bolivia (jabones, no se vende aquí) ni con SABON (cosmética, otra empresa). Mismo
+encargo y mismo criterio que EcoX: fichas de ingredientes **648/2004** de su web o foto trasera legible y
+completa, EAN atado por nombre y formato, alias en español para las categorías genéricas y los alérgenos de
+perfume, y cada producto juzgado por su lista. Sin lista completa, no entra. Anotar aquí cuántos entran,
+cuántos quedan limpios y cuántos se quedan fuera.
+
 ### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
 (10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
 essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
