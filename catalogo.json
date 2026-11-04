@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-hogar2",
+ "version": "2026-11-04-ecox",
  "marcas": [
   {
    "key": "larocheposay",
@@ -177398,6 +177398,133 @@
       "4056489044338"
      ],
      "inci": "Aqua, Sodium Laureth Sulfate, C12-18 Pareth-7, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Cocoate, Vinylcopolymer modified, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Subtilisin, Tetramethyl acetyloctahydronaphthalenes, Terpineol, Sodium Benzotriazolyl Butylphenol Sulfonate and Buteth-3 and Tributyl Citrate, Methylisothiazolinone, Benzisothiazolinone, Lipase, Amylase, Mannanase, Colorant"
+    }
+   ]
+  },
+  {
+   "key": "ecox",
+   "nombre": "EcoX",
+   "productos": [
+    {
+     "nombre": "Friegasuelos cítrico EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020738",
+      "5600735020684",
+      "5600735020646"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), perfume (limoneno), conservante (Benzoato de sódio)"
+    },
+    {
+     "nombre": "Limpiador multisuperficies cítrico EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020776",
+      "5600735020158",
+      "5600735020813"
+     ],
+     "inci": "Água, sabão (origem natural), butoxietanol, álcool isopropilico, perfume"
+    },
+    {
+     "nombre": "Abrillantador para lavavajillas limón EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020745"
+     ],
+     "inci": "Água, sabão (origem natural), álcool isopropílico, alcoxilato de álcool gordo (origem naural, diacetato de glutamato tetrassódico, ácido cítrico, conservante (1 2-bencisotiazol-3 (2H) -onal), perfume (limoneno)"
+    },
+    {
+     "nombre": "Bicarbonato de sodio para limpieza EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020943"
+     ],
+     "inci": "Hidrogenocarbonato de sódio"
+    },
+    {
+     "nombre": "Blanqueador para la colada EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020592"
+     ],
+     "inci": "Percarbonato de sódio, carbonato de sódio"
+    },
+    {
+     "nombre": "Detergente lavavajillas máquina en polvo EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020295"
+     ],
+     "inci": "Silicato de sódio (origem natural), Carbonato dissodico composto com peroxido de hidrogenio (2:3) (origem natural), Carbonato de sodio (origem natural), (1-hidroxietilideno) bisfosfonato de tetrassodio, Subtilisina"
+    },
+    {
+     "nombre": "Detergente líquido ropa jabón natural EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020356"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), Lauriléter sulfato de sódio (origem natural) perfume (citronellol, Geraniol, Limonene), diacetato de glutamato tetrassódico, Copolímero de estireno / acrilatos de sódio, conservante (1 2-bencisotiazol-3 (2H) -onal)"
+    },
+    {
+     "nombre": "Lavavajillas a mano limón EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020240"
+     ],
+     "inci": "Água, sabão (origem natural), cocamidopropil Betaína (origem natural), Lauriléter sulfato de sódio (origem natural), perfume (Limonene), ácido etidrónico, conservante (1 2-bencisotiazol-3 (2H) -onal)"
+    },
+    {
+     "nombre": "Friegasuelos lavanda EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600735020059"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), perfume, corante, conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol)"
+    },
+    {
+     "nombre": "Limpiador de WC higo EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600730729131"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), ácido glicolico(origem natural), ácido cítrico(origem natural), perfume"
+    },
+    {
+     "nombre": "Detergente líquido ropa Caribe EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600730729407"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), Lauriléter sulfato de sódio (origem natural), perfume, diacetato de glutamato tetrassódico, Copolímero de estireno / acrilatos de sódio, mix de enzimas, ácido citrico, conservante (1 2-bencisotiazol-3 (2H) -onal), corante"
+    },
+    {
+     "nombre": "Suavizante concentrado Caribe EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600730729377"
+     ],
+     "inci": "Água, Metossulfato de Dioleoiletil Hidroxietilmonio, perfume, corante, conservante (1 2-bencisotiazol-3 (2H) -onal)"
+    },
+    {
+     "nombre": "Limpiador de baños en crema con hueso de aceituna EcoX",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5600730729575"
+     ],
+     "inci": "Água, sabão (origem natural), Alcoois C12-14 etoxilados (origem natural), Lauriléter sulfato de sódio (origem natural), caroço de azeitona (origem natural), ácido etidrónico, Goma Xantana, hidróxido de sódio, perfume, conservante (1 2-bencisotiazol-3 (2H) -onal)"
     }
    ]
   }

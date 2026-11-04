@@ -6027,6 +6027,34 @@ encargo va aquí.
 - **Alternativas 2026-11-04c:** de 2.420 a 2.419; sale el limpiador de muebles Nuncas Livax `8001704406800` (lleva
   butoxietanol). `verifica.mjs`: 0 en los tres grupos.
 
+**Segunda vuelta (versión 2026-11-04-ecox, pedida por Mariana: "busca EcoX en supermercados y cruza"): 13 productos y 17 códigos.**
+- **Dónde estaban los códigos:**
+  - **Catálogo oficial de la Etiqueta Ecológica de la UE** (`environmental-data.ec.europa.eu/ecolabel`, licencia PT/020/009,
+    EcoXperience Lda): el propio fabricante registra el GTIN de cada formato. 10 productos: Detergente Chão Citro 850 ml
+    `5600735020738`, 5 L `5600735020684` y 20 L `5600735020646`; Multisuperfícies Citro 850 ml `5600735020776`, 5 L
+    `5600735020158` y 20 L `5600735020813`; y la línea **Pro** (3) y "Superficies Menta Pro Fit" (1), profesionales y sin lista
+    en ecox.pt: fuera.
+  - **Auchan Portugal** (`auchan.pt`, por su mapa del sitio; la búsqueda la prohíbe su robots.txt): 17 fichas EcoX con
+    GTIN, fotos y "Composição" (la declaración de la etiqueta; en tres, la lista entera, idéntica a la de ecox.pt). Continente
+    y Pingo Doce no venden EcoX (comprobado en los listados descargados el mismo día).
+- **Cómo se ata:** lista de ecox.pt + código del fabricante (Ecolabel) o de Auchan, por nombre y formato (850 ml = 34 dosis;
+  pastillas de lavavajillas 1 kg = 70 dosis), y lo que declara la etiqueta en Auchan tiene que estar en la lista. Las fotos de
+  Auchan confirman los envases ("Lava tudo alfazema" es el Detergente Chão Alfazema; el multisuperficies, la misma botella).
+- **Entran (13):** friegasuelos cítrico (3 códigos) y multisuperficies cítrico (3) por Ecolabel; por Auchan, abrillantador
+  para lavavajillas `5600735020745`, bicarbonato `5600735020943`, blanqueador para la colada `5600735020592`, detergente
+  lavavajillas máquina en polvo `5600735020295`, detergente ropa jabón natural `5600735020356`, lavavajillas a mano limón
+  `5600735020240`, friegasuelos lavanda `5600735020059`, limpiador de WC higo `5600730729131`, detergente ropa Caribe
+  `5600730729407`, suavizante Caribe `5600730729377` y limpiador de baños en crema con hueso de aceituna `5600730729575`.
+- **Fuera:** suavizante Jacintos y Bergamota `5600735020400` (la etiqueta declara BIT y la lista de ecox.pt, MIT y MCI: otra
+  fórmula); la línea **Orange** de Auchan (gel sanitario, WC en spray, multisuperficies en spray y lava tudo 1 L), que no está en
+  ecox.pt y en Auchan solo trae rangos: **sin lista**; el multisuperficies de 850 ml de Auchan con código interno de tienda
+  (`2400035739001`, prefijo 2: no es un EAN; entra con el de Ecolabel); y la línea Pro.
+- **Formato:** listas en portugués tal cual (con "(origem natural)"), con ";" pasado a "," y sin las comas internas
+  ("Alcoois C12-14 etoxilados", "1 2-benzisotiazol-3…"). Nombres en español con una palabra de Hogar que la app reconozca.
+- **Detector:** limpios **3** (bicarbonato, blanqueador para la colada y detergente lavavajillas máquina en polvo); con
+  avisos 10 (perfume 10, BIT 6, bronopol, MIT y MCI en el friegasuelos lavanda, 2-butoxietanol en el multisuperficies…).
+  Revisión FP/FN: sin fallos con los alias de hoy. Regresión: 0 cambios en las 18.622 fichas anteriores.
+
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
 **limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no
