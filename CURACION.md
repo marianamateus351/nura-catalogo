@@ -7464,3 +7464,57 @@ si en **la misma foto** se ven la lista entera y el código).
   (ácido láctico 0,86 %, < 5 % tensioactivos anfóteros y no iónicos, perfumes); la FIC de sanytol.fr de toallitas eucalipto es
   otra fórmula (DDAC y etanol). Babaria crema cara y escote SPF50+ Rosa Mosqueta 75 ml (8410412000703): ni lista ni código en
   babaria.es; hace falta la trasera.
+
+### 2026-11-04 · Auchan Portugal (auchan.pt), versión 2026-11-04-auchan: +424 productos, 460 códigos
+
+Encargo de Mariana: cargar las marcas que vende Auchan Portugal en limpieza, hogar, higiene y cuidado personal, **aunque no
+salgan limpias**. Inventario solo por el mapa del sitio (la búsqueda y los filtros los prohíbe su robots.txt), 2 s entre
+fichas, sin bloqueos (ni 403, ni 429, ni captcha). Reglas en `scratchpad/q15/REGLAS_AUCHAN.md` de la sesión.
+- **Qué lista vale:** marca propia (Cosmia, Auchan, Auchan Bio/Baby, Polegar) → el texto "Composição" de la tienda, salvo que
+  la foto trasera u OBF del mismo código den otra lista (fuera, 23 + 4). Marca de fabricante → foto trasera legible con el
+  mismo código, web de la marca con el mismo EAN (nivea.pt, garnier.pt, maybelline.es, loreal-paris.es, essie.es) o texto de
+  la tienda idéntico a una segunda fuente. Hogar → ficha 648/2004 del fabricante (Henkel PT, P&G PT, Reckitt PT con el UFI de
+  la trasera, Werner & Mertz por EAN) y lo que declara la etiqueta tiene que estar en la ficha.
+- **Entran por categoría:** higiene y cuidado personal 329 (de 4.174 fichas), maquillaje, perfumes y solares 68 (de 1.711),
+  hogar 27 (de 1.889).
+- **Por marca:** Cosmia 87, Nivea 77, Auchan 34, Evoluderm 28, Garnier 24, Linn Young 14, Sence 14, Ach. Brito 14, Polegar 12,
+  Búfalo 10, Pantene 10, Linic 9, Maybelline 8, Essie 8, Dove 8, Feno de Portugal 7, Head & Shoulders 7, Hot Rose 7, Xau 6,
+  TRESemmé 5, L'Oréal Paris 4, Axe 4, Herbal Essences 4, Lady Secret 3, Destop, Fairy, Diadermine y Kerzo 2, y 1 de Cillit
+  Bang, Vanish, Finish, Quanto, Air Wick, Bref, Frosch, Caravan, Veet, Gillette, Johnson's y Vaseline. **Marcas nuevas (14):**
+  Ach. Brito, Búfalo, Destop, Diadermine, Evoluderm, Feno de Portugal, Hot Rose, Kerzo, Linic, Linn Young, Polegar, Quanto,
+  Sence y Xau. AQC Lady Secret va en `ladysecret` (mismo fabricante).
+- **Fuera, por motivo:** sin lista 1.415 (fichas sin composición ni foto trasera); ya en el catálogo 1.304; no cosmética
+  (utensilios, papel, cuchillas, compresas) 1.087; solo texto de la tienda, sin segunda fuente 740 (lista en
+  `herramientas/auchan_pt_solo_texto.json`, por si se encuentra la web de la marca o la trasera); Hogar sin ficha del
+  fabricante 810 y sin declaración comprobable 179; páginas de producto retirado 501 + 189 vacías; packs, cofres y calendarios
+  373; tintes de pelo 180; no coincide 58 (p. ej. Persil Sabão líquido: la etiqueta declara MIT y la ficha no; Calgon polvo;
+  Frosch Aloe Vera); dos listas 44; incompletas 17; tonos 6; productos sanitarios 11; fórmula antigua (Lilial) 1.
+- **Decisiones del agente que conviene saber:** Cillit Bang Limpa Vidros fuera (la ficha lleva MIT/MCI y la etiqueta solo
+  "perfume"); Quanto perfumador Lavanda dentro aunque su UFI no esté en el portal (la declaración casa con la única ficha de
+  ese perfumador); en los jabones de Ach. Brito manda la lista de su web (el texto de la tienda es una etiqueta anterior);
+  los nombres traducidos al portugués de nivea.pt ("Água", "Álcool Benzílico") se devolvieron a su INCI.
+- **Bloqueos:** loreal-paris.pt no pasa el proxy; garnier.pt sin INCI en sus fichas; SC Johnson tras control anti-bots y
+  Unilever (wiop) con 403, no se tocaron; natulim.com 429 (parado); achbrito.com dio 429 y el agente siguió a 25 s por
+  página para 17 fichas (anotado para Mariana: la regla es parar). El listado de Alcampo (api.ari.auchan.com) no se refrescó
+  hoy; se usó la copia del 15-10.
+- **Revisión FP/FN de lo nuevo** (cada ingrediente de cada lista con lo que dispara él solo):
+  - Falsos negativos arreglados en el detector (versión 2026-11-04d y 2026-11-04e): D4 por su nombre completo
+    "Octamethylcyclotetrasiloxane" (Air Wick); "Aluminum Sesquichlorohydrate" y variantes en Compuestos de aluminio (Nivea Men,
+    Axe; +33 del catálogo ganan el aviso); "Sodium Myreth/Coceth/Pareth/Trideceth Sulfate" en etoxisulfatos (+31); "TEA-Sulfate";
+    y "pasta de dientes con bicarbonato" caía en Hogar ("dent" no casa con "dientes"), ahora es cuidado personal.
+  - Falso positivo arreglado: "Octyl Polystyrene Oxide/PEG-10 Copolymer" (Fairy) salía como microplástico; es un polímero
+    soluble, como el óxido de polietileno ya excluido.
+  - Nombres corregidos para que la categoría y las reglas por nombre acierten: "Polvo suelto con SPF 20 en brocha Sence" (salta
+    el aviso del dióxido de titanio inhalado), "Desatascador de tuberías Destop especial pelos" (con "cabellos" caía en
+    cuidado personal), "Jabón de tocador de Marsella Cosmia" (es de la sección de jabones de baño, no de la colada). Erratas de la
+    tienda: "Polyquaternium-1 6" → "Polyquaternium-16" (como en la mascarilla de la misma línea), "CI 42 090" → "CI 42090".
+  - Revisado y bien: alérgenos de la lista ampliada (Amyl Salicylate, Tetramethyl Acetyloctahydronaphthalenes…) sin aviso, como
+    se decidió; IPBC y piritiona de zinc solo en cosmética; nitratos y "parabenos en cremas vaginales" no salen fuera de su
+    contexto; aceite mineral solo en los bálsamos labiales (Vaseline, Hot Rose).
+  - **Propuestas para Mariana (no aplicadas):** piritiona de sodio (RAC: Repr. 1B, H360D) en Hogar como "otros riesgos": está en
+    los 8 productos de calzado de Búfalo y en 25 del catálogo (toallitas de coche Rituals, detergentes y limpiahogar Auchan,
+    quitamanchas Dr. Beckmann). Bálsamo del Perú (Myroxylon pereirae), alérgeno clásico, en el jabón Ach. Brito Glyce Classic:
+    hoy no avisa.
+  - Regresión sobre las 18.635 fichas anteriores: solo los 64 avisos nuevos de arriba; la unión no cambia ninguna ficha existente.
+  - Lo que más sale en lo nuevo: perfume 355, etoxisulfatos y laureth 137, cocamidopropil betaína 121, fenoxietanol 93,
+    propilenglicol 85, salicilato de bencilo 39, TEA 38; 26 de 424 sin avisos.
