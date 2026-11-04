@@ -6054,6 +6054,7 @@ encargo va aquí.
 - **Detector:** limpios **3** (bicarbonato, blanqueador para la colada y detergente lavavajillas máquina en polvo); con
   avisos 10 (perfume 10, BIT 6, bronopol, MIT y MCI en el friegasuelos lavanda, 2-butoxietanol en el multisuperficies…).
   Revisión FP/FN: sin fallos con los alias de hoy. Regresión: 0 cambios en las 18.622 fichas anteriores.
+- **Alternativas 2026-11-04e:** de 2.419 a 2.422 (entran los tres limpios de EcoX). `verifica.mjs`: 0 en los tres grupos.
 
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
