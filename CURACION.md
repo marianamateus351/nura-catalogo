@@ -5834,6 +5834,7 @@ Desde la conversación de la app no se llega a `continente.pt`, `mercadao.pt` ni
   desmaquillantes Be Beauty, retinyl palmitate del jabón manzana verde, benzofenona-4 de la mascarilla para cabello teñido y
   sulfito sódico de las toallitas micelares están en sus listas). Regresión del catálogo: 0 cambios en las 18.547 fichas
   anteriores. Limpios (sin ningún aviso): 2, la vaselina pura Pingo Doce y el quitaesmalte Be Beauty con acetona.
+- **Alternativas 2026-11-04a:** de 2.418 a 2.420 (entran esos dos); `verifica.mjs` da 0 en los tres grupos.
 
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
