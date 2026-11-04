@@ -7184,6 +7184,64 @@ científico" para H1-H5; Conejo con el código de Consum, sí.
     efecto tiroideo del clorato es por ingesta, y solo Henkel lo declara, así que avisaría de unas lejías y no de otras); los
     perfumes declarados enteros sin ningún alérgeno clásico (Dixan y Wipp en polvo, Estrella Limón) no dan aviso de fragancia,
     como manda la ficha 193 (decisión W, pendiente desde octubre).
+
+**Bloque 2 · Marca blanca de Hogar (versión 2026-11-04-hogar2): 36 productos y 37 códigos; marca nueva Formil (Lidl).**
+Mariana (2026-11-04): "sigue con el bloque 2 de Hogar". Dos agentes (`q11/merca`, `q11/dlc`), reglas en `q11/REGLAS_HOGAR2.md`:
+lista solo de la ficha 648/2004 del fabricante (la etiqueta solo trae rangos), código de la tienda o de la propia ficha y
+comprobación con la foto trasera actual (lo que nombra la etiqueta tiene que estar en la lista; criterio H1/H5 para los
+alérgenos de la lista ampliada).
+| Cadena (marca) | Códigos de marca propia vistos | Entran | Sin ficha del fabricante | Otros fuera |
+|---|---|---|---|---|
+| Mercadona (Bosque Verde) | 249 | 14 (15 códigos) | 86 | 33 no coinciden, 21 ya estaban, 7 ficha antigua, 5 dos fichas, 1 pack, 81 no son limpieza |
+| Dia (Super Paco, Dia, Imaqe, Aniquilax) | 136 | 2 | 89 | 18 ya estaban, 7 dos fichas, 20 otros |
+| Lidl (Formil, W5) | 30 | 7 | 20 | 1 ya estaba, 2 solo con ficha de Polonia y Serbia |
+| Carrefour | 16 | 13 | — | 1 desinfectante de frutas, 2 códigos franceses |
+- **Mercadona.** No hay Hacendado de limpieza (los Hacendado de la sección son comida y velas). Entran por **Inquiba** (buscador
+  público por EAN `inquiba.es/utils/buscaean.php`; 7 productos, 8 códigos: suavizantes Violets y Colonia hipoalergénico,
+  detergentes pieles sensibles y prendas delicadas, lavavajillas Aloe y ultra concentrado 600 ml/1,3 L, abrillantador) y por
+  **SPB** (biblioteca pública de `spbglobal.com`, PDF por EAN: lejía normal 5 L, lejía perfumada con detergente, lejía
+  multiusos en spray, limpiacristales y multiusos, limpiador de placas de inducción y Oxi Active gel color), más la sal para
+  lavavajillas (composición completa en la etiqueta). **Las fichas de SPB son de 2017-2020**: entran porque son las últimas que
+  publica el fabricante y la etiqueta actual no nombra nada que no traigan (en septiembre el Oxi Active y las lejías se
+  dejaron fuera por antiguas; criterio de Claude con la delegación de Mariana del 2026-10-30). El amoníaco sigue fuera (ficha
+  de 2015 y la etiqueta nombra Terpineol). **Francisco Aragón**: las 15 fichas del catálogo siguen idénticas; ningún
+  ambientador ni vela nuevo entra (20 etiquetas nombran sustancias del perfume que la lista no trae). **No publican ficha**:
+  Linasa, McBride, Laboratorios Maverick, Bolaseca, Eurotab, Bilper, Relevi, Tenka, Orache y Diranzo, y 85 productos sin
+  proveedor en la API. Persán dio 403 a la primera petición del agente de Mercadona (no se reintentó).
+- **Dia.** Entran las pastillas lavavajillas clásicas `8480017248008` y todo en uno `8480017296863` (Persán; el código va tapado
+  en la caja y se llegó a la ficha por el UFI impreso). Fuera: 5 lejías y 2 amoníacos (Asturquimia da la ficha por EAN, pero la
+  etiqueta es de La Tuna o Elaboraciones Químicas del Sur, como el 15-10) y 89 sin ficha (Iberfrasa 23, Lina 20, Re.Le.Vi. 8,
+  La Tuna, Zelnova, Quimi Romar, Nicols…). `infodetergent.dia.es` manda a `www.diabpm.com`, con TLS roto ("dh key too small"):
+  no se fuerza.
+- **Lidl.** `detergents.lidl-info.com` sigue en 504 (12:32, 13:13 y 13:32 UTC). Entran por **Persán** las cápsulas Formil 5 en 1
+  blanca y color `4335619023499`, color `4335619023505` y Marsella `4335619023543`, los líquidos Formil Marsella `4056489319177`,
+  aloe vera `4056489044352` y color `4056489044338` (Persán tiene dos fichas de cada uno; el UFI de la etiqueta señala la
+  vigente, la que ya no lleva ácido bórico) y el lavavajillas W5 Nature limón `4056489846345`. Envase español comprobado por foto.
+  Marca nueva `formil` ("Formil (Lidl)").
+- **Carrefour.** Su web no se toca (anti-bot). Entran 13 con prefijo `8431876` por **Quicesa** (Química del Centro), que publica
+  la ficha con el EAN como título (2021-2024): 6 lejías, limpiahogar, limpiador de cocina en spray, toallitas multisuperficies,
+  complemento textil (la ficha de 2022, la más reciente de las dos), spray plancha fácil y los dos desinfectantes Carrefour
+  Expert. **Ojo:** el código lo ata el fabricante (mismo criterio que Persán e Incasa), pero solo se ha podido ver una trasera
+  (lejía pino, OPF 2018, casa); Carrefour, como Dia, podría comprar la misma lejía a otro fabricante. `info-detergent.com` (la
+  web que imprime la etiqueta) falla por TLS.
+- **Revisión FP/FN de los 36** (lista por lista):
+  - **Falso negativo corregido — benzofenona-4 en español.** "Benzofenona-4" (lavavajillas Aloe y ultra concentrado Bosque
+    Verde) no saltaba: la ficha solo tenía los alias en inglés y el nombre entero "Benzofenona-4 (sulisobenzona)". Alias nuevos
+    "benzofenona-4", y para la BP-3 "benzofenona-3" y "oxibenzona".
+  - **Falso positivo corregido — estireno.** "Styrene Acrylates Copolimer" (errata de Inquiba, prendas delicadas) daba "Estireno
+    residual" porque la excepción solo cubría "styrene acrylates copolymer" y las formas con barra: `excluyeSi` += "styrene
+    acrylates", "acrylates styrene" y singulares.
+  - Regresión de los tres cambios sobre 18.586 fichas: **0 cambios**. Necesitan build.
+  - **Dudoso, sin tocar:** "Polyester" a secas en el detergente de prendas delicadas Bosque Verde da "Microplásticos"; en un
+    detergente líquido casi seguro es el polímero antisuciedad disuelto (como el "polypropylene terephthalate" de Wipp,
+    excluido en octubre), pero la ficha no lo dice. El producto tiene 7 avisos más y no está en Alternativas.
+  - Butylphenyl Methylpropional (Lilial) en el suavizante Colonia "hipoalergénico", el detergente prendas delicadas y el
+    lavavajillas ultra concentrado de Bosque Verde y en el Formil aloe vera: está en la lista **y en la etiqueta actual**. En
+    detergentes no está prohibido por debajo del límite de clasificación; el aviso es correcto.
+  - Sin avisos: 4 (tres lejías sin perfume y la sal). Las lejías no van a Alternativas (corrosivas).
+- **Aviso para Mariana:** el robots.txt de `tienda.mercadona.es` prohíbe `/api` (`Disallow: /api`). Se ha usado en este bloque y
+  en todos los de Mercadona desde septiembre (unas 290 peticiones, con pausa y sin cabecera de navegador); lo que el robots.txt
+  permite (`/product/<id>`) solo da el nombre y la foto delantera. Hay que decidir si se sigue usando.
  no tiene regla: sale en la máscara Rimmel Wonder'Fully Real `30121874`/`30122277`.
 
 ## PENDIENTES DE MARIANA (no los puede resolver Claude solo)

@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-pt",
+ "version": "2026-11-04-hogar2",
  "marcas": [
   {
    "key": "larocheposay",
@@ -25820,6 +25820,123 @@
       "3560071172015"
      ],
      "inci": "Calcium Carbonate, Aqua, Mentha Piperita Leaf Water, Sorbitol, Aloe Barbadensis Leaf Juice, Lauryl Glucoside, Cellulose Gum, Aroma, Xanthan Gum, Citric Acid, Sodium Fluoride, Sodium Citrate, Stevia Rebaudiana Extract, Glycerin, Potassium Sorbate, Sodium Benzoate, Camellia Sinensis Leaf Extract, Menthol, Mentha Piperita Oil, Anethole, Eucalyptus Globulus Oil, Limonene, Pinene, Beta-Caryophyllene"
+    },
+    {
+     "nombre": "Limpiador de cocina en spray Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876286854"
+     ],
+     "inci": "Aqua, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), Ethanolamine, Didecyldimonium Chloride, Parfum, Alcohol, Trideceth-12, Limonene"
+    },
+    {
+     "nombre": "Limpiahogar Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876287233"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), Alcohol, C9-11 Pareth-3, Parfum, Alcohol poliglucosido C8-C10, PPG-2 Methyl Ether, Linalool, Citral, Acetaldehyde"
+    },
+    {
+     "nombre": "Toallitas limpiadoras multisuperficies Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876300123"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), C9-11 Pareth-3, Alcohol poliglucosido C8-C10, Parfum, Alcohol, PPG-2 Methyl Ether, Ethyl Acetate"
+    },
+    {
+     "nombre": "Complemento textil perfumado para la colada Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876300758"
+     ],
+     "inci": "Aqua, Didecyldimonium Chloride, C10-16 Pareth-7, Tetrasodium Dicarboxymethyl Glutamate, Alcohol, Citric Acid, Sodium Hydroxide, Parfum, Colorant"
+    },
+    {
+     "nombre": "Limpiador desinfectante Carrefour Expert",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876342055"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), Alcohol, C9-11 Pareth-3, Parfum, Alcohol poliglucosido C8-C10, PPG-2 Methyl Ether, Linalool, Citral, Limonene, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Ethyl Acetate"
+    },
+    {
+     "nombre": "Desinfectante para superficies Carrefour Expert",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876286830"
+     ],
+     "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), Alcohol, C9-11 Pareth-3, Alcohol poliglucosido C8-C10, Parfum, PPG-2 Methyl Ether, Masa de reacción de acetato de alilo (2-metilbutoxi) y acetato de alilo (3-metilbutoxi), Ethyl Acetate"
+    },
+    {
+     "nombre": "Lejía Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876248326"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua"
+    },
+    {
+     "nombre": "Lejía densa hogar Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876064230"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Lejía con detergente azul Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876250855"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum, Limonene"
+    },
+    {
+     "nombre": "Lejía con detergente pino Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876027501"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide, Parfum, Limonene"
+    },
+    {
+     "nombre": "Lejía para lavadora Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876064254"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua"
+    },
+    {
+     "nombre": "Lejía densa para lavadora Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876248340"
+     ],
+     "inci": "Sodium Hypochlorite, Aqua, Sodium Laureth Sulfate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Spray plancha fácil Carrefour",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8431876355574"
+     ],
+     "inci": "Aqua, Alcohol, Undeceth-40, PVP, Isopropyl Alcohol, Potassium Sorbate, Parfum"
     }
    ]
   },
@@ -46905,6 +47022,133 @@
       "8480000494023"
      ],
      "inci": "Aqua, Acetic Acid"
+    },
+    {
+     "nombre": "Suavizante concentrado Violets Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001027536"
+     ],
+     "inci": "Agua, Methylsulfate of N-Metil-N(2-hidroxietil)N N-di-(1-oxoalquil)oxietil)-amonium, Parfum, Parfum encapsulado, Calcium Chloride, Silicone, 2-Bromo-2-nitropropane-1 3-diol, Tetramethyl Acetyloctahydronaphthalenes, Terpineol, Hexyl Cinnamal, Citronellol, Camphor, Benzyl Salicylate"
+    },
+    {
+     "nombre": "Suavizante concentrado hipoalergénico Colonia Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001027529"
+     ],
+     "inci": "Agua, Methylsulfate of N-Metil-N(2-hidroxietil)N N-di-(1-oxoalquil)oxietil)-amonium, Parfum, Parfum encapsulado, Calcium Chloride, Silicone, Liquitint Pink AL, Colorante Liquitint Yelow LP, 2-Bromo-2-nitropropane-1 3-diol, Hexamethylindanopyran, Butylphenyl Methylpropional, Linalyl Acetate, Hexyl Cinnamal, Citral, Camphor, Limonene, Lavandula Hybrida Extrat, Geraniol, Linalool, Menthol, Terpineol"
+    },
+    {
+     "nombre": "Detergente líquido ropa pieles sensibles Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000136435"
+     ],
+     "inci": "Aqua, Alcoholes C13-15 ramificados y lineales etoxilados (7 EO), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Acidos grasos C12-18 e insaturados de C18, N N-Bis-(carboximetil)-DL-alaninato de trisodio, Fenoxietanol, Lauril Glucosido, D-Glucopiranosa oligomeros decil octil glicósidos, Cloruro sódico, Styrene/Acrylates Copolymer, Hidróxido Sódico, 1-óxido de piridina-2-tiol sal de sodio, Ácido Cítrico"
+    },
+    {
+     "nombre": "Detergente líquido ropa prendas delicadas Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000405302"
+     ],
+     "inci": "Agua, Sodium Laureh Sulfate, Sodium clhoride, Ethoxylated Fatty Alcohol, C12-18 Fatty acid, Sodium Hydroxide, Polyester, Perfume, Acrylic Polymer, Dyethylenetriamine penta (methylene phosphonic acid) heptasodium salt, Styrene Acrylates Copolimer, Citric Acid, Polymethylsioloxane, 2 2'-(1 2-Ethenediyl)Bis(5-((4-((3-Amino-3-Oxopropyl)(2-Hydroxyethyl)Amino)-6-(Phenylamino)-1 3 5-Triazin-2-Yl)Amino)Benzenesulfonic Acid Sodium Salt, Substilin, Cellulase, Amylase, Styrene Acrylates Copolymer, Benzisothiazolinone, Methylisothiazolinone, Amyl Cinnalmal, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Linalool, Hexyl cinnamal, Alpha-isomethyl Ionone"
+    },
+    {
+     "nombre": "Lavavajillas a mano Aloe concentrado Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000136442"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Fatty Alcohols ethoxylated C10-8EO, Óxido de amina laurico, Cocamidopropyl Betaine, D-Glucopiranosa oligomeros decil octil glicósidos, Lauril Glucosido, Parfum, Polietilenimina etoxilado en agua, Benzofenona-4, Styrene/Acrylates Copolymer, Fenoxietanol, Benzisothiazolinone, Cloruro sódico, CI 19140, CI 42051, Citronellol, Limonene, Linalool"
+    },
+    {
+     "nombre": "Abrillantador lavavajillas Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000423146"
+     ],
+     "inci": "Aqua, Polymer de Óxido de etileno y propileno, 2-Phosphonobutane-1 2 4-tricarboxylic acid, Polymer de Óxido de etileno y alqueno, Sodium Cumen Sulfonate, Parfum, Methylisothiazolinone + Methylchloroisothiazolinone, Dye, Dimethicone (and) Trimethylsiloxysilicate/Dimethicone Crosspolymer (and) Glyceryl Stearate (and) PEG-20 Stearate, Hexamethylindanopyran, Limonene, Citrus Aurantium Amara Peel Oil"
+    },
+    {
+     "nombre": "Lavavajillas a mano ultra concentrado Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001033834",
+      "8402001033841"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, Óxido de amina laurico, Alcohol graso etoxilad, Acidos sulfónicos C14-16-hidroxi alcano y C14-16-alqueno sales de sodio, Parfum, Xilensulfonato de sodio, Alcohol C12-C18 etoxilado, Cloruro sódico, Fenoxietanol, Benzisothiazolinone, Methylisothiazolinone, Citrato sodico · 2H2O, Benzofenona-4, citric acid, CI 19140, CI 42051, Hexamethylindanipyran, Butylphenyl Methylpropional, Limonene, Lavandula Oil/Extract, Citrus Aurantium Amara Peel Oil"
+    },
+    {
+     "nombre": "Lejía normal desinfectante Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000430113"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Carbonate, Sodium Hydroxide"
+    },
+    {
+     "nombre": "Lejía perfumada con detergente Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000430243"
+     ],
+     "inci": "Aqua, Sodium Hypochlorite, Sodium Laureth Sulfate, Sodium Hydroxide, Sodium Carbonate, Sodium Xylene Sulfonate, Parfum, Acido bis(fosfonometil)nitroril]metil}fosfonico - potasico (1 : 5), Dimethicone, PEG-10 Stearate, Dimethiconol, Hydroxyethylcellulose, Estearato de 1-glicerol, Carbomer"
+    },
+    {
+     "nombre": "Lejía multiusos en spray Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000430601"
+     ],
+     "inci": "Aqua, Sodium octyl sulphate, Sodium Hypochlorite, Amines C12-14 (even numbered)-alkyldimethyl n-oxides, Sodium Hydroxide, Sodium Sulfate, Sodium Carbonate, Parfum, {[bis(phosphonomethyl)nitroryl]methyl}phosphonic acid - potassium (1 : 5), Sodium Chloride"
+    },
+    {
+     "nombre": "Limpiacristales y multiusos Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000432186"
+     ],
+     "inci": "Aqua, Alcohol, Isopropyl Alcohol, D-Glucopyranose oligomers decyl octyl glycosides, Dimethylol Glycol, Parfum, Ammonium Hydroxide, Undeceth-40, Acrylic copolymer, Octylisothiazolinone, Colorant, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Limpiador de placas de inducción Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000442154"
+     ],
+     "inci": "Aqua, C12-14 Pareth-7, Alcohol, Sodium (xylenes and 4-ethylbenzene)sulfonate, D-Glucopyranose oligomeric heptyl glycoside, Parfum, Sodium Laureth Sulfate, Tetrapotassium Pyrophosphate, Dimethylol Glycol, 2-[(2-ethylhexyl)oxy]ethanol, PVP, Citral, Sodium Hydroxide, Octylisothiazolinone, Denatonium Benzoate"
+    },
+    {
+     "nombre": "Quitamanchas ropa de color Oxi Active en gel Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480000402332"
+     ],
+     "inci": "Aqua, Hydrogen Peroxide, Undeceth-40, PVP, Xanthan Gum, Etidronic Acid, Sodium Hydroxide, Parfum, 4-hidroxi-2 2 6 6-tetrametilpiperidinoxil, Colorant"
+    },
+    {
+     "nombre": "Sal para lavavajillas Bosque Verde",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8402001008009"
+     ],
+     "inci": "Sodium Chloride"
     }
    ]
   },
@@ -86965,6 +87209,24 @@
       "8480017296894"
      ],
      "inci": "Sodium Chloride"
+    },
+    {
+     "nombre": "Pastillas lavavajillas clásicas Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017248008"
+     ],
+     "inci": "Sodium Citrate, Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Citrate, Polyethylene Glycol, Sodium acetate trihydrate, TAED, Sodium Disilicate, Ceteareth-7, Sodium Sulfate, Sodium Silicate, Sodium Polyacrylate, Aqua, Copolymer of Maleic and Acrylic Acid, Tetrasodium Etidronate, Cellulose Gum, Subtilisin, Parfum, Amylase, Colorant"
+    },
+    {
+     "nombre": "Pastillas lavavajillas todo en uno Dia Super Paco",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8480017296863"
+     ],
+     "inci": "Sodium Carbonate, Sodium Carbonate Peroxide, Sodium Citrate, Sodium Citrate, Polyethylene Glycol, Sodium Sulfate, TAED, Cellulose, Sodium Polyacrylate, Ceteareth-2, Tetrasodium Etidronate, Subtilisin, Parfum, Aqua, Amylase, Cellulose Gum, Di(hexafluorofosfato) de bis[(N N´ N\"-trimetil-1 4 7-triazaciclononano)-trioxo-dimanganeso (IV) monohidratado, Colorant, Benzotriazole, Citronellol, Geraniol"
     }
    ]
   },
@@ -89741,6 +90003,15 @@
       "4056489871378"
      ],
      "inci": "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %, Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+     "nombre": "Lavavajillas a mano desengrasante limón W5 Nature",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489846345"
+     ],
+     "inci": "Aqua, Cocamidopropyl Betaine, Sodium Laureth Sulfate, PEG-7 Glyceryl Cocoate, Sodium p-cumenesulphonate, Potassium Sorbate, Citric Acid, Parfum, Decyl Glucoside, Sodium Sulfite, Glycerin, Citric Acid, Colorant"
     }
    ]
   },
@@ -177067,6 +177338,66 @@
       "5607047007419"
      ],
      "inci": "Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Cocamidopropyl Betaine, Disodium 2-Sulfolaurate, Sorbitol, Glycerin, Sodium Lactate, Glycereth-2 Cocoate, Lactic Acid, Chamomilla Recutita Flower Extract, Glyceryl Oleate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Squalane, Sodium Surfactin, Panthenol, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, CI 47005"
+    }
+   ]
+  },
+  {
+   "key": "formil",
+   "nombre": "Formil (Lidl)",
+   "productos": [
+    {
+     "nombre": "Detergente en cápsulas 5 en 1 ropa blanca y color Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619023499"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Aqua, Sodium Laureth Sulfate, Propylene Glycol, MEA-Cocoate, Parfum, Poly ethyleneglycol propyleneglycol oligo ester, Sodium Diethylenetriamine Pentamethylene Phosphonate, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Citronellol, Potassium Sulfite, Linalyl Acetate, Potassium Sorbate, Colorant, Phenoxyethanol, Amylase, Pogostemon Cablin Oil, Cellulase, Camphor, Mannanase"
+    },
+    {
+     "nombre": "Detergente en cápsulas 5 en 1 ropa de color Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619023505"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Aqua, Sodium Laureth Sulfate, Propylene Glycol, MEA-Cocoate, Parfum, Poly ethyleneglycol propyleneglycol oligo ester, Sodium Diethylenetriamine Pentamethylene Phosphonate, Vinylcopolymer modified, Subtilisin, Citronellol, Potassium Sulfite, Linalyl Acetate, Colorant, Amylase, Pogostemon Cablin Oil, Phenoxyethanol, Camphor, Mannanase, Cellulase"
+    },
+    {
+     "nombre": "Detergente en cápsulas 5 en 1 fragancia de Marsella Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619023543"
+     ],
+     "inci": "MEA-C10-13 Alkyl Benzenesulfonate, Glycerin, C12-18 Pareth-7, Sodium Laureth Sulfate, Aqua, Propylene Glycol, MEA-Cocoate, Poly ethyleneglycol propyleneglycol oligo ester, Parfum, Sodium Diethylenetriamine Pentamethylene Phosphonate, Styrene/Acrylates Copolymer, Potassium Sulfite, Disodium Distyrylbiphenyl Disulfonate, Subtilisin, Terpinolene, Geraniol, Limonene, Citronellol, Hexyl Cinnamal, Alpha-Terpinene, Hexamethylindanopyran, Potassium Sorbate, Amylase, Phenoxyethanol, Mannanase, Colorant"
+    },
+    {
+     "nombre": "Detergente líquido fragancia jabón de Marsella Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489319177"
+     ],
+     "inci": "Aqua, C12-18 Pareth-7, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Laureth Sulfate, Sodium Cocoate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Sodium Chloride, Parfum, Acrylic Polymer, Tetrasodium Glutamate Diacetate, Styrene/Acrylates Copolymer, Disodium 4 4´-bis[(4-anilino-6-morpholino-1 3 5-triazin-2-yl)amino]stilbene-2 2´-disulphonate, Terpinolene, Geraniol, Limonene, Citronellol, Subtilisin, Hexyl Cinnamal, Alpha-Terpinene, Hexamethylindanopyran, Benzisothiazolinone, Methylisothiazolinone, Lipase, Colorant"
+    },
+    {
+     "nombre": "Detergente líquido aloe vera Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489044352"
+     ],
+     "inci": "Aqua, C12-18 Pareth-7, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Laureth Sulfate, Sodium Cocoate, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Sodium Chloride, Styrene/Acrylates Copolymer, Polimero de ester acrilico, Tetrasodium Dicarboxymethyl Glutamate, 2 2´-Disulfonato de disodio 4 4´-bis((4-anilino-6-morfolino-1 3 5-triazin-2-il)amino)estilbeno, Sodium Sulfate, Sodium Hydroxide, Subtilisin, Butylphenyl Methylpropional, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Benzisothiazolinone, Methylisothiazolinone, Lipase"
+    },
+    {
+     "nombre": "Detergente líquido ropa de color Formil",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489044338"
+     ],
+     "inci": "Aqua, Sodium Laureth Sulfate, C12-18 Pareth-7, Sodium C10-13 Alkyl Benzenesulfonate, Sodium Chloride, Sodium Cocoate, Vinylcopolymer modified, Sodium Diethylenetriamine Pentamethylene Phosphonate, Parfum, Subtilisin, Tetramethyl acetyloctahydronaphthalenes, Terpineol, Sodium Benzotriazolyl Butylphenol Sulfonate and Buteth-3 and Tributyl Citrate, Methylisothiazolinone, Benzisothiazolinone, Lipase, Amylase, Mannanase, Colorant"
     }
    ]
   }
