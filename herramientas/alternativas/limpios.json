@@ -1,5 +1,5 @@
 {
- "version": "2026-10-30-hogar1c",
+ "version": "2026-11-04-pt",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25395,6 +25395,24 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5901887016922"
+   ]
+  },
+  {
+   "marcaKey": "pingodoce",
+   "marca": "Pingo Doce",
+   "nombre": "Vaselina pura Pingo Doce",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5601009992171"
+   ]
+  },
+  {
+   "marcaKey": "bebeauty",
+   "marca": "Be Beauty",
+   "nombre": "Quitaesmalte Be Beauty acetona con aceite de ricino",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "5601009995677"
    ]
   }
  ]

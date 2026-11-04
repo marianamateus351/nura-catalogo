@@ -1,5 +1,5 @@
 {
- "version": "2026-11-01b",
+ "version": "2026-11-04a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -8820,6 +8820,12 @@
        "fechaLista": "21-10-2026"
       },
       {
+       "nombre": "Vaselina pura Pingo Doce",
+       "marca": "Pingo Doce",
+       "barcode": "5601009992171",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Bálsamo hidratante Xerolact PB",
        "marca": "Rilastil",
        "barcode": "8050444858233",
@@ -14487,6 +14493,12 @@
      "key": "esmalte",
      "nombre": "Esmaltes y cuidado de uñas",
      "productos": [
+      {
+       "nombre": "Quitaesmalte Be Beauty acetona con aceite de ricino",
+       "marca": "Be Beauty",
+       "barcode": "5601009995677",
+       "fechaLista": "04-11-2026"
+      },
       {
        "nombre": "Quitaesmalte con acetona 200 ml",
        "marca": "Bodyplus",
