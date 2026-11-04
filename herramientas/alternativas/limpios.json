@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-pt",
+ "version": "2026-11-04-hogar2",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -2601,6 +2601,24 @@
    "categoria": "Hogar",
    "barcodes": [
     "8436617753466"
+   ]
+  },
+  {
+   "marcaKey": "carrefour",
+   "marca": "Carrefour",
+   "nombre": "Lejía Carrefour",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8431876248326"
+   ]
+  },
+  {
+   "marcaKey": "carrefour",
+   "marca": "Carrefour",
+   "nombre": "Lejía para lavadora Carrefour",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8431876064254"
    ]
   },
   {
@@ -6870,6 +6888,24 @@
    "categoria": "Hogar",
    "barcodes": [
     "8480000494023"
+   ]
+  },
+  {
+   "marcaKey": "bosqueverde",
+   "marca": "Bosque Verde",
+   "nombre": "Lejía normal desinfectante Bosque Verde",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8480000430113"
+   ]
+  },
+  {
+   "marcaKey": "bosqueverde",
+   "marca": "Bosque Verde",
+   "nombre": "Sal para lavavajillas Bosque Verde",
+   "categoria": "Hogar",
+   "barcodes": [
+    "8402001008009"
    ]
   },
   {
