@@ -1,0 +1,25 @@
+{
+ "nota": "Zabon (zabon.es): concentrado multiusos con lista publicada en https://zabon.es/pages/centro-de-ayuda (base común + alérgenos por aroma) y sin código EAN en ninguna fuente (2026-11-04). Las ediciones limitadas (Azahar, aroma de otoño) no publican sus alérgenos. Entran en cuanto aparezca el código.",
+ "productos": [
+  {
+   "nombre": "Limpiador multiusos concentrado Zabon lavanda y mandarina",
+   "inci": "Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Coco Glucoside, Sodium Cocoyl Glutamate, Citric Acid, Benzyl Alcohol, Perfume de aceites esenciales puros, Linalool, Limonene, Linalyl Acetate, Pinene, 1,8-Cineole",
+   "fuente": "https://zabon.es/pages/centro-de-ayuda"
+  },
+  {
+   "nombre": "Limpiador multiusos concentrado Zabon ylang ylang y geranio",
+   "inci": "Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Coco Glucoside, Sodium Cocoyl Glutamate, Citric Acid, Benzyl Alcohol, Perfume de aceites esenciales puros, Linalool, Geraniol, Citronellol, Isoeugenol, Geranyl Acetate",
+   "fuente": "https://zabon.es/pages/centro-de-ayuda"
+  },
+  {
+   "nombre": "Limpiador multiusos concentrado Zabon pomelo y lima",
+   "inci": "Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Coco Glucoside, Sodium Cocoyl Glutamate, Citric Acid, Benzyl Alcohol, Perfume de aceites esenciales puros, Limonene, Citral, Isoeugenol, Pinene, Terpinolene",
+   "fuente": "https://zabon.es/pages/centro-de-ayuda"
+  },
+  {
+   "nombre": "Limpiador multiusos concentrado Zabon bergamota y petitgrain",
+   "inci": "Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Coco Glucoside, Sodium Cocoyl Glutamate, Citric Acid, Benzyl Alcohol, Perfume de aceites esenciales puros, Limonene, Linalool, Citral, Geraniol",
+   "fuente": "https://zabon.es/pages/centro-de-ayuda"
+  }
+ ]
+}

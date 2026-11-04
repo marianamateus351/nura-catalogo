@@ -6036,6 +6036,29 @@ completa, EAN atado por nombre y formato, alias en español para las categorías
 perfume, y cada producto juzgado por su lista. Sin lista completa, no entra. Anotar aquí cuántos entran,
 cuántos quedan limpios y cuántos se quedan fuera.
 
+**Hecho (2026-11-04): entran 0. Zabon publica la lista, pero vende sin código de barras.**
+- **Qué vende:** `zabon.es` (Shopify; robots.txt permite fichas y `products.json`) tiene **7 productos**: 3 kits de inicio
+  (botella de vidrio + recargas), 2 packs de recargas (3 recargas; aromas Lavanda y Mandarina, Lima y Pomelo, Ylang Ylang y
+  Geranio, o variado), 1 aroma de edición limitada y la botella sola. Es **un solo producto químico**, el concentrado
+  multiusos, en varios aromas. Se vende solo en su web y por suscripción: ninguna variante tiene `barcode`, ninguna foto
+  enseña un código y no aparece en Open*Facts ni en otras tiendas.
+- **Lista:** no está en las fichas, sino en el **Centro de ayuda** (`/pages/centro-de-ayuda`): "Aqua, Caprylyl/Capryl
+  Glucoside, Decyl Glucoside, Coco Glucoside, Sodium Cocoyl Glutamate, Citric Acid, Benzyl Alcohol, Perfume de aceites
+  esenciales puros" más los alérgenos de cada aroma (Lavanda y Mandarina: Linalool, Limonene, Linalyl Acetate, Pinene,
+  1,8-Cineole; Ylang Ylang y Geranio: Linalool, Geraniol, Citronellol, Isoeugenol, Geranyl Acetate; Pomelo y Lima: Limonene,
+  Citral, Isoeugenol, Pinene, Terpinolene; Bergamota y Petitgrain: Limonene, Linalool, Citral, Geraniol). **4 listas
+  completas**, guardadas en `herramientas/zabon_sin_ean.json` para cuando aparezca un código. **Fuera por falta de lista**:
+  las ediciones limitadas (Azahar y el aroma de otoño con may chang, palmarosa, cardamomo, cedro, pachulí y vetiver), que no
+  publican sus alérgenos.
+- **Cómo saldrían:** **limpios 2** (Lavanda y Mandarina, Bergamota y Petitgrain: perfume declarado de aceites esenciales,
+  como manda la decisión X); **con aviso 2** (Ylang Ylang y Geranio, Pomelo y Lima: **isoeugenol**). El "Somos 100 % libres de
+  disruptores endocrinos" de su web no cambia nada: se juzga la lista.
+- **Alias en español y portugués (rama de la app, `DETECTOR_VERSION` 2026-11-04c, necesita build):** la lista de alérgenos
+  de perfume con la que la ficha 193 detecta un perfume no declarado en Hogar estaba solo en inglés: "Limoneno", "Linalol",
+  "Citronelol", "Cumarina", "Hexil cinamal", "Aldehído hexilcinámico"… no daban aviso. Añadidos en español y portugués (y
+  "salicilato de benzilo" y "benzoato de benzilo" en portugués a sus fichas). Regresión sobre 18.622 fichas: 0 cambios.
+- **Alternativas 2026-11-04d:** sin cambios de contenido (2.419).
+
 ### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
 (10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
 essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
