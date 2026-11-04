@@ -5988,6 +5988,45 @@ animal. **No es cosmética**: va en Hogar, con el mismo criterio que Frosch, Eco
 Desde la conversación de la app no se llega a `ecox.pt` ni a Open*Facts (red del entorno), por eso el
 encargo va aquí.
 
+**Hecho (2026-11-04): entran 0. EcoX publica la lista, pero no hay ningún código de barras.**
+- **Listas:** `ecox.pt` es una tienda Shopify (su robots.txt permite fichas y `products.json`). De 101 productos, **57
+  llevan "Ingredientes"** en la ficha: lista completa al estilo 648/2004, en portugués y con "(origem natural)" tras cada
+  ingrediente, que se reduce a **23 listas distintas** (cada producto se vende en 0,85, 5, 10 y 20 L con la misma lista).
+  Los otros 44 son accesorios (cepillos, bayetas, bolsas, guantes, dosificadores) y **kits** (packs de varios productos):
+  no llevan lista porque no son productos químicos o son packs. Ningún producto químico de la marca está sin lista.
+- **Códigos: ninguno.** Las variantes de Shopify no tienen el campo `barcode`; las 121 fotos de las fichas son delanteras o de
+  ambiente (el lector no encuentra ningún código); Open Products/Food/Beauty Facts no tienen ningún EcoX; en `meekbum.com`
+  (13 variantes) y `dozero.pt` (solo la página de marca) tampoco hay EAN; `ograneldasofia.pt` da 503 y el robots.txt de
+  `aldeiasabao.com` lo prohíbe todo. Buena parte se vende a granel o rellenando el envase ("Torneira"), así que puede que
+  muchos envases ni lleven EAN. Las 57 listas quedan en `herramientas/ecox_sin_ean.json`: **entran en cuanto aparezca el
+  código** (escaneo en Buscados o aportación con foto del envase).
+- **Cómo saldrían con el detector de la rama (por lista):** sin ningún aviso, 4 (pastillas/polvo de lavavajillas a máquina
+  —silicato, percarbonato, carbonato, fosfonato y subtilisina—, blanqueador de ropa, bicarbonato y vinagre de limpieza);
+  el resto, con avisos: perfume (17 de 23), BIT (9), MIT y MCI (3), bronopol (2), Lilial (detergente ropa aloe vera),
+  tensioactivos y alcoholes etoxilados, fenoxietanol, 2-butoxietanol (multisuperficies) y TEA (jabón de manos). **No es una
+  marca "limpia" por defecto**: solo 4 de sus 23 fórmulas saldrían en Alternativas.
+- **Alias en portugués que faltaban (falsos negativos hallados con sus listas; rama de la app, `DETECTOR_VERSION`
+  2026-11-04b, necesita build):**
+  - BIT: "1,2-bencisotiazol-3 (2H)-onal" / "benzisotiazol-3(2H)-ona" → alias "benzisotiazol-3", "bencisotiazol-3",
+    "benzisothiazol-3", "benzisotiazolinona", "bencisotiazolinona".
+  - MIT y MCI: "2-metil-4-isotiazolin-3-ona" y "5-clore/cloro/chlore-2-metil-4-isotiazolin-3-ona".
+  - Bronopol: "bromonitropropanodiol".
+  - SLES: "lauriléter sulfato de sódio" y variantes.
+  - Lilial con el nombre químico: "(4-tert-butilbenzil)propionaldeído" y "(4-tert-butylbenzyl)propionaldehyde".
+  - **2-Butoxietanol**: solo tenía el alias "Butyl cellosolve", así que **no saltaba con "Butoxyethanol"**, que es como lo
+    escribe casi todo el mundo. Alias nuevos: butoxietanol, 2-butoxyethanol, butoxyethanol, butilglicol, butyl glycol,
+    ethylene glycol monobutyl ether.
+  - `guessCategoria`: palabras de Hogar en portugués (amaciador, branqueador de roupa, creme de limpeza, desengordurante,
+    limpa vidros, multissuperfícies, vinagre de limpeza, lava loiça): el suavizante, el blanqueador, la crema limpiadora y el
+    vinagre de EcoX caían en Cuidado personal.
+  - Los alérgenos de perfume que EcoX escribe (Limonene/limoneno, Linalool, Citronellol, Geraniol, "Couramin") van todos
+    dentro de "perfume (…)", que ya da aviso; "sem perfume" ya estaba cubierto.
+  - **Regresión sobre las 18.622 fichas: 28 cambios, todos el mismo y correcto**: ganan "2-Butoxietanol" 28 limpiadores que
+    llevan "Butoxyethanol" en su lista (Asevi, Consum, Bosque Verde, Rituals, Nuncas, Sanicentro, Mayordomo, las cremas de
+    calzado de Auchan…).
+- **Alternativas 2026-11-04c:** de 2.420 a 2.419; sale el limpiador de muebles Nuncas Livax `8001704406800` (lleva
+  butoxietanol). `verifica.mjs`: 0 en los tres grupos.
+
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
 **limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no

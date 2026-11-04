@@ -1,0 +1,535 @@
+{
+ "nota": "EcoX (ecox.pt): fichas con lista 648/2004 publicada pero sin código EAN en ninguna fuente (2026-11-04). Entran en cuanto aparezca el código (escaneo o aportación con foto).",
+ "productos": [
+  {
+   "handle": "detergente-chao-citro-5lt",
+   "titulo": "Detergente Chão Citro 5LT",
+   "tags": [
+    "Casa",
+    "Novidade"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume (limoneno); conservante (Benzoato de sódio).",
+   "url": "https://ecox.pt/products/detergente-chao-citro-5lt"
+  },
+  {
+   "handle": "multisuperficies-citro-5lt",
+   "titulo": "Multisuperfícies Citro 5LT",
+   "tags": [
+    "Casa",
+    "Novidade"
+   ],
+   "ingredientes": "Água; sabão (origem natural); butoxietanol; álcool isopropilico; perfume .",
+   "url": "https://ecox.pt/products/multisuperficies-citro-5lt"
+  },
+  {
+   "handle": "multiusos-wc-figo-5lt",
+   "titulo": "Multiusos WC Figo 5LT",
+   "tags": [
+    "Casa",
+    "Novidade"
+   ],
+   "ingredientes": "Água, sabão (origem natural), lcoois, C12-14, etoxilados (origem natural), ácido glicolico(origem natural), ácido cítrico(origem natural), perfume.",
+   "url": "https://ecox.pt/products/multiusos-wc-figo-5lt"
+  },
+  {
+   "handle": "balde-detergente-loica-maquina-5kg",
+   "titulo": "Detergente Loiça Máquina 5KG",
+   "tags": [
+    "Loiça",
+    "Novidade"
+   ],
+   "ingredientes": "Silicato de sódio (origem natural); Carbonato dissodico, composto com peroxido de hidrogenio(2:3) (origem natural); Carbonato de sodio⁽ (origem natural); (1-hidroxietilideno) bisfosfonato de tetrassodio; Subtilisina.",
+   "url": "https://ecox.pt/products/balde-detergente-loica-maquina-5kg"
+  },
+  {
+   "handle": "branqueador-roupa-5kg",
+   "titulo": "Branqueador de Roupa 5KG",
+   "tags": [
+    "Novidade",
+    "Roupa"
+   ],
+   "ingredientes": "Percarbonato de sódio; carbonato de sódio.",
+   "url": "https://ecox.pt/products/branqueador-roupa-5kg"
+  },
+  {
+   "handle": "bicarbonato-sodio-5kg",
+   "titulo": "Bicarbonato de Sódio 5KG",
+   "tags": [
+    "Casa",
+    "Novidade"
+   ],
+   "ingredientes": "Hidrogenocarbonato de sódio.",
+   "url": "https://ecox.pt/products/bicarbonato-sodio-5kg"
+  },
+  {
+   "handle": "sabonete-liquido-maos-1",
+   "titulo": "Sabonete Líquido para Mãos Aveia 0.5LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água, sabão (origem natural), etanol (origem natural), glicerol, trietanolamina, Hidroxietilcelulose (origem natural), conservante (Fenoxietanol (e) Caprilil Glicol (e) Decileno Glicol), perfume.",
+   "url": "https://ecox.pt/products/sabonete-liquido-maos-1"
+  },
+  {
+   "handle": "sabonete-liquido-maos-2",
+   "titulo": "Sabonete Líquido para Mãos Aveia 20LT",
+   "tags": [
+    "Casa",
+    "Torneira"
+   ],
+   "ingredientes": "Água, sabão (origem natural), etanol (origem natural), Glicerol, trietanolamina, Hidroxietilcelulose (origem natural), conservante (Fenoxietanol (e) Caprilil Glicol (e) Decileno Glicol), perfume.",
+   "url": "https://ecox.pt/products/sabonete-liquido-maos-2"
+  },
+  {
+   "handle": "creme-de-limpeza-oliva-850ml",
+   "titulo": "Creme de Limpeza Oliva 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); caroço de azeitona (origem natural); ácido etidrónico; Goma Xantana; hidróxido de sódio; perfume ; conservante ( 1,2-bencisotiazol-3 (2H) -onal)) .",
+   "url": "https://ecox.pt/products/creme-de-limpeza-oliva-850ml"
+  },
+  {
+   "handle": "detergente-loica-bali-5lt",
+   "titulo": "Detergente Loiça Bali 5LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume.; diacetato de glutamato tetrassódico; ácido citrico; Cloreto de sódio; conservante ( 2-fenoxietanol)",
+   "url": "https://ecox.pt/products/detergente-loica-bali-5lt"
+  },
+  {
+   "handle": "detergente-loica-bali-20lt",
+   "titulo": "Detergente Loiça Bali 20LT",
+   "tags": [
+    "Loiça",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume.; diacetato de glutamato tetrassódico; ácido citrico; Cloreto de sódio; conservante ( 2-fenoxietanol)",
+   "url": "https://ecox.pt/products/detergente-loica-bali-20lt"
+  },
+  {
+   "handle": "detergente-loica-bali-850ml",
+   "titulo": "Detergente Loiça Bali 0.85LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume.; diacetato de glutamato tetrassódico; ácido citrico; Cloreto de sódio; conservante ( 2-fenoxietanol)",
+   "url": "https://ecox.pt/products/detergente-loica-bali-850ml"
+  },
+  {
+   "handle": "detergente-roupa-caribe-20lt",
+   "titulo": "Detergente Roupa Caribe 20LT",
+   "tags": [
+    "Roupa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume ; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; mix de enzimas; ácido citrico, conservante ( 1,2-bencisotiazol-3 (2H) -onal))., corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-caribe-20lt"
+  },
+  {
+   "handle": "detergente-roupa-caribe-085lt-1",
+   "titulo": "Detergente Roupa Caribe 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume ; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; mix de enzimas; ácido citrico, conservante ( 1,2-bencisotiazol-3 (2H) -onal))., corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-caribe-085lt-1"
+  },
+  {
+   "handle": "detergente-roupa-caribe-085lt",
+   "titulo": "Detergente Roupa Caribe 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume ; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; mix de enzimas; ácido citrico, conservante ( 1,2-bencisotiazol-3 (2H) -onal))., corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-caribe-085lt"
+  },
+  {
+   "handle": "amaciador-roupa-caribe-20lt",
+   "titulo": "Amaciador Roupa Caribe 20LT",
+   "tags": [
+    "Roupa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume ; corante; conservante (1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/amaciador-roupa-caribe-20lt"
+  },
+  {
+   "handle": "amaciador-roupa-caribe-5lt",
+   "titulo": "Amaciador Roupa Caribe 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume ; corante; conservante (1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/amaciador-roupa-caribe-5lt"
+  },
+  {
+   "handle": "amaciador-roupa-caribe-085lt",
+   "titulo": "Amaciador Roupa Caribe 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume ; corante; conservante (1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/amaciador-roupa-caribe-085lt"
+  },
+  {
+   "handle": "wc-creme-2",
+   "titulo": "WC Creme Limão 5LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); carbonato de cálcio (origem natural); ácido etidrónico; Goma Xantana; hidróxido de sódio; perfume (limoneno); corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/wc-creme-2"
+  },
+  {
+   "handle": "detergente-chao-citro-3",
+   "titulo": "Detergente Chão Citro 20LT",
+   "tags": [
+    "Casa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume (limoneno); conservante (Benzoato de sódio).",
+   "url": "https://ecox.pt/products/detergente-chao-citro-3"
+  },
+  {
+   "handle": "detergente-chao-citro-2",
+   "titulo": "Detergente Chão Citro 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume (limoneno); conservante (Benzoato de sódio).",
+   "url": "https://ecox.pt/products/detergente-chao-citro-2"
+  },
+  {
+   "handle": "abrilhantador-maquina-lavar-loica-1",
+   "titulo": "Abrilhantador para Máquina de Lavar Loiça Limão 0.85LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural), álcool isopropílico, alcoxilato de álcool gordo (origem naural; diacetato de glutamato tetrassódico; ácido cítrico, conservante ( 1,2-bencisotiazol-3 (2H) -onal)), perfume (limoneno).",
+   "url": "https://ecox.pt/products/abrilhantador-maquina-lavar-loica-1"
+  },
+  {
+   "handle": "detergente-neopreno-1",
+   "titulo": "Detergente Neopreno 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); C12-14, etoxilados (origem natural); ácido etidrónico; ricinoleato de zinco; conservante ( 1,2-bencisotiazol-3 (2H) -onal)). *Volumetrias de 5L e 20L sem perfume a coco.",
+   "url": "https://ecox.pt/products/detergente-neopreno-1"
+  },
+  {
+   "handle": "detergente-roupa-delicada-2",
+   "titulo": "Detergente Roupa Delicada 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); C12-14, etoxilados (origem natural); ácido etidrónico; ricinoleato de zinco; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-roupa-delicada-2"
+  },
+  {
+   "handle": "detergente-roupa-delicada-1",
+   "titulo": "Detergente Roupa Delicada 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); C12-14, etoxilados (origem natural); ácido etidrónico; ricinoleato de zinco; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-roupa-delicada-1"
+  },
+  {
+   "handle": "amaciador-roupa-jacintos-bergamota-2",
+   "titulo": "Amaciador da Roupa Jacintos e Bergamota 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume (Couramin); corante; conservante (5-chlore-2-metil-4-isotiazolin-3-ona and 2-metil-4-isotiazolinon-3-ona).",
+   "url": "https://ecox.pt/products/amaciador-roupa-jacintos-bergamota-2"
+  },
+  {
+   "handle": "detergente-roupa-sabao-natural-2",
+   "titulo": "Detergente Roupa Sabão Natural 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); Lauriléter sulfato de sódio (origem natural) perfume (citronellol; Geraniol; Limonene).; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante ( 1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/detergente-roupa-sabao-natural-2"
+  },
+  {
+   "handle": "detergente-neopreno-2",
+   "titulo": "Detergente Neopreno 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); C12-14, etoxilados (origem natural); ácido etidrónico; ricinoleato de zinco; conservante ( 1,2-bencisotiazol-3 (2H) -onal)). *Volumetrias de 5L e 20L sem perfume a coco.",
+   "url": "https://ecox.pt/products/detergente-neopreno-2"
+  },
+  {
+   "handle": "detergente-loica-maquina-1",
+   "titulo": "Detergente Loiça Máquina 1KG",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Silicato de sódio (origem natural); Carbonato dissodico, composto com peroxido de hidrogenio(2:3) (origem natural); Carbonato de sodio⁽ (origem natural); (1-hidroxietilideno) bisfosfonato de tetrassodio; Subtilisina.",
+   "url": "https://ecox.pt/products/detergente-loica-maquina-1"
+  },
+  {
+   "handle": "amaciador-roupa-jacintos-bergamota-5",
+   "titulo": "Amaciador da Roupa Jacintos e Bergamota 20LT",
+   "tags": [
+    "Roupa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume (Couramin); corante; conservante (5-chlore-2-metil-4-isotiazolin-3-ona and 2-metil-4-isotiazolinon-3-ona).",
+   "url": "https://ecox.pt/products/amaciador-roupa-jacintos-bergamota-5"
+  },
+  {
+   "handle": "amaciador-roupa-jacintos-bergamota-4",
+   "titulo": "Amaciador da Roupa Jacintos e Bergamota 10LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume (Couramin); corante; conservante (5-chlore-2-metil-4-isotiazolin-3-ona and 2-metil-4-isotiazolinon-3-ona).",
+   "url": "https://ecox.pt/products/amaciador-roupa-jacintos-bergamota-4"
+  },
+  {
+   "handle": "amaciador-roupa-jacintos-bergamota-3",
+   "titulo": "Amaciador da Roupa Jacintos e Bergamota 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; Metossulfato de Dioleoiletil Hidroxietilmonio; perfume (Couramin); corante; conservante (5-chlore-2-metil-4-isotiazolin-3-ona and 2-metil-4-isotiazolinon-3-ona).",
+   "url": "https://ecox.pt/products/amaciador-roupa-jacintos-bergamota-3"
+  },
+  {
+   "handle": "detergente-roupa-sabao-natural-5",
+   "titulo": "Detergente Roupa Sabão Natural 20LT",
+   "tags": [
+    "Roupa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); Lauriléter sulfato de sódio (origem natural) perfume (citronellol; Geraniol; Limonene).; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante ( 1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/detergente-roupa-sabao-natural-5"
+  },
+  {
+   "handle": "detergente-roupa-sabao-natural-4",
+   "titulo": "Detergente Roupa Sabão Natural 10LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); Lauriléter sulfato de sódio (origem natural) perfume (citronellol; Geraniol; Limonene).; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante ( 1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/detergente-roupa-sabao-natural-4"
+  },
+  {
+   "handle": "detergente-chao-alfazema-5",
+   "titulo": "Detergente Chão Alfazema 20LT",
+   "tags": [
+    "Casa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume; corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/detergente-chao-alfazema-5"
+  },
+  {
+   "handle": "detergente-chao-alfazema-4",
+   "titulo": "Detergente Chão Alfazema 10LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume; corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/detergente-chao-alfazema-4"
+  },
+  {
+   "handle": "detergente-chao-alfazema-3",
+   "titulo": "Detergente Chão Alfazema 5LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume; corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/detergente-chao-alfazema-3"
+  },
+  {
+   "handle": "detergente-roupa-aloe-vera-4",
+   "titulo": "Detergente Roupa Aloe Vera 20LT",
+   "tags": [
+    "Roupa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume (Linalool; 2-(4-tert-butilbenzil)propionaldeído); diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante (1,2-benzisotiazol-3(2H)-ona), corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-aloe-vera-4"
+  },
+  {
+   "handle": "detergente-roupa-aloe-vera-3",
+   "titulo": "Detergente Roupa Aloe Vera 10LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume (Linalool; 2-(4-tert-butilbenzil)propionaldeído); diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante (1,2-benzisotiazol-3(2H)-ona), corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-aloe-vera-3"
+  },
+  {
+   "handle": "detergente-roupa-aloe-vera-2",
+   "titulo": "Detergente Roupa Aloe Vera 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume (Linalool; 2-(4-tert-butilbenzil)propionaldeído); diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante (1,2-benzisotiazol-3(2H)-ona), corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-aloe-vera-2"
+  },
+  {
+   "handle": "wc-creme-1",
+   "titulo": "WC Creme Limão 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); carbonato de cálcio (origem natural); ácido etidrónico; Goma Xantana; hidróxido de sódio; perfume (limoneno); corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/wc-creme-1"
+  },
+  {
+   "handle": "multisuperficies-citro",
+   "titulo": "Multisuperfícies Citro 20LT",
+   "tags": [
+    "Casa",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); butoxietanol; álcool isopropilico; perfume .",
+   "url": "https://ecox.pt/products/multisuperficies-citro"
+  },
+  {
+   "handle": "multisuperficies-citro-0-85lt",
+   "titulo": "Multisuperfícies Citro 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); butoxietanol; álcool isopropilico; perfume .",
+   "url": "https://ecox.pt/products/multisuperficies-citro-0-85lt"
+  },
+  {
+   "handle": "vinagre-limpeza-1",
+   "titulo": "Vinagre de Limpeza 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; Ácido acético (obtido processo biológico de dupla fermentação, alcoólica e acética), Acidez 8%.",
+   "url": "https://ecox.pt/products/vinagre-limpeza-1"
+  },
+  {
+   "handle": "multisuperficies-desengordurante-cozinha-1",
+   "titulo": "Multisuperfícies Desengordurante para cozinha 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); butoxietanol; álcool isopropilico.",
+   "url": "https://ecox.pt/products/multisuperficies-desengordurante-cozinha-1"
+  },
+  {
+   "handle": "vinagre-limpeza-2",
+   "titulo": "Vinagre de Limpeza 20L",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; Ácido acético (obtido processo biológico de dupla fermentação, alcoólica e acética), Acidez 8%.",
+   "url": "https://ecox.pt/products/vinagre-limpeza-2"
+  },
+  {
+   "handle": "detergente-roupa-sabao-natural-3",
+   "titulo": "Detergente Roupa Sabão Natural 5LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); Lauriléter sulfato de sódio (origem natural) perfume (citronellol; Geraniol; Limonene).; diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante ( 1,2-bencisotiazol-3 (2H) -onal).",
+   "url": "https://ecox.pt/products/detergente-roupa-sabao-natural-3"
+  },
+  {
+   "handle": "multisuperficies-desengordurante-cozinha-2",
+   "titulo": "Multisuperfícies Desengordurante para cozinha 5LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); butoxietanol; álcool isopropilico.",
+   "url": "https://ecox.pt/products/multisuperficies-desengordurante-cozinha-2"
+  },
+  {
+   "handle": "detergente-chao-alfazema-2",
+   "titulo": "Detergente Chão Alfazema 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural); perfume; corante; conservante (5-clore-2-metil-4-isotiazolin-3-ona e 2-metil-4-isotiazolin-3-ona e bromonitropropanodiol).",
+   "url": "https://ecox.pt/products/detergente-chao-alfazema-2"
+  },
+  {
+   "handle": "bicarbonato-sodio-1",
+   "titulo": "Bicarbonato de Sódio 1KG",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Hidrogenocarbonato de sódio.",
+   "url": "https://ecox.pt/products/bicarbonato-sodio-1"
+  },
+  {
+   "handle": "detergente-loica-3",
+   "titulo": "Detergente Loiça Limão 20LT",
+   "tags": [
+    "Loiça",
+    "Torneira"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume (Limonene).; ácido etidrónico; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-loica-3"
+  },
+  {
+   "handle": "detergente-loica-2",
+   "titulo": "Detergente Loiça Limão 10LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume (Limonene).; ácido etidrónico; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-loica-2"
+  },
+  {
+   "handle": "detergente-loica-4",
+   "titulo": "Detergente Loiça Limão 5LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume (Limonene).; ácido etidrónico; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-loica-4"
+  },
+  {
+   "handle": "detergente-loica-1",
+   "titulo": "Detergente Loiça Limão 0.85LT",
+   "tags": [
+    "Loiça"
+   ],
+   "ingredientes": "Água; sabão (origem natural); cocamidopropil Betaína (origem natural); Lauriléter sulfato de sódio (origem natural); perfume (Limonene).; ácido etidrónico; conservante ( 1,2-bencisotiazol-3 (2H) -onal)).",
+   "url": "https://ecox.pt/products/detergente-loica-1"
+  },
+  {
+   "handle": "branqueador-roupa-1",
+   "titulo": "Branqueador de Roupa 1KG",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Percarbonato de sódio; carbonato de sódio.",
+   "url": "https://ecox.pt/products/branqueador-roupa-1"
+  },
+  {
+   "handle": "multisusos-wc-1",
+   "titulo": "Multiusos WC Figo 0.85LT",
+   "tags": [
+    "Casa"
+   ],
+   "ingredientes": "Água, sabão (origem natural), lcoois, C12-14, etoxilados (origem natural), ácido glicolico(origem natural), ácido cítrico(origem natural), perfume.",
+   "url": "https://ecox.pt/products/multisusos-wc-1"
+  },
+  {
+   "handle": "detergente-roupa-aloe-vera-1",
+   "titulo": "Detergente Roupa Aloe Vera 0.85LT",
+   "tags": [
+    "Roupa"
+   ],
+   "ingredientes": "Água; sabão (origem natural); Alcoois, C12-14, etoxilados (origem natural);Lauriléter sulfato de sódio (origem natural); perfume (Linalool; 2-(4-tert-butilbenzil)propionaldeído); diacetato de glutamato tetrassódico; Copolímero de estireno / acrilatos de sódio; conservante (1,2-benzisotiazol-3(2H)-ona), corante.",
+   "url": "https://ecox.pt/products/detergente-roupa-aloe-vera-1"
+  }
+ ]
+}
