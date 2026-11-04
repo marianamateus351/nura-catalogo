@@ -6056,6 +6056,15 @@ encargo va aquí.
   Revisión FP/FN: sin fallos con los alias de hoy. Regresión: 0 cambios en las 18.622 fichas anteriores.
 - **Alternativas 2026-11-04e:** de 2.419 a 2.422 (entran los tres limpios de EcoX). `verifica.mjs`: 0 en los tres grupos.
 
+### Nombres sin "colada" (Mariana, 2026-11-04)
+El catálogo sirve a España y a Portugal y "la colada" no se entiende fuera de España. **Regla: en los
+nombres se escribe "ropa", no "colada"**: "Blanqueador de ropa", "Perfume para la ropa", "Jabón de Marsella
+para la ropa", "Tratamiento para lana" (sin "en la colada"). Ya renombrado el blanqueador EcoX (catalogo.json,
+alternativas.json y el respaldo de la app); la app reconoce "blanqueador de ropa" como Hogar (`STRONG_HOME`).
+**Pendiente**: los otros 34 nombres con "colada" (perfumes para la colada, jabones Lagarto, Chimbo, Beltrán,
+Biobel y de Marsella…), renombrarlos con la misma regla al tocar esas marcas o en una pasada, y regenerar
+`alternativas.json` y la regresión.
+
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
 **limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no
