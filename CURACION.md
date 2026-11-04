@@ -5964,6 +5964,30 @@ borra de Firestore los retirados que vinieron del catálogo (las aprobadas a man
   2026-10-04, la de 2026-09-24d, y las 3 velas de Rituals con su motivo). Como la app empieza con versión importada "0", la
   primera vez se le ofrecen todos; reimportar uno que ya estaba bien no cambia nada.
 
+### 2026-11-04 · EcoX (Portugal, Hogar) — encargo: cargar la marca entera
+A Mariana le hablan de **EcoX** como marca "limpia" y quiere que esté en el catálogo con códigos e
+ingredientes para que, al escanearla, dé resultado y, si de verdad sale sin avisos, aparezca en Alternativas.
+Qué es: marca portuguesa de **limpieza del hogar** (detergentes de ropa, lavavajillas, multiusos, suelos,
+jabones), fundada en 2019, que fabrica con aceite de cocina usado (upcycling), sin ingredientes de origen
+animal. **No es cosmética**: va en Hogar, con el mismo criterio que Frosch, Ecover o Perlan.
+1. **Fuente**: su web `ecox.pt` (tienda y fichas). Al ser detergentes, la lista no es un INCI sino la **ficha
+   de ingredientes del Reglamento 648/2004**, que el fabricante está obligado a publicar en su web (suele
+   estar enlazada en cada ficha como "Ingredientes" / "Lista de ingredientes" / "Ficha 648/2004"). Si no la
+   publican, mirar la etiqueta en las tiendas que la venden (`ograneldasofia.pt/brand/ecox`,
+   `dozero.pt/products/ecox`, `aldeiasabao.com/brand/ecox`, `meekbum.com`) con foto trasera legible y
+   completa. **Sin lista completa, el producto no entra** (regla general), aunque tengamos el EAN.
+2. **Códigos**: EAN de la ficha de la tienda o de Open Food/Beauty/Products Facts (`brand/ecox`); atar código
+   y lista solo si coinciden nombre y formato (no mezclar recargas con envases, ni packs).
+3. **Idioma**: las listas vienen en portugués ("perfume", "conservantes", "tensioactivos aniónicos",
+   "enzimas"…); comprobar que los alias del detector en portugués cubren las categorías genéricas de 648/2004
+   y los alérgenos de perfume (limoneno, linalol, citral, geraniol…) escritos en portugués.
+4. **Nada de "marca limpia" por reputación**: cada producto se juzga por su lista, como todos. Si un producto
+   lleva perfume con alérgenos o conservantes señalados, sale con sus avisos y fuera de Alternativas; anotar
+   aquí cuántos entran, cuántos quedan limpios y cuántos se quedan fuera por falta de lista.
+5. Regenerar `alternativas.json` y la regresión como siempre.
+Desde la conversación de la app no se llega a `ecox.pt` ni a Open*Facts (red del entorno), por eso el
+encargo va aquí.
+
 ### Estado 2026-10-10: **alternativas.json versión 2026-10-10**, 1.436 productos, 213 con enlace de Amazon
 (10: el detector ya marca "Aroma (Flavor)" como aroma no divulgado: salen 125 labiales y bálsamos de Catrice 60, Kiko 41,
 essence 23 y Rhode 1, 14 de ellos con enlace; entran 7 de Consum y Dia. Ver "Consum y Dia".)
