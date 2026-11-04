@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04d",
+ "version": "2026-11-04e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -17562,6 +17562,12 @@
        "amazon": "https://www.amazon.es/dp/B00NONC4XQ"
       },
       {
+       "nombre": "Blanqueador para la colada EcoX",
+       "marca": "EcoX",
+       "barcode": "5600735020592",
+       "fechaLista": "04-11-2026"
+      },
+      {
        "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g",
        "marca": "L'Arbre Vert",
        "barcode": "3450601028533",
@@ -17760,6 +17766,12 @@
        "marca": "Ecover",
        "barcode": "5412533416688",
        "fechaLista": "15-10-2026"
+      },
+      {
+       "nombre": "Detergente lavavajillas máquina en polvo EcoX",
+       "marca": "EcoX",
+       "barcode": "5600735020295",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Gel lavavajillas todo en 1",
@@ -18320,6 +18332,12 @@
        "barcode": "3380380076619",
        "fechaLista": "14-10-2026",
        "amazon": "https://www.amazon.es/dp/B01DOC4L2I"
+      },
+      {
+       "nombre": "Bicarbonato de sodio para limpieza EcoX",
+       "marca": "EcoX",
+       "barcode": "5600735020943",
+       "fechaLista": "04-11-2026"
       },
       {
        "nombre": "Cristales de soda (recarga)",

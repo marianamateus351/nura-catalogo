@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-hogar2",
+ "version": "2026-11-04-ecox",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25440,6 +25440,33 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "5601009995677"
+   ]
+  },
+  {
+   "marcaKey": "ecox",
+   "marca": "EcoX",
+   "nombre": "Bicarbonato de sodio para limpieza EcoX",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5600735020943"
+   ]
+  },
+  {
+   "marcaKey": "ecox",
+   "marca": "EcoX",
+   "nombre": "Blanqueador para la colada EcoX",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5600735020592"
+   ]
+  },
+  {
+   "marcaKey": "ecox",
+   "marca": "EcoX",
+   "nombre": "Detergente lavavajillas máquina en polvo EcoX",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5600735020295"
    ]
   }
  ]
