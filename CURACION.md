@@ -5771,6 +5771,25 @@ un respaldo de pelo ANTES que el corporal (`TIPOS_AMPLIOS`, solo app), con:
 2026-11-01b cambian de tipo; los Kérastase/L'Oréal/Pantene/Aussie térmicos del catálogo llevan parfum y no están en
 Alternativas, así que el cambio no mueve la lista hoy, pero deja bien clasificado lo que entre limpio.
 
+### 2026-11-04 · Supermercados portugueses: Continente y Pingo Doce — encargo: cargar marca propia
+Mariana (2026-11-04) quiere las marcas propias de **Continente** y **Pingo Doce** (cosmética e higiene:
+gel de baño, champú, desodorante, cremas, higiene íntima, protectores solares, maquillaje si lo hay).
+Hoy el catálogo tiene Continente (9) y Pingo Doce (1). Mismo camino que Auchan (161) y Dia (114):
+1. **Continente**: tienda online `continente.pt`, fichas de marca propia (Continente, My Label, Continente
+   Bio…): nombre oficial, EAN e "Ingredientes" (INCI). Validar que la lista sea completa (sin "…" ni
+   recortes) antes de aceptar un producto.
+2. **Pingo Doce**: tienda en Mercadão (`mercadao.pt/store/pingo-doce`) y `pingodoce.pt`; comprobar ficha a
+   ficha si publican "Ingredientes". Las que no lo publiquen **no entran** (regla general), aunque tengamos
+   el código de barras.
+3. **Open Beauty Facts** (`brand/continente`, `brand/pingo-doce`) como validador de EAN y fuente
+   secundaria solo si la lista de la web de la marca no está y la foto de OBF es legible y completa.
+4. Las listas vienen en portugués: el detector ya reconoce alias en portugués ("sem perfume"…); revisar
+   que las excepciones (`excluyeSi`) cubran "sem fragrância", "sem perfume", "sem parabenos".
+5. Regenerar `alternativas.json` y la regresión como siempre; anotar aquí cuántos entran por marca y
+   cuántos se quedan fuera por falta de INCI.
+Desde la conversación de la app no se llega a `continente.pt`, `mercadao.pt` ni `openbeautyfacts.org`
+(red del entorno), por eso el encargo va aquí.
+
 ## SUBTIPOS Y LÍNEAS DE TONOS en alternativas.json — contrato con la app (2026-10-14)
 Mariana (2026-10-14): "crema facial" es demasiado amplio (mezcla una antiimperfecciones con una
 antiedad y una para piel atópica) y en maquillaje la lista es un lío: 314 esmaltes que en realidad
