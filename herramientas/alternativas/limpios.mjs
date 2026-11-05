@@ -16,6 +16,8 @@ const cat = JSON.parse(fs.readFileSync(path.join(aqui, "../../catalogo.json"), "
 const out = [];
 for (const m of cat.marcas) for (const p of m.productos) {
   if (!p.inci || !(p.barcodes || []).length) continue;
+  // Lista de la etiqueta (Hogar, sin ficha 648/2004 completa): no sabemos lo que no nombra, nunca es "limpio".
+  if (p.listaParcial) continue;
   const c = guessCategoria("", undefined, p.nombre + " " + m.nombre);
   if (c !== "Cuidado personal" && c !== "Hogar") continue;
   if (dedupeIngredients(matchIngredients(p.inci, p.nombre), c).length || matchOtrosRiesgos(p.inci, c, p.nombre).length || matchOtros(p.inci, c, p.nombre).length) continue;

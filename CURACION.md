@@ -6065,6 +6065,19 @@ alternativas.json y el respaldo de la app); la app reconoce "blanqueador de ropa
 Biobel y de Marsella…), renombrarlos con la misma regla al tocar esas marcas o en una pasada, y regenerar
 `alternativas.json` y la regresión.
 
+### Regla nueva (Mariana, 2026-11-05): Hogar con solo la lista de la etiqueta
+"Nos van a llegar muchos productos así. No para considerarlos limpios, sino para tenerlos en catálogo, con
+algún aviso de que la marca no desglosa sus ingredientes." Excepción **solo para Hogar** a "sin lista completa
+no entra":
+- Entra con `"listaParcial": true` y en `inci` el texto de la **etiqueta** tal cual (rangos y lo que nombra:
+  conservantes, alérgenos, perfume, enzimas, blanqueadores ópticos), sin inventar nada.
+- Fuente: foto trasera legible con el código en el envase o en la ficha de la tienda; el texto que teclea una
+  tienda solo vale si casa con la foto.
+- Nunca va a Alternativas (`limpios.mjs` lo salta; `verifica.mjs` cuenta `listaParcial`, tiene que dar 0).
+- Si aparece la ficha 648/2004 completa, se sustituye la lista y se quita `listaParcial`.
+- En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
+  no publica la lista completa…". Necesita build.
+
 ### 2026-11-05 · Inokem (Portugal, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Inokem** (no está en el catálogo: 0 productos). Marca portuguesa de **detergentes
 ecológicos ultraconcentrados** para el hogar y uso profesional (`inokem.com`; multiusos, desengrasante Citrus
