@@ -6094,6 +6094,11 @@ no entra":
   `listaCompletaEn: "<web>"` para sustituirla en cuanto se pueda leer la ficha completa (p. ej. si Mariana la baja
   desde el navegador). No se fuerza el acceso.
 - **Anotar en cada carga** cuántos entran con ficha completa y cuántos solo con etiqueta.
+- **Sin foto trasera (Mariana, 2026-11-05):** si la marca no publica más que lo que declara (ni ficha 648/2004 ni
+  etiqueta más completa) y ese texto está en su propia web ("Componentes", "Composição"), vale ese texto literal como
+  lista de etiqueta, con `listaParcial: true` y la fuente en la nota. Mariana: "en la parte trasera viene así tal cual;
+  pasaba lo mismo con Sanytol". Nunca va a Alternativas. Primer caso: 5 de Inokem (Citrus Power, Mach Gel, Biomach
+  Super Original, Bioset, Greeny) con el código de agriloja.pt.
 - **Orden (Mariana, 2026-11-05): si la marca publica la lista completa en su web, manda esa; la etiqueta solo
   cuando no exista.** Antes de cargar un producto con `listaParcial`, se busca la ficha 648/2004 de la marca o del
   fabricante (portal de fichas, web del producto, PDF por código) y, si se encuentra y casa con la etiqueta, entra
