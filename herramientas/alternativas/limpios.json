@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-auchan",
+ "version": "2026-11-05-ropa",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -14738,7 +14738,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella para la colada, sin aceite de palma",
+   "nombre": "Jabón de Marsella para la ropa, sin aceite de palma",
    "categoria": "Hogar",
    "barcodes": [
     "3298651716822",
@@ -14753,7 +14753,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma",
+   "nombre": "Escamas de jabón de Marsella para la ropa, sin aceite de palma",
    "categoria": "Hogar",
    "barcodes": [
     "3298651720829",
@@ -14764,7 +14764,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella verde de aceite de oliva para la colada",
+   "nombre": "Jabón de Marsella verde de aceite de oliva para la ropa",
    "categoria": "Hogar",
    "barcodes": [
     "3298659747132",
@@ -14792,7 +14792,7 @@
   {
    "marcaKey": "mariusfabre",
    "marca": "Marius Fabre",
-   "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada",
+   "nombre": "Jabón de Marsella 100 % aceite de oliva para la ropa",
    "categoria": "Hogar",
    "barcodes": [
     "3298651721659",
@@ -14916,7 +14916,7 @@
   {
    "marcaKey": "ecodoo",
    "marca": "Ecodoo",
-   "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
+   "nombre": "Jabón de Marsella para la ropa (pastilla y copos)",
    "categoria": "Hogar",
    "barcodes": [
     "3380380065460",
@@ -15036,7 +15036,7 @@
   {
    "marcaKey": "lagarto",
    "marca": "Lagarto",
-   "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
+   "nombre": "Jabón vegetal natural Lagarto para la ropa (pastilla)",
    "categoria": "Hogar",
    "barcodes": [
     "8410761000898"
@@ -15144,7 +15144,7 @@
   {
    "marcaKey": "biobel",
    "marca": "Biobel",
-   "nombre": "Jabón de coco Biobel 0% para la colada (sin perfume, pastilla)",
+   "nombre": "Jabón de coco Biobel 0% para la ropa (sin perfume, pastilla)",
    "categoria": "Hogar",
    "barcodes": [
     "8421427063089"
@@ -15265,7 +15265,7 @@
   {
    "marcaKey": "biobel",
    "marca": "Biobel",
-   "nombre": "Jabón líquido Biobel para la colada de bebés y prendas delicadas",
+   "nombre": "Detergente líquido Biobel de jabón para ropa de bebé y prendas delicadas",
    "categoria": "Hogar",
    "barcodes": [
     "8421427067032",
@@ -15692,7 +15692,7 @@
   {
    "marcaKey": "sonett",
    "marca": "Sonett",
-   "nombre": "Descalcificador/ablandador de agua para la colada",
+   "nombre": "Descalcificador/ablandador de agua para la lavadora",
    "categoria": "Hogar",
    "barcodes": [
     "4007547102910",
@@ -15745,7 +15745,7 @@
   {
    "marcaKey": "sodasan",
    "marca": "Sodasan",
-   "nombre": "Descalcificador de agua para la colada",
+   "nombre": "Descalcificador de agua para la lavadora",
    "categoria": "Hogar",
    "barcodes": [
     "4019886000611",
@@ -16158,7 +16158,7 @@
   {
    "marcaKey": "arbrevert",
    "marca": "L'Arbre Vert",
-   "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g",
+   "nombre": "Jabón de Marsella 72 % para la ropa, con aceite vegetal 300 g",
    "categoria": "Hogar",
    "barcodes": [
     "3450601028533"

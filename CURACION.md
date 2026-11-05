@@ -6064,6 +6064,14 @@ alternativas.json y el respaldo de la app); la app reconoce "blanqueador de ropa
 **Pendiente**: los otros 34 nombres con "colada" (perfumes para la colada, jabones Lagarto, Chimbo, Beltrán,
 Biobel y de Marsella…), renombrarlos con la misma regla al tocar esas marcas o en una pasada, y regenerar
 `alternativas.json` y la regresión.
+**Hecho (2026-11-05, catálogo 2026-11-05-ropa):** 31 nombres de Hogar ("para la colada" → "para la ropa"; los
+descalcificadores, "para la lavadora"; "Perfume para la colada" → "Perfumador para la ropa"; "Tratamiento para la ropa
+de lana"; los dos jabones líquidos de bebé de Beltrán y Biobel pasan a "Detergente líquido…", porque con "bebé" la
+app los clasificaba como cuidado personal). Los tres "Colada" de labiales (Catrice, Rhode, Too Faced) son nombres de
+tono y se quedan. Comprobado: los 31 siguen en Hogar con `guessCategoria`; en `tipos.py` el tipo "detergente" acepta
+también "para (la) ropa", "ropa de lana/bebé" y "agua para la lavadora" (salvo quitamanchas, blanqueadores, percarbonato
+y potenciadores, que siguen en aditivos). Alternativas 2026-11-05b: los 2.433 en el mismo tipo, 11 nombres nuevos.
+Pendiente en la app: `src/services/alternativas.js` (regla "detergente" de la app) tampoco conoce "para la ropa".
 
 ### Regla nueva (Mariana, 2026-11-05): Hogar con solo la lista de la etiqueta
 "Nos van a llegar muchos productos así. No para considerarlos limpios, sino para tenerlos en catálogo, con
@@ -6074,6 +6082,15 @@ no entra":
 - Fuente: foto trasera legible con el código en el envase o en la ficha de la tienda; el texto que teclea una
   tienda solo vale si casa con la foto.
 - Nunca va a Alternativas (`limpios.mjs` lo salta; `verifica.mjs` cuenta `listaParcial`, tiene que dar 0).
+- **Añadido (Mariana con rediseño, 2026-11-05):** todo detergente de la UE tiene que publicar su ficha 648/2004 en
+  una web y la dirección suele ir impresa en el envase ("lista de ingredientes en www…"): **antes de dar un producto
+  por "solo etiqueta", buscar esa dirección en la foto y en la web de la marca**. El `inci` de etiqueta es el texto
+  **literal**: porcentajes por familias y todo lo que nombra (perfume, alérgenos, conservantes, enzimas,
+  abrillantadores, desinfectantes), sin recortar ni traducir. La app reconoce además una lista de etiqueta por el
+  texto (tramo de porcentaje + familia del reglamento, en es/pt/en/fr/de), así que `listaParcial` ya no es
+  imprescindible para el aviso, pero se sigue poniendo. Si la marca publica la lista pero su web nos bloquea
+  (Unilever `wiop`, SC Johnson), **no** se carga la etiqueta: queda fuera hasta tener la lista completa.
+- **Anotar en cada carga** cuántos entran con ficha completa y cuántos solo con etiqueta.
 - **Orden (Mariana, 2026-11-05): si la marca publica la lista completa en su web, manda esa; la etiqueta solo
   cuando no exista.** Antes de cargar un producto con `listaParcial`, se busca la ficha 648/2004 de la marca o del
   fabricante (portal de fichas, web del producto, PDF por código) y, si se encuentra y casa con la etiqueta, entra

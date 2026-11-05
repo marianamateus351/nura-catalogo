@@ -1,5 +1,5 @@
 {
- "version": "2026-11-04-auchan",
+ "version": "2026-11-05-ropa",
  "marcas": [
   {
    "key": "larocheposay",
@@ -27044,7 +27044,7 @@
      "inci": "Aqua, Isopropyl Alcohol, Didecyldimonium Chloride, C9-11 Pareth-4, Alcohol C12-C18 etoxilado (7EO), C9-11 Pareth-3, Alcohol poliglucosido C8-C10, Parfum, Alcohol, PPG-2 Methyl Ether, Ethyl Acetate"
     },
     {
-     "nombre": "Complemento textil perfumado para la colada Carrefour",
+     "nombre": "Complemento textil perfumado para la ropa Carrefour",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -87625,7 +87625,7 @@
      "inci": "Aqua, Alkoxylated Alcohol, Parfum, Sodium Citrate, Limonene, Styrene/Acrylates Copolymer, Citronellol, Geraniol, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Chloride, Magnesium Nitrate"
     },
     {
-     "nombre": "Agua de plancha perfumada para la colada frescor floral Auchan 1 L",
+     "nombre": "Agua de plancha perfumada para la ropa frescor floral Auchan 1 L",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -102849,7 +102849,7 @@
      "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Parfum, Sodium Bicarbonate, Xanthan Gum, Sodium Citrate, Glycerin, Sodium Chloride, Sodium Hydroxide, Hexyl Cinnamal, Trimethylbenzenepropanol, Limonene"
     },
     {
-     "nombre": "Jabón de Marsella para la colada, sin aceite de palma",
+     "nombre": "Jabón de Marsella para la ropa, sin aceite de palma",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -102864,7 +102864,7 @@
      "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
     },
     {
-     "nombre": "Escamas de jabón de Marsella para la colada, sin aceite de palma",
+     "nombre": "Escamas de jabón de Marsella para la ropa, sin aceite de palma",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -102875,7 +102875,7 @@
      "inci": "Sodium Sunflowerseedate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
     },
     {
-     "nombre": "Jabón de Marsella verde de aceite de oliva para la colada",
+     "nombre": "Jabón de Marsella verde de aceite de oliva para la ropa",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -102903,7 +102903,7 @@
      "inci": "Sodium Olivate, Sodium Cocoate, Aqua, Glycerin, Sodium Chloride, Sodium Hydroxide"
     },
     {
-     "nombre": "Jabón de Marsella 100 % aceite de oliva para la colada",
+     "nombre": "Jabón de Marsella 100 % aceite de oliva para la ropa",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103499,7 +103499,7 @@
      "inci": "Diatomaceous Earth"
     },
     {
-     "nombre": "Jabón de Marsella para la colada (pastilla y copos)",
+     "nombre": "Jabón de Marsella para la ropa (pastilla y copos)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103872,7 +103872,7 @@
    "nombre": "Lagarto",
    "productos": [
     {
-     "nombre": "Jabón Lagarto Natural para la colada (pastilla)",
+     "nombre": "Jabón Lagarto Natural para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103881,7 +103881,7 @@
      "inci": "Sodium Tallowate, Aqua, Glycerin, Parfum, Limonene, Phosphoric Acid, Tetrasodium Dicarboxymethyl Glutamate, Potassium Aminotrimethylene Phosphonate, Colorant"
     },
     {
-     "nombre": "Jabón Lagarto Natural líquido para la colada",
+     "nombre": "Jabón Lagarto Natural líquido para la ropa",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103890,7 +103890,7 @@
      "inci": "Aqua, Potassium C16-18 and C18 Unsaturated Fatty Acid Salts (Soap), Potassium Cocoate, Glycerin, Sodium Chloride, Parfum, Limonene, Tetrasodium Dicarboxymethyl Glutamate, Tetrasodium EDTA, Citral, Geraniol, Methylisothiazolinone, Benzisothiazolinone, Colorant"
     },
     {
-     "nombre": "Jabón vegetal natural Lagarto para la colada (pastilla)",
+     "nombre": "Jabón vegetal natural Lagarto para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103899,7 +103899,7 @@
      "inci": "Sodium Palmate, Sodium Palm Kernelate"
     },
     {
-     "nombre": "Jabón en pasta Lagarto para la colada (pasta al jabón)",
+     "nombre": "Jabón en pasta Lagarto para la ropa (pasta al jabón)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -103998,7 +103998,7 @@
      "inci": "Aqua, Sodium Hypochlorite, Sodium Hydroxide, Sodium Laureth Sulfate, Sodium Sulfate, Sodium Chlorate, Sodium Silicate, Parfum"
     },
     {
-     "nombre": "Jabón Lagarto Natural Verde para la colada (pastilla)",
+     "nombre": "Jabón Lagarto Natural Verde para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104007,7 +104007,7 @@
      "inci": "Sodium Tallowate, Aqua, Glycerin, Parfum, Limonene, Phosphoric Acid, Tetrasodium Dicarboxymethyl Glutamate, Colorant"
     },
     {
-     "nombre": "Escamas hipoalergénicas de jabón Lagarto Natural amarillas para la colada",
+     "nombre": "Escamas hipoalergénicas de jabón Lagarto Natural amarillas para la ropa",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104016,7 +104016,7 @@
      "inci": "Sodium Tallowate, Aqua, Glycerin, Parfum, Styrene/Acrylates Copolymer, Phosphoric Acid, Tetramethyl Acetyloctahydronaphthalenes, Tetrasodium Glutamate Diacetate, Potassium Aminotrimethylene Phosphonate, Diethanolamine, C9-11 Pareth-6, Colorant"
     },
     {
-     "nombre": "Escamas hipoalergénicas de jabón Lagarto Natural verdes para la colada",
+     "nombre": "Escamas hipoalergénicas de jabón Lagarto Natural verdes para la ropa",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104435,7 +104435,7 @@
      "inci": "Aqua, Potassium Oleate, PEG Glyceryl Cocoate, Sodium Laureth Sulfate, Potassium Carbonate, Ethanol, Glycerin, Parfum, Citric Acid, Tetrasodium Glutamate Diacetate"
     },
     {
-     "nombre": "Jabón líquido ecológico Beltrán Eco de aceite de coco para la colada (prendas delicadas y bebé)",
+     "nombre": "Detergente líquido ecológico Beltrán Eco de aceite de coco para ropa delicada y de bebé",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104453,7 +104453,7 @@
      "inci": "Potassium Oleate, Aqua"
     },
     {
-     "nombre": "Jabón de coco ecológico Beltrán Eco para la colada (pastilla)",
+     "nombre": "Jabón de coco ecológico Beltrán Eco para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104478,7 +104478,7 @@
      "inci": "Aqua, Ethanol, Caprylyl/Capryl Glucoside, Lauryl Glucoside, Citric Acid"
     },
     {
-     "nombre": "Jabón de coco Biobel 0% para la colada (sin perfume, pastilla)",
+     "nombre": "Jabón de coco Biobel 0% para la ropa (sin perfume, pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104581,7 +104581,7 @@
      "inci": "Potassium Oleate, Aqua"
     },
     {
-     "nombre": "Jabón de coco Biobel con lavanda para la colada (pastilla)",
+     "nombre": "Jabón de coco Biobel con lavanda para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104608,7 +104608,7 @@
      "inci": "Sodium Chloride"
     },
     {
-     "nombre": "Jabón líquido Biobel para la colada de bebés y prendas delicadas",
+     "nombre": "Detergente líquido Biobel de jabón para ropa de bebé y prendas delicadas",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104635,7 +104635,7 @@
    "nombre": "Jabones Chimbo",
    "productos": [
     {
-     "nombre": "Jabón tradicional puro Chimbo para la colada (pastilla)",
+     "nombre": "Jabón tradicional puro Chimbo para la ropa (pastilla)",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -104973,7 +104973,7 @@
      "inci": "Aqua, Potassium Soap, Alcohol denat., Potassium Citrate, Melaleuca Leucadendron Cajaputi Oil, Limonene, Linalool"
     },
     {
-     "nombre": "Almidón en spray para la colada y el planchado",
+     "nombre": "Almidón en spray para la ropa y el planchado",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -105033,7 +105033,7 @@
      "inci": "Aqua, Citric Acid, Alcohol denat., Lauryl Glucoside, Sodium Lauryl Sulfate, Xanthan Gum, Cedrus Atlantica Bark Oil, Cymbopogon Winterianus Herb Oil, Geraniol, Citronellol, Limonene, Geranyl-Acetate, Citral"
     },
     {
-     "nombre": "Tratamiento para lana en la colada",
+     "nombre": "Tratamiento para la ropa de lana",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -105270,7 +105270,7 @@
      "inci": "Alcohol denat., Aqua, Glycerin, Potassium Citrate, Citrus Aurantium Bergamia Oil, Limonene, Linalool, Linalyl-Acetate"
     },
     {
-     "nombre": "Descalcificador/ablandador de agua para la colada",
+     "nombre": "Descalcificador/ablandador de agua para la lavadora",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -105416,7 +105416,7 @@
      "inci": "aqua, alcohol denat., lauryl glucoside, decyl glucoside, potassium citrate, parfum, lemongrass oil, citral, acetic acid"
     },
     {
-     "nombre": "Descalcificador de agua para la colada",
+     "nombre": "Descalcificador de agua para la lavadora",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -107392,7 +107392,7 @@
      "inci": "Aqua, Sodium Laureth Sulfate, Glycerin, Disodium Cocoamphodiacetate, Erythritol, Sodium Chloride, Sodium Citrate, Panthenol, Coco-Glucoside, Glyceryl Oleate, Parfum, Glycol Distearate, Tocopherol, Hydrogenated Palm Glycerides Citrate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Sodium Hydroxide"
     },
     {
-     "nombre": "Jabón de Marsella 72 % para la colada, con aceite vegetal 300 g",
+     "nombre": "Jabón de Marsella 72 % para la ropa, con aceite vegetal 300 g",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -107658,7 +107658,7 @@
      "inci": "Water, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Citric Acid, Glyceryl Oleate, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Glycine, Tetrasodium Iminodisuccinate, Glycerin, Aloe Barbadensis Leaf Juice, Tocopherol, Hydrogenated Palm Glycerides Citrate, Sodium Ferrocyanide, Sodium Benzoate, Potassium Sorbate"
     },
     {
-     "nombre": "Perfume para la colada Ámbar e ylang-ylang",
+     "nombre": "Perfumador para la ropa Ámbar e ylang-ylang",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -107667,7 +107667,7 @@
      "inci": "Aqua, Parfum, Castor Oil Hydrogenated Ethoxylated, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Citric Acid"
     },
     {
-     "nombre": "Perfume para la colada Mandarina y osmanto",
+     "nombre": "Perfumador para la ropa Mandarina y osmanto",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -107676,7 +107676,7 @@
      "inci": "Aqua, Parfum, Castor Oil Hydrogenated Ethoxylated, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Citric Acid"
     },
     {
-     "nombre": "Perfume para la colada Vainilla y algodón",
+     "nombre": "Perfumador para la ropa Vainilla y algodón",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -108142,7 +108142,7 @@
      "inci": "Alcohol, Triethyl citrate, Dioleoylethyl hydroxyethylmonium methosulfate, Avena sativa bran extract, Aqua, Glycerin"
     },
     {
-     "nombre": "Perfume para la colada Cotton Cloud BIO",
+     "nombre": "Perfumador para la ropa Cotton Cloud BIO",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -108151,7 +108151,7 @@
      "inci": "Triethyl citrate, Parfum, Glycerin, Alcohol denat, Citrus grandis (Grapefruit) peel oil, Lavandula hybrida oil, Alpha-Isomethyl Ionone, Amyl Salicylate, Benzyl Salicylate, Cinnamal, Citronellol, Coumarin, Hexyl Cinnamal, Hydroxycitronellal, Linalool, Linalyl Acetate, Limonene"
     },
     {
-     "nombre": "Perfume para la colada Floral Charm BIO",
+     "nombre": "Perfumador para la ropa Floral Charm BIO",
      "include": [],
      "exclude": [],
      "barcodes": [
@@ -108160,7 +108160,7 @@
      "inci": "Triethyl citrate, Parfum, Glycerin, Alcohol denat, Lavandula hybrida oil, Pelargonium graveolens flower oil, Alpha-Isomethyl Ionone, Amyl Salicylate, Cinnamyl Alcohol, Citronellol, Coumarin, Eugenol, Linalool, Terpineol"
     },
     {
-     "nombre": "Perfume para la colada Sun Glow BIO",
+     "nombre": "Perfumador para la ropa Sun Glow BIO",
      "include": [],
      "exclude": [],
      "barcodes": [

@@ -39,7 +39,7 @@ TIPOS = {
  'Hogar': [
   ('suavizante', 'Suavizantes', r'suavizante|softener', r''),
   ('lavavajillas', 'Lavavajillas', r'lavavajillas|lavaplatos|dishwash', r'abrillantador|limpiamaquinas|limpia ?maquinas|ambientador|\bsal\b'),
-  ('detergente', 'Detergentes para la ropa', r'detergente|colada|laundry', r'lavavajillas|limpia ?lavadoras|limpion|higienizante de lavadoras|parquet|marmol|gres|terracota'),
+  ('detergente', 'Detergentes para la ropa', r'detergente|colada|^(?!.*(quitamanchas|blanqueador|percarbonato|potenciador)).*(para (la )?ropa|ropa de (lana|bebe)|agua para la lavadora)|laundry', r'lavavajillas|limpia ?lavadoras|limpion|higienizante de lavadoras|parquet|marmol|gres|terracota'),
   ('multiusos', 'Multiusos', r'multiusos|multisuperficies?|multi-superficie|limpiahogar', r''),
   ('lejia', 'Lejías', r'lejia', r'desatasc'),
   ('desatascador', 'Desatascadores', r'desatasc', r''),
