@@ -6075,6 +6075,29 @@ legible y completa (tiendas: `logicaecologica.pt/brand/inokem`, `agriloja.pt`), 
 portugués, y cada producto juzgado por su lista. "Allergy safe" o "eco" de la marca no cuenta: sin lista
 completa no entra. Anotar aquí cuántos entran, cuántos quedan limpios y cuántos se quedan fuera.
 
+**Hecho (2026-11-05): entran 0, limpios 0. Inokem tiene códigos, pero no publica la lista 648/2004 en ningún sitio.**
+- **Web** (`www.inokem.com`, Shopkit; su robots.txt permite las fichas con `Crawl-delay: 10`, respetado; el de
+  `inokem.com` sin www lo prohíbe todo y no se usó): 192 fichas en el mapa del sitio, 87 de productos químicos (el resto
+  packs, botellas vacías, catálogos, premios, pulverizadores y menaje Retro 1959); 2 de recarga dan 404. Ninguna lleva
+  código (`barcode` vacío). Lo más parecido a una lista es el apartado "Componentes" de 27 fichas, y es una descripción, no
+  la lista: "Água, silicato de sódio, solventes ecológicos, álcoois de origem vegetal, agentes quaternários naturais e
+  coadjuvantes orgânicos" (Power), "tensioativos suaves biodegradáveis, … agentes de limpeza naturais" (Bluebac)… Las
+  fichas técnicas (PDF) traen descripción y propiedades físicas, y los PDF "etiqueta_" son solo la pegatina frontal.
+- **Etiqueta trasera** (foto de Auchan del Clean Bee, la misma maqueta que el resto): "COMPOSIÇÃO (Reg. CE 648/2004):
+  Contém 5–15 % tensioativos aniónicos, <5 % tensioativos não iónicos, perfume" y UFI. Son los **rangos** del Anexo VII A,
+  no la ficha de ingredientes del Anexo VII D, y la etiqueta no indica otra web donde consultarla.
+- **Códigos encontrados (9)**, guardados en `herramientas/inokem_sin_lista.json` con lo que dice cada ficha: 5 de
+  `agriloja.pt` (Citrus Power, Mach Gel, Biomach Super Original, Bioset repelente y Greeny 0,5 L, prefijo 5600709867) y 4 de
+  la gama Bee que Inokem hace para Auchan (Clean, Strong, Glass y Nomold Bee, prefijo 5600260415). El Greeny tiene además
+  Ecolabel (PT/020/013, cinco formatos). `logicaecologica.pt` prohíbe todo en su robots.txt: no se tocó.
+- **Fuera:** todo, por falta de lista; Power, Septic, Vircov, Fist Bac, Air Fresh, Acticlor y Bolorik son además biocidas
+  (TP2/TP4), que sin lista nunca entran. "Allergy safe", "hipoalergénico", "sem MIT" o "eco" no cuentan.
+- **Para que entre:** Inokem está obligada a dar la ficha de ingredientes a quien la pida (Reglamento 648/2004, art. 9 y
+  Anexo VII D). Si Mariana se la pide (`geral@inokem.pt`) y la envían, los 9 códigos se atan por nombre y formato.
+- **Alternativas 2026-11-05a:** mismo contenido (2.433), pero se regenera para recoger el cambio de nombre del blanqueador
+  EcoX, que pasa de "Detergentes para la ropa" a "Quitamanchas y aditivos" (antes de regenerar seguía en la lista vieja).
+  `verifica.mjs`: 0 en los tres grupos. Regresión del detector (2026-11-04e) sobre las 19.059 fichas: 0 cambios.
+
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
 **limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no

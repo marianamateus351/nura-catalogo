@@ -1,0 +1,192 @@
+{
+ "nota": "Inokem (2026-11-05): códigos conocidos SIN lista 648/2004 publicada. Si Inokem publica las fichas de ingredientes, se atan aquí por nombre y formato.",
+ "codigos": [
+  {
+   "barcode": "5600709867093",
+   "nombre_tienda": "Desengordurante Multiusos Citrus Power 1 L INOKEM",
+   "fuente": "https://www.agriloja.pt/pt/inokem/desengordurante-multiusos-citrus-power-1-l-inokem_p27089.html"
+  },
+  {
+   "barcode": "5600709867703",
+   "nombre_tienda": "Detergente Maquina Louca Mach Gel 1 L INOKEM",
+   "fuente": "https://www.agriloja.pt/pt/inokem/detergente-maquina-louca-mach-gel-1-l-inokem_p27088.html"
+  },
+  {
+   "barcode": "5600709867529",
+   "nombre_tienda": "Detergente Maquina Roupa Biomach Super Original 1 L",
+   "fuente": "https://www.agriloja.pt/pt/inokem/detergente-maquina-roupa-biomach-super-original-1-l_p27090.html"
+  },
+  {
+   "barcode": "5600709867000",
+   "nombre_tienda": "Detergente Multiusos Repelente Natural de Insetos 1 L (Bioset)",
+   "fuente": "https://www.agriloja.pt/pt/inokem/detergente-multiusos-repelente-natural-de-insetos-1-l_p27087.html"
+  },
+  {
+   "barcode": "5600709867420",
+   "nombre_tienda": "Detergente Multiusos Ultra-Concentrado Greeny 0,5 L",
+   "fuente": "https://www.agriloja.pt/pt/inokem/detergente-multiusos-ultra-concentrado-greeny-05-l_p27086.html"
+  },
+  {
+   "barcode": "5600260415122",
+   "nombre_tienda": "limpa multisuperfícies inokem clean bee 500ml",
+   "fuente": "https://www.auchan.pt/pt/limpeza-e-cuidados-do-lar/limpeza-casa/multisuperficies/limpa-multisuperficies-inokem-clean-bee-500ml/4029391.html"
+  },
+  {
+   "barcode": "5600260415139",
+   "nombre_tienda": "desengordurante cozinha inokem strong bee 500ml",
+   "fuente": "https://www.auchan.pt/pt/limpeza-e-cuidados-do-lar/limpeza-cozinha/multisuperficies-e-desengordurante/desengordurante-cozinha-inokem-strong-bee-500ml/4042294.html"
+  },
+  {
+   "barcode": "5600260415146",
+   "nombre_tienda": "anti-bolores e fungos inokem nomold bee 500ml",
+   "fuente": "https://www.auchan.pt/pt/limpeza-e-cuidados-do-lar/limpeza-casa/multisuperficies/anti-bolores-e-fungos-inokem-nomold-bee-500ml/4042298.html"
+  },
+  {
+   "barcode": "5600260415115",
+   "nombre_tienda": "limpa vidros e mofo inokem glass bee 500ml",
+   "fuente": "https://www.auchan.pt/pt/limpeza-e-cuidados-do-lar/limpeza-casa/limpa-vidros/limpa-vidros-e-mofo-inokem-glass-bee-500ml/4042303.html"
+  }
+ ],
+ "componentes_web": [
+  {
+   "slug": "abrilhantador-carro-brio-p",
+   "nombre": "Abrilhantador de pneus - BRIO P",
+   "componentes": "Um combinado químico de hidrocarbonetos isoparafínicos inodoros, copolímero alquilem-oximetilpolisiloxano, emulsionantes estabilizantes e óleos essenciais."
+  },
+  {
+   "slug": "bio-clean-mare",
+   "nombre": "Detergente neutro multiusos - BIOCLEAN MARE",
+   "componentes": "Água, tensioativos suaves biodegradáveis, álcool vegetal, ácido cítrico e perfume natural suave."
+  },
+  {
+   "slug": "bio-pelicula-micropel",
+   "nombre": "Bio película protetora e repelente - Micropel",
+   "componentes": "○ É um composto de copolímeros formulados à base de alquil-oximetilpolisiloxano, anti-estáticos, conservantes, álcoois especiais e óleos essenciais ○"
+  },
+  {
+   "slug": "bioclean",
+   "nombre": "Detergente neutro multiusos - BIOCLEAN ORIGINAL",
+   "componentes": "Bio Clean - Álcool C12-C15 etoxilado, Alcool etilico, C12-C16 quaternários, Amidas, C8-18(número par) e C18-insaturadas e coadjuvantes orgânicos."
+  },
+  {
+   "slug": "biomach-super-detergente-roupa",
+   "nombre": "Detergente de roupa bio enzimático 2 em 1 - BIOMACH SUPER Original (frutado)",
+   "componentes": "Água, tensioativos biodegradáveis, enzimas naturais, agentes de limpeza minerais, perfume com fragrância suave e natural, oleo de coco, entre outros coadjuvantes orgânicos."
+  },
+  {
+   "slug": "bioset",
+   "nombre": "Detergente multiusos repelente natural de insetos - BIOSET",
+   "componentes": "Água, tensioativos suaves biodegradáveis, álcool vegetal, ácido cítrico, agentes higienizantes e essências naturais perfumadas ; A sua componente de repelência, advém dos extratos específicos de algumas plantas, que"
+  },
+  {
+   "slug": "bluebac",
+   "nombre": "Detergente e desincrustante WC Pinho - BLUEBAC",
+   "componentes": "Água, tensioativos suaves biodegradáveis, ácido cítrico, agentes de limpeza naturais e essências naturais de pinho."
+  },
+  {
+   "slug": "citrus-power",
+   "nombre": "Desengordurante multiusos - CITRUS POWER",
+   "componentes": "Água, tensioativos de base natural, agentes de limpeza minerais e perfume com notas cítricas."
+  },
+  {
+   "slug": "detergente-de-roupa-bio-enzimatico-biomach-super-spring",
+   "nombre": "Detergente de roupa bio enzimático 2 em 1 - BIOMACH SUPER SPRING (lavanda)",
+   "componentes": "Água, tensioativos biodegradáveis, enzimas naturais, agentes de limpeza minerais, perfume com fragrância suave e natural, oleo de coco, entre outros coadjuvantes orgânicos."
+  },
+  {
+   "slug": "detergente-enzimatico-roupa-pet",
+   "nombre": "Detergente de Roupa Enzimático 3 em 1 para Nódoas e Odores Difíceis - BIOMACH PRO+PET",
+   "componentes": "Água, tensioativos biodegradáveis, enzimas naturais, agentes de limpeza minerais, tensoativos aniónicos 15–<30%, tensoativos não iónicos <5%, fosfatos <5%, perfume."
+  },
+  {
+   "slug": "detergente-gel-maquina-da-loica-anti-calcario-mach-gel",
+   "nombre": "*NOVO Detergente em gel p/ máquina da loiça com encapsulador de odores - MACH GEL",
+   "componentes": "Mistura concentrada de tensioativos especiais em gel, com controlo de espuma, agentes anti-calcário, dispersantes, emulsionantes e encapsuladores de odores."
+  },
+  {
+   "slug": "detergente-maquina-da-loica-aguas-duras-mach-cal",
+   "nombre": "Detergente máquina da loiça para águas duras - MACH CAL",
+   "componentes": "Água, tensioativos aniónicos e não-iónicos, agentes de limpeza minerais, conservantes seguros e espessantes naturais."
+  },
+  {
+   "slug": "detergente-maquina-da-loica-com-anti-calcario-mach-power",
+   "nombre": "Detergente máquina da loiça com anti-calcário - MACH POWER",
+   "componentes": "Água, tensioativos aniónicos e não-iónicos, agentes de limpeza minerais, conservantes seguros e espessantes naturais."
+  },
+  {
+   "slug": "detergente-para-robot-de-limpeza-bioclean-robot",
+   "nombre": "Detergente para máquinas de limpeza - BIOCLEAN ROBOT",
+   "componentes": "Tensioativos verdes, álcoois gordos, enzimas (proteases, amilases, lipases), óleos essenciais, emulsionantes."
+  },
+  {
+   "slug": "detergente-roupa-bio-enzimatico-2-em-1-biomach-super-colonia",
+   "nombre": "Detergente de roupa bio enzimático 2 em 1 - BIOMACH SUPER BREEZE (colónia)",
+   "componentes": "Água, tensioativos biodegradáveis, enzimas naturais, agentes de limpeza minerais, perfume com fragrância suave e natural, oleo de coco, entre outros coadjuvantes orgânicos."
+  },
+  {
+   "slug": "ecolabel-multiusos-greeny",
+   "nombre": "Ecolabel Detergente Ultra-concentrado Multiusos - GREENY®",
+   "componentes": "Água, tensioativos não-iónicos, mistura de álcoois de origem vegetal, conservantes seguros e essências naturais perfumantes (como maçã e eucalipto), tendo como complemento, agentes anti-estáticos e anti-embaciantes."
+  },
+  {
+   "slug": "hidratante-protetor-de-estofos-de-pele-tabliers-brio-i",
+   "nombre": "Protetor de pele Automóvel e renovador - BRIO I",
+   "componentes": "Um copolímero composto à base de alquil-oxi-metilpolisiloxano, ceras especiais, anti-estático, conservantes e óleos essenciais."
+  },
+  {
+   "slug": "intensificador-de-perfume-anti-vincos-biosoft-colonia",
+   "nombre": "Intensificador de perfume anti-vincos p/ roupa- BIOSOFT BREEZE (colónia)",
+   "componentes": "Água, Ácido carboxílico de origem natural, álcool de fontes renováveis, aromas derivados de essências naturais"
+  },
+  {
+   "slug": "intensificador-de-perfume-anti-vincos-biosoft-lavanda",
+   "nombre": "Intensificador de perfume e anti-vincos para roupa- BIOSOFT SPRING (lavanda)",
+   "componentes": "Água, Ácido carboxílico de origem natural, álcool de fontes renováveis, aromas derivados de essências naturais"
+  },
+  {
+   "slug": "limpa-vidros-eco-glass",
+   "nombre": "Limpa vidros, tira bolores, calcários - ECO GLASS",
+   "componentes": "Ácido biodegradável de origem orgânica, álcool vegetal de cadeia média (C12-C14), componentes auxiliares de base orgânica"
+  },
+  {
+   "slug": "limpeza-rapida-viaturas-car-action",
+   "nombre": "Detergente de lavagem rápida s/ Esfregar para carros - Car Action",
+   "componentes": "Concentrado biodegradável concebido à base de tensioativos aniónicos, surfactantes, álcoois gordos, óleos essenciais, emulsionantes, conservantes e estabilizantes."
+  },
+  {
+   "slug": "power-desengordurante-cozinha-edicao-halloween",
+   "nombre": "POWER | Desengordurante de cozinha 🎃 Edição limitada Halloween",
+   "componentes": "Água, silicato de sódio, solventes ecológicos, álcoois de origem vegetal, agentes quaternários naturais e coadjuvantes orgânicos"
+  },
+  {
+   "slug": "power",
+   "nombre": "Desengordurante de cozinha - POWER",
+   "componentes": "Água, silicato de sódio, solventes ecológicos, álcoois de origem vegetal, agentes quaternários naturais e coadjuvantes orgânicos"
+  },
+  {
+   "slug": "shampoo-carro-car-501",
+   "nombre": "Champô para o carro - CAR 501",
+   "componentes": "Contém entre outros ingredientes: Tensioativos Aniónicos: Igual ou superior a 15%, mas inferior a 30%. Tensioativos Não Iónicos: Inferior a 5%. Conservantes: METHYLCHLOROISOTHIAZOLINONE,"
+  },
+  {
+   "slug": "suavizante-e-protetor-de-roupa-2-em-1-biosoft",
+   "nombre": "Intensificador de perfume e anti-vincos para roupa - BIOSOFT aroma original (frutado)",
+   "componentes": "Água, Ácido carboxílico de origem natural, álcool de fontes renováveis, aromas derivados de essências naturais"
+  },
+  {
+   "slug": "super-detergente-de-loica-eco-wash-super-limao-cravo",
+   "nombre": "Detergente de loiça - ECOWASH SUPER Limão Cravo",
+   "componentes": "Água, potássio natural, agentes sequestrantes ecológicos, reguladores de acidez essência natural de limão cravo."
+  },
+  {
+   "slug": "super-detergente-hipoalergenico-de-loica-eco-wash-super-1l",
+   "nombre": "Detergente de loiça hipoalergénico - ECOWASH SUPER",
+   "componentes": "Água, potássio natural, agentes sequestrantes ecológicos e reguladores de acidez."
+  },
+  {
+   "slug": "wc-pinkbac",
+   "nombre": "Detergente, desincrustante WC Orquídea - PINKBAC",
+   "componentes": "Água, tensioativos suaves biodegradáveis, ácido cítrico, agentes de limpeza naturais e essência natural floral (mistura de flores)."
+  }
+ ]
+}
