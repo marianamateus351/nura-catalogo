@@ -6074,7 +6074,10 @@ no entra":
 - Fuente: foto trasera legible con el código en el envase o en la ficha de la tienda; el texto que teclea una
   tienda solo vale si casa con la foto.
 - Nunca va a Alternativas (`limpios.mjs` lo salta; `verifica.mjs` cuenta `listaParcial`, tiene que dar 0).
-- Si aparece la ficha 648/2004 completa, se sustituye la lista y se quita `listaParcial`.
+- **Orden (Mariana, 2026-11-05): si la marca publica la lista completa en su web, manda esa; la etiqueta solo
+  cuando no exista.** Antes de cargar un producto con `listaParcial`, se busca la ficha 648/2004 de la marca o del
+  fabricante (portal de fichas, web del producto, PDF por código) y, si se encuentra y casa con la etiqueta, entra
+  con la lista completa y sin `listaParcial`. Si aparece después, se sustituye y se quita `listaParcial`.
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
