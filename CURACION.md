@@ -6088,8 +6088,11 @@ no entra":
   **literal**: porcentajes por familias y todo lo que nombra (perfume, alérgenos, conservantes, enzimas,
   abrillantadores, desinfectantes), sin recortar ni traducir. La app reconoce además una lista de etiqueta por el
   texto (tramo de porcentaje + familia del reglamento, en es/pt/en/fr/de), así que `listaParcial` ya no es
-  imprescindible para el aviso, pero se sigue poniendo. Si la marca publica la lista pero su web nos bloquea
-  (Unilever `wiop`, SC Johnson), **no** se carga la etiqueta: queda fuera hasta tener la lista completa.
+  imprescindible para el aviso, pero se sigue poniendo. **Si la marca publica la lista pero su web nos bloquea**
+  (Unilever `wiop.unilever.*`, SC Johnson `whatsinsidescjohnson.com`): **entra con la etiqueta** (Mariana, 2026-11-05:
+  "la publican, pero no puedes acceder, entonces mira las etiquetas"), con `listaParcial: true` y
+  `listaCompletaEn: "<web>"` para sustituirla en cuanto se pueda leer la ficha completa (p. ej. si Mariana la baja
+  desde el navegador). No se fuerza el acceso.
 - **Anotar en cada carga** cuántos entran con ficha completa y cuántos solo con etiqueta.
 - **Orden (Mariana, 2026-11-05): si la marca publica la lista completa en su web, manda esa; la etiqueta solo
   cuando no exista.** Antes de cargar un producto con `listaParcial`, se busca la ficha 648/2004 de la marca o del
