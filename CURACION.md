@@ -6065,6 +6065,16 @@ alternativas.json y el respaldo de la app); la app reconoce "blanqueador de ropa
 Biobel y de Marsella…), renombrarlos con la misma regla al tocar esas marcas o en una pasada, y regenerar
 `alternativas.json` y la regresión.
 
+### 2026-11-05 · Inokem (Portugal, Hogar) — encargo: cargar la marca entera
+Mariana pregunta por **Inokem** (no está en el catálogo: 0 productos). Marca portuguesa de **detergentes
+ecológicos ultraconcentrados** para el hogar y uso profesional (`inokem.com`; multiusos, desengrasante Citrus
+Power, limpiacristales Eco Glass, WC Bluebac, Bio Clean, detergente de ropa, lavavajillas; packs y recargas).
+Mismo encargo y mismo criterio que EcoX y Zabon: ficha de ingredientes **648/2004** de su web o foto trasera
+legible y completa (tiendas: `logicaecologica.pt/brand/inokem`, `agriloja.pt`), EAN atado por nombre y formato
+(ojo: muchos son concentrados con recarga y packs; cada envase con su código, los packs fuera), alias en
+portugués, y cada producto juzgado por su lista. "Allergy safe" o "eco" de la marca no cuenta: sin lista
+completa no entra. Anotar aquí cuántos entran, cuántos quedan limpios y cuántos se quedan fuera.
+
 ### 2026-11-04 · Zabon (España, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Zabon** (no está en el catálogo: 0 productos). Es `zabon.es`, marca española de
 **limpieza ecológica del hogar** (concentrados y limpiadores, "hecho en España", fundada por madre e hija); no
