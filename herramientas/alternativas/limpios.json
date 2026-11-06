@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-auchan-hogar",
+ "version": "2026-11-06-svr",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -7507,6 +7507,34 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3401360167872"
+   ]
+  },
+  {
+   "marcaKey": "svr",
+   "marca": "SVR",
+   "nombre": "Aceite facial de noche SVR Sensifine Huile de Nuit",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3662361002535"
+   ]
+  },
+  {
+   "marcaKey": "svr",
+   "marca": "SVR",
+   "nombre": "Pomada reparadora SVR Cicavit+ Pommade",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3662361005536",
+    "3662361005543"
+   ]
+  },
+  {
+   "marcaKey": "svr",
+   "marca": "SVR",
+   "nombre": "Crema calmante SVR Sensifine Extrême",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3662361003822"
    ]
   },
   {

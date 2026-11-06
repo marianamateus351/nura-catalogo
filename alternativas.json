@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06b",
+ "version": "2026-11-06c",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1615,6 +1615,12 @@
        "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
       },
       {
+       "nombre": "Crema calmante SVR Sensifine Extrême",
+       "marca": "SVR",
+       "barcode": "3662361003822",
+       "fechaLista": "06-11-2026"
+      },
+      {
        "nombre": "SENSIFINE Aqua-Gel",
        "marca": "SVR",
        "barcode": "3662361001231",
@@ -2368,6 +2374,12 @@
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "subtipo": "hidratante",
        "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Aceite facial de noche SVR Sensifine Huile de Nuit",
+       "marca": "SVR",
+       "barcode": "3662361002535",
+       "fechaLista": "06-11-2026"
       },
       {
        "nombre": "Ampoule Relax",
@@ -8899,6 +8911,12 @@
        "barcode": "3662361000388",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B07D5GBXCM"
+      },
+      {
+       "nombre": "Pomada reparadora SVR Cicavit+ Pommade",
+       "marca": "SVR",
+       "barcode": "3662361005536",
+       "fechaLista": "06-11-2026"
       },
       {
        "nombre": "SENSIFINE Nutri-Baume",
