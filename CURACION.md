@@ -6160,6 +6160,11 @@ distinto ("All in One"): en ese caso, ficha nueva con su lista oficial.
   en natulim.com y mire si alguna variante lleva `8436617752681` y si la lista de su FAQ es la misma (23
   componentes); (2) las fotos de la usuaria, si vuelve a mandarlas (frente y trasera llegaron en blanco); (3) una tienda que
   dé el EAN. Con lista idéntica, el código va a "Eco Pastillas Lavavajillas Máquina 6 en 1"; si es otra, ficha nueva.
+- **Corrección (Mariana, 2026-11-06): la aportación es suya, no de una usuaria.** La subió cuando las fotos aún no se
+  guardaban: en Storage no hay ninguna foto de `8436617752681` (repasadas las 73 de `contributions/`). Lo mismo con
+  **`8720181413308`** (en "Buscados sin resultado", sin nombre): casi seguro un **Skip** (prefijo 872018, Unilever);
+  no sale con WebSearch ni en Open Facts. **Los dos esperan a que Mariana vuelva a subir las fotos**; no se buscan más.
+  Skip, cuando llegue: lista de la etiqueta con `listaCompletaEn: "wiop.unilever.es"`, como el resto de Unilever.
 
 ### 2026-11-06 · Escaneos en vacío con código (panel de Mariana) — encargo
 Del panel "Escaneos en vacío" del 2026-11-06, los que tienen código y son cosa del catálogo:
