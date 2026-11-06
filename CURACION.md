@@ -6106,6 +6106,18 @@ no entra":
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
+### 2026-11-06 · Escaneos en vacío con código (panel de Mariana) — encargo
+Del panel "Escaneos en vacío" del 2026-11-06, los que tienen código y son cosa del catálogo:
+1. **Avène Hyaluron Activ B3 Concentrated Plumping Serum** (`3282770153071`): Avène tiene 153 productos en el
+   catálogo pero falta este sérum (solo están el fluido UV y el contorno de ojos de la gama). Cargar con INCI de
+   `eau-thermale-avene.es` y atar el código.
+2. **Natulim** con código `1008063933487` (1 persona, sin nombre): no es un EAN de Natulim (los suyos empiezan por
+   8436617…); puede ser un código interno o de Amazon. Buscar en `natulim.com` qué producto lleva ese código o
+   si es un envase nuevo de uno de los 19 que ya tenemos; si se identifica, añadir el código al producto.
+Los demás con código son alimentación o medicamento y no van al catálogo: Digestive Avena (`8410376033267`,
+lo resuelve Open Food Facts), Barra de horno (`8421691000209`), Hemp Protein Bar (`5055936817753`), Brownie
+Chocolate Chunk (`5059883116631`) y Vicks VapoRub (`91598271`, medicamento).
+
 ### 2026-11-05 · Inokem (Portugal, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Inokem** (no está en el catálogo: 0 productos). Marca portuguesa de **detergentes
 ecológicos ultraconcentrados** para el hogar y uso profesional (`inokem.com`; multiusos, desengrasante Citrus
