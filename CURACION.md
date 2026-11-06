@@ -7677,3 +7677,29 @@ Aviso de rediseño: el "Friegasuelos Flor de Cerezo W5 1,5 L" (4056489871378) ti
 aniónicos < 5 %…") sin `listaParcial`. Marcado. Repaso de todo el catálogo con `esListaDeEtiqueta` de la app y con una
 búsqueda de familias del reglamento y tramos de porcentaje: es el único; los demás "< 2 % aromatics" son nombres de
 hidrocarburos dentro de listas completas (HG, Dr. Beckmann, Búfalo, Auchan, Etamine du Lys).
+
+### 2026-11-06 · Decisiones de Mariana y versión 2026-11-06-svr-nombres
+- **Piritiona de sodio** ("si es tóxico, se agrega") y **bálsamo del Perú** ("sí"): detector 2026-11-06c. Piritiona de
+  sodio en "otros riesgos" (ECHA/RAC Repr. 1B, H360D), todas las categorías: +37 (Auchan 14, Rituals 12, Búfalo 8,
+  Dr. Beckmann 2, Polegar 1). Bálsamo del Perú (Myroxylon pereirae) en "otros a tener en cuenta" (alérgeno clásico):
+  +11 (Dr. Bronner's, Charlotte Tilbury, Ach. Brito, Ziaja, Kiko, essence, Deliplus, My Soul, The Body Shop).
+- **Mercadona** ("si se puede, sí"): se sigue usando su API de tienda pese a la línea `Disallow: /api` del robots.txt.
+- **Nombres de SVR** (Mariana: "el nombre de la marca es lo que es, no se traduce; lo que se traduce es si es crema,
+  loción…"): los 109 productos con el tipo en español y la línea y el nombre del producto tal cual ("HYDRALIANE Riche" →
+  "Crema hidratante SVR Hydraliane Riche", "SUN SECURE Lait SPF50+" → "Leche solar SVR Sun Secure SPF50+", "[A] Ampoule
+  Lift" → "Sérum SVR [A] Ampoule Lift"); los 19 del repaso de hoy, sin los adjetivos que se les habían añadido ("Crema
+  antiedad SVR Densitium Crème" → "Crema facial SVR Densitium"). Lista en `scratchpad/q20/svr_nombres.tsv`. Alternativas:
+  todos los de SVR en el mismo tipo que antes (tres nombres ajustados para ello: "Teinté", "Aceite facial…", "Crema
+  antirrascado…").
+- **Lista más completa manda** (Mariana: "si tenemos acceso a una lista más completa, vamos con lo más completo"): cuando
+  la ficha 648/2004 trae todo lo que nombra la etiqueta y además algo más (casi siempre un conservante), sustituye a la
+  etiqueta aunque la etiqueta no lo nombre. Pasan a ficha completa y sin `listaParcial`: Quanto Azul y Rosa (UFI = ficha;
+  + BIT/MIT), X-Tra Gel Floral (+ fenoxietanol), Auchan Sensitive (+ ácido benzoico), Vim horno y barbacoa (+ benzoato y
+  nitrito sódicos), A+ Active4 Luxury Flowers (+ sorbato potásico); y entra el **Limpiacristales Cillit Bang Limpa Vidros
+  Expert** (5601217138958, UFI y EAN casan; + MCI/MIT). Siguen con la etiqueta los casos al revés (la ficha no trae algo
+  que la etiqueta nombra: Air Wick, A+ con isoeugenol, Persil con lavanda, Vernel…) o con dos fichas posibles (A+ Pureza
+  Azul) o con el EAN de otro producto dentro del PDF (Auchan Oxi Activo).
+- **Revisión FP/FN de las 7 listas:** "Sodium Coceth-30 Sulfate" no salía como etoxisulfato: alias "coceth" y "myreth"
+  (detector 2026-11-06d). Regresión: +14 productos de cosmética con el aviso de tensioactivos etoxilados (Coceth-7,
+  Myreth-3 Myristate, Zinc Coceth Sulfate, Di-PPG-2 Myreth-10 Adipate…), todos correctos; sale de Alternativas el
+  XeraCalm A.D Bálsamo Relipidizante de Avène por eso. Ningún aviso quitado.
