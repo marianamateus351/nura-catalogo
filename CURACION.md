@@ -6106,6 +6106,13 @@ no entra":
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
+### 2026-11-06 · Natulim pastillas lavavajillas "All in One" (`8436617752681`) — encargo
+Una usuaria lo aportó con fotos el 2026-11-06 (panel "Productos con fotos para leer la lista"), pero las fotos no
+llegaron (frente y trasera en blanco). El código no está en el catálogo; Natulim ya tiene las "Eco Pastillas
+Lavavajillas Máquina 6 en 1 (30 pastillas)" con `8436617752667`. Comprobar en `natulim.com` si `8436617752681` es
+otro formato del mismo producto (atar el código a la ficha que ya existe si la lista es idéntica) o un producto
+distinto ("All in One"): en ese caso, ficha nueva con su lista oficial.
+
 ### 2026-11-06 · Escaneos en vacío con código (panel de Mariana) — encargo
 Del panel "Escaneos en vacío" del 2026-11-06, los que tienen código y son cosa del catálogo:
 1. **Avène Hyaluron Activ B3 Concentrated Plumping Serum** (`3282770153071`): Avène tiene 153 productos en el
