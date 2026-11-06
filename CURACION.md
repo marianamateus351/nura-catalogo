@@ -7647,3 +7647,27 @@ Reglas en `scratchpad/q17/REGLAS_ETIQUETA.md` y `REGLAS_FICHA_COMPLETA.md` de la
   `listaParcial` 0). De las 91 con ficha completa solo salía limpia la "Lejía tradicional Auchan", y se coló porque su
   ficha escribe "Sodium Hypochloride": el filtro de lejía de `genera.py` acepta ahora también esa errata (sin tocar el
   ácido hipocloroso de las brumas faciales, que no es lejía).
+
+### 2026-11-06 · SVR, repaso (versión 2026-11-06-svr): +19 productos, 30 códigos
+Mariana: "mira también SVR". Se vuelven a bajar `products.json`, `/products/<handle>.js` (código por variante) y la
+página de cada producto nuevo de es.svr.com y fr.svr.com (robots.txt lo permite; 2 s entre peticiones). Mismo criterio
+que en septiembre: lista española si ya está en INCI; si está traducida al castellano o no hay, la francesa del **mismo
+código** con el mismo código de laboratorio (LAB). Solo códigos de la tienda española.
+- **Los 109 códigos que ya había siguen todos en es.svr.com.** 46 códigos de la tienda no estaban en el catálogo.
+- **Entran 19 productos (30 códigos)**, con nombre en español: Densitium Crème, Crème Riche, Crème SPF30 y Bi-Sérum (con
+  sus recargas), [Hyalu] y [Ceramides] Biotic, [C20] Biotic Fluide, Clairial Night Peel, Sebiaclear Gel Moussant (3
+  formatos) y Ampoule Flash, Sensifine Huile de Nuit y Extrême, Physiopure Eau Micellaire, Cicavit+ Pommade (50 y 15 g),
+  Spirial Roll-On, Déo-Crème, Déo-Douche (200 y 400 ml) y Spray Végétal, Xerial DM Psoriasis. En las Densitium la lista
+  francesa trae 3-4 alérgenos de perfume más que la española traducida, con el mismo LAB: se toma la francesa (la más
+  completa). [C20] Fluide: lista española (LAB23.04) distinta de la francesa (sin LAB): se toma la española.
+- **Fuera:** Densitium Baume Nuit (LAB C.40 en España, C.42b en Francia) y Sun Secure Eau Solaire (LAB21.24 frente a
+  18.09): dos versiones; Physiopure Tonique (LAB14.04 frente a 14.05, listas distintas); Topialyse Stick Lèvres (solo
+  traducida); sin lista en ninguna de las dos webs: Sensifine AR Eau Micellaire, Masque SOS, Sebiaclear Gel Moussant de
+  viaje y tres minis (Déo-Douche, Après-Soleil, Blur); packs y neceseres (Pack Aretha, Pouch, Yellow Pouch).
+- **Revisión FP/FN:** 3 limpios (Sensifine Huile de Nuit, Sensifine Extrême, Cicavit+ Pommade); el resto con perfume,
+  aluminio en los tres desodorantes antitranspirantes, galaxólido en el Spray Végétal y el Bi-Sérum, ácido salicílico en
+  los dos Sebiaclear, propilenglicol en [Hyalu] y Night Peel, laureth en el Déo-Douche. Sin falsos negativos (los
+  etoxilados de crema, beheneth/steareth/ceteareth, siguen el criterio de cosmética). Regresión: 0 cambios en las
+  19.497 fichas anteriores.
+- Los 90 productos de septiembre siguen con el nombre de la web (en francés, "HYDRALIANE Creme"): pendiente de pasarlos
+  al formato del catálogo si Mariana quiere.

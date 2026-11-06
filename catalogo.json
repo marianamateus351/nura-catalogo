@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-auchan-hogar",
+ "version": "2026-11-06-svr",
  "marcas": [
   {
    "key": "larocheposay",
@@ -53835,6 +53835,188 @@
       "3401381332495"
      ],
      "inci": "Aqua/Water/Eau, Poloxamer 184, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Gluconolactone, 1,2-Hexanediol, Citric Acid, Sodium Hydroxide, Cetrimonium Bromide, Parfum/Fragrance"
+    },
+    {
+     "nombre": "Crema antiedad SVR Densitium Crème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361004744",
+      "3662361004751"
+     ],
+     "inci": "Aqua/Water/Eau, Octyldodecanol, Vegetable Oil, Orbignya Oleifera Seed Oil, Glyceryl Stearate, Glycerin, Beheneth-25, Behenyl Alcohol, Cetyl Palmitate, Cetearyl Alcohol, 1,2-Hexanediol, Arginine PCA, Calcium PCA, Sodium Polyacryloyldimethyl Taurate, Butylene Glycol, Hydroxyacetophenone, Sodium Stearoyl Lactylate, Maltodextrin, Parfum, Xanthan Gum, Hyaluronic Acid, Lactobacillus Ferment, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Carbomer, Sodium Lactate, Polysorbate 20, Sodium Hydroxide, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Vanillin, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Crema antiedad SVR Densitium Crème SPF30",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361004775",
+      "3662361004782"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Coco-Caprylate/Caprate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glycerin, C12-15 Alkyl Benzoate, Silica, Glyceryl Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Beheneth-25, Triethyl Citrate, Behenyl Alcohol, Cetyl Palmitate, Sodium Polyacryloyldimethyl Taurate, Cetearyl Alcohol, 1,2-Hexanediol, Arginine PCA, Calcium PCA, Niacinamide, Butylene Glycol, Hydroxyacetophenone, Parfum, Sodium Stearoyl Lactylate, Maltodextrin, Helianthus Annuus (Sunflower) Seed Oil, Sphingomonas Ferment Extract, Hyaluronic Acid, Lactobacillus Ferment, Carbomer, Sodium Lactate, Tocopherol, Polysorbate 20, Lecithin, Alkanna Tinctoria Root Extract, Lepidium Sativum Sprout Extract, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Vanillin, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Crema para psoriasis SVR Xerial DM Psoriasis",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3770025839004"
+     ],
+     "inci": "Aqua/Water/Eau, Urea, Butyrospermum Parkii (Shea) Butter, Orbignya Oleifera Seed Oil, Caprylic/Capric Triglyceride, Dimethicone, Glycerin, Propanediol, Glycol Palmitate, Glyceryl Stearate, PEG-100 Stearate, Myristyl Alcohol, Camelina Sativa Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cera Alba/Beeswax/Cire D’abeille, Sodium Citrate, Triacetin, Myristyl Glucoside, Pentylene Glycol, Polyacrylate Crosspolymer-6, Dimethicone Crosspolymer, Citric Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Parfum, Calcium PCA, Sodium Lactate, Glycine Soja (Soybean) Oil, Stearyl Stearate, Stearyl Palmitate, Hydrolyzed Hyaluronic Acid, Paraffin, Polysorbate 60, Sorbitan Isostearate, Cetyl Palmitate, Cetyl Stearate, Saccharide Isomerate, Behenic Acid, Stearic Acid, Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline, Arachidic Acid, Palmitic Acid, Helianthus Annuus (Sunflower) Seed Oil"
+    },
+    {
+     "nombre": "Desodorante en spray SVR Spirial Végétal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361000104"
+     ],
+     "inci": "Butane, Propane, Triethyl Citrate, Neopentyl Glycol Dicaprylate/Dicaprate, Parfum, C12-15 Alkyl Benzoate, Octyldodecanol, Maltodextrin, Disteardimonium Hectorite, Polyglyceryl-3 Caprylate, Helianthus Annuus (Sunflower) Seed Oil, Hexamethylindanopyran, Equisetum Arvense Extract, Linalyl Acetate, Camphor, Vanillin, Calendula Officinalis Flower Extract, Salvia Officinalis (Sage) Oil"
+    },
+    {
+     "nombre": "Sérum antiedad SVR Densitium Bi-Sérum",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361002023",
+      "3662361005611"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Carbonate, Isononyl Isononanoate, Hexyldecyl Stearate, Oleic/Linoleic/Linolenic Polyglycerides, Squalane, Propanediol, Helianthus Annuus (Sunflower) Seed Oil, Glyceryl Behenate/Eicosadioate, Caprylic/Capric Triglyceride, Hydroxypropyl Starch Phosphate, Parfum, Sesamum Indicum (Sesame) Oil Unsaponifiables, Glycerin, Butylene Glycol, Calcium PCA, Argania Spinosa Kernel Oil, Borago Officinalis Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Saccharide Isomerate, Pentylene Glycol, Leontopodium Alpinum Callus Culture Extract, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Glycosphingolipids, Acacia Senegal Gum, Glycolipids, Xanthan Gum, Glycine Soja (Soybean) Oil, Lupinus Albus Seed Extract, Hyaluronic Acid, Artemisia Abrotanum Extract, Citric Acid, Sodium Citrate, Lavandula Stoechas Extract, Bixa Orellana Seed Extract, Tetramethyl Acetyloctahydronaphthalenes, Hexamethylindanopyran, Citronellol, Linalyl Acetate, Vanillin, Linalool, Alpha-Isomethyl Ionone, Limonene, Citrus Limon (Lemon) Peel Oil, Terpineol, Pinene"
+    },
+    {
+     "nombre": "Crema hidratante SVR [Hyalu] Biotic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361004249",
+      "3662361004300"
+     ],
+     "inci": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Propylene Glycol, Caprylic/Capric Triglyceride, Ascorbyl Tetraisopalmitate, 1,2-Hexanediol, C10-18 Triglycerides, Carbomer, Maltodextrin, Sodium Hyaluronate, Sodium Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Parfum, Sodium Hydroxide, Lecithin, Lactobacillus Ferment, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Acetylated Hyaluronate"
+    },
+    {
+     "nombre": "Crema reparadora SVR [Ceramides] Biotic",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361005987",
+      "3662361005994"
+     ],
+     "inci": "Aqua/Water/Eau, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, Glycerin, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Carboxymethyl Starch, Cetearyl Alcohol, Beheneth-25, Pentylene Glycol, 1,2-Hexanediol, Glyceryl Behenate, Hydroxyethylcellulose, Safflower Oil/Palm Oil Aminopropanediol Esters, Cetearyl Glucoside, Maltodextrin, Ascorbyl Tetraisopalmitate, Parfum, Ophiopogon Japonicus Root Extract, Caprylyl Glycol, Lactobacillus Ferment, Sodium Acetylated Hyaluronate, Ceramide AP, Glycosphingolipids, Glycolipids, Citric Acid, Ceramide NP"
+    },
+    {
+     "nombre": "Desodorante en crema SVR Spirial Déo-Crème",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401381328825"
+     ],
+     "inci": "Aqua/Water/Eau, Aluminum Chlorohydrate, C15-19 Alkane, Glyceryl Stearate SE, Pentaerythrityl Distearate, Beheneth-25, Diatomaceous Earth, Glycerin, Glycol Palmitate, Behenyl Alcohol, Vegetable Oil, Sclerotium Gum, 2-Methyl 5-Cyclohexylpentanol, Silica, Propanediol, 1,2-Hexanediol, Caprylyl Glycol, Allantoin, Glyceryl Caprylate, Lactococcus Ferment Extract, Tropolone, Decyl Glucoside"
+    },
+    {
+     "nombre": "Gel limpiador facial SVR Sebiaclear Gel Moussant",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361003402",
+      "3662361003419",
+      "3662361006243"
+     ],
+     "inci": "Aqua/Water/Eau, Glycerin, Gluconolactone, Decyl Glucoside, Disodium Cocoyl Glutamate, Coco-Betaine, Salicylic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Parfum"
+    },
+    {
+     "nombre": "Crema antiedad rica SVR Densitium Crème Riche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361004720",
+      "3662361004737"
+     ],
+     "inci": "Aqua/Water/Eau, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, Vitis Vinifera (Grape) Seed Oil, Orbignya Oleifera Seed Oil, Glycerin, Cetearyl Alcohol, Disodium Cetearyl Sulfosuccinate, Hydroxyethylcellulose, 1,2-Hexanediol, Arginine PCA, Calcium PCA, Vegetable Oil, Sodium Polyacrylate, Butylene Glycol, Hydroxyacetophenone, Parfum, Ceteareth-20, Maltodextrin, Hyaluronic Acid, Lactobacillus Ferment, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Carbomer, Sodium Lactate, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Vanillin, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Terpineol"
+    },
+    {
+     "nombre": "Peeling de noche antimanchas SVR Clairial Night Peel",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361000999"
+     ],
+     "inci": "Aqua/Water/Eau, Dicaprylyl Ether, Glycerin, Isononyl Isononanoate, Niacinamide, Squalane, Behenyl Alcohol, Diglycerin, Propylene Glycol, Butylene Glycol, Propanediol, Steareth-2, Steareth-21, Algin, Bentonite, Carbomer, Ethylhexyl Ferulate, Glycolipids, Hydrolyzed Yeast Extract, Papain, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Yeast Extract, Diacetyl Boldine, Tocopherol, Undecylenoyl Phenylalanine, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Jojoba Esters, PEG-100 Stearate, Pentylene Glycol, Polysorbate 60, Sorbitan Isostearate, Xanthan Gum, Parfum"
+    },
+    {
+     "nombre": "Gel de ducha desodorante SVR Spirial Déo-Douche",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361000098",
+      "3662361002702"
+     ],
+     "inci": "Aqua/Water/Eau, Sodium Laureth Sulfate, Coco-Betaine, PEG-7 Glyceryl Cocoate, Parfum, PEG-120 Methyl Glucose Dioleate, 1,2-Hexanediol, Propanediol, Ethylhexylglycerin, Dimethyl Phenylpropanol, Pentylene Glycol, Glyceryl Caprylate, Lactic Acid, Lactococcus Ferment Extract, Decyl Glucoside, Tocopherol"
+    },
+    {
+     "nombre": "Sérum facial SVR Sebiaclear Ampoule Flash",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361002450"
+     ],
+     "inci": "Aqua/Water/Eau, Azelaic Acid, Glycerin, Isopropyl Alcohol, Isopentyldiol, Niacinamide, Zinc Gluconate, Dicaprylyl Ether, Salicylic Acid, Parfum, Pentylene Glycol, Sodium Hydroxide, Microcrystalline Cellulose, 1,2-Hexanediol, Caprylyl Glycol, Sphingomonas Ferment Extract, Cellulose Gum, Tocopherol"
+    },
+    {
+     "nombre": "Aceite facial de noche SVR Sensifine Huile de Nuit",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361002535"
+     ],
+     "inci": "Brassica Campestris (Rapeseed) Seed Oil, Coco-Caprylate/Caprate, Vitis Vinifera (Grape) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cannabis Sativa Seed Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol"
+    },
+    {
+     "nombre": "Agua micelar SVR Physiopure Eau Micellaire",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401381330255"
+     ],
+     "inci": "Aqua/Water/Eau, PEG-6 Caprylic/Capric Glycerides, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Magnesium PCA, 1,2-Hexanediol, Citric Acid, Cetrimonium Bromide, Parfum"
+    },
+    {
+     "nombre": "Pomada reparadora SVR Cicavit+ Pommade",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361005536",
+      "3662361005543"
+     ],
+     "inci": "Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Cocos Nucifera (Coconut) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Oleic/Linoleic/Linolenic Polyglycerides, Hydrogenated Castor Oil, Helianthus Annuus (Sunflower) Seed Oil, Cera Alba/Beeswax/Cire D'abeille, Glycerin, Aqua/Water/Eau, Hydrogenated Rapeseed Oil, Alpha-Glucan Oligosaccharide, Curcuma Longa (Turmeric) Root Extract, Propanediol, Tocopherol, Citric Acid, Rhamnose, Glucose, Glucuronic Acid"
+    },
+    {
+     "nombre": "Crema calmante SVR Sensifine Extrême",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361003822"
+     ],
+     "inci": "Aqua/Water/Eau, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Mineral Salts, Sorbitan Isostearate"
+    },
+    {
+     "nombre": "Antitranspirante roll-on SVR Spirial Roll-On",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3401381328993",
+      "3662361002795"
+     ],
+     "inci": "Aqua/Water/Eau, Aluminum Chlorohydrate, Undecane, Diatomaceous Earth, Glycerin, Triethyl Citrate, Tridecane, Cetearyl Alcohol, Arachidyl Alcohol, Parfum, Propanediol, Sclerotium Gum, Allantoin, Behenyl Alcohol, 1,2-Hexanediol, Caprylyl Glycol, Ceteareth-33, Arachidyl Glucoside, Glyceryl Caprylate, Lactococcus Ferment Extract, Decyl Glucoside, Tropolone, Tocopherol"
+    },
+    {
+     "nombre": "Fluido facial vitamina C SVR [C20] Biotic Fluide",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3662361005253"
+     ],
+     "inci": "Aqua/Water/Eau, Ascorbyl Tetraisopalmitate, Propanediol, Tridecane, Silica, Arachidyl Alcohol, Sodium Polyacryloyldimethyl Taurate, Glyceryl Glucoside, Lactobacillus Ferment, Lauryl Glucoside, Maltodextrin, Polyglyceryl-6 Laurate, Sodium Acetyl Hyaluronate, Tetrasodium Glutamate Diacetate, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, 1,2-Hexanediol, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Citric Acid, Myristyl Glucoside, Pentylene Glycol, Perfume/Fragrance"
     }
    ]
   },
