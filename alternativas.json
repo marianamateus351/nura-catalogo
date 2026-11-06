@@ -1,5 +1,5 @@
 {
- "version": "2026-11-05b",
+ "version": "2026-11-06a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -18423,6 +18423,18 @@
        "marca": "Sodasan",
        "barcode": "4019886055116",
        "fechaLista": "15-10-2026"
+      }
+     ]
+    },
+    {
+     "key": "lejia",
+     "nombre": "Lejías",
+     "productos": [
+      {
+       "nombre": "Lejía tradicional Auchan",
+       "marca": "Auchan",
+       "barcode": "5601002107466",
+       "fechaLista": "06-11-2026"
       }
      ]
     },

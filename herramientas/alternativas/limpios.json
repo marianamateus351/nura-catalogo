@@ -1,5 +1,5 @@
 {
- "version": "2026-11-05-ropa",
+ "version": "2026-11-06-auchan-hogar",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -13317,6 +13317,25 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3596710532933"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejía tradicional Auchan",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5601002107466",
+    "5601002107510"
+   ]
+  },
+  {
+   "marcaKey": "auchan",
+   "marca": "Auchan",
+   "nombre": "Lejía con detergente Auchan",
+   "categoria": "Hogar",
+   "barcodes": [
+    "5601002107473"
    ]
   },
   {
