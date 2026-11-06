@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-w5",
+ "version": "2026-11-06-svr-nombres",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -789,15 +789,6 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3282770389883"
-   ]
-  },
-  {
-   "marcaKey": "avene",
-   "marca": "Avène",
-   "nombre": "XeraCalm A.D Bálsamo Relipidizante",
-   "categoria": "Cuidado personal",
-   "barcodes": [
-    "3282779405485"
    ]
   },
   {
@@ -7255,7 +7246,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
+   "nombre": "Leche solar SVR Sun Secure SPF50+ sin perfume",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361003198"
@@ -7264,7 +7255,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SUN SECURE Gouttes Teintées",
+   "nombre": "Gotas solares con color SVR Sun Secure",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361005734"
@@ -7273,7 +7264,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "CICAVIT+ Crème HPPI",
+   "nombre": "Crema reparadora SVR Cicavit+ HPPI",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361004645",
@@ -7283,7 +7274,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SUN SECURE Fluide Photo-Age SPF50+",
+   "nombre": "Fluido solar SVR Sun Secure Photo-Age SPF50+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361004065"
@@ -7292,7 +7283,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SUN SECURE Easy Stick SPF50+",
+   "nombre": "Stick solar SVR Sun Secure Easy Stick SPF50+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361004041",
@@ -7302,7 +7293,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "CICAVIT DM+ Cicatrices",
+   "nombre": "Tratamiento de cicatrices SVR Cicavit DM+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3401060287450"
@@ -7311,7 +7302,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "XERIAL Gommage",
+   "nombre": "Exfoliante corporal SVR Xerial",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361004201"
@@ -7320,7 +7311,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "PALPEBRAL Baume",
+   "nombre": "Bálsamo de párpados SVR Palpebral",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361003327"
@@ -7329,7 +7320,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SEBIACLEAR Creme Lavante",
+   "nombre": "Crema limpiadora SVR Sebiaclear",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361003372",
@@ -7339,7 +7330,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE AR Creme SPF50+",
+   "nombre": "Crema facial SVR Sensifine AR SPF50+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361002542"
@@ -7348,7 +7339,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE AR Creme Teinté",
+   "nombre": "Crema facial SVR Sensifine AR Teinté",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001859"
@@ -7357,7 +7348,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "TOPIALYSE Baume Protect+",
+   "nombre": "Bálsamo SVR Topialyse Protect+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001927",
@@ -7367,7 +7358,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "CICAVIT+ Creme mains",
+   "nombre": "Crema de manos SVR Cicavit+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001682"
@@ -7376,7 +7367,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE Dermo-Nettoyant",
+   "nombre": "Limpiador facial SVR Sensifine",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3401360084063"
@@ -7385,7 +7376,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "PALPEBRAL Máscara Protect",
+   "nombre": "Máscara de pestañas SVR Palpebral Protect",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001828"
@@ -7394,7 +7385,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE Hydra-Creme",
+   "nombre": "Crema hidratante SVR Sensifine Hydra",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001842"
@@ -7403,7 +7394,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE Nutri-Baume",
+   "nombre": "Bálsamo nutritivo SVR Sensifine Nutri",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001248"
@@ -7412,7 +7403,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "[B3] Ampoule Hydra",
+   "nombre": "Sérum SVR [B3] Ampoule Hydra",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361000937"
@@ -7421,7 +7412,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "Ampoule Relax",
+   "nombre": "Sérum SVR Ampoule Relax",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001224"
@@ -7430,7 +7421,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE Baume démaquillant",
+   "nombre": "Bálsamo desmaquillante SVR Sensifine",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001033",
@@ -7440,7 +7431,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "CICAVIT+ SOS Grattage",
+   "nombre": "Crema antirrascado SVR Cicavit+ SOS Grattage",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361000388"
@@ -7449,7 +7440,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "CICAVIT+ Lèvres",
+   "nombre": "Bálsamo labial SVR Cicavit+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001255"
@@ -7458,7 +7449,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "XERIAL Peel",
+   "nombre": "Exfoliante corporal SVR Xerial Peel",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3401360238091"
@@ -7467,7 +7458,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "[B3] Masque Hydra Intensif",
+   "nombre": "Mascarilla facial SVR [B3] Hydra Intensif",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361000968"
@@ -7476,7 +7467,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "PALPEBRAL Démaquillant",
+   "nombre": "Desmaquillante de ojos SVR Palpebral",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001316"
@@ -7485,7 +7476,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE Aqua-Gel",
+   "nombre": "Gel hidratante facial SVR Sensifine Aqua-Gel",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361001231"
@@ -7494,7 +7485,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE AR Creme Riche",
+   "nombre": "Crema facial SVR Sensifine AR Riche",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361000081"
@@ -7503,7 +7494,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "SENSIFINE AR Creme",
+   "nombre": "Crema facial SVR Sensifine AR",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3401360167872"
@@ -7512,7 +7503,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "Aceite facial de noche SVR Sensifine Huile de Nuit",
+   "nombre": "Aceite facial de noche SVR Sensifine",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361002535"
@@ -7521,7 +7512,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "Pomada reparadora SVR Cicavit+ Pommade",
+   "nombre": "Pomada SVR Cicavit+",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361005536",
@@ -7531,7 +7522,7 @@
   {
    "marcaKey": "svr",
    "marca": "SVR",
-   "nombre": "Crema calmante SVR Sensifine Extrême",
+   "nombre": "Crema facial SVR Sensifine Extrême",
    "categoria": "Cuidado personal",
    "barcodes": [
     "3662361003822"

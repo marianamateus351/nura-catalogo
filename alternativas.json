@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06d",
+ "version": "2026-11-06e",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -874,23 +874,7 @@
        "fechaLista": "12-10-2026"
       },
       {
-       "nombre": "PALPEBRAL Démaquillant",
-       "marca": "SVR",
-       "barcode": "3662361001316",
-       "subtipo": "desmaquillante-ojos",
-       "fechaLista": "30-09-2026",
-       "amazon": "https://www.amazon.es/dp/B086QLH5FN"
-      },
-      {
-       "nombre": "SEBIACLEAR Creme Lavante",
-       "marca": "SVR",
-       "barcode": "3662361003372",
-       "subtipo": "gel-espuma",
-       "fechaLista": "30-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0CGMPZV8R"
-      },
-      {
-       "nombre": "SENSIFINE Baume démaquillant",
+       "nombre": "Bálsamo desmaquillante SVR Sensifine",
        "marca": "SVR",
        "barcode": "3662361001033",
        "subtipo": "aceite-desmaquillante",
@@ -898,7 +882,23 @@
        "amazon": "https://www.amazon.es/dp/B084NYV47L"
       },
       {
-       "nombre": "SENSIFINE Dermo-Nettoyant",
+       "nombre": "Crema limpiadora SVR Sebiaclear",
+       "marca": "SVR",
+       "barcode": "3662361003372",
+       "subtipo": "gel-espuma",
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0CGMPZV8R"
+      },
+      {
+       "nombre": "Desmaquillante de ojos SVR Palpebral",
+       "marca": "SVR",
+       "barcode": "3662361001316",
+       "subtipo": "desmaquillante-ojos",
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B086QLH5FN"
+      },
+      {
+       "nombre": "Limpiador facial SVR Sensifine",
        "marca": "SVR",
        "barcode": "3401360084063",
        "imagen": "https://images.openbeautyfacts.org/images/products/340/136/008/4063/front_fr.5.400.jpg",
@@ -1605,31 +1605,7 @@
        "fechaLista": "12-10-2026"
       },
       {
-       "nombre": "CICAVIT+ Crème HPPI",
-       "marca": "SVR",
-       "barcode": "3662361004645",
-       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4645/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "subtipo": "reparadora",
-       "fechaLista": "30-09-2026",
-       "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
-      },
-      {
-       "nombre": "Crema calmante SVR Sensifine Extrême",
-       "marca": "SVR",
-       "barcode": "3662361003822",
-       "fechaLista": "06-11-2026"
-      },
-      {
-       "nombre": "SENSIFINE Aqua-Gel",
-       "marca": "SVR",
-       "barcode": "3662361001231",
-       "subtipo": "sensible",
-       "fechaLista": "30-09-2026",
-       "amazon": "https://www.amazon.es/dp/B085HKNH45"
-      },
-      {
-       "nombre": "SENSIFINE AR Creme",
+       "nombre": "Crema facial SVR Sensifine AR",
        "marca": "SVR",
        "barcode": "3401360167872",
        "imagen": "https://images.openbeautyfacts.org/images/products/340/136/016/7872/front_it.11.400.jpg",
@@ -1639,26 +1615,50 @@
        "amazon": "https://www.amazon.es/dp/B01LZYAQ6G"
       },
       {
-       "nombre": "SENSIFINE AR Creme Riche",
+       "nombre": "Crema facial SVR Sensifine AR Riche",
        "marca": "SVR",
        "barcode": "3662361000081",
        "subtipo": "sensible",
        "fechaLista": "30-09-2026"
       },
       {
-       "nombre": "SENSIFINE AR Creme Teinté",
+       "nombre": "Crema facial SVR Sensifine AR Teinté",
        "marca": "SVR",
        "barcode": "3662361001859",
        "subtipo": "sensible",
        "fechaLista": "30-09-2026"
       },
       {
-       "nombre": "SENSIFINE Hydra-Creme",
+       "nombre": "Crema facial SVR Sensifine Extrême",
+       "marca": "SVR",
+       "barcode": "3662361003822",
+       "fechaLista": "06-11-2026"
+      },
+      {
+       "nombre": "Crema hidratante SVR Sensifine Hydra",
        "marca": "SVR",
        "barcode": "3662361001842",
        "subtipo": "sensible",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B096L1DPP7"
+      },
+      {
+       "nombre": "Crema reparadora SVR Cicavit+ HPPI",
+       "marca": "SVR",
+       "barcode": "3662361004645",
+       "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4645/front_fr.3.400.jpg",
+       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "subtipo": "reparadora",
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B0F7SHYLDP"
+      },
+      {
+       "nombre": "Gel hidratante facial SVR Sensifine Aqua-Gel",
+       "marca": "SVR",
+       "barcode": "3662361001231",
+       "subtipo": "sensible",
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B085HKNH45"
       },
       {
        "nombre": "Crema hidratante Omega Water Cream 50 ml",
@@ -2367,7 +2367,13 @@
        "fechaLista": "15-10-2026"
       },
       {
-       "nombre": "[B3] Ampoule Hydra",
+       "nombre": "Aceite facial de noche SVR Sensifine",
+       "marca": "SVR",
+       "barcode": "3662361002535",
+       "fechaLista": "06-11-2026"
+      },
+      {
+       "nombre": "Sérum SVR [B3] Ampoule Hydra",
        "marca": "SVR",
        "barcode": "3662361000937",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/0937/front_fr.3.400.jpg",
@@ -2376,13 +2382,7 @@
        "fechaLista": "30-09-2026"
       },
       {
-       "nombre": "Aceite facial de noche SVR Sensifine Huile de Nuit",
-       "marca": "SVR",
-       "barcode": "3662361002535",
-       "fechaLista": "06-11-2026"
-      },
-      {
-       "nombre": "Ampoule Relax",
+       "nombre": "Sérum SVR Ampoule Relax",
        "marca": "SVR",
        "barcode": "3662361001224",
        "fechaLista": "30-09-2026"
@@ -3150,7 +3150,7 @@
        "amazon": "https://www.amazon.es/dp/B0B883RL71"
       },
       {
-       "nombre": "SENSIFINE AR Creme SPF50+",
+       "nombre": "Crema facial SVR Sensifine AR SPF50+",
        "marca": "SVR",
        "barcode": "3662361002542",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/2542/front_fr.4.400.jpg",
@@ -3160,14 +3160,7 @@
        "amazon": "https://www.amazon.es/dp/B09VW7YV32"
       },
       {
-       "nombre": "SUN SECURE Easy Stick SPF50+",
-       "marca": "SVR",
-       "barcode": "3662361004041",
-       "subtipo": "cara",
-       "fechaLista": "30-09-2026"
-      },
-      {
-       "nombre": "SUN SECURE Fluide Photo-Age SPF50+",
+       "nombre": "Fluido solar SVR Sun Secure Photo-Age SPF50+",
        "marca": "SVR",
        "barcode": "3662361004065",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/4065/front_fr.3.400.jpg",
@@ -3177,7 +3170,7 @@
        "amazon": "https://www.amazon.es/dp/B0DV5Q47H7"
       },
       {
-       "nombre": "SUN SECURE Lait SPF50+ Sans Parfum",
+       "nombre": "Leche solar SVR Sun Secure SPF50+ sin perfume",
        "marca": "SVR",
        "barcode": "3662361003198",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/3198/front_fr.7.400.jpg",
@@ -3185,6 +3178,13 @@
        "subtipo": "cuerpo",
        "fechaLista": "30-09-2026",
        "amazon": "https://www.amazon.es/dp/B0CYH4T6RM"
+      },
+      {
+       "nombre": "Stick solar SVR Sun Secure Easy Stick SPF50+",
+       "marca": "SVR",
+       "barcode": "3662361004041",
+       "subtipo": "cara",
+       "fechaLista": "30-09-2026"
       },
       {
        "nombre": "Protector solar mineral facial con color",
@@ -7119,7 +7119,7 @@
        "fechaLista": "21-10-2026"
       },
       {
-       "nombre": "CICAVIT+ Lèvres",
+       "nombre": "Bálsamo labial SVR Cicavit+",
        "marca": "SVR",
        "barcode": "3662361001255",
        "subtipo": "balsamo",
@@ -7562,7 +7562,7 @@
        "amazon": "https://www.amazon.es/dp/B0CFL7LS43"
       },
       {
-       "nombre": "PALPEBRAL Baume",
+       "nombre": "Bálsamo de párpados SVR Palpebral",
        "marca": "SVR",
        "barcode": "3662361003327",
        "fechaLista": "30-09-2026"
@@ -8161,13 +8161,13 @@
        "fechaLista": "20-10-2026"
       },
       {
-       "nombre": "XERIAL Gommage",
+       "nombre": "Exfoliante corporal SVR Xerial",
        "marca": "SVR",
        "barcode": "3662361004201",
        "fechaLista": "30-09-2026"
       },
       {
-       "nombre": "XERIAL Peel",
+       "nombre": "Exfoliante corporal SVR Xerial Peel",
        "marca": "SVR",
        "barcode": "3401360238091",
        "fechaLista": "30-09-2026",
@@ -8381,7 +8381,7 @@
        "fechaLista": "12-10-2026"
       },
       {
-       "nombre": "[B3] Masque Hydra Intensif",
+       "nombre": "Mascarilla facial SVR [B3] Hydra Intensif",
        "marca": "SVR",
        "barcode": "3662361000968",
        "fechaLista": "30-09-2026"
@@ -8520,15 +8520,6 @@
        "imagen": "https://images.openbeautyfacts.org/images/products/328/277/020/5633/front_en.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
        "fechaLista": "09-09-2026"
-      },
-      {
-       "nombre": "XeraCalm A.D Bálsamo Relipidizante",
-       "marca": "Avène",
-       "barcode": "3282779405485",
-       "imagen": "https://images.openbeautyfacts.org/images/products/328/277/940/5485/front_fr.3.400.jpg",
-       "fotoFuente": "Open Beauty Facts (CC BY-SA)",
-       "fechaLista": "09-09-2026",
-       "amazon": "https://www.amazon.es/dp/B00EYOHIO4"
       },
       {
        "nombre": "XERACALM AD - Bálsamo relipidizante",
@@ -8900,26 +8891,7 @@
        "amazon": "https://www.amazon.es/dp/B0CCW5HL71"
       },
       {
-       "nombre": "CICAVIT DM+ Cicatrices",
-       "marca": "SVR",
-       "barcode": "3401060287450",
-       "fechaLista": "30-09-2026"
-      },
-      {
-       "nombre": "CICAVIT+ SOS Grattage",
-       "marca": "SVR",
-       "barcode": "3662361000388",
-       "fechaLista": "30-09-2026",
-       "amazon": "https://www.amazon.es/dp/B07D5GBXCM"
-      },
-      {
-       "nombre": "Pomada reparadora SVR Cicavit+ Pommade",
-       "marca": "SVR",
-       "barcode": "3662361005536",
-       "fechaLista": "06-11-2026"
-      },
-      {
-       "nombre": "SENSIFINE Nutri-Baume",
+       "nombre": "Bálsamo nutritivo SVR Sensifine Nutri",
        "marca": "SVR",
        "barcode": "3662361001248",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1248/front_fr.3.400.jpg",
@@ -8928,11 +8900,30 @@
        "amazon": "https://www.amazon.es/dp/B086R92L5H"
       },
       {
-       "nombre": "TOPIALYSE Baume Protect+",
+       "nombre": "Bálsamo SVR Topialyse Protect+",
        "marca": "SVR",
        "barcode": "3662361001927",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1927/front_fr.4.400.jpg",
        "fotoFuente": "Open Beauty Facts (CC BY-SA)",
+       "fechaLista": "30-09-2026"
+      },
+      {
+       "nombre": "Crema antirrascado SVR Cicavit+ SOS Grattage",
+       "marca": "SVR",
+       "barcode": "3662361000388",
+       "fechaLista": "30-09-2026",
+       "amazon": "https://www.amazon.es/dp/B07D5GBXCM"
+      },
+      {
+       "nombre": "Pomada SVR Cicavit+",
+       "marca": "SVR",
+       "barcode": "3662361005536",
+       "fechaLista": "06-11-2026"
+      },
+      {
+       "nombre": "Tratamiento de cicatrices SVR Cicavit DM+",
+       "marca": "SVR",
+       "barcode": "3401060287450",
        "fechaLista": "30-09-2026"
       },
       {
@@ -9231,7 +9222,7 @@
        "amazon": "https://www.amazon.es/dp/B0006SQ9CE"
       },
       {
-       "nombre": "CICAVIT+ Creme mains",
+       "nombre": "Crema de manos SVR Cicavit+",
        "marca": "SVR",
        "barcode": "3662361001682",
        "fechaLista": "30-09-2026",
@@ -9756,7 +9747,7 @@
        "amazon": "https://www.amazon.es/dp/B0CV4G13TL"
       },
       {
-       "nombre": "PALPEBRAL Máscara Protect",
+       "nombre": "Máscara de pestañas SVR Palpebral Protect",
        "marca": "SVR",
        "barcode": "3662361001828",
        "imagen": "https://images.openbeautyfacts.org/images/products/366/236/100/1828/front_fr.3.400.jpg",
