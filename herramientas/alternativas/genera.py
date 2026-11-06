@@ -37,8 +37,9 @@ def ddmmaaaa(iso): y, m, d = iso.split('-'); return f'{d}-{m}-{y}'
 # limpia aunque el detector no la marque. Sale todo lo que la lleve en su lista: lejías y desatascadores con lejía.
 cat = json.load(open(f'{R}/catalogo.json'))
 INCI = {b: q.get('inci', '') for m in cat['marcas'] for q in m['productos'] for b in q.get('barcodes', [])}
-# "hypochlor" y no "hypochlorite": una ficha de Auchan escribe "Sodium Hypochloride" (2026-11-06).
-FUERA = re.compile(r'hypochlor|hipoclor', re.I)
+# También "hypochloride": una ficha de Auchan escribe "Sodium Hypochloride" (2026-11-06). No vale "hypochlor" a
+# secas: el ácido hipocloroso (hypochlorous acid) de las brumas faciales no es lejía.
+FUERA = re.compile(r'hypochlorite|hypochloride|hipoclorito', re.I)
 # Fuera también lo corrosivo (Mariana, 2026-10-07: "los desatascadores tienen productos peligrosos? si sí,
 # sácalos"): todos los desatascadores, y cualquier producto con un ácido o una base fuerte entre sus dos
 # primeros ingredientes, que es cuando va a concentración de producto corrosivo (sosa del limpiahornos,
