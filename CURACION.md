@@ -6113,6 +6113,21 @@ Lavavajillas Máquina 6 en 1 (30 pastillas)" con `8436617752667`. Comprobar en `
 otro formato del mismo producto (atar el código a la ficha que ya existe si la lista es idéntica) o un producto
 distinto ("All in One"): en ese caso, ficha nueva con su lista oficial.
 
+**Revisado (2026-11-06): sin atar y sin ficha nueva, a falta de una fuente que lo confirme.**
+- `natulim.com` (y `natulim.pt`, la misma marca) no se abren: la web respondió 429 el 2026-11-04 y por regla no se
+  vuelve. La comprobación que pedía el encargo (el `barcode` de las variantes en `/products/<slug>.json`) no se
+  puede hacer desde aquí.
+- El código no está en Open Beauty, Open Products ni Open Food Facts, ni sale con WebSearch. Planeta Huerto (Shopify,
+  da los EAN) solo tiene `8436617752667` (30 pastillas) y `8445303191987` (su pack 2x, código propio de la tienda).
+  Fruugo dio 403 y no se reintentó. Lo que diga Lola anuncia "6 en 1 · 60 lavados" pero con el mismo `…752667`.
+- Pista, no prueba: `…75266-7` y `…75268-1` son números de artículo consecutivos de Natulim (75266 y 75268), así
+  que es un producto hermano dado de alta a la vez (otro formato, por ejemplo 60 pastillas, o una variante "All in
+  One"). Pero dos formatos de la misma marca pueden tener lista distinta, y ningún sitio nombra unas "All in One".
+- **Cómo cerrarlo:** basta con una de estas tres cosas: (1) que Mariana abra en su navegador la ficha de las pastillas
+  en natulim.com y mire si alguna variante lleva `8436617752681` y si la lista de su FAQ es la misma (23
+  componentes); (2) las fotos de la usuaria, si vuelve a mandarlas (frente y trasera llegaron en blanco); (3) una tienda que
+  dé el EAN. Con lista idéntica, el código va a "Eco Pastillas Lavavajillas Máquina 6 en 1"; si es otra, ficha nueva.
+
 ### 2026-11-06 · Escaneos en vacío con código (panel de Mariana) — encargo
 Del panel "Escaneos en vacío" del 2026-11-06, los que tienen código y son cosa del catálogo:
 1. **Avène Hyaluron Activ B3 Concentrated Plumping Serum** (`3282770153071`): Avène tiene 153 productos en el
