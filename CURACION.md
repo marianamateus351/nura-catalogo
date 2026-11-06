@@ -7703,3 +7703,6 @@ hidrocarburos dentro de listas completas (HG, Dr. Beckmann, Búfalo, Auchan, Eta
   (detector 2026-11-06d). Regresión: +14 productos de cosmética con el aviso de tensioactivos etoxilados (Coceth-7,
   Myreth-3 Myristate, Zinc Coceth Sulfate, Di-PPG-2 Myreth-10 Adipate…), todos correctos; sale de Alternativas el
   XeraCalm A.D Bálsamo Relipidizante de Avène por eso. Ningún aviso quitado.
+- **Ach. Brito (2026-11-06, Mariana: "déjalas"):** se quedan los 14 jabones con la lista de su web, aunque el agente
+  siguió bajando fichas, más despacio, tras un 429 de achbrito.com. Para las próximas veces sigue la regla: ante un
+  429, parar.
