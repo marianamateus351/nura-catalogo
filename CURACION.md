@@ -7643,3 +7643,7 @@ Reglas en `scratchpad/q17/REGLAS_ETIQUETA.md` y `REGLAS_FICHA_COMPLETA.md` de la
   ethoxyliert, OE). Regresiones sobre el catálogo: 17 + 0 + 0 + 3 cambios, todos avisos nuevos correctos, ninguno
   quitado; la unión no cambia ninguna ficha existente. Pendiente de Mariana: piritiona de sodio (4 etiquetas más).
 - Lo que más sale en lo nuevo: perfume 313, alérgenos 85, etoxilados 84 + 40, BIT 80, MIT 61, salicilato de bencilo 46.
+- **Alternativas 2026-11-06b:** 2.433, sin cambios de contenido. Ninguna lista de etiqueta entra (`verifica.mjs`:
+  `listaParcial` 0). De las 91 con ficha completa solo salía limpia la "Lejía tradicional Auchan", y se coló porque su
+  ficha escribe "Sodium Hypochloride": el filtro de lejía de `genera.py` acepta ahora también esa errata (sin tocar el
+  ácido hipocloroso de las brumas faciales, que no es lejía).
