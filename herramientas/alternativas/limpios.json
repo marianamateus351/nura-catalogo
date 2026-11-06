@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-svr-nombres",
+ "version": "2026-11-06-avene",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -653,7 +653,8 @@
    "nombre": "Sérum concentrado voluminizador",
    "categoria": "Cuidado personal",
    "barcodes": [
-    "3282770153101"
+    "3282770153101",
+    "3282770153071"
    ]
   },
   {
