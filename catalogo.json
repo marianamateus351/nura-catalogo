@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-svr-nombres",
+ "version": "2026-11-06-avene",
  "marcas": [
   {
    "key": "larocheposay",
@@ -3579,7 +3579,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "3282770153101"
+      "3282770153101",
+      "3282770153071"
      ],
      "inci": "Avene Thermal Spring Water (Avene Aqua), Niacinamide, Glycerin, Pentylene Glycol, Sodium Hyaluronate, Adenosine, Citric Acid, SODIUM BENZOATE"
     },
@@ -3771,6 +3772,24 @@
       "3282779154192"
      ],
      "inci": "Ethylhexyl Isostearate, Neopentyl Glycol Diethylhexanoate, Copernicia Cerifera (Carnauba) Wax (Cera Carnauba), Euphorbia Cerifera (Candelilla) Wax (Candelilla Cera), Ceresin, Kaolin, Nylon-12, Paraffin, Magnesium Aluminum Silicate, Ascorbyl Palmitate, Tocopherol, May Contain (+/-) Iron Oxides (CI 77491), Iron Oxides (CI 77492), Iron Oxides (CI 77499), Mica, Titanium Dioxide (CI 77891)"
+    },
+    {
+     "nombre": "Sérum Lifting 0,1 % Retinal",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001517"
+     ],
+     "inci": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Octyldodecanol, Trehalose, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Glyceryl Stearate Citrate, Benzoic Acid, Glyceryl Caprylate, Helianthus Annuus Seed Oil, CI 16035, Retinal, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Xanthan Gum"
+    },
+    {
+     "nombre": "Sérum Peeling 10 % de Ácido Glicólico",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "3282771001548"
+     ],
+     "inci": "Avene Thermal Spring Water (Avene Aqua), Glycolic Acid, Glycerin, Water (Aqua), Sodium Hydroxide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride, Microcrystalline Cellulose, Helianthus Annuus Seed Oil, Polyacrylate-13, Polyisobutene, Polysorbate 20, Polysorbate 60, CI 16035, Retinal, Sodium Hyaluronate, Sorbitan Isostearate, Tocopherol"
     }
    ]
   },

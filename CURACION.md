@@ -6118,6 +6118,24 @@ Los demás con código son alimentación o medicamento y no van al catálogo: Di
 lo resuelve Open Food Facts), Barra de horno (`8421691000209`), Hemp Protein Bar (`5055936817753`), Brownie
 Chocolate Chunk (`5059883116631`) y Vicks VapoRub (`91598271`, medicamento).
 
+**Hecho (2026-11-06, catálogo 2026-11-06-avene):**
+1. **Avène B3 `3282770153071`: código atado a un producto que ya teníamos.** Ese código es el **sobre de
+   muestra gratuita** del sérum ("Muestra gratuita – Prohibida su venta", foto trasera en Open Beauty Facts,
+   código legible). El sérum de 30 ml ya estaba como "Sérum concentrado voluminizador" (`3282770153101`) y la
+   lista de la muestra es la misma ingrediente a ingrediente (Avène Aqua, Niacinamide, Glycerin, Pentylene
+   Glycol, Sodium Hyaluronate, Adenosine, Citric Acid, Sodium Benzoate), igual que la oficial de `avene.co.uk`.
+   No se crea ficha nueva (una muestra no es un producto aparte): el código va al de 30 ml. `eau-thermale-avene.es`
+   y `.fr` ya no listan el B3; `aveneusa.com` dio 403 y no se reintentó. Sin avisos del detector: sigue limpio.
+2. **De paso, +2 sérums nuevos de la web española** que no teníamos: Sérum Lifting 0,1 % Retinal
+   (`3282771001517`) y Sérum Peeling 10 % de Ácido Glicólico (`3282771001548`). Los dos llevan **retinal** y
+   señalan "Retinol / vitamina A", así que no van a Alternativas. Revisados falsos positivos y negativos:
+   ninguno. Sunsimed Pigment y KA siguen fuera (producto sanitario).
+3. **Natulim `1008063933487`: sin identificar.** Es un EAN-13 válido, pero de prefijo 100 (rango de EE. UU.),
+   no del 8436617 de Natulim. No sale con WebSearch, ni en nuestro catálogo, ni en los datos de Auchan.
+   `natulim.com` respondió 429 el 2026-11-04 y por regla no se reintenta. Lo más probable es un código interno
+   o una etiqueta de almacén pegada sobre el envase. Una foto de la etiqueta lo resolvería; hasta entonces no
+   se ata a ningún producto (atarlo a ciegas daría una ficha falsa).
+
 ### 2026-11-05 · Inokem (Portugal, Hogar) — encargo: cargar la marca entera
 Mariana pregunta por **Inokem** (no está en el catálogo: 0 productos). Marca portuguesa de **detergentes
 ecológicos ultraconcentrados** para el hogar y uso profesional (`inokem.com`; multiusos, desengrasante Citrus
