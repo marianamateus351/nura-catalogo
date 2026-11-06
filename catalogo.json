@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-svr",
+ "version": "2026-11-06-w5",
  "marcas": [
   {
    "key": "larocheposay",
@@ -94555,7 +94555,8 @@
      "barcodes": [
       "4056489871378"
      ],
-     "inci": "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %, Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone"
+     "inci": "Tensioactivos aniónicos < 5 %, Tensioactivos no iónicos < 5 %, Perfumes, Methylchloroisothiazolinone, Methylisothiazolinone",
+     "listaParcial": true
     },
     {
      "nombre": "Lavavajillas a mano desengrasante limón W5 Nature",

@@ -7671,3 +7671,9 @@ código** con el mismo código de laboratorio (LAB). Solo códigos de la tienda 
   19.497 fichas anteriores.
 - Los 90 productos de septiembre siguen con el nombre de la web (en francés, "HYDRALIANE Creme"): pendiente de pasarlos
   al formato del catálogo si Mariana quiere.
+
+### 2026-11-06 · W5 Friegasuelos Flor de Cerezo (versión 2026-11-06-w5)
+Aviso de rediseño: el "Friegasuelos Flor de Cerezo W5 1,5 L" (4056489871378) tiene lista de etiqueta ("Tensioactivos
+aniónicos < 5 %…") sin `listaParcial`. Marcado. Repaso de todo el catálogo con `esListaDeEtiqueta` de la app y con una
+búsqueda de familias del reglamento y tramos de porcentaje: es el único; los demás "< 2 % aromatics" son nombres de
+hidrocarburos dentro de listas completas (HG, Dr. Beckmann, Búfalo, Auchan, Etamine du Lys).
