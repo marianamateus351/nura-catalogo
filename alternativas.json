@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06a",
+ "version": "2026-11-06b",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -7827,12 +7827,6 @@
        "barcode": "4020829005280",
        "fechaLista": "20-10-2026",
        "amazon": "https://www.amazon.es/dp/B01N75J045"
-      },
-      {
-       "nombre": "Bruma facial Save Your e.l.f. hypochlorous Mist",
-       "marca": "e.l.f.",
-       "barcode": "0609332570566",
-       "fechaLista": "21-10-2026"
       },
       {
        "nombre": "Bruma sérum Black Rice Probiotics Barrier 2% NAD+ Serum Mist",
@@ -18423,18 +18417,6 @@
        "marca": "Sodasan",
        "barcode": "4019886055116",
        "fechaLista": "15-10-2026"
-      }
-     ]
-    },
-    {
-     "key": "lejia",
-     "nombre": "Lejías",
-     "productos": [
-      {
-       "nombre": "Lejía tradicional Auchan",
-       "marca": "Auchan",
-       "barcode": "5601002107466",
-       "fechaLista": "06-11-2026"
       }
      ]
     },
