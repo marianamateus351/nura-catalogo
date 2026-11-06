@@ -6106,6 +6106,24 @@ no entra":
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
+### 2026-11-06 · Modimage "24h Maravilhosas" (`5600765548653`), aportación con fotos — encargo
+Aportación con las dos fotos (panel "Productos con fotos para leer la lista", 2026-11-06; las fotos están en
+`contributions/5600765548653_1793989318246.jpg` y `..._trasera_1793989320207.jpg`). Marca **Modimage by João
+Carreira** (Portugal), **marca nueva**. Producto: "24h Maravilhosas · Spray de proteção e uso diário ·
+Hidratação, nutrição e reconstrução", 300 ml. Tipo: capilar (spray sin aclarado). Lista leída de la foto trasera
+(revisar contra la foto antes de cargar):
+`Aqua, Dipalmitoylethyl Dimonium Chloride, Paraffinum Liquidum, Glycerin, Propylene Glycol, Centella Asiatica
+Leaf Extract, Hydrolyzed Keratin, Hydrolyzed Silk, Hydrolyzed Collagen, Bambusa Arundinacea Leaf Extract, PEG-40
+Hydrogenated Castor Oil, Benzoic Acid, Parfum, Polyquaternium-16, Ceratonia Siliqua Seed Extract, Zea Mays
+Starch, Hydrolyzed Soy Protein, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Lactic Acid,
+Phenoxyethanol, Sodium Benzoate, Imidazolidinyl Urea, Dehydroacetic Acid, Etidronic Acid, Potassium Sorbate,
+Methylchloroisothiazolinone and Methylisothiazolinone, Disodium EDTA, Hexyl Cinnamal, Citric Acid,
+Citronellol, Geraniol`
+Avisos esperables: MCI/MIT, imidazolidinil urea (liberador de formaldehído), fenoxietanol, PEG-40, perfume con
+alérgenos (hexil cinamal, citronelol, geraniol), parafina. No va a Alternativas. Si la marca tiene web con la
+lista, contrastarla; si no, entra por la etiqueta (como Benefit). Nombre en español: "Spray capilar de protección
+24h Maravilhosas".
+
 ### 2026-11-06 · Natulim pastillas lavavajillas "All in One" (`8436617752681`) — encargo
 Una usuaria lo aportó con fotos el 2026-11-06 (panel "Productos con fotos para leer la lista"), pero las fotos no
 llegaron (frente y trasera en blanco). El código no está en el catálogo; Natulim ya tiene las "Eco Pastillas
