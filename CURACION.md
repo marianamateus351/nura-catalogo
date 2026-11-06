@@ -6124,6 +6124,21 @@ alérgenos (hexil cinamal, citronelol, geraniol), parafina. No va a Alternativas
 lista, contrastarla; si no, entra por la etiqueta (como Benefit). Nombre en español: "Spray capilar de protección
 24h Maravilhosas".
 
+**Hecho (2026-11-06, catálogo 2026-11-06-modimage): entra 1, limpios 0. Marca nueva Modimage.**
+- **Lista:** cotejada con la foto trasera a resolución completa, ingrediente a ingrediente y en el mismo orden: coincide
+  con la transcrita. La etiqueta trae dos erratas ("Dimonium Choloride", "Leaf Extrac") que la transcripción ya corrige.
+  Se guarda "Methylchloroisothiazolinone and Methylisothiazolinone" tal cual (el detector lo parte en MCI y MIT).
+- **Web de la marca:** no tiene, o no la encuentra el buscador. Solo la venden tiendas portuguesas (Moi Boutique,
+  Mimos Beauty, Central dos Cabelos, New Silhouette) y ninguna publica la lista. Entra por la etiqueta, como Benefit.
+  Las tiendas citan también envases de 100 y 250 ml; no tenemos sus códigos y no se atan.
+- **Ficha:** "Spray capilar de protección 24h Maravilhosas (300 ml)", `5600765548653` (el código, del escaneo; en la
+  foto se ve cortado). Cuidado personal.
+- **Avisos:** fragancia no divulgada (con hexil cinamal, citronelol y geraniol), propilenglicol, fenoxietanol,
+  imidazolidinil urea (liberador de formaldehído), MIT y MCI. No va a Alternativas.
+- **Falsos positivos y negativos:** ninguno. Sin aviso, como en el resto del catálogo: parafina (solo cuenta en
+  labiales), PEG-40 (el PEG solo se señala en Hogar) y EDTA (solo en Alimentación). Regresión: 0 cambios en las fichas
+  anteriores.
+
 ### 2026-11-06 · Natulim pastillas lavavajillas "All in One" (`8436617752681`) — encargo
 Una usuaria lo aportó con fotos el 2026-11-06 (panel "Productos con fotos para leer la lista"), pero las fotos no
 llegaron (frente y trasera en blanco). El código no está en el catálogo; Natulim ya tiene las "Eco Pastillas
