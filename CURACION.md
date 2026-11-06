@@ -7601,3 +7601,45 @@ fichas, sin bloqueos (ni 403, ni 429, ni captcha). Reglas en `scratchpad/q15/REG
   - Regresión sobre las 18.635 fichas anteriores: solo los 64 avisos nuevos de arriba; la unión no cambia ninguna ficha existente.
   - Lo que más sale en lo nuevo: perfume 355, etoxisulfatos y laureth 137, cocamidopropil betaína 121, fenoxietanol 93,
     propilenglicol 85, salicilato de bencilo 39, TEA 38; 26 de 424 sin avisos.
+
+### 2026-11-06 · Auchan Portugal Hogar con lista de etiqueta, versión 2026-11-06-auchan-hogar: +438 productos, 493 códigos
+
+Segunda pasada a los 1.021 productos de Hogar de auchan.pt que el 2026-11-04 quedaron fuera por no tener ficha del
+fabricante, con las reglas nuevas de "lista de etiqueta" (ver arriba) y los 9 códigos de Inokem. Cinco agentes leyeron a
+mano la foto trasera de cada envase (sin OCR, 2 s entre fotos, sin bloqueos); después dos agentes buscaron la ficha
+648/2004 completa en la web impresa en el envase o en el portal del fabricante, porque **la lista completa manda**.
+Reglas en `scratchpad/q17/REGLAS_ETIQUETA.md` y `REGLAS_FICHA_COMPLETA.md` de la sesión.
+- **Entran 438: 91 con ficha completa y 347 con la etiqueta (`listaParcial`)**: 167 de marcas que no publican más (o
+  cuya ficha no casa con la etiqueta), 175 de Unilever y SC Johnson con `listaCompletaEn` (sus webs de fichas no nos
+  dejan entrar) y 5 de Inokem con lo que declara su web.
+- **Por marca:** Glade 71, Auchan 52 (27 completa), A+ 30 (6), Cif 27, Air Wick 26, Comfort 22, Persil 21 (12), Skip 19,
+  Pato 16, Ajax 10, Vanish 9 (7), Sonasol 9 (8), Bref 9 (2), Surf 9, Inokem 8, Gama 8 (6), Sanytol 6 (3), Quanto 6,
+  L'Arbre Vert 6 (6), Vernel 6 (1), Sun 6, Mistolin 5, Tanto 5, Polegar 4 (4), The Pink Stuff 4, Chicco 4, X-Tra 4 (2),
+  Clean Essence 3, Fun 3, Woolite 3 (2), Super Pop 3, OMO 3, y 1-2 de Cillit Bang (2 completa), Splendor, Vim,
+  Confiança, Xau, KH-7 (1), Pronto, Neoblanc, At Home, Frosch (1), Botanical Origin, Calgon (1), Scotch-Brite y Finish.
+  28 marcas nuevas.
+- **Fuera 538:** sin foto trasera legible 388 (Auchan solo tiene la frontal, o la trasera no se lee), utensilios y
+  otros 79, packs y aparato + recarga 42, etiqueta sin ninguna sustancia 17, ya en el catálogo 5, biocidas 4, dos
+  etiquetas para un código 2, aparato 1.
+- **Webs de fichas (qué había):** auchan.pt/pt/productInfo.html (marca propia: PDF por EAN, 41 de 58), Bluesun
+  (A+, Gama; por país y tipo, sin EAN), AC Marca (Sanytol; portal REACH por código interno), arbrevert.fr (por EAN francés,
+  atado por la referencia de fórmula de la ficha de seguridad portuguesa), vimclorex.it, fatergroup.com (Neoblanc),
+  kh7.es, Werner & Mertz, rbeuroinfo.com (Reckitt), mysds Henkel. Sin fichas: Ajax (Colgate solo EE. UU.), Mistolin
+  (Sodalis: solo seguridad), Tanto (Clorosol), Super Pop (Brandcare, web 502), Confiança, 3M, Clean Essence, At Home.
+  The Pink Stuff (dpi.uk.net) prohíbe todo en su robots.txt: no se usó.
+- **Cuándo la ficha no sustituye a la etiqueta (`no_casa`):** la etiqueta nombra algo que la ficha no trae (Air Wick
+  nombra sensibilizantes que su ficha no desglosa; A+ nombra Isoeugenol) o la ficha trae un conservante que la etiqueta
+  no nombra (Quanto: BIT/MIT). Los fosfonatos de una ficha que la etiqueta no declara no cuentan como otra fórmula (el
+  648/2004 solo obliga a declararlos por encima del 0,2 %).
+- **Nombres:** 17 retocados para que la app los clasifique como Hogar ("Limpiador multiusos en crema Cif…", "Limpiador
+  de baños antimoho…", "Abrillantador cera acrílica…", "… Marine Wave" → "aroma marino" porque "wave" la mandaba a pelo);
+  6 con el número de dosis porque dos tamaños tienen etiquetas distintas.
+- **Revisión FP/FN de lo nuevo** (cada ingrediente de cada lista, etiqueta y ficha completa). Detector 2026-11-05a, 05b,
+  06a y 06b: MCI/MIT/OIT en portugués ("…isotiazole-3-ona"), CMIT/MIT; tetrametilolglicolurilo y etilendioxi dimetanol
+  (liberadores de formaldehído: +16 productos de Disiclin del catálogo); DDAC y benzalconio en portugués y ADBAC; BP-3
+  en croata (velas Glade); perfume como "fragrâncias"/"profumo"; alérgenos por su nombre químico de la línea CLP
+  (alfa-hexilcinamaldeído, p-menta-1,8-dieno, cumarino, cinamaldeído, d-limonen, dipenteno…) y con guion o errata;
+  alcoholes etoxilados escritos "2,5 EO", "7EO", "alketh", y en francés y alemán (éthoxylé, polyéthylène glycol,
+  ethoxyliert, OE). Regresiones sobre el catálogo: 17 + 0 + 0 + 3 cambios, todos avisos nuevos correctos, ninguno
+  quitado; la unión no cambia ninguna ficha existente. Pendiente de Mariana: piritiona de sodio (4 etiquetas más).
+- Lo que más sale en lo nuevo: perfume 313, alérgenos 85, etoxilados 84 + 40, BIT 80, MIT 61, salicilato de bencilo 46.

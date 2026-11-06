@@ -1283,7 +1283,17 @@
   "8057432979048": "2026-11-05-ropa",
   "8057432979062": "2026-11-05-ropa",
   "8057432979420": "2026-11-05-ropa",
-  "5600735020592": "2026-11-05-ropa"
+  "5600735020592": "2026-11-05-ropa",
+  "8410104124632": "2026-11-06-auchan-hogar",
+  "8410104882716": "2026-11-06-auchan-hogar",
+  "8410104889371": "2026-11-06-auchan-hogar",
+  "8410104916800": "2026-11-06-auchan-hogar",
+  "8410104017026": "2026-11-06-auchan-hogar",
+  "8410436498371": "2026-11-06-auchan-hogar",
+  "8410436499118": "2026-11-06-auchan-hogar",
+  "8015100565351": "2026-11-06-auchan-hogar",
+  "8015100570164": "2026-11-06-auchan-hogar",
+  "8410436429092": "2026-11-06-auchan-hogar"
  },
  "retirados": {
   "3606000537606": {
@@ -1382,15 +1392,7 @@
    "v": "2026-10-04-rb-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
   },
-  "8410104017026": {
-   "v": "2026-10-04-rb-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
-  },
   "8410104926601": {
-   "v": "2026-10-04-rb-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
-  },
-  "8410104916800": {
    "v": "2026-10-04-rb-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
   },
@@ -1407,10 +1409,6 @@
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
   },
   "8410104926618": {
-   "v": "2026-10-04-rb-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
-  },
-  "8410104889371": {
    "v": "2026-10-04-rb-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit"
   },
@@ -1478,10 +1476,6 @@
    "v": "2026-10-04-rb-audit2",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
   },
-  "8410104124632": {
-   "v": "2026-10-04-rb-audit2",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
-  },
   "8410104888206": {
    "v": "2026-10-04-rb-audit2",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
@@ -1491,10 +1485,6 @@
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
   },
   "8410104913670": {
-   "v": "2026-10-04-rb-audit2",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
-  },
-  "8410104882716": {
    "v": "2026-10-04-rb-audit2",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-rb-audit2"
   },
@@ -1594,10 +1584,6 @@
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
-  "8410436499118": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
   "8410436498814": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
@@ -1606,27 +1592,11 @@
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
-  "8410436498371": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
   "4009175966469": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
   "8015100563067": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8015100570164": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8015100565351": {
-   "v": "2026-10-04-hogar-audit",
-   "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
-  },
-  "8410436429092": {
    "v": "2026-10-04-hogar-audit",
    "motivo": "Retirado del catálogo en la versión 2026-10-04-hogar-audit"
   },
