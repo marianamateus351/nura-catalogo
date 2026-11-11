@@ -7807,3 +7807,14 @@ procesado, no por aromas. Para el catálogo: al regenerar `products.mjs` (`gen_p
 limpio con aviso; es lo esperado. **Alternativas no cambia**: "a tener en cuenta" también excluye. Si algún
 aromatizante concreto tiene evidencia, se le hace ficha propia con su nombre en la app, no se recupera la 188.
 
+## Alimentos en el catálogo: escala de procesado con el criterio de Open Food Facts (Mariana, 2026-11-11)
+La app enseña en cada alimento una escala de procesado (sin procesar · poco procesado · procesado · ultraprocesado;
+nunca se dice "NOVA") que hoy se toma del grupo NOVA de Open Food Facts. **Cuando un alimento entre en nuestro
+catálogo, hay que darle su grupo con el mismo criterio que Open Food Facts** (su algoritmo de marcadores es público:
+aditivos "cosméticos" como aromas, edulcorantes, emulsionantes, colorantes y potenciadores, e ingredientes
+industriales como jarabes, grasas hidrogenadas, proteínas aisladas, maltodextrina o almidón modificado → 4;
+conservantes, acidulantes o varios ingredientes básicos → 3; aceite, sal, azúcar o vinagre añadidos → 2; nada
+añadido → 1). Campo `procesado: 1|2|3|4` en la entrada del catálogo; si el código existe en Open Food Facts, se
+copia su grupo y, si no coincide con nuestro cálculo, manda el de Open Food Facts. Pendiente de implementar en
+`genera.py` cuando haya alimentos que lo necesiten.
+
