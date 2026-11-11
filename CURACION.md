@@ -7796,3 +7796,14 @@ hidrocarburos dentro de listas completas (HG, Dr. Beckmann, Búfalo, Auchan, Eta
 - **Ach. Brito (2026-11-06, Mariana: "déjalas"):** se quedan los 14 jabones con la lista de su web, aunque el agente
   siguió bajando fichas, más despacio, tras un 429 de achbrito.com. Para las próximas veces sigue la regla: ante un
   429, parar.
+
+## Detector 2026-11-11a (app): "aroma" en Alimentación ya no es disruptor
+Decisión de Mariana (2026-11-11), con la ciencia delante: la ficha 188 "Aroma no divulgado (saborizante)" sale de los
+disruptores (era riesgo Medio y restaba 5 puntos a casi todo alimento procesado) y pasa a "otros a tener en cuenta"
+(solo Alimentación, no cuenta para el índice; no sale si la etiqueta desglosa el aroma). Motivo: lista positiva
+europea evaluada por la EFSA, sin evidencia hormonal en animales ni personas, ftalatos de la dieta por envase y
+procesado, no por aromas. Para el catálogo: al regenerar `products.mjs` (`gen_products.py` desde la app en la rama
+`claude/redesign-v2-wqk1cj`) y pasar la regresión, los alimentos que solo llevaban "aroma" pasan de "Riesgo medio" a
+limpio con aviso; es lo esperado. **Alternativas no cambia**: "a tener en cuenta" también excluye. Si algún
+aromatizante concreto tiene evidencia, se le hace ficha propia con su nombre en la app, no se recupera la 188.
+
