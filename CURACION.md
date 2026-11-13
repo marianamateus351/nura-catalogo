@@ -6106,6 +6106,16 @@ no entra":
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
+### 2026-11-13 · Enlace de Amazon caído: Lavera gel dental Neutral (`4021457652693`) — Alternativas 2026-11-13a
+Mariana abrió el botón Comprar y Amazon decía "No disponible" (ficha `B005U31JVQ`, "Lavera Neutral Tooth Gel"). Con el
+buscador (sin abrir Amazon): la otra ficha del mismo gel, `B00KTG6ZUO` ("lavera Neutral Zahngel… 75 ml"), también sale no
+disponible; el resto son packs u otras pastas (Complete Care, Basis Sensitiv), que no valen. **Se quita el enlace**: sale
+de `amazon_auto.json` y queda anotado en `amazon_sin_ficha.json`. El producto sigue en Alternativas, sin botón (punto 6
+del CLAUDE.md de la app). alternativas.json 2026-11-13a: solo cambia eso (2.435 productos).
+**Ojo al regenerar desde un clon superficial** (`--depth 1`): `fechas.py` lee la historia de git de catalogo.json y, sin
+ella, pone la fecha del último commit a TODOS los productos. Esta vez se rehízo `fechas.json` con las fechas de
+alternativas.json publicado. Para un recálculo de verdad, clonar con la historia entera.
+
 ### 2026-11-06 · Modimage "24h Maravilhosas" (`5600765548653`), aportación con fotos — encargo
 Aportación con las dos fotos (panel "Productos con fotos para leer la lista", 2026-11-06; las fotos están en
 `contributions/5600765548653_1793989318246.jpg` y `..._trasera_1793989320207.jpg`). Marca **Modimage by João

@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06g",
+ "version": "2026-11-13a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -3428,8 +3428,7 @@
        "nombre": "Gel dental Neutral sin flúor",
        "marca": "Lavera",
        "barcode": "4021457652693",
-       "fechaLista": "20-10-2026",
-       "amazon": "https://www.amazon.es/dp/B005U31JVQ"
+       "fechaLista": "20-10-2026"
       }
      ]
     },
