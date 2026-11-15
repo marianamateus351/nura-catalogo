@@ -1,5 +1,5 @@
 {
- "version": "2026-11-06-modimage",
+ "version": "2026-11-15-borntobio",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25740,6 +25740,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3760100680188"
+   ]
+  },
+  {
+   "marcaKey": "borntobio",
+   "marca": "Born to Bio",
+   "nombre": "Desodorante roll-on Neutro sin perfume (50 ml)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "3760172445463"
    ]
   }
  ]

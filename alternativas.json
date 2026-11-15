@@ -1,5 +1,5 @@
 {
- "version": "2026-11-13a",
+ "version": "2026-11-15a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -91,6 +91,12 @@
        "marca": "Ben & Anna",
        "barcode": "4260491223364",
        "fechaLista": "12-10-2026"
+      },
+      {
+       "nombre": "Desodorante roll-on Neutro sin perfume (50 ml)",
+       "marca": "Born to Bio",
+       "barcode": "3760172445463",
+       "fechaLista": "15-11-2026"
       },
       {
        "nombre": "Desodorante Stick Natural Vinofresh",

@@ -6106,6 +6106,18 @@ no entra":
 - En la app: "Lista incompleta" en vez de "Riesgo bajo" cuando lo declarado no da avisos, y la frase "La marca
   no publica la lista completa…". Necesita build.
 
+### 2026-11-15 · Born to Bio (marca nueva): desodorante Neutro sin perfume — catálogo 2026-11-15-borntobio, Alternativas 2026-11-15a
+Lo propone Mariana (lo vio en Vadebio). **Fuente oficial**: la web de la marca (`born-to-bio.com`, Shopify) da en la ficha
+"Déodorant Neutre Formule sans parfum – Certifié Bio" la lista INCI completa ("LISTE INCI (pour les curieux)"), certificado
+COSMOS por Ecocert, 50 ml, y en `/products/<slug>.json` el **EAN `3760172445463`** de su única variante (SKU BIODE0001).
+La misma lista, ingrediente a ingrediente, en Cosmébio (ficha del laboratorio, Laboratoires Bio Seasons) y en Vadebio.
+Entra como "Desodorante roll-on Neutro sin perfume (50 ml)". **Detector 2026-11-11b: cero avisos** en los 13 ingredientes
+(benzoato y sorbato potásico como conservantes, citrato de trietilo, citrato de zinc, glucósido); revisado a mano, sin
+falsos negativos. **Entra en Alternativas** (Desodorantes, 25). Al recalcular limpios.json con el detector actual entra
+solo este; no sale ninguno. **Amazon.es**: no aparece con el buscador; va sin botón (anotado en `amazon_sin_ficha.json`).
+Vadebio y Kelkoo dieron 403 y Greenweez también: no se reintentaron. Fechas con el mismo arreglo del 11-13 (clon superficial).
+Born to Bio tiene más productos en su web (Shopify con EAN); si Mariana quiere, se puede cargar la marca entera.
+
 ### 2026-11-13 · Enlace de Amazon caído: Lavera gel dental Neutral (`4021457652693`) — Alternativas 2026-11-13a
 Mariana abrió el botón Comprar y Amazon decía "No disponible" (ficha `B005U31JVQ`, "Lavera Neutral Tooth Gel"). Con el
 buscador (sin abrir Amazon): la otra ficha del mismo gel, `B00KTG6ZUO` ("lavera Neutral Zahngel… 75 ml"), también sale no
