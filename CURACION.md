@@ -5639,8 +5639,9 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
   corregida y aprobar.
 - **Deliplus "deliplus serum revival"** = **Sérum de pestañas y cejas Revival Deliplus** (tienda.mercadona.es, producto 21508).
   La aportación trae solo el texto de reclamo ("ácido hialurónico y péptidos, extracto de algas"), no la lista; la foto es el
-  frente del tubo. **No entra** (sin lista). tienda.mercadona.es no se abre desde esta sesión; cuando se pueda, leer la foto de
-  la etiqueta de la tienda como con los otros 246 de Deliplus. Mariana, en Revisar: rechazar.
+  frente del tubo. **Entra en la versión 2026-11-16-revival con la etiqueta de tienda.mercadona.es que mandó Mariana** (foto
+  de la trasera: código **8402001040719**, 8,5 ml, fabricante Wecolors, Barcelona). Sin avisos: "Riesgo bajo". Va a Alternativas
+  si su tipo existe. Mariana, en Revisar: rechazar la aportación a mano (el producto ya está con código) o pegar esta lista.
 - **8436617752681** = Natulim Eco Pastillas Lavavajillas 6 en 1 (30 pastillas): envase nuevo del producto que ya estaba con
   8436617752667 (saviacanaria y Farmacia Tei lo dan para el mismo producto). Código añadido a la ficha; misma lista
   (natulim.com/pages/ingredientes).
