@@ -5624,6 +5624,33 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-16 · Dos aportaciones a mano y tres códigos sin resultado de una misma usuaria (versión 2026-11-16-korres)
+- **Korres "korres santorini grape" (aportación a mano, foto de la caja griega "Velvet Λάδι Προσώπου")** = **Santorini Grape
+  Velvet Skin Drink 30 ml**, aceite facial seco; es el código **5203069098789** que la misma usuaria escaneó sin resultado
+  (upcitemdb, Amazon, Flaconi, Lafayette lo dan para ese producto). **Marca nueva** con solo este producto: korres.com,
+  incidecoder, ulta y las tiendas no se abren desde la sesión (red cerrada), pero el buscador confirma que la lista de
+  korres.com lleva c13-15 alkane, cocoglycerides, octyldodecanol, isoamyl laurate, coco-caprylate, hydrogenated ethylhexyl
+  olivate, alcohol denat., crambe abyssinica seed oil, aceites de uva, oliva y girasol, resveratrol y conservantes. Entra con la
+  lista de la caja que tecleó la usuaria, corregida: "actyldodecanol" → Octyldodecanol, "olivarte" → Olivate, "olea europaea,
+  fruit oil" → Olea Europaea Fruit Oil, "vitis vinifera, water" → Vitis Vinifera Fruit Water, "glycerin soja oil" → Glycine Soja
+  Oil, "olive oilunsaponifiables lactic acid" → Hydrogenated Olive Oil Unsaponifiables, Lactic Acid. Korres tiene dos fórmulas en
+  circulación (la de la web americana, más corta, sin octyldodecanol); esta es la de la caja. Aviso: fragancia no divulgada.
+  **Pendiente**: abrir la marca entera cuando se pueda leer korres.com o gr.korres.com. Mariana, en Revisar: pegar la lista
+  corregida y aprobar.
+- **Deliplus "deliplus serum revival"** = **Sérum de pestañas y cejas Revival Deliplus** (tienda.mercadona.es, producto 21508).
+  La aportación trae solo el texto de reclamo ("ácido hialurónico y péptidos, extracto de algas"), no la lista; la foto es el
+  frente del tubo. **No entra** (sin lista). tienda.mercadona.es no se abre desde esta sesión; cuando se pueda, leer la foto de
+  la etiqueta de la tienda como con los otros 246 de Deliplus. Mariana, en Revisar: rechazar.
+- **8436617752681** = Natulim Eco Pastillas Lavavajillas 6 en 1 (30 pastillas): envase nuevo del producto que ya estaba con
+  8436617752667 (saviacanaria y Farmacia Tei lo dan para el mismo producto). Código añadido a la ficha; misma lista
+  (natulim.com/pages/ingredientes).
+- **8720181413308** = Skip detergente líquido **Limpieza Profunda 40 lavados 1,8 L** (Tarraco: EAN y DUN; la promo de
+  Unilever lo llama "SKIP LIQ CORE LIMPIEZA PROFUNDA 40W"; Arenal lo vende como "Core Active Clean"). Es el envase de España
+  del **Active Clean** que ya estaba con la etiqueta portuguesa (lista parcial, `listaCompletaEn: wiop.unilever.pt`). Código
+  añadido a esa ficha y nombre "Skip Active Clean · Limpieza Profunda" para que se encuentre con el nombre español. Si la
+  etiqueta española difiere (MIT en vez de BIT, como pasa en otras variantes), se separa como las demás.
+Regresión no pasada (la marca nueva solo trae un producto y el detector da fragancia, como en la app).
+
 ### 2026-10-29 · Aportaciones con fotos, leídas desde Storage (versión 2026-10-29-aport2): 4 entran, 1 código pendiente
 **Cómo se ven ahora las aportaciones nuevas sin que Mariana las pegue:** Firestore (`contributions`) solo se lee con sesión, pero
 las fotos están en Storage con `allow read: if true` (storage.rules). Listado público del bucket:

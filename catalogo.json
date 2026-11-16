@@ -1,5 +1,5 @@
 {
- "version": "2026-11-15-borntobio",
+ "version": "2026-11-16-korres",
  "marcas": [
   {
    "key": "larocheposay",
@@ -26907,7 +26907,8 @@
      "include": [],
      "exclude": [],
      "barcodes": [
-      "8436617752667"
+      "8436617752667",
+      "8436617752681"
      ],
      "inci": "Sodium Carbonate, Sodium Citrate, Sodium Percarbonate, Aqua, Modified Fatty Alcohol Polyglycolether, TAED, Polyepoxysuccinic Acid Sodium Salt, Itaconic Acid Copolymer, Sodium Sulfate, Modified Polyvinyl Alcohol, PEG-90, Subtilisin, Cellulose, Kaolin, Bismuth Citrate, Cellulose Gum, Dextrin, Calcium Carbonate, Alpha-Amylase, Magnesium Sulfate, Sodium Thiosulfate, Polyethylene Glycol, Sucrose"
     },
@@ -79279,13 +79280,14 @@
      "listaCompletaEn": "wiop.unilever.pt"
     },
     {
-     "nombre": "Detergente líquido ropa Skip Active Clean",
+     "nombre": "Detergente líquido ropa Skip Active Clean · Limpieza Profunda",
      "include": [],
      "exclude": [],
      "barcodes": [
       "8720181542121",
       "8720181542145",
-      "8720181542114"
+      "8720181542114",
+      "8720181413308"
      ],
      "inci": "5-15% Tensoactivos aniónicos, Tensoactivos não iónicos, <5% Fosfonatos, Enzimas, Branqueadores ópticos, Sabão, Perfumes, Benzisothiazolinone, Citronellol, Tetramethyl Acetyloctahydronaphthalenes, 1 2-benzisotiazol-3(2H)-ona",
      "listaParcial": true,
@@ -186384,6 +186386,21 @@
       "3760172445463"
      ],
      "inci": "Aqua, Hordeum Vulgare Stem Water, Glycerin, Triethyl Citrate, Salvia Officinalis Water, Potassium Citrate, Xanthan Gum, Zinc Citrate, Bambusa Arundinacea Stem Extract, Sodium Benzoate, Citric Acid, Caprylyl/Capryl Glucoside, Potassium Sorbate"
+    }
+   ]
+  },
+  {
+   "key": "korres",
+   "nombre": "Korres",
+   "productos": [
+    {
+     "nombre": "Aceite facial seco Santorini Grape Velvet Skin Drink (30 ml)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "5203069098789"
+     ],
+     "inci": "C13-15 Alkane, Cocoglycerides, Octyldodecanol, Isoamyl Laurate, Coco-Caprylate, Hydrogenated Ethylhexyl Olivate, Alcohol Denat., Crambe Abyssinica Seed Oil, Olea Europaea Fruit Oil, Vitis Vinifera Fruit Water, Ascorbyl Tetraisopalmitate, Ethyl Linoleate, Glycerin, Glycine Soja Oil, Helianthus Annuus Seed Oil, Hydrogenated Olive Oil Unsaponifiables, Lactic Acid, Lecithin, Resveratrol, Tocopherol, Tocopheryl Acetate, Potassium Sorbate, Sodium Benzoate, Parfum"
     }
    ]
   }
