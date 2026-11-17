@@ -19,6 +19,11 @@ const cat = JSON.parse(readFileSync("catalogo.json", "utf8"));
 const v = String(cat.version);
 const items = [];
 const actual = {};
+// Fichas por código para la app (2026-11-17): fichas/NNN.json, NNN = los tres últimos dígitos
+// del código, con nombre, marca, lista y si es lista de etiqueta. Así la ficha de un
+// producto del catálogo se abre al escanear o al tocarlo en el buscador aunque Mariana
+// no lo haya importado todavía desde Novedades (antes se quedaba en "Analizando…").
+const fichas = {};
 for (const m of cat.marcas) for (const p of m.productos || []) {
   const codes = (p.barcodes || []).map(String).filter(Boolean);
   if (!codes.length || !p.nombre || !p.inci || String(p.inci).length < 5) continue;
@@ -26,6 +31,11 @@ for (const m of cat.marcas) for (const p of m.productos || []) {
   if (codes.length > 1) it.cs = codes;
   if (p.foto) it.i = p.foto;
   items.push(it);
+  for (const c of codes) {
+    const d = c.replace(/\D/g, ""); if (!d) continue;
+    const shard = d.slice(-3).padStart(3, "0");
+    (fichas[shard] ||= {})[d] = { n: p.nombre, m: m.nombre, k: m.key, inci: p.inci, ...(p.listaParcial ? { lp: 1 } : {}), ...(p.foto ? { i: p.foto } : {}) };
+  }
   const h = huella(p);
   for (const c of codes) if (!(c in actual)) actual[c] = h;
 }
@@ -54,4 +64,8 @@ writeFileSync("herramientas/cambios.json", JSON.stringify(cambios, null, 1));
 const actualizados = Object.entries(cambios.actualizados).map(([c, vv]) => ({ c, v: vv }));
 const retirados = Object.entries(cambios.retirados).map(([c, r]) => ({ c, v: r.v, motivo: r.motivo }));
 writeFileSync("indice.json", JSON.stringify({ version: v, items, actualizados, retirados }));
+import { mkdirSync } from "fs";
+mkdirSync("fichas", { recursive: true });
+for (const shard of Object.keys(fichas)) writeFileSync(`fichas/${shard}.json`, JSON.stringify({ version: v, fichas: fichas[shard] }));
+console.log(`fichas/: ${Object.keys(fichas).length} archivos por código`);
 console.log(`indice.json: ${items.length} productos (catálogo ${v}); ${actualizados.length} actualizados y ${retirados.length} retirados en total (${nAct} y ${nRet} nuevos en esta versión)`);

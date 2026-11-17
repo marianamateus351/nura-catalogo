@@ -5624,6 +5624,15 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-17 · `fichas/NNN.json`: la ficha de cada código, para que la app abra lo del catálogo sin importar
+Mariana buscó "Serum revival" en la app: salía en el buscador (viene del índice) y al tocar "Analizar" se quedaba en
+"Analizando…". Causa: la ficha de producto solo miraba las aportaciones aprobadas (lo que ella importa desde Novedades) y
+Open*Facts (sin tope de tiempo). Desde esta versión `herramientas/indice.mjs` escribe también **`fichas/NNN.json`** (NNN =
+tres últimos dígitos del código; 1.000 archivos de ~18 KB) con `{ n, m, k, inci, lp, i }` por código, y la app los lee por
+código al abrir una ficha sin aportación aprobada (`fetchFichaCatalogo` en `products.js`). Importar desde Novedades sigue
+haciendo falta para la foto de Open*Facts, los nombres alternativos y la tarjeta "Ya tenemos lo que buscaste" (que mira
+`contributions/`). **Regenerar siempre con `node herramientas/indice.mjs`** (ya lo hace al mismo tiempo que el índice).
+
 ### 2026-11-16 · Dos aportaciones a mano y tres códigos sin resultado de una misma usuaria (versión 2026-11-16-korres)
 - **Korres "korres santorini grape" (aportación a mano, foto de la caja griega "Velvet Λάδι Προσώπου")** = **Santorini Grape
   Velvet Skin Drink 30 ml**, aceite facial seco; es el código **5203069098789** que la misma usuaria escaneó sin resultado
