@@ -8,6 +8,8 @@ import re
 # Cualquier import de firebase/firestore (la lista de funciones cambia con la app) → constantes vacías.
 s = re.sub(r'import \{([^}]*)\} from "firebase/firestore";', lambda m: 'const ' + ','.join(f'{x.strip()}=0' for x in m.group(1).split(',') if x.strip()) + ';', s)
 s = s.replace('import { db, currentUserId, auth } from "./firebase";', 'const db=0,currentUserId=0,auth=0;')
+# Caché en disco del índice (2026-11-19): en Node no hay FileSystem; el generador no la necesita.
+s = s.replace('import { fetchJsonCacheado } from "./cacheDisco";', 'const fetchJsonCacheado = async () => ({ json: null, origen: null });')
 for mod in ('ingredients', 'inci'):
     s = s.replace(f'from "../data/{mod}"', f'from "{app}/src/data/{mod}.js"')
 s = s.replace('from "../theme/tokens"', f'from "{app}/src/theme/tokens.js"')

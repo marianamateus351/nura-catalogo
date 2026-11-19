@@ -1,5 +1,5 @@
 {
- "version": "2026-11-15-borntobio",
+ "version": "2026-11-16-revival",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -1570,6 +1570,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8480000777492"
+   ]
+  },
+  {
+   "marcaKey": "deliplus",
+   "marca": "Deliplus",
+   "nombre": "Sérum de pestañas y cejas Revival Deliplus (8,5 ml)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8402001040719"
    ]
   },
   {
@@ -16382,6 +16391,34 @@
   {
    "marcaKey": "almasecret",
    "marca": "Alma Secret",
+   "nombre": "Crema reparadora de noche con rosa mosqueta",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711171"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Contorno de ojos antiedad con aguacate",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568711195",
+    "8436568711614"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Contorno de ojos antiedad con aguacate edición limitada 20 ml",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714721"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
    "nombre": "Desmaquillante de ojos suave",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -16431,6 +16468,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8436568711553"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Crema solar facial y corporal SPF 50",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568712970"
    ]
   },
   {
@@ -16517,6 +16563,43 @@
   {
    "marcaKey": "almasecret",
    "marca": "Alma Secret",
+   "nombre": "Exfoliante corporal Smoothing Yuzu",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568713403"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Hidratante corporal Firming Yuzu para celulitis y estrías",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568713410"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Sérum facial Cellular Recovery",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568713618",
+    "8436568712284"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Aceite corporal iluminador Yuzu Glow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568713977"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
    "nombre": "Aceite desmaquillante Camellia Bloom",
    "categoria": "Cuidado personal",
    "barcodes": [
@@ -16539,6 +16622,42 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "8436568714318"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Tónico Morning Vita Glow",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714530"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Crema iluminadora Morning Sorbet",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714554"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Sérum iluminador Morning Glory",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714547"
+   ]
+  },
+  {
+   "marcaKey": "almasecret",
+   "marca": "Alma Secret",
+   "nombre": "Acondicionador sin aclarado Infinity Bond",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "8436568714707"
    ]
   },
   {

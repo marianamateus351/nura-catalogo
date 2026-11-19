@@ -1,5 +1,5 @@
 {
- "version": "2026-11-15a",
+ "version": "2026-11-19a",
  "categorias": [
   {
    "key": "cuidado-personal",
@@ -1040,6 +1040,18 @@
        "fechaLista": "16-10-2026"
       },
       {
+       "nombre": "Crema iluminadora Morning Sorbet",
+       "marca": "Alma Secret",
+       "barcode": "8436568714554",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Crema reparadora de noche con rosa mosqueta",
+       "marca": "Alma Secret",
+       "barcode": "8436568711171",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Crema 3 Ceramide Panthenol Moisture Barrier Cream",
        "marca": "Anua",
        "barcode": "8809640737251",
@@ -1834,6 +1846,18 @@
        "fechaLista": "16-10-2026"
       },
       {
+       "nombre": "Sérum facial Cellular Recovery",
+       "marca": "Alma Secret",
+       "barcode": "8436568713618",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Sérum iluminador Morning Glory",
+       "marca": "Alma Secret",
+       "barcode": "8436568714547",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Sérum Heartleaf 80 Moisture Soothing Ampoule",
        "marca": "Anua",
        "barcode": "8809640730283",
@@ -2567,6 +2591,12 @@
      "key": "protector-solar",
      "nombre": "Protectores solares",
      "productos": [
+      {
+       "nombre": "Crema solar facial y corporal SPF 50",
+       "marca": "Alma Secret",
+       "barcode": "8436568712970",
+       "fechaLista": "24-10-2026"
+      },
       {
        "nombre": "Protector solar facial SPF 50 con color tono Golden",
        "marca": "Alma Secret",
@@ -3500,6 +3530,12 @@
      "nombre": "Acondicionadores y mascarillas capilares",
      "productos": [
       {
+       "nombre": "Acondicionador sin aclarado Infinity Bond",
+       "marca": "Alma Secret",
+       "barcode": "8436568714707",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Pure Conditioner",
        "marca": "Cocunat",
        "barcode": "8436570021084",
@@ -3547,10 +3583,22 @@
        "amazon": "https://www.amazon.es/dp/B08V56M96D"
       },
       {
+       "nombre": "Aceite corporal iluminador Yuzu Glow",
+       "marca": "Alma Secret",
+       "barcode": "8436568713977",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Aceite corporal regenerador de rosa mosqueta mini 30 ml",
        "marca": "Alma Secret",
        "barcode": "8436568711683",
        "fechaLista": "20-10-2026"
+      },
+      {
+       "nombre": "Hidratante corporal Firming Yuzu para celulitis y estrías",
+       "marca": "Alma Secret",
+       "barcode": "8436568713410",
+       "fechaLista": "24-10-2026"
       },
       {
        "nombre": "Atoderm Crème Ultra",
@@ -7225,6 +7273,18 @@
        "fechaLista": "16-10-2026"
       },
       {
+       "nombre": "Contorno de ojos antiedad con aguacate",
+       "marca": "Alma Secret",
+       "barcode": "8436568711195",
+       "fechaLista": "24-10-2026"
+      },
+      {
+       "nombre": "Contorno de ojos antiedad con aguacate edición limitada 20 ml",
+       "marca": "Alma Secret",
+       "barcode": "8436568714721",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Crema facial y contorno de ojos para hombre",
        "marca": "Alma Secret",
        "barcode": "8436568711478",
@@ -7671,6 +7731,12 @@
        "fechaLista": "20-10-2026"
       },
       {
+       "nombre": "Tónico Morning Vita Glow",
+       "marca": "Alma Secret",
+       "barcode": "8436568714530",
+       "fechaLista": "24-10-2026"
+      },
+      {
        "nombre": "Bruma PDRN 100 Hyaluronic Acid Hydrating Capsule Mist",
        "marca": "Anua",
        "barcode": "8800307373393",
@@ -8068,6 +8134,12 @@
      "key": "exfoliante",
      "nombre": "Exfoliantes",
      "productos": [
+      {
+       "nombre": "Exfoliante corporal Smoothing Yuzu",
+       "marca": "Alma Secret",
+       "barcode": "8436568713403",
+       "fechaLista": "24-10-2026"
+      },
       {
        "nombre": "Sérum exfoliante AHA",
        "marca": "Avène",
@@ -10409,6 +10481,12 @@
        "subtipo": "eyeliner",
        "fechaLista": "09-10-2026",
        "amazon": "https://www.amazon.es/dp/B00B5QVWCS"
+      },
+      {
+       "nombre": "Sérum de pestañas y cejas Revival Deliplus (8,5 ml)",
+       "marca": "Deliplus",
+       "barcode": "8402001040719",
+       "fechaLista": "16-11-2026"
       },
       {
        "nombre": "Delineador de ojos líquido 01 Black",

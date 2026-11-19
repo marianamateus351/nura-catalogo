@@ -5624,6 +5624,18 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-19 · Detector 2026-11-19a de la app → Alternativas 2026-11-19a: entran 13, no sale ninguno
+Cambios del detector en la app (revisión del 2026-11-19): PFAS cosméticos en la ficha 189 (perfluorooctyl triethoxysilane,
+C9-15 fluoroalcohol phosphate, polyperfluoromethylisopropyl ether, perfluorodecalin…), "natural origin fragrance" (y
+"origine naturelle", "origem natural") ya no dispara perfume no divulgado, copolímeros de estireno excluidos de la ficha
+80, Lilial (56) pasa a Alto. Regresión sobre el catálogo: 29 cambios, todos esperados. `gen_products.py` ahora sustituye
+también el `import` de `./cacheDisco` (caché en disco del índice, nueva en la app). **Entran en Alternativas** los 12 de
+Alma Secret que llevaban "**Natural origin fragance" como nota a pie de lista (eran falsos positivos) y el sérum de
+pestañas Revival de Deliplus (nuevo). No sale ninguno: los tres con PFAS (Magic BB, Clinique Superbalanced, LetiAT4) ya
+estaban fuera por otros avisos. `verifica.mjs`: 2.449 productos, 0 avisos.
+**Ojo con `fechas.py` en un clon superficial** (este tiene historial desde el 24-10-2026): ponía esa fecha a los 2.436
+productos. Se conservaron las fechas publicadas en el alternativas.json anterior y solo los 13 nuevos llevan fecha nueva.
+
 ### 2026-11-17 · `fichas/NNN.json`: la ficha de cada código, para que la app abra lo del catálogo sin importar
 Mariana buscó "Serum revival" en la app: salía en el buscador (viene del índice) y al tocar "Analizar" se quedaba en
 "Analizando…". Causa: la ficha de producto solo miraba las aportaciones aprobadas (lo que ella importa desde Novedades) y
