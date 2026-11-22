@@ -5638,6 +5638,11 @@ foto solo trae el modo de uso. Se daba como fuente la ficha de `synchroline.com`
 - Regla de siempre: los productos sanitarios solo entran si la marca publica el INCI completo (GUM AftaClear, LacerPro);
   sin él, fuera (Sunsimed KA y Pigment). **No se carga.** La aportación de fotos se puede rechazar en Revisar. Si la caja
   de cartón (no el tubo) trajera la lista completa, seguiría siendo un sanitario sin lista publicada por la marca.
+- **Fotos revisadas (2026-11-22, tras el aviso de Mariana):** en Storage están `8023628900899_1795339933923.jpg` (frente de la
+  caja) y `..._trasera_1795339939610.jpg` (un lateral: modo de uso en EN/IT/FR/ES/DE, CE 0373, General Topics s.r.l.).
+  **Ninguna trae la lista**: estará en otra cara de la caja o en el prospecto. Pendiente: (1) foto de la cara con los
+  ingredientes; (2) decisión de Mariana sobre si un sanitario con el INCI completo en la caja entra por la foto. Hasta
+  entonces la aportación se queda pendiente (no rechazar).
 
 ### 2026-11-19 · Detector 2026-11-19a de la app → Alternativas 2026-11-19a: entran 13, no sale ninguno
 Cambios del detector en la app (revisión del 2026-11-19): PFAS cosméticos en la ficha 189 (perfluorooctyl triethoxysilane,
