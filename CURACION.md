@@ -5624,25 +5624,10 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
-### 2026-11-22 · Synchroline Rosacure Intensive SPF 30 (`8023628900899`), aportación con fotos — NO ENTRA (producto sanitario sin INCI)
-Pedido de Mariana: emulsión facial SPF 30 para rosácea, 30 ml, Synchroline (General Topics s.r.l., Italia); la trasera de la
-foto solo trae el modo de uso. Se daba como fuente la ficha de `synchroline.com` (`/en/prodotti/rosacure-en/rosacure-intensive-cream-spf30/`).
-- **La web no publica la lista completa**, en ninguna de sus tres versiones (inglés, italiano, alemán): solo "ingredientes
-  funcionales" (ácido poliglutámico, metilsulfonilmetano, butilciclohexanol, filtros solares). Ni un nombre INCI más
-  (buscados Aqua, Glycerin, Octocrylene, Ethylhexyl, Caprylic, Dimethicone: cero).
-- **Es producto sanitario**, no cosmético: el prospecto oficial (`/wp-content/uploads/2024/02/M-ROSACURE.pdf`, revisión
-  julio 2023) dice "ROSACURE® is a line of medical devices", marcado **CE 0373**, y la foto del envase de la marca lleva
-  "MEDICAL DEVICE". El prospecto tampoco trae INCI ("Contains: …, solar filters").
-- **apohealth.de** da otra fórmula (con Arachidyl Alcohol, Silybum Marianum…): es de un tercero, no coincide con nada oficial
-  y no se sabe de qué versión del envase es. No vale.
-- Regla de siempre: los productos sanitarios solo entran si la marca publica el INCI completo (GUM AftaClear, LacerPro);
-  sin él, fuera (Sunsimed KA y Pigment). **No se carga.** La aportación de fotos se puede rechazar en Revisar. Si la caja
-  de cartón (no el tubo) trajera la lista completa, seguiría siendo un sanitario sin lista publicada por la marca.
-- **Fotos revisadas (2026-11-22, tras el aviso de Mariana):** en Storage están `8023628900899_1795339933923.jpg` (frente de la
-  caja) y `..._trasera_1795339939610.jpg` (un lateral: modo de uso en EN/IT/FR/ES/DE, CE 0373, General Topics s.r.l.).
-  **Ninguna trae la lista**: estará en otra cara de la caja o en el prospecto. Pendiente: (1) foto de la cara con los
-  ingredientes; (2) decisión de Mariana sobre si un sanitario con el INCI completo en la caja entra por la foto. Hasta
-  entonces la aportación se queda pendiente (no rechazar).
+### 2026-11-22 · Synchroline Rosacure Intensive SPF 30 (`8023628900899`) — DESCARTADO (Mariana)
+Aportación de fotos sin la lista de ingredientes (frente y un lateral con el modo de uso; CE 0373, producto sanitario).
+La web de la marca no publica el INCI completo. Mariana, 2026-11-22: se quita, también de Buscados. No volver a buscarlo
+salvo que llegue una foto con la lista.
 
 ### 2026-11-19 · Detector 2026-11-19a de la app → Alternativas 2026-11-19a: entran 13, no sale ninguno
 Cambios del detector en la app (revisión del 2026-11-19): PFAS cosméticos en la ficha 189 (perfluorooctyl triethoxysilane,
