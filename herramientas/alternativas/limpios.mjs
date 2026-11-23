@@ -18,7 +18,8 @@ for (const m of cat.marcas) for (const p of m.productos) {
   if (!p.inci || !(p.barcodes || []).length) continue;
   // Lista de la etiqueta (Hogar, sin ficha 648/2004 completa): no sabemos lo que no nombra, nunca es "limpio".
   if (p.listaParcial) continue;
-  const c = guessCategoria("", undefined, p.nombre + " " + m.nombre);
+  // Categoría fijada por el catálogo (alimentos, 2026-11-23) manda sobre la deducida del nombre.
+  const c = p.categoria || guessCategoria("", undefined, p.nombre + " " + m.nombre);
   if (c !== "Cuidado personal" && c !== "Hogar") continue;
   if (dedupeIngredients(matchIngredients(p.inci, p.nombre), c).length || matchOtrosRiesgos(p.inci, c, p.nombre).length || matchOtros(p.inci, c, p.nombre).length) continue;
   out.push({ marcaKey: m.key, marca: m.nombre, nombre: p.nombre, categoria: c, barcodes: p.barcodes });

@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16-revival",
+ "version": "2026-11-23-carlota",
  "marcas": [
   {
    "key": "larocheposay",
@@ -186410,6 +186410,23 @@
       "5203069098789"
      ],
      "inci": "C13-15 Alkane, Cocoglycerides, Octyldodecanol, Isoamyl Laurate, Coco-Caprylate, Hydrogenated Ethylhexyl Olivate, Alcohol Denat., Crambe Abyssinica Seed Oil, Olea Europaea Fruit Oil, Vitis Vinifera Fruit Water, Ascorbyl Tetraisopalmitate, Ethyl Linoleate, Glycerin, Glycine Soja Oil, Helianthus Annuus Seed Oil, Hydrogenated Olive Oil Unsaponifiables, Lactic Acid, Lecithin, Resveratrol, Tocopherol, Tocopheryl Acetate, Potassium Sorbate, Sodium Benzoate, Parfum"
+    }
+   ]
+  },
+  {
+   "key": "carlota",
+   "nombre": "Carlota Natural",
+   "productos": [
+    {
+     "nombre": "Quinoa con verduras, manzana y curry (350 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "8437015941233"
+     ],
+     "inci": "Quinoa 47%, cebolla 10%, pimiento verde 10%, pimiento rojo 10%, zanahoria 9%, manzana 6% (corrector de la acidez: ácido ascórbico), aceite de oliva, leche de coco (extracto de coco, agua, emulsionante: polisorbato 60), almidón modificado de maíz, sal, pasta de ajo 0,8% (ajo, corrector de la acidez: ácido cítrico), pimienta, cúrcuma 0,3%, curry 0,1%, azúcar, corrector de la acidez: ácido cítrico",
+     "categoria": "Alimentación",
+     "procesado": 4
     }
    ]
   }
