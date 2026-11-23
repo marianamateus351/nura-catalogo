@@ -5632,6 +5632,15 @@ Geld S.A. de C.V.) es hoy un dominio aparcado (`/lander`, sin productos); de Uii
 propia, solo una ficha de Sanborns México sin lista. Las dos son marcas mexicanas que no se venden en España ni Portugal
 (ni en Amazon.es), así que tampoco servirían como alternativas para las usuarias. Si llegan más fotos, se cargan por la
 etiqueta como cualquier aportación.
+**Cargados en el catálogo (2026-11-23-jabones-mx)** para corregir la aprobación manual: Mariana aprobó el de Bam Boo! con un
+texto equivocado (el de otra aportación), y al importar desde Novedades la ficha del catálogo sustituye la aprobada a mano.
+- Bam Boo! Lifestyle (`bamboolifestyle`) "Jabón íntimo" `7506489900051`: lista literal de la trasera; aviso: fragancia no
+  divulgada (la etiqueta dice "fragancia").
+- Ylux (`ylux`) "Jabón vegetal hecho a mano de almendra (100 g)" `4973513134639` (el código del escaneo; prefijo de Japón en un
+  jabón mexicano): lista literal ("Ingredientes Naturales…"); sin avisos. "Sabor almendras" no se toma por fragancia no
+  divulgada: nombra su origen, como un aceite esencial (decidido con Mariana el mismo día). El texto de la aportación traía
+  "Parfum / Aroma", agua e hidróxido de sodio y explicaciones que la etiqueta no dice. Limpio, pero sin tipo en `tipos.py`:
+  no sale en Alternativas.
 
 ### 2026-11-23 · EcoTools "Esponja corporal de luffa" (`0079625071191`), aportación con fotos — catálogo 2026-11-23-ecotools
 Fotos de Storage (`0079625071191_1795440603785.jpg` y `..._trasera_1795440606904.jpg`): esponja corporal de luffa de EcoTools

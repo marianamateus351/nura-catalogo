@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23-ecotools",
+ "version": "2026-11-23-jabones-mx",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25877,6 +25877,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "0079625071191"
+   ]
+  },
+  {
+   "marcaKey": "ylux",
+   "marca": "Ylux",
+   "nombre": "Jabón vegetal hecho a mano de almendra (100 g)",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "4973513134639"
    ]
   }
  ]

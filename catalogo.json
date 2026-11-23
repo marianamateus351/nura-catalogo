@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23-ecotools",
+ "version": "2026-11-23-jabones-mx",
  "marcas": [
   {
    "key": "larocheposay",
@@ -186442,6 +186442,36 @@
       "0079625071191"
      ],
      "inci": "Luffa Cylindrica (planta de luffa natural)"
+    }
+   ]
+  },
+  {
+   "key": "bamboolifestyle",
+   "nombre": "Bam Boo! Lifestyle",
+   "productos": [
+    {
+     "nombre": "Jabón íntimo",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "7506489900051"
+     ],
+     "inci": "Aceites saponificados de oliva (Olea europaea), coco (Cocos nucifera), palma (Elaeis guineensis), ricino (Ricinus communis) y almendras dulces (Prunus dulcis), yogurt, infusión de avena, fragancia, arcilla blanca (caolín)"
+    }
+   ]
+  },
+  {
+   "key": "ylux",
+   "nombre": "Ylux",
+   "productos": [
+    {
+     "nombre": "Jabón vegetal hecho a mano de almendra (100 g)",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4973513134639"
+     ],
+     "inci": "Aceite de coco, aceite de girasol, aceite de oliva, manteca de karité, sabor almendras, aceite de almendras dulces, almendras"
     }
    ]
   }
