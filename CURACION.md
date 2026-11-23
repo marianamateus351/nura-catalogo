@@ -5624,6 +5624,13 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-23 · EcoTools "Loofah body sponge" (`0079625071191`), aportación con fotos — NO ENTRA (objeto, sin lista)
+Fotos de Storage (`0079625071191_1795440603785.jpg` y `..._trasera_1795440606904.jpg`): esponja corporal de luffa de EcoTools
+(ítem 7119, importador mexicano Biologic Group); el código de la foto casa (0 79625 07119 1). Es un **accesorio**, no un
+cosmético: no hay lista de ingredientes que analizar (solo "made from natural loofah plant"). Mismo criterio que las
+brochas, esponjas y maquinillas que ya se dejaron fuera. Se rechaza en Revisar. (La "Esponja de fibra vegetal" genérica ya
+está en `SAFE_SWAPS` como alternativa a la esponja de lavavajillas; no se añaden marcas ahí.)
+
 ### 2026-11-23 · Carlota Natural "Quinoa con verduras, manzana y curry" 350 g (`8437015941233`) — catálogo 2026-11-23-carlota
 Aportación con fotos (Storage `8437015941233_1795439900106.jpg` y `..._trasera_1795439902400.jpg`). **Primer alimento del
 catálogo**; no está en Open Food Facts. Lista de la trasera, literal (en la etiqueta "sal. pasta": es una coma). Marca nueva
