@@ -5639,6 +5639,12 @@ Hogar). Un alimento saldría analizado como cosmético y sin escala de procesado
 entrada del catálogo que llegue a las fichas y a la app (necesita build). Cuando esté: marca nueva `carlota` ("Carlota
 Natural"), "Quinoa con verduras, manzana y curry (350 g)", `categoria: "Alimentación"`, `procesado: 4`. No aprobar a mano
 en el panel mientras tanto (mismo problema).
+**Hecho en la app (rediseño, 2026-11-23)**: la entrada del catálogo admite `categoria` ("Alimentación", "Hogar" o
+"Cuidado personal") y `procesado` (1-4, opcional); `indice.mjs` los pasa a las fichas como `c` y `p`; la app
+(`fetchFichaCatalogo`) y la importación desde Novedades (`contributions` con `categoria`/`procesado`) los respetan, y la
+ficha usa esa categoría antes que el adivinador. Sin `procesado` la app lo calcula de la lista (`procesadoDesdeLista`).
+Necesita build para que la usuaria lo vea; el catálogo puede cargar el producto ya (regenerar `fichas/` con
+`indice.mjs`).
 
 ### 2026-11-22 · Synchroline Rosacure Intensive SPF 30 (`8023628900899`) — DESCARTADO (Mariana)
 Aportación de fotos sin la lista de ingredientes (frente y un lateral con el modo de uso; CE 0373, producto sanitario).

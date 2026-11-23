@@ -34,7 +34,9 @@ for (const m of cat.marcas) for (const p of m.productos || []) {
   for (const c of codes) {
     const d = c.replace(/\D/g, ""); if (!d) continue;
     const shard = d.slice(-3).padStart(3, "0");
-    (fichas[shard] ||= {})[d] = { n: p.nombre, m: m.nombre, k: m.key, inci: p.inci, ...(p.listaParcial ? { lp: 1 } : {}), ...(p.foto ? { i: p.foto } : {}) };
+    // c = categoría fijada en el catálogo ("Alimentación"…), p = grupo de procesado 1-4 (2026-11-23):
+    // sin categoría, la app deja lo del catálogo en "Cuidado personal" (su adivinador solo mira el nombre para Hogar).
+    (fichas[shard] ||= {})[d] = { n: p.nombre, m: m.nombre, k: m.key, inci: p.inci, ...(p.listaParcial ? { lp: 1 } : {}), ...(p.foto ? { i: p.foto } : {}), ...(p.categoria ? { c: p.categoria } : {}), ...(p.procesado ? { p: p.procesado } : {}) };
   }
   const h = huella(p);
   for (const c of codes) if (!(c in actual)) actual[c] = h;
