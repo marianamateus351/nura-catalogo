@@ -5624,6 +5624,22 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-23 · Carlota Natural "Quinoa con verduras, manzana y curry" 350 g (`8437015941233`) — PENDIENTE de la app (alimento)
+Aportación con fotos (Storage `8437015941233_1795439900106.jpg` y `..._trasera_1795439902400.jpg`). Es **alimentación**; no está
+en Open Food Facts. Lista leída de la trasera (legible entera; el código termina en …941233 en la foto):
+`Quinoa 47%, cebolla 10%, pimiento verde 10%, pimiento rojo 10%, zanahoria 9%, manzana 6% (corrector de la acidez: ácido
+ascórbico), aceite de oliva, leche de coco (extracto de coco, agua, emulsionante: polisorbato 60), almidón modificado de maíz,
+sal, pasta de ajo 0,8% (ajo, corrector de la acidez: ácido cítrico), pimienta, cúrcuma 0,3%, curry 0,1%, azúcar, corrector de
+la acidez: ácido cítrico` (en la etiqueta "sal. pasta": es una coma).
+Detector 2026-11-19a como Alimentación: sin disruptores ni otros riesgos; "a tener en cuenta": emulsionantes (polisorbato 60).
+**Procesado 4** (emulsionante y almidón modificado; `procesadoDesdeLista` de la app da también 4).
+**No se carga todavía:** la app clasifica lo que viene del catálogo (`fetchFichaCatalogo`, fichas sin categoría) y las
+aportaciones aprobadas con `categorias: ""`, y `guessCategoria` lo deja en "Cuidado personal" (el nombre solo cuenta para
+Hogar). Un alimento saldría analizado como cosmético y sin escala de procesado. Pedido a rediseño: campo `categoria` en la
+entrada del catálogo que llegue a las fichas y a la app (necesita build). Cuando esté: marca nueva `carlota` ("Carlota
+Natural"), "Quinoa con verduras, manzana y curry (350 g)", `categoria: "Alimentación"`, `procesado: 4`. No aprobar a mano
+en el panel mientras tanto (mismo problema).
+
 ### 2026-11-22 · Synchroline Rosacure Intensive SPF 30 (`8023628900899`) — DESCARTADO (Mariana)
 Aportación de fotos sin la lista de ingredientes (frente y un lateral con el modo de uso; CE 0373, producto sanitario).
 La web de la marca no publica el INCI completo. Mariana, 2026-11-22: se quita, también de Buscados. No volver a buscarlo
