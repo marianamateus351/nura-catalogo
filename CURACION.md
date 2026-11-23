@@ -5624,6 +5624,15 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-23 · Bam Boo! Lifestyle y Ylux/Uiixol (México): ¿más productos? — no, sin fuente
+Dos aportaciones aprobadas a mano por Mariana con la lista literal de la foto (Bam Boo! Jabón íntimo `7506489900051`, con
+"fragancia"; Ylux Jabón vegetal hecho a mano `4973513134639`, con "sabor almendras"). Mariana pidió ver si se podían cargar
+más productos de las dos marcas para Alternativas. **No:** `bamboolifestyle.com.mx` (la web impresa en la caja, de Onnea
+Geld S.A. de C.V.) es hoy un dominio aparcado (`/lander`, sin productos); de Uiixol Productos con Conciencia (Ylux) no hay web
+propia, solo una ficha de Sanborns México sin lista. Las dos son marcas mexicanas que no se venden en España ni Portugal
+(ni en Amazon.es), así que tampoco servirían como alternativas para las usuarias. Si llegan más fotos, se cargan por la
+etiqueta como cualquier aportación.
+
 ### 2026-11-23 · EcoTools "Esponja corporal de luffa" (`0079625071191`), aportación con fotos — catálogo 2026-11-23-ecotools
 Fotos de Storage (`0079625071191_1795440603785.jpg` y `..._trasera_1795440606904.jpg`): esponja corporal de luffa de EcoTools
 (ítem 7119, importador mexicano Biologic Group); el código de la foto casa (0 79625 07119 1). Primero se dejó fuera como
