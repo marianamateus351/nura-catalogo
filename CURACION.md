@@ -5632,10 +5632,10 @@ emulsionantes (polisorbato 60). **`procesado: 4`** (emulsionante y almidón modi
 **Campo nuevo `categoria`** en la entrada del catálogo (Mariana, 2026-11-23: "categorízalo tú en Alimentación"). Sin él la app
 deducía la categoría del nombre y lo que no es Hogar caía en "Cuidado personal": un alimento salía analizado como cosmético y
 sin escala de procesado. Ahora:
-- `herramientas/indice.mjs` lo pasa a `fichas/NNN.json` como `cat`.
-- App (rama `claude/redesign-v2-wqk1cj`, **necesita build**): `fetchFichaCatalogo` lo devuelve en `categorias`; la importación
-  desde Novedades lo escribe en la aportación (`categoria`), y el escaneo de una aportación aprobada lo lee. `guessCategoria`
-  ya reconoce "alimentación".
+- Lo hizo rediseño en paralelo (2026-11-23): la entrada admite `categoria` ("Alimentación", "Hogar" o "Cuidado personal") y
+  `procesado` (1-4, opcional); `herramientas/indice.mjs` los pasa a las fichas como `c` y `p`; la app (`fetchFichaCatalogo`
+  y la importación desde Novedades, `contributions` con `categoria`/`procesado`) los respeta antes que el adivinador.
+  **Necesita build** para que la usuaria lo vea. Sin `procesado` la app lo calcula de la lista (`procesadoDesdeLista`).
 - `limpios.mjs` usa `p.categoria` antes que el nombre (si no, la quinoa entraba en Alternativas como cosmético limpio).
 - **Todo alimento que entre al catálogo lleva `categoria: "Alimentación"` y `procesado`.**
 De paso, el respaldo de la app (`catalogoInci.js`) se puso al día con lo que faltaba desde el 2026-11-15: Revival de Deliplus,
