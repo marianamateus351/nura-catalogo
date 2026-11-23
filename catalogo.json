@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23-carlota",
+ "version": "2026-11-23-ecotools",
  "marcas": [
   {
    "key": "larocheposay",
@@ -186427,6 +186427,21 @@
      "inci": "Quinoa 47%, cebolla 10%, pimiento verde 10%, pimiento rojo 10%, zanahoria 9%, manzana 6% (corrector de la acidez: ácido ascórbico), aceite de oliva, leche de coco (extracto de coco, agua, emulsionante: polisorbato 60), almidón modificado de maíz, sal, pasta de ajo 0,8% (ajo, corrector de la acidez: ácido cítrico), pimienta, cúrcuma 0,3%, curry 0,1%, azúcar, corrector de la acidez: ácido cítrico",
      "categoria": "Alimentación",
      "procesado": 4
+    }
+   ]
+  },
+  {
+   "key": "ecotools",
+   "nombre": "EcoTools",
+   "productos": [
+    {
+     "nombre": "Esponja corporal de luffa",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "0079625071191"
+     ],
+     "inci": "Luffa Cylindrica (planta de luffa natural)"
     }
    ]
   }

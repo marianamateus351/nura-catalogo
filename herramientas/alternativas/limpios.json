@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23-carlota",
+ "version": "2026-11-23-ecotools",
  "productos": [
   {
    "marcaKey": "larocheposay",
@@ -25868,6 +25868,15 @@
    "categoria": "Cuidado personal",
    "barcodes": [
     "3760172445463"
+   ]
+  },
+  {
+   "marcaKey": "ecotools",
+   "marca": "EcoTools",
+   "nombre": "Esponja corporal de luffa",
+   "categoria": "Cuidado personal",
+   "barcodes": [
+    "0079625071191"
    ]
   }
  ]
