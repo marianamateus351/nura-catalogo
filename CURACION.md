@@ -5624,6 +5624,17 @@ ni Bodyplus (marcas blancas: solo revendedores, no cumplen el punto 5). Las 52 l
 - **Quedan**: maquillaje 74 en `amazon_pendientes.json` (Lavera 48, Deliplus 26) + 2 de marca blanca sin buscar; 591 dudosos y
   1.088 sin ficha. Hogar, 22 con enlace de 137.
 
+### 2026-11-28 · Cien (Lidl): dos cremas de día, aportaciones con fotos — catálogo 2026-11-28-cien
+Fotos de Storage (`4056489576334_…` y `4335619259973_…`, frente y trasera), listas leídas con zoom, enteras y legibles.
+- **Cien Gold Crema hidratante de día 24K 50 ml** (`4056489576334`; el código, del escaneo: no sale en la foto). Avisos:
+  fragancia no divulgada y **galaxólido (HHCB)** ("Hexamethylindanopyran", su nombre INCI). Lleva también OTNE ("Tetramethyl
+  Acetyloctahydronaphthalenes", almizcle amaderado sintético), que no tiene ficha en el detector; la fragancia ya sale.
+- **Cien HydraIntense Gel de día ácido hialurónico 50 ml** (`4335619259973`, el mismo código impreso en la foto). Fabricante
+  WIN COSMETIC GmbH & Co. KG. Avisos: fragancia no divulgada y eugenol (más alérgenos de perfume: limoneno, alfa-isometil
+  ionona). "Simmondsia Chinensis Seed Oil" tal cual en la etiqueta.
+Revisión de falsos positivos y negativos con el detector 2026-11-19a: ninguno. Ninguna va a Alternativas (llevan perfume).
+Regresión: ninguna ficha anterior cambia (limpios.json igual).
+
 ### 2026-11-23 · Bam Boo! Lifestyle y Ylux/Uiixol (México): ¿más productos? — no, sin fuente
 Dos aportaciones aprobadas a mano por Mariana con la lista literal de la foto (Bam Boo! Jabón íntimo `7506489900051`, con
 "fragancia"; Ylux Jabón vegetal hecho a mano `4973513134639`, con "sabor almendras"). Mariana pidió ver si se podían cargar

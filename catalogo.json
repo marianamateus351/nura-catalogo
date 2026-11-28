@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23-jabones-mx",
+ "version": "2026-11-28-cien",
  "marcas": [
   {
    "key": "larocheposay",
@@ -14441,6 +14441,24 @@
       "4335619113749"
      ],
      "inci": "Aqua, Glycerin, Ascorbyl Glucoside, Phenoxyethanol, Acacia Senegal Gum, Xanthan Gum, Sodium Hydroxide, Hydroxyacetophenone, Sodium Hyaluronate, Sodium PCA, Sodium Lactate, Aloe Barbadensis Leaf Juice Powder, Alcohol, Caramel, Malpighia Emarginata Fruit Extract, Citrus Aurantium Dulcis Peel Extract, Maltodextrin, CI 77491"
+    },
+    {
+     "nombre": "Cien Gold Crema hidratante de día 24K 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4056489576334"
+     ],
+     "inci": "Aqua (Water), Propanediol, Hydroxypropyl Starch Phosphate, C15-19 Alkane, Isohexadecane, Glyceryl Behenate, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Glyceryl Stearate, C10-18 Triglycerides, Butyrospermum Parkii Butter, Vitis Vinifera Seed Oil, Cetearyl Alcohol, Sodium Stearoyl Lactylate, Benzyl Alcohol, Ethylhexylglycerin, Xanthan Gum, Sodium Hyaluronate, Mica, Tetrasodium Glutamate Diacetate, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides), Tocopheryl Acetate, Citric Acid, Hexamethylindanopyran, Eugenyl Acetate, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Gold, Glutathione, Ubiquinone, Tetramethyl Acetyloctahydronaphthalenes, Parfum (Fragrance)"
+    },
+    {
+     "nombre": "Cien HydraIntense Gel de día ácido hialurónico 50 ml",
+     "include": [],
+     "exclude": [],
+     "barcodes": [
+      "4335619259973"
+     ],
+     "inci": "Aqua, Glycerin, Polyglyceryl-2 Stearate, Coco-Caprylate/Caprate, Glyceryl Stearate, Stearyl Alcohol, Undecane, Helianthus Annuus Seed Oil, Hydrogenated Rapeseed Oil, Squalane, Panthenol, Parfum, Tocopheryl Acetate, Sodium Benzoate, Tridecane, Pentylene Glycol, Xanthan Gum, Citric Acid, Fructose, Sodium PCA, Sodium Lactate, Urea, Potassium Sorbate, Sodium Hyaluronate, Sodium Hydroxide, Tetramethyl Acetyloctahydronaphthalenes, Maltose, Trehalose, Sodium Chloride, Hydrolyzed Hyaluronic Acid, Allantoin, Simmondsia Chinensis Seed Oil, Pinene, Alpha-Isomethyl Ionone, Eugenol, Citrus Aurantium Peel Oil, Limonene, Glucose, Daucus Carota Sativa Root Extract, Tocopherol, CI 42090, Rosmarinus Officinalis Leaf Extract"
     }
    ]
   },
