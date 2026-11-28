@@ -5634,6 +5634,8 @@ Fotos de Storage (`4056489576334_…` y `4335619259973_…`, frente y trasera), 
   ionona). "Simmondsia Chinensis Seed Oil" tal cual en la etiqueta.
 Revisión de falsos positivos y negativos con el detector 2026-11-19a: ninguno. Ninguna va a Alternativas (llevan perfume).
 Regresión: ninguna ficha anterior cambia (limpios.json igual).
+- **Añadido el mismo día (2026-11-28-cien-serum): Cien Gold Sérum facial 24K 30 ml** (`4056489576358`; el código, del escaneo).
+  Avisos: fragancia no divulgada y galaxólido (HHCB); lleva también OTNE. Sin falsos positivos ni negativos. Fuera de Alternativas.
 
 ### 2026-11-23 · Bam Boo! Lifestyle y Ylux/Uiixol (México): ¿más productos? — no, sin fuente
 Dos aportaciones aprobadas a mano por Mariana con la lista literal de la foto (Bam Boo! Jabón íntimo `7506489900051`, con
